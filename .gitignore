@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Virtual env
+.venv/
+
+# Private: the database URL and API keys
+.env
+.claude/
+
+# Data — fetched and built, never committed
+data/raw/
+data/derived/
+data/images/
+data/scans/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs — build runs and tools
+*.log

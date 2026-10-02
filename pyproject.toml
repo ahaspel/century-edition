@@ -1,0 +1,34 @@
+[project]
+name = "century-edition"
+license = "MIT"
+license-files = ["LICENSE"]
+version = "0.1.0"
+description = "The Century Dictionary and Cyclopedia (1897) as a faithful digital edition, transcribed from its scans — a book wikikit builds"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  # The engine.  A local editable checkout until wikikit is published — see
+  # [tool.uv.sources].
+  "wikikit",
+]
+
+[tool.uv.sources]
+wikikit = { path = "../wikikit", editable = true }
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.2",
+]
