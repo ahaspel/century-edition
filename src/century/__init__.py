@@ -49,4 +49,7 @@ CENTURY = Corpus(
     raw_dir="century",
     derived_dir="data/derived",
     images_dir="data/images",
+    # What the transcriber is told about this book: its key to pronunciation
+    # (vol. 1 p. xviii), and its pages in its own words.
+    data_files=frozenset({"scan_notation.json", "templates/scan_page.md"}),
 )

@@ -1,0 +1,253 @@
+{
+ "source": "The Century Dictionary and Cyclopedia (1897), vol. 1, p. xviii (Internet Archive centurydictionary01whit, leaf n25): KEY TO PRONUNCIATION, SIGNS",
+ "note": "Each symbol is the Unicode a transcription must use for the printed mark, NFC-normalized; combining marks are written as escapes so no two look-alike characters can be confused. 'uncertain' marks a reading a proofreader should confirm against the page.",
+ "groups": [
+  {
+   "label": "Vowels",
+   "symbols": [
+    {
+     "symbol": "a",
+     "as_in": "fat, man, pang"
+    },
+    {
+     "symbol": "\u0101",
+     "as_in": "fate, mane, dale"
+    },
+    {
+     "symbol": "\u00e4",
+     "as_in": "far, father, guard"
+    },
+    {
+     "symbol": "\u00e2",
+     "as_in": "fall, talk, naught"
+    },
+    {
+     "symbol": "\u0227",
+     "as_in": "ask, fast, ant",
+     "mark": "dot above"
+    },
+    {
+     "symbol": "\u00e3",
+     "as_in": "fare, hair, bear"
+    },
+    {
+     "symbol": "e",
+     "as_in": "met, pen, bless"
+    },
+    {
+     "symbol": "\u0113",
+     "as_in": "mete, meet, meat"
+    },
+    {
+     "symbol": "\u0117",
+     "as_in": "her, fern, heard",
+     "mark": "dot above"
+    },
+    {
+     "symbol": "i",
+     "as_in": "pin, it, biscuit"
+    },
+    {
+     "symbol": "\u012b",
+     "as_in": "pine, fight, file"
+    },
+    {
+     "symbol": "o",
+     "as_in": "not, on, frog"
+    },
+    {
+     "symbol": "\u014d",
+     "as_in": "note, poke, floor"
+    },
+    {
+     "symbol": "\u00f6",
+     "as_in": "move, spoon, room"
+    },
+    {
+     "symbol": "\u00f4",
+     "as_in": "nor, song, off"
+    },
+    {
+     "symbol": "u",
+     "as_in": "tub, son, blood"
+    },
+    {
+     "symbol": "\u016b",
+     "as_in": "mute, acute, few (also new, tube, duty)"
+    },
+    {
+     "symbol": "u\u0307",
+     "as_in": "pull, book, could",
+     "mark": "dot above"
+    },
+    {
+     "symbol": "\u00fc",
+     "as_in": "German \u00fc, French u"
+    },
+    {
+     "symbol": "oi",
+     "as_in": "oil, joint, boy"
+    },
+    {
+     "symbol": "ou",
+     "as_in": "pound, proud, now"
+    }
+   ]
+  },
+  {
+   "label": "Single dot under",
+   "meaning": "a vowel in an unaccented syllable, abbreviated and lightened without absolute loss of its distinctive quality",
+   "symbols": [
+    {
+     "symbol": "\u0101\u0323",
+     "as_in": "prelate, courage, captain"
+    },
+    {
+     "symbol": "\u0113\u0323",
+     "as_in": "ablegate, episcopal"
+    },
+    {
+     "symbol": "\u014d\u0323",
+     "as_in": "abrogate, eulogy, democrat"
+    },
+    {
+     "symbol": "\u016b\u0323",
+     "as_in": "singular, education"
+    }
+   ]
+  },
+  {
+   "label": "Double dot under",
+   "meaning": "a vowel in an unaccented syllable whose sound is variable to, and in ordinary utterance becomes, the short u-sound (of but, pun)",
+   "symbols": [
+    {
+     "symbol": "a\u0324",
+     "as_in": "errant, republican"
+    },
+    {
+     "symbol": "e\u0324",
+     "as_in": "prudent, difference"
+    },
+    {
+     "symbol": "i\u0324",
+     "as_in": "charity, density"
+    },
+    {
+     "symbol": "o\u0324",
+     "as_in": "valor, actor, idiot"
+    },
+    {
+     "symbol": "\u00e4\u0324",
+     "as_in": "Persia, peninsula"
+    },
+    {
+     "symbol": "\u0113\u0324",
+     "as_in": "the book"
+    },
+    {
+     "symbol": "\u016b\u0324",
+     "as_in": "nature, feature"
+    }
+   ]
+  },
+  {
+   "label": "Breve under",
+   "meaning": "the consonants t, d, s, z variable to ch, j, sh, zh",
+   "symbols": [
+    {
+     "symbol": "t\u032e",
+     "as_in": "nature, adventure"
+    },
+    {
+     "symbol": "d\u032e",
+     "as_in": "arduous, education"
+    },
+    {
+     "symbol": "s\u032e",
+     "as_in": "pressure"
+    },
+    {
+     "symbol": "z\u032e",
+     "as_in": "seizure"
+    }
+   ]
+  },
+  {
+   "label": "Consonants",
+   "symbols": [
+    {
+     "symbol": "th",
+     "as_in": "thin"
+    },
+    {
+     "symbol": "\u1d1b\u0335\u029c",
+     "as_in": "then",
+     "mark": "small capitals TH, the T barred",
+     "uncertain": true
+    },
+    {
+     "symbol": "\u010bh",
+     "as_in": "German ach, Scotch loch",
+     "mark": "c with dot above"
+    },
+    {
+     "symbol": "\u1e45",
+     "as_in": "French nasalizing n, as in ton, en",
+     "mark": "dot above",
+     "uncertain": true
+    },
+    {
+     "symbol": "ly",
+     "as_in": "(in French words) French liquid (mouill\u00e9) l"
+    }
+   ]
+  },
+  {
+   "label": "Accents",
+   "symbols": [
+    {
+     "symbol": "\u2032",
+     "meaning": "primary accent"
+    },
+    {
+     "symbol": "\u2033",
+     "meaning": "secondary accent (not marked at its regular interval of two syllables from the primary or another secondary)"
+    }
+   ]
+  },
+  {
+   "label": "Signs",
+   "symbols": [
+    {
+     "symbol": "<",
+     "meaning": "from; derived from"
+    },
+    {
+     "symbol": ">",
+     "meaning": "whence; from which is derived"
+    },
+    {
+     "symbol": "+",
+     "meaning": "and; compounded with, or with suffix"
+    },
+    {
+     "symbol": "=",
+     "meaning": "cognate with; etymologically parallel with"
+    },
+    {
+     "symbol": "\u221a",
+     "meaning": "root"
+    },
+    {
+     "symbol": "*",
+     "meaning": "theoretical or alleged; theoretically assumed, or asserted but unverified, form"
+    },
+    {
+     "symbol": "\u2020",
+     "meaning": "obsolete"
+    }
+   ]
+  }
+ ],
+ "superior_figures": "A superior figure after a title-word marks a word distinct etymologically from others spelled the same: back<sup>1</sup>, back<sup>2</sup>\u2020, back<sup>3</sup>."
+}
