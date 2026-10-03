@@ -58,6 +58,9 @@ CENTURY = Corpus(
     raw_dir="century",
     derived_dir="data/derived",
     images_dir="data/images",
+    # The site: under a path of the author's own host (user, 2026-10-03), so
+    # every address the engine writes starts with /century (`Corpus.root`).
+    site="https://reference.aaronhaspel.com/century",
     # What the transcriber is told about this book: its key to pronunciation
     # (vol. 1 p. xviii), and its pages in its own words.
     data_files=frozenset({"scan_notation.json", "templates/scan_page.md"}),
