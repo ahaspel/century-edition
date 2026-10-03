@@ -3,11 +3,11 @@ import json
 
 from century import CENTURY
 from wikikit.scan.cut import Item
-from wikikit.scan.transcribe import prompt_for
+from wikikit.scan.transcribe import instructions
 
 
 def test_the_prompt_carries_the_books_page_description_and_every_key_symbol():
-    p = prompt_for(Item("text", (0, 0, 10, 10), 1, "c1s1"))
+    p = instructions()
     assert "Century Dictionary and Cyclopedia" in p
     key = json.loads(CENTURY.data("scan_notation.json").read_text(encoding="utf-8"))
     for g in key["groups"]:
