@@ -9,7 +9,7 @@ requires-python = ">=3.12"
 dependencies = [
   # The engine.  A local editable checkout until wikikit is published — see
   # [tool.uv.sources].
-  "wikikit",
+  "wikikit[scan]",
 ]
 
 [tool.uv.sources]
