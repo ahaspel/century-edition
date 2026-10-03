@@ -41,6 +41,15 @@ def _ia_item(volume: int) -> str:
     return IA_ITEMS[volume]
 
 
+def scan_url(volume: int, page: int) -> str:
+    """The full-resolution image of one page.  Pages are numbered from 1, as
+    Wikisource numbers a DjVu's pages; the Internet Archive numbers its leaves
+    from 0 — page N is leaf n(N-1)."""
+    if not 1 <= page <= _PAGES[volume]:
+        raise ValueError(f"volume {volume} has pages 1-{_PAGES[volume]}, not {page}")
+    return f"https://archive.org/download/{_ia_item(volume)}/page/n{page - 1}.jpg"
+
+
 CENTURY = Corpus(
     key="century",
     title="The Century Dictionary and Cyclopedia",

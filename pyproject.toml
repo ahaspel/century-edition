@@ -10,6 +10,8 @@ dependencies = [
   # The engine.  A local editable checkout until wikikit is published — see
   # [tool.uv.sources].
   "wikikit[scan]",
+  # Fetching the scans from the Internet Archive.
+  "requests>=2.31",
 ]
 
 [tool.uv.sources]
