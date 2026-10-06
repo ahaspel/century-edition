@@ -16,6 +16,7 @@ import sys
 from pathlib import Path
 
 from century.scans import scan
+from century.flags import page_flags
 from wikikit.scan import desk
 
 sys.stdout.reconfigure(encoding="utf-8")
@@ -24,7 +25,7 @@ OUT = Path("data/derived/desk")
 
 def bundle(volume: int, pages: list[int]) -> None:
     keys = [(volume, p) for p in pages]
-    path = desk.bundle(keys, {k: scan(*k) for k in keys}, OUT)
+    path = desk.bundle(keys, {k: scan(*k) for k in keys}, OUT, flags=page_flags)
     shutil.copyfile(desk.DESK_RENDER_JS, OUT / "desk_render.js")
     seed = OUT / "seed"
     shutil.rmtree(seed, ignore_errors=True)

@@ -13,5 +13,9 @@ accent marks ′ and ″ as printed. Greek is printed in Greek type: write it in
 Greek characters with its accents and breathings, never in italic. The signs
 < > + = √ * † ‖ are printed as they are and transcribed as they are.
 
+A dagger (†) right after a title-word marks it obsolete: '''aban†''',
+'''abbas†'''. In this type it looks much like a final t — a title-word that
+seems to end in a small raised t is ending in †. Write the dagger, never t.
+
 Quotations follow a sense in smaller type, each on its own lines, with its
 source set flush right beneath it.
