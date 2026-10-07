@@ -50,6 +50,13 @@ def scan_url(volume: int, page: int) -> str:
     return f"https://archive.org/download/{_ia_item(volume)}/page/n{page - 1}.jpg"
 
 
+def _page_scan(volume: int, page: int):
+    """`century.scans.scan`, imported when a transcription asks for a page
+    (that module imports this one)."""
+    from century.scans import scan
+    return scan(volume, page)
+
+
 CENTURY = Corpus(
     key="century",
     title="The Century Dictionary and Cyclopedia",
@@ -64,4 +71,7 @@ CENTURY = Corpus(
     # What the transcriber is told about this book: its key to pronunciation
     # (vol. 1 p. xviii), and its pages in its own words.
     data_files=frozenset({"scan_notation.json", "templates/scan_page.md"}),
+    # Every page is transcribed from its Archive scan.
+    page_scan=_page_scan,
+    page_scan_url=scan_url,
 )
