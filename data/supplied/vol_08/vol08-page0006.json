@@ -1,0 +1,58 @@
+{
+ "volume": 8,
+ "page_number": 6,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n5.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n5.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-08",
+  "angle": 0.05,
+  "column_width": 1585,
+  "items": [
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     721,
+     6,
+     2306,
+     887
+    ]
+   }
+  ],
+  "readings": {
+   "c1s1": ""
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 2727,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 1849,
+    "output_tokens": 16,
+    "cache_creation_input_tokens": 2714,
+    "cache_read_input_tokens": 0
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" /></noinclude><noinclude><references/></noinclude>"
+}

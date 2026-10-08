@@ -1,0 +1,131 @@
+{
+ "volume": 8,
+ "page_number": 10,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n9.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n9.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-08",
+  "angle": 0.0,
+  "column_width": 1481,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     361,
+     338,
+     2366,
+     1387
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     361,
+     1387,
+     2366,
+     1648
+    ]
+   },
+   {
+    "name": "c0s1",
+    "kind": "text",
+    "column": 0,
+    "box": [
+     361,
+     1648,
+     2366,
+     1913
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     361,
+     1913,
+     2366,
+     2527
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     361,
+     2527,
+     2366,
+     3156
+    ]
+   }
+  ],
+  "readings": {
+   "head": "Copyright, 1889, 1895, by {{sc|The Century Co.}}",
+   "c1s1": "''All Rights Reserved.''",
+   "c0s1": "¶\nBy permission of Messrs. Blackie & Son, publishers of The Imperial Dictionary by Dr. Ogilvie and Dr. Annandale, material from that English copyright work has been freely used in the preparation of {{sc|The Century Dictionary}}, and certain owners of American copyrights having claimed that undue use of matter so protected has been made in the compilation of The Imperial Dictionary, notice is hereby given that arrangement has also been made with the proprietors of such copyright matter for its use in the preparation of {{sc|The Century Dictionary}}.",
+   "c1s2": "",
+   "c1s3": "THE DE VINNE PRESS."
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [
+   [
+    708,
+    1322,
+    1532,
+    1375
+   ],
+   [
+    938,
+    1402,
+    1287,
+    1453
+   ],
+   [
+    356,
+    1645,
+    1891,
+    1915
+   ],
+   [
+    1017,
+    3136,
+    1245,
+    3162
+   ]
+  ],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 2727,
+    "output_tokens": 88,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 5,
+    "input_tokens": 7546,
+    "output_tokens": 550,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 13570
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" /></noinclude>Copyright, 1889, 1895, by {{sc|The Century Co.}} ''All Rights Reserved.''\n\nBy permission of Messrs. Blackie & Son, publishers of The Imperial Dictionary by Dr. Ogilvie and Dr. Annandale, material from that English copyright work has been freely used in the preparation of {{sc|The Century Dictionary}}, and certain owners of American copyrights having claimed that undue use of matter so protected has been made in the compilation of The Imperial Dictionary, notice is hereby given that arrangement has also been made with the proprietors of such copyright matter for its use in the preparation of {{sc|The Century Dictionary}}.\n\nTHE DE VINNE PRESS.<noinclude><references/></noinclude>"
+}
