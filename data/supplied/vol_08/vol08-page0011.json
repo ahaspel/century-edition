@@ -1,0 +1,221 @@
+{
+ "volume": 8,
+ "page_number": 11,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n10.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n10.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-08",
+  "angle": 0.0,
+  "column_width": 690,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     0,
+     2333,
+     143
+    ]
+   },
+   {
+    "name": "c0s1",
+    "kind": "text",
+    "column": 0,
+    "box": [
+     0,
+     143,
+     2333,
+     236
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     236,
+     647,
+     1327
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1327,
+     647,
+     2400
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2400,
+     647,
+     3137
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     884,
+     236,
+     1210,
+     1331
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     884,
+     1331,
+     1210,
+     2397
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     884,
+     2397,
+     1210,
+     3137
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1421,
+     236,
+     1778,
+     1299
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1421,
+     1299,
+     1778,
+     2399
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1421,
+     2399,
+     1778,
+     3137
+    ]
+   },
+   {
+    "name": "c4s1",
+    "kind": "text",
+    "column": 4,
+    "box": [
+     1778,
+     236,
+     2333,
+     1336
+    ]
+   },
+   {
+    "name": "c4s2",
+    "kind": "text",
+    "column": 4,
+    "box": [
+     1778,
+     1336,
+     2333,
+     2436
+    ]
+   },
+   {
+    "name": "c4s3",
+    "kind": "text",
+    "column": 4,
+    "box": [
+     1778,
+     2436,
+     2333,
+     3137
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{c|ABBREVIATIONS}}",
+   "c0s1": "USED IN THE ETYMOLOGIES AND DEFINITIONS.",
+   "c1s1": "{| style=\"margin:auto\"\n|'''a., adj.'''||adjective.\n|-\n|'''abbr.'''||abbreviation.\n|-\n|'''abl.'''||ablative.\n|-\n|'''acc.'''||accusative.\n|-\n|'''accom.'''||accommodated, accommodation.\n|-\n|'''act.'''||active.\n|-\n|'''adv.'''||adverb.\n|-\n|'''AF.'''||Anglo-French.\n|-\n|'''agri.'''||agriculture.\n|-\n|'''AL.'''||Anglo-Latin.\n|-\n|'''alg.'''||algebra.\n|-\n|'''Amer.'''||American.\n|-\n|'''anat.'''||anatomy.\n|-\n|'''anc.'''||ancient.\n|-\n|'''antiq.'''||antiquity.\n|-\n|'''aor.'''||aorist.\n|-\n|'''appar.'''||apparently.\n|-\n|'''Ar.'''||Arabic.\n|-\n|'''arch.'''||architecture.\n|-\n|'''archæol.'''||archæology.\n|-\n|'''arith.'''||arithmetic.\n|-\n|'''art.'''||article.\n|-\n|'''AS.'''||Anglo-Saxon.\n|-\n|'''astrol.'''||astrology.\n|-\n|'''astron.'''||astronomy.\n|-\n|'''attrib.'''||attributive.\n|-\n|'''aug.'''||augmentative.\n|-\n|'''Bav.'''||Bavarian.\n|-\n|'''Beng.'''||Bengali.\n|-\n|'''biol.'''||biology.\n|}",
+   "c1s2": "{| style=\"margin:auto\"\n|'''Bohem.'''||Bohemian.\n|-\n|'''bot.'''||botany.\n|-\n|'''Braz.'''||Brazilian.\n|-\n|'''Bret.'''||Breton.\n|-\n|'''bryol.'''||bryology.\n|-\n|'''Bulg.'''||Bulgarian.\n|-\n|'''carp.'''||carpentry.\n|-\n|'''Cat.'''||Catalan.\n|-\n|'''Cath.'''||Catholic.\n|-\n|'''caus.'''||causative.\n|-\n|'''ceram.'''||ceramics.\n|-\n|'''cf.'''||L. ''confer'', compare.\n|-\n|'''ch.'''||church.\n|-\n|'''Chal.'''||Chaldee.\n|-\n|'''chem.'''||chemical, chemistry.\n|-\n|'''Chin.'''||Chinese.\n|-\n|'''chron.'''||chronology.\n|-\n|'''colloq.'''||colloquial, colloquially.\n|-\n|'''com.'''||commerce, commercial.\n|-\n|'''comp.'''||composition, compound.\n|-\n|'''compar.'''||comparative.\n|-\n|'''conch.'''||conchology.\n|-\n|'''conj.'''||conjunction.\n|-\n|'''contr.'''||contracted, contraction.\n|-\n|'''Corn.'''||Cornish.\n|-\n|'''craniol.'''||craniology.\n|-\n|'''craniom.'''||craniometry.\n|-\n|'''crystal.'''||crystallography.\n|-\n|'''D.'''||Dutch.\n|}",
+   "c1s3": "{| style=\"margin:auto\"\n|'''Dan.'''||Danish.\n|-\n|'''dat.'''||dative.\n|-\n|'''def.'''||definite, definition.\n|-\n|'''deriv.'''||derivative, derivation.\n|-\n|'''dial'''||dialect, dialectal.\n|-\n|'''diff.'''||different.\n|-\n|'''dim.'''||diminutive.\n|-\n|'''distrib.'''||distributive.\n|-\n|'''dram.'''||dramatic.\n|-\n|'''dynam.'''||dynamics.\n|-\n|'''E.'''||East.\n|-\n|'''E.'''||English (''usually meaning'' modern English).\n|-\n|'''eccl., eccles.'''||ecclesiastical.\n|-\n|'''econ.'''||economy.\n|-\n|'''e. g.'''||L. ''exempli gratia'', for example.\n|-\n|'''Egypt.'''||Egyptian.\n|-\n|'''E. Ind.'''||East Indian.\n|-\n|'''elect.'''||electricity.\n|-\n|'''embryol.'''||embryology.\n|-\n|'''Eng.'''||English.\n|}",
+   "c2s1": "¶\n....engineering.\n\n....entomology.\n\n....Episcopal.\n\n....equivalent.\n\n....especially.\n\n....Ethiopic.\n\n....ethnography.\n\n....ethnology.\n\n....etymology.\n\n....European.\n\n....exclamation.\n\n....feminine.\n\n....French (''usually meaning'' modern French).\n\n....Flemish.\n\n....fortification.\n\n....frequentative.\n\n....Friesic.\n\n....future.\n\n....German (''usually meaning'' New High German).\n\n....Gaelic.\n\n....galvanism.\n\n....genitive.\n\n....geography.\n\n....geology.\n\n....geometry.\n\n....Gothic (Mœsogothic).\n\n....Greek.\n\n....grammar.",
+   "c2s2": "¶\n....gunnery.\n\n....Hebrew.\n\n....heraldry.\n\n....herpetology.\n\n....Hindustani.\n\n....history.\n\n....horology.\n\n....horticulture.\n\n....Hungarian.\n\n....hydraulics.\n\n....hydrostatics.\n\n....Icelandic (''usually meaning'' Old Icelandic, ''otherwise called'' Old Norse).\n\n....ichthyology.\n\n....L. ''id est'', that is.\n\n....impersonal.\n\n....imperfect.\n\n....imperative.\n\n....improperly.\n\n....Indian.\n\n....indicative.\n\n....Indo-European.\n\n...indefinite.\n\n...infinitive.\n\n...instrumental.\n\n...interjection.\n\n...intransitive.\n\n...Irish.\n\n....irregular, irregularly.\n\n...Italian.",
+   "c2s3": "¶\n. . . Japanese.\n\n. . . Latin (''usually meaning'' classical Latin).\n\n. . . Lettish.\n\n. . . Low German.\n\n. . . lichenology.\n\n. . . literal, literally.\n\n. . . literature.\n\n. . . Lithuanian.\n\n. . . lithography.\n\n. . . lithology.\n\n. . . Late Latin.\n\n. . . masculine.\n\n. . . Middle.\n\n. . . machinery.\n\n. . . mammalogy.\n\n. . . manufacturing.\n\n. . . mathematics.\n\n. . . Middle Dutch.\n\n. . . Middle English (''otherwise called'' Old English).",
+   "c3s1": "¶\n...... mechanics, mechanical.\n\n...... medicine.\n\n...... mensuration.\n\n...... metallurgy.\n\n...... metaphysics.\n\n...... meteorology.\n\n...... Mexican.\n\n...... Middle Greek, medieval Greek.\n\n...... Middle High German.\n\n...... military.\n\n...... mineralogy.\n\n...... Middle Latin, medieval Latin.\n\n...... Middle Low German.\n\n...... modern.\n\n...... mycology.\n\n...... mythology.\n\n...... noun.\n\n...... neuter.\n\n...... New.\n\n...... North.\n\n...... North America.\n\n...... natural.\n\n...... nautical.\n\n...... navigation.\n\n...... New Greek, modern Greek.\n\n...... New High German",
+   "c3s2": "''(usually simply'' G., German).\n\n......New Latin, modern Latin.\n\n......nominative.\n\n......Norman.\n\n......northern.\n\n......Norwegian.\n\n......numismatics.\n\n......Old.\n\n......obsolete.\n\n......obstetrics.\n\n......Old Bulgarian (''otherwise called'' Church Slavonic, Old Slavic, Old Slavonic).\n\n......Old Catalan.\n\n......Old Dutch.\n\n......Old Danish.\n\n......odontography.\n\n......odontology.\n\n......Old French.\n\n......Old Flemish.\n\n......Old Gaelic.\n\n......Old High German.\n\n......Old Irish.\n\n......Old Italian.\n\n......Old Latin.\n\n......Old Low German.\n\n......Old Northumbrian\n\n......Old Prussian.\n\n......original, originally.\n\n......ornithology.",
+   "c3s3": "......Old Saxon.\n\n......Old Spanish.\n\n......osteology.\n\n......Old Swedish.\n\n......Old Teutonic.\n\n......participial adjective.\n\n......paleontology.\n\n......participle.\n\n......passive.\n\n......pathology.\n\n......perfect.\n\n......Persian.\n\n......person.\n\n......perspective.\n\n......Peruvian.\n\n......petrography.\n\n......Portuguese.\n\n......pharmacy.\n\n......Phenician.\n\n......philology.\n\n......philosophy.\n\n......phonography.",
+   "c4s1": "{| style=\"margin:auto\"\n|photog||photography.\n|-\n|phren.||phrenology.\n|-\n|phys.||physical.\n|-\n|physiol.||physiology.\n|-\n|pl., plur.||plural.\n|-\n|poet.||poetical.\n|-\n|polit.||political.\n|-\n|Pol.||Polish.\n|-\n|poss.||possessive.\n|-\n|pp.||past participle.\n|-\n|ppr.||present participle.\n|-\n|Pr.||Provençal (''usually meaning'' Old Provençal).\n|-\n|pref.||prefix.\n|-\n|prep.||preposition.\n|-\n|pres.||present.\n|-\n|pret.||preterit.\n|-\n|priv.||privative.\n|-\n|prob.||probably, probable.\n|-\n|pron.||pronoun.\n|-\n|pron.||pronounced, pronunciation.\n|-\n|prop.||properly.\n|-\n|pros.||prosody.\n|-\n|Prot.||Protestant.\n|-\n|prov.||provincial.\n|-\n|psychol.||psychology.\n|-\n|q. v.||L. ''quod'' (or pl. ''quæ'') ''vide'', which see.\n|-\n|refl.||reflexive.\n|}",
+   "c4s2": "{| style=\"margin:auto\"\n|reg.||regular, regularly.\n|-\n|repr.||representing.\n|-\n|rhet.||rhetoric.\n|-\n|Rom.||Roman.\n|-\n|Rom.||Romanic, Romance (languages).\n|-\n|Russ.||Russian.\n|-\n|S.||South.\n|-\n|S. Amer||South American.\n|-\n|sc.||L. ''scilicet'', understand, supply.\n|-\n|Sc.||Scotch.\n|-\n|Scand.||Scandinavian.\n|-\n|Scrip.||Scripture.\n|-\n|sculp.||sculpture.\n|-\n|Serv.||Servian.\n|-\n|sing.||singular.\n|-\n|Skt.||Sanskrit.\n|-\n|Slav.||Slavic, Slavonic.\n|-\n|Sp.||Spanish.\n|-\n|subj.||subjunctive.\n|-\n|superl.||superlative.\n|-\n|surg.||surgery.\n|-\n|surv.||surveying.\n|-\n|Sw.||Swedish.\n|-\n|syn.||synonymy.\n|-\n|Syr.||Syriac.\n|-\n|technol.||technology.\n|-\n|teleg.||telegraphy.\n|-\n|teratol.||teratology.\n|-\n|term.||termination.\n|-\n|Teut.||Teutonic.\n|-\n|theat.||theatrical.\n|}",
+   "c4s3": "{| style=\"margin:auto\"\n|theol.||theology.\n|-\n|therap.||therapeutics.\n|-\n|toxicol.||toxicology.\n|-\n|tr., trans.||transitive.\n|-\n|trigon.||trigonometry.\n|-\n|Turk.||Turkish.\n|-\n|typog.||typography.\n|-\n|ult.||ultimate, ultimately.\n|-\n|v.||verb.\n|-\n|var.||variant.\n|-\n|vet.||veterinary.\n|-\n|v. i.||intransitive verb.\n|-\n|v. t.||transitive verb.\n|-\n|W.||Welsh.\n|-\n|Wall.||Walloon.\n|-\n|Wallach.||Wallachian.\n|-\n|W. Ind.||West Indian.\n|-\n|zoögeog.||zoögeography.\n|-\n|zoöl.||zoölogy.\n|-\n|zoöt.||zoötomy.\n|}"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [
+   [
+    524,
+    62,
+    1967,
+    239
+   ]
+  ],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 2781,
+    "output_tokens": 32,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 14,
+    "input_tokens": 8472,
+    "output_tokens": 7591,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 37996
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" /></noinclude>{{c|ABBREVIATIONS}}\n\nUSED IN THE ETYMOLOGIES AND DEFINITIONS.\n\n{| style=\"margin:auto\"\n|'''a., adj.'''||adjective.\n|-\n|'''abbr.'''||abbreviation.\n|-\n|'''abl.'''||ablative.\n|-\n|'''acc.'''||accusative.\n|-\n|'''accom.'''||accommodated, accommodation.\n|-\n|'''act.'''||active.\n|-\n|'''adv.'''||adverb.\n|-\n|'''AF.'''||Anglo-French.\n|-\n|'''agri.'''||agriculture.\n|-\n|'''AL.'''||Anglo-Latin.\n|-\n|'''alg.'''||algebra.\n|-\n|'''Amer.'''||American.\n|-\n|'''anat.'''||anatomy.\n|-\n|'''anc.'''||ancient.\n|-\n|'''antiq.'''||antiquity.\n|-\n|'''aor.'''||aorist.\n|-\n|'''appar.'''||apparently.\n|-\n|'''Ar.'''||Arabic.\n|-\n|'''arch.'''||architecture.\n|-\n|'''archæol.'''||archæology.\n|-\n|'''arith.'''||arithmetic.\n|-\n|'''art.'''||article.\n|-\n|'''AS.'''||Anglo-Saxon.\n|-\n|'''astrol.'''||astrology.\n|-\n|'''astron.'''||astronomy.\n|-\n|'''attrib.'''||attributive.\n|-\n|'''aug.'''||augmentative.\n|-\n|'''Bav.'''||Bavarian.\n|-\n|'''Beng.'''||Bengali.\n|-\n|'''biol.'''||biology.\n|}\n\n{| style=\"margin:auto\"\n|'''Bohem.'''||Bohemian.\n|-\n|'''bot.'''||botany.\n|-\n|'''Braz.'''||Brazilian.\n|-\n|'''Bret.'''||Breton.\n|-\n|'''bryol.'''||bryology.\n|-\n|'''Bulg.'''||Bulgarian.\n|-\n|'''carp.'''||carpentry.\n|-\n|'''Cat.'''||Catalan.\n|-\n|'''Cath.'''||Catholic.\n|-\n|'''caus.'''||causative.\n|-\n|'''ceram.'''||ceramics.\n|-\n|'''cf.'''||L. ''confer'', compare.\n|-\n|'''ch.'''||church.\n|-\n|'''Chal.'''||Chaldee.\n|-\n|'''chem.'''||chemical, chemistry.\n|-\n|'''Chin.'''||Chinese.\n|-\n|'''chron.'''||chronology.\n|-\n|'''colloq.'''||colloquial, colloquially.\n|-\n|'''com.'''||commerce, commercial.\n|-\n|'''comp.'''||composition, compound.\n|-\n|'''compar.'''||comparative.\n|-\n|'''conch.'''||conchology.\n|-\n|'''conj.'''||conjunction.\n|-\n|'''contr.'''||contracted, contraction.\n|-\n|'''Corn.'''||Cornish.\n|-\n|'''craniol.'''||craniology.\n|-\n|'''craniom.'''||craniometry.\n|-\n|'''crystal.'''||crystallography.\n|-\n|'''D.'''||Dutch.\n|}\n\n{| style=\"margin:auto\"\n|'''Dan.'''||Danish.\n|-\n|'''dat.'''||dative.\n|-\n|'''def.'''||definite, definition.\n|-\n|'''deriv.'''||derivative, derivation.\n|-\n|'''dial'''||dialect, dialectal.\n|-\n|'''diff.'''||different.\n|-\n|'''dim.'''||diminutive.\n|-\n|'''distrib.'''||distributive.\n|-\n|'''dram.'''||dramatic.\n|-\n|'''dynam.'''||dynamics.\n|-\n|'''E.'''||East.\n|-\n|'''E.'''||English (''usually meaning'' modern English).\n|-\n|'''eccl., eccles.'''||ecclesiastical.\n|-\n|'''econ.'''||economy.\n|-\n|'''e. g.'''||L. ''exempli gratia'', for example.\n|-\n|'''Egypt.'''||Egyptian.\n|-\n|'''E. Ind.'''||East Indian.\n|-\n|'''elect.'''||electricity.\n|-\n|'''embryol.'''||embryology.\n|-\n|'''Eng.'''||English.\n|}\n\n....engineering.\n\n....entomology.\n\n....Episcopal.\n\n....equivalent.\n\n....especially.\n\n....Ethiopic.\n\n....ethnography.\n\n....ethnology.\n\n....etymology.\n\n....European.\n\n....exclamation.\n\n....feminine.\n\n....French (''usually meaning'' modern French).\n\n....Flemish.\n\n....fortification.\n\n....frequentative.\n\n....Friesic.\n\n....future.\n\n....German (''usually meaning'' New High German).\n\n....Gaelic.\n\n....galvanism.\n\n....genitive.\n\n....geography.\n\n....geology.\n\n....geometry.\n\n....Gothic (Mœsogothic).\n\n....Greek.\n\n....grammar.\n\n....gunnery.\n\n....Hebrew.\n\n....heraldry.\n\n....herpetology.\n\n....Hindustani.\n\n....history.\n\n....horology.\n\n....horticulture.\n\n....Hungarian.\n\n....hydraulics.\n\n....hydrostatics.\n\n....Icelandic (''usually meaning'' Old Icelandic, ''otherwise called'' Old Norse).\n\n....ichthyology.\n\n....L. ''id est'', that is.\n\n....impersonal.\n\n....imperfect.\n\n....imperative.\n\n....improperly.\n\n....Indian.\n\n....indicative.\n\n....Indo-European.\n\n...indefinite.\n\n...infinitive.\n\n...instrumental.\n\n...interjection.\n\n...intransitive.\n\n...Irish.\n\n....irregular, irregularly.\n\n...Italian.\n\n. . . Japanese.\n\n. . . Latin (''usually meaning'' classical Latin).\n\n. . . Lettish.\n\n. . . Low German.\n\n. . . lichenology.\n\n. . . literal, literally.\n\n. . . literature.\n\n. . . Lithuanian.\n\n. . . lithography.\n\n. . . lithology.\n\n. . . Late Latin.\n\n. . . masculine.\n\n. . . Middle.\n\n. . . machinery.\n\n. . . mammalogy.\n\n. . . manufacturing.\n\n. . . mathematics.\n\n. . . Middle Dutch.\n\n. . . Middle English (''otherwise called'' Old English).\n\n...... mechanics, mechanical.\n\n...... medicine.\n\n...... mensuration.\n\n...... metallurgy.\n\n...... metaphysics.\n\n...... meteorology.\n\n...... Mexican.\n\n...... Middle Greek, medieval Greek.\n\n...... Middle High German.\n\n...... military.\n\n...... mineralogy.\n\n...... Middle Latin, medieval Latin.\n\n...... Middle Low German.\n\n...... modern.\n\n...... mycology.\n\n...... mythology.\n\n...... noun.\n\n...... neuter.\n\n...... New.\n\n...... North.\n\n...... North America.\n\n...... natural.\n\n...... nautical.\n\n...... navigation.\n\n...... New Greek, modern Greek.\n\n...... New High German ''(usually simply'' G., German).\n\n......New Latin, modern Latin.\n\n......nominative.\n\n......Norman.\n\n......northern.\n\n......Norwegian.\n\n......numismatics.\n\n......Old.\n\n......obsolete.\n\n......obstetrics.\n\n......Old Bulgarian (''otherwise called'' Church Slavonic, Old Slavic, Old Slavonic).\n\n......Old Catalan.\n\n......Old Dutch.\n\n......Old Danish.\n\n......odontography.\n\n......odontology.\n\n......Old French.\n\n......Old Flemish.\n\n......Old Gaelic.\n\n......Old High German.\n\n......Old Irish.\n\n......Old Italian.\n\n......Old Latin.\n\n......Old Low German.\n\n......Old Northumbrian\n\n......Old Prussian.\n\n......original, originally.\n\n......ornithology. ......Old Saxon.\n\n......Old Spanish.\n\n......osteology.\n\n......Old Swedish.\n\n......Old Teutonic.\n\n......participial adjective.\n\n......paleontology.\n\n......participle.\n\n......passive.\n\n......pathology.\n\n......perfect.\n\n......Persian.\n\n......person.\n\n......perspective.\n\n......Peruvian.\n\n......petrography.\n\n......Portuguese.\n\n......pharmacy.\n\n......Phenician.\n\n......philology.\n\n......philosophy.\n\n......phonography.\n\n{| style=\"margin:auto\"\n|photog||photography.\n|-\n|phren.||phrenology.\n|-\n|phys.||physical.\n|-\n|physiol.||physiology.\n|-\n|pl., plur.||plural.\n|-\n|poet.||poetical.\n|-\n|polit.||political.\n|-\n|Pol.||Polish.\n|-\n|poss.||possessive.\n|-\n|pp.||past participle.\n|-\n|ppr.||present participle.\n|-\n|Pr.||Provençal (''usually meaning'' Old Provençal).\n|-\n|pref.||prefix.\n|-\n|prep.||preposition.\n|-\n|pres.||present.\n|-\n|pret.||preterit.\n|-\n|priv.||privative.\n|-\n|prob.||probably, probable.\n|-\n|pron.||pronoun.\n|-\n|pron.||pronounced, pronunciation.\n|-\n|prop.||properly.\n|-\n|pros.||prosody.\n|-\n|Prot.||Protestant.\n|-\n|prov.||provincial.\n|-\n|psychol.||psychology.\n|-\n|q. v.||L. ''quod'' (or pl. ''quæ'') ''vide'', which see.\n|-\n|refl.||reflexive.\n|}\n\n{| style=\"margin:auto\"\n|reg.||regular, regularly.\n|-\n|repr.||representing.\n|-\n|rhet.||rhetoric.\n|-\n|Rom.||Roman.\n|-\n|Rom.||Romanic, Romance (languages).\n|-\n|Russ.||Russian.\n|-\n|S.||South.\n|-\n|S. Amer||South American.\n|-\n|sc.||L. ''scilicet'', understand, supply.\n|-\n|Sc.||Scotch.\n|-\n|Scand.||Scandinavian.\n|-\n|Scrip.||Scripture.\n|-\n|sculp.||sculpture.\n|-\n|Serv.||Servian.\n|-\n|sing.||singular.\n|-\n|Skt.||Sanskrit.\n|-\n|Slav.||Slavic, Slavonic.\n|-\n|Sp.||Spanish.\n|-\n|subj.||subjunctive.\n|-\n|superl.||superlative.\n|-\n|surg.||surgery.\n|-\n|surv.||surveying.\n|-\n|Sw.||Swedish.\n|-\n|syn.||synonymy.\n|-\n|Syr.||Syriac.\n|-\n|technol.||technology.\n|-\n|teleg.||telegraphy.\n|-\n|teratol.||teratology.\n|-\n|term.||termination.\n|-\n|Teut.||Teutonic.\n|-\n|theat.||theatrical.\n|}\n\n{| style=\"margin:auto\"\n|theol.||theology.\n|-\n|therap.||therapeutics.\n|-\n|toxicol.||toxicology.\n|-\n|tr., trans.||transitive.\n|-\n|trigon.||trigonometry.\n|-\n|Turk.||Turkish.\n|-\n|typog.||typography.\n|-\n|ult.||ultimate, ultimately.\n|-\n|v.||verb.\n|-\n|var.||variant.\n|-\n|vet.||veterinary.\n|-\n|v. i.||intransitive verb.\n|-\n|v. t.||transitive verb.\n|-\n|W.||Welsh.\n|-\n|Wall.||Walloon.\n|-\n|Wallach.||Wallachian.\n|-\n|W. Ind.||West Indian.\n|-\n|zoögeog.||zoögeography.\n|-\n|zoöl.||zoölogy.\n|-\n|zoöt.||zoötomy.\n|}<noinclude><references/></noinclude>"
+}

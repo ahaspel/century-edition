@@ -1,0 +1,70 @@
+{
+ "volume": 8,
+ "page_number": 5,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n4.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n4.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-08",
+  "angle": 0.05,
+  "column_width": 466,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     355,
+     466,
+     2971
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2971,
+     466,
+     3229
+    ]
+   }
+  ],
+  "readings": {
+   "head": "",
+   "c1s1": "````\n````"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 2727,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 1789,
+    "output_tokens": 23,
+    "cache_creation_input_tokens": 5428,
+    "cache_read_input_tokens": 0
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" /></noinclude>````\n````<noinclude><references/></noinclude>"
+}

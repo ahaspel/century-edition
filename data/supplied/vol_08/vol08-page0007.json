@@ -1,0 +1,125 @@
+{
+ "volume": 8,
+ "page_number": 7,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n6.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n6.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-08",
+  "angle": 0.0,
+  "column_width": 1788,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     0,
+     1788,
+     1304
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1304,
+     1788,
+     1604
+    ]
+   },
+   {
+    "name": "c0s1",
+    "kind": "text",
+    "column": 0,
+    "box": [
+     0,
+     1604,
+     1788,
+     1998
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1998,
+     1066,
+     2132
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1370,
+     1998,
+     1788,
+     2132
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{c|THE}}\n\n{{c|CENTURY DICTIONARY}}",
+   "c1s1": "AND\n\nCYCLOPEDIA",
+   "c0s1": "¶\nAN ENCYCLOPEDIC LEXICON OF THE ENGLISH LANGUAGE AND A PRONOUNCING AND ETYMOLOGICAL DICTIONARY OF NAMES IN GEOGRAPHY, BIOGRAPHY MYTHOLOGY, HISTORY, ART, ETC., ETC.\n\n{{c|IN TEN VOLUMES}}",
+   "c1s2": "",
+   "c2s1": ""
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [
+   [
+    714,
+    1072,
+    1676,
+    1515
+   ],
+   [
+    857,
+    1601,
+    1539,
+    1846
+   ],
+   [
+    1001,
+    1952,
+    1390,
+    2001
+   ]
+  ],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 2727,
+    "output_tokens": 68,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 5,
+    "input_tokens": 5072,
+    "output_tokens": 713,
+    "cache_creation_input_tokens": 5428,
+    "cache_read_input_tokens": 8142
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" /></noinclude>{{c|THE}}\n\n{{c|CENTURY DICTIONARY}} AND\n\nCYCLOPEDIA\n\nAN ENCYCLOPEDIC LEXICON OF THE ENGLISH LANGUAGE AND A PRONOUNCING AND ETYMOLOGICAL DICTIONARY OF NAMES IN GEOGRAPHY, BIOGRAPHY MYTHOLOGY, HISTORY, ART, ETC., ETC.\n\n{{c|IN TEN VOLUMES}}<noinclude><references/></noinclude>"
+}
