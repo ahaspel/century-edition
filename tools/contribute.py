@@ -3,6 +3,7 @@
     uv run python tools/contribute.py check                       # key works? where are we?
     uv run python tools/contribute.py run --volume 8 --budget 25  # next pages, up to $25
     uv run python tools/contribute.py run --wait                  # advance a run until done
+    uv run python tools/contribute.py run --volume 8 --budget 25 --direct   # read them now
     uv run python tools/contribute.py send                        # hand the finished pages back
 
 Your key goes in `.env` at the repository root (never committed):
@@ -17,6 +18,12 @@ usually much sooner).  A spending ledger (data/derived/contrib_ledger.json,
 local) keeps each month's actual cost; a run that would pass --monthly-cap is
 refused.  `run --wait` polls until the batch is done and writes the pages to
 data/supplied/; without --wait, run it again later to collect.
+
+`run --direct` reads the same pages now, one call at a time, at the standard
+rate (twice the batch price) — for a key whose route does not carry the Batch
+API (`check` says whether yours does).  Each page is written as soon as it is
+read and booked in the ledger at once, so stopping it loses nothing; the
+estimate, the budget and the cap are at the price actually paid.
 
 `send` commits the new pages on a branch of their own and pushes it; open a
 pull request from it (the command prints where).  Only the page files go:
@@ -44,6 +51,8 @@ LEDGER = ROOT / "data" / "derived" / "contrib_ledger.json"
 #: against the Anthropic pricing page when this was written; update with it.
 PRICE = {"input_tokens": 2.5, "output_tokens": 12.5,
          "cache_read_input_tokens": 0.25, "cache_creation_input_tokens": 3.125}
+#: A page read now pays the standard rate.
+STANDARD = 2
 #: Until real pages have been measured: a dense three-column dictionary page.
 FALLBACK_PER_PAGE = 0.20
 
@@ -69,17 +78,37 @@ def on_own_branch() -> str:
     return branch
 
 
-def cost(usage: dict) -> float:
-    return sum(part.get(f, 0) * PRICE[f] for part in usage.values() if isinstance(part, dict)
-               for f in PRICE) / 1e6
+def cost(usage: dict, batched: bool | None = None) -> float:
+    """What a page's calls cost: at the rate each record says it was read at
+    (a record without the word was read now — the engine marked only batches
+    once), or, given `batched`, at that rate whatever the record says."""
+    total = 0.0
+    for part in usage.values():
+        if not isinstance(part, dict):
+            continue
+        b = part.get("batch", False) if batched is None else batched
+        total += sum(part.get(f, 0) * PRICE[f] for f in PRICE) * (1 if b else STANDARD)
+    return total / 1e6
 
 
-def per_page_estimate() -> float:
-    """Average actual batch cost of the pages already transcribed."""
-    costs = [cost(json.loads(f.read_text(encoding="utf-8"))["provenance"].get("usage", {}))
+def per_page_estimate(batched: bool = True) -> float:
+    """Average cost of the pages already transcribed, at the rate this run
+    will pay: the tokens a page takes do not depend on the route."""
+    costs = [cost(json.loads(f.read_text(encoding="utf-8"))["provenance"].get("usage", {}), batched)
              for f in (ROOT / "data" / "supplied").glob("vol_*/*.json")]
     costs = [c for c in costs if c > 0]
-    return sum(costs) / len(costs) if len(costs) >= 5 else FALLBACK_PER_PAGE
+    if len(costs) >= 5:
+        return sum(costs) / len(costs)
+    return FALLBACK_PER_PAGE * (1 if batched else STANDARD)
+
+
+def book(spent_now: float) -> float:
+    """Add to this month's ledger; the month's total."""
+    led = ledger()
+    led[month()] = round(led.get(month(), 0.0) + spent_now, 4)
+    LEDGER.parent.mkdir(parents=True, exist_ok=True)
+    LEDGER.write_text(json.dumps(led, indent=1), encoding="utf-8")
+    return led[month()]
 
 
 def ledger() -> dict:
@@ -107,41 +136,96 @@ def check(_a) -> int:
     except Exception as e:                          # say why, never the key
         print(f"The API refused: {type(e).__name__}: {getattr(e, 'message', e)}")
         return 1
+    try:                                            # read-only: lists, sends nothing
+        client.messages.batches.list(limit=1)
+        print("The Batch API is open to this key: `run` sends batches at half price.")
+    except Exception as e:
+        print(f"The Batch API is not open to this key ({type(e).__name__}): use `run --direct`.")
     spent = ledger().get(month(), 0.0)
-    print(f"Spent this month (this machine): ${spent:.2f}.  Estimated cost per page: ${per_page_estimate():.3f}.")
+    print(f"Spent this month (this machine): ${spent:.2f}.  Estimated cost per page: "
+          f"${per_page_estimate():.3f} by batch, ${per_page_estimate(batched=False):.3f} direct.")
     state = batch.load()
     waiting = [p for p in state["pages"].values() if p["stage"] != "done"]
     print(f"A run in progress: {len(waiting)} page(s) not yet done." if waiting else "No run in progress.")
     return 0
 
 
+def pick(a, batched: bool) -> tuple[list[int], float, float] | int:
+    """The next pages of the volume nobody has transcribed (or waits on in a
+    batch), as many as the budget buys at this run's rate: (pages, the
+    estimate a page, the budget) — or an exit code when there is nothing to do."""
+    if a.volume is None or a.budget is None:
+        print("Give --volume and --budget to start pages.")
+        return 1
+    on_own_branch()
+    git("fetch", "-q", "origin")
+    git("merge", "-q", "--no-edit", "origin/master")             # see what others have sent
+    spent = ledger().get(month(), 0.0)
+    budget = min(a.budget, a.monthly_cap - spent)
+    if budget <= 0:
+        print(f"This month's cap is reached (${spent:.2f} of ${a.monthly_cap:.2f}).")
+        return 1
+    each = per_page_estimate(batched)
+    waiting = {(p["volume"], p["page"]) for p in batch.load()["pages"].values() if p["stage"] != "done"}
+    todo = [p for p in range(1, CENTURY.pages[a.volume] + 1)
+            if p not in done_pages(a.volume) and (a.volume, p) not in waiting]
+    take = todo[:max(0, int(budget // each))]
+    if not take:
+        print(f"Budget ${budget:.2f} buys no page at ~${each:.3f}." if todo else f"Volume {a.volume} is finished.")
+        return 0
+    print(f"Volume {a.volume}: pages {take[0]}-{take[-1]} ({len(take)} pages, ~${len(take) * each:.2f}"
+          f"{'' if batched else ', read now at the standard rate'}).")
+    if a.dry_run:
+        print("Dry run: nothing sent.")
+        return 0
+    return take, each, budget
+
+
+def run_direct(a) -> int:
+    """Read the pages now, one call at a time: each written and booked as soon
+    as it is read, so an interruption or a refusal from the API loses nothing
+    already paid for.  Stops before a page the rest of the budget may not cover."""
+    picked = pick(a, batched=False)
+    if isinstance(picked, int):
+        return picked
+    take, each, budget = picked
+    paid, done = 0.0, 0
+    for page in take:
+        if paid + each > budget:
+            print(f"Stopping: ${budget - paid:.2f} left may not cover another page (~${each:.3f}).")
+            break
+        try:
+            img = scan(a.volume, page)
+            payload = supplied.transcribe_page(img, a.volume, page, scan_url(a.volume, page))
+        except Exception as e:                      # say why, never the key
+            print(f"p{page}: not read — {type(e).__name__}: {getattr(e, 'message', e)}.  "
+                  f"Stopping; run again to go on from here.")
+            break
+        supplied.write(payload)
+        supplied.materialize_figures(payload, img)
+        c = cost(payload["provenance"]["usage"])
+        paid += c
+        done += 1
+        total = book(c)
+        p = payload["provenance"]
+        flags = "".join([f"; refused {p['refused']}" if p["refused"] else "",
+                         f"; unread {sorted(p['unread'])}" if p["unread"] else ""])
+        print(f"p{page}: ${c:.3f}{flags}  (this run ${paid:.2f}, this month ${total:.2f})", flush=True)
+    if done:
+        print(f"{done} page(s) written to data/supplied/, costing ${paid:.2f}.  Run `send` to hand them back.")
+    return 0
+
+
 def run(a) -> int:
+    if a.direct:
+        return run_direct(a)
     state = batch.load()
     open_pages = [p for p in state["pages"].values() if p["stage"] != "done" and not p.get("error")]
     if not open_pages:
-        if a.volume is None or a.budget is None:
-            print("Nothing in progress: give --volume and --budget to start pages.")
-            return 1
-        on_own_branch()
-        git("fetch", "-q", "origin")
-        git("merge", "-q", "--no-edit", "origin/master")             # see what others have sent
-        led = ledger()
-        spent = led.get(month(), 0.0)
-        budget = min(a.budget, a.monthly_cap - spent)
-        if budget <= 0:
-            print(f"This month's cap is reached (${spent:.2f} of ${a.monthly_cap:.2f}).")
-            return 1
-        each = per_page_estimate()
-        todo = [p for p in range(1, CENTURY.pages[a.volume] + 1) if p not in done_pages(a.volume)]
-        take = todo[:max(0, int(budget // each))]
-        if not take:
-            print(f"Budget ${budget:.2f} buys no page at ~${each:.3f}." if todo else f"Volume {a.volume} is finished.")
-            return 0
-        print(f"Volume {a.volume}: pages {take[0]}-{take[-1]} ({len(take)} pages, ~${len(take) * each:.2f}).")
-        if a.dry_run:
-            print("Dry run: nothing sent.")
-            return 0
-        batch.add_pages([(a.volume, p, scan_url(a.volume, p)) for p in take], scan)
+        picked = pick(a, batched=True)
+        if isinstance(picked, int):
+            return picked
+        batch.add_pages([(a.volume, p, scan_url(a.volume, p)) for p in picked[0]], scan)
     before = {pid for pid, p in batch.load()["pages"].items() if p["stage"] == "done"}
     if a.wait:
         batch.run_until_done(scan, log=lambda s: print(json.dumps({k: v for k, v in s.items() if v}, default=str)))
@@ -151,12 +235,9 @@ def run(a) -> int:
     finished = [p for pid, p in state["pages"].items() if p["stage"] == "done" and pid not in before]
     if finished:
         spent_now = sum(cost(p["usage"]) for p in finished)
-        led = ledger()
-        led[month()] = round(led.get(month(), 0.0) + spent_now, 4)
-        LEDGER.parent.mkdir(parents=True, exist_ok=True)
-        LEDGER.write_text(json.dumps(led, indent=1), encoding="utf-8")
+        total = book(spent_now)
         print(f"{len(finished)} page(s) written to data/supplied/, costing ${spent_now:.2f}; "
-              f"this month ${led[month()]:.2f}.  Run `send` to hand them back.")
+              f"this month ${total:.2f}.  Run `send` to hand them back.")
     errors = {pid: p["error"] for pid, p in state["pages"].items() if p.get("error")}
     if errors:
         print("Set aside with an error (they are not lost; tell the maintainer):", errors)
@@ -189,6 +270,8 @@ def main() -> int:
     r.add_argument("--budget", type=float, help="dollars to spend on this run")
     r.add_argument("--monthly-cap", type=float, default=200.0)
     r.add_argument("--wait", action="store_true", help="poll until the batch is done")
+    r.add_argument("--direct", action="store_true",
+                   help="read the pages now, at the standard rate, not through the Batch API")
     r.add_argument("--dry-run", action="store_true", help="show the pages and the estimate; send nothing")
     sub.add_parser("send")
     a = ap.parse_args()

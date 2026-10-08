@@ -32,6 +32,9 @@ Then check that it works (this costs a fraction of a cent):
 uv run python tools/contribute.py check
 ```
 
+It also says whether your key can use the Batch API.  If it says "not open",
+add `--direct` to every `run` below (see [Reading directly](#reading-directly)).
+
 ## Each time: transcribe some pages
 
 You are assigned a volume, so no two people read the same pages.  Choose how
@@ -46,6 +49,21 @@ The pages go through Anthropic's Batch API — half the normal price; answers
 usually come within an hour, at most a day.  `--wait` keeps the command running
 until they are done.  Without it, the command sends the batch and exits: run
 `uv run python tools/contribute.py run --wait` later to collect.
+
+### Reading directly
+
+Some keys reach the API through a gateway that does not carry the Batch API;
+`check` says whether yours does.  If it does not, read the pages directly:
+
+```
+uv run python tools/contribute.py run --volume 8 --budget 25 --direct --dry-run
+uv run python tools/contribute.py run --volume 8 --budget 25 --direct
+```
+
+Each page is read on the spot, at the standard price (twice the batch price —
+the estimate and the budget allow for it), written as soon as it is read, and
+counted at once, so stopping the command loses nothing.  If the API refuses a
+call, the run stops at that page; run the same command again to go on.
 
 A run never takes you past `--monthly-cap` (default $200) for the calendar
 month, counted from what your runs actually cost on this machine.  The
