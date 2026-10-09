@@ -1,0 +1,219 @@
+{
+ "volume": 8,
+ "page_number": 77,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n76.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n76.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": 0.0,
+  "column_width": 817,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     70,
+     2281,
+     111
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     111,
+     817,
+     1141
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1141,
+     817,
+     1970
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     0,
+     1970,
+     817,
+     2496
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     0,
+     2502,
+     817,
+     2524
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2524,
+     817,
+     3230
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     817,
+     111,
+     1554,
+     1129
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     817,
+     1129,
+     1554,
+     2189
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     817,
+     2189,
+     1554,
+     3230
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1554,
+     111,
+     2281,
+     1210
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1554,
+     1210,
+     2281,
+     2280
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1554,
+     2280,
+     2281,
+     3230
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|theodicæa|6273|theologue}}",
+   "c1s1": "¶\n'''theodicæa, theodicea''' (thē″ọ-di-sē′ä), ''n.'' [NL.] Same as ''theodicy. Encyc. Brit.'', XIX. 820.\n\n'''theodicean''' (thē″ọ-di-sē′a̤n), ''a.'' [< NL. ''theodicæa'' (see ''theodicy'') + ''-an''.] Of or pertaining to theodicy.\n\n'''theodicy''' (thẹ̄-od′i-si), ''n.'' [Also ''theodicee, theodicæa, theodicea''; = F. ''théodicée'', < NL. ''theodicæa'' (Leibnitz), < Gr. θεός, god, + δίκη, right, justice (> δίκαιος, just).] An exposition of the theory of divine Providence with a view to the vindication of the attributes, particularly of the holiness and justice, of God, in establishing the present order of things, in which evil, moral as well as physical, largely exists. {{smaller|The word in this sense was used by Leibnitz in a series of essays, in which he maintained that metaphysical evil is necessary to moral beings, that physical evil is a means of a greater good, and that moral evil was permitted by God as necessary to the best possible world, as a set-off to moral good, which it increases by contrast.}}\n\n{{smaller block|The second [part of the work] will . . . be speculative, and will contain a new ''theodicee'', and what will perhaps appear to many a new basis of morals.\n{{right|''Coleridge'', To Sir George Beaumont (Memorials of [Coleorton, I. 45).}}}}\n\n'''theodolite''' (thẹ̄-od′ọ-līt), ''n.'' [Formerly ''theodelite''; sometimes ''theodelet''; G. Dan. ''theodolit''; = F. ''théodolite'' = Sp. ''teodolita'' = It. ''teodolito'' (all < E.); < NL. *''theodolitus'', first in the form ''theodelitus'' (L. Digges, \"Pantometria,\" 1571), defined as \"a circle divided in 360 grades or degrees, or a semicircle parted in 180 portions\"; origin unknown. The word has a Gr. semblance, but no obvious Gr. basis. It has been variously",
+   "c1s2": "explained: (''a'') < Gr. θεᾶσθαι, see, + ὁδός, way, + λιτός, smooth, even, plain; (''b'') < Gr. θεᾶσθαι, see, + δολιχός, long; (''c'') < Gr. θεῖν, run, + δολιχός, long; (''d'') < Gr. θεᾶσθαι, see (θέα, a seeing), + δοῦλος, slave; (''e'') \"the O ''delitus''\" or \"''deletus'','' i. e. the O crossed out, a fanciful name imagined to have been given in view of the circle marked off in degrees by numerous diameters, giving the effect of a circle or \"O\" erased; with other equally futile conjectures. (''f'') A recent explanation makes it a corrupt form of ''alidade''.] A surveying-instrument for measuring horizontal angles upon a graduated circle. {{smaller|It may also be provided with a vertical circle, and if this is not very much smaller than the horizontal circle, the instrument is called an ''altazimuth''. If it is provided with a delicate striding level and is in every way convenient for astronomical work, it is called a ''universal instrument''. A small altazimuth with a concentric magnetic compass is called a ''surveyors' transit''. A theodolite in which the whole instrument, except the feet and their connections, turns relatively to the latter, and can be clamped in different positions, is called a ''repeating circle''. The instrument shown in the figure follows the system of the United States Coast Survey of attaining simplicity of construction by adaptation to a single purpose — in this case to the measurement of horizontal angles only. This instrument is low and consequently very steady. Within the upright pillar is a truncated cone of steel, and upon this and fitting to it turns}}",
+   "c1c1": "{{c|Theodolite, constructed by Brunner Brothers of Paris.}}",
+   "c1s3": "the hollow brass pillar carrying the telescope and microscopes. Except for an excessively thin layer of oil, the brass movable part bears directly on the steel, and its weight tends to keep it centered. The pressure is relieved by a small plate of some elasticity fastened to the movable part over the axis and adjustable with screws. It is thus made to turn, as nearly as possible, about a mathematical line. This is the conical bearing of Gambey. The base, which is as low as possible, consists of a round central part, and three arms having screw-feet with binding-screws. A circular guard for the circle (indistinguishable from the latter in the figure) forms a part of the base. The graduated circle is made slightly conical, so that the microscopes may be more convenient. This circle, with its eight radii and interior ring, forms one solid casting, which bears upon the steel axis conically. It is held in place, in imitation of an instrument by Stackpole of New York, by the pressure of a ring above, which can readily be loosened so as to permit the circle to be turned round alone. The telescope is provided with a filar micrometer, with a view of facilitating reiterated pointings — a new principle of much value. The instrument is leveled by means of a striding level. There are four micrometer microscopes (although some geodesists insist upon an odd number), made adjustable so that one division of the circle shall be very nearly covered by two and a half turns of the",
+   "c2s1": "{{smaller block|micrometer-screw. The illumination for these microscopes is made through their objectives by light brought, according to the plan of Messrs. Brunner, by prisms from a point vertically over the axis, where a horizontal ground glass is hung in the daytime and a lamp with a porcelain shade at night, so that the images of the lines plowed by the graver in the polished surface of the circle shall not be displaced by oblique illumination. The clamp is attached to an arm from a ring about the brass upright, and bears upon the circular guard outside the circle proper. The tangent screw is contrived so as to eliminate dead motion. The arm carrying the clamp is balanced by another bearing a small finding microscope. Theodolites are made upon manifold models; but the one figured in preceding column is a good example of a modern first-class instrument.}}\n\n'''theodolite-magnetometer''' (thẹ̄-od′ọ̄-līt-mag-ne-tom′e-tėr), ''n.'' An instrument employed as a declinometer to measure variations in declination, and as a magnetometer in determinations of force.\n\n'''theodolitic''' (thē-od-ō-lit′ik), ''a.'' [< ''theodolite'' + ''-ic.''] Of or pertaining to a theodolite; made by means of a theodolite. ''Imp. Dict.''\n\n'''Theodosian''' (thē-ọ̄-dō′sian), ''a.'' and ''n.'' [< ''Theodosius'', < Gr. Θεοδόσιος, a man's name (lit. 'gift of God,' < θεός, god, + δόσις, gift: see ''dose''), + ''-an.''] '''I.''' ''a.'' Pertaining to any one named Theodosius, particularly to either of the emperors Theodosius I. (379–395) and Theodosius II. (408–450).—'''Theodosian code.''' {{smaller|See ''code''.}}\n\n'''II.''' ''n.'' One of a body of Russian dissenters who purify by prayer all articles purchased from unbelievers: so called from their founder, Theodosius, a Russian monk in the sixteenth",
+   "c2s2": "century.\n\n'''Theodotian''' (thē-ọ̄-dō′shian), ''n.'' [< ''Theodotus'', < Gr. Θεόδοτος, a man's name (lit. ‘given by God,’ < θεός, god, + δοτός, verbal adj. of διδόναι, give), + ''-ian.''] One of a party of anti-Trinitarians or Monarchians, followers of Theodotus the Tanner, of Byzantium, about {{sc|a. d.}} 200, who taught that Christ was a mere man.\n\n'''theogonic''' (thē-ọ̄-gon′ik), ''a.'' [< ''theogon-y'' + ''-ic.''] Of or relating to theogony.\n\n{{smaller block|The ''theogonic'' and cosmogonic notions of Homer and Hesiod.\n{{right|''Ueberweg'', Hist. Philosophy (trans.), I. 24.}}}}\n\n'''theogonism†''' (thē-og′ọ̄-nizm), ''n.'' [< ''theogon-y'' + ''-ism.''] Theogony. ''Imp. Dict.''\n\n'''theogonist''' (thē-og′ọ̄-nist), ''n.'' [< ''theogon-y'' + ''-ist.''] One who is versed in theogony. ''Imp. Dict.''\n\n'''theogony''' (thē-og′ọ̄-ni), ''n.'' [= F. ''théogonie'' = Sp. ''teogonía'' = Pg. ''theogonia'' = It. ''teogonia'', < L. ''theogonia'', < Gr. θεογονία, a generation or genealogy of the gods, < θεός, god, + -γονία, < γόνος, generation: see ''-gony.''] That branch of non-Christian theology which teaches the genealogy or origin of the deities; in a particular sense, one of a class of poems which treat of the generation and descent of the gods: as, the ancient Greek ''theogony'' of Hesiod.\n\n{{smaller block|He [Epicurus] means the evil Genius and the good Genius in the ''theogony'' of the Persians.\n{{right|''Landor'', Imag. Conv., Epicurus, Leontion, and Ternissa.}}}}\n\n{{smaller block|In the hymns of the Rig-Veda we still have the last chapter of the real ''Theogony'' of the Aryan races.\n{{right|''Max Müller'', Sci. of Lang., 2d ser., p. 429.}}}}\n\n'''theol.''' An abbreviation: (''a'') of ''theological;'' (''b'')",
+   "c2s3": "of ''theology.''\n\n¶\n'''theolog''', ''n.'' See ''theologue.'' [Colloq.]\n\n'''theologal''' (thẹ̄-ol′ọ̄-gal), ''n.'' [= F. ''théologal'' = Sp. ''teologal'' = Pg. ''theologal'', theological, a theologal, = It. ''teologale'', < NL. *''theologalis'', < L. ''theologus'', theologue: see ''theologue.''] Same as ''canon theologian'' (which see, under ''theologian'').\n\n'''theologaster''' (thẹ̄-ol′ọ̄-gas-tėr), ''n.'' [< L. ''theologus'', a theologue, + dim. ''-aster.''] A quack in theology; a shallow or pretended theologian. [Rare.]\n\n{{smaller block|This sorely distresses our ''theologaster:'' yet, instead of humbling himself under the weight of his own dulness, he turns, as is his way throughout, to insult the Author of The Divine Legation.\n{{right|''Warburton'', On Several Occasional Reflections, i., App.}}}}\n\n'''theologate''' (thẹ̄-ol′ọ̄-gāt), ''n.'' [< NL. *''theologatus'', < L. ''theologus'', theologue: see ''theologue'' and ''-ate''<sup>3</sup>.] The theological course of a student or novice preparing for the priesthood of the Roman Catholic Church. ''Worcester.''\n\n'''theologer''' (thẹ̄-ol′ọ̄-jėr), ''n.'' [< ''theolog-y'' + ''-er''<sup>1</sup>.] A theologian. [Rare.]\n\n{{smaller block|Can any sound ''Theologer'' think that these great Fathers understood what was Gospel, or what was Excommunication? {{right|''Milton'', Reformation in Eng., i.}}}}\n\n{{smaller block|The ancient tradition, insisted on by heathen priests and ''theologers'', is but a weak foundation.\n{{right|''Hume'', Nat. Hist. of Religion, xi.}}}}\n\n'''theologian''' (thẹ̄-ọ̄-lō′jian), ''a.'' and ''n.'' [= F. ''théologien'' = Pr. ''theologian;'' as LL. ''theologia'', theology, + ''-an.''] '''I.''' ''a.'' Theological. [Rare.]",
+   "c3s1": "¶\n'''II.''' ''n.'' '''1.''' A man skilled in theology, especially Christian theology; a divine.\n\n{{smaller block|A ''Theologian'', from the school\nOf Cambridge on the Charles, was there;\nSkilful alike with tongue and pen.\n{{right|''Longfellow'', Wayside Inn, Prelude.}}}}\n\n{{smaller block|The priest made by a sacred caste belongs to the caste that made him; but the great ''theologian'', though sprung out of one Church, belongs to all the Churches, supplies them with truth, learning, literature.\n{{right|''Contemporary Rev.'', LI. 219.}}}}\n\n'''2.''' A professor of or writer on theology; any person versed in theology: as, the lawyer was a very respectable ''theologian''.—'''Canon theologian''', {{smaller|in the ''Rom. Cath. Ch.'', a lecturer on theology and Holy Scripture who is attached to a cathedral church, or other church having a large body of clergy. Also called ''theologal'' and ''theologus''.}}\n\n'''theologic''' (thē-ọ̄-loj′ik), ''a.'' [= F. ''théologique'' = Sp. ''teológico'' = Pg. ''theologico'' = It. ''teologico'', < LL. ''theologicus'', < Gr. θεολογικός, of or pertaining to theology, < θεολογία, theology: see ''theology''.] Same as ''theological''.\n\n{{smaller block|In those days the great war of theology which has always divided New England was rife, and every man was marked and ruled as to his opinions, and the ''theologic'' lines passed even through the conjugal relation, which often, like everything else, had its Calvinistic and its Arminian side.\n{{right|''H. B. Stowe'', Oldtown, p. 53.}}}}\n\n'''theological''' (thē-ọ̄-loj′i-kal), ''a.'' [< ''theologic'' + ''-al''.] '''1.''' Pertaining to theology or divinity: as, ''theological'' criticism; a ''theological'' seminary.\n\n{{smaller block|Solemn themes\nOf ''theological'' and grave import.\n{{right|''Cowper'', Task, v. 662.}}}}\n\n'''2.''' Based upon the nature and will of God as revealed to man.",
+   "c3s2": "¶\n{{smaller block|It may be wondered, perhaps, that in all this while no mention has been made of the ''theological'' principle: meaning that principle which professes to recur for the standard of right and wrong to the will of God.\n{{right|''Bentham'', Introd. to Morals and Legislation, ii. 18.}}\nThe ''theological'' virtues [faith, hope, and charity] presuppose a knowledge of the revealed nature of God as a condition of their exercise, while the moral virtues issue in such a knowledge.\n{{right|''Blunt'', Dict. Theology, p. 797.}}}}\n\n'''Theological ceremonial law.''' See ''law''<sup>1</sup>.\n\n'''theologically''' (thē-ọ̄-loj′i-ka̤l-i), ''adv.'' In a theological manner; according to the principles of theology; in respect to theology.\n\n'''theologics''' (thē-ọ̄-loj′iks), ''n.'' [Pl. of ''theologic'' (see ''-ics'').] The essence of theology. [Rare.]\n\n{{smaller block|What angels would those be who thus excel\nIn ''theologics'', could they sew as well!\n{{right|''Young'', Love of Fame, v. 374.}}}}\n\n'''theologise, theologiser.''' See ''theologize, theologizer''.\n\n'''theologist''' (thē-ol′ọ̄-jist), ''n.'' [< ''theolog-y'' + ''-ist.''] Same as ''theologian''. [Rare.]\n\n{{smaller block|There be diuers coniectures made by the ''Theologists'', Why men should doubt or make question whether there be a God or no.\n{{right|''Heywood'', Hierarchy of Angels, p. 82.}}}}\n\n'''theologium''' (thē″ọ̄-lọ̄-jī′um), ''n.'' [NL., < Gr. θεολογεῖον (see def.), < θεός, god, + λογεῖον, a place for speaking, < λόγος, word, speech, < λέγειν, speak, say.] A small upper stage or balcony in the scene or stage-structure of the ancient theater, on which the impersonators of divinities sometimes appeared.\n\n'''theologize''' (thē-ol′ọ̄-jīz), ''v.''; pret. and pp. ''theologized'', ppr. ''theologizing''. [= Sp. ''teologizar''; as ''theolog-y'' + ''-ize.''] '''I.''' ''trans.'' To render theo-",
+   "c3s3": "logical.\n\n{{smaller block|School-divinity was but Aristotle's philosophy ''theologized.''\n{{right|''Glanville'', Pre-existence of Souls, iv. (''Latham.'')}}}}\n\n'''II.''' ''intrans.'' To theorize or speculate upon theological subjects; engage in theological discussion.\n\n{{smaller block|The mind of the Church must meditate, reflect, reason, philosophize, and ''theologize.''\n{{right|''Schaff'', Christ and Christianity, p. 49.}}}}\n\nAlso spelled ''theologise.''\n\n¶\n'''theologizer''' (thē-ol′ọ̄-jī-zėr), ''n.'' [< ''theologize'' + ''-er''<sup>1</sup>.] One who theologizes; a theologian. Also spelled ''theologiser.'' [Rare.]\n\n'''theologue''' (thē′ọ̄-log), ''n.'' [Also ''theolog;'' < F. ''théologue'' = Sp. ''teólogo'' = Pg. ''theologo'' = It. ''teologo'' = G. ''theolog'' = Sw. Dan. ''teolog,'' < L. ''theologus,'' < Gr. θεολόγος, one who speaks of the gods (as Homer, Hesiod, Orpheus) or of the divine nature, in later use, eccles., a theologian, a divine; prop. adj., speaking of God or of the gods, < θεός, god, + λέγειν, speak: see ''-ology.''] '''1.''' A theologian. [Now rare.]\n\n{{smaller block|The cardinals of Rome, which are ''theologues,'' and friars, and schoolmen, have a phrase of notable contempt and scorn towards civil business.\n{{right|''Bacon'', Praise (ed. 1887).}}}}\n\n'''2.''' A theological student. [Colloq.]\n\n{{smaller block|The ''theologues'' of the Hartford Seminary frequently find striking examples of practical theology in their mission work.\n{{right|''Religious Herald'', April 15, 1886.}}}}"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0077 c1f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     112,
+     1973,
+     786,
+     2493
+    ],
+    "caption": [
+     182,
+     2502,
+     729,
+     2524
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     115,
+     1973,
+     758,
+     2484
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 4368,
+    "output_tokens": 96,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 9254,
+    "output_tokens": 9756,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 29854
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|theodicæa|6273|theologue}}</noinclude>'''theodicæa, theodicea''' (thē″ọ-di-sē′ä), ''n.'' [NL.] Same as ''theodicy. Encyc. Brit.'', XIX. 820.\n\n'''theodicean''' (thē″ọ-di-sē′a̤n), ''a.'' [< NL. ''theodicæa'' (see ''theodicy'') + ''-an''.] Of or pertaining to theodicy.\n\n'''theodicy''' (thẹ̄-od′i-si), ''n.'' [Also ''theodicee, theodicæa, theodicea''; = F. ''théodicée'', < NL. ''theodicæa'' (Leibnitz), < Gr. θεός, god, + δίκη, right, justice (> δίκαιος, just).] An exposition of the theory of divine Providence with a view to the vindication of the attributes, particularly of the holiness and justice, of God, in establishing the present order of things, in which evil, moral as well as physical, largely exists. {{smaller|The word in this sense was used by Leibnitz in a series of essays, in which he maintained that metaphysical evil is necessary to moral beings, that physical evil is a means of a greater good, and that moral evil was permitted by God as necessary to the best possible world, as a set-off to moral good, which it increases by contrast.}}\n\n{{smaller block|The second [part of the work] will . . . be speculative, and will contain a new ''theodicee'', and what will perhaps appear to many a new basis of morals.\n{{right|''Coleridge'', To Sir George Beaumont (Memorials of [Coleorton, I. 45).}}}}\n\n'''theodolite''' (thẹ̄-od′ọ-līt), ''n.'' [Formerly ''theodelite''; sometimes ''theodelet''; G. Dan. ''theodolit''; = F. ''théodolite'' = Sp. ''teodolita'' = It. ''teodolito'' (all < E.); < NL. *''theodolitus'', first in the form ''theodelitus'' (L. Digges, \"Pantometria,\" 1571), defined as \"a circle divided in 360 grades or degrees, or a semicircle parted in 180 portions\"; origin unknown. The word has a Gr. semblance, but no obvious Gr. basis. It has been variously explained: (''a'') < Gr. θεᾶσθαι, see, + ὁδός, way, + λιτός, smooth, even, plain; (''b'') < Gr. θεᾶσθαι, see, + δολιχός, long; (''c'') < Gr. θεῖν, run, + δολιχός, long; (''d'') < Gr. θεᾶσθαι, see (θέα, a seeing), + δοῦλος, slave; (''e'') \"the O ''delitus''\" or \"''deletus'','' i. e. the O crossed out, a fanciful name imagined to have been given in view of the circle marked off in degrees by numerous diameters, giving the effect of a circle or \"O\" erased; with other equally futile conjectures. (''f'') A recent explanation makes it a corrupt form of ''alidade''.] A surveying-instrument for measuring horizontal angles upon a graduated circle. {{smaller|It may also be provided with a vertical circle, and if this is not very much smaller than the horizontal circle, the instrument is called an ''altazimuth''. If it is provided with a delicate striding level and is in every way convenient for astronomical work, it is called a ''universal instrument''. A small altazimuth with a concentric magnetic compass is called a ''surveyors' transit''. A theodolite in which the whole instrument, except the feet and their connections, turns relatively to the latter, and can be clamped in different positions, is called a ''repeating circle''. The instrument shown in the figure follows the system of the United States Coast Survey of attaining simplicity of construction by adaptation to a single purpose — in this case to the measurement of horizontal angles only. This instrument is low and consequently very steady. Within the upright pillar is a truncated cone of steel, and upon this and fitting to it turns}} the hollow brass pillar carrying the telescope and microscopes. Except for an excessively thin layer of oil, the brass movable part bears directly on the steel, and its weight tends to keep it centered. The pressure is relieved by a small plate of some elasticity fastened to the movable part over the axis and adjustable with screws. It is thus made to turn, as nearly as possible, about a mathematical line. This is the conical bearing of Gambey. The base, which is as low as possible, consists of a round central part, and three arms having screw-feet with binding-screws. A circular guard for the circle (indistinguishable from the latter in the figure) forms a part of the base. The graduated circle is made slightly conical, so that the microscopes may be more convenient. This circle, with its eight radii and interior ring, forms one solid casting, which bears upon the steel axis conically. It is held in place, in imitation of an instrument by Stackpole of New York, by the pressure of a ring above, which can readily be loosened so as to permit the circle to be turned round alone. The telescope is provided with a filar micrometer, with a view of facilitating reiterated pointings — a new principle of much value. The instrument is leveled by means of a striding level. There are four micrometer microscopes (although some geodesists insist upon an odd number), made adjustable so that one division of the circle shall be very nearly covered by two and a half turns of the {{smaller block|micrometer-screw. The illumination for these microscopes is made through their objectives by light brought, according to the plan of Messrs. Brunner, by prisms from a point vertically over the axis, where a horizontal ground glass is hung in the daytime and a lamp with a porcelain shade at night, so that the images of the lines plowed by the graver in the polished surface of the circle shall not be displaced by oblique illumination. The clamp is attached to an arm from a ring about the brass upright, and bears upon the circular guard outside the circle proper. The tangent screw is contrived so as to eliminate dead motion. The arm carrying the clamp is balanced by another bearing a small finding microscope. Theodolites are made upon manifold models; but the one figured in preceding column is a good example of a modern first-class instrument.}}\n\n[[File:century v08 p0077 c1f1.png|center|360px]]\n{{c|Theodolite, constructed by Brunner Brothers of Paris.}}\n\n'''theodolite-magnetometer''' (thẹ̄-od′ọ̄-līt-mag-ne-tom′e-tėr), ''n.'' An instrument employed as a declinometer to measure variations in declination, and as a magnetometer in determinations of force.\n\n'''theodolitic''' (thē-od-ō-lit′ik), ''a.'' [< ''theodolite'' + ''-ic.''] Of or pertaining to a theodolite; made by means of a theodolite. ''Imp. Dict.''\n\n'''Theodosian''' (thē-ọ̄-dō′sian), ''a.'' and ''n.'' [< ''Theodosius'', < Gr. Θεοδόσιος, a man's name (lit. 'gift of God,' < θεός, god, + δόσις, gift: see ''dose''), + ''-an.''] '''I.''' ''a.'' Pertaining to any one named Theodosius, particularly to either of the emperors Theodosius I. (379–395) and Theodosius II. (408–450).—'''Theodosian code.''' {{smaller|See ''code''.}}\n\n'''II.''' ''n.'' One of a body of Russian dissenters who purify by prayer all articles purchased from unbelievers: so called from their founder, Theodosius, a Russian monk in the sixteenth century.\n\n'''Theodotian''' (thē-ọ̄-dō′shian), ''n.'' [< ''Theodotus'', < Gr. Θεόδοτος, a man's name (lit. ‘given by God,’ < θεός, god, + δοτός, verbal adj. of διδόναι, give), + ''-ian.''] One of a party of anti-Trinitarians or Monarchians, followers of Theodotus the Tanner, of Byzantium, about {{sc|a. d.}} 200, who taught that Christ was a mere man.\n\n'''theogonic''' (thē-ọ̄-gon′ik), ''a.'' [< ''theogon-y'' + ''-ic.''] Of or relating to theogony.\n\n{{smaller block|The ''theogonic'' and cosmogonic notions of Homer and Hesiod.\n{{right|''Ueberweg'', Hist. Philosophy (trans.), I. 24.}}}}\n\n'''theogonism†''' (thē-og′ọ̄-nizm), ''n.'' [< ''theogon-y'' + ''-ism.''] Theogony. ''Imp. Dict.''\n\n'''theogonist''' (thē-og′ọ̄-nist), ''n.'' [< ''theogon-y'' + ''-ist.''] One who is versed in theogony. ''Imp. Dict.''\n\n'''theogony''' (thē-og′ọ̄-ni), ''n.'' [= F. ''théogonie'' = Sp. ''teogonía'' = Pg. ''theogonia'' = It. ''teogonia'', < L. ''theogonia'', < Gr. θεογονία, a generation or genealogy of the gods, < θεός, god, + -γονία, < γόνος, generation: see ''-gony.''] That branch of non-Christian theology which teaches the genealogy or origin of the deities; in a particular sense, one of a class of poems which treat of the generation and descent of the gods: as, the ancient Greek ''theogony'' of Hesiod.\n\n{{smaller block|He [Epicurus] means the evil Genius and the good Genius in the ''theogony'' of the Persians.\n{{right|''Landor'', Imag. Conv., Epicurus, Leontion, and Ternissa.}}}}\n\n{{smaller block|In the hymns of the Rig-Veda we still have the last chapter of the real ''Theogony'' of the Aryan races.\n{{right|''Max Müller'', Sci. of Lang., 2d ser., p. 429.}}}}\n\n'''theol.''' An abbreviation: (''a'') of ''theological;'' (''b'') of ''theology.''\n\n¶\n'''theolog''', ''n.'' See ''theologue.'' [Colloq.]\n\n'''theologal''' (thẹ̄-ol′ọ̄-gal), ''n.'' [= F. ''théologal'' = Sp. ''teologal'' = Pg. ''theologal'', theological, a theologal, = It. ''teologale'', < NL. *''theologalis'', < L. ''theologus'', theologue: see ''theologue.''] Same as ''canon theologian'' (which see, under ''theologian'').\n\n'''theologaster''' (thẹ̄-ol′ọ̄-gas-tėr), ''n.'' [< L. ''theologus'', a theologue, + dim. ''-aster.''] A quack in theology; a shallow or pretended theologian. [Rare.]\n\n{{smaller block|This sorely distresses our ''theologaster:'' yet, instead of humbling himself under the weight of his own dulness, he turns, as is his way throughout, to insult the Author of The Divine Legation.\n{{right|''Warburton'', On Several Occasional Reflections, i., App.}}}}\n\n'''theologate''' (thẹ̄-ol′ọ̄-gāt), ''n.'' [< NL. *''theologatus'', < L. ''theologus'', theologue: see ''theologue'' and ''-ate''<sup>3</sup>.] The theological course of a student or novice preparing for the priesthood of the Roman Catholic Church. ''Worcester.''\n\n'''theologer''' (thẹ̄-ol′ọ̄-jėr), ''n.'' [< ''theolog-y'' + ''-er''<sup>1</sup>.] A theologian. [Rare.]\n\n{{smaller block|Can any sound ''Theologer'' think that these great Fathers understood what was Gospel, or what was Excommunication? {{right|''Milton'', Reformation in Eng., i.}}}}\n\n{{smaller block|The ancient tradition, insisted on by heathen priests and ''theologers'', is but a weak foundation.\n{{right|''Hume'', Nat. Hist. of Religion, xi.}}}}\n\n'''theologian''' (thẹ̄-ọ̄-lō′jian), ''a.'' and ''n.'' [= F. ''théologien'' = Pr. ''theologian;'' as LL. ''theologia'', theology, + ''-an.''] '''I.''' ''a.'' Theological. [Rare.]\n\n'''II.''' ''n.'' '''1.''' A man skilled in theology, especially Christian theology; a divine.\n\n{{smaller block|A ''Theologian'', from the school\nOf Cambridge on the Charles, was there;\nSkilful alike with tongue and pen.\n{{right|''Longfellow'', Wayside Inn, Prelude.}}}}\n\n{{smaller block|The priest made by a sacred caste belongs to the caste that made him; but the great ''theologian'', though sprung out of one Church, belongs to all the Churches, supplies them with truth, learning, literature.\n{{right|''Contemporary Rev.'', LI. 219.}}}}\n\n'''2.''' A professor of or writer on theology; any person versed in theology: as, the lawyer was a very respectable ''theologian''.—'''Canon theologian''', {{smaller|in the ''Rom. Cath. Ch.'', a lecturer on theology and Holy Scripture who is attached to a cathedral church, or other church having a large body of clergy. Also called ''theologal'' and ''theologus''.}}\n\n'''theologic''' (thē-ọ̄-loj′ik), ''a.'' [= F. ''théologique'' = Sp. ''teológico'' = Pg. ''theologico'' = It. ''teologico'', < LL. ''theologicus'', < Gr. θεολογικός, of or pertaining to theology, < θεολογία, theology: see ''theology''.] Same as ''theological''.\n\n{{smaller block|In those days the great war of theology which has always divided New England was rife, and every man was marked and ruled as to his opinions, and the ''theologic'' lines passed even through the conjugal relation, which often, like everything else, had its Calvinistic and its Arminian side.\n{{right|''H. B. Stowe'', Oldtown, p. 53.}}}}\n\n'''theological''' (thē-ọ̄-loj′i-kal), ''a.'' [< ''theologic'' + ''-al''.] '''1.''' Pertaining to theology or divinity: as, ''theological'' criticism; a ''theological'' seminary.\n\n{{smaller block|Solemn themes\nOf ''theological'' and grave import.\n{{right|''Cowper'', Task, v. 662.}}}}\n\n'''2.''' Based upon the nature and will of God as revealed to man.\n\n{{smaller block|It may be wondered, perhaps, that in all this while no mention has been made of the ''theological'' principle: meaning that principle which professes to recur for the standard of right and wrong to the will of God.\n{{right|''Bentham'', Introd. to Morals and Legislation, ii. 18.}}\nThe ''theological'' virtues [faith, hope, and charity] presuppose a knowledge of the revealed nature of God as a condition of their exercise, while the moral virtues issue in such a knowledge.\n{{right|''Blunt'', Dict. Theology, p. 797.}}}}\n\n'''Theological ceremonial law.''' See ''law''<sup>1</sup>.\n\n'''theologically''' (thē-ọ̄-loj′i-ka̤l-i), ''adv.'' In a theological manner; according to the principles of theology; in respect to theology.\n\n'''theologics''' (thē-ọ̄-loj′iks), ''n.'' [Pl. of ''theologic'' (see ''-ics'').] The essence of theology. [Rare.]\n\n{{smaller block|What angels would those be who thus excel\nIn ''theologics'', could they sew as well!\n{{right|''Young'', Love of Fame, v. 374.}}}}\n\n'''theologise, theologiser.''' See ''theologize, theologizer''.\n\n'''theologist''' (thē-ol′ọ̄-jist), ''n.'' [< ''theolog-y'' + ''-ist.''] Same as ''theologian''. [Rare.]\n\n{{smaller block|There be diuers coniectures made by the ''Theologists'', Why men should doubt or make question whether there be a God or no.\n{{right|''Heywood'', Hierarchy of Angels, p. 82.}}}}\n\n'''theologium''' (thē″ọ̄-lọ̄-jī′um), ''n.'' [NL., < Gr. θεολογεῖον (see def.), < θεός, god, + λογεῖον, a place for speaking, < λόγος, word, speech, < λέγειν, speak, say.] A small upper stage or balcony in the scene or stage-structure of the ancient theater, on which the impersonators of divinities sometimes appeared.\n\n'''theologize''' (thē-ol′ọ̄-jīz), ''v.''; pret. and pp. ''theologized'', ppr. ''theologizing''. [= Sp. ''teologizar''; as ''theolog-y'' + ''-ize.''] '''I.''' ''trans.'' To render theological.\n\n{{smaller block|School-divinity was but Aristotle's philosophy ''theologized.''\n{{right|''Glanville'', Pre-existence of Souls, iv. (''Latham.'')}}}}\n\n'''II.''' ''intrans.'' To theorize or speculate upon theological subjects; engage in theological discussion.\n\n{{smaller block|The mind of the Church must meditate, reflect, reason, philosophize, and ''theologize.''\n{{right|''Schaff'', Christ and Christianity, p. 49.}}}}\n\nAlso spelled ''theologise.''\n\n¶\n'''theologizer''' (thē-ol′ọ̄-jī-zėr), ''n.'' [< ''theologize'' + ''-er''<sup>1</sup>.] One who theologizes; a theologian. Also spelled ''theologiser.'' [Rare.]\n\n'''theologue''' (thē′ọ̄-log), ''n.'' [Also ''theolog;'' < F. ''théologue'' = Sp. ''teólogo'' = Pg. ''theologo'' = It. ''teologo'' = G. ''theolog'' = Sw. Dan. ''teolog,'' < L. ''theologus,'' < Gr. θεολόγος, one who speaks of the gods (as Homer, Hesiod, Orpheus) or of the divine nature, in later use, eccles., a theologian, a divine; prop. adj., speaking of God or of the gods, < θεός, god, + λέγειν, speak: see ''-ology.''] '''1.''' A theologian. [Now rare.]\n\n{{smaller block|The cardinals of Rome, which are ''theologues,'' and friars, and schoolmen, have a phrase of notable contempt and scorn towards civil business.\n{{right|''Bacon'', Praise (ed. 1887).}}}}\n\n'''2.''' A theological student. [Colloq.]\n\n{{smaller block|The ''theologues'' of the Hartford Seminary frequently find striking examples of practical theology in their mission work.\n{{right|''Religious Herald'', April 15, 1886.}}}}<noinclude><references/></noinclude>"
+}

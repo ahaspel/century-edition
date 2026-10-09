@@ -1,0 +1,226 @@
+{
+ "volume": 8,
+ "page_number": 50,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n49.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n49.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": 0.0,
+  "column_width": 864,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     90,
+     80,
+     2438,
+     117
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     90,
+     117,
+     827,
+     1199
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     90,
+     1199,
+     827,
+     2297
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     90,
+     2297,
+     827,
+     3244
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     827,
+     117,
+     1574,
+     319
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     827,
+     319,
+     1574,
+     924
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     827,
+     938,
+     1574,
+     962
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     827,
+     962,
+     1574,
+     1760
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     827,
+     1760,
+     1574,
+     2855
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     827,
+     2855,
+     1574,
+     3244
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1574,
+     117,
+     2438,
+     1193
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1574,
+     1193,
+     2438,
+     2224
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1574,
+     2224,
+     2438,
+     3244
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|terræ filius|6246|terrestrial}}",
+   "c1s1": "¶\n{{smaller block|The assembly now return'd to the Theater, where the ''Terræ filius'' (the Universitie Buffoone) entertain'd the auditorie with a tedious, abusive, sarcastical rhapsodie, most unbecoming the gravity of the Universitie.\n{{right|''Evelyn'', Diary, July 10, 1669.}}}}\n\n'''terrage<sup>1</sup>''' (ter′āj), ''n.'' [< F. ''terre'' (< L. ''terra''), earth, + ''-age.'' Cf. ''terage.''] A mound of earth, especially a small one, as in a flower-pot, in which plants can be set for household decoration.\n\n'''terrage<sup>2</sup>''' (ter′āj), ''n.'' [Also ''terriage''; < OF. ''terrage'', field-rent, < ''terre'', land: see ''terra.''] In ''old Eng. law'', an exaction or fee paid to the owner of the land for some license, privilege, or exemption, such, for instance, as leave to dig or break the earth for a grave, or in setting up a market or fair, or for freedom from service in tillage, or for being allowed an additional holding, etc.\n\n'''terrain''' (te-rān′), ''n.'' [Also sometimes ''terrane''; < F. ''terrain, terrein'', ground, a piece of ground, soil, rock, = It. ''terreno'', < L. ''terrenum'', land, ground, prop. neut. of ''terrenus'', consisting of earth, < ''terra'', earth: see ''terra, terrene.''] A part of the earth's surface limited in extent; a region, district, or tract of land, either looked at in a general way or considered with reference to its fitness or use for some special purpose, as for a building-place or a battle-field: a term little used in English except in translating from the French, and then with the same meaning which it has in the original. {{smaller|The word is, however, also used in various idiomatic expressions, in translating a number of which the English word \"ground\" is most properly employed: as, \"gagner du ''terrain'','' to gain ground; \"perdre du ''terrain'','' to lose ground, favor, or credit; also with}}",
+   "c1s2": "{{smaller block|various metaphorical significations: as, \"être sur son ''terrain'','' to have to do with, or to speak of, that with which one is thoroughly familiar; \"sonder le ''terrain'','' examine the conditions, or look into the matter, etc. As used by French geologists, the word ''terrain'' has a somewhat vague meaning, and is usually limited by some qualifying term: as, \"''terrain'' de transition,\" \"''terrain'' primitif.\" This word was introduced into English geological literature by the translator of Humboldt's \"Essai Géognostique,\" where it was used, as he remarks, \"because we have no word in the English language which will accurately express ''terrain'' as used in geology by the French.\" Also spelled (but rarely) ''terrane''.}}\n\n{{smaller block|Rocks which alternate with each other, and which are found usually together, and which display the same relations of position, constitute the same formation; the union of several formations constitutes a geological series or a district (''terrain''); but the terms rocks, formations, and ''terrains'' are used as synonymous in many works on geognosy.\n{{right|''Humboldt'', Geognostical Essay on the Superposition of Rocks (trans.), p. 2.}}}}\n\n{{smaller block|This term [''terrane''] is used for any single rock or continuous series of rocks of a region, whether the formation be stratified or not. It is applied especially to metamorphic and igneous rocks, as a basaltic ''terrane'', etc.\n{{right|''J. D. Dana'', Man. of Geol. (rev. ed.), p. 81.}}}}\n\n'''terramara''' (ter-ȧ-mä′rä), ''n.''; pl. ''terramare'' (-re). [< It. ''terra amara'', bitter earth (a term used in the vicinity of Parma): ''terra'', < L. ''terra'', earth; ''amara'', fem. of ''amaro'', < L. ''amarus'', bitter.] Any stratum or deposit of earthy material containing organic or mineral matter (such as bones or phosphates) in sufficient quantity to furnish a valuable fertilizer; hence, a deposit containing prehistoric remains, as fragments of bones and pottery, cinders, etc., of similar character to the deposits called in northern Europe ''kitchen-middens''. {{smaller|There are large numbers of these terramare on}}",
+   "c1s3": "{{smaller block|the plain traversed by the Via Emilia between the Po and the Apennines; some of them are intermediate in character between the kitchen-middens of Denmark and the palafittes of Switzerland, appearing to mark sites of settlements originally built on piles in shallow lakes (or perhaps on marshy ground subject to frequent inundation), which have gradually become desiccated while the stations continued to be occupied.}}\n\n¶\n'''terrane''', ''n.'' See ''terrain.''\n\n'''terranean''' (te-rā′nē-ạn), ''a.'' [< L. ''terra'', earth, + ''-an'' + ''-e-an'' (after ''subterranean'', ''mediterranean'', etc.).] Being in the earth; belonging to the earth, or occurring beneath the surface of the earth.\n\n{{smaller block|The great strain on the trolley wire which would be a necessary incident of ''terranean'' supply renders such a system impracticable.\n{{right|''Elect. Rev.'' (Amer.), XVIII. i. 9.}}}}\n\n'''terraneous''' (te-rā′nē-us), ''a.'' [< L. ''terra'', earth, + ''-an'' + ''-e-ous'' (after ''subterraneous'').] In ''bot.'', growing on land.\n\n'''terrapene†''', ''n.'' An obsolete variant of ''terrapin.''\n\n'''Terrapenes''' (ter-a-pē′nēz), ''n. pl.'' [NL.: see ''terrapin.''] A subdivision of ''Emydea'' (which see), in which the pelvis is free, the neck bends in a vertical plane, and the head may be almost completely retracted within the carapace. ''Huxley.'' {{smaller|The group contains such genera as ''Emys'', ''Cistudo'', ''Chelydra'', ''Cinosternum'', and ''Staurotypus''. The other subdivision of ''Emydea'' is ''Chelodines''. See cuts under ''Cinosternum'', ''Cistudo'', and ''terrapin''.}}\n\n'''terrapin''' (ter′ạ-pin), ''n.'' [Formerly also ''terapin'', ''terrapene'', ''turpin;'' supposed to be of Amer.",
+   "c2s1": "Ind. origin.] '''1.''' One of several different fresh-water or tide-water tortoises of the family ''Emydidæ;'' specifically, in the United States, the diamond-back, ''Malaclemmys'' or ''Malacoclemmys palustris'', of the Atlantic coast from New",
+   "c2c1": "{{c|Diamond-backed Terrapin (''Malaclemmys palustris'').}}",
+   "c2s2": "York to Texas, famous among epicures. See ''diamond-backed turtle'' (under ''diamond-backed''), and ''Malaclemmys.'' {{smaller|In trade use the sexes are distinguished as ''bull'' and ''cow'', and small ones as ''little bulls'' and ''heifers'' respectively. Those under 5 or 6 inches in total length of the under shell are termed ''cullings'', of which it takes from 18 to 24 or more to make a \"dozen.\" Those of 6 inches and more are ''counts'' or ''counters'', of 12 to the dozen. Only the cows reach 6½ to 7 inches in this measurement; these are known to dealers as ''full counts'', and are especially valuable because they usually contain eggs; the bulls are tougher as well as smaller, and of less market value.}}\n\n'''2.''' Some other tortoise or turtle: as, the elephant ''terrapin'' of the Galapagos.—'''3.''' A dish made of the diamond-back.\n\n{{smaller block|''Terrapin'' is essentially a Philadelphia dish. Baltimore delights in it, Washington eats it, New York knows it, but in Philadelphia it approaches a crime not to be passionately fond of it.\n{{right|''J. W. Forney'', The Epicure.}}}}\n\n{{smaller|'''Alligator terrapin.''' See ''alligator-terrapin.''—'''Diamond-backed terrapin,''' the diamond-backed turtle. See ''diamond-backed'', and def. 1.—'''Elephant terrapin.''' See ''elephant tortoise'', under ''tortoise.''—'''Mud-terrapin,''' any mud-turtle, as of the genus ''Cinosternum.'' [U. S.]—'''Painted terrapin''' or '''turtle,''' ''Chrysemys picta'', of the United States. See ''Chrysemys.''—'''Pine-barren terrapin,''' the gopher of the southern United States, ''Testudo carolina.''—'''Red-bel-}}",
+   "c2s3": "'''lied terrapin,''' ''Chrysemys rubriventris'' or ''Pseudemys rugosa;'' the potter or red-fender. See cut under ''slider.''—'''Salt-marsh''' or '''salt-water terrapin,''' in the United States, one of several different ''Emydidæ'' of salt or brackish water, among them the diamond-back and slider. See cut above, and cut under ''slider.''—'''Speckled terrapin,''' the spotted turtle, ''Chelopus guttatus,'' a small fresh-water tortoise of the United States, whose black carapace has round yellow spots.—'''Yellow-bellied terrapin,''' ''Pseudemys scabra,'' of southern parts of the United States.\n\n'''terrapin-farm''' (ter′a-pin-färm), ''n.'' A place where the diamond-back is cultivated.\n\n'''terrapin-paws''' (ter′a-pin-pâz), ''n. sing.'' and ''pl.'' A pair of long-handled tongs used in catching terrapin. [Chesapeake Bay.]\n\n'''terraquean''' (te-rā′kwē-an), ''a.'' [< ''terraque-ous'' + ''-an.''] Terraqueous. [Rare.]\n\n{{smaller block|This ''terraquean'' globe. {{right|''Macmillan's Mag.'', III. 471.}}}}\n\n'''terraqueous''' (te-rā′kwē-us), ''a.'' [< L. ''terra,'' earth, + ''aqua,'' water (see ''aqueous'').] Consisting of land and water, as the globe or earth.\n\n{{smaller block|I find but one thing that may give any just offence, and that is the Hypothesis of the ''Terraqueous'' globe, wherewith I must confesse my self not to be satisfied.\n{{right|''Ray,'' in Letters of Eminent Men, II. 159.}}}}\n\n'''terrar†''', ''n.'' Same as ''terrier''<sup>2</sup>.\n\n'''terrarium''' (te-rā′ri-um), ''n.''; pl. ''terrariums, terraria'' (-umz, -ä). [< L. ''terra,'' earth: a word modeled on ''aquarium.''] A vivarium for land animals; a place where such animals are kept alive for study or observation.\n\n{{smaller block|Herr Fischer-Sigwart describes the ways of a snake, Tropidonotus tesselatus, which he kept in his ''terrarium'' in Zurich. {{right|''Science'', XV. 24.}}}}\n\n'''terras<sup>1</sup>†''', ''n.'' An obsolete form of ''terrace''<sup>1</sup>.\n\n'''terras<sup>2</sup>''' (te-ras′), ''n.'' Same as ''trass.''",
+   "c2s4": "¶\n'''terrasphere''' (ter′ạ-sfēr), ''n.'' [Irreg. < L. ''terra'', earth, + Gr. σφαῖρα, sphere.] Same as ''tellurion.''\n\n'''terrasse''', ''n.'' Same as ''terrace''<sup>2</sup>.\n\n'''terre'''<sup>1</sup>†, ''v. t.'' Same as ''tar''<sup>2</sup>.\n\n'''terre'''<sup>2</sup>†, ''v. t.'' [< F. ''terrer'', < ''terre'', earth: see ''terra.'' Cf. ''inter'', ''atter.''] To strike to the earth.\n\n{{smaller block|\"Loe, heere my gage\" (he ''terr'd'' his gloue);<br>\"Thou know'st the victor's meed.\"\n{{right|''Warner'', Albion's England, iii. 128.}}}}\n\n'''terreen'''† (te-rēn′), ''n.'' See ''tureen.''\n\n'''terreity'''† (te-rē′ị-ti), ''n.'' [< L. ''terra'' + ''-e-ity.''] Earthiness. [Rare.]",
+   "c3s1": "{{smaller block|The aqueity,\n''Terreity'', and sulphureity\nShall run together again, and all be annull'd.\n{{right|''B. Jonson'', Alchemist, ii. 1.}}}}\n\n'''terrel†''' (ter′el), ''n.'' [Also ''terrella'', ''terella''; < NL. ''terrella'', dim. of L. ''terra'', earth: see ''terra''.] A spherical figure so placed that its poles, equator, etc., correspond exactly to those of the earth, for showing magnetic deviations, etc.\n\n'''terrella†''' (te-rel′ä̤), ''n.'' Same as ''terrel''.\n\n{{smaller block|I was shew'd a pretty ''Terrella'', describ'd with all y<sup>e</sup> circles, and shewing all y<sup>e</sup> magnetic deviations.\n{{right|''Evelyn'', Diary, July 3, 1655.}}}}\n\n'''Terrell grass.''' A species of wild rye, or lymegrass, ''Elymus Virginicus'', a coarse grass, but found useful for forage in the southern United States: so named from a promoter of its use.\n\n'''terremote†''' (ter′e-mōt), ''n.'' [ME., < OF. ''terremote'', < ML. ''terræ motus'', earthquake: L. ''terræ'', gen. of ''terra'', earth; ''motus'', movement, < ''movere'', pp. ''motus'', move: see ''motion''.] An earthquake.\n\n{{smaller block|All the halle quoke,\nAs it a ''terremote'' were. ''Gower'', Conf. Amant., vi.}}\n\n'''terremotive''' (ter-e-mō′tiv), ''a.'' [< ''terremote'' + ''-ive''.] Of, pertaining to, characterized by, or causing motion of the earth's surface; seismic. [Rare.]\n\n{{smaller block|We may mark our cycles by the greatest known paroxysms of volcanic and ''terremotive'' agency.\n{{right|''Whewell'', Philos. of Inductive Sciences, X. iii. § 4.}}}}\n\n'''terrene<sup>1</sup>''' (te-rēn′), ''a.'' and ''n.'' [= Sp. Pg. It. ''terreno'', < L. ''terrenus'', of, pertaining to, or consisting of earth (neut. ''terrenum'', land, ground: see ''terrain''), < ''terra'', earth, land: see ''terra''.] '''I.''' ''a.''",
+   "c3s2": "Of or pertaining to the earth; earthly; terrestrial: as, ''terrene'' substance.\n\n{{smaller block|I beleue noght that ''terrene'' boody sothlesse<br>Of lusty beute may haue such richesse,<br>So moche of swetnesse, so moche of connyng,<br>As in your gentil body is beryng.\n{{right|''Rom. of Partenay'' (E. E. T. S.), l. 417.}}}}\n\n{{smaller block|These thick vapours of ''terrene'' affections will be dispersed. ''Jer. Taylor'', Works (ed. 1835), I. 386.}}\n\n{{smaller block|I would teach him . . . that Mammonism was, not the essence of his or of my station in God's Universe, but the adscititious excrescence of it; the gross, ''terrene'', godless embodiment of it.\n{{right|''Carlyle.''}}}}\n\n'''II.''' ''n.'' The earth. [Rare.]\n\n{{smaller block|Over many a tract<br>Of heaven they march'd, and many a province wide,<br>Tenfold the length of this ''terrene''. ''Milton'', P. L., vi. 78.}}\n\n'''terrene<sup>2</sup>†''', ''n.'' See ''terrine'', ''tureen''.\n\n'''terrenely†''', ''adv.'' [ME. ''terrenly''; < ''terrene''<sup>1</sup> + ''-ly''<sup>2</sup>.] As regards lands.\n\n{{smaller block|I Hym make my proper enheritour,<br>For yut shall he be wurthy ''terrenly''.\n{{right|''Rom. of Partenay'' (E. E. T. S.), l. 5014.}}}}\n\n'''terrenity''' (te-ren′i-ti), ''n.'' [< ''terrene''<sup>1</sup> + ''-ity''.] The state or character of being terrene; worldliness.\n\n{{smaller block|Being overcome . . . debases all the spirits to a dull and low ''terrenity''. ''Feltham'', Resolves.}}\n\n'''terreous†''' (ter′ē-us), ''a.'' [= Sp. Pg. It. ''terreo'', < L. ''terreus'', earthen, < ''terra'', earth: see ''terra''. Cf. ''terrosity''.] Earthy; consisting of earth.\n\n{{smaller block|According to the temper of the ''terreous'' parts at the bottom, variously begin intumescencies.\n{{right|''Sir T. Browne'', Vulg. Err.}}}}",
+   "c3s3": "¶\n'''terre-plein''' (tãr′plān), ''n.'' [F., < ''terre'', earth, + ''plein'' for ''plain'', level, flat: see ''terra'' and ''plain''<sup>1</sup>.] 1. In ''fort.'', the top, platform, or horizontal surface of a rampart, on which the cannon are placed.—2. The plane of site or level surface around a field-work.\n\n'''terresity†''', ''n.'' See ''terrosity''.\n\n'''terrestre†''', ''a.'' [ME., < OF. (and F.) ''terrestre'' = Pr. Sp. Pg. It. ''terrestre'', < L. ''terrestris'', of or belonging to the earth, < ''terra'', earth: see ''terra''. Cf. ''terrestrial''.] Terrestrial; earthly.\n\n{{smaller block|Heere may ye se, and heerby may ye preve,<br>That wyf is mannes helpe and his confort,<br>His Paradys ''terrestre'', and his disport.\n{{right|''Chaucer'', Merchant's Tale, l. 88.}}}}\n\n'''terrestreity''' (ter-es-trē′i̤-ti), ''n.'' Admixture of earth.\n\n{{smaller block|Sulphur itself . . . is not quite devoid of ''terrestreity''.\n{{right|''Boyle'', Mechanical Hypotheses.}}}}\n\n'''Terrestres''' (te-res′trēz), ''n. pl.'' [NL., pl. of L. ''terrestris'', of or belonging to the earth: see ''terrestre'', ''terrestrial''.] In ''ornith.'', one of three series into which birds were formerly divided, containing the rasorial and cursorial forms: contrasted with ''Aëreæ'' and ''Aquaticæ'': more fully called ''Aves terrestres''.\n\n'''terrestrial''' (te-res′tri-al), ''a.'' and ''n.'' [< ME. ''terrestriall'', < OF. ''terrestrial'', < L. ''terrestris'', of or belonging to the earth (see ''terrestre''), + ''-al''.] I. ''a.'' 1. Of or pertaining to the earth; existing on the earth; earthly: opposed to ''celestial'': as, ''terrestrial'' bodies; ''terrestrial'' magnetism."
+  },
+  "figure_files": {
+   "c2f1": "century v08 p0050 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     924,
+     318,
+     1475,
+     922
+    ],
+    "caption": [
+     914,
+     938,
+     1492,
+     962
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     1116,
+     287,
+     1547,
+     928
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 4381,
+    "output_tokens": 87,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 12,
+    "input_tokens": 9512,
+    "output_tokens": 9907,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 32568
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|terræ filius|6246|terrestrial}}</noinclude>{{smaller block|The assembly now return'd to the Theater, where the ''Terræ filius'' (the Universitie Buffoone) entertain'd the auditorie with a tedious, abusive, sarcastical rhapsodie, most unbecoming the gravity of the Universitie.\n{{right|''Evelyn'', Diary, July 10, 1669.}}}}\n\n'''terrage<sup>1</sup>''' (ter′āj), ''n.'' [< F. ''terre'' (< L. ''terra''), earth, + ''-age.'' Cf. ''terage.''] A mound of earth, especially a small one, as in a flower-pot, in which plants can be set for household decoration.\n\n'''terrage<sup>2</sup>''' (ter′āj), ''n.'' [Also ''terriage''; < OF. ''terrage'', field-rent, < ''terre'', land: see ''terra.''] In ''old Eng. law'', an exaction or fee paid to the owner of the land for some license, privilege, or exemption, such, for instance, as leave to dig or break the earth for a grave, or in setting up a market or fair, or for freedom from service in tillage, or for being allowed an additional holding, etc.\n\n'''terrain''' (te-rān′), ''n.'' [Also sometimes ''terrane''; < F. ''terrain, terrein'', ground, a piece of ground, soil, rock, = It. ''terreno'', < L. ''terrenum'', land, ground, prop. neut. of ''terrenus'', consisting of earth, < ''terra'', earth: see ''terra, terrene.''] A part of the earth's surface limited in extent; a region, district, or tract of land, either looked at in a general way or considered with reference to its fitness or use for some special purpose, as for a building-place or a battle-field: a term little used in English except in translating from the French, and then with the same meaning which it has in the original. {{smaller|The word is, however, also used in various idiomatic expressions, in translating a number of which the English word \"ground\" is most properly employed: as, \"gagner du ''terrain'','' to gain ground; \"perdre du ''terrain'','' to lose ground, favor, or credit; also with various metaphorical significations: as, \"être sur son ''terrain'','' to have to do with, or to speak of, that with which one is thoroughly familiar; \"sonder le ''terrain'','' examine the conditions, or look into the matter, etc. As used by French geologists, the word ''terrain'' has a somewhat vague meaning, and is usually limited by some qualifying term: as, \"''terrain'' de transition,\" \"''terrain'' primitif.\" This word was introduced into English geological literature by the translator of Humboldt's \"Essai Géognostique,\" where it was used, as he remarks, \"because we have no word in the English language which will accurately express ''terrain'' as used in geology by the French.\" Also spelled (but rarely) ''terrane''.}}\n\n{{smaller block|Rocks which alternate with each other, and which are found usually together, and which display the same relations of position, constitute the same formation; the union of several formations constitutes a geological series or a district (''terrain''); but the terms rocks, formations, and ''terrains'' are used as synonymous in many works on geognosy.\n{{right|''Humboldt'', Geognostical Essay on the Superposition of Rocks (trans.), p. 2.}}}}\n\n{{smaller block|This term [''terrane''] is used for any single rock or continuous series of rocks of a region, whether the formation be stratified or not. It is applied especially to metamorphic and igneous rocks, as a basaltic ''terrane'', etc.\n{{right|''J. D. Dana'', Man. of Geol. (rev. ed.), p. 81.}}}}\n\n'''terramara''' (ter-ȧ-mä′rä), ''n.''; pl. ''terramare'' (-re). [< It. ''terra amara'', bitter earth (a term used in the vicinity of Parma): ''terra'', < L. ''terra'', earth; ''amara'', fem. of ''amaro'', < L. ''amarus'', bitter.] Any stratum or deposit of earthy material containing organic or mineral matter (such as bones or phosphates) in sufficient quantity to furnish a valuable fertilizer; hence, a deposit containing prehistoric remains, as fragments of bones and pottery, cinders, etc., of similar character to the deposits called in northern Europe ''kitchen-middens''. {{smaller|There are large numbers of these terramare on the plain traversed by the Via Emilia between the Po and the Apennines; some of them are intermediate in character between the kitchen-middens of Denmark and the palafittes of Switzerland, appearing to mark sites of settlements originally built on piles in shallow lakes (or perhaps on marshy ground subject to frequent inundation), which have gradually become desiccated while the stations continued to be occupied.}}\n\n¶\n'''terrane''', ''n.'' See ''terrain.''\n\n'''terranean''' (te-rā′nē-ạn), ''a.'' [< L. ''terra'', earth, + ''-an'' + ''-e-an'' (after ''subterranean'', ''mediterranean'', etc.).] Being in the earth; belonging to the earth, or occurring beneath the surface of the earth.\n\n{{smaller block|The great strain on the trolley wire which would be a necessary incident of ''terranean'' supply renders such a system impracticable.\n{{right|''Elect. Rev.'' (Amer.), XVIII. i. 9.}}}}\n\n'''terraneous''' (te-rā′nē-us), ''a.'' [< L. ''terra'', earth, + ''-an'' + ''-e-ous'' (after ''subterraneous'').] In ''bot.'', growing on land.\n\n'''terrapene†''', ''n.'' An obsolete variant of ''terrapin.''\n\n'''Terrapenes''' (ter-a-pē′nēz), ''n. pl.'' [NL.: see ''terrapin.''] A subdivision of ''Emydea'' (which see), in which the pelvis is free, the neck bends in a vertical plane, and the head may be almost completely retracted within the carapace. ''Huxley.'' {{smaller|The group contains such genera as ''Emys'', ''Cistudo'', ''Chelydra'', ''Cinosternum'', and ''Staurotypus''. The other subdivision of ''Emydea'' is ''Chelodines''. See cuts under ''Cinosternum'', ''Cistudo'', and ''terrapin''.}}\n\n'''terrapin''' (ter′ạ-pin), ''n.'' [Formerly also ''terapin'', ''terrapene'', ''turpin;'' supposed to be of Amer. Ind. origin.] '''1.''' One of several different fresh-water or tide-water tortoises of the family ''Emydidæ;'' specifically, in the United States, the diamond-back, ''Malaclemmys'' or ''Malacoclemmys palustris'', of the Atlantic coast from New York to Texas, famous among epicures. See ''diamond-backed turtle'' (under ''diamond-backed''), and ''Malaclemmys.'' {{smaller|In trade use the sexes are distinguished as ''bull'' and ''cow'', and small ones as ''little bulls'' and ''heifers'' respectively. Those under 5 or 6 inches in total length of the under shell are termed ''cullings'', of which it takes from 18 to 24 or more to make a \"dozen.\" Those of 6 inches and more are ''counts'' or ''counters'', of 12 to the dozen. Only the cows reach 6½ to 7 inches in this measurement; these are known to dealers as ''full counts'', and are especially valuable because they usually contain eggs; the bulls are tougher as well as smaller, and of less market value.}}\n\n[[File:century v08 p0050 c2f1.png|center|311px]]\n{{c|Diamond-backed Terrapin (''Malaclemmys palustris'').}}\n\n'''2.''' Some other tortoise or turtle: as, the elephant ''terrapin'' of the Galapagos.—'''3.''' A dish made of the diamond-back.\n\n{{smaller block|''Terrapin'' is essentially a Philadelphia dish. Baltimore delights in it, Washington eats it, New York knows it, but in Philadelphia it approaches a crime not to be passionately fond of it.\n{{right|''J. W. Forney'', The Epicure.}}}}\n\n{{smaller|'''Alligator terrapin.''' See ''alligator-terrapin.''—'''Diamond-backed terrapin,''' the diamond-backed turtle. See ''diamond-backed'', and def. 1.—'''Elephant terrapin.''' See ''elephant tortoise'', under ''tortoise.''—'''Mud-terrapin,''' any mud-turtle, as of the genus ''Cinosternum.'' [U. S.]—'''Painted terrapin''' or '''turtle,''' ''Chrysemys picta'', of the United States. See ''Chrysemys.''—'''Pine-barren terrapin,''' the gopher of the southern United States, ''Testudo carolina.''—'''Red-bel'''lied}} terrapin,''' ''Chrysemys rubriventris'' or ''Pseudemys rugosa;'' the potter or red-fender. See cut under ''slider.''—'''Salt-marsh''' or '''salt-water terrapin,''' in the United States, one of several different ''Emydidæ'' of salt or brackish water, among them the diamond-back and slider. See cut above, and cut under ''slider.''—'''Speckled terrapin,''' the spotted turtle, ''Chelopus guttatus,'' a small fresh-water tortoise of the United States, whose black carapace has round yellow spots.—'''Yellow-bellied terrapin,''' ''Pseudemys scabra,'' of southern parts of the United States.\n\n'''terrapin-farm''' (ter′a-pin-färm), ''n.'' A place where the diamond-back is cultivated.\n\n'''terrapin-paws''' (ter′a-pin-pâz), ''n. sing.'' and ''pl.'' A pair of long-handled tongs used in catching terrapin. [Chesapeake Bay.]\n\n'''terraquean''' (te-rā′kwē-an), ''a.'' [< ''terraque-ous'' + ''-an.''] Terraqueous. [Rare.]\n\n{{smaller block|This ''terraquean'' globe. {{right|''Macmillan's Mag.'', III. 471.}}}}\n\n'''terraqueous''' (te-rā′kwē-us), ''a.'' [< L. ''terra,'' earth, + ''aqua,'' water (see ''aqueous'').] Consisting of land and water, as the globe or earth.\n\n{{smaller block|I find but one thing that may give any just offence, and that is the Hypothesis of the ''Terraqueous'' globe, wherewith I must confesse my self not to be satisfied.\n{{right|''Ray,'' in Letters of Eminent Men, II. 159.}}}}\n\n'''terrar†''', ''n.'' Same as ''terrier''<sup>2</sup>.\n\n'''terrarium''' (te-rā′ri-um), ''n.''; pl. ''terrariums, terraria'' (-umz, -ä). [< L. ''terra,'' earth: a word modeled on ''aquarium.''] A vivarium for land animals; a place where such animals are kept alive for study or observation.\n\n{{smaller block|Herr Fischer-Sigwart describes the ways of a snake, Tropidonotus tesselatus, which he kept in his ''terrarium'' in Zurich. {{right|''Science'', XV. 24.}}}}\n\n'''terras<sup>1</sup>†''', ''n.'' An obsolete form of ''terrace''<sup>1</sup>.\n\n'''terras<sup>2</sup>''' (te-ras′), ''n.'' Same as ''trass.''\n\n'''terrasphere''' (ter′ạ-sfēr), ''n.'' [Irreg. < L. ''terra'', earth, + Gr. σφαῖρα, sphere.] Same as ''tellurion.''\n\n'''terrasse''', ''n.'' Same as ''terrace''<sup>2</sup>.\n\n'''terre'''<sup>1</sup>†, ''v. t.'' Same as ''tar''<sup>2</sup>.\n\n'''terre'''<sup>2</sup>†, ''v. t.'' [< F. ''terrer'', < ''terre'', earth: see ''terra.'' Cf. ''inter'', ''atter.''] To strike to the earth.\n\n{{smaller block|\"Loe, heere my gage\" (he ''terr'd'' his gloue);<br>\"Thou know'st the victor's meed.\"\n{{right|''Warner'', Albion's England, iii. 128.}}}}\n\n'''terreen'''† (te-rēn′), ''n.'' See ''tureen.''\n\n'''terreity'''† (te-rē′ị-ti), ''n.'' [< L. ''terra'' + ''-e-ity.''] Earthiness. [Rare.] {{smaller block|The aqueity,\n''Terreity'', and sulphureity\nShall run together again, and all be annull'd.\n{{right|''B. Jonson'', Alchemist, ii. 1.}}}}\n\n'''terrel†''' (ter′el), ''n.'' [Also ''terrella'', ''terella''; < NL. ''terrella'', dim. of L. ''terra'', earth: see ''terra''.] A spherical figure so placed that its poles, equator, etc., correspond exactly to those of the earth, for showing magnetic deviations, etc.\n\n'''terrella†''' (te-rel′ä̤), ''n.'' Same as ''terrel''.\n\n{{smaller block|I was shew'd a pretty ''Terrella'', describ'd with all y<sup>e</sup> circles, and shewing all y<sup>e</sup> magnetic deviations.\n{{right|''Evelyn'', Diary, July 3, 1655.}}}}\n\n'''Terrell grass.''' A species of wild rye, or lymegrass, ''Elymus Virginicus'', a coarse grass, but found useful for forage in the southern United States: so named from a promoter of its use.\n\n'''terremote†''' (ter′e-mōt), ''n.'' [ME., < OF. ''terremote'', < ML. ''terræ motus'', earthquake: L. ''terræ'', gen. of ''terra'', earth; ''motus'', movement, < ''movere'', pp. ''motus'', move: see ''motion''.] An earthquake.\n\n{{smaller block|All the halle quoke,\nAs it a ''terremote'' were. ''Gower'', Conf. Amant., vi.}}\n\n'''terremotive''' (ter-e-mō′tiv), ''a.'' [< ''terremote'' + ''-ive''.] Of, pertaining to, characterized by, or causing motion of the earth's surface; seismic. [Rare.]\n\n{{smaller block|We may mark our cycles by the greatest known paroxysms of volcanic and ''terremotive'' agency.\n{{right|''Whewell'', Philos. of Inductive Sciences, X. iii. § 4.}}}}\n\n'''terrene<sup>1</sup>''' (te-rēn′), ''a.'' and ''n.'' [= Sp. Pg. It. ''terreno'', < L. ''terrenus'', of, pertaining to, or consisting of earth (neut. ''terrenum'', land, ground: see ''terrain''), < ''terra'', earth, land: see ''terra''.] '''I.''' ''a.'' Of or pertaining to the earth; earthly; terrestrial: as, ''terrene'' substance.\n\n{{smaller block|I beleue noght that ''terrene'' boody sothlesse<br>Of lusty beute may haue such richesse,<br>So moche of swetnesse, so moche of connyng,<br>As in your gentil body is beryng.\n{{right|''Rom. of Partenay'' (E. E. T. S.), l. 417.}}}}\n\n{{smaller block|These thick vapours of ''terrene'' affections will be dispersed. ''Jer. Taylor'', Works (ed. 1835), I. 386.}}\n\n{{smaller block|I would teach him . . . that Mammonism was, not the essence of his or of my station in God's Universe, but the adscititious excrescence of it; the gross, ''terrene'', godless embodiment of it.\n{{right|''Carlyle.''}}}}\n\n'''II.''' ''n.'' The earth. [Rare.]\n\n{{smaller block|Over many a tract<br>Of heaven they march'd, and many a province wide,<br>Tenfold the length of this ''terrene''. ''Milton'', P. L., vi. 78.}}\n\n'''terrene<sup>2</sup>†''', ''n.'' See ''terrine'', ''tureen''.\n\n'''terrenely†''', ''adv.'' [ME. ''terrenly''; < ''terrene''<sup>1</sup> + ''-ly''<sup>2</sup>.] As regards lands.\n\n{{smaller block|I Hym make my proper enheritour,<br>For yut shall he be wurthy ''terrenly''.\n{{right|''Rom. of Partenay'' (E. E. T. S.), l. 5014.}}}}\n\n'''terrenity''' (te-ren′i-ti), ''n.'' [< ''terrene''<sup>1</sup> + ''-ity''.] The state or character of being terrene; worldliness.\n\n{{smaller block|Being overcome . . . debases all the spirits to a dull and low ''terrenity''. ''Feltham'', Resolves.}}\n\n'''terreous†''' (ter′ē-us), ''a.'' [= Sp. Pg. It. ''terreo'', < L. ''terreus'', earthen, < ''terra'', earth: see ''terra''. Cf. ''terrosity''.] Earthy; consisting of earth.\n\n{{smaller block|According to the temper of the ''terreous'' parts at the bottom, variously begin intumescencies.\n{{right|''Sir T. Browne'', Vulg. Err.}}}}\n\n'''terre-plein''' (tãr′plān), ''n.'' [F., < ''terre'', earth, + ''plein'' for ''plain'', level, flat: see ''terra'' and ''plain''<sup>1</sup>.] 1. In ''fort.'', the top, platform, or horizontal surface of a rampart, on which the cannon are placed.—2. The plane of site or level surface around a field-work.\n\n'''terresity†''', ''n.'' See ''terrosity''.\n\n'''terrestre†''', ''a.'' [ME., < OF. (and F.) ''terrestre'' = Pr. Sp. Pg. It. ''terrestre'', < L. ''terrestris'', of or belonging to the earth, < ''terra'', earth: see ''terra''. Cf. ''terrestrial''.] Terrestrial; earthly.\n\n{{smaller block|Heere may ye se, and heerby may ye preve,<br>That wyf is mannes helpe and his confort,<br>His Paradys ''terrestre'', and his disport.\n{{right|''Chaucer'', Merchant's Tale, l. 88.}}}}\n\n'''terrestreity''' (ter-es-trē′i̤-ti), ''n.'' Admixture of earth.\n\n{{smaller block|Sulphur itself . . . is not quite devoid of ''terrestreity''.\n{{right|''Boyle'', Mechanical Hypotheses.}}}}\n\n'''Terrestres''' (te-res′trēz), ''n. pl.'' [NL., pl. of L. ''terrestris'', of or belonging to the earth: see ''terrestre'', ''terrestrial''.] In ''ornith.'', one of three series into which birds were formerly divided, containing the rasorial and cursorial forms: contrasted with ''Aëreæ'' and ''Aquaticæ'': more fully called ''Aves terrestres''.\n\n'''terrestrial''' (te-res′tri-al), ''a.'' and ''n.'' [< ME. ''terrestriall'', < OF. ''terrestrial'', < L. ''terrestris'', of or belonging to the earth (see ''terrestre''), + ''-al''.] I. ''a.'' 1. Of or pertaining to the earth; existing on the earth; earthly: opposed to ''celestial'': as, ''terrestrial'' bodies; ''terrestrial'' magnetism.<noinclude><references/></noinclude>"
+}

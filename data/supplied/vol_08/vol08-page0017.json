@@ -1,0 +1,293 @@
+{
+ "volume": 8,
+ "page_number": 17,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n16.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n16.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": -0.05,
+  "column_width": 847,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     0,
+     2305,
+     134
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     134,
+     847,
+     989
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     989,
+     847,
+     1423
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     0,
+     1423,
+     847,
+     1717
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     0,
+     1718,
+     847,
+     1742
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1742,
+     847,
+     1843
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     0,
+     1843,
+     847,
+     2209
+    ]
+   },
+   {
+    "name": "c1c2",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     0,
+     2216,
+     847,
+     2237
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2237,
+     847,
+     3234
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     847,
+     134,
+     1582,
+     780
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     847,
+     780,
+     1582,
+     1858
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     847,
+     1858,
+     1582,
+     2765
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     847,
+     2765,
+     1582,
+     3234
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1582,
+     134,
+     2305,
+     1210
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1582,
+     1210,
+     2305,
+     2296
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1582,
+     2296,
+     2305,
+     3234
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|telautograph|6213|telegraph}}",
+   "c1s1": "{{smaller block|connected by cords to mechanism by means of which the motions of the pen cause a pulsatory current to pass into two telegraph-line wires. These pulsatory currents produce rapid pulsatory motion of the armatures of a system of electromagnets, by means of which the receiving-pen is caused to follow the motions of the transmitter. Another electromagnetic arrangement lifts the receiving-pen off the paper at the end of each word or line, and still another serves to move the paper forward for the next line.}}\n\n'''teld'''<sup>1</sup>† (teld), ''n.'' [ME. ''teld'', < AS. ''teld'', ''ge-teld'' = MD. ''telde'' = G. ''zelt'' = Icel. ''tjald'' = Sw. ''tält'' = Dan. ''telt'', a tent. Hence ''tilt''<sup>2</sup>.] A tent.\n\n'''teld'''<sup>1</sup>† (teld), ''v. t.'' [< ME. ''telden''; < ''teld''<sup>1</sup>, ''n.''] 1. To set up (a tent); pitch; in general, to set up.\n\n{{smaller block|Thenne thay ''teldet'' tablez [on] trestes alofte.\n{{right|''Sir Gawayne and the Green Knight'' (E. E. T. S.), l. 1648.}}}}\n\n2. To lodge in a tent.\n\n{{smaller block|Vn-to me tolde god on a tyde,\nWher I was ''telde'' vnder a tree,\nHe saide my seede shulde multyplye.\n{{right|''York Plays'', p. 56.}}}}\n\n'''teld'''<sup>2</sup>†. An obsolete preterit and past participle of ''tell''<sup>1</sup>.\n\n'''Telea''' (tē′lẹ̄-ä), ''n.'' [NL. (Hübner, 1816).] A genus of bombycid moths, erected for the polyphemus silkworm-moth, ''T. polyphemus'', a large and handsome American species, which produces a coarse and durable silk. See ''polyphemus'', 5.",
+   "c1s2": "¶\n'''teleanemograph''' (tel″ẹ̄-a-nem′ọ̄-grȧf), ''n.'' [< Gr. τῆλε, afar, far, far off, far away, + E. ''anemograph.''] An anemograph that records at a distance by means of electricity.\n\n'''telebarograph''' (tel-ẹ̄-bar′ọ̄-grȧf), ''n.'' [< Gr. τῆλε, afar, + E. ''barograph.''] A barograph that records at a distance by means of electricity.\n\n'''telebarometer''' (tel″ẹ̄-ba̤-rom′e-tėr), ''n.'' [< Gr. τῆλε, afar, + E. ''barometer.''] A barometer that registers its indications at a distance by means of electric registering apparatus.\n\n'''teledu''' (tel′e-dö), ''n.'' The stinking badger of Java and Sumatra, ''Mydaus meliceps.''",
+   "c1c1": "{{c|Teledu (''Mydaus meliceps'').}}",
+   "c1s3": "¶\n'''telega''' (tē-lā′gä̤), ''n.'' [Russ. ''teliega'', a cart or wagon.] A cart or sort of box, about six feet",
+   "c1c2": "{{c|East Siberian Telega.}}",
+   "c1s4": "long, unprovided with springs, and set upon the wheels: a Russian vehicle.\n\n{{smaller block|Small unpainted one-horse ''telegas'', which look like longitudinal halves of barrels mounted on four wheels.\n{{right|''The Century'', XXXVI. 11.}}}}\n\n¶\n'''telegram''' (tel′ẹ̄-gram), ''n.'' [= F. ''télégramme'' = Sp. ''telégrama'' = Pg. It. ''telegramma'' = D. ''telegram'' = G. ''telegramm'' = Sw. Dan. ''telegram'' = Russ. ''telegramma'' = NGr. τηλέγραμμα (all after E.); < Gr. τῆλε, afar, + γράμμα, a writing. The correct form would be *''telegrapheme'', from a Gr. type reflected in the NGr. τηλεγράφημα, a telegram, < τηλεγραφεῖν, telegraph, < Gr. τῆλε, afar, + γράφειν, write.] A communication sent by telegraph; a telegraphic message or despatch.\n\n{{smaller block|A New Word.—A friend desires us to give notice that he will ask leave, at some convenient time, to introduce a new word into the vocabulary. The object of this proposed innovation is to avoid the necessity, now existing, of using two words for which there is very frequent occasion, where one will answer. It is ''Telegram'', instead of Telegraphic Despatch, or Telegraphic Communication. . . . Telegraph means to write from a distance—''Telegram'', the writing itself, executed from a distance. Monogram, Logogram, etc., are words formed upon the same analogy and in good acceptation. ''Albany Evening Journal'', April 6, 1852.}}\n\n{{smaller block|I sent a ''telegram'' (oh that I should live to see such a word introduced into the English language!).\n{{right|''Bulwer'', What will he Do with it? (1858), xii. 11.}}}}\n\n'''To milk a telegram''', {{smaller|to make use surreptitiously of a telegram designed for another. See ''milk'', ''v. t.'', 5. [Slang.]}}\n\n'''telegrammic''' (tel-ẹ̄-gram′ik), ''a.'' [< ''telegram'' + ''-ic''.] Of or pertaining to a telegram; having",
+   "c2s1": "the characteristics of a telegram; hence, brief; concise; succinct. [Recent.] ''Imp. Dict.''\n\n'''telegraph''' (tel′ẹ̄-gräf), ''n.'' [= F. ''télégraphe'' = Sp. ''telégrafo'' = Pg. ''telegrapho'' = It. ''telegrafo'' = D. ''telegraaf'' = G. ''telegraph'' = Sw. Dan. ''telegraf'' = Russ. ''telegrafŭ'' = NGr. τηλέγραφος (all after E.), < Gr. τῆλε, afar, + γράφειν, write.] 1. An apparatus for transmitting intelligible messages to a distance. {{smaller|In this general sense it includes the original ''semaphore-telegraphs''; ''mechanical telegraphs'' for sending messages short distances, as from the pilot-house to the engine-room of a steamer; ''pneumatic telegraphs'', in which compressed air in a tube serves to transmit a message; ''hydraulic telegraphs'', in which a column of water takes the place of the air in the tube; flashing lights, as from a ''heliotrope'', and any appliance for signaling, as flags or lanterns. Nearly all of these appliances are recognized as ''signaling apparatus'', and are now so called. (See ''signal'' and ''annunciator''.) In its later and more restricted sense, the name is applied to some form of apparatus employing electricity and transmitting more than mere calls or signals. Telegraphs may be divided into two classes: the ''electromechanical telegraphs'', or}}",
+   "c2s2": "those in which the messages are received by means of some mechanical device operated by electricity; and the ''electrochemical telegraphs'', in which the message is received and recorded by means of some chemical effect produced by electricity, the messages in both systems being sent or transmitted by some mechanical means. The ''electromechanical telegraphs'' may be again divided into two classes: those in which the message is received or read by sight (including those in which it is printed or recorded), and those in which it is read by sound. The ''electromechanical telegraphs'' are in some instances actuated by means of an electromagnet, and for this reason they are called ''electromagnetic telegraphs.'' This name has sometimes been given to all electrodynamic telegraphs, but it appears properly to belong to the electromechanical telegraphs which employ electromagnetism, and particularly to the Morse system. There is also an ''electromechanical telegraph'' actuated by magneto-electricity, and called the ''magneto-electric telegraph.'' The telegraph consists essentially of (1) a ''line-wire'', or main conductor; (2) a ''battery'', or other source of electricity; (3) a ''transmitting instrument'', or device for connecting or disconnecting the line-wire with the battery, or for changing the polarity of the current sent over the line-wire; and (4) a ''receiver'', or indicating or recording apparatus. The ''line-wire'' is, for land lines, most commonly of iron, but sometimes of steel covered with a copper tube, and frequently also (especially on the rapid circuits in England) of hard drawn copper and, for the local connections with the battery or instruments, of copper. The source of electricity may be a battery or a dynamo. The transmitter or receiver may vary greatly according to the system in which it is used. In the electromechanical systems in which the message is read by sight, two different receivers are employed. The first of these, the ''needle-telegraph'' of Cooke and Wheatstone of England, has a line-wire, a battery, and a simple device for reversing the current by the movement of a handle. The receiver is a needle supported on a horizontal bar, free to turn to the right or left, and provided with an index needle, placed in front of a dial, to show the deflections. The needle is within a coil of wire through which the current from the line passes, the whole forming an electric multiplier or galvanoscope. The message is indicated by an alphabet of",
+   "c2s3": "motions, deflections to one side being read as the dots and to the other as the dashes of the Morse alphabet. This system is still used on some unimportant circuits and on some of the railway lines in England. It is largely in use for long submarine cables, Thomson's mirror-galvanoscope being used. This receiver consists essentially of a galvanometer, the needle of which carries a small mirror that reflects a beam of light from a lamp upon a screen. The minute movements of the needle are thus rendered visible on a large scale, and the vibrations of the spot of light serve to spell the message. The second sight-reading system is the ''dial-telegraph''; it employs a dial and index or pointer for a receiver. The letters are placed round the edge of the dial, and the index travels round the dial from letter to letter till the right one is reached, when a slight pause indicates that the letter was signaled from the transmitting end of the line. This system is used for private lines and for local circuits where speed of transmission is not important. The ''Morse system'' employs a line-wire, battery, and circuit-breaker or Morse key as a transmitter, and now very commonly uses a ''sounder'' as a receiving instrument, the slight clicking sound of the instrument clearly indicating the letters of the alphabet. This system has developed from the recording telegraph which was invented by Morse of New York, and was first tried on a commercial scale between Baltimore and Washington in 1844. (See ''Morse telegraph'', below.) The electromechanical systems in which the message is automatically recorded as it is received include the Morse system using the Morse receiver, the chemical telegraphs, the printing telegraphic systems, the stock-reporting telegraphs, the syphon recorder, and the writing-telegraphs. A number of ''telegraphic-printing systems'' have been invented, the object being to print the message directly on paper as fast as received. Of these, the systems of ''House'' and ''Hughes'' were successfully worked in the United States,",
+   "c2s4": "and a modification of Hughes's apparatus, the electromotor printing-telegraph of Phelps, is still used by the Western Union Company. Hughes's apparatus is still used in Europe, especially in France. Several simpler forms of type printing-telegraphs are used as stock-printers and private-line telegraphs. The telegraph of Cowper, and the telautograph (which see) of Elisha Gray are examples of facsimile- or writing-telegraphs. In the former system two wires are used, and the message is transmitted by varying the intensity of the currents in the double line. The transmitter consists of a pencil connected by means of light rods with metal plates joined together through resistance-coils. The message is written on a band of paper passing under the pencil, and every movement of the pencil causes one or both of the rods to move over the plates, and change the resistance in the circuits. The receiver consists of a pen held upright, and joined by means of threads to the armatures of two magnets placed so that variations of the",
+   "c3s1": "currents through the two circuits give motions in two rectangular directions to the pen. The pen thus gives a trace in one direction or the other, or in a curve that is the resultant of both movements, and this trace is a literal copy of the message written by the transmitting pencil. The electrochemical systems of telegraphy all give a record of the message, and the transmitting device, whether a Morse key or some automatic mechanism, breaks or closes the circuit and thus either spells the message in the Morse alphabet, or copies it from writing or a drawing properly arranged at the transmitting end. The receiving apparatus in all these systems depends on the fact that if a current of electricity is made to pass through a piece of paper moistened in certain chemicals, a discoloration of the paper appears wherever the current passes. The first practical system is that of Bain of Edinburgh, which was used for some time both in England and in America. Several forms of copying telegraphs exist, but are little used. It was early recognized in the history of telegraphy that the cost of sending messages could be reduced if more than one message could be sent over a line-wire at one time, or if the speed of transmission could be made very great. Of the many systems designed to accomplish this, five are in actual use, and two have been adopted throughout the United States and more or less in other countries. These systems are the ''duplex'' of Stearns, 1872; the ''quadruplex'' of Edison, 1874 (see ''duplex telegraph'', below); the ''harmonic'' of Gray, 1874; the ''rapid system'', 1880; and the ''synchronous system'', 1884. The ''harmonic system'' depends on the property possessed by sonorous bodies of responding to vibrations corresponding to their own pitch or rate of vibrations. A vibrating reed is used to transmit over the line a series of electrical impulses exactly corresponding to its rate of vibrations. At the receiving end of the line is another reed that vibrates at the same rate as long as connected with the line, giving to the ear of the operator an apparently continuous note. By means of a Morse key this continuous tone in both reeds may be broken up into the letters of a message. Besides this, if two or more reeds are placed at the sending end of the line, and an equal number having the same pitches at the receiving end of the line, all may transmit their rate of vibration to the current, and each receiving reed will select its own",
+   "c3s2": "note and no other. By the use of a Morse key to each pair, it thus becomes possible to transmit as many messages as there are pairs of reeds over the same wire at the same time. The so-called ''rapid system'' of telegraphy is an electrochemical system, with automatic transmitting and receiving instruments. The message is first prepared by punching a series of holes in a strip of paper, each perforation or group of perforations representing a letter. This strip of paper is then made to pass rapidly under metal points connected with the line. At each perforation, one of the points passes through the paper and closes the circuit through the line-wire. At the receiving end, each closing of the circuit makes a stain on a band of prepared paper drawn rapidly under a stylus in connection with the line. Both the transmission and the recording of the message are automatic, and a large number of messages can be sent over one wire in a short time. The ''synchronous system'' is wholly electromechanical, and is based on the phonic wheel of La Cour. This invention employs a wheel divided radially into a number of sections, every alternate section being connected with the battery, and the alternating sections being connected by wire to the earth. A trailing needle connected with the line-wire rests on the upper side of the wheel, and as the wheel revolves it touches every section in turn, connecting the line with the battery at one section and being cut out at the next. Two wheels are used, one at each end of the line, and as each needle on the two wheels touches the same section the circuit is closed through the line, and then broken as the needles touch the next sections. In the synchronous system branch wires extend from each wheel, every branch being connected with a number of sections, and, as the wheels turn, these branches are connected with the line a number of times in a second, or often enough to be practically always joined to the line, and thus messages may be sent by the Morse or other system. Upward of seventy branch wires may be connected with each end of a line-wire, every pair having the line to itself in succession, and yet with sufficient rapidity to be, as far as sight or sound is concerned, wholly independent of all others. The phonic wheel is in this system made useful on a commercial scale in telegraphy.\n\n'''2.''' A telegraphic message or despatch; a tele-",
+   "c3s3": "gram. ''Trollope.'' [Rare.]—'''Acoustic telegraph.''' See ''acoustic.''—'''Autographic telegraph.''' See ''autographic.''—'''Automatic signal telegraph,''' a system used for transmitting fire-alarms, in which the number of the box from which the alarm is sent is automatically struck or registered.—'''Automatic telegraph,''' a system in which the signals are transmitted automatically, generally by the use of bands of paper perforated with holes which in form and arrangement represent the message to be sent. The paper moves rapidly between two parts or poles of the circuit, which is complete during the passage of a perforation, but broken at other times. The perforated slips may be quickly prepared and by persons not skilled in telegraphy, so that economy as well as great rapidity is secured by their use.—'''Automatic type-writer telegraph,''' a telegraphic system in which the transmitter consists of a keyboard similar to that of a type-writer, and which prints the message at the receiving end.—'''Chemical telegraph.''' See def. 1.—'''Copying telegraph.''' Same as ''autographic telegraph.''—'''Dial-telegraph.''' See def. 1.—'''Duplex telegraph,''' a telegraphic system arranged for double transmission, or the sending of two messages at the same time over one line, in opposite directions. Several methods for accomplishing this have been devised, one of the most successful being the differential system, in which the electromagnet at each end is so wound that if the key at the distant station is not closed, the current divides equally, one half going to earth and the other half to the distant point, while the instrument at hand is not affected. In this way each receiving instrument is active only when the distant operator closes his key. Each operator has thus control of the receiving instrument of the other, and double transmission without interference becomes possible. In the ''quadruplex telegraph'' four messages are transmitted on one line at the same time. Various systems of ''multiplex telegraphy'' have"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0017 c1f1.png",
+   "c1f2": "century v08 p0017 c1f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     140,
+     1426,
+     772,
+     1714
+    ],
+    "caption": [
+     330,
+     1718,
+     620,
+     1742
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     221,
+     1414,
+     690,
+     1719
+    ]
+   },
+   {
+    "box": [
+     108,
+     1846,
+     834,
+     2206
+    ],
+    "caption": [
+     359,
+     2216,
+     590,
+     2237
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     159,
+     1834,
+     751,
+     2144
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "1": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 3,
+    "input_tokens": 5580,
+    "output_tokens": 173,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 14,
+    "input_tokens": 9494,
+    "output_tokens": 9023,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 37996
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|telautograph|6213|telegraph}}</noinclude>{{smaller block|connected by cords to mechanism by means of which the motions of the pen cause a pulsatory current to pass into two telegraph-line wires. These pulsatory currents produce rapid pulsatory motion of the armatures of a system of electromagnets, by means of which the receiving-pen is caused to follow the motions of the transmitter. Another electromagnetic arrangement lifts the receiving-pen off the paper at the end of each word or line, and still another serves to move the paper forward for the next line.}}\n\n'''teld'''<sup>1</sup>† (teld), ''n.'' [ME. ''teld'', < AS. ''teld'', ''ge-teld'' = MD. ''telde'' = G. ''zelt'' = Icel. ''tjald'' = Sw. ''tält'' = Dan. ''telt'', a tent. Hence ''tilt''<sup>2</sup>.] A tent.\n\n'''teld'''<sup>1</sup>† (teld), ''v. t.'' [< ME. ''telden''; < ''teld''<sup>1</sup>, ''n.''] 1. To set up (a tent); pitch; in general, to set up.\n\n{{smaller block|Thenne thay ''teldet'' tablez [on] trestes alofte.\n{{right|''Sir Gawayne and the Green Knight'' (E. E. T. S.), l. 1648.}}}}\n\n2. To lodge in a tent.\n\n{{smaller block|Vn-to me tolde god on a tyde,\nWher I was ''telde'' vnder a tree,\nHe saide my seede shulde multyplye.\n{{right|''York Plays'', p. 56.}}}}\n\n'''teld'''<sup>2</sup>†. An obsolete preterit and past participle of ''tell''<sup>1</sup>.\n\n'''Telea''' (tē′lẹ̄-ä), ''n.'' [NL. (Hübner, 1816).] A genus of bombycid moths, erected for the polyphemus silkworm-moth, ''T. polyphemus'', a large and handsome American species, which produces a coarse and durable silk. See ''polyphemus'', 5.\n\n'''teleanemograph''' (tel″ẹ̄-a-nem′ọ̄-grȧf), ''n.'' [< Gr. τῆλε, afar, far, far off, far away, + E. ''anemograph.''] An anemograph that records at a distance by means of electricity.\n\n'''telebarograph''' (tel-ẹ̄-bar′ọ̄-grȧf), ''n.'' [< Gr. τῆλε, afar, + E. ''barograph.''] A barograph that records at a distance by means of electricity.\n\n'''telebarometer''' (tel″ẹ̄-ba̤-rom′e-tėr), ''n.'' [< Gr. τῆλε, afar, + E. ''barometer.''] A barometer that registers its indications at a distance by means of electric registering apparatus.\n\n'''teledu''' (tel′e-dö), ''n.'' The stinking badger of Java and Sumatra, ''Mydaus meliceps.''\n\n[[File:century v08 p0017 c1f1.png|center|360px]]\n{{c|Teledu (''Mydaus meliceps'').}}\n\n'''telega''' (tē-lā′gä̤), ''n.'' [Russ. ''teliega'', a cart or wagon.] A cart or sort of box, about six feet long, unprovided with springs, and set upon the wheels: a Russian vehicle.\n\n[[File:century v08 p0017 c1f2.png|center|360px]]\n{{c|East Siberian Telega.}}\n\n{{smaller block|Small unpainted one-horse ''telegas'', which look like longitudinal halves of barrels mounted on four wheels.\n{{right|''The Century'', XXXVI. 11.}}}}\n\n¶\n'''telegram''' (tel′ẹ̄-gram), ''n.'' [= F. ''télégramme'' = Sp. ''telégrama'' = Pg. It. ''telegramma'' = D. ''telegram'' = G. ''telegramm'' = Sw. Dan. ''telegram'' = Russ. ''telegramma'' = NGr. τηλέγραμμα (all after E.); < Gr. τῆλε, afar, + γράμμα, a writing. The correct form would be *''telegrapheme'', from a Gr. type reflected in the NGr. τηλεγράφημα, a telegram, < τηλεγραφεῖν, telegraph, < Gr. τῆλε, afar, + γράφειν, write.] A communication sent by telegraph; a telegraphic message or despatch.\n\n{{smaller block|A New Word.—A friend desires us to give notice that he will ask leave, at some convenient time, to introduce a new word into the vocabulary. The object of this proposed innovation is to avoid the necessity, now existing, of using two words for which there is very frequent occasion, where one will answer. It is ''Telegram'', instead of Telegraphic Despatch, or Telegraphic Communication. . . . Telegraph means to write from a distance—''Telegram'', the writing itself, executed from a distance. Monogram, Logogram, etc., are words formed upon the same analogy and in good acceptation. ''Albany Evening Journal'', April 6, 1852.}}\n\n{{smaller block|I sent a ''telegram'' (oh that I should live to see such a word introduced into the English language!).\n{{right|''Bulwer'', What will he Do with it? (1858), xii. 11.}}}}\n\n'''To milk a telegram''', {{smaller|to make use surreptitiously of a telegram designed for another. See ''milk'', ''v. t.'', 5. [Slang.]}}\n\n'''telegrammic''' (tel-ẹ̄-gram′ik), ''a.'' [< ''telegram'' + ''-ic''.] Of or pertaining to a telegram; having the characteristics of a telegram; hence, brief; concise; succinct. [Recent.] ''Imp. Dict.''\n\n'''telegraph''' (tel′ẹ̄-gräf), ''n.'' [= F. ''télégraphe'' = Sp. ''telégrafo'' = Pg. ''telegrapho'' = It. ''telegrafo'' = D. ''telegraaf'' = G. ''telegraph'' = Sw. Dan. ''telegraf'' = Russ. ''telegrafŭ'' = NGr. τηλέγραφος (all after E.), < Gr. τῆλε, afar, + γράφειν, write.] 1. An apparatus for transmitting intelligible messages to a distance. {{smaller|In this general sense it includes the original ''semaphore-telegraphs''; ''mechanical telegraphs'' for sending messages short distances, as from the pilot-house to the engine-room of a steamer; ''pneumatic telegraphs'', in which compressed air in a tube serves to transmit a message; ''hydraulic telegraphs'', in which a column of water takes the place of the air in the tube; flashing lights, as from a ''heliotrope'', and any appliance for signaling, as flags or lanterns. Nearly all of these appliances are recognized as ''signaling apparatus'', and are now so called. (See ''signal'' and ''annunciator''.) In its later and more restricted sense, the name is applied to some form of apparatus employing electricity and transmitting more than mere calls or signals. Telegraphs may be divided into two classes: the ''electromechanical telegraphs'', or}} those in which the messages are received by means of some mechanical device operated by electricity; and the ''electrochemical telegraphs'', in which the message is received and recorded by means of some chemical effect produced by electricity, the messages in both systems being sent or transmitted by some mechanical means. The ''electromechanical telegraphs'' may be again divided into two classes: those in which the message is received or read by sight (including those in which it is printed or recorded), and those in which it is read by sound. The ''electromechanical telegraphs'' are in some instances actuated by means of an electromagnet, and for this reason they are called ''electromagnetic telegraphs.'' This name has sometimes been given to all electrodynamic telegraphs, but it appears properly to belong to the electromechanical telegraphs which employ electromagnetism, and particularly to the Morse system. There is also an ''electromechanical telegraph'' actuated by magneto-electricity, and called the ''magneto-electric telegraph.'' The telegraph consists essentially of (1) a ''line-wire'', or main conductor; (2) a ''battery'', or other source of electricity; (3) a ''transmitting instrument'', or device for connecting or disconnecting the line-wire with the battery, or for changing the polarity of the current sent over the line-wire; and (4) a ''receiver'', or indicating or recording apparatus. The ''line-wire'' is, for land lines, most commonly of iron, but sometimes of steel covered with a copper tube, and frequently also (especially on the rapid circuits in England) of hard drawn copper and, for the local connections with the battery or instruments, of copper. The source of electricity may be a battery or a dynamo. The transmitter or receiver may vary greatly according to the system in which it is used. In the electromechanical systems in which the message is read by sight, two different receivers are employed. The first of these, the ''needle-telegraph'' of Cooke and Wheatstone of England, has a line-wire, a battery, and a simple device for reversing the current by the movement of a handle. The receiver is a needle supported on a horizontal bar, free to turn to the right or left, and provided with an index needle, placed in front of a dial, to show the deflections. The needle is within a coil of wire through which the current from the line passes, the whole forming an electric multiplier or galvanoscope. The message is indicated by an alphabet of motions, deflections to one side being read as the dots and to the other as the dashes of the Morse alphabet. This system is still used on some unimportant circuits and on some of the railway lines in England. It is largely in use for long submarine cables, Thomson's mirror-galvanoscope being used. This receiver consists essentially of a galvanometer, the needle of which carries a small mirror that reflects a beam of light from a lamp upon a screen. The minute movements of the needle are thus rendered visible on a large scale, and the vibrations of the spot of light serve to spell the message. The second sight-reading system is the ''dial-telegraph''; it employs a dial and index or pointer for a receiver. The letters are placed round the edge of the dial, and the index travels round the dial from letter to letter till the right one is reached, when a slight pause indicates that the letter was signaled from the transmitting end of the line. This system is used for private lines and for local circuits where speed of transmission is not important. The ''Morse system'' employs a line-wire, battery, and circuit-breaker or Morse key as a transmitter, and now very commonly uses a ''sounder'' as a receiving instrument, the slight clicking sound of the instrument clearly indicating the letters of the alphabet. This system has developed from the recording telegraph which was invented by Morse of New York, and was first tried on a commercial scale between Baltimore and Washington in 1844. (See ''Morse telegraph'', below.) The electromechanical systems in which the message is automatically recorded as it is received include the Morse system using the Morse receiver, the chemical telegraphs, the printing telegraphic systems, the stock-reporting telegraphs, the syphon recorder, and the writing-telegraphs. A number of ''telegraphic-printing systems'' have been invented, the object being to print the message directly on paper as fast as received. Of these, the systems of ''House'' and ''Hughes'' were successfully worked in the United States, and a modification of Hughes's apparatus, the electromotor printing-telegraph of Phelps, is still used by the Western Union Company. Hughes's apparatus is still used in Europe, especially in France. Several simpler forms of type printing-telegraphs are used as stock-printers and private-line telegraphs. The telegraph of Cowper, and the telautograph (which see) of Elisha Gray are examples of facsimile- or writing-telegraphs. In the former system two wires are used, and the message is transmitted by varying the intensity of the currents in the double line. The transmitter consists of a pencil connected by means of light rods with metal plates joined together through resistance-coils. The message is written on a band of paper passing under the pencil, and every movement of the pencil causes one or both of the rods to move over the plates, and change the resistance in the circuits. The receiver consists of a pen held upright, and joined by means of threads to the armatures of two magnets placed so that variations of the currents through the two circuits give motions in two rectangular directions to the pen. The pen thus gives a trace in one direction or the other, or in a curve that is the resultant of both movements, and this trace is a literal copy of the message written by the transmitting pencil. The electrochemical systems of telegraphy all give a record of the message, and the transmitting device, whether a Morse key or some automatic mechanism, breaks or closes the circuit and thus either spells the message in the Morse alphabet, or copies it from writing or a drawing properly arranged at the transmitting end. The receiving apparatus in all these systems depends on the fact that if a current of electricity is made to pass through a piece of paper moistened in certain chemicals, a discoloration of the paper appears wherever the current passes. The first practical system is that of Bain of Edinburgh, which was used for some time both in England and in America. Several forms of copying telegraphs exist, but are little used. It was early recognized in the history of telegraphy that the cost of sending messages could be reduced if more than one message could be sent over a line-wire at one time, or if the speed of transmission could be made very great. Of the many systems designed to accomplish this, five are in actual use, and two have been adopted throughout the United States and more or less in other countries. These systems are the ''duplex'' of Stearns, 1872; the ''quadruplex'' of Edison, 1874 (see ''duplex telegraph'', below); the ''harmonic'' of Gray, 1874; the ''rapid system'', 1880; and the ''synchronous system'', 1884. The ''harmonic system'' depends on the property possessed by sonorous bodies of responding to vibrations corresponding to their own pitch or rate of vibrations. A vibrating reed is used to transmit over the line a series of electrical impulses exactly corresponding to its rate of vibrations. At the receiving end of the line is another reed that vibrates at the same rate as long as connected with the line, giving to the ear of the operator an apparently continuous note. By means of a Morse key this continuous tone in both reeds may be broken up into the letters of a message. Besides this, if two or more reeds are placed at the sending end of the line, and an equal number having the same pitches at the receiving end of the line, all may transmit their rate of vibration to the current, and each receiving reed will select its own note and no other. By the use of a Morse key to each pair, it thus becomes possible to transmit as many messages as there are pairs of reeds over the same wire at the same time. The so-called ''rapid system'' of telegraphy is an electrochemical system, with automatic transmitting and receiving instruments. The message is first prepared by punching a series of holes in a strip of paper, each perforation or group of perforations representing a letter. This strip of paper is then made to pass rapidly under metal points connected with the line. At each perforation, one of the points passes through the paper and closes the circuit through the line-wire. At the receiving end, each closing of the circuit makes a stain on a band of prepared paper drawn rapidly under a stylus in connection with the line. Both the transmission and the recording of the message are automatic, and a large number of messages can be sent over one wire in a short time. The ''synchronous system'' is wholly electromechanical, and is based on the phonic wheel of La Cour. This invention employs a wheel divided radially into a number of sections, every alternate section being connected with the battery, and the alternating sections being connected by wire to the earth. A trailing needle connected with the line-wire rests on the upper side of the wheel, and as the wheel revolves it touches every section in turn, connecting the line with the battery at one section and being cut out at the next. Two wheels are used, one at each end of the line, and as each needle on the two wheels touches the same section the circuit is closed through the line, and then broken as the needles touch the next sections. In the synchronous system branch wires extend from each wheel, every branch being connected with a number of sections, and, as the wheels turn, these branches are connected with the line a number of times in a second, or often enough to be practically always joined to the line, and thus messages may be sent by the Morse or other system. Upward of seventy branch wires may be connected with each end of a line-wire, every pair having the line to itself in succession, and yet with sufficient rapidity to be, as far as sight or sound is concerned, wholly independent of all others. The phonic wheel is in this system made useful on a commercial scale in telegraphy.\n\n'''2.''' A telegraphic message or despatch; a telegram. ''Trollope.'' [Rare.]—'''Acoustic telegraph.''' See ''acoustic.''—'''Autographic telegraph.''' See ''autographic.''—'''Automatic signal telegraph,''' a system used for transmitting fire-alarms, in which the number of the box from which the alarm is sent is automatically struck or registered.—'''Automatic telegraph,''' a system in which the signals are transmitted automatically, generally by the use of bands of paper perforated with holes which in form and arrangement represent the message to be sent. The paper moves rapidly between two parts or poles of the circuit, which is complete during the passage of a perforation, but broken at other times. The perforated slips may be quickly prepared and by persons not skilled in telegraphy, so that economy as well as great rapidity is secured by their use.—'''Automatic type-writer telegraph,''' a telegraphic system in which the transmitter consists of a keyboard similar to that of a type-writer, and which prints the message at the receiving end.—'''Chemical telegraph.''' See def. 1.—'''Copying telegraph.''' Same as ''autographic telegraph.''—'''Dial-telegraph.''' See def. 1.—'''Duplex telegraph,''' a telegraphic system arranged for double transmission, or the sending of two messages at the same time over one line, in opposite directions. Several methods for accomplishing this have been devised, one of the most successful being the differential system, in which the electromagnet at each end is so wound that if the key at the distant station is not closed, the current divides equally, one half going to earth and the other half to the distant point, while the instrument at hand is not affected. In this way each receiving instrument is active only when the distant operator closes his key. Each operator has thus control of the receiving instrument of the other, and double transmission without interference becomes possible. In the ''quadruplex telegraph'' four messages are transmitted on one line at the same time. Various systems of ''multiplex telegraphy'' have<noinclude><references/></noinclude>"
+}

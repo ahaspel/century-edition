@@ -1,0 +1,447 @@
+{
+ "volume": 8,
+ "page_number": 21,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n20.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n20.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": 0.0,
+  "column_width": 836,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     0,
+     2290,
+     130
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     130,
+     836,
+     1000
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1000,
+     836,
+     1788
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1788,
+     836,
+     2808
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     0,
+     2808,
+     836,
+     2897
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     0,
+     2910,
+     836,
+     2935
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2935,
+     836,
+     3217
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     836,
+     130,
+     1572,
+     712
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     836,
+     712,
+     1572,
+     855
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     836,
+     857,
+     1572,
+     883
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     836,
+     883,
+     1572,
+     1104
+    ]
+   },
+   {
+    "name": "c2f2",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     836,
+     1104,
+     1572,
+     2052
+    ]
+   },
+   {
+    "name": "c2c2",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     836,
+     2055,
+     1572,
+     2083
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     836,
+     2083,
+     1572,
+     2962
+    ]
+   },
+   {
+    "name": "c2f3",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1058,
+     2975,
+     1572,
+     3158
+    ]
+   },
+   {
+    "name": "c2c3",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     1058,
+     3187,
+     1572,
+     3213
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     836,
+     2962,
+     1058,
+     3214
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     130,
+     2290,
+     1215
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     1215,
+     2290,
+     1967
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1847,
+     1968,
+     2290,
+     2606
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1847,
+     2620,
+     2290,
+     2642
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     1967,
+     1847,
+     2681
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     2681,
+     2290,
+     3217
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|telephony|6217|telescope}}",
+   "c1s1": "ducing sounds, especially articulate speech, at a distance from their source.\n\n'''Telephoridæ''' (tel-ẹ̄-for′i-dē), ''n.pl.'' [NL. (Leach, 1817), < ''Telephorus'' + ''-idæ''.] A family of serricorn beetles, including those forms commonly called ''soldier-beetles'', now usually merged with the ''Lampyridæ''. See ''Telephorinæ''. ''Malacodermidæ'' is a synonym.\n\n'''Telephorinæ''' (tel″ẹ̄-fọ̄-rī′nē), ''n. pl.'' [< ''Telephorus'' + ''-inæ''.] The ''Telephoridæ'' as a subfamily of the ''Lampyridæ''. {{smaller|They have the middle coxæ contiguous and the epipleura distinct and narrow at base, and mesothoracic episterna not sinuate on the inner side. They are slender and rather soft-bodied beetles of medium size, usually vegetable-feeders, although carnivorous in the larval state. ''Chauliognathus'', ''Podabrus'', and ''Telephorus'' are the principal genera represented in the United States. See cut under ''soldier-beetle''.}}\n\n'''Telephorus''' (tẹ̄-lef′ọ̄-rus), ''n.'' [NL. (Schaeffer, 1766), < Gr. τῆλε, afar, + -φορος, < φέρειν = E. ''bear''<sup>1</sup>.] A genus of serricorn beetles, typical of the family ''Telephoridæ''. {{smaller|It is of cosmopolitan distribution, and comprises more than 300 species, the majority of them inhabiting cold or temperate regions. Thirty-six species occur in the United States. ''T. bilineatus'', the two-lined soldier-beetle, is in its larval state, according to Riley, a common enemy of the larva of the codling-moth (''Carpocapsa pomonella''). See cut under ''soldier-beetle''.}}\n\n'''telephote''' (tel′ẹ̄-fōt), ''n.'' [< Gr. τῆλε, afar, + φῶς (φωτ-), light.] An instrument designed to",
+   "c1s2": "reproduce at a distance, by the aid of electricity, pictures or images of visible objects.\n\n'''telephotograph''' (tel-ē-fō′tọ̄-gräf), ''n.'' [< ''telephote'' + Gr. γράφειν, write. Cf. ''photograph.''] A picture or image produced by a telephote.\n\n'''telephotography''' (tel″ē-fọ̄-tog′rạ-fi), ''n.'' [< ''telephotograph'' + ''-y''<sup>3</sup>.] The art (not yet attained) of producing a photograph of an object distant and invisible from the camera, by means of electrical connections with a suitable apparatus situated near the object. ''Nature,'' XLIII. 335.\n\n'''teleplastic''' (tel-ē-plas′tik), ''a.'' [< Gr. τῆλε, afar, + πλάσσειν, form, mold, shape.] Noting the alleged spiritualistic phenomena of materialization, or the formation of phantasmal figures of persons and things. Also ''telesomatic.'' See the quotation. [Rare.]\n\n{{smaller block|M. [A. N.] Aksakof uses the term \"telesomatic\" for the phenomena of so called \"materialisation,\" the formation of \"spirit-hands\" and the like. Elsewhere he calls these phenomena \"plastic.\" Inasmuch as other material objects are asserted to be thus supernormally formed, besides quasi-human bodies, it would be better, I think, to give the name ''teleplastic'' to all this class of alleged phenomena. ''F. W. H. Myers,'' Proc. Soc. Psych. Research,\n{{right|[Dec., 1890, p. 669.}}}}",
+   "c1s3": "¶\n'''telepolariscope''' (tel″ẹ̄-pọ̄-lar′i-skōp), ''n.'' [< Gr. τῆλε, afar, + E. ''polariscope.''] An optical instrument consisting of a combination of the polariscope with the telescope.\n\n'''teleradiophone''' (tel-ẹ̄-rā′di-ọ̄-fōn), ''n.'' [< Gr. τῆλε, afar, + E. ''radiophone.''] An adaptation of telegraphy to the radiophone.\n\n'''Telerpeton''' (tē-lėr′pe-ton), ''n.'' [NL., < Gr. τῆλε, afar, + ἑρπετόν, a reptile, < ἕρπειν, creep, crawl.] '''1.''' A genus of fossil lizards of the Mesozoic period, belonging to the order ''Rhynchocephalia.''—'''2.''' [''l. c.''] A member of this genus.\n\n'''telescope''' (tel′e-skōp), ''n.'' [= F. ''télescope'' = Sp. Pg. It. ''telescopio'' = D. ''teleskoop'' = G. Sw. Dan. ''teleskop'', etc., < NL. ''telescopium'' (NGr. τηλεσκόπιον), < Gr. τῆλε, afar, + σκοπεῖν, view.] '''1.''' An optical instrument by means of which distant objects are made to appear nearer and larger.\n{{smaller block|It originated in the first decade of the seventeenth century, apparently earliest in Holland; but Galileo in 1609 independently invented the form which bears his name, published it to the world, and was the first to apply the instrument to astronomical observation. The telescope consists essentially of two members: one, the ''objective'', a large converging lens, or a concave mirror (technically ''speculum''), which forms an optical image of the object; the other, the ''eyepiece'', a small lens or combination of lenses, which magnifies this image. The optical parts are usually set in a tube, and this is so arranged that the distance between the objective and the eyepiece can be adjusted to give the most distinct vision. Telescopes are classed as ''refracting'' or ''reflecting'', according as the objective is a lens or a speculum. The simple refracting telescope has for an objective a large convex lens, ''A'' (fig. 1), of long}}",
+   "c1c1": "{{c|Fig. 1.—The Simple Refracting Telescope.}}",
+   "c1s4": "focus, while the eyepiece, ''B'', is also a convex lens, but of short focus, the two being placed at a distance slightly less than the sum of their focal lengths. The “real” inverted image of the object formed at ''m'' by the object-glass is viewed by the magnifying lens ''B'', the magnifying power being equal to the ratio between the focal lengths of the lenses ''A'' and ''B''. With this form of instrument the object is seen inverted. In the Galilean telescope the eye-lens is concave instead of convex, and intercepts the rays from the objective before they reach the focus, so that the ob-",
+   "c2s1": "ject is seen erect. But the field of view is very restricted, and this form of instrument now survives only in the opera-glass. The simple refracting telescope in any of its forms is a very imperfect instrument, owing to the fact that rays of different color are not alike refrangible, the focus being nearer the lens for the blue rays than for the red. By making the telescope very long in proportion to its diameter, the injurious effect of this chromatic aberration can be greatly reduced, and about 1660 Huygens and Cassini used instruments more than 100 feet long in their observations upon Saturn. About the middle of the eighteenth century it was discovered in England that, by combining lenses of different kinds of glass, objectives could be made nearly free from chromatic aberration, and all the refracting telescopes now constructed have achromatic object-glasses of some form. The usual construction is a double-convex lens of crown-glass combined with a (nearly) plano-concave lens of flint-glass, the focal lengths of the two lenses being proportional to their dispersive powers, and the curves so chosen that the spherical aberration is corrected at the same time. But other forms are possible and even preferable. Fig. 2 shows some of those most used. For",
+   "c2c1": "{{c|Fig. 2.—Different Forms of the Achromatic Object-glass.}}",
+   "c2s2": "many years after the invention of the achromatic telescope it was impossible to obtain suitable glass for lenses of more than 5 inches in diameter. The discoveries of Guinand about 1800 partially relieved the difficulty, and from about 1870 to 1890 a considerable number of instruments have been made with apertures exceeding 2 feet—the largest so far being one of 40 inches diameter given by Charles",
+   "c2c2": "{{c|Fig. 3.— The Lick Telescope, Lick Observatory, California.}}",
+   "c2s3": "T. Yerkes to the University of Chicago. The Lick telescope (fig. 3) is of 36 inches diameter and 57 feet in length, the object-glass by Clark of Cambridge, Massachusetts. That of Pulkowa is 30 inches. The achromatic objective constructed of flint- and crown-glass is, however, by no means perfect, and cannot be made so while these kinds of glass are used. When the correction for the rays of mean wave-length in the spectrum is the best possible, the extreme rays—the red and violet—refuse to coincide with the others, so that the image of a bright object is surrounded by a purple halo, which renders it somewhat indistinct. This \"secondary spectrum,\" as it is called, is not very obtrusive in small instruments, but is a serious defect in large ones, and unfits the ordinary achromatic refractor for photography. For this purpose it is necessary to use an object-glass specially corrected for the violet rays, and therefore practically worthless for visual observations. But while it is impossible to secure a perfect color-correction with any lens composed of ordinary crown- and flint-glass, there is no reason why kinds of glass may not be invented which will render it possible; and since 1880 experiments, under the auspices of the German government, by Professor Abbé at Jena, appear to have resulted in at least partial success. Lenses as large as 12 inches in diameter have been made of the new glass. If large disks of this glass can be obtained sufficiently homogeneous, and not corrosible under exposure to the air, the art of telescope-making will immediately make enormous progress. The reflecting telescope was invented between 1660 and 1670, independently by Gregory and Newton, by the latter as the result of his discovery of the decomposition of light by refraction, which led him to conclude (erroneously) that the faults of the refracting telescope were necessarily incurable. There are four different forms of the in-",
+   "c2c3": "{{c|Fig. 4.—The Gregorian Reflecting Telescope.}}",
+   "c2s4": "strument, differing only in the method by which the rays reflected by the concave speculum which forms the objective are brought to the",
+   "c3s1": "eyepiece. In the Gregorian telescope (fig. 4) the rays reflected from the speculum are a second time reflected by a small concave mirror in the center of the tube, and just beyond the focus. The large mirror is perforated, and the eyepiece, placed behind the perforation, receives the rays thus twice reflected. In the Cassegrainian the construction is precisely similar, except that the small mirror is convex, and is placed within the focus; this shortens the instrument a little, but restricts the field of view. In both these forms the observer looks toward the object just as with a refractor. In the Newtonian form, which is the most used, the small mirror is plane, and set at an angle of 45°, so that the rays are reflected out at the side of the tube. Finally, in the front-view or Herschelian form the small mirror is dispensed with, the speculum being slightly tilted so as to throw the image to one side of the mouth of the tube. This saves the loss of light due to the second reflection, but involves some injury to the definition. Although the reflecting telescope is free from chromatic aberration, it seldom gives as perfect definition as an achromatic instrument, and is much more subject to atmospheric disturbance; the image also is less brilliant than that given by a refractor of the same aperture; but the speculum is much easier and less costly to construct than an achromatic object-glass of the same size, so that the largest telescopes ever made have been reflectors. At the head of the list stands the six-foot \"leviathan\" of Lord Rosse, erected in 1845, and still in use: it is of the Newtonian form. The five-foot silver-on-glass Cassegrainian reflector of Mr. Common, erected in 1889, stands next, and there are in existence a number of instruments with apertures of 3 and 4 feet. Herschel's great telescope, erected in 1789, but long since dismantled, was 48 inches in diameter and 40 feet long. The magnifying power of a telescope depends upon the ratio between the focal length of the object-glass and that of the eyepiece. (See ''eyepiece''.) It can therefore be altered at pleasure by merely exchanging one eyepiece for another. As a rule, the highest power practically available, with the best object-glasses and under the best circumstances, is from 75 to 100 to every inch of aperture. The illuminating power is proportional, other things equal, to the area of the object-glass or the speculum; so that a telescope of 12 inches aperture ought to give four times as",
+   "c3s2": "much light as one with a 6-inch lens. Practically, however, the larger lenses, on account of the increase in the thickness of the glass, do not reach their theoretical performance. Reflecting telescopes vary greatly in their light-gathering power. A Newtonian reflector with a silver-on-glass speculum freshly polished is not very greatly inferior in light to an achromatic of the same aperture; but as a rule a reflector in its ordinary working condition has only about half the light of the corresponding refractor. Small telescopes for terrestrial purposes are usually unmounted, but the tube is ordinarily made in several sections which slide into one another, reducing the length of the instrument, and making it more portable, as in the common spy-glass. Larger telescopes are mounted upon stands of some kind, and the practical efficiency of the instrument depends greatly on the firmness and convenient arrangement of the stand. At present telescopes for astronomical use are almost always mounted equatorially — that is, the telescope-tube is attached to an axis, which itself is carried by another axis with its bearings so arranged that it points toward the pole. This principal axis is called the ''polar axis'', and a clockwork is usually arranged to make it turn at the rate of one revolution in a sidereal day. When the telescope is once pointed at a celestial object, the clockwork will keep it apparently stationary in the field of view for any length of time. By the help also of graduated circles attached to the two axes it is easy to \"set\" the telescope so as to find any object whose right ascension and declination are known. Fig. 5 represents diagrammatically the equatorial of the",
+   "c3c1": "{{c|Fig. 5.—The Equatorial.}}",
+   "c3s3": "usual German form.\n\n{{smaller block|It is quite certain that previous to 1600 the ''telescope'' was unknown, except possibly to individuals who failed to see its practical importance, and who confined its use to \"curious practices\" or to demonstrations of \"natural magic.\"\n{{right|''Encyc. Brit.'', [XXIII. 135.}}}}\n\n2. [''cap.''] Same as ''Telescopium''.—'''Axis of a telescope.''' {{smaller|See ''axis''<sup>1</sup>.}}—'''Binocular telescope,''' {{smaller|an instrument composed of two similar small telescopes fastened together side by side and parallel, so that both eyes can be used}}",
+   "c3s4": "at once in looking through it. The opera-glass is its most common form.—'''Brachy-telescope''', or ''brachyte'', a form of silver-on-glass reflector in which the small mirror, convex in form, is placed out of the axis of the large speculum, which is slightly inclined, the distortion thus produced in the image being partly compensated by the corresponding inclination of the small mirror. This construction avoids the perforation of the speculum, and leaves its whole area unobstructed; it also considerably diminishes the length of the instrument.—'''Broken telescope''', a telescope which has a reflecting prism or mirror inserted about half-way between the object-glass and its focus, the tube being thus bent at right angles: much used in transit-instruments and theodolites.—'''Cane telescope''', a telescope or spy-glass fitted in a walking-stick.—'''Cassegrainian telescope''', a form of reflector in which the small mirror is convex. See def. 1.—'''Catadioptric, catoptric telescope''', a reflecting telescope.—'''Dialytic telescope.''' See ''dialytic.''—'''Equatorial telescope.''' See ''equatorial, n.'', and def. 1.—'''Galilean telescope''', the form of refracting telescope invented by Galileo, and still used as the opera-glass: it is"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0021 c1f1.png",
+   "c2f1": "century v08 p0021 c2f1.png",
+   "c2f2": "century v08 p0021 c2f2.png",
+   "c2f3": "century v08 p0021 c2f3.png",
+   "c3f1": "century v08 p0021 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     920,
+     711,
+     1487,
+     855
+    ],
+    "caption": [
+     918,
+     857,
+     1493,
+     883
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     913,
+     703,
+     1525,
+     829
+    ]
+   },
+   {
+    "box": [
+     873,
+     1107,
+     1551,
+     2046
+    ],
+    "caption": [
+     903,
+     2055,
+     1514,
+     2083
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     877,
+     1107,
+     1545,
+     2053
+    ]
+   },
+   {
+    "box": [
+     131,
+     2809,
+     792,
+     2893
+    ],
+    "caption": [
+     241,
+     2910,
+     691,
+     2934
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     128,
+     2793,
+     851,
+     2904
+    ]
+   },
+   {
+    "box": [
+     1069,
+     2977,
+     1553,
+     3154
+    ],
+    "caption": [
+     1078,
+     3187,
+     1551,
+     3213
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1105,
+     2977,
+     1547,
+     3178
+    ]
+   },
+   {
+    "box": [
+     1861,
+     1970,
+     2281,
+     2605
+    ],
+    "caption": [
+     1949,
+     2620,
+     2195,
+     2642
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1832,
+     1980,
+     2290,
+     2612
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "2": [
+    3,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 6,
+    "input_tokens": 9242,
+    "output_tokens": 429,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 18,
+    "input_tokens": 8474,
+    "output_tokens": 7465,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 48852
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|telephony|6217|telescope}}</noinclude>ducing sounds, especially articulate speech, at a distance from their source.\n\n'''Telephoridæ''' (tel-ẹ̄-for′i-dē), ''n.pl.'' [NL. (Leach, 1817), < ''Telephorus'' + ''-idæ''.] A family of serricorn beetles, including those forms commonly called ''soldier-beetles'', now usually merged with the ''Lampyridæ''. See ''Telephorinæ''. ''Malacodermidæ'' is a synonym.\n\n'''Telephorinæ''' (tel″ẹ̄-fọ̄-rī′nē), ''n. pl.'' [< ''Telephorus'' + ''-inæ''.] The ''Telephoridæ'' as a subfamily of the ''Lampyridæ''. {{smaller|They have the middle coxæ contiguous and the epipleura distinct and narrow at base, and mesothoracic episterna not sinuate on the inner side. They are slender and rather soft-bodied beetles of medium size, usually vegetable-feeders, although carnivorous in the larval state. ''Chauliognathus'', ''Podabrus'', and ''Telephorus'' are the principal genera represented in the United States. See cut under ''soldier-beetle''.}}\n\n'''Telephorus''' (tẹ̄-lef′ọ̄-rus), ''n.'' [NL. (Schaeffer, 1766), < Gr. τῆλε, afar, + -φορος, < φέρειν = E. ''bear''<sup>1</sup>.] A genus of serricorn beetles, typical of the family ''Telephoridæ''. {{smaller|It is of cosmopolitan distribution, and comprises more than 300 species, the majority of them inhabiting cold or temperate regions. Thirty-six species occur in the United States. ''T. bilineatus'', the two-lined soldier-beetle, is in its larval state, according to Riley, a common enemy of the larva of the codling-moth (''Carpocapsa pomonella''). See cut under ''soldier-beetle''.}}\n\n'''telephote''' (tel′ẹ̄-fōt), ''n.'' [< Gr. τῆλε, afar, + φῶς (φωτ-), light.] An instrument designed to reproduce at a distance, by the aid of electricity, pictures or images of visible objects.\n\n'''telephotograph''' (tel-ē-fō′tọ̄-gräf), ''n.'' [< ''telephote'' + Gr. γράφειν, write. Cf. ''photograph.''] A picture or image produced by a telephote.\n\n'''telephotography''' (tel″ē-fọ̄-tog′rạ-fi), ''n.'' [< ''telephotograph'' + ''-y''<sup>3</sup>.] The art (not yet attained) of producing a photograph of an object distant and invisible from the camera, by means of electrical connections with a suitable apparatus situated near the object. ''Nature,'' XLIII. 335.\n\n'''teleplastic''' (tel-ē-plas′tik), ''a.'' [< Gr. τῆλε, afar, + πλάσσειν, form, mold, shape.] Noting the alleged spiritualistic phenomena of materialization, or the formation of phantasmal figures of persons and things. Also ''telesomatic.'' See the quotation. [Rare.]\n\n{{smaller block|M. [A. N.] Aksakof uses the term \"telesomatic\" for the phenomena of so called \"materialisation,\" the formation of \"spirit-hands\" and the like. Elsewhere he calls these phenomena \"plastic.\" Inasmuch as other material objects are asserted to be thus supernormally formed, besides quasi-human bodies, it would be better, I think, to give the name ''teleplastic'' to all this class of alleged phenomena. ''F. W. H. Myers,'' Proc. Soc. Psych. Research,\n{{right|[Dec., 1890, p. 669.}}}}\n\n'''telepolariscope''' (tel″ẹ̄-pọ̄-lar′i-skōp), ''n.'' [< Gr. τῆλε, afar, + E. ''polariscope.''] An optical instrument consisting of a combination of the polariscope with the telescope.\n\n'''teleradiophone''' (tel-ẹ̄-rā′di-ọ̄-fōn), ''n.'' [< Gr. τῆλε, afar, + E. ''radiophone.''] An adaptation of telegraphy to the radiophone.\n\n'''Telerpeton''' (tē-lėr′pe-ton), ''n.'' [NL., < Gr. τῆλε, afar, + ἑρπετόν, a reptile, < ἕρπειν, creep, crawl.] '''1.''' A genus of fossil lizards of the Mesozoic period, belonging to the order ''Rhynchocephalia.''—'''2.''' [''l. c.''] A member of this genus.\n\n'''telescope''' (tel′e-skōp), ''n.'' [= F. ''télescope'' = Sp. Pg. It. ''telescopio'' = D. ''teleskoop'' = G. Sw. Dan. ''teleskop'', etc., < NL. ''telescopium'' (NGr. τηλεσκόπιον), < Gr. τῆλε, afar, + σκοπεῖν, view.] '''1.''' An optical instrument by means of which distant objects are made to appear nearer and larger.\n{{smaller block|It originated in the first decade of the seventeenth century, apparently earliest in Holland; but Galileo in 1609 independently invented the form which bears his name, published it to the world, and was the first to apply the instrument to astronomical observation. The telescope consists essentially of two members: one, the ''objective'', a large converging lens, or a concave mirror (technically ''speculum''), which forms an optical image of the object; the other, the ''eyepiece'', a small lens or combination of lenses, which magnifies this image. The optical parts are usually set in a tube, and this is so arranged that the distance between the objective and the eyepiece can be adjusted to give the most distinct vision. Telescopes are classed as ''refracting'' or ''reflecting'', according as the objective is a lens or a speculum. The simple refracting telescope has for an objective a large convex lens, ''A'' (fig. 1), of long}} focus, while the eyepiece, ''B'', is also a convex lens, but of short focus, the two being placed at a distance slightly less than the sum of their focal lengths. The “real” inverted image of the object formed at ''m'' by the object-glass is viewed by the magnifying lens ''B'', the magnifying power being equal to the ratio between the focal lengths of the lenses ''A'' and ''B''. With this form of instrument the object is seen inverted. In the Galilean telescope the eye-lens is concave instead of convex, and intercepts the rays from the objective before they reach the focus, so that the object is seen erect. But the field of view is very restricted, and this form of instrument now survives only in the opera-glass. The simple refracting telescope in any of its forms is a very imperfect instrument, owing to the fact that rays of different color are not alike refrangible, the focus being nearer the lens for the blue rays than for the red. By making the telescope very long in proportion to its diameter, the injurious effect of this chromatic aberration can be greatly reduced, and about 1660 Huygens and Cassini used instruments more than 100 feet long in their observations upon Saturn. About the middle of the eighteenth century it was discovered in England that, by combining lenses of different kinds of glass, objectives could be made nearly free from chromatic aberration, and all the refracting telescopes now constructed have achromatic object-glasses of some form. The usual construction is a double-convex lens of crown-glass combined with a (nearly) plano-concave lens of flint-glass, the focal lengths of the two lenses being proportional to their dispersive powers, and the curves so chosen that the spherical aberration is corrected at the same time. But other forms are possible and even preferable. Fig. 2 shows some of those most used. For many years after the invention of the achromatic telescope it was impossible to obtain suitable glass for lenses of more than 5 inches in diameter. The discoveries of Guinand about 1800 partially relieved the difficulty, and from about 1870 to 1890 a considerable number of instruments have been made with apertures exceeding 2 feet—the largest so far being one of 40 inches diameter given by Charles T. Yerkes to the University of Chicago. The Lick telescope (fig. 3) is of 36 inches diameter and 57 feet in length, the object-glass by Clark of Cambridge, Massachusetts. That of Pulkowa is 30 inches. The achromatic objective constructed of flint- and crown-glass is, however, by no means perfect, and cannot be made so while these kinds of glass are used. When the correction for the rays of mean wave-length in the spectrum is the best possible, the extreme rays—the red and violet—refuse to coincide with the others, so that the image of a bright object is surrounded by a purple halo, which renders it somewhat indistinct. This \"secondary spectrum,\" as it is called, is not very obtrusive in small instruments, but is a serious defect in large ones, and unfits the ordinary achromatic refractor for photography. For this purpose it is necessary to use an object-glass specially corrected for the violet rays, and therefore practically worthless for visual observations. But while it is impossible to secure a perfect color-correction with any lens composed of ordinary crown- and flint-glass, there is no reason why kinds of glass may not be invented which will render it possible; and since 1880 experiments, under the auspices of the German government, by Professor Abbé at Jena, appear to have resulted in at least partial success. Lenses as large as 12 inches in diameter have been made of the new glass. If large disks of this glass can be obtained sufficiently homogeneous, and not corrosible under exposure to the air, the art of telescope-making will immediately make enormous progress. The reflecting telescope was invented between 1660 and 1670, independently by Gregory and Newton, by the latter as the result of his discovery of the decomposition of light by refraction, which led him to conclude (erroneously) that the faults of the refracting telescope were necessarily incurable. There are four different forms of the instrument, differing only in the method by which the rays reflected by the concave speculum which forms the objective are brought to the eyepiece. In the Gregorian telescope (fig. 4) the rays reflected from the speculum are a second time reflected by a small concave mirror in the center of the tube, and just beyond the focus. The large mirror is perforated, and the eyepiece, placed behind the perforation, receives the rays thus twice reflected. In the Cassegrainian the construction is precisely similar, except that the small mirror is convex, and is placed within the focus; this shortens the instrument a little, but restricts the field of view. In both these forms the observer looks toward the object just as with a refractor. In the Newtonian form, which is the most used, the small mirror is plane, and set at an angle of 45°, so that the rays are reflected out at the side of the tube. Finally, in the front-view or Herschelian form the small mirror is dispensed with, the speculum being slightly tilted so as to throw the image to one side of the mouth of the tube. This saves the loss of light due to the second reflection, but involves some injury to the definition. Although the reflecting telescope is free from chromatic aberration, it seldom gives as perfect definition as an achromatic instrument, and is much more subject to atmospheric disturbance; the image also is less brilliant than that given by a refractor of the same aperture; but the speculum is much easier and less costly to construct than an achromatic object-glass of the same size, so that the largest telescopes ever made have been reflectors. At the head of the list stands the six-foot \"leviathan\" of Lord Rosse, erected in 1845, and still in use: it is of the Newtonian form. The five-foot silver-on-glass Cassegrainian reflector of Mr. Common, erected in 1889, stands next, and there are in existence a number of instruments with apertures of 3 and 4 feet. Herschel's great telescope, erected in 1789, but long since dismantled, was 48 inches in diameter and 40 feet long. The magnifying power of a telescope depends upon the ratio between the focal length of the object-glass and that of the eyepiece. (See ''eyepiece''.) It can therefore be altered at pleasure by merely exchanging one eyepiece for another. As a rule, the highest power practically available, with the best object-glasses and under the best circumstances, is from 75 to 100 to every inch of aperture. The illuminating power is proportional, other things equal, to the area of the object-glass or the speculum; so that a telescope of 12 inches aperture ought to give four times as much light as one with a 6-inch lens. Practically, however, the larger lenses, on account of the increase in the thickness of the glass, do not reach their theoretical performance. Reflecting telescopes vary greatly in their light-gathering power. A Newtonian reflector with a silver-on-glass speculum freshly polished is not very greatly inferior in light to an achromatic of the same aperture; but as a rule a reflector in its ordinary working condition has only about half the light of the corresponding refractor. Small telescopes for terrestrial purposes are usually unmounted, but the tube is ordinarily made in several sections which slide into one another, reducing the length of the instrument, and making it more portable, as in the common spy-glass. Larger telescopes are mounted upon stands of some kind, and the practical efficiency of the instrument depends greatly on the firmness and convenient arrangement of the stand. At present telescopes for astronomical use are almost always mounted equatorially — that is, the telescope-tube is attached to an axis, which itself is carried by another axis with its bearings so arranged that it points toward the pole. This principal axis is called the ''polar axis'', and a clockwork is usually arranged to make it turn at the rate of one revolution in a sidereal day. When the telescope is once pointed at a celestial object, the clockwork will keep it apparently stationary in the field of view for any length of time. By the help also of graduated circles attached to the two axes it is easy to \"set\" the telescope so as to find any object whose right ascension and declination are known. Fig. 5 represents diagrammatically the equatorial of the usual German form.\n\n[[File:century v08 p0021 c1f1.png|center|360px]]\n{{c|Fig. 1.—The Simple Refracting Telescope.}}\n\n[[File:century v08 p0021 c2f1.png|center|317px]]\n{{c|Fig. 2.—Different Forms of the Achromatic Object-glass.}}\n\n[[File:century v08 p0021 c2f2.png|center|317px]]\n{{c|Fig. 3.— The Lick Telescope, Lick Observatory, California.}}\n\n[[File:century v08 p0021 c2f3.png|center|221px]]\n{{c|Fig. 4.—The Gregorian Reflecting Telescope.}}\n\n[[File:century v08 p0021 c3f1.png|center|191px]]\n{{c|Fig. 5.—The Equatorial.}}\n\n{{smaller block|It is quite certain that previous to 1600 the ''telescope'' was unknown, except possibly to individuals who failed to see its practical importance, and who confined its use to \"curious practices\" or to demonstrations of \"natural magic.\"\n{{right|''Encyc. Brit.'', [XXIII. 135.}}}}\n\n2. [''cap.''] Same as ''Telescopium''.—'''Axis of a telescope.''' {{smaller|See ''axis''<sup>1</sup>.}}—'''Binocular telescope,''' {{smaller|an instrument composed of two similar small telescopes fastened together side by side and parallel, so that both eyes can be used}} at once in looking through it. The opera-glass is its most common form.—'''Brachy-telescope''', or ''brachyte'', a form of silver-on-glass reflector in which the small mirror, convex in form, is placed out of the axis of the large speculum, which is slightly inclined, the distortion thus produced in the image being partly compensated by the corresponding inclination of the small mirror. This construction avoids the perforation of the speculum, and leaves its whole area unobstructed; it also considerably diminishes the length of the instrument.—'''Broken telescope''', a telescope which has a reflecting prism or mirror inserted about half-way between the object-glass and its focus, the tube being thus bent at right angles: much used in transit-instruments and theodolites.—'''Cane telescope''', a telescope or spy-glass fitted in a walking-stick.—'''Cassegrainian telescope''', a form of reflector in which the small mirror is convex. See def. 1.—'''Catadioptric, catoptric telescope''', a reflecting telescope.—'''Dialytic telescope.''' See ''dialytic.''—'''Equatorial telescope.''' See ''equatorial, n.'', and def. 1.—'''Galilean telescope''', the form of refracting telescope invented by Galileo, and still used as the opera-glass: it is<noinclude><references/></noinclude>"
+}

@@ -1,0 +1,289 @@
+{
+ "volume": 8,
+ "page_number": 44,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n43.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n43.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": -0.8,
+  "column_width": 838,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     119,
+     88,
+     2442,
+     124
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     119,
+     124,
+     858,
+     495
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     443,
+     495,
+     858,
+     848
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     443,
+     854,
+     858,
+     874
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     119,
+     495,
+     443,
+     901
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     119,
+     901,
+     858,
+     1667
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     119,
+     1667,
+     858,
+     2138
+    ]
+   },
+   {
+    "name": "c1c2",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     119,
+     2148,
+     858,
+     2173
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     119,
+     2173,
+     858,
+     3249
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     858,
+     124,
+     1604,
+     1171
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     858,
+     1171,
+     1604,
+     2230
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     858,
+     2230,
+     1604,
+     3249
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1604,
+     124,
+     2442,
+     1069
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1604,
+     1069,
+     2442,
+     2145
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1604,
+     2145,
+     2442,
+     3152
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1604,
+     3152,
+     2442,
+     3249
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|teredo|6240|term}}",
+   "c1s1": "¶\n'''teredo''' (tē-rē′dō), ''n.'' [< L. ''teredo'', < Gr. τερηδών, a worm that gnaws wood, etc., a moth, < τείρειν = L. ''terere'', rub: see ''terebra''.] 1. A lamellibranch mollusk of the genus ''Teredo'', family ''Teredinidæ''; the ship-worm, ''T. navalis'', conspicuous for the destruction which it occasions to ships and submerged wood, by perforating them in all directions in order to establish a habitation. {{smaller|It is a worm-shaped grayish-white animal, most of whose length is owing to the elongation of the united siphons or breathing-tubes conveying water to the gills. The}}",
+   "c1c1": "{{c|Piece of Wood Perforated by Teredos.}}",
+   "c1s2": "two valves of the shell are small. The viscera are mainly contained within the valves. In excavating in the wood (the shell is the boring-instrument) every individual is careful to avoid the tube formed by its neighbor, and often a very thin leaf of wood alone is left between the cavities, which are lined with a calcareous incrustation. Many methods are in",
+   "c1s3": "{{smaller block|use to protect ships, piers, etc., from this destructive animal, such as copper sheathing, treating with creosote or corrosive sublimate, or driving numbers of short broad-headed nails into the timber, the rust from which spreads and prevents the animal from settling. It is said to have been originally imported from tropical climates; but it has now become an inhabitant of most harbors. (See also cut under ''ship-worm.'') ''T. gigantea'' is a species found in the East Indies in shallow water, where it bores into the hardened mud.}}\n\n2. [''cap.''] [NL. (Linnæus, 1758).] The typical genus of ''Teredinidæ'', including ''T. navalis'', the common teredo or ship-worm. See def. 1. Also called ''Septaria.''—3. Any disease in plants produced by the boring of insects. ''Lindley'', Gloss.\n\n'''terek''' (ter′ek), ''n.'' A kind of sandpiper, ''Terekia cinerea.''\n\n'''Terekia''' (tē-rē′ki-ä), ''n.'' [NL. (Bonaparte, 1838), also ''Terechia'' (Bonaparte, 1841), < ''terek'', a native name.] A genus of scolopacine birds, containing only the terek sandpiper, ''T. cinerea'', resembling the greenshank and some other tattlers, and having the bill somewhat recurved.\n{{smaller block|This bird is very widely distributed, visiting in its migrations nearly all parts of the Old World, and breeding in}}",
+   "c1c2": "{{c|Terek (''Terekia cinerea'').}}",
+   "c1s4": "{{smaller block|high latitudes of Asia and Europe. It may be recognized in any plumage by the wholly white axillaries, largely white secondaries, and absence of any white on the primaries or rump. It has about twenty different New Latin names, and the genus is also called ''Xenus'' (of Kaup, 1829) and ''Simorhynchus'' (of Keyserling and Blasius, 1840, not of Merrem).}}\n\n'''teres''' (tē′rēz), ''n.'' [NL. (sc. ''musculus''), a round muscle, < L. ''teres'', round, smooth: see ''terete''.] A terete muscle; specifically, one of two terete muscles of the shoulder, proceeding from the scapula to the humerus.—{{smaller|'''Teres major''' (''greater teres''), a muscle lying externally to the teres minor, and with the latissimus dorsi forming the posterior border of the axilla. It is inserted into the posterior bicipital ridge of the humerus.—'''Teres minor''' (''lesser teres''), a muscle lying along the outer border of the infraspinatus, to which it is closely connected and near which it is inserted into the greater tuberosity of the humerus.}}\n\n'''Teresian''' (tē-rē′si-an), ''n.'' [< ''Teresa'' (see def.) + ''-ian''.] One of a branch of the Carmelites founded by Saint Teresa in 1562.\n\n'''teret†''', ''a.'' See ''terete''.\n\n'''terete''' (tẹ̄-rēt′), ''a.'' [Formerly also ''teret''; = Sp. ''terete'', < L. ''teres'' (''teret-''), round, smooth, < ''terere'', rub: see ''terebra'', ''trite''.] Slender and smooth, with a circular transverse section; cylindrical or slightly tapering. See cut under ''petiole''.\n\n{{smaller block|Nature hath . . . made them [the stars] round and ''teret'' like a globe.\n{{right|''Fotherby'', Atheomastix (1622), p. 326.}}}}\n\n{{smaller|'''Terete pronator.''' Same as ''teretipronator''.}}\n\n'''teretial''' (tẹ̄-rē′shal), ''a.'' [< ''terete'' + ''-ial''.] Same as ''terete''. ''Owen.'' [Rare.]\n\n'''tereticaudate''' (ter″ē-ti-kâ′dāt), ''a.'' [< L. ''teres'' (''teret-''), round, + ''cauda'', a tail: see ''caudate''.] Round-tailed; having a terete tail: specifically",
+   "c2s1": "said of certain reptiles of a former group ''Tereticaudati.''\n\n'''teretipronator''' (ter″ẹ̄-ti-prọ̄-nā′tọr), ''n.'' [< L. ''teres'' (''teret-''), round, + ''pronator.''] The round pronating muscle of the forearm; the pronator radii teres. See ''pronator.'' ''Coues'', 1887.\n\n'''teretiscapularis''' (ter″ẹ̄-ti-skap-ū-lā′ris), ''n.''; pl. ''teretiscapulares'' (-rēz). [NL., < L. ''teres'' (''teret-''), terete, + ''scapularis.''] The greater terete muscle of the shoulder-blade, commonly called ''teres major.'' See ''teres.'' ''Coues'', 1887.\n\n'''Teretistris''' (ter-ẹ̄-tis′tris), ''n.'' [NL. (Cabanis, 1855), < Gr. τερετίζειν, whistle: often misspelled ''Teretristis.''] A genus of American warblers, or ''Mniotiltidæ'', peculiar to Cuba, and of 2 species, ''T. fernandinæ'' (Lembeye) and ''T. fornsi'' (Gundlach), respectively of the western and eastern parts of the island. They are small and plain-colored birds, 4¾ inches long.\n\n'''teretous†''' (ter′ẹ̄-tus), ''a.'' [< L. ''teres'' (''teret-''), round, smooth, + ''-ous.''] Same as ''terete.''\n\n{{smaller block|''Teretous'', or long round leaves.\n{{right|''Sir T. Browne'', Garden of Cyrus, iv.}}}}\n\n'''terfle†''', ''v. i.'' [ME. ''terflen'', < AS. ''tearflian'', roll about, a freq. form, prob. connected with ''terve.''] To roll about; wallow. ''Stratmann.''\n\n'''terga''', ''n.'' Plural of ''tergum.''\n\n'''tergal''' (tėr′ga̤l), ''a.'' [< L. ''tergum'', back, + ''-al.''] 1. Of or pertaining to the back in general; dorsal; notæal: the opposite of ''sternal'' or ''ventral.'' Specifically—2. In ''entom.'', of or pertaining to a notum, tergum, or tergite.—3. In echinoderms,",
+   "c2s2": "dorsal in the sense of aboral; coronal: the opposite of ''ventral'' or ''oral'': as, the ''tergal'' plates of a starfish.—4. In trilobites, of or pertaining to the axis or tergum. See cut under ''Trilobita''.—{{smaller|'''Tergal facet''', the smooth dorsal anterior surface of the somite of a crustacean, over which the posterior under surface of a preceding somite glides in flexion and extension of the abdomen.}}\n\n'''tergant''' (tėr′gạnt), ''a.'' [Heraldic F., < L. ''tergum'', back: see ''tergum''.] In ''her.'', turning the back toward the spectator. See ''recursant''. Also ''tergiant''.\n\n'''tergate†''', ''n.'' An obsolete form of ''target''.\n\n{{smaller block|He pulled a ''tergate'' from one of his souldiours, and castynge it in to the water, standynge on it, with his spere conuaied hym selfe with the streme.\n{{right|''Sir T. Elyot'', The Governour, i. 17.}}}}\n\n'''tergeminate''' (tėr-jem′i-nāt), ''a.'' [< L. ''ter'', thrice, + ''geminatus'', doubled: see ''geminate''.] Thrice double: specifically applied in botany to a compound leaf having at the base a pair of leaflets and then forking, with a pair on each branch, as in ''Calliandra tergemina''.\n\n'''tergeminous''' (tėr-jem′i-nus), ''a.'' [< L. ''tergeminus'', threefold, triple, < ''ter'', thrice, + ''geminus'', born at the same time, twin: see ''gemini''.] Tergeminate.\n\n'''tergiant''' (tėr′ji-ạnt), ''a.'' In ''her.'', same as ''tergant''.\n\n'''tergiferous''' (tėr-jif′ẹ-rus), ''a.'' [< L. ''tergum'', back, + ''ferre'' = E. ''bear''<sup>1</sup>: see ''-ferous''.] Carrying or bearing on the back; dorsigerous or dorsiferous.\n\n'''tergite''' (tėr′jīt), ''n.'' [< L. ''tergum'', the back, + ''-ite''<sup>2</sup>.] The tergum, dorsum, or back of one",
+   "c2s3": "of the somites or segments of an articulated animal, as an arthropod. {{smaller|A typical tergite consists of a pair of plates or pieces, right and left; but these become fused, and also a number of successive tergites may blend together, as in the cephalothorax of a crustacean.}}\n\n'''tergitic''' (tėr-jit′ik), ''a.'' [< ''tergite'' + ''-ic.''] Tergal or dorsal, as a sclerite; of or pertaining to a tergite.\n\n'''tergiversate''' (tėr′ji-vėr-sāt), ''v. i.''; pret. and pp. ''tergiversated'', ppr. ''tergiversating''. [< L. ''tergiversatus'', pp. of ''tergiversari'', turn one's back, shift: see ''tergiverse''.] To shift; practise evasion; make use of shifts or subterfuges.\n\n{{smaller block|Who also, as if he were conscious that his assumentum to the Platonick theology were not so defensible a thing, doth himself sometime, as it were, ''tergiversate'' and decline it, by equivocating in the word Henades, taking them for the ideas, or the intelligible gods before mentioned.\n{{right|''Cudworth'', Intellectual System, II. 361.}}}}\n\n'''tergiversation''' (tėr″ji-vėr-sā′shọn), ''n.'' [< F. ''tergiversation'' = Sp. ''tergiversacion'' = Pg. ''tergiversação'' = It. ''tergiversazione'', < L. ''tergiversatio(n-)'', a shifting, evasion, lit. a turning of one's back, < ''tergiversari'', pp. ''tergiversatus'', turn one's back: see ''tergiversate''.] 1. The act of tergiversating; a shifting; shift; subterfuge; evasion.\n\n{{smaller block|Writing is to be preferred before verbal conferences, as being freer from passions and ''tergiversation''.\n{{right|''Abp. Bramhall.'' (''Johnson.'')}}}}\n\n2. The act of changing one's opinions or of turning from them; the act of turning against a cause formerly advocated; fickleness or instability of conduct.",
+   "c3s1": "{{smaller block|The colonel, after all his ''tergiversation'', lost his life in the king's service.\n{{right|''Clarendon.''}}}}\n\n¶\n'''tergiversator''' (tėr′ji-vėr-sā-to̤r), ''n.'' [= F. ''tergiversateur'' = Pg. ''tergiversador'', < L. ''tergiversator'', one who hangs back, a laggard, < ''tergiversari'', turn one's back: see ''tergiversate''.] One who practises tergiversation.\n\n'''tergiverse†''' (tėr′ji-vėrs), ''v. i.'' [< F. ''tergiverser'' = Sp. Pg. ''tergiversar'' = It. ''tergiversare'', < L. ''tergiversari'', turn one's back, decline, refuse, evade, shift, < ''tergum'', back, + ''versari'', turn: see ''verse''.] To turn one's back; tergiversate.\n\n{{smaller block|The Briton never ''tergivers'd'',\nBut was for adverse drubbing.\n{{right|''Saint George for England'', ii.}}}}\n\n'''tergolateral''' (tėr-gō-lat′e-ra̤l), ''a.'' [< L. ''tergum'', back, + ''latus'' (''later-''), side, + ''-al''.] Of or pertaining to the tergum and the lateral plates of a cirriped. ''Darwin'', Cirripedia, Int., p. 5.\n\n'''tergorhabdite''' (tėr-gọ̄-rab′dīt), ''n.'' [< L. ''tergum'', back, + Gr. ῥάβδος, rod, + ''-ite''<sup>2</sup>.] In ''entom.'', one of the pieces primarily forming the upper or tergal surface of an insect's abdomen. {{smaller|Lacaze-Duthiers applied this name to the lower pair of plates forming the ovipositor of a female insect; they are modified tergal pieces of one of the abdominal rings.}}\n\n'''tergum''' (tėr′gum), ''n.''; pl. ''terga'' (-gä̤). [NL., < L. ''tergum'', back.] 1. The back, dorsum, or notum, especially of an arthropod.—2. The tergal or dorsal sclerite of one of the rings or",
+   "c3s2": "somites of an arthropod or articulate animal; a tergite. {{smaller|A tergum is often composed of two lateral halves. In some of the thoracic segments of insects it is subdivided into parts called, from before backward, ''præscutum, scutum, scutellum,'' and ''postscutellum.''}}\n\n3. One of the two upper or dorsal plates of the shell in cirripeds. See cut under ''Balanus.''\n\n'''Terias''' (tē′ri-as), ''n.'' [NL. (Swainson, 1821).] A genus of butterflies, of the family ''Papilionidæ'' and subfamily ''Pieridinæ,'' comprising about a dozen species, nearly all American. {{smaller|The North American are ''T. nicippe,'' a small bright-orange species, and ''T. lisa,'' still smaller and lemon-yellow in color, both of the southern United States. Their larvæ live upon plants of the genus ''Cassia.''}}\n\n'''terie†''', ''v.'' An obsolete form of ''tarry''<sup>2</sup> and ''tarry''<sup>3</sup>.\n\n'''terin†''', ''n.'' Same as ''tarin.''\n\n{{smaller block|Thrustles, ''terins,'' and mavys,<br>That songen for to wynne hem prys.\n{{right|''Rom. of the Rose,'' l. 665.}}}}\n\n'''term''' (tėrm), ''n.'' [Early mod. E. also ''tearm,'' earlier ''terme;'' < ME. ''terme,'' < OF. ''terme,'' also in less vernacular form ''termine'' = Pr. ''terme'' = Sp. ''término'' = Pg. ''termino'' = It. ''termino, termine'' = D. ''termijn'' = G. Sw. Dan. ''termin,'' < L. ''terminus,'' OL. also ''termo'' (''termon-''), ''termen'' (''termin-''), a bound, boundary, limit, end, ML. (and Rom.) also a time, period, also a definition (?), word, covenant, etc.; = Gr. τέρμων (τερμον-), τέρμα (τερματ-), a boundary-line, limit; prob. akin to E. ''thrum''<sup>1</sup>, ''tram''<sup>1</sup>. From L. ''terminus'' are also ult. E. ''terminus, terminal, terminate, termine, determine, determinate,'' etc., ''conterminous,'' etc.] 1. A bound; a boundary; limit; the extremity of anything, or that which limits its extent; a",
+   "c3s3": "confine; end; termination; completion.\n\n{{smaller block|Here I take the to my liue; tac thou non other to ''terme'' of liue.{{right|''Political Poems'', etc. (ed. Furnivall), p. 229.}}}}\n\n{{smaller block|God was careful to secure us from death by removing the lepers from the camp, . . . and putting a ''term'' between the living and the dead.{{right|''Jer. Taylor'', Works (ed. 1835), I. 885.}}}}\n\n{{smaller block|At the decline of day,<br>Winding above the mountain's snowy ''term'',<br>New banners shone.{{right|''Shelley'', Revolt of Islam, vi. 18.}}}}\n\n{{smaller block|Who does not sometimes . . . await with curious complacency the speedy ''term'' of his own conversation with finite nature?{{right|''Emerson'', Essays, 1st ser., p. 240.}}}}\n\n2. In ''geom.'', the extreme of any magnitude, or that which limits or bounds its extent: as, the ''terms'' of a line are points, the ''terms'' of a superficies are lines, and the ''terms'' of a solid are superficies. See also def. 9.—3†. Outcome; final issue.\n\n{{smaller block|Yet ought mens good endevours them confirme,<br>And guyde the heavenly causes to their constant ''terme''.{{right|''Spenser'', F. Q., III. iii. 25.}}}}\n\n4†. A figure of Terminus, the god of boundaries; a terminal figure. See ''terminus'', 3.\n\n{{smaller block|An arbour feigned of goldsmith's-work, the ornament of which was borne up with ''termes'' of satyrs.{{right|''B. Jonson'', Chloridia.}}}}\n\n{{smaller block|On either side of the Gate stood a great French ''Terme'' of stone, aduanced vpon wodden Pedestalls.{{right|''Dekker'', Kings Entertainment (Works, ed. Pearson, I. 278).}}}}\n\n5. In ''ship-building'', a piece of carved work placed under each end of the taffrail, and extending to",
+   "c3s4": "the foot-rail of the balcony. Also called ''term-piece''.—6. A space or period of time to which limits have been set; the time or period through"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0044 c1f1.png",
+   "c1f2": "century v08 p0044 c1f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     455,
+     497,
+     850,
+     845
+    ],
+    "caption": [
+     456,
+     854,
+     850,
+     875
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     444,
+     471,
+     869,
+     846
+    ]
+   },
+   {
+    "box": [
+     182,
+     1666,
+     791,
+     2138
+    ],
+    "caption": [
+     351,
+     2148,
+     619,
+     2173
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     210,
+     1631,
+     862,
+     2139
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 3,
+    "input_tokens": 5635,
+    "output_tokens": 159,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 14,
+    "input_tokens": 9373,
+    "output_tokens": 9823,
+    "cache_creation_input_tokens": 5428,
+    "cache_read_input_tokens": 32568
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|teredo|6240|term}}</noinclude>'''teredo''' (tē-rē′dō), ''n.'' [< L. ''teredo'', < Gr. τερηδών, a worm that gnaws wood, etc., a moth, < τείρειν = L. ''terere'', rub: see ''terebra''.] 1. A lamellibranch mollusk of the genus ''Teredo'', family ''Teredinidæ''; the ship-worm, ''T. navalis'', conspicuous for the destruction which it occasions to ships and submerged wood, by perforating them in all directions in order to establish a habitation. {{smaller|It is a worm-shaped grayish-white animal, most of whose length is owing to the elongation of the united siphons or breathing-tubes conveying water to the gills. The}} two valves of the shell are small. The viscera are mainly contained within the valves. In excavating in the wood (the shell is the boring-instrument) every individual is careful to avoid the tube formed by its neighbor, and often a very thin leaf of wood alone is left between the cavities, which are lined with a calcareous incrustation. Many methods are in {{smaller block|use to protect ships, piers, etc., from this destructive animal, such as copper sheathing, treating with creosote or corrosive sublimate, or driving numbers of short broad-headed nails into the timber, the rust from which spreads and prevents the animal from settling. It is said to have been originally imported from tropical climates; but it has now become an inhabitant of most harbors. (See also cut under ''ship-worm.'') ''T. gigantea'' is a species found in the East Indies in shallow water, where it bores into the hardened mud.}}\n\n[[File:century v08 p0044 c1f1.png|center|178px]]\n{{c|Piece of Wood Perforated by Teredos.}}\n\n2. [''cap.''] [NL. (Linnæus, 1758).] The typical genus of ''Teredinidæ'', including ''T. navalis'', the common teredo or ship-worm. See def. 1. Also called ''Septaria.''—3. Any disease in plants produced by the boring of insects. ''Lindley'', Gloss.\n\n'''terek''' (ter′ek), ''n.'' A kind of sandpiper, ''Terekia cinerea.''\n\n'''Terekia''' (tē-rē′ki-ä), ''n.'' [NL. (Bonaparte, 1838), also ''Terechia'' (Bonaparte, 1841), < ''terek'', a native name.] A genus of scolopacine birds, containing only the terek sandpiper, ''T. cinerea'', resembling the greenshank and some other tattlers, and having the bill somewhat recurved.\n{{smaller block|This bird is very widely distributed, visiting in its migrations nearly all parts of the Old World, and breeding in high latitudes of Asia and Europe. It may be recognized in any plumage by the wholly white axillaries, largely white secondaries, and absence of any white on the primaries or rump. It has about twenty different New Latin names, and the genus is also called ''Xenus'' (of Kaup, 1829) and ''Simorhynchus'' (of Keyserling and Blasius, 1840, not of Merrem).}}\n\n[[File:century v08 p0044 c1f2.png|center|317px]]\n{{c|Terek (''Terekia cinerea'').}}\n\n'''teres''' (tē′rēz), ''n.'' [NL. (sc. ''musculus''), a round muscle, < L. ''teres'', round, smooth: see ''terete''.] A terete muscle; specifically, one of two terete muscles of the shoulder, proceeding from the scapula to the humerus.—{{smaller|'''Teres major''' (''greater teres''), a muscle lying externally to the teres minor, and with the latissimus dorsi forming the posterior border of the axilla. It is inserted into the posterior bicipital ridge of the humerus.—'''Teres minor''' (''lesser teres''), a muscle lying along the outer border of the infraspinatus, to which it is closely connected and near which it is inserted into the greater tuberosity of the humerus.}}\n\n'''Teresian''' (tē-rē′si-an), ''n.'' [< ''Teresa'' (see def.) + ''-ian''.] One of a branch of the Carmelites founded by Saint Teresa in 1562.\n\n'''teret†''', ''a.'' See ''terete''.\n\n'''terete''' (tẹ̄-rēt′), ''a.'' [Formerly also ''teret''; = Sp. ''terete'', < L. ''teres'' (''teret-''), round, smooth, < ''terere'', rub: see ''terebra'', ''trite''.] Slender and smooth, with a circular transverse section; cylindrical or slightly tapering. See cut under ''petiole''.\n\n{{smaller block|Nature hath . . . made them [the stars] round and ''teret'' like a globe.\n{{right|''Fotherby'', Atheomastix (1622), p. 326.}}}}\n\n{{smaller|'''Terete pronator.''' Same as ''teretipronator''.}}\n\n'''teretial''' (tẹ̄-rē′shal), ''a.'' [< ''terete'' + ''-ial''.] Same as ''terete''. ''Owen.'' [Rare.]\n\n'''tereticaudate''' (ter″ē-ti-kâ′dāt), ''a.'' [< L. ''teres'' (''teret-''), round, + ''cauda'', a tail: see ''caudate''.] Round-tailed; having a terete tail: specifically said of certain reptiles of a former group ''Tereticaudati.''\n\n'''teretipronator''' (ter″ẹ̄-ti-prọ̄-nā′tọr), ''n.'' [< L. ''teres'' (''teret-''), round, + ''pronator.''] The round pronating muscle of the forearm; the pronator radii teres. See ''pronator.'' ''Coues'', 1887.\n\n'''teretiscapularis''' (ter″ẹ̄-ti-skap-ū-lā′ris), ''n.''; pl. ''teretiscapulares'' (-rēz). [NL., < L. ''teres'' (''teret-''), terete, + ''scapularis.''] The greater terete muscle of the shoulder-blade, commonly called ''teres major.'' See ''teres.'' ''Coues'', 1887.\n\n'''Teretistris''' (ter-ẹ̄-tis′tris), ''n.'' [NL. (Cabanis, 1855), < Gr. τερετίζειν, whistle: often misspelled ''Teretristis.''] A genus of American warblers, or ''Mniotiltidæ'', peculiar to Cuba, and of 2 species, ''T. fernandinæ'' (Lembeye) and ''T. fornsi'' (Gundlach), respectively of the western and eastern parts of the island. They are small and plain-colored birds, 4¾ inches long.\n\n'''teretous†''' (ter′ẹ̄-tus), ''a.'' [< L. ''teres'' (''teret-''), round, smooth, + ''-ous.''] Same as ''terete.''\n\n{{smaller block|''Teretous'', or long round leaves.\n{{right|''Sir T. Browne'', Garden of Cyrus, iv.}}}}\n\n'''terfle†''', ''v. i.'' [ME. ''terflen'', < AS. ''tearflian'', roll about, a freq. form, prob. connected with ''terve.''] To roll about; wallow. ''Stratmann.''\n\n'''terga''', ''n.'' Plural of ''tergum.''\n\n'''tergal''' (tėr′ga̤l), ''a.'' [< L. ''tergum'', back, + ''-al.''] 1. Of or pertaining to the back in general; dorsal; notæal: the opposite of ''sternal'' or ''ventral.'' Specifically—2. In ''entom.'', of or pertaining to a notum, tergum, or tergite.—3. In echinoderms, dorsal in the sense of aboral; coronal: the opposite of ''ventral'' or ''oral'': as, the ''tergal'' plates of a starfish.—4. In trilobites, of or pertaining to the axis or tergum. See cut under ''Trilobita''.—{{smaller|'''Tergal facet''', the smooth dorsal anterior surface of the somite of a crustacean, over which the posterior under surface of a preceding somite glides in flexion and extension of the abdomen.}}\n\n'''tergant''' (tėr′gạnt), ''a.'' [Heraldic F., < L. ''tergum'', back: see ''tergum''.] In ''her.'', turning the back toward the spectator. See ''recursant''. Also ''tergiant''.\n\n'''tergate†''', ''n.'' An obsolete form of ''target''.\n\n{{smaller block|He pulled a ''tergate'' from one of his souldiours, and castynge it in to the water, standynge on it, with his spere conuaied hym selfe with the streme.\n{{right|''Sir T. Elyot'', The Governour, i. 17.}}}}\n\n'''tergeminate''' (tėr-jem′i-nāt), ''a.'' [< L. ''ter'', thrice, + ''geminatus'', doubled: see ''geminate''.] Thrice double: specifically applied in botany to a compound leaf having at the base a pair of leaflets and then forking, with a pair on each branch, as in ''Calliandra tergemina''.\n\n'''tergeminous''' (tėr-jem′i-nus), ''a.'' [< L. ''tergeminus'', threefold, triple, < ''ter'', thrice, + ''geminus'', born at the same time, twin: see ''gemini''.] Tergeminate.\n\n'''tergiant''' (tėr′ji-ạnt), ''a.'' In ''her.'', same as ''tergant''.\n\n'''tergiferous''' (tėr-jif′ẹ-rus), ''a.'' [< L. ''tergum'', back, + ''ferre'' = E. ''bear''<sup>1</sup>: see ''-ferous''.] Carrying or bearing on the back; dorsigerous or dorsiferous.\n\n'''tergite''' (tėr′jīt), ''n.'' [< L. ''tergum'', the back, + ''-ite''<sup>2</sup>.] The tergum, dorsum, or back of one of the somites or segments of an articulated animal, as an arthropod. {{smaller|A typical tergite consists of a pair of plates or pieces, right and left; but these become fused, and also a number of successive tergites may blend together, as in the cephalothorax of a crustacean.}}\n\n'''tergitic''' (tėr-jit′ik), ''a.'' [< ''tergite'' + ''-ic.''] Tergal or dorsal, as a sclerite; of or pertaining to a tergite.\n\n'''tergiversate''' (tėr′ji-vėr-sāt), ''v. i.''; pret. and pp. ''tergiversated'', ppr. ''tergiversating''. [< L. ''tergiversatus'', pp. of ''tergiversari'', turn one's back, shift: see ''tergiverse''.] To shift; practise evasion; make use of shifts or subterfuges.\n\n{{smaller block|Who also, as if he were conscious that his assumentum to the Platonick theology were not so defensible a thing, doth himself sometime, as it were, ''tergiversate'' and decline it, by equivocating in the word Henades, taking them for the ideas, or the intelligible gods before mentioned.\n{{right|''Cudworth'', Intellectual System, II. 361.}}}}\n\n'''tergiversation''' (tėr″ji-vėr-sā′shọn), ''n.'' [< F. ''tergiversation'' = Sp. ''tergiversacion'' = Pg. ''tergiversação'' = It. ''tergiversazione'', < L. ''tergiversatio(n-)'', a shifting, evasion, lit. a turning of one's back, < ''tergiversari'', pp. ''tergiversatus'', turn one's back: see ''tergiversate''.] 1. The act of tergiversating; a shifting; shift; subterfuge; evasion.\n\n{{smaller block|Writing is to be preferred before verbal conferences, as being freer from passions and ''tergiversation''.\n{{right|''Abp. Bramhall.'' (''Johnson.'')}}}}\n\n2. The act of changing one's opinions or of turning from them; the act of turning against a cause formerly advocated; fickleness or instability of conduct. {{smaller block|The colonel, after all his ''tergiversation'', lost his life in the king's service.\n{{right|''Clarendon.''}}}}\n\n¶\n'''tergiversator''' (tėr′ji-vėr-sā-to̤r), ''n.'' [= F. ''tergiversateur'' = Pg. ''tergiversador'', < L. ''tergiversator'', one who hangs back, a laggard, < ''tergiversari'', turn one's back: see ''tergiversate''.] One who practises tergiversation.\n\n'''tergiverse†''' (tėr′ji-vėrs), ''v. i.'' [< F. ''tergiverser'' = Sp. Pg. ''tergiversar'' = It. ''tergiversare'', < L. ''tergiversari'', turn one's back, decline, refuse, evade, shift, < ''tergum'', back, + ''versari'', turn: see ''verse''.] To turn one's back; tergiversate.\n\n{{smaller block|The Briton never ''tergivers'd'',\nBut was for adverse drubbing.\n{{right|''Saint George for England'', ii.}}}}\n\n'''tergolateral''' (tėr-gō-lat′e-ra̤l), ''a.'' [< L. ''tergum'', back, + ''latus'' (''later-''), side, + ''-al''.] Of or pertaining to the tergum and the lateral plates of a cirriped. ''Darwin'', Cirripedia, Int., p. 5.\n\n'''tergorhabdite''' (tėr-gọ̄-rab′dīt), ''n.'' [< L. ''tergum'', back, + Gr. ῥάβδος, rod, + ''-ite''<sup>2</sup>.] In ''entom.'', one of the pieces primarily forming the upper or tergal surface of an insect's abdomen. {{smaller|Lacaze-Duthiers applied this name to the lower pair of plates forming the ovipositor of a female insect; they are modified tergal pieces of one of the abdominal rings.}}\n\n'''tergum''' (tėr′gum), ''n.''; pl. ''terga'' (-gä̤). [NL., < L. ''tergum'', back.] 1. The back, dorsum, or notum, especially of an arthropod.—2. The tergal or dorsal sclerite of one of the rings or somites of an arthropod or articulate animal; a tergite. {{smaller|A tergum is often composed of two lateral halves. In some of the thoracic segments of insects it is subdivided into parts called, from before backward, ''præscutum, scutum, scutellum,'' and ''postscutellum.''}}\n\n3. One of the two upper or dorsal plates of the shell in cirripeds. See cut under ''Balanus.''\n\n'''Terias''' (tē′ri-as), ''n.'' [NL. (Swainson, 1821).] A genus of butterflies, of the family ''Papilionidæ'' and subfamily ''Pieridinæ,'' comprising about a dozen species, nearly all American. {{smaller|The North American are ''T. nicippe,'' a small bright-orange species, and ''T. lisa,'' still smaller and lemon-yellow in color, both of the southern United States. Their larvæ live upon plants of the genus ''Cassia.''}}\n\n'''terie†''', ''v.'' An obsolete form of ''tarry''<sup>2</sup> and ''tarry''<sup>3</sup>.\n\n'''terin†''', ''n.'' Same as ''tarin.''\n\n{{smaller block|Thrustles, ''terins,'' and mavys,<br>That songen for to wynne hem prys.\n{{right|''Rom. of the Rose,'' l. 665.}}}}\n\n'''term''' (tėrm), ''n.'' [Early mod. E. also ''tearm,'' earlier ''terme;'' < ME. ''terme,'' < OF. ''terme,'' also in less vernacular form ''termine'' = Pr. ''terme'' = Sp. ''término'' = Pg. ''termino'' = It. ''termino, termine'' = D. ''termijn'' = G. Sw. Dan. ''termin,'' < L. ''terminus,'' OL. also ''termo'' (''termon-''), ''termen'' (''termin-''), a bound, boundary, limit, end, ML. (and Rom.) also a time, period, also a definition (?), word, covenant, etc.; = Gr. τέρμων (τερμον-), τέρμα (τερματ-), a boundary-line, limit; prob. akin to E. ''thrum''<sup>1</sup>, ''tram''<sup>1</sup>. From L. ''terminus'' are also ult. E. ''terminus, terminal, terminate, termine, determine, determinate,'' etc., ''conterminous,'' etc.] 1. A bound; a boundary; limit; the extremity of anything, or that which limits its extent; a confine; end; termination; completion.\n\n{{smaller block|Here I take the to my liue; tac thou non other to ''terme'' of liue.{{right|''Political Poems'', etc. (ed. Furnivall), p. 229.}}}}\n\n{{smaller block|God was careful to secure us from death by removing the lepers from the camp, . . . and putting a ''term'' between the living and the dead.{{right|''Jer. Taylor'', Works (ed. 1835), I. 885.}}}}\n\n{{smaller block|At the decline of day,<br>Winding above the mountain's snowy ''term'',<br>New banners shone.{{right|''Shelley'', Revolt of Islam, vi. 18.}}}}\n\n{{smaller block|Who does not sometimes . . . await with curious complacency the speedy ''term'' of his own conversation with finite nature?{{right|''Emerson'', Essays, 1st ser., p. 240.}}}}\n\n2. In ''geom.'', the extreme of any magnitude, or that which limits or bounds its extent: as, the ''terms'' of a line are points, the ''terms'' of a superficies are lines, and the ''terms'' of a solid are superficies. See also def. 9.—3†. Outcome; final issue.\n\n{{smaller block|Yet ought mens good endevours them confirme,<br>And guyde the heavenly causes to their constant ''terme''.{{right|''Spenser'', F. Q., III. iii. 25.}}}}\n\n4†. A figure of Terminus, the god of boundaries; a terminal figure. See ''terminus'', 3.\n\n{{smaller block|An arbour feigned of goldsmith's-work, the ornament of which was borne up with ''termes'' of satyrs.{{right|''B. Jonson'', Chloridia.}}}}\n\n{{smaller block|On either side of the Gate stood a great French ''Terme'' of stone, aduanced vpon wodden Pedestalls.{{right|''Dekker'', Kings Entertainment (Works, ed. Pearson, I. 278).}}}}\n\n5. In ''ship-building'', a piece of carved work placed under each end of the taffrail, and extending to the foot-rail of the balcony. Also called ''term-piece''.—6. A space or period of time to which limits have been set; the time or period through<noinclude><references/></noinclude>"
+}

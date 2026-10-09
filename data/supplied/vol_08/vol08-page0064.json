@@ -1,0 +1,243 @@
+{
+ "volume": 8,
+ "page_number": 64,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n63.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n63.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": 0.0,
+  "column_width": 738,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     147,
+     96,
+     2347,
+     134
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     147,
+     134,
+     871,
+     1226
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     147,
+     1226,
+     871,
+     1713
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     686,
+     1713,
+     871,
+     1877
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     686,
+     1879,
+     871,
+     1901
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     147,
+     1713,
+     686,
+     1914
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     147,
+     1914,
+     871,
+     2953
+    ]
+   },
+   {
+    "name": "c1s5",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     147,
+     2953,
+     871,
+     3250
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     871,
+     134,
+     1609,
+     1213
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     871,
+     1213,
+     1609,
+     2291
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     871,
+     2291,
+     1609,
+     3250
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1609,
+     134,
+     2347,
+     1213
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1609,
+     1213,
+     2347,
+     2261
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1609,
+     2261,
+     2347,
+     3250
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|tenthidoid|6260|textile}}",
+   "c1s1": "¶\n\n'''teuthidoid''' (tū′thi-doid), ''a.'' and ''n.'' '''I.''' ''a.'' '''1.''' In ''conch.'', same as ''teuthidan.''—'''2.''' In ''ichth.'', of or pertaining to the ''Teuthididæ'', in any sense; having the characters of the ''Teuthidoidea.''\n\n'''II.''' ''n.'' In ''ichth.'', a member of the ''Teuthididæ'', in any sense, or of the ''Teuthidoidea.''\n\n'''Teuthidoidea''' (tū-thi-doi′dẹ̄-ä̤), ''n. pl.'' [NL., < ''Teuthis'' (''Teuthid-'') + ''-oidea.''] A superfamily of acanthopterygian fishes, including the ''Teuthididæ'' and the ''Siganidæ'', having the undivided post-temporals coössified with the skull, and the intermaxillaries united with the maxillaries.\n\n'''Teuthis''' (tū′this), ''n.'' [NL., < Gr. τευθίς, a sort of cuttlefish.] '''1.''' In ''conch.'', a genus of cephalopods, giving name to the ''Teuthidæ:'' synonymous with ''Loligo.''—'''2.''' In ''ichth.'', a Linnean genus of fishes, variously taken. {{smaller|(''a'') As identical with ''Acanthurus.'' (''b'') As identical with ''Siganus.'' In each acceptation it gives name to a family ''Teuthididæ'' (which see).}}\n\n'''teuthologist''' (tū-thol′ọ̄-jist), ''n.'' [< ''teutholog-y'' + ''-ist.''] A student of the cephalopodous mollusks.\n\n'''teuthology''' (tū-thol′ọ̄-ji), ''n.'' [< ''Teuthis'' + Gr. -λογία, < λέγειν, speak: see ''-ology.''] That department of zoölogy which relates to cephalopods.\n\n'''Teuto-Celtic''' (tū′tō-sel′tik), ''a.'' Teutonic and Celtic; of mixed Teutonic and Celtic blood.\n\n'''Teuton''' (tū′ton), ''n.'' [= F. Sp. ''Teuton'' = G. ''Teutonen'', pl., < L. ''Teutoni'', ''Teutones'', pl., a people of Germany; from an OTeut. word represented by Goth. ''thiuda'' = OHG. ''diot'' = AS. ''theód'', etc., people: see ''Dutch.''] Originally, a member of a Germanic tribe first mentioned in the fourth century {{sc|b. c.}}, and supposed to have dwelt near the mouth of the Elbe. The",
+   "c1s2": "{{smaller block|Teutons, in alliance with the Cimbri, invaded the Roman dominions, and were overthrown by Marius, 102 and 101 {{sc|b. c.}}; hence the name was ultimately applied to the Germanic peoples of Europe in general, and at present is often used to include Germans, Dutch, Scandinavians, and those of Anglo-Saxon descent, as when we speak of Teutons as opposed to Celts.}}\n\n'''Teutonic''' (tū-ton′ik), ''a.'' and ''n.'' [= F. ''Teutonique'' = Sp. ''Teutónico'' = Pg. ''Teutonico'' (cf. G. ''Teutonisch''), < L. ''Teutonicus'', < ''Teutoni'', ''Teutones'', a tribe of Germany.] '''I.''' ''a.'' Of or belonging to the Teutons; of or belonging to the peoples of Germanic origin; in the widest sense, pertaining to the Scandinavians, and to the peoples of Anglo-Saxon origin, as well as to German races proper.—{{smaller|'''Teutonic cross''', a cross potent: so called because such a cross forms the badge}}",
+   "c1c1": "{{c|Teutonic Cross.}}",
+   "c1s3": "of the Teutonic Order of Knighthood.—'''Teutonic Knights.''' See ''Teutonic Order.''—'''Teutonic''' or '''Germanic languages,''' a tribe of tongues, belonging to the great Aryan or Indo-European family, which has been divided into three great sections, viz.: (1) Gothic or Mœsogothic, the language used by Wulfila (Ulfilas) in his translation",
+   "c1s4": "{{smaller block|of the Scriptures, made in the fourth century for the Goths of Mœsia; (2) German, subdivided into Low German and High German—the Low German tribe of tongues being the Anglo-Saxon or English, Old Saxon, Friesic or Frisian, Dutch and Flemish, and Low German proper (Platt-Deutsch), while the High German has been divided into three periods, viz., Old High German, Middle High German, and modern German; (3) Scandinavian, comprising Icelandic or Old Norse, Norwegian, Danish, and Swedish. See ''Gothic'', ''German'', ''Anglo-Saxon'', etc.—'''Teutonic''' or '''Germanic nations''', the different nations of the Teutonic race. These are divided into three branches: (1) the High Germans of Upper and Middle Germany, with the Germans of Switzerland and the greater part of those in the Austrian empire; (2) the Low German branch, including the Frisians, the Low Germans, the Dutch, the Flemings, and the English descended from the Jutes, Angles, and Saxons who settled in Britain; (3) the Scandinavian branch, including the Icelanders, the Norwegians, the Danes, and the Swedes.—'''Teutonic Order''', a military order founded at Acre in Palestine, 1190, and confirmed by the emperor and the Pope. Its chief objects were at first the care of sick and wounded pilgrims and the defense of the Holy Land, and it soon rivaled the Templars and the Hospitalers.}}\n\n'''II.''' ''n.'' The language, or languages collectively, of the Teutonic or Germanic peoples.\n\n'''Teutonicism''' (tū-ton′i-sizm), ''n.'' [< ''Teutonic'' + ''-ism.''] A Teutonic idiom or mode of expression; a Germanism. ''Imp. Dict.''\n\n'''Teutonism''' (tū′ton-izm), ''n.'' [< ''Teuton'' + ''-ism.''] 1. Teutonic or Germanic character, type, ideas, spirit, peculiarities, etc.\n\n{{smaller block|The Danes and Norsemen poured in a contingent of ''Teutonism'', which has been largely supplemented by English and Scotch efforts.\n{{right|''Huxley'', Critiques and Addresses, p. 178.}}}}\n\n2. An idiom or expression peculiar to the Teu-",
+   "c1s5": "tonic peoples; a German idiom or peculiarity.\n\n{{smaller block|The translator has done his part of the work well, although we detect distinct ''Teutonisms'' here and there.\n{{right|''Philosophical Mag.'', 5th ser., XXVIII. 425.}}}}\n\n'''Teutonization''' (tū″tọn-i-zā′shon), ''n.'' [< ''Teutonize'' + ''-ation.''] The act of Teutonizing.\n\n'''Teutonize''' (tū′tọn-īz), ''v.''; pret. and pp. ''Teutonized'', ppr. ''Teutonizing''. [< ''Teuton'' + ''-ize.''] I. ''trans.'' To make Teutonic or German in charac-",
+   "c2s1": "ter, etc.; render conformable to German customs, ideas, idioms, or analogies.\n\n{{smaller block|The European Continent is to-day protesting against being ''Teutonized'', as energetically as it did, at the beginning of this century, against a forced conformity to a Gallic organization.\n{{right|''G. P. Marsh'', Lects. on Eng. Lang., Int., p. 8.}}}}\n\n'''II.''' ''intrans.'' To conform to German customs, idioms, etc.\n\n'''tew'''<sup>1</sup> (tū), ''v.'' [Also ''tue''; < ME. ''tewen'', a var. of ''tawen'', E. ''taw'': see ''taw''<sup>1</sup>.] '''I.''' ''trans.'' '''1.''' To beat, mix, or pound; prepare by beating, etc. [Provincial or trade use.]—'''2.''' To taw, as leather. ''Wright.'' [Prov. Eng.]—'''3.''' To work; prepare by working; be actively employed in or about. [Prov. Eng.]—'''4†.''' To scourge; beat; drub.\n\n{{smaller block|Down with 'em!\nInto the wood, and rifle 'em, ''tew'' 'em, swinge 'em!\n{{right|''Fletcher'', Beggars' Bush, iii. 2.}}}}\n\n'''5†.''' To haul; pull; tow.\n\n{{smaller block|Men are labouring as 'twere summer bees,\nSome hollowing trunks, some binding heaps of wood, . . .\nWhich o'er the current they by strength must ''tew'';\nTo shed that blood which many an age shall rue.\n{{right|''Drayton'', Barons' Wars, ii. 20.}}}}\n\n'''6.''' To lead on; work up.\n\n{{smaller block|H'as made the gayest sport with Tom the coachman,\nSo ''tew'd'' him up with sack that he lies lashing\nA butt of malmsey for his mares!\n{{right|''Fletcher'', Wit without Money, iii. 1.}}}}\n\n'''II.''' ''intrans.'' To work; keep busy; bustle. Also ''too.'' [Prov. Eng. and U. S.]\n\n{{smaller block|The phrase ''tooin''' round, meaning a supererogatory activity like that of flies. ''Lowell'', Biglow Papers, 2d ser., Int.}}\n\n{{smaller block|The minister began to come out of his study, and want to ''tew'' 'round and see to things.}}",
+   "c2s2": "{{smaller block|{{right|''H. B. Stowe'', Oldtown, p. 63.}}}}\n\n¶\n'''tew<sup>2</sup>†''' (tū), ''n.'' [A var. of ''tow''<sup>2</sup>.] A tow-rope or -chain.\n\n{{smaller block|''Dorothea.'' The fool shall now fish for himself.<br>''Alice.'' Be sure, then,<br>His ''tew'' be tith and strong, and next, no swearing,<br>He'll catch no fish else.\n{{right|''Fletcher'', Monsieur Thomas, i. 3.}}}}\n\n'''tewart''' (tū′ärt), ''n.'' Same as ''tooart.''\n\n'''tewel''' (tū′el), ''n.'' [< ME. ''tewel, tewelle, tuel,'' < OF. ''tuel, tuyel, tuiel, tueil,'' F. ''tuyau'' = Pr. Sp. ''tudel,'' a pipe; of Teut. origin; cf. LG. ''tüte,'' > G. ''tüte, deute, dute,'' a pipe.] 1†. A pipe; a funnel, as for smoke. ''Chaucer.''—2. Same as ''twyer.''\n\n'''tewhit''' (tē-hwit′), ''n.'' [Imitative, like ''teuchit, pewit,'' etc.] Same as ''pewit'' (''b''). See cut under ''lapwing.'' [Local, British.]\n\n'''tewing-beetle''' (tū′ing-bē″tl), ''n.'' A spade-shaped instrument for tewing or beating hemp. [Prov. Eng.]\n\n'''tewtaw''' (tū′tâ), ''v. t.'' [A redupl. of ''tew''<sup>1</sup>, or < ''tew''<sup>1</sup> + ''taw''<sup>1</sup>.] Same as ''tew''<sup>1</sup>, 1; especially, to beat (hemp) in order to separate the fibers. [Prov. Eng.]\n\n'''Texan''' (tek′san), ''a.'' and ''n.'' [< ''Texas'' (see def.) + ''-an.''] I. ''a.'' Of or pertaining to the State of Texas.—{{smaller|'''Texan armadillo.''' See ''Tatusia,'' and cut under ''peba.''—'''Texan fever.''' See ''Texas fever.''—'''Texan pride,''' the Drummond phlox, ''Phlox Drummondii,'' a bright garden annual, native in Texas.}}\n\nII. ''n.'' A native or an inhabitant of Texas, one of the southern States of the United States, bordering on Mexico.\n\n'''texas''' (tek′sas), ''n.'' [So called in allusion to the State of ''Texas.''] A structure on the hurricane-",
+   "c2s3": "deck of a steamboat, containing the cabins for the officers. The pilot-house is on top of it. [Western U. S.]\n\n'''Texas blue-grass, buckthorn, cardinal, goose, grackle.''' See ''blue-grass'', etc.\n\n'''Texas fever, Texan fever.''' A specific fever communicated by apparently healthy cattle living within a certain permanently infected area, including the greater part of the southern United States, to cattle north of this area when the former are taken north during the warm season of the year. {{smaller|Cattle taken from the North into this infected area may likewise contract the disease. The infectious principle is conveyed to the soil, whence susceptible animals are infected. The period of incubation varies from ten to fifty days or more. The disease begins with a high fever, which may continue from a few days to a week or more, when the animal succumbs; or the fever may subside and a slow recovery ensue. A characteristic symptom noticed chiefly in severe and fatal cases is the presence of hemoglobin in the urine, giving it a deep port-wine color. In some outbreaks jaundice is observed. After death the spleen is found enormously enlarged and softened, the liver yellowish, and the bile very thick.}}\n\n'''Texas flax.''' A composite plant, ''Gutierrezia Texana'', abundant on the prairies of central Texas. {{smaller|Its slender stem, narrow leaves, and small yellow heads give it a close superficial resemblance to flax.}}\n\n'''Texas millet.''' Same as ''concho-grass''.\n\n'''Texas sarsaparilla.''' Same as ''menispermum'', 2.\n\n'''Texas snakeroot.''' See ''snakeroot''.\n\n'''text''' (tekst), ''n.'' [< ME. ''text'', ''texte'', ''tixte'', ''tyxt'', < OF. (and F.) ''texte'' = Pr. ''texte'', ''test'' = Sp. Pg.",
+   "c3s1": "texto = It. ''testo'', < L. ''textus'', a fabric, texture, structure, composition, context, text (cf. ''textum'', a fabric, also the style of an author, neut. of ''textus'', pp.), < ''texere'', pp. ''textus'', weave, = Skt. √ ''taksh'', cut, prepare, form (see ''tectonic'').] 1. A discourse or composition on which a note or commentary is written; the original words of an author, in distinction from a paraphrase or commentary.\n\n{{smaller block|His coward herte<br>Made him amis the goddes ''text'' to glose,<br>When he for ferde out of Delphos sterte.\n{{right|''Chaucer'', Troilus, iv. 1410.}}}}\n\n{{smaller block|King George the Second and I don't agree in our explication of this ''text'' of ceremony. ''Walpole'', Letters, II. 194.}}\n\n{{smaller block|Very close study is everywhere manifest, but it is very doubtful whether the difficulties emphasized in many cases ought to be considered sufficient cause for changing the ''text''. The faulty and awkward expressions may be chargeable to the author himself.\n{{right|''Amer. Jour. Philol.'', X. 252.}}}}\n\n2. Specifically, the letter of the Scriptures, more especially in the original languages; in a more limited sense, any passage of Scripture quoted in proof of a dogmatic position, or taken as the subject or motive of a discourse from the pulpit.\n\n{{smaller block|Your flock, assembled by the bell,<br>Encircled you to hear with reverence<br>Your exposition on the holy ''text''.\n{{right|''Shak.'', 2 Hen. IV., iv. 2. 7.}}}}\n\n{{smaller block|How oft, when Paul has serv'd us with a ''text'',<br>Has Epictetus, Plato, Tully preach'd!\n{{right|''Cowper'', Task, ii. 539.}}}}\n\n3. Any subject chosen to enlarge and comment on; a topic; a theme.",
+   "c3s2": "¶\n{{smaller block|No more; the ''text'' is foolish. {{right|''Shak.'', Lear, iv. 2. 37.}}}}\n{{smaller block|The maiden Aunt\nTook this fair day for ''text'', and from it preach'd\nAn universal culture for the crowd.\n{{right|''Tennyson'', Princess, Prol.}}}}\n4. In ''vocal music'', the words sung, or to be sung.—5. The main body of matter in a book or manuscript, in distinction from notes or other matter associated with it; by extension, letter-press or reading-matter in general, in distinction from illustrations, or from blank spaces or margins: as, an island of ''text'' in an ocean of margin.\n{{smaller block|If the volume is composed of single leaves, perhaps of thin ''text'' and heavy illustrations.\n{{right|''W. Matthews'', Modern Bookbinding (ed. Grolier Club), p. 24.}}}}\n6. A kind of writing used in the text or body of clerkly manuscripts; formal handwriting; now, especially, a writing or type of a form peculiar to some class of old manuscripts; specifically, in ''her.'', Old English black-letter: as, German or English ''text;'' a ''text'' (black-letter) R or T. {{smaller|An Old English letter often occurs as a bearing or part of a bearing, and is blazoned as above. See also ''black-letter''. Compare ''church text'' and ''German text''.}}\n{{smaller block|Fair as a ''text'' B in a copy-book.\n{{right|''Shak.'', L. L. L., v. 2. 42.}}}}\n'''Chapel text.''' {{smaller|See ''chapel''.}}—'''Church text.''' {{smaller|See ''church''.}}—'''German text.''' {{smaller|See ''German''<sup>2</sup>.}}—'''To cap texts.''' {{smaller|See ''cap''<sup>1</sup>.}}\n\n'''text†''' (tekst), ''v. t.'' [< ''text'', ''n.''] To write in text-hand or large characters.\n{{smaller block|Truth copied from my heart is ''texted'' there.\n{{right|''Middleton and Dekker'', Spanish Gypsy, iii. 3.}}}}",
+   "c3s3": "¶\n{{smaller block|O then, how high<br>Shall this great Troy ''text'' up the memory<br>Of you her noble prætor!\n{{right|''Dekker'', London's Tempe.}}}}\n\n'''text-book''' (tekst′bu̇k), ''n.'' 1. A book containing a text or texts. {{smaller|(''a'') A book with wide spaces between the lines of text for notes or comments. (''b'') A book containing a selection of passages of Scripture arranged for reference: more generally termed ''Bible text-book.''}}\n\n2. A book used by students as a standard work for a particular branch of study; a manual of instruction; a book which forms the basis of lectures or comments.—3. Same as ''libretto'', 1.\n\n'''textevangelium''' (teks″te-van-jē′li-um), ''n.'' [ML.] Same as ''Textus'', 2.\n\n'''text-hand''' (tekst′hand), ''n.'' A large, uniform, clerkly handwriting: so called from the large writing formerly used for the text of manuscript books, in distinction from the smaller writing used for the notes.\n\n'''textile''' (teks′til), ''a.'' and ''n.'' [= F. ''textile'', < L. ''textilis'', < ''textum'', something woven: see ''text''.] I. ''a.'' 1. Of or pertaining to weaving: as, the ''textile'' art.—2. Woven, or capable of being woven; formed by weaving: as, ''textile'' fabrics; ''textile'' materials, such as wool, flax, silk, cotton.—{{smaller|'''Textile cone''', in ''conch.'', one of the cone-shells, ''Conus textilis'', whose colors suggest a woven fabric.}}\n\nII. ''n.'' 1. A woven fabric.\n\n{{smaller block|The placing of the tangible parts in length or transverse, as in the warp and the woof of ''textiles''.\n{{right|''Bacon'', Nat. Hist., § 846.}}}}"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0064 c1f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     701,
+     1714,
+     862,
+     1875
+    ],
+    "caption": [
+     703,
+     1879,
+     863,
+     1901
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     690,
+     1713,
+     869,
+     1872
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 3913,
+    "output_tokens": 87,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 13,
+    "input_tokens": 9514,
+    "output_tokens": 9621,
+    "cache_creation_input_tokens": 2714,
+    "cache_read_input_tokens": 32568
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|tenthidoid|6260|textile}}</noinclude>'''teuthidoid''' (tū′thi-doid), ''a.'' and ''n.'' '''I.''' ''a.'' '''1.''' In ''conch.'', same as ''teuthidan.''—'''2.''' In ''ichth.'', of or pertaining to the ''Teuthididæ'', in any sense; having the characters of the ''Teuthidoidea.''\n\n'''II.''' ''n.'' In ''ichth.'', a member of the ''Teuthididæ'', in any sense, or of the ''Teuthidoidea.''\n\n'''Teuthidoidea''' (tū-thi-doi′dẹ̄-ä̤), ''n. pl.'' [NL., < ''Teuthis'' (''Teuthid-'') + ''-oidea.''] A superfamily of acanthopterygian fishes, including the ''Teuthididæ'' and the ''Siganidæ'', having the undivided post-temporals coössified with the skull, and the intermaxillaries united with the maxillaries.\n\n'''Teuthis''' (tū′this), ''n.'' [NL., < Gr. τευθίς, a sort of cuttlefish.] '''1.''' In ''conch.'', a genus of cephalopods, giving name to the ''Teuthidæ:'' synonymous with ''Loligo.''—'''2.''' In ''ichth.'', a Linnean genus of fishes, variously taken. {{smaller|(''a'') As identical with ''Acanthurus.'' (''b'') As identical with ''Siganus.'' In each acceptation it gives name to a family ''Teuthididæ'' (which see).}}\n\n'''teuthologist''' (tū-thol′ọ̄-jist), ''n.'' [< ''teutholog-y'' + ''-ist.''] A student of the cephalopodous mollusks.\n\n'''teuthology''' (tū-thol′ọ̄-ji), ''n.'' [< ''Teuthis'' + Gr. -λογία, < λέγειν, speak: see ''-ology.''] That department of zoölogy which relates to cephalopods.\n\n'''Teuto-Celtic''' (tū′tō-sel′tik), ''a.'' Teutonic and Celtic; of mixed Teutonic and Celtic blood.\n\n'''Teuton''' (tū′ton), ''n.'' [= F. Sp. ''Teuton'' = G. ''Teutonen'', pl., < L. ''Teutoni'', ''Teutones'', pl., a people of Germany; from an OTeut. word represented by Goth. ''thiuda'' = OHG. ''diot'' = AS. ''theód'', etc., people: see ''Dutch.''] Originally, a member of a Germanic tribe first mentioned in the fourth century {{sc|b. c.}}, and supposed to have dwelt near the mouth of the Elbe. The {{smaller block|Teutons, in alliance with the Cimbri, invaded the Roman dominions, and were overthrown by Marius, 102 and 101 {{sc|b. c.}}; hence the name was ultimately applied to the Germanic peoples of Europe in general, and at present is often used to include Germans, Dutch, Scandinavians, and those of Anglo-Saxon descent, as when we speak of Teutons as opposed to Celts.}}\n\n'''Teutonic''' (tū-ton′ik), ''a.'' and ''n.'' [= F. ''Teutonique'' = Sp. ''Teutónico'' = Pg. ''Teutonico'' (cf. G. ''Teutonisch''), < L. ''Teutonicus'', < ''Teutoni'', ''Teutones'', a tribe of Germany.] '''I.''' ''a.'' Of or belonging to the Teutons; of or belonging to the peoples of Germanic origin; in the widest sense, pertaining to the Scandinavians, and to the peoples of Anglo-Saxon origin, as well as to German races proper.—{{smaller|'''Teutonic cross''', a cross potent: so called because such a cross forms the badge}} of the Teutonic Order of Knighthood.—'''Teutonic Knights.''' See ''Teutonic Order.''—'''Teutonic''' or '''Germanic languages,''' a tribe of tongues, belonging to the great Aryan or Indo-European family, which has been divided into three great sections, viz.: (1) Gothic or Mœsogothic, the language used by Wulfila (Ulfilas) in his translation {{smaller block|of the Scriptures, made in the fourth century for the Goths of Mœsia; (2) German, subdivided into Low German and High German—the Low German tribe of tongues being the Anglo-Saxon or English, Old Saxon, Friesic or Frisian, Dutch and Flemish, and Low German proper (Platt-Deutsch), while the High German has been divided into three periods, viz., Old High German, Middle High German, and modern German; (3) Scandinavian, comprising Icelandic or Old Norse, Norwegian, Danish, and Swedish. See ''Gothic'', ''German'', ''Anglo-Saxon'', etc.—'''Teutonic''' or '''Germanic nations''', the different nations of the Teutonic race. These are divided into three branches: (1) the High Germans of Upper and Middle Germany, with the Germans of Switzerland and the greater part of those in the Austrian empire; (2) the Low German branch, including the Frisians, the Low Germans, the Dutch, the Flemings, and the English descended from the Jutes, Angles, and Saxons who settled in Britain; (3) the Scandinavian branch, including the Icelanders, the Norwegians, the Danes, and the Swedes.—'''Teutonic Order''', a military order founded at Acre in Palestine, 1190, and confirmed by the emperor and the Pope. Its chief objects were at first the care of sick and wounded pilgrims and the defense of the Holy Land, and it soon rivaled the Templars and the Hospitalers.}}\n\n[[File:century v08 p0064 c1f1.png|center|90px]]\n{{c|Teutonic Cross.}}\n\n'''II.''' ''n.'' The language, or languages collectively, of the Teutonic or Germanic peoples.\n\n'''Teutonicism''' (tū-ton′i-sizm), ''n.'' [< ''Teutonic'' + ''-ism.''] A Teutonic idiom or mode of expression; a Germanism. ''Imp. Dict.''\n\n'''Teutonism''' (tū′ton-izm), ''n.'' [< ''Teuton'' + ''-ism.''] 1. Teutonic or Germanic character, type, ideas, spirit, peculiarities, etc.\n\n{{smaller block|The Danes and Norsemen poured in a contingent of ''Teutonism'', which has been largely supplemented by English and Scotch efforts.\n{{right|''Huxley'', Critiques and Addresses, p. 178.}}}}\n\n2. An idiom or expression peculiar to the Teutonic peoples; a German idiom or peculiarity.\n\n{{smaller block|The translator has done his part of the work well, although we detect distinct ''Teutonisms'' here and there.\n{{right|''Philosophical Mag.'', 5th ser., XXVIII. 425.}}}}\n\n'''Teutonization''' (tū″tọn-i-zā′shon), ''n.'' [< ''Teutonize'' + ''-ation.''] The act of Teutonizing.\n\n'''Teutonize''' (tū′tọn-īz), ''v.''; pret. and pp. ''Teutonized'', ppr. ''Teutonizing''. [< ''Teuton'' + ''-ize.''] I. ''trans.'' To make Teutonic or German in character, etc.; render conformable to German customs, ideas, idioms, or analogies.\n\n{{smaller block|The European Continent is to-day protesting against being ''Teutonized'', as energetically as it did, at the beginning of this century, against a forced conformity to a Gallic organization.\n{{right|''G. P. Marsh'', Lects. on Eng. Lang., Int., p. 8.}}}}\n\n'''II.''' ''intrans.'' To conform to German customs, idioms, etc.\n\n'''tew'''<sup>1</sup> (tū), ''v.'' [Also ''tue''; < ME. ''tewen'', a var. of ''tawen'', E. ''taw'': see ''taw''<sup>1</sup>.] '''I.''' ''trans.'' '''1.''' To beat, mix, or pound; prepare by beating, etc. [Provincial or trade use.]—'''2.''' To taw, as leather. ''Wright.'' [Prov. Eng.]—'''3.''' To work; prepare by working; be actively employed in or about. [Prov. Eng.]—'''4†.''' To scourge; beat; drub.\n\n{{smaller block|Down with 'em!\nInto the wood, and rifle 'em, ''tew'' 'em, swinge 'em!\n{{right|''Fletcher'', Beggars' Bush, iii. 2.}}}}\n\n'''5†.''' To haul; pull; tow.\n\n{{smaller block|Men are labouring as 'twere summer bees,\nSome hollowing trunks, some binding heaps of wood, . . .\nWhich o'er the current they by strength must ''tew'';\nTo shed that blood which many an age shall rue.\n{{right|''Drayton'', Barons' Wars, ii. 20.}}}}\n\n'''6.''' To lead on; work up.\n\n{{smaller block|H'as made the gayest sport with Tom the coachman,\nSo ''tew'd'' him up with sack that he lies lashing\nA butt of malmsey for his mares!\n{{right|''Fletcher'', Wit without Money, iii. 1.}}}}\n\n'''II.''' ''intrans.'' To work; keep busy; bustle. Also ''too.'' [Prov. Eng. and U. S.]\n\n{{smaller block|The phrase ''tooin''' round, meaning a supererogatory activity like that of flies. ''Lowell'', Biglow Papers, 2d ser., Int.}}\n\n{{smaller block|The minister began to come out of his study, and want to ''tew'' 'round and see to things. {{right|''H. B. Stowe'', Oldtown, p. 63.}}}}\n\n¶\n'''tew<sup>2</sup>†''' (tū), ''n.'' [A var. of ''tow''<sup>2</sup>.] A tow-rope or -chain.\n\n{{smaller block|''Dorothea.'' The fool shall now fish for himself.<br>''Alice.'' Be sure, then,<br>His ''tew'' be tith and strong, and next, no swearing,<br>He'll catch no fish else.\n{{right|''Fletcher'', Monsieur Thomas, i. 3.}}}}\n\n'''tewart''' (tū′ärt), ''n.'' Same as ''tooart.''\n\n'''tewel''' (tū′el), ''n.'' [< ME. ''tewel, tewelle, tuel,'' < OF. ''tuel, tuyel, tuiel, tueil,'' F. ''tuyau'' = Pr. Sp. ''tudel,'' a pipe; of Teut. origin; cf. LG. ''tüte,'' > G. ''tüte, deute, dute,'' a pipe.] 1†. A pipe; a funnel, as for smoke. ''Chaucer.''—2. Same as ''twyer.''\n\n'''tewhit''' (tē-hwit′), ''n.'' [Imitative, like ''teuchit, pewit,'' etc.] Same as ''pewit'' (''b''). See cut under ''lapwing.'' [Local, British.]\n\n'''tewing-beetle''' (tū′ing-bē″tl), ''n.'' A spade-shaped instrument for tewing or beating hemp. [Prov. Eng.]\n\n'''tewtaw''' (tū′tâ), ''v. t.'' [A redupl. of ''tew''<sup>1</sup>, or < ''tew''<sup>1</sup> + ''taw''<sup>1</sup>.] Same as ''tew''<sup>1</sup>, 1; especially, to beat (hemp) in order to separate the fibers. [Prov. Eng.]\n\n'''Texan''' (tek′san), ''a.'' and ''n.'' [< ''Texas'' (see def.) + ''-an.''] I. ''a.'' Of or pertaining to the State of Texas.—{{smaller|'''Texan armadillo.''' See ''Tatusia,'' and cut under ''peba.''—'''Texan fever.''' See ''Texas fever.''—'''Texan pride,''' the Drummond phlox, ''Phlox Drummondii,'' a bright garden annual, native in Texas.}}\n\nII. ''n.'' A native or an inhabitant of Texas, one of the southern States of the United States, bordering on Mexico.\n\n'''texas''' (tek′sas), ''n.'' [So called in allusion to the State of ''Texas.''] A structure on the hurricanedeck of a steamboat, containing the cabins for the officers. The pilot-house is on top of it. [Western U. S.]\n\n'''Texas blue-grass, buckthorn, cardinal, goose, grackle.''' See ''blue-grass'', etc.\n\n'''Texas fever, Texan fever.''' A specific fever communicated by apparently healthy cattle living within a certain permanently infected area, including the greater part of the southern United States, to cattle north of this area when the former are taken north during the warm season of the year. {{smaller|Cattle taken from the North into this infected area may likewise contract the disease. The infectious principle is conveyed to the soil, whence susceptible animals are infected. The period of incubation varies from ten to fifty days or more. The disease begins with a high fever, which may continue from a few days to a week or more, when the animal succumbs; or the fever may subside and a slow recovery ensue. A characteristic symptom noticed chiefly in severe and fatal cases is the presence of hemoglobin in the urine, giving it a deep port-wine color. In some outbreaks jaundice is observed. After death the spleen is found enormously enlarged and softened, the liver yellowish, and the bile very thick.}}\n\n'''Texas flax.''' A composite plant, ''Gutierrezia Texana'', abundant on the prairies of central Texas. {{smaller|Its slender stem, narrow leaves, and small yellow heads give it a close superficial resemblance to flax.}}\n\n'''Texas millet.''' Same as ''concho-grass''.\n\n'''Texas sarsaparilla.''' Same as ''menispermum'', 2.\n\n'''Texas snakeroot.''' See ''snakeroot''.\n\n'''text''' (tekst), ''n.'' [< ME. ''text'', ''texte'', ''tixte'', ''tyxt'', < OF. (and F.) ''texte'' = Pr. ''texte'', ''test'' = Sp. Pg. texto = It. ''testo'', < L. ''textus'', a fabric, texture, structure, composition, context, text (cf. ''textum'', a fabric, also the style of an author, neut. of ''textus'', pp.), < ''texere'', pp. ''textus'', weave, = Skt. √ ''taksh'', cut, prepare, form (see ''tectonic'').] 1. A discourse or composition on which a note or commentary is written; the original words of an author, in distinction from a paraphrase or commentary.\n\n{{smaller block|His coward herte<br>Made him amis the goddes ''text'' to glose,<br>When he for ferde out of Delphos sterte.\n{{right|''Chaucer'', Troilus, iv. 1410.}}}}\n\n{{smaller block|King George the Second and I don't agree in our explication of this ''text'' of ceremony. ''Walpole'', Letters, II. 194.}}\n\n{{smaller block|Very close study is everywhere manifest, but it is very doubtful whether the difficulties emphasized in many cases ought to be considered sufficient cause for changing the ''text''. The faulty and awkward expressions may be chargeable to the author himself.\n{{right|''Amer. Jour. Philol.'', X. 252.}}}}\n\n2. Specifically, the letter of the Scriptures, more especially in the original languages; in a more limited sense, any passage of Scripture quoted in proof of a dogmatic position, or taken as the subject or motive of a discourse from the pulpit.\n\n{{smaller block|Your flock, assembled by the bell,<br>Encircled you to hear with reverence<br>Your exposition on the holy ''text''.\n{{right|''Shak.'', 2 Hen. IV., iv. 2. 7.}}}}\n\n{{smaller block|How oft, when Paul has serv'd us with a ''text'',<br>Has Epictetus, Plato, Tully preach'd!\n{{right|''Cowper'', Task, ii. 539.}}}}\n\n3. Any subject chosen to enlarge and comment on; a topic; a theme.\n\n{{smaller block|No more; the ''text'' is foolish. {{right|''Shak.'', Lear, iv. 2. 37.}}}}\n{{smaller block|The maiden Aunt\nTook this fair day for ''text'', and from it preach'd\nAn universal culture for the crowd.\n{{right|''Tennyson'', Princess, Prol.}}}}\n4. In ''vocal music'', the words sung, or to be sung.—5. The main body of matter in a book or manuscript, in distinction from notes or other matter associated with it; by extension, letter-press or reading-matter in general, in distinction from illustrations, or from blank spaces or margins: as, an island of ''text'' in an ocean of margin.\n{{smaller block|If the volume is composed of single leaves, perhaps of thin ''text'' and heavy illustrations.\n{{right|''W. Matthews'', Modern Bookbinding (ed. Grolier Club), p. 24.}}}}\n6. A kind of writing used in the text or body of clerkly manuscripts; formal handwriting; now, especially, a writing or type of a form peculiar to some class of old manuscripts; specifically, in ''her.'', Old English black-letter: as, German or English ''text;'' a ''text'' (black-letter) R or T. {{smaller|An Old English letter often occurs as a bearing or part of a bearing, and is blazoned as above. See also ''black-letter''. Compare ''church text'' and ''German text''.}}\n{{smaller block|Fair as a ''text'' B in a copy-book.\n{{right|''Shak.'', L. L. L., v. 2. 42.}}}}\n'''Chapel text.''' {{smaller|See ''chapel''.}}—'''Church text.''' {{smaller|See ''church''.}}—'''German text.''' {{smaller|See ''German''<sup>2</sup>.}}—'''To cap texts.''' {{smaller|See ''cap''<sup>1</sup>.}}\n\n'''text†''' (tekst), ''v. t.'' [< ''text'', ''n.''] To write in text-hand or large characters.\n{{smaller block|Truth copied from my heart is ''texted'' there.\n{{right|''Middleton and Dekker'', Spanish Gypsy, iii. 3.}}}}\n\n{{smaller block|O then, how high<br>Shall this great Troy ''text'' up the memory<br>Of you her noble prætor!\n{{right|''Dekker'', London's Tempe.}}}}\n\n'''text-book''' (tekst′bu̇k), ''n.'' 1. A book containing a text or texts. {{smaller|(''a'') A book with wide spaces between the lines of text for notes or comments. (''b'') A book containing a selection of passages of Scripture arranged for reference: more generally termed ''Bible text-book.''}}\n\n2. A book used by students as a standard work for a particular branch of study; a manual of instruction; a book which forms the basis of lectures or comments.—3. Same as ''libretto'', 1.\n\n'''textevangelium''' (teks″te-van-jē′li-um), ''n.'' [ML.] Same as ''Textus'', 2.\n\n'''text-hand''' (tekst′hand), ''n.'' A large, uniform, clerkly handwriting: so called from the large writing formerly used for the text of manuscript books, in distinction from the smaller writing used for the notes.\n\n'''textile''' (teks′til), ''a.'' and ''n.'' [= F. ''textile'', < L. ''textilis'', < ''textum'', something woven: see ''text''.] I. ''a.'' 1. Of or pertaining to weaving: as, the ''textile'' art.—2. Woven, or capable of being woven; formed by weaving: as, ''textile'' fabrics; ''textile'' materials, such as wool, flax, silk, cotton.—{{smaller|'''Textile cone''', in ''conch.'', one of the cone-shells, ''Conus textilis'', whose colors suggest a woven fabric.}}\n\nII. ''n.'' 1. A woven fabric.\n\n{{smaller block|The placing of the tangible parts in length or transverse, as in the warp and the woof of ''textiles''.\n{{right|''Bacon'', Nat. Hist., § 846.}}}}<noinclude><references/></noinclude>"
+}

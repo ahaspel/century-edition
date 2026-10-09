@@ -1,0 +1,267 @@
+{
+ "volume": 8,
+ "page_number": 80,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n79.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n79.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": 0.0,
+  "column_width": 865,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     149,
+     66,
+     2442,
+     97
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     149,
+     97,
+     1014,
+     501
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     149,
+     501,
+     1014,
+     1550
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     149,
+     1550,
+     1014,
+     2026
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     377,
+     2026,
+     1014,
+     2248
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     377,
+     2253,
+     1014,
+     2278
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     149,
+     2026,
+     377,
+     2298
+    ]
+   },
+   {
+    "name": "c1s5",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     149,
+     2298,
+     1014,
+     3315
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1014,
+     97,
+     1587,
+     1145
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1014,
+     1145,
+     1587,
+     2155
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1014,
+     2155,
+     1587,
+     3153
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1014,
+     3153,
+     1587,
+     3315
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1587,
+     97,
+     2442,
+     1127
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1587,
+     1127,
+     2442,
+     2101
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1587,
+     2101,
+     2442,
+     2905
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1587,
+     2905,
+     2442,
+     3315
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|theorem|6276|theorem}}",
+   "c1s1": "named from G. Dostor, by whom it was given in 1870. Certain corollaries from this in regard to the ellipse and hyperbola are also known as ''Dostor's theorems.''—'''Du Bois Reymond's theorem''', the proposition that if ''fx'' is a function of limited variation between ''x'' = A and ''x'' = B, and if φ(''x'', ''n'') is such a function that <math>\\int_A^b \\phi(x, n)dx</math> (where ''b'' is any number between A and B) has its modulus less than a fixed quantity independent of ''b'' and of ''n'', and that when ''n'' increases indefinitely the integral tends toward a fixed limit G for all values of ''b'' between A and B, then <math>\\int_A^b fx.\\,\\phi(x, n)dx</math> will tend uniformly to G''f''(A + 0) if B > A, and to G''f''(A − 0) if B < A: named from the German mathematician Paul du Bois Reymond.—'''Dupin's theorem''', the proposition that three families of surfaces cut-",
+   "c1s2": "ting one another orthogonally cut along lines of curvature: given by Charles Dupin (1784–1873).—'''Earnshaw's theorem,''' the proposition that an electrified body placed in an electric field cannot be in stable equilibrium.—'''Eisenstein's theorem,''' the proposition that when ''y'' in the algebraic equation <math>f(x, y) = 0</math> is developed in powers of ''x'', the coefficients, reduced to their lowest terms, have a finite number of factors in the denominator: given in 1852 by F. G. M. Eisenstein (1823–52).—'''Euler's theorem.''' (''a'') The proposition that at every point of a surface the radius of curvature ρ of a normal section inclined at an angle θ to one of the principal sections is determined by the equation\n\n{{block center|<math>1/\\rho = \\cos^2\\theta(1/\\rho_1) + \\sin^2\\theta(1/\\rho_2);</math>}}\n\nso that in a synclastic surface ρ<sub>1</sub> and ρ<sub>2</sub> are the maximum and minimum radii of curvature, but in an anticlastic surface, where they have opposite signs, they are the two minima radii. (''b'') The proposition that in every polyhedron (but it is not true for one which enwraps the center more than once) the number of edges increased by two equals the sum of the numbers of faces and of summits. (''c'') One of a variety of theorems sometimes referred to as Euler's, with or without further specification: as, the theorem that <math>(x\\mathrm{d}/\\mathrm{d}x + y\\mathrm{d}/\\mathrm{d}y)^r f(x, y)^n = n^r f(x, y)^n</math>; the theorem, relating to the circle, called by Euler and others ''Fermat's geometrical theorem''; the theorem on the law of formation of the approximations to a continued fraction; the theorem of the 2, 4, 8, and 16 squares; the theorem relating to the decomposition of a number into four positive cubes. All the above (except that of Fermat) are due to Leonhard Euler (1707–83).—'''Exponential theorem.''' See ''exponential''.—'''Fagnano's theorem,''' a theorem given by Count G. C. di Fagnano (1682–1766) in 1716, now generally quoted under the following much-restricted form: the difference of two elliptic arcs AA′, ''aa''′, whose extremities A and ''a'', A′ and ''a''′ form two couples of conjugate points, is equal to the difference of the distances from the center of the curve to the normals passing through the extremities of one of the two arcs.—'''Fassbender's theorem,''' the proposition that if α, β, γ are the angles the bisectors of the sides of a triangle make with those sides,",
+   "c1s3": "then <math>\\cot\\alpha + \\cot\\beta + \\cot\\gamma = 0</math>.—'''Fermat's theorem.''' (''a'') The proposition that if ''p'' is a prime and ''a'' is prime to ''p'', then <math>a^{p-1} - 1</math> is divisible by ''p''. Thus, taking <math>p = 7</math> and <math>a = 10</math>, we have 999999 divisible by 7. The following is commonly referred to as Fermat's theorem generalized: if ''a'' is prime to ''n'' and ''φn'' is the totient of ''n'', or number of numbers as small and prime to it, then <math>a^{\\phi n} - 1</math> is divisible by ''n''. This and the following are due to the wonderful genius of Pierre Fermat (1608–65). (''b'') One of a number of arithmetical propositions which Fermat, owing to pressure of circumstances, could only jot down upon the margin of books or elsewhere, and the proofs of which remained unknown for the most part during two centuries, and which are still only partially understood—especially the following, called the ''last theorem of Fermat'': the equation <math>x^n + y^n = z^n</math>, where ''n'' is an odd prime, has no solution in integers. (''c'') The proposition that, if from the extremities A and B of the diameter of a circle lines AD and BE be",
+   "c1c1": "{{c|Fermat's Geometrical Theorem. '''—Joachim'''}}",
+   "c1s4": "AD and BH be drawn at right angles to the diameter, on the same side of it, each equal to the straight line AI or BI from A or B to the middle point of the arc of the semicircle, and if through any point",
+   "c1s5": "C in the circumference, on either side of the diameter AB, lines DCF, ECG be drawn from D and E to cut AB (produced if necessary) in F and G, then AG<sup>2</sup> + BF<sup>2</sup> = AB<sup>2</sup>: distinguished as ''Fermat's geometrical theorem.'' This is shown in the figure by arcs from A as a center through G and from B as a center through F meeting at H on the circle. (''d'') The proposition that light travels along the quickest path.—'''Feuerbach's theorem,''' the proposition that the inscribed and three escribed circles of any triangle all touch the circle through the mid-sides: given in 1822 by K. W. Feuerbach (1800–34). The circle, often called the ''Feuerbach'' or ''nine-point circle,'' also passes through the feet of perpendiculars from the vertices upon the opposite sides and through the points midway between the orthocenter and the vertices. Its center bisects the distance between the orthocenter and the center of the circumscribed circle.—'''Fourier's theorem,''' the theorem that every rectilinear periodic motion is resolvable into a series of simple harmonic motions having periods the aliquot parts of that of their resultant: named after the French mathematician Baron J. B. J. Fourier (1768–1830).—'''Fundamental theorem of algebra,''' the proposition that every algebraic equation has a root, real or imaginary.—'''Fundamental theorem of arithmetic,''' the proposition that any lot of things the count of which in any order can be terminated is such that the count in every order can be terminated, and ends with the same number.—'''Galileo's theorem,''' the proposition that the area of a circle is a mean proportional between the areas of two similar polygons one circumscribed about the circle and the other isoperimetrical with it: given by Galileo Galilei (1564–1642).—'''Gaussian''' or '''Gauss's theorem,''' a name for different theorems relating to the curvature of surfaces, especially for the theorem that the measure of curvature of a surface de-",
+   "c2s1": "y on the expression of the square of a linear terms of two parameters and their differential s.—'''Geber's theorem,''' the proposition that in l triangle ABC, right-angled at C, if ''b'' is the leg B, then cos B = cos ''b'' sin A: believed to have tantially given by an Arabian astronomer, Jābir of Seville, probably of the twelfth century.—'''heorem,''' the proposition that two forms whose correspond one to one are projective: given by r in 1870.—'''Goldbach's theorem,''' the propo- every even number is the sum of two primes: er C. Goldbach (1690–1764), by whom it is said een given.—'''Graves's theorem,''' the proposi- pen stretching a thread loosely tied round an l describe a confocal ellipse: not properly a ut an immediate corollary from a theorem by rawn by Dr. Graves in 1841, and named after most important achievement.—'''Green's theo-''' tain theorems of fundamental importance in of attractions, discovered by George Green . They are analytical expressions of the fact ccumulation of any substance within a given he excess of what passes inward through its over that which passes outward.—'''Guldin's''' , two theorems expressing the superficies and nts of a solid of revolution: named after a hematician, Guldin (1577–1643); but the theo- ncient.—'''Hachette's theorem,''' the proposition led surface has normal to it along any genera- rbolic paraboloid having for directrices of its three normals to the regulus through three ts given generator: given in 1832 by J. N. P. 1769–1834).—'''Hauber's theorem,''' the logical that if a genus be divided into species in two ach species in one mode of division is entirely under some species in the second mode, then se also holds: given in 1829 by K. F. Hauber .—'''Henneberg's theorem,''' the proposition cessary and sufficient condition that a minimal nitting a plane curve as its geodesic should be is that this line should be the development",
+   "c2s2": "raic curve: given in 1876 by L. Henneberg.—'''s theorem.''' (''a'') The development\n\n{{block center|<math>1 + f(1 + \\Delta)0 \\cdot \\frac{x}{1!} + f(1 + \\Delta)0^2 \\cdot \\frac{x^2}{2!} + \\cdots,</math>}}\n\n20 by Sir J. F. W. Herschel (1792–1872). (''b'') sition that forced vibrations follow the period ing cause.—'''Hess's theorem,''' the proposition rpolhode has neither cusp nor inflection: given in 1880, and constituting an important correcons previously current among mathematicians. ''ode''.—'''Hippocrates's theorem,''' the proposie area of a lune bounded by a semicircle and al circular arc curved the same way is equal he isosceles right triangle whose hypotenuse usps of the lune: named from its discoverer, reek mathematician Hippocrates of Chios.—'''theorem,''' the proposition that if a rod moves o as to return to its first position, and if A, B, oints fixed upon it, the distances AB, BC, CA ed by ''c'', ''a'', ''b'', and if (A), (B), (C) are the areas y A, B, C respectively, then\n\n{{block center|<math>a(\\mathrm{A}) + b(\\mathrm{B}) + c(\\mathrm{C}) = \\pi abc:</math>}}\n\nRev. Hamnet Holditch (born 1800).—'''Ivory's''' he proposition that the attraction of any homolipsoid upon an external point is to the attracconfocal ellipsoid passing through that point esponding point of the first ellipsoid, both ating resolved in the direction of any principal e sections of the two ellipsoids made by this this according to whatever function of the attractions may vary.—'''Jacobi's theorem.''' position that a function (having a finite nums) of a single variable cannot have more than . (''b'') The proposition that an equilibrium elhave three unequal axes. (''c'') One of a variety opositions relating to the transformation of quation, to the partial determinants of an ad-",
+   "c2s3": "n, to infinite series whose exponents are con-o quadratic forms, to Hamilton's equations, to rrespondences for quadric surfaces, etc. All from their author, K. G. J. Jacobi (1804–51). '''isthal's theorem''', the proposition that if a ature be a plane curve, its plane makes a con- with the tangent plane to the surface at any ts where it meets it: given in 1846 by F. Jo-(1818–61).—'''Jordan's theorem''', the proposi-unctions of ''n'' elements which are alternating ical relatively to some of them have fewer those which are not so; but this has excep-''n'' is small.—'''Lagrange's theorem.''' (''a'') A rule ing in series the values of an implicit function iffer but little from a given explicit function: z, then\n\n{{block center|<math>z = \\phi x + \\sum_0^\\infty {}_n \\frac{a^{n+1}}{(n+1)!} \\mathrm{D}^n [\\phi' x.\\ fx^{n+1}].</math>}}\n\nposition that the order of a group is divisible every group it contains: also called the ''fun-eorem of substitutions.'' Both by J. L. Lagrange '''Lambert's theorem.''' (''a'') The proposition al sector of an ellipse is equal to\n\na ellipse\n{{block center|<math>\\frac{\\quad}{2\\pi}(\\chi - \\sin\\chi - \\chi^1 + \\sin\\chi^1)</math>, where}}\n{{block center|<math>\\sqrt{(r+r^1+c)/a}</math>, and <math>\\sin\\tfrac{1}{2}\\chi^1 = \\tfrac{1}{2}\\sqrt{(r+r^1-c)/a}</math>,}}\n\ning the focal radii of the extremities, ''c'' the ''a'' the semiaxis major. (''b'') A proposition re-apparent curvature of the geocentric path of th are named from their author, J. H. Lambert '''Lancret's theorem''', in ''solid geometry'', the that along a line of curvature the variation between the tangent plane to the surface and ing plane to the curve is equal to the angle two osculating planes.—'''Landen's theorem''', tion that every elliptic arc can be expressed erbolic arcs, and every hyperbolic arc by two",
+   "c2s4": "s: given in 1755 by John Landen (1719–90).—'''theorem''', a slight modification of Lagrange's",
+   "c3s1": "theorem.—'''Laurent's theorem''', a rule for the development of a function in series, expressed by the formula\n\n{{block center|<math>\\begin{align}fx = &\\frac{1}{2\\pi}\\sum_0^\\infty {}_n x^n \\int_0^{2\\pi} f(\\mathrm{R}e^{\\theta i})/(\\mathrm{R}^n e^{n\\theta i})d\\theta \\\\ &+ \\frac{1}{2\\pi}\\sum_0^\\infty {}_m \\frac{1}{x^m}\\int_0^{2\\pi} f(\\mathrm{R}'e^{\\theta i})(\\mathrm{R}'^n e^{n\\theta i})d\\theta,\\end{align}</math>}}\n\nwhere the modulus of ''x'' is comprised between R and R′: given by P. A. Laurent (1813-54).—'''Legendre's theorem''', the proposition that if the sides of a spherical triangle are very small compared with the radius of the sphere and a plane triangle be formed whose sides are proportional to those of the spherical triangle, then each angle of the plane triangle is very nearly equal to the corresponding angle of the spherical triangle less one third of the spherical excess. This is near enough the truth for the purposes of geodesy: given by A. M. Legendre (1752-1833).—'''Leibnitz's theorem''', a proposition concerning the successive differentials of a product: namely, that\n\n{{block center|<math>\\frac{d^n}{dx^n}uv = (\\mathrm{D}_u + \\mathrm{D}_v)^n uv</math>}}\n\nis equal to the same after development of (D<sub>''u''</sub> + D<sub>''v''</sub>)<sup>''n''</sup> by the binomial theorem, where D<sub>''u''</sub> denotes differentiation as if ''u'' were constant, and D<sub>''v''</sub> differentiation as if ''v'' were constant.—'''Lejeune-Dirichlet's theorem''', a proposition discovered by the German arithmetician P. G. Lejeune-Dirichlet (1805-59), to the effect that any irrational may be represented by a fraction whose denominator ''m'' is a whole number less than any given number ''n'' with an error less than ''mn''.—'''Lexell's theorem''', one of two propositions expressing relations between the sides and angles of polygons: given in 1775 by A. J. Lexell (1740-84).—'''Lhuilier's theorem''', the proposition that if ''a'', ''b'', ''c'' are the sides of a spherical triangle and E the spherical excess, then\n\n{{block center|<math>\\begin{align}\\tan^2 \\tfrac{1}{4}\\mathrm{E} = &\\tan \\tfrac{1}{4}(a + b + c) \\times \\tan \\tfrac{1}{4}(a + b - c) \\\\ &\\times \\tan \\tfrac{1}{4}(a - b + c) \\times \\tan \\tfrac{1}{4}(-a + b + c):\\end{align}</math>}}",
+   "c3s2": "given by S. A. J. Lhuilier (1750-1840).—'''Listing's theorem,''' an equation between the numbers of points, lines, surfaces, and spaces, the cyclosis, and the periphraxis of a figure in space: given in 1847 by J. B. Listing. Also called the ''census theorem.''—'''Lueroth's theorem,''' the proposition that a Riemann's surface may in every case be so constructed that there shall be no cross-lines except between consecutive sheets.—'''McClintock's theorem,''' a very general expansion formula by E. McClintock.—'''MacCullagh's theorem,''' the proposition that a triangle being inscribed in an ellipse, the diameter of its circumscribed circle is equal to the product of the elliptic diameters parallel to the sides divided by the product of the axes: discovered by the Irish mathematician James MacCullagh (1809-47), and published in 1855.—'''Maclaurin and Braikenridge's theorem,''' the proposition that ''n'' fixed points and ''n''—1 fixed lines in one plane being given, the locus of the vertex of an ''n''-gon whose other vertices lie on the fixed lines while its sides pass through the fixed points is a conic: given by Colin Maclaurin and G. Braikenridge in 1735.—'''Maclaurin's general theorem concerning curves,''' the proposition that if through any point O a line be drawn meeting a curve in ''n'' points, and at these points tangents be drawn, and if any other line through O cut the curve in R, R′, R″, etc., and the system of ''n'' tangents in ''r'', ''r''′, ''r''″, etc., then the sum of the reciprocals of the lines OR is equal to the sum of the reciprocals of the lines O''r''.—'''Maclaurin's theorem,''' a formula of the differential calculus, for the development of a function according to ascending powers of the variable: named after the Scotch mathematician Colin Maclaurin (1698-1746). It is an immediate corollary from Taylor's theorem, and is written\n{{block center|<math>\\mathrm{F}x = \\mathrm{F}0 + \\mathrm{F}'0.x + \\frac{1}{2\\,!}\\,\\mathrm{F}''0.x^2 + \\frac{1}{3\\,!}\\,\\mathrm{F}'''0.x^3 + \\cdots</math>}}\n'''Malus's theorem,''' the law of double refraction: given in 1810 by E. L. Malus (1775-1812).—'''Mannheim's theo-'''",
+   "c3s3": "'''rem.''' Same as ''Schönemann's theorem'' (which see, below).—'''Mansion's theorem.''' Same as ''Smith's theorem'' (which see, below).—'''Matthew Stewart's theorem,''' one of sixty-four geometrical propositions given in 1746 by the philosopher Dugald Stewart's father (1717–85), especially that if three straight lines drawn from a point O are cut by a fourth line in the points A, B, C in order, then (OA)<sup>2</sup>BC − (OB)<sup>2</sup>AC + (OC)<sup>2</sup>AB = AB. BC. CA.—'''Menelaus's theorem,''' the proposition that if a triangle QRS is cut by a transversal in C, A, and B, the product of the segments QA, RB, SC is equal to the product of the segments SA, QB, RC: given by the Greek geometer Menelaus, of the first century.—'''Meusnier's theorem,''' the proposition that the radius of curvature of an oblique section of a surface is equal to the radius of curvature of the normal section multiplied by the cosine of the inclination to the normal: given in 1775 by J. B. M. C. Meusnier de la Place (1754–93).—'''Minding's theorem,''' a certain proposition in statics.—'''Miquel's theorem,''' the proposition that if five straight lines and five parabolas are so drawn in a plane that each of the latter is touched by four of the former, and vice versa, then the foci of the parabolas lie on a circle: given by A. Miquel.—'''Mittag-Leffler's theorem,''' the proposition that if any series of isolated imaginary quantities, ''a''<sub>0</sub>, ''a''<sub>1</sub>, . . . ''a<sub>n</sub>'', etc., be given, and a corresponding series of functions, ψ<sub>0</sub>, ψ<sub>1</sub>, . . . ψ<sub>''n''</sub>, etc., of the form\n\n{{block center|<math>\\psi_n = \\sum_1^\\infty {}_m \\mathrm{A}_{m,n}(z-a_n)^{-m},</math>}}\n\na monodromic function ''fz'' can always be found having for critical points ''a''<sub>0</sub>, ''a''<sub>1</sub>, . . . ''a<sub>n</sub>'', etc., and such that",
+   "c3s4": "{{block center|<math>fz = \\phi_0 + \\psi_0 = \\cdots = \\phi_n + \\psi_n = \\cdots,</math>}}\n\n<math>\\phi_n</math> being a function for which <math>a_n</math> is not a critical point: given by G. Mittag-Leffler.—'''Multinomial theorem.''' See ''multinomial.''—'''Newton's theorem.''' (''a'') The proposition that if in the plane of a conic two lines be drawn through any point parallel to any two fixed axes, the ratio of the products of the segments is constant: given by Sir Isaac Newton (1642–1726) in 1711. (''b'') The proposition that the three diagonals of a quadrilateral circumscribed about a circle are all bisected by one diameter of the circle.—'''Painvin's theorem,''' the proposition that a tetrahedron"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0080 c1f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     384,
+     2037,
+     841,
+     2247
+    ],
+    "caption": [
+     451,
+     2257,
+     778,
+     2281
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     354,
+     2007,
+     866,
+     2236
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 4172,
+    "output_tokens": 96,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 15,
+    "input_tokens": 10028,
+    "output_tokens": 14671,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 40710
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|theorem|6276|theorem}}</noinclude>named from G. Dostor, by whom it was given in 1870. Certain corollaries from this in regard to the ellipse and hyperbola are also known as ''Dostor's theorems.''—'''Du Bois Reymond's theorem''', the proposition that if ''fx'' is a function of limited variation between ''x'' = A and ''x'' = B, and if φ(''x'', ''n'') is such a function that <math>\\int_A^b \\phi(x, n)dx</math> (where ''b'' is any number between A and B) has its modulus less than a fixed quantity independent of ''b'' and of ''n'', and that when ''n'' increases indefinitely the integral tends toward a fixed limit G for all values of ''b'' between A and B, then <math>\\int_A^b fx.\\,\\phi(x, n)dx</math> will tend uniformly to G''f''(A + 0) if B > A, and to G''f''(A − 0) if B < A: named from the German mathematician Paul du Bois Reymond.—'''Dupin's theorem''', the proposition that three families of surfaces cutting one another orthogonally cut along lines of curvature: given by Charles Dupin (1784–1873).—'''Earnshaw's theorem,''' the proposition that an electrified body placed in an electric field cannot be in stable equilibrium.—'''Eisenstein's theorem,''' the proposition that when ''y'' in the algebraic equation <math>f(x, y) = 0</math> is developed in powers of ''x'', the coefficients, reduced to their lowest terms, have a finite number of factors in the denominator: given in 1852 by F. G. M. Eisenstein (1823–52).—'''Euler's theorem.''' (''a'') The proposition that at every point of a surface the radius of curvature ρ of a normal section inclined at an angle θ to one of the principal sections is determined by the equation\n\n{{block center|<math>1/\\rho = \\cos^2\\theta(1/\\rho_1) + \\sin^2\\theta(1/\\rho_2);</math>}}\n\nso that in a synclastic surface ρ<sub>1</sub> and ρ<sub>2</sub> are the maximum and minimum radii of curvature, but in an anticlastic surface, where they have opposite signs, they are the two minima radii. (''b'') The proposition that in every polyhedron (but it is not true for one which enwraps the center more than once) the number of edges increased by two equals the sum of the numbers of faces and of summits. (''c'') One of a variety of theorems sometimes referred to as Euler's, with or without further specification: as, the theorem that <math>(x\\mathrm{d}/\\mathrm{d}x + y\\mathrm{d}/\\mathrm{d}y)^r f(x, y)^n = n^r f(x, y)^n</math>; the theorem, relating to the circle, called by Euler and others ''Fermat's geometrical theorem''; the theorem on the law of formation of the approximations to a continued fraction; the theorem of the 2, 4, 8, and 16 squares; the theorem relating to the decomposition of a number into four positive cubes. All the above (except that of Fermat) are due to Leonhard Euler (1707–83).—'''Exponential theorem.''' See ''exponential''.—'''Fagnano's theorem,''' a theorem given by Count G. C. di Fagnano (1682–1766) in 1716, now generally quoted under the following much-restricted form: the difference of two elliptic arcs AA′, ''aa''′, whose extremities A and ''a'', A′ and ''a''′ form two couples of conjugate points, is equal to the difference of the distances from the center of the curve to the normals passing through the extremities of one of the two arcs.—'''Fassbender's theorem,''' the proposition that if α, β, γ are the angles the bisectors of the sides of a triangle make with those sides, then <math>\\cot\\alpha + \\cot\\beta + \\cot\\gamma = 0</math>.—'''Fermat's theorem.''' (''a'') The proposition that if ''p'' is a prime and ''a'' is prime to ''p'', then <math>a^{p-1} - 1</math> is divisible by ''p''. Thus, taking <math>p = 7</math> and <math>a = 10</math>, we have 999999 divisible by 7. The following is commonly referred to as Fermat's theorem generalized: if ''a'' is prime to ''n'' and ''φn'' is the totient of ''n'', or number of numbers as small and prime to it, then <math>a^{\\phi n} - 1</math> is divisible by ''n''. This and the following are due to the wonderful genius of Pierre Fermat (1608–65). (''b'') One of a number of arithmetical propositions which Fermat, owing to pressure of circumstances, could only jot down upon the margin of books or elsewhere, and the proofs of which remained unknown for the most part during two centuries, and which are still only partially understood—especially the following, called the ''last theorem of Fermat'': the equation <math>x^n + y^n = z^n</math>, where ''n'' is an odd prime, has no solution in integers. (''c'') The proposition that, if from the extremities A and B of the diameter of a circle lines AD and BE be AD and BH be drawn at right angles to the diameter, on the same side of it, each equal to the straight line AI or BI from A or B to the middle point of the arc of the semicircle, and if through any point C in the circumference, on either side of the diameter AB, lines DCF, ECG be drawn from D and E to cut AB (produced if necessary) in F and G, then AG<sup>2</sup> + BF<sup>2</sup> = AB<sup>2</sup>: distinguished as ''Fermat's geometrical theorem.'' This is shown in the figure by arcs from A as a center through G and from B as a center through F meeting at H on the circle. (''d'') The proposition that light travels along the quickest path.—'''Feuerbach's theorem,''' the proposition that the inscribed and three escribed circles of any triangle all touch the circle through the mid-sides: given in 1822 by K. W. Feuerbach (1800–34). The circle, often called the ''Feuerbach'' or ''nine-point circle,'' also passes through the feet of perpendiculars from the vertices upon the opposite sides and through the points midway between the orthocenter and the vertices. Its center bisects the distance between the orthocenter and the center of the circumscribed circle.—'''Fourier's theorem,''' the theorem that every rectilinear periodic motion is resolvable into a series of simple harmonic motions having periods the aliquot parts of that of their resultant: named after the French mathematician Baron J. B. J. Fourier (1768–1830).—'''Fundamental theorem of algebra,''' the proposition that every algebraic equation has a root, real or imaginary.—'''Fundamental theorem of arithmetic,''' the proposition that any lot of things the count of which in any order can be terminated is such that the count in every order can be terminated, and ends with the same number.—'''Galileo's theorem,''' the proposition that the area of a circle is a mean proportional between the areas of two similar polygons one circumscribed about the circle and the other isoperimetrical with it: given by Galileo Galilei (1564–1642).—'''Gaussian''' or '''Gauss's theorem,''' a name for different theorems relating to the curvature of surfaces, especially for the theorem that the measure of curvature of a surface dey on the expression of the square of a linear terms of two parameters and their differential s.—'''Geber's theorem,''' the proposition that in l triangle ABC, right-angled at C, if ''b'' is the leg B, then cos B = cos ''b'' sin A: believed to have tantially given by an Arabian astronomer, Jābir of Seville, probably of the twelfth century.—'''heorem,''' the proposition that two forms whose correspond one to one are projective: given by r in 1870.—'''Goldbach's theorem,''' the propo- every even number is the sum of two primes: er C. Goldbach (1690–1764), by whom it is said een given.—'''Graves's theorem,''' the proposi- pen stretching a thread loosely tied round an l describe a confocal ellipse: not properly a ut an immediate corollary from a theorem by rawn by Dr. Graves in 1841, and named after most important achievement.—'''Green's theo-''' tain theorems of fundamental importance in of attractions, discovered by George Green . They are analytical expressions of the fact ccumulation of any substance within a given he excess of what passes inward through its over that which passes outward.—'''Guldin's''' , two theorems expressing the superficies and nts of a solid of revolution: named after a hematician, Guldin (1577–1643); but the theo- ncient.—'''Hachette's theorem,''' the proposition led surface has normal to it along any genera- rbolic paraboloid having for directrices of its three normals to the regulus through three ts given generator: given in 1832 by J. N. P. 1769–1834).—'''Hauber's theorem,''' the logical that if a genus be divided into species in two ach species in one mode of division is entirely under some species in the second mode, then se also holds: given in 1829 by K. F. Hauber .—'''Henneberg's theorem,''' the proposition cessary and sufficient condition that a minimal nitting a plane curve as its geodesic should be is that this line should be the development raic curve: given in 1876 by L. Henneberg.—'''s theorem.''' (''a'') The development\n\n[[File:century v08 p0080 c1f1.png|center|265px]]\n{{c|Fermat's Geometrical Theorem. '''—Joachim'''}}\n\n{{block center|<math>1 + f(1 + \\Delta)0 \\cdot \\frac{x}{1!} + f(1 + \\Delta)0^2 \\cdot \\frac{x^2}{2!} + \\cdots,</math>}}\n\n20 by Sir J. F. W. Herschel (1792–1872). (''b'') sition that forced vibrations follow the period ing cause.—'''Hess's theorem,''' the proposition rpolhode has neither cusp nor inflection: given in 1880, and constituting an important correcons previously current among mathematicians. ''ode''.—'''Hippocrates's theorem,''' the proposie area of a lune bounded by a semicircle and al circular arc curved the same way is equal he isosceles right triangle whose hypotenuse usps of the lune: named from its discoverer, reek mathematician Hippocrates of Chios.—'''theorem,''' the proposition that if a rod moves o as to return to its first position, and if A, B, oints fixed upon it, the distances AB, BC, CA ed by ''c'', ''a'', ''b'', and if (A), (B), (C) are the areas y A, B, C respectively, then\n\n{{block center|<math>a(\\mathrm{A}) + b(\\mathrm{B}) + c(\\mathrm{C}) = \\pi abc:</math>}}\n\nRev. Hamnet Holditch (born 1800).—'''Ivory's''' he proposition that the attraction of any homolipsoid upon an external point is to the attracconfocal ellipsoid passing through that point esponding point of the first ellipsoid, both ating resolved in the direction of any principal e sections of the two ellipsoids made by this this according to whatever function of the attractions may vary.—'''Jacobi's theorem.''' position that a function (having a finite nums) of a single variable cannot have more than . (''b'') The proposition that an equilibrium elhave three unequal axes. (''c'') One of a variety opositions relating to the transformation of quation, to the partial determinants of an adn, to infinite series whose exponents are con-o quadratic forms, to Hamilton's equations, to rrespondences for quadric surfaces, etc. All from their author, K. G. J. Jacobi (1804–51). '''isthal's theorem''', the proposition that if a ature be a plane curve, its plane makes a con- with the tangent plane to the surface at any ts where it meets it: given in 1846 by F. Jo-(1818–61).—'''Jordan's theorem''', the proposi-unctions of ''n'' elements which are alternating ical relatively to some of them have fewer those which are not so; but this has excep-''n'' is small.—'''Lagrange's theorem.''' (''a'') A rule ing in series the values of an implicit function iffer but little from a given explicit function: z, then\n\n{{block center|<math>z = \\phi x + \\sum_0^\\infty {}_n \\frac{a^{n+1}}{(n+1)!} \\mathrm{D}^n [\\phi' x.\\ fx^{n+1}].</math>}}\n\nposition that the order of a group is divisible every group it contains: also called the ''fun-eorem of substitutions.'' Both by J. L. Lagrange '''Lambert's theorem.''' (''a'') The proposition al sector of an ellipse is equal to\n\na ellipse\n{{block center|<math>\\frac{\\quad}{2\\pi}(\\chi - \\sin\\chi - \\chi^1 + \\sin\\chi^1)</math>, where}}\n{{block center|<math>\\sqrt{(r+r^1+c)/a}</math>, and <math>\\sin\\tfrac{1}{2}\\chi^1 = \\tfrac{1}{2}\\sqrt{(r+r^1-c)/a}</math>,}}\n\ning the focal radii of the extremities, ''c'' the ''a'' the semiaxis major. (''b'') A proposition re-apparent curvature of the geocentric path of th are named from their author, J. H. Lambert '''Lancret's theorem''', in ''solid geometry'', the that along a line of curvature the variation between the tangent plane to the surface and ing plane to the curve is equal to the angle two osculating planes.—'''Landen's theorem''', tion that every elliptic arc can be expressed erbolic arcs, and every hyperbolic arc by two s: given in 1755 by John Landen (1719–90).—'''theorem''', a slight modification of Lagrange's theorem.—'''Laurent's theorem''', a rule for the development of a function in series, expressed by the formula\n\n{{block center|<math>\\begin{align}fx = &\\frac{1}{2\\pi}\\sum_0^\\infty {}_n x^n \\int_0^{2\\pi} f(\\mathrm{R}e^{\\theta i})/(\\mathrm{R}^n e^{n\\theta i})d\\theta \\\\ &+ \\frac{1}{2\\pi}\\sum_0^\\infty {}_m \\frac{1}{x^m}\\int_0^{2\\pi} f(\\mathrm{R}'e^{\\theta i})(\\mathrm{R}'^n e^{n\\theta i})d\\theta,\\end{align}</math>}}\n\nwhere the modulus of ''x'' is comprised between R and R′: given by P. A. Laurent (1813-54).—'''Legendre's theorem''', the proposition that if the sides of a spherical triangle are very small compared with the radius of the sphere and a plane triangle be formed whose sides are proportional to those of the spherical triangle, then each angle of the plane triangle is very nearly equal to the corresponding angle of the spherical triangle less one third of the spherical excess. This is near enough the truth for the purposes of geodesy: given by A. M. Legendre (1752-1833).—'''Leibnitz's theorem''', a proposition concerning the successive differentials of a product: namely, that\n\n{{block center|<math>\\frac{d^n}{dx^n}uv = (\\mathrm{D}_u + \\mathrm{D}_v)^n uv</math>}}\n\nis equal to the same after development of (D<sub>''u''</sub> + D<sub>''v''</sub>)<sup>''n''</sup> by the binomial theorem, where D<sub>''u''</sub> denotes differentiation as if ''u'' were constant, and D<sub>''v''</sub> differentiation as if ''v'' were constant.—'''Lejeune-Dirichlet's theorem''', a proposition discovered by the German arithmetician P. G. Lejeune-Dirichlet (1805-59), to the effect that any irrational may be represented by a fraction whose denominator ''m'' is a whole number less than any given number ''n'' with an error less than ''mn''.—'''Lexell's theorem''', one of two propositions expressing relations between the sides and angles of polygons: given in 1775 by A. J. Lexell (1740-84).—'''Lhuilier's theorem''', the proposition that if ''a'', ''b'', ''c'' are the sides of a spherical triangle and E the spherical excess, then\n\n{{block center|<math>\\begin{align}\\tan^2 \\tfrac{1}{4}\\mathrm{E} = &\\tan \\tfrac{1}{4}(a + b + c) \\times \\tan \\tfrac{1}{4}(a + b - c) \\\\ &\\times \\tan \\tfrac{1}{4}(a - b + c) \\times \\tan \\tfrac{1}{4}(-a + b + c):\\end{align}</math>}} given by S. A. J. Lhuilier (1750-1840).—'''Listing's theorem,''' an equation between the numbers of points, lines, surfaces, and spaces, the cyclosis, and the periphraxis of a figure in space: given in 1847 by J. B. Listing. Also called the ''census theorem.''—'''Lueroth's theorem,''' the proposition that a Riemann's surface may in every case be so constructed that there shall be no cross-lines except between consecutive sheets.—'''McClintock's theorem,''' a very general expansion formula by E. McClintock.—'''MacCullagh's theorem,''' the proposition that a triangle being inscribed in an ellipse, the diameter of its circumscribed circle is equal to the product of the elliptic diameters parallel to the sides divided by the product of the axes: discovered by the Irish mathematician James MacCullagh (1809-47), and published in 1855.—'''Maclaurin and Braikenridge's theorem,''' the proposition that ''n'' fixed points and ''n''—1 fixed lines in one plane being given, the locus of the vertex of an ''n''-gon whose other vertices lie on the fixed lines while its sides pass through the fixed points is a conic: given by Colin Maclaurin and G. Braikenridge in 1735.—'''Maclaurin's general theorem concerning curves,''' the proposition that if through any point O a line be drawn meeting a curve in ''n'' points, and at these points tangents be drawn, and if any other line through O cut the curve in R, R′, R″, etc., and the system of ''n'' tangents in ''r'', ''r''′, ''r''″, etc., then the sum of the reciprocals of the lines OR is equal to the sum of the reciprocals of the lines O''r''.—'''Maclaurin's theorem,''' a formula of the differential calculus, for the development of a function according to ascending powers of the variable: named after the Scotch mathematician Colin Maclaurin (1698-1746). It is an immediate corollary from Taylor's theorem, and is written\n{{block center|<math>\\mathrm{F}x = \\mathrm{F}0 + \\mathrm{F}'0.x + \\frac{1}{2\\,!}\\,\\mathrm{F}''0.x^2 + \\frac{1}{3\\,!}\\,\\mathrm{F}'''0.x^3 + \\cdots</math>}}\n'''Malus's theorem,''' the law of double refraction: given in 1810 by E. L. Malus (1775-1812).—'''Mannheim's theorem.''' Same as ''Schönemann's theorem'' (which see, below).—'''Mansion's theorem.''' Same as ''Smith's theorem'' (which see, below).—'''Matthew Stewart's theorem,''' one of sixty-four geometrical propositions given in 1746 by the philosopher Dugald Stewart's father (1717–85), especially that if three straight lines drawn from a point O are cut by a fourth line in the points A, B, C in order, then (OA)<sup>2</sup>BC − (OB)<sup>2</sup>AC + (OC)<sup>2</sup>AB = AB. BC. CA.—'''Menelaus's theorem,''' the proposition that if a triangle QRS is cut by a transversal in C, A, and B, the product of the segments QA, RB, SC is equal to the product of the segments SA, QB, RC: given by the Greek geometer Menelaus, of the first century.—'''Meusnier's theorem,''' the proposition that the radius of curvature of an oblique section of a surface is equal to the radius of curvature of the normal section multiplied by the cosine of the inclination to the normal: given in 1775 by J. B. M. C. Meusnier de la Place (1754–93).—'''Minding's theorem,''' a certain proposition in statics.—'''Miquel's theorem,''' the proposition that if five straight lines and five parabolas are so drawn in a plane that each of the latter is touched by four of the former, and vice versa, then the foci of the parabolas lie on a circle: given by A. Miquel.—'''Mittag-Leffler's theorem,''' the proposition that if any series of isolated imaginary quantities, ''a''<sub>0</sub>, ''a''<sub>1</sub>, . . . ''a<sub>n</sub>'', etc., be given, and a corresponding series of functions, ψ<sub>0</sub>, ψ<sub>1</sub>, . . . ψ<sub>''n''</sub>, etc., of the form\n\n{{block center|<math>\\psi_n = \\sum_1^\\infty {}_m \\mathrm{A}_{m,n}(z-a_n)^{-m},</math>}}\n\na monodromic function ''fz'' can always be found having for critical points ''a''<sub>0</sub>, ''a''<sub>1</sub>, . . . ''a<sub>n</sub>'', etc., and such that {{block center|<math>fz = \\phi_0 + \\psi_0 = \\cdots = \\phi_n + \\psi_n = \\cdots,</math>}}\n\n<math>\\phi_n</math> being a function for which <math>a_n</math> is not a critical point: given by G. Mittag-Leffler.—'''Multinomial theorem.''' See ''multinomial.''—'''Newton's theorem.''' (''a'') The proposition that if in the plane of a conic two lines be drawn through any point parallel to any two fixed axes, the ratio of the products of the segments is constant: given by Sir Isaac Newton (1642–1726) in 1711. (''b'') The proposition that the three diagonals of a quadrilateral circumscribed about a circle are all bisected by one diameter of the circle.—'''Painvin's theorem,''' the proposition that a tetrahedron<noinclude><references/></noinclude>"
+}

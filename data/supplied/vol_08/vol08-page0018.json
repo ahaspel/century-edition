@@ -1,0 +1,413 @@
+{
+ "volume": 8,
+ "page_number": 18,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n17.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n17.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": 0.0,
+  "column_width": 842,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     130,
+     0,
+     2442,
+     131
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     130,
+     131,
+     854,
+     1204
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     130,
+     1204,
+     854,
+     1274
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     130,
+     1274,
+     854,
+     1612
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     130,
+     1612,
+     854,
+     1634
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     130,
+     1634,
+     854,
+     2405
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     130,
+     2405,
+     854,
+     2871
+    ]
+   },
+   {
+    "name": "c1c2",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     130,
+     2881,
+     854,
+     2908
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     130,
+     2908,
+     854,
+     3259
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     854,
+     131,
+     1600,
+     1214
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     854,
+     1214,
+     1600,
+     1742
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     854,
+     1742,
+     1600,
+     2016
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     854,
+     2021,
+     1600,
+     2043
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     854,
+     2043,
+     1600,
+     2402
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     854,
+     2402,
+     1600,
+     3259
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1600,
+     131,
+     2442,
+     408
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1600,
+     408,
+     2442,
+     774
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1600,
+     777,
+     2442,
+     799
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1600,
+     799,
+     2442,
+     1312
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1600,
+     1312,
+     2442,
+     1970
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1600,
+     1970,
+     2442,
+     2955
+    ]
+   },
+   {
+    "name": "c3s5",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1600,
+     2955,
+     2442,
+     3259
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|telegraph|6214|telekinesis}}",
+   "c1s1": "been devised, by means of which many messages may be transmitted over one line at the same time. Among these is the ''harmonic telegraph.'' (See def. 1.) Other systems of multiplex telegraphy depend on the synchronous movement of parts, such as revolving disks, by means of which local circuits at the extremities of the main line are regularly and rapidly placed in connection with each other through the main conducting wire.—'''Electric telegraph,''' the instrument, apparatus, device, or process by means of which electricity is utilized for the rapid transmission of intelligence between distant points. All varieties of electric telegraph have in common one or more conducting wires joining the points between which transmission takes place. At one end is a sending instrument, or transmitter, and at the other a receiving instrument. By the sending instrument electric impulses are transmitted through the line to the receiver, where they produce visible or audible signals capable of translation into words and sentences. Batteries, dynamos, or any other convenient source may supply the electricity. The conducting wire may be supported in the air upon insulators attached to poles, or it may be buried underground or sunk under water (being first covered with some good insulating material). Many different systems of telegraph have been devised, depending on different methods of transmitting and receiving the electric impulses. The latter may be of the simplest kind, and so related to each other in time and character as to produce signals which conform to the requirements of a conventional alphabet, as in the Morse system of telegraphy; or they may be made to operate a mechanism at the receiving end so as to write or print the message. See def. 1.—'''Facsimile telegraph.''' Same as ''autographic telegraph.''—'''Fire-alarm telegraph.''' See ''fire-alarm.''—'''Harmonic telegraph.''' See def. 1.—'''Magnetic telegraph,''' the electric telegraph.—'''Mechanical telegraph.''' See ''mechanical,'' and def. 1.—'''Morse telegraph,''' a telegraphic system consisting essentially of a transmitting key operated by the hand, together with an electromagnetic receiver or register which records the signals in the form of dots and dashes. The registering apparatus is usually dispensed with and the signals read \"by sound,\" the receiving magnet with its armature being known as a ''sounder.''",
+   "c1s2": "The currents from the line are passed through the magnet ''a'' (see cut) and cause it to attract its armature ''b'', which",
+   "c1c1": "{{c|Morse Telegraph Sounder.}}",
+   "c1s3": "brings the stop ''c'' against the anvil ''d'', giving out a clear click for each current sent. The audible signals consist of short and long intervals of contact, corresponding to dots and dashes, and are interpreted by means of the Morse alphabet (which see, under ''alphabet''). When the line is more than a mile or two in length, the signals are usually received first on a relay, which is similar in form to a sounder, but so constructed that its armature responds to feeble currents. The end of this armature acts as a key in a local circuit which operates the sounder or register.—'''Needle-telegraph.''' See def. 1.—'''Octoplex telegraph''', a telegraph by which eight messages can be sent at the same time over a single wire.—'''Optical telegraph.''' (''a'') A semaphore. (''b'') An electric telegraph of the needle or pointer class.—'''Phonoplex telegraph''', a telegraph in which multiplex telegraphy is secured by combining telephonic communication with an ordinary telegraph system.—'''Pneumatic telegraph.''' (''a'') A form of telegraph, formerly in use, in which messages were transmitted by the agency of a column of water under pneumatic pressure. (''b'') A system of transmission for signals in which a bell is sounded and a pointer caused to indicate a message by the compression of air in a reservoir at one end of a long tube, the compression being transmitted to the opposite end of the tube. This system is used in hotels, manufactories, etc., and to transmit steering and steaming directions on shipboard.—'''Polygrammatic telegraph.''' See ''polygrammatic.''—'''Printing-telegraph''', a telegraph in which the message is printed",
+   "c1c2": "{{c|Phelps's Electromotor Printing-telegraph.}}",
+   "c1s4": "¶\nThe transmitting apparatus is shown on the left-hand side and the receiving apparatus on the right — the two being separated by a glass partition ''fn.'' In the apparatus here shown the receiving and transmitting parts are separate, and are driven by independent motors. A combined apparatus is also made, in which both sets of mechanism are driven by one motor; in other respects the mechanism is practically the same. The message is transmitted by manipulating a set of keys shown at ''b.'' These keys move a set of vertical rods arranged in a circle within the cylinder ''e.'' The tops of these rods carry a set of sectors arranged to form a disk round the revolving shaft of the sending mechanism. The part of any revolution at which a current is sent to line depends on the key pressed, and, as the receiving mechanism is kept moving in synchronism (the type-wheel making the same number of revolutions as the revolving shaft here referred to), the current sent by any particular key can be made to print the corresponding letter on the paper ribbon. The circuit-closing arrangement, which is worked by a vertical rod passing through the top of the cylinder ''e'',",
+   "c2s1": "{{smaller block|is shown at ''d''. The electromotor is shown at ''c'', and an electromagnetic key, actuated by the currents which pass through the circuit-closer ''d'', and used to send out the line-currents, is shown at ''a''. In the receiving apparatus ''h'' is the paper-drum which contains the roll of paper ''m'' on which the message is printed as it is drawn past the type-wheel at ''f''. The motor is shown at ''t'', and is similar to that shown at ''c''.}}\n\n{{smaller|in ordinary Roman characters by the receiving instrument.—'''Recording telegraph,''' a telegraph provided with an apparatus which makes a record of the message transmitted.—'''Solar telegraph,''' a telegraph in which the rays of the sun are projected from and upon mirrors; a heliostat. The duration of the rays makes the alphabet, after the manner of the dot-and-dash telegraphic alphabet.—'''Submarine telegraph.''' See ''submarine cable'', under ''cable''.—'''Submarine Telegraph Act,''' a British statute of 1885 (48 and 49 Vict., c. 49) confirming the Convention of the Powers for the protection of telegraph-cables.—'''Telegraph Act,''' a British statute of 1868 (31 and 32 Vict., c. 110) which authorized the purchase and operation of telegraph lines by the Post-office. Other British statutes regulating the construction and maintenance of telegraphs are also known by this title.}}\n\n'''telegraph''' (tel′ē-grȧf), ''v.'' [= F. ''télégraphier'' = Sp. ''telegrafiar'' = Pg. ''telegraphiar'' = It. ''telegrafiare'' (NGr. τηλεγραφίζειν or τηλεγραφεῖν), telegraph: see the noun.] '''I.''' ''trans.'' To transmit or convey, as a communication, speech, intelligence, or order, by a semaphore or telegraph, especially by the electric telegraph.\n\n{{smaller block|A little before sunset, however, Blackwood, in the Euryalus, ''telegraphed'' that they appeared determined to go to the westward.\n{{right|''Southey'', Nelson, II. 240.}}}}\n\n{{smaller block|\"Make Buell, Grant, and Pope Major-generals of volunteers\" he [Halleck] ''telegraphed'' the day after the surrender.\n{{right|''Nicolay and Hay'', Lincoln, V. 199.}}}}\n\n'''II.''' ''intrans.'' '''1.''' To send a message by telegraph.—'''2.''' To signal; communicate by signs.\n\n{{smaller block|I now observed that Bellāal was standing very near me. . . . The fellow had his gun in his hand, and he was ''tele-''}}",
+   "c2s2": "{{smaller block|''graphing'' by looks with those who were standing near him.\n{{right|''Sir S. W. Baker'', Heart of Africa, xvi.}}}}\n\n{{smaller block|I didn't see — I didn't understand. Besides, I hate smirking and ''telegraphing''. Also I'm very shy — you won't have forgotten that. Now we can communicate comfortably.\n{{right|''The Century'', XXXVI. 128.}}}}\n\n'''telegraph-board''' (tel′ẹ̄-grȧf-bōrd), ''n.'' A board on which are hoisted or otherwise marked the numbers of horses about to run in a race, together with the names of their jockeys.\n\n{{smaller block|When the race is all over we may look at the ''telegraph-board'' in vain to find her officially-printed number.\n{{right|''Daily Chronicle'', Sept. 14, 1885. (''Encyc. Dict.'')}}}}\n\n'''telegraph-cable''' (tel′ẹ̄-grȧf-kā″bl), ''n.'' A cable containing wires used for transmitting telegraphic messages. {{smaller|In the accompanying cuts ''a'' represents a single-conductor cable, sheathed with iron or}}",
+   "c2c1": "{{c|Telegraph-cables.}}",
+   "c2s3": "{{smaller block|steel wires, such as is used for submarine work (the conductor is shown at ''d'', and is usually surrounded by a gutta-percha or india-rubber tube for insulation); ''b'' shows the end of a multiple-wire cable suitable for aërial suspension; while ''c'' is a similar multiple cable inclosed in a metal tube, usually of lead, suitable for underground work.}}\n\n'''telegraph-carriage''' (tel′ẹ̄-grȧf-kar″āj), ''n.'' A vehicle carrying the apparatus necessary for establishing temporary communication with a permanent telegraph-line. ''E. H. Knight.''\n\n'''telegraph-clock''' (tel′ẹ̄-grȧf-klok), ''n.'' A clock whose rate controls that of others, or is itself",
+   "c2s4": "controlled, by electric impulses transmitted through telegraph-wires.\n\n'''telegraph-dial''' (tel′ẹ̄-grȧf-dī″al), ''n.'' A dial bearing the letters of the alphabet, figures, etc., arranged in a circle, with a pointer actuated by electromagnetism.\n\n'''telegrapher''' (tel′ẹ̄-graf-ėr or tẹ̄-leg′ra̤-fėr), ''n.'' One who is skilled in telegraphy; one whose occupation is the sending of telegraphic messages, especially by the electric telegraph; a telegraph-operator.—{{smaller|'''Telegraphers' cramp''' or '''palsy''', an occupation neurosis of telegraphers, similar to writers' cramp.}}\n\n'''telegraphic''' (tel-ẹ̄-graf′ik), ''a.'' [= F. ''télégraphique'' = Sp. ''telegráfico'' = Pg. ''telegraphico'' = It. ''telegrafico''; as ''telegraph'' + ''-ic.''] 1. Of or pertaining to the telegraph; made by a telegraph; used in telegraphing: as, ''telegraphic'' signals; ''telegraphic'' art.—2. Communicated or transmitted by a telegraph: as, ''telegraphic'' intelligence.\n\n'''telegraphical''' (tel-ẹ̄-graf′i-ka̤l), ''a.'' [< ''telegraphic'' + ''-al.''] Same as ''telegraphic.''\n\n'''telegraphically''' (tel-ẹ̄-graf′i-ka̤l-i), ''adv.'' 1. In a telegraphic manner; by means of the telegraph.—2. As regards telegraphic communication: as, a town ''telegraphically'' isolated.",
+   "c3s1": "¶\n'''telegraphist''' (tel′ẹ̄-graf-ist or tẹ̄-leg′ra̤-fist), ''n.'' [< ''telegraph'' + ''-ist.''] A telegrapher.\n\n'''telegraph-key''' (tel′ẹ̄-gräf-kē), ''n.'' A device for making and breaking an electric circuit by the movement of the fingers and hand. {{smaller|It usually consists of a bar or lever pivoted in the middle, having a button of some insulating material attached at one end, below which are two platinum-points whose contact at ''c'' in the figure completes the circuit. The insulating but-}}",
+   "c3c1": "{{c|Telegraph-key.}}",
+   "c3s2": "{{smaller block|ton is held by the thumb and first two fingers, and stops are arranged to control the play or movement of the lever. The two ends of a break in the line-wire are connected to the terminals ''t'', ''t'', and the break is bridged over by the lever ''b'' each time it is depressed during the transmission of the message. When the key is not being used the lever is held against its back-stop ''s'' by the spring ''p'', and the break is bridged over by putting the lever ''l'' in the position shown.}}\n\n'''telegraphophone''' (tel-ē-graf′ō-fōn), ''n.'' [< Gr. τῆλε, afar, + E. ''graphophone''.] An apparatus for reproducing at a distance the sounds which produced a graphophonic record; also, an apparatus for producing a graphophonic record at a distance by means of a telephonic circuit.\n\n'''telegraph-plant''' (tel′ē-grȧf-plant), ''n.'' The East Indian ''Desmodium gyrans'', a plant with trifoliolate leaves, of which the lateral leaflets are",
+   "c3s3": "very small and remarkable for their spontaneous jerking motion, suggesting signaling. {{smaller|In a warm humid atmosphere they alternately rise and fall, quickly changing their position, sometimes almost 180 degrees, while they also rotate on their own axes. Also ''moving-plant'' and ''semaphore-plant''.}}\n\n¶\n'''telegraph-pole''' (tel′ẹ̄-grȧf-pōl), ''n.'' One of a series of poles or posts for supporting an elevated telegraph-line. {{smaller|Where there are more wires than one, they are usually fixed to cross-bars on the posts, an insulator being interposed in each case between the post or bar and the wire.}}\n\n'''telegraph-post''' (tel′ẹ̄-grȧf-pōst), ''n.'' A telegraph-pole.\n\n'''telegraph-reel''' (tel′ẹ̄-grȧf-rēl), ''n.'' In a recording telegraph, the reel on which is wound the endless strip of paper on which the messages are printed or otherwise indicated.\n\n'''telegraph-register''' (tel′ẹ̄-grȧf-rej″is-tėr), ''n.'' A form of receiving instrument which makes a permanent record of the signals received. See cut under ''recorder''.",
+   "c3s4": "¶\n'''telegraphy''' (tel′ē-graf-i or tē-leg′ra-fi), ''n.'' [= F. ''télégraphie''; as ''telegraph'' + ''-y''<sup>3</sup>.] The art or practice of communicating intelligence by a telegraph; the science or art of constructing or managing telegraphs.—{{smaller|'''Aërial telegraphy.''' See ''aërial.''—'''Duplex telegraphy.''' See ''duplex'' and ''telegraph.''}}\n\n'''telehydrobarometer''' (tel-ē-hī-drō-ba-rom′e-tėr), ''n.'' [< Gr. τῆλε, afar, + ὕδωρ, water, + E. ''barometer.''] An instrument for recording electrically at a distance the head of water, or of any liquid contained in a reservoir.\n\n'''teleianthous''' (tel-ī-an′thus), ''a.'' [NL., < Gr. τέλειος, finished, perfect, + ἄνθος, a flower.] In ''bot.'', perfect- or hermaphrodite-flowered.\n\n'''teleiconograph''' (tel″ē-ī-kon′ō-gräf), ''n.'' [< Gr. τῆλε, afar, + εἰκών, an image, + γράφειν, write.] A combination of the telescope and camera lucida devised by M. Revoil. {{smaller|The camera lucida is attached to the eyepiece of the telescope in such a way that the observer sees an image of the objects visible in the field of view apparently projected upon a sheet of paper placed on a table below the eyepiece, where he can easily sketch their outlines. He has the scale of the drawing at command, since the size of the image depends on the distance between the eye and the paper.}}\n\n'''teleity†''' (te-lē′i-ti), ''n.'' [< Gr. τέλειος, finished, perfect, + ''-ity.''] End; tendency to fulfil a function or purpose. [Rare.]\n\n{{smaller block|When such a number of hot, dry, and moist atoms cling together, up starts a horse; the same may be said of mixts; they differ meerly accidentally, and have no other form, if I may say so, than the ''teleity'' of the mixture.\n{{right|''Gentleman Instructed'', p. 427. (''Davies.'')}}}}",
+   "c3s5": "¶\n'''telekinesis''' (tel″ē-ki-nē′sis), ''n.'' [NL., < Gr. τῆλε, afar, + κίνησις, movement: see ''kinetic.''] Movement of or motion in an object, animate or inanimate, produced without contact with the body producing the motion. See the quotation under ''telekinetic.'' [Recent.]\n{{smaller block|Extra-mediumistic operations, as thought-transference, telepathy, ''telekinesis'' (Fernwirkung), or movements of objects without contact, and finally materialisation.\n{{right|''Myers'', Proc. Soc. Psych. Research, Dec. 1890, p. 668.}}}}"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0018 c1f1.png",
+   "c1f2": "century v08 p0018 c1f2.png",
+   "c2f1": "century v08 p0018 c2f1.png",
+   "c3f1": "century v08 p0018 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     220,
+     1275,
+     740,
+     1604
+    ],
+    "caption": [
+     341,
+     1612,
+     622,
+     1632
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     254,
+     1282,
+     747,
+     1602
+    ]
+   },
+   {
+    "box": [
+     908,
+     1743,
+     1586,
+     2013
+    ],
+    "caption": [
+     1134,
+     2021,
+     1324,
+     2043
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     888,
+     1735,
+     1587,
+     2000
+    ]
+   },
+   {
+    "box": [
+     1668,
+     411,
+     2298,
+     771
+    ],
+    "caption": [
+     1896,
+     777,
+     2057,
+     799
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1620,
+     409,
+     2320,
+     773
+    ]
+   },
+   {
+    "box": [
+     138,
+     2404,
+     778,
+     2871
+    ],
+    "caption": [
+     264,
+     2881,
+     696,
+     2908
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     232,
+     2409,
+     829,
+     2873
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    2,
+    1
+   ],
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 5,
+    "input_tokens": 8250,
+    "output_tokens": 308,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 18,
+    "input_tokens": 8996,
+    "output_tokens": 9294,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 48852
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|telegraph|6214|telekinesis}}</noinclude>been devised, by means of which many messages may be transmitted over one line at the same time. Among these is the ''harmonic telegraph.'' (See def. 1.) Other systems of multiplex telegraphy depend on the synchronous movement of parts, such as revolving disks, by means of which local circuits at the extremities of the main line are regularly and rapidly placed in connection with each other through the main conducting wire.—'''Electric telegraph,''' the instrument, apparatus, device, or process by means of which electricity is utilized for the rapid transmission of intelligence between distant points. All varieties of electric telegraph have in common one or more conducting wires joining the points between which transmission takes place. At one end is a sending instrument, or transmitter, and at the other a receiving instrument. By the sending instrument electric impulses are transmitted through the line to the receiver, where they produce visible or audible signals capable of translation into words and sentences. Batteries, dynamos, or any other convenient source may supply the electricity. The conducting wire may be supported in the air upon insulators attached to poles, or it may be buried underground or sunk under water (being first covered with some good insulating material). Many different systems of telegraph have been devised, depending on different methods of transmitting and receiving the electric impulses. The latter may be of the simplest kind, and so related to each other in time and character as to produce signals which conform to the requirements of a conventional alphabet, as in the Morse system of telegraphy; or they may be made to operate a mechanism at the receiving end so as to write or print the message. See def. 1.—'''Facsimile telegraph.''' Same as ''autographic telegraph.''—'''Fire-alarm telegraph.''' See ''fire-alarm.''—'''Harmonic telegraph.''' See def. 1.—'''Magnetic telegraph,''' the electric telegraph.—'''Mechanical telegraph.''' See ''mechanical,'' and def. 1.—'''Morse telegraph,''' a telegraphic system consisting essentially of a transmitting key operated by the hand, together with an electromagnetic receiver or register which records the signals in the form of dots and dashes. The registering apparatus is usually dispensed with and the signals read \"by sound,\" the receiving magnet with its armature being known as a ''sounder.'' The currents from the line are passed through the magnet ''a'' (see cut) and cause it to attract its armature ''b'', which brings the stop ''c'' against the anvil ''d'', giving out a clear click for each current sent. The audible signals consist of short and long intervals of contact, corresponding to dots and dashes, and are interpreted by means of the Morse alphabet (which see, under ''alphabet''). When the line is more than a mile or two in length, the signals are usually received first on a relay, which is similar in form to a sounder, but so constructed that its armature responds to feeble currents. The end of this armature acts as a key in a local circuit which operates the sounder or register.—'''Needle-telegraph.''' See def. 1.—'''Octoplex telegraph''', a telegraph by which eight messages can be sent at the same time over a single wire.—'''Optical telegraph.''' (''a'') A semaphore. (''b'') An electric telegraph of the needle or pointer class.—'''Phonoplex telegraph''', a telegraph in which multiplex telegraphy is secured by combining telephonic communication with an ordinary telegraph system.—'''Pneumatic telegraph.''' (''a'') A form of telegraph, formerly in use, in which messages were transmitted by the agency of a column of water under pneumatic pressure. (''b'') A system of transmission for signals in which a bell is sounded and a pointer caused to indicate a message by the compression of air in a reservoir at one end of a long tube, the compression being transmitted to the opposite end of the tube. This system is used in hotels, manufactories, etc., and to transmit steering and steaming directions on shipboard.—'''Polygrammatic telegraph.''' See ''polygrammatic.''—'''Printing-telegraph''', a telegraph in which the message is printed\n\n[[File:century v08 p0018 c1f1.png|center|310px]]\n{{c|Morse Telegraph Sounder.}}\n\n[[File:century v08 p0018 c1f2.png|center|310px]]\n{{c|Phelps's Electromotor Printing-telegraph.}}\n\nThe transmitting apparatus is shown on the left-hand side and the receiving apparatus on the right — the two being separated by a glass partition ''fn.'' In the apparatus here shown the receiving and transmitting parts are separate, and are driven by independent motors. A combined apparatus is also made, in which both sets of mechanism are driven by one motor; in other respects the mechanism is practically the same. The message is transmitted by manipulating a set of keys shown at ''b.'' These keys move a set of vertical rods arranged in a circle within the cylinder ''e.'' The tops of these rods carry a set of sectors arranged to form a disk round the revolving shaft of the sending mechanism. The part of any revolution at which a current is sent to line depends on the key pressed, and, as the receiving mechanism is kept moving in synchronism (the type-wheel making the same number of revolutions as the revolving shaft here referred to), the current sent by any particular key can be made to print the corresponding letter on the paper ribbon. The circuit-closing arrangement, which is worked by a vertical rod passing through the top of the cylinder ''e'', {{smaller block|is shown at ''d''. The electromotor is shown at ''c'', and an electromagnetic key, actuated by the currents which pass through the circuit-closer ''d'', and used to send out the line-currents, is shown at ''a''. In the receiving apparatus ''h'' is the paper-drum which contains the roll of paper ''m'' on which the message is printed as it is drawn past the type-wheel at ''f''. The motor is shown at ''t'', and is similar to that shown at ''c''.}}\n\n{{smaller|in ordinary Roman characters by the receiving instrument.—'''Recording telegraph,''' a telegraph provided with an apparatus which makes a record of the message transmitted.—'''Solar telegraph,''' a telegraph in which the rays of the sun are projected from and upon mirrors; a heliostat. The duration of the rays makes the alphabet, after the manner of the dot-and-dash telegraphic alphabet.—'''Submarine telegraph.''' See ''submarine cable'', under ''cable''.—'''Submarine Telegraph Act,''' a British statute of 1885 (48 and 49 Vict., c. 49) confirming the Convention of the Powers for the protection of telegraph-cables.—'''Telegraph Act,''' a British statute of 1868 (31 and 32 Vict., c. 110) which authorized the purchase and operation of telegraph lines by the Post-office. Other British statutes regulating the construction and maintenance of telegraphs are also known by this title.}}\n\n'''telegraph''' (tel′ē-grȧf), ''v.'' [= F. ''télégraphier'' = Sp. ''telegrafiar'' = Pg. ''telegraphiar'' = It. ''telegrafiare'' (NGr. τηλεγραφίζειν or τηλεγραφεῖν), telegraph: see the noun.] '''I.''' ''trans.'' To transmit or convey, as a communication, speech, intelligence, or order, by a semaphore or telegraph, especially by the electric telegraph.\n\n{{smaller block|A little before sunset, however, Blackwood, in the Euryalus, ''telegraphed'' that they appeared determined to go to the westward.\n{{right|''Southey'', Nelson, II. 240.}}}}\n\n{{smaller block|\"Make Buell, Grant, and Pope Major-generals of volunteers\" he [Halleck] ''telegraphed'' the day after the surrender.\n{{right|''Nicolay and Hay'', Lincoln, V. 199.}}}}\n\n'''II.''' ''intrans.'' '''1.''' To send a message by telegraph.—'''2.''' To signal; communicate by signs.\n\n{{smaller block|I now observed that Bellāal was standing very near me. . . . The fellow had his gun in his hand, and he was ''telegraphing'' by looks with those who were standing near him.\n{{right|''Sir S. W. Baker'', Heart of Africa, xvi.}}}}\n\n{{smaller block|I didn't see — I didn't understand. Besides, I hate smirking and ''telegraphing''. Also I'm very shy — you won't have forgotten that. Now we can communicate comfortably.\n{{right|''The Century'', XXXVI. 128.}}}}\n\n'''telegraph-board''' (tel′ẹ̄-grȧf-bōrd), ''n.'' A board on which are hoisted or otherwise marked the numbers of horses about to run in a race, together with the names of their jockeys.\n\n{{smaller block|When the race is all over we may look at the ''telegraph-board'' in vain to find her officially-printed number.\n{{right|''Daily Chronicle'', Sept. 14, 1885. (''Encyc. Dict.'')}}}}\n\n'''telegraph-cable''' (tel′ẹ̄-grȧf-kā″bl), ''n.'' A cable containing wires used for transmitting telegraphic messages. {{smaller|In the accompanying cuts ''a'' represents a single-conductor cable, sheathed with iron or steel wires, such as is used for submarine work (the conductor is shown at ''d'', and is usually surrounded by a gutta-percha or india-rubber tube for insulation); ''b'' shows the end of a multiple-wire cable suitable for aërial suspension; while ''c'' is a similar multiple cable inclosed in a metal tube, usually of lead, suitable for underground work.}}\n\n[[File:century v08 p0018 c2f1.png|center|319px]]\n{{c|Telegraph-cables.}}\n\n'''telegraph-carriage''' (tel′ẹ̄-grȧf-kar″āj), ''n.'' A vehicle carrying the apparatus necessary for establishing temporary communication with a permanent telegraph-line. ''E. H. Knight.''\n\n'''telegraph-clock''' (tel′ẹ̄-grȧf-klok), ''n.'' A clock whose rate controls that of others, or is itself controlled, by electric impulses transmitted through telegraph-wires.\n\n'''telegraph-dial''' (tel′ẹ̄-grȧf-dī″al), ''n.'' A dial bearing the letters of the alphabet, figures, etc., arranged in a circle, with a pointer actuated by electromagnetism.\n\n'''telegrapher''' (tel′ẹ̄-graf-ėr or tẹ̄-leg′ra̤-fėr), ''n.'' One who is skilled in telegraphy; one whose occupation is the sending of telegraphic messages, especially by the electric telegraph; a telegraph-operator.—{{smaller|'''Telegraphers' cramp''' or '''palsy''', an occupation neurosis of telegraphers, similar to writers' cramp.}}\n\n'''telegraphic''' (tel-ẹ̄-graf′ik), ''a.'' [= F. ''télégraphique'' = Sp. ''telegráfico'' = Pg. ''telegraphico'' = It. ''telegrafico''; as ''telegraph'' + ''-ic.''] 1. Of or pertaining to the telegraph; made by a telegraph; used in telegraphing: as, ''telegraphic'' signals; ''telegraphic'' art.—2. Communicated or transmitted by a telegraph: as, ''telegraphic'' intelligence.\n\n'''telegraphical''' (tel-ẹ̄-graf′i-ka̤l), ''a.'' [< ''telegraphic'' + ''-al.''] Same as ''telegraphic.''\n\n'''telegraphically''' (tel-ẹ̄-graf′i-ka̤l-i), ''adv.'' 1. In a telegraphic manner; by means of the telegraph.—2. As regards telegraphic communication: as, a town ''telegraphically'' isolated.\n\n'''telegraphist''' (tel′ẹ̄-graf-ist or tẹ̄-leg′ra̤-fist), ''n.'' [< ''telegraph'' + ''-ist.''] A telegrapher.\n\n'''telegraph-key''' (tel′ẹ̄-gräf-kē), ''n.'' A device for making and breaking an electric circuit by the movement of the fingers and hand. {{smaller|It usually consists of a bar or lever pivoted in the middle, having a button of some insulating material attached at one end, below which are two platinum-points whose contact at ''c'' in the figure completes the circuit. The insulating button is held by the thumb and first two fingers, and stops are arranged to control the play or movement of the lever. The two ends of a break in the line-wire are connected to the terminals ''t'', ''t'', and the break is bridged over by the lever ''b'' each time it is depressed during the transmission of the message. When the key is not being used the lever is held against its back-stop ''s'' by the spring ''p'', and the break is bridged over by putting the lever ''l'' in the position shown.}}\n\n[[File:century v08 p0018 c3f1.png|center|360px]]\n{{c|Telegraph-key.}}\n\n'''telegraphophone''' (tel-ē-graf′ō-fōn), ''n.'' [< Gr. τῆλε, afar, + E. ''graphophone''.] An apparatus for reproducing at a distance the sounds which produced a graphophonic record; also, an apparatus for producing a graphophonic record at a distance by means of a telephonic circuit.\n\n'''telegraph-plant''' (tel′ē-grȧf-plant), ''n.'' The East Indian ''Desmodium gyrans'', a plant with trifoliolate leaves, of which the lateral leaflets are very small and remarkable for their spontaneous jerking motion, suggesting signaling. {{smaller|In a warm humid atmosphere they alternately rise and fall, quickly changing their position, sometimes almost 180 degrees, while they also rotate on their own axes. Also ''moving-plant'' and ''semaphore-plant''.}}\n\n¶\n'''telegraph-pole''' (tel′ẹ̄-grȧf-pōl), ''n.'' One of a series of poles or posts for supporting an elevated telegraph-line. {{smaller|Where there are more wires than one, they are usually fixed to cross-bars on the posts, an insulator being interposed in each case between the post or bar and the wire.}}\n\n'''telegraph-post''' (tel′ẹ̄-grȧf-pōst), ''n.'' A telegraph-pole.\n\n'''telegraph-reel''' (tel′ẹ̄-grȧf-rēl), ''n.'' In a recording telegraph, the reel on which is wound the endless strip of paper on which the messages are printed or otherwise indicated.\n\n'''telegraph-register''' (tel′ẹ̄-grȧf-rej″is-tėr), ''n.'' A form of receiving instrument which makes a permanent record of the signals received. See cut under ''recorder''.\n\n'''telegraphy''' (tel′ē-graf-i or tē-leg′ra-fi), ''n.'' [= F. ''télégraphie''; as ''telegraph'' + ''-y''<sup>3</sup>.] The art or practice of communicating intelligence by a telegraph; the science or art of constructing or managing telegraphs.—{{smaller|'''Aërial telegraphy.''' See ''aërial.''—'''Duplex telegraphy.''' See ''duplex'' and ''telegraph.''}}\n\n'''telehydrobarometer''' (tel-ē-hī-drō-ba-rom′e-tėr), ''n.'' [< Gr. τῆλε, afar, + ὕδωρ, water, + E. ''barometer.''] An instrument for recording electrically at a distance the head of water, or of any liquid contained in a reservoir.\n\n'''teleianthous''' (tel-ī-an′thus), ''a.'' [NL., < Gr. τέλειος, finished, perfect, + ἄνθος, a flower.] In ''bot.'', perfect- or hermaphrodite-flowered.\n\n'''teleiconograph''' (tel″ē-ī-kon′ō-gräf), ''n.'' [< Gr. τῆλε, afar, + εἰκών, an image, + γράφειν, write.] A combination of the telescope and camera lucida devised by M. Revoil. {{smaller|The camera lucida is attached to the eyepiece of the telescope in such a way that the observer sees an image of the objects visible in the field of view apparently projected upon a sheet of paper placed on a table below the eyepiece, where he can easily sketch their outlines. He has the scale of the drawing at command, since the size of the image depends on the distance between the eye and the paper.}}\n\n'''teleity†''' (te-lē′i-ti), ''n.'' [< Gr. τέλειος, finished, perfect, + ''-ity.''] End; tendency to fulfil a function or purpose. [Rare.]\n\n{{smaller block|When such a number of hot, dry, and moist atoms cling together, up starts a horse; the same may be said of mixts; they differ meerly accidentally, and have no other form, if I may say so, than the ''teleity'' of the mixture.\n{{right|''Gentleman Instructed'', p. 427. (''Davies.'')}}}}\n\n'''telekinesis''' (tel″ē-ki-nē′sis), ''n.'' [NL., < Gr. τῆλε, afar, + κίνησις, movement: see ''kinetic.''] Movement of or motion in an object, animate or inanimate, produced without contact with the body producing the motion. See the quotation under ''telekinetic.'' [Recent.]\n{{smaller block|Extra-mediumistic operations, as thought-transference, telepathy, ''telekinesis'' (Fernwirkung), or movements of objects without contact, and finally materialisation.\n{{right|''Myers'', Proc. Soc. Psych. Research, Dec. 1890, p. 668.}}}}<noinclude><references/></noinclude>"
+}

@@ -1,0 +1,190 @@
+{
+ "volume": 8,
+ "page_number": 34,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n33.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n33.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": 0.0,
+  "column_width": 864,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     93,
+     0,
+     2442,
+     126
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     93,
+     126,
+     831,
+     1151
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     93,
+     1151,
+     831,
+     2211
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     93,
+     2211,
+     831,
+     3251
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     831,
+     126,
+     1578,
+     1111
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     831,
+     1111,
+     1578,
+     2144
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     831,
+     2144,
+     1578,
+     3216
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     831,
+     3216,
+     1578,
+     3251
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1578,
+     126,
+     2442,
+     1212
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1578,
+     1212,
+     2442,
+     2135
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1578,
+     2135,
+     2442,
+     3106
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1578,
+     3106,
+     2442,
+     3251
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|tender|6230|tendon}}",
+   "c1s1": "{{smaller block|Oaths of allegiance were ''tendered'' too lightly by the Neapolitans to carry the same weight as in other nations.\n{{right|''Prescott'', Ferd. and Isa., ii. 10.}}}}\n\n2. To offer in payment or satisfaction of some demand or obligation: as, to ''tender'' the (exact) amount of rent due.\n\n{{smaller block|Shall any other pay my debt, while I\nWrite myself bankrupt? or Calista owe\nThe least beholdingness for that which she,\nOn all the bonds of gratitude I have seal'd to,\nMay challenge from me to be freely ''tender'd?''\n{{right|''Fletcher'' (''and Massinger''?), Lovers' Progress, v. 1.}}}}\n\n{{smaller block|It shall be the duty of the seller, on maturity of the contract (i. e., the last day specified therein), to ''tender'' the goods between the hours of 10 o'clock {{sc|a. m.}} and 3 o'clock {{sc|p. m.}}, whereupon he shall be entitled to payment in full therefor before the last named hour.\n{{right|''New York Produce Exchange Report'', 1888–9, p. 264.}}}}\n\n3†. To show; present to view.\n\n{{smaller block|Tender [see ''tender''<sup>1</sup>] yourself more dearly;\nOr . . . you'll ''tender'' me a fool.\n{{right|''Shak.'', Hamlet, i. 3. 109.}}}}\n\n'''II.''' ''intrans.'' To make a tender or offer; especially, to offer to supply certain commodities for a certain period at rates and under conditions specified, or to execute certain work: as, to ''tender'' for the dredging of a harbor.\n\n'''tender<sup>2</sup>''' (ten′dėr), ''n.'' [< ''tender''<sup>2</sup>, ''v.''] 1. An offer for acceptance.\n\n{{smaller block|I send you a Coppy of the Draught to shew to Mr. Vicechanceler, with ''tender'' of my service.\n{{right|''H. Spelman'', in Ellis's Lit. Letters, p. 161.}}}}\n\n{{smaller block|With a ''Tender'' of my most humble Service to my noble good Lady.\n{{right|''Howell'', Letters, I. v. 17.}}}}",
+   "c1s2": "Specifically—2. In ''law'', an offer of money or any other thing in satisfaction of a debt or liability; especially, the production and offer to pay or deliver the very thing requirable by a contract.\n\n{{smaller block|When Lard or Provisions are rejected under final appeal, if tendered on a seller's option, all expenses shall be paid by the seller, and it shall be held that no ''tender'' has been made.\n{{right|''New York Produce Exchange Report'', 1888-9, p. 181.}}}}\n\n3. An offer in writing made by one party to another to execute some specified work or to supply certain specified articles at a certain sum or rate, or to purchase something at a specified price.\n\n{{smaller block|The privilege of selling to railway-passengers within the precincts of the terminus is disposed of by ''tender''.\n{{right|''Mayhew'', London Labour and London Poor, I. 291.}}}}\n\n{{smaller block|Of the three larger vessels, ''tenders'' were received for the Proteus and Neptune, and, the bid for the latter being the lower, it was accepted.\n{{right|''Schley and Soley'', Rescue of Greely, p. 38.}}}}\n\n4. Something tendered or offered.\n\n{{smaller block|That you have ta'en these ''tenders'' for true pay,\nWhich are not sterling. ''Shak.'', Hamlet, i. 3. 106.}}\n\n{{smaller|'''Legal-tender currency''', currency which can lawfully be used in paying a debt. All the gold coins of the United States are a legal tender in all payments at their nominal value, when not below the standard weight and limit of tolerance provided by law for the single piece; and when reduced in weight below such standard tolerance, they are a legal tender at a valuation in proportion to their actual weight. The silver dollar of 412½ grains is a legal tender for all debts and dues, public and private, except when otherwise expressly mentioned in the contract. The silver coins of the United States of smaller}}",
+   "c1s3": "denomination than one dollar are a legal tender, in sums not exceeding ten dollars, in payment of all dues, public and private. The so-called trade-dollar of 420 grains is not a legal tender. The five-cent, three-cent, and one-cent pieces are a legal tender to the amount of twenty-five cents in one payment. No foreign coins are now (1891) a legal tender. The United States notes (see ''greenback'') are a legal tender for all debts, public and private, except duties on imports and interest on the public debt. Loans and debts contracted before the enactment of the legal-tender law of 1862 authorizing the issue of greenbacks, can be satisfied by payments made in them, unless an express agreement has been made for the payment of gold and silver. Gold certificates, under act of Congress of 1882, are receivable for customs, taxes, and all public dues, and when so received may be reissued; and silver certificates, under act of 1878, are receivable for customs, taxes, and all public dues, and when so received may be reissued. Treasury notes, under the act of March 3d, 1863, and of June 30th, 1864, were a legal tender (for their face-value, excluding interest) for all debts, public and private, within the United States, except for duties on imports and interest on the public debt, and except that those issued under the latter act are not legal tender in redemption of bank-notes, or bankers' notes, for circulation as money; those issued under the act of July 14th, 1890, are a legal tender in payment of all debts, public and private, except where otherwise expressly stipulated in the contract, and are receivable for customs, taxes, and all public dues, and when so received may be reissued. The term \"debts public and private\" has been held to intend contract obligations, whether contracted before or after the statute, but not such dues as State taxes. National bank-notes are legal tender in all parts of the United States in payment of taxes, excises, public lands, and all other dues to the United States, except duties on imports, also for all salaries and other debts and demands owing by the United States to individuals, corporations, and associations within the United States, except interest on the public debt and in redemption of the national currency, and also for any debt or liability to any national banking association,",
+   "c2s1": "{{smaller block|except gold-note banks.—'''Plea of tender''', a plea by a defendant that he has made due tender, and has remained always ready to satisfy the plaintiff's claim, and now brings the sum demanded into court.—'''Tender of amends''', an offer by a person who is charged with a wrong or breach of contract to pay a sum of money by way of amends.—'''Tender of issue''', a pleading which in effect invites the adverse party to join issue upon it.}}\n\n'''tender'''<sup>3</sup> (ten′dėr), ''n.'' [< ''tend''<sup>2</sup> + ''-er''<sup>1</sup>; partly by apheresis from ''attender''.] 1. One who tends; one who attends to, supervises, or takes care of something; a nurse: as, a machine-''tender''; a bar''tender''.—2. ''Naut.'', a vessel employed to attend a larger one for supplying her with provisions and other stores, or to convey intelligence, orders, etc.\n\n{{smaller block|Here she comes i' faith full Sail, with her Fan spread and Streamers out, and a Shoal of Fools for ''Tenders''.\n{{right|''Congreve'', Way of the World, ii. 4.}}}}\n\n3. A boat or ship accompanying fishing- or whaling-vessels; a lighter. {{smaller|Specifically—(''a'') In the menhaden-fishery, a vessel or boat employed to carry the fish to the factories. These tenders have an average capacity of 250 barrels, though they are now often built of a larger size, some carrying 600 barrels. (''b'') A vessel sailing from San Francisco to the Arctic regions, to carry supplies to the whale-ships, and bring back oil and bone, to be sent east by rail.}}\n\n4. In ''rail.'', a carriage attached to the locomotive, for carrying the fuel, water, etc. See cuts under ''passenger-engine'' and ''snow-plow''.\n\n{{smaller block|We supplied the ''tender'' and fire with wood, and, in short, pretty much ran the train as we pleased.\n{{right|''The Century'', XL. 622.}}}}",
+   "c2s2": "¶\n\n5. A small reservoir attached to a mop or scrubber, to hold a supply of water. The flow is controlled by a valve operated by a spring.\n\n'''tender-dying''' (ten′dėr-dī″ing), ''a.'' Dying in early youth. ''Shak.'', 1 Hen. VI., iii. 3. 48. [Rare.]\n\n'''tenderee''' (ten-dėr-ē′), ''n.'' [< ''tender''<sup>2</sup> + ''-ee''<sup>1</sup>.] The person to whom a tender is made.\n\n{{smaller block|Where a tender is made, for the purpose of obtaining property of the owner, sold and in the hands of the ''tenderee'' claiming to own the same, and accepted, the money paid may be recovered back. ''T. Miller, J.'', in 91 N. Y. 536.}}\n\n'''tenderer<sup>1</sup>''' (ten′dėr-ėr), ''n.'' [< ''tender''<sup>1</sup> + ''-er''<sup>1</sup>.] One who or that which makes tender: as, a meat-''tenderer''. ''Sci. Amer.'', N. S., LXII. 158. [Recent.]\n\n'''tenderer<sup>2</sup>''' (ten′dėr-ėr), ''n.'' [< ''tender''<sup>2</sup> + ''-er''<sup>1</sup>.] One who makes a tender or offer.\n\n{{smaller block|The Minister for Works had met on the previous day a deputation of the \"''tenderers'' for the manufacture within the Colony of fifty locomotives required for use on the railways.\"\n{{right|''The Engineer'', LXV. 528.}}}}\n\n'''tender-eyed''' (ten′dėr-īd), ''a.'' 1. Having gentle or affectionate eyes.—2. Weak-eyed; bleareyed; dim-sighted.\n\n{{smaller block|{{c|You must not think your sister<br>So ''tender-ey'd'' as not to see your follies.}}\n{{right|''Fletcher'', Wit without Money, iii. 1.}}}}\n\n'''tenderfoot''' (ten′dėr-fu̇t), ''n.''; pl. ''tenderfoots'' (-fu̇ts). A new-comer on the plains or in the bush, or one who has not become hardened to the life there; a greenhorn; a novice. [Slang, western U. S. and Australia.]\n\n{{smaller block|Hunters . . . who bedizen themselves in all the tradi-}}",
+   "c2s3": "{{smaller block|tional finery of the craft, in the hope of getting a job at guiding some ''tenderfoot.''\n{{right|''T. Roosevelt'', Hunting Trips, p. 32.}}}}\n\n¶\n'''tender-footed''' (ten′dėr-fu̇t″ed), ''a.'' 1. Having tender or sensitive feet.—2. Cautious; timid; “green.” Compare ''tenderfoot.'' [Slang.]\n\n'''tender-footedness''' (ten′dėr-fu̇t″ed-nes), ''n.'' The state of being a tenderfoot. [Slang.]\n\n'''tender-hearted''' (ten′dėr-här″ted), ''a.'' 1. Having great sensibility; susceptible.\n\n{{smaller block|When Rehoboam was young and ''tenderhearted,'' and could not withstand them.\n{{right|2 Chron. xiii. 7.}}}}\n\n2. Very susceptible of the softer passions of love, pity, or kindness.\n\n{{smaller block|Aumerle, thou weep'st, my ''tender-hearted'' cousin!\n{{right|''Shak.'', Rich. II., iii. 3. 160.}}}}\n\n'''tender-heartedly''' (ten′dėr-här″ted-li), ''adv.'' In a tender-hearted manner; with tender affection.\n\n'''tender-heartedness''' (ten′dėr-här″ted-nes), ''n.'' The state of being tender-hearted; a tender or compassionate disposition; susceptibility of the softer passions.\n\n'''tender-hefted†''' (ten′dėr-hef″ted), ''a.'' Apparently an error for ''tender-hearted.''\n\n{{smaller block|No, Regan, thou shalt never have my curse;\nThy ''tender-hefted'' nature shall not give\nThee o'er to harshness.\n{{right|''Shak.'', Lear, ii. 4. 174.}}}}\n\n'''tenderling''' (ten′dėr-ling), ''n.'' [< ''tender''<sup>1</sup> + ''-ling''<sup>1</sup>.] 1. A fondling; one made tender by too much coddling; an effeminate person.\n\n{{smaller block|Now haue we manie chimnies, and yet our ''tenderlings'' complaine of rheumes, catarhs, and poses.\n{{right|''Harrison'', Descrip. of Eng., ii. 22.}}}}",
+   "c2s4": "¶\n2. One of the first horns of a deer.",
+   "c3s1": "¶\n'''tenderloin''' (ten′dėr-loin), ''n.'' That part of the loin of beef which is tenderer than the rest, in consequence of the softness or fineness of the muscular fiber; the psoas muscle of the ox and some other animals used as meat; the fillet; the undercut. {{smaller|In the tenderloin steak, as usually cut, the bone left in is one lateral half of a lumbar vertebra, of which the long slender bone which separates the tenderloin from the rest of the meat is the transverse process. The tenderloin lies close to the backbone, on the ventral side.}}\n\n'''tenderly''' (ten′dėr-li), ''adv.'' [< ME. ''tenderly, tendirly, tendreliche''; < ''tender''<sup>1</sup> + ''-ly''<sup>2</sup>.] In a tender manner. {{smaller|(''a'') With tenderness; mildly; gently; softly; in a manner not to injure or give pain.}}\n\n{{smaller block|The Moor . . .\n. . . will as ''tenderly'' be led by the nose\nAs asses are.\n{{right|''Shak.'', Othello, i. 3. 407.}}}}\n\n{{smaller|(''b'') Kindly; with pity or affection; fondly.}}\n\n{{smaller block|So eche of theym comaunded other to god full ''tendirly.''\n{{right|''Merlin'' (E. E. T. S.), iii. 634.}}}}\n\n{{smaller block|He cannot be such a monster . . . to his father, that so ''tenderly'' and entirely loves him.\n{{right|''Shak.'', Lear, i. 2. 104.}}}}\n\n{{smaller|(''c'') With a keen sense of pain; keenly; bitterly.}}\n\n{{smaller block|There is the Place where Seynt Petir wepte fulle ''tenderly'', aftre that he hadde forsaken oure Lord.\n{{right|''Mandeville'', Travels, p. 92.}}}}\n\n{{smaller block|Pandare that ful ''tendreliche'' wepte.\n{{right|''Chaucer'', Troilus, iv. 353.}}}}\n\n{{smaller|(''d'') Delicately; effeminately: as, a child ''tenderly'' reared.}}\n\n'''tender-minded''' (ten′dėr-mīn″ded), ''a.'' Compassionate; tender-hearted.\n\n{{smaller block|To be ''tender-minded''\nDoes not become a sword.\n{{right|''Shak.'', Lear, v. 3. 31.}}}}\n\n'''tenderness''' (ten′dėr-nes), ''n.'' The state or character of being tender, in any sense.",
+   "c3s2": "¶\n{{smaller block|Well we know your ''tenderness'' of heart.\n{{right|''Shak.'', Rich. III., iii. 7. 210.}}}}\n\n{{smaller block|We went to see the stables and fine horses of w<sup>ch</sup> many were here kept at a vast expense, with all the art and ''tendernesse'' imaginable.\n{{right|''Evelyn'', Diary, July 22, 1670.}}}}\n\n{{smaller block|Eleven half sheets marbled (like smoke) after a different manner, bit with great curiosity and ''tenderness.''\n{{right|''H. Wanley'', in Ellis's Lit. Letters, p. 276.}}}}\n\n{{smaller block|There was great ''tenderness'' over the bowels, especially in the right iliac region.\n{{right|''J. M. Carnochan'', Operative Surgery, p. 156.}}}}\n\n'''tender-sided''' (ten′dėr-sī″ded), ''a.'' ''Naut.'', crank, as a vessel; careening too easily under press of sail.\n\n'''tendinal''' (ten′di-na̤l), ''a.'' Same as ''tendinous.'' [Rare.]\n\n{{smaller block|A ''tendinal'' slip is shown cut short, of which he says nothing, but which evidently belongs to this muscle.\n{{right|''Science'', IX. 624.}}}}\n\n'''tendineal''' (ten-din′ē̤-a̤l), ''a.'' [< NL. ''tendo'' (''tendin-''), a tendon, + ''-e-al.''] Same as ''tendinous.'' [Rare.]\n\n{{smaller block|Special development of its ''tendineal'' portion aids in strengthening the tensor propatagii.\n{{right|''Science'', X. 71.}}}}\n\n'''tendines,''' ''n.'' Plural of ''tendo.''\n\n'''tendinosus''' (ten-di-nō′sus), ''n.''; pl. ''tendinosi'' (-sī). [NL. (sc. ''musculus''): see ''tendinous.''] A muscle of the back of the thigh whose tendon forms one of the inner hamstrings: usually called ''semitendinosus.'' ''Coues'', 1887.",
+   "c3s3": "¶\n'''tendinous''' (ten′di-nus), ''a.'' [< F. ''tendineux'' = Sp. Pg. It. ''tendinoso'', < ML. ''tendinosus'', < ''tendo'' (''tendin-''), a tendon: see ''tendon.''] 1. Having a tendon; full of tendons; sinewy.—2. Of or pertaining to tendons; forming or formed by a tendon; fascial; aponeurotic: as, ''tendinous'' tissue; a ''tendinous'' structure; the ''tendinous'' origin or insertion of a muscle.\n\n'''tendment†''' (tend′mẹnt), ''n.'' [< ''tend''<sup>2</sup> + ''-ment.''] Attendance; care. ''Bp. Hall'', Satires, II. iv.\n\n'''tendo''' (ten′dō), ''n.''; pl. ''tendines'' (-di-nēz). [NL.: see ''tendon.''] 1. In ''anat.'', a tendon.—2. In ''entom.'', a bristle on the base of the lower wing, found in many ''Lepidoptera.'' {{smaller|In the males of some species it passes through a loop, the hamus or frenulum, on the upper wing. See also ''hamus.''—'''Tendo Achillis''' (improp. ''tendo Achilles''). See ''tendon of Achilles'', under ''tendon.''—'''Tendo oculi''', a small white ligament, about one sixth of an inch in length, attached to the nasal process of the superior maxilla, and inserted by two slips into the inner extremities of the tarsal cartilages of the eyelids. Also called ''tendo palpebrarum'', ''internal tarsal ligament.''}}\n\n'''tendon''' (ten′dọn), ''n.'' [= F. ''tendon'' = Sp. ''tendon'' = Pg. ''tendão'' = It. ''tendine'', < ML. ''tendo'' (''tendin-''), a tendon, < L. ''tendere'', stretch, extend; cf. Gr. τένων, a sinew, tendon, < τείνειν, stretch: see ''tend''<sup>1</sup>.] A band or layer of dense fibrous tissue at the end of a muscle for attachment to a hard part, or interposed between two muscular bellies, usually where the direction of the muscle is changed; a sinew: said especially of such structures when rounded or cord-like,",
+   "c3s4": "very broad flat tendons being commonly called ''fasciæ'' and ''aponeuroses.'' {{smaller|Tendons are directly continuous, at one end, with the periosteum, or fibrous investment of bones, and at the other with the fascial tissue which invests and interpenetrates the bundles of muscu-}}"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 2781,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 12,
+    "input_tokens": 10357,
+    "output_tokens": 10669,
+    "cache_creation_input_tokens": 5428,
+    "cache_read_input_tokens": 27140
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|tender|6230|tendon}}</noinclude>{{smaller block|Oaths of allegiance were ''tendered'' too lightly by the Neapolitans to carry the same weight as in other nations.\n{{right|''Prescott'', Ferd. and Isa., ii. 10.}}}}\n\n2. To offer in payment or satisfaction of some demand or obligation: as, to ''tender'' the (exact) amount of rent due.\n\n{{smaller block|Shall any other pay my debt, while I\nWrite myself bankrupt? or Calista owe\nThe least beholdingness for that which she,\nOn all the bonds of gratitude I have seal'd to,\nMay challenge from me to be freely ''tender'd?''\n{{right|''Fletcher'' (''and Massinger''?), Lovers' Progress, v. 1.}}}}\n\n{{smaller block|It shall be the duty of the seller, on maturity of the contract (i. e., the last day specified therein), to ''tender'' the goods between the hours of 10 o'clock {{sc|a. m.}} and 3 o'clock {{sc|p. m.}}, whereupon he shall be entitled to payment in full therefor before the last named hour.\n{{right|''New York Produce Exchange Report'', 1888–9, p. 264.}}}}\n\n3†. To show; present to view.\n\n{{smaller block|Tender [see ''tender''<sup>1</sup>] yourself more dearly;\nOr . . . you'll ''tender'' me a fool.\n{{right|''Shak.'', Hamlet, i. 3. 109.}}}}\n\n'''II.''' ''intrans.'' To make a tender or offer; especially, to offer to supply certain commodities for a certain period at rates and under conditions specified, or to execute certain work: as, to ''tender'' for the dredging of a harbor.\n\n'''tender<sup>2</sup>''' (ten′dėr), ''n.'' [< ''tender''<sup>2</sup>, ''v.''] 1. An offer for acceptance.\n\n{{smaller block|I send you a Coppy of the Draught to shew to Mr. Vicechanceler, with ''tender'' of my service.\n{{right|''H. Spelman'', in Ellis's Lit. Letters, p. 161.}}}}\n\n{{smaller block|With a ''Tender'' of my most humble Service to my noble good Lady.\n{{right|''Howell'', Letters, I. v. 17.}}}} Specifically—2. In ''law'', an offer of money or any other thing in satisfaction of a debt or liability; especially, the production and offer to pay or deliver the very thing requirable by a contract.\n\n{{smaller block|When Lard or Provisions are rejected under final appeal, if tendered on a seller's option, all expenses shall be paid by the seller, and it shall be held that no ''tender'' has been made.\n{{right|''New York Produce Exchange Report'', 1888-9, p. 181.}}}}\n\n3. An offer in writing made by one party to another to execute some specified work or to supply certain specified articles at a certain sum or rate, or to purchase something at a specified price.\n\n{{smaller block|The privilege of selling to railway-passengers within the precincts of the terminus is disposed of by ''tender''.\n{{right|''Mayhew'', London Labour and London Poor, I. 291.}}}}\n\n{{smaller block|Of the three larger vessels, ''tenders'' were received for the Proteus and Neptune, and, the bid for the latter being the lower, it was accepted.\n{{right|''Schley and Soley'', Rescue of Greely, p. 38.}}}}\n\n4. Something tendered or offered.\n\n{{smaller block|That you have ta'en these ''tenders'' for true pay,\nWhich are not sterling. ''Shak.'', Hamlet, i. 3. 106.}}\n\n{{smaller|'''Legal-tender currency''', currency which can lawfully be used in paying a debt. All the gold coins of the United States are a legal tender in all payments at their nominal value, when not below the standard weight and limit of tolerance provided by law for the single piece; and when reduced in weight below such standard tolerance, they are a legal tender at a valuation in proportion to their actual weight. The silver dollar of 412½ grains is a legal tender for all debts and dues, public and private, except when otherwise expressly mentioned in the contract. The silver coins of the United States of smaller}} denomination than one dollar are a legal tender, in sums not exceeding ten dollars, in payment of all dues, public and private. The so-called trade-dollar of 420 grains is not a legal tender. The five-cent, three-cent, and one-cent pieces are a legal tender to the amount of twenty-five cents in one payment. No foreign coins are now (1891) a legal tender. The United States notes (see ''greenback'') are a legal tender for all debts, public and private, except duties on imports and interest on the public debt. Loans and debts contracted before the enactment of the legal-tender law of 1862 authorizing the issue of greenbacks, can be satisfied by payments made in them, unless an express agreement has been made for the payment of gold and silver. Gold certificates, under act of Congress of 1882, are receivable for customs, taxes, and all public dues, and when so received may be reissued; and silver certificates, under act of 1878, are receivable for customs, taxes, and all public dues, and when so received may be reissued. Treasury notes, under the act of March 3d, 1863, and of June 30th, 1864, were a legal tender (for their face-value, excluding interest) for all debts, public and private, within the United States, except for duties on imports and interest on the public debt, and except that those issued under the latter act are not legal tender in redemption of bank-notes, or bankers' notes, for circulation as money; those issued under the act of July 14th, 1890, are a legal tender in payment of all debts, public and private, except where otherwise expressly stipulated in the contract, and are receivable for customs, taxes, and all public dues, and when so received may be reissued. The term \"debts public and private\" has been held to intend contract obligations, whether contracted before or after the statute, but not such dues as State taxes. National bank-notes are legal tender in all parts of the United States in payment of taxes, excises, public lands, and all other dues to the United States, except duties on imports, also for all salaries and other debts and demands owing by the United States to individuals, corporations, and associations within the United States, except interest on the public debt and in redemption of the national currency, and also for any debt or liability to any national banking association, {{smaller block|except gold-note banks.—'''Plea of tender''', a plea by a defendant that he has made due tender, and has remained always ready to satisfy the plaintiff's claim, and now brings the sum demanded into court.—'''Tender of amends''', an offer by a person who is charged with a wrong or breach of contract to pay a sum of money by way of amends.—'''Tender of issue''', a pleading which in effect invites the adverse party to join issue upon it.}}\n\n'''tender'''<sup>3</sup> (ten′dėr), ''n.'' [< ''tend''<sup>2</sup> + ''-er''<sup>1</sup>; partly by apheresis from ''attender''.] 1. One who tends; one who attends to, supervises, or takes care of something; a nurse: as, a machine-''tender''; a bar''tender''.—2. ''Naut.'', a vessel employed to attend a larger one for supplying her with provisions and other stores, or to convey intelligence, orders, etc.\n\n{{smaller block|Here she comes i' faith full Sail, with her Fan spread and Streamers out, and a Shoal of Fools for ''Tenders''.\n{{right|''Congreve'', Way of the World, ii. 4.}}}}\n\n3. A boat or ship accompanying fishing- or whaling-vessels; a lighter. {{smaller|Specifically—(''a'') In the menhaden-fishery, a vessel or boat employed to carry the fish to the factories. These tenders have an average capacity of 250 barrels, though they are now often built of a larger size, some carrying 600 barrels. (''b'') A vessel sailing from San Francisco to the Arctic regions, to carry supplies to the whale-ships, and bring back oil and bone, to be sent east by rail.}}\n\n4. In ''rail.'', a carriage attached to the locomotive, for carrying the fuel, water, etc. See cuts under ''passenger-engine'' and ''snow-plow''.\n\n{{smaller block|We supplied the ''tender'' and fire with wood, and, in short, pretty much ran the train as we pleased.\n{{right|''The Century'', XL. 622.}}}}\n\n5. A small reservoir attached to a mop or scrubber, to hold a supply of water. The flow is controlled by a valve operated by a spring.\n\n'''tender-dying''' (ten′dėr-dī″ing), ''a.'' Dying in early youth. ''Shak.'', 1 Hen. VI., iii. 3. 48. [Rare.]\n\n'''tenderee''' (ten-dėr-ē′), ''n.'' [< ''tender''<sup>2</sup> + ''-ee''<sup>1</sup>.] The person to whom a tender is made.\n\n{{smaller block|Where a tender is made, for the purpose of obtaining property of the owner, sold and in the hands of the ''tenderee'' claiming to own the same, and accepted, the money paid may be recovered back. ''T. Miller, J.'', in 91 N. Y. 536.}}\n\n'''tenderer<sup>1</sup>''' (ten′dėr-ėr), ''n.'' [< ''tender''<sup>1</sup> + ''-er''<sup>1</sup>.] One who or that which makes tender: as, a meat-''tenderer''. ''Sci. Amer.'', N. S., LXII. 158. [Recent.]\n\n'''tenderer<sup>2</sup>''' (ten′dėr-ėr), ''n.'' [< ''tender''<sup>2</sup> + ''-er''<sup>1</sup>.] One who makes a tender or offer.\n\n{{smaller block|The Minister for Works had met on the previous day a deputation of the \"''tenderers'' for the manufacture within the Colony of fifty locomotives required for use on the railways.\"\n{{right|''The Engineer'', LXV. 528.}}}}\n\n'''tender-eyed''' (ten′dėr-īd), ''a.'' 1. Having gentle or affectionate eyes.—2. Weak-eyed; bleareyed; dim-sighted.\n\n{{smaller block|{{c|You must not think your sister<br>So ''tender-ey'd'' as not to see your follies.}}\n{{right|''Fletcher'', Wit without Money, iii. 1.}}}}\n\n'''tenderfoot''' (ten′dėr-fu̇t), ''n.''; pl. ''tenderfoots'' (-fu̇ts). A new-comer on the plains or in the bush, or one who has not become hardened to the life there; a greenhorn; a novice. [Slang, western U. S. and Australia.]\n\n{{smaller block|Hunters . . . who bedizen themselves in all the traditional finery of the craft, in the hope of getting a job at guiding some ''tenderfoot.''\n{{right|''T. Roosevelt'', Hunting Trips, p. 32.}}}}\n\n¶\n'''tender-footed''' (ten′dėr-fu̇t″ed), ''a.'' 1. Having tender or sensitive feet.—2. Cautious; timid; “green.” Compare ''tenderfoot.'' [Slang.]\n\n'''tender-footedness''' (ten′dėr-fu̇t″ed-nes), ''n.'' The state of being a tenderfoot. [Slang.]\n\n'''tender-hearted''' (ten′dėr-här″ted), ''a.'' 1. Having great sensibility; susceptible.\n\n{{smaller block|When Rehoboam was young and ''tenderhearted,'' and could not withstand them.\n{{right|2 Chron. xiii. 7.}}}}\n\n2. Very susceptible of the softer passions of love, pity, or kindness.\n\n{{smaller block|Aumerle, thou weep'st, my ''tender-hearted'' cousin!\n{{right|''Shak.'', Rich. II., iii. 3. 160.}}}}\n\n'''tender-heartedly''' (ten′dėr-här″ted-li), ''adv.'' In a tender-hearted manner; with tender affection.\n\n'''tender-heartedness''' (ten′dėr-här″ted-nes), ''n.'' The state of being tender-hearted; a tender or compassionate disposition; susceptibility of the softer passions.\n\n'''tender-hefted†''' (ten′dėr-hef″ted), ''a.'' Apparently an error for ''tender-hearted.''\n\n{{smaller block|No, Regan, thou shalt never have my curse;\nThy ''tender-hefted'' nature shall not give\nThee o'er to harshness.\n{{right|''Shak.'', Lear, ii. 4. 174.}}}}\n\n'''tenderling''' (ten′dėr-ling), ''n.'' [< ''tender''<sup>1</sup> + ''-ling''<sup>1</sup>.] 1. A fondling; one made tender by too much coddling; an effeminate person.\n\n{{smaller block|Now haue we manie chimnies, and yet our ''tenderlings'' complaine of rheumes, catarhs, and poses.\n{{right|''Harrison'', Descrip. of Eng., ii. 22.}}}}\n\n2. One of the first horns of a deer.\n\n'''tenderloin''' (ten′dėr-loin), ''n.'' That part of the loin of beef which is tenderer than the rest, in consequence of the softness or fineness of the muscular fiber; the psoas muscle of the ox and some other animals used as meat; the fillet; the undercut. {{smaller|In the tenderloin steak, as usually cut, the bone left in is one lateral half of a lumbar vertebra, of which the long slender bone which separates the tenderloin from the rest of the meat is the transverse process. The tenderloin lies close to the backbone, on the ventral side.}}\n\n'''tenderly''' (ten′dėr-li), ''adv.'' [< ME. ''tenderly, tendirly, tendreliche''; < ''tender''<sup>1</sup> + ''-ly''<sup>2</sup>.] In a tender manner. {{smaller|(''a'') With tenderness; mildly; gently; softly; in a manner not to injure or give pain.}}\n\n{{smaller block|The Moor . . .\n. . . will as ''tenderly'' be led by the nose\nAs asses are.\n{{right|''Shak.'', Othello, i. 3. 407.}}}}\n\n{{smaller|(''b'') Kindly; with pity or affection; fondly.}}\n\n{{smaller block|So eche of theym comaunded other to god full ''tendirly.''\n{{right|''Merlin'' (E. E. T. S.), iii. 634.}}}}\n\n{{smaller block|He cannot be such a monster . . . to his father, that so ''tenderly'' and entirely loves him.\n{{right|''Shak.'', Lear, i. 2. 104.}}}}\n\n{{smaller|(''c'') With a keen sense of pain; keenly; bitterly.}}\n\n{{smaller block|There is the Place where Seynt Petir wepte fulle ''tenderly'', aftre that he hadde forsaken oure Lord.\n{{right|''Mandeville'', Travels, p. 92.}}}}\n\n{{smaller block|Pandare that ful ''tendreliche'' wepte.\n{{right|''Chaucer'', Troilus, iv. 353.}}}}\n\n{{smaller|(''d'') Delicately; effeminately: as, a child ''tenderly'' reared.}}\n\n'''tender-minded''' (ten′dėr-mīn″ded), ''a.'' Compassionate; tender-hearted.\n\n{{smaller block|To be ''tender-minded''\nDoes not become a sword.\n{{right|''Shak.'', Lear, v. 3. 31.}}}}\n\n'''tenderness''' (ten′dėr-nes), ''n.'' The state or character of being tender, in any sense.\n\n{{smaller block|Well we know your ''tenderness'' of heart.\n{{right|''Shak.'', Rich. III., iii. 7. 210.}}}}\n\n{{smaller block|We went to see the stables and fine horses of w<sup>ch</sup> many were here kept at a vast expense, with all the art and ''tendernesse'' imaginable.\n{{right|''Evelyn'', Diary, July 22, 1670.}}}}\n\n{{smaller block|Eleven half sheets marbled (like smoke) after a different manner, bit with great curiosity and ''tenderness.''\n{{right|''H. Wanley'', in Ellis's Lit. Letters, p. 276.}}}}\n\n{{smaller block|There was great ''tenderness'' over the bowels, especially in the right iliac region.\n{{right|''J. M. Carnochan'', Operative Surgery, p. 156.}}}}\n\n'''tender-sided''' (ten′dėr-sī″ded), ''a.'' ''Naut.'', crank, as a vessel; careening too easily under press of sail.\n\n'''tendinal''' (ten′di-na̤l), ''a.'' Same as ''tendinous.'' [Rare.]\n\n{{smaller block|A ''tendinal'' slip is shown cut short, of which he says nothing, but which evidently belongs to this muscle.\n{{right|''Science'', IX. 624.}}}}\n\n'''tendineal''' (ten-din′ē̤-a̤l), ''a.'' [< NL. ''tendo'' (''tendin-''), a tendon, + ''-e-al.''] Same as ''tendinous.'' [Rare.]\n\n{{smaller block|Special development of its ''tendineal'' portion aids in strengthening the tensor propatagii.\n{{right|''Science'', X. 71.}}}}\n\n'''tendines,''' ''n.'' Plural of ''tendo.''\n\n'''tendinosus''' (ten-di-nō′sus), ''n.''; pl. ''tendinosi'' (-sī). [NL. (sc. ''musculus''): see ''tendinous.''] A muscle of the back of the thigh whose tendon forms one of the inner hamstrings: usually called ''semitendinosus.'' ''Coues'', 1887.\n\n'''tendinous''' (ten′di-nus), ''a.'' [< F. ''tendineux'' = Sp. Pg. It. ''tendinoso'', < ML. ''tendinosus'', < ''tendo'' (''tendin-''), a tendon: see ''tendon.''] 1. Having a tendon; full of tendons; sinewy.—2. Of or pertaining to tendons; forming or formed by a tendon; fascial; aponeurotic: as, ''tendinous'' tissue; a ''tendinous'' structure; the ''tendinous'' origin or insertion of a muscle.\n\n'''tendment†''' (tend′mẹnt), ''n.'' [< ''tend''<sup>2</sup> + ''-ment.''] Attendance; care. ''Bp. Hall'', Satires, II. iv.\n\n'''tendo''' (ten′dō), ''n.''; pl. ''tendines'' (-di-nēz). [NL.: see ''tendon.''] 1. In ''anat.'', a tendon.—2. In ''entom.'', a bristle on the base of the lower wing, found in many ''Lepidoptera.'' {{smaller|In the males of some species it passes through a loop, the hamus or frenulum, on the upper wing. See also ''hamus.''—'''Tendo Achillis''' (improp. ''tendo Achilles''). See ''tendon of Achilles'', under ''tendon.''—'''Tendo oculi''', a small white ligament, about one sixth of an inch in length, attached to the nasal process of the superior maxilla, and inserted by two slips into the inner extremities of the tarsal cartilages of the eyelids. Also called ''tendo palpebrarum'', ''internal tarsal ligament.''}}\n\n'''tendon''' (ten′dọn), ''n.'' [= F. ''tendon'' = Sp. ''tendon'' = Pg. ''tendão'' = It. ''tendine'', < ML. ''tendo'' (''tendin-''), a tendon, < L. ''tendere'', stretch, extend; cf. Gr. τένων, a sinew, tendon, < τείνειν, stretch: see ''tend''<sup>1</sup>.] A band or layer of dense fibrous tissue at the end of a muscle for attachment to a hard part, or interposed between two muscular bellies, usually where the direction of the muscle is changed; a sinew: said especially of such structures when rounded or cord-like, very broad flat tendons being commonly called ''fasciæ'' and ''aponeuroses.'' {{smaller|Tendons are directly continuous, at one end, with the periosteum, or fibrous investment of bones, and at the other with the fascial tissue which invests and interpenetrates the bundles of muscu-}}<noinclude><references/></noinclude>"
+}

@@ -1,0 +1,277 @@
+{
+ "volume": 8,
+ "page_number": 48,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n47.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n47.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": 0.0,
+  "column_width": 846,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     111,
+     69,
+     2442,
+     110
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     111,
+     110,
+     852,
+     1200
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     111,
+     1200,
+     852,
+     2295
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     111,
+     2295,
+     852,
+     3241
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     852,
+     110,
+     1596,
+     1031
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     852,
+     1031,
+     1596,
+     1791
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     852,
+     1791,
+     1596,
+     2247
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     852,
+     2247,
+     1596,
+     2270
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     852,
+     2270,
+     1596,
+     3241
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1596,
+     110,
+     2442,
+     1193
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     2111,
+     1249,
+     2442,
+     1458
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     2111,
+     1463,
+     2442,
+     1555
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1596,
+     1193,
+     2111,
+     1578
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1596,
+     1578,
+     2442,
+     2656
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1596,
+     2656,
+     2442,
+     3241
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|termitine|6244|Ternstrœmiaceæ}}",
+   "c1s1": "¶\n'''termitine''' (tėr′mi-tin), ''a.'' and ''n.'' [< ''termite'' + ''-ine''<sup>1</sup>.] I. ''a.'' Resembling or related to white ants; belonging to the ''Termitidæ''.\n\nII. ''n.'' A white ant; a termite.\n\n'''termitophile''' (tėr′mi-tō-fīl), ''n.'' [< NL. *''termitophilus'': see ''termitophilous''.] An insect which lives in the nests of white ants. Insects of several orders are found in those nests, notably members of the rove-beetle genus ''Philotermes''.\n\n'''termitophilous''' (tėr-mi-tof′i-lus), ''a.'' [< NL. *''termitophilus'', < ''termes'' (''termit-''), termite, + Gr. φιλεῖν, love.] Fond of termites: noting insects which live in the nests of white ants. ''E. A. Schwarz'', Proc. Entom. Soc., Washington, I. 160.\n\n'''termless''' (tėrm′les), ''a.'' [< ''term'' + ''-less''.] 1. Having no term or end; unlimited; boundless; endless; limitless.\n{{smaller block|Ne hath their day, ne hath their blisse, an end,<br>But there their ''termelesse'' time in pleasure spend.\n{{right|''Spenser'', Hymn of Heavenly Love, l. 75.}}}}\n2. Nameless; inexpressible; indescribable. [Rare.]\n{{smaller block|His phœnix down began but to appear<br>Like unshorn velvet on that ''termless'' skin.\n{{right|''Shak.'', Lover's Complaint, l. 94.}}}}\n\n'''termly''' (tėrm′li), ''a.'' [< ''term'' + ''-ly''<sup>1</sup>.] Occurring, paid, etc., every term.\n{{smaller block|The clerks are partly rewarded by that mean also [petty fees], . . . besides that ''termly'' fee which they are allowed.\n{{right|''Bacon'', Office of Alienations.}}}}\n\n'''termly''' (tėrm′li), ''adv.'' [< ''term'' + ''-ly''<sup>2</sup>.] Term by term; every term.\n{{smaller block|The fees, or allowances, that are ''termly'' given to these deputies, receiver, and clerks, for recompence of these their pains, I do purposely pretermit.}}",
+   "c1s2": "{{smaller block|{{right|''Bacon'', Office of Alienations.}}}}\n\n{{smaller block|If there was any particular thing in the business of the house which you disliked, . . . I would . . . put it in order for you ''termly'', or weekly, or daily. {{right|''Scott'', Rob Roy, ii.}}}}\n\n'''termor''' (tėr′mor), ''n.'' [< ''term'' + ''-or''<sup>1</sup>.] In ''law'', one who has an estate for a term of years or for life. Also ''termer''.\n\n'''term-piece''' (tėrm′pēs), ''n.'' Same as ''term'', 5.\n\n'''termyson†''', ''n.'' Termination. ''Piers Plowman'' (C), iv. 409.\n\n'''tern<sup>1</sup>''' (tėrn), ''n.'' [Also ''tarn''; < Dan. ''terne'' = Sw. ''tärna'' = Icel. ''therna'', a tern. Some connect ''tern''<sup>1</sup> with ME. ''tarne'', ''therne'', girl, maid-servant, G. ''dirne'', etc. (see ''therne''); but the connection is not obvious.] A bird of the family ''Laridæ'' and subfamily ''Sterninæ''; a stern or sea-swallow. {{smaller|Terns differ from gulls in their smaller average size (though a few of them are much larger than some gulls), slenderer body, usually long and deeply forked tail, very small feet, and especially in the relatively longer and slenderer bill, which is paragnathous instead of hypognathous (but some of the stouter terns, as the gull-billed, are little different in this respect from some of the smaller gulls, as of the genus ''Chroïcocephalus''). To the slender form of the body, with sharp-pointed wings and forficate tail, conferring a buoyant and dashing flight, the terns owe their name ''sea-swallow''. The characteristic coloration is snow-white, sometimes rose-tinted, with pearly-blue mantle, silver-black primaries, jet-black cap, and coral-red, yellow, or black bill and feet; some terns (the noddies) are sooty-brown. A few are chiefly black (genus ''Hydrochelidon''); some have a black mantle (''Sterna fuliginosa'', the sooty tern, type of the subgenus ''Haliplana''); the genus ''Gygis'' is pure-white; and ''Inca'' is slaty-black, with curly white plumes on the head. Several species abound in most countries, both inland over large bodies of water and coastwise, and some of them are almost cosmopolitan in their range. The sexes are alike in color, but the changes of plumage with age and season are considerable. The}}",
+   "c1s3": "eggs, two or three in number, and heavily spotted, are laid on the ground (rarely in a frail nest on bushes), generally on the shingle of the sea-shore, sometimes in a tussock of grass in marshes. Most terns congregate in large numbers during the breeding-season. (See ''egg-bird''.) The voice is peculiarly shrill and querulous; the food is small fishes and other aquatic animals, procured by dashing down into the water on the wing. From 50 to 75 species are recognized by different ornithologists, mostly belonging to the genus ''Sterna'' or its subdivisions. See phrases below.—'''Aleutian tern''', ''Sterna aleutica'', a tern white with very dark pearl-gray upper parts, a white crescent in the black cap, and black bill. It resembles the sooty terns.—'''Arctic tern''', ''Sterna paradisea'', or ''S. arctica'', or ''S. macrura'', a tern with extremely long and deeply forked tail, very small coral- or lake-red feet, lake- or carmine-red bill, rather dark pearl-blue plumage, little paler below than above, and black cap. It is from 14 to 17 inches long according to the varying development of the filamentous lateral tail-feathers, and about 30 in extent of wings. This tern chiefly inhabits arctic and cold temperate parts of both hemispheres. Its synonymy is intricate, owing to confusion of names with the common and roseate terns, and the description of its varying plumages under specific designations.—'''Black tern''', any tern of the genus ''Hydrochelidon''; specifically, ''H. fissipes'' or ''lariformis''. The white-winged black tern is ''H. leucoptera''. The whiskered black tern is ''H. leucoparia''. There are others. These are marsh-terns of most parts of the world, with semipalmate feet, comparatively short and little-forked tail, extremely ample as well as long wings, black bill, dark feet, and most of the plumage of the adults black or of some dark ashy shade.—'''Boys's tern''', the Sandwich tern, one of whose former names was ''Sterna boysi'', after Dr. Boys of Kent, England.—'''Bridled tern''', ''Sterna'' (''Haliplana'') ''anæsthetica'', a member of the sooty tern group, found in some of the warmer parts of the world. The",
+   "c2s1": "{{smaller|frontal lunule is very long, the feet are scarcely more than semipalmate, and the length is 14 or 15 inches.—'''Cabot's tern,''' the American Sandwich tern, which Dr. Cabot once named ''Sterna acuflavida.''—'''Caspian tern,''' ''Sterna'' (''Thalasseus'') ''caspia''; the imperial tern. It is the largest tern known, being from 20 to 23 inches long, and 4 to 4½ feet in spread of wings; it is white, with pearl mantle, black cap and feet, and red bill. It is widely distributed in Asia, America, and elsewhere. The name ''S. tschegrava'' was given to it by Lepechin, before Pallas named it ''caspia.''—'''Cayenne tern,''' ''Sterna'' (''Thalasseus'') ''maxima'', formerly ''S. cayennensis'' or ''cayana'', the largest tern of America except the imperial, 18 or 20 inches long, and from 42 to 44 in extent. It is white, with pearl mantle, black cap and feet, and coral or yellow bill. It inhabits much of both Americas, and is common along the Atlantic coast of the United States. See cut under ''Thalasseus.''—'''Common tern,''' ''Sterna hirundo'', a bird of most parts of the world, about 14½ inches long, 31 in extent, and with pearly-white under parts, pearl mantle, black cap, coral feet, and vermilion black-tipped bill. It is needlessly named ''Wilson's tern.'' Also called ''gull-teaser, kirr-mew, picket, picktarny, pirr, rippock, rittock, scray, spurre, tarny, tarret, tarrock.'' See cut under ''Sterna.''—'''Ducal tern,''' the Sandwich tern. ''Coues'', 1884.—'''Elegant tern,''' ''Sterna'' (''Thalasseus'') ''elegans'', a bird of South and Central America and the Pacific coast of the United States, resembling the Cayenne tern. ''W. Gambel.''—'''Emperor tern.''' See ''emperor.''—'''Fairy tern,''' a fairy-bird; one of the least terns.—'''Forster's tern,''' ''Sterna forsteri'', an American tern abounding in the United States and British America. It closely resembles but is distinct from the common tern, as was first noted in 1834 by Thomas Nuttall, who dedicated it to John Reinhold Forster.—'''Greater tern,''' the common tern.—'''Gull-billed tern,''' a marsh-tern, ''Sterna'' (''Gelochelidon'') ''anglica'': so called from its thick bill. See cut}}",
+   "c2s2": "under ''Gelochelidon.''—'''Havell's tern''', Forster's tern in immature plumage. ''Audubon'', 1839.—'''Hooded tern''', a rare name of the least tern.—'''Imperial tern''', the American Caspian tern, ''Sterna'' (''Thalasseus'') ''imperator. Coues'', 1862.—'''Kentish tern''', the Sandwich tern.—'''Least terns''', the small terns which constitute the subgenus ''Sternula'', of several species. That of Europe is ''S. minuta''; of America, ''S. antillarum''; of South Africa, ''S. balænarum'', etc. They are the smallest of the family, of the usual coloration, but with a white crescent in the black cap, yellow bill tipped with black, and yellow or orange feet; the tail is not deeply forked; the length is 9 inches or less. See cut under ''Sternula.''—'''Marsh-tern.''' (''a'') The gull-billed tern. (''b'') A black tern; any member of the genus ''Hydrochelidon.'' See cut under ''Hydrochelidon.''—'''Noddy tern.''' See ''noddy''<sup>1</sup>, 2, and ''Anoüs.''—'''Panay tern†''', an old name of the bridled tern, considered a distinct species under the name ''Sterna panayensis. Latham'', 1785.—'''Paradise tern''', the roseate tern: a name derived from ''Sterna paradisea'' of Brünnich, 1764, which is of doubtful identification, and probably means the arctic tern.—'''Portland tern''', a young arctic tern: named from the city of Portland in Maine. ''R. Ridgway'', 1874.—'''Princely tern''', the elegant tern. ''Coues'', 1884.—'''Roseate tern.''' See ''roseate.''—'''Royal tern''', the Cayenne tern. ''W. Gambel.''—'''Sandwich tern''' ''Sterna'' (''Thalasseus'') ''cantiaca'', a tern originally described from Kent, England, and in some of its forms found in most parts of the world. It has many technical names. The American",
+   "c2c1": "{{c|Sandwich Tern (''Sterna cantiaca'').}}",
+   "c2s3": "{{smaller|form has been distinguished as ''S. acuflavida.'' This is one of the smallest of the large terns (section ''Thalasseus''), and has a long and slender black bill tipped with yellow, black feet and cap, pearl mantle, and the general plumage white, as usual. It is 15 or 16 inches long.—'''Sea-tern''', a name of several terns, especially of the large species of the section ''Thalasseus,'' which are mainly maritime.—'''Short-tailed tern.''' See ''short-tailed.''—'''Sooty tern.''' See ''sooty.''—'''Surinam tern''', an old name of the common black short-tailed tern of North America, ''Hydrochelidon fissipes'', called ''H. fissipes surinamensis'' when it is subspecifically distinguished from its European conspecies ''H. fissipes.''—'''Trudeau's tern''', ''S. trudeaui'', a South American tern supposed by Audubon (1839) to occur also in the United States. It is of about the size of the common tern, of a pearly-bluish color all over, whitening on the head, and with a yellow or orange bill.—'''Whiskered tern''', ''Hydrochelidon leucoparia'' (after Natterer in Temminck's \"Manual,\" 1820), one of the black terns, with a large white stripe on each side of the head.—'''Wilson's tern.''' See ''common tern.''}}\n\n'''tern<sup>2</sup>''' (tėrn), ''a.'' and ''n.'' [= F. ''terne'', a three (in dice), three numbers (in a lottery), = Pr. ''terna'' = Sp. ''terna'', ''terno'' = Pg. It. ''terno'', n., a set of three, < L. ''ternus'', pl. ''terni'', three each, < ''tres'', three (''ter'', thrice): see ''three.''] '''I.''' ''a.'' Same as ''ternate.''\n\n'''II.''' ''n.'' '''1.''' That which consists of three things or numbers together; specifically, a prize in a lottery gained by drawing three favorable numbers, or the three numbers so drawn.\n\n{{smaller block|She'd win a ''tern'' in Thursday's lottery.\n{{right|''Mrs. Browning'', Aurora Leigh, vii.}}}}\n\n'''2.''' In ''math.'', a system of three pairs of conjugate trihedra which together contain the",
+   "c3s1": "twenty-seven straight lines lying in a cubic surface.\n\n'''tern<sup>3</sup>''' (tėrn), ''n.'' [Origin uncertain.] A three-masted schooner; a three-master. [Local, New Eng.]\n\n'''ternal''' (tėr′nal), ''a.'' [< ML. ''ternalis'' (used as a noun), < L. ''terni'', by threes: see ''tern''<sup>2</sup>.] Consisting of three each; threefold.—'''Ternal proposition.''' {{smaller|See ''proposition.''}}\n\n'''ternary''' (tėr′na̤-ri), ''a.'' and ''n.'' [= F. ''ternaire'' = Pr. ''ternari'' = Sp. Pg. It. ''ternario'', < LL. ''ternarius'', consisting of threes, < L. ''terni'', by threes: see ''tern''<sup>2</sup>.] '''I.''' ''a.'' Proceeding by threes; consisting of three: as, a ''ternary'' flower (that is, one having three members in each cycle); a ''ternary'' chemical substance (that is, one composed of three elements).—'''Ternary compounds,''' {{smaller|in ''old chem.'', combinations of binary compounds with each other, as of sulphuric acid with soda in Glauber's salt.}}—'''Ternary cubic.''' {{smaller|See ''cubic.''}}—'''Ternary form,''' {{smaller|in ''music.'' Same as ''rondo form'' (which see, under ''rondo'').}}—'''Ternary measure''' {{smaller|or}} '''time,''' {{smaller|in ''music.'' Same as ''triple rhythm'' (which see, under ''rhythm'', 2 (''b'')).}}—'''Ternary quadrics.''' {{smaller|See ''quadric.''}}\n\n'''II.''' ''n.''; pl. ''ternaries'' (-riz). The number three; a group of three.\n\n{{smaller block|Of the second ''ternary'' of stanzas [in \"The Progress of Poetry\"], the first endeavours to tell something.\n{{right|''Johnson'', Gray.}}}}\n\n'''Ternatan''' (tėr-nā′ta̤n), ''a.'' [< ''Ternate'' (see def.) + ''-an''.] Of or pertaining to Ternate, an island, town, and Dutch possession in the East Indies: specifically noting a kingfisher of the genus ''Tanysiptera''.\n\n'''ternate''' (tėr′nāt), ''a.'' [< NL. ''ternatus'', ar-",
+   "c3c1": "{{c|Ternate Leaves.<br>1. Of ''Cytisus Laburnum.'' 2. Of ''Silphium trifoliatum.''}}",
+   "c3s2": "ranged in threes, < L. ''terni'', b ''tern''<sup>2</sup>.] Arranged in threes; characterized by an arrangement of parts by threes; in ''bot.'', used especially of a compound leaf with three leaflets, or of leaves whorled in threes. {{smaller|If the three divisions of a ternate leaf are subdivided into three leaflets each, the leaf is ''biternate'', and a still further subdivision produces a ''triternate'' leaf. See also cut of ''Thalictrum'', under ''leaf''.}}\n\n'''ternately''' (tėr′nāt-li), ''adv.'' In a",
+   "c3s3": "ternate manner; so as to form groups of three.\n\n'''ternatisect''' (tėr-nat′i-sekt), ''a.'' [< NL. ''ternatus'', in threes, + L. ''secare'', pp. ''sectus'', cut.] In ''bot.'', cut into three lobes or partial divisions.\n\n'''ternatopinnate''' (tėr-nā-tō-pin′āt), ''a.'' [< NL. ''ternatus'', in threes, + L. ''pinnatus'', feathered: see ''pinnate''.] In ''bot.'', noting a compound leaf with three pinnate divisions.\n\n'''terne<sup>1</sup>†''', ''n.'' A Middle English form of ''tarn<sup>1</sup>''.\n\n'''terne<sup>2</sup>''' (tėrn), ''n.'' [Short for ''terne-plate''.] Same as ''terne-plate''.\n\n'''terne-plate''' (tėrn′plāt), ''n.'' [< F. ''terne'', dull, + E. ''plate''.] An inferior kind of tin-plate, in making which the tin used is alloyed with a large percentage of lead. {{smaller|It is chiefly used for roofing, and for lining packing-cases to protect valuable goods from damage in transportation by sea.}}\n\n'''ternery''' (tėr′nėr-i), ''n.''; pl. ''terneries'' (-iz). [< ''tern<sup>1</sup>'' + ''-ery''.] A place where terns or sea-swallows breed in large numbers.\n\n'''ternion''' (tėr′ni-o̤n), ''n.'' [< LL. ''ternio(n-)'', the number three, < L. ''terni'', by threes: see ''tern<sup>2</sup>''.] 1†. A group of three.\n\n{{smaller block|So, when Christ's Glory Isay would declare,\nTo expresse Three Persons in on Godhead are,\nHe, Holy, Holy, Holy nam'd, To show\nWe might a ''Ternion'' in an Vnion know.\n{{right|''Heywood'', Hierarchy of Angels, p. 72.}}}}\n\n2. In ''bibliography'', a section of paper for a book containing three double leaves or twelve pages.\n\n{{smaller block|They say that a given manuscript is composed of quaternions and of ''ternions'', but it never occurs to them either to describe the structure of a quaternion, or to say how we can distinguish the leaves one from another.\n{{right|''Amer. Jour. Philol.'', VII. 27.}}}}",
+   "c3s4": "¶\n'''Ternstrœmia''' (tėrn-strē′mi-ä), ''n.'' [NL. (Linnæus filius, 1781), named after the Swedish naturalist ''Ternström.''] A genus of polypetalous plants, type of the order ''Ternstrœmiaceæ'' and tribe ''Ternstrœmieæ.'' {{smaller|It is characterized by bracted flowers with free sepals, imbricated petals united at the base, smooth basifixed anthers, and a superior ovary with an undivided style and two to three cells each usually with two ovules pendulous from the apex. The fruit is indehiscent, its seeds large and hippocrepiform, with fleshy albumen and an inflexed embryo. There are about 40 species, mostly of tropical America, with 5 or 6 in warm parts of Asia and the Indian archipelago. They are evergreen trees and shrubs, with coriaceous leaves and recurved lateral peduncles which are solitary or clustered and bear each a single rather large flower with numerous stamens. ''T. obovalis'' is known in the West Indies as ''scarletseed'', and other species as ''ironwood.'' The genus is sometimes known by the name ''Dupinia.''}}\n\n'''Ternstrœmiaceæ''' (tėrn-strē-mi-ā′sẹ̄-ē), ''n. pl.'' [NL. (De Candolle, 1823), < ''Ternstrœmia'' +"
+  },
+  "figure_files": {
+   "c2f1": "century v08 p0048 c2f1.png",
+   "c3f1": "century v08 p0048 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     880,
+     1790,
+     1574,
+     2240
+    ],
+    "caption": [
+     1031,
+     2246,
+     1401,
+     2270
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     895,
+     1768,
+     1573,
+     2236
+    ]
+   },
+   {
+    "box": [
+     2123,
+     1250,
+     2327,
+     1444
+    ],
+    "caption": [
+     2116,
+     1463,
+     2333,
+     1554
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1996,
+     1204,
+     2276,
+     1459
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 3,
+    "input_tokens": 5606,
+    "output_tokens": 164,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 13,
+    "input_tokens": 9553,
+    "output_tokens": 9996,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 35282
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|termitine|6244|Ternstrœmiaceæ}}</noinclude>'''termitine''' (tėr′mi-tin), ''a.'' and ''n.'' [< ''termite'' + ''-ine''<sup>1</sup>.] I. ''a.'' Resembling or related to white ants; belonging to the ''Termitidæ''.\n\nII. ''n.'' A white ant; a termite.\n\n'''termitophile''' (tėr′mi-tō-fīl), ''n.'' [< NL. *''termitophilus'': see ''termitophilous''.] An insect which lives in the nests of white ants. Insects of several orders are found in those nests, notably members of the rove-beetle genus ''Philotermes''.\n\n'''termitophilous''' (tėr-mi-tof′i-lus), ''a.'' [< NL. *''termitophilus'', < ''termes'' (''termit-''), termite, + Gr. φιλεῖν, love.] Fond of termites: noting insects which live in the nests of white ants. ''E. A. Schwarz'', Proc. Entom. Soc., Washington, I. 160.\n\n'''termless''' (tėrm′les), ''a.'' [< ''term'' + ''-less''.] 1. Having no term or end; unlimited; boundless; endless; limitless.\n{{smaller block|Ne hath their day, ne hath their blisse, an end,<br>But there their ''termelesse'' time in pleasure spend.\n{{right|''Spenser'', Hymn of Heavenly Love, l. 75.}}}}\n2. Nameless; inexpressible; indescribable. [Rare.]\n{{smaller block|His phœnix down began but to appear<br>Like unshorn velvet on that ''termless'' skin.\n{{right|''Shak.'', Lover's Complaint, l. 94.}}}}\n\n'''termly''' (tėrm′li), ''a.'' [< ''term'' + ''-ly''<sup>1</sup>.] Occurring, paid, etc., every term.\n{{smaller block|The clerks are partly rewarded by that mean also [petty fees], . . . besides that ''termly'' fee which they are allowed.\n{{right|''Bacon'', Office of Alienations.}}}}\n\n'''termly''' (tėrm′li), ''adv.'' [< ''term'' + ''-ly''<sup>2</sup>.] Term by term; every term.\n{{smaller block|The fees, or allowances, that are ''termly'' given to these deputies, receiver, and clerks, for recompence of these their pains, I do purposely pretermit. {{right|''Bacon'', Office of Alienations.}}}}\n\n{{smaller block|If there was any particular thing in the business of the house which you disliked, . . . I would . . . put it in order for you ''termly'', or weekly, or daily. {{right|''Scott'', Rob Roy, ii.}}}}\n\n'''termor''' (tėr′mor), ''n.'' [< ''term'' + ''-or''<sup>1</sup>.] In ''law'', one who has an estate for a term of years or for life. Also ''termer''.\n\n'''term-piece''' (tėrm′pēs), ''n.'' Same as ''term'', 5.\n\n'''termyson†''', ''n.'' Termination. ''Piers Plowman'' (C), iv. 409.\n\n'''tern<sup>1</sup>''' (tėrn), ''n.'' [Also ''tarn''; < Dan. ''terne'' = Sw. ''tärna'' = Icel. ''therna'', a tern. Some connect ''tern''<sup>1</sup> with ME. ''tarne'', ''therne'', girl, maid-servant, G. ''dirne'', etc. (see ''therne''); but the connection is not obvious.] A bird of the family ''Laridæ'' and subfamily ''Sterninæ''; a stern or sea-swallow. {{smaller|Terns differ from gulls in their smaller average size (though a few of them are much larger than some gulls), slenderer body, usually long and deeply forked tail, very small feet, and especially in the relatively longer and slenderer bill, which is paragnathous instead of hypognathous (but some of the stouter terns, as the gull-billed, are little different in this respect from some of the smaller gulls, as of the genus ''Chroïcocephalus''). To the slender form of the body, with sharp-pointed wings and forficate tail, conferring a buoyant and dashing flight, the terns owe their name ''sea-swallow''. The characteristic coloration is snow-white, sometimes rose-tinted, with pearly-blue mantle, silver-black primaries, jet-black cap, and coral-red, yellow, or black bill and feet; some terns (the noddies) are sooty-brown. A few are chiefly black (genus ''Hydrochelidon''); some have a black mantle (''Sterna fuliginosa'', the sooty tern, type of the subgenus ''Haliplana''); the genus ''Gygis'' is pure-white; and ''Inca'' is slaty-black, with curly white plumes on the head. Several species abound in most countries, both inland over large bodies of water and coastwise, and some of them are almost cosmopolitan in their range. The sexes are alike in color, but the changes of plumage with age and season are considerable. The}} eggs, two or three in number, and heavily spotted, are laid on the ground (rarely in a frail nest on bushes), generally on the shingle of the sea-shore, sometimes in a tussock of grass in marshes. Most terns congregate in large numbers during the breeding-season. (See ''egg-bird''.) The voice is peculiarly shrill and querulous; the food is small fishes and other aquatic animals, procured by dashing down into the water on the wing. From 50 to 75 species are recognized by different ornithologists, mostly belonging to the genus ''Sterna'' or its subdivisions. See phrases below.—'''Aleutian tern''', ''Sterna aleutica'', a tern white with very dark pearl-gray upper parts, a white crescent in the black cap, and black bill. It resembles the sooty terns.—'''Arctic tern''', ''Sterna paradisea'', or ''S. arctica'', or ''S. macrura'', a tern with extremely long and deeply forked tail, very small coral- or lake-red feet, lake- or carmine-red bill, rather dark pearl-blue plumage, little paler below than above, and black cap. It is from 14 to 17 inches long according to the varying development of the filamentous lateral tail-feathers, and about 30 in extent of wings. This tern chiefly inhabits arctic and cold temperate parts of both hemispheres. Its synonymy is intricate, owing to confusion of names with the common and roseate terns, and the description of its varying plumages under specific designations.—'''Black tern''', any tern of the genus ''Hydrochelidon''; specifically, ''H. fissipes'' or ''lariformis''. The white-winged black tern is ''H. leucoptera''. The whiskered black tern is ''H. leucoparia''. There are others. These are marsh-terns of most parts of the world, with semipalmate feet, comparatively short and little-forked tail, extremely ample as well as long wings, black bill, dark feet, and most of the plumage of the adults black or of some dark ashy shade.—'''Boys's tern''', the Sandwich tern, one of whose former names was ''Sterna boysi'', after Dr. Boys of Kent, England.—'''Bridled tern''', ''Sterna'' (''Haliplana'') ''anæsthetica'', a member of the sooty tern group, found in some of the warmer parts of the world. The {{smaller|frontal lunule is very long, the feet are scarcely more than semipalmate, and the length is 14 or 15 inches.—'''Cabot's tern,''' the American Sandwich tern, which Dr. Cabot once named ''Sterna acuflavida.''—'''Caspian tern,''' ''Sterna'' (''Thalasseus'') ''caspia''; the imperial tern. It is the largest tern known, being from 20 to 23 inches long, and 4 to 4½ feet in spread of wings; it is white, with pearl mantle, black cap and feet, and red bill. It is widely distributed in Asia, America, and elsewhere. The name ''S. tschegrava'' was given to it by Lepechin, before Pallas named it ''caspia.''—'''Cayenne tern,''' ''Sterna'' (''Thalasseus'') ''maxima'', formerly ''S. cayennensis'' or ''cayana'', the largest tern of America except the imperial, 18 or 20 inches long, and from 42 to 44 in extent. It is white, with pearl mantle, black cap and feet, and coral or yellow bill. It inhabits much of both Americas, and is common along the Atlantic coast of the United States. See cut under ''Thalasseus.''—'''Common tern,''' ''Sterna hirundo'', a bird of most parts of the world, about 14½ inches long, 31 in extent, and with pearly-white under parts, pearl mantle, black cap, coral feet, and vermilion black-tipped bill. It is needlessly named ''Wilson's tern.'' Also called ''gull-teaser, kirr-mew, picket, picktarny, pirr, rippock, rittock, scray, spurre, tarny, tarret, tarrock.'' See cut under ''Sterna.''—'''Ducal tern,''' the Sandwich tern. ''Coues'', 1884.—'''Elegant tern,''' ''Sterna'' (''Thalasseus'') ''elegans'', a bird of South and Central America and the Pacific coast of the United States, resembling the Cayenne tern. ''W. Gambel.''—'''Emperor tern.''' See ''emperor.''—'''Fairy tern,''' a fairy-bird; one of the least terns.—'''Forster's tern,''' ''Sterna forsteri'', an American tern abounding in the United States and British America. It closely resembles but is distinct from the common tern, as was first noted in 1834 by Thomas Nuttall, who dedicated it to John Reinhold Forster.—'''Greater tern,''' the common tern.—'''Gull-billed tern,''' a marsh-tern, ''Sterna'' (''Gelochelidon'') ''anglica'': so called from its thick bill. See cut}} under ''Gelochelidon.''—'''Havell's tern''', Forster's tern in immature plumage. ''Audubon'', 1839.—'''Hooded tern''', a rare name of the least tern.—'''Imperial tern''', the American Caspian tern, ''Sterna'' (''Thalasseus'') ''imperator. Coues'', 1862.—'''Kentish tern''', the Sandwich tern.—'''Least terns''', the small terns which constitute the subgenus ''Sternula'', of several species. That of Europe is ''S. minuta''; of America, ''S. antillarum''; of South Africa, ''S. balænarum'', etc. They are the smallest of the family, of the usual coloration, but with a white crescent in the black cap, yellow bill tipped with black, and yellow or orange feet; the tail is not deeply forked; the length is 9 inches or less. See cut under ''Sternula.''—'''Marsh-tern.''' (''a'') The gull-billed tern. (''b'') A black tern; any member of the genus ''Hydrochelidon.'' See cut under ''Hydrochelidon.''—'''Noddy tern.''' See ''noddy''<sup>1</sup>, 2, and ''Anoüs.''—'''Panay tern†''', an old name of the bridled tern, considered a distinct species under the name ''Sterna panayensis. Latham'', 1785.—'''Paradise tern''', the roseate tern: a name derived from ''Sterna paradisea'' of Brünnich, 1764, which is of doubtful identification, and probably means the arctic tern.—'''Portland tern''', a young arctic tern: named from the city of Portland in Maine. ''R. Ridgway'', 1874.—'''Princely tern''', the elegant tern. ''Coues'', 1884.—'''Roseate tern.''' See ''roseate.''—'''Royal tern''', the Cayenne tern. ''W. Gambel.''—'''Sandwich tern''' ''Sterna'' (''Thalasseus'') ''cantiaca'', a tern originally described from Kent, England, and in some of its forms found in most parts of the world. It has many technical names. The American {{smaller|form has been distinguished as ''S. acuflavida.'' This is one of the smallest of the large terns (section ''Thalasseus''), and has a long and slender black bill tipped with yellow, black feet and cap, pearl mantle, and the general plumage white, as usual. It is 15 or 16 inches long.—'''Sea-tern''', a name of several terns, especially of the large species of the section ''Thalasseus,'' which are mainly maritime.—'''Short-tailed tern.''' See ''short-tailed.''—'''Sooty tern.''' See ''sooty.''—'''Surinam tern''', an old name of the common black short-tailed tern of North America, ''Hydrochelidon fissipes'', called ''H. fissipes surinamensis'' when it is subspecifically distinguished from its European conspecies ''H. fissipes.''—'''Trudeau's tern''', ''S. trudeaui'', a South American tern supposed by Audubon (1839) to occur also in the United States. It is of about the size of the common tern, of a pearly-bluish color all over, whitening on the head, and with a yellow or orange bill.—'''Whiskered tern''', ''Hydrochelidon leucoparia'' (after Natterer in Temminck's \"Manual,\" 1820), one of the black terns, with a large white stripe on each side of the head.—'''Wilson's tern.''' See ''common tern.''}}\n\n[[File:century v08 p0048 c2f1.png|center|317px]]\n{{c|Sandwich Tern (''Sterna cantiaca'').}}\n\n'''tern<sup>2</sup>''' (tėrn), ''a.'' and ''n.'' [= F. ''terne'', a three (in dice), three numbers (in a lottery), = Pr. ''terna'' = Sp. ''terna'', ''terno'' = Pg. It. ''terno'', n., a set of three, < L. ''ternus'', pl. ''terni'', three each, < ''tres'', three (''ter'', thrice): see ''three.''] '''I.''' ''a.'' Same as ''ternate.''\n\n'''II.''' ''n.'' '''1.''' That which consists of three things or numbers together; specifically, a prize in a lottery gained by drawing three favorable numbers, or the three numbers so drawn.\n\n{{smaller block|She'd win a ''tern'' in Thursday's lottery.\n{{right|''Mrs. Browning'', Aurora Leigh, vii.}}}}\n\n'''2.''' In ''math.'', a system of three pairs of conjugate trihedra which together contain the twenty-seven straight lines lying in a cubic surface.\n\n'''tern<sup>3</sup>''' (tėrn), ''n.'' [Origin uncertain.] A three-masted schooner; a three-master. [Local, New Eng.]\n\n'''ternal''' (tėr′nal), ''a.'' [< ML. ''ternalis'' (used as a noun), < L. ''terni'', by threes: see ''tern''<sup>2</sup>.] Consisting of three each; threefold.—'''Ternal proposition.''' {{smaller|See ''proposition.''}}\n\n'''ternary''' (tėr′na̤-ri), ''a.'' and ''n.'' [= F. ''ternaire'' = Pr. ''ternari'' = Sp. Pg. It. ''ternario'', < LL. ''ternarius'', consisting of threes, < L. ''terni'', by threes: see ''tern''<sup>2</sup>.] '''I.''' ''a.'' Proceeding by threes; consisting of three: as, a ''ternary'' flower (that is, one having three members in each cycle); a ''ternary'' chemical substance (that is, one composed of three elements).—'''Ternary compounds,''' {{smaller|in ''old chem.'', combinations of binary compounds with each other, as of sulphuric acid with soda in Glauber's salt.}}—'''Ternary cubic.''' {{smaller|See ''cubic.''}}—'''Ternary form,''' {{smaller|in ''music.'' Same as ''rondo form'' (which see, under ''rondo'').}}—'''Ternary measure''' {{smaller|or}} '''time,''' {{smaller|in ''music.'' Same as ''triple rhythm'' (which see, under ''rhythm'', 2 (''b'')).}}—'''Ternary quadrics.''' {{smaller|See ''quadric.''}}\n\n'''II.''' ''n.''; pl. ''ternaries'' (-riz). The number three; a group of three.\n\n{{smaller block|Of the second ''ternary'' of stanzas [in \"The Progress of Poetry\"], the first endeavours to tell something.\n{{right|''Johnson'', Gray.}}}}\n\n'''Ternatan''' (tėr-nā′ta̤n), ''a.'' [< ''Ternate'' (see def.) + ''-an''.] Of or pertaining to Ternate, an island, town, and Dutch possession in the East Indies: specifically noting a kingfisher of the genus ''Tanysiptera''.\n\n'''ternate''' (tėr′nāt), ''a.'' [< NL. ''ternatus'', arranged in threes, < L. ''terni'', b ''tern''<sup>2</sup>.] Arranged in threes; characterized by an arrangement of parts by threes; in ''bot.'', used especially of a compound leaf with three leaflets, or of leaves whorled in threes. {{smaller|If the three divisions of a ternate leaf are subdivided into three leaflets each, the leaf is ''biternate'', and a still further subdivision produces a ''triternate'' leaf. See also cut of ''Thalictrum'', under ''leaf''.}}\n\n[[File:century v08 p0048 c3f1.png|center|141px]]\n{{c|Ternate Leaves.<br>1. Of ''Cytisus Laburnum.'' 2. Of ''Silphium trifoliatum.''}}\n\n'''ternately''' (tėr′nāt-li), ''adv.'' In a ternate manner; so as to form groups of three.\n\n'''ternatisect''' (tėr-nat′i-sekt), ''a.'' [< NL. ''ternatus'', in threes, + L. ''secare'', pp. ''sectus'', cut.] In ''bot.'', cut into three lobes or partial divisions.\n\n'''ternatopinnate''' (tėr-nā-tō-pin′āt), ''a.'' [< NL. ''ternatus'', in threes, + L. ''pinnatus'', feathered: see ''pinnate''.] In ''bot.'', noting a compound leaf with three pinnate divisions.\n\n'''terne<sup>1</sup>†''', ''n.'' A Middle English form of ''tarn<sup>1</sup>''.\n\n'''terne<sup>2</sup>''' (tėrn), ''n.'' [Short for ''terne-plate''.] Same as ''terne-plate''.\n\n'''terne-plate''' (tėrn′plāt), ''n.'' [< F. ''terne'', dull, + E. ''plate''.] An inferior kind of tin-plate, in making which the tin used is alloyed with a large percentage of lead. {{smaller|It is chiefly used for roofing, and for lining packing-cases to protect valuable goods from damage in transportation by sea.}}\n\n'''ternery''' (tėr′nėr-i), ''n.''; pl. ''terneries'' (-iz). [< ''tern<sup>1</sup>'' + ''-ery''.] A place where terns or sea-swallows breed in large numbers.\n\n'''ternion''' (tėr′ni-o̤n), ''n.'' [< LL. ''ternio(n-)'', the number three, < L. ''terni'', by threes: see ''tern<sup>2</sup>''.] 1†. A group of three.\n\n{{smaller block|So, when Christ's Glory Isay would declare,\nTo expresse Three Persons in on Godhead are,\nHe, Holy, Holy, Holy nam'd, To show\nWe might a ''Ternion'' in an Vnion know.\n{{right|''Heywood'', Hierarchy of Angels, p. 72.}}}}\n\n2. In ''bibliography'', a section of paper for a book containing three double leaves or twelve pages.\n\n{{smaller block|They say that a given manuscript is composed of quaternions and of ''ternions'', but it never occurs to them either to describe the structure of a quaternion, or to say how we can distinguish the leaves one from another.\n{{right|''Amer. Jour. Philol.'', VII. 27.}}}}\n\n'''Ternstrœmia''' (tėrn-strē′mi-ä), ''n.'' [NL. (Linnæus filius, 1781), named after the Swedish naturalist ''Ternström.''] A genus of polypetalous plants, type of the order ''Ternstrœmiaceæ'' and tribe ''Ternstrœmieæ.'' {{smaller|It is characterized by bracted flowers with free sepals, imbricated petals united at the base, smooth basifixed anthers, and a superior ovary with an undivided style and two to three cells each usually with two ovules pendulous from the apex. The fruit is indehiscent, its seeds large and hippocrepiform, with fleshy albumen and an inflexed embryo. There are about 40 species, mostly of tropical America, with 5 or 6 in warm parts of Asia and the Indian archipelago. They are evergreen trees and shrubs, with coriaceous leaves and recurved lateral peduncles which are solitary or clustered and bear each a single rather large flower with numerous stamens. ''T. obovalis'' is known in the West Indies as ''scarletseed'', and other species as ''ironwood.'' The genus is sometimes known by the name ''Dupinia.''}}\n\n'''Ternstrœmiaceæ''' (tėrn-strē-mi-ā′sẹ̄-ē), ''n. pl.'' [NL. (De Candolle, 1823), < ''Ternstrœmia'' +<noinclude><references/></noinclude>"
+}

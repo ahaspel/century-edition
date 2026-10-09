@@ -1,0 +1,351 @@
+{
+ "volume": 8,
+ "page_number": 46,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n45.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n45.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": 0.0,
+  "column_width": 848,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     105,
+     75,
+     2442,
+     111
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     105,
+     111,
+     846,
+     1200
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     105,
+     1200,
+     846,
+     2241
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     105,
+     2241,
+     846,
+     3241
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     846,
+     111,
+     1594,
+     1131
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     846,
+     1131,
+     1594,
+     1369
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     846,
+     1369,
+     1594,
+     2034
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     846,
+     2038,
+     1594,
+     2106
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     846,
+     2106,
+     1594,
+     3188
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     846,
+     3188,
+     1594,
+     3241
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1594,
+     111,
+     2442,
+     499
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1959,
+     499,
+     2442,
+     1260
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1959,
+     1266,
+     2442,
+     1289
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1594,
+     499,
+     1959,
+     1313
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1594,
+     1313,
+     2442,
+     2299
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1594,
+     2299,
+     2442,
+     2684
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1594,
+     2684,
+     1982,
+     3211
+    ]
+   },
+   {
+    "name": "c3c2",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1594,
+     3218,
+     1982,
+     3243
+    ]
+   },
+   {
+    "name": "c3s5",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1982,
+     2684,
+     2442,
+     3243
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|term|6242|Terminalia}}",
+   "c1s1": "¶\n{{smaller block|This joy, when God speaks peace to the soul, is ineffabile gaudium. . . . It gives end to all jars, doubts, and differences, . . . and makes a man ''keep Hilary-term'' all his life.\n{{right|''Rev. T. Adams'', Works, I. 68.}}}}\n\n'''To make terms''', to come to an agreement.—'''To speak in term†''', to speak in precise language, or in set terms. See def. 11.\n\n{{smaller block|Seyde I nat wel? I can not ''speke in terme.''\n{{right|''Chaucer'', Prol. to Pardoner's Tale, l. 25.}}}}\n\n'''To stand upon one's terms†''', to insist upon conditions: followed by ''with.''\n\n{{smaller block|I had rather be the most easy, tame, and resigned believer in the most gross and imposing church in the world . . . than one of those great and philosophical minds who ''stand upon their terms with'' God.\n{{right|''Bp. Atterbury'', Sermons, II. viii.}}}}\n\n'''Total term.''' See ''partial term'', above.—'''Transcendent term''', a term which signifies something not included under any of the ten predicaments, especially ''everything'' and ''nothing.''—'''Trinity term.''' See def. 6 (''a'') and (''b'').—'''Vague term''', a word or phrase sometimes used as a term, but without fixed meaning. ='''Syn. 11.''' ''Word, Term, Expression, Phrase'', vocable, name. ''Word'' is generic; ''term'' and ''expression'' are specific: every ''term'' is a ''word;'' a ''phrase'' is a combination of ''words'' generally less than a sentence; an ''expression'' is generally either a ''word'' or a ''phrase'', but may be a sentence. A ''term'' is, in this connection, especially a ''word'' of exact meaning: as, \"phlebitis\" is a medical ''term.'' See ''diction.''\n\n'''term''' (tėrm), ''v. t.'' [Early mod. E. also ''tearm;'' < ''term'', ''n.''] To name; call; denominate; designate.\n\n{{smaller block|A certeine pamphlet which he ''termed'' a cooling carde for Philautus, yet generally to be applyed to all louers.\n{{right|''Lyly'', Euphues, Anat. of Wit, p. 105.}}\nBritan hath bin anciently ''term'd'' Albion, both by the Greeks and Romans.\n{{right|''Milton'', Hist. Eng., i.}}}}\n\n'''terma''' (tėr′mä̤), ''n.''; pl. ''termata'' (-ma-tä̤). [NL. (B. G. Wilder, 1881), < Gr. τέρμα, a limit, termi-",
+   "c1s2": "nus.] The lamina terminalis, or terminal lamina, of the brain; a thin lamina between the præcommissura and the chiasma, constituting a part of the boundary of the aula. See cut under ''sulcus''.\n\n'''termagancy''' (tėr′ma̤-gan-si), ''n.'' [< ''termagan''(''t'') + ''-cy''.] The state of being termagant; turbulence; tumultuousness.\n\n'''termagant''' (tėr′ma̤-gant), ''n.'' and ''a.'' [Early mod. E. also ''Termagaunt'', also ''Turmagant'', also ''Ternagaunt''; < ME. ''Termagant'', ''Termagaunt'', < OF. ''Tervagant'', ''Tervagan'', *''Tarvagant'', also *''Trivagant'', ''Tryvigant'', < It. ''Trivigante'', ''Trivagante'', ''Tervagante'', etc.; prob. a name of Ar. origin brought over by the Crusaders. Of the various theories invented to explain the name, one refers it, in the It. form ''Trivagante'', to lunar mythology, < L. ''tres'' (''tri-''), three, + ''vagan''(''t-'')''s'', ppr. of ''vagare'', wander; i. e. the moon wandering under the three names of Selene (or Luna) in heaven, Artemis (or Diana) on the earth, and Persephone (Proserpine) in the lower world.] '''I.''' ''n.'' '''1.''' [''cap.''] An imaginary deity, supposed to have been worshiped by the Mohammedans, and introduced into the moralities and other shows, in which he figured as a most violent and turbulent personage.\n\n{{smaller block|Child, by ''Termagaunt'',\nBut-if thou prike out of myn haunt,\nAnon I sle thy stede.\n{{right|''Chaucer'', Sir Thopas, l. 99.}}}}\n\n{{smaller block|I would have such a fellow whipped for o'erdoing ''Termagant''; it out-herods Herod. {{right|''Shak.'', Hamlet, iii. 2. 15.}}}}",
+   "c1s3": "{{smaller block|I'le march where my Captaine leads, wer't into the Presence of the great ''Termagaunt.''\n{{right|''Heywood'', Royal King (Works, ed. Pearson, 1874, VI. 23).}}}}\n\n2†. A turbulent, brawling person, male or female.\n\n{{smaller block|This terrible ''termagant'', this Nero, this Pharaoh.\n{{right|''Bp. Bale'', Yet a Course at the Romyshe Foxe, fol. 39 b [(1543). (''Latham.'')}}}}\n\n{{smaller block|Wealth may do us good service, but if it get the mastery of our trust it will turn tyrant, ''termagant;'' we condemn ourselves to our own galleys.\n{{right|''Rev. T. Adams'', Works, I. 149.}}}}\n\n3. A boisterous, brawling, or turbulent woman; a shrew; a virago; a scold.\n\n{{smaller block|She threw his periwig into the fire. Well, said he, thou art a brave ''termagant.'' {{right|''Tatler.''}}}}\n\n{{smaller block|If she [woman] be passionate, want of manners makes her a ''termagant'' and a scold, which is much at one with Lunatic. {{right|''Defoe'' (Arber's Eng. Garner, II. 267).}}}}\n\nII. ''a.'' Violent; turbulent; boisterous; quarrelsome; scolding; of women, shrewish.\n\n{{smaller block|'Twas time to counterfeit, or that hot ''termagant'' Scot had paid me scot and lot too. {{right|''Shak.'', 1 Hen. IV., v. 4. 114.}}}}\n\n{{smaller block|Yet it is oftentimes too late with some of you young, ''termagant'', flashy sinners — you have all the guilt of the intention, and none of the pleasure of the practice.\n{{right|''Congreve'', Old Bachelor, i. 4.}}\nHath any man a ''termagant'' wife?\n{{right|''Barham'', Ingoldsby Legends, I. 136.}}}}\n\n¶\n'''termagantly''' (tėr′ma-gant-li), ''adv.'' In a termagant, boisterous, or scolding manner; like a termagant; outrageously; scandalously. ''Tom Brown'', Works, II. 148. (''Davies.'')",
+   "c2s1": "¶\n'''termata''', ''n.'' Plural of ''terma.''\n\n'''termatic''' (tėr-mat′ik), ''a.'' and ''n.'' [< ''terma(t-)'' + ''-ic.''] I. ''a.'' Pertaining to the terma, or lamina terminalis of the brain.\n\nII. ''n.'' The termatic artery, a small vessel arising from the junction of the precerebral arteries, or from the precommunicant when that vessel exists, and distributed to the terma, the adjacent cerebral cortex, and the genu. ''New York Med. Jour.'', March 21, 1885, p. 325.\n\n'''term-day''' (tėrm′dā), ''n.'' [< ME. ''terme-day''; < ''term'' + ''day''<sup>1</sup>.] 1. A fixed or appointed day.\n\n{{smaller block|He had broke his ''terme-day''<br>To come to her.\n{{right|''Chaucer'', Death of Blanche, l. 730.}}}}\n\n2. Same as ''term'', 7 (''a'') or (''b'').—3. Specifically, one of a series of days appointed for taking special and generally very frequent observations of magnetic or meteorological elements at different stations, in accordance with a uniform system.\n\n'''termer''' (tėr′mėr), ''n.'' [< ''term'' + ''-er''<sup>1</sup>.] 1. One who travels to attend a court term; formerly, one who resorted to London in term time for dishonest practices or for intrigues—the court terms being times of great resort to London both for business and for pleasure.\n\n{{smaller block|''Salewood.'' Why, he was here three days before the Exchequer gaped.<br>''Rear.'' Fie, such an early ''termer''?\n{{right|''Middleton'', Michaelmas Term, i. 1.}}}}\n\n2. In ''law'', same as ''termor.''",
+   "c2s2": "¶\n'''Termes''' (tėr′mēz), ''n.'' [NL. (Linnæus, 1748), < LL. ''termes'', a wood-worm: see ''termite.''] '''1.''' An important genus of pseudoneuropterous insects, typical of the family ''Termitidæ.'' {{smaller|It includes those termites or white ants which have the head large, rounded, and with two ocelli, the prothorax small and heart-shaped, the costal area free, and the plantula}}",
+   "c2c1": "{{c|White Ant (''Termes flavipes'').<br>''a'', larva; ''b'', winged male; ''c'', worker; ''d'', soldier; ''e'', large female; ''f'', nymph. (Lines show natural sizes.)}}",
+   "c2s3": "{{smaller block|absent. It is a wide-spread genus of many species. ''T. flavipes'' of North America is a well-known example which bores in the timbers of dwellings, particularly south of the latitude of Washington, and often causes great annoyance, not only from destruction of property, but from the swarming of the winged individuals at certain seasons of the year.}}\n2. [''l. c.''] A termite. ''Imp. Dict.''\n\n'''term-fee''' (tėrm′fē), ''n.'' In ''law'', a fee or certain sum allowed to an attorney as costs for each term his client's cause is in court.\n\n'''terminable''' (tėr′mi-na-bl), ''a.'' [= It. ''terminabile'', < L. as if *''terminābilis'', < ''terminare'', terminate: see ''terminate''.] Capable of being terminated; limitable; coming to an end after a certain term: as, a ''terminable'' annuity.\n\n'''terminableness''' (tėr′mi-na̤-bl-nes), ''n.'' The state of being terminable.\n\n'''terminal''' (tėr′mi-nal), ''a.'' and ''n.'' [< F. ''terminal'' = Pr. ''termenal'' = Sp. Pg. ''terminal'' = It. ''terminale'', < LL. ''terminalis'', pertaining to a boundary or to the end, terminal, final, < L. ''terminus'', a bound, boundary, limit, end: see ''term'', ''terminus''.] '''I.''' ''a.'' '''1.''' Of, pertaining to, or forming the terminus or termination of something; forming a boundary or extreme limit; pertaining to a term (see ''term'', 1 and 2): as, a ''terminal'' pillar; the ''terminal'' edge of a polyhedron; the ''terminal'' facilities of a railway.—'''2.''' In ''bot.'', growing at the end of a branch or stem; terminating: as, a ''terminal'' peduncle, flower, or spike.—'''3.''' In ''logic'', constituted by or relating to a term.—'''4.''' Occurring in every term; representing a term.\n\n{{smaller block|If he joins his College Boat Club . . . he will be called}}",
+   "c2s4": "{{smaller block|upon for a ''terminal'' subscription of £1 at least.\n{{right|''Dickens's Dict. Oxford'', p. 52.}}}}",
+   "c3s1": "¶\n\n'''5.''' In ''anat.'' and ''zoöl.'', ending a set or series of like parts; apical: as, the middle sacral artery is the ''terminal'' branch of the abdominal aorta; the last coccygeal bone is the ''terminal'' one of the coccyx; a ''terminal'' mark or spine; the ''terminal'' joint of an antenna. See cuts under ''Colaspis'' and ''Erotylus.''—'''Terminal alveolus,''' {{smaller|an air-sac, or pulmonary alveolus.}}—'''Terminal dementia,''' {{smaller|dementia forming the final and permanent stage of many cases of acute insanity, such as mania, melancholia, or other psychoneurosis.}}—'''Terminal figure.''' {{smaller|Same as ''terminus,'' 3.}}—'''Terminal margin of the wing,''' {{smaller|in ''entom.'', a portion of the wing-margin}}",
+   "c3c1": "{{c|Terminal Pedestal.}}",
+   "c3s2": "furthest removed from the base, between the costal or anterior and the posterior margin.—'''Terminal moraine.''' See ''moraine.''—'''Terminal mouth''', in ''entom.'', a mouth situated at the end of the head, as in most ''Coleoptera.''—'''Terminal pedestal''', a name often given to a pedestal which tapers toward the bottom. The name is inexact, as such a pedestal is of ''gaine'' shape and not terminal shape.—'''Terminal quantity''', the quantity of a term, as universal or particular. The phrase implies that the quantities of a proposition attach to the terms; but this is incorrect. The quantities really belong to the subjects, or purely designated elements, and not to the terms, or conceptual elements. Thus, in the proposition \"Every man is son of a woman\" there are three terms but only two quantities, because only",
+   "c3s3": "{{smaller|two subjects.—'''Terminal stigma.''' See ''stigma'', 6.—'''Terminal value, terminal form,''' in ''math.'', the last and most complete value or form given to an expression.—'''Terminal velocity,''' in the theory of projectiles, the greatest velocity which a body can acquire by falling freely through the air, the limit being arrived at when the retardation due to the resistance of the air becomes equal to the acceleration of gravity.}}\n\n'''II.''' ''n.'' 1. That which terminates; the extremity; the end; especially, in ''elect.'', the clamping-screw at each end of a voltaic battery, used for connecting it with the wires which complete the circuit.—2. In ''crystal.'', the plane or planes which form the extremity of a crystal.—3. A charge made by a railway for the use of its termini or stations, or for the handling of freight at stations.\n\n{{smaller block|The cost of collection, loading, covering, unloading, and delivering, which are the chief items included under the determination of ''terminals'', falls upon the railways for most descriptions of freight.\n{{right|''Contemporary Rev.'', LI. 82.}}}}\n\n4. A terminus, as of a railroad. [Recent.]\n\n'''Terminalia'''<sup>1</sup> (tėr-mi-nā′li-ä), ''n. pl.'' [L., neut. pl. of (LL.) ''terminalis'', pertaining to boundaries or to Terminus: see ''terminal''.] In ''Rom. antiq.'', a festival celebrated annually in honor of Terminus, the god of boundaries. It was held on the 23d of February, its essential feature being a survey or perambulation of boundaries.\n\n'''Terminalia'''<sup>2</sup> (tėr-mi-nā′li-ä), ''n.'' [NL. (Linnæus, 1767), so called with ref. to the crowd-",
+   "c3s4": "ing of the leaves at the ends of the twigs; < LL. ''terminalis'', pertaining to the end, terminal: see ''terminal''.] A genus of plants, of the order ''Combretaceæ'' and suborder ''Combreteæ''. {{smaller|It is characterized by apetalous flowers consisting mainly of a cylindrical calyx-tube consolidated with the one-celled ovary, five calyx-teeth surmounting a somewhat bell-shaped border, and ten exserted stamens in two series. The ovary contains two or rarely three pendulous ovules, and ripens into an ovoid angled compressed or two- to five-winged fruit which is very variable in size and shape and contains a hard one-seeded stone. There are about 90 species, natives of the tropics, less frequent in America than in the Old World. They are trees or shrubs, usually}}",
+   "c3c2": "{{c|''Terminalia Catappa.''}}",
+   "c3s5": "with alternate entire and petioled leaves crowded at the ends of the branches. The small sessile flowers are green, white, or rarely of other colors, usually forming loose elongated spikes often produced from scaly buds before the leaves. They are often tall forest-trees, as ''T. latifolia'', the broadleaf, a common species in Jamaica, which reaches 100 feet. A sweet conserve, known as ''chebula'', is made from the fruit in India. For several species of the wingless section ''Myrobalanus'', see ''myrobalan''. ''T. Catappa'', the (Malabar) almond, in the West Indies also ''country''"
+  },
+  "figure_files": {
+   "c2f1": "century v08 p0046 c2f1.png",
+   "c3f1": "century v08 p0046 c3f1.png",
+   "c3f2": "century v08 p0046 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     862,
+     1368,
+     1582,
+     2010
+    ],
+    "caption": [
+     878,
+     2038,
+     1570,
+     2106
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     877,
+     1348,
+     1596,
+     2033
+    ]
+   },
+   {
+    "box": [
+     1967,
+     502,
+     2316,
+     1248
+    ],
+    "caption": [
+     2051,
+     1266,
+     2252,
+     1289
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1982,
+     449,
+     2214,
+     1260
+    ]
+   },
+   {
+    "box": [
+     1618,
+     2683,
+     1970,
+     3211
+    ],
+    "caption": [
+     1646,
+     3218,
+     1888,
+     3243
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1673,
+     2681,
+     1993,
+     3204
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    2,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 4,
+    "input_tokens": 7789,
+    "output_tokens": 242,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 16,
+    "input_tokens": 8833,
+    "output_tokens": 8149,
+    "cache_creation_input_tokens": 2714,
+    "cache_read_input_tokens": 40710
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|term|6242|Terminalia}}</noinclude>{{smaller block|This joy, when God speaks peace to the soul, is ineffabile gaudium. . . . It gives end to all jars, doubts, and differences, . . . and makes a man ''keep Hilary-term'' all his life.\n{{right|''Rev. T. Adams'', Works, I. 68.}}}}\n\n'''To make terms''', to come to an agreement.—'''To speak in term†''', to speak in precise language, or in set terms. See def. 11.\n\n{{smaller block|Seyde I nat wel? I can not ''speke in terme.''\n{{right|''Chaucer'', Prol. to Pardoner's Tale, l. 25.}}}}\n\n'''To stand upon one's terms†''', to insist upon conditions: followed by ''with.''\n\n{{smaller block|I had rather be the most easy, tame, and resigned believer in the most gross and imposing church in the world . . . than one of those great and philosophical minds who ''stand upon their terms with'' God.\n{{right|''Bp. Atterbury'', Sermons, II. viii.}}}}\n\n'''Total term.''' See ''partial term'', above.—'''Transcendent term''', a term which signifies something not included under any of the ten predicaments, especially ''everything'' and ''nothing.''—'''Trinity term.''' See def. 6 (''a'') and (''b'').—'''Vague term''', a word or phrase sometimes used as a term, but without fixed meaning. ='''Syn. 11.''' ''Word, Term, Expression, Phrase'', vocable, name. ''Word'' is generic; ''term'' and ''expression'' are specific: every ''term'' is a ''word;'' a ''phrase'' is a combination of ''words'' generally less than a sentence; an ''expression'' is generally either a ''word'' or a ''phrase'', but may be a sentence. A ''term'' is, in this connection, especially a ''word'' of exact meaning: as, \"phlebitis\" is a medical ''term.'' See ''diction.''\n\n'''term''' (tėrm), ''v. t.'' [Early mod. E. also ''tearm;'' < ''term'', ''n.''] To name; call; denominate; designate.\n\n{{smaller block|A certeine pamphlet which he ''termed'' a cooling carde for Philautus, yet generally to be applyed to all louers.\n{{right|''Lyly'', Euphues, Anat. of Wit, p. 105.}}\nBritan hath bin anciently ''term'd'' Albion, both by the Greeks and Romans.\n{{right|''Milton'', Hist. Eng., i.}}}}\n\n'''terma''' (tėr′mä̤), ''n.''; pl. ''termata'' (-ma-tä̤). [NL. (B. G. Wilder, 1881), < Gr. τέρμα, a limit, terminus.] The lamina terminalis, or terminal lamina, of the brain; a thin lamina between the præcommissura and the chiasma, constituting a part of the boundary of the aula. See cut under ''sulcus''.\n\n'''termagancy''' (tėr′ma̤-gan-si), ''n.'' [< ''termagan''(''t'') + ''-cy''.] The state of being termagant; turbulence; tumultuousness.\n\n'''termagant''' (tėr′ma̤-gant), ''n.'' and ''a.'' [Early mod. E. also ''Termagaunt'', also ''Turmagant'', also ''Ternagaunt''; < ME. ''Termagant'', ''Termagaunt'', < OF. ''Tervagant'', ''Tervagan'', *''Tarvagant'', also *''Trivagant'', ''Tryvigant'', < It. ''Trivigante'', ''Trivagante'', ''Tervagante'', etc.; prob. a name of Ar. origin brought over by the Crusaders. Of the various theories invented to explain the name, one refers it, in the It. form ''Trivagante'', to lunar mythology, < L. ''tres'' (''tri-''), three, + ''vagan''(''t-'')''s'', ppr. of ''vagare'', wander; i. e. the moon wandering under the three names of Selene (or Luna) in heaven, Artemis (or Diana) on the earth, and Persephone (Proserpine) in the lower world.] '''I.''' ''n.'' '''1.''' [''cap.''] An imaginary deity, supposed to have been worshiped by the Mohammedans, and introduced into the moralities and other shows, in which he figured as a most violent and turbulent personage.\n\n{{smaller block|Child, by ''Termagaunt'',\nBut-if thou prike out of myn haunt,\nAnon I sle thy stede.\n{{right|''Chaucer'', Sir Thopas, l. 99.}}}}\n\n{{smaller block|I would have such a fellow whipped for o'erdoing ''Termagant''; it out-herods Herod. {{right|''Shak.'', Hamlet, iii. 2. 15.}} I'le march where my Captaine leads, wer't into the Presence of the great ''Termagaunt.''\n{{right|''Heywood'', Royal King (Works, ed. Pearson, 1874, VI. 23).}}}}\n\n2†. A turbulent, brawling person, male or female.\n\n{{smaller block|This terrible ''termagant'', this Nero, this Pharaoh.\n{{right|''Bp. Bale'', Yet a Course at the Romyshe Foxe, fol. 39 b [(1543). (''Latham.'')}}}}\n\n{{smaller block|Wealth may do us good service, but if it get the mastery of our trust it will turn tyrant, ''termagant;'' we condemn ourselves to our own galleys.\n{{right|''Rev. T. Adams'', Works, I. 149.}}}}\n\n3. A boisterous, brawling, or turbulent woman; a shrew; a virago; a scold.\n\n{{smaller block|She threw his periwig into the fire. Well, said he, thou art a brave ''termagant.'' {{right|''Tatler.''}}}}\n\n{{smaller block|If she [woman] be passionate, want of manners makes her a ''termagant'' and a scold, which is much at one with Lunatic. {{right|''Defoe'' (Arber's Eng. Garner, II. 267).}}}}\n\nII. ''a.'' Violent; turbulent; boisterous; quarrelsome; scolding; of women, shrewish.\n\n{{smaller block|'Twas time to counterfeit, or that hot ''termagant'' Scot had paid me scot and lot too. {{right|''Shak.'', 1 Hen. IV., v. 4. 114.}}}}\n\n{{smaller block|Yet it is oftentimes too late with some of you young, ''termagant'', flashy sinners — you have all the guilt of the intention, and none of the pleasure of the practice.\n{{right|''Congreve'', Old Bachelor, i. 4.}}\nHath any man a ''termagant'' wife?\n{{right|''Barham'', Ingoldsby Legends, I. 136.}}}}\n\n¶\n'''termagantly''' (tėr′ma-gant-li), ''adv.'' In a termagant, boisterous, or scolding manner; like a termagant; outrageously; scandalously. ''Tom Brown'', Works, II. 148. (''Davies.'')\n\n'''termata''', ''n.'' Plural of ''terma.''\n\n'''termatic''' (tėr-mat′ik), ''a.'' and ''n.'' [< ''terma(t-)'' + ''-ic.''] I. ''a.'' Pertaining to the terma, or lamina terminalis of the brain.\n\nII. ''n.'' The termatic artery, a small vessel arising from the junction of the precerebral arteries, or from the precommunicant when that vessel exists, and distributed to the terma, the adjacent cerebral cortex, and the genu. ''New York Med. Jour.'', March 21, 1885, p. 325.\n\n'''term-day''' (tėrm′dā), ''n.'' [< ME. ''terme-day''; < ''term'' + ''day''<sup>1</sup>.] 1. A fixed or appointed day.\n\n{{smaller block|He had broke his ''terme-day''<br>To come to her.\n{{right|''Chaucer'', Death of Blanche, l. 730.}}}}\n\n2. Same as ''term'', 7 (''a'') or (''b'').—3. Specifically, one of a series of days appointed for taking special and generally very frequent observations of magnetic or meteorological elements at different stations, in accordance with a uniform system.\n\n'''termer''' (tėr′mėr), ''n.'' [< ''term'' + ''-er''<sup>1</sup>.] 1. One who travels to attend a court term; formerly, one who resorted to London in term time for dishonest practices or for intrigues—the court terms being times of great resort to London both for business and for pleasure.\n\n{{smaller block|''Salewood.'' Why, he was here three days before the Exchequer gaped.<br>''Rear.'' Fie, such an early ''termer''?\n{{right|''Middleton'', Michaelmas Term, i. 1.}}}}\n\n2. In ''law'', same as ''termor.''\n\n'''Termes''' (tėr′mēz), ''n.'' [NL. (Linnæus, 1748), < LL. ''termes'', a wood-worm: see ''termite.''] '''1.''' An important genus of pseudoneuropterous insects, typical of the family ''Termitidæ.'' {{smaller|It includes those termites or white ants which have the head large, rounded, and with two ocelli, the prothorax small and heart-shaped, the costal area free, and the plantula absent. It is a wide-spread genus of many species. ''T. flavipes'' of North America is a well-known example which bores in the timbers of dwellings, particularly south of the latitude of Washington, and often causes great annoyance, not only from destruction of property, but from the swarming of the winged individuals at certain seasons of the year.}}\n2. [''l. c.''] A termite. ''Imp. Dict.''\n\n[[File:century v08 p0046 c2f1.png|center|318px]]\n{{c|White Ant (''Termes flavipes'').<br>''a'', larva; ''b'', winged male; ''c'', worker; ''d'', soldier; ''e'', large female; ''f'', nymph. (Lines show natural sizes.)}}\n\n'''term-fee''' (tėrm′fē), ''n.'' In ''law'', a fee or certain sum allowed to an attorney as costs for each term his client's cause is in court.\n\n'''terminable''' (tėr′mi-na-bl), ''a.'' [= It. ''terminabile'', < L. as if *''terminābilis'', < ''terminare'', terminate: see ''terminate''.] Capable of being terminated; limitable; coming to an end after a certain term: as, a ''terminable'' annuity.\n\n'''terminableness''' (tėr′mi-na̤-bl-nes), ''n.'' The state of being terminable.\n\n'''terminal''' (tėr′mi-nal), ''a.'' and ''n.'' [< F. ''terminal'' = Pr. ''termenal'' = Sp. Pg. ''terminal'' = It. ''terminale'', < LL. ''terminalis'', pertaining to a boundary or to the end, terminal, final, < L. ''terminus'', a bound, boundary, limit, end: see ''term'', ''terminus''.] '''I.''' ''a.'' '''1.''' Of, pertaining to, or forming the terminus or termination of something; forming a boundary or extreme limit; pertaining to a term (see ''term'', 1 and 2): as, a ''terminal'' pillar; the ''terminal'' edge of a polyhedron; the ''terminal'' facilities of a railway.—'''2.''' In ''bot.'', growing at the end of a branch or stem; terminating: as, a ''terminal'' peduncle, flower, or spike.—'''3.''' In ''logic'', constituted by or relating to a term.—'''4.''' Occurring in every term; representing a term.\n\n{{smaller block|If he joins his College Boat Club . . . he will be called upon for a ''terminal'' subscription of £1 at least.\n{{right|''Dickens's Dict. Oxford'', p. 52.}}}}\n\n'''5.''' In ''anat.'' and ''zoöl.'', ending a set or series of like parts; apical: as, the middle sacral artery is the ''terminal'' branch of the abdominal aorta; the last coccygeal bone is the ''terminal'' one of the coccyx; a ''terminal'' mark or spine; the ''terminal'' joint of an antenna. See cuts under ''Colaspis'' and ''Erotylus.''—'''Terminal alveolus,''' {{smaller|an air-sac, or pulmonary alveolus.}}—'''Terminal dementia,''' {{smaller|dementia forming the final and permanent stage of many cases of acute insanity, such as mania, melancholia, or other psychoneurosis.}}—'''Terminal figure.''' {{smaller|Same as ''terminus,'' 3.}}—'''Terminal margin of the wing,''' {{smaller|in ''entom.'', a portion of the wing-margin}} furthest removed from the base, between the costal or anterior and the posterior margin.—'''Terminal moraine.''' See ''moraine.''—'''Terminal mouth''', in ''entom.'', a mouth situated at the end of the head, as in most ''Coleoptera.''—'''Terminal pedestal''', a name often given to a pedestal which tapers toward the bottom. The name is inexact, as such a pedestal is of ''gaine'' shape and not terminal shape.—'''Terminal quantity''', the quantity of a term, as universal or particular. The phrase implies that the quantities of a proposition attach to the terms; but this is incorrect. The quantities really belong to the subjects, or purely designated elements, and not to the terms, or conceptual elements. Thus, in the proposition \"Every man is son of a woman\" there are three terms but only two quantities, because only {{smaller|two subjects.—'''Terminal stigma.''' See ''stigma'', 6.—'''Terminal value, terminal form,''' in ''math.'', the last and most complete value or form given to an expression.—'''Terminal velocity,''' in the theory of projectiles, the greatest velocity which a body can acquire by falling freely through the air, the limit being arrived at when the retardation due to the resistance of the air becomes equal to the acceleration of gravity.}}\n\n[[File:century v08 p0046 c3f1.png|center|205px]]\n{{c|Terminal Pedestal.}}\n\n'''II.''' ''n.'' 1. That which terminates; the extremity; the end; especially, in ''elect.'', the clamping-screw at each end of a voltaic battery, used for connecting it with the wires which complete the circuit.—2. In ''crystal.'', the plane or planes which form the extremity of a crystal.—3. A charge made by a railway for the use of its termini or stations, or for the handling of freight at stations.\n\n{{smaller block|The cost of collection, loading, covering, unloading, and delivering, which are the chief items included under the determination of ''terminals'', falls upon the railways for most descriptions of freight.\n{{right|''Contemporary Rev.'', LI. 82.}}}}\n\n4. A terminus, as of a railroad. [Recent.]\n\n'''Terminalia'''<sup>1</sup> (tėr-mi-nā′li-ä), ''n. pl.'' [L., neut. pl. of (LL.) ''terminalis'', pertaining to boundaries or to Terminus: see ''terminal''.] In ''Rom. antiq.'', a festival celebrated annually in honor of Terminus, the god of boundaries. It was held on the 23d of February, its essential feature being a survey or perambulation of boundaries.\n\n'''Terminalia'''<sup>2</sup> (tėr-mi-nā′li-ä), ''n.'' [NL. (Linnæus, 1767), so called with ref. to the crowding of the leaves at the ends of the twigs; < LL. ''terminalis'', pertaining to the end, terminal: see ''terminal''.] A genus of plants, of the order ''Combretaceæ'' and suborder ''Combreteæ''. {{smaller|It is characterized by apetalous flowers consisting mainly of a cylindrical calyx-tube consolidated with the one-celled ovary, five calyx-teeth surmounting a somewhat bell-shaped border, and ten exserted stamens in two series. The ovary contains two or rarely three pendulous ovules, and ripens into an ovoid angled compressed or two- to five-winged fruit which is very variable in size and shape and contains a hard one-seeded stone. There are about 90 species, natives of the tropics, less frequent in America than in the Old World. They are trees or shrubs, usually}} with alternate entire and petioled leaves crowded at the ends of the branches. The small sessile flowers are green, white, or rarely of other colors, usually forming loose elongated spikes often produced from scaly buds before the leaves. They are often tall forest-trees, as ''T. latifolia'', the broadleaf, a common species in Jamaica, which reaches 100 feet. A sweet conserve, known as ''chebula'', is made from the fruit in India. For several species of the wingless section ''Myrobalanus'', see ''myrobalan''. ''T. Catappa'', the (Malabar) almond, in the West Indies also ''country''\n\n[[File:century v08 p0046 c3f2.png|center|165px]]\n{{c|''Terminalia Catappa.''}}<noinclude><references/></noinclude>"
+}

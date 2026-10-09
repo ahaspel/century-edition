@@ -1,0 +1,301 @@
+{
+ "volume": 8,
+ "page_number": 28,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n27.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n27.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": 1.3,
+  "column_width": 825,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     127,
+     57,
+     2442,
+     98
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     127,
+     98,
+     871,
+     1178
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     127,
+     1178,
+     871,
+     2247
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     127,
+     2247,
+     871,
+     3228
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     871,
+     98,
+     1617,
+     495
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     871,
+     495,
+     1617,
+     991
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     871,
+     1001,
+     1617,
+     1191
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     871,
+     1191,
+     1617,
+     2027
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     871,
+     2027,
+     1617,
+     3069
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     871,
+     3069,
+     1617,
+     3228
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1617,
+     98,
+     2442,
+     1175
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1617,
+     1175,
+     2442,
+     1969
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1617,
+     1969,
+     2442,
+     2292
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     2186,
+     2292,
+     2442,
+     2619
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     2186,
+     2629,
+     2442,
+     2672
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1617,
+     2292,
+     2186,
+     2672
+    ]
+   },
+   {
+    "name": "c3s5",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1617,
+     2672,
+     2442,
+     3228
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|tempestively|6224|templify}}",
+   "c1s1": "¶\n'''tempestively†''' (tem′pes-tiv-li), ''adv.'' Seasonably.\n\n{{smaller block|Dancing is a pleasant recreation of body and mind, if ''tempestively'' used. {{right|''Burton'', Anat. of Mel., p. 499.}}}}\n\n'''tempestivity†''' (tem-pes-tiv′i̤-ti), ''n.'' [= Sp. ''tempestividad'' = OIt. ''tempestività'', < L. ''tempestivita(t-)s'', timeliness, seasonableness, < ''tempestivus'', timely, seasonable: see ''tempestive.''] Seasonableness.\n\n{{smaller block|Since their dispersion, and habitation in countries whose constitutions admit not such ''tempestivity'' of harvests, . . . there will be found a great disparity in their observations. {{right|''Sir T. Browne'', Vulg. Err., vi. 3.}}}}\n\n'''tempest-tossed, tempest-tost''' (tem′pest-tost), ''a.'' Tossed by or as by a tempest.\n\n{{smaller block|Though his bark cannot be lost,<br>Yet it shall be ''tempest-tost.'' {{right|''Shak.'', Macbeth, i. 3. 25.}}}}\n\n'''tempestuous''' (tem-pes′t̮ū-us), ''a.'' [< OF. ''tempestueux'', F. ''tempétueux'' = Pr. ''tempestuos, tempestos'' = Sp. Pg. ''tempestuoso'' = It. ''tempestoso'', < LL. ''tempestuosus'', stormy, turbulent, < L. ''tempestas'', tempest: see ''tempest.''] 1. Very stormy; turbulent; rough with wind; stormy: as, a ''tempestuous'' night. Also used figuratively.\n\n{{smaller block|We had now very ''tempestuous'' Weather, and excessive Rains, which so swell'd the River that it overflowed its Banks; so that we had much ado to keep our Ship safe. {{right|''Dampier'', Voyages, I. 360.}}}}\n\n{{smaller block|Her looks grow black as a ''tempestuous'' wind. {{right|''Dryden'', Indian Emperor, iv. 4.}}}}\n\n{{smaller block|High in his hall, rock'd in a chair of state,<br>The king with his ''tempestuous'' council sate. {{right|''Dryden'', tr. of Ovid's Epistles, xi. 76.}}}}",
+   "c1s2": "¶\n2. Subject to fits of stormy passion; impetuous.\n\n{{smaller block|Bruno was passionate, ''tempestuous'', and weak.\n{{right|''Ouida.''}}}}\n\n'''tempestuously''' (tem-pes′t̮ū-us-li), ''adv.'' In a tempestuous manner; with great violence or commotion; turbulently.\n\n'''tempestuousness''' (tem-pes′t̮ū-us-nes), ''n.'' The state or character of being tempestuous; storminess; turbulence.\n\n'''templar''' (tem′plär), ''n.'' [Formerly also ''templer''; < ME. ''templere'' = D. ''tempelier'' = G. ''templer'', < OF. (and F.) ''templier'' = Pr. ''templier'' = Sp. Pg. ''templario'' = It. ''tempiere'', < ML. ''templarius'', a templar, prop. adj., < L. ''templum'', a temple: see ''temple''<sup>1</sup>.] 1. [''cap.''] A member of a military order, also called Knights Templars or Knights of the Temple, from the early headquarters of the order in the Crusaders' palace at Jerusalem (the so-called ''temple of Solomon''). {{smaller|The order was founded at Jerusalem about 1118, and was confirmed by the Pope in 1128. Its special aim was protection to pilgrims on the way to the holy shrines, and the distinguishing garb of the knights was a white mantle with a red cross. The order took a leading part in the conduct of the Crusades, and spread rapidly, acquiring great wealth and influence in Spain, France, England, and other countries in Europe. Its chief seats in the East were Jerusalem, Acre, and Cyprus, and its European headquarters was a foundation called the ''Temple'', then just outside of Paris. The members were composed of knights, men-at-arms, and chaplains; they were grouped in commanderies, with a preceptor at the head of each province, and a grand master at the head of the order. The Templars were accused of heresy, immorality, and other offenses by Philip IV. of France in 1307, and the order was suppressed by the Council of Vienne in 1312.}}",
+   "c1s3": "¶\n{{smaller block|In that Temple duellen the Knyghtes of the Temple, that weren wont to be clept ''Templeres;'' and that was the foundacioun of here Ordre.{{right|''Mandeville'', Travels, p. 88.}}}}\n\n2. A student of the law, or a lawyer, so called from having chambers in the Temple in London. See ''temple''<sup>1</sup>, 5.\n\n{{smaller block|The reader cannot but observe what pains I have been at in polishing the style of my book to the greatest exactness: nor have I been less diligent in refining the orthography by spelling the words in the very same manner as they are pronounced by the chief patterns of politeness at court, at levees, at assemblies, at play-houses, at the prime visiting places, by young ''templers'', and by gentlemen-commoners of both universities, who have lived at least a twelvemonth in town, and kept the best company.{{right|''Swift'', Polite Conversation, Int.}}}}\n\n{{smaller block|The Whigs answered that it was idle to apply ordinary rules to a country in a state of revolution; that the great question now depending was not to be decided by the saws of pedantic ''Templars''.{{right|''Macaulay'', Hist. Eng., x.}}}}\n\n{{smaller|'''Good Templar''', a member of the Society of Good Templars, organized for the promotion of total abstinence from intoxicating drinks, and modeled in some respects upon the system of freemasonry.—'''Knights Templars.''' (''a'') See def. 1. (''b'') See ''knight''.}}\n\n'''templar''' (tem′plär), ''a.'' [< LL. ''templaris'', of or pertaining to a temple, < L. ''templum'', temple: see ''temple''<sup>1</sup>.] Of, pertaining to, or performed in a temple. [Rare.]\n\n{{smaller block|Solitary, family, and ''templar'' devotion.{{right|''Coleridge.''}}}}\n\n'''template''' (tem′plāt), ''n.'' Same as ''templet''.\n\n'''temple<sup>1</sup>''' (tem′pl), ''n.'' [< ME. ''temple'', < AS. ''templ'', ''tempel'' = D. G. Sw. Dan. ''tempel'' = OF. (and F.)",
+   "c2s1": "''temple'' = Sp. Pg. ''templo'' = It. ''tempio'', < L. ''templum'', an open space, the circuit of the heavens, a consecrated place, a temple, prob. for *''temulum'', akin to Gr. τέμενος, a piece of ground cut or marked off, a sacred inclosure, < τέμνειν, ταμεῖν, cut (see ''temenos'').] 1. An edifice dedicated to the service of a deity or deities, and connected with a system of worship. {{smaller|The most celebrated and architecturally perfect of the ancient temples were those of the Greeks, as that of Zeus at Olympia, that of Athena Parthenos (the Parthenon) at Athens, and that of Apollo at Delphi. The form ordinarily given to classical temples was}}",
+   "c2c1": "{{c|Greek Temple. Diagram illustrating the construction and arrangement of the Doric temple of Athena, Ægina.}}\n\n{{c|''A'', stereobate. ''B'', stylobate. ''C'', ''C'', columns of peristyle. ''D'', interior columns of cella. ''E'', capital of column: ''h'', abacus; ''i'', echinus; ''j'', hypotrachelium. ''F'', entablature: ''a'', architrave; ''b'', frieze; ''c'', cornice; ''d'', triglyph; ''e'', metope; ''f'', ''f'', mutules; ''g'', regula with guttæ. ''G'', acroterium. ''H'', ''H'', portions of the pediment. ''I'', ''I'', walls of cella. ''K'', ''K'', hypothetical apertures in the roof for the admission of light to the cella.}}",
+   "c2s2": "that of a rectangle, but sometimes the construction was circular, or even of irregular plan. Vitruvius divides temples into eight kinds, according to the arrangement of their columns: namely, temples ''in antis'' (see ''anta''<sup>1</sup>), ''prostyle, amphiprostyle, peripteral, dipteral, pseudodipteral, hypethral'', and ''monopteral.'' (See these words.) In regard to intercolumniation, they are further distinguished as ''pycnostyle, systyle, eustyle, diastyle'', and ''areostyle'' structures, and in regard to the number of columns in front, as ''tetrastyle, hexastyle, octastyle'', and ''decastyle.'' (See these words.) Circular temples are known as ''monopteral'', with or without a cella. The temples of ancient Egypt are impressive from their great size and from the number and mass of the pillars ordinarily introduced in their construction; those of India are remarkable for the elaborateness of their plan and elevation, and the lavishness of their sculptured decoration. See also cuts under ''dipteral, cella, monopteron, octastyle, pantheon, opisthodomos'', and ''prostyle.''\n\n{{smaller block|In this connection the term \"house of God\" has quite a different sense from that which we connect with it when we apply it to a Christian place of worship. A ''temple'' is not a meeting-place for worshippers; for many ancient temples were open only to priests, and as a general rule the altar, which was the true place of worship, stood not within the house but before the door. The ''temple'' is the dwelling-house of the deity to which it is consecrated, whose presence is marked by a statue or other sacred symbol; and in it his sacred treasures, the gifts and tribute of his worshippers, are kept, under the charge of his attendants or priests.\n{{right|''Encyc. Brit.'', XXIII. 165.}}}}",
+   "c2s3": "¶\n2. The religious edifice of the Jews in Jerusalem. {{smaller|There were three buildings successively erected in the same spot, and entitled, from the names of their builders, the temple of Solomon, the temple of Zerubbabel, and the temple of Herod. The first was built by Solomon, and was destroyed by Nebuchadnezzar about 586 {{sc|b. c.}} The second was built by the Jews on their return from the captivity (about 537 {{sc|b. c.}}), and was pillaged or partially destroyed several times, as by Antiochus Epiphanes, Pompey, and Herod. The third, the largest and most magnificent of the three, was begun by Herod the Great, and was completely destroyed at the capture of Jerusalem by the Romans ({{sc|a. d.}} 70). Various attempts have been made toward the restoration of the first and the third of these temples, but scholars are not agreed in respect to architectural details. The ornament and design were in any case of severe and simple character, though rich materials were used. The successive temples all consisted of a combination of buildings, comprising courts separated from and arising one above another, and provided also with chambers for the use of the priests and for educational purposes. The inclosure of Herod's temple covered nineteen acres. It comprised an outer court of the Gentiles, a court of the women, a court of Israel, a court of the priests, and the temple building, with the holy place, and within all — entered only once a year, and only by the high priest — the holy of holies. Within the court of the priests were the great altar and the laver, within the holy place the golden candlestick, the altar of incense, and the table for the showbread, and within the holy of holies the ark of the covenant and the mercy-seat.}}\n\n{{smaller block|Out of that seyd ''Temple'' oure Lord drof the Byggeres and the Selleres.\n{{right|''Mandeville'', Travels, p. 86.}}}}\n\n{{smaller block|And he sware, By this Habitacle — that is, the ''Themple.''\n{{right|''Purchas'', Pilgrimage, p. 138.}}}}\n\n3. An edifice erected as a place of public worship; a church; in France, specifically, a Protestant church, as distinguished from a Ro-",
+   "c2s4": "man Catholic place of worship, which alone is usually spoken of as a ''church'' (''église'').\n\n{{smaller block|That time [for the outward service] to me towards you is Tuesday, and my ''temple'' the Rose in Smithfield.\n{{right|''Donne'', Letters, xxiv.}}}}",
+   "c3s1": "{{smaller block|The true Christian . . . loves the good, under whatever ''temple'', at whatever altar he may find them.\n{{right|''Sydney Smith'', in Lady Holland, iii.}}}}\n\n4. Metaphorically, any place in which the divine presence specially resides.\n\n{{smaller block|Know ye not that your body is the ''temple'' of the Holy Ghost which is in you, which ye have of God, and ye are not your own? {{right|1 Cor. vi. 19.}}}}\n\n{{smaller block|My chamber were no ''temple'', my body were no ''temple'', except God came to it. {{right|''Donne'', Sermons, iv.}}}}\n\n5. [''cap.''] The name of two semi-monastic establishments of the middle ages, one in London, the other in Paris, occupied by the Knights Templars. {{smaller|The Temple Church, London, is the only part of either establishment now existing. On the site of the London Temple the two Inns of Court called the Middle Temple and Inner Temple now stand; they have long been occupied by barristers, and are the joint property of the two societies called the Societies of the Inner and of the Middle Temple, which have the right of calling candidates to the degree of barrister. The Temple in Paris was the prison of Louis XVI. and the royal family during their sufferings in 1792 and 1793.}}\n\n6†. An inn of court.\n\n{{smaller block|A gentle maunciple was ther of a ''temple.''\n{{right|''Chaucer'', Gen. Prol. to C. T., l. 567.}}}}\n\n{{smaller|'''Master of the temple.''' See ''master''<sup>1</sup>.—'''Temple jar, temple vase,''' a jar or vase such as are used for the decoration and ceremonial of religious temples in China, Japan, etc.—'''Temple jewelry.''' See ''jewelry.''}}\n\n'''temple'''<sup>1</sup> (tem′pl), ''v. t.''; pret. and pp. ''templed'', ppr. ''templing''. [< ''temple''<sup>1</sup>, ''n.''] To build a temple for; appropriate a temple to; inclose in a temple. [Rare.]\n\n{{smaller block|The heathen (in many places) ''templed'' and adored this drunken god. {{right|''Feltham'', Resolves, i. 84.}}}}",
+   "c3s2": "¶\n'''temple<sup>2</sup>''' (tem′pl), ''n.'' [< ME. ''temple'', < OF. ''temple'', F. ''tempe'', dial. ''temple'' = Pr. ''templa'' = It. ''tempia'', < L. ''tempora'', the temples, pl. of ''tempus'', temple, head, face.] 1. The region of the head or skull behind the eye and forehead, above and mostly in front of the ear. {{smaller|This area corresponds to the temporal fossa above the zygomatic arch, where the skull is very thin and is covered by the temporal muscle.}}\n\n{{smaller block|King Helenus wav'd high the Thracian blade,<br>And smote his ''temples'' with an arm so strong<br>The helm fell off, and roll'd amid the throng.\n{{right|''Pope'', Iliad, xiii. 729.}}}}\n\n2. In ''entom.'', the posterior part of the gena, or that immediately beneath the eye.—3. One of the bars sometimes added to the ends of spectacle-bows to give them a firmer hold on the head of the wearer. See ''spectacle'', 5.—4. An ornament worn at the side of the head or covering the side of the head, mentioned in the fifteenth century as apparently sometimes of needlework, sometimes set with jewels. ''Fairholt.''\n\n'''temple<sup>3</sup>''' (tem′pl), ''n.'' [< F. ''temple'', templet.] An attachment to a loom for keeping the cloth stretched, while the reed beats the threads into",
+   "c3s3": "place after each throw of the shuttle. One form is automatic, releasing the cloth and then stretching it after each stroke of the lay.\n\n'''templeless''' (tem′pl-les), ''a.'' [< ''temple''<sup>1</sup> + ''-less.''] Devoid of a temple. ''Bulwer'', Caxtons, iv. 2.\n\n'''templer†''' (tem′plėr), ''n.'' See ''templar.''\n\n'''templet''' (tem′plet), ''n.'' [< F. ''templet'', a stretcher, < L. ''templum'', a small timber, a purlin.] '''1.''' A pattern, guide, or model used to indicate the shape any piece of work is to as-",
+   "c3c1": "{{c|Templet for a Baluster.}}",
+   "c3s4": "sume when finished. It may also be used as a tool in modeling plastic material, or as a guide placed in a milling-machine, shaper-lathe, or other automatic cutting-machine. In these applications it may be a thin piece of wood or metal, with one or all the edges cut in profile to the shape of the baluster, cornice, part of a machine, or other object to be wrought to shape. Templets are also used as guides in filing sheet-metal to shape, as in making small brass gears for clocks, sheets of brass being clamped between steel templets, and all the parts projecting beyond the edges being filed away. Templets are used in found-",
+   "c3s5": "{{smaller block|ing as patterns in forming molds in loam.}}\n2. A strip of metal used in boiler-making, pierced with a series of holes, and serving as a guide in marking out a line of rivet-holes.—3. In ''building:'' (''a'') A short piece of timber or a large stone placed in a wall to receive the impost of a girder, beam, etc., and distribute its weight. (''b'') A beam or plate spanning a door- or window-space to sustain joists and throw their weight on the piers. (''c'') One of the wedges in a building-block. ''E. H. Knight.''—4. Same as ''temple''<sup>3</sup>.—5. In a brilliant, same as ''bezel'', 2. See cut under ''brilliant.''\n\nAlso ''template.''\n\n'''templify''' (tem′pli-fī), ''v. t.''; pret. and pp. ''templified'', ppr. ''templifying.'' To make into a temple. [Rare.]"
+  },
+  "figure_files": {
+   "c2f1": "century v08 p0028 c2f1.png",
+   "c3f1": "century v08 p0028 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     884,
+     497,
+     1607,
+     989
+    ],
+    "caption": [
+     891,
+     1001,
+     1635,
+     1191
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     888,
+     471,
+     1613,
+     990
+    ]
+   },
+   {
+    "box": [
+     2203,
+     2294,
+     2354,
+     2618
+    ],
+    "caption": [
+     2206,
+     2629,
+     2358,
+     2672
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     2206,
+     2298,
+     2369,
+     2621
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 3,
+    "input_tokens": 5943,
+    "output_tokens": 180,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 15,
+    "input_tokens": 9532,
+    "output_tokens": 8458,
+    "cache_creation_input_tokens": 2714,
+    "cache_read_input_tokens": 37996
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|tempestively|6224|templify}}</noinclude>'''tempestively†''' (tem′pes-tiv-li), ''adv.'' Seasonably.\n\n{{smaller block|Dancing is a pleasant recreation of body and mind, if ''tempestively'' used. {{right|''Burton'', Anat. of Mel., p. 499.}}}}\n\n'''tempestivity†''' (tem-pes-tiv′i̤-ti), ''n.'' [= Sp. ''tempestividad'' = OIt. ''tempestività'', < L. ''tempestivita(t-)s'', timeliness, seasonableness, < ''tempestivus'', timely, seasonable: see ''tempestive.''] Seasonableness.\n\n{{smaller block|Since their dispersion, and habitation in countries whose constitutions admit not such ''tempestivity'' of harvests, . . . there will be found a great disparity in their observations. {{right|''Sir T. Browne'', Vulg. Err., vi. 3.}}}}\n\n'''tempest-tossed, tempest-tost''' (tem′pest-tost), ''a.'' Tossed by or as by a tempest.\n\n{{smaller block|Though his bark cannot be lost,<br>Yet it shall be ''tempest-tost.'' {{right|''Shak.'', Macbeth, i. 3. 25.}}}}\n\n'''tempestuous''' (tem-pes′t̮ū-us), ''a.'' [< OF. ''tempestueux'', F. ''tempétueux'' = Pr. ''tempestuos, tempestos'' = Sp. Pg. ''tempestuoso'' = It. ''tempestoso'', < LL. ''tempestuosus'', stormy, turbulent, < L. ''tempestas'', tempest: see ''tempest.''] 1. Very stormy; turbulent; rough with wind; stormy: as, a ''tempestuous'' night. Also used figuratively.\n\n{{smaller block|We had now very ''tempestuous'' Weather, and excessive Rains, which so swell'd the River that it overflowed its Banks; so that we had much ado to keep our Ship safe. {{right|''Dampier'', Voyages, I. 360.}}}}\n\n{{smaller block|Her looks grow black as a ''tempestuous'' wind. {{right|''Dryden'', Indian Emperor, iv. 4.}}}}\n\n{{smaller block|High in his hall, rock'd in a chair of state,<br>The king with his ''tempestuous'' council sate. {{right|''Dryden'', tr. of Ovid's Epistles, xi. 76.}}}}\n\n2. Subject to fits of stormy passion; impetuous.\n\n{{smaller block|Bruno was passionate, ''tempestuous'', and weak.\n{{right|''Ouida.''}}}}\n\n'''tempestuously''' (tem-pes′t̮ū-us-li), ''adv.'' In a tempestuous manner; with great violence or commotion; turbulently.\n\n'''tempestuousness''' (tem-pes′t̮ū-us-nes), ''n.'' The state or character of being tempestuous; storminess; turbulence.\n\n'''templar''' (tem′plär), ''n.'' [Formerly also ''templer''; < ME. ''templere'' = D. ''tempelier'' = G. ''templer'', < OF. (and F.) ''templier'' = Pr. ''templier'' = Sp. Pg. ''templario'' = It. ''tempiere'', < ML. ''templarius'', a templar, prop. adj., < L. ''templum'', a temple: see ''temple''<sup>1</sup>.] 1. [''cap.''] A member of a military order, also called Knights Templars or Knights of the Temple, from the early headquarters of the order in the Crusaders' palace at Jerusalem (the so-called ''temple of Solomon''). {{smaller|The order was founded at Jerusalem about 1118, and was confirmed by the Pope in 1128. Its special aim was protection to pilgrims on the way to the holy shrines, and the distinguishing garb of the knights was a white mantle with a red cross. The order took a leading part in the conduct of the Crusades, and spread rapidly, acquiring great wealth and influence in Spain, France, England, and other countries in Europe. Its chief seats in the East were Jerusalem, Acre, and Cyprus, and its European headquarters was a foundation called the ''Temple'', then just outside of Paris. The members were composed of knights, men-at-arms, and chaplains; they were grouped in commanderies, with a preceptor at the head of each province, and a grand master at the head of the order. The Templars were accused of heresy, immorality, and other offenses by Philip IV. of France in 1307, and the order was suppressed by the Council of Vienne in 1312.}}\n\n{{smaller block|In that Temple duellen the Knyghtes of the Temple, that weren wont to be clept ''Templeres;'' and that was the foundacioun of here Ordre.{{right|''Mandeville'', Travels, p. 88.}}}}\n\n2. A student of the law, or a lawyer, so called from having chambers in the Temple in London. See ''temple''<sup>1</sup>, 5.\n\n{{smaller block|The reader cannot but observe what pains I have been at in polishing the style of my book to the greatest exactness: nor have I been less diligent in refining the orthography by spelling the words in the very same manner as they are pronounced by the chief patterns of politeness at court, at levees, at assemblies, at play-houses, at the prime visiting places, by young ''templers'', and by gentlemen-commoners of both universities, who have lived at least a twelvemonth in town, and kept the best company.{{right|''Swift'', Polite Conversation, Int.}}}}\n\n{{smaller block|The Whigs answered that it was idle to apply ordinary rules to a country in a state of revolution; that the great question now depending was not to be decided by the saws of pedantic ''Templars''.{{right|''Macaulay'', Hist. Eng., x.}}}}\n\n{{smaller|'''Good Templar''', a member of the Society of Good Templars, organized for the promotion of total abstinence from intoxicating drinks, and modeled in some respects upon the system of freemasonry.—'''Knights Templars.''' (''a'') See def. 1. (''b'') See ''knight''.}}\n\n'''templar''' (tem′plär), ''a.'' [< LL. ''templaris'', of or pertaining to a temple, < L. ''templum'', temple: see ''temple''<sup>1</sup>.] Of, pertaining to, or performed in a temple. [Rare.]\n\n{{smaller block|Solitary, family, and ''templar'' devotion.{{right|''Coleridge.''}}}}\n\n'''template''' (tem′plāt), ''n.'' Same as ''templet''.\n\n'''temple<sup>1</sup>''' (tem′pl), ''n.'' [< ME. ''temple'', < AS. ''templ'', ''tempel'' = D. G. Sw. Dan. ''tempel'' = OF. (and F.) ''temple'' = Sp. Pg. ''templo'' = It. ''tempio'', < L. ''templum'', an open space, the circuit of the heavens, a consecrated place, a temple, prob. for *''temulum'', akin to Gr. τέμενος, a piece of ground cut or marked off, a sacred inclosure, < τέμνειν, ταμεῖν, cut (see ''temenos'').] 1. An edifice dedicated to the service of a deity or deities, and connected with a system of worship. {{smaller|The most celebrated and architecturally perfect of the ancient temples were those of the Greeks, as that of Zeus at Olympia, that of Athena Parthenos (the Parthenon) at Athens, and that of Apollo at Delphi. The form ordinarily given to classical temples was}} that of a rectangle, but sometimes the construction was circular, or even of irregular plan. Vitruvius divides temples into eight kinds, according to the arrangement of their columns: namely, temples ''in antis'' (see ''anta''<sup>1</sup>), ''prostyle, amphiprostyle, peripteral, dipteral, pseudodipteral, hypethral'', and ''monopteral.'' (See these words.) In regard to intercolumniation, they are further distinguished as ''pycnostyle, systyle, eustyle, diastyle'', and ''areostyle'' structures, and in regard to the number of columns in front, as ''tetrastyle, hexastyle, octastyle'', and ''decastyle.'' (See these words.) Circular temples are known as ''monopteral'', with or without a cella. The temples of ancient Egypt are impressive from their great size and from the number and mass of the pillars ordinarily introduced in their construction; those of India are remarkable for the elaborateness of their plan and elevation, and the lavishness of their sculptured decoration. See also cuts under ''dipteral, cella, monopteron, octastyle, pantheon, opisthodomos'', and ''prostyle.''\n\n[[File:century v08 p0028 c2f1.png|center|326px]]\n{{c|Greek Temple. Diagram illustrating the construction and arrangement of the Doric temple of Athena, Ægina.}}\n\n{{c|''A'', stereobate. ''B'', stylobate. ''C'', ''C'', columns of peristyle. ''D'', interior columns of cella. ''E'', capital of column: ''h'', abacus; ''i'', echinus; ''j'', hypotrachelium. ''F'', entablature: ''a'', architrave; ''b'', frieze; ''c'', cornice; ''d'', triglyph; ''e'', metope; ''f'', ''f'', mutules; ''g'', regula with guttæ. ''G'', acroterium. ''H'', ''H'', portions of the pediment. ''I'', ''I'', walls of cella. ''K'', ''K'', hypothetical apertures in the roof for the admission of light to the cella.}}\n\n{{smaller block|In this connection the term \"house of God\" has quite a different sense from that which we connect with it when we apply it to a Christian place of worship. A ''temple'' is not a meeting-place for worshippers; for many ancient temples were open only to priests, and as a general rule the altar, which was the true place of worship, stood not within the house but before the door. The ''temple'' is the dwelling-house of the deity to which it is consecrated, whose presence is marked by a statue or other sacred symbol; and in it his sacred treasures, the gifts and tribute of his worshippers, are kept, under the charge of his attendants or priests.\n{{right|''Encyc. Brit.'', XXIII. 165.}}}}\n\n2. The religious edifice of the Jews in Jerusalem. {{smaller|There were three buildings successively erected in the same spot, and entitled, from the names of their builders, the temple of Solomon, the temple of Zerubbabel, and the temple of Herod. The first was built by Solomon, and was destroyed by Nebuchadnezzar about 586 {{sc|b. c.}} The second was built by the Jews on their return from the captivity (about 537 {{sc|b. c.}}), and was pillaged or partially destroyed several times, as by Antiochus Epiphanes, Pompey, and Herod. The third, the largest and most magnificent of the three, was begun by Herod the Great, and was completely destroyed at the capture of Jerusalem by the Romans ({{sc|a. d.}} 70). Various attempts have been made toward the restoration of the first and the third of these temples, but scholars are not agreed in respect to architectural details. The ornament and design were in any case of severe and simple character, though rich materials were used. The successive temples all consisted of a combination of buildings, comprising courts separated from and arising one above another, and provided also with chambers for the use of the priests and for educational purposes. The inclosure of Herod's temple covered nineteen acres. It comprised an outer court of the Gentiles, a court of the women, a court of Israel, a court of the priests, and the temple building, with the holy place, and within all — entered only once a year, and only by the high priest — the holy of holies. Within the court of the priests were the great altar and the laver, within the holy place the golden candlestick, the altar of incense, and the table for the showbread, and within the holy of holies the ark of the covenant and the mercy-seat.}}\n\n{{smaller block|Out of that seyd ''Temple'' oure Lord drof the Byggeres and the Selleres.\n{{right|''Mandeville'', Travels, p. 86.}}}}\n\n{{smaller block|And he sware, By this Habitacle — that is, the ''Themple.''\n{{right|''Purchas'', Pilgrimage, p. 138.}}}}\n\n3. An edifice erected as a place of public worship; a church; in France, specifically, a Protestant church, as distinguished from a Roman Catholic place of worship, which alone is usually spoken of as a ''church'' (''église'').\n\n{{smaller block|That time [for the outward service] to me towards you is Tuesday, and my ''temple'' the Rose in Smithfield.\n{{right|''Donne'', Letters, xxiv.}} The true Christian . . . loves the good, under whatever ''temple'', at whatever altar he may find them.\n{{right|''Sydney Smith'', in Lady Holland, iii.}}}}\n\n4. Metaphorically, any place in which the divine presence specially resides.\n\n{{smaller block|Know ye not that your body is the ''temple'' of the Holy Ghost which is in you, which ye have of God, and ye are not your own? {{right|1 Cor. vi. 19.}}}}\n\n{{smaller block|My chamber were no ''temple'', my body were no ''temple'', except God came to it. {{right|''Donne'', Sermons, iv.}}}}\n\n5. [''cap.''] The name of two semi-monastic establishments of the middle ages, one in London, the other in Paris, occupied by the Knights Templars. {{smaller|The Temple Church, London, is the only part of either establishment now existing. On the site of the London Temple the two Inns of Court called the Middle Temple and Inner Temple now stand; they have long been occupied by barristers, and are the joint property of the two societies called the Societies of the Inner and of the Middle Temple, which have the right of calling candidates to the degree of barrister. The Temple in Paris was the prison of Louis XVI. and the royal family during their sufferings in 1792 and 1793.}}\n\n6†. An inn of court.\n\n{{smaller block|A gentle maunciple was ther of a ''temple.''\n{{right|''Chaucer'', Gen. Prol. to C. T., l. 567.}}}}\n\n{{smaller|'''Master of the temple.''' See ''master''<sup>1</sup>.—'''Temple jar, temple vase,''' a jar or vase such as are used for the decoration and ceremonial of religious temples in China, Japan, etc.—'''Temple jewelry.''' See ''jewelry.''}}\n\n'''temple'''<sup>1</sup> (tem′pl), ''v. t.''; pret. and pp. ''templed'', ppr. ''templing''. [< ''temple''<sup>1</sup>, ''n.''] To build a temple for; appropriate a temple to; inclose in a temple. [Rare.]\n\n{{smaller block|The heathen (in many places) ''templed'' and adored this drunken god. {{right|''Feltham'', Resolves, i. 84.}}}}\n\n'''temple<sup>2</sup>''' (tem′pl), ''n.'' [< ME. ''temple'', < OF. ''temple'', F. ''tempe'', dial. ''temple'' = Pr. ''templa'' = It. ''tempia'', < L. ''tempora'', the temples, pl. of ''tempus'', temple, head, face.] 1. The region of the head or skull behind the eye and forehead, above and mostly in front of the ear. {{smaller|This area corresponds to the temporal fossa above the zygomatic arch, where the skull is very thin and is covered by the temporal muscle.}}\n\n{{smaller block|King Helenus wav'd high the Thracian blade,<br>And smote his ''temples'' with an arm so strong<br>The helm fell off, and roll'd amid the throng.\n{{right|''Pope'', Iliad, xiii. 729.}}}}\n\n2. In ''entom.'', the posterior part of the gena, or that immediately beneath the eye.—3. One of the bars sometimes added to the ends of spectacle-bows to give them a firmer hold on the head of the wearer. See ''spectacle'', 5.—4. An ornament worn at the side of the head or covering the side of the head, mentioned in the fifteenth century as apparently sometimes of needlework, sometimes set with jewels. ''Fairholt.''\n\n'''temple<sup>3</sup>''' (tem′pl), ''n.'' [< F. ''temple'', templet.] An attachment to a loom for keeping the cloth stretched, while the reed beats the threads into place after each throw of the shuttle. One form is automatic, releasing the cloth and then stretching it after each stroke of the lay.\n\n'''templeless''' (tem′pl-les), ''a.'' [< ''temple''<sup>1</sup> + ''-less.''] Devoid of a temple. ''Bulwer'', Caxtons, iv. 2.\n\n'''templer†''' (tem′plėr), ''n.'' See ''templar.''\n\n'''templet''' (tem′plet), ''n.'' [< F. ''templet'', a stretcher, < L. ''templum'', a small timber, a purlin.] '''1.''' A pattern, guide, or model used to indicate the shape any piece of work is to assume when finished. It may also be used as a tool in modeling plastic material, or as a guide placed in a milling-machine, shaper-lathe, or other automatic cutting-machine. In these applications it may be a thin piece of wood or metal, with one or all the edges cut in profile to the shape of the baluster, cornice, part of a machine, or other object to be wrought to shape. Templets are also used as guides in filing sheet-metal to shape, as in making small brass gears for clocks, sheets of brass being clamped between steel templets, and all the parts projecting beyond the edges being filed away. Templets are used in found{{smaller block|ing as patterns in forming molds in loam.}}\n2. A strip of metal used in boiler-making, pierced with a series of holes, and serving as a guide in marking out a line of rivet-holes.—3. In ''building:'' (''a'') A short piece of timber or a large stone placed in a wall to receive the impost of a girder, beam, etc., and distribute its weight. (''b'') A beam or plate spanning a door- or window-space to sustain joists and throw their weight on the piers. (''c'') One of the wedges in a building-block. ''E. H. Knight.''—4. Same as ''temple''<sup>3</sup>.—5. In a brilliant, same as ''bezel'', 2. See cut under ''brilliant.''\n\n[[File:century v08 p0028 c3f1.png|center|112px]]\n{{c|Templet for a Baluster.}}\n\nAlso ''template.''\n\n'''templify''' (tem′pli-fī), ''v. t.''; pret. and pp. ''templified'', ppr. ''templifying.'' To make into a temple. [Rare.]<noinclude><references/></noinclude>"
+}
