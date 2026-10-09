@@ -1,0 +1,243 @@
+{
+ "volume": 8,
+ "page_number": 124,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n123.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n123.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": 0.0,
+  "column_width": 844,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     33,
+     61,
+     2442,
+     99
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     33,
+     99,
+     852,
+     1084
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     33,
+     1084,
+     852,
+     2056
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     33,
+     2056,
+     852,
+     3148
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     33,
+     3148,
+     852,
+     3315
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     852,
+     99,
+     1598,
+     1160
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     852,
+     1160,
+     1598,
+     2239
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     852,
+     2239,
+     1598,
+     3315
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1598,
+     99,
+     2442,
+     1156
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1598,
+     1156,
+     2442,
+     2207
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1934,
+     2207,
+     2442,
+     2763
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1934,
+     2767,
+     2442,
+     2817
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1598,
+     2207,
+     1934,
+     2817
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1598,
+     2817,
+     2442,
+     3315
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|thume|6320|thunderbolt}}",
+   "c1s1": "¶\n'''thume†''', ''n.'' A Middle English form of ''thumb''<sup>1</sup>.\n\n'''thumerstone''' (tö′mėr-stōn), ''n.'' [< G. ''Thumer'', < ''Thum'', in Saxony, where it was found, + ''stone''.] A mineral: same as ''axinite''.\n\n'''thumite''' (tö′mīt), ''n.'' [< ''Thum'', in Saxony, + ''-ite''<sup>2</sup>.] Same as ''thumerstone''.\n\n'''thummel''' (thum′l), ''n.'' A dialectal form of ''thimble''.\n\n'''thummie''' (thum′i), ''n.'' [Dim. of ''thumb''<sup>1</sup>.] The chiffchaff, a bird, ''Phylloscopus rufus''. Compare ''thumb-bird''.\n\n'''thummim''' (thum′im), ''n. pl.'' [LL. (Vulgate) transliteration of Heb. ''tummim'', pl. of ''tōm'', perfection, truth, < ''tāmam'', perfect, be perfect.] See ''urim and thummim'', under ''urim''.\n\n'''thump''' (thump), ''v.'' [Not found in ME.; appar. a var. of ''dump'', < Icel. ''dumpa'' (once), thump, = Norw. ''dumpa'', fall down suddenly, = Sw. dial. ''dumpa'', make a noise, etc.: see ''dump''<sup>2</sup>. Cf. ''thum''.] '''I.''' ''trans.'' '''1.''' To beat heavily, or with something thick and heavy.\n\n{{smaller block|When so she lagged, as she needs mote so,\nHe with his speare, that was to him great blame,\nWould ''thumpe'' her forward and inforce to goe.\n{{right|''Spenser'', F. Q., VI. ii. 10.}}}}\n\n{{smaller block|With these masqueraders that vast church is filled, who are seen ''thumping'' their breasts, and kissing the pavement with extreme devotion. ''Gray'', Letters, I. 71.}}\n\n'''2†.''' To produce by a heavy blow or beating.\n\n{{smaller block|When blustering Boreas . . .\n''Thumps'' a thunder-bounce.\n{{right|''Ford'', Lover's Melancholy, i. 1.}}}}",
+   "c1s2": "¶\n\n'''II.''' ''intrans.'' To beat; give a thump or blow.\n\n{{smaller block|As though my heart-strings had been cracked I wept and sighed, and ''thumped'' and ''thumped'', and raved and randed and railed.\n{{right|''Dekker and Webster'', Northward Ho, iv. 1.}}}}\n\n{{smaller block|As he approached the stream, his heart began to ''thump.''\n{{right|''Irving'', Sketch-Book, p. 448.}}}}\n\n'''thump''' (thump), ''n.'' [< ''thump'', ''v.''] A heavy blow, or the sound made by such a blow; a blow with a club, the fist, or anything that gives a thick, heavy sound; a bang: as, to give one a ''thump''.\n\n{{smaller block|Long hair . . . is, in peace, an ornament; in war, a strong helmet; it blunts the edge of a sword, and deads the leaden ''thump'' of a bullet.\n{{right|''Dekker'', Gull's Hornbook, p. 89.}}}}\n\n{{smaller block|The watchman's ''thump'' at midnight startles us in our beds as much as the breaking in of a thief.\n{{right|''Addison'', Spectator, No. 251.}}}}\n\n'''thumper''' (thum′pėr), ''n.'' [< ''thump'' + ''-er''<sup>1</sup>.] '''1.''' One who or that which thumps.—'''2.''' A thing or a person that is impressive by reason of hugeness or greatness; an unusually big fish, lie, etc.; a whopper. [Colloq.]\n\n{{smaller block|He cherished his friend, and he relished a bumper;\nYet one fault he had, and that one was a ''thumper.''\n{{right|''Goldsmith'', Retaliation.}}}}\n\n'''thumping''' (thum′ping), ''p. a.'' [Ppr. of ''thump''.] Unusually large or heavy; big. [Colloq.]\n\n{{smaller block|Let us console that martyr, I say, with ''thumping'' damages; and as for the woman—the guilty wretch! let us lead her out and stone her.\n{{right|''Thackeray.''}}}}",
+   "c1s3": "¶\n'''thumpkin''' (thump′kin), ''n.'' [< ''thump'' (?) + ''-kin.'' Cf. ''thumbkin.''] 1. A lumpkin; a clown. [Prov. Eng.]—2. A barn of hay. [Thieves' slang.]\n\n'''Thunbergia''' (thun-bėr′ji-ä̤), ''n.'' [NL. (Linnæus filius, 1781), named after K. P. ''Thunberg'', 1743–1828, a Swedish botanist, author of the \"Flora Japonica\" and \"Flora Capensis.\"] A genus of gamopetalous plants, type of the tribe ''Thunbergieæ'' in the order ''Acanthaceæ.'' {{smaller|It is distinguished from ''Mendoncia'', the other principal genus of its tribe, by its fruit, a beaked capsule with two to four seeds; and from others of the order by its contorted and nearly equal corolla-lobes, and roundish seeds without a retinaculum. There are about 45 species, natives of tropical and southern Africa, Madagascar, and warm parts of Asia. They are commonly twining vines, or in a number of species low erect herbs. They bear opposite leaves, often triangular, hastate, cordate, or narrower, and purple, blue, yellow, or white flowers solitary in the axils or forming terminal racemes. The flowers often combine two colors, as ''T. laurifolia'' (''T. Harrisi''), a greenhouse climber with large yellow-throated blue flowers, and the hardy annual ''T. alata'', known locally by the name ''black-eyed-Susan'' from its buff, orange, or white flowers with a purplish-black center. Other species, as ''T. grandiflora'', are favorite trellis-climbers, and commonly known by the generic name.}}\n\n'''thunder''' (thun′dėr), ''n.'' [< ME. ''thunder'', ''thonder'', ''thondre'' (with excrescent ''d'' as also in the D. form), earlier ''thoner'', ''thuner'' (> E. dial. ''thunner''), < AS. ''thunor'' (gen. ''thunres'', ''thonres''), thunder (''Thunor'', also, after Icel., ''Thur'', the god of thunder, Thor), = OS. ''Thuner'', the god of thunder, = OFries. ''thuner'' = D. ''donder'' = OHG. ''donar'', MHG. ''doner'', G. ''donner'', thunder (OHG. ''Donar'', the god of thunder, Thor), = Icel. ''Thōrr'' (dat. and acc. ''Thōr'', in Runic inscriptions also ''Thur''), the god of thunder, Thor (cf. Icel. ''Thundr'' (gen. ''Thundar''), one of the names of Odin—",
+   "c1s4": "appar. a reflex of the AS. or E. word), = Sw.",
+   "c2s1": "Dan. ''Tor'', the god of thunder, Thor (Sw. ''tor-dön'', Dan. ''tor-den'', thunder: Sw. ''dön'' (later ''dån'') = Dan. ''dön'' = E. ''din''), = Goth. *''thunars'' (not recorded); akin to L. ''tonitrus'', rarely ''tonitru'', ''tonitruum'', thunder, Skt. ''tanyatu'', thunder, ''tanayitnus'', roaring, thundering; from a verb shown in AS. ''thunian'', rattle, roar, thunder, L. ''tonare'', roar, thunder (cf. AS. ''tonian'' (rare), MD. ''donen'', thunder), Skt. √ ''tan'', roar. This root is usually identified with that of AS. ''thynne'', E. ''thin'', etc. (see ''thin''<sup>1</sup>), the development being variously explained: e. g., 'extension, sound, noise, thunder.' But the two are no doubt entirely distinct: the sense 'tone' in Gr. τόνος is developed from that of 'tension' in quite another way. The √ ''tan'', thunder, is perhaps the same, without the initial ''s'', as the √ ''stan'', in Gr. στένειν = Lith. ''steneti'' = Russ. ''stenatĭ'', ''stonatĕ'', groan, = Skt. √ ''stan'', roar, thunder, E. ''stun'', etc. (a similar double root in ''st-'' and ''t-'' is shown in the etym. of ''thatch'' and other words: see ''stun''). Hence ''thunder'', ''v.'', and the first element of ''Thursday'', and, from the Scand., ''Thor''.] 1. The loud noise which follows a flash of lightning, due to the sudden disturbance of the air by a violent discharge of electricity through it. {{smaller|The character of the sound varies with the force and the distance of the discharge, the form, number, and relative arrangement of the clouds, and the nature of the surrounding country. The position of the observer relative to the path of the discharge has also an important influence on the character of the sound heard. If the observer is about equally distant from the two bodies between which the discharge takes place, the sound is short and sharp, while if his position is approximately in line with the path of discharge,}}",
+   "c2s2": "so as to be considerably further from one body than the other, the sound is prolonged into a long roll, due to the difference of time which the sound takes to reach the ear from the different parts of the path. In hilly regions, and where there are many clouds in the neighborhood of the discharge, the sound is echoed and reëchoed, causing a prolonged and more or less continuous roar. As sound travels at the rate of about 1,100 feet per second, and light at the rate of about 186,000 miles per second, the number of miles the observer is from the discharge will be nearly one fifth the number of seconds which elapse between seeing the flash and hearing the sound. Discharges between clouds high up in the atmosphere are not usually heard through so long distances as might be expected, owing to the diminution of the intensity of sounds in passing from rarer to denser media. Discharges from clouds near the earth's surface to the earth can be heard as far as any other sound of equal intensity.\n\n{{smaller block|No ''thunders'' shook with deep intestine sound<br>The blooming groves that girdled her around.\n{{right|''Cowper'', Heroism, l. 5.}}}}\n\n2. The destructive agent in a thunder-storm; a discharge of lightning; a thunderbolt.\n\n{{smaller block|And therfore hathe White Thorn many Vertues: For he that berethe a Braunche on him thereoffe, no ''Thondre'' ne no maner of Tempest may dere him.\n{{right|''Mandeville'', Travels, p. 13.}}\nI told him, the revenging gods<br>'Gainst parricides did all their ''thunders'' bend.\n{{right|''Shak.'', Lear, ii. 1. 48.}}\nBy the gods, my heart speaks this;<br>And if the least fall from me not perform'd,<br>May I be struck with ''thunder!''\n{{right|''Beau. and Fl.'', Philaster, v. 3.}}}}\n\n3. Any loud resounding noise: as, ''thunders'' of applause.\n\n{{smaller block|The ''thunder'' of my cannon shall be heard.\n{{right|''Shak.'', K. John, i. 1. 26.}}\nWelcome her, ''thunders'' of fort and of fleet!\n{{right|''Tennyson'', Welcome to Alexandra.}}}}",
+   "c2s3": "¶\n\n4. An awful or startling denunciation or threat.\n\n{{smaller block|The ''thunders'' of the Vatican could no longer strike terror into the heart of princes, as in the days of the Crusades.\n{{right|''Prescott.''}}}}\n\n5. As an exclamation, an abbreviation of ''by thunder'', a mild oath. Compare ''thunderation.'' [Colloq.]—'''Blood-and-thunder''', {{smaller|sensational; full of bloody deeds and bravado: noting plays, novels, etc. [Colloq.]}}—'''Cross of thunder.''' {{smaller|See ''cross''<sup>1</sup>.}}\n\n'''thunder''' (thun′dėr), ''v.'' [< ME. ''thunderen, thonderen, thuneren, thoneren'' (> E. dial. ''thunner''), < AS. ''thunrian'' = D. ''donderen'' = OHG. ''donarōn'', MHG. ''donren'', MG. ''dunren'', G. ''donnern'' = Sw. ''dundra'' = Dan. ''dundre'', thunder; from the noun.] I. ''intrans.'' 1. To give forth thunder; resound with thunder; formerly, to lighten (and thunder): often used impersonally: as, it ''thundered'' yesterday.\n\n{{smaller block|Wednesday, the vj Day of Januarii, the wynde Rose a yens vs, with grett tempest, ''thonnderyng'' and lyghtnyng all Day and all nyght, So owtrageowsly that we knew not wher wee war.\n{{right|''Torkington'', Diarie of Eng. Travell, p. 60.}}}}\n\n{{smaller block|He would not flatter Neptune for his trident\nOr Jove for 's power to ''thunder.''\n{{right|''Shak.'', Cor., iii. 1. 256.}}}}\n\n2. To make a sound resembling thunder; make a loud noise, particularly a heavy sound of some continuance.\n\n{{smaller block|Canst thou ''thunder'' with a voice like him? Job xl. 9.}}\n\n{{smaller block|Ay me, what act\nThat roars so loud, and ''thunders'' in the index?\n{{right|''Shak.'', Hamlet, iii. 4. 52.}}}}",
+   "c3s1": "{{smaller block|His dreadful voice no more<br>Would ''thunder'' in my ears.{{right|''Milton'', P. L., x. 780.}}}}\n\n{{smaller block|I will have his head, were Richard ''thundering'' at the gates of York.{{right|''Scott'', Ivanhoe, xxxiv.}}}}\n\n3. To utter loud denunciations or threats.\n\n{{smaller block|The orators on the other side ''thundered'' against sinful associations.{{right|''Macaulay'', Hist. Eng., xiii.}}}}\n\n'''The Thundering Legion.''' {{smaller|See ''legion''.}}\n\n'''II.''' ''trans.'' 1. To emit with or as with the noise of thunder; utter with a loud and threatening voice; utter or issue by way of threat or denunciation.\n\n{{smaller block|Oracles severe<br>Were daily ''thunder'd'' in our gen'ral's ear.{{right|''Dryden'', tr. of Ovid's Metamorph., xiii. 293.}}}}\n\n{{smaller block|Should eighty-thousand college-councils<br>''Thunder'' \"Anathema,\" friend, at you.{{right|''Tennyson'', To Rev. F. D. Maurice.}}}}\n\n2. To lay on with vehemence. [Rare.]\n\n{{smaller block|Therewith they gan, both furious and fell,<br>To ''thunder'' blowes, and fiersly to assaile<br>Each other.{{right|''Spenser'', F. Q., I. vi. 43.}}}}\n\n'''thunder-and-lightning''' (thun′dėr-and-līt′ning), ''n.'' Same as ''Oxford mixture'' (which see, under ''mixture''). [Colloq.] — '''Thunder-and-lightning snake.''' {{smaller|See ''snake''.}}\n\n'''thunderation''' (thun-dėr-ā′shọn), ''n.'' Same as ''thunder'', 5. [Colloq., U. S.]\n\n'''thunder-ax''' (thun′dėr-aks), ''n.'' Same as ''thunderbolt'', 3 (''a'').\n\n'''thunderbeat†''' (thun′dėr-bēt), ''v. t.'' [< ''thunder'' + ''beat''<sup>1</sup>.] To beat with thundering strokes. [Rare.]\n\n{{smaller block|So he them ''thunderbet'' whereso he went,}}",
+   "c3s2": "{{smaller block|That neuer a stroke in vaine his right hand spent.\n{{right|''Hudson'', tr. of Du Bartas's Judith, v. 397. (''Davies.'')}}}}\n\n'''thunder-bird''' (thun′dėr-bėrd), ''n.'' 1. An Australian thick-headed shrike, ''Pachycephala gutturalis.'' {{smaller|It is about 6 inches long, rich-yellow below, with a jet-black collar and white throat, black head, and partly black tail. It was called by Latham ''guttural thrush, Turdus gutturalis,'' and ''black-breasted flycatcher, Muscicapa pectoralis,'' by others ''white-throated thickhead,'' and it has also a variety of French and New Latin names. It closely resembles the species figured under ''Pachycephala.''}}\n\n2. In the mythology of some low tribes, an imaginary bird supposed to cause thunder by the flapping of its wings, or considered as personifying it. ''E. B. Tylor.''\n\n'''thunderblast''' (thun′dėr-blȧst), ''n.'' [< ME. ''thonderblast;'' < ''thunder'' + ''blast.''] A peal of thunder.\n\n'''thunderbolt''' (thun′dėr-bōlt), ''n.'' [< ''thunder'' + ''bolt''<sup>1</sup>.] 1. A flash of lightning with the accompanying crash of thunder: so called because regarded as due to the hurling of a bolt or shaft at the object struck by the lightning. See def. 2.\n\n{{smaller block|The term ''thunderbolt,'' which is nowadays rarely used except by poets (and by the penny-a-liners), preserves the old notion that something solid and intensely hot passed along the track of a lightning flash and buried itself in the ground.\n{{right|''P. G. Tait,'' Encyc. Brit., XXIII. 330.}}}}\n\n2. The imaginary bolt or shaft (often regarded as a stone) conceived as the material agent or substance of a flash of lightning, and the cause of the accompanying crash of thunder: an attribute of Zeus or Jupiter as the god of thunder (Jupiter Tonans); specifically, in ''her.'', a bearing representing a thunderbolt more or less like",
+   "c3c1": "{{c|Jupiter holding a Thunderbolt.<br>(From a Pompeian wall-painting.)}}\n\nWait — <br> isn't allowed.\n\n{{c|Jupiter holding a Thunderbolt. (From a Pompeian wall-painting.)}}\n\nHmm, I must output only the final.",
+   "c3s3": "that of Jupiter. {{smaller|It is often composed of barbed lances, the shafts of which are broken into dovetails, and a group of these put side by side, having a pair of wings attached, is emblematic of radiating light; sometimes it is a double flame of fire pointing up and down and accompanied with lances, radiating blades, etc.}}\n\n'''3.''' A stone or other hard concretion of distinctive shape, usually tapering or spear-like, found in the ground, and supposed in popular su-",
+   "c3s4": "been the material substance of a thunderbolt (in sense 2), and to have fallen from heaven with the lightning. {{smaller|Specifically—(''a'') One of various polished stone implements, celts, and the like, found in the ground, supposed to have fallen from the sky. Also called ''thunder-ax'', ''thunder-hammer'', ''thunder-stone'', ''ceraunia'', and ''storm-stone''. (''b'') A mass of iron pyrites occurring, either as a nodule or a bunch of crystals, in the chalk of England. (''c'') One of sundry fossil cephalopods, as belemnites. Also called ''thunder-stone''. See cut under ''belemnite''.}}\n\n4. Figuratively, one who is daring or irresistible; one who acts with fury or with sudden and resistless force."
+  },
+  "figure_files": {
+   "c3f1": "century v08 p0124 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1945,
+     2210,
+     2326,
+     2760
+    ],
+    "caption": [
+     1958,
+     2767,
+     2314,
+     2817
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1945,
+     2217,
+     2327,
+     2762
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 4475,
+    "output_tokens": 93,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 13,
+    "input_tokens": 10333,
+    "output_tokens": 9648,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 35282
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|thume|6320|thunderbolt}}</noinclude>'''thume†''', ''n.'' A Middle English form of ''thumb''<sup>1</sup>.\n\n'''thumerstone''' (tö′mėr-stōn), ''n.'' [< G. ''Thumer'', < ''Thum'', in Saxony, where it was found, + ''stone''.] A mineral: same as ''axinite''.\n\n'''thumite''' (tö′mīt), ''n.'' [< ''Thum'', in Saxony, + ''-ite''<sup>2</sup>.] Same as ''thumerstone''.\n\n'''thummel''' (thum′l), ''n.'' A dialectal form of ''thimble''.\n\n'''thummie''' (thum′i), ''n.'' [Dim. of ''thumb''<sup>1</sup>.] The chiffchaff, a bird, ''Phylloscopus rufus''. Compare ''thumb-bird''.\n\n'''thummim''' (thum′im), ''n. pl.'' [LL. (Vulgate) transliteration of Heb. ''tummim'', pl. of ''tōm'', perfection, truth, < ''tāmam'', perfect, be perfect.] See ''urim and thummim'', under ''urim''.\n\n'''thump''' (thump), ''v.'' [Not found in ME.; appar. a var. of ''dump'', < Icel. ''dumpa'' (once), thump, = Norw. ''dumpa'', fall down suddenly, = Sw. dial. ''dumpa'', make a noise, etc.: see ''dump''<sup>2</sup>. Cf. ''thum''.] '''I.''' ''trans.'' '''1.''' To beat heavily, or with something thick and heavy.\n\n{{smaller block|When so she lagged, as she needs mote so,\nHe with his speare, that was to him great blame,\nWould ''thumpe'' her forward and inforce to goe.\n{{right|''Spenser'', F. Q., VI. ii. 10.}}}}\n\n{{smaller block|With these masqueraders that vast church is filled, who are seen ''thumping'' their breasts, and kissing the pavement with extreme devotion. ''Gray'', Letters, I. 71.}}\n\n'''2†.''' To produce by a heavy blow or beating.\n\n{{smaller block|When blustering Boreas . . .\n''Thumps'' a thunder-bounce.\n{{right|''Ford'', Lover's Melancholy, i. 1.}}}}\n\n'''II.''' ''intrans.'' To beat; give a thump or blow.\n\n{{smaller block|As though my heart-strings had been cracked I wept and sighed, and ''thumped'' and ''thumped'', and raved and randed and railed.\n{{right|''Dekker and Webster'', Northward Ho, iv. 1.}}}}\n\n{{smaller block|As he approached the stream, his heart began to ''thump.''\n{{right|''Irving'', Sketch-Book, p. 448.}}}}\n\n'''thump''' (thump), ''n.'' [< ''thump'', ''v.''] A heavy blow, or the sound made by such a blow; a blow with a club, the fist, or anything that gives a thick, heavy sound; a bang: as, to give one a ''thump''.\n\n{{smaller block|Long hair . . . is, in peace, an ornament; in war, a strong helmet; it blunts the edge of a sword, and deads the leaden ''thump'' of a bullet.\n{{right|''Dekker'', Gull's Hornbook, p. 89.}}}}\n\n{{smaller block|The watchman's ''thump'' at midnight startles us in our beds as much as the breaking in of a thief.\n{{right|''Addison'', Spectator, No. 251.}}}}\n\n'''thumper''' (thum′pėr), ''n.'' [< ''thump'' + ''-er''<sup>1</sup>.] '''1.''' One who or that which thumps.—'''2.''' A thing or a person that is impressive by reason of hugeness or greatness; an unusually big fish, lie, etc.; a whopper. [Colloq.]\n\n{{smaller block|He cherished his friend, and he relished a bumper;\nYet one fault he had, and that one was a ''thumper.''\n{{right|''Goldsmith'', Retaliation.}}}}\n\n'''thumping''' (thum′ping), ''p. a.'' [Ppr. of ''thump''.] Unusually large or heavy; big. [Colloq.]\n\n{{smaller block|Let us console that martyr, I say, with ''thumping'' damages; and as for the woman—the guilty wretch! let us lead her out and stone her.\n{{right|''Thackeray.''}}}}\n\n'''thumpkin''' (thump′kin), ''n.'' [< ''thump'' (?) + ''-kin.'' Cf. ''thumbkin.''] 1. A lumpkin; a clown. [Prov. Eng.]—2. A barn of hay. [Thieves' slang.]\n\n'''Thunbergia''' (thun-bėr′ji-ä̤), ''n.'' [NL. (Linnæus filius, 1781), named after K. P. ''Thunberg'', 1743–1828, a Swedish botanist, author of the \"Flora Japonica\" and \"Flora Capensis.\"] A genus of gamopetalous plants, type of the tribe ''Thunbergieæ'' in the order ''Acanthaceæ.'' {{smaller|It is distinguished from ''Mendoncia'', the other principal genus of its tribe, by its fruit, a beaked capsule with two to four seeds; and from others of the order by its contorted and nearly equal corolla-lobes, and roundish seeds without a retinaculum. There are about 45 species, natives of tropical and southern Africa, Madagascar, and warm parts of Asia. They are commonly twining vines, or in a number of species low erect herbs. They bear opposite leaves, often triangular, hastate, cordate, or narrower, and purple, blue, yellow, or white flowers solitary in the axils or forming terminal racemes. The flowers often combine two colors, as ''T. laurifolia'' (''T. Harrisi''), a greenhouse climber with large yellow-throated blue flowers, and the hardy annual ''T. alata'', known locally by the name ''black-eyed-Susan'' from its buff, orange, or white flowers with a purplish-black center. Other species, as ''T. grandiflora'', are favorite trellis-climbers, and commonly known by the generic name.}}\n\n'''thunder''' (thun′dėr), ''n.'' [< ME. ''thunder'', ''thonder'', ''thondre'' (with excrescent ''d'' as also in the D. form), earlier ''thoner'', ''thuner'' (> E. dial. ''thunner''), < AS. ''thunor'' (gen. ''thunres'', ''thonres''), thunder (''Thunor'', also, after Icel., ''Thur'', the god of thunder, Thor), = OS. ''Thuner'', the god of thunder, = OFries. ''thuner'' = D. ''donder'' = OHG. ''donar'', MHG. ''doner'', G. ''donner'', thunder (OHG. ''Donar'', the god of thunder, Thor), = Icel. ''Thōrr'' (dat. and acc. ''Thōr'', in Runic inscriptions also ''Thur''), the god of thunder, Thor (cf. Icel. ''Thundr'' (gen. ''Thundar''), one of the names of Odin— appar. a reflex of the AS. or E. word), = Sw. Dan. ''Tor'', the god of thunder, Thor (Sw. ''tor-dön'', Dan. ''tor-den'', thunder: Sw. ''dön'' (later ''dån'') = Dan. ''dön'' = E. ''din''), = Goth. *''thunars'' (not recorded); akin to L. ''tonitrus'', rarely ''tonitru'', ''tonitruum'', thunder, Skt. ''tanyatu'', thunder, ''tanayitnus'', roaring, thundering; from a verb shown in AS. ''thunian'', rattle, roar, thunder, L. ''tonare'', roar, thunder (cf. AS. ''tonian'' (rare), MD. ''donen'', thunder), Skt. √ ''tan'', roar. This root is usually identified with that of AS. ''thynne'', E. ''thin'', etc. (see ''thin''<sup>1</sup>), the development being variously explained: e. g., 'extension, sound, noise, thunder.' But the two are no doubt entirely distinct: the sense 'tone' in Gr. τόνος is developed from that of 'tension' in quite another way. The √ ''tan'', thunder, is perhaps the same, without the initial ''s'', as the √ ''stan'', in Gr. στένειν = Lith. ''steneti'' = Russ. ''stenatĭ'', ''stonatĕ'', groan, = Skt. √ ''stan'', roar, thunder, E. ''stun'', etc. (a similar double root in ''st-'' and ''t-'' is shown in the etym. of ''thatch'' and other words: see ''stun''). Hence ''thunder'', ''v.'', and the first element of ''Thursday'', and, from the Scand., ''Thor''.] 1. The loud noise which follows a flash of lightning, due to the sudden disturbance of the air by a violent discharge of electricity through it. {{smaller|The character of the sound varies with the force and the distance of the discharge, the form, number, and relative arrangement of the clouds, and the nature of the surrounding country. The position of the observer relative to the path of the discharge has also an important influence on the character of the sound heard. If the observer is about equally distant from the two bodies between which the discharge takes place, the sound is short and sharp, while if his position is approximately in line with the path of discharge,}} so as to be considerably further from one body than the other, the sound is prolonged into a long roll, due to the difference of time which the sound takes to reach the ear from the different parts of the path. In hilly regions, and where there are many clouds in the neighborhood of the discharge, the sound is echoed and reëchoed, causing a prolonged and more or less continuous roar. As sound travels at the rate of about 1,100 feet per second, and light at the rate of about 186,000 miles per second, the number of miles the observer is from the discharge will be nearly one fifth the number of seconds which elapse between seeing the flash and hearing the sound. Discharges between clouds high up in the atmosphere are not usually heard through so long distances as might be expected, owing to the diminution of the intensity of sounds in passing from rarer to denser media. Discharges from clouds near the earth's surface to the earth can be heard as far as any other sound of equal intensity.\n\n{{smaller block|No ''thunders'' shook with deep intestine sound<br>The blooming groves that girdled her around.\n{{right|''Cowper'', Heroism, l. 5.}}}}\n\n2. The destructive agent in a thunder-storm; a discharge of lightning; a thunderbolt.\n\n{{smaller block|And therfore hathe White Thorn many Vertues: For he that berethe a Braunche on him thereoffe, no ''Thondre'' ne no maner of Tempest may dere him.\n{{right|''Mandeville'', Travels, p. 13.}}\nI told him, the revenging gods<br>'Gainst parricides did all their ''thunders'' bend.\n{{right|''Shak.'', Lear, ii. 1. 48.}}\nBy the gods, my heart speaks this;<br>And if the least fall from me not perform'd,<br>May I be struck with ''thunder!''\n{{right|''Beau. and Fl.'', Philaster, v. 3.}}}}\n\n3. Any loud resounding noise: as, ''thunders'' of applause.\n\n{{smaller block|The ''thunder'' of my cannon shall be heard.\n{{right|''Shak.'', K. John, i. 1. 26.}}\nWelcome her, ''thunders'' of fort and of fleet!\n{{right|''Tennyson'', Welcome to Alexandra.}}}}\n\n4. An awful or startling denunciation or threat.\n\n{{smaller block|The ''thunders'' of the Vatican could no longer strike terror into the heart of princes, as in the days of the Crusades.\n{{right|''Prescott.''}}}}\n\n5. As an exclamation, an abbreviation of ''by thunder'', a mild oath. Compare ''thunderation.'' [Colloq.]—'''Blood-and-thunder''', {{smaller|sensational; full of bloody deeds and bravado: noting plays, novels, etc. [Colloq.]}}—'''Cross of thunder.''' {{smaller|See ''cross''<sup>1</sup>.}}\n\n'''thunder''' (thun′dėr), ''v.'' [< ME. ''thunderen, thonderen, thuneren, thoneren'' (> E. dial. ''thunner''), < AS. ''thunrian'' = D. ''donderen'' = OHG. ''donarōn'', MHG. ''donren'', MG. ''dunren'', G. ''donnern'' = Sw. ''dundra'' = Dan. ''dundre'', thunder; from the noun.] I. ''intrans.'' 1. To give forth thunder; resound with thunder; formerly, to lighten (and thunder): often used impersonally: as, it ''thundered'' yesterday.\n\n{{smaller block|Wednesday, the vj Day of Januarii, the wynde Rose a yens vs, with grett tempest, ''thonnderyng'' and lyghtnyng all Day and all nyght, So owtrageowsly that we knew not wher wee war.\n{{right|''Torkington'', Diarie of Eng. Travell, p. 60.}}}}\n\n{{smaller block|He would not flatter Neptune for his trident\nOr Jove for 's power to ''thunder.''\n{{right|''Shak.'', Cor., iii. 1. 256.}}}}\n\n2. To make a sound resembling thunder; make a loud noise, particularly a heavy sound of some continuance.\n\n{{smaller block|Canst thou ''thunder'' with a voice like him? Job xl. 9.}}\n\n{{smaller block|Ay me, what act\nThat roars so loud, and ''thunders'' in the index?\n{{right|''Shak.'', Hamlet, iii. 4. 52.}} His dreadful voice no more<br>Would ''thunder'' in my ears.{{right|''Milton'', P. L., x. 780.}}}}\n\n{{smaller block|I will have his head, were Richard ''thundering'' at the gates of York.{{right|''Scott'', Ivanhoe, xxxiv.}}}}\n\n3. To utter loud denunciations or threats.\n\n{{smaller block|The orators on the other side ''thundered'' against sinful associations.{{right|''Macaulay'', Hist. Eng., xiii.}}}}\n\n'''The Thundering Legion.''' {{smaller|See ''legion''.}}\n\n'''II.''' ''trans.'' 1. To emit with or as with the noise of thunder; utter with a loud and threatening voice; utter or issue by way of threat or denunciation.\n\n{{smaller block|Oracles severe<br>Were daily ''thunder'd'' in our gen'ral's ear.{{right|''Dryden'', tr. of Ovid's Metamorph., xiii. 293.}}}}\n\n{{smaller block|Should eighty-thousand college-councils<br>''Thunder'' \"Anathema,\" friend, at you.{{right|''Tennyson'', To Rev. F. D. Maurice.}}}}\n\n2. To lay on with vehemence. [Rare.]\n\n{{smaller block|Therewith they gan, both furious and fell,<br>To ''thunder'' blowes, and fiersly to assaile<br>Each other.{{right|''Spenser'', F. Q., I. vi. 43.}}}}\n\n'''thunder-and-lightning''' (thun′dėr-and-līt′ning), ''n.'' Same as ''Oxford mixture'' (which see, under ''mixture''). [Colloq.] — '''Thunder-and-lightning snake.''' {{smaller|See ''snake''.}}\n\n'''thunderation''' (thun-dėr-ā′shọn), ''n.'' Same as ''thunder'', 5. [Colloq., U. S.]\n\n'''thunder-ax''' (thun′dėr-aks), ''n.'' Same as ''thunderbolt'', 3 (''a'').\n\n'''thunderbeat†''' (thun′dėr-bēt), ''v. t.'' [< ''thunder'' + ''beat''<sup>1</sup>.] To beat with thundering strokes. [Rare.]\n\n{{smaller block|So he them ''thunderbet'' whereso he went, That neuer a stroke in vaine his right hand spent.\n{{right|''Hudson'', tr. of Du Bartas's Judith, v. 397. (''Davies.'')}}}}\n\n'''thunder-bird''' (thun′dėr-bėrd), ''n.'' 1. An Australian thick-headed shrike, ''Pachycephala gutturalis.'' {{smaller|It is about 6 inches long, rich-yellow below, with a jet-black collar and white throat, black head, and partly black tail. It was called by Latham ''guttural thrush, Turdus gutturalis,'' and ''black-breasted flycatcher, Muscicapa pectoralis,'' by others ''white-throated thickhead,'' and it has also a variety of French and New Latin names. It closely resembles the species figured under ''Pachycephala.''}}\n\n2. In the mythology of some low tribes, an imaginary bird supposed to cause thunder by the flapping of its wings, or considered as personifying it. ''E. B. Tylor.''\n\n'''thunderblast''' (thun′dėr-blȧst), ''n.'' [< ME. ''thonderblast;'' < ''thunder'' + ''blast.''] A peal of thunder.\n\n'''thunderbolt''' (thun′dėr-bōlt), ''n.'' [< ''thunder'' + ''bolt''<sup>1</sup>.] 1. A flash of lightning with the accompanying crash of thunder: so called because regarded as due to the hurling of a bolt or shaft at the object struck by the lightning. See def. 2.\n\n{{smaller block|The term ''thunderbolt,'' which is nowadays rarely used except by poets (and by the penny-a-liners), preserves the old notion that something solid and intensely hot passed along the track of a lightning flash and buried itself in the ground.\n{{right|''P. G. Tait,'' Encyc. Brit., XXIII. 330.}}}}\n\n2. The imaginary bolt or shaft (often regarded as a stone) conceived as the material agent or substance of a flash of lightning, and the cause of the accompanying crash of thunder: an attribute of Zeus or Jupiter as the god of thunder (Jupiter Tonans); specifically, in ''her.'', a bearing representing a thunderbolt more or less like that of Jupiter. {{smaller|It is often composed of barbed lances, the shafts of which are broken into dovetails, and a group of these put side by side, having a pair of wings attached, is emblematic of radiating light; sometimes it is a double flame of fire pointing up and down and accompanied with lances, radiating blades, etc.}}\n\n[[File:century v08 p0124 c3f1.png|center|217px]]\n{{c|Jupiter holding a Thunderbolt.<br>(From a Pompeian wall-painting.)}}\n\nWait — <br> isn't allowed.\n\n{{c|Jupiter holding a Thunderbolt. (From a Pompeian wall-painting.)}}\n\nHmm, I must output only the final.\n\n'''3.''' A stone or other hard concretion of distinctive shape, usually tapering or spear-like, found in the ground, and supposed in popular subeen the material substance of a thunderbolt (in sense 2), and to have fallen from heaven with the lightning. {{smaller|Specifically—(''a'') One of various polished stone implements, celts, and the like, found in the ground, supposed to have fallen from the sky. Also called ''thunder-ax'', ''thunder-hammer'', ''thunder-stone'', ''ceraunia'', and ''storm-stone''. (''b'') A mass of iron pyrites occurring, either as a nodule or a bunch of crystals, in the chalk of England. (''c'') One of sundry fossil cephalopods, as belemnites. Also called ''thunder-stone''. See cut under ''belemnite''.}}\n\n4. Figuratively, one who is daring or irresistible; one who acts with fury or with sudden and resistless force.<noinclude><references/></noinclude>"
+}

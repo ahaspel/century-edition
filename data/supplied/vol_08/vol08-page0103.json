@@ -1,0 +1,297 @@
+{
+ "volume": 8,
+ "page_number": 103,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n102.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n102.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": -1.05,
+  "column_width": 797,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     74,
+     2271,
+     111
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     111,
+     797,
+     1058
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1058,
+     797,
+     1866
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     0,
+     1866,
+     797,
+     2277
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     0,
+     2285,
+     797,
+     2434
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2434,
+     797,
+     3213
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     797,
+     111,
+     1536,
+     992
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     797,
+     992,
+     1536,
+     1994
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     797,
+     1994,
+     1536,
+     3048
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     797,
+     3048,
+     1536,
+     3213
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1536,
+     111,
+     2271,
+     1115
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1809,
+     1128,
+     2271,
+     1467
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1809,
+     1475,
+     2271,
+     1899
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1536,
+     1115,
+     1809,
+     1899
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1536,
+     1899,
+     2271,
+     2945
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1536,
+     2945,
+     2271,
+     3213
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|thoracic|6299|thorax}}",
+   "c1s1": "{{smaller|vertebra which bears functional ribs; entering into the formation of the thorax: specifically noting such vertebræ (all vertebræ being dorsal in one sense). (''c'') Pertaining to the head and thorax of some animals; cephalothoracic: as, ''thoracic'' appendages. (''d'') Attached to the thorax: as, ''thoracic'' limbs or appendages; the ''thoracic'' girdle (that is, the pectoral arch, or shoulder-girdle, of a vertebrate); pectoral in position, as the ventral fins of some fishes. (''e'') Pertaining to the front and sides of the thorax or to the breast; pectoral: as, the mammary glands of man are ''thoracic.'' (''f'') Done or effected by means of the thorax: as, ''thoracic'' respiration. (''g'') Affecting the thorax or its organs: as, ''thoracic'' diseases, symptoms, or remedies.}} 2. Having a thorax (of this or that kind); belonging to the ''Thoracica:'' as, the ''thoracic'' cirripeds.—3. Having the ventral fins thoracic in position; belonging to the ''Thoracici:'' as, a ''thoracic'' fish.{{smaller|—'''Thoracic angles,''' the corners of the thorax, or of the prothorax in insects with wing-covers.—'''Thoracic aorta,''' that section of the aorta which traverses the cavity of the thorax. It extends from the origin of the vessel to its passage through the aortic orifice of the diaphragm, where it becomes the abdominal aorta. The term is also restricted to the straight or descending part of the aorta (excluding the arch). In this sense the thoracic aorta begins where the arch ends, about opposite the fifth thoracic vertebra. The branches of the thoracic aorta are the pericardial, bronchial (the nutrient vessels of the lungs), esophageal, postmediastinal, and the usually ten pairs of intercostals. See cuts under ''diaphragm'' and ''thorax.''—'''Thoracic artery,''' one of several branches given off by the axillary artery in the second and third sections of its course, and distributed chiefly to the pectoral muscles and adjacent soft tissues. Four such vessels are named in man as the ''superior, acromial, long,'' and ''alar.'' They are also called ''suprathoracic, acromiothoracic'' or ''thoracacromial'' or ''thoracico-acromial,''}}",
+   "c1s2": "''longithoracic'', and ''alithoracic''.—'''Thoracic axis''', the common trunk of the acromiothoracic and superior thoracic arteries, when these are given off together.—'''Thoracic duct.''' See ''duct'', and cut under ''diaphragm''.—'''Thoracic ganglia.''' See ''ganglion''.—'''Thoracic girdle''', the pectoral girdle, or scapular arch. See cuts under ''epipleura'', ''omosternum'', and ''sternum''.—'''Thoracic grooving''', the longitudinal depressions along the sternum on either side in rachitic or pigeon-breasted children.—'''Thoracic index''', the ratio between the antero-posterior and transverse diameters of the thorax.—'''Thoracic limbs''', the fore limbs of a vertebrate; the arms of a man, fore legs of a quadruped, wings of a bird, pectoral fins of a fish; the appendages of the scapular arch, or shoulder-girdle; in invertebrates, the appendages proper to the thorax, generally the ambulatory and chelate, as distinguished from abdominal appendages, mouth-parts, etc. See cut under ''Araneida''.—'''Thoracic nerves.''' (''a'') ''Anterior thoracic'', two branches, the external and internal, arising from the outer and inner cords of the brachial plexus and distributed to the pectorales muscles. (''b'') ''Posterior thoracic'', a branch from the upper two or three nerves of the brachial plexus, passing on the side of the chest to be distributed to the serratus magnus. Also called ''long thoracic'', and ''external respiratory nerve of Bell''.—'''Thoracic parietes''', the walls of the chest; especially, the movable front and sides of the chest, whose bony basis is the ribs and sternum.—'''Thoracic region.''' (''a'') The extent or superficies of the thorax as a part of the body; some part of the thoracic walls, with reference to groups of muscles which lie upon them: as, the anterior or lateral ''thoracic region''. (''b'') Especially, one of the several parts",
+   "c1c1": "{{c|Thoracic Regions, bounded by thick black lines.}}\n\n{{c|1, 1, right and left humeral; 2, 2, right and left subclavian; 3, 3, right and left mammary; 4, 4, right and left axillary; 5, 5, right and left subaxillary or lateral; 6, 6, right and left scapular; 7, 7, right and left interscapular; 8, 8, right and left superior dorsal, or subscapular. The viscera of the thorax are indicated by dotted lines. ''a'', diaphragm; ''b'', heart; ''c'', lungs; ''d'', liver; ''e'', kidneys; ''f'', stomach.}}",
+   "c1s3": "{{smaller|into which the surface of the human thorax is divided or mapped out by certain imaginary lines, which to some extent denote the situation of the contained viscera, and thus serve for medical and surgical purposes. These regions, unlike some of the corresponding abdominal regions, are all in pairs (right and left), in one nomenclature known as the ''humeral, subclavian, mammary, axillary, scapular, interscapular,'' and ''subscapular.''—'''Thoracic region of the spine,''' that portion of the spine which is composed of thoracic vertebræ. Also called ''dorsal region.''—'''Thoracic shield,''' one of the three plates covering the thoracic rings in insect larvæ.—'''Thoracic vertebra,''' any vertebra which bears a developed rib entering into the formation of a thorax. Also called ''dorsal vertebra.''—'''Thoracic viscera,''' the viscera contained within the cavity of the thorax—namely, the heart, lungs, thymus, a section of the esophagus, thoracic duct, thoracic aorta, caval veins, and other large vessels.—'''Transverse thoracic furrow,''' in many ''Diptera,'' \"a suture crossing the mesothorax and ending on each side a little before the base of the wing: its presence or absence, and form, are important characters in classification\" (''Osten Sacken'').}}\n\n'''II.''' ''n.'' '''1.''' A thoracic structure; especially, a thoracic artery or nerve, or a rib-bearing dorsal vertebra.—'''2.''' A thoracic fish.\n\n'''Thoracica''' (thō-ras′i-kä), ''n. pl.'' [NL., neut. pl. of *''thoracicus'': see ''thoracic''.] The principal group of the ''Cirripedia'', by some recognized as",
+   "c2s1": "an order, consisting of the ordinary sessile and pedunculated cirripeds, or barnacles and acorn-shells, in which the abdomen is rudimentary and there are six thoracic segments with as many pairs of cirrose limbs. See ''Cirripedia'', ''Lepas'', ''Balanus''.\n\n¶\n'''thoracicabdominal''', '''thoracicacromial''', ''a.'' Same as ''thoracabdominal'', ''thoracacromial''.\n\n'''Thoracici†''' (thō-ras′i-sī), ''n. pl.'' [NL., pl. of *''thoracicus'': see ''thoracic''.] In ''ichth.'', the third one of four Linnean orders of fishes (the others being ''Apodes'', ''Jugulares'', ''Abdominales''), characterized by the thoracic position of the ventral fins, which are placed beneath the pectorals. {{smaller|By Cuvier and others the term has been recognized with various limitations, but it is no longer used in classifying fishes, though the adjective ''thoracic'' remains as a descriptive term in its original sense.}}\n\n'''thoracico-acromialis''' (thọ̄-ras″i-kō-a-krō-mi-ā′lis), ''n.''; pl. ''thoracico-acromiales'' (-lēz). [NL., < *''thoracicus'', thoracic, + ''acromialis'', acromial.] The acromiothoracic artery, a branch of the axillary, given off just above the pectoralis minor, and dividing into three sets of branches.\n\n'''thoracicohumeral''' (thọ̄-ras″i-kō-hū′me-ral), ''a.'' [< NL. *''thoracicus'', thoracic, + ''humeralis'', humeral.] Pertaining to the thorax and the humerus, or to the chest and the upper arm.",
+   "c2s2": "¶\n'''thoracicohumeralis''' (thō-ras″i-kō-hū-me-rā′-lis), ''n.''; pl. ''thoracicohumerales'' (-lēz). [NL.: see ''thoracicohumeral.''] An artery, a branch of the thoracico-acromialis, which descends upon the arm with the cephalic vein in the interval between the great pectoral and deltoid muscles.\n\n'''thoraciform''' (thō-ras′i-fôrm), ''a.'' [< L. ''thorax'' (''thorac-''), the thorax, + ''forma'', form.] In ''entom.'', noting the mesonotum when it is very large and forms the main part of the upper surface of the thorax, as in ''Diptera'' and most ''Hymenoptera.''\n\n'''thoracipod''' (thō-ras′i-pod), ''a.'' and ''n.'' [< L. ''thorax'' (''thorac-''), the thorax, + Gr. πούς (ποδ-) = E. ''foot.''] '''I.''' ''a.'' Having thoracic limbs differentiated as ambulatory legs, as a crab or lobster; belonging to the ''Thoracipoda''; malacostracous.\n\n'''II.''' ''n.'' A member of the ''Thoracipoda''; a crustacean which walks on specialized thoracic limbs (pereiopods); a malacostracan.\n\n'''Thoracipoda''' (thō-ra-sip′ō-dä), ''n. pl.'' [NL.: see ''thoracipod.''] In some systems, a subclass or superorder of ''Crustacea'' corresponding to ''Malacostraca''; the higher series of crustaceans, contrasted with the entomostracans or ''Gnathopoda.'' {{smaller|The name refers to the fact that, the seven anterior or cephalic segments being specialized for sensation and nutrition, the next or thoracic segments distinctively subserve locomotion. The name is proposed as a substitute for ''Malacostraca.'' ''Encyc. Brit.'', VI. 655.}}\n\n'''thoracipodous''' (thō-ra-sip′ō-dus), ''a.'' [< ''thoracipod'' + ''-ous.''] Same as ''thoracipod.''",
+   "c2s3": "¶\n\n'''thoracispinal''' (thō-ras-i-spī′nạl), ''a.'' [< L. ''thorax'' (''thorac-''), the thorax, + ''spina'', spine: see ''spinal.''] Of or pertaining to the thoracic section of the spinal column: as, a ''thoracispinal'' nerve. ''Coues'', 1887.\n\n'''thoracodidymus''' (thọ̄-rā-kọ̄-did′i-mus), ''n.''; pl. ''thoracodidymi'' (-mī). [NL., < Gr. θώραξ (θωρακ-), thorax, + δίδυμος, double.] In ''teratol.'', a double monster the two bodies of which are joined at the thorax.\n\n'''thoracogastrodidymus''' (thọ̄-rā-kọ̄-gas-trọ̄-did′i-mus), ''n.''; pl. ''thoracogastrodidymi'' (-mī). [NL., < Gr. θώραξ (θωρακ-), thorax, + γαστήρ, stomach, + δίδυμος, double.] In ''teratol.'', a double monster with united thoraces and abdomen.\n\n'''thoracometer''' (thō-rạ-kom′e-tėr), ''n.'' [< Gr. θώραξ (θωρακ-), the thorax, + μέτρον, measure.] An instrument for measuring the range of respiratory movement of any point in the thorax.\n\n'''thoracopagus''' (thō-rạ-kop′ạ-gus), ''n.''; pl. ''thoracopagi'' (-jī). [NL., < Gr. θώραξ (θωρακ-), the thorax, + πάγος, that which is firmly set.] In ''teratol.'', a double monster with more or less fusion of the thoraces.\n\n'''thoracoplasty''' (thọ̄-rā′kọ̄-plas-ti), ''n.'' [< Gr. θώραξ (θωρακ-), thorax, + πλάσσειν, put in a certain form.] Removal of a section of one or more ribs for the cure of a fistula of the chest-wall following empyema.\n\n'''Thoracostraca''' (thō-rạ-kos′trạ-kä̤), ''n.pl.'' [NL., < Gr. θώραξ (θωρακ-), the thorax, + ὄστρακον, a shell.] In some systems, a division of malacostracous crustaceans, including the podoph-",
+   "c2s4": "thalmous or stalk-eyed crustaceans, as crabs, shrimps, prawns, and lobsters: nearly conterminous with ''Podophthalma''.\n\n'''thoracostracous''' (thō-ra-kos′tra̤-kus), ''a.'' Pertaining to the ''Thoracostraca''.",
+   "c3s1": "¶\n'''thoracotheca''' (thō-rā-kō-thē′kä), ''n.''; pl. ''thoracothecæ'' (-sē). [NL., < Gr. θώραξ (θωρακ-), the thorax, + θήκη, a case.] In ''entom.'', the trunk-case of a pupa, or that part of the integument which covers the thorax. Also ''cytotheca.''\n\n'''thoracotomy''' (thō-ra-kot′ō-mi), ''n.'' [< Gr. θώραξ (θωρακ-), the thorax, + -τομία, < τέμνειν, ταμεῖν, cut.] In ''surg.'', the operation of free incision through the thoracic walls. Compare ''thoracentesis.''\n\n'''thorah''', ''n.'' See ''torah.''\n\n'''thoral''' (thō′ral), ''a.'' [Prop. ''toral'', < L. ''torus'', ML. erroneously ''thorus'', a cushion, couch, bed: see ''torus.''] Of or pertaining to the marriage-bed; nuptial; specifically, in ''palmistry'', noting the line or mark of Venus on the hand.\n\n'''thorax''' (thō′raks), ''n.''; pl. ''thoraces'' (thọ̄-rā′sēz). [< L. ''thorax'' (''thorac-''), < Gr. θώραξ (θωρακ-), a breastplate, also the part of the body covered by the breastplate, the thorax.] 1. In ''anat.'' and ''zoöl.'', a part of the trunk between the head or neck and the abdomen or tail, in any way distinguished, as by containing the heart and lungs, by being inclosed with large ribs, or by bearing certain limbs not borne elsewhere. {{smaller|The name is applied both to the walls and to the cavity of this part of the body, but not to the contents of the cavity, and properly not to the thoracic appendages. In all vertebrates the thorax represents several of the segments or somites of the body succeeding the cervical and succeeded by the abdominal or pelvic segments. It is generally defined by the elongation of several ribs and the connection of some or most of these with a breast-bone, the thoracic}}",
+   "c3c1": "{{c|Cross-section of Human Chest viewed from above, showing heart, lungs, and great vessels in place. Each lung is invested with pleura and the heart with pericardium; the dark borders around the lungs and heart are cavities of pleura and of pericardium; the interval between pleural cavities of opposite sides is the mediastinum; the anterior mediastinum is entirely black; the middle is occupied by the heart, the posterior by the esophagus, etc.\n\n''RL'', right lung; ''LL'', left lung; ''RP'' and ''LP'', two pulmonary veins; ''PA'', pulmonary artery branching to each lung; ''Ao'', ascending part of arch of aorta; ''Ao′'', descending aorta (intervening arch of aorta cut away); the line from ''Ao'' rests upon heart; ''SC'', superior vena cava; ''Br'' and ''Br'', right and left bronchi, cut end of each presenting; ''Œ'', esophagus collapsed; ''DV'', body of a thoracic or dorsal vertebra.}}",
+   "c3s2": "skeleton thus forming a bony cage or frame which contains and defends the principal organs of circulation and respiration. In invertebrates, however, the thorax is defined upon other considerations. (''a'') In man and all mammals the thorax is sharply marked off from the rest of the trunk by the lack of developed cervical and lumbar ribs, and its cavity is completely shut off from that of the abdomen by the diaphragm. The human thorax is of conical figure, somewhat like the frustum of a cone, narrowed above, broad below, of greater width than",
+   "c3s3": "{{smaller block|depth, and in cross-section somewhat cardiform or heart-shaped, from the intrusion of the backbone. Its truncated apex presents to the neck; its concave base is formed by the diaphragm. The cavity is divided into a pair of large pleural cavities, right and left, for the lungs, and a third submedian pericardial cavity for the heart. Where the opposite pleural cavities do not quite meet and fit, both before and behind, is an interpleural space, the anterior and posterior mediastinal cavity, or premediastinum and post-mediastinum. Besides the heart and lungs and their respective serous sacs (pericardium and pleura), the thorax contains many other structures, as the thoracic duct and thoracic aorta, many branches of the latter, etc. The thorax of other mammals differs from that of man chiefly in size, shape, degree of movability, etc., but not in actual structure or office. (''b'') In birds the thorax is relatively very capacious and expansive. The sternum is of enormous size; long ribs frequently extend into the sacral region, and others, shorter, into the cervical region, so that the thorax encroaches in both directions. Its cavity is not shut off from that of the abdomen by any diaphragm. The ribs have a movable joint between their vertebral and sternal parts, contributing to the expansibility of the chest. Most of the abdominal as well as proper thoracic viscera are actually inclosed by the thoracic walls. See cut under ''epipleura.'' (''c'') In those reptiles and batrachians which have breast-bones a thorax is distinguished much as it is in higher vertebrates. In serpents, which have no sternum, and whose ribs extend from head to tail, there is no distinction between thorax and abdomen; and the case is similar with turtles. In a few reptiles the thorax develops wing-like parachutes serving for a kind of flight. (''d'') In fishes a thorax, or a thoracabdominal region, is usually well marked by long ribs from a postanal solid and fleshy part of the body, but there is no distinction of thoracic and abdominal cavities. The thorax may bear the pectoral fins, or these and the ventrals, or neither.}}\n\n'''2.''' In ''entom.'', that part of the body which is situated between the head and the abdomen, and in adult insects alone bears the wings and",
+   "c3s4": "legs, when there are any. In the typical or hexapod insects the thorax is almost always a well-marked region, distinguished from the head in front and from the abdomen behind by bearing the only locomotory appendages which these insects possess in the adult state—namely, one or two pairs of wings and three pairs of legs. The thorax typically consists of three segments or somites of the body, one to each pair of legs, respectively named, from before backward, the ''prothorax'', the ''mesothorax'', and the ''metathorax'', or sometimes the ''prethorax'', ''medithorax'', and"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0103 c1f1.png",
+   "c3f1": "century v08 p0103 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     96,
+     1882,
+     772,
+     2276
+    ],
+    "caption": [
+     83,
+     2285,
+     792,
+     2433
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     84,
+     1834,
+     789,
+     2281
+    ]
+   },
+   {
+    "box": [
+     1822,
+     1127,
+     2262,
+     1467
+    ],
+    "caption": [
+     1820,
+     1475,
+     2268,
+     1899
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1808,
+     1123,
+     2210,
+     1470
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "1": [
+    1,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 3,
+    "input_tokens": 6123,
+    "output_tokens": 179,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 14,
+    "input_tokens": 9178,
+    "output_tokens": 10237,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 37996
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|thoracic|6299|thorax}}</noinclude>{{smaller|vertebra which bears functional ribs; entering into the formation of the thorax: specifically noting such vertebræ (all vertebræ being dorsal in one sense). (''c'') Pertaining to the head and thorax of some animals; cephalothoracic: as, ''thoracic'' appendages. (''d'') Attached to the thorax: as, ''thoracic'' limbs or appendages; the ''thoracic'' girdle (that is, the pectoral arch, or shoulder-girdle, of a vertebrate); pectoral in position, as the ventral fins of some fishes. (''e'') Pertaining to the front and sides of the thorax or to the breast; pectoral: as, the mammary glands of man are ''thoracic.'' (''f'') Done or effected by means of the thorax: as, ''thoracic'' respiration. (''g'') Affecting the thorax or its organs: as, ''thoracic'' diseases, symptoms, or remedies.}} 2. Having a thorax (of this or that kind); belonging to the ''Thoracica:'' as, the ''thoracic'' cirripeds.—3. Having the ventral fins thoracic in position; belonging to the ''Thoracici:'' as, a ''thoracic'' fish.{{smaller|—'''Thoracic angles,''' the corners of the thorax, or of the prothorax in insects with wing-covers.—'''Thoracic aorta,''' that section of the aorta which traverses the cavity of the thorax. It extends from the origin of the vessel to its passage through the aortic orifice of the diaphragm, where it becomes the abdominal aorta. The term is also restricted to the straight or descending part of the aorta (excluding the arch). In this sense the thoracic aorta begins where the arch ends, about opposite the fifth thoracic vertebra. The branches of the thoracic aorta are the pericardial, bronchial (the nutrient vessels of the lungs), esophageal, postmediastinal, and the usually ten pairs of intercostals. See cuts under ''diaphragm'' and ''thorax.''—'''Thoracic artery,''' one of several branches given off by the axillary artery in the second and third sections of its course, and distributed chiefly to the pectoral muscles and adjacent soft tissues. Four such vessels are named in man as the ''superior, acromial, long,'' and ''alar.'' They are also called ''suprathoracic, acromiothoracic'' or ''thoracacromial'' or ''thoracico-acromial,''}} ''longithoracic'', and ''alithoracic''.—'''Thoracic axis''', the common trunk of the acromiothoracic and superior thoracic arteries, when these are given off together.—'''Thoracic duct.''' See ''duct'', and cut under ''diaphragm''.—'''Thoracic ganglia.''' See ''ganglion''.—'''Thoracic girdle''', the pectoral girdle, or scapular arch. See cuts under ''epipleura'', ''omosternum'', and ''sternum''.—'''Thoracic grooving''', the longitudinal depressions along the sternum on either side in rachitic or pigeon-breasted children.—'''Thoracic index''', the ratio between the antero-posterior and transverse diameters of the thorax.—'''Thoracic limbs''', the fore limbs of a vertebrate; the arms of a man, fore legs of a quadruped, wings of a bird, pectoral fins of a fish; the appendages of the scapular arch, or shoulder-girdle; in invertebrates, the appendages proper to the thorax, generally the ambulatory and chelate, as distinguished from abdominal appendages, mouth-parts, etc. See cut under ''Araneida''.—'''Thoracic nerves.''' (''a'') ''Anterior thoracic'', two branches, the external and internal, arising from the outer and inner cords of the brachial plexus and distributed to the pectorales muscles. (''b'') ''Posterior thoracic'', a branch from the upper two or three nerves of the brachial plexus, passing on the side of the chest to be distributed to the serratus magnus. Also called ''long thoracic'', and ''external respiratory nerve of Bell''.—'''Thoracic parietes''', the walls of the chest; especially, the movable front and sides of the chest, whose bony basis is the ribs and sternum.—'''Thoracic region.''' (''a'') The extent or superficies of the thorax as a part of the body; some part of the thoracic walls, with reference to groups of muscles which lie upon them: as, the anterior or lateral ''thoracic region''. (''b'') Especially, one of the several parts {{smaller|into which the surface of the human thorax is divided or mapped out by certain imaginary lines, which to some extent denote the situation of the contained viscera, and thus serve for medical and surgical purposes. These regions, unlike some of the corresponding abdominal regions, are all in pairs (right and left), in one nomenclature known as the ''humeral, subclavian, mammary, axillary, scapular, interscapular,'' and ''subscapular.''—'''Thoracic region of the spine,''' that portion of the spine which is composed of thoracic vertebræ. Also called ''dorsal region.''—'''Thoracic shield,''' one of the three plates covering the thoracic rings in insect larvæ.—'''Thoracic vertebra,''' any vertebra which bears a developed rib entering into the formation of a thorax. Also called ''dorsal vertebra.''—'''Thoracic viscera,''' the viscera contained within the cavity of the thorax—namely, the heart, lungs, thymus, a section of the esophagus, thoracic duct, thoracic aorta, caval veins, and other large vessels.—'''Transverse thoracic furrow,''' in many ''Diptera,'' \"a suture crossing the mesothorax and ending on each side a little before the base of the wing: its presence or absence, and form, are important characters in classification\" (''Osten Sacken'').}}\n\n[[File:century v08 p0103 c1f1.png|center|360px]]\n{{c|Thoracic Regions, bounded by thick black lines.}}\n\n{{c|1, 1, right and left humeral; 2, 2, right and left subclavian; 3, 3, right and left mammary; 4, 4, right and left axillary; 5, 5, right and left subaxillary or lateral; 6, 6, right and left scapular; 7, 7, right and left interscapular; 8, 8, right and left superior dorsal, or subscapular. The viscera of the thorax are indicated by dotted lines. ''a'', diaphragm; ''b'', heart; ''c'', lungs; ''d'', liver; ''e'', kidneys; ''f'', stomach.}}\n\n'''II.''' ''n.'' '''1.''' A thoracic structure; especially, a thoracic artery or nerve, or a rib-bearing dorsal vertebra.—'''2.''' A thoracic fish.\n\n'''Thoracica''' (thō-ras′i-kä), ''n. pl.'' [NL., neut. pl. of *''thoracicus'': see ''thoracic''.] The principal group of the ''Cirripedia'', by some recognized as an order, consisting of the ordinary sessile and pedunculated cirripeds, or barnacles and acorn-shells, in which the abdomen is rudimentary and there are six thoracic segments with as many pairs of cirrose limbs. See ''Cirripedia'', ''Lepas'', ''Balanus''.\n\n¶\n'''thoracicabdominal''', '''thoracicacromial''', ''a.'' Same as ''thoracabdominal'', ''thoracacromial''.\n\n'''Thoracici†''' (thō-ras′i-sī), ''n. pl.'' [NL., pl. of *''thoracicus'': see ''thoracic''.] In ''ichth.'', the third one of four Linnean orders of fishes (the others being ''Apodes'', ''Jugulares'', ''Abdominales''), characterized by the thoracic position of the ventral fins, which are placed beneath the pectorals. {{smaller|By Cuvier and others the term has been recognized with various limitations, but it is no longer used in classifying fishes, though the adjective ''thoracic'' remains as a descriptive term in its original sense.}}\n\n'''thoracico-acromialis''' (thọ̄-ras″i-kō-a-krō-mi-ā′lis), ''n.''; pl. ''thoracico-acromiales'' (-lēz). [NL., < *''thoracicus'', thoracic, + ''acromialis'', acromial.] The acromiothoracic artery, a branch of the axillary, given off just above the pectoralis minor, and dividing into three sets of branches.\n\n'''thoracicohumeral''' (thọ̄-ras″i-kō-hū′me-ral), ''a.'' [< NL. *''thoracicus'', thoracic, + ''humeralis'', humeral.] Pertaining to the thorax and the humerus, or to the chest and the upper arm.\n\n'''thoracicohumeralis''' (thō-ras″i-kō-hū-me-rā′-lis), ''n.''; pl. ''thoracicohumerales'' (-lēz). [NL.: see ''thoracicohumeral.''] An artery, a branch of the thoracico-acromialis, which descends upon the arm with the cephalic vein in the interval between the great pectoral and deltoid muscles.\n\n'''thoraciform''' (thō-ras′i-fôrm), ''a.'' [< L. ''thorax'' (''thorac-''), the thorax, + ''forma'', form.] In ''entom.'', noting the mesonotum when it is very large and forms the main part of the upper surface of the thorax, as in ''Diptera'' and most ''Hymenoptera.''\n\n'''thoracipod''' (thō-ras′i-pod), ''a.'' and ''n.'' [< L. ''thorax'' (''thorac-''), the thorax, + Gr. πούς (ποδ-) = E. ''foot.''] '''I.''' ''a.'' Having thoracic limbs differentiated as ambulatory legs, as a crab or lobster; belonging to the ''Thoracipoda''; malacostracous.\n\n'''II.''' ''n.'' A member of the ''Thoracipoda''; a crustacean which walks on specialized thoracic limbs (pereiopods); a malacostracan.\n\n'''Thoracipoda''' (thō-ra-sip′ō-dä), ''n. pl.'' [NL.: see ''thoracipod.''] In some systems, a subclass or superorder of ''Crustacea'' corresponding to ''Malacostraca''; the higher series of crustaceans, contrasted with the entomostracans or ''Gnathopoda.'' {{smaller|The name refers to the fact that, the seven anterior or cephalic segments being specialized for sensation and nutrition, the next or thoracic segments distinctively subserve locomotion. The name is proposed as a substitute for ''Malacostraca.'' ''Encyc. Brit.'', VI. 655.}}\n\n'''thoracipodous''' (thō-ra-sip′ō-dus), ''a.'' [< ''thoracipod'' + ''-ous.''] Same as ''thoracipod.''\n\n'''thoracispinal''' (thō-ras-i-spī′nạl), ''a.'' [< L. ''thorax'' (''thorac-''), the thorax, + ''spina'', spine: see ''spinal.''] Of or pertaining to the thoracic section of the spinal column: as, a ''thoracispinal'' nerve. ''Coues'', 1887.\n\n'''thoracodidymus''' (thọ̄-rā-kọ̄-did′i-mus), ''n.''; pl. ''thoracodidymi'' (-mī). [NL., < Gr. θώραξ (θωρακ-), thorax, + δίδυμος, double.] In ''teratol.'', a double monster the two bodies of which are joined at the thorax.\n\n'''thoracogastrodidymus''' (thọ̄-rā-kọ̄-gas-trọ̄-did′i-mus), ''n.''; pl. ''thoracogastrodidymi'' (-mī). [NL., < Gr. θώραξ (θωρακ-), thorax, + γαστήρ, stomach, + δίδυμος, double.] In ''teratol.'', a double monster with united thoraces and abdomen.\n\n'''thoracometer''' (thō-rạ-kom′e-tėr), ''n.'' [< Gr. θώραξ (θωρακ-), the thorax, + μέτρον, measure.] An instrument for measuring the range of respiratory movement of any point in the thorax.\n\n'''thoracopagus''' (thō-rạ-kop′ạ-gus), ''n.''; pl. ''thoracopagi'' (-jī). [NL., < Gr. θώραξ (θωρακ-), the thorax, + πάγος, that which is firmly set.] In ''teratol.'', a double monster with more or less fusion of the thoraces.\n\n'''thoracoplasty''' (thọ̄-rā′kọ̄-plas-ti), ''n.'' [< Gr. θώραξ (θωρακ-), thorax, + πλάσσειν, put in a certain form.] Removal of a section of one or more ribs for the cure of a fistula of the chest-wall following empyema.\n\n'''Thoracostraca''' (thō-rạ-kos′trạ-kä̤), ''n.pl.'' [NL., < Gr. θώραξ (θωρακ-), the thorax, + ὄστρακον, a shell.] In some systems, a division of malacostracous crustaceans, including the podophthalmous or stalk-eyed crustaceans, as crabs, shrimps, prawns, and lobsters: nearly conterminous with ''Podophthalma''.\n\n'''thoracostracous''' (thō-ra-kos′tra̤-kus), ''a.'' Pertaining to the ''Thoracostraca''.\n\n'''thoracotheca''' (thō-rā-kō-thē′kä), ''n.''; pl. ''thoracothecæ'' (-sē). [NL., < Gr. θώραξ (θωρακ-), the thorax, + θήκη, a case.] In ''entom.'', the trunk-case of a pupa, or that part of the integument which covers the thorax. Also ''cytotheca.''\n\n'''thoracotomy''' (thō-ra-kot′ō-mi), ''n.'' [< Gr. θώραξ (θωρακ-), the thorax, + -τομία, < τέμνειν, ταμεῖν, cut.] In ''surg.'', the operation of free incision through the thoracic walls. Compare ''thoracentesis.''\n\n'''thorah''', ''n.'' See ''torah.''\n\n'''thoral''' (thō′ral), ''a.'' [Prop. ''toral'', < L. ''torus'', ML. erroneously ''thorus'', a cushion, couch, bed: see ''torus.''] Of or pertaining to the marriage-bed; nuptial; specifically, in ''palmistry'', noting the line or mark of Venus on the hand.\n\n'''thorax''' (thō′raks), ''n.''; pl. ''thoraces'' (thọ̄-rā′sēz). [< L. ''thorax'' (''thorac-''), < Gr. θώραξ (θωρακ-), a breastplate, also the part of the body covered by the breastplate, the thorax.] 1. In ''anat.'' and ''zoöl.'', a part of the trunk between the head or neck and the abdomen or tail, in any way distinguished, as by containing the heart and lungs, by being inclosed with large ribs, or by bearing certain limbs not borne elsewhere. {{smaller|The name is applied both to the walls and to the cavity of this part of the body, but not to the contents of the cavity, and properly not to the thoracic appendages. In all vertebrates the thorax represents several of the segments or somites of the body succeeding the cervical and succeeded by the abdominal or pelvic segments. It is generally defined by the elongation of several ribs and the connection of some or most of these with a breast-bone, the thoracic}} skeleton thus forming a bony cage or frame which contains and defends the principal organs of circulation and respiration. In invertebrates, however, the thorax is defined upon other considerations. (''a'') In man and all mammals the thorax is sharply marked off from the rest of the trunk by the lack of developed cervical and lumbar ribs, and its cavity is completely shut off from that of the abdomen by the diaphragm. The human thorax is of conical figure, somewhat like the frustum of a cone, narrowed above, broad below, of greater width than {{smaller block|depth, and in cross-section somewhat cardiform or heart-shaped, from the intrusion of the backbone. Its truncated apex presents to the neck; its concave base is formed by the diaphragm. The cavity is divided into a pair of large pleural cavities, right and left, for the lungs, and a third submedian pericardial cavity for the heart. Where the opposite pleural cavities do not quite meet and fit, both before and behind, is an interpleural space, the anterior and posterior mediastinal cavity, or premediastinum and post-mediastinum. Besides the heart and lungs and their respective serous sacs (pericardium and pleura), the thorax contains many other structures, as the thoracic duct and thoracic aorta, many branches of the latter, etc. The thorax of other mammals differs from that of man chiefly in size, shape, degree of movability, etc., but not in actual structure or office. (''b'') In birds the thorax is relatively very capacious and expansive. The sternum is of enormous size; long ribs frequently extend into the sacral region, and others, shorter, into the cervical region, so that the thorax encroaches in both directions. Its cavity is not shut off from that of the abdomen by any diaphragm. The ribs have a movable joint between their vertebral and sternal parts, contributing to the expansibility of the chest. Most of the abdominal as well as proper thoracic viscera are actually inclosed by the thoracic walls. See cut under ''epipleura.'' (''c'') In those reptiles and batrachians which have breast-bones a thorax is distinguished much as it is in higher vertebrates. In serpents, which have no sternum, and whose ribs extend from head to tail, there is no distinction between thorax and abdomen; and the case is similar with turtles. In a few reptiles the thorax develops wing-like parachutes serving for a kind of flight. (''d'') In fishes a thorax, or a thoracabdominal region, is usually well marked by long ribs from a postanal solid and fleshy part of the body, but there is no distinction of thoracic and abdominal cavities. The thorax may bear the pectoral fins, or these and the ventrals, or neither.}}\n\n[[File:century v08 p0103 c3f1.png|center|209px]]\n{{c|Cross-section of Human Chest viewed from above, showing heart, lungs, and great vessels in place. Each lung is invested with pleura and the heart with pericardium; the dark borders around the lungs and heart are cavities of pleura and of pericardium; the interval between pleural cavities of opposite sides is the mediastinum; the anterior mediastinum is entirely black; the middle is occupied by the heart, the posterior by the esophagus, etc.\n\n''RL'', right lung; ''LL'', left lung; ''RP'' and ''LP'', two pulmonary veins; ''PA'', pulmonary artery branching to each lung; ''Ao'', ascending part of arch of aorta; ''Ao′'', descending aorta (intervening arch of aorta cut away); the line from ''Ao'' rests upon heart; ''SC'', superior vena cava; ''Br'' and ''Br'', right and left bronchi, cut end of each presenting; ''Œ'', esophagus collapsed; ''DV'', body of a thoracic or dorsal vertebra.}}\n\n'''2.''' In ''entom.'', that part of the body which is situated between the head and the abdomen, and in adult insects alone bears the wings and legs, when there are any. In the typical or hexapod insects the thorax is almost always a well-marked region, distinguished from the head in front and from the abdomen behind by bearing the only locomotory appendages which these insects possess in the adult state—namely, one or two pairs of wings and three pairs of legs. The thorax typically consists of three segments or somites of the body, one to each pair of legs, respectively named, from before backward, the ''prothorax'', the ''mesothorax'', and the ''metathorax'', or sometimes the ''prethorax'', ''medithorax'', and<noinclude><references/></noinclude>"
+}

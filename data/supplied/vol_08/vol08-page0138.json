@@ -1,0 +1,397 @@
+{
+ "volume": 8,
+ "page_number": 138,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n137.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n137.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": 0.05,
+  "column_width": 849,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     120,
+     70,
+     2442,
+     108
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     120,
+     108,
+     851,
+     1161
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     120,
+     1161,
+     851,
+     2248
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     120,
+     2248,
+     851,
+     2743
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     498,
+     2744,
+     851,
+     3142
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     498,
+     3156,
+     851,
+     3199
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     120,
+     2743,
+     498,
+     3199
+    ]
+   },
+   {
+    "name": "c1s5",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     120,
+     3199,
+     851,
+     3304
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     851,
+     108,
+     1534,
+     351
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     851,
+     351,
+     1534,
+     1100
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     851,
+     1107,
+     1534,
+     1130
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     851,
+     1130,
+     1534,
+     2204
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     851,
+     2204,
+     1534,
+     3304
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1593,
+     108,
+     2442,
+     610
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1593,
+     610,
+     2442,
+     1280
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1593,
+     1281,
+     2442,
+     1329
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1593,
+     1329,
+     2442,
+     1929
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1593,
+     1929,
+     2442,
+     2123
+    ]
+   },
+   {
+    "name": "c3c2",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1593,
+     2123,
+     2442,
+     2146
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1593,
+     2146,
+     2442,
+     3086
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1593,
+     3086,
+     2442,
+     3304
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|tiger|6334|tight}}",
+   "c1s1": "the two largest living cats (the other being the lion), of the family ''Felidæ.'' {{smaller|The tiger is beautifully striped with black and tawny yellow; it has no mane. The female, when distinguished, is called ''tigress.'' The tiger inhabits southern Asia and some of the larger islands belonging to that continent, having there the same position that the lion has in Africa. The tiger attains his full development in India, the name ''Bengal tiger'' being used as synonymous with those specimens which appear as the most typical and most powerful representatives of the species. In habits the tiger is far more active and agile than the lion, and exhibits a large amount of fierce cunning. He generally selects as his lair a concealed spot near a watercourse, whence to spring upon the animals that approach to drink. His tread through the thick jungle is stealthy, and he appears to avoid rather than court danger, unless when brought to bay, when he turns an appalling front to the foe. Tigers do not generally attack man, but in some cases they seem to acquire a special liking for human prey, and boldly approach villages for the purpose of securing it; such are known as ''man-eaters'' (see ''man-eater'', 2). In some districts the loss of human life is enough to become a matter of official statistics. The natives destroy them by traps, pits, poisoned arrows, and other means. Tiger-hunting is a favorite Indian sport. It is pursued generally by Europeans, the tiger being shot from the back of an elephant. When taken young the tiger can be tamed, and tigers thus domesticated are not rarely to be seen in India.}}\n\n2. The thylacine dasyure, or tiger-wolf: so called from the stripes. See ''thylacine'' (with cut).—3. A person of a fierce, bloodthirsty disposition.—4. A dissolute swaggering dandy; a ruffling blade; a swaggerer; a hector; a bully; a mohawk.\n\n{{smaller block|\"A man may have a very good coat-of-arms, and be a ''tiger'', my boy,\" the Major said, chipping his egg: \"that man is a ''tiger'', mark my word—a low man.\"\n{{right|''Thackeray'', Pendennis, xx.}}}}",
+   "c1s2": "¶\n'''5.''' [Humorously compared to a tiger in a show-wagon driven about the streets in parade.] A groom who goes out with the equipage of his master—that is, with the dog-cart, curricle, cab, or other vehicle driven by the master himself, his duty being to take care of the equipage when the master has left the box.\n\n{{smaller block|His ''tiger'', Tim, was clean of limb,\nHis boots were polished, his jacket was trim.\nWith a very smart tie in his smart cravat,\nAnd a little cockade on the top of his hat,\nTallest of boys or shortest of men,\nHe stood in his stockings just four feet ten.\n{{right|''Barham'', Ingoldsby Legends, I. 283.}}}}\n\n'''6.''' [Appar. so called as being “an ornamental addition”: in allusion to the tiger or groom (def. 5) who sits as if a mere ornament in the vehicle which his master drives.] An additional cheer; “one more” (often the word ''tiger''): as, three cheers and a ''tiger''. [Colloq.]—'''7.''' In ''sugar-manuf.'', a tank with a perforated bottom, through which the molasses escapes. ''E. H. Knight.''—'''8.''' A bug of the family ''Tingitidæ'': translating the French name.—'''9†.''' A fabulous bird. See the extract.\n\n{{smaller block|Yet ben there other byrdes the whyche ben called ''Tygris'', and they be so stronge that they wyll bere or cary in theyr neste a man sytting vpon an horse all armyd fro the hede to ye fote.\n{{right|''R. Eden'' (First Books on America, ed. Arber, p. xxxii.).}}}}\n\n{{smaller|'''American tiger''', the jaguar, ''Felis onca''. See cut under ''jaguar''.—'''Bengal tiger.''' See def. 1.—'''Black tiger''', a melanistic variety of the jaguar.—'''Clouded tiger''', the clouded tiger-cat. See ''tiger-cat''.—'''Heraldic tiger''', in ''her.'', an imaginary beast unlike a real tiger and more of the shape of a wolf except for having a tufted tail like a lion's. It should always be blazoned ''heraldic tiger'' to distinguish it}}",
+   "c1s3": "{{smaller|from the real creature, which is sometimes depicted in recent heraldry.—'''Marbled tiger''', the marbled tiger-cat. See ''marbled''.—'''Mexican tiger''', the jaguar.—'''Red tiger''', the cougar. See cut under ''cougar''.—'''Royal Bengal tiger''', the common tiger, ''Felis tigris''. See def. 1.—'''Saber-toothed tiger''', a machærodont; one of the great fossil cats, with enormous upper canines, belonging to the subfamily ''Machærodontinæ''. See ''Machærodontinæ'', and cut under ''saber-toothed''.—'''Tiger natural''', in ''her.'', a bearing resembling the real tiger more or less closely: so called to distinguish it from the heraldic tiger.—'''Tiger swallowtail.''' See ''swallowtail''.—'''To buck''' or '''fight the tiger.''' See ''fight''.—'''Tortoise-shell tiger''', the clouded tiger-cat. See cut under ''tiger-cat''.—'''Water-tiger''', a predaceous water-beetle of the family ''Dytiscidæ'': so called from their habits. See ''Hydradephaga'', and cut under ''Dytiscidæ''.}}\n\n'''tigerantic†''' (tī-gė-ran′tik), ''a.'' [< ''tiger'' + ''-antic'', a capricious addition, prob. in simulation of ''elephantic''.] Ravenous.",
+   "c1c1": "{{c|Virginia Tiger-beetle (''Tetracha virginica'').}}",
+   "c1s4": "[Rare.]\n\n{{smaller block|In what sheep's-head ordinary have you chew'd away the meridian of your ''tygerantic'' stomach?\n{{right|''Tom Brown'', Works, II. 179. (''Davies.'')}}}}\n\n'''tiger-beetle''' (tī′gėr-bē″tl), ''n.'' Any beetle of the family ''Cicindelidæ:'' so called from its active predaceous habits. See also cuts under ''Amblychila'' and ''Cicindela''.",
+   "c1s5": "",
+   "c2s1": "¶\n'''tiger-bittern''' (tī′gėr-bit″ėrn), ''n.'' A So American bird of the heron family and ge ''Tigrisoma'', of which there are several spec so called from the markings of the pluma See cut under ''Tigrisoma''.\n\n'''tiger-cat''' (tī′gėr-kat), ''n.'' 1. One of sev streaked or spotted cats of the family ''Fe''",
+   "c2c1": "{{c|Clouded Tiger-cat (''Felis macroscelis'').}}",
+   "c2s2": "and genus ''Felis'': so called from their res blance to the tiger in markings or in feroc though they are all much smaller, and ra down to the size of a large house-cat. {{smaller|These are numerous in both hemispheres, and the name ha specific meaning without a qualifying term. The clo tiger-cat, ''F. macroscelis'', of the East Indies is perhap largest and handsomest. The American ocelot is a t cat, and others have their distinctive names, as ''chati'' ''val'', and ''margay''. See these words, and cuts under s and ''ocelot''.}}\n\n2. A mongrel or hybrid between the wildca Europe (''F. catus'') and the domestic cat.—'''Lo''' '''tailed tiger-cat''', {{smaller|''Felis macrurus'' of Brazil, closely re bling the ocelot, and sometimes called ''oceloid leopa''}} '''Marbled tiger-cat.''' {{smaller|See ''marbled''.}}\n\n'''tiger-chop''' (tī′gėr-chop), ''n.'' A species of marigold, ''Mesembryanthemum tigrinum.''\n\n'''tiger-cowry''' (tī′gėr-kou″ri), ''n.'' A tiger-sh a kind of cowry with large spots, ''Cypræa tig'' See cut under ''Cypræa.''\n\n'''tiger-eye''' (tī′gėr-ī), ''n.'' Same as ''tiger's-eye.''\n\n'''tiger-flower''' (tī′gėr-flou″ėr), ''n.'' A plant of genus ''Tigridia'': so named from the variegat of the flower. {{smaller|The ordinary species is ''T. pavonia'', of the most showy of garden flowers, having a peri six inches broad, colored a brilliant scarlet with cop crimson spots toward the dark center. The flower is triangular form, the three inner divisions of the peri being much smaller than the three outer. Each fl lasts only a day, but there is a quick succession for si eight weeks. There are several varieties, including yellow and the white tigridias. From its native land so times called ''Mexican tiger-flower''. Also ''tiger-iris''.}}\n\n'''tiger-footed''' (tī′gėr-fu̇t″ed), ''a.'' Swift as a ger; hastening to devour. [Rare.]\n\n{{smaller block|This ''tiger-footed'' rage, when it shall find}}",
+   "c2s3": "{{smaller block|The harm of unscann'd swiftness, will too late Tie leaden pounds to 's heels. {{right|''Shak.'', Cor., iii. 1.}}}}\n\n'''tiger-frog''' (tī′gėr-frog), ''n.'' Same as ''leopa frog''.\n\n'''tiger-grass''' (tī′gėr-grȧs), ''n.'' A dwarf fan-pa ''Nannorhops Ritchieana'', of western India, tending into Persia: put by the natives t great variety of uses. {{smaller|It was formerly classed ''Chamærops'', from which it chiefly differs by its val instead of imbricate petals or corolla-segments.}}\n\n'''tigerine''' (tī′gėr-in), ''a.'' [< ''tiger'' + ''-ine''<sup>1</sup>.] ''tigrine.''\n\n'''tigerish''' (tī′gėr-ish), ''a.'' [Also ''tigrish''; < ''tige'' ''-ish''<sup>1</sup>.] Of, pertaining to, or resembling a ti in appearance, nature, or habits. {{smaller|(''a'') Fierce, bl thirsty, or cruel.}}\n\n{{smaller block|Let this thought thy ''tigrish'' courage pass. {{right|''Sir P. Sidney'', Astrophel and Ste}}}}\n\n{{smaller|(''b'') Swaggering; bully-like. Compare ''tiger'', 4.}}\n\n{{smaller block|Nothing could be more vagrant, devil-me-carish, and use a slang word, ''tigrish'', than his whole air. {{right|''Bulwer'', My Novel, vi.}}}}\n\n'''tigerism''' (tī′gėr-izm), ''n.'' [< ''tiger'' + ''-ism.''] Tigerish disposition or propensities.—2. solute swaggering habits; especially, an aff tation of such habits.\n\n{{smaller block|In France, where ''tigerism'' used to be the fashion am the painters, I make no doubt Carmine would have let beard and wig grow, and looked the fiercest of the fie {{right|''Thackeray'', Character Sketches, The Arti}}}}\n\n'''tigerkin''' (tī′gėr-kin), ''n.'' [< ''tiger'' + ''-kin.''] little tiger or tiger-cat: used humorously of domestic cat.",
+   "c3s1": "¶\n{{smaller block|It is only from the attic that you can appreciate the picturesque which belongs to our domesticated ''tigerkin.'' The goat should be seen on the Alps, and the cat on the housetop.{{right|''Bulwer'', Caxtons, xiv. 2.}}}}\n\n'''tiger-lily''' (tī′gėr-lil″i), ''n.'' A common garden lily, ''Lilium tigrinum'', native in China, bearing nodding flowers with a reflexed perianth of a dull-orange color spotted with black (whence the name). It produces bulblets in the axils of the leaves. Its bulbs are used for food in China and Japan.\n\n'''tiger-moth''' (tī′gėr-môth), ''n.'' A moth of the family ''Arctiidæ'', as ''Euprepia caja'' and ''E. plantaginis'', whose larvæ are known as ''bear-caterpillars'' and ''woolly bears.'' {{smaller|''Arctia isabella'' is the isabella}}",
+   "c3c1": "{{c|Isabella Tiger-moth (''Arctia isabella'').<br>''a'', larva; ''b'', cocoon and chrysalis; ''c'', moth.}}",
+   "c3s2": "{{smaller|tiger-moth. ''Deiopæa bella'' is a common tiger-moth in the United States. See also cuts under ''bear''<sup>2</sup>, ''Euprepia'', and ''Utetheisa''.}}\n\n¶\n'''tiger's-claw''' (tī′gėrz-klâ), ''n.'' Same as ''baagnouk''.\n\n'''tiger's-eye''' (tī′gėrz-ī), ''n.'' An ornamental stone of a yellow color, with brilliant, chatoyant, or opalescent reflections due to its delicate fibrous structure. {{smaller|It consists essentially of quartz colored by yellow iron oxid—the latter produced by the alteration of fibers of the blue mineral crocidolite, which originally penetrated the quartz; hence often, though improperly, called ''crocidolite''. It has been obtained in large quantities in the Asbestos Mountains in South Africa. Also ''tiger-eye''.}}\n\n'''tiger's-foot''' (tī′gėrz-fu̇t), ''n.'' A twining plant, ''Ipomæa Pes-tigridis'', with pedately lobed leaves, widely diffused through the Old World tropics.\n\n'''tiger-shark''' (tī′gėr-shärk), ''n.'' A large and voracious shark, ''Galeocerdo maculatus'' or ''Stego-''",
+   "c3c2": "{{c|Tiger-shark (''Stegostoma tigrinum'').}}",
+   "c3s3": "stoma tigrinum'', more or less marked with yellow, of the warmer parts of the Atlantic and Pacific; the zebra-shark.\n\n'''tiger-shell''' (tī′gėr-shel), ''n.'' The tiger-cowry.\n\n'''tiger's-milk''' (tī′gėrz-milk), ''n.'' The acrid milky juice of the euphorbiaceous tree ''Excœcaria Agallocha'', found from India to Polynesia. The sap is extremely volatile, and affects the eyes, throat, etc., in gathering. It is used to cure ulcers.\n\n'''tiger-wolf''' (tī′gėr-wu̇lf), ''n.'' 1. The spotted hyena, ''Crocuta maculata''. See cut under ''hyena''.—2. The thylacine dasyure, ''Thylacinus cynocephalus''. See cut under ''thylacine''.\n\n'''tiger-wood''' (tī′gėr-wu̇d), ''n.'' 1. A wood imported from British Guiana, and used by cabinet-makers: same as ''itaka-wood''.—2. A variety of citron-wood.\n\n'''tight†''', ''n.'' A close; an inclosure; a croft. ''E. Phillips'', 1706.\n\n'''tight<sup>1</sup>''' (tīt), ''a.'' [< ME. ''tight'', ''tiht'', ''tiȝt'' (also rarely ''toght'', > E. ''taught'', ''taut''), a var. (with initial ''t'' for ''th'' due to assimilation with the final ''t'', perhaps after the Sw. Dan. forms) of *''thight'', ''thiht'', > E. dial. ''thite'', prop. spelled *''thight'', also ''theat'' (after Icel. ''thēttr'' ?), < AS. *''thīht'' (not found) = MD. ''dight'', D. ''digt'' = MHG. ''dīhte'', G. ''dicht'', dial. ''deicht'', thick, solid, dense, = Icel. ''thēttr'' = Sw. ''tät'' = Dan. ''tæt'' = Goth. *''theihts''",
+   "c3s4": "(not recorded), tight, close, compact; appar. with orig. pp. suffix ''-t'' (as in ''light''<sup>1</sup>, ''a.''); perhaps akin to ''thick.''] '''1.''' Close or closely compacted in texture or structure. {{smaller|(''a'') So firmly com-}}"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0138 c1f1.png",
+   "c2f1": "century v08 p0138 c2f1.png",
+   "c3f1": "century v08 p0138 c3f1.png",
+   "c3f2": "century v08 p0138 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     953,
+     350,
+     1521,
+     1100
+    ],
+    "caption": [
+     1030,
+     1107,
+     1440,
+     1130
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     911,
+     320,
+     1573,
+     1101
+    ]
+   },
+   {
+    "box": [
+     1647,
+     609,
+     2305,
+     1277
+    ],
+    "caption": [
+     1748,
+     1281,
+     2203,
+     1329
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1642,
+     579,
+     2320,
+     1286
+    ]
+   },
+   {
+    "box": [
+     1628,
+     1932,
+     2309,
+     2120
+    ],
+    "caption": [
+     1779,
+     2122,
+     2170,
+     2146
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1664,
+     1918,
+     2320,
+     2117
+    ]
+   },
+   {
+    "box": [
+     509,
+     2744,
+     836,
+     3142
+    ],
+    "caption": [
+     501,
+     3156,
+     836,
+     3199
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     482,
+     2736,
+     844,
+     3160
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "3": [
+    2,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 5,
+    "input_tokens": 8809,
+    "output_tokens": 316,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 17,
+    "input_tokens": 8397,
+    "output_tokens": 10198,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 46138
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|tiger|6334|tight}}</noinclude>the two largest living cats (the other being the lion), of the family ''Felidæ.'' {{smaller|The tiger is beautifully striped with black and tawny yellow; it has no mane. The female, when distinguished, is called ''tigress.'' The tiger inhabits southern Asia and some of the larger islands belonging to that continent, having there the same position that the lion has in Africa. The tiger attains his full development in India, the name ''Bengal tiger'' being used as synonymous with those specimens which appear as the most typical and most powerful representatives of the species. In habits the tiger is far more active and agile than the lion, and exhibits a large amount of fierce cunning. He generally selects as his lair a concealed spot near a watercourse, whence to spring upon the animals that approach to drink. His tread through the thick jungle is stealthy, and he appears to avoid rather than court danger, unless when brought to bay, when he turns an appalling front to the foe. Tigers do not generally attack man, but in some cases they seem to acquire a special liking for human prey, and boldly approach villages for the purpose of securing it; such are known as ''man-eaters'' (see ''man-eater'', 2). In some districts the loss of human life is enough to become a matter of official statistics. The natives destroy them by traps, pits, poisoned arrows, and other means. Tiger-hunting is a favorite Indian sport. It is pursued generally by Europeans, the tiger being shot from the back of an elephant. When taken young the tiger can be tamed, and tigers thus domesticated are not rarely to be seen in India.}}\n\n2. The thylacine dasyure, or tiger-wolf: so called from the stripes. See ''thylacine'' (with cut).—3. A person of a fierce, bloodthirsty disposition.—4. A dissolute swaggering dandy; a ruffling blade; a swaggerer; a hector; a bully; a mohawk.\n\n{{smaller block|\"A man may have a very good coat-of-arms, and be a ''tiger'', my boy,\" the Major said, chipping his egg: \"that man is a ''tiger'', mark my word—a low man.\"\n{{right|''Thackeray'', Pendennis, xx.}}}}\n\n'''5.''' [Humorously compared to a tiger in a show-wagon driven about the streets in parade.] A groom who goes out with the equipage of his master—that is, with the dog-cart, curricle, cab, or other vehicle driven by the master himself, his duty being to take care of the equipage when the master has left the box.\n\n{{smaller block|His ''tiger'', Tim, was clean of limb,\nHis boots were polished, his jacket was trim.\nWith a very smart tie in his smart cravat,\nAnd a little cockade on the top of his hat,\nTallest of boys or shortest of men,\nHe stood in his stockings just four feet ten.\n{{right|''Barham'', Ingoldsby Legends, I. 283.}}}}\n\n'''6.''' [Appar. so called as being “an ornamental addition”: in allusion to the tiger or groom (def. 5) who sits as if a mere ornament in the vehicle which his master drives.] An additional cheer; “one more” (often the word ''tiger''): as, three cheers and a ''tiger''. [Colloq.]—'''7.''' In ''sugar-manuf.'', a tank with a perforated bottom, through which the molasses escapes. ''E. H. Knight.''—'''8.''' A bug of the family ''Tingitidæ'': translating the French name.—'''9†.''' A fabulous bird. See the extract.\n\n{{smaller block|Yet ben there other byrdes the whyche ben called ''Tygris'', and they be so stronge that they wyll bere or cary in theyr neste a man sytting vpon an horse all armyd fro the hede to ye fote.\n{{right|''R. Eden'' (First Books on America, ed. Arber, p. xxxii.).}}}}\n\n{{smaller|'''American tiger''', the jaguar, ''Felis onca''. See cut under ''jaguar''.—'''Bengal tiger.''' See def. 1.—'''Black tiger''', a melanistic variety of the jaguar.—'''Clouded tiger''', the clouded tiger-cat. See ''tiger-cat''.—'''Heraldic tiger''', in ''her.'', an imaginary beast unlike a real tiger and more of the shape of a wolf except for having a tufted tail like a lion's. It should always be blazoned ''heraldic tiger'' to distinguish it from the real creature, which is sometimes depicted in recent heraldry.—'''Marbled tiger''', the marbled tiger-cat. See ''marbled''.—'''Mexican tiger''', the jaguar.—'''Red tiger''', the cougar. See cut under ''cougar''.—'''Royal Bengal tiger''', the common tiger, ''Felis tigris''. See def. 1.—'''Saber-toothed tiger''', a machærodont; one of the great fossil cats, with enormous upper canines, belonging to the subfamily ''Machærodontinæ''. See ''Machærodontinæ'', and cut under ''saber-toothed''.—'''Tiger natural''', in ''her.'', a bearing resembling the real tiger more or less closely: so called to distinguish it from the heraldic tiger.—'''Tiger swallowtail.''' See ''swallowtail''.—'''To buck''' or '''fight the tiger.''' See ''fight''.—'''Tortoise-shell tiger''', the clouded tiger-cat. See cut under ''tiger-cat''.—'''Water-tiger''', a predaceous water-beetle of the family ''Dytiscidæ'': so called from their habits. See ''Hydradephaga'', and cut under ''Dytiscidæ''.}}\n\n'''tigerantic†''' (tī-gė-ran′tik), ''a.'' [< ''tiger'' + ''-antic'', a capricious addition, prob. in simulation of ''elephantic''.] Ravenous. [Rare.]\n\n[[File:century v08 p0138 c1f1.png|center|150px]]\n{{c|Virginia Tiger-beetle (''Tetracha virginica'').}}\n\n{{smaller block|In what sheep's-head ordinary have you chew'd away the meridian of your ''tygerantic'' stomach?\n{{right|''Tom Brown'', Works, II. 179. (''Davies.'')}}}}\n\n'''tiger-beetle''' (tī′gėr-bē″tl), ''n.'' Any beetle of the family ''Cicindelidæ:'' so called from its active predaceous habits. See also cuts under ''Amblychila'' and ''Cicindela''.\n\n'''tiger-bittern''' (tī′gėr-bit″ėrn), ''n.'' A So American bird of the heron family and ge ''Tigrisoma'', of which there are several spec so called from the markings of the pluma See cut under ''Tigrisoma''.\n\n'''tiger-cat''' (tī′gėr-kat), ''n.'' 1. One of sev streaked or spotted cats of the family ''Fe'' and genus ''Felis'': so called from their res blance to the tiger in markings or in feroc though they are all much smaller, and ra down to the size of a large house-cat. {{smaller|These are numerous in both hemispheres, and the name ha specific meaning without a qualifying term. The clo tiger-cat, ''F. macroscelis'', of the East Indies is perhap largest and handsomest. The American ocelot is a t cat, and others have their distinctive names, as ''chati'' ''val'', and ''margay''. See these words, and cuts under s and ''ocelot''.}}\n\n[[File:century v08 p0138 c2f1.png|center|290px]]\n{{c|Clouded Tiger-cat (''Felis macroscelis'').}}\n\n2. A mongrel or hybrid between the wildca Europe (''F. catus'') and the domestic cat.—'''Lo''' '''tailed tiger-cat''', {{smaller|''Felis macrurus'' of Brazil, closely re bling the ocelot, and sometimes called ''oceloid leopa''}} '''Marbled tiger-cat.''' {{smaller|See ''marbled''.}}\n\n'''tiger-chop''' (tī′gėr-chop), ''n.'' A species of marigold, ''Mesembryanthemum tigrinum.''\n\n'''tiger-cowry''' (tī′gėr-kou″ri), ''n.'' A tiger-sh a kind of cowry with large spots, ''Cypræa tig'' See cut under ''Cypræa.''\n\n'''tiger-eye''' (tī′gėr-ī), ''n.'' Same as ''tiger's-eye.''\n\n'''tiger-flower''' (tī′gėr-flou″ėr), ''n.'' A plant of genus ''Tigridia'': so named from the variegat of the flower. {{smaller|The ordinary species is ''T. pavonia'', of the most showy of garden flowers, having a peri six inches broad, colored a brilliant scarlet with cop crimson spots toward the dark center. The flower is triangular form, the three inner divisions of the peri being much smaller than the three outer. Each fl lasts only a day, but there is a quick succession for si eight weeks. There are several varieties, including yellow and the white tigridias. From its native land so times called ''Mexican tiger-flower''. Also ''tiger-iris''.}}\n\n'''tiger-footed''' (tī′gėr-fu̇t″ed), ''a.'' Swift as a ger; hastening to devour. [Rare.]\n\n{{smaller block|This ''tiger-footed'' rage, when it shall find The harm of unscann'd swiftness, will too late Tie leaden pounds to 's heels. {{right|''Shak.'', Cor., iii. 1.}}}}\n\n'''tiger-frog''' (tī′gėr-frog), ''n.'' Same as ''leopa frog''.\n\n'''tiger-grass''' (tī′gėr-grȧs), ''n.'' A dwarf fan-pa ''Nannorhops Ritchieana'', of western India, tending into Persia: put by the natives t great variety of uses. {{smaller|It was formerly classed ''Chamærops'', from which it chiefly differs by its val instead of imbricate petals or corolla-segments.}}\n\n'''tigerine''' (tī′gėr-in), ''a.'' [< ''tiger'' + ''-ine''<sup>1</sup>.] ''tigrine.''\n\n'''tigerish''' (tī′gėr-ish), ''a.'' [Also ''tigrish''; < ''tige'' ''-ish''<sup>1</sup>.] Of, pertaining to, or resembling a ti in appearance, nature, or habits. {{smaller|(''a'') Fierce, bl thirsty, or cruel.}}\n\n{{smaller block|Let this thought thy ''tigrish'' courage pass. {{right|''Sir P. Sidney'', Astrophel and Ste}}}}\n\n{{smaller|(''b'') Swaggering; bully-like. Compare ''tiger'', 4.}}\n\n{{smaller block|Nothing could be more vagrant, devil-me-carish, and use a slang word, ''tigrish'', than his whole air. {{right|''Bulwer'', My Novel, vi.}}}}\n\n'''tigerism''' (tī′gėr-izm), ''n.'' [< ''tiger'' + ''-ism.''] Tigerish disposition or propensities.—2. solute swaggering habits; especially, an aff tation of such habits.\n\n{{smaller block|In France, where ''tigerism'' used to be the fashion am the painters, I make no doubt Carmine would have let beard and wig grow, and looked the fiercest of the fie {{right|''Thackeray'', Character Sketches, The Arti}}}}\n\n'''tigerkin''' (tī′gėr-kin), ''n.'' [< ''tiger'' + ''-kin.''] little tiger or tiger-cat: used humorously of domestic cat.\n\n{{smaller block|It is only from the attic that you can appreciate the picturesque which belongs to our domesticated ''tigerkin.'' The goat should be seen on the Alps, and the cat on the housetop.{{right|''Bulwer'', Caxtons, xiv. 2.}}}}\n\n'''tiger-lily''' (tī′gėr-lil″i), ''n.'' A common garden lily, ''Lilium tigrinum'', native in China, bearing nodding flowers with a reflexed perianth of a dull-orange color spotted with black (whence the name). It produces bulblets in the axils of the leaves. Its bulbs are used for food in China and Japan.\n\n'''tiger-moth''' (tī′gėr-môth), ''n.'' A moth of the family ''Arctiidæ'', as ''Euprepia caja'' and ''E. plantaginis'', whose larvæ are known as ''bear-caterpillars'' and ''woolly bears.'' {{smaller|''Arctia isabella'' is the isabella tiger-moth. ''Deiopæa bella'' is a common tiger-moth in the United States. See also cuts under ''bear''<sup>2</sup>, ''Euprepia'', and ''Utetheisa''.}}\n\n[[File:century v08 p0138 c3f1.png|center|360px]]\n{{c|Isabella Tiger-moth (''Arctia isabella'').<br>''a'', larva; ''b'', cocoon and chrysalis; ''c'', moth.}}\n\n¶\n'''tiger's-claw''' (tī′gėrz-klâ), ''n.'' Same as ''baagnouk''.\n\n'''tiger's-eye''' (tī′gėrz-ī), ''n.'' An ornamental stone of a yellow color, with brilliant, chatoyant, or opalescent reflections due to its delicate fibrous structure. {{smaller|It consists essentially of quartz colored by yellow iron oxid—the latter produced by the alteration of fibers of the blue mineral crocidolite, which originally penetrated the quartz; hence often, though improperly, called ''crocidolite''. It has been obtained in large quantities in the Asbestos Mountains in South Africa. Also ''tiger-eye''.}}\n\n'''tiger's-foot''' (tī′gėrz-fu̇t), ''n.'' A twining plant, ''Ipomæa Pes-tigridis'', with pedately lobed leaves, widely diffused through the Old World tropics.\n\n'''tiger-shark''' (tī′gėr-shärk), ''n.'' A large and voracious shark, ''Galeocerdo maculatus'' or ''Stegostoma'' tigrinum'', more or less marked with yellow, of the warmer parts of the Atlantic and Pacific; the zebra-shark.\n\n[[File:century v08 p0138 c3f2.png|center|360px]]\n{{c|Tiger-shark (''Stegostoma tigrinum'').}}\n\n'''tiger-shell''' (tī′gėr-shel), ''n.'' The tiger-cowry.\n\n'''tiger's-milk''' (tī′gėrz-milk), ''n.'' The acrid milky juice of the euphorbiaceous tree ''Excœcaria Agallocha'', found from India to Polynesia. The sap is extremely volatile, and affects the eyes, throat, etc., in gathering. It is used to cure ulcers.\n\n'''tiger-wolf''' (tī′gėr-wu̇lf), ''n.'' 1. The spotted hyena, ''Crocuta maculata''. See cut under ''hyena''.—2. The thylacine dasyure, ''Thylacinus cynocephalus''. See cut under ''thylacine''.\n\n'''tiger-wood''' (tī′gėr-wu̇d), ''n.'' 1. A wood imported from British Guiana, and used by cabinet-makers: same as ''itaka-wood''.—2. A variety of citron-wood.\n\n'''tight†''', ''n.'' A close; an inclosure; a croft. ''E. Phillips'', 1706.\n\n'''tight<sup>1</sup>''' (tīt), ''a.'' [< ME. ''tight'', ''tiht'', ''tiȝt'' (also rarely ''toght'', > E. ''taught'', ''taut''), a var. (with initial ''t'' for ''th'' due to assimilation with the final ''t'', perhaps after the Sw. Dan. forms) of *''thight'', ''thiht'', > E. dial. ''thite'', prop. spelled *''thight'', also ''theat'' (after Icel. ''thēttr'' ?), < AS. *''thīht'' (not found) = MD. ''dight'', D. ''digt'' = MHG. ''dīhte'', G. ''dicht'', dial. ''deicht'', thick, solid, dense, = Icel. ''thēttr'' = Sw. ''tät'' = Dan. ''tæt'' = Goth. *''theihts'' (not recorded), tight, close, compact; appar. with orig. pp. suffix ''-t'' (as in ''light''<sup>1</sup>, ''a.''); perhaps akin to ''thick.''] '''1.''' Close or closely compacted in texture or structure. {{smaller|(''a'') So firmly com-}}<noinclude><references/></noinclude>"
+}

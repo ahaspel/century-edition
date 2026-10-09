@@ -1,0 +1,183 @@
+{
+ "volume": 8,
+ "page_number": 135,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n134.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n134.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": 0.0,
+  "column_width": 833,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     10,
+     22,
+     2311,
+     133
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     10,
+     133,
+     843,
+     1210
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     10,
+     1210,
+     843,
+     2287
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     10,
+     2287,
+     843,
+     3315
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     843,
+     133,
+     1585,
+     1232
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     843,
+     1232,
+     1585,
+     2250
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     843,
+     2250,
+     1585,
+     3315
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1585,
+     133,
+     2311,
+     1127
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1585,
+     1127,
+     2311,
+     2173
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1585,
+     2173,
+     2311,
+     3248
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1585,
+     3248,
+     2311,
+     3315
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|tide-gate|6331|tie}}",
+   "c1s1": "¶\n'''tide-gate'''<sup>2</sup> (tīd′gāt), ''n.'' [< ''tide''<sup>1</sup> + ''gate''<sup>2</sup>.] 1†. Tideway; stream.\n\n{{smaller block|Some visible apparent tokens remaine of a haven, . . . though now it be graveld up, and the streame or ''tydegate'' turned another way.\n{{right|''Nashe'', Lenten Stuffe (Harl. Misc., VI. 150). (''Davies.'')}}}}\n\n2. ''Naut.'', a narrow place where the tide runs with great velocity.\n\n'''tide-harbor''' (tīd′här″bor), ''n.'' Same as ''tidal harbor'' (which see, under ''tidal'').\n\n'''tide-land''' (tīd′land), ''n.'' Such land as is affected by the tide; land which is alternately covered and left dry by the ordinary flux and reflux of the tides.—'''Tide-land spruce.''' {{smaller|See ''spruce''<sup>3</sup>.}}\n\n'''tideless''' (tīd′les), ''a.'' [< ''tide''<sup>1</sup> + ''-less''.] Without ebb or flow.\n\n{{smaller block|There is a considerable fresh water volume debouching into a ''tideless'' sea or lake.\n{{right|''Jour. Franklin Inst.'', CXXV. 306.}}}}\n\n'''tide-lock''' (tīd′lok), ''n.'' A lock situated between the tide-water of a harbor or river and an inclosed basin when their levels vary. {{smaller|It has two pairs of double gates, by which vessels can pass either way at all times of the tide. Also called ''guard-lock''.}}\n\n'''tidely†''' (tīd′li), ''adv.'' [< ME. ''tidely'', ''tydely'', < AS. ''tīdlīce'' (= D. ''tijdelijk'' = G. ''zeitlich''), timely, seasonably, < ''tīdlīc'' (= D. ''tijdelijk'' = G. ''zeitlich''), timely, seasonable, < ''tīd'', time, tide: see ''tide''<sup>1</sup> and ''-ly''<sup>2</sup>.] 1. Seasonably; opportunely; suitably; fitly.\n\n{{smaller block|But [he] tok to him ''tidely'' trewe cunsayl euere.\n{{right|''William of Palerne'' (E. E. T. S.), l. 5482.}}}}\n\n{{smaller block|Item, Sir, if my Maister of the Rolles be not come, I trust to God to com ''tydely'' i now, as for the traversys.\n{{right|''Paston Letters'', I. 528.}}}}",
+   "c1s2": "¶\n2. Cleverly; smartly; bravely.\n\n{{smaller block|Than Troiell full ''tidely'' turnyt into batell,<br>With a folke that was fell, fuerse of assaute.\n{{right|''Destruction of Troy'' (E. E. T. S.), l. 10270.}}}}\n\n'''tide-mark''' (tīd′märk), ''n.'' The limit of the flow or of the ebb of the tide.\n\n'''tide-marsh''' (tīd′märsh), ''n.'' See ''marsh.''\n\n'''tide-meter''' (tīd′mē″tėr), ''n.'' A tide-gage.\n\n'''tide-mill''' (tīd′mil), ''n.'' 1. A mill supplied with power by means of a water-wheel operated by a fall or current in a tideway or from a tidal basin.—2. A water-pumping station operated by a tide-wheel, used to pump water over a dike. See ''tide-wheel.''\n\n'''tide-pool''' (tīd′pöl), ''n.'' A pool left by the regress of the tide.\n\n'''tide-predictor''' (tīd′prē-dik″tọr), ''n.'' An instrument for calculating the times and heights of high and low water. {{smaller|In the machine of Ferrell (which is used for the official tide-tables of the United States Coast Survey) there is a chain passing over thirty-four pulleys attached eccentrically to half as many revolving axes. Two hands move in an apparently very irregular way over a dial; when these coincide the time of high or low water is read off on the dial, and the height of the water upon a vertical scale with a moving index at the side.}}\n\n'''tide-rips''' (tīd′rips), ''n. pl.'' Rough water caused by opposing tides or currents.\n\n'''tide-rock''' (tīd′rok), ''n.'' A rock alternately covered and uncovered by the tides.\n\n'''tide-rode''' (tīd′rōd), ''a.'' ''Naut.,'' swinging by the force of the tide when at anchor; riding at anchor with head to tide and not to wind. See ''wind-rode.''\n\n'''tide-runner''' (tīd′run″ėr), ''n.'' A fish whose move-",
+   "c1s3": "ments correspond to or are otherwise affected by the tides.\n\n{{smaller block|These big fellows [weakfish] are designated as ''tide-runners.''\n{{right|''Sportsman's Gazetteer,'' p. 244.}}}}\n\n'''tides-man''' (tīdz′man), ''n.'' 1. One who is employed only during certain states of the tide.—2. A tidewaiter.\n\n'''tide-table''' (tīd′tā″bl), ''n.'' A table showing the time of high water at any place, or at different places, for each day throughout the year.\n\n'''tidewaiter''' (tīd′wā″tėr), ''n.'' One of a class of custom-house officers whose business it is to await the arrival of ships, and to see that while in port the customs regulations as to the landing and shipping of goods are observed, and the revenue laws are not violated.\n\n{{smaller block|If he misses a pair of colours, or a ''tide-waiter's'' place, he has no remedy but the highway.\n{{right|''Swift,'' Advice to Servants (Waiting-Maid).}}}}\n\n{{smaller block|The father of the Custom-House — the patriarch not only of this little squad of officials, but, I am bold to say, of the respectable body of ''tide-waiters'' all over the United States — was a certain permanent Inspector.\n{{right|''Hawthorne,'' Scarlet Letter, Int., p. 17.}}}}\n\n'''tide-water''' (tīd′wâ″tėr), ''n.'' Water affected by the ordinary ebb and flow of the tide.—'''Tide-water region''', {{smaller|the low plain of eastern Virginia, extending from the Atlantic coast westward about 100 miles.}}\n\n'''tide-wave''' (tīd′wāv), ''n.'' A tidal wave (which see, under ''tidal'').",
+   "c2s1": "¶\n'''tideway''' (tīd′wā), ''n.'' A channel in which the tide sets.\n\n{{smaller block|Now and then great budgerows crossed our path, or lay anchored in the ''tideway.''\n{{right|''W. H. Russell'', Diary in India, I. 125.}}}}\n\n'''tide-wheel''' (tīd′hwēl), ''n.'' A water-wheel operated by a head of water from a tidal basin, or working as a current-wheel in a tideway or sluice.\n\n'''tidif†''', ''n.'' See ''tidy''<sup>2</sup>.\n\n'''tidily''' (tī′di-li), ''adv.'' [< ''tidy''<sup>1</sup> + ''-ly''<sup>2</sup>.] Neatly; with simplicity and suitability: as, a ''tidily'' dressed girl.\n\n'''tidiness''' (tī′di-nes), ''n.'' [< ''tidy''<sup>1</sup> + ''-ness.''] The quality of being tidy; neatness: as, the ''tidiness'' of dress, of a room, etc.\n\n{{smaller block|The open country is more pleasing than the small villages, which have not the ''tidiness'' of the New England small villages.\n{{right|''Harper's Mag.'', LXXVIII. 258.}}}}\n\n'''tiding''' (tī′ding), ''n.'' [< (''a'') ME. ''tiding, tydinge, tideng, tithinge,'' < AS. *''tīdung'' = D. ''tijding'' = MLG. ''tiding'' = MHG. ''zītunge,'' G. ''zeitung'' (cf. Sw. ''tidning''), news, information; verbal n. of AS. ''tīdan,'' etc., happen: see ''tide''<sup>1</sup>, ''v.'' (''b'') Mixed with ME. ''tidinde, tithende, tithinde,'' < Icel. ''tīdhindi'' = Dan. ''tidende,'' lit. things happening, pl. ppr. of *''tīdha'' = AS. ''tīdan,'' happen: see ''tide''<sup>1</sup>.] The announcement of an event or occurrence not previously made known; a piece of news; hence, in the plural, news; information; intelligence: now always used in the plural.\n\n{{smaller block|Thus saugh I fals and soth compouned\nTogeder flee for oo ''tydinge.''\n{{right|''Chaucer'', House of Fame, l. 2109.}}}}\n\n{{smaller block|Behold, I bring you good ''tidings'' of great joy, which}}",
+   "c2s2": "{{smaller block|shall be to all people.{{right|Luke ii. 10.}}}}\n\n{{smaller block|I shall make my master glad with these ''tidings''.{{right|''Shak.'', M. W. of W., iv. 5. 57.}}}}\n\n{{smaller block|[The plural form ''tidings'' is sometimes used as a singular. Compare ''news''.\n\nThe ''tidings'' comes that they are all arrived.{{right|''Shak.'', K. John, iv. 2. 115.]}}}}\n\n{{smaller|='''Syn.''' ''Intelligence'', etc. See ''news''.}}\n\n'''tiding-well''' (tī′ding-wel), ''n.'' A well that ebbs and flows, or is supposed to ebb and flow, with the tide.\n\n{{smaller block|There is a ''tiding-well''<br>That daily ebbs and flows.{{right|''Drayton'', Polyolbion, xxx. 88.}}}}\n\n'''tidley''' (tid′li), ''n.'' [Cf. ''tiddy''<sup>2</sup>, ''tidy''<sup>2</sup>.] The wren of Europe, ''Troglodytes parvulus''. ''Montagu''.—{{smaller|'''Tidley goldfinch.''' See ''goldfinch''.}}\n\n'''tidly†''', ''adv.'' Same as ''titely''.\n\n'''tidological''' (tī-dō-loj′i-kal), ''a.'' [< ''tidolog-y'' + ''-ic-al''.] Of or pertaining to tidology: as, ''tidological'' researches. ''Whewell''.\n\n'''tidology''' (tī-dol′ō-ji), ''n.'' [Irreg. < E. ''tide''<sup>1</sup> + Gr. -λογία, < λέγειν, speak: see ''-ology''.] The doctrine, theory, or science of tides.\n\n{{smaller block|I have ventured to employ the term ''Tidology'', having been much engaged in tidological researches.{{right|''Whewell'', Philos. Induct. Sciences (ed. 1840), I. p. lxxiii.}}}}\n\n'''tidy<sup>1</sup>''' (tī′di), ''a.'' and ''n.'' [< ME. ''tidy'', ''tydy'', ''tidi'' (= D. ''tijdig'' = MLG. ''tīdich'', timely, = OHG. MHG. ''zītīg'', G. ''zeitig'', seasonable, timely, = Sw. ''tidig'' = Dan. ''tidig'', timely); < ''tide''<sup>1</sup> + ''-y''<sup>1</sup>.] '''I.''' ''a.'' '''1†.''' Seasonable; opportune; favorable; fit; suitable.",
+   "c2s3": "{{smaller block|Gret merthe to the messangeres Meliors than made,\nFor the ''tidy'' tidiñges that tiȝtly were seide.\n{{right|''William of Palerne'' (E. E. T. S.), l. 1338.}}}}\n\n{{smaller block|If weather be fair, and ''tidy'' thy grain,\nMake speedily carriage, for fear of a rain.\n{{right|''Tusser'', August's Husbandry, st. 22.}}}}\n\n2†. Brave; smart; skilful; fine; good.\n\n{{smaller block|Than Troilus full tite, & ''tidé'' Eneas,\nChefyn to Achilles with choise men ynogh.\n{{right|''Destruction of Troy'' (E. E. T. S.), l. 7410.}}}}\n\n{{smaller block|Thanne worth Trewe-tonge, a ''tidy'' man that tened me neuere.\n{{right|''Piers Plowman'' (B), iii. 320.}}}}\n\n3. Appropriate or suitable as regards order, arrangement, occasion, circumstances, or the like; becomingly or neatly arrayed or arranged; kept in good order; neat; trim: as, a ''tidy'' dress; a ''tidy'' and well-furnished apartment.\n\n{{smaller block|To see it all so ''tidy'', not even a pair of boots thrown about, or a tie flung on the table, made their hearts die within them.\n{{right|''Mrs. Oliphant'', Poor Gentleman, xxxvii.}}}}\n\n4. Of neat and orderly habits; disposed to be neat and orderly: as, a ''tidy'' person.—5. Moderately or fairly large, great, or important; considerable; respectable; pretty: as, a ''tidy'' sum of money. [Obsolete or colloq.]\n\n{{smaller block|Al that touched ther to a ''tidi'' erldome,\nTo the kowherd & his wif the king ȝaf that time.\n{{right|''William of Palerne'' (E. E. T. S.), l. 5384.}}}}\n\n{{smaller block|May be after a ''tidy'' day's work I shall come home with 1s. in my pocket.\n{{right|''Mayhew'', London Labour and London Poor, I. 408.}}}}",
+   "c3s1": "6. Satisfactory; comfortable; fairly good or well: as, How are you to-day? ''Tidy.'' [Slang.]\n\n'''II.''' ''n.''; pl. ''tidies'' (-diz). 1. A more or less ornamental covering for the back of a chair, the arms of a sofa, or the like, to keep them from becoming soiled.—2. A pinafore or apron. [Prov. Eng.]\n\n'''tidy<sup>1</sup>''' (tī′di), ''v.''; pret. and pp. ''tidied'', ppr. ''tidying.'' [< ''tidy''<sup>1</sup>, ''a.''] '''I.''' ''trans.'' To make neat; put in good order: often followed by ''up'': as, to ''tidy'' or to ''tidy up'' a room. [Colloq.]\n\n{{smaller block|She found the widow with her house-place ''tidied up'' after the midday meal, and busy knitting at the open door.\n{{right|''Mrs. Gaskell'', Sylvia's Lovers, xliii.}}}}\n\n'''II.''' ''intrans.'' To arrange, dispose, or put things, as dress, furniture, etc., in good or proper order: often with ''up''. [Colloq.]\n\n{{smaller block|I have ''tidied'' and ''tidied'' over and over again, but it's useless. Ma and Africa, together, upset the whole house.\n{{right|''Dickens'', Bleak House, xxx.}}}}\n\n'''tidy<sup>2</sup>''' (tī′di), ''n.''; pl. ''tidies'' (-diz). [Early mod. E. also ''tydie''; also dial. ''tiddy'', q. v.; < ME. ''tidif'', ''tydif'', ''tidife''; origin unknown: see ''tidif''. Cf. ''tiddy''<sup>2</sup> (and ''tidley''); the termination is appar. OF.] A small singing bird, perhaps the wren.\n\n{{smaller block|Tho that hadde doon unkyndenesse—\nAs doth the ''tydif'', for new-fangelnesse.\n{{right|''Chaucer'', Good Women, l. 154.}}}}\n\n{{smaller block|And of those chaunting fowls, the Goldfinch not behind,\nThat hath so many sorts descending from her kind,\nThe ''Tydie'' for her notes as delicate as they.\n{{right|''Drayton'', Polyolbion, xiii. 79.}}}}",
+   "c3s2": "¶\n'''tidytips''' (tī′di-tips), ''n.'' A Californian composite plant, ''Layia'' (''Callichroa'') ''platyglossa'': a showy plant with bright-yellow rays, frequently cultivated as a half-hardy annual.\n\n'''tie<sup>1</sup>''' (tī), ''v.''; pret. and pp. ''tied'', ppr. ''tying''. [Early mod. E. also ''tye''; dial. also ''tee''; < ME. ''tien'', ''tyen'', ''teyen'', ''teien'', ''teiȝen'', ''tiȝen'', < AS. ''tīgan'', *''tȳgan'', *''tēgan'', *''tīgian'', cited also as *''tēgean'', bind, tie, a secondary form of the verb ''teón'' (pret. ''teáh'', pl. ''tugon'', pp. ''togen''), draw, pull: see ''tee''<sup>1</sup>, ''tow''<sup>1</sup>. In some uses the verb is directly from the noun: see ''tie''<sup>1</sup>, ''n.''] '''I.''' ''trans.'' '''1.''' To attach or make fast by a band, ribbon, cord, or the like drawn together and knotted; bind.\n\n{{smaller block|Ther-with thei drough theire swerdes oute and wente toward the river that ran vnder the gardin, where thei hadde a barge ''i-teyed'' where-in thei were come in to the gardin.\n{{right|''Merlin'' (E. E. T. S.), iii. 464.}}}}\n\n{{smaller block|And thereunto a great long chaine he ''tight'',\nWith which he drew him forth, even in his own despight.\n{{right|''Spenser'', F. Q., VI. xii. 34.}}}}\n\n{{smaller block|My son, keep thy father's commandment, and forsake not the law of thy mother; bind them continually upon thine heart, and ''tie'' them about thy neck.\n{{right|Prov. vi. 20, 21.}}}}\n\n'''2.''' To fasten by looping or knotting: as, to ''tie'' a ribbon on one's arm; hence, to fasten as if tied.\n\n{{smaller block|What boots it thee\nTo shew the rusted buckle that did ''tie''\nThe garter of thy greatest grandsire's knee?\n{{right|''Bp. Hall'', Satires, IV. iii. 12.}}}}\n\n{{smaller block|He ''tied'' the ends into the nautical slip-knot, and pronounced the thing complete.\n{{right|''Doran'', Annals of the Stage, II. 163.}}}}",
+   "c3s3": "3. To fasten by tightening and knotting the strings of: as, to ''tie'' a shoe or a bonnet.\n\n{{smaller block|Drawer, ''tie'' my shoe, prithee; the new knot, as thou seest this.\n{{right|''Dekker and Webster'', Northward Ho, i. 2.}}}}\n\n4. To form by looping and interlacing; knit: as, to ''tie'' a knot.\n\n{{smaller block|Again the hawthorn shall supply\nThe garlands you delight to ''tie''.\n{{right|''Scott'', Marmion, i., Int.}}}}\n\n5. To bind or unite securely; specifically, to unite in marriage (colloq. in this use).\n\n{{smaller block|And doe they not knowe that a Tragedie is ''tied'' to the lawes of Poesie, and not of Historie?\n{{right|''Sir P. Sidney'', Apol. for Poetrie.}}}}\n\n{{smaller block|In bond of virtuous love together ''tied''.\n{{right|''Fairfax.''}}}}\n\n{{smaller block|I heartily desire this courtesy,\nAnd would not be denied, to wait upon you\nThis day, to see you ''tied'', then no more trouble you.\n{{right|''Fletcher'', Wildgoose Chase, iv. 1.}}}}\n\n6. To bind, restrict, limit, or confine; hold or restrain, as by authority or moral influence.\n\n{{smaller block|Herewith hir swelling sobbes\nDid ''tie'' hir tong from talke.\n{{right|''Gascoigne'', Philomene (Steele Glas, etc., ed. Arber, p. 99).}}}}\n\n{{smaller block|I see you are ''tied'' to no particular employment.\n{{right|''Beau. and Fl.'', Scornful Lady, i. 1.}}}}\n\n{{smaller block|Do they think to bind me to live chaste, sober, and temperately all days of my life? they may as soon ''tie'' an Englishman to live so.\n{{right|''Beau. and Fl.'', Knight of Malta, v. 1.}}}}\n\n7. In ''building'', to bind together two bodies by means of a piece of timber or metal. See ''tie''<sup>1</sup>, ''n.'', 5.—8. In ''music'', to unite or bind, as",
+   "c3s4": ""
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    2
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 2781,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 10210,
+    "output_tokens": 10936,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 29854
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|tide-gate|6331|tie}}</noinclude>'''tide-gate'''<sup>2</sup> (tīd′gāt), ''n.'' [< ''tide''<sup>1</sup> + ''gate''<sup>2</sup>.] 1†. Tideway; stream.\n\n{{smaller block|Some visible apparent tokens remaine of a haven, . . . though now it be graveld up, and the streame or ''tydegate'' turned another way.\n{{right|''Nashe'', Lenten Stuffe (Harl. Misc., VI. 150). (''Davies.'')}}}}\n\n2. ''Naut.'', a narrow place where the tide runs with great velocity.\n\n'''tide-harbor''' (tīd′här″bor), ''n.'' Same as ''tidal harbor'' (which see, under ''tidal'').\n\n'''tide-land''' (tīd′land), ''n.'' Such land as is affected by the tide; land which is alternately covered and left dry by the ordinary flux and reflux of the tides.—'''Tide-land spruce.''' {{smaller|See ''spruce''<sup>3</sup>.}}\n\n'''tideless''' (tīd′les), ''a.'' [< ''tide''<sup>1</sup> + ''-less''.] Without ebb or flow.\n\n{{smaller block|There is a considerable fresh water volume debouching into a ''tideless'' sea or lake.\n{{right|''Jour. Franklin Inst.'', CXXV. 306.}}}}\n\n'''tide-lock''' (tīd′lok), ''n.'' A lock situated between the tide-water of a harbor or river and an inclosed basin when their levels vary. {{smaller|It has two pairs of double gates, by which vessels can pass either way at all times of the tide. Also called ''guard-lock''.}}\n\n'''tidely†''' (tīd′li), ''adv.'' [< ME. ''tidely'', ''tydely'', < AS. ''tīdlīce'' (= D. ''tijdelijk'' = G. ''zeitlich''), timely, seasonably, < ''tīdlīc'' (= D. ''tijdelijk'' = G. ''zeitlich''), timely, seasonable, < ''tīd'', time, tide: see ''tide''<sup>1</sup> and ''-ly''<sup>2</sup>.] 1. Seasonably; opportunely; suitably; fitly.\n\n{{smaller block|But [he] tok to him ''tidely'' trewe cunsayl euere.\n{{right|''William of Palerne'' (E. E. T. S.), l. 5482.}}}}\n\n{{smaller block|Item, Sir, if my Maister of the Rolles be not come, I trust to God to com ''tydely'' i now, as for the traversys.\n{{right|''Paston Letters'', I. 528.}}}}\n\n2. Cleverly; smartly; bravely.\n\n{{smaller block|Than Troiell full ''tidely'' turnyt into batell,<br>With a folke that was fell, fuerse of assaute.\n{{right|''Destruction of Troy'' (E. E. T. S.), l. 10270.}}}}\n\n'''tide-mark''' (tīd′märk), ''n.'' The limit of the flow or of the ebb of the tide.\n\n'''tide-marsh''' (tīd′märsh), ''n.'' See ''marsh.''\n\n'''tide-meter''' (tīd′mē″tėr), ''n.'' A tide-gage.\n\n'''tide-mill''' (tīd′mil), ''n.'' 1. A mill supplied with power by means of a water-wheel operated by a fall or current in a tideway or from a tidal basin.—2. A water-pumping station operated by a tide-wheel, used to pump water over a dike. See ''tide-wheel.''\n\n'''tide-pool''' (tīd′pöl), ''n.'' A pool left by the regress of the tide.\n\n'''tide-predictor''' (tīd′prē-dik″tọr), ''n.'' An instrument for calculating the times and heights of high and low water. {{smaller|In the machine of Ferrell (which is used for the official tide-tables of the United States Coast Survey) there is a chain passing over thirty-four pulleys attached eccentrically to half as many revolving axes. Two hands move in an apparently very irregular way over a dial; when these coincide the time of high or low water is read off on the dial, and the height of the water upon a vertical scale with a moving index at the side.}}\n\n'''tide-rips''' (tīd′rips), ''n. pl.'' Rough water caused by opposing tides or currents.\n\n'''tide-rock''' (tīd′rok), ''n.'' A rock alternately covered and uncovered by the tides.\n\n'''tide-rode''' (tīd′rōd), ''a.'' ''Naut.,'' swinging by the force of the tide when at anchor; riding at anchor with head to tide and not to wind. See ''wind-rode.''\n\n'''tide-runner''' (tīd′run″ėr), ''n.'' A fish whose movements correspond to or are otherwise affected by the tides.\n\n{{smaller block|These big fellows [weakfish] are designated as ''tide-runners.''\n{{right|''Sportsman's Gazetteer,'' p. 244.}}}}\n\n'''tides-man''' (tīdz′man), ''n.'' 1. One who is employed only during certain states of the tide.—2. A tidewaiter.\n\n'''tide-table''' (tīd′tā″bl), ''n.'' A table showing the time of high water at any place, or at different places, for each day throughout the year.\n\n'''tidewaiter''' (tīd′wā″tėr), ''n.'' One of a class of custom-house officers whose business it is to await the arrival of ships, and to see that while in port the customs regulations as to the landing and shipping of goods are observed, and the revenue laws are not violated.\n\n{{smaller block|If he misses a pair of colours, or a ''tide-waiter's'' place, he has no remedy but the highway.\n{{right|''Swift,'' Advice to Servants (Waiting-Maid).}}}}\n\n{{smaller block|The father of the Custom-House — the patriarch not only of this little squad of officials, but, I am bold to say, of the respectable body of ''tide-waiters'' all over the United States — was a certain permanent Inspector.\n{{right|''Hawthorne,'' Scarlet Letter, Int., p. 17.}}}}\n\n'''tide-water''' (tīd′wâ″tėr), ''n.'' Water affected by the ordinary ebb and flow of the tide.—'''Tide-water region''', {{smaller|the low plain of eastern Virginia, extending from the Atlantic coast westward about 100 miles.}}\n\n'''tide-wave''' (tīd′wāv), ''n.'' A tidal wave (which see, under ''tidal'').\n\n'''tideway''' (tīd′wā), ''n.'' A channel in which the tide sets.\n\n{{smaller block|Now and then great budgerows crossed our path, or lay anchored in the ''tideway.''\n{{right|''W. H. Russell'', Diary in India, I. 125.}}}}\n\n'''tide-wheel''' (tīd′hwēl), ''n.'' A water-wheel operated by a head of water from a tidal basin, or working as a current-wheel in a tideway or sluice.\n\n'''tidif†''', ''n.'' See ''tidy''<sup>2</sup>.\n\n'''tidily''' (tī′di-li), ''adv.'' [< ''tidy''<sup>1</sup> + ''-ly''<sup>2</sup>.] Neatly; with simplicity and suitability: as, a ''tidily'' dressed girl.\n\n'''tidiness''' (tī′di-nes), ''n.'' [< ''tidy''<sup>1</sup> + ''-ness.''] The quality of being tidy; neatness: as, the ''tidiness'' of dress, of a room, etc.\n\n{{smaller block|The open country is more pleasing than the small villages, which have not the ''tidiness'' of the New England small villages.\n{{right|''Harper's Mag.'', LXXVIII. 258.}}}}\n\n'''tiding''' (tī′ding), ''n.'' [< (''a'') ME. ''tiding, tydinge, tideng, tithinge,'' < AS. *''tīdung'' = D. ''tijding'' = MLG. ''tiding'' = MHG. ''zītunge,'' G. ''zeitung'' (cf. Sw. ''tidning''), news, information; verbal n. of AS. ''tīdan,'' etc., happen: see ''tide''<sup>1</sup>, ''v.'' (''b'') Mixed with ME. ''tidinde, tithende, tithinde,'' < Icel. ''tīdhindi'' = Dan. ''tidende,'' lit. things happening, pl. ppr. of *''tīdha'' = AS. ''tīdan,'' happen: see ''tide''<sup>1</sup>.] The announcement of an event or occurrence not previously made known; a piece of news; hence, in the plural, news; information; intelligence: now always used in the plural.\n\n{{smaller block|Thus saugh I fals and soth compouned\nTogeder flee for oo ''tydinge.''\n{{right|''Chaucer'', House of Fame, l. 2109.}}}}\n\n{{smaller block|Behold, I bring you good ''tidings'' of great joy, which shall be to all people.{{right|Luke ii. 10.}}}}\n\n{{smaller block|I shall make my master glad with these ''tidings''.{{right|''Shak.'', M. W. of W., iv. 5. 57.}}}}\n\n{{smaller block|[The plural form ''tidings'' is sometimes used as a singular. Compare ''news''.\n\nThe ''tidings'' comes that they are all arrived.{{right|''Shak.'', K. John, iv. 2. 115.]}}}}\n\n{{smaller|='''Syn.''' ''Intelligence'', etc. See ''news''.}}\n\n'''tiding-well''' (tī′ding-wel), ''n.'' A well that ebbs and flows, or is supposed to ebb and flow, with the tide.\n\n{{smaller block|There is a ''tiding-well''<br>That daily ebbs and flows.{{right|''Drayton'', Polyolbion, xxx. 88.}}}}\n\n'''tidley''' (tid′li), ''n.'' [Cf. ''tiddy''<sup>2</sup>, ''tidy''<sup>2</sup>.] The wren of Europe, ''Troglodytes parvulus''. ''Montagu''.—{{smaller|'''Tidley goldfinch.''' See ''goldfinch''.}}\n\n'''tidly†''', ''adv.'' Same as ''titely''.\n\n'''tidological''' (tī-dō-loj′i-kal), ''a.'' [< ''tidolog-y'' + ''-ic-al''.] Of or pertaining to tidology: as, ''tidological'' researches. ''Whewell''.\n\n'''tidology''' (tī-dol′ō-ji), ''n.'' [Irreg. < E. ''tide''<sup>1</sup> + Gr. -λογία, < λέγειν, speak: see ''-ology''.] The doctrine, theory, or science of tides.\n\n{{smaller block|I have ventured to employ the term ''Tidology'', having been much engaged in tidological researches.{{right|''Whewell'', Philos. Induct. Sciences (ed. 1840), I. p. lxxiii.}}}}\n\n'''tidy<sup>1</sup>''' (tī′di), ''a.'' and ''n.'' [< ME. ''tidy'', ''tydy'', ''tidi'' (= D. ''tijdig'' = MLG. ''tīdich'', timely, = OHG. MHG. ''zītīg'', G. ''zeitig'', seasonable, timely, = Sw. ''tidig'' = Dan. ''tidig'', timely); < ''tide''<sup>1</sup> + ''-y''<sup>1</sup>.] '''I.''' ''a.'' '''1†.''' Seasonable; opportune; favorable; fit; suitable. {{smaller block|Gret merthe to the messangeres Meliors than made,\nFor the ''tidy'' tidiñges that tiȝtly were seide.\n{{right|''William of Palerne'' (E. E. T. S.), l. 1338.}}}}\n\n{{smaller block|If weather be fair, and ''tidy'' thy grain,\nMake speedily carriage, for fear of a rain.\n{{right|''Tusser'', August's Husbandry, st. 22.}}}}\n\n2†. Brave; smart; skilful; fine; good.\n\n{{smaller block|Than Troilus full tite, & ''tidé'' Eneas,\nChefyn to Achilles with choise men ynogh.\n{{right|''Destruction of Troy'' (E. E. T. S.), l. 7410.}}}}\n\n{{smaller block|Thanne worth Trewe-tonge, a ''tidy'' man that tened me neuere.\n{{right|''Piers Plowman'' (B), iii. 320.}}}}\n\n3. Appropriate or suitable as regards order, arrangement, occasion, circumstances, or the like; becomingly or neatly arrayed or arranged; kept in good order; neat; trim: as, a ''tidy'' dress; a ''tidy'' and well-furnished apartment.\n\n{{smaller block|To see it all so ''tidy'', not even a pair of boots thrown about, or a tie flung on the table, made their hearts die within them.\n{{right|''Mrs. Oliphant'', Poor Gentleman, xxxvii.}}}}\n\n4. Of neat and orderly habits; disposed to be neat and orderly: as, a ''tidy'' person.—5. Moderately or fairly large, great, or important; considerable; respectable; pretty: as, a ''tidy'' sum of money. [Obsolete or colloq.]\n\n{{smaller block|Al that touched ther to a ''tidi'' erldome,\nTo the kowherd & his wif the king ȝaf that time.\n{{right|''William of Palerne'' (E. E. T. S.), l. 5384.}}}}\n\n{{smaller block|May be after a ''tidy'' day's work I shall come home with 1s. in my pocket.\n{{right|''Mayhew'', London Labour and London Poor, I. 408.}}}} 6. Satisfactory; comfortable; fairly good or well: as, How are you to-day? ''Tidy.'' [Slang.]\n\n'''II.''' ''n.''; pl. ''tidies'' (-diz). 1. A more or less ornamental covering for the back of a chair, the arms of a sofa, or the like, to keep them from becoming soiled.—2. A pinafore or apron. [Prov. Eng.]\n\n'''tidy<sup>1</sup>''' (tī′di), ''v.''; pret. and pp. ''tidied'', ppr. ''tidying.'' [< ''tidy''<sup>1</sup>, ''a.''] '''I.''' ''trans.'' To make neat; put in good order: often followed by ''up'': as, to ''tidy'' or to ''tidy up'' a room. [Colloq.]\n\n{{smaller block|She found the widow with her house-place ''tidied up'' after the midday meal, and busy knitting at the open door.\n{{right|''Mrs. Gaskell'', Sylvia's Lovers, xliii.}}}}\n\n'''II.''' ''intrans.'' To arrange, dispose, or put things, as dress, furniture, etc., in good or proper order: often with ''up''. [Colloq.]\n\n{{smaller block|I have ''tidied'' and ''tidied'' over and over again, but it's useless. Ma and Africa, together, upset the whole house.\n{{right|''Dickens'', Bleak House, xxx.}}}}\n\n'''tidy<sup>2</sup>''' (tī′di), ''n.''; pl. ''tidies'' (-diz). [Early mod. E. also ''tydie''; also dial. ''tiddy'', q. v.; < ME. ''tidif'', ''tydif'', ''tidife''; origin unknown: see ''tidif''. Cf. ''tiddy''<sup>2</sup> (and ''tidley''); the termination is appar. OF.] A small singing bird, perhaps the wren.\n\n{{smaller block|Tho that hadde doon unkyndenesse—\nAs doth the ''tydif'', for new-fangelnesse.\n{{right|''Chaucer'', Good Women, l. 154.}}}}\n\n{{smaller block|And of those chaunting fowls, the Goldfinch not behind,\nThat hath so many sorts descending from her kind,\nThe ''Tydie'' for her notes as delicate as they.\n{{right|''Drayton'', Polyolbion, xiii. 79.}}}}\n\n'''tidytips''' (tī′di-tips), ''n.'' A Californian composite plant, ''Layia'' (''Callichroa'') ''platyglossa'': a showy plant with bright-yellow rays, frequently cultivated as a half-hardy annual.\n\n'''tie<sup>1</sup>''' (tī), ''v.''; pret. and pp. ''tied'', ppr. ''tying''. [Early mod. E. also ''tye''; dial. also ''tee''; < ME. ''tien'', ''tyen'', ''teyen'', ''teien'', ''teiȝen'', ''tiȝen'', < AS. ''tīgan'', *''tȳgan'', *''tēgan'', *''tīgian'', cited also as *''tēgean'', bind, tie, a secondary form of the verb ''teón'' (pret. ''teáh'', pl. ''tugon'', pp. ''togen''), draw, pull: see ''tee''<sup>1</sup>, ''tow''<sup>1</sup>. In some uses the verb is directly from the noun: see ''tie''<sup>1</sup>, ''n.''] '''I.''' ''trans.'' '''1.''' To attach or make fast by a band, ribbon, cord, or the like drawn together and knotted; bind.\n\n{{smaller block|Ther-with thei drough theire swerdes oute and wente toward the river that ran vnder the gardin, where thei hadde a barge ''i-teyed'' where-in thei were come in to the gardin.\n{{right|''Merlin'' (E. E. T. S.), iii. 464.}}}}\n\n{{smaller block|And thereunto a great long chaine he ''tight'',\nWith which he drew him forth, even in his own despight.\n{{right|''Spenser'', F. Q., VI. xii. 34.}}}}\n\n{{smaller block|My son, keep thy father's commandment, and forsake not the law of thy mother; bind them continually upon thine heart, and ''tie'' them about thy neck.\n{{right|Prov. vi. 20, 21.}}}}\n\n'''2.''' To fasten by looping or knotting: as, to ''tie'' a ribbon on one's arm; hence, to fasten as if tied.\n\n{{smaller block|What boots it thee\nTo shew the rusted buckle that did ''tie''\nThe garter of thy greatest grandsire's knee?\n{{right|''Bp. Hall'', Satires, IV. iii. 12.}}}}\n\n{{smaller block|He ''tied'' the ends into the nautical slip-knot, and pronounced the thing complete.\n{{right|''Doran'', Annals of the Stage, II. 163.}}}} 3. To fasten by tightening and knotting the strings of: as, to ''tie'' a shoe or a bonnet.\n\n{{smaller block|Drawer, ''tie'' my shoe, prithee; the new knot, as thou seest this.\n{{right|''Dekker and Webster'', Northward Ho, i. 2.}}}}\n\n4. To form by looping and interlacing; knit: as, to ''tie'' a knot.\n\n{{smaller block|Again the hawthorn shall supply\nThe garlands you delight to ''tie''.\n{{right|''Scott'', Marmion, i., Int.}}}}\n\n5. To bind or unite securely; specifically, to unite in marriage (colloq. in this use).\n\n{{smaller block|And doe they not knowe that a Tragedie is ''tied'' to the lawes of Poesie, and not of Historie?\n{{right|''Sir P. Sidney'', Apol. for Poetrie.}}}}\n\n{{smaller block|In bond of virtuous love together ''tied''.\n{{right|''Fairfax.''}}}}\n\n{{smaller block|I heartily desire this courtesy,\nAnd would not be denied, to wait upon you\nThis day, to see you ''tied'', then no more trouble you.\n{{right|''Fletcher'', Wildgoose Chase, iv. 1.}}}}\n\n6. To bind, restrict, limit, or confine; hold or restrain, as by authority or moral influence.\n\n{{smaller block|Herewith hir swelling sobbes\nDid ''tie'' hir tong from talke.\n{{right|''Gascoigne'', Philomene (Steele Glas, etc., ed. Arber, p. 99).}}}}\n\n{{smaller block|I see you are ''tied'' to no particular employment.\n{{right|''Beau. and Fl.'', Scornful Lady, i. 1.}}}}\n\n{{smaller block|Do they think to bind me to live chaste, sober, and temperately all days of my life? they may as soon ''tie'' an Englishman to live so.\n{{right|''Beau. and Fl.'', Knight of Malta, v. 1.}}}}\n\n7. In ''building'', to bind together two bodies by means of a piece of timber or metal. See ''tie''<sup>1</sup>, ''n.'', 5.—8. In ''music'', to unite or bind, as<noinclude><references/></noinclude>"
+}

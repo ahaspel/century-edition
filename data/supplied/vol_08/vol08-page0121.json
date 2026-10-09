@@ -1,0 +1,365 @@
+{
+ "volume": 8,
+ "page_number": 121,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n120.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n120.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": -0.05,
+  "column_width": 874,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     6,
+     10,
+     2336,
+     119
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     6,
+     119,
+     880,
+     1174
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     6,
+     1174,
+     880,
+     1923
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     6,
+     1923,
+     880,
+     2619
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     6,
+     2623,
+     880,
+     2648
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     6,
+     2648,
+     880,
+     3314
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     880,
+     129,
+     1612,
+     610
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     880,
+     625,
+     1612,
+     650
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     880,
+     650,
+     1612,
+     1748
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     880,
+     1748,
+     1612,
+     2775
+    ]
+   },
+   {
+    "name": "c2f2",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     880,
+     2775,
+     1612,
+     3162
+    ]
+   },
+   {
+    "name": "c2c2",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     880,
+     3171,
+     1612,
+     3198
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     880,
+     3198,
+     1612,
+     3314
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1612,
+     119,
+     2336,
+     1217
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1612,
+     1217,
+     2336,
+     2259
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1612,
+     2259,
+     2336,
+     2704
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1612,
+     2712,
+     2336,
+     2738
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1612,
+     2738,
+     2336,
+     3314
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|thrum|6317|thrust}}",
+   "c1s1": "ment in an idle, listless, monotonous, or unskilful manner; strum.\n\n{{smaller block|Sophy, love, take your guitar, and ''thrum'' in with the boy a little.\n{{right|''Goldsmith'', Vicar, xvii.}}}}\n\n2. To drum or tap idly on something with the fingers.\n\n{{smaller block|I'll not stand all day ''thrumming'',<br>But quickly shoot my bolt.\n{{right|''Middleton'', Women Beware Women, iii. 3.}}\nI sit, my empty glass reversed,<br>And ''thrumming'' on the table.\n{{right|''Tennyson'', Will Waterproof.}}}}\n\n'''II.''' ''trans.'' 1. To play idly or unskilfully on (some stringed instrument) with the fingers; sound by fingering in a listless or monotonous manner.—2. To drum or tap idly on.\n\n{{smaller block|For late, when bees to change their chimes began,<br>How did I see them ''thrum'' the frying-pan!\n{{right|''Shenstone'', Colemira, st. 7.}}}}\n\n{{smaller|'''To thrum over''', to tell over in a monotonous manner.}}\n\n'''thrum'''<sup>2</sup> (thrum), ''n.'' [< ''thrum''<sup>2</sup>, ''v.''] A monotonous sound, as from the careless or unskilful fingering of a guitar or harp.\n\n{{smaller block|As I drew near I heard the tinkle of a triangle and the ''thrum'' of a harp accompanying a weird chant.\n{{right|''The Century'', XXXVII. 253.}}}}\n\n'''thrum'''<sup>3</sup>†, ''n.'' [ME., also ''throm'', *''thrym'', < AS. ''thrymm'', power, glory.] 1. A troop.—2. A heap.\n\n'''thrumble'''† (thrum′bl), ''v.'' [< ME. ''thrumblen'', ''thromlen'', ''thrompelen'', stumble.] '''I.''' ''intrans.'' To stumble.\n\n{{smaller block|He ''thromlede'' [var. ''thrumbled''] at the threshefold.\n{{right|''Piers Plowman'' (C), vii. 408.}}}}",
+   "c1s2": "¶\nII. ''trans.'' To press close or violently; crowd.\n\n{{smaller block|Wicked and leud folke, who gather, ''thrumble'', and heape up together all sorts of gaine.\n{{right|''Holland'', tr. of Plutarch, p. 213.}}}}\n\n'''thrum-cap''' (thrum′kap), ''n.'' Same as ''thrum''<sup>1</sup>, 6.\n\n'''thrum-eyed''' (thrum′īd), ''a.'' In ''hort.'', having anthers exserted from the throat like thrums, as the flowers of some polyanthuses: contrasted with ''pin-eyed'' (which see).\n\n'''thrummy''' (thrum′i), ''a.'' [< ''thrum''<sup>1</sup> + ''-y''<sup>1</sup>.] Consisting of, furnished with, or resembling thrums; rough; shaggy: as, a ''thrummy'' cap.\n\n'''thrumwort''' (thrum′wėrt), ''n.'' [< ''thrum''<sup>1</sup> + ''wort''<sup>1</sup>.] 1. The plant love-lies-bleeding, ''Amarantus caudatus'', from its thrum-like flower-spike.—2. Same as ''star-fruit.''—{{smaller|'''Great thrumwort''', the water-plantain, ''Alisma Plantago''. [Prov. Eng.]}}\n\n'''thrung†'''. Past participle of ''thring''.\n\n'''thrush'''<sup>1</sup> (thrush), ''n.'' [< ME. ''thrushe'', ''thrusche'', ''thryshe'', < AS. ''thrysce'', ''thryssce'', ''thrisce'' = OHG. ''drosca'', ''droscea'', a thrush: see further under ''throstle''.] 1. A bird of the family ''Turdidæ'', and especially of the genus ''Turdus'' in a broad sense;",
+   "c1c1": "{{c|Song-thrush (''Turdus musicus'').}}",
+   "c1s3": "specifically, the throstle, song-thrush, or mavis of Europe, ''Turdus musicus.'' {{smaller|There are more than a hundred species, nearly all of which have book-names in which ''thrush'' enters as a qualified term, and the common species of Great Britain and of the United States all have vernacular designations, in which ''thrush'' does or does not enter. No thrushes in any sense are common to the two countries named. In the former the dark-colored thrushes are called ''blackbirds'' and ''ouzels.'' Several true thrushes are figured under ''blackbird,'' 1, ''fieldfare, hermit-thrush, mistle-thrush, ouzel, robin''<sup>1</sup>, 2, ''veery,'' and ''wood-thrush.''}}\n\n2. Some bird not of the thrush family, mistaken for a thrush or compared to a thrush: with a qualifying epithet. {{smaller|Some are shrikes; others are starlings, warblers, etc. See the phrases following, among which few of the names of other than true thrushes are in other than historical use.—'''African thrush,''' an African starling, ''Amydrus'' (formerly ''Turdus'' or ''Sturnus'') ''morio,'' mostly black and orange-chestnut, from 10 to 11 inches long.—'''Alice's thrush,''' the gray-cheeked thrush: named}}",
+   "c2c1": "{{c|Red-winged Thrush (''Turdus iliacus'').}}",
+   "c2s1": "by Baird in 1858 after Miss Alice Kennicott of Illinois.—'''Ant thrush.''' See ''ant-thrush.''—'''Ash-rumped thrush,''' ''Lalage terat,'' a campophagine bird of the Malay countries, etc., a great stumbling-block of the early ornithologists.—'''Audubon's thrush,''' a variety of the hermit-thrush.—'''Babbling thrush.''' See ''babbler,'' 2, ''Timeliidæ, Brachypodinæ,'' and ''Liotrichinæ.''—'''Black-and-scarlet thrush,''' ''Pericrocotus speciosus,'' a campophagine bird of glossy-black and flaming-red colors, 8 inches long, inhabiting India and China.—'''Black-cheeked thrush,''' ''Philepitta jala,'' of Madagascar.—'''Black-crowned thrush,''' an Australian thickhead, ''Pachycephala gutturalis. Latham.''—'''Black-faced thrush,''' a timeliine bird of China and Burma, ''Dryonastes chinensis. Latham,'' 1783.—'''Brown Indian thrush,''' ''Crateropus canorus. Edwards.''—'''Brown thrush,''' the thrasher, ''Harporhynchus rufus.'' See cut under ''thrasher''<sup>2</sup>.—'''Chinese thrush,''' ''Trochalopterum canorum. Latham,'' 1783.—'''Dominican thrush,''' ''Sturnia sturnina,'' an Asiatic starling of wide range. ''Latham,'' 1783. See ''Sturnia.''—'''Doubtful thrush.''' See ''Seisura.''—'''Dwarf thrush.''' See ''dwarf.''—'''Fly-catching thrush.''' (''a'') Any member of the genus ''Myiadestes;'' a solitaire. (''b'') See ''Seisura.''—'''Fox-colored thrush,''' the common thrasher of the United States. ''Catesby,'' 1731.—'''Frivolous thrush,''' probably ''Pomatorhinus temporalis,'' of Australia. ''Latham,'' 1801.—'''Fruit-thrush,''' a bulbul.—'''Gilded thrush,''' a West African glossy starling, ''Lamprocolius purpureus'' (or ''auratus''). ''Latham,'' 1783.—'''Gingi thrush,''' ''Acridotheres gingianus,'' a sturnoid bird of northern and central India; a mina, very near ''A. tristis.'' See ''Acridotheres.''—'''Glossy thrush,''' one of the glossy starlings of Africa, ''Lamprotornis'' (''Urauges'') ''caudatus.'' See cut under ''Urauges.''—'''Golden-crowned thrush.''' See ''oven-bird,'' 1.—'''Gray-cheeked thrush,''' ''Turdus aliciæ,'' a common thrush of North America, very near the olive-back, but lacking the tawny suffusion of the sides of the head.—'''Gray thrush,''' ''Crateropus griseus,'' of southern India. ''Latham.''—'''Ground thrush.''' See ''ground-thrush.''—'''Guttural thrush,''' ''Pachycephala gutturalis.'' See ''thunder-bird.''—'''Harmonic thrush,''' ''Colluricincla harmonica,'' of Australia, 9½ inches long, of a gray, brown, and white coloration, originally described as ''Turdus harmonicus.''—'''Hermit thrush.''' See ''hermit-thrush.''—'''Long-billed thrush.''' See ''Tatare'' (with cut).—'''Long-legged thrush.'''",
+   "c2s2": "See ''long-legged.''—'''Madagascar thrush,''' a sturnoid bird, ''Hartlaubius madagascariensis'', confined to Madagascar. ''Latham'', 1783.—'''Malabar thrush,''' ''Poliopsar'' (usually ''Pastor'' or ''Temenuchus'') ''malabaricus'', a starling of the Indian peninsula.—'''Migratory thrush,''' the American robin. See ''robin''<sup>1</sup>, 2 (with cut).—'''New York thrush.''' See ''water-thrush'', and cut under ''Seiurus.''—'''Norman thrush,''' the mistlethrush (which see, with cut).—'''Olive-backed thrush.''' Same as ''oliveback.''—'''Orange-bellied thrush,''' ''Spreo pulcher'', one of the glossy starlings, near that one figured in the second cut under ''starling''<sup>1</sup> (which see).—'''Orange-breasted thrush,''' an Australian thickhead, ''Pachycephala rufiventris. Lewin.''—'''Pacific thrush,''' ''Lalage pacifica'', of the Friendly, Fiji, and Navigators Islands.—'''Pigeon-thrush.''' Same as ''songster-thrush.''—'''Punctated thrush,''' ''Cinclosoma punctatum'', of Australia. ''Latham'', 1801.—'''Red-tailed thrush,''' ''Cossypha caffra'', also called ''Caffrarian warbler'', of southern Africa.—'''Red-winged thrush.''' See ''redwing'', 1, and cut above.—'''Restless thrush.''' See ''Seisura.''—'''Rock thrush.''' See ''rock-thrush.''—'''Rose-colored thrush.''' Same as ''rose-starling'' (which see, under ''starling''<sup>1</sup>).—'''Rufous-winged thrush,''' ''Cercotrichas podobe'', of Africa. ''Latham'', 1783.—'''Russet-backed thrush,''' ''Turdus ustulatus'' of Nuttall, a variety of the olive-backed thrush, or scarcely specifically different, of Oregon.—'''Shining thrush,''' ''Lamprocolius splendidus'', a West African glossy starling.—'''Short-winged thrush,''' ''Sphenura brachyptera'', of Australia. ''Latham'', 1801. See cut under ''Sphenura.''—'''Shrike-thrush.''' See ''shrike''<sup>2</sup>, 2.—'''Songster-thrush,''' ''Calornis panayensis'', a sturnoid bird of the Philippines.—'''Song thrush,''' the throstle or mavis. See ''song-thrush'', and cut above.—'''Sordid thrush,''' ''Artamus sordidus'', a swallow-shrike of Australia. ''Latham'', 1801.—'''Spectacle-thrush,''' ''Garrulax'' or ''Dryonastes perspicillatus'', of southern China and Siam. ''Latham'', 1783.—'''Swainson's thrush,''' the oliveback, usually called ''Turdus swainsoni.''—'''Tawny thrush.''' See ''tawny.''—'''Thick-billed thrush.''' See ''Turnagra.''—'''Varied thrush,''' the Oregon robin, ''Hesperocichla nævia.'' This is of about the same size and somewhat the system of coloration of the common American robin, but",
+   "c2c2": "{{c|Varied Thrush (''Hesperocichla nævia'').}}",
+   "c2s3": "",
+   "c3s1": "{{smaller|the under parts are mostly orange-brown instead of chestnut, with a heavy black pectoral band; there is an orange-brown postocular stripe, and the wings are much variegated with this color. The bird is common along the Pacific coast region from Alaska to Mexico, and stragglers have been observed in other parts of the United States, even on the Atlantic coast. The nest is built in bushes, of twigs, grasses, mosses, and lichens; the eggs are pale greenish-blue speckled with dark-brown, and 1.10 × 0.80 inch in size.—'''Variegated thrush,''' a Brazilian cactus-wren, ''Campylorhynchus variegatus.'' ''Latham.''—'''Volatile thrush.''' See ''Seisura.''—'''Water thrush.''' See ''water-thrush,'' and cut under ''Seiurus.''—'''Whidah thrush,''' ''Pholidauges leucogaster,'' a sturnoid bird of Africa.—'''White-eared thrush,''' the white-eared honey-eater of Australia, ''Ptilotis leucotis.''—'''White-rumped thrush,''' ''Spreo bicolor.'' See second cut under ''starling''<sup>1</sup>.—'''Wilson's thrush,''' the veery (which see, with cut).—'''Wood thrush.''' See ''wood-thrush'' (with cut).—'''Yellow-bellied thrush,''' the regent-bird, formerly ''Turdus melinus,'' also called ''golden-crowned honey-eater'' by Latham in 1822. See cut under ''regent-bird.'' ''Latham,'' 1801.—'''Yellow-breasted thrush,''' an Australian thickhead, ''Eopsaltria australis.'' ''Lewin.''—'''Yellow-crowned thrush.''' See ''Trachycomus.''}}\n\n'''thrush'''<sup>2</sup> (thrush), ''n.'' [= Dan. ''tröske'' = Sw. dial. ''trösk,'' Sw. ''torsk,'' thrush on the tongue; perhaps connected with Dan. ''tör'' = Sw. ''torr'' = Icel. ''thurr'' = AS. ''thyrre'' = G. ''dürr,'' dry, and with Dan. ''törke'' = Sw. ''torka'' = Icel. ''thurka,'' drought, and so with E. ''thirst:'' see ''thirst.''] 1. A diseased condition of the frog of the horse's foot, characterized by a fetid discharge: it is generally ascribed to the irritation of wet and filth.—2. Parasitic stomatitis, caused by the thrush-fungus. Also called ''aphthæ, sprew, sprue.''\n\n{{smaller block|At last, which at last came very speedily, they had reduced him to a total dissolution, by a diabetes and a ''thrush.''\n{{right|''Walpole,'' Letters, II. 20.}}}}\n\n{{smaller|'''Black thrush,''' aphthous stomatitis with black sordes.}}\n\n'''thrush'''<sup>3</sup>† (thrush), ''n.'' See ''thurse'' and ''hobthrush.''",
+   "c3s2": "¶\n'''thrush-babbler''' (thrush′bab″lėr), ''n.'' Any babbling thrush: same as ''babbler'', 2.\n\n{{smaller block|The feeble-winged ''thrush-babblers'' were wrangling over worms.\n{{right|''P. Robinson'', Under the Sun, p. 79.}}}}\n\n'''thrush-blackbird''' (thrush′blak″bėrd), ''n.'' The rusty grackle, ''Scolecophagus ferrugineus.'' {{smaller|This bird is not obviously different from some thrushes in form, and in its varying plumages was repeatedly described as different species of the genus ''Turdus.'' See cut under ''rusty.''}}\n\n'''thrushel''' (thrush′l), ''n.'' [See ''throstle'' (''f'').] Same as ''throstle.'' [Prov. Eng.]\n\n'''thrusher''' (thrush′ėr), ''n.'' [Appar. a var. of ''thrushel'', with accom. term. ''-er.'' Hence prob., as another var., ''thrasher''<sup>2</sup>, q. v.] Same as ''thrush''<sup>1</sup>; specifically, the song-thrush, ''Turdus musicus.'' See cut under ''thrush''<sup>1</sup>.\n\n'''thrush-fungus''' (thrush′fung″gus), ''n.'' The fungus ''Saccharomyces albicans'', which produces the disease in man known as ''thrush.''\n\n'''thrushil†''', ''n.'' An obsolete form of ''thrushel.''\n\n'''thrush-lichen''' (thrush′lī″ken), ''n.'' A lichen, the ''Peltigera aphthosa'', which grows on moist alpine rocks. The Swedes boil it in milk as a cure for thrush (whence the name).\n\n'''thrush-nightingale''' (thrush′nī″tin-gāl), ''n.'' See ''nightingale''<sup>1</sup>, 1.\n\n'''thrush-paste''' (thrush′pāst), ''n.'' An astringent for curing thrush in the feet of horses. It is composed of calamin, verdigris, white vitriol, alum, and tar.\n\n'''thrush-tit''' (thrush′tit), ''n.'' A book-name of those turdoid oscine birds of the Himalayan region,",
+   "c3c1": "{{c|Thrush-tit (''Cochoa viridis'').}}",
+   "c3s3": "China, and Java which belong to a genus named ''Cochoa'' by Hodgson in 1836 (changed to ''Prosorinia'' by him in 1844, and renamed ''Xanthogenys'' by Cabanis in 1850). {{smaller|These birds are neither thrushes nor tits, and are scattered widely through the ornithological system by various taxonomists. The 3 species are very beautiful. ''C. viridis'' and ''C. purpurea'' (each 11 inches long) inhabit parts of the Himalayas and China; ''C. azurea'' (9 inches) inhabits Java. Their coloration is indicated with some accuracy in their respective specific names.}}\n\n'''thrust'''<sup>1</sup> (thrust), ''v.''; pret. and pp. ''thrust'', ppr. ''thrusting''. [< ME. ''thrusten'', but usually ''thresten'', ''thristen'', < Icel. ''thrȳsta'', thrust, press, force, compel; ult. connected with ''threat'', q. v.] '''I.''' ''trans.''"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0121 c1f1.png",
+   "c2f1": "century v08 p0121 c2f1.png",
+   "c2f2": "century v08 p0121 c2f2.png",
+   "c3f1": "century v08 p0121 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     958,
+     128,
+     1518,
+     610
+    ],
+    "caption": [
+     1040,
+     625,
+     1423,
+     650
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     955,
+     115,
+     1498,
+     614
+    ]
+   },
+   {
+    "box": [
+     246,
+     1926,
+     776,
+     2616
+    ],
+    "caption": [
+     350,
+     2623,
+     684,
+     2648
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     212,
+     1918,
+     743,
+     2614
+    ]
+   },
+   {
+    "box": [
+     993,
+     2775,
+     1508,
+     3158
+    ],
+    "caption": [
+     1049,
+     3171,
+     1446,
+     3198
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     952,
+     2740,
+     1525,
+     3165
+    ]
+   },
+   {
+    "box": [
+     1722,
+     2261,
+     2215,
+     2704
+    ],
+    "caption": [
+     1841,
+     2712,
+     2125,
+     2738
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1702,
+     2254,
+     2243,
+     2701
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "2": [
+    2,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 5,
+    "input_tokens": 8608,
+    "output_tokens": 348,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 14,
+    "input_tokens": 8443,
+    "output_tokens": 8797,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 37996
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|thrum|6317|thrust}}</noinclude>ment in an idle, listless, monotonous, or unskilful manner; strum.\n\n{{smaller block|Sophy, love, take your guitar, and ''thrum'' in with the boy a little.\n{{right|''Goldsmith'', Vicar, xvii.}}}}\n\n2. To drum or tap idly on something with the fingers.\n\n{{smaller block|I'll not stand all day ''thrumming'',<br>But quickly shoot my bolt.\n{{right|''Middleton'', Women Beware Women, iii. 3.}}\nI sit, my empty glass reversed,<br>And ''thrumming'' on the table.\n{{right|''Tennyson'', Will Waterproof.}}}}\n\n'''II.''' ''trans.'' 1. To play idly or unskilfully on (some stringed instrument) with the fingers; sound by fingering in a listless or monotonous manner.—2. To drum or tap idly on.\n\n{{smaller block|For late, when bees to change their chimes began,<br>How did I see them ''thrum'' the frying-pan!\n{{right|''Shenstone'', Colemira, st. 7.}}}}\n\n{{smaller|'''To thrum over''', to tell over in a monotonous manner.}}\n\n'''thrum'''<sup>2</sup> (thrum), ''n.'' [< ''thrum''<sup>2</sup>, ''v.''] A monotonous sound, as from the careless or unskilful fingering of a guitar or harp.\n\n{{smaller block|As I drew near I heard the tinkle of a triangle and the ''thrum'' of a harp accompanying a weird chant.\n{{right|''The Century'', XXXVII. 253.}}}}\n\n'''thrum'''<sup>3</sup>†, ''n.'' [ME., also ''throm'', *''thrym'', < AS. ''thrymm'', power, glory.] 1. A troop.—2. A heap.\n\n'''thrumble'''† (thrum′bl), ''v.'' [< ME. ''thrumblen'', ''thromlen'', ''thrompelen'', stumble.] '''I.''' ''intrans.'' To stumble.\n\n{{smaller block|He ''thromlede'' [var. ''thrumbled''] at the threshefold.\n{{right|''Piers Plowman'' (C), vii. 408.}}}}\n\nII. ''trans.'' To press close or violently; crowd.\n\n{{smaller block|Wicked and leud folke, who gather, ''thrumble'', and heape up together all sorts of gaine.\n{{right|''Holland'', tr. of Plutarch, p. 213.}}}}\n\n'''thrum-cap''' (thrum′kap), ''n.'' Same as ''thrum''<sup>1</sup>, 6.\n\n'''thrum-eyed''' (thrum′īd), ''a.'' In ''hort.'', having anthers exserted from the throat like thrums, as the flowers of some polyanthuses: contrasted with ''pin-eyed'' (which see).\n\n'''thrummy''' (thrum′i), ''a.'' [< ''thrum''<sup>1</sup> + ''-y''<sup>1</sup>.] Consisting of, furnished with, or resembling thrums; rough; shaggy: as, a ''thrummy'' cap.\n\n'''thrumwort''' (thrum′wėrt), ''n.'' [< ''thrum''<sup>1</sup> + ''wort''<sup>1</sup>.] 1. The plant love-lies-bleeding, ''Amarantus caudatus'', from its thrum-like flower-spike.—2. Same as ''star-fruit.''—{{smaller|'''Great thrumwort''', the water-plantain, ''Alisma Plantago''. [Prov. Eng.]}}\n\n'''thrung†'''. Past participle of ''thring''.\n\n'''thrush'''<sup>1</sup> (thrush), ''n.'' [< ME. ''thrushe'', ''thrusche'', ''thryshe'', < AS. ''thrysce'', ''thryssce'', ''thrisce'' = OHG. ''drosca'', ''droscea'', a thrush: see further under ''throstle''.] 1. A bird of the family ''Turdidæ'', and especially of the genus ''Turdus'' in a broad sense; specifically, the throstle, song-thrush, or mavis of Europe, ''Turdus musicus.'' {{smaller|There are more than a hundred species, nearly all of which have book-names in which ''thrush'' enters as a qualified term, and the common species of Great Britain and of the United States all have vernacular designations, in which ''thrush'' does or does not enter. No thrushes in any sense are common to the two countries named. In the former the dark-colored thrushes are called ''blackbirds'' and ''ouzels.'' Several true thrushes are figured under ''blackbird,'' 1, ''fieldfare, hermit-thrush, mistle-thrush, ouzel, robin''<sup>1</sup>, 2, ''veery,'' and ''wood-thrush.''}}\n\n[[File:century v08 p0121 c1f1.png|center|360px]]\n{{c|Song-thrush (''Turdus musicus'').}}\n\n2. Some bird not of the thrush family, mistaken for a thrush or compared to a thrush: with a qualifying epithet. {{smaller|Some are shrikes; others are starlings, warblers, etc. See the phrases following, among which few of the names of other than true thrushes are in other than historical use.—'''African thrush,''' an African starling, ''Amydrus'' (formerly ''Turdus'' or ''Sturnus'') ''morio,'' mostly black and orange-chestnut, from 10 to 11 inches long.—'''Alice's thrush,''' the gray-cheeked thrush: named}} by Baird in 1858 after Miss Alice Kennicott of Illinois.—'''Ant thrush.''' See ''ant-thrush.''—'''Ash-rumped thrush,''' ''Lalage terat,'' a campophagine bird of the Malay countries, etc., a great stumbling-block of the early ornithologists.—'''Audubon's thrush,''' a variety of the hermit-thrush.—'''Babbling thrush.''' See ''babbler,'' 2, ''Timeliidæ, Brachypodinæ,'' and ''Liotrichinæ.''—'''Black-and-scarlet thrush,''' ''Pericrocotus speciosus,'' a campophagine bird of glossy-black and flaming-red colors, 8 inches long, inhabiting India and China.—'''Black-cheeked thrush,''' ''Philepitta jala,'' of Madagascar.—'''Black-crowned thrush,''' an Australian thickhead, ''Pachycephala gutturalis. Latham.''—'''Black-faced thrush,''' a timeliine bird of China and Burma, ''Dryonastes chinensis. Latham,'' 1783.—'''Brown Indian thrush,''' ''Crateropus canorus. Edwards.''—'''Brown thrush,''' the thrasher, ''Harporhynchus rufus.'' See cut under ''thrasher''<sup>2</sup>.—'''Chinese thrush,''' ''Trochalopterum canorum. Latham,'' 1783.—'''Dominican thrush,''' ''Sturnia sturnina,'' an Asiatic starling of wide range. ''Latham,'' 1783. See ''Sturnia.''—'''Doubtful thrush.''' See ''Seisura.''—'''Dwarf thrush.''' See ''dwarf.''—'''Fly-catching thrush.''' (''a'') Any member of the genus ''Myiadestes;'' a solitaire. (''b'') See ''Seisura.''—'''Fox-colored thrush,''' the common thrasher of the United States. ''Catesby,'' 1731.—'''Frivolous thrush,''' probably ''Pomatorhinus temporalis,'' of Australia. ''Latham,'' 1801.—'''Fruit-thrush,''' a bulbul.—'''Gilded thrush,''' a West African glossy starling, ''Lamprocolius purpureus'' (or ''auratus''). ''Latham,'' 1783.—'''Gingi thrush,''' ''Acridotheres gingianus,'' a sturnoid bird of northern and central India; a mina, very near ''A. tristis.'' See ''Acridotheres.''—'''Glossy thrush,''' one of the glossy starlings of Africa, ''Lamprotornis'' (''Urauges'') ''caudatus.'' See cut under ''Urauges.''—'''Golden-crowned thrush.''' See ''oven-bird,'' 1.—'''Gray-cheeked thrush,''' ''Turdus aliciæ,'' a common thrush of North America, very near the olive-back, but lacking the tawny suffusion of the sides of the head.—'''Gray thrush,''' ''Crateropus griseus,'' of southern India. ''Latham.''—'''Ground thrush.''' See ''ground-thrush.''—'''Guttural thrush,''' ''Pachycephala gutturalis.'' See ''thunder-bird.''—'''Harmonic thrush,''' ''Colluricincla harmonica,'' of Australia, 9½ inches long, of a gray, brown, and white coloration, originally described as ''Turdus harmonicus.''—'''Hermit thrush.''' See ''hermit-thrush.''—'''Long-billed thrush.''' See ''Tatare'' (with cut).—'''Long-legged thrush.''' See ''long-legged.''—'''Madagascar thrush,''' a sturnoid bird, ''Hartlaubius madagascariensis'', confined to Madagascar. ''Latham'', 1783.—'''Malabar thrush,''' ''Poliopsar'' (usually ''Pastor'' or ''Temenuchus'') ''malabaricus'', a starling of the Indian peninsula.—'''Migratory thrush,''' the American robin. See ''robin''<sup>1</sup>, 2 (with cut).—'''New York thrush.''' See ''water-thrush'', and cut under ''Seiurus.''—'''Norman thrush,''' the mistlethrush (which see, with cut).—'''Olive-backed thrush.''' Same as ''oliveback.''—'''Orange-bellied thrush,''' ''Spreo pulcher'', one of the glossy starlings, near that one figured in the second cut under ''starling''<sup>1</sup> (which see).—'''Orange-breasted thrush,''' an Australian thickhead, ''Pachycephala rufiventris. Lewin.''—'''Pacific thrush,''' ''Lalage pacifica'', of the Friendly, Fiji, and Navigators Islands.—'''Pigeon-thrush.''' Same as ''songster-thrush.''—'''Punctated thrush,''' ''Cinclosoma punctatum'', of Australia. ''Latham'', 1801.—'''Red-tailed thrush,''' ''Cossypha caffra'', also called ''Caffrarian warbler'', of southern Africa.—'''Red-winged thrush.''' See ''redwing'', 1, and cut above.—'''Restless thrush.''' See ''Seisura.''—'''Rock thrush.''' See ''rock-thrush.''—'''Rose-colored thrush.''' Same as ''rose-starling'' (which see, under ''starling''<sup>1</sup>).—'''Rufous-winged thrush,''' ''Cercotrichas podobe'', of Africa. ''Latham'', 1783.—'''Russet-backed thrush,''' ''Turdus ustulatus'' of Nuttall, a variety of the olive-backed thrush, or scarcely specifically different, of Oregon.—'''Shining thrush,''' ''Lamprocolius splendidus'', a West African glossy starling.—'''Short-winged thrush,''' ''Sphenura brachyptera'', of Australia. ''Latham'', 1801. See cut under ''Sphenura.''—'''Shrike-thrush.''' See ''shrike''<sup>2</sup>, 2.—'''Songster-thrush,''' ''Calornis panayensis'', a sturnoid bird of the Philippines.—'''Song thrush,''' the throstle or mavis. See ''song-thrush'', and cut above.—'''Sordid thrush,''' ''Artamus sordidus'', a swallow-shrike of Australia. ''Latham'', 1801.—'''Spectacle-thrush,''' ''Garrulax'' or ''Dryonastes perspicillatus'', of southern China and Siam. ''Latham'', 1783.—'''Swainson's thrush,''' the oliveback, usually called ''Turdus swainsoni.''—'''Tawny thrush.''' See ''tawny.''—'''Thick-billed thrush.''' See ''Turnagra.''—'''Varied thrush,''' the Oregon robin, ''Hesperocichla nævia.'' This is of about the same size and somewhat the system of coloration of the common American robin, but {{smaller|the under parts are mostly orange-brown instead of chestnut, with a heavy black pectoral band; there is an orange-brown postocular stripe, and the wings are much variegated with this color. The bird is common along the Pacific coast region from Alaska to Mexico, and stragglers have been observed in other parts of the United States, even on the Atlantic coast. The nest is built in bushes, of twigs, grasses, mosses, and lichens; the eggs are pale greenish-blue speckled with dark-brown, and 1.10 × 0.80 inch in size.—'''Variegated thrush,''' a Brazilian cactus-wren, ''Campylorhynchus variegatus.'' ''Latham.''—'''Volatile thrush.''' See ''Seisura.''—'''Water thrush.''' See ''water-thrush,'' and cut under ''Seiurus.''—'''Whidah thrush,''' ''Pholidauges leucogaster,'' a sturnoid bird of Africa.—'''White-eared thrush,''' the white-eared honey-eater of Australia, ''Ptilotis leucotis.''—'''White-rumped thrush,''' ''Spreo bicolor.'' See second cut under ''starling''<sup>1</sup>.—'''Wilson's thrush,''' the veery (which see, with cut).—'''Wood thrush.''' See ''wood-thrush'' (with cut).—'''Yellow-bellied thrush,''' the regent-bird, formerly ''Turdus melinus,'' also called ''golden-crowned honey-eater'' by Latham in 1822. See cut under ''regent-bird.'' ''Latham,'' 1801.—'''Yellow-breasted thrush,''' an Australian thickhead, ''Eopsaltria australis.'' ''Lewin.''—'''Yellow-crowned thrush.''' See ''Trachycomus.''}}\n\n[[File:century v08 p0121 c2f1.png|center|302px]]\n{{c|Red-winged Thrush (''Turdus iliacus'').}}\n\n[[File:century v08 p0121 c2f2.png|center|302px]]\n{{c|Varied Thrush (''Hesperocichla nævia'').}}\n\n'''thrush'''<sup>2</sup> (thrush), ''n.'' [= Dan. ''tröske'' = Sw. dial. ''trösk,'' Sw. ''torsk,'' thrush on the tongue; perhaps connected with Dan. ''tör'' = Sw. ''torr'' = Icel. ''thurr'' = AS. ''thyrre'' = G. ''dürr,'' dry, and with Dan. ''törke'' = Sw. ''torka'' = Icel. ''thurka,'' drought, and so with E. ''thirst:'' see ''thirst.''] 1. A diseased condition of the frog of the horse's foot, characterized by a fetid discharge: it is generally ascribed to the irritation of wet and filth.—2. Parasitic stomatitis, caused by the thrush-fungus. Also called ''aphthæ, sprew, sprue.''\n\n{{smaller block|At last, which at last came very speedily, they had reduced him to a total dissolution, by a diabetes and a ''thrush.''\n{{right|''Walpole,'' Letters, II. 20.}}}}\n\n{{smaller|'''Black thrush,''' aphthous stomatitis with black sordes.}}\n\n'''thrush'''<sup>3</sup>† (thrush), ''n.'' See ''thurse'' and ''hobthrush.''\n\n'''thrush-babbler''' (thrush′bab″lėr), ''n.'' Any babbling thrush: same as ''babbler'', 2.\n\n{{smaller block|The feeble-winged ''thrush-babblers'' were wrangling over worms.\n{{right|''P. Robinson'', Under the Sun, p. 79.}}}}\n\n'''thrush-blackbird''' (thrush′blak″bėrd), ''n.'' The rusty grackle, ''Scolecophagus ferrugineus.'' {{smaller|This bird is not obviously different from some thrushes in form, and in its varying plumages was repeatedly described as different species of the genus ''Turdus.'' See cut under ''rusty.''}}\n\n'''thrushel''' (thrush′l), ''n.'' [See ''throstle'' (''f'').] Same as ''throstle.'' [Prov. Eng.]\n\n'''thrusher''' (thrush′ėr), ''n.'' [Appar. a var. of ''thrushel'', with accom. term. ''-er.'' Hence prob., as another var., ''thrasher''<sup>2</sup>, q. v.] Same as ''thrush''<sup>1</sup>; specifically, the song-thrush, ''Turdus musicus.'' See cut under ''thrush''<sup>1</sup>.\n\n'''thrush-fungus''' (thrush′fung″gus), ''n.'' The fungus ''Saccharomyces albicans'', which produces the disease in man known as ''thrush.''\n\n'''thrushil†''', ''n.'' An obsolete form of ''thrushel.''\n\n'''thrush-lichen''' (thrush′lī″ken), ''n.'' A lichen, the ''Peltigera aphthosa'', which grows on moist alpine rocks. The Swedes boil it in milk as a cure for thrush (whence the name).\n\n'''thrush-nightingale''' (thrush′nī″tin-gāl), ''n.'' See ''nightingale''<sup>1</sup>, 1.\n\n'''thrush-paste''' (thrush′pāst), ''n.'' An astringent for curing thrush in the feet of horses. It is composed of calamin, verdigris, white vitriol, alum, and tar.\n\n'''thrush-tit''' (thrush′tit), ''n.'' A book-name of those turdoid oscine birds of the Himalayan region, China, and Java which belong to a genus named ''Cochoa'' by Hodgson in 1836 (changed to ''Prosorinia'' by him in 1844, and renamed ''Xanthogenys'' by Cabanis in 1850). {{smaller|These birds are neither thrushes nor tits, and are scattered widely through the ornithological system by various taxonomists. The 3 species are very beautiful. ''C. viridis'' and ''C. purpurea'' (each 11 inches long) inhabit parts of the Himalayas and China; ''C. azurea'' (9 inches) inhabits Java. Their coloration is indicated with some accuracy in their respective specific names.}}\n\n[[File:century v08 p0121 c3f1.png|center|298px]]\n{{c|Thrush-tit (''Cochoa viridis'').}}\n\n'''thrust'''<sup>1</sup> (thrust), ''v.''; pret. and pp. ''thrust'', ppr. ''thrusting''. [< ME. ''thrusten'', but usually ''thresten'', ''thristen'', < Icel. ''thrȳsta'', thrust, press, force, compel; ult. connected with ''threat'', q. v.] '''I.''' ''trans.''<noinclude><references/></noinclude>"
+}

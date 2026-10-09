@@ -1,0 +1,349 @@
+{
+ "volume": 8,
+ "page_number": 100,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n99.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n99.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": 0.0,
+  "column_width": 947,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     133,
+     71,
+     2442,
+     109
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     133,
+     109,
+     1080,
+     1041
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     133,
+     1041,
+     1080,
+     1404
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     874,
+     1416,
+     1080,
+     1999
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     874,
+     1999,
+     1080,
+     2106
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     133,
+     1404,
+     874,
+     2662
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     133,
+     2662,
+     1080,
+     3232
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1080,
+     109,
+     1591,
+     470
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1080,
+     470,
+     1591,
+     1149
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     1080,
+     1152,
+     1591,
+     1204
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1080,
+     1204,
+     1591,
+     2287
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1080,
+     2287,
+     1591,
+     3232
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1591,
+     109,
+     2442,
+     701
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1591,
+     701,
+     2442,
+     1771
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1591,
+     1771,
+     2442,
+     2125
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1845,
+     2130,
+     2442,
+     3155
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1591,
+     2125,
+     1845,
+     3232
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|this|6296|thistle-down}}",
+   "c1s1": "¶\n{{smaller block|From the town you last came through, called Brailsford, it is five miles; and you are not yet above half a mile on ''this side.''\n{{right|''Cotton'', in Walton's Angler, ii. 222.}}}}\n\n{{smaller block|(''b'') Time just past or just at hand; the last or the next. The reference, whether to past or to future, is determined by the circumstances; ''this evening'' may mean either the evening now approaching, or next to come, or the evening now present, or the evening just past: as, it has occurred twice ''this'' year; I shall take care not to fail ''this'' (next) time. In this connection ''this'' is sometimes used for ''these'', the sum being reckoned up, as it were, in a total.}}\n\n{{smaller block|The owle ek, which that hette Ascaphilo,<br>Hath efter me shright al ''this'' nyghtes two.\n{{right|''Chaucer'', Troilus, v. 320.}}}}\n\n{{smaller block|I learn'd in Worcester, as I rode along,<br>He cannot draw his power ''this'' fourteen days.\n{{right|''Shak.'', 1 Hen. IV., iv. 1. 126.}}}}\n\n{{smaller block|I have not wept ''this'' forty years; but now<br>My mother comes afresh into my eyes.\n{{right|''Dryden'', All for Love, i. 1.}}}}\n\n{{smaller block|[In Shakspere the phrase ''this night'' occurs, meaning ''last night.''}}\n\n{{smaller block|''Glouc.'' My troublous dream ''this night'' doth make me sad.<br>''Duch.'' What dream'd my lord? tell me, and I'll requite it<br>With sweet rehearsal of my morning's dream.\n{{right|''Shak.'', 2 Hen. VI., i. 2. 22.]}}}}\n\n'''This . . . here.''' See ''here''<sup>1</sup>.—'''This other†''', the other.\n\n{{smaller block|And hem liked more the melodye of this harpour than eny thinge that ''this other'' mynstralles diden.\n{{right|''Merlin'' (E. E. T. S.), iii. 621.}}}}\n\n{{smaller block|You denied to fight with me ''this other'' day.\n{{right|''Shak.'', W. T., v. 2. 140.}}}}\n\n'''This present.''' See ''present''<sup>1</sup>.",
+   "c1s2": "¶\n\n'''II.''' ''pron.'' This person or thing. {{smaller|(''a'') It denotes—Some person or thing actually present or at hand: as, is ''this'' your coat? Who is ''this?''}}\n\n{{smaller block|''This'' is a spell against them, spick and span new.\n{{right|''B. Jonson'', Bartholomew Fair, iii. 1.}}\nFie, what an idle quarrel is ''this''; was ''this'' her ring?\n{{right|''Dekker and Webster'', Northward Ho, i. 1.}}}}\n\n{{smaller|(''b'') Something that has just preceded or has been mentioned or referred to.}}\n\n{{smaller block|Alle ''thes'' were there wythoute fable,\nWythoute ham of the rounde table.\n{{right|''Arthur'' (ed. Furnivall), l. 179.}}}}",
+   "c1c1": "{{c|Canada Thistle (''Cr'' ''arvensis'').}}\n\n{{c|Upper part of stem heads; ''a'', a flower achene with pappus}}",
+   "c1s3": "¶\n{{smaller block|When they heard ''this'' [the discourse of Peter] they were pricked in their hearts. {{right|Acts ii. 37.}}}}\n\n{{smaller block|Suetonius writes that Claudius found heer no resistance, and that all was done without stroke; but ''this'' seems not probable. {{right|''Milton'', Hist. Eng., ii.}}}}\n\n{{smaller block|I know no evil which touches all mankind so much as ''this'' of the misbehaviour of servants. {{right|''Steele'', Spectator, No. 88.}}}}\n\n(''c'') Emphatically, something that is to be immediately said or done: as, Let me tell you ''this:'' I shall lend you no more money.\n\n{{smaller block|But know ''this'', that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up. {{right|Mat. xxiv. 43.}}}}\n\n(''d'') Elliptically, this person, place, state, time, position, circumstance, or the like: as, I shall leave ''this'' [place or town] to-morrow; ''this'' [state of affairs] is very sad; I shall abstain from wine from ''this'' [time] on; by ''this'' [time] we had arrived at the house.\n\n{{smaller block|''This'' [that is, this one] is so gentil and so tendre of herte\nThat with his deth he wol his sorwes wreke.\n{{right|''Chaucer'', Troilus, iii. 904.}}}}\n\n{{smaller block|I shall, between ''this'' and supper, tell you most strange things from Rome. {{right|''Shak.'', Cor., iv. 3. 43.}}}}\n\n{{smaller block|By ''this'' the vessel half her course had run.\n{{right|''Dryden'', tr. of Ovid's Metamorph., x. 95.}}}}\n\nWhen opposed to ''that'', ''this'' refers to the person or thing that is nearer, ''that'' to the person or thing that is more distant; so, with things that have just been expressed, ''this'' refers to the thing last mentioned (and therefore nearer in time to the speaker), and ''that'' to the thing first mentioned (as being more remote).\n\n{{smaller block|Two ships from far making amain to us:\nOf Corinth ''that'', of Epidaurus ''this''.\n{{right|''Shak.'', C. of E., i. 1. 94.}}}}\n\n{{smaller block|A body of ''this'' or ''that'' denomination is produced. ''Boyle.''}}\n\n{{smaller block|''These'' will no taxes give, and ''those'' no pence;\nCritics would starve the poet, Whigs the prince.\n{{right|''Dryden'', Prol. to Southern's Loyal Brother, l. 10.}}}}\n\n{{smaller block|Some place the bliss in action, some in ease,\n''Those'' call it pleasure, and contentment ''these''.\n{{right|''Pope'', Essay on Man, iv. 22.}}}}\n\n''This'' is sometimes opposed to ''the other''.\n\n{{smaller block|Consider the arguments which the author had to write}}",
+   "c1s4": "{{smaller block|''this'', or to design ''the other'', before you arraign him.\n{{right|''Dryden.''}}}}\n\nIt was sometimes used elliptically for ''this is.''\n\n{{smaller block|''This'' 'a good Fryer, belike.\n{{right|''Shak.'', M. for M. (folio 1623), v. 1. 131.}}}}\n\n'''From this out.''' See ''from.''—'''To put this and that together.''' See ''put''<sup>1</sup>.\n\n'''this''' (ᴛ̵ʜis), ''adv.'' [A var. of ''thus'', or an elliptical use of ''for this.'' Cf. ''that, adv.''] For this; thus. [Obsolete or colloq.]\n\n{{smaller block|What am I, that thou shouldst contemn me ''this?''\n{{right|''Shak.'', Venus and Adonis, l. 205.}}}}\n\n{{smaller block|None of the portraits mentioned by Walpole . . . are dated ''this'' early.\n{{right|''J. P. Norris'', in Shakespeariana, May, 1884, p. 181.}}}}\n\n'''thisbe''' (thiz′bē), ''n.'' [< NL. ''thisbe'', the specific name, < Gr. Θίσβη, a proper name.] The clear-winged moth ''Hemaris thisbe.''",
+   "c2s1": "is′nes), ''n.'' [< ''this'' + ''-ness.''] The uality of being this; hæcceity.\n\nl), ''n.'' [Formerly also or dial. ''this-'' ''histel, thistile, thystylle'' (pl. ''thistles''), = D. ''distel'' = MLG. LG. ''distel'' = ''a, distil,'' MHG. G. ''distel'' = Icel. ''v. tistel'' = Dan. ''tidsel,'' thistle; cf. in comp. ''wigadeinō,'' ‘way-thistle.’] rous stout composite weeds, armed or prickles, bearing globular or",
+   "c2c1": "{{c|mon Thistle (''Cnicus lanceolatus'').}}\n{{c|m with heads; 2, a leaf; ''a'', achene with pappus.}}",
+   "c2s2": "drical heads with purple, yellow, vers and no rays, and dispersing the aid of a light globe of pappus. {{smaller|s in general to the members of the genus g the former ''Cirsium''), the common or in which the pappus is plumose or feathered, of ''Carduus'', the plumeless thistle, in which the pappus is simple, and of ''Onopordon'', the cotton-thistle, also with qualifying words to plants of other genera.—'''Argentine thistle†''', an old name of the cotton-thistle. See ''Onopordon''.—'''Blessed thistle''', one of the star-thistles, ''Centaurea'' (''Cnicus'') ''benedicta'', once reputed to counteract poison. It is a low branching annual with lobed, weakly prickly leaves and light-yellow heads, 1½ inches high, sparingly naturalized from Europe southward in the United States.—'''Boar-thistle''', a frequent variant of ''bur-thistle''.—'''Bull-thistle''', a name in America of ''Cnicus lanceolatus'' (see ''common thistle'', below): cited also from Ireland.—'''Canada thistle''', the usual name in the United States of ''Cnicus arvensis'', the corn-thistle, or creeping thistle, of Great Britain: a native of Europe and Asia, thence spread to North America and other lands. It is less robust than many other thistles, being only a foot or two high and rather slender, and bears very prick- ves and numerous small purple-flowered of the very worst of weeds on account extensively creeping, and sprouting root- '''thistle'''. See ''Carlina''.—'''Common this-''' plant of the genus ''Cnicus''; specifically, e spear-, bur-, or bull-thistle. It is a stout}}",
+   "c2s3": "from 2 to 4 feet high, with very prickly and handsome purple heads — a troublewithout perennial creeping rootstock.— See ''Canada thistle.''— '''Cotton thistle.''' See ''pordon,'' and ''Scotch thistle'' (below).— '''Creepee''' ''Canada thistle.''— '''Cursed thistle,''' the ada thistle.— '''Distaff-thistle,''' a thistle''mus lanatus,'' of Europe and Asia: an erect, species with large pale-yellow heads.— Same as ''stemless thistle.''— '''Fish-bone''' or '''histle,''' ''Cnicus'' (''Chamæpeuce'') ''Casabonæ,'' off the south coast of France. The name s to the spines, borne in threes on the ves.— '''Friar's thistle.''' Same as ''friar's-'''''s-thistle,''' the teazel.— '''Globe thistle.''' ''le.'' (''b'') The artichoke.— '''Golden thistle,''' w-flowered species of the composite gene of which is the Spanish oyster-plant. — '''Hare-''' or '''hare's-thistle.''' Same as '''erring-bone thistle.''' See ''fish-bone this'''''y thistle.''' Same as ''blessed thistle.''\n{{smaller block|f this distilled Carduus Benedictus, and rt. . . . I meant, plain ''holy-thistle.''\n{{right|''Shak.'', Much Ado, iii. 4. 80.}}}}\n(''a'') The common thistle (see ''horse-this''ld lettuce, ''Lactuca Scariola,'' var. ''virosa.'' '''ded thistle,''' or '''hundred thistle,''' an nt, ''Eryngium campestre,'' so called from wer-heads.— '''Jersey thistle,''' one of the ''taurea aspera'' (''C. Isnardi'').— '''Lady's''' or '''stle.''' (''a'') See ''milk-thistle'' and ''Silybum.'' ''sed thistle.''— '''Mexican thistle,''' ''Cnicus nspicuus,'' a tall plant with rigid spiny 3 inches long, with yellow florets and l scales.— '''Order of the Thistle''' (in ''ient and Most Noble Order of the Thistle''),",
+   "c3s1": "a very old Scottish order which has often been renewed and remodeled, and is still in existence. The devices of the order are St. Andrew's cross, or saltier, and a thistle-flower with leaves; these enter into the different badges, the collar, star, etc. The motto is \"Nemo me impune lacessit.\" The ribbon is green.—'''Pasture-thistle''', a low stout species, ''Cnicus pumilus'', with from one to three very large purple, or rarely white, sweet-scented heads: found in the Atlantic United States.—'''Saffron-thistle''', the safflower.—'''St. Barnaby's thistle''', the yellow star-thistle, ''Centaurea solstitialis:'' so named as blooming about St. Barnaby's day.—'''Scotch thistle''', a kind of thistle regarded as the national emblem of Scotland, but the precise species to which the name properly belongs is not settled. Most authorities consider it to be the cotton-thistle, ''Onopordon Acanthium'', though this is not native in Scotland; others, the milk-thistle, ''Silybum (Carduus) Marianum;'' while some, with greater probability, refer it to the common ''Cnicus lanceolatus''. The thistle intended when the emblem came into use is uncertain, owing to the fact that the figures on old coins and in paintings were not meant to be botanically exact. See cuts above and under ''Onopordon''.—'''Spear-thistle''', the common thistle, ''Cnicus lanceo-''",
+   "c3s2": "''latus'': so called from its lance-shaped leaves.—'''Stemless thistle,''' a European thistle, ''Cnicus acaulis'', having a tuft of prickly spreading leaves and a few largish purple heads, scarcely rising above the ground. Also ''dwarf thistle'', and locally ''pod-thistle''.—'''Swamp-thistle,''' a tall species, ''Cnicus muticus'', with single or few deep-purple heads on the branches: found in damp soil in the eastern United States.—'''Swine-thistle.''' Same as ''sow-thistle''.—'''Syrian thistle,''' ''Cnicus'' (''Notobasis'') ''Syriacus'', of the Mediterranean region. It is a plant from 1 to 4 feet high, with milky-veined leaves, the heads, one to three, on short axillary branches, each head embraced by a rigid pinnatifid spiny-pointed bract.—'''Tall thistle,''' a common species of the United States east of the Mississippi, ''Cnicus altissimus'', a branching plant sometimes 10 feet high, the leaves covered with close white wool beneath, the flowers light-purple.—'''Virgin Mary's thistle.''' Same as ''milk-thistle''.—'''Way-thistle,''' the Canada thistle.—'''Welted thistle,''' an Old World species, ''Carduus acanthoides'', resembling the musk-thistle.—'''Wolves'-''' or '''wolf's-thistle†,''' ''Carlina acaulis''.—'''Woolly-headed thistle.''' Same as ''friar's-crown''.—'''Yellow thistle,''' ''Cnicus horridulus'', of the Atlantic United States, a stout plant from 1 to 3 feet high, with very spiny leaves and pale-yellow or purple heads. (See also ''bur-thistle'', ''hedgehog-thistle'', ''melancholy-thistle'', ''melon-thistle'', ''milk-thistle'', ''musk-thistle'', ''pine-thistle'', ''pod-thistle'', ''sow-thistle'', ''star-thistle'', ''torch-thistle''.)\n\n'''thistle-bird''' (this′l-bėrd), ''n.'' The American goldfinch, ''Chrysomitris'' or ''Spinus tristis'', or another thistle-finch (which see).\n\n{{smaller block|Among the occasional visitors to the yard were two American goldfinches, or ''thistle-birds''.\n{{right|''The Atlantic'', LXVI. 260.}}}}\n\n'''thistle-butterfly''' (this′l-but″ėr-flī), ''n.'' The painted-lady, ''Vanessa'' or ''Pyrameis cardui'', a cosmopolitan butterfly whose larva feeds on the thistle. See cut under ''painted-lady''.\n\n'''thistle-cock''' (this′l-kok), ''n.'' The common corn-bunting, ''Emberiza miliaria''. See cut under ''bunt-''",
+   "c3s3": "''ing.'' [Prov. Eng.]\n\n'''thistle-cropper''' (this′l-krop″ėr), ''n.'' The domestic ass; a donkey.\n\n'''thistle-crown''' (this′l-kroun), ''n.'' [So named from the thistle on the coin.] An English gold coin of the reign of James I., current 1604–11, weighing about 30 grains, and worth 4''s.'' or 4''s.'' 4⅘''d.'' (about $1 or $1.10).\n\n'''thistle-digger''' (this′l-dig″ėr), ''n.'' A form of spade with a narrow, forked blade, with which the root of a",
+   "c3s4": "thistle can be cut below the crown. {{smaller|A projection from the back of the blade serves as a fulcrum, by the aid of which the severed plant can be pried up.}}\n\n'''thistle-dollar''' (this′l-dol″är), ''n.'' A Scottish silver coin, also called the ''double merk,'' issued in 1578 by James VI. It weighed 342.6 grains troy, and was worth 23''s.'' 8''d.'' Scotch (nearly 2''s.'' English) at the time of issue.\n\n'''thistle-down''' (this′l-doun), ''n.'' The pappus of the thistle, by which the achenia are borne by the wind to great distances. See cuts under ''thistle.''"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0100 c1f1.png",
+   "c2f1": "century v08 p0100 c2f1.png",
+   "c3f1": "century v08 p0100 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1060,
+     469,
+     1506,
+     1149
+    ],
+    "caption": [
+     1060,
+     1152,
+     1591,
+     1204
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     955,
+     469,
+     1525,
+     1145
+    ]
+   },
+   {
+    "box": [
+     870,
+     1415,
+     1100,
+     1998
+    ],
+    "caption": [
+     879,
+     1998,
+     1100,
+     2106
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     888,
+     1408,
+     1138,
+     1993
+    ]
+   },
+   {
+    "box": [
+     1860,
+     2146,
+     2323,
+     2599
+    ],
+    "caption": [
+     2042,
+     2617,
+     2135,
+     2635
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1852,
+     2217,
+     2276,
+     2619
+    ]
+   },
+   {
+    "box": [
+     1860,
+     2302,
+     2326,
+     3154
+    ],
+    "caption": [
+     1907,
+     3164,
+     2251,
+     3235
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1852,
+     2652,
+     2276,
+     3165
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 5,
+    "input_tokens": 9045,
+    "output_tokens": 665,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 14,
+    "input_tokens": 8448,
+    "output_tokens": 12073,
+    "cache_creation_input_tokens": 2714,
+    "cache_read_input_tokens": 35282
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|this|6296|thistle-down}}</noinclude>{{smaller block|From the town you last came through, called Brailsford, it is five miles; and you are not yet above half a mile on ''this side.''\n{{right|''Cotton'', in Walton's Angler, ii. 222.}}}}\n\n{{smaller block|(''b'') Time just past or just at hand; the last or the next. The reference, whether to past or to future, is determined by the circumstances; ''this evening'' may mean either the evening now approaching, or next to come, or the evening now present, or the evening just past: as, it has occurred twice ''this'' year; I shall take care not to fail ''this'' (next) time. In this connection ''this'' is sometimes used for ''these'', the sum being reckoned up, as it were, in a total.}}\n\n{{smaller block|The owle ek, which that hette Ascaphilo,<br>Hath efter me shright al ''this'' nyghtes two.\n{{right|''Chaucer'', Troilus, v. 320.}}}}\n\n{{smaller block|I learn'd in Worcester, as I rode along,<br>He cannot draw his power ''this'' fourteen days.\n{{right|''Shak.'', 1 Hen. IV., iv. 1. 126.}}}}\n\n{{smaller block|I have not wept ''this'' forty years; but now<br>My mother comes afresh into my eyes.\n{{right|''Dryden'', All for Love, i. 1.}}}}\n\n{{smaller block|[In Shakspere the phrase ''this night'' occurs, meaning ''last night.''}}\n\n{{smaller block|''Glouc.'' My troublous dream ''this night'' doth make me sad.<br>''Duch.'' What dream'd my lord? tell me, and I'll requite it<br>With sweet rehearsal of my morning's dream.\n{{right|''Shak.'', 2 Hen. VI., i. 2. 22.]}}}}\n\n'''This . . . here.''' See ''here''<sup>1</sup>.—'''This other†''', the other.\n\n{{smaller block|And hem liked more the melodye of this harpour than eny thinge that ''this other'' mynstralles diden.\n{{right|''Merlin'' (E. E. T. S.), iii. 621.}}}}\n\n{{smaller block|You denied to fight with me ''this other'' day.\n{{right|''Shak.'', W. T., v. 2. 140.}}}}\n\n'''This present.''' See ''present''<sup>1</sup>.\n\n'''II.''' ''pron.'' This person or thing. {{smaller|(''a'') It denotes—Some person or thing actually present or at hand: as, is ''this'' your coat? Who is ''this?''}}\n\n{{smaller block|''This'' is a spell against them, spick and span new.\n{{right|''B. Jonson'', Bartholomew Fair, iii. 1.}}\nFie, what an idle quarrel is ''this''; was ''this'' her ring?\n{{right|''Dekker and Webster'', Northward Ho, i. 1.}}}}\n\n{{smaller|(''b'') Something that has just preceded or has been mentioned or referred to.}}\n\n{{smaller block|Alle ''thes'' were there wythoute fable,\nWythoute ham of the rounde table.\n{{right|''Arthur'' (ed. Furnivall), l. 179.}}}}\n\n[[File:century v08 p0100 c1f1.png|center|78px]]\n{{c|Canada Thistle (''Cr'' ''arvensis'').}}\n\n{{c|Upper part of stem heads; ''a'', a flower achene with pappus}}\n\n{{smaller block|When they heard ''this'' [the discourse of Peter] they were pricked in their hearts. {{right|Acts ii. 37.}}}}\n\n{{smaller block|Suetonius writes that Claudius found heer no resistance, and that all was done without stroke; but ''this'' seems not probable. {{right|''Milton'', Hist. Eng., ii.}}}}\n\n{{smaller block|I know no evil which touches all mankind so much as ''this'' of the misbehaviour of servants. {{right|''Steele'', Spectator, No. 88.}}}}\n\n(''c'') Emphatically, something that is to be immediately said or done: as, Let me tell you ''this:'' I shall lend you no more money.\n\n{{smaller block|But know ''this'', that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up. {{right|Mat. xxiv. 43.}}}}\n\n(''d'') Elliptically, this person, place, state, time, position, circumstance, or the like: as, I shall leave ''this'' [place or town] to-morrow; ''this'' [state of affairs] is very sad; I shall abstain from wine from ''this'' [time] on; by ''this'' [time] we had arrived at the house.\n\n{{smaller block|''This'' [that is, this one] is so gentil and so tendre of herte\nThat with his deth he wol his sorwes wreke.\n{{right|''Chaucer'', Troilus, iii. 904.}}}}\n\n{{smaller block|I shall, between ''this'' and supper, tell you most strange things from Rome. {{right|''Shak.'', Cor., iv. 3. 43.}}}}\n\n{{smaller block|By ''this'' the vessel half her course had run.\n{{right|''Dryden'', tr. of Ovid's Metamorph., x. 95.}}}}\n\nWhen opposed to ''that'', ''this'' refers to the person or thing that is nearer, ''that'' to the person or thing that is more distant; so, with things that have just been expressed, ''this'' refers to the thing last mentioned (and therefore nearer in time to the speaker), and ''that'' to the thing first mentioned (as being more remote).\n\n{{smaller block|Two ships from far making amain to us:\nOf Corinth ''that'', of Epidaurus ''this''.\n{{right|''Shak.'', C. of E., i. 1. 94.}}}}\n\n{{smaller block|A body of ''this'' or ''that'' denomination is produced. ''Boyle.''}}\n\n{{smaller block|''These'' will no taxes give, and ''those'' no pence;\nCritics would starve the poet, Whigs the prince.\n{{right|''Dryden'', Prol. to Southern's Loyal Brother, l. 10.}}}}\n\n{{smaller block|Some place the bliss in action, some in ease,\n''Those'' call it pleasure, and contentment ''these''.\n{{right|''Pope'', Essay on Man, iv. 22.}}}}\n\n''This'' is sometimes opposed to ''the other''.\n\n{{smaller block|Consider the arguments which the author had to write ''this'', or to design ''the other'', before you arraign him.\n{{right|''Dryden.''}}}}\n\nIt was sometimes used elliptically for ''this is.''\n\n{{smaller block|''This'' 'a good Fryer, belike.\n{{right|''Shak.'', M. for M. (folio 1623), v. 1. 131.}}}}\n\n'''From this out.''' See ''from.''—'''To put this and that together.''' See ''put''<sup>1</sup>.\n\n'''this''' (ᴛ̵ʜis), ''adv.'' [A var. of ''thus'', or an elliptical use of ''for this.'' Cf. ''that, adv.''] For this; thus. [Obsolete or colloq.]\n\n{{smaller block|What am I, that thou shouldst contemn me ''this?''\n{{right|''Shak.'', Venus and Adonis, l. 205.}}}}\n\n{{smaller block|None of the portraits mentioned by Walpole . . . are dated ''this'' early.\n{{right|''J. P. Norris'', in Shakespeariana, May, 1884, p. 181.}}}}\n\n'''thisbe''' (thiz′bē), ''n.'' [< NL. ''thisbe'', the specific name, < Gr. Θίσβη, a proper name.] The clear-winged moth ''Hemaris thisbe.'' is′nes), ''n.'' [< ''this'' + ''-ness.''] The uality of being this; hæcceity.\n\nl), ''n.'' [Formerly also or dial. ''this-'' ''histel, thistile, thystylle'' (pl. ''thistles''), = D. ''distel'' = MLG. LG. ''distel'' = ''a, distil,'' MHG. G. ''distel'' = Icel. ''v. tistel'' = Dan. ''tidsel,'' thistle; cf. in comp. ''wigadeinō,'' ‘way-thistle.’] rous stout composite weeds, armed or prickles, bearing globular or drical heads with purple, yellow, vers and no rays, and dispersing the aid of a light globe of pappus. {{smaller|s in general to the members of the genus g the former ''Cirsium''), the common or in which the pappus is plumose or feathered, of ''Carduus'', the plumeless thistle, in which the pappus is simple, and of ''Onopordon'', the cotton-thistle, also with qualifying words to plants of other genera.—'''Argentine thistle†''', an old name of the cotton-thistle. See ''Onopordon''.—'''Blessed thistle''', one of the star-thistles, ''Centaurea'' (''Cnicus'') ''benedicta'', once reputed to counteract poison. It is a low branching annual with lobed, weakly prickly leaves and light-yellow heads, 1½ inches high, sparingly naturalized from Europe southward in the United States.—'''Boar-thistle''', a frequent variant of ''bur-thistle''.—'''Bull-thistle''', a name in America of ''Cnicus lanceolatus'' (see ''common thistle'', below): cited also from Ireland.—'''Canada thistle''', the usual name in the United States of ''Cnicus arvensis'', the corn-thistle, or creeping thistle, of Great Britain: a native of Europe and Asia, thence spread to North America and other lands. It is less robust than many other thistles, being only a foot or two high and rather slender, and bears very prick- ves and numerous small purple-flowered of the very worst of weeds on account extensively creeping, and sprouting root- '''thistle'''. See ''Carlina''.—'''Common this-''' plant of the genus ''Cnicus''; specifically, e spear-, bur-, or bull-thistle. It is a stout}} from 2 to 4 feet high, with very prickly and handsome purple heads — a troublewithout perennial creeping rootstock.— See ''Canada thistle.''— '''Cotton thistle.''' See ''pordon,'' and ''Scotch thistle'' (below).— '''Creepee''' ''Canada thistle.''— '''Cursed thistle,''' the ada thistle.— '''Distaff-thistle,''' a thistle''mus lanatus,'' of Europe and Asia: an erect, species with large pale-yellow heads.— Same as ''stemless thistle.''— '''Fish-bone''' or '''histle,''' ''Cnicus'' (''Chamæpeuce'') ''Casabonæ,'' off the south coast of France. The name s to the spines, borne in threes on the ves.— '''Friar's thistle.''' Same as ''friar's-'''''s-thistle,''' the teazel.— '''Globe thistle.''' ''le.'' (''b'') The artichoke.— '''Golden thistle,''' w-flowered species of the composite gene of which is the Spanish oyster-plant. — '''Hare-''' or '''hare's-thistle.''' Same as '''erring-bone thistle.''' See ''fish-bone this'''''y thistle.''' Same as ''blessed thistle.''\n{{smaller block|f this distilled Carduus Benedictus, and rt. . . . I meant, plain ''holy-thistle.''\n{{right|''Shak.'', Much Ado, iii. 4. 80.}}}}\n(''a'') The common thistle (see ''horse-this''ld lettuce, ''Lactuca Scariola,'' var. ''virosa.'' '''ded thistle,''' or '''hundred thistle,''' an nt, ''Eryngium campestre,'' so called from wer-heads.— '''Jersey thistle,''' one of the ''taurea aspera'' (''C. Isnardi'').— '''Lady's''' or '''stle.''' (''a'') See ''milk-thistle'' and ''Silybum.'' ''sed thistle.''— '''Mexican thistle,''' ''Cnicus nspicuus,'' a tall plant with rigid spiny 3 inches long, with yellow florets and l scales.— '''Order of the Thistle''' (in ''ient and Most Noble Order of the Thistle''), a very old Scottish order which has often been renewed and remodeled, and is still in existence. The devices of the order are St. Andrew's cross, or saltier, and a thistle-flower with leaves; these enter into the different badges, the collar, star, etc. The motto is \"Nemo me impune lacessit.\" The ribbon is green.—'''Pasture-thistle''', a low stout species, ''Cnicus pumilus'', with from one to three very large purple, or rarely white, sweet-scented heads: found in the Atlantic United States.—'''Saffron-thistle''', the safflower.—'''St. Barnaby's thistle''', the yellow star-thistle, ''Centaurea solstitialis:'' so named as blooming about St. Barnaby's day.—'''Scotch thistle''', a kind of thistle regarded as the national emblem of Scotland, but the precise species to which the name properly belongs is not settled. Most authorities consider it to be the cotton-thistle, ''Onopordon Acanthium'', though this is not native in Scotland; others, the milk-thistle, ''Silybum (Carduus) Marianum;'' while some, with greater probability, refer it to the common ''Cnicus lanceolatus''. The thistle intended when the emblem came into use is uncertain, owing to the fact that the figures on old coins and in paintings were not meant to be botanically exact. See cuts above and under ''Onopordon''.—'''Spear-thistle''', the common thistle, ''Cnicus lanceolatus'': so called from its lance-shaped leaves.—'''Stemless thistle,''' a European thistle, ''Cnicus acaulis'', having a tuft of prickly spreading leaves and a few largish purple heads, scarcely rising above the ground. Also ''dwarf thistle'', and locally ''pod-thistle''.—'''Swamp-thistle,''' a tall species, ''Cnicus muticus'', with single or few deep-purple heads on the branches: found in damp soil in the eastern United States.—'''Swine-thistle.''' Same as ''sow-thistle''.—'''Syrian thistle,''' ''Cnicus'' (''Notobasis'') ''Syriacus'', of the Mediterranean region. It is a plant from 1 to 4 feet high, with milky-veined leaves, the heads, one to three, on short axillary branches, each head embraced by a rigid pinnatifid spiny-pointed bract.—'''Tall thistle,''' a common species of the United States east of the Mississippi, ''Cnicus altissimus'', a branching plant sometimes 10 feet high, the leaves covered with close white wool beneath, the flowers light-purple.—'''Virgin Mary's thistle.''' Same as ''milk-thistle''.—'''Way-thistle,''' the Canada thistle.—'''Welted thistle,''' an Old World species, ''Carduus acanthoides'', resembling the musk-thistle.—'''Wolves'-''' or '''wolf's-thistle†,''' ''Carlina acaulis''.—'''Woolly-headed thistle.''' Same as ''friar's-crown''.—'''Yellow thistle,''' ''Cnicus horridulus'', of the Atlantic United States, a stout plant from 1 to 3 feet high, with very spiny leaves and pale-yellow or purple heads. (See also ''bur-thistle'', ''hedgehog-thistle'', ''melancholy-thistle'', ''melon-thistle'', ''milk-thistle'', ''musk-thistle'', ''pine-thistle'', ''pod-thistle'', ''sow-thistle'', ''star-thistle'', ''torch-thistle''.)\n\n[[File:century v08 p0100 c2f1.png|center|194px]]\n{{c|mon Thistle (''Cnicus lanceolatus'').}}\n{{c|m with heads; 2, a leaf; ''a'', achene with pappus.}}\n\n'''thistle-bird''' (this′l-bėrd), ''n.'' The American goldfinch, ''Chrysomitris'' or ''Spinus tristis'', or another thistle-finch (which see).\n\n{{smaller block|Among the occasional visitors to the yard were two American goldfinches, or ''thistle-birds''.\n{{right|''The Atlantic'', LXVI. 260.}}}}\n\n'''thistle-butterfly''' (this′l-but″ėr-flī), ''n.'' The painted-lady, ''Vanessa'' or ''Pyrameis cardui'', a cosmopolitan butterfly whose larva feeds on the thistle. See cut under ''painted-lady''.\n\n'''thistle-cock''' (this′l-kok), ''n.'' The common corn-bunting, ''Emberiza miliaria''. See cut under ''bunting.'' [Prov. Eng.]\n\n'''thistle-cropper''' (this′l-krop″ėr), ''n.'' The domestic ass; a donkey.\n\n'''thistle-crown''' (this′l-kroun), ''n.'' [So named from the thistle on the coin.] An English gold coin of the reign of James I., current 1604–11, weighing about 30 grains, and worth 4''s.'' or 4''s.'' 4⅘''d.'' (about $1 or $1.10).\n\n'''thistle-digger''' (this′l-dig″ėr), ''n.'' A form of spade with a narrow, forked blade, with which the root of a thistle can be cut below the crown. {{smaller|A projection from the back of the blade serves as a fulcrum, by the aid of which the severed plant can be pried up.}}\n\n[[File:century v08 p0100 c3f1.png|center|227px]]\n\n'''thistle-dollar''' (this′l-dol″är), ''n.'' A Scottish silver coin, also called the ''double merk,'' issued in 1578 by James VI. It weighed 342.6 grains troy, and was worth 23''s.'' 8''d.'' Scotch (nearly 2''s.'' English) at the time of issue.\n\n'''thistle-down''' (this′l-doun), ''n.'' The pappus of the thistle, by which the achenia are borne by the wind to great distances. See cuts under ''thistle.''<noinclude><references/></noinclude>"
+}

@@ -1,0 +1,243 @@
+{
+ "volume": 8,
+ "page_number": 139,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n138.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n138.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": 0.0,
+  "column_width": 848,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     0,
+     2308,
+     108
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     108,
+     848,
+     1133
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1133,
+     848,
+     2213
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2213,
+     848,
+     3160
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     3160,
+     848,
+     3315
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     108,
+     1584,
+     1194
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     1194,
+     1584,
+     2086
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     2086,
+     1584,
+     2357
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     848,
+     2357,
+     1584,
+     2964
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     848,
+     2979,
+     1584,
+     3004
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     3004,
+     1584,
+     3315
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1584,
+     108,
+     2308,
+     1196
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1584,
+     1196,
+     2308,
+     2272
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1584,
+     2272,
+     2308,
+     3315
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|tight|6335|tile}}",
+   "c1s1": "pacted or put together as to be impermeable or impervious to air, gas, rain, water, etc.: as, a water-''tight'' tank; an air-''tight'' vessel. (''b'') Stanch; strong; firmly built or made.\n\n{{smaller block|'Tis known my father hath no less<br>Than three great argosies; besides two galliases,<br>And twelve ''tight'' galleys. ''Shak.'', T. of the S., ii. 1. 381.}}\n\n{{smaller block|Some ''tight'' vessel that holds out against wind and water.\n{{right|''Bp. Hall'', Naomi and Ruth.}}}}\n\nHence—2. Trim; tidy; neat.\n\n{{smaller block|How the ''tight'' lass knives, combs, and scissors spies,<br>And looks on thimbles with desiring eyes.\n{{right|''Gay'', Shepherd's Week, Saturday, l. 77.}}}}\n\n{{smaller block|O, 'tis a snug little island!<br>A right little, ''tight'' little island!\n{{right|''Dibdin'', The Snug Little Island.}}}}\n\n{{smaller block|A ''tight'', likely wench she was, too.\n{{right|''H. B. Stowe'', Uncle Tom's Cabin, viii.}}}}\n\n3. Expert; handy; skilful; adroit; capable.\n\n{{smaller block|My queen 's a squire<br>More ''tight'' at this than thou.\n{{right|''Shak.'', A. and C., iv. 4. 15.}}}}\n\n{{smaller block|And so the house is haunted, is it? It will take a ''tighter'' workman than I am to keep the spirits out of the seven gables. ''Hawthorne'', Seven Gables, xiii.}}\n\n4. Close; firm: as, a ''tight'' grasp; a ''tight'' knot.—5. Close-fitting; especially, fitting too closely because too small, narrow, or the like: as, a ''tight'' shoe; a ''tight'' coat.\n\n{{smaller block|A man will always be more looked at whose dress flutters in the air than he whose dress sits ''tight'' upon him.\n{{right|''Landor'', Imag. Conv., Archdeacon Hare and Walter [Landor.}}}}\n\n{{smaller block|A wedding-ring growing always ''tighter'' as I grow fatter and older. ''Trollope'', Last Chronicle of Barset, xxxv.}}",
+   "c1s2": "¶\n6. Close-fisted; narrow; niggardly; parsimonious: as, a man ''tight'' in his dealings. [Colloq.]—7. Tense; taut; strained or stretched so as to leave no slack: as, a ''tight'' rope.\n\n{{smaller block|Nor would he loose the reins, nor could he hold 'em ''tight.''\n{{right|''Addison'', tr. of Ovid's Metamorph., ii.}}}}\n\n{{smaller block|Tom has eaten kidney and pigeon pie, and imbibed coffee, till his little skin is as ''tight'' as a drum.\n{{right|''T. Hughes'', Tom Brown at Rugby, i. 4.}}}}\n\n8. Produced by or requiring great straining or exertion; severe: as, to get through by a ''tight'' pull; specifically, in ''med.'', noting a cough accompanied with a painful sense of constriction, and without expectoration; racking; hacking. [Colloq.]—9. Scarce; not easily obtained or obtainable, because held firmly or tied up in some way: applied to money; hence, straitened for want of money: as, a ''tight'' money-market. [Commercial slang.]\n\n{{smaller block|A few curt sentences . . . told how matters stood in the City;—money was ''tight;'' . . . but of that financial sensitiveness that shrinks timidly from all enterprise after a period of crash and bankruptcy Culduff could make nothing.\n{{right|''Lever'', Bramleighs of Bishop's Folly, I. xxi.}}}}\n\n{{smaller block|I've known the City now for more than ten years, Mr. Crosbie, and I never knew money to be so ''tight'' as it is at this moment.\n{{right|''Trollope'', Last Chronicle of Barset, xlii.}}}}\n\n10. Under the influence of strong drink; intoxicated; tipsy; \"full.\" [Slang.]\n\n{{smaller block|No, sir, not a bit tipsy; . . . not even what Mr. Cutbill calls ''tight.''\n{{right|''Lever'', Bramleighs of Bishop's Folly, I. xxiv.}}}}\n\n{{smaller block|How she cried out half her sight,\nWhen you staggered by next night,\nTwice as dirty as a serpent, and a hundred times as ''tight.''\n{{right|''W. Carleton'', Johnny Rich.}}}}",
+   "c1s3": "11. Noting the condition of the cutting edge of a saw as condensed by hammering. Also ''small.''—{{smaller|'''In a tight box.''' See ''box''<sup>2</sup>.—'''Tight cooper.''' See ''cooper.''—'''Tight rope,''' a tensely stretched rope on which an acrobat performs dexterous feats at a greater or less height from the ground.}}\n\n{{smaller block|A damned uneven floor, . . . where a gentleman may break his neck, if he does not walk as upright as a posture-master on the ''tight-rope.''\n{{right|''Scott,'' Kenilworth, xxxiii.}}}}\n\n'''tight'''<sup>1</sup> (tīt), ''v. t.'' [< ME. ''tighten'' = Sw. ''täta'' = Dan. ''tætte,'' make tight; from the adj.] To make tight; tighten. [Obsolete or colloq.]\n\n'''tight'''<sup>2</sup> (tīt), ''adv.'' See ''tite''<sup>1</sup>.\n\n'''tight'''<sup>3</sup>†. An old preterit of ''tie''<sup>1</sup>.\n\n'''tighten''' (tī′tn), ''v.'' [< ME. *''tightnen'' (= Sw. ''tätna''); as ''tight''<sup>1</sup> + ''-en''<sup>1</sup>.] '''I.''' ''trans.'' To make tight; draw tighter; straiten; make more close in any manner; constrict.\n\n{{smaller block|The bowstring encircled my neck. All was ready; they waited the last signal to ''tighten'' the fatal cord.\n{{right|''Marryat,'' Pacha of Many Tales, Story of Old Woman.}}\n{{right|[(''Latham.'')}}}}\n\n'''II.''' ''intrans.'' To become tight; be drawn tighter.\n\n{{smaller block|Her fingers ''tightened'' round his own,\nAnd a sound like a tender moan\nParted her lips.\n{{right|''William Morris,'' Earthly Paradise, II. 112.}}}}\n\n'''tightener''' (tīt′nėr), ''n.'' [Also ''tightner;'' < ''tighten'' + ''-er''<sup>1</sup>.] 1. One who or that which tightens, or that which is used for tightening; specifically,",
+   "c1s4": "in ''anat.'', a tensor.",
+   "c2s1": "¶\n{{smaller block|This wheel . . . was driven by a four-inch belt, a ''tightener'' pulley being so used as to prevent all slip and to maintain the maximum speed.\n{{right|''Jour. Franklin Inst.'', CXXIX. 201.}}}}\n2. A hearty meal. [Slang.]\n{{smaller block|At one house, known as \"Rodway's Coffee-house,\" a man can have a meal for 1''d.''—a mug of hot coffee and two slices of bread and butter, while for two-pence what is elegantly termed a ''tightener''—that is to say, a most plentiful repast—may be obtained.\n{{right|''Mayhew'', London Labour and London Poor, I. 70.}}}}\n\n'''tightening-pulley''' (tīt′ning-pu̇l″i), ''n.'' A pulley which rests against a band to tighten it, and thus increase its frictional adhesion to the working pulleys over which it runs. ''E. H. Knight.''\n\n'''tighter''' (tī′tėr), ''n.'' [< ''tight''<sup>1</sup> + ''-er''<sup>1</sup>.] Same as ''tightener''. [Obsolete or colloq.]\n{{smaller block|Julius Cæsar and Pompey were boat-wrights and ''tighters'' of ships.\n{{right|''Urquhart'', tr. of Rabelais, ii. 30. (''Davies.'')}}}}\n\n'''tightly<sup>1</sup>''' (tīt′li), ''adv.'' [< ''tight''<sup>1</sup> + ''-ly''<sup>2</sup>.] In a tight manner; closely; firmly; compactly; neatly; well.\n{{smaller block|When we have cozened 'em most ''tightly'', thou shalt steal away the innkeeper's daughter.\n{{right|''Fletcher'' (''and another''), Fair Maid of the Inn, ii. 2.}}\nThe Marquis of Salisbury came down buttoned up ''tightly'' in a black frock coat, carrying a light gray overcoat over his arm.\n{{right|''T. C. Crawford'', English Life, p. 126.}}}}\n\n'''tightly<sup>2</sup>†''', ''adv.'' See ''titely''.\n\n'''tightner''' (tīt′nėr), ''n.'' Same as ''tightener''.\n\n'''tightness''' (tīt′nes), ''n.'' The character or quality of being tight, in any sense of that word.\n\n'''tights''' (tīts), ''n. pl.'' Garments clinging closely to the legs, or to the whole form, and intended either to display the form or to facilitate move-",
+   "c2s2": "ment, or both, as in the case of dancers, acrobats, or gymnasts.\n\n{{smaller block|A fat man in black ''tights'', and cloudy Berlins.\n{{right|''Dickens'', Sketches, Tales, iv.}}\nAnd I shall be in ''tights'', and dance a breakdown.\n{{right|''W. Black'', In Silk Attire, xxxvi.}}}}\n\n'''tigress''' (tī′gres), ''n.'' [< F. ''tigresse''; as ''tiger'' + ''-ess''.] A female tiger.\n\n'''tigretier''' (tē-gre-tiā′), ''n.'' [F.] In Abyssinia, a disease resembling the dancing mania.\n\n'''Tigridia''' (tī-grid′i-ä), ''n.'' [NL. (Ker, 1805), so called from the spotted flowers; < L. ''tigris'', a tiger: see ''tiger''.] A genus of monocotyledonous plants, of the order ''Irideæ'' and tribe ''Moræeæ''. {{smaller|It is characterized by flowers with free-spreading segments, the three inner ones much smaller, obtuse, and undulate, and two-parted style-branches with awl-shaped lobes. The 7 species are natives of Mexico, Central America, Peru, and Chili. They are bulbous plants with a few narrow or plicate leaves and one or two terminal spathes, prized for their few singular but evanescent flowers. See ''tiger-flower''.}}\n\n'''tigrine''' (tī′grin), ''a.'' [< L. ''tigrinus'', < ''tigris'', a tiger: see ''tiger''.] Like a tiger in coloration: noting various striped or spotted animals, often translating the specific technical word ''tigrinus'' or ''tigrina''. Also ''tigerine''.\n\n'''Tigris''' (tī′gris), ''n.'' [NL., < L. ''tigris'', a tiger: see ''tiger''.] 1. A genus of ''Felidæ'', or section of ''Felis'', based on the tiger, as ''T. regalis''.—2.",
+   "c2s3": "An obsolete constellation where Vulpecula now is, first found in the planisphere of Bartsch, 1624, and recognized for more than a century following.\n\n¶\n'''tigrish''' (tī′grish), ''a.'' Same as ''tigerish.''\n\n¶\n'''Tigrisoma''' (tī-gri-sō′mä̤), ''n.'' [NL. (Swainson, 1827), < Gr. τίγρις, tiger, + σῶμα, body.] A ge-",
+   "c2c1": "{{c|Tiger-bittern (''Tigrisoma cabanisi'').}}",
+   "c2s4": "nus of bitterns, of the family ''Ardeidæ'' and subfamily ''Botaurinæ'', having the plumage closely and profusely variegated; the tiger-bitterns.\n\n'''tig-tag''' (tig′tag), ''n.'' [< ''tig''<sup>1</sup> + ''tag''<sup>2</sup>.] Same as ''tag''<sup>2</sup>.",
+   "c3s1": "¶\n'''tike<sup>1</sup>''' (tīk), ''n.'' An obsolete or dialectal form of ''tick''<sup>2</sup>.\n\n'''tike<sup>2</sup>''' (tīk), ''n.'' [Also ''tyke''; < ME. ''tike'', ''tyke'', < Icel. ''tīk'' = Sw. ''tik'', a bitch.] A cur-dog; hence, in contempt, a low, snarling fellow.\n\n{{smaller block|Hewe downe hertly ʒone heythene ''tykes!''\n{{right|''Morte Arthure'' (E. E. T. S.), l. 3643.}}\nAvaunt, you curs! . . .\nHound or spaniel, brach or lym,\nOr bobtail ''tike'' or trundle-tail.\n{{right|''Shak.'', Lear, iii. 6. 73.}}\nSacrifice this ''tyke'' in her sight, . . . which being done, one of your soldiers may dip his foul shirt in his blood.\n{{right|''Peele'', Edward I.}}\nOh, let us not, like snarling ''tykes'',\nIn wrangling be divided.\n{{right|''Burns'', The Dumfries Volunteers.}}}}\n\n'''tike<sup>3</sup>''' (tīk), ''n.'' [< ME. ''tike''; perhaps a particular use of ''tike''<sup>2</sup>.] A countryman or clown; a boor; a churl; a fellow.\n\n{{smaller block|Now aren thei lowe cheorles,\nAs wide as the worlde is wonyeth ther none\nBote vnder tribut and taillage as ''tikes'' and cheorles.\n{{right|''Piers Plowman'' (C), xxii. 37.}}\nHe accounts them very honest ''Tikes'', and can with all safety trust his Life in their Hands, for now and then Gilding their Palms for the good Services they do him.\n{{right|Quoted in ''Ashton's'' Social Life in Reign of Queen Anne, [II. 220.}}}}\n\n'''tikel†''', ''v.'' and ''a.'' An obsolete spelling of ''tickle''.\n\n'''tikoor, tikul''' (tī-kör′, tī′kul), ''n.'' [E. Ind.] An East Indian tree, ''Garcinia pedunculata'', of the order ''Guttiferæ'', 60 feet in height, bearing a large yellow fleshy fruit, the seeds invested with a succulent aril. The fruit is of a pleasant acid flavor, and is of similar use to limes",
+   "c3s2": "and lemons.\n\n¶\n'''tikor''' (tī′kôr), ''n.'' [Hind. ''tīkhur'', Beng. ''tīkhura''.] A starch manufactured from the tubers of an East Indian plant, ''Curcuma angustifolia'', forming the chief arrowroot of India. See ''Curcuma'', 2.\n\n'''tikul''', ''n.'' See ''tikoor''.\n\n'''tikus''' (ti′kus), ''n.'' [Native name.] An animal of the genus ''Gymnura'', as ''G. rafflesi'', native of the Moluccas and Sumatra; the bulau.\n\n'''til<sup>1</sup>†''', ''prep.'' An old spelling of ''till<sup>2</sup>''.\n\n'''til<sup>2</sup>''' (til), ''n.'' [< Hind. ''til'', < Skt. ''tila'', the seed of ''sesamum'', also the plant itself.] The sesame, or its seed. Also ''teel''.\n\n'''tilbury''' (til′bẹ-ri), ''n.''; pl. ''tilburies'' (-riz). [So called after one ''Tilbury'', a London coachmaker, at the beginning of the 19th century.] A gig or two-wheeled carriage without a top or cover.\n\n{{smaller block|The Regent drives in the Park every day in a ''tilbury'', with his groom sitting by his side.\n{{right|''Greville'', Memoirs, June 7, 1818.}}}}\n\n'''tild†''', ''v. t.'' See ''teld'', ''tilt<sup>1</sup>''.\n\n'''tilde''' (til′de), ''n.'' [Sp. ''tilde'' (= OF. ''title'', ''tiltre''), an accent, mark, tittle, a more vernacular form of ''título'', a title: see ''tittle<sup>2</sup>'', ''title''.] A diacritic mark (˜) placed over the letter ''n'' in Spanish to indicate that it is sounded as a palatal ''n'', or very nearly like ''n'' followed by ''y'', as in ''señor'', pronounced sānyôr′, ''cañon'', pronounced kä-nyôn′, and hence in English written ''canyon''. {{smaller|This sound is represented in Portuguese by ''nh'', in Italian and French by ''gn''. The mark ˜, also written as a straight dash, like the macron, ¯, was originally a small ''n'', ''ñ'' representing ''nn'', as in ''año'' for ''anno'', from Latin ''annus''. The mark was much used for ''n'' or ''m'' in medieval manu-}}",
+   "c3s3": "scripts, and hence in early printed books, being put above the preceding letter to save space: thus, ''mōumētū'' for ''monumentum.'' The tilde is also used in the Roman notation of Oriental and other languages: thus, ''ñ'' for the Sanskrit palatal nasal. It is sometimes used by analogy over ''l'' to indicate ''l'' followed by ''y'' (Spanish and French ''ll'', Portuguese ''lh'', Italian ''gl'').\n\n'''Tilden Act.''' See ''act.''\n\n'''tile<sup>1</sup>''' (tīl), ''n.'' [Formerly also ''tyle''; < ME. ''tile'', ''tyle'', ''tyil'', ''tyyl'', ''tigel'', ''teȝele'', < AS. ''tigel'', ''tigele'' = D. ''tegchel'', ''tegel'' = OHG. ''ziagal'', MHG. ''ziegel'', G. ''ziegel'' = Sw. ''tegel'' = Dan. ''tegl'' = F. ''tuile'' = Sp. ''teja'' = Pg. ''telha'' = It. ''tegghia'', ''tegola'', < L. ''tegula'', usually in the pl. ''tegulæ'', tiles, roof-tiles, a tiled roof, < ''tegere'', cover, roof: see ''thatch''.] 1. A thin slab or plate of baked clay, used for covering the roofs of buildings, paving floors, lining furnaces and ovens, constructing drains, etc., and variously compounded and shaped according to the use in view. {{smaller|In ancient times roofing-tiles cut from marble were often used upon important buildings, carved in the form of those in pottery. The best qualities of brick-earth are used for making tiles, and the process is similar to that of brickmaking. Roofing-tiles are chiefly of two sorts, ''plain tiles'' and ''pantiles'', the former being flat, the latter curved, both being laid so as to overlap and carry off any rain they receive. See cut under ''pantile.''}}\n\n{{smaller block|And from on high,<br>Where Masons mount the Ladder, Fragments fly;<br>Mortar and crumbled Lime in Show'rs descend,<br>And o'er thy Head destructive ''Tiles'' impend.\n{{right|''Gay'', Trivia, ii. 270.}}}}"
+  },
+  "figure_files": {
+   "c2f1": "century v08 p0139 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     952,
+     2356,
+     1474,
+     2964
+    ],
+    "caption": [
+     1023,
+     2979,
+     1400,
+     3002
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     999,
+     2314,
+     1520,
+     2972
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 4390,
+    "output_tokens": 94,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 13,
+    "input_tokens": 9813,
+    "output_tokens": 8896,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 35282
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|tight|6335|tile}}</noinclude>pacted or put together as to be impermeable or impervious to air, gas, rain, water, etc.: as, a water-''tight'' tank; an air-''tight'' vessel. (''b'') Stanch; strong; firmly built or made.\n\n{{smaller block|'Tis known my father hath no less<br>Than three great argosies; besides two galliases,<br>And twelve ''tight'' galleys. ''Shak.'', T. of the S., ii. 1. 381.}}\n\n{{smaller block|Some ''tight'' vessel that holds out against wind and water.\n{{right|''Bp. Hall'', Naomi and Ruth.}}}}\n\nHence—2. Trim; tidy; neat.\n\n{{smaller block|How the ''tight'' lass knives, combs, and scissors spies,<br>And looks on thimbles with desiring eyes.\n{{right|''Gay'', Shepherd's Week, Saturday, l. 77.}}}}\n\n{{smaller block|O, 'tis a snug little island!<br>A right little, ''tight'' little island!\n{{right|''Dibdin'', The Snug Little Island.}}}}\n\n{{smaller block|A ''tight'', likely wench she was, too.\n{{right|''H. B. Stowe'', Uncle Tom's Cabin, viii.}}}}\n\n3. Expert; handy; skilful; adroit; capable.\n\n{{smaller block|My queen 's a squire<br>More ''tight'' at this than thou.\n{{right|''Shak.'', A. and C., iv. 4. 15.}}}}\n\n{{smaller block|And so the house is haunted, is it? It will take a ''tighter'' workman than I am to keep the spirits out of the seven gables. ''Hawthorne'', Seven Gables, xiii.}}\n\n4. Close; firm: as, a ''tight'' grasp; a ''tight'' knot.—5. Close-fitting; especially, fitting too closely because too small, narrow, or the like: as, a ''tight'' shoe; a ''tight'' coat.\n\n{{smaller block|A man will always be more looked at whose dress flutters in the air than he whose dress sits ''tight'' upon him.\n{{right|''Landor'', Imag. Conv., Archdeacon Hare and Walter [Landor.}}}}\n\n{{smaller block|A wedding-ring growing always ''tighter'' as I grow fatter and older. ''Trollope'', Last Chronicle of Barset, xxxv.}}\n\n6. Close-fisted; narrow; niggardly; parsimonious: as, a man ''tight'' in his dealings. [Colloq.]—7. Tense; taut; strained or stretched so as to leave no slack: as, a ''tight'' rope.\n\n{{smaller block|Nor would he loose the reins, nor could he hold 'em ''tight.''\n{{right|''Addison'', tr. of Ovid's Metamorph., ii.}}}}\n\n{{smaller block|Tom has eaten kidney and pigeon pie, and imbibed coffee, till his little skin is as ''tight'' as a drum.\n{{right|''T. Hughes'', Tom Brown at Rugby, i. 4.}}}}\n\n8. Produced by or requiring great straining or exertion; severe: as, to get through by a ''tight'' pull; specifically, in ''med.'', noting a cough accompanied with a painful sense of constriction, and without expectoration; racking; hacking. [Colloq.]—9. Scarce; not easily obtained or obtainable, because held firmly or tied up in some way: applied to money; hence, straitened for want of money: as, a ''tight'' money-market. [Commercial slang.]\n\n{{smaller block|A few curt sentences . . . told how matters stood in the City;—money was ''tight;'' . . . but of that financial sensitiveness that shrinks timidly from all enterprise after a period of crash and bankruptcy Culduff could make nothing.\n{{right|''Lever'', Bramleighs of Bishop's Folly, I. xxi.}}}}\n\n{{smaller block|I've known the City now for more than ten years, Mr. Crosbie, and I never knew money to be so ''tight'' as it is at this moment.\n{{right|''Trollope'', Last Chronicle of Barset, xlii.}}}}\n\n10. Under the influence of strong drink; intoxicated; tipsy; \"full.\" [Slang.]\n\n{{smaller block|No, sir, not a bit tipsy; . . . not even what Mr. Cutbill calls ''tight.''\n{{right|''Lever'', Bramleighs of Bishop's Folly, I. xxiv.}}}}\n\n{{smaller block|How she cried out half her sight,\nWhen you staggered by next night,\nTwice as dirty as a serpent, and a hundred times as ''tight.''\n{{right|''W. Carleton'', Johnny Rich.}}}} 11. Noting the condition of the cutting edge of a saw as condensed by hammering. Also ''small.''—{{smaller|'''In a tight box.''' See ''box''<sup>2</sup>.—'''Tight cooper.''' See ''cooper.''—'''Tight rope,''' a tensely stretched rope on which an acrobat performs dexterous feats at a greater or less height from the ground.}}\n\n{{smaller block|A damned uneven floor, . . . where a gentleman may break his neck, if he does not walk as upright as a posture-master on the ''tight-rope.''\n{{right|''Scott,'' Kenilworth, xxxiii.}}}}\n\n'''tight'''<sup>1</sup> (tīt), ''v. t.'' [< ME. ''tighten'' = Sw. ''täta'' = Dan. ''tætte,'' make tight; from the adj.] To make tight; tighten. [Obsolete or colloq.]\n\n'''tight'''<sup>2</sup> (tīt), ''adv.'' See ''tite''<sup>1</sup>.\n\n'''tight'''<sup>3</sup>†. An old preterit of ''tie''<sup>1</sup>.\n\n'''tighten''' (tī′tn), ''v.'' [< ME. *''tightnen'' (= Sw. ''tätna''); as ''tight''<sup>1</sup> + ''-en''<sup>1</sup>.] '''I.''' ''trans.'' To make tight; draw tighter; straiten; make more close in any manner; constrict.\n\n{{smaller block|The bowstring encircled my neck. All was ready; they waited the last signal to ''tighten'' the fatal cord.\n{{right|''Marryat,'' Pacha of Many Tales, Story of Old Woman.}}\n{{right|[(''Latham.'')}}}}\n\n'''II.''' ''intrans.'' To become tight; be drawn tighter.\n\n{{smaller block|Her fingers ''tightened'' round his own,\nAnd a sound like a tender moan\nParted her lips.\n{{right|''William Morris,'' Earthly Paradise, II. 112.}}}}\n\n'''tightener''' (tīt′nėr), ''n.'' [Also ''tightner;'' < ''tighten'' + ''-er''<sup>1</sup>.] 1. One who or that which tightens, or that which is used for tightening; specifically, in ''anat.'', a tensor.\n\n{{smaller block|This wheel . . . was driven by a four-inch belt, a ''tightener'' pulley being so used as to prevent all slip and to maintain the maximum speed.\n{{right|''Jour. Franklin Inst.'', CXXIX. 201.}}}}\n2. A hearty meal. [Slang.]\n{{smaller block|At one house, known as \"Rodway's Coffee-house,\" a man can have a meal for 1''d.''—a mug of hot coffee and two slices of bread and butter, while for two-pence what is elegantly termed a ''tightener''—that is to say, a most plentiful repast—may be obtained.\n{{right|''Mayhew'', London Labour and London Poor, I. 70.}}}}\n\n'''tightening-pulley''' (tīt′ning-pu̇l″i), ''n.'' A pulley which rests against a band to tighten it, and thus increase its frictional adhesion to the working pulleys over which it runs. ''E. H. Knight.''\n\n'''tighter''' (tī′tėr), ''n.'' [< ''tight''<sup>1</sup> + ''-er''<sup>1</sup>.] Same as ''tightener''. [Obsolete or colloq.]\n{{smaller block|Julius Cæsar and Pompey were boat-wrights and ''tighters'' of ships.\n{{right|''Urquhart'', tr. of Rabelais, ii. 30. (''Davies.'')}}}}\n\n'''tightly<sup>1</sup>''' (tīt′li), ''adv.'' [< ''tight''<sup>1</sup> + ''-ly''<sup>2</sup>.] In a tight manner; closely; firmly; compactly; neatly; well.\n{{smaller block|When we have cozened 'em most ''tightly'', thou shalt steal away the innkeeper's daughter.\n{{right|''Fletcher'' (''and another''), Fair Maid of the Inn, ii. 2.}}\nThe Marquis of Salisbury came down buttoned up ''tightly'' in a black frock coat, carrying a light gray overcoat over his arm.\n{{right|''T. C. Crawford'', English Life, p. 126.}}}}\n\n'''tightly<sup>2</sup>†''', ''adv.'' See ''titely''.\n\n'''tightner''' (tīt′nėr), ''n.'' Same as ''tightener''.\n\n'''tightness''' (tīt′nes), ''n.'' The character or quality of being tight, in any sense of that word.\n\n'''tights''' (tīts), ''n. pl.'' Garments clinging closely to the legs, or to the whole form, and intended either to display the form or to facilitate movement, or both, as in the case of dancers, acrobats, or gymnasts.\n\n{{smaller block|A fat man in black ''tights'', and cloudy Berlins.\n{{right|''Dickens'', Sketches, Tales, iv.}}\nAnd I shall be in ''tights'', and dance a breakdown.\n{{right|''W. Black'', In Silk Attire, xxxvi.}}}}\n\n'''tigress''' (tī′gres), ''n.'' [< F. ''tigresse''; as ''tiger'' + ''-ess''.] A female tiger.\n\n'''tigretier''' (tē-gre-tiā′), ''n.'' [F.] In Abyssinia, a disease resembling the dancing mania.\n\n'''Tigridia''' (tī-grid′i-ä), ''n.'' [NL. (Ker, 1805), so called from the spotted flowers; < L. ''tigris'', a tiger: see ''tiger''.] A genus of monocotyledonous plants, of the order ''Irideæ'' and tribe ''Moræeæ''. {{smaller|It is characterized by flowers with free-spreading segments, the three inner ones much smaller, obtuse, and undulate, and two-parted style-branches with awl-shaped lobes. The 7 species are natives of Mexico, Central America, Peru, and Chili. They are bulbous plants with a few narrow or plicate leaves and one or two terminal spathes, prized for their few singular but evanescent flowers. See ''tiger-flower''.}}\n\n'''tigrine''' (tī′grin), ''a.'' [< L. ''tigrinus'', < ''tigris'', a tiger: see ''tiger''.] Like a tiger in coloration: noting various striped or spotted animals, often translating the specific technical word ''tigrinus'' or ''tigrina''. Also ''tigerine''.\n\n'''Tigris''' (tī′gris), ''n.'' [NL., < L. ''tigris'', a tiger: see ''tiger''.] 1. A genus of ''Felidæ'', or section of ''Felis'', based on the tiger, as ''T. regalis''.—2. An obsolete constellation where Vulpecula now is, first found in the planisphere of Bartsch, 1624, and recognized for more than a century following.\n\n¶\n'''tigrish''' (tī′grish), ''a.'' Same as ''tigerish.''\n\n¶\n'''Tigrisoma''' (tī-gri-sō′mä̤), ''n.'' [NL. (Swainson, 1827), < Gr. τίγρις, tiger, + σῶμα, body.] A genus of bitterns, of the family ''Ardeidæ'' and subfamily ''Botaurinæ'', having the plumage closely and profusely variegated; the tiger-bitterns.\n\n[[File:century v08 p0139 c2f1.png|center|312px]]\n{{c|Tiger-bittern (''Tigrisoma cabanisi'').}}\n\n'''tig-tag''' (tig′tag), ''n.'' [< ''tig''<sup>1</sup> + ''tag''<sup>2</sup>.] Same as ''tag''<sup>2</sup>.\n\n'''tike<sup>1</sup>''' (tīk), ''n.'' An obsolete or dialectal form of ''tick''<sup>2</sup>.\n\n'''tike<sup>2</sup>''' (tīk), ''n.'' [Also ''tyke''; < ME. ''tike'', ''tyke'', < Icel. ''tīk'' = Sw. ''tik'', a bitch.] A cur-dog; hence, in contempt, a low, snarling fellow.\n\n{{smaller block|Hewe downe hertly ʒone heythene ''tykes!''\n{{right|''Morte Arthure'' (E. E. T. S.), l. 3643.}}\nAvaunt, you curs! . . .\nHound or spaniel, brach or lym,\nOr bobtail ''tike'' or trundle-tail.\n{{right|''Shak.'', Lear, iii. 6. 73.}}\nSacrifice this ''tyke'' in her sight, . . . which being done, one of your soldiers may dip his foul shirt in his blood.\n{{right|''Peele'', Edward I.}}\nOh, let us not, like snarling ''tykes'',\nIn wrangling be divided.\n{{right|''Burns'', The Dumfries Volunteers.}}}}\n\n'''tike<sup>3</sup>''' (tīk), ''n.'' [< ME. ''tike''; perhaps a particular use of ''tike''<sup>2</sup>.] A countryman or clown; a boor; a churl; a fellow.\n\n{{smaller block|Now aren thei lowe cheorles,\nAs wide as the worlde is wonyeth ther none\nBote vnder tribut and taillage as ''tikes'' and cheorles.\n{{right|''Piers Plowman'' (C), xxii. 37.}}\nHe accounts them very honest ''Tikes'', and can with all safety trust his Life in their Hands, for now and then Gilding their Palms for the good Services they do him.\n{{right|Quoted in ''Ashton's'' Social Life in Reign of Queen Anne, [II. 220.}}}}\n\n'''tikel†''', ''v.'' and ''a.'' An obsolete spelling of ''tickle''.\n\n'''tikoor, tikul''' (tī-kör′, tī′kul), ''n.'' [E. Ind.] An East Indian tree, ''Garcinia pedunculata'', of the order ''Guttiferæ'', 60 feet in height, bearing a large yellow fleshy fruit, the seeds invested with a succulent aril. The fruit is of a pleasant acid flavor, and is of similar use to limes and lemons.\n\n¶\n'''tikor''' (tī′kôr), ''n.'' [Hind. ''tīkhur'', Beng. ''tīkhura''.] A starch manufactured from the tubers of an East Indian plant, ''Curcuma angustifolia'', forming the chief arrowroot of India. See ''Curcuma'', 2.\n\n'''tikul''', ''n.'' See ''tikoor''.\n\n'''tikus''' (ti′kus), ''n.'' [Native name.] An animal of the genus ''Gymnura'', as ''G. rafflesi'', native of the Moluccas and Sumatra; the bulau.\n\n'''til<sup>1</sup>†''', ''prep.'' An old spelling of ''till<sup>2</sup>''.\n\n'''til<sup>2</sup>''' (til), ''n.'' [< Hind. ''til'', < Skt. ''tila'', the seed of ''sesamum'', also the plant itself.] The sesame, or its seed. Also ''teel''.\n\n'''tilbury''' (til′bẹ-ri), ''n.''; pl. ''tilburies'' (-riz). [So called after one ''Tilbury'', a London coachmaker, at the beginning of the 19th century.] A gig or two-wheeled carriage without a top or cover.\n\n{{smaller block|The Regent drives in the Park every day in a ''tilbury'', with his groom sitting by his side.\n{{right|''Greville'', Memoirs, June 7, 1818.}}}}\n\n'''tild†''', ''v. t.'' See ''teld'', ''tilt<sup>1</sup>''.\n\n'''tilde''' (til′de), ''n.'' [Sp. ''tilde'' (= OF. ''title'', ''tiltre''), an accent, mark, tittle, a more vernacular form of ''título'', a title: see ''tittle<sup>2</sup>'', ''title''.] A diacritic mark (˜) placed over the letter ''n'' in Spanish to indicate that it is sounded as a palatal ''n'', or very nearly like ''n'' followed by ''y'', as in ''señor'', pronounced sānyôr′, ''cañon'', pronounced kä-nyôn′, and hence in English written ''canyon''. {{smaller|This sound is represented in Portuguese by ''nh'', in Italian and French by ''gn''. The mark ˜, also written as a straight dash, like the macron, ¯, was originally a small ''n'', ''ñ'' representing ''nn'', as in ''año'' for ''anno'', from Latin ''annus''. The mark was much used for ''n'' or ''m'' in medieval manuscripts}}, and hence in early printed books, being put above the preceding letter to save space: thus, ''mōumētū'' for ''monumentum.'' The tilde is also used in the Roman notation of Oriental and other languages: thus, ''ñ'' for the Sanskrit palatal nasal. It is sometimes used by analogy over ''l'' to indicate ''l'' followed by ''y'' (Spanish and French ''ll'', Portuguese ''lh'', Italian ''gl'').\n\n'''Tilden Act.''' See ''act.''\n\n'''tile<sup>1</sup>''' (tīl), ''n.'' [Formerly also ''tyle''; < ME. ''tile'', ''tyle'', ''tyil'', ''tyyl'', ''tigel'', ''teȝele'', < AS. ''tigel'', ''tigele'' = D. ''tegchel'', ''tegel'' = OHG. ''ziagal'', MHG. ''ziegel'', G. ''ziegel'' = Sw. ''tegel'' = Dan. ''tegl'' = F. ''tuile'' = Sp. ''teja'' = Pg. ''telha'' = It. ''tegghia'', ''tegola'', < L. ''tegula'', usually in the pl. ''tegulæ'', tiles, roof-tiles, a tiled roof, < ''tegere'', cover, roof: see ''thatch''.] 1. A thin slab or plate of baked clay, used for covering the roofs of buildings, paving floors, lining furnaces and ovens, constructing drains, etc., and variously compounded and shaped according to the use in view. {{smaller|In ancient times roofing-tiles cut from marble were often used upon important buildings, carved in the form of those in pottery. The best qualities of brick-earth are used for making tiles, and the process is similar to that of brickmaking. Roofing-tiles are chiefly of two sorts, ''plain tiles'' and ''pantiles'', the former being flat, the latter curved, both being laid so as to overlap and carry off any rain they receive. See cut under ''pantile.''}}\n\n{{smaller block|And from on high,<br>Where Masons mount the Ladder, Fragments fly;<br>Mortar and crumbled Lime in Show'rs descend,<br>And o'er thy Head destructive ''Tiles'' impend.\n{{right|''Gay'', Trivia, ii. 270.}}}}<noinclude><references/></noinclude>"
+}

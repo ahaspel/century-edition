@@ -1,0 +1,231 @@
+{
+ "volume": 8,
+ "page_number": 88,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n87.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n87.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-09",
+  "angle": 0.0,
+  "column_width": 823,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     174,
+     57,
+     2442,
+     98
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     174,
+     98,
+     885,
+     1181
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     174,
+     1181,
+     885,
+     2261
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     174,
+     2261,
+     885,
+     3219
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     885,
+     98,
+     1619,
+     975
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     885,
+     975,
+     1619,
+     1994
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     885,
+     1994,
+     1619,
+     3063
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     885,
+     3063,
+     1619,
+     3219
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1619,
+     98,
+     2442,
+     1082
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1619,
+     1082,
+     2442,
+     1538
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1619,
+     1540,
+     2442,
+     1652
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1619,
+     1652,
+     2442,
+     2741
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1619,
+     2741,
+     2442,
+     3219
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|thermometer|6284|thermotelephone}}",
+   "c1s1": "into which any desired part of the mercury can be drawn off. This device enables the thermometer to be used over a wide range of temperature, and the scale to be graduated to small fractions of a degree, without increasing the length of the stem. For each different state of the instrument, the temperature corresponding to some part of the scale must be determined by comparison with a standard thermometer.—'''Methyl-butyrate thermometer,''' one in which the thermometric substance is methyl butyrate. ''Sir William Thomson'', Encyc. Brit., XI. 569.—'''Minimum thermometer,''' a thermometer that registers the minimum temperature to which it is exposed. The alcohol minimum, devised by Rutherford in 1794, is now universally used. The registration is effected by a light steel or glass index enlarged and rounded at the end, and wholly immersed in the column of alcohol. When the temperature falls, the index is carried toward the bulb by the surface-tension at the end of the contracting liquid column, and when the temperature rises the alcohol flows around and past the index, leaving it to mark the lowest temperature.—'''Optical thermometer,''' a thermometer proposed by Cornu for the study of high temperatures, based on the principle that in certain crystals the amount of the rotation of the plane of polarization depends on the temperature. As quartz can be submitted to a wide range of temperature, it is considered to be specially adapted for the application of this method in determining high temperatures.—'''Overflowing''' or '''mercurial-weight thermometer,''' a mercury-thermometer consisting of a bulb with a short piece of fine stem perfectly filled with mercury at 0° C. Any higher temperature is determined by weighing the quantity of mercury expelled, instead of by measuring it volumetrically, as in the ordinary mercurial stem-thermometer.—'''Radiation thermometer.''' See ''terrestrial-radiation thermometer'' and ''solar-radiation thermometer''.—'''Réaumur thermometer.''' See def. 1.—'''Registering thermometer,''' a self-registering thermometer; a maximum or minimum thermometer.—'''Six's thermometer,''' a self-registering thermometer, invented by J. Six in 1781, combining in one instrument the registration of maximum and minimum temperatures: for many years very widely used, but now generally superseded by",
+   "c1s2": "separate maximum and minimum instruments.—'''Sling-thermometer''', a thermometer with which the temperature of the air is obtained by whirling the instrument in the free air. The resulting rapid convection brings the temperature of the thermometer into close accordance with the temperature of the air.—'''Solar-radiation thermometer''', a thermometer for measuring the intensity of solar radiation. A form frequently adopted for this purpose is the ''black-bulb thermometer in vacuo'', first suggested by Sir John Herschel. It consists of a sensitive mercurial thermometer having the bulb and about an inch of the stem covered with lampblack. The whole is inclosed in a glass tube, of which one end is blown into a large bulb in the center of which is fixed the bulb of the thermometer, and the tube is then exhausted of air. The thermometer-bulb thus prepared absorbs all the solar heat that falls upon it, and loses none by convection. With the black-bulb thermometer there is frequently used a bright-bulb thermometer similarly incased. This has its bulb covered with polished silver, or some equivalent coating, which reflects most of the radiation that falls upon it. The difference between the readings of these two instruments is assumed to measure the intensity of solar radiation.—'''Submarine thermometer.''' Same as ''deep-sea thermometer''.—'''Terrestrial-radiation thermometer''', a minimum thermometer used to register the cooling of the earth's surface below the temperature of the air by nocturnal radiation. The bulb of the thermometer is generally shaped with special regard to obtaining a high degree of sensitiveness. Also called ''nocturnal-radiation thermometer''.—'''Upsetting thermometer''', a form of mercurial thermometer devised by Negretti and Zambra for registering the temperature at any desired time. The registration is effected by inverting the instrument, after which it remains unaltered until it is reset. By means of clockwork, the upset may be made to occur automatically at any desired time, and a series of such thermometers constitutes a method for obtaining hourly temperatures. The instrument finds its principal use as a deep-sea thermometer. See above.—'''Water-steam thermometer''', a proposed form of thermometer in which the thermometric substance is saturated water-vapor, and in which the temperature is given from the pressure of the vapor as measured by the height",
+   "c1s3": "{{smaller|of the water-column it can support.—'''Wet-bulb thermometer.''' See ''psychrometer.''}}\n\n'''thermometric''' (thėr-mọ̄-met′rik), ''a.'' [= F. ''thermométrique''; as ''thermometer'' + ''-ic.''] 1. Of or pertaining to a thermometer: as, the ''thermometric'' scale or tube.—2. Made by means of a thermometer: as, ''thermometric'' observations.—{{smaller|'''Thermometric steam-gage,''' a form of steam-gage which shows the amount of pressure in a boiler by the degree of expansion of a fluid at the temperature produced by the pressure. ''E. H. Knight.''}}\n\n'''thermometrical''' (thėr-mọ̄-met′ri-kal), ''a.'' [< ''thermometric'' + ''-al.''] Same as ''thermometric.'' ''Boyle'', Works, II. 466.\n\n'''thermometrically''' (thėr-mọ̄-met′ri-kal-i), ''adv.'' In a thermometrical manner; by means of a thermometer.\n\n'''thermometrograph''' (thėr-mọ̄-met′rọ̄-gräf), ''n.'' [= F. ''thermométrographe'', < Gr. θέρμη, heat, + μέτρον, measure, + γράφειν, write.] A self-registering thermometer, especially one which registers the maximum or minimum temperature during long periods. Also ''thermetrograph.''\n\n'''thermometry''' (thėr-mom′e-tri), ''n.'' [< Gr. θέρμη, heat, + -μετρία, < μέτρον, measure.] The art of measuring temperature. {{smaller|A numerical unit of temperature difference is derived from the measurable physical effects produced in bodies by heat—for example, linear expansion, volumetric expansion, change of gaseous elastic pressure, and change in electric resistance. In the customary use of the thermometer, changes in temperature are assumed to be directly proportional to the ob-}}",
+   "c2s1": "served changes in the thermometric material, and temperature units are defined in terms of the particular material and phenomenon adopted. The thermometric unit at present (1891) adopted by the International Bureau of Weights and Measures is one centigrade degree, or the hundredth part of the fractional increase of pressure of a volume of pure dry gas originally at a pressure of one standard atmosphere, and heated from the standard freezing-point to the standard boiling-point of water. With this unit, increments of temperature are closely proportional to increments of heat, and the air- (or gas-)thermometer of constant volume is the adopted instrumental standard. The air-thermometer, however, is not adapted to ordinary uses, and it is the object of thermometry to obtain comparable temperatures with convenient and portable instruments. The expansion of liquids is closely proportional to successive increments of heat, and is taken as the basis of the usual secondary thermometric standards. It should be observed, however, that in general the subject of measurement is not the simple expansion of the liquid, but the differential expansion of the liquid and the glass bulb in which it is contained; and from the standpoint of precise thermometry it is in this uncertain, irregular, and varying behavior of the glass that the principal residual discrepancies of normal mercurial thermometers lie. The most important of these sources of error in mercurial thermometers is a change in the zero-point with time and with the temperatures to which the thermometers are exposed. This change depends upon the nature of the glass. Glass of special composition is now used in the construction of thermometers, which will practically eliminate this source of error. The method of graduating thermometers between two fiducial points, instead of by volume, was an advance in construction adopted by Fahren-",
+   "c2s2": "{{smaller block|heit that first made possible the construction of comparable thermometers. The adoption later of the freezing-point and the boiling-point of water for these two standard temperatures brought different kinds of thermometers into substantial agreement. In the recent progress of precise thermometry, residual sources of error have been discovered, and outstanding discrepancies have been investigated, so as to render possible the reduction of all observed temperatures to the thermodynamic scale.}}\n\n'''thermomotive''' (thėr-mọ̄-mō′tiv), ''a.'' [< Gr. θέρμη, heat, + E. ''motive.''] Broadly, pertaining to or derived from molar motion produced by heat, as in any heat-engine, but more particularly used with reference to heat-engines in which motion is derived from air or other gas expanded by heat: as, ''thermomotive'' power; ''thermomotive'' effect; ''thermomotive'' efficiency.\n\n'''thermomotor''' (thėr-mọ̄-mō′tọr), ''n.'' [< Gr. θέρμη, heat, + LL. ''motor,'' a mover.] A heat-engine, particularly a so-called caloric engine, or an air-engine driven by the expansive force of heated air. Compare ''gas-engine, heat-engine,'' and ''caloric engine'' (under ''caloric'').\n\n'''thermomultiplier''' (thėr-mọ̄-mul′ti-plī-ėr), ''n.'' [< Gr. θέρμη, heat, + E. ''multiplier.''] Same as ''thermopile.'' See the quotation.\n\n{{smaller block|The discoveries of Oersted and Seebeck led to the construction of an instrument for measuring temperature incomparably more delicate than any previously known. To distinguish it from the ordinary thermometer, this instrument is called the ''thermomultiplier.''\n{{right|''W. R. Grove,'' Corr. of Physical Forces, iii.}}}}\n\n'''thermonatrite''' (thėr-mọ̄-nā′trīt), ''n.'' [< Gr. θέρμη, heat, + E. ''natron'' + ''-ite''<sup>2</sup>.] Hydrous",
+   "c2s3": "sodium carbonate (Na<sub>2</sub>CO<sub>3</sub> + H<sub>2</sub>O), occurring chiefly as an efflorescence in connection with saline lakes.\n\n'''thermo-pair''' (thėr′mō-pãr), ''n.'' [< Gr. θέρμη, heat, + E. ''pair''<sup>1</sup>.] A thermo-electric element or couple. See ''thermo-electricity.''\n\n'''thermopalpation''' (thėr″mō-pal-pā′shọn), ''n.'' [< Gr. θέρμη, heat, + L. ''palpatio(n-)'', a stroking: see ''palpation.''] Palpation of the surface of the body to determine temperature, especially to determine topographical differences of temperature with a view to determine the position and condition of internal organs.\n\n'''thermophone''' (thėr′mō-fōn), ''n.'' [< Gr. θέρμη, heat, + φωνή, a sound.] An electrical instrument in which sounds are produced by the changes in the circuit due to variations of temperature.\n\n'''thermopile''' (thėr′mō-pīl), ''n.'' [< Gr. θέρμη, heat, + E. ''pile''<sup>2</sup>.] A thermo-electric battery, especially as arranged for the measurement of small quantities of radiant heat. See ''thermo-electricity.''\n\n'''thermoregulator''' (thėr-mō-reg′ū-lā-tor), ''n.'' [< Gr. θέρμη, heat, + E. ''regulator.''] A device for regulating the temperature of a heating-apparatus.\n\n'''thermoscope''' (thėr′mō-skōp), ''n.'' [= F. ''thermoscope'' = Sp. It. ''termoscopio'', < Gr. θέρμη, heat, + σκοπεῖν, view, examine.] An instrument or a device for indicating variations in temperature without measuring their amount. {{smaller|The name was first applied by Count Rumford to an instrument invented by him, resembling the differential thermometer}}",
+   "c2s4": "of Leslie. Out of an indefinite number of thermoscopes, a class of chromatic thermoscopes may be mentioned in which changes in temperature are indicated by changes in the shade or the color of a substance coated with certain chemical preparations. These have been used to some extent for indicating a rise in temperature caused",
+   "c3s1": "{{smaller|by the heating of a journal in machinery. Thermoscopes consisting of a tube containing air or mercury, and having an adjustable scale, or a scale limited to a few degrees, are used in machines for testing lubricants, in appliances for physical research, as in Osborne's esthermoscope, and in diagnosis, as in Dr. Seguin's thermoscope for detecting minute variations in the temperature of the body.}}\n\n'''thermoscopic''' (thėr-mọ̄-skop′ik), ''a.'' [< ''thermoscope'' + ''-ic.''] Pertaining to the thermoscope; made by means of the thermoscope: as, ''thermoscopic'' observations. ''Grove.''\n\n'''thermoscopical''' (thėr-mọ̄-skop′i-ka̤l), ''a.'' [< ''thermoscopic'' + ''-al.''] Same as ''thermoscopic.''\n\n'''thermosiphon''' (thėr-mọ̄-sī′fo̤n), ''n.'' [< Gr. θέρμη, heat, + σίφων, siphon.] An arrangement of siphon-tubes serving to induce circulation of water in a heating apparatus.\n\n'''thermostat''' (thėr′mọ̄-stat), ''n.'' [< Gr. θέρμη, heat, + στατός, verbal adj. of ἱστάναι, stand: see ''static.''] An automatic instrument or apparatus for regulating temperature. {{smaller|It is essentially a modification of the thermometer, so arranged that, in place of indicating thermal variations, it controls the source of heat or of ventilation, and thus indirectly regulates the temperature. One of the earliest forms of thermostat was that devised by Dr. Ure. It consisted of a bar composed of two metals, say steel and copper, having different degrees of expansion under the same temperature. This bar, when fixed in position, was made by simple mechanical means to open a furnace-door, move a damper, or open a window, by means of the bending of the bar under the influence of an increase in heat. Other forms of this thermostat have since been used to make or break}}",
+   "c3c1": "{{c|Thermostat.}}\n{{c|''a'', base; ''b'', involute expansion-strip, composed of two metals having different coefficients of expansion, as brass and steel; ''c'', adjustment-screw, forming part of an electric circuit whenever ''b'' is expanded by heat so as to touch the point of the screw; ''d'', ''d'', conducting wires.}}",
+   "c3s2": "{{smaller block|an electric current, and thus move an armature that controls a damper, steam-valve, or other heat-regulating mechanism. Another form consists of a balanced thermometer that, under the movements of the mercury in a tube pivoted in the center in a horizontal position, would rise or fall, and thus control a damper or fire-door. Another form consists of a thermometer resembling a thermo-electric alarm (see ''thermo-electric''), except that the closing of the circuit by the rise of the mercury in the tube operates a fire-door or damper in place of sounding an alarm. Where a thermostat is merely used to ring a bell, it is called a ''thermostatic alarm.'' A very simple and yet delicately responsive form is a slender bar of gutta-percha, fixed at one end, and attached at the other to a lever, which is caused to act by the expansion or contraction of the bar. Another form of thermostat consists of a bent tube partly filled with mercury. The heat expands the air in the larger end of the tube and displaces the mercury, and this in turn moves a piston controlling, by means of some mechanical device, a steam-valve or damper. Another form, used with steam-heating furnaces, consists of an elastic diaphragm in a cylinder, the pressure of the steam against the diaphragm serving to move a piston that controls the damper of the furnace. Such appliances are also called ''heat-regulators.'' More recently, the name has been given to fusible plugs used to control automatic sprinklers, a rise in the temperature causing the plug to melt and release the water. This, however, is only a trade use of the word.}}\n\n'''thermostatic''' (thėr-mō-stat′ik), ''a.'' [< ''thermostat'' + ''-ic.''] Pertaining to the thermostat; characterized by the presence of a thermostat; involving the principle of the thermostat.\n\n'''thermostatically''' (thėr-mō-stat′i-kal-i), ''adv.'' By means of a thermostat: as, a ''thermostatically'' adjusted radiator.\n\n'''thermostatics''' (thėr-mō-stat′iks), ''n.'' [Pl. of ''thermostatic'' (see ''-ics'').] The theory of the equilibrium of heat. See the quotation under ''ther-''",
+   "c3s3": "''mokinematics.''\n\n'''thermotaxic''' (thėr-mō-tak′sik), ''a.'' [Prop. *''thermotactic''; < ''thermotaxis'' (''-tact-'') + ''-ic''.] In ''physiol.'', pertaining to regulation of the temperature of the body, or the adjustment of thermogenesis and thermolysis so as to produce a certain temperature.\n\n'''thermotaxis''' (thėr-mō-tak′sis), ''n.'' [NL., < Gr. θέρμη, heat, + τάξις, order, arrangement.] The regulation of the bodily temperature, or the adjustment of thermogenesis and thermolysis so as to secure a certain temperature.\n\n'''thermotelephone''' (thėr-mọ̄-tel′ẹ̄-fōn), ''n.'' [< Gr. θέρμη, heat, + E. ''telephone''.] 1. A telephone receiver in which the changes of length, due to"
+  },
+  "figure_files": {
+   "c3f1": "century v08 p0088 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1679,
+     1083,
+     2301,
+     1534
+    ],
+    "caption": [
+     1643,
+     1543,
+     2355,
+     1652
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1675,
+     1078,
+     2232,
+     1531
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 4444,
+    "output_tokens": 95,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 12,
+    "input_tokens": 9394,
+    "output_tokens": 8529,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 32568
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|thermometer|6284|thermotelephone}}</noinclude>into which any desired part of the mercury can be drawn off. This device enables the thermometer to be used over a wide range of temperature, and the scale to be graduated to small fractions of a degree, without increasing the length of the stem. For each different state of the instrument, the temperature corresponding to some part of the scale must be determined by comparison with a standard thermometer.—'''Methyl-butyrate thermometer,''' one in which the thermometric substance is methyl butyrate. ''Sir William Thomson'', Encyc. Brit., XI. 569.—'''Minimum thermometer,''' a thermometer that registers the minimum temperature to which it is exposed. The alcohol minimum, devised by Rutherford in 1794, is now universally used. The registration is effected by a light steel or glass index enlarged and rounded at the end, and wholly immersed in the column of alcohol. When the temperature falls, the index is carried toward the bulb by the surface-tension at the end of the contracting liquid column, and when the temperature rises the alcohol flows around and past the index, leaving it to mark the lowest temperature.—'''Optical thermometer,''' a thermometer proposed by Cornu for the study of high temperatures, based on the principle that in certain crystals the amount of the rotation of the plane of polarization depends on the temperature. As quartz can be submitted to a wide range of temperature, it is considered to be specially adapted for the application of this method in determining high temperatures.—'''Overflowing''' or '''mercurial-weight thermometer,''' a mercury-thermometer consisting of a bulb with a short piece of fine stem perfectly filled with mercury at 0° C. Any higher temperature is determined by weighing the quantity of mercury expelled, instead of by measuring it volumetrically, as in the ordinary mercurial stem-thermometer.—'''Radiation thermometer.''' See ''terrestrial-radiation thermometer'' and ''solar-radiation thermometer''.—'''Réaumur thermometer.''' See def. 1.—'''Registering thermometer,''' a self-registering thermometer; a maximum or minimum thermometer.—'''Six's thermometer,''' a self-registering thermometer, invented by J. Six in 1781, combining in one instrument the registration of maximum and minimum temperatures: for many years very widely used, but now generally superseded by separate maximum and minimum instruments.—'''Sling-thermometer''', a thermometer with which the temperature of the air is obtained by whirling the instrument in the free air. The resulting rapid convection brings the temperature of the thermometer into close accordance with the temperature of the air.—'''Solar-radiation thermometer''', a thermometer for measuring the intensity of solar radiation. A form frequently adopted for this purpose is the ''black-bulb thermometer in vacuo'', first suggested by Sir John Herschel. It consists of a sensitive mercurial thermometer having the bulb and about an inch of the stem covered with lampblack. The whole is inclosed in a glass tube, of which one end is blown into a large bulb in the center of which is fixed the bulb of the thermometer, and the tube is then exhausted of air. The thermometer-bulb thus prepared absorbs all the solar heat that falls upon it, and loses none by convection. With the black-bulb thermometer there is frequently used a bright-bulb thermometer similarly incased. This has its bulb covered with polished silver, or some equivalent coating, which reflects most of the radiation that falls upon it. The difference between the readings of these two instruments is assumed to measure the intensity of solar radiation.—'''Submarine thermometer.''' Same as ''deep-sea thermometer''.—'''Terrestrial-radiation thermometer''', a minimum thermometer used to register the cooling of the earth's surface below the temperature of the air by nocturnal radiation. The bulb of the thermometer is generally shaped with special regard to obtaining a high degree of sensitiveness. Also called ''nocturnal-radiation thermometer''.—'''Upsetting thermometer''', a form of mercurial thermometer devised by Negretti and Zambra for registering the temperature at any desired time. The registration is effected by inverting the instrument, after which it remains unaltered until it is reset. By means of clockwork, the upset may be made to occur automatically at any desired time, and a series of such thermometers constitutes a method for obtaining hourly temperatures. The instrument finds its principal use as a deep-sea thermometer. See above.—'''Water-steam thermometer''', a proposed form of thermometer in which the thermometric substance is saturated water-vapor, and in which the temperature is given from the pressure of the vapor as measured by the height {{smaller|of the water-column it can support.—'''Wet-bulb thermometer.''' See ''psychrometer.''}}\n\n'''thermometric''' (thėr-mọ̄-met′rik), ''a.'' [= F. ''thermométrique''; as ''thermometer'' + ''-ic.''] 1. Of or pertaining to a thermometer: as, the ''thermometric'' scale or tube.—2. Made by means of a thermometer: as, ''thermometric'' observations.—{{smaller|'''Thermometric steam-gage,''' a form of steam-gage which shows the amount of pressure in a boiler by the degree of expansion of a fluid at the temperature produced by the pressure. ''E. H. Knight.''}}\n\n'''thermometrical''' (thėr-mọ̄-met′ri-kal), ''a.'' [< ''thermometric'' + ''-al.''] Same as ''thermometric.'' ''Boyle'', Works, II. 466.\n\n'''thermometrically''' (thėr-mọ̄-met′ri-kal-i), ''adv.'' In a thermometrical manner; by means of a thermometer.\n\n'''thermometrograph''' (thėr-mọ̄-met′rọ̄-gräf), ''n.'' [= F. ''thermométrographe'', < Gr. θέρμη, heat, + μέτρον, measure, + γράφειν, write.] A self-registering thermometer, especially one which registers the maximum or minimum temperature during long periods. Also ''thermetrograph.''\n\n'''thermometry''' (thėr-mom′e-tri), ''n.'' [< Gr. θέρμη, heat, + -μετρία, < μέτρον, measure.] The art of measuring temperature. {{smaller|A numerical unit of temperature difference is derived from the measurable physical effects produced in bodies by heat—for example, linear expansion, volumetric expansion, change of gaseous elastic pressure, and change in electric resistance. In the customary use of the thermometer, changes in temperature are assumed to be directly proportional to the observed}} changes in the thermometric material, and temperature units are defined in terms of the particular material and phenomenon adopted. The thermometric unit at present (1891) adopted by the International Bureau of Weights and Measures is one centigrade degree, or the hundredth part of the fractional increase of pressure of a volume of pure dry gas originally at a pressure of one standard atmosphere, and heated from the standard freezing-point to the standard boiling-point of water. With this unit, increments of temperature are closely proportional to increments of heat, and the air- (or gas-)thermometer of constant volume is the adopted instrumental standard. The air-thermometer, however, is not adapted to ordinary uses, and it is the object of thermometry to obtain comparable temperatures with convenient and portable instruments. The expansion of liquids is closely proportional to successive increments of heat, and is taken as the basis of the usual secondary thermometric standards. It should be observed, however, that in general the subject of measurement is not the simple expansion of the liquid, but the differential expansion of the liquid and the glass bulb in which it is contained; and from the standpoint of precise thermometry it is in this uncertain, irregular, and varying behavior of the glass that the principal residual discrepancies of normal mercurial thermometers lie. The most important of these sources of error in mercurial thermometers is a change in the zero-point with time and with the temperatures to which the thermometers are exposed. This change depends upon the nature of the glass. Glass of special composition is now used in the construction of thermometers, which will practically eliminate this source of error. The method of graduating thermometers between two fiducial points, instead of by volume, was an advance in construction adopted by Fahren{{smaller block|heit that first made possible the construction of comparable thermometers. The adoption later of the freezing-point and the boiling-point of water for these two standard temperatures brought different kinds of thermometers into substantial agreement. In the recent progress of precise thermometry, residual sources of error have been discovered, and outstanding discrepancies have been investigated, so as to render possible the reduction of all observed temperatures to the thermodynamic scale.}}\n\n'''thermomotive''' (thėr-mọ̄-mō′tiv), ''a.'' [< Gr. θέρμη, heat, + E. ''motive.''] Broadly, pertaining to or derived from molar motion produced by heat, as in any heat-engine, but more particularly used with reference to heat-engines in which motion is derived from air or other gas expanded by heat: as, ''thermomotive'' power; ''thermomotive'' effect; ''thermomotive'' efficiency.\n\n'''thermomotor''' (thėr-mọ̄-mō′tọr), ''n.'' [< Gr. θέρμη, heat, + LL. ''motor,'' a mover.] A heat-engine, particularly a so-called caloric engine, or an air-engine driven by the expansive force of heated air. Compare ''gas-engine, heat-engine,'' and ''caloric engine'' (under ''caloric'').\n\n'''thermomultiplier''' (thėr-mọ̄-mul′ti-plī-ėr), ''n.'' [< Gr. θέρμη, heat, + E. ''multiplier.''] Same as ''thermopile.'' See the quotation.\n\n{{smaller block|The discoveries of Oersted and Seebeck led to the construction of an instrument for measuring temperature incomparably more delicate than any previously known. To distinguish it from the ordinary thermometer, this instrument is called the ''thermomultiplier.''\n{{right|''W. R. Grove,'' Corr. of Physical Forces, iii.}}}}\n\n'''thermonatrite''' (thėr-mọ̄-nā′trīt), ''n.'' [< Gr. θέρμη, heat, + E. ''natron'' + ''-ite''<sup>2</sup>.] Hydrous sodium carbonate (Na<sub>2</sub>CO<sub>3</sub> + H<sub>2</sub>O), occurring chiefly as an efflorescence in connection with saline lakes.\n\n'''thermo-pair''' (thėr′mō-pãr), ''n.'' [< Gr. θέρμη, heat, + E. ''pair''<sup>1</sup>.] A thermo-electric element or couple. See ''thermo-electricity.''\n\n'''thermopalpation''' (thėr″mō-pal-pā′shọn), ''n.'' [< Gr. θέρμη, heat, + L. ''palpatio(n-)'', a stroking: see ''palpation.''] Palpation of the surface of the body to determine temperature, especially to determine topographical differences of temperature with a view to determine the position and condition of internal organs.\n\n'''thermophone''' (thėr′mō-fōn), ''n.'' [< Gr. θέρμη, heat, + φωνή, a sound.] An electrical instrument in which sounds are produced by the changes in the circuit due to variations of temperature.\n\n'''thermopile''' (thėr′mō-pīl), ''n.'' [< Gr. θέρμη, heat, + E. ''pile''<sup>2</sup>.] A thermo-electric battery, especially as arranged for the measurement of small quantities of radiant heat. See ''thermo-electricity.''\n\n'''thermoregulator''' (thėr-mō-reg′ū-lā-tor), ''n.'' [< Gr. θέρμη, heat, + E. ''regulator.''] A device for regulating the temperature of a heating-apparatus.\n\n'''thermoscope''' (thėr′mō-skōp), ''n.'' [= F. ''thermoscope'' = Sp. It. ''termoscopio'', < Gr. θέρμη, heat, + σκοπεῖν, view, examine.] An instrument or a device for indicating variations in temperature without measuring their amount. {{smaller|The name was first applied by Count Rumford to an instrument invented by him, resembling the differential thermometer}} of Leslie. Out of an indefinite number of thermoscopes, a class of chromatic thermoscopes may be mentioned in which changes in temperature are indicated by changes in the shade or the color of a substance coated with certain chemical preparations. These have been used to some extent for indicating a rise in temperature caused {{smaller|by the heating of a journal in machinery. Thermoscopes consisting of a tube containing air or mercury, and having an adjustable scale, or a scale limited to a few degrees, are used in machines for testing lubricants, in appliances for physical research, as in Osborne's esthermoscope, and in diagnosis, as in Dr. Seguin's thermoscope for detecting minute variations in the temperature of the body.}}\n\n'''thermoscopic''' (thėr-mọ̄-skop′ik), ''a.'' [< ''thermoscope'' + ''-ic.''] Pertaining to the thermoscope; made by means of the thermoscope: as, ''thermoscopic'' observations. ''Grove.''\n\n'''thermoscopical''' (thėr-mọ̄-skop′i-ka̤l), ''a.'' [< ''thermoscopic'' + ''-al.''] Same as ''thermoscopic.''\n\n'''thermosiphon''' (thėr-mọ̄-sī′fo̤n), ''n.'' [< Gr. θέρμη, heat, + σίφων, siphon.] An arrangement of siphon-tubes serving to induce circulation of water in a heating apparatus.\n\n'''thermostat''' (thėr′mọ̄-stat), ''n.'' [< Gr. θέρμη, heat, + στατός, verbal adj. of ἱστάναι, stand: see ''static.''] An automatic instrument or apparatus for regulating temperature. {{smaller|It is essentially a modification of the thermometer, so arranged that, in place of indicating thermal variations, it controls the source of heat or of ventilation, and thus indirectly regulates the temperature. One of the earliest forms of thermostat was that devised by Dr. Ure. It consisted of a bar composed of two metals, say steel and copper, having different degrees of expansion under the same temperature. This bar, when fixed in position, was made by simple mechanical means to open a furnace-door, move a damper, or open a window, by means of the bending of the bar under the influence of an increase in heat. Other forms of this thermostat have since been used to make or break an electric current, and thus move an armature that controls a damper, steam-valve, or other heat-regulating mechanism. Another form consists of a balanced thermometer that, under the movements of the mercury in a tube pivoted in the center in a horizontal position, would rise or fall, and thus control a damper or fire-door. Another form consists of a thermometer resembling a thermo-electric alarm (see ''thermo-electric''), except that the closing of the circuit by the rise of the mercury in the tube operates a fire-door or damper in place of sounding an alarm. Where a thermostat is merely used to ring a bell, it is called a ''thermostatic alarm.'' A very simple and yet delicately responsive form is a slender bar of gutta-percha, fixed at one end, and attached at the other to a lever, which is caused to act by the expansion or contraction of the bar. Another form of thermostat consists of a bent tube partly filled with mercury. The heat expands the air in the larger end of the tube and displaces the mercury, and this in turn moves a piston controlling, by means of some mechanical device, a steam-valve or damper. Another form, used with steam-heating furnaces, consists of an elastic diaphragm in a cylinder, the pressure of the steam against the diaphragm serving to move a piston that controls the damper of the furnace. Such appliances are also called ''heat-regulators.'' More recently, the name has been given to fusible plugs used to control automatic sprinklers, a rise in the temperature causing the plug to melt and release the water. This, however, is only a trade use of the word.}}\n\n[[File:century v08 p0088 c3f1.png|center|360px]]\n{{c|Thermostat.}}\n{{c|''a'', base; ''b'', involute expansion-strip, composed of two metals having different coefficients of expansion, as brass and steel; ''c'', adjustment-screw, forming part of an electric circuit whenever ''b'' is expanded by heat so as to touch the point of the screw; ''d'', ''d'', conducting wires.}}\n\n'''thermostatic''' (thėr-mō-stat′ik), ''a.'' [< ''thermostat'' + ''-ic.''] Pertaining to the thermostat; characterized by the presence of a thermostat; involving the principle of the thermostat.\n\n'''thermostatically''' (thėr-mō-stat′i-kal-i), ''adv.'' By means of a thermostat: as, a ''thermostatically'' adjusted radiator.\n\n'''thermostatics''' (thėr-mō-stat′iks), ''n.'' [Pl. of ''thermostatic'' (see ''-ics'').] The theory of the equilibrium of heat. See the quotation under ''thermokinematics.''\n\n'''thermotaxic''' (thėr-mō-tak′sik), ''a.'' [Prop. *''thermotactic''; < ''thermotaxis'' (''-tact-'') + ''-ic''.] In ''physiol.'', pertaining to regulation of the temperature of the body, or the adjustment of thermogenesis and thermolysis so as to produce a certain temperature.\n\n'''thermotaxis''' (thėr-mō-tak′sis), ''n.'' [NL., < Gr. θέρμη, heat, + τάξις, order, arrangement.] The regulation of the bodily temperature, or the adjustment of thermogenesis and thermolysis so as to secure a certain temperature.\n\n'''thermotelephone''' (thėr-mọ̄-tel′ẹ̄-fōn), ''n.'' [< Gr. θέρμη, heat, + E. ''telephone''.] 1. A telephone receiver in which the changes of length, due to<noinclude><references/></noinclude>"
+}
