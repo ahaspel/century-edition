@@ -1,0 +1,273 @@
+{
+ "volume": 8,
+ "page_number": 179,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n178.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n178.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-13",
+  "angle": 0.0,
+  "column_width": 865,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     83,
+     2321,
+     121
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     121,
+     865,
+     1187
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1187,
+     865,
+     2171
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2171,
+     865,
+     3214
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     865,
+     134,
+     1599,
+     799
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     865,
+     801,
+     1599,
+     929
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     865,
+     929,
+     1599,
+     2017
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     865,
+     2017,
+     1599,
+     2987
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     865,
+     2987,
+     1599,
+     3214
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1599,
+     121,
+     2321,
+     824
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1599,
+     824,
+     2321,
+     1363
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1599,
+     1363,
+     2321,
+     2341
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1599,
+     2341,
+     2321,
+     3083
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1599,
+     3089,
+     2321,
+     3201
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|tone|6375|tongue}}",
+   "c1s1": "¶\n\n{{smaller|'''To tone up''', to give a higher tone or character to; make more vigorous or forcible; heighten; strengthen.}}\n\nII. ''intrans.'' 1. To take on a particular tone; specifically, to assume color or tint.\n\n{{smaller block|If the prints are fumed in a box, and are left in too long, they will ''tone'' to a cold blue.{{right|''Lea'', Photography, p. 277.}}}}\n\n2. To harmonize in tone, color, or tint.\n\n{{smaller block|Beaded passementerie, which ''tones'' in with the delicate shades of blue, and pink chiffon, and dark velvet.{{right|''The Spectator'' (St. Louis), XI. 327.}}}}\n\n{{smaller|'''To tone up''', to gain in tone, strength, or vigor.}}\n\n{{smaller block|The Bensons passed through Washington the other day from the South, and spoke of going to Atlantic City to ''tone up'' a little before the season.{{right|''C. D. Warner'', Their Pilgrimage, p. 28.}}}}\n\n'''tone<sup>2</sup>†''' (tōn), ''indef. pron.'' [ME. ''tone, ton, toon, tane'', in ''the tone'' (Sc. ''the tane''), a misdivision of ''thet one'', that one. Cf. ''tother''.] One: originally and usually preceded by ''the'', and usually followed by ''the tother''. See etymology. Compare ''tother''.\n\n{{smaller block|Thou sulde doo bathe [both] . . . ''the tane'' and ''the tother''.{{right|''Hampole'', Prose Treatises (E. E. T. S.), p. 29.}}}}\n\n{{smaller block|''The toon'' yeveth conysaunce,<br>And ''the tother'' ignoraunce.{{right|''Rom. of the Rose'', l. 5559.}}}}\n\n{{smaller block|Many other thinges, touchyng the pestilent secte of Luther and Tyndale, by ''the tone'' bygone in Saxony: and by ''the tother'' laboured to be brought into England.{{right|''Sir T. More'', Worship of Images, Utopia, Int., p. xci.}}}}\n\n'''tone-color''' (tōn′kul″o̤r), ''n.'' In ''musical acoustics'', same as ''timbre''.\n\n{{smaller block|The variety of ''tone-colour'' . . . and the brilliant effects obtainable by a full-sized band of artist-performers.{{right|''Grove'', Dict. Music, IV. 472.}}}}",
+   "c1s2": "¶\n'''toned''' (tōnd), ''a.'' [< ''tone''<sup>1</sup> + ''-ed''<sup>2</sup>.] Having tone or a tone: much used in composition: as, high-''toned''; shrill-''toned''. {{smaller|Specifically—(''a'') In a state of proper tension; strung.}}\n\n{{smaller block|It may be doubted whether there ever existed a human being whose mind was quite as firmly ''toned'' at eighty as at forty.\n{{right|''Macaulay'', Hist. Eng., xiv.}}}}\n\n{{smaller|(''b'') Tinted; slightly colored: noting paper and other fabrics: as, a two-''toned'' ribbon. (''c'') In ''photog.'', treated with chemicals to improve the color.—'''Toned paper''', paper of a very pale amber tint, intermediate between warm buff and ivory-white.}}\n\n{{smaller block|What is often called ''toned paper'' is nearer the natural color—a yellowish shade—of the pulp.\n{{right|''Harper's Mag.'', LXXV. 120.}}}}\n\n'''toneless''' (tōn′les), ''a.'' [< ''tone''<sup>1</sup> + ''-less''.] Without tone; unmodulated; unaccentuated.\n\n{{smaller block|His voice . . . was to Grandcourt's ''toneless'' drawl . . . as the deep notes of a violoncello to the broken discourse of poultry and other lazy gentry in the afternoon sunshine.\n{{right|''George Eliot'', Daniel Deronda, xxix.}}}}\n\n'''tonelessness''' (tōn′les-nes), ''n.'' The quality or state of being toneless; lack of tone, in any sense.\n\n{{smaller block|Any dulness or ''tonelessness'' on percussion at one apex must, in a doubtful case, be regarded as of great significance.\n{{right|''Lancet'', 1889, II. 1294.}}}}\n\n'''tone-master''' (tōn′mȧs″tėr), ''n.'' A master or expert in the artistic use of tones; a trained and experienced musical composer.\n\n'''tone-measurer''' (tōn′mezh″ṳ̄r-ėr), ''n.'' Same as ''monochord''.",
+   "c1s3": "¶\n\n'''tone-painting''' (tōn′pān″ting), ''n.'' The art, process, or result of depicting by means of tones; musical description or suggestion.\n\n'''toner''' (tō′nėr), ''n.'' One who or that which tones.\n\n{{smaller block|Sulphuric and nitric acids have some claim to be regarded as ''toners'' of the vasomotor nerves.\n{{right|''Medical News'', LIII. 499.}}}}\n\n'''tone-relationship''' (tōn′rē-lā″shọn-ship), ''n.'' In ''music'', same as ''relation'', 9.\n\n'''tone-syllable''' (tōn′sil″a̤-bl), ''n.'' An accented syllable. ''Imp. Dict.''\n\n'''tong<sup>1</sup>''' (tông), ''n.'' [< ME. ''tonge, tange'', < AS. ''tange, tonge'', also ''tang'' = OFries. ''tange'' = MD. ''tanghe'', D. ''tang'', a pair of tongs or pincers, = MLG. ''tange'' = OHG. ''zanga'', MHG. G. ''zange'' = Icel. ''töng'' (''tang-'') = Sw. ''tång'' = Dan. ''tang'', tongs; cf. OHG. ''zangar'', MHG. ''zanger'', biting, sharp, lively; Teut. √ ''tang'' = Gr. δάκνειν = Skt. √ ''dañç, daç'', bite. Cf. ''tang''<sup>1</sup>.] 1. One of a number of holding- and lifting-instruments of various forms.\n\n{{smaller block|They may be grouped under three types: those consisting of two arms hinged or pivoted together near the upper or handle end, as the common fire-tongs; those consisting of two arms joined together by a spring at the top, as sugar-tongs; and those in which the two arms are joined together by a pivot near the lower end, as the blacksmiths' tongs. Their special names are chiefly descriptive of the shape of the short arms of the two levers that form the biting part or jaw, as ''flat-bit tongs, crook-tongs'', etc. Tongs are also named from their use, as ''bottle-tongs, crucible-tongs, wire-tongs'', etc. (See ''ice-tongs, lazy-tongs, oyster-tongs, pipe-tongs, sugar-tongs''.) Now always used in the plural, and often in the phrase ''pair of tongs'', designating one implement. The plural form is also rarely used as a singular. See cut in next column, and cuts under ''pinching-tongs'' and ''punch''.}}",
+   "c2c1": "{{c|Tongs.}}\n{{c|''a'', crucible-tongs; ''b'', ice-tongs; ''c'', ordinary fire-tongs; ''d'', blacksmiths' tongs; ''e'', bottlers' tongs; ''f'', ''f′'', ''f″'', bottling-pliers; ''g'', pin-tongs; ''h'', watchmakers' tongs; ''i'', pincer-tongs; ''j'', flat-bit tongs; ''k'', crook-bit tongs; ''l'', hoop-tongs; ''m'', smiths' pliers; ''n'', angular-bit tongs; ''o'', hammer-tongs.}}",
+   "c2s1": "{{smaller block|Thu havest clivers [claws] suthe stronge,\nThu tuengst [twingest] thar-mid so [as] doth a ''tonge.''\n{{right|''Owl and Nightingale'' (ed. Wright), l. 156.}}}}\n\n{{smaller block|The ''tonges'' that drow the nayles out\nOf fet, of handes, al about.\n{{right|''Holy Rood'' (E. E. T. S.), p. 188.}}}}\n\n{{smaller block|With that the wicked carle, the maister Smith,\nA paire of red-whot yron ''tongs'' did take\nOut of the burning cinders, and therewith\nUnder his side him nipt. {{right|''Spenser'', F. Q., IV. v. 44.}}}}\n\n{{smaller block|He sat by the fireside, . . . writing the name of his mistress in the ashes with an old ''tongs'' that had lost one of its legs. {{right|''Irving'', Salmagundi, No. 2. (''Davies.'')}}}}\n\n{{smaller block|Sure the shovel and ''tongs''\nTo each other belongs.\n{{right|''Lover'', Widow Machree.}}}}\n\n{{smaller block|[Tongs were formerly used in rough burlesque music:}}\n\n{{smaller block|I have a reasonable good ear in music. Let 's have the ''tongs'' and the bones. {{right|''Shak.'', M. N. D., iv. 1. 32.]}}}}\n\n2. In ''diamond-cutting'', a two-footed wooden stand that has at one end a vise-like iron holder, into which the dop containing the diamond is fastened, holding the diamond against the wheel.—3. ''pl.'' A device for anchoring the body of a car to the track when it is not in use. ''Car-Builder's Dict.''—4. ''pl.'' Trousers. [Slang, New Eng.]\n\n{{smaller block|The boys dressed in ''tongs'', a name for pantaloons or overalls that had come into use. {{right|''S. Judd'', Margaret, i. 6.}}}}\n\n{{smaller block|'''Asparagus-tongs''', a pair of tongs with broad flat blades, one of which has a hooked or turned-up end, to retain the stalks of asparagus. A spoon and a fork are sometimes hinged together in place of the blades.—'''Clam-tongs''', an instrument for tonging clams, like oyster-tongs, but differing in the width of the head, which averages 3½ feet.—'''Coral-tongs''', tongs used in the coral-fishery.—'''Dog-tongs.''' See the quotation.}}",
+   "c2s2": "¶\n{{smaller block|We have never heard of ''dog tongs'' out of Wales. Mr. Owen figures one of these instruments, which it is not easy to describe without an illustration. They were used for catching dogs which were so ill-trained as to fight during the time of service.\n{{right|''N. and Q.'', 7th ser., I. 479.}}}}\n\n'''Hammer and tongs.''' {{smaller|See ''hammer''<sup>1</sup>.—}}'''Sardine-tongs,''' {{smaller|small tongs, like sugar-tongs but with broad flat blades, used for lifting sardines out of the box without breaking them.—}}'''Sliding tongs.''' {{smaller|See ''slide''.—}}'''Tourmalin tongs.''' {{smaller|See ''polariscope''.}}\n\n'''tong<sup>1</sup>''' (tông), ''v.'' [< ''tong''<sup>1</sup>, ''n.''] '''I.''' ''trans.'' To seize, hold, or take with tongs.\n\n{{smaller block|Though there is a planting interest at Mobile, Ala., most of the oysters on sale are of native growth, and ''tonged'' in a part of the bay called the \"gully.\"\n{{right|''Fisheries of U. S.'', V. ii. 548.}}}}\n\n'''II.''' ''intrans.'' To handle or use tongs; capture something, as oysters, with tongs.\n\n{{smaller block|He fishes, he ''tongs'' for oysters.\n{{right|''Scribner's Mag.'', VIII. 512.}}}}\n\n'''tong<sup>2</sup>†''', ''n.'' An old spelling of ''tongue''.\n\n'''tonga''' (tong′gä̤), ''n.'' [< Hind. ''tāngā''.] A light two-wheeled vehicle with wooden axletrees, drawn by ponies or oxen, and much used on the up-country roads in British India.\n\n{{smaller block|The Himalayan ''tonga'' is a thing of delight. It is easily described, for in principle it is the ancient Persian war-chariot, though the accommodation is so modified as to allow four persons to sit in it back to back.\n{{right|''F. M. Crawford'', Mr. Isaacs, ix.}}}}\n\n'''Tonga bean''' (tong′gä̤ bēn). See ''tonka-bean''.\n\n'''Tongan''' (tong′gan), ''a.'' and ''n.'' [< ''Tonga'' (see def.) + ''-an''.] '''I.''' ''a.'' Relating to the Tonga Isl-",
+   "c2s3": "ands. See II.\n\n'''II.''' ''n.'' An inhabitant of the Tonga or Friendly Islands, a group of islands (so called from Tonga or Tonga-tabu, one of the chief islands) and kingdom in the South Pacific, east-south-east of the Fiji Islands.\n\n'''tonge<sup>1</sup>†''', ''n.'' A Middle English form of ''tong''<sup>1</sup>.",
+   "c3s1": "¶\n'''tonge<sup>2</sup>†''', ''n.'' An old spelling of ''tongue.''\n\n'''tonger''' (tông′ėr), ''n.'' [< ''tong''<sup>1</sup> + ''-er''<sup>1</sup>.] One whose occupation is the catching of oysters with tongs. ''Fisheries of U. S.'', II. 515.\n\n'''tonging''' (tông′ing), ''n.'' [Verbal n. of ''tong''<sup>1</sup>, ''v.''] The use of the oyster-tongs; the method or practice of taking oysters with tongs. ''Fisheries of U. S.'', II. 513.\n\n'''tongkang''' (tong′kang′), ''n.'' [E. Ind.] A kind of boat or junk used in the Eastern Archipelago. ''Simmonds.''\n\n'''tongman''' (tông′ma̤n), ''n.''; pl. ''tongmen'' (-men). One who uses the tongs in taking oysters; a tonger. Also ''tongsman.'' ''Fisheries of U. S.'', II. 525.\n\n'''Tongrian beds.''' The name given to the lower division of the Oligocene in Belgium: so called from Tongres in Belgium. It is the equivalent of the Egeln beds of Germany.\n\n'''tongs''' (tôngz), ''n. pl.'' See ''tong''<sup>1</sup>.\n\n'''tongsman''' (tôngz′ma̤n), ''n.'' Same as ''tongman.'' ''Davidson.''",
+   "c3s2": "¶\n'''tongue''' (tung), ''n.'' [An awkward un-English spelling (first used in early mod. E., and appar. simulating the terminal form of F. ''langue'', tongue; cf. ''gangue'' for ''gang'', ''twangue'' for ''twang'', etc.) of what would be reg. mod. *''tong'' or rather *''tung'', early mod. E. also ''toong''; < ME. ''tonge'', ''tunge'', < AS. ''tunge'' = OS. ''tunge'' = OFries. ''tunge'' = MD. ''tonghe'', D. ''tong'' = MLG. LG. ''tunge'' = OHG. ''zungā'', MHG. G. ''zunge'' = Icel. ''tunga'' = Sw. ''tunga'' = Dan. ''tunge'' = Goth. ''tuggō'' = Ir. Gael. ''teanga'' (for *''denga'') = OL. ''dingua'', L. ''lingua'' (> It. ''lingua'' = Sp. ''lengua'' = Pg. ''lingoa'', ''lingua'' = F. ''langue''), tongue; perhaps cognate with OBulg. ''ye<sup>n</sup>zuikŭ'' = Bohem. ''jazykyazuikŭ'', etc., = OPruss. ''insuwis'', tongue, and possibly with Skt. ''jihvā'', Zend ''juhū'', tongue. The Gr. word is entirely different (see ''glossa''). From the L. form of the word are de-",
+   "c3s3": "rived E. ''lingual'', etc., ''language''<sup>1</sup>.] 1. The principal organ of the special sense of taste or the gustatory faculty; the lingual apparatus, or lingua.\n\n{{smaller block|It is usually a fleshy and freely movable mass which partly fills the mouth, and has important functions in the acts of talking and eating. Together with the lips, teeth, and cheeks, the tongue serves to articulate, modulate, or qualify sounds produced in the windpipe, and in man is thus an organ of speech; it is equally concerned in the many natural cries of animals, the songs of birds, etc. It is a direct aid in the process of mastication, in directing food between the teeth, and in the act of swallowing or deglutition, by forcing food and drink from the mouth through the fauces into the pharynx. It is concerned in spitting, and in almost every action in which the mouth takes part. The tongue is often a prehensile organ, as for lapping or licking; sometimes a rasp or file, as in the lion and the snail; sometimes a dart or spear, as in woodpeckers, and in chameleons and many other reptiles. The tongue is rarely rudimentary or wanting in vertebrates, as in some birds and the aglossal batrachians. It is forked in serpents. Its structure and mechanism are more elaborate in some of the lower vertebrates, especially in birds and reptiles, than in mammals. In these last the tongue is chiefly a mass of muscle attached to the hyoid bone and lower jaw, and covered with mucous membrane. (''a'') In man the tongue is placed in the floor of the mouth, between the two branches of the lower jaw. The base or root of the tongue is fixed to the hyoid or tongue-bone; the top, sides, and dorsum are free; a median fold of mucous membrane, the bridle of the tongue, or ''frenum linguæ'', runs to its tip. Like other median or azygous structures, the tongue consists of two symmetrical halves on the right and left of a middle vertical partition, or ''septum linguæ'', of fibrous tissue; another sheet of such tissue, the ''hyoglossal membrane'', connects the under side of the tongue with the hyoid bone. The intrinsic muscular fibers of the tongue constitute the ''lingualis''; the extrinsic muscles (connecting}}",
+   "c3c1": "{{c|Dorsum of Human Tongue (reduced).}}\n{{c|''E'', epiglottis; ''RG'', median glosso-epiglottic recess; ''G'', glandules at base of tongue; ''A'', tonsil; ''Pca'', circumvallate papillæ; ''PM'', median one of these papillæ; ''Pf'', fungiform papillæ; ''PCo'', filiform papillæ; ''PS'', wrinkles and furrows on the edges of the tongue.}}"
+  },
+  "figure_files": {
+   "c2f1": "century v08 p0179 c2f1.png",
+   "c3f1": "century v08 p0179 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     895,
+     135,
+     1569,
+     797
+    ],
+    "caption": [
+     890,
+     801,
+     1593,
+     928
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     891,
+     115,
+     1554,
+     796
+    ]
+   },
+   {
+    "box": [
+     1707,
+     2340,
+     2224,
+     3080
+    ],
+    "caption": [
+     1623,
+     3090,
+     2323,
+     3194
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1702,
+     2338,
+     2232,
+     3090
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 3,
+    "input_tokens": 5887,
+    "output_tokens": 182,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 12,
+    "input_tokens": 8562,
+    "output_tokens": 9936,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 32568
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|tone|6375|tongue}}</noinclude>{{smaller|'''To tone up''', to give a higher tone or character to; make more vigorous or forcible; heighten; strengthen.}}\n\nII. ''intrans.'' 1. To take on a particular tone; specifically, to assume color or tint.\n\n{{smaller block|If the prints are fumed in a box, and are left in too long, they will ''tone'' to a cold blue.{{right|''Lea'', Photography, p. 277.}}}}\n\n2. To harmonize in tone, color, or tint.\n\n{{smaller block|Beaded passementerie, which ''tones'' in with the delicate shades of blue, and pink chiffon, and dark velvet.{{right|''The Spectator'' (St. Louis), XI. 327.}}}}\n\n{{smaller|'''To tone up''', to gain in tone, strength, or vigor.}}\n\n{{smaller block|The Bensons passed through Washington the other day from the South, and spoke of going to Atlantic City to ''tone up'' a little before the season.{{right|''C. D. Warner'', Their Pilgrimage, p. 28.}}}}\n\n'''tone<sup>2</sup>†''' (tōn), ''indef. pron.'' [ME. ''tone, ton, toon, tane'', in ''the tone'' (Sc. ''the tane''), a misdivision of ''thet one'', that one. Cf. ''tother''.] One: originally and usually preceded by ''the'', and usually followed by ''the tother''. See etymology. Compare ''tother''.\n\n{{smaller block|Thou sulde doo bathe [both] . . . ''the tane'' and ''the tother''.{{right|''Hampole'', Prose Treatises (E. E. T. S.), p. 29.}}}}\n\n{{smaller block|''The toon'' yeveth conysaunce,<br>And ''the tother'' ignoraunce.{{right|''Rom. of the Rose'', l. 5559.}}}}\n\n{{smaller block|Many other thinges, touchyng the pestilent secte of Luther and Tyndale, by ''the tone'' bygone in Saxony: and by ''the tother'' laboured to be brought into England.{{right|''Sir T. More'', Worship of Images, Utopia, Int., p. xci.}}}}\n\n'''tone-color''' (tōn′kul″o̤r), ''n.'' In ''musical acoustics'', same as ''timbre''.\n\n{{smaller block|The variety of ''tone-colour'' . . . and the brilliant effects obtainable by a full-sized band of artist-performers.{{right|''Grove'', Dict. Music, IV. 472.}}}}\n\n'''toned''' (tōnd), ''a.'' [< ''tone''<sup>1</sup> + ''-ed''<sup>2</sup>.] Having tone or a tone: much used in composition: as, high-''toned''; shrill-''toned''. {{smaller|Specifically—(''a'') In a state of proper tension; strung.}}\n\n{{smaller block|It may be doubted whether there ever existed a human being whose mind was quite as firmly ''toned'' at eighty as at forty.\n{{right|''Macaulay'', Hist. Eng., xiv.}}}}\n\n{{smaller|(''b'') Tinted; slightly colored: noting paper and other fabrics: as, a two-''toned'' ribbon. (''c'') In ''photog.'', treated with chemicals to improve the color.—'''Toned paper''', paper of a very pale amber tint, intermediate between warm buff and ivory-white.}}\n\n{{smaller block|What is often called ''toned paper'' is nearer the natural color—a yellowish shade—of the pulp.\n{{right|''Harper's Mag.'', LXXV. 120.}}}}\n\n'''toneless''' (tōn′les), ''a.'' [< ''tone''<sup>1</sup> + ''-less''.] Without tone; unmodulated; unaccentuated.\n\n{{smaller block|His voice . . . was to Grandcourt's ''toneless'' drawl . . . as the deep notes of a violoncello to the broken discourse of poultry and other lazy gentry in the afternoon sunshine.\n{{right|''George Eliot'', Daniel Deronda, xxix.}}}}\n\n'''tonelessness''' (tōn′les-nes), ''n.'' The quality or state of being toneless; lack of tone, in any sense.\n\n{{smaller block|Any dulness or ''tonelessness'' on percussion at one apex must, in a doubtful case, be regarded as of great significance.\n{{right|''Lancet'', 1889, II. 1294.}}}}\n\n'''tone-master''' (tōn′mȧs″tėr), ''n.'' A master or expert in the artistic use of tones; a trained and experienced musical composer.\n\n'''tone-measurer''' (tōn′mezh″ṳ̄r-ėr), ''n.'' Same as ''monochord''.\n\n'''tone-painting''' (tōn′pān″ting), ''n.'' The art, process, or result of depicting by means of tones; musical description or suggestion.\n\n'''toner''' (tō′nėr), ''n.'' One who or that which tones.\n\n{{smaller block|Sulphuric and nitric acids have some claim to be regarded as ''toners'' of the vasomotor nerves.\n{{right|''Medical News'', LIII. 499.}}}}\n\n'''tone-relationship''' (tōn′rē-lā″shọn-ship), ''n.'' In ''music'', same as ''relation'', 9.\n\n'''tone-syllable''' (tōn′sil″a̤-bl), ''n.'' An accented syllable. ''Imp. Dict.''\n\n'''tong<sup>1</sup>''' (tông), ''n.'' [< ME. ''tonge, tange'', < AS. ''tange, tonge'', also ''tang'' = OFries. ''tange'' = MD. ''tanghe'', D. ''tang'', a pair of tongs or pincers, = MLG. ''tange'' = OHG. ''zanga'', MHG. G. ''zange'' = Icel. ''töng'' (''tang-'') = Sw. ''tång'' = Dan. ''tang'', tongs; cf. OHG. ''zangar'', MHG. ''zanger'', biting, sharp, lively; Teut. √ ''tang'' = Gr. δάκνειν = Skt. √ ''dañç, daç'', bite. Cf. ''tang''<sup>1</sup>.] 1. One of a number of holding- and lifting-instruments of various forms.\n\n{{smaller block|They may be grouped under three types: those consisting of two arms hinged or pivoted together near the upper or handle end, as the common fire-tongs; those consisting of two arms joined together by a spring at the top, as sugar-tongs; and those in which the two arms are joined together by a pivot near the lower end, as the blacksmiths' tongs. Their special names are chiefly descriptive of the shape of the short arms of the two levers that form the biting part or jaw, as ''flat-bit tongs, crook-tongs'', etc. Tongs are also named from their use, as ''bottle-tongs, crucible-tongs, wire-tongs'', etc. (See ''ice-tongs, lazy-tongs, oyster-tongs, pipe-tongs, sugar-tongs''.) Now always used in the plural, and often in the phrase ''pair of tongs'', designating one implement. The plural form is also rarely used as a singular. See cut in next column, and cuts under ''pinching-tongs'' and ''punch''. Thu havest clivers [claws] suthe stronge,\nThu tuengst [twingest] thar-mid so [as] doth a ''tonge.''\n{{right|''Owl and Nightingale'' (ed. Wright), l. 156.}}}}\n\n[[File:century v08 p0179 c2f1.png|center|305px]]\n{{c|Tongs.}}\n{{c|''a'', crucible-tongs; ''b'', ice-tongs; ''c'', ordinary fire-tongs; ''d'', blacksmiths' tongs; ''e'', bottlers' tongs; ''f'', ''f′'', ''f″'', bottling-pliers; ''g'', pin-tongs; ''h'', watchmakers' tongs; ''i'', pincer-tongs; ''j'', flat-bit tongs; ''k'', crook-bit tongs; ''l'', hoop-tongs; ''m'', smiths' pliers; ''n'', angular-bit tongs; ''o'', hammer-tongs.}}\n\n{{smaller block|The ''tonges'' that drow the nayles out\nOf fet, of handes, al about.\n{{right|''Holy Rood'' (E. E. T. S.), p. 188.}}}}\n\n{{smaller block|With that the wicked carle, the maister Smith,\nA paire of red-whot yron ''tongs'' did take\nOut of the burning cinders, and therewith\nUnder his side him nipt. {{right|''Spenser'', F. Q., IV. v. 44.}}}}\n\n{{smaller block|He sat by the fireside, . . . writing the name of his mistress in the ashes with an old ''tongs'' that had lost one of its legs. {{right|''Irving'', Salmagundi, No. 2. (''Davies.'')}}}}\n\n{{smaller block|Sure the shovel and ''tongs''\nTo each other belongs.\n{{right|''Lover'', Widow Machree.}}}}\n\n{{smaller block|[Tongs were formerly used in rough burlesque music:}}\n\n{{smaller block|I have a reasonable good ear in music. Let 's have the ''tongs'' and the bones. {{right|''Shak.'', M. N. D., iv. 1. 32.]}}}}\n\n2. In ''diamond-cutting'', a two-footed wooden stand that has at one end a vise-like iron holder, into which the dop containing the diamond is fastened, holding the diamond against the wheel.—3. ''pl.'' A device for anchoring the body of a car to the track when it is not in use. ''Car-Builder's Dict.''—4. ''pl.'' Trousers. [Slang, New Eng.]\n\n{{smaller block|The boys dressed in ''tongs'', a name for pantaloons or overalls that had come into use. {{right|''S. Judd'', Margaret, i. 6.}}}}\n\n{{smaller block|'''Asparagus-tongs''', a pair of tongs with broad flat blades, one of which has a hooked or turned-up end, to retain the stalks of asparagus. A spoon and a fork are sometimes hinged together in place of the blades.—'''Clam-tongs''', an instrument for tonging clams, like oyster-tongs, but differing in the width of the head, which averages 3½ feet.—'''Coral-tongs''', tongs used in the coral-fishery.—'''Dog-tongs.''' See the quotation.}}\n\n{{smaller block|We have never heard of ''dog tongs'' out of Wales. Mr. Owen figures one of these instruments, which it is not easy to describe without an illustration. They were used for catching dogs which were so ill-trained as to fight during the time of service.\n{{right|''N. and Q.'', 7th ser., I. 479.}}}}\n\n'''Hammer and tongs.''' {{smaller|See ''hammer''<sup>1</sup>.—}}'''Sardine-tongs,''' {{smaller|small tongs, like sugar-tongs but with broad flat blades, used for lifting sardines out of the box without breaking them.—}}'''Sliding tongs.''' {{smaller|See ''slide''.—}}'''Tourmalin tongs.''' {{smaller|See ''polariscope''.}}\n\n'''tong<sup>1</sup>''' (tông), ''v.'' [< ''tong''<sup>1</sup>, ''n.''] '''I.''' ''trans.'' To seize, hold, or take with tongs.\n\n{{smaller block|Though there is a planting interest at Mobile, Ala., most of the oysters on sale are of native growth, and ''tonged'' in a part of the bay called the \"gully.\"\n{{right|''Fisheries of U. S.'', V. ii. 548.}}}}\n\n'''II.''' ''intrans.'' To handle or use tongs; capture something, as oysters, with tongs.\n\n{{smaller block|He fishes, he ''tongs'' for oysters.\n{{right|''Scribner's Mag.'', VIII. 512.}}}}\n\n'''tong<sup>2</sup>†''', ''n.'' An old spelling of ''tongue''.\n\n'''tonga''' (tong′gä̤), ''n.'' [< Hind. ''tāngā''.] A light two-wheeled vehicle with wooden axletrees, drawn by ponies or oxen, and much used on the up-country roads in British India.\n\n{{smaller block|The Himalayan ''tonga'' is a thing of delight. It is easily described, for in principle it is the ancient Persian war-chariot, though the accommodation is so modified as to allow four persons to sit in it back to back.\n{{right|''F. M. Crawford'', Mr. Isaacs, ix.}}}}\n\n'''Tonga bean''' (tong′gä̤ bēn). See ''tonka-bean''.\n\n'''Tongan''' (tong′gan), ''a.'' and ''n.'' [< ''Tonga'' (see def.) + ''-an''.] '''I.''' ''a.'' Relating to the Tonga Islands. See II.\n\n'''II.''' ''n.'' An inhabitant of the Tonga or Friendly Islands, a group of islands (so called from Tonga or Tonga-tabu, one of the chief islands) and kingdom in the South Pacific, east-south-east of the Fiji Islands.\n\n'''tonge<sup>1</sup>†''', ''n.'' A Middle English form of ''tong''<sup>1</sup>.\n\n'''tonge<sup>2</sup>†''', ''n.'' An old spelling of ''tongue.''\n\n'''tonger''' (tông′ėr), ''n.'' [< ''tong''<sup>1</sup> + ''-er''<sup>1</sup>.] One whose occupation is the catching of oysters with tongs. ''Fisheries of U. S.'', II. 515.\n\n'''tonging''' (tông′ing), ''n.'' [Verbal n. of ''tong''<sup>1</sup>, ''v.''] The use of the oyster-tongs; the method or practice of taking oysters with tongs. ''Fisheries of U. S.'', II. 513.\n\n'''tongkang''' (tong′kang′), ''n.'' [E. Ind.] A kind of boat or junk used in the Eastern Archipelago. ''Simmonds.''\n\n'''tongman''' (tông′ma̤n), ''n.''; pl. ''tongmen'' (-men). One who uses the tongs in taking oysters; a tonger. Also ''tongsman.'' ''Fisheries of U. S.'', II. 525.\n\n'''Tongrian beds.''' The name given to the lower division of the Oligocene in Belgium: so called from Tongres in Belgium. It is the equivalent of the Egeln beds of Germany.\n\n'''tongs''' (tôngz), ''n. pl.'' See ''tong''<sup>1</sup>.\n\n'''tongsman''' (tôngz′ma̤n), ''n.'' Same as ''tongman.'' ''Davidson.''\n\n'''tongue''' (tung), ''n.'' [An awkward un-English spelling (first used in early mod. E., and appar. simulating the terminal form of F. ''langue'', tongue; cf. ''gangue'' for ''gang'', ''twangue'' for ''twang'', etc.) of what would be reg. mod. *''tong'' or rather *''tung'', early mod. E. also ''toong''; < ME. ''tonge'', ''tunge'', < AS. ''tunge'' = OS. ''tunge'' = OFries. ''tunge'' = MD. ''tonghe'', D. ''tong'' = MLG. LG. ''tunge'' = OHG. ''zungā'', MHG. G. ''zunge'' = Icel. ''tunga'' = Sw. ''tunga'' = Dan. ''tunge'' = Goth. ''tuggō'' = Ir. Gael. ''teanga'' (for *''denga'') = OL. ''dingua'', L. ''lingua'' (> It. ''lingua'' = Sp. ''lengua'' = Pg. ''lingoa'', ''lingua'' = F. ''langue''), tongue; perhaps cognate with OBulg. ''ye<sup>n</sup>zuikŭ'' = Bohem. ''jazykyazuikŭ'', etc., = OPruss. ''insuwis'', tongue, and possibly with Skt. ''jihvā'', Zend ''juhū'', tongue. The Gr. word is entirely different (see ''glossa''). From the L. form of the word are derived E. ''lingual'', etc., ''language''<sup>1</sup>.] 1. The principal organ of the special sense of taste or the gustatory faculty; the lingual apparatus, or lingua.\n\n{{smaller block|It is usually a fleshy and freely movable mass which partly fills the mouth, and has important functions in the acts of talking and eating. Together with the lips, teeth, and cheeks, the tongue serves to articulate, modulate, or qualify sounds produced in the windpipe, and in man is thus an organ of speech; it is equally concerned in the many natural cries of animals, the songs of birds, etc. It is a direct aid in the process of mastication, in directing food between the teeth, and in the act of swallowing or deglutition, by forcing food and drink from the mouth through the fauces into the pharynx. It is concerned in spitting, and in almost every action in which the mouth takes part. The tongue is often a prehensile organ, as for lapping or licking; sometimes a rasp or file, as in the lion and the snail; sometimes a dart or spear, as in woodpeckers, and in chameleons and many other reptiles. The tongue is rarely rudimentary or wanting in vertebrates, as in some birds and the aglossal batrachians. It is forked in serpents. Its structure and mechanism are more elaborate in some of the lower vertebrates, especially in birds and reptiles, than in mammals. In these last the tongue is chiefly a mass of muscle attached to the hyoid bone and lower jaw, and covered with mucous membrane. (''a'') In man the tongue is placed in the floor of the mouth, between the two branches of the lower jaw. The base or root of the tongue is fixed to the hyoid or tongue-bone; the top, sides, and dorsum are free; a median fold of mucous membrane, the bridle of the tongue, or ''frenum linguæ'', runs to its tip. Like other median or azygous structures, the tongue consists of two symmetrical halves on the right and left of a middle vertical partition, or ''septum linguæ'', of fibrous tissue; another sheet of such tissue, the ''hyoglossal membrane'', connects the under side of the tongue with the hyoid bone. The intrinsic muscular fibers of the tongue constitute the ''lingualis''; the extrinsic muscles (connecting}}\n\n[[File:century v08 p0179 c3f1.png|center|300px]]\n{{c|Dorsum of Human Tongue (reduced).}}\n{{c|''E'', epiglottis; ''RG'', median glosso-epiglottic recess; ''G'', glandules at base of tongue; ''A'', tonsil; ''Pca'', circumvallate papillæ; ''PM'', median one of these papillæ; ''Pf'', fungiform papillæ; ''PCo'', filiform papillæ; ''PS'', wrinkles and furrows on the edges of the tongue.}}<noinclude><references/></noinclude>"
+}

@@ -1,0 +1,202 @@
+{
+ "volume": 8,
+ "page_number": 209,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n208.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n208.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-13",
+  "angle": -0.7,
+  "column_width": 866,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     6,
+     2325,
+     135
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     135,
+     866,
+     1058
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1058,
+     866,
+     1881
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1881,
+     866,
+     2887
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2887,
+     866,
+     3291
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     866,
+     135,
+     1594,
+     1084
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     866,
+     1084,
+     1594,
+     2144
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     866,
+     2144,
+     1594,
+     3139
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     866,
+     3139,
+     1594,
+     3291
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1594,
+     135,
+     2325,
+     1117
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1594,
+     1117,
+     2325,
+     1883
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1594,
+     1883,
+     2325,
+     2893
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1594,
+     2893,
+     2325,
+     3291
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|touzle|6405|}}",
+   "c1s1": "¶\n'''touzle†''', ''v. t.'' See ''tousle.''\n\n'''tow<sup>1</sup>''' (tō), ''v. t.'' [Early mod. E. also sometimes ''togh;'' < ME. ''towen'', ''togen'', < AS. as if *''togian'' (= OFries. ''toga'' = MD. ''toghen'' = MLG. ''togen'' = OHG. ''zogōn'', MHG. ''zogen'' = Icel. ''toga''), draw, pull, tow, a secondary form of ''teón'' (pret. ''teáh'', pp. ''togen''), E. obs. ''tee'', draw: see ''tee''<sup>1</sup>. Cf. ''tow''<sup>2</sup>, ''tug'', ''tuck''<sup>1</sup>, from the same ult. source.] '''1.''' To pull; draw; haul; especially, to drag through the water by means of a rope or chain: as, to ''tow'' a small boat astern; to ''tow'' a vessel into harbor. {{smaller|The towing of boats on canals is generally performed by horses or mules; on other waters, by steamboats specially constructed for the purpose, and known as ''towboats'' or ''tugboats'', or simply as ''tugs.''}}\n\n{{smaller block|Thanks, Kingly Captain; daign vs then (we pray)<br>Som skilfull Pylot through this Fvriovs Bay;<br>Or, in this Chanell, sith we are to learn,<br>Vouchsafe to ''togh'' vs at your Royall Stern.\n{{right|''Sylvester'', tr. of Du Bartas's Weeks, ii., The Furies.}}}}\n\n{{smaller block|Whilst we ''tow'' up a tyde,<br>Which shall ronne sweating by your barges side.\n{{right|''Dekker'', Londons Tempe (Works, ed. Pearson, IV. 120).}}}}\n\n'''2.''' To dredge with a towing-net. See ''towing''<sup>1</sup>, ''n.'', 2.\n\n'''tow<sup>1</sup>''' (tō), ''n.'' [< ''tow''<sup>1</sup>, ''v.''] '''1.''' The act of towing, or the state of being towed: generally with ''in:'' as, to take a disabled vessel ''in tow.''\n\n{{smaller block|Nor like poor Psyche whom she drags ''in tow.''\n{{right|''Tennyson'', Princess, iii.}}}}",
+   "c1s2": "¶\n2. A vessel or number of vessels that are being towed.\n\n'''tow'''<sup>2</sup> (tō; Sc. pron. tou), ''n.'' [< ME. *''tow'', *''toȝ'', < AS. *''toh'', in ''tohlīne'', a tow-line (= LG. ''tau'' = Icel. ''tog'', ''taug'', a rope), < ''teón'' (pp. ''togen''), draw: see ''tee''<sup>1</sup>, and cf. ''tie''<sup>1</sup>, ''n.'', and ''tow''<sup>1</sup>, ''v.''] A rope. [Obsolete or Scotch.]\n\n{{smaller block|The sails were o' the light green silk,<br>The ''tows'' o' taffety.\n{{right|''The Lass of Lochroyan'' (Child's Ballads, II. 107).}}}}\n\n{{smaller block|If a word of your mouth could hang the haill Porteous mob at the tail of ae ''tow''.\n{{right|''Scott'', Heart of Mid-Lothian, xxxvii.}}}}\n\n'''tow'''<sup>3</sup> (tō; Sc. pron. tou), ''n.'' [< ME. ''tow'', ''towe'', < AS. *''tow'' (in comp. ''towlīc'', of spinning (''towlīc weorc'', spinning-work), ''tow-hūs'', spinning-house), = MD. ''touw'', tow (cf. ''touwe'', the instrument of a weaver), = LG. ''tou'', ''touw'', implements, = Icel. ''tō'', a tuft of wool for spinning, = Dan. ''tave'', fiber, = Goth. ''taui'' (''tojis''), work, a thing made; from the root of ''taw''<sup>1</sup>, prepare, work: see ''taw''<sup>1</sup>, and cf. ''tool''<sup>1</sup>.] '''1.''' The coarse and broken part of flax or hemp separated from the finer part by the hatchel or swingle.\n\n{{smaller block|Their temper is just like a pickle ''tow'' brought near a candle.\n{{right|''W. Black'', In Far Lochaber, ii.}}}}",
+   "c1s3": "¶\n2. In ''heckling'', a quantity of hemp fibers sufficient for spinning a yarn 160 fathoms long. {{smaller|These fibers are passed twice through the heckle, and are then tied up into a bundle, which weighs about 3½ pounds.—'''Ground tow''', in ''rope-making'', the loose hemp from the sides of the hatchels and spinners.—'''Scutching-tow.''' See ''scutch'', 2.—'''Tap of tow.''' See ''tap''<sup>4</sup>.}}\n\n'''tow'''<sup>4</sup>, ''a.'' An obsolete or dialectal form of ''tough.''\n\n'''towage''' (tō′āj), ''n.'' [= F. ''touage''; as ''tow''<sup>1</sup> + ''-age.''] 1. The act of towing.—2. A charge for towing.—{{smaller|'''Towage service''', in ''law'', aid rendered in the propulsion of vessels, irrespective of any circumstance of peril; the employment of one vessel to expedite the voyage of another vessel when nothing more is required than the acceleration of her progress. When used in contradistinction to ''salvage service'', it is confined to vessels not in distress.}}\n\n'''towaille'''†, ''n.'' A Middle English form of ''towel''<sup>1</sup>.\n\n'''toward''' (tō′ärd), ''prep.'' [< ME. ''toward, to ward''; < ''to'', ''adv.'', + ''-ward.'' The AS. ''tōweard'' is always an adj.; but ''tōweardes'' appears as a prep.: see ''towards.''] 1. In the direction of.\n\n{{smaller block|''Toward'' the Northe is a fulle faire Chirche of Seynte Anne.\n{{right|''Mandeville'', Travels, p. 88.}}\nHe set his face ''toward'' the wilderness.\n{{right|Num. xxiv. 1.}}}}\n\n2. To; on the way to; aiming or intending to reach, be, become, do, or the like: referring to destination, goal, end in view, aim, purpose, or design.\n\n{{smaller block|Bi that hit was heiȝ non me gon aȝeyn hem bringe\nA ded monnes bodi vppon a bere ''to-ward'' buryinge.\n{{right|''Holy Rood'' (E. E. T. S.), p. 45.}}\nIs she not ''toward'' marriage?\n{{right|''Middleton'', Chaste Maid, iii. 2.}}}}",
+   "c1s4": "¶\n\n'''3.''' With respect to; as regards; in relation to; concerning; respecting; regarding: expressing relation or reference.\n\n{{smaller block|His eye shall be evil ''toward'' his brother.\n{{right|Deut. xxviii. 54.}}\nThen their anger was abated ''toward'' him.\n{{right|Judges viii. 3.}}\nI will be thy adversary ''toward'' Anne Page.\n{{right|''Shak.'', M. W. of W., ii. 3. 99.}}\nThese and many other were his Councels ''toward'' a civil Warr.\n{{right|''Milton'', Eikonoklastes, x.}}}}",
+   "c2s1": "{{smaller block|Lincoln's attitude ''toward'' slavery was that of the humane and conscientious men throughout the North who were not Abolitionists. {{right|''G. S. Merriam'', S. Bowles, I. 237.}}}}\n\n4. For; for the purpose of completing, promoting, fostering, defraying, relieving, or the like; as a help or contribution to.\n\n{{smaller block|Giue the pore of thy good;\nPart thou therof ''toward'' their want,\nGiue them reliefe and fo[o]d.\n{{right|''Babees Book'' (E. E. T. S.), p. 100.}}}}\n\n{{smaller block|''Toward'' the education of your daughters\nI here bestow a simple instrument.\n{{right|''Shak.'', T. of the S., ii. 1. 99.}}}}\n\n5. Near; nearly; about; close upon: as, ''toward'' three o'clock.\n\n{{smaller block|I am ''toward'' nine years older since I left you.\n{{right|''Swift.'' (''Imp. Dict.'')}}}}\n\n{{smaller block|[''Toward'' was formerly sometimes divided, and the object inserted between.}}\n\n{{smaller block|No good woorke is ought worth ''to'' heauen''ward'' without faith.\n{{right|''Sir T. More'', Cumfort against Tribulation (1573), fol. 25.}}}}\n\n{{smaller block|And such trust have we through Christ ''to'' God-''ward.''\n{{right|2 Cor. iii. 4.}}}}\n\n{{smaller block|Whose streams run forth there to the salt sea-side,\nHere back return, and ''to'' their spring''ward'' go.\n{{right|''Fairfax.'']}}}}\n\n'''To be toward one†''', to be on one's side or of his company.\n\n{{smaller block|Herod and they that ''were toward'' him.\n{{right|''Bp. Andrews'', Sermons, V. vi.}}}}\n\n'''To have toward one†.''' See ''have.''—'''To look toward.''' See ''look''<sup>1</sup>.",
+   "c2s2": "¶\n'''toward''' (tō′ärd), ''a.'' [< ME. ''toward'', < AS. ''tōweard'', adj., future, to come, coming to or toward one, < ''tō'', to, + ''-weard'', becoming, E. ''-ward''.] 1†. Coming; coming near; approaching; near; future; also, at hand; present.\n\n{{smaller block|Ffor ye haue a werke ''towarde'', and that right grete, where-as ye shall haue grete peyne and traueyle, an I shall telle yow what.\n{{right|''Merlin'' (E. E. T. S.), ii. 315.}}}}\n\n{{smaller block|Envying my ''toward'' good.\n{{right|''Spenser'', F. Q., II. iv. 22.}}}}\n\n{{smaller block|Vouchsafe, my ''toward'' kinsman, gracious madam,\nThe favour of your hand.\n{{right|''B. Jonson'', Staple of News, ii.}}}}\n\n{{smaller block|Young Faith Snowe was ''toward'' to keep the old men's cups aflow.\n{{right|''R. D. Blackmore'', Lorna Doone, xiv.}}}}\n\n2. Yielding; pliant; hence, docile; ready to do or to learn; apt; not froward.\n\n{{smaller block|Goode sir, be ''toward'' this tyme,\nAnd tarie noght my trace,\nFor I haue tythandis to telle.\n{{right|''York Plays'', p. 226.}}}}\n\n{{smaller block|'Tis a good hearing when children are ''toward''.\n{{right|''Shak.'', T. of the S., v. 2. 182.}}}}\n\n3†. Promising; likely; forward.\n\n{{smaller block|Why, that is spoken like a ''toward'' prince.\n{{right|''Shak.'', 3 Hen. VI., ii. 2. 66.}}}}\n\n{{smaller block|He was reputed in Norfolk, where he practised physic, a proper ''toward'' man, and as skilful a physician, for his age, as ever came there.\n{{right|''G. Harvey'', Four Letters.}}}}\n\n'''towardliness''' (tō′ärd-li-nes), ''n.'' The character of being toward; readiness to do or learn; aptness; docility.\n\n{{smaller block|The beauty and ''towardliness'' of these children moved her brethren to envy.\n{{right|''Raleigh'', Hist. World.}}}}\n\n'''towardly''' (tō′ärd-li), ''a.'' [< ''toward'', ''a.'', + ''-ly''<sup>1</sup>.] 1. Ready to do or learn; apt; docile; tractable; compliant with duty.",
+   "c2s3": "¶\n{{smaller block|The ''towardly'' likelie-hood of this springall to do you honest seruice. {{right|''Florio'', It. Dict. (1598), Ep. Ded., p. [4].}}}}\n\n{{smaller block|I am like to have a ''towardly'' scholar of you.\n{{right|''I. Walton'', Complete Angler, p. 68.}}}}\n\n2†. Forward; promising; precocious; early as regards season or state of advancement.\n\n{{smaller block|Easterly windes blasteth ''towardly'' blossoms.\n{{right|''Lyly'', Euphues and his England, p. 451.}}}}\n\n{{smaller block|He 's ''towardly'', and will come on apace.\n{{right|''Dryden'', Prol. to Wild Gallant.}}}}\n\n'''towardness''' (tō′ärd-nes), ''n.'' [< ''toward'', ''a.'', + ''-ness''.] The character of being toward; docility; towardliness.\n\n{{smaller block|There appeared in me som small shew of ''towardnes'' and diligence. {{right|''Ascham'', The Scholemaster, p. 134.}}}}\n\n{{smaller block|For the ''towardnes'' I see in thee, I must needs loue thee.\n{{right|''Lyly'', Euphues and his England, p. 241.}}}}\n\n'''towards''' (tō′ärdz), ''prep.'' and ''adv.'' [Early mod. E. also ''towardes;'' sometimes contracted ''tow'rds;'' < ME. ''towardes'', < AS. ''tōweardes'', toward, < ''tōweard'' + adv. gen. ''-es''.] '''I.''' ''prep.'' Same as ''toward.''\n\n'''II.''' ''adv.'' Toward the place in question; forward. [Rare.]\n\n{{smaller block|Tho, when as still he saw him ''towards'' pace,\nHe gan rencounter him in equall race.\n{{right|''Spenser'', F. Q., II. i. 26.}}}}\n\n{{smaller block|This fire, like the eye of gordian snake\nBewitch'd me ''towards.'' {{right|''Keats'', Endymion, iii.}}}}\n\n'''towards†''' (tō′ärdz), ''a.'' [Erroneously used for ''toward'', ''a.''] Same as ''toward'', ''a.'', 1.\n\n{{smaller block|There 's a great marriage\n''Towards'' for him. {{right|''Middleton'', Chaste Maid, iii. 2.}}}}",
+   "c2s4": "¶\n{{smaller block|Here 's a fray ''towards;'' but I will hold my hands, let who will part them.\n{{right|''Middleton (and another)'', Mayor of Queenborough, v. 1.}}}}",
+   "c3s1": "¶\n'''tower'''\n\n'''towboat''' (tō′bōt), ''n.'' [< ''tow''<sup>1</sup> + ''boat.''] Any boat employed in towing a ship or vessel; a tugboat.\n\n'''tow-cock''' (tō′kok), ''n.'' A species of bean: same as ''chowlee.''\n\n'''towel'''<sup>1</sup> (tou′el), ''n.'' [< ME. ''towaile, towaille, tewelle, twaile, twaylle,'' < OF. ''touaille,'' F. ''touaille'' = Pr. ''toalha'' = Sp. ''toalla'' = Pg. ''toalha'' = It. ''tovaglia,'' < ML. ''toacula,'' < OHG. ''dwahilla, dwahila, dwehila,'' MHG. ''twehele, twehel, dwehele, dwele'' (also ''quehele,'' G. dial. ''quähle''), a towel, = D. ''dwaal,'' a towel, ''dweil,'' a clout, = AS. ''thwehlæ'' = Goth. *''thwahljo,'' a towel; from a noun shown in AS. ''thweál,'' washing, bath, = OHG. ''dwahal,'' bath, = Icel. ''thvāl,'' soap, = Goth. ''thwahl,'' washing, bath (cf. MHG. ''twuhel,'' tub), < AS. ''thweán'' = OS. ''thwahan'' = OHG. ''dwahan,'' MHG. ''twahen, dwahen,'' G. (dial.) ''zwagen,'' wash, bathe, = Icel. ''thvā'' = Dan. ''toe'' = Sw. ''två,'' wash, = Goth. ''thwahan,'' wash, bathe; cf. OPruss. ''twaxtan,'' a bathing-dress.] 1. A cloth used for wiping anything dry; especially, a cloth for drying the person after bathing or washing.\n\n{{smaller block|Phebus eek a fair ''towaille'' him broughte,<br>To drye him with. ''Chaucer,'' Monk's Tale, l. 755.}}\n\n{{smaller block|Item, iiij. ''tewelles'' playn warke, eche cont' in lenthe ij. yerds, dim'. {{right|''Paston Letters,'' I. 489.}}}}\n\n{{smaller block|With a cleane ''Towel,'' not with his shirt, for this would make them blockish and forgetfull.\n{{right|''Purchas,'' Pilgrimage, p. 194.}}}}",
+   "c3s2": "¶\n2. ''Eccles.'': (''a'') The rich covering of silk and gold which used to be laid over the top of the altar except during mass. (''b'') A linen altar-cloth.—{{smaller|'''An oaken towel''', a cudgel. [Slang.]}}\n\n{{smaller block|I have here a good ''oaken towel'' at your service.\n{{right|''Smollett'', Humphrey Clinker, J. Melford to Sir W. Phillips, [Bath, May 17.}}}}\n\n{{smaller|'''A lead towel''', a bullet. [Slang.]}}\n\n{{smaller block|Make Nunky surrender his dibs,\nRub his pate with a pair of ''lead towels.''\n{{right|''J. Smith'', Rejected Addresses, xx.}}}}\n\n{{smaller|'''Dish-towel''', a towel for wiping dishes after they are washed.—'''Glass-towel.''' Same as ''glass-cloth.''—'''Turkish towel.''' See ''Turkish.''}}\n\n'''towel'''<sup>1</sup> (tou′el), ''v.''; pret. and pp. ''toweled, towelled'', ppr. ''toweling, towelling.'' [< ''towel''<sup>1</sup>, ''n.''] '''I.''' ''trans.'' 1. To rub or wipe with a towel.\n\n{{smaller block|He now appeared in his doorway, ''towelling'' his hands.\n{{right|''Dickens'', Great Expectations, xxxvi.}}}}\n\n2. To cudgel; lam. [Slang.]\n\n'''II.''' ''intrans.'' To use a towel; rub or wipe with a towel.\n\n{{smaller block|Letting his head drop into a festoon of towel, and ''towelling'' away at his two ears.\n{{right|''Dickens'', Great Expectations, xxvi.}}}}",
+   "c3s3": "¶\n'''towel<sup>2</sup>†''', ''n.'' Same as ''tewel.''\n\n'''towel-gourd''' (tou′el-gōrd), ''n.'' See ''sponge-gourd.''\n\n'''towel-horse''' (tou′el-hôrs), ''n.'' A wooden frame or stand to hang towels on.\n\n'''toweling, towelling''' (tou′el-ing), ''n.'' [< ''towel''<sup>1</sup> + ''-ing''<sup>1</sup>.] 1. Material used for towels, whether made in separate towels with borders, etc., or in continuous pieces, sold by the yard. Compare ''huckaback, crash, diaper, glass-cloth.''—2. A piece of the stuff used for towels; a towel. [Rare.]\n\n{{smaller block|A clean ewer with a fair ''towelling.''\n{{right|''Browning,'' Flight of the Duchess, xi.}}}}\n\n3. A whipping; a thrashing. [Slang.]\n\n{{smaller block|I got a ''towelling,'' but it did not do me much good.\n{{right|''Mayhew,'' London Labour and London Poor, I. 469.}}}}\n\n{{smaller|'''Elephant toweling''', a variety of huckaback much used as a foundation for crewel embroidery.—'''Toweling embroidery''', decorative work done in heavy material, such as toweling, usually by a combination of drawn work and needlework, with the addition of fringes.—'''Turkish toweling.''' See ''Turkish.''}}\n\n'''towel-rack''' (tou′el-rak), ''n.'' A frame or bar over which towels are hung; a towel-horse.\n\n'''towel-roller''' (tou′el-rō″lėr), ''n.'' The revolving bar for a roller-towel.\n\n'''towend†''', ''v. i.'' [ME. ''towenden;'' < ''to-''<sup>2</sup> + ''wend.''] To turn aside.\n\n'''tower<sup>1</sup>''' (tou′ėr), ''n.'' [< ME. ''tour, tur'' (also ''tor''), < AS. ''tur'' (''turr-'') (also ''torr'') = MD. ''toren, torre,'' D. ''toren'' = OHG. ''turra, turri,'' MHG. ''turn, turm,'' G. ''turm'' (dial. ''turn'') = Sw. ''torn'' = Dan. ''taarn'' (the",
+   "c3s4": "final ''m'' and ''n'' are unexplained) = OF. ''tur'', ''tour'' (whence in part the ME. word), F. ''tour'' = Pr. ''tor'' = Sp. It. ''torre'', a tower, = Gael. ''torr'' = Ir. ''tor'' = W. ''twr'', tower, < L. ''turris'' = Gr. τύρσις, τύῤῥις, tower, height, bastion. Hence ''turret''. Cf. ''tor''<sup>1</sup>.] 1. A building lofty in proportion to its lateral dimensions, of any form in plan, whether insulated or forming part of a church, castle, or other edifice. {{smaller|Towers have been erected from the earliest ages as memorials, and for purposes of religion and defense. Among towers are included the}}"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 2781,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 13,
+    "input_tokens": 10380,
+    "output_tokens": 10878,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 35282
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|touzle|6405|}}</noinclude>'''touzle†''', ''v. t.'' See ''tousle.''\n\n'''tow<sup>1</sup>''' (tō), ''v. t.'' [Early mod. E. also sometimes ''togh;'' < ME. ''towen'', ''togen'', < AS. as if *''togian'' (= OFries. ''toga'' = MD. ''toghen'' = MLG. ''togen'' = OHG. ''zogōn'', MHG. ''zogen'' = Icel. ''toga''), draw, pull, tow, a secondary form of ''teón'' (pret. ''teáh'', pp. ''togen''), E. obs. ''tee'', draw: see ''tee''<sup>1</sup>. Cf. ''tow''<sup>2</sup>, ''tug'', ''tuck''<sup>1</sup>, from the same ult. source.] '''1.''' To pull; draw; haul; especially, to drag through the water by means of a rope or chain: as, to ''tow'' a small boat astern; to ''tow'' a vessel into harbor. {{smaller|The towing of boats on canals is generally performed by horses or mules; on other waters, by steamboats specially constructed for the purpose, and known as ''towboats'' or ''tugboats'', or simply as ''tugs.''}}\n\n{{smaller block|Thanks, Kingly Captain; daign vs then (we pray)<br>Som skilfull Pylot through this Fvriovs Bay;<br>Or, in this Chanell, sith we are to learn,<br>Vouchsafe to ''togh'' vs at your Royall Stern.\n{{right|''Sylvester'', tr. of Du Bartas's Weeks, ii., The Furies.}}}}\n\n{{smaller block|Whilst we ''tow'' up a tyde,<br>Which shall ronne sweating by your barges side.\n{{right|''Dekker'', Londons Tempe (Works, ed. Pearson, IV. 120).}}}}\n\n'''2.''' To dredge with a towing-net. See ''towing''<sup>1</sup>, ''n.'', 2.\n\n'''tow<sup>1</sup>''' (tō), ''n.'' [< ''tow''<sup>1</sup>, ''v.''] '''1.''' The act of towing, or the state of being towed: generally with ''in:'' as, to take a disabled vessel ''in tow.''\n\n{{smaller block|Nor like poor Psyche whom she drags ''in tow.''\n{{right|''Tennyson'', Princess, iii.}}}}\n\n2. A vessel or number of vessels that are being towed.\n\n'''tow'''<sup>2</sup> (tō; Sc. pron. tou), ''n.'' [< ME. *''tow'', *''toȝ'', < AS. *''toh'', in ''tohlīne'', a tow-line (= LG. ''tau'' = Icel. ''tog'', ''taug'', a rope), < ''teón'' (pp. ''togen''), draw: see ''tee''<sup>1</sup>, and cf. ''tie''<sup>1</sup>, ''n.'', and ''tow''<sup>1</sup>, ''v.''] A rope. [Obsolete or Scotch.]\n\n{{smaller block|The sails were o' the light green silk,<br>The ''tows'' o' taffety.\n{{right|''The Lass of Lochroyan'' (Child's Ballads, II. 107).}}}}\n\n{{smaller block|If a word of your mouth could hang the haill Porteous mob at the tail of ae ''tow''.\n{{right|''Scott'', Heart of Mid-Lothian, xxxvii.}}}}\n\n'''tow'''<sup>3</sup> (tō; Sc. pron. tou), ''n.'' [< ME. ''tow'', ''towe'', < AS. *''tow'' (in comp. ''towlīc'', of spinning (''towlīc weorc'', spinning-work), ''tow-hūs'', spinning-house), = MD. ''touw'', tow (cf. ''touwe'', the instrument of a weaver), = LG. ''tou'', ''touw'', implements, = Icel. ''tō'', a tuft of wool for spinning, = Dan. ''tave'', fiber, = Goth. ''taui'' (''tojis''), work, a thing made; from the root of ''taw''<sup>1</sup>, prepare, work: see ''taw''<sup>1</sup>, and cf. ''tool''<sup>1</sup>.] '''1.''' The coarse and broken part of flax or hemp separated from the finer part by the hatchel or swingle.\n\n{{smaller block|Their temper is just like a pickle ''tow'' brought near a candle.\n{{right|''W. Black'', In Far Lochaber, ii.}}}}\n\n2. In ''heckling'', a quantity of hemp fibers sufficient for spinning a yarn 160 fathoms long. {{smaller|These fibers are passed twice through the heckle, and are then tied up into a bundle, which weighs about 3½ pounds.—'''Ground tow''', in ''rope-making'', the loose hemp from the sides of the hatchels and spinners.—'''Scutching-tow.''' See ''scutch'', 2.—'''Tap of tow.''' See ''tap''<sup>4</sup>.}}\n\n'''tow'''<sup>4</sup>, ''a.'' An obsolete or dialectal form of ''tough.''\n\n'''towage''' (tō′āj), ''n.'' [= F. ''touage''; as ''tow''<sup>1</sup> + ''-age.''] 1. The act of towing.—2. A charge for towing.—{{smaller|'''Towage service''', in ''law'', aid rendered in the propulsion of vessels, irrespective of any circumstance of peril; the employment of one vessel to expedite the voyage of another vessel when nothing more is required than the acceleration of her progress. When used in contradistinction to ''salvage service'', it is confined to vessels not in distress.}}\n\n'''towaille'''†, ''n.'' A Middle English form of ''towel''<sup>1</sup>.\n\n'''toward''' (tō′ärd), ''prep.'' [< ME. ''toward, to ward''; < ''to'', ''adv.'', + ''-ward.'' The AS. ''tōweard'' is always an adj.; but ''tōweardes'' appears as a prep.: see ''towards.''] 1. In the direction of.\n\n{{smaller block|''Toward'' the Northe is a fulle faire Chirche of Seynte Anne.\n{{right|''Mandeville'', Travels, p. 88.}}\nHe set his face ''toward'' the wilderness.\n{{right|Num. xxiv. 1.}}}}\n\n2. To; on the way to; aiming or intending to reach, be, become, do, or the like: referring to destination, goal, end in view, aim, purpose, or design.\n\n{{smaller block|Bi that hit was heiȝ non me gon aȝeyn hem bringe\nA ded monnes bodi vppon a bere ''to-ward'' buryinge.\n{{right|''Holy Rood'' (E. E. T. S.), p. 45.}}\nIs she not ''toward'' marriage?\n{{right|''Middleton'', Chaste Maid, iii. 2.}}}}\n\n'''3.''' With respect to; as regards; in relation to; concerning; respecting; regarding: expressing relation or reference.\n\n{{smaller block|His eye shall be evil ''toward'' his brother.\n{{right|Deut. xxviii. 54.}}\nThen their anger was abated ''toward'' him.\n{{right|Judges viii. 3.}}\nI will be thy adversary ''toward'' Anne Page.\n{{right|''Shak.'', M. W. of W., ii. 3. 99.}}\nThese and many other were his Councels ''toward'' a civil Warr.\n{{right|''Milton'', Eikonoklastes, x.}} Lincoln's attitude ''toward'' slavery was that of the humane and conscientious men throughout the North who were not Abolitionists. {{right|''G. S. Merriam'', S. Bowles, I. 237.}}}}\n\n4. For; for the purpose of completing, promoting, fostering, defraying, relieving, or the like; as a help or contribution to.\n\n{{smaller block|Giue the pore of thy good;\nPart thou therof ''toward'' their want,\nGiue them reliefe and fo[o]d.\n{{right|''Babees Book'' (E. E. T. S.), p. 100.}}}}\n\n{{smaller block|''Toward'' the education of your daughters\nI here bestow a simple instrument.\n{{right|''Shak.'', T. of the S., ii. 1. 99.}}}}\n\n5. Near; nearly; about; close upon: as, ''toward'' three o'clock.\n\n{{smaller block|I am ''toward'' nine years older since I left you.\n{{right|''Swift.'' (''Imp. Dict.'')}}}}\n\n{{smaller block|[''Toward'' was formerly sometimes divided, and the object inserted between.}}\n\n{{smaller block|No good woorke is ought worth ''to'' heauen''ward'' without faith.\n{{right|''Sir T. More'', Cumfort against Tribulation (1573), fol. 25.}}}}\n\n{{smaller block|And such trust have we through Christ ''to'' God-''ward.''\n{{right|2 Cor. iii. 4.}}}}\n\n{{smaller block|Whose streams run forth there to the salt sea-side,\nHere back return, and ''to'' their spring''ward'' go.\n{{right|''Fairfax.'']}}}}\n\n'''To be toward one†''', to be on one's side or of his company.\n\n{{smaller block|Herod and they that ''were toward'' him.\n{{right|''Bp. Andrews'', Sermons, V. vi.}}}}\n\n'''To have toward one†.''' See ''have.''—'''To look toward.''' See ''look''<sup>1</sup>.\n\n'''toward''' (tō′ärd), ''a.'' [< ME. ''toward'', < AS. ''tōweard'', adj., future, to come, coming to or toward one, < ''tō'', to, + ''-weard'', becoming, E. ''-ward''.] 1†. Coming; coming near; approaching; near; future; also, at hand; present.\n\n{{smaller block|Ffor ye haue a werke ''towarde'', and that right grete, where-as ye shall haue grete peyne and traueyle, an I shall telle yow what.\n{{right|''Merlin'' (E. E. T. S.), ii. 315.}}}}\n\n{{smaller block|Envying my ''toward'' good.\n{{right|''Spenser'', F. Q., II. iv. 22.}}}}\n\n{{smaller block|Vouchsafe, my ''toward'' kinsman, gracious madam,\nThe favour of your hand.\n{{right|''B. Jonson'', Staple of News, ii.}}}}\n\n{{smaller block|Young Faith Snowe was ''toward'' to keep the old men's cups aflow.\n{{right|''R. D. Blackmore'', Lorna Doone, xiv.}}}}\n\n2. Yielding; pliant; hence, docile; ready to do or to learn; apt; not froward.\n\n{{smaller block|Goode sir, be ''toward'' this tyme,\nAnd tarie noght my trace,\nFor I haue tythandis to telle.\n{{right|''York Plays'', p. 226.}}}}\n\n{{smaller block|'Tis a good hearing when children are ''toward''.\n{{right|''Shak.'', T. of the S., v. 2. 182.}}}}\n\n3†. Promising; likely; forward.\n\n{{smaller block|Why, that is spoken like a ''toward'' prince.\n{{right|''Shak.'', 3 Hen. VI., ii. 2. 66.}}}}\n\n{{smaller block|He was reputed in Norfolk, where he practised physic, a proper ''toward'' man, and as skilful a physician, for his age, as ever came there.\n{{right|''G. Harvey'', Four Letters.}}}}\n\n'''towardliness''' (tō′ärd-li-nes), ''n.'' The character of being toward; readiness to do or learn; aptness; docility.\n\n{{smaller block|The beauty and ''towardliness'' of these children moved her brethren to envy.\n{{right|''Raleigh'', Hist. World.}}}}\n\n'''towardly''' (tō′ärd-li), ''a.'' [< ''toward'', ''a.'', + ''-ly''<sup>1</sup>.] 1. Ready to do or learn; apt; docile; tractable; compliant with duty.\n\n{{smaller block|The ''towardly'' likelie-hood of this springall to do you honest seruice. {{right|''Florio'', It. Dict. (1598), Ep. Ded., p. [4].}}}}\n\n{{smaller block|I am like to have a ''towardly'' scholar of you.\n{{right|''I. Walton'', Complete Angler, p. 68.}}}}\n\n2†. Forward; promising; precocious; early as regards season or state of advancement.\n\n{{smaller block|Easterly windes blasteth ''towardly'' blossoms.\n{{right|''Lyly'', Euphues and his England, p. 451.}}}}\n\n{{smaller block|He 's ''towardly'', and will come on apace.\n{{right|''Dryden'', Prol. to Wild Gallant.}}}}\n\n'''towardness''' (tō′ärd-nes), ''n.'' [< ''toward'', ''a.'', + ''-ness''.] The character of being toward; docility; towardliness.\n\n{{smaller block|There appeared in me som small shew of ''towardnes'' and diligence. {{right|''Ascham'', The Scholemaster, p. 134.}}}}\n\n{{smaller block|For the ''towardnes'' I see in thee, I must needs loue thee.\n{{right|''Lyly'', Euphues and his England, p. 241.}}}}\n\n'''towards''' (tō′ärdz), ''prep.'' and ''adv.'' [Early mod. E. also ''towardes;'' sometimes contracted ''tow'rds;'' < ME. ''towardes'', < AS. ''tōweardes'', toward, < ''tōweard'' + adv. gen. ''-es''.] '''I.''' ''prep.'' Same as ''toward.''\n\n'''II.''' ''adv.'' Toward the place in question; forward. [Rare.]\n\n{{smaller block|Tho, when as still he saw him ''towards'' pace,\nHe gan rencounter him in equall race.\n{{right|''Spenser'', F. Q., II. i. 26.}}}}\n\n{{smaller block|This fire, like the eye of gordian snake\nBewitch'd me ''towards.'' {{right|''Keats'', Endymion, iii.}}}}\n\n'''towards†''' (tō′ärdz), ''a.'' [Erroneously used for ''toward'', ''a.''] Same as ''toward'', ''a.'', 1.\n\n{{smaller block|There 's a great marriage\n''Towards'' for him. {{right|''Middleton'', Chaste Maid, iii. 2.}}}}\n\n{{smaller block|Here 's a fray ''towards;'' but I will hold my hands, let who will part them.\n{{right|''Middleton (and another)'', Mayor of Queenborough, v. 1.}}}}\n\n'''tower'''\n\n'''towboat''' (tō′bōt), ''n.'' [< ''tow''<sup>1</sup> + ''boat.''] Any boat employed in towing a ship or vessel; a tugboat.\n\n'''tow-cock''' (tō′kok), ''n.'' A species of bean: same as ''chowlee.''\n\n'''towel'''<sup>1</sup> (tou′el), ''n.'' [< ME. ''towaile, towaille, tewelle, twaile, twaylle,'' < OF. ''touaille,'' F. ''touaille'' = Pr. ''toalha'' = Sp. ''toalla'' = Pg. ''toalha'' = It. ''tovaglia,'' < ML. ''toacula,'' < OHG. ''dwahilla, dwahila, dwehila,'' MHG. ''twehele, twehel, dwehele, dwele'' (also ''quehele,'' G. dial. ''quähle''), a towel, = D. ''dwaal,'' a towel, ''dweil,'' a clout, = AS. ''thwehlæ'' = Goth. *''thwahljo,'' a towel; from a noun shown in AS. ''thweál,'' washing, bath, = OHG. ''dwahal,'' bath, = Icel. ''thvāl,'' soap, = Goth. ''thwahl,'' washing, bath (cf. MHG. ''twuhel,'' tub), < AS. ''thweán'' = OS. ''thwahan'' = OHG. ''dwahan,'' MHG. ''twahen, dwahen,'' G. (dial.) ''zwagen,'' wash, bathe, = Icel. ''thvā'' = Dan. ''toe'' = Sw. ''två,'' wash, = Goth. ''thwahan,'' wash, bathe; cf. OPruss. ''twaxtan,'' a bathing-dress.] 1. A cloth used for wiping anything dry; especially, a cloth for drying the person after bathing or washing.\n\n{{smaller block|Phebus eek a fair ''towaille'' him broughte,<br>To drye him with. ''Chaucer,'' Monk's Tale, l. 755.}}\n\n{{smaller block|Item, iiij. ''tewelles'' playn warke, eche cont' in lenthe ij. yerds, dim'. {{right|''Paston Letters,'' I. 489.}}}}\n\n{{smaller block|With a cleane ''Towel,'' not with his shirt, for this would make them blockish and forgetfull.\n{{right|''Purchas,'' Pilgrimage, p. 194.}}}}\n\n2. ''Eccles.'': (''a'') The rich covering of silk and gold which used to be laid over the top of the altar except during mass. (''b'') A linen altar-cloth.—{{smaller|'''An oaken towel''', a cudgel. [Slang.]}}\n\n{{smaller block|I have here a good ''oaken towel'' at your service.\n{{right|''Smollett'', Humphrey Clinker, J. Melford to Sir W. Phillips, [Bath, May 17.}}}}\n\n{{smaller|'''A lead towel''', a bullet. [Slang.]}}\n\n{{smaller block|Make Nunky surrender his dibs,\nRub his pate with a pair of ''lead towels.''\n{{right|''J. Smith'', Rejected Addresses, xx.}}}}\n\n{{smaller|'''Dish-towel''', a towel for wiping dishes after they are washed.—'''Glass-towel.''' Same as ''glass-cloth.''—'''Turkish towel.''' See ''Turkish.''}}\n\n'''towel'''<sup>1</sup> (tou′el), ''v.''; pret. and pp. ''toweled, towelled'', ppr. ''toweling, towelling.'' [< ''towel''<sup>1</sup>, ''n.''] '''I.''' ''trans.'' 1. To rub or wipe with a towel.\n\n{{smaller block|He now appeared in his doorway, ''towelling'' his hands.\n{{right|''Dickens'', Great Expectations, xxxvi.}}}}\n\n2. To cudgel; lam. [Slang.]\n\n'''II.''' ''intrans.'' To use a towel; rub or wipe with a towel.\n\n{{smaller block|Letting his head drop into a festoon of towel, and ''towelling'' away at his two ears.\n{{right|''Dickens'', Great Expectations, xxvi.}}}}\n\n'''towel<sup>2</sup>†''', ''n.'' Same as ''tewel.''\n\n'''towel-gourd''' (tou′el-gōrd), ''n.'' See ''sponge-gourd.''\n\n'''towel-horse''' (tou′el-hôrs), ''n.'' A wooden frame or stand to hang towels on.\n\n'''toweling, towelling''' (tou′el-ing), ''n.'' [< ''towel''<sup>1</sup> + ''-ing''<sup>1</sup>.] 1. Material used for towels, whether made in separate towels with borders, etc., or in continuous pieces, sold by the yard. Compare ''huckaback, crash, diaper, glass-cloth.''—2. A piece of the stuff used for towels; a towel. [Rare.]\n\n{{smaller block|A clean ewer with a fair ''towelling.''\n{{right|''Browning,'' Flight of the Duchess, xi.}}}}\n\n3. A whipping; a thrashing. [Slang.]\n\n{{smaller block|I got a ''towelling,'' but it did not do me much good.\n{{right|''Mayhew,'' London Labour and London Poor, I. 469.}}}}\n\n{{smaller|'''Elephant toweling''', a variety of huckaback much used as a foundation for crewel embroidery.—'''Toweling embroidery''', decorative work done in heavy material, such as toweling, usually by a combination of drawn work and needlework, with the addition of fringes.—'''Turkish toweling.''' See ''Turkish.''}}\n\n'''towel-rack''' (tou′el-rak), ''n.'' A frame or bar over which towels are hung; a towel-horse.\n\n'''towel-roller''' (tou′el-rō″lėr), ''n.'' The revolving bar for a roller-towel.\n\n'''towend†''', ''v. i.'' [ME. ''towenden;'' < ''to-''<sup>2</sup> + ''wend.''] To turn aside.\n\n'''tower<sup>1</sup>''' (tou′ėr), ''n.'' [< ME. ''tour, tur'' (also ''tor''), < AS. ''tur'' (''turr-'') (also ''torr'') = MD. ''toren, torre,'' D. ''toren'' = OHG. ''turra, turri,'' MHG. ''turn, turm,'' G. ''turm'' (dial. ''turn'') = Sw. ''torn'' = Dan. ''taarn'' (the final ''m'' and ''n'' are unexplained) = OF. ''tur'', ''tour'' (whence in part the ME. word), F. ''tour'' = Pr. ''tor'' = Sp. It. ''torre'', a tower, = Gael. ''torr'' = Ir. ''tor'' = W. ''twr'', tower, < L. ''turris'' = Gr. τύρσις, τύῤῥις, tower, height, bastion. Hence ''turret''. Cf. ''tor''<sup>1</sup>.] 1. A building lofty in proportion to its lateral dimensions, of any form in plan, whether insulated or forming part of a church, castle, or other edifice. {{smaller|Towers have been erected from the earliest ages as memorials, and for purposes of religion and defense. Among towers are included the}}<noinclude><references/></noinclude>"
+}

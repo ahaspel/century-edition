@@ -1,0 +1,277 @@
+{
+ "volume": 8,
+ "page_number": 161,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n160.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n160.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-13",
+  "angle": -0.05,
+  "column_width": 848,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     90,
+     2309,
+     214
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     214,
+     848,
+     1145
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1145,
+     848,
+     1584
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1584,
+     848,
+     2423
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2423,
+     848,
+     3216
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     214,
+     1583,
+     1263
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     1263,
+     1583,
+     2354
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     2354,
+     1583,
+     3216
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1583,
+     214,
+     2309,
+     556
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1583,
+     556,
+     2309,
+     1482
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1583,
+     1482,
+     2309,
+     1505
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1583,
+     1505,
+     2309,
+     2152
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1583,
+     2152,
+     2309,
+     2618
+    ]
+   },
+   {
+    "name": "c3c2",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1583,
+     2628,
+     2309,
+     2651
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1583,
+     2651,
+     2309,
+     3216
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|title|6357|titration}}",
+   "c1s1": "{{smaller block|or Mons.), Madame (Mme.), Doctor (Dr.), Professor (Prof.), Judge, General, etc. Titles of office are subdivided into ''royal'' or ''imperial titles'' (including those distinctively pertaining to members of sovereign families), ''civil, judicial, ecclesiastical, military, naval,'' etc. ''Titles of honor'' are such titles belonging to any of the above classes as denote superior rank or station, or special distinction of any kind.}}\n\n'''9.''' Titular or aristocratic rank; titled nobility or dignity. [Rare.]\n\n{{smaller block|Tom never fails of paying his obeisance to every man he sees who has ''title'' or office to make him conspicuous; . . . ''Title'' is all he knows of honour, and civility of friendship.\n{{right|''Steele'', Tatler, No. 204.}}}}\n\n'''10.''' A grade or degree of fineness; especially, the number of carats by which the fineness of gold is expressed.\n\n{{smaller block|Caret . . . is only an imaginary weight; the whole mass is divided into twenty-four equal parts, and as many as there are of these that are of pure gold constitute the ''title'' of the alloy.\n{{right|''F. Vors'', Bibelots and Curios, p. 58.}}}}\n\n{{smaller block|Jewellers solder with gold of a lower ''title'' than the article to be soldered.\n{{right|''Workshop Receipts'', 1st ser., p. 364.}}}}\n\n'''11.''' A claim; a right; a designated ground of claim; a conferred or acquired warrant; an attributed privilege or franchise.\n\n{{smaller block|Therfor a ''title'' he gan him for to borwe\nOf other sicknesse, lest men of him wende\nThat the hote fire of love him brende.\n{{right|''Chaucer'', Troilus, i. 488.}}}}\n\n{{smaller block|Make claim and ''title'' to the crown of France.\n{{right|''Shak.'', Hen. V., i. 2. 68.}}}}\n\n'''12.''' An inherent or established right; a fixed",
+   "c1s2": "franchise; a just or recognized claim.\n\n{{smaller block|Even such an one [an ill prince] hath a ''title'' to our prayers and thanksgivings. {{right|''Bp. Atterbury'', Sermons, I. viii.}}}}\n\n{{smaller block|I have the same ''title'' to write on prudence that I have to write on poetry or holiness.\n{{right|''Emerson'', Essays, 1st ser., p. 201.}}}}\n\n13. In ''law:'' (''a'') Ownership: as, the ''title'' was not in the husband, but in his wife; her ''title'' was subject to encumbrance. (''b'') The channel through which an owner has acquired his right; the collection of facts from which, by the operation of law, his right arises: as, an abstract of ''title'' sets forth the chain of instruments, etc., by which the owner became owner. (''c'') Absolute",
+   "c1s3": "ownership; the unencumbered fee. {{smaller|In a contract to convey title or to warrant the title, the word is usually understood in this sense, in which it includes the right of property, the right of possession, and actual possession.}} (''d'') The instrument which is evidence of a right; a title-deed. {{smaller|''Title'' is more appropriately used of real property; ''ownership'' of personal, but also to some extent of real property. Among the older commentators on Roman law it was usual to call ''title'' (''titulus'') the contract or other legal act which was the remote cause of a person's acquiring property (for example, a contract of sale), while the immediate cause (for example, delivery) was called ''modus''. In order to have ownership there had to be a perfect titulus and modus. This doctrine is alien to the Roman jurists, and is now universally repudiated.}} '''14.''' Hence, a source or evidence of any right or privilege; that which establishes a claim or an attribution: as, Gray's \"Elegy\" is his chief ''title'' to fame; his discharge is his ''title'' of exemption.—'''15.''' ''Eccles.'': (''a'') Originally, a district in the city of Rome with taxable revenue; hence, a district in that city attached to a parish church; a Roman parish church, as distinguished from a basilica or an oratory. The clergy belonging to these churches received the epithet \"cardinal,\" whence the title ''cardinal.''\n\n{{smaller block|In the Roman Church parish churches or ''Titles'' seem to have been first instituted in the time of Pope Marcellus (304).\n{{right|''Cath. Dict.'', p. 118.}}}}",
+   "c1s4": "¶\n(''b'') A fixed sphere of work and source of income, required as a condition of ordination.\n\n{{smaller block|Since the Council of Chalcedon, {{sc|a. d.}} 451, it has always been the rule to refuse to admit to ordination any one not appointed to officiate in a particular church. Since the eleventh century a title in the present sense has been expressly required. The term has gradually changed its connotation from the idea of locality to that of assured support and of a warrant for orders. The Roman Catholic Church requires as title for orders nomination to a benefice sufficient for maintenance, sufficient private income, a guarantee of support from some person or persons, or monastic poverty as entitling to maintenance by the order. In the Church of England a cure of souls, chaplaincy, fellowship, or the like is required, or residence as master of arts with sufficient private means. In the American Episcopal Church engagement with some church, parish, or congregation, with some diocesan or recognized general missionary society, as instructor in some incorporated institution, or as chaplain in the national army or navy is requisite for admission to priest's orders.}}\n\n{{smaller block|The candidates . . . must each have a ''title'' for orders — that is, a sphere of labour under some clergyman, with a proper stipend for his support — before he can be ordained.\n{{right|''A. Fonblanque, Jr.'', How we are Governed, p. 86.}}}}\n\n16†. Same as ''tittle''<sup>2</sup>. ''Wyclif'', Mat. v.—'''Abstract of title.''' See ''abstract.''—'''Bastard title.''' See ''bastard.''—'''Bonitarian title.''' See ''bonitarian.''—'''Cloud on a title,''' in ''law'', something that renders a holder's title to land or other property doubtful, as the existence of an adverse in-",
+   "c2s1": "{{smaller|but which can be shown to be invalid by proof of extrinsic facts, although its invalidity has not yet been judicially declared, as a fraudulent mortgage or assessment on the land, or a judgment affecting its ownership, founded on a false affidavit of notice to the defendants.—'''Color of title.''' See ''color.''—'''Courtesy title.''' See ''courtesy'', and def. 8.—'''Declaration of Title Act.''' See ''declaration.''—'''Equitable title.''' See ''equitable estate'', under ''estate.''—'''Extension of title.''' See ''extension.''—'''Good holding title.''' See ''marketable title.''—'''Half title.''' See ''half-title.''—'''Lucrative title,''' in ''Spanish Mexican law'', title created by donation, devise, or descent. ''Platt.''—'''Marketable, onerous, passive title.''' See the adjectives.—'''Pierced for title,''' specially prepared for the title, as leather for a book-cover is which has had an addition between the bands of one or more squares of colored leather, on which the title is put. This is done only on calf, vellum, or sheep.—'''Progress of title.''' See ''progress.''—'''Running title.''' See ''running.''—'''Side title,''' a title placed on the upper cover of a bound book, as when the back is too narrow to admit a line of letters, or when the book so treated is usually to be exposed on a table.—'''Title by forfeiture, by prescription, by succession.''' See ''forfeiture'', etc.—'''Title of entry.''' See ''entry'', 10 (''a'').—'''Title rôle.''' See ''rôle.''—'''Unity of title,''' the title of two or more joint tenants, or tenants in common, or persons alleged so to be, derived or deduced immediately from one and the same source by one and the same act or fact. =''Syn.''' 7. ''Designation'', etc. See ''name.''}}\n\n'''title''' (tī′tl), ''v. t.''; pret. and pp. ''titled'', ppr. ''titling.'' [= OF. ''tituler'' = Sp. Pg. ''titular'' = It. ''titolare'', < LL. ''titulare'', give a title or name to, < L. ''titulus'', a title: see ''title'', ''n.'' Cf. ''entitle'', ''entitule'', ''intitule.''] '''1.''' To call by a title, or by the title of; entitle; name.\n\n{{smaller block|I understand, by rumours, you've a daughter,\nWhich my bold love shall henceforth ''title'' cousin.\n{{right|''Middleton'', Chaste Maid, iv. 1.}}}}\n\n'''2.''' To give a right to be entitled; bestow or confer the title or designation of.",
+   "c2s2": "{{smaller block|To these that sober race of men, whose lives\nReligious ''titled'' them the sons of God,\nShall yield up all their virtue, all their fame.\n{{right|''Milton'', P. L., xi. 622.}}}}\n\n'''titled''' (tī′tld), ''a.'' [< ''title'' + ''-ed''<sup>2</sup>.] Having or bearing a title, especially one which is constantly used, either with the name or instead of it; specifically, bearing a title of nobility; noble.\n\n'''title-deed''' (tī′tl-dēd), ''n.'' 1. A deed by virtue of which, or one of several deeds or of a chain of conveyances by virtue of which, a person claims title. {{smaller|The term is commonly used in the plural of the several earlier muniments of title usually delivered over by a grantor on parting with his property to the grantee.}}\n\n2. That which confers a right or title of any kind; especially, a distinguishing deed or achievement; a ground of consideration, eminence, or fame.\n\n'''title-leaf''' (tī′tl-lēf), ''n.'' The leaf of a book on which the title is printed; a title-page.\n\n{{smaller block|There was another book at the end of these, in whose ''title-leaf'' the first of the contents was.\n{{right|''Court and Times of Charles I.'', I. 115.}}}}\n\n'''titleless''' (tī′tl-les), ''a.'' [< ME. ''titleles''; < ''title'' + ''-less''.] 1. Having no title or name.\n\n{{smaller block|He was a kind of nothing, ''titleless'',\nTill he had forged himself a name.\n{{right|''Shak.'', Cor., v. 1. 13.}}}}\n\n2. Devoid of rightful claim or title; unentitled; lawless.\n\n{{smaller block|Right so bitwixe a ''titleles'' tiraunt\nAnd an outlawe, or a theef erraunt,\nThe same I seye, ther is no difference.\n{{right|''Chaucer'', Manciple's Tale, l. 119.}}}}",
+   "c2s3": "¶\n'''title-letter''' (tī′tl-let″ėr), ''n.'' The types, collectively, selected for titles. Also ''title-type.''\n\n'''title-page''' (tī′tl-pāj), ''n.'' The preliminary page of a book, or of a written or printed work of any kind, which contains its full title and particulars as to its authorship, publication, etc.\n\n{{smaller block|The Younger Brother, or the Fortunate Cheat, had been much a more proper Name. Now when a Poet can't rig out a ''Title Page,'' 'tis but a bad sign of his holding out to the Epilogue. ''Jeremy Collier,'' Short View (ed. 1698), p. 210.}}\n\n'''titler''' (tit′lėr), ''n.'' [Origin obscure.] A large truncated cone of refined sugar. ''Simmonds.''\n\n'''title-sheet''' (tī′tl-shēt), ''n.'' In ''printing,'' the first sheet of a book, which usually contains the title, bastard title, and other preliminary matter.\n\n'''title-type''' (tī′tl-tīp), ''n.'' Same as ''title-letter.''\n\n'''titlin,''' ''n.'' Same as ''titling.'' ''Florio.''\n\n'''titling<sup>1</sup>''' (tit′ling), ''n.'' [Formerly or dial. also ''titlin;'' < Icel. ''titlingr;'' as ''tit''<sup>2</sup> + ''-ling''<sup>1</sup>.] 1. Some small bird. {{smaller|Specifically—(''a'') A titlark or pipit. (''b'') A tit or titmouse. (''c'') In Scotland, the hedge-sparrow.}}\n\n2. A name formerly given in the custom-house to stock-fish. ''Simmonds.''—'''Cuckoo's titling.''' {{smaller|Same as ''cuckoo's sandy'' (which see, under ''sandy''<sup>1</sup>). [Prov. Eng.]}}—'''Field-, meadow-,''' or '''moor-titling,''' {{smaller|''Anthus pratensis.'' (See also ''sea-titling.'')}}\n\n'''titling<sup>2</sup>''' (tī′tling), ''n.'' [Verbal n. of ''title, v.''] In ''bookbinding,'' impressing, usually in gold-leaf, on",
+   "c3s1": "¶\n'''titmal''' (tit′mal), ''n.'' Same as ''timal.''\n\n'''titmouse''' (tit′mous), ''n.''; pl. usually ''titmice'' (-mīs), properly ''titmouses'' (-mou-sez). [Early mod. E. also ''titmose'', also rarely ''tittimouse''; < ME. ''titmose'', ''titemose'', ''tytemose'', ''titmase'', and later ''tittimouse''; < ''tit''<sup>2</sup> + ME. ''mose'', < AS. ''māse'', a name for several kinds of birds: see ''coal-mouse''.] A tit; a tomtit; any bird of the family ''Paridæ'', and especially of the subfamily ''Parinæ''. (See the technical names, and cuts under ''chickadee'' and",
+   "c3c1": "{{c|Long-tailed Titmouse (''Acredula caudata'').}}",
+   "c3s2": "''Parus.'') Those of the genus ''Parus'' which occur in Great Britain, and hence have popular English names, are the greater titmouse, ''P. major;'' the coal-tit, ''P. ater'' (of which the British variety is sometimes called ''P. britannicus''); the marsh-tit, ''P. palustris;'' the blue tit, ''P. cæruleus;'' and the crested tit, ''P.'' (''Lophophanes'') ''cristatus.'' The long-tailed titmouse is ''Acredula caudata'' or ''rosea.'' The bearded titmouse is ''Panurus'' (or ''Calamophilus'') ''biarmicus'' (sometimes put in another family, ''Panuridæ''). In the United States are a number of titmice, commonly called ''chickadees,'' with smooth heads and black caps and throats, as ''Parus atricapillus,'' etc. There are also several crested ones, forming the genus or subgenus ''Lophophanes,'' as the peto, or tufted titmouse, ''L. bicolor,'' the black-crested, ''L. atrocristatus,'' and others. Titmice which build long pensile nests are called in England ''bottle-tits,'' and by many provincial names, including ''poke-pudding.'' Those of the United States which have this habit are the bush-tits of the genus ''Psaltriparus.'' (See cut under ''bush-tit.'') Others, of Europe and Africa, form the genus ''Ægithalus,'' as ''Æ. pendulinus,'' the penduline titmouse. The gold tit, or yellow-headed titmouse, of the southwestern United States, ''Auriparus flaviceps,'' also builds a very bulky and elaborate nest of twigs stuffed with feathers. Some of the British",
+   "c3c2": "{{c|Tufted Titmouse (''Lophophanes bicolor'').}}",
+   "c3s3": "tits are called ''oxeye,'' and others ''hickwall.''—'''Azure titmouse.''' See ''azure tit,'' under ''tit''<sup>2</sup>.—'''Bahama titmouse†,''' the guitguit of Bahama, ''Certhiola bahamensis.''—'''Greater titmouse,''' ''Parus major,'' of Europe. See cut under ''Parus.''—'''New Zealand titmouse†,''' any species of ''Certhiparus''; originally, ''C. novæ-zealandiæ.'' ''Latham,'' 1781.—'''Plain titmouse,''' ''Lophophanes inornatus,'' common in the southwestern parts of the United States, having the crest concolor with the back.—'''Siberian titmouse,''' ''Parus cinctus.''—'''Toupet titmouse†.''' See ''toupet,'' 2. ''Latham.''\n\n'''titrate''' (tit′rāt), ''v. t.''; pret. and pp. ''titrated,'' ppr. ''titrating.'' [< F. ''titre,'' title, standard of fineness (see ''title,'' ''n.,'' 10), + ''-ate''<sup>2</sup>.] To submit to the process of titration.\n\n{{smaller block|The whole [mixture] is to be cooled and ''titrated'' as usual with iodine, using starch as an indicator.\n{{right|''Amer. Jour. Sci.,'' 3d ser., XL. 71.}}}}\n\n'''titration''' (ti-trā′shọn), ''n.'' [< ''titrate'' + ''-ion.''] In ''analytical chem.,'' a process for ascertaining"
+  },
+  "figure_files": {
+   "c3f1": "century v08 p0161 c3f1.png",
+   "c3f2": "century v08 p0161 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1629,
+     559,
+     2290,
+     1464
+    ],
+    "caption": [
+     1729,
+     1479,
+     2178,
+     1505
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1688,
+     561,
+     2248,
+     1459
+    ]
+   },
+   {
+    "box": [
+     1691,
+     2151,
+     2203,
+     2616
+    ],
+    "caption": [
+     1738,
+     2628,
+     2157,
+     2651
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1781,
+     2144,
+     2225,
+     2614
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    2,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 3,
+    "input_tokens": 5837,
+    "output_tokens": 181,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 13,
+    "input_tokens": 8602,
+    "output_tokens": 7376,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 35282
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|title|6357|titration}}</noinclude>{{smaller block|or Mons.), Madame (Mme.), Doctor (Dr.), Professor (Prof.), Judge, General, etc. Titles of office are subdivided into ''royal'' or ''imperial titles'' (including those distinctively pertaining to members of sovereign families), ''civil, judicial, ecclesiastical, military, naval,'' etc. ''Titles of honor'' are such titles belonging to any of the above classes as denote superior rank or station, or special distinction of any kind.}}\n\n'''9.''' Titular or aristocratic rank; titled nobility or dignity. [Rare.]\n\n{{smaller block|Tom never fails of paying his obeisance to every man he sees who has ''title'' or office to make him conspicuous; . . . ''Title'' is all he knows of honour, and civility of friendship.\n{{right|''Steele'', Tatler, No. 204.}}}}\n\n'''10.''' A grade or degree of fineness; especially, the number of carats by which the fineness of gold is expressed.\n\n{{smaller block|Caret . . . is only an imaginary weight; the whole mass is divided into twenty-four equal parts, and as many as there are of these that are of pure gold constitute the ''title'' of the alloy.\n{{right|''F. Vors'', Bibelots and Curios, p. 58.}}}}\n\n{{smaller block|Jewellers solder with gold of a lower ''title'' than the article to be soldered.\n{{right|''Workshop Receipts'', 1st ser., p. 364.}}}}\n\n'''11.''' A claim; a right; a designated ground of claim; a conferred or acquired warrant; an attributed privilege or franchise.\n\n{{smaller block|Therfor a ''title'' he gan him for to borwe\nOf other sicknesse, lest men of him wende\nThat the hote fire of love him brende.\n{{right|''Chaucer'', Troilus, i. 488.}}}}\n\n{{smaller block|Make claim and ''title'' to the crown of France.\n{{right|''Shak.'', Hen. V., i. 2. 68.}}}}\n\n'''12.''' An inherent or established right; a fixed franchise; a just or recognized claim.\n\n{{smaller block|Even such an one [an ill prince] hath a ''title'' to our prayers and thanksgivings. {{right|''Bp. Atterbury'', Sermons, I. viii.}}}}\n\n{{smaller block|I have the same ''title'' to write on prudence that I have to write on poetry or holiness.\n{{right|''Emerson'', Essays, 1st ser., p. 201.}}}}\n\n13. In ''law:'' (''a'') Ownership: as, the ''title'' was not in the husband, but in his wife; her ''title'' was subject to encumbrance. (''b'') The channel through which an owner has acquired his right; the collection of facts from which, by the operation of law, his right arises: as, an abstract of ''title'' sets forth the chain of instruments, etc., by which the owner became owner. (''c'') Absolute ownership; the unencumbered fee. {{smaller|In a contract to convey title or to warrant the title, the word is usually understood in this sense, in which it includes the right of property, the right of possession, and actual possession.}} (''d'') The instrument which is evidence of a right; a title-deed. {{smaller|''Title'' is more appropriately used of real property; ''ownership'' of personal, but also to some extent of real property. Among the older commentators on Roman law it was usual to call ''title'' (''titulus'') the contract or other legal act which was the remote cause of a person's acquiring property (for example, a contract of sale), while the immediate cause (for example, delivery) was called ''modus''. In order to have ownership there had to be a perfect titulus and modus. This doctrine is alien to the Roman jurists, and is now universally repudiated.}} '''14.''' Hence, a source or evidence of any right or privilege; that which establishes a claim or an attribution: as, Gray's \"Elegy\" is his chief ''title'' to fame; his discharge is his ''title'' of exemption.—'''15.''' ''Eccles.'': (''a'') Originally, a district in the city of Rome with taxable revenue; hence, a district in that city attached to a parish church; a Roman parish church, as distinguished from a basilica or an oratory. The clergy belonging to these churches received the epithet \"cardinal,\" whence the title ''cardinal.''\n\n{{smaller block|In the Roman Church parish churches or ''Titles'' seem to have been first instituted in the time of Pope Marcellus (304).\n{{right|''Cath. Dict.'', p. 118.}}}}\n\n(''b'') A fixed sphere of work and source of income, required as a condition of ordination.\n\n{{smaller block|Since the Council of Chalcedon, {{sc|a. d.}} 451, it has always been the rule to refuse to admit to ordination any one not appointed to officiate in a particular church. Since the eleventh century a title in the present sense has been expressly required. The term has gradually changed its connotation from the idea of locality to that of assured support and of a warrant for orders. The Roman Catholic Church requires as title for orders nomination to a benefice sufficient for maintenance, sufficient private income, a guarantee of support from some person or persons, or monastic poverty as entitling to maintenance by the order. In the Church of England a cure of souls, chaplaincy, fellowship, or the like is required, or residence as master of arts with sufficient private means. In the American Episcopal Church engagement with some church, parish, or congregation, with some diocesan or recognized general missionary society, as instructor in some incorporated institution, or as chaplain in the national army or navy is requisite for admission to priest's orders.}}\n\n{{smaller block|The candidates . . . must each have a ''title'' for orders — that is, a sphere of labour under some clergyman, with a proper stipend for his support — before he can be ordained.\n{{right|''A. Fonblanque, Jr.'', How we are Governed, p. 86.}}}}\n\n16†. Same as ''tittle''<sup>2</sup>. ''Wyclif'', Mat. v.—'''Abstract of title.''' See ''abstract.''—'''Bastard title.''' See ''bastard.''—'''Bonitarian title.''' See ''bonitarian.''—'''Cloud on a title,''' in ''law'', something that renders a holder's title to land or other property doubtful, as the existence of an adverse in{{smaller|but which can be shown to be invalid by proof of extrinsic facts, although its invalidity has not yet been judicially declared, as a fraudulent mortgage or assessment on the land, or a judgment affecting its ownership, founded on a false affidavit of notice to the defendants.—'''Color of title.''' See ''color.''—'''Courtesy title.''' See ''courtesy'', and def. 8.—'''Declaration of Title Act.''' See ''declaration.''—'''Equitable title.''' See ''equitable estate'', under ''estate.''—'''Extension of title.''' See ''extension.''—'''Good holding title.''' See ''marketable title.''—'''Half title.''' See ''half-title.''—'''Lucrative title,''' in ''Spanish Mexican law'', title created by donation, devise, or descent. ''Platt.''—'''Marketable, onerous, passive title.''' See the adjectives.—'''Pierced for title,''' specially prepared for the title, as leather for a book-cover is which has had an addition between the bands of one or more squares of colored leather, on which the title is put. This is done only on calf, vellum, or sheep.—'''Progress of title.''' See ''progress.''—'''Running title.''' See ''running.''—'''Side title,''' a title placed on the upper cover of a bound book, as when the back is too narrow to admit a line of letters, or when the book so treated is usually to be exposed on a table.—'''Title by forfeiture, by prescription, by succession.''' See ''forfeiture'', etc.—'''Title of entry.''' See ''entry'', 10 (''a'').—'''Title rôle.''' See ''rôle.''—'''Unity of title,''' the title of two or more joint tenants, or tenants in common, or persons alleged so to be, derived or deduced immediately from one and the same source by one and the same act or fact. =''Syn.''' 7. ''Designation'', etc. See ''name.''}}\n\n'''title''' (tī′tl), ''v. t.''; pret. and pp. ''titled'', ppr. ''titling.'' [= OF. ''tituler'' = Sp. Pg. ''titular'' = It. ''titolare'', < LL. ''titulare'', give a title or name to, < L. ''titulus'', a title: see ''title'', ''n.'' Cf. ''entitle'', ''entitule'', ''intitule.''] '''1.''' To call by a title, or by the title of; entitle; name.\n\n{{smaller block|I understand, by rumours, you've a daughter,\nWhich my bold love shall henceforth ''title'' cousin.\n{{right|''Middleton'', Chaste Maid, iv. 1.}}}}\n\n'''2.''' To give a right to be entitled; bestow or confer the title or designation of. {{smaller block|To these that sober race of men, whose lives\nReligious ''titled'' them the sons of God,\nShall yield up all their virtue, all their fame.\n{{right|''Milton'', P. L., xi. 622.}}}}\n\n'''titled''' (tī′tld), ''a.'' [< ''title'' + ''-ed''<sup>2</sup>.] Having or bearing a title, especially one which is constantly used, either with the name or instead of it; specifically, bearing a title of nobility; noble.\n\n'''title-deed''' (tī′tl-dēd), ''n.'' 1. A deed by virtue of which, or one of several deeds or of a chain of conveyances by virtue of which, a person claims title. {{smaller|The term is commonly used in the plural of the several earlier muniments of title usually delivered over by a grantor on parting with his property to the grantee.}}\n\n2. That which confers a right or title of any kind; especially, a distinguishing deed or achievement; a ground of consideration, eminence, or fame.\n\n'''title-leaf''' (tī′tl-lēf), ''n.'' The leaf of a book on which the title is printed; a title-page.\n\n{{smaller block|There was another book at the end of these, in whose ''title-leaf'' the first of the contents was.\n{{right|''Court and Times of Charles I.'', I. 115.}}}}\n\n'''titleless''' (tī′tl-les), ''a.'' [< ME. ''titleles''; < ''title'' + ''-less''.] 1. Having no title or name.\n\n{{smaller block|He was a kind of nothing, ''titleless'',\nTill he had forged himself a name.\n{{right|''Shak.'', Cor., v. 1. 13.}}}}\n\n2. Devoid of rightful claim or title; unentitled; lawless.\n\n{{smaller block|Right so bitwixe a ''titleles'' tiraunt\nAnd an outlawe, or a theef erraunt,\nThe same I seye, ther is no difference.\n{{right|''Chaucer'', Manciple's Tale, l. 119.}}}}\n\n'''title-letter''' (tī′tl-let″ėr), ''n.'' The types, collectively, selected for titles. Also ''title-type.''\n\n'''title-page''' (tī′tl-pāj), ''n.'' The preliminary page of a book, or of a written or printed work of any kind, which contains its full title and particulars as to its authorship, publication, etc.\n\n{{smaller block|The Younger Brother, or the Fortunate Cheat, had been much a more proper Name. Now when a Poet can't rig out a ''Title Page,'' 'tis but a bad sign of his holding out to the Epilogue. ''Jeremy Collier,'' Short View (ed. 1698), p. 210.}}\n\n'''titler''' (tit′lėr), ''n.'' [Origin obscure.] A large truncated cone of refined sugar. ''Simmonds.''\n\n'''title-sheet''' (tī′tl-shēt), ''n.'' In ''printing,'' the first sheet of a book, which usually contains the title, bastard title, and other preliminary matter.\n\n'''title-type''' (tī′tl-tīp), ''n.'' Same as ''title-letter.''\n\n'''titlin,''' ''n.'' Same as ''titling.'' ''Florio.''\n\n'''titling<sup>1</sup>''' (tit′ling), ''n.'' [Formerly or dial. also ''titlin;'' < Icel. ''titlingr;'' as ''tit''<sup>2</sup> + ''-ling''<sup>1</sup>.] 1. Some small bird. {{smaller|Specifically—(''a'') A titlark or pipit. (''b'') A tit or titmouse. (''c'') In Scotland, the hedge-sparrow.}}\n\n2. A name formerly given in the custom-house to stock-fish. ''Simmonds.''—'''Cuckoo's titling.''' {{smaller|Same as ''cuckoo's sandy'' (which see, under ''sandy''<sup>1</sup>). [Prov. Eng.]}}—'''Field-, meadow-,''' or '''moor-titling,''' {{smaller|''Anthus pratensis.'' (See also ''sea-titling.'')}}\n\n'''titling<sup>2</sup>''' (tī′tling), ''n.'' [Verbal n. of ''title, v.''] In ''bookbinding,'' impressing, usually in gold-leaf, on\n\n'''titmal''' (tit′mal), ''n.'' Same as ''timal.''\n\n'''titmouse''' (tit′mous), ''n.''; pl. usually ''titmice'' (-mīs), properly ''titmouses'' (-mou-sez). [Early mod. E. also ''titmose'', also rarely ''tittimouse''; < ME. ''titmose'', ''titemose'', ''tytemose'', ''titmase'', and later ''tittimouse''; < ''tit''<sup>2</sup> + ME. ''mose'', < AS. ''māse'', a name for several kinds of birds: see ''coal-mouse''.] A tit; a tomtit; any bird of the family ''Paridæ'', and especially of the subfamily ''Parinæ''. (See the technical names, and cuts under ''chickadee'' and ''Parus.'') Those of the genus ''Parus'' which occur in Great Britain, and hence have popular English names, are the greater titmouse, ''P. major;'' the coal-tit, ''P. ater'' (of which the British variety is sometimes called ''P. britannicus''); the marsh-tit, ''P. palustris;'' the blue tit, ''P. cæruleus;'' and the crested tit, ''P.'' (''Lophophanes'') ''cristatus.'' The long-tailed titmouse is ''Acredula caudata'' or ''rosea.'' The bearded titmouse is ''Panurus'' (or ''Calamophilus'') ''biarmicus'' (sometimes put in another family, ''Panuridæ''). In the United States are a number of titmice, commonly called ''chickadees,'' with smooth heads and black caps and throats, as ''Parus atricapillus,'' etc. There are also several crested ones, forming the genus or subgenus ''Lophophanes,'' as the peto, or tufted titmouse, ''L. bicolor,'' the black-crested, ''L. atrocristatus,'' and others. Titmice which build long pensile nests are called in England ''bottle-tits,'' and by many provincial names, including ''poke-pudding.'' Those of the United States which have this habit are the bush-tits of the genus ''Psaltriparus.'' (See cut under ''bush-tit.'') Others, of Europe and Africa, form the genus ''Ægithalus,'' as ''Æ. pendulinus,'' the penduline titmouse. The gold tit, or yellow-headed titmouse, of the southwestern United States, ''Auriparus flaviceps,'' also builds a very bulky and elaborate nest of twigs stuffed with feathers. Some of the British tits are called ''oxeye,'' and others ''hickwall.''—'''Azure titmouse.''' See ''azure tit,'' under ''tit''<sup>2</sup>.—'''Bahama titmouse†,''' the guitguit of Bahama, ''Certhiola bahamensis.''—'''Greater titmouse,''' ''Parus major,'' of Europe. See cut under ''Parus.''—'''New Zealand titmouse†,''' any species of ''Certhiparus''; originally, ''C. novæ-zealandiæ.'' ''Latham,'' 1781.—'''Plain titmouse,''' ''Lophophanes inornatus,'' common in the southwestern parts of the United States, having the crest concolor with the back.—'''Siberian titmouse,''' ''Parus cinctus.''—'''Toupet titmouse†.''' See ''toupet,'' 2. ''Latham.''\n\n[[File:century v08 p0161 c3f1.png|center|308px]]\n{{c|Long-tailed Titmouse (''Acredula caudata'').}}\n\n[[File:century v08 p0161 c3f2.png|center|308px]]\n{{c|Tufted Titmouse (''Lophophanes bicolor'').}}\n\n'''titrate''' (tit′rāt), ''v. t.''; pret. and pp. ''titrated,'' ppr. ''titrating.'' [< F. ''titre,'' title, standard of fineness (see ''title,'' ''n.,'' 10), + ''-ate''<sup>2</sup>.] To submit to the process of titration.\n\n{{smaller block|The whole [mixture] is to be cooled and ''titrated'' as usual with iodine, using starch as an indicator.\n{{right|''Amer. Jour. Sci.,'' 3d ser., XL. 71.}}}}\n\n'''titration''' (ti-trā′shọn), ''n.'' [< ''titrate'' + ''-ion.''] In ''analytical chem.,'' a process for ascertaining<noinclude><references/></noinclude>"
+}

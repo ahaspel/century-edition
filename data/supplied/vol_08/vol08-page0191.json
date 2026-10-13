@@ -1,0 +1,243 @@
+{
+ "volume": 8,
+ "page_number": 191,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n190.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n190.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-13",
+  "angle": 0.0,
+  "column_width": 833,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     98,
+     2292,
+     138
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     138,
+     833,
+     581
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     0,
+     581,
+     833,
+     792
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     0,
+     800,
+     833,
+     823
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     823,
+     833,
+     1840
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1840,
+     833,
+     2724
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2724,
+     833,
+     3315
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     833,
+     138,
+     1569,
+     543
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     833,
+     543,
+     1569,
+     1614
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     833,
+     1614,
+     1569,
+     2638
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     833,
+     2638,
+     1569,
+     3315
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     138,
+     2292,
+     1211
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     1211,
+     2292,
+     2228
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     2228,
+     2292,
+     3315
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|topmast|6387|topsail}}",
+   "c1s1": "¶\n'''topmast''' (top′mast), ''n.'' [< ''top''<sup>1</sup> + ''mast''<sup>1</sup>.] ''Naut.'', the second mast from the deck, or that which is next above the lower mast—main, fore, or mizzen.—{{smaller|'''Topmast-shrouds.''' See ''shroud''<sup>2</sup>.}}\n\n'''topmast-head''' (top′mạst-hed), ''n.'' The head or top of the topmast.\n\n{{smaller block|This sail, which is a triangular one, extends from the ''topmasthead'' to the deck.\n{{right|''Encyc. Brit.'', XXIV. 724.}}}}\n\n'''top-maul''' (top′mâl), ''n.'' Same as ''top-mall.''\n\n'''top-minnow''' (top′min″ō), ''n.'' One of several small ovoviviparous cyprinodont fishes related to the killifishes, as ''Gambusia patruelis'' or ''Zygonectes notatus'', both of the United States.",
+   "c1c1": "{{c|Top-minnow (''Gambusia patruelis''), male, natural size.}}",
+   "c1s2": "{{smaller block|The first-named abounds in the fresh waters of the southern United States. The male is much smaller than the female; the brood is brought forth early in the spring.}}\n\n'''top-minor''' (top′mī″nọr), ''n.'' In ''rope-making,'' one of the holes through which the individual strands are drawn on the way to the twisting-machine.\n\n'''topmost''' (top′mōst), ''a. superl.'' [< ''top''<sup>1</sup> + ''-most.''] Highest; uppermost.\n\n{{smaller block|Whose far-down pines are wont to tear<br>Locks of wool from the ''topmost'' cloud.\n{{right|''Lowell,'' Appledore, ii.}}}}\n\n'''topographer''' (tọ̄-pog′ra̤-fėr), ''n.'' [< ''topograph-y'' ''-er''<sup>1</sup>.] One who describes a particular place, town, city, tract of land, or country; one who is skilled in topography.\n\n{{smaller block|All the ''topographers'' that ever writ of . . . a town or countrey.\n{{right|''Howell,'' Forreine Travell (ed. Arber), p. 12.}}}}\n\n'''topographic''' (top-ọ̄-graf′ik), ''a.'' [= F. ''topographique'' = Sp. ''topográfico'' = Pg. ''topographico'' = It. ''topografico;'' as ''topograph-y'' + ''-ic.''] Same as ''topographical.''\n\n{{smaller block|The ''topographic'' description of this mighty empire.\n{{right|''Sir T. Herbert,'' Travels, p. 58.}}}}\n\n'''Topographic chart.''' {{smaller|See ''chart.''}}\n\n'''topographical''' (top-ọ̄-graf′i-ka̤l), ''a.'' [< ''topographic'' + ''-al.''] Of or pertaining to topography; of the nature of topography.—'''Topographical anatomy.''' {{smaller|See ''anatomy,'' and ''topography,'' 4.}}—'''Topographical surveying.''' {{smaller|See ''surveying.''}}\n\n'''topographically''' (top-ọ̄-graf′i-ka̤l-i), ''adv.'' In the manner of topography. ''Fuller,'' Worthies,",
+   "c1s3": "Kent.\n\n'''topographics''' (top-ọ̄-graf′iks), ''n.'' [Pl. of ''topographic'' (see ''-ics'').] Topography. ''Carlyle'', Sartor Resartus, ii. 8.\n\n'''topographist''' (tọ̄-pog′ra̤-fist), ''n.'' [< ''topograph-y'' + ''-ist.''] A topographer.\n\n'''topography''' (tọ̄-pog′ra̤-fi), ''n.'' [< F. ''topographie'' = Sp. ''topografía'' = Pg. ''topographia'' = It. ''topografia'', < LL. ''topographia'', < Gr. τοπογραφία, a description of a place, < τοπογράφος, describing a place, as a noun a topographer, < τόπος, place, + γράφειν, write.] 1. The detailed description of a particular locality, as a city, town, estate, parish, or tract of land; the detailed description of any region, including its cities, towns, villages, castles, etc.\n\n{{smaller block|In our ''topographie'' we haue at large set foorth and described the site of the land of Ireland.\n{{right|''Geraldus Cambrensis'', Conquest of Ireland, First Pref.<br>[(Holinshed's Chron., I.).}}}}\n\n2. The features of a region or locality collectively: as, the ''topography'' of a place.—3. In ''surv.'', the delineation of the features, natural and artificial, of a country or a locality.—4. In ''anat.'', regional anatomy; the mapping of the surface of the body with reference to the parts and organs lying beneath such divisions of the surface, or the bounding of any part of the body",
+   "c1s4": "by anatomical landmarks. {{smaller|The best examples of the former case of topography are the divisions of the abdominal and thoracic surfaces by arbitrary lines (see cuts under ''abdominal'' and ''thoracic''); of the latter case, the natural bounds of the axilla, the inguen, the poples, Scarpa's triangle, the several surgical triangles of the neck, etc. See ''triangle.''}}\n\n5. In ''zoöl.'', the determination of those different parts of the surface of an animal which may be conveniently recognized by name, for the purpose of ordinary description of specimens: as, the ''topography'' of a bird, a crab, an insect. {{smaller|Good examples are those figured under ''bird''<sup>1</sup> and ''Brachyura.'' Ordinary descriptive zoölogy proceeds very largely upon such topography.—'''Military topography,''' the minute description and delineation of a country or a locality, with special reference to its adaptability to military purposes.}}",
+   "c2s1": "¶\n'''topolatry''' (tō-pol′a-tri), ''n.'' [< Gr. τόπος, place, + λατρεια, worship.] Worship of or excessive reverence for a place or places; adoration of a place or places. [Recent.]\n\n{{smaller block|This little land [Palestine] became the object of a special adoration, a kind of ''topolatry,'' when the Church mounted with Constantine the throne of the Cæsars.\n{{right|''Macmillan's Mag.''}}}}\n\n'''topology''' (tọ̄-pol′ọ̄-ji), ''n.'' [< Gr. τόπος, place, + -λογια, < λέγειν, speak: see ''-ology''.] 1. The art or method of assisting the memory by associating the objects to be remembered with some place which is well known.—2. A branch of",
+   "c2s2": "geometry having reference to the modes of connection of lines and surfaces, but not to their shapes.\n\n¶\n'''Toponeura''' (top-ọ̄-nū′rä̤), ''n. pl.'' [NL., < Gr. τόπος, place, + νεῦρον, nerve.] A division of ''Hydrozoa'', containing those which are toponeural: distinguished from ''Cycloneura''. The division corresponds to ''Scyphomedusæ''. ''Eimer.''\n\n'''toponeural''' (top-ọ̄-nū′ral), ''a.'' [< ''Toponeura'' + ''-al''.] Having several separate marginal bodies or sense-organs, as a scyphomedusan; of or pertaining to the ''Toponeura''; not cycloneural.\n\n'''top-onion''' (top′un″yo̤n), ''n.'' See ''onion''.\n\n'''toponomy''' (tọ̄-pon′ọ̄-mi), ''n.'' [< Gr. τόπος, place, + ὄνομα, name.] The place-names of a country or district, or a register of such names.\n\n{{smaller block|The substitution of vague descriptions of dress and arms, and a vague ''toponomy'', for the full and definite descriptions and precise ''toponomy'' of the primitive poems.\n{{right|''Encyc. Brit.'', V. 306.}}}}\n\n'''toponym''' (top′ọ̄-nim), ''n.'' [< Gr. τόπος, place, + ὄνομα, ὄνυμα, name.] In ''anat.'', a topical or topographical name; the technical designation of any region of an animal, as distinguished from any organ: correlated with ''organonym'' and some similar terms. See ''toponymy''. ''Wilder and Gage; Leidy.''\n\n'''toponymal''' (tọ̄-pon′i-mal), ''a.'' [< ''toponym-y'' + ''-al''.] Of or pertaining to toponymy. ''Coues.''\n\n'''toponymic''' (top-ọ̄-nim′ik), ''a.'' [< ''toponym-y'' + ''-ic''.] Pertaining to toponymy: as, ''toponymic'' terminology.\n\n'''toponymical''' (top-ọ̄-nim′i-kal), ''a.'' [< ''toponymic'' + ''-al''.] Same as ''toponymic''. ''Wilder and''",
+   "c2s3": "''Gage.''\n\n'''toponymy''' (tō-pon′i-mi), ''n.'' [< Gr. τόπος, a place, + ὄνομα, ὄνυμα, name.] In ''anat.'', the designation of the position and direction of parts and organs, as distinguished from the names of the parts and organs themselves, which is the province of organonymy; regional or topographical nomenclature; topical terminology.—{{smaller|'''Extrinsic toponymy,''' the use of descriptive terms based upon the attitude of an animal in relation to the earth, as anterior, posterior, vertical, horizontal, etc. See the quotation under ''superior'', ''a.'', 2.—'''Intrinsic toponymy,''' the use of terms referring to regions of the animal itself, regardless of its habitual posture, as dorsal, ventral, ental, ectal, etc.}}\n\n'''topophone''' (top′ō-fōn), ''n.'' [< Gr. τόπος, a place, + φωνή, a sound, tone.] An instrument, invented by A. M. Mayer, for ascertaining the direction from which any sound proceeds, as the sound of a bell, whistle, or fog-horn at sea in thick weather. {{smaller|It consists essentially of a horizontal bar pivoted at the center so as to turn freely in any direction. At each end of the bar is a resonator opening in the same direction, each connected with a sound-tube for the corresponding ear of the observer. On moving the bar about, a position will be found in which both resonators face the source of the sound, when the sounds heard through the two tubes will be increased or reinforced. In any other position the sounds will be weakened. The direction of the sound when loudest will be at a right angle with the bar.}}\n\n'''top-pendant''' (top′pen″dant), ''n.'' ''Naut.'', a large rope used in sending topmasts up or down.\n\n'''topper''' (top′ėr), ''n.'' [< ''top''<sup>1</sup> + ''-er''<sup>1</sup>.] 1. One who or that which tops. {{smaller|(''a'') The upper part, layer, or covering of anything. [Colloq.]}}",
+   "c2s4": "¶\n{{smaller block|There was a boy beaten by a woman not long since for selling a big pottle of strawberries that was rubbish all under the ''toppers.'' It was all strawberry leaves, and crushed strawberries, and such like.\n{{right|''Mayhew,'' London Labour and London Poor, II. 137.}}}}\n\n{{smaller|(''b'') One who or that which excels; anything surpassing or extraordinary. [Colloq.]}} 2. A blow on the head. ''Hotten.'' [Slang.]—3. Same as ''float-file'' (which see, under ''file''<sup>1</sup>). ''E. H. Knight.''—4. The stump of a smoked cigar; the tobacco which is left in the bottom of a pipe-bowl. ''Encyc. Dict.''\n\n'''toppice†''', ''v.'' Same as ''tappice'' for ''tappish.''\n\n'''topping''' (top′ing), ''n.'' [< ME. ''toppyng;'' verbal n. of ''top''<sup>1</sup>, ''v.''] 1. The act of one who tops. {{smaller|(''a'') The act or practice of cutting off the top, as of a tree or plant.}}\n\n{{smaller block|The pruning-knife—zounds!—the axe! Why, here has been such lopping and ''topping,'' I sha'n't have the bare trunk of my play left presently.\n{{right|''Sheridan,'' The Critic, ii. 2.}}}}",
+   "c3s1": "{{smaller|(''b'') ''Naut.'', the act of pulling one extremity of a yard or boom higher than the other. (''c'') The act of reducing to an exact level the points of the teeth of a saw.}}\n\n2. That which tops; the upper part of anything; especially, a crest of hair, feathers, etc., upon the head: said of a forelock or topknot, an egret, the mane of a horse, etc.\n\n{{smaller block|The mane of that mayn hors much to hit lyke, . . .<br>The tayl & his ''toppyng'' twynnen of a sute,<br>& bounden bothe wyth a bande of a bryȝt grene.\n{{right|''Sir Gawayne and the Green Knight'' (E. E. T. S.), l. 191.}}}}\n\n3. ''pl.'' That which is cut off in topping, as the branches of a tree.—4. ''pl.'' That which comes from hemp in the process of hatcheling.—5. The tail of an artificial fly, used by anglers, usually a feather from the crest of the golden pheasant. ''Sportsman's Gazetteer'', p. 599.\n\n'''topping''' (top′ing), ''p. a.'' 1. Rising above all others; loftiest; overtopping.\n\n{{smaller block|Ridges of lofty and ''topping'' mountains.\n{{right|''Derham'', Physico-Theol. (''Latham.'')}}}}\n\n2. Surpassing; towering; preëminent; distinguished.\n\n{{smaller block|The thoughts of the mind . . . are uninterruptedly employed that way, by the determination of the will, influenced by that ''topping'' uneasiness as long as it lasts.\n{{right|''Locke'', Human Understanding, II. xxi. § 38.}}}}\n\n{{smaller block|I have heard say he [the Governor of Achin] had not less than 1000 Slaves, some of whom were ''topping'' Merchants, and had many Slaves under them.\n{{right|''Dampier'', Voyages, II. i. 141.}}}}\n\n{{smaller block|Of all who have attempted Homer, he [Chapman] has the ''topping'' merit of being inspired by him.\n{{right|''Lowell'', Study Windows, p. 326.}}}}\n\n3. Lofty; pretentious; assuming; arrogant.",
+   "c3s2": "¶\n{{smaller block|The Friend was a poor little man, of a low condition and mean appearance; whereas these two Baptists were ''topping'' blades, that looked high and spake big.\n{{right|''T. Ellwood'', Life (ed. Howells), p. 291.}}}}\n\n{{smaller block|I have a project of turning three or four of our most ''topping'' fellows into doggrel.\n{{right|''Farquhar'', Love and a Bottle, iii. 2.}}}}\n\n4. Fine; well; excellent. [Prov. Eng.]\n\n{{smaller block|I don't like her to come by herself, now she 's not so terrible ''topping'' in health.\n{{right|''T. Hardy'', Under the Greenwood Tree, iv. 4.}}}}\n\n'''topping-lift''' (top′ing-lift), ''n.'' See ''lift''<sup>2</sup>.\n\n'''toppingly''' (top′ing-li), ''a.'' [< ''topping'' + ''-ly''<sup>1</sup>.] 1†. Topping; fine.\n\n{{smaller block|These ''toppingly'' guests be in number but ten,\nAs welcome in dairy as bears among men.\n{{right|''Tusser'', April's Husbandry, Lesson for Dairy-Maid.}}}}\n\n2. In good health; well. ''Halliwell.'' [Prov. Eng.]\n\n'''toppingly†''' (top′ing-li), ''adv.'' [< ''topping'' + ''-ly''<sup>2</sup>.] In a topping manner; eminently; finely; roundly.\n\n{{smaller block|I mean to marry her ''toppingly'' when she least thinks of it.\n{{right|''Jarvis'', tr. of Don Quixote, II. iii. 18. (''Davies.'')}}}}\n\n'''topple''' (top′l), ''v.''; pret. and pp. ''toppled'', ppr. ''toppling''. [Freq. of ''top''<sup>1</sup>; possibly an accom. form of ME. ''torple'', q. v.] I. ''intrans.'' 1. To fall top or head foremost; fall forward as having too heavy a top; pitch or tumble down.\n\n{{smaller block|Though castles ''topple'' on their warders' heads;\nThough palaces and pyramids do slope\nTheir heads to their foundations.\n{{right|''Shak.'', Macbeth, iv. 1. 56.}}}}",
+   "c3s3": "{{smaller block|His enemy hath digged a pit in his way, and in he ''topples'', even to the depths of hell.\n{{right|''Rev. T. Adams'', Works, I. 216.}}}}\n\n2. To overhang; jut, as if threatening to fall.\n\n{{smaller block|The ''toppling'' crags of Duty scaled\nAre close upon the shining table-lands\nTo which our God Himself is moon and sun.\n{{right|''Tennyson'', Death of Wellington, viii.}}}}\n\nII. ''trans.'' To throw headlong; tumble; overturn; upset.\n\n{{smaller block|It would be an Herculean task to hoist a man to the top of a steeple, though the merest child could ''topple'' him off thence.\n{{right|''Irving'', Knickerbocker, p. 239.}}}}\n\n'''top-proud†''' (top′proud), ''a.'' Proud in the highest degree. ''Shak.'', Hen. VIII., i. 1. 151.\n\n'''top-rail''' (top′rāl), ''n.'' ''Naut.'', a bar extended on stanchions across the after part of a top. See ''rail''<sup>1</sup>, 4.\n\n'''topright†''' (top′rīt), ''a.'' [< ''top''<sup>1</sup> + ''right''.] Upright; erect.\n\n{{smaller block|His ''topright'' crest from crown downe falles.\n{{right|''Phaer'', Æneid, ix.}}}}\n\n'''top-rim''' (top′rim), ''n.'' The rim or edge of a ship's top.\n\n'''top-rope''' (top′rōp), ''n.'' ''Naut.'', a rope to sway up a topmast, etc.\n\n'''topsail''' (top′sāl or -sl), ''n.'' [< ME. ''topsayle'', ''topseyle'', ''toppesaile'' (= D. ''topzeil''); < ''top''<sup>1</sup> + ''sail''<sup>1</sup>.] ''Naut.'', a square sail next above the lowest or chief sail of a mast. It is carried on a topsail-yard."
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0191 c1f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     143,
+     584,
+     777,
+     789
+    ],
+    "caption": [
+     170,
+     800,
+     748,
+     823
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     137,
+     561,
+     778,
+     791
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 4102,
+    "output_tokens": 93,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 13,
+    "input_tokens": 9857,
+    "output_tokens": 9672,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 35282
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|topmast|6387|topsail}}</noinclude>'''topmast''' (top′mast), ''n.'' [< ''top''<sup>1</sup> + ''mast''<sup>1</sup>.] ''Naut.'', the second mast from the deck, or that which is next above the lower mast—main, fore, or mizzen.—{{smaller|'''Topmast-shrouds.''' See ''shroud''<sup>2</sup>.}}\n\n'''topmast-head''' (top′mạst-hed), ''n.'' The head or top of the topmast.\n\n{{smaller block|This sail, which is a triangular one, extends from the ''topmasthead'' to the deck.\n{{right|''Encyc. Brit.'', XXIV. 724.}}}}\n\n'''top-maul''' (top′mâl), ''n.'' Same as ''top-mall.''\n\n'''top-minnow''' (top′min″ō), ''n.'' One of several small ovoviviparous cyprinodont fishes related to the killifishes, as ''Gambusia patruelis'' or ''Zygonectes notatus'', both of the United States. {{smaller block|The first-named abounds in the fresh waters of the southern United States. The male is much smaller than the female; the brood is brought forth early in the spring.}}\n\n[[File:century v08 p0191 c1f1.png|center|360px]]\n{{c|Top-minnow (''Gambusia patruelis''), male, natural size.}}\n\n'''top-minor''' (top′mī″nọr), ''n.'' In ''rope-making,'' one of the holes through which the individual strands are drawn on the way to the twisting-machine.\n\n'''topmost''' (top′mōst), ''a. superl.'' [< ''top''<sup>1</sup> + ''-most.''] Highest; uppermost.\n\n{{smaller block|Whose far-down pines are wont to tear<br>Locks of wool from the ''topmost'' cloud.\n{{right|''Lowell,'' Appledore, ii.}}}}\n\n'''topographer''' (tọ̄-pog′ra̤-fėr), ''n.'' [< ''topograph-y'' ''-er''<sup>1</sup>.] One who describes a particular place, town, city, tract of land, or country; one who is skilled in topography.\n\n{{smaller block|All the ''topographers'' that ever writ of . . . a town or countrey.\n{{right|''Howell,'' Forreine Travell (ed. Arber), p. 12.}}}}\n\n'''topographic''' (top-ọ̄-graf′ik), ''a.'' [= F. ''topographique'' = Sp. ''topográfico'' = Pg. ''topographico'' = It. ''topografico;'' as ''topograph-y'' + ''-ic.''] Same as ''topographical.''\n\n{{smaller block|The ''topographic'' description of this mighty empire.\n{{right|''Sir T. Herbert,'' Travels, p. 58.}}}}\n\n'''Topographic chart.''' {{smaller|See ''chart.''}}\n\n'''topographical''' (top-ọ̄-graf′i-ka̤l), ''a.'' [< ''topographic'' + ''-al.''] Of or pertaining to topography; of the nature of topography.—'''Topographical anatomy.''' {{smaller|See ''anatomy,'' and ''topography,'' 4.}}—'''Topographical surveying.''' {{smaller|See ''surveying.''}}\n\n'''topographically''' (top-ọ̄-graf′i-ka̤l-i), ''adv.'' In the manner of topography. ''Fuller,'' Worthies, Kent.\n\n'''topographics''' (top-ọ̄-graf′iks), ''n.'' [Pl. of ''topographic'' (see ''-ics'').] Topography. ''Carlyle'', Sartor Resartus, ii. 8.\n\n'''topographist''' (tọ̄-pog′ra̤-fist), ''n.'' [< ''topograph-y'' + ''-ist.''] A topographer.\n\n'''topography''' (tọ̄-pog′ra̤-fi), ''n.'' [< F. ''topographie'' = Sp. ''topografía'' = Pg. ''topographia'' = It. ''topografia'', < LL. ''topographia'', < Gr. τοπογραφία, a description of a place, < τοπογράφος, describing a place, as a noun a topographer, < τόπος, place, + γράφειν, write.] 1. The detailed description of a particular locality, as a city, town, estate, parish, or tract of land; the detailed description of any region, including its cities, towns, villages, castles, etc.\n\n{{smaller block|In our ''topographie'' we haue at large set foorth and described the site of the land of Ireland.\n{{right|''Geraldus Cambrensis'', Conquest of Ireland, First Pref.<br>[(Holinshed's Chron., I.).}}}}\n\n2. The features of a region or locality collectively: as, the ''topography'' of a place.—3. In ''surv.'', the delineation of the features, natural and artificial, of a country or a locality.—4. In ''anat.'', regional anatomy; the mapping of the surface of the body with reference to the parts and organs lying beneath such divisions of the surface, or the bounding of any part of the body by anatomical landmarks. {{smaller|The best examples of the former case of topography are the divisions of the abdominal and thoracic surfaces by arbitrary lines (see cuts under ''abdominal'' and ''thoracic''); of the latter case, the natural bounds of the axilla, the inguen, the poples, Scarpa's triangle, the several surgical triangles of the neck, etc. See ''triangle.''}}\n\n5. In ''zoöl.'', the determination of those different parts of the surface of an animal which may be conveniently recognized by name, for the purpose of ordinary description of specimens: as, the ''topography'' of a bird, a crab, an insect. {{smaller|Good examples are those figured under ''bird''<sup>1</sup> and ''Brachyura.'' Ordinary descriptive zoölogy proceeds very largely upon such topography.—'''Military topography,''' the minute description and delineation of a country or a locality, with special reference to its adaptability to military purposes.}}\n\n'''topolatry''' (tō-pol′a-tri), ''n.'' [< Gr. τόπος, place, + λατρεια, worship.] Worship of or excessive reverence for a place or places; adoration of a place or places. [Recent.]\n\n{{smaller block|This little land [Palestine] became the object of a special adoration, a kind of ''topolatry,'' when the Church mounted with Constantine the throne of the Cæsars.\n{{right|''Macmillan's Mag.''}}}}\n\n'''topology''' (tọ̄-pol′ọ̄-ji), ''n.'' [< Gr. τόπος, place, + -λογια, < λέγειν, speak: see ''-ology''.] 1. The art or method of assisting the memory by associating the objects to be remembered with some place which is well known.—2. A branch of geometry having reference to the modes of connection of lines and surfaces, but not to their shapes.\n\n¶\n'''Toponeura''' (top-ọ̄-nū′rä̤), ''n. pl.'' [NL., < Gr. τόπος, place, + νεῦρον, nerve.] A division of ''Hydrozoa'', containing those which are toponeural: distinguished from ''Cycloneura''. The division corresponds to ''Scyphomedusæ''. ''Eimer.''\n\n'''toponeural''' (top-ọ̄-nū′ral), ''a.'' [< ''Toponeura'' + ''-al''.] Having several separate marginal bodies or sense-organs, as a scyphomedusan; of or pertaining to the ''Toponeura''; not cycloneural.\n\n'''top-onion''' (top′un″yo̤n), ''n.'' See ''onion''.\n\n'''toponomy''' (tọ̄-pon′ọ̄-mi), ''n.'' [< Gr. τόπος, place, + ὄνομα, name.] The place-names of a country or district, or a register of such names.\n\n{{smaller block|The substitution of vague descriptions of dress and arms, and a vague ''toponomy'', for the full and definite descriptions and precise ''toponomy'' of the primitive poems.\n{{right|''Encyc. Brit.'', V. 306.}}}}\n\n'''toponym''' (top′ọ̄-nim), ''n.'' [< Gr. τόπος, place, + ὄνομα, ὄνυμα, name.] In ''anat.'', a topical or topographical name; the technical designation of any region of an animal, as distinguished from any organ: correlated with ''organonym'' and some similar terms. See ''toponymy''. ''Wilder and Gage; Leidy.''\n\n'''toponymal''' (tọ̄-pon′i-mal), ''a.'' [< ''toponym-y'' + ''-al''.] Of or pertaining to toponymy. ''Coues.''\n\n'''toponymic''' (top-ọ̄-nim′ik), ''a.'' [< ''toponym-y'' + ''-ic''.] Pertaining to toponymy: as, ''toponymic'' terminology.\n\n'''toponymical''' (top-ọ̄-nim′i-kal), ''a.'' [< ''toponymic'' + ''-al''.] Same as ''toponymic''. ''Wilder and Gage.''\n\n'''toponymy''' (tō-pon′i-mi), ''n.'' [< Gr. τόπος, a place, + ὄνομα, ὄνυμα, name.] In ''anat.'', the designation of the position and direction of parts and organs, as distinguished from the names of the parts and organs themselves, which is the province of organonymy; regional or topographical nomenclature; topical terminology.—{{smaller|'''Extrinsic toponymy,''' the use of descriptive terms based upon the attitude of an animal in relation to the earth, as anterior, posterior, vertical, horizontal, etc. See the quotation under ''superior'', ''a.'', 2.—'''Intrinsic toponymy,''' the use of terms referring to regions of the animal itself, regardless of its habitual posture, as dorsal, ventral, ental, ectal, etc.}}\n\n'''topophone''' (top′ō-fōn), ''n.'' [< Gr. τόπος, a place, + φωνή, a sound, tone.] An instrument, invented by A. M. Mayer, for ascertaining the direction from which any sound proceeds, as the sound of a bell, whistle, or fog-horn at sea in thick weather. {{smaller|It consists essentially of a horizontal bar pivoted at the center so as to turn freely in any direction. At each end of the bar is a resonator opening in the same direction, each connected with a sound-tube for the corresponding ear of the observer. On moving the bar about, a position will be found in which both resonators face the source of the sound, when the sounds heard through the two tubes will be increased or reinforced. In any other position the sounds will be weakened. The direction of the sound when loudest will be at a right angle with the bar.}}\n\n'''top-pendant''' (top′pen″dant), ''n.'' ''Naut.'', a large rope used in sending topmasts up or down.\n\n'''topper''' (top′ėr), ''n.'' [< ''top''<sup>1</sup> + ''-er''<sup>1</sup>.] 1. One who or that which tops. {{smaller|(''a'') The upper part, layer, or covering of anything. [Colloq.]}}\n\n{{smaller block|There was a boy beaten by a woman not long since for selling a big pottle of strawberries that was rubbish all under the ''toppers.'' It was all strawberry leaves, and crushed strawberries, and such like.\n{{right|''Mayhew,'' London Labour and London Poor, II. 137.}}}}\n\n{{smaller|(''b'') One who or that which excels; anything surpassing or extraordinary. [Colloq.]}} 2. A blow on the head. ''Hotten.'' [Slang.]—3. Same as ''float-file'' (which see, under ''file''<sup>1</sup>). ''E. H. Knight.''—4. The stump of a smoked cigar; the tobacco which is left in the bottom of a pipe-bowl. ''Encyc. Dict.''\n\n'''toppice†''', ''v.'' Same as ''tappice'' for ''tappish.''\n\n'''topping''' (top′ing), ''n.'' [< ME. ''toppyng;'' verbal n. of ''top''<sup>1</sup>, ''v.''] 1. The act of one who tops. {{smaller|(''a'') The act or practice of cutting off the top, as of a tree or plant.}}\n\n{{smaller block|The pruning-knife—zounds!—the axe! Why, here has been such lopping and ''topping,'' I sha'n't have the bare trunk of my play left presently.\n{{right|''Sheridan,'' The Critic, ii. 2.}} (''b'') ''Naut.'', the act of pulling one extremity of a yard or boom higher than the other. (''c'') The act of reducing to an exact level the points of the teeth of a saw.}}\n\n2. That which tops; the upper part of anything; especially, a crest of hair, feathers, etc., upon the head: said of a forelock or topknot, an egret, the mane of a horse, etc.\n\n{{smaller block|The mane of that mayn hors much to hit lyke, . . .<br>The tayl & his ''toppyng'' twynnen of a sute,<br>& bounden bothe wyth a bande of a bryȝt grene.\n{{right|''Sir Gawayne and the Green Knight'' (E. E. T. S.), l. 191.}}}}\n\n3. ''pl.'' That which is cut off in topping, as the branches of a tree.—4. ''pl.'' That which comes from hemp in the process of hatcheling.—5. The tail of an artificial fly, used by anglers, usually a feather from the crest of the golden pheasant. ''Sportsman's Gazetteer'', p. 599.\n\n'''topping''' (top′ing), ''p. a.'' 1. Rising above all others; loftiest; overtopping.\n\n{{smaller block|Ridges of lofty and ''topping'' mountains.\n{{right|''Derham'', Physico-Theol. (''Latham.'')}}}}\n\n2. Surpassing; towering; preëminent; distinguished.\n\n{{smaller block|The thoughts of the mind . . . are uninterruptedly employed that way, by the determination of the will, influenced by that ''topping'' uneasiness as long as it lasts.\n{{right|''Locke'', Human Understanding, II. xxi. § 38.}}}}\n\n{{smaller block|I have heard say he [the Governor of Achin] had not less than 1000 Slaves, some of whom were ''topping'' Merchants, and had many Slaves under them.\n{{right|''Dampier'', Voyages, II. i. 141.}}}}\n\n{{smaller block|Of all who have attempted Homer, he [Chapman] has the ''topping'' merit of being inspired by him.\n{{right|''Lowell'', Study Windows, p. 326.}}}}\n\n3. Lofty; pretentious; assuming; arrogant.\n\n{{smaller block|The Friend was a poor little man, of a low condition and mean appearance; whereas these two Baptists were ''topping'' blades, that looked high and spake big.\n{{right|''T. Ellwood'', Life (ed. Howells), p. 291.}}}}\n\n{{smaller block|I have a project of turning three or four of our most ''topping'' fellows into doggrel.\n{{right|''Farquhar'', Love and a Bottle, iii. 2.}}}}\n\n4. Fine; well; excellent. [Prov. Eng.]\n\n{{smaller block|I don't like her to come by herself, now she 's not so terrible ''topping'' in health.\n{{right|''T. Hardy'', Under the Greenwood Tree, iv. 4.}}}}\n\n'''topping-lift''' (top′ing-lift), ''n.'' See ''lift''<sup>2</sup>.\n\n'''toppingly''' (top′ing-li), ''a.'' [< ''topping'' + ''-ly''<sup>1</sup>.] 1†. Topping; fine.\n\n{{smaller block|These ''toppingly'' guests be in number but ten,\nAs welcome in dairy as bears among men.\n{{right|''Tusser'', April's Husbandry, Lesson for Dairy-Maid.}}}}\n\n2. In good health; well. ''Halliwell.'' [Prov. Eng.]\n\n'''toppingly†''' (top′ing-li), ''adv.'' [< ''topping'' + ''-ly''<sup>2</sup>.] In a topping manner; eminently; finely; roundly.\n\n{{smaller block|I mean to marry her ''toppingly'' when she least thinks of it.\n{{right|''Jarvis'', tr. of Don Quixote, II. iii. 18. (''Davies.'')}}}}\n\n'''topple''' (top′l), ''v.''; pret. and pp. ''toppled'', ppr. ''toppling''. [Freq. of ''top''<sup>1</sup>; possibly an accom. form of ME. ''torple'', q. v.] I. ''intrans.'' 1. To fall top or head foremost; fall forward as having too heavy a top; pitch or tumble down.\n\n{{smaller block|Though castles ''topple'' on their warders' heads;\nThough palaces and pyramids do slope\nTheir heads to their foundations.\n{{right|''Shak.'', Macbeth, iv. 1. 56.}} His enemy hath digged a pit in his way, and in he ''topples'', even to the depths of hell.\n{{right|''Rev. T. Adams'', Works, I. 216.}}}}\n\n2. To overhang; jut, as if threatening to fall.\n\n{{smaller block|The ''toppling'' crags of Duty scaled\nAre close upon the shining table-lands\nTo which our God Himself is moon and sun.\n{{right|''Tennyson'', Death of Wellington, viii.}}}}\n\nII. ''trans.'' To throw headlong; tumble; overturn; upset.\n\n{{smaller block|It would be an Herculean task to hoist a man to the top of a steeple, though the merest child could ''topple'' him off thence.\n{{right|''Irving'', Knickerbocker, p. 239.}}}}\n\n'''top-proud†''' (top′proud), ''a.'' Proud in the highest degree. ''Shak.'', Hen. VIII., i. 1. 151.\n\n'''top-rail''' (top′rāl), ''n.'' ''Naut.'', a bar extended on stanchions across the after part of a top. See ''rail''<sup>1</sup>, 4.\n\n'''topright†''' (top′rīt), ''a.'' [< ''top''<sup>1</sup> + ''right''.] Upright; erect.\n\n{{smaller block|His ''topright'' crest from crown downe falles.\n{{right|''Phaer'', Æneid, ix.}}}}\n\n'''top-rim''' (top′rim), ''n.'' The rim or edge of a ship's top.\n\n'''top-rope''' (top′rōp), ''n.'' ''Naut.'', a rope to sway up a topmast, etc.\n\n'''topsail''' (top′sāl or -sl), ''n.'' [< ME. ''topsayle'', ''topseyle'', ''toppesaile'' (= D. ''topzeil''); < ''top''<sup>1</sup> + ''sail''<sup>1</sup>.] ''Naut.'', a square sail next above the lowest or chief sail of a mast. It is carried on a topsail-yard.<noinclude><references/></noinclude>"
+}

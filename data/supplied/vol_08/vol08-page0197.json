@@ -1,0 +1,431 @@
+{
+ "volume": 8,
+ "page_number": 197,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n196.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n196.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-13",
+  "angle": 0.0,
+  "column_width": 840,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     8,
+     34,
+     2306,
+     128
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     8,
+     128,
+     848,
+     1091
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     8,
+     1091,
+     848,
+     1553
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     8,
+     1556,
+     848,
+     1603
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     8,
+     1603,
+     848,
+     2441
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     628,
+     2441,
+     848,
+     2650
+    ]
+   },
+   {
+    "name": "c1c2",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     628,
+     2657,
+     848,
+     2698
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     8,
+     2441,
+     628,
+     2698
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     8,
+     2698,
+     848,
+     3209
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     128,
+     1585,
+     1174
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     1174,
+     1585,
+     2062
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     848,
+     2062,
+     1585,
+     2609
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     848,
+     2622,
+     1585,
+     2645
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     2645,
+     1585,
+     3209
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1585,
+     128,
+     2306,
+     881
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1585,
+     881,
+     2306,
+     1525
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1585,
+     1535,
+     2306,
+     1587
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1585,
+     1587,
+     2306,
+     1899
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     2167,
+     1924,
+     2306,
+     2520
+    ]
+   },
+   {
+    "name": "c3c2",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     2167,
+     2525,
+     2306,
+     2585
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1585,
+     1899,
+     2167,
+     2617
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1585,
+     2617,
+     2306,
+     3209
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|torpor|6393|torrid}}",
+   "c1s1": "¶\n{{smaller block|The same ''torpor'', as regarded the capacity for intellectual effort, accompanied me home.\n{{right|''Hawthorne'', Scarlet Letter, Int., p. 39.}}}}\n\n'''torporific''' (tôr-pō-rif′ik), ''a.'' [< L. ''torpor'', numbness, + ''facere'', make (see ''-fic'').] Producing torpor; torpifying; stupefying.\n\n'''torquate''' (tôr′kwāt), ''a.'' [< L. ''torquatus'', wearing a neck-chain, < ''torques'', a neck-chain: see ''torque''.] In ''zoöl.'', ringed about the neck; collared, as with a color, or by the peculiar texture, etc., of hair or feathers about the neck.\n\n'''torquated''' (tôr′kwā-ted), ''a.'' [< ''torquate'' + ''-ed''<sup>2</sup>.] 1. Having or wearing a torque.—2. In ''zoöl.'', same as ''torquate''.\n\n'''Torquatella''' (tôr-kwa̤-tel′ä̤), ''n.'' [NL., dim. of ''torquatus'', adorned with a neck-chain: see ''torquate''.] The typical genus of ''Torquatellidæ'', having a plicate and extensile membranous collar, and the mouth with a tongue-like valve or velum. ''T. typica'' inhabits salt water.\n\n'''Torquatellidæ''' (tôr-kwa̤-tel′i-dē), ''n. pl.'' [NL., < ''Torquatella'' + ''-idæ''.] A family of peritrichous ciliate infusorians, typified by the genus ''Torquatella''. {{smaller|These animalcules are free-swimming, illoricate, and more or less ovate; the anterior ciliary wreath is replaced by a membranous extensile and contractile collar, which is perforated centrally by the oral aperture.}}\n\n'''torque''' (tôrk), ''n.'' [Also ''torc''; = It. ''torque'' = ''torc'', < L. ''torques'', ''torquis'', a twisted metal neck-ring, a necklace, a collar, < ''torquere'', twist: see ''tort''.] 1. A twisted ornament forming a necklace or",
+   "c1c1": "{{c|Torque, with manner of wearing it, from sculptures on the sarcophagus of Vigna Amendola, Capitoline Museum.}}",
+   "c1s2": "collar for the neck, particularly one worn by uncivilized people, and of such a make as to retain its rigidity and circular form. Such a collar was considered a characteristic attribute of the ancient Gauls. Also ''torques.''\n\n{{smaller block|They [the Gauls] wore collars and ''torques'' of gold, necklaces, and bracelets, and strings of brightly-coloured beads, made of glass or of a material like the Egyptian porcelain.\n{{right|''C. Elton'', Origins of Eng. Hist., p. 115.}}}}\n\n{{smaller block|The Anglo-Saxons habitually wore upon their arms twisted bracelets or ''torques'', or, in their stead, a number of simple bracelets.\n{{right|''Encyc. Brit.'', VI. 465.}}}}\n\n2. In ''mech.'', the moment of a system-force applied so as to twist anything, as a shaft in machinery.\n\n{{smaller block|The ''torque'', or turning moment, is, in a series dynamo, both when used as a generator and when used as a motor, very nearly proportional to the current.\n{{right|''S. P. Thompson'', Dynamo-Electric Machinery, p. 45.}}}}\n\n'''torqued''' (tôrkt), ''a.'' [< OF. ''torquer'', twist, < L. ''torquere'', twist (see ''torque''), + ''-ed''<sup>2</sup>.] 1. Twisted; convoluted.\n\n{{smaller block|On this West shore we found a dead fish floating, which had in his nose a horne streight and ''torquet'', of length two yards lacking two ynches.\n{{right|''Hakluyt's Voyages'', III. 35.}}}}\n\n2. Twisted like a rope: said of metal-work.",
+   "c1c2": "{{c|A Dolphin haurient torqued.}}",
+   "c1s3": "{{smaller block|A pair of ear-rings of base silver, the large ''torqued'' circles of which were closed by a sort of hook and eye.\n{{right|''Archæologia'', XXXVII. 102.}}}}\n\n3. In ''her.'', same as ''targant''.\n\n'''torquened''' (tôr′kend), ''a.'' [Cf. ''torqued'', ''turken''.] In ''her.'', same as ''targant''.\n\n'''torques''' (tôr′kwēz), ''n.'' [L.: see",
+   "c1s4": "'' torque.''] 1. Same as ''torque'', 1.—2. In ''zoöl.'', any collar or ring around the neck, produced by the color, texture, etc., of the pelage, plumage, or integument.\n\n¶\n'''torquet†''', ''a.'' An obsolete form of ''torqued''.\n\n'''torquis†''', ''n.'' [L.: see ''torque''.] A torque.\n\n{{smaller block|You have noe lesse surpris'd then oblig'd mee by your account of the ''Torquis'', . . . the most ancient and most akin to it of all that I have seen being a chaine of the same metall of about six hundred yeare old, taken out of Edward the Confessors Monument at Westminster.\n{{right|''Samuel Pepys'' (Ellis's Lit. Letters, p. 211).}}}}\n\n'''torreador''', ''n.'' See ''toreador''.\n\n'''torrefaction''' (tor-ē-fak′shọn), ''n.'' [< F. ''torréfaction'', < L. ''torrefacere'', dry by heat: see ''torrefy''.] The act or operation of torrefying; the state of being torrefied.",
+   "c2s1": "{{smaller block|Here was not scorching and blistering, but a vehement and full ''torrefaction''.{{right|''Bp. Hall'', Sermons, xxxviii.}}}}\n\n¶\n'''torrefy''' (tor′ẹ̄-fī), ''v. t.''; pret. and pp. ''torrefied'', ppr. ''torrefying''. [Also ''torrify''; = F. ''torréfier'' = It. *''torrefare'', < L. ''torrefacere'', dry by heat, < ''torrere'', parch, roast, + ''facere'', make.] To dry or parch with heat; roast.\n\n{{smaller block|Things become, by a sooty or fuliginous matter proceeding from the sulphur of bodies, ''torrified''.{{right|''Sir T. Browne'', Vulg. Err., vi. 12.}}}}\n\n{{smaller block|Bread . . . toasted hard or ''torrefied''.{{right|''Quain'', Med. Dict., p. 354.}}}}\n\n{{smaller block|Simply ''torrified'' and bruised, they [seeds of ''Theobroma Cacao''] constitute the cocoa of the shops.{{right|''Ure'', Dict., I. 569.}}}}\n\n{{smaller|Specifically—(''a'') In ''metal.'', to roast or scorch, as metallic ores. (''b'') In ''phar.'', to dry or parch, as drugs, on a metallic plate till they become friable or are reduced to any state desired.}}\n\n'''torrent''' (tor′ẹnt), ''a.'' and ''n.'' [< F. ''torrent'' = Pr. ''torrent'' = Sp. Pg. It. ''torrente'', a torrent; < L. ''torren(t-)s'', burning, scorching, of a stream, boiling, roaring, rushing, and hence, as a noun, a rushing stream (not, as some explain it, lit. a stream of water that ‘dries up’ in the heat of summer), ppr. of ''torrere'', dry by heat, parch, roast (cf. ''terra'' for *''tersa'', ‘dry land’), = Gr. τέρσεσθαι, become dry, = Goth. ''thairsan'', be dry; cf. ''thaursus'', dry, ''thaurstei'', etc., thirst, = Skt. √ ''tarsh'', thirst: see ''thirst''.] '''I.''' ''a.'' Rushing in a stream. [Rare.]\n\n{{smaller block|Fierce Phlegethon,\nWhose waves of ''torrent'' fire inflame with rage.{{right|''Milton'', P. L., ii. 581.}}}}\n\n'''II.''' ''n.'' '''1.''' A rushing stream, as of water or",
+   "c2s2": "lava; a stream flowing rapidly and with violence, as down the side of a hill or over a precipice.\n\n{{smaller block|And so firste we come to ''Torrens'' Cedron, which in somer tyme is drye.\n{{right|''Sir R. Guylforde'', Pylgrymage, p. 31.}}}}\n\n{{smaller block|The ''torrent'' roar'd, and we did buffet it\nWith lusty sinews.\n{{right|''Shak.'', J. C., i. 2. 107.}}}}\n\n{{smaller block|The ghastly ''torrent'' mingles its far roar\nWith the breeze.\n{{right|''Shelley'', Alastor.}}}}\n\n2. Figuratively, a violent or overwhelming flow; a flood: as, a ''torrent'' of abusive words.\n\n{{smaller block|I know at this time a celebrated toast, whom I allow to be one of the most agreeable of her sex, that in the presence of her admirers will give a ''torrent'' of kisses to her cat.\n{{right|''Addison'', Tatler, No. 121.}}}}\n\n{{smaller block|Erasmus, that great injured name, . . .\nStemm'd the wild ''torrent'' of a barbarous age.\n{{right|''Pope'', Essay on Criticism, l. 695.}}}}\n\n¶\n'''torrent-bow''' (tor′ẹnt-bō), ''n.'' A bow or arch of rainbow-like or prismatic colors formed by the refraction and reflection of rays of light from the spray of a torrent; an iris.\n\n{{smaller block|From those four jets four currents in one swell\nAcross the mountain stream'd below\nIn misty folds that, floating as they fell,\nLit up a ''torrent-bow.''\n{{right|''Tennyson'', Palace of Art.}}}}\n\n'''torrent-duck''' (tor′ẹnt-duk), ''n.'' A duck-like merganser of the genus ''Merganetta'': so called",
+   "c2c1": "{{c|Torrent-duck (''Merganetta armata''), adult male.}}",
+   "c2s3": "from the torrents of the streams which they inhabit in the Andes from Colombia to Chili.\n\n'''torrential''' (to-ren′sha̤l), ''a.'' [= F. ''torrentiel'' = Sp. ''torrencial''; as ''torrent'' + ''-i-al.''] 1. Pertaining to or resembling a torrent; of the nature of a torrent: as, ''torrential'' rains.\n\n{{smaller block|The greater magnitude and ''torrential'' character of the rivers of that [glacial] period were no doubt due to the melting during summer of great masses of snow and ice.\n{{right|''J. Croll'', Climate and Cosmology, p. 116.}}}}\n\n2. Produced by the agency of rapid streams, mountain torrents, and the like.\n\n{{smaller block|The āsar of Sweden are merely the denuded and partially re-arranged portions of old ''torrential'' gravel and sand, and morainic debris.\n{{right|''J. Geikie'', Great Ice Age, xxvii.}}}}\n\n3. Figuratively, fluent and copious; voluble; overwhelming.",
+   "c3s1": "¶\n{{smaller block|The poetasters [of the Russian literary world] poured forth their feelings with ''torrential'' recklessness.\n{{right|''D. M. Wallace'', Russia, p. 396.}}\nHe could woo, he was a ''torrential'' wooer.\n{{right|''G. Meredith'', The Egoist, xlvii.}}\nHis ''torrential'' wealth of words. ''The American'', VIII. 235.}}\n\n'''torrentiality''' (to-ren-shi-al′i̤-ti), ''n.'' [< ''torrential'' + ''-ity''.] The character of being torrential. [Rare.]\n\n'''torrentially''' (to-ren′sha̤l-i), ''adv.'' In a torrential manner; copiously; volubly.\n\n'''torrentine''' (tor′e̤n-tin), ''a.'' [= OF. ''torrenten''; as ''torrent'' + ''-ine''<sup>1</sup>.] Same as ''torrential''. ''Imp. Dict.''\n\n'''torret†''', ''n.'' A variant of ''toret''.\n\n'''Torreya''' (tor′i-ä), ''n.'' [NL. (Arnott, 1838), named after Dr. John ''Torrey'', 1796–1873, professor of botany at Columbia College, New York.] A genus of conifers, of the tribe ''Taxeæ'', distinguished from the related genus ''Taxus'' by the complete or partial attachment of the seed to its surrounding capsule or berry, and by anther-cells being connate in a semicircle. {{smaller|It in-}}",
+   "c3c1": "{{c|''Torreya taxifolia.''<br>1, branch with male flowers; 2, branch with fruit; ''a'', a male ament.}}\n\n\n\nWait — <br> is not allowed. Output:\n\n{{c|''Torreya taxifolia.''}}\n{{c|1, branch with male flowers; 2, branch with fruit; ''a'', a male ament.}}",
+   "c3s2": "cludes 4 species, 2 natives of China (see ''kaya'') and Japan, the others American—''T. taxifolia'' of Florida and ''T. Californica'' of California. They are evergreen trees, with flat, linear, two-ranked leaves resembling those of the yew, but longer, and with a larger ovoid drupaceous fruit, sometimes 1½ inches long. The Florida species, often called ''Torrey-tree'' or ''savin'', is locally known as ''stinking cedar'' (which see, under ''stink''). The western species is the California nutmeg.\n\n¶\n'''Torricellian''' (tor-i-sel′i-a̤n or tor-i-chel′i-a̤n), ''a.'' [< ''Torricelli'' (see def.) + ''-an''.] Pertain-",
+   "c3c2": "{{c|Apparatus for Torricellian Experiment.}}",
+   "c3s3": "ing to Evangelista Torricelli, an Italian physicist and mathematician (1608–47), who, in 1643, discovered the principle on which the barometer is constructed, by means of an experiment called from him the ''Torricellian experiment.'' {{smaller|This experiment consisted in filling with mercury a glass tube closed at one end and then inverting it; the open end was then brought under the surface of mercury in a vessel, when the column of mercury in the tube was observed to descend till it stood at a height equal to about 30 inches above the level of the mercury in the vessel, leaving a vacuum at the top, between the upper extremity of the column and that of the tube. This experiment led to the discovery that the column of mercury in the tube is supported by the pressure of the atmosphere acting on the surface of the mercury in the vessel, and that this column is an exact counterbalance to the atmospheric pressure. See ''barometer.''—'''Torricellian tube''', a glass tube 30 or more inches in length, open at one end and hermetically sealed at the other, such as is used in the barometer.—'''Torricellian vacuum''',}}",
+   "c3s4": "a vacuum such as that produced by filling a barometer-tube with mercury, as in the Torricellian experiment; the vacuum above the mercurial column in the barometer.\n\n'''torrid''' (tor′id), ''a.'' [< F. ''torride'' = Pr. ''torrid'' = Sp. ''tórrido'' = Pg. It. ''torrido'', < L. ''torridus'', dry with heat, parched, torrid, < ''torrere'', dry by heat, parch: see ''torrent.''] 1. Parched and dry with heat, especially of the sun; arid; sultry; hot; specifically, noting a zone of the earth's surface.\n\n{{smaller block|My marrow melts, my fainting spirits fry,\nIn th' ''torrid'' zone of thy meridian eye.\n{{right|''Quarles'', Emblems, v. 15.}}}}\n\n{{smaller block|Through ''torrid'' tracts with fainting steps they go.\n{{right|''Goldsmith'', Des. Vil., l. 343.}}}}\n\n2. Burning; scorching; parching.\n\n{{smaller block|The brandish'd sword of God before them blazed,\nFierce as a comet; which with ''torrid'' heat,\nAnd vapour as the Libyan air adust,\nBegan to parch that temperate clime.\n{{right|''Milton'', P. L., xii. 634.}}}}"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0197 c1f1.png",
+   "c1f2": "century v08 p0197 c1f2.png",
+   "c2f1": "century v08 p0197 c2f1.png",
+   "c3f1": "century v08 p0197 c3f1.png",
+   "c3f2": "century v08 p0197 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     238,
+     1094,
+     723,
+     1547
+    ],
+    "caption": [
+     133,
+     1557,
+     842,
+     1599
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     292,
+     1112,
+     745,
+     1543
+    ]
+   },
+   {
+    "box": [
+     1685,
+     880,
+     2222,
+     1525
+    ],
+    "caption": [
+     1615,
+     1535,
+     2303,
+     1587
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1733,
+     880,
+     2236,
+     1529
+    ]
+   },
+   {
+    "box": [
+     896,
+     2061,
+     1550,
+     2609
+    ],
+    "caption": [
+     965,
+     2622,
+     1474,
+     2645
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     906,
+     2066,
+     1573,
+     2619
+    ]
+   },
+   {
+    "box": [
+     641,
+     2441,
+     835,
+     2647
+    ],
+    "caption": [
+     636,
+     2657,
+     841,
+     2698
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     663,
+     2440,
+     773,
+     2643
+    ]
+   },
+   {
+    "box": [
+     2182,
+     1923,
+     2292,
+     2514
+    ],
+    "caption": [
+     2168,
+     2525,
+     2308,
+     2585
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     2177,
+     2066,
+     2305,
+     2519
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    2,
+    0
+   ],
+   "3": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 6,
+    "input_tokens": 10331,
+    "output_tokens": 429,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 17,
+    "input_tokens": 8276,
+    "output_tokens": 8275,
+    "cache_creation_input_tokens": 2714,
+    "cache_read_input_tokens": 43424
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|torpor|6393|torrid}}</noinclude>{{smaller block|The same ''torpor'', as regarded the capacity for intellectual effort, accompanied me home.\n{{right|''Hawthorne'', Scarlet Letter, Int., p. 39.}}}}\n\n'''torporific''' (tôr-pō-rif′ik), ''a.'' [< L. ''torpor'', numbness, + ''facere'', make (see ''-fic'').] Producing torpor; torpifying; stupefying.\n\n'''torquate''' (tôr′kwāt), ''a.'' [< L. ''torquatus'', wearing a neck-chain, < ''torques'', a neck-chain: see ''torque''.] In ''zoöl.'', ringed about the neck; collared, as with a color, or by the peculiar texture, etc., of hair or feathers about the neck.\n\n'''torquated''' (tôr′kwā-ted), ''a.'' [< ''torquate'' + ''-ed''<sup>2</sup>.] 1. Having or wearing a torque.—2. In ''zoöl.'', same as ''torquate''.\n\n'''Torquatella''' (tôr-kwa̤-tel′ä̤), ''n.'' [NL., dim. of ''torquatus'', adorned with a neck-chain: see ''torquate''.] The typical genus of ''Torquatellidæ'', having a plicate and extensile membranous collar, and the mouth with a tongue-like valve or velum. ''T. typica'' inhabits salt water.\n\n'''Torquatellidæ''' (tôr-kwa̤-tel′i-dē), ''n. pl.'' [NL., < ''Torquatella'' + ''-idæ''.] A family of peritrichous ciliate infusorians, typified by the genus ''Torquatella''. {{smaller|These animalcules are free-swimming, illoricate, and more or less ovate; the anterior ciliary wreath is replaced by a membranous extensile and contractile collar, which is perforated centrally by the oral aperture.}}\n\n'''torque''' (tôrk), ''n.'' [Also ''torc''; = It. ''torque'' = ''torc'', < L. ''torques'', ''torquis'', a twisted metal neck-ring, a necklace, a collar, < ''torquere'', twist: see ''tort''.] 1. A twisted ornament forming a necklace or collar for the neck, particularly one worn by uncivilized people, and of such a make as to retain its rigidity and circular form. Such a collar was considered a characteristic attribute of the ancient Gauls. Also ''torques.''\n\n[[File:century v08 p0197 c1f1.png|center|360px]]\n{{c|Torque, with manner of wearing it, from sculptures on the sarcophagus of Vigna Amendola, Capitoline Museum.}}\n\n{{smaller block|They [the Gauls] wore collars and ''torques'' of gold, necklaces, and bracelets, and strings of brightly-coloured beads, made of glass or of a material like the Egyptian porcelain.\n{{right|''C. Elton'', Origins of Eng. Hist., p. 115.}}}}\n\n{{smaller block|The Anglo-Saxons habitually wore upon their arms twisted bracelets or ''torques'', or, in their stead, a number of simple bracelets.\n{{right|''Encyc. Brit.'', VI. 465.}}}}\n\n2. In ''mech.'', the moment of a system-force applied so as to twist anything, as a shaft in machinery.\n\n{{smaller block|The ''torque'', or turning moment, is, in a series dynamo, both when used as a generator and when used as a motor, very nearly proportional to the current.\n{{right|''S. P. Thompson'', Dynamo-Electric Machinery, p. 45.}}}}\n\n'''torqued''' (tôrkt), ''a.'' [< OF. ''torquer'', twist, < L. ''torquere'', twist (see ''torque''), + ''-ed''<sup>2</sup>.] 1. Twisted; convoluted.\n\n{{smaller block|On this West shore we found a dead fish floating, which had in his nose a horne streight and ''torquet'', of length two yards lacking two ynches.\n{{right|''Hakluyt's Voyages'', III. 35.}}}}\n\n2. Twisted like a rope: said of metal-work. {{smaller block|A pair of ear-rings of base silver, the large ''torqued'' circles of which were closed by a sort of hook and eye.\n{{right|''Archæologia'', XXXVII. 102.}}}}\n\n[[File:century v08 p0197 c1f2.png|center|94px]]\n{{c|A Dolphin haurient torqued.}}\n\n3. In ''her.'', same as ''targant''.\n\n'''torquened''' (tôr′kend), ''a.'' [Cf. ''torqued'', ''turken''.] In ''her.'', same as ''targant''.\n\n'''torques''' (tôr′kwēz), ''n.'' [L.: see '' torque.''] 1. Same as ''torque'', 1.—2. In ''zoöl.'', any collar or ring around the neck, produced by the color, texture, etc., of the pelage, plumage, or integument.\n\n¶\n'''torquet†''', ''a.'' An obsolete form of ''torqued''.\n\n'''torquis†''', ''n.'' [L.: see ''torque''.] A torque.\n\n{{smaller block|You have noe lesse surpris'd then oblig'd mee by your account of the ''Torquis'', . . . the most ancient and most akin to it of all that I have seen being a chaine of the same metall of about six hundred yeare old, taken out of Edward the Confessors Monument at Westminster.\n{{right|''Samuel Pepys'' (Ellis's Lit. Letters, p. 211).}}}}\n\n'''torreador''', ''n.'' See ''toreador''.\n\n'''torrefaction''' (tor-ē-fak′shọn), ''n.'' [< F. ''torréfaction'', < L. ''torrefacere'', dry by heat: see ''torrefy''.] The act or operation of torrefying; the state of being torrefied. {{smaller block|Here was not scorching and blistering, but a vehement and full ''torrefaction''.{{right|''Bp. Hall'', Sermons, xxxviii.}}}}\n\n¶\n'''torrefy''' (tor′ẹ̄-fī), ''v. t.''; pret. and pp. ''torrefied'', ppr. ''torrefying''. [Also ''torrify''; = F. ''torréfier'' = It. *''torrefare'', < L. ''torrefacere'', dry by heat, < ''torrere'', parch, roast, + ''facere'', make.] To dry or parch with heat; roast.\n\n{{smaller block|Things become, by a sooty or fuliginous matter proceeding from the sulphur of bodies, ''torrified''.{{right|''Sir T. Browne'', Vulg. Err., vi. 12.}}}}\n\n{{smaller block|Bread . . . toasted hard or ''torrefied''.{{right|''Quain'', Med. Dict., p. 354.}}}}\n\n{{smaller block|Simply ''torrified'' and bruised, they [seeds of ''Theobroma Cacao''] constitute the cocoa of the shops.{{right|''Ure'', Dict., I. 569.}}}}\n\n{{smaller|Specifically—(''a'') In ''metal.'', to roast or scorch, as metallic ores. (''b'') In ''phar.'', to dry or parch, as drugs, on a metallic plate till they become friable or are reduced to any state desired.}}\n\n'''torrent''' (tor′ẹnt), ''a.'' and ''n.'' [< F. ''torrent'' = Pr. ''torrent'' = Sp. Pg. It. ''torrente'', a torrent; < L. ''torren(t-)s'', burning, scorching, of a stream, boiling, roaring, rushing, and hence, as a noun, a rushing stream (not, as some explain it, lit. a stream of water that ‘dries up’ in the heat of summer), ppr. of ''torrere'', dry by heat, parch, roast (cf. ''terra'' for *''tersa'', ‘dry land’), = Gr. τέρσεσθαι, become dry, = Goth. ''thairsan'', be dry; cf. ''thaursus'', dry, ''thaurstei'', etc., thirst, = Skt. √ ''tarsh'', thirst: see ''thirst''.] '''I.''' ''a.'' Rushing in a stream. [Rare.]\n\n{{smaller block|Fierce Phlegethon,\nWhose waves of ''torrent'' fire inflame with rage.{{right|''Milton'', P. L., ii. 581.}}}}\n\n'''II.''' ''n.'' '''1.''' A rushing stream, as of water or lava; a stream flowing rapidly and with violence, as down the side of a hill or over a precipice.\n\n{{smaller block|And so firste we come to ''Torrens'' Cedron, which in somer tyme is drye.\n{{right|''Sir R. Guylforde'', Pylgrymage, p. 31.}}}}\n\n{{smaller block|The ''torrent'' roar'd, and we did buffet it\nWith lusty sinews.\n{{right|''Shak.'', J. C., i. 2. 107.}}}}\n\n{{smaller block|The ghastly ''torrent'' mingles its far roar\nWith the breeze.\n{{right|''Shelley'', Alastor.}}}}\n\n2. Figuratively, a violent or overwhelming flow; a flood: as, a ''torrent'' of abusive words.\n\n{{smaller block|I know at this time a celebrated toast, whom I allow to be one of the most agreeable of her sex, that in the presence of her admirers will give a ''torrent'' of kisses to her cat.\n{{right|''Addison'', Tatler, No. 121.}}}}\n\n{{smaller block|Erasmus, that great injured name, . . .\nStemm'd the wild ''torrent'' of a barbarous age.\n{{right|''Pope'', Essay on Criticism, l. 695.}}}}\n\n¶\n'''torrent-bow''' (tor′ẹnt-bō), ''n.'' A bow or arch of rainbow-like or prismatic colors formed by the refraction and reflection of rays of light from the spray of a torrent; an iris.\n\n{{smaller block|From those four jets four currents in one swell\nAcross the mountain stream'd below\nIn misty folds that, floating as they fell,\nLit up a ''torrent-bow.''\n{{right|''Tennyson'', Palace of Art.}}}}\n\n'''torrent-duck''' (tor′ẹnt-duk), ''n.'' A duck-like merganser of the genus ''Merganetta'': so called from the torrents of the streams which they inhabit in the Andes from Colombia to Chili.\n\n[[File:century v08 p0197 c2f1.png|center|316px]]\n{{c|Torrent-duck (''Merganetta armata''), adult male.}}\n\n'''torrential''' (to-ren′sha̤l), ''a.'' [= F. ''torrentiel'' = Sp. ''torrencial''; as ''torrent'' + ''-i-al.''] 1. Pertaining to or resembling a torrent; of the nature of a torrent: as, ''torrential'' rains.\n\n{{smaller block|The greater magnitude and ''torrential'' character of the rivers of that [glacial] period were no doubt due to the melting during summer of great masses of snow and ice.\n{{right|''J. Croll'', Climate and Cosmology, p. 116.}}}}\n\n2. Produced by the agency of rapid streams, mountain torrents, and the like.\n\n{{smaller block|The āsar of Sweden are merely the denuded and partially re-arranged portions of old ''torrential'' gravel and sand, and morainic debris.\n{{right|''J. Geikie'', Great Ice Age, xxvii.}}}}\n\n3. Figuratively, fluent and copious; voluble; overwhelming.\n\n{{smaller block|The poetasters [of the Russian literary world] poured forth their feelings with ''torrential'' recklessness.\n{{right|''D. M. Wallace'', Russia, p. 396.}}\nHe could woo, he was a ''torrential'' wooer.\n{{right|''G. Meredith'', The Egoist, xlvii.}}\nHis ''torrential'' wealth of words. ''The American'', VIII. 235.}}\n\n'''torrentiality''' (to-ren-shi-al′i̤-ti), ''n.'' [< ''torrential'' + ''-ity''.] The character of being torrential. [Rare.]\n\n'''torrentially''' (to-ren′sha̤l-i), ''adv.'' In a torrential manner; copiously; volubly.\n\n'''torrentine''' (tor′e̤n-tin), ''a.'' [= OF. ''torrenten''; as ''torrent'' + ''-ine''<sup>1</sup>.] Same as ''torrential''. ''Imp. Dict.''\n\n'''torret†''', ''n.'' A variant of ''toret''.\n\n'''Torreya''' (tor′i-ä), ''n.'' [NL. (Arnott, 1838), named after Dr. John ''Torrey'', 1796–1873, professor of botany at Columbia College, New York.] A genus of conifers, of the tribe ''Taxeæ'', distinguished from the related genus ''Taxus'' by the complete or partial attachment of the seed to its surrounding capsule or berry, and by anther-cells being connate in a semicircle. {{smaller|It includes}} 4 species, 2 natives of China (see ''kaya'') and Japan, the others American—''T. taxifolia'' of Florida and ''T. Californica'' of California. They are evergreen trees, with flat, linear, two-ranked leaves resembling those of the yew, but longer, and with a larger ovoid drupaceous fruit, sometimes 1½ inches long. The Florida species, often called ''Torrey-tree'' or ''savin'', is locally known as ''stinking cedar'' (which see, under ''stink''). The western species is the California nutmeg.\n\n[[File:century v08 p0197 c3f1.png|center|309px]]\n{{c|''Torreya taxifolia.''<br>1, branch with male flowers; 2, branch with fruit; ''a'', a male ament.}}\n\n\n\nWait — <br> is not allowed. Output:\n\n{{c|''Torreya taxifolia.''}}\n{{c|1, branch with male flowers; 2, branch with fruit; ''a'', a male ament.}}\n\n¶\n'''Torricellian''' (tor-i-sel′i-a̤n or tor-i-chel′i-a̤n), ''a.'' [< ''Torricelli'' (see def.) + ''-an''.] Pertaining to Evangelista Torricelli, an Italian physicist and mathematician (1608–47), who, in 1643, discovered the principle on which the barometer is constructed, by means of an experiment called from him the ''Torricellian experiment.'' {{smaller|This experiment consisted in filling with mercury a glass tube closed at one end and then inverting it; the open end was then brought under the surface of mercury in a vessel, when the column of mercury in the tube was observed to descend till it stood at a height equal to about 30 inches above the level of the mercury in the vessel, leaving a vacuum at the top, between the upper extremity of the column and that of the tube. This experiment led to the discovery that the column of mercury in the tube is supported by the pressure of the atmosphere acting on the surface of the mercury in the vessel, and that this column is an exact counterbalance to the atmospheric pressure. See ''barometer.''—'''Torricellian tube''', a glass tube 30 or more inches in length, open at one end and hermetically sealed at the other, such as is used in the barometer.—'''Torricellian vacuum''',}} a vacuum such as that produced by filling a barometer-tube with mercury, as in the Torricellian experiment; the vacuum above the mercurial column in the barometer.\n\n[[File:century v08 p0197 c3f2.png|center|60px]]\n{{c|Apparatus for Torricellian Experiment.}}\n\n'''torrid''' (tor′id), ''a.'' [< F. ''torride'' = Pr. ''torrid'' = Sp. ''tórrido'' = Pg. It. ''torrido'', < L. ''torridus'', dry with heat, parched, torrid, < ''torrere'', dry by heat, parch: see ''torrent.''] 1. Parched and dry with heat, especially of the sun; arid; sultry; hot; specifically, noting a zone of the earth's surface.\n\n{{smaller block|My marrow melts, my fainting spirits fry,\nIn th' ''torrid'' zone of thy meridian eye.\n{{right|''Quarles'', Emblems, v. 15.}}}}\n\n{{smaller block|Through ''torrid'' tracts with fainting steps they go.\n{{right|''Goldsmith'', Des. Vil., l. 343.}}}}\n\n2. Burning; scorching; parching.\n\n{{smaller block|The brandish'd sword of God before them blazed,\nFierce as a comet; which with ''torrid'' heat,\nAnd vapour as the Libyan air adust,\nBegan to parch that temperate clime.\n{{right|''Milton'', P. L., xii. 634.}}}}<noinclude><references/></noinclude>"
+}

@@ -1,0 +1,369 @@
+{
+ "volume": 8,
+ "page_number": 176,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n175.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n175.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-13",
+  "angle": -0.05,
+  "column_width": 817,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     130,
+     66,
+     2422,
+     110
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     130,
+     110,
+     862,
+     515
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     130,
+     515,
+     862,
+     759
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     130,
+     764,
+     862,
+     788
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     130,
+     788,
+     862,
+     1407
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     130,
+     1407,
+     862,
+     2188
+    ]
+   },
+   {
+    "name": "c1c2",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     130,
+     2195,
+     862,
+     2217
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     130,
+     2217,
+     862,
+     3225
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     959,
+     110,
+     1605,
+     881
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     959,
+     881,
+     1605,
+     1520
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     959,
+     1526,
+     1605,
+     1548
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     959,
+     1548,
+     1605,
+     2552
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     959,
+     2552,
+     1605,
+     3225
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1605,
+     110,
+     2422,
+     440
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1990,
+     453,
+     2422,
+     1256
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1990,
+     1260,
+     2422,
+     1344
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1605,
+     440,
+     1990,
+     1351
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1605,
+     1351,
+     2422,
+     2436
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1605,
+     2436,
+     2422,
+     3225
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|tomato-gall|6372|tomfool}}",
+   "c1s1": "called on account of its resemblance to the fruit of the tomato.\n\n'''tomato-plant''' (tọ̄-mä′tō-plȧnt), ''n.'' The herb tomato, particularly the young seedling intended for transplanting.\n\n'''tomato-sauce''' (tọ̄-mä′tō-sâs), ''n.'' A preparation of tomatoes to be used as a dressing for meat.\n\n'''tomato-sphinx''' (tọ̄-mä′tō-sfingks), ''n.'' The tomato hawk-moth, a sphingid, the adult of the tomato-worm.\n\n'''tomato-worm''' (tọ̄-mä′tō-wėrm), ''n.'' The larva of the sphingid moth ''Protoparce celeus'', the",
+   "c1c1": "{{c|Tomato-worm (''Protoparce celeus'').}}",
+   "c1s2": "common five-spotted sphinx, which feeds on the foliage of the tomato-plant in the United States.\n\n'''tomaun''', ''n.'' See ''toman''.\n\n'''tom-ax†''' (tom′aks), ''n.'' [An accom. form of ''tomahawk'' (formerly ''tomahack'', etc.).] A tomahawk.\n\n{{smaller block|An Indian dressed as he goes to war may bring company together; but if he carries the scalping-knife and ''tom-ax'' there are many true Britons that will never be persuaded to see him but through a grate. {{right|''Johnson'', Idler, No. 40.}}}}\n\n'''tomb''' (töm), ''n.'' [< ME. ''tombe'', ''toumbe'', ''tumbe'', < OF. ''tumbe'', ''tombe'', F. ''tombe'' = Pr. ''tomba'' = Sp. Pg. ''tumba'' = It. ''tomba'', < LL. ''tumba'' (rare), < Gr. τύμβος, a sepulchral mound, barrow, grave, tomb, also a tombstone; prob. akin to L. ''tumulus'', a mound: see ''tumulus''.] 1. An excavation in earth or rock, intended to receive the dead body of a human being; a grave; also, a cham-",
+   "c1c2": "{{c|Roman Rock-tomb.—The Khuzneh, Petra, Arabia.}}",
+   "c1s3": "ber or vault formed wholly or partly in the earth, with walls and a roof, or wholly above ground, for the reception of the dead, whether plain, or decorated by means of architecture, sculpture, etc.; a mausoleum; a sarcophagus. See also cuts under ''catacomb'', ''Lycian'', and ''altar-tomb''.\n\n{{smaller block|Twenty thousand men\nThat . . . go to their graves like beds, fight for a plot . . .\nWhich is not ''tomb'' enough and continent\nTo hide the slain.\n{{right|''Shak.'', Hamlet, iv. 4. 64.}}}}\n\n{{smaller block|Methinks I see thee . . .\nAs one dead in the bottom of a ''tomb''.\n{{right|''Shak.'', R. and J., iii. 5. 56.}}}}\n\n2. A monument erected to preserve the memory of the dead; any sepulchral structure; a cenotaph.\n\n{{smaller block|In the cuntre of Acaya, ther he kyng was,\nYs he birit in a burgh, & a bright ''toumbe''.\n{{right|''Destruction of Troy'' (E. E. T. S.), l. 13964.}}}}\n\n{{smaller block|I paused to contemplate a ''tomb'' on which lay the effigy of a knight in complete armor.\n{{right|''Irving'', Sketch-Book, p. 214.}}}}\n\n3. Same as ''altar-cavity''.\n\n{{smaller block|Every altar used for the celebration of mass must, according to Roman Catholic rule, contain some authorized relics. These are inserted into a cavity prepared for their reception, called \"''the tomb'', \" by the bishop of the diocese, and sealed up with the episcopal seal.\n{{right|''Encyc. Brit.'', XX. 357.}}}}\n\n4. Figuratively, the end of earthly life; death.\n\n{{smaller block|Young Churchill fell as Life began to bloom:\nAnd Bradford's trembling Age expects the ''Tomb''.\n{{right|''Prior'', Ode to George Villiers.}}}}",
+   "c2s1": "'''tomb''', an altar-tomb.— '''Ledger tomb''', a tomb cov-vith a ledger. See ''ledger''<sup>1</sup>, 1 (''b'').\n\n(töm), ''v. t.'' [< ''tomb'', ''n.''] To bury; inter; nb.\n\n{{smaller block|The stone<br>That ''tombs'' the two is justly one.\n{{right|''Sir P. Sidney'', Arcadia, iii.}}}}\n\n'''ac, tombak''' (tom′bak), ''n.'' [Also ''tomback'', ac, formerly ''tambaycke'', ''tombaga''; = F. ''tom-'' = Sp. ''tumbaga'' = Pg. ''tambaca'', ''tambaque'' = ''mbacco'', < Malay ''tāmbaga'', ''tambaga'', Java- ''tembaga'', copper, < Skt. ''tamrika'', ''tamra'', cop- One of the many names of brass; Prince's etal; Mannheim gold. {{smaller|''Similor'' and ''tombac'' are mes indiscriminately applied to varieties of brass ed for mock jewelry. Various analyses of alloys sold der the name of ''tombac'' show from 82 to 99 per cent. copper and corresponding amounts of zinc. Some h varieties of tombac contain a small percentage of esides the copper and zinc.}}\n\n{{smaller block|King made him [the General] a feast; the dishes f gold, or ''Tambaycke'' (which is mixed of gold and ).\n{{right|''Purchas'', Pilgrimage, p. 549.}}}}\n\n'''-bat''' (töm′bat), ''n.'' A bat of the genus ''ozous''; a taphian: so called because the",
+   "c2c1": "{{c|Tomb-bat (''Taphozous nudiventris'').}}",
+   "c2s2": "nal species was found in the chambers of tian pyramids.\n\n'''esterer†''', ''n.'' See ''tumbester.''\n\n'''-house''' (töm′hous), ''n.'' A tomb; a mauso.\n\n{{smaller block|e years later the unfinished chapel was given by VIII. to Cardinal Wolsey, and for long after it was n as Wolsey's ''tomb-house.'' {{right|''Encyc. Brit.'', XXIV. 601.}}}}\n\n'''ic''' (töm′ik), ''a.'' [< ''tomb'' + ''-ic.''] Pertaino tombs; particularly, noting the view the Great Pyramid of Egypt was designed isively for sepulture. [Recent.]\n\n{{smaller block|merely ''tombic'' theory (to use a word coined, I imay Professor Piazzi Smyth, and more convenient perhan defensible). {{right|''R. A. Proctor'', Great Pyramid, p. 172.}}}}\n\n'''less''' (töm′les), ''a.'' [< ''tomb'' + ''-less.''] With- tomb.\n\n{{smaller block|Lay these bones in an unworthy urn,<br>''Tombless,'' with no remembrance over them. {{right|''Shak.'', Hen. V., i. 2. 229.}}}}\n\n'''ly†''', ''adv.'' An old spelling of ''toomly.''\n\n'''oc''' (tom′bok), ''n.'' [Javanese.] A weapon a long handle or staff, used by the people ava and the neighboring islands. It is times a spear, and sometimes it has a e like that of a halberd.\n\n'''ola''' (tom′bō-lä), ''n.'' [= F. ''tombola'', < It. ''ola'', a kind of lottery, appar. < ''tombolare'', tumble: see ''tumble.''] A lottery game lar in France and in the southern United",
+   "c2s3": "es. Fancy articles are offered for prizes; a card ining several numbers is given to each person, and e numbers on the card must be drawn in order to e a prize.\n\n{{smaller block|pair of statuettes, a golden tobacco-box, a costly -casket, or a pair of richly gemmed horse-pistols went into the shop-window of the ever-obliging ecary, to be disposed of by ''tombola''.\n{{right|''G. W. Cable'', Grandissimes, p. 144.}}}}\n\n'''oy''' (tom′boi), ''n.'' [< ''tom''<sup>1</sup> + ''boy''<sup>1</sup>.] 1†. A , boisterous boy.\n\n{{smaller block|Is all your delite and ioy whiskyng and ramping abroade like a ''Tom boy?''\n{{right|''Udall'', Roister Doister, ii. 4.}}}}\n\nwild, romping girl; a hoyden.\n\n{{smaller block|nbe. To Dance . . . hereof we yet call a wench that eth or leapeth like a boy, a ''Tomboy''.\n{{right|''egan'', Restitution of Decayed Intelligence (ed. 1628), [p. 234.}}\n\ncolor in her face was warmer as she exclaimed, . . . think of me at that age — what a ''tomboy'' I was!\"\n{{right|''The Century'', XLI. 562.}}}}\n\nA worthless woman; a strumpet.",
+   "c3s1": "{{smaller block|To be partner'd\nWith ''tomboys'' hired with that self exhibition\nWhich your own coffers yield!\n{{right|''Shak.'', Cymbeline, i. 6. 122.}}}}\n\n{{smaller block|This is thy work, woman, . . .\nThe seeing of your simpering sweetness, you filly,\nYou tit, you ''tomboy!''\n{{right|''Beau. and Fl.'', Knight of Malta, ii. 1.}}}}\n\n¶\n'''tombstone''' (töm′stōn), ''n.'' [< ''tomb'' + ''stone.''] 1. A stone placed over a grave, to preserve the memory of the deceased; a sepulchral monu-",
+   "c3c1": "{{c|Tombstone, 13th century.—Church of St. Martin, Laon, France. (From Viollet-le-Duc's \"Dict. de l'Architecture.\")}}",
+   "c3s2": "ment.\n\n{{smaller block|Make not error<br>A ''tombstone'' of your virtues, whose fair life<br>Deserves a constellation.\n{{right|''Beau. and Fl.'', Thierry and [Theodoret, iv. 1.}}}}\n\n{{smaller block|Sometimes endeavoring to decipher the inscriptions on the ''tombstones'' which formed the pavement beneath my feet.\n{{right|''Irving'', Sketch-Book, p. 211.}}}}\n\n{{smaller block|Seated on an upright ''tombstone'', close to him, was a strange unearthly figure.\n{{right|''Dickens'', Pickwick, xxix.}}}}\n\n2. In ''her.'', a bearing representing a sarcophagus or altar-tomb, usually having a large Latin cross on the slab or top.\n\n'''tom-cat''' (tom′kat), ''n.'' [< ''tom''<sup>1</sup> + ''cat''<sup>1</sup>.] A male cat, especially a full-grown male cat.\n\n{{smaller block|Sunk from a Lion to a tame<br>''Tom Cat.''\n{{right|''Peter Pindar's Prophecy'' [(ed. 1789).}}}}",
+   "c3s3": "¶\n'''tomcod''' (tom′kod), ''n.'' [Appar. < ''tom''<sup>1</sup> + ''cod''<sup>2</sup>, but said to be corrupted from Amer. Ind. ''tacaud'', ‘plenty-fish.’] 1. The frost-fish, ''Microgadus tomcodus'' (see cut under ''Microgadus''); also, loosely, one of several small fishes like or mistaken for this one. Also ''tommy-cod.''—2. The jack-fish or rock-fish, a scorpænoid fish, ''Sebastodes paucispinis.'' [Monterey, California.]—3. The kingfish, ''Menticirrus nebulosus.'' See cut under ''kingfish.''\n\n'''Tom-double†''' (tom′dub″l), ''n.'' A double-dealer.\n\n{{smaller block|He is for a single ministry, that he may play the ''Tom-double'' under it.\n{{right|''Character of a Sneaker'' (1705) (Harl. Misc., II. 355). [(''Davies.'')}}}}\n\n'''tome<sup>1</sup>''' (tōm), ''n.'' [< F. ''tome'' = Sp. Pg. It. ''tomo'', < L. ''tomus'', a part of a book, a volume, tome, < Gr. τόμος, a cut, piece, a part of a book, a volume, tome, section, < τέμνειν, ταμεῖν, cut. From this Gr. verb are also ult. E. ''atom'', ''atomy'', ''tmema'', ''tmesis'', ''entoma'', ''entomology'', etc., and many words ending in ''-tome'' or ''-tomy'', as ''epitome'', ''anatomy'', ''lithotomy'', etc. In ''fleam''<sup>1</sup> it appears reduced to a single letter.] A volume forming a part of a larger work; any volume, especially a ponderous one.\n\n{{smaller block|The relation of their Christian Rites belongs to another ''Tome.'' {{right|''Purchas'', Pilgrimage, p. 78.}}}}\n\n{{smaller block|A volume old and brown,\nA huge ''tome'', bound\nIn brass and wild-boar's hide.\n{{right|''Longfellow'', Golden Legend, ii.}}}}\n\n'''tome<sup>2</sup>†''', ''a.'' See ''toom.''\n\n'''tomelet''' (tōm′let), ''n.'' [Dim. of ''tome.''] A small",
+   "c3s4": "tome or volume.\n\n¶\n'''toment''' (tō′ment), ''n.'' [< NL. ''tomentum'', < L. ''tomentum'', a stuffing of wool, hair, feathers, etc., for cushions, etc.] Same as ''tomentum''.\n\n'''tomentose, tomentous''' (tọ̄-men′tōs, -tus), ''a.'' [= F. ''tomenteux'' = Sp. Pg. It. ''tomentoso'', < L. ''tomentum'', a stuffing of wool, hair, feathers: see ''toment''.] 1. In ''bot.'', covered with hairs so close as scarcely to be distinguished; densely pubescent with matted wool or tomentum; coated with down-like hairs.—2. In ''entom.'', clothed with short inconspicuous hairs interwoven or matted together.—3. In ''anat.'', fleecy; flocculent. See ''tomentum'', 2.\n\n'''tomentum''' (tō-men′tum), ''n.'' [NL.: see ''toment''.] 1. In ''bot.'', a species of pubescence, consisting of longish, soft, entangled hairs, pressed close to the surface.—2. In ''anat.'', the flocculent inner surface of the pia mater: more fully called ''tomentum cerebri''.\n\n'''tomfool''' (tom′föl′), ''n.'' [< ''tom''<sup>1</sup> + ''fool''<sup>1</sup>.] 1. A silly fool; a trifler: also used attributively.\n\n{{smaller block|He had resolved to treat these ''tomfools'' with proper contempt, by paying no more heed to them.\n{{right|''W. Black'', In Far Lochaber, xiv.}}}}"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0176 c1f1.png",
+   "c1f2": "century v08 p0176 c1f2.png",
+   "c2f1": "century v08 p0176 c2f1.png",
+   "c3f1": "century v08 p0176 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     148,
+     514,
+     882,
+     756
+    ],
+    "caption": [
+     314,
+     764,
+     669,
+     788
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     150,
+     504,
+     829,
+     758
+    ]
+   },
+   {
+    "box": [
+     158,
+     1412,
+     830,
+     2180
+    ],
+    "caption": [
+     232,
+     2195,
+     759,
+     2217
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     150,
+     1414,
+     840,
+     2194
+    ]
+   },
+   {
+    "box": [
+     977,
+     880,
+     1537,
+     1520
+    ],
+    "caption": [
+     1054,
+     1526,
+     1439,
+     1548
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     946,
+     895,
+     1540,
+     1520
+    ]
+   },
+   {
+    "box": [
+     2004,
+     456,
+     2341,
+     1253
+    ],
+    "caption": [
+     2021,
+     1260,
+     2345,
+     1344
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1996,
+     453,
+     2298,
+     1255
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 5,
+    "input_tokens": 9039,
+    "output_tokens": 343,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 15,
+    "input_tokens": 7670,
+    "output_tokens": 8242,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 40710
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|tomato-gall|6372|tomfool}}</noinclude>called on account of its resemblance to the fruit of the tomato.\n\n'''tomato-plant''' (tọ̄-mä′tō-plȧnt), ''n.'' The herb tomato, particularly the young seedling intended for transplanting.\n\n'''tomato-sauce''' (tọ̄-mä′tō-sâs), ''n.'' A preparation of tomatoes to be used as a dressing for meat.\n\n'''tomato-sphinx''' (tọ̄-mä′tō-sfingks), ''n.'' The tomato hawk-moth, a sphingid, the adult of the tomato-worm.\n\n'''tomato-worm''' (tọ̄-mä′tō-wėrm), ''n.'' The larva of the sphingid moth ''Protoparce celeus'', the common five-spotted sphinx, which feeds on the foliage of the tomato-plant in the United States.\n\n[[File:century v08 p0176 c1f1.png|center|323px]]\n{{c|Tomato-worm (''Protoparce celeus'').}}\n\n'''tomaun''', ''n.'' See ''toman''.\n\n'''tom-ax†''' (tom′aks), ''n.'' [An accom. form of ''tomahawk'' (formerly ''tomahack'', etc.).] A tomahawk.\n\n{{smaller block|An Indian dressed as he goes to war may bring company together; but if he carries the scalping-knife and ''tom-ax'' there are many true Britons that will never be persuaded to see him but through a grate. {{right|''Johnson'', Idler, No. 40.}}}}\n\n'''tomb''' (töm), ''n.'' [< ME. ''tombe'', ''toumbe'', ''tumbe'', < OF. ''tumbe'', ''tombe'', F. ''tombe'' = Pr. ''tomba'' = Sp. Pg. ''tumba'' = It. ''tomba'', < LL. ''tumba'' (rare), < Gr. τύμβος, a sepulchral mound, barrow, grave, tomb, also a tombstone; prob. akin to L. ''tumulus'', a mound: see ''tumulus''.] 1. An excavation in earth or rock, intended to receive the dead body of a human being; a grave; also, a chamber or vault formed wholly or partly in the earth, with walls and a roof, or wholly above ground, for the reception of the dead, whether plain, or decorated by means of architecture, sculpture, etc.; a mausoleum; a sarcophagus. See also cuts under ''catacomb'', ''Lycian'', and ''altar-tomb''.\n\n[[File:century v08 p0176 c1f2.png|center|323px]]\n{{c|Roman Rock-tomb.—The Khuzneh, Petra, Arabia.}}\n\n{{smaller block|Twenty thousand men\nThat . . . go to their graves like beds, fight for a plot . . .\nWhich is not ''tomb'' enough and continent\nTo hide the slain.\n{{right|''Shak.'', Hamlet, iv. 4. 64.}}}}\n\n{{smaller block|Methinks I see thee . . .\nAs one dead in the bottom of a ''tomb''.\n{{right|''Shak.'', R. and J., iii. 5. 56.}}}}\n\n2. A monument erected to preserve the memory of the dead; any sepulchral structure; a cenotaph.\n\n{{smaller block|In the cuntre of Acaya, ther he kyng was,\nYs he birit in a burgh, & a bright ''toumbe''.\n{{right|''Destruction of Troy'' (E. E. T. S.), l. 13964.}}}}\n\n{{smaller block|I paused to contemplate a ''tomb'' on which lay the effigy of a knight in complete armor.\n{{right|''Irving'', Sketch-Book, p. 214.}}}}\n\n3. Same as ''altar-cavity''.\n\n{{smaller block|Every altar used for the celebration of mass must, according to Roman Catholic rule, contain some authorized relics. These are inserted into a cavity prepared for their reception, called \"''the tomb'', \" by the bishop of the diocese, and sealed up with the episcopal seal.\n{{right|''Encyc. Brit.'', XX. 357.}}}}\n\n4. Figuratively, the end of earthly life; death.\n\n{{smaller block|Young Churchill fell as Life began to bloom:\nAnd Bradford's trembling Age expects the ''Tomb''.\n{{right|''Prior'', Ode to George Villiers.}}}} '''tomb''', an altar-tomb.— '''Ledger tomb''', a tomb cov-vith a ledger. See ''ledger''<sup>1</sup>, 1 (''b'').\n\n(töm), ''v. t.'' [< ''tomb'', ''n.''] To bury; inter; nb.\n\n{{smaller block|The stone<br>That ''tombs'' the two is justly one.\n{{right|''Sir P. Sidney'', Arcadia, iii.}}}}\n\n'''ac, tombak''' (tom′bak), ''n.'' [Also ''tomback'', ac, formerly ''tambaycke'', ''tombaga''; = F. ''tom-'' = Sp. ''tumbaga'' = Pg. ''tambaca'', ''tambaque'' = ''mbacco'', < Malay ''tāmbaga'', ''tambaga'', Java- ''tembaga'', copper, < Skt. ''tamrika'', ''tamra'', cop- One of the many names of brass; Prince's etal; Mannheim gold. {{smaller|''Similor'' and ''tombac'' are mes indiscriminately applied to varieties of brass ed for mock jewelry. Various analyses of alloys sold der the name of ''tombac'' show from 82 to 99 per cent. copper and corresponding amounts of zinc. Some h varieties of tombac contain a small percentage of esides the copper and zinc.}}\n\n{{smaller block|King made him [the General] a feast; the dishes f gold, or ''Tambaycke'' (which is mixed of gold and ).\n{{right|''Purchas'', Pilgrimage, p. 549.}}}}\n\n'''-bat''' (töm′bat), ''n.'' A bat of the genus ''ozous''; a taphian: so called because the nal species was found in the chambers of tian pyramids.\n\n[[File:century v08 p0176 c2f1.png|center|285px]]\n{{c|Tomb-bat (''Taphozous nudiventris'').}}\n\n'''esterer†''', ''n.'' See ''tumbester.''\n\n'''-house''' (töm′hous), ''n.'' A tomb; a mauso.\n\n{{smaller block|e years later the unfinished chapel was given by VIII. to Cardinal Wolsey, and for long after it was n as Wolsey's ''tomb-house.'' {{right|''Encyc. Brit.'', XXIV. 601.}}}}\n\n'''ic''' (töm′ik), ''a.'' [< ''tomb'' + ''-ic.''] Pertaino tombs; particularly, noting the view the Great Pyramid of Egypt was designed isively for sepulture. [Recent.]\n\n{{smaller block|merely ''tombic'' theory (to use a word coined, I imay Professor Piazzi Smyth, and more convenient perhan defensible). {{right|''R. A. Proctor'', Great Pyramid, p. 172.}}}}\n\n'''less''' (töm′les), ''a.'' [< ''tomb'' + ''-less.''] With- tomb.\n\n{{smaller block|Lay these bones in an unworthy urn,<br>''Tombless,'' with no remembrance over them. {{right|''Shak.'', Hen. V., i. 2. 229.}}}}\n\n'''ly†''', ''adv.'' An old spelling of ''toomly.''\n\n'''oc''' (tom′bok), ''n.'' [Javanese.] A weapon a long handle or staff, used by the people ava and the neighboring islands. It is times a spear, and sometimes it has a e like that of a halberd.\n\n'''ola''' (tom′bō-lä), ''n.'' [= F. ''tombola'', < It. ''ola'', a kind of lottery, appar. < ''tombolare'', tumble: see ''tumble.''] A lottery game lar in France and in the southern United es. Fancy articles are offered for prizes; a card ining several numbers is given to each person, and e numbers on the card must be drawn in order to e a prize.\n\n{{smaller block|pair of statuettes, a golden tobacco-box, a costly -casket, or a pair of richly gemmed horse-pistols went into the shop-window of the ever-obliging ecary, to be disposed of by ''tombola''.\n{{right|''G. W. Cable'', Grandissimes, p. 144.}}}}\n\n'''oy''' (tom′boi), ''n.'' [< ''tom''<sup>1</sup> + ''boy''<sup>1</sup>.] 1†. A , boisterous boy.\n\n{{smaller block|Is all your delite and ioy whiskyng and ramping abroade like a ''Tom boy?''\n{{right|''Udall'', Roister Doister, ii. 4.}}}}\n\nwild, romping girl; a hoyden.\n\n{{smaller block|nbe. To Dance . . . hereof we yet call a wench that eth or leapeth like a boy, a ''Tomboy''.\n{{right|''egan'', Restitution of Decayed Intelligence (ed. 1628), [p. 234.}}\n\ncolor in her face was warmer as she exclaimed, . . . think of me at that age — what a ''tomboy'' I was!\"\n{{right|''The Century'', XLI. 562.}}}}\n\nA worthless woman; a strumpet. {{smaller block|To be partner'd\nWith ''tomboys'' hired with that self exhibition\nWhich your own coffers yield!\n{{right|''Shak.'', Cymbeline, i. 6. 122.}}}}\n\n{{smaller block|This is thy work, woman, . . .\nThe seeing of your simpering sweetness, you filly,\nYou tit, you ''tomboy!''\n{{right|''Beau. and Fl.'', Knight of Malta, ii. 1.}}}}\n\n¶\n'''tombstone''' (töm′stōn), ''n.'' [< ''tomb'' + ''stone.''] 1. A stone placed over a grave, to preserve the memory of the deceased; a sepulchral monument.\n\n[[File:century v08 p0176 c3f1.png|center|190px]]\n{{c|Tombstone, 13th century.—Church of St. Martin, Laon, France. (From Viollet-le-Duc's \"Dict. de l'Architecture.\")}}\n\n{{smaller block|Make not error<br>A ''tombstone'' of your virtues, whose fair life<br>Deserves a constellation.\n{{right|''Beau. and Fl.'', Thierry and [Theodoret, iv. 1.}}}}\n\n{{smaller block|Sometimes endeavoring to decipher the inscriptions on the ''tombstones'' which formed the pavement beneath my feet.\n{{right|''Irving'', Sketch-Book, p. 211.}}}}\n\n{{smaller block|Seated on an upright ''tombstone'', close to him, was a strange unearthly figure.\n{{right|''Dickens'', Pickwick, xxix.}}}}\n\n2. In ''her.'', a bearing representing a sarcophagus or altar-tomb, usually having a large Latin cross on the slab or top.\n\n'''tom-cat''' (tom′kat), ''n.'' [< ''tom''<sup>1</sup> + ''cat''<sup>1</sup>.] A male cat, especially a full-grown male cat.\n\n{{smaller block|Sunk from a Lion to a tame<br>''Tom Cat.''\n{{right|''Peter Pindar's Prophecy'' [(ed. 1789).}}}}\n\n'''tomcod''' (tom′kod), ''n.'' [Appar. < ''tom''<sup>1</sup> + ''cod''<sup>2</sup>, but said to be corrupted from Amer. Ind. ''tacaud'', ‘plenty-fish.’] 1. The frost-fish, ''Microgadus tomcodus'' (see cut under ''Microgadus''); also, loosely, one of several small fishes like or mistaken for this one. Also ''tommy-cod.''—2. The jack-fish or rock-fish, a scorpænoid fish, ''Sebastodes paucispinis.'' [Monterey, California.]—3. The kingfish, ''Menticirrus nebulosus.'' See cut under ''kingfish.''\n\n'''Tom-double†''' (tom′dub″l), ''n.'' A double-dealer.\n\n{{smaller block|He is for a single ministry, that he may play the ''Tom-double'' under it.\n{{right|''Character of a Sneaker'' (1705) (Harl. Misc., II. 355). [(''Davies.'')}}}}\n\n'''tome<sup>1</sup>''' (tōm), ''n.'' [< F. ''tome'' = Sp. Pg. It. ''tomo'', < L. ''tomus'', a part of a book, a volume, tome, < Gr. τόμος, a cut, piece, a part of a book, a volume, tome, section, < τέμνειν, ταμεῖν, cut. From this Gr. verb are also ult. E. ''atom'', ''atomy'', ''tmema'', ''tmesis'', ''entoma'', ''entomology'', etc., and many words ending in ''-tome'' or ''-tomy'', as ''epitome'', ''anatomy'', ''lithotomy'', etc. In ''fleam''<sup>1</sup> it appears reduced to a single letter.] A volume forming a part of a larger work; any volume, especially a ponderous one.\n\n{{smaller block|The relation of their Christian Rites belongs to another ''Tome.'' {{right|''Purchas'', Pilgrimage, p. 78.}}}}\n\n{{smaller block|A volume old and brown,\nA huge ''tome'', bound\nIn brass and wild-boar's hide.\n{{right|''Longfellow'', Golden Legend, ii.}}}}\n\n'''tome<sup>2</sup>†''', ''a.'' See ''toom.''\n\n'''tomelet''' (tōm′let), ''n.'' [Dim. of ''tome.''] A small tome or volume.\n\n¶\n'''toment''' (tō′ment), ''n.'' [< NL. ''tomentum'', < L. ''tomentum'', a stuffing of wool, hair, feathers, etc., for cushions, etc.] Same as ''tomentum''.\n\n'''tomentose, tomentous''' (tọ̄-men′tōs, -tus), ''a.'' [= F. ''tomenteux'' = Sp. Pg. It. ''tomentoso'', < L. ''tomentum'', a stuffing of wool, hair, feathers: see ''toment''.] 1. In ''bot.'', covered with hairs so close as scarcely to be distinguished; densely pubescent with matted wool or tomentum; coated with down-like hairs.—2. In ''entom.'', clothed with short inconspicuous hairs interwoven or matted together.—3. In ''anat.'', fleecy; flocculent. See ''tomentum'', 2.\n\n'''tomentum''' (tō-men′tum), ''n.'' [NL.: see ''toment''.] 1. In ''bot.'', a species of pubescence, consisting of longish, soft, entangled hairs, pressed close to the surface.—2. In ''anat.'', the flocculent inner surface of the pia mater: more fully called ''tomentum cerebri''.\n\n'''tomfool''' (tom′föl′), ''n.'' [< ''tom''<sup>1</sup> + ''fool''<sup>1</sup>.] 1. A silly fool; a trifler: also used attributively.\n\n{{smaller block|He had resolved to treat these ''tomfools'' with proper contempt, by paying no more heed to them.\n{{right|''W. Black'', In Far Lochaber, xiv.}}}}<noinclude><references/></noinclude>"
+}

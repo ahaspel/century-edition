@@ -1,0 +1,343 @@
+{
+ "volume": 8,
+ "page_number": 158,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n157.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n157.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-13",
+  "angle": 0.0,
+  "column_width": 794,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     140,
+     87,
+     2414,
+     186
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     140,
+     186,
+     876,
+     833
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     140,
+     833,
+     876,
+     1389
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     140,
+     1391,
+     876,
+     1667
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     140,
+     1667,
+     876,
+     2686
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     140,
+     2686,
+     876,
+     3235
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     876,
+     186,
+     1620,
+     1267
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     876,
+     1267,
+     1620,
+     2300
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     876,
+     2300,
+     1620,
+     2712
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     876,
+     2712,
+     1620,
+     3202
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     876,
+     3206,
+     1620,
+     3230
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1620,
+     186,
+     2414,
+     298
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1620,
+     298,
+     2219,
+     745
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1620,
+     751,
+     2219,
+     774
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     2219,
+     298,
+     2414,
+     774
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1620,
+     774,
+     2414,
+     1564
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1620,
+     1564,
+     2414,
+     2607
+    ]
+   },
+   {
+    "name": "c3s5",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1620,
+     2607,
+     2414,
+     3235
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|tissue|6354|Titan}}",
+   "c1s1": "{{smaller block|His helme to-hewen was in twenty places<br>That by a ''tyssew'' henge his bak byhynde.\n{{right|''Chaucer'', Troilus, ii. 639.}}}}\n\n3. In ''biol.'', an aggregate of similar cells and cell-products in a definite fabric; a histological texture of any metazoic animal: as, muscular, nervous, cellular, fibrous, connective, or epithelial ''tissue;'' parenchymatous ''tissue.'' {{smaller|All parts of such organisms are composed of tissues, and the tissues themselves consist either of cells or of cell-products, of which delicate fibers are the most frequent form. Any tissue is an organ, but ''tissue'' specially notes the substance of any organ, or the mode of coherence of its ultimate formative constituents, rather than its formation in gross, and requires a qualifying word for its specification.}}\n\n4. Specifically, in ''bot.'', the cellular fabric out of which plant-structures are built up, being composed of united cells that have had a common origin and have obeyed a common law of growth. {{smaller|The tissue-elements are the cells in their various modifications, and, although seemingly diverse as to}}",
+   "c1c1": "{{c|Tissue.}}\n\n{{c|''Parenchyma.''—''a'', transverse section of the bark in the stem of ''Datura Tatula''; ''b'', longitudinal section of the same; ''c'', transverse section of the pith in the stem of the same plant; ''d'', longitudinal section of the same; ''e'', the collenchymatous tissue in the stem of the same plant, transverse section (''C'', collenchyma; ''E'', epidermis).}}\n\n{{c|''Prosenchyma.''—''f'', transverse section of the intrafascicular cambium in the stem of the same plant; ''g'', longitudinal section of the same; ''h'', the ends of two sclerenchymatous cells from the stem of ''Cardamine rhomboidea''; ''i'', transverse section of the stem of the same plant (''S'', sclerenchyma; ''B'', bark; ''E'', epidermis); ''k'', transverse section of leaf of ''Saxifraga hieracifolia'' (''E'', epidermis; ''Pl'', palisade-cells; ''Pn'', pneumatic tissue).}}",
+   "c1s2": "{{smaller block|form, size, and function, may be reduced to two principal types: namely, parenchyma in its widest sense, including parenchyma proper, collenchyma, sclerotic parenchyma, epidermal cells, suberous parenchyma, etc., and prosenchyma in its widest sense, including prosenchyma proper, typical wood-cells, tracheids, ducts, bast-cells, sieve-cells, etc. See ''parenchyma'' and ''prosenchyma''.}}\n\n5. Figuratively, an interwoven or interconnected series or sequence; an intimate conjunction, coördination, or concatenation.\n\n{{smaller block|We shall perceive . . . [history] to be a ''tissue'' of crimes, follies, and misfortunes.\n{{right|''Goldsmith'', Citizen of the World, xlii.}}}}\n\n{{smaller block|It is not easy to reconcile this monstrous ''tissue'' of incongruity and dissimulation with any motives of necessity or expediency.\n{{right|''Prescott'', Ferd. and Isa., ii. 17.}}}}\n\n6. Same as ''tissue-paper''. See ''paper''.—7. In ''photog.'', a film or very thin plate of gelatin compounded with a pigment, made on a continuous strip of paper, and used, after bichromate sensitization, for carbon-printing.\n\n{{smaller block|The ''tissue'' is prepared in three varieties of colour, . . . indian ink, sepia, and photographic purple.\n{{right|''Workshop Receipts'', 1st ser., p. 273.}}}}\n\n8. In ''entom.'', the geometrid moth ''Scotosia dubitata'': an English collectors' name.—'''Accidental tissue''', {{smaller|any tissue that grows in or upon a part to which it is foreign. It may be similar to a tissue normally found elsewhere in the body (analogous), or unlike any of the normal tissues of the organism (heterologous). A bony tumor growing in muscle is an example of analogous accidental tissue; cancer, of heterologous.}}—'''Adenoid, adipose, aqueous, areolar, basement, cartilaginous, cavernous, chordal, cicatricial tissue.''' {{smaller|See the qualifying words.}}—'''Adventitious tissue.''' {{smaller|Same as ''accidental''}}",
+   "c1s3": "''tissue.''—'''Cellular tissue.''' (''a'') In ''bot.'', parenchyma. See def. 4 and ''cellular.'' (''b'') In ''zoöl.'', areolar tissue. See def. 3.—'''Cloth of tissue†.''' See ''cloth.''—'''Conducting tissue,''' in ''bot.'', loose cellular tissue forming the body of the stigma and filling or lining the axis of the style, through which the pollen-tubes make their way to the cavity of the ovary. Also ''conductive tissue.''—'''Connective tissue.''' See ''connective.''—'''Cribriform tissue.''' (''a'') In ''bot.'', cribrose cells, or sieve-cells, taken collectively; sieve-tissue. See ''sieve-cell.'' (''b'') In ''zoöl.'', areolar tissue.—'''Dartoid, elastic, epidermal, erectile tissue.''' See the adjectives.—'''Fatty tissue.''' Same as ''adipose tissue.''—'''Felted, fibrilliform, fibrous, filamentous, gelatigenous, gelatinous tissue.''' See the adjectives.—'''Fundamental tissue.''' See ''fundamental cells'', under ''fundamental.''—'''Glandular woody tissue.''' See ''glandular.''—'''Granulation tissue.''' See ''granulation.''—'''Healing tissue,''' in ''bot.'', a general name for the cellular matter produced for the repair of injury in plants. Where any part of a plant has suffered serious mechanical injury by which the deeper tissues are exposed, the surface of the wound exhales moisture very rapidly, and soon becomes dry. This drying of the exposed tissues is fatal to",
+   "c2s1": "{{smaller block|undergo chemical decomposition. This decomposition would very soon extend to neighboring cells were it not arrested by the tissues for repair. The principal healing tissue is cork. The soft tissues just below the wound immediately become merismatic and behave precisely like normal cork-meristem, covering the entire wound with a grayish or brownish film, which is in unbroken connection with the edges of the wound. Another form of repair is by callus, in which some of the cells at the exposed surface give rise to elongated sac-like bodies, which fill up the greater part of the injured cavity, and serve as a new epidermis. ''Goodale'', Phys. Bot.—'''Indifferent tissues.''' See ''indifferent cells'', under ''cell''.—'''Interstitial, lardaceous, laticiferous, leprous, lymphoid, muscular, osteogenic tissue.''' See the adjectives.—'''Laminated tissue''', cellular tissue.—'''Osteoid tissue,''' a tissue, formed of cells with large nuclei, lying in angular cavities of a faintly striated cartilage-like intercellular substance. It arises from lymphoid medullary cells, or from the periosteum, and it becomes converted into bone by impregnation with lime-salts, together with slight morphological modifications.—'''Reticular tissue.''' Same as ''adenoid tissue''.—'''Retiform connective tissue.''' Same as ''adenoid tissue''.—'''Sclerous tissue,''' a collective term embracing the cartilaginous, fibrous, and osseous tissues.—'''Sieve-tissue.''' See ''cribriform tissue'', above.—'''Splenic tissue.''' Same as ''spleen-pulp''.—'''Sporogenous, sustentacular, tracheary,''' etc., '''tissue.''' See the adjectives.—'''Vegetable tissue.''' See def. 4.}}\n\n'''II.''' ''a.'' Made of tissue.\n\n{{smaller block|Her head was decked with a gypsy hat, from which floated a blue ''tissue'' veil. ''Harper's Mag.'', LXXVIII. 440.}}\n\n¶\n'''tissue''' (tish′ö), ''v. t.''; pret. and pp. ''tissued'', ppr. ''tissuing''. [< ''tissue'', ''n.''] 1. To weave with threads of silver or gold, as in the manufacture of tissue.\n\n{{smaller block|The chariot was covered with cloth of gold ''tissued'' upon blue.\n{{right|''Bacon'', New Atlantis.}}}}\n\n2. To clothe in or adorn with tissue.\n\n{{smaller block|Crested knights and ''tissued'' dames<br>Assembled at the glorious call.\n{{right|''Wharton.''}}}}",
+   "c2s2": "¶\n'''tissued''' (tish′öd), ''p. a.'' [< ''tissue'' + ''-ed''<sup>2</sup>.] Variegated in color; rich and silvery as if made of tissue.\n\n{{smaller block|With radiant feet the ''tissued'' clouds down steering.\n{{right|''Milton'', Nativity, l. 146.}}}}\n\n'''tissue-paper''' (tish′ö-pā″pėr), ''n.'' [So called as being used to place between the folds of the fine silk fabric called ''tissue''; < ''tissue'', 1, + ''paper''.] See ''paper''.\n\n'''tissue-secretion''' (tish′ö-sẹ̄-krē″shọn), ''n.'' In ''Actinozoa'', the sclerenchyma of sclerodermic corals, secreted by the polyps themselves and not by the cœnosarc: opposed to ''foot-secretion''.\n\n'''tit'''<sup>1</sup> (tit), ''n.'' [Also ''tet''; < (''a'') ME. ''tit'', ''titte'', ''tette'', < AS. ''tit'' (''titt-'') = MD. ''titte'' = MLG. LG. ''titte'' = MHG. G. ''zitze'' (cf. Sw. ''tisse'', < G. ?); mixed in E. with (''b'') E. ''teat'', < ME. ''tete'', < OF. ''tete'', ''tette'', F. ''tette'' (also ''teton'', ''tettin'') = Sp. Pg. ''tetta'' = It. ''tetta'' (also ''zitta'', ''cizza'', ''zezzolo''), teat (cf. F. ''teter'' = Sp. ''tetar'' = It. ''tettare'', suckle); root unknown. (''c'') Cf. OHG. ''tuttā'', ''tutā'', ''tutto'', ''tuto'', MHG. ''tutte'', ''tute'', dim. ''tütel'', teat; Icel. ''tāta'', teat; W. ''didi'', ''did'', teat; Gr. τιτθός, τίτθη, teat. The relations of these last forms are uncertain.] A teat. See ''teat''.\n\n'''tit'''<sup>2</sup> (tit), ''n.'' [< ME. *''tit'' (found only in comp.: see ''titmouse''), < Icel. ''tittr'', a little bird, = Norw. ''tita'', a little bird (cf. Icel. ''titlingr'', > E. ''titling''); perhaps connected with ''tit''<sup>3</sup>, ‘a small thing.’ The word appears also in ''titlark'', ''titling''<sup>1</sup>, ''titmouse'', and terminally in ''tomtit'', ''bottle-tit'', ''coal-tit'', ''thrush-tit'', ''wren-tit'', and other names.] One",
+   "c2s3": "of several small birds. {{smaller|Specifically—(''a'') A titling or pipit. See ''titlark.'' (''b'') A tomtit or titmouse. (''c'') With a qualifying word, or in composition, one of many different birds which resemble or suggest titmice, especially of India and the East Indies. See phrases and words following.—'''Azure tit''' or '''titmouse,''' ''Parus'' (''Cyanestes'') ''cyanus,'' in part blue, and widely distributed in the northern Palearctic region. ''Pennant,'' 1785; ''Latham,'' 1787.—'''Bearded tit.''' See ''bearded.''—'''Cape tit,''' a penduline titmouse of South Africa, ''Ægithalus pendulinus.''—'''Gold tit,''' an American titmouse, ''Auriparus flaviceps,'' of Texas to California and southward, 4 inches long, ashy and whitish with the whole head golden-yellow. See ''titmouse.''—'''Ground tit.''' See ''wren-tit.''—'''Hill tit,''' one of numerous and various small oscine birds of the hill-countries of India: very loosely}}",
+   "c2c1": "{{c|Hill tit (''Minla igneotincta'').}}",
+   "c3s1": "''Timeliidæ.'' In illustration of the group may be noted the members of the genus ''Minla'', as ''M.'' (formerly ''Liothrix'') ''igneotincta'', of the Himalayan region and southward, and",
+   "c3c1": "{{c|Hill tit (''Liothrix lutea'').}}",
+   "c3s2": "",
+   "c3s3": "{{smaller|of ''Liothrix'' proper, as ''L. lutea.'' See also ''tit-babbler'' (with cut).—'''Hudsonian''' or '''Hudson's Bay tit,''' ''Parus hudsonicus,'' of New England and northward, resembling a chickadee, but marked with brown.—'''Long-tailed tit.''' See ''titmouse'' (with cut).—'''Penduline tit,''' any titmouse of the genus ''Ægithalus,'' with six or eight wide-ranging species in Europe and Africa, as ''Æ. pendulinus.''—'''Siberian tit,''' ''Parus cinctus.''—'''Toupet tit.''' See ''toupet,'' 2.—'''Tufted tit,''' a United States crested titmouse, ''Parus'' (''Lophophanes'') ''bicolor;'' the peto. See cut under ''titmouse.'' (See also ''bottle-tit, bush-tit, coal-tit, thrush-tit, wren-tit.'')}}\n\n¶\n'''tit'''<sup>3</sup> (tit), ''n.'' [Early mod. E. also ''titt;'' appar. orig. 'something small.' Cf. ''tit''<sup>2</sup>, ''titty''<sup>2</sup>. Cf. also ''tot''<sup>1</sup>.] 1. A small or poor horse.\n\n{{smaller block|The nag or the hackeneie is verie good for trauelling. . . . And if he be broken accordinglie, you shall haue a little ''tit'' that will trauell a whole daie without anie bait.\n{{right|''Stanihurst,'' Descrip. of Ireland, ii. (Holinshed's Chron., I.).}}}}\n\n{{smaller block|The Modern Poets seem to use Smut as the Old Ones did Machines, to relieve a fainting Invention. When Pegasus is jaded, and would stand still, he is apt, like other ''Tits,'' to run into every Puddle.\n{{right|''Jeremy Collier,'' Short View (ed. 1698), p. 6.}}}}\n\n2. A child; a girl; a young woman: a depreciatory term.\n\n{{smaller block|I wonder that any man is so mad to come to see these rascally ''tits'' play here.\n{{right|''B. Jonson,'' Cynthia's Revels, Ind.}}}}",
+   "c3s4": "3. A bit; morsel. ''Halliwell.''\n\n[Obsolete or rare in all uses.]\n\n'''tit'''<sup>4</sup> (tit), ''n.'' [In the phrase ''tit for tat'', a variation of ''tip for tap'': see under ''tip''<sup>2</sup>, ''n.'' ''Tit'' and ''tat'' in this phrase are in themselves meaningless; the phrase is often written with hyphens, ''tit-for-tat'', and indeed is better so written, being practically one word.] In the phrase ''tit for tat'' (literally, in the original form ''tip for tap'', 'blow for blow'), a retaliatory return; an equivalent by way of repartee or answer: as, to give a person ''tit for tat'' in a dispute or a war of wit.\n\n{{smaller block|''Tit for tat'', Betsey! You are right, my girl.\n{{right|''Colman and Garrick'', Clandestine Marriage, v. 2.}}\nI have had my ''tit-for-tat'' with John Russell, and I turned him out on Friday last.\n{{right|''Palmerston'', in McCarthy's Hist. Own Times, xxiii.}}}}\n\n'''tit'''<sup>5</sup>† (tit), ''v. t.'' [< ME. ''titten'', ''tytten'', origin obscure; cf. ''tight''<sup>1</sup>, ''v.''] To pull tightly. (''Halliwell'', under ''titte'' (2).)\n\n{{smaller block|And the feete uppward fast knytted,\nAnd in strang paynes be streyned and ''tytted''.\n{{right|''Hampole'', MS. Bowes, p. 210. (''Halliwell.'')}}}}\n\n'''tit'''<sup>5</sup>† (tit), ''n.'' [< ME. ''titte''; < ''tit''<sup>5</sup>, ''v.''] A pull.\n\n{{smaller block|Yf that tre war tite pulled oute\nAt a ''titte'', with al the rotes oboute.\n{{right|''Hampole'', Pricke of Conscience, l. 1915 (Morris and Skeat's [Spec. Eng. Lit.).}}}}\n\n'''tit'''<sup>6</sup>†, ''adv.'' A Middle English variant of ''tite''<sup>1</sup>.\n\n'''Titan'''<sup>1</sup> (tī′tan), ''n.'' [< ME. ''Titan'', ''Tytan'', < OF. ''Titan'', F. ''Titan'' = Sp. ''Titan'' = Pg. ''Titão'' = It. ''Titano'' = G. Dan. Sw. ''Titan'', < L. ''Titan'', rarely ''Titanus''",
+   "c3s5": "(pl. ''Titanes'', ''Titani''), < Gr. Τιτάν (pl. Τιτᾶνες, Τιτῆνες), a Titan; cf. τιτώ, day, < √ τι, lighten, illumine.] 1. In ''mythol.'', one of a race of primordial deities, children of Uranus and Ge (Heaven and Earth), or their son Titan, supposed to represent the various forces of nature. {{smaller|In the oldest accounts there were six male Titans (Oceanus, Cœus, Crius, Hyperion, Japetus, and Kronos), and six female (Theia, Rhea, Themis, Mnemosyne, Phœbe, and Tethys). They were imprisoned by their father Uranus from their birth, but, after unmanning and dethroning him, were delivered by Kronos. Zeus, son of Kronos, compelled him to disgorge his elder brothers and sisters, whom he had swallowed at their birth, and after a terrible war thrust the Titans (except Oceanus) into Tartarus, under guard of the hundred-armed giants. In the later legends, Titan, the father of the Titans, yielded the supreme power to his younger brother Kronos, but regained it, and was finally overcome by the thunderbolts of Zeus (Jupiter), son of Kronos (Saturn), who then became the supreme god. The Titans in their wars are said to have piled mountains upon mountains to scale heaven, and they are taken as the types of lawlessness, gigantic size, and enormous strength.}}"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0158 c1f1.png",
+   "c2f1": "century v08 p0158 c2f1.png",
+   "c3f1": "century v08 p0158 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     150,
+     834,
+     864,
+     1389
+    ],
+    "caption": [
+     142,
+     1391,
+     865,
+     1667
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     146,
+     827,
+     884,
+     1383
+    ]
+   },
+   {
+    "box": [
+     1718,
+     298,
+     2210,
+     745
+    ],
+    "caption": [
+     1850,
+     751,
+     2107,
+     774
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1735,
+     159,
+     2259,
+     678
+    ]
+   },
+   {
+    "box": [
+     989,
+     2712,
+     1496,
+     3186
+    ],
+    "caption": [
+     1117,
+     3206,
+     1413,
+     3230
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     895,
+     2674,
+     1624,
+     3193
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 4,
+    "input_tokens": 6927,
+    "output_tokens": 259,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 15,
+    "input_tokens": 8519,
+    "output_tokens": 10577,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 40710
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|tissue|6354|Titan}}</noinclude>{{smaller block|His helme to-hewen was in twenty places<br>That by a ''tyssew'' henge his bak byhynde.\n{{right|''Chaucer'', Troilus, ii. 639.}}}}\n\n3. In ''biol.'', an aggregate of similar cells and cell-products in a definite fabric; a histological texture of any metazoic animal: as, muscular, nervous, cellular, fibrous, connective, or epithelial ''tissue;'' parenchymatous ''tissue.'' {{smaller|All parts of such organisms are composed of tissues, and the tissues themselves consist either of cells or of cell-products, of which delicate fibers are the most frequent form. Any tissue is an organ, but ''tissue'' specially notes the substance of any organ, or the mode of coherence of its ultimate formative constituents, rather than its formation in gross, and requires a qualifying word for its specification.}}\n\n4. Specifically, in ''bot.'', the cellular fabric out of which plant-structures are built up, being composed of united cells that have had a common origin and have obeyed a common law of growth. {{smaller|The tissue-elements are the cells in their various modifications, and, although seemingly diverse as to form, size, and function, may be reduced to two principal types: namely, parenchyma in its widest sense, including parenchyma proper, collenchyma, sclerotic parenchyma, epidermal cells, suberous parenchyma, etc., and prosenchyma in its widest sense, including prosenchyma proper, typical wood-cells, tracheids, ducts, bast-cells, sieve-cells, etc. See ''parenchyma'' and ''prosenchyma''.}}\n\n[[File:century v08 p0158 c1f1.png|center|334px]]\n{{c|Tissue.}}\n\n{{c|''Parenchyma.''—''a'', transverse section of the bark in the stem of ''Datura Tatula''; ''b'', longitudinal section of the same; ''c'', transverse section of the pith in the stem of the same plant; ''d'', longitudinal section of the same; ''e'', the collenchymatous tissue in the stem of the same plant, transverse section (''C'', collenchyma; ''E'', epidermis).}}\n\n{{c|''Prosenchyma.''—''f'', transverse section of the intrafascicular cambium in the stem of the same plant; ''g'', longitudinal section of the same; ''h'', the ends of two sclerenchymatous cells from the stem of ''Cardamine rhomboidea''; ''i'', transverse section of the stem of the same plant (''S'', sclerenchyma; ''B'', bark; ''E'', epidermis); ''k'', transverse section of leaf of ''Saxifraga hieracifolia'' (''E'', epidermis; ''Pl'', palisade-cells; ''Pn'', pneumatic tissue).}}\n\n5. Figuratively, an interwoven or interconnected series or sequence; an intimate conjunction, coördination, or concatenation.\n\n{{smaller block|We shall perceive . . . [history] to be a ''tissue'' of crimes, follies, and misfortunes.\n{{right|''Goldsmith'', Citizen of the World, xlii.}}}}\n\n{{smaller block|It is not easy to reconcile this monstrous ''tissue'' of incongruity and dissimulation with any motives of necessity or expediency.\n{{right|''Prescott'', Ferd. and Isa., ii. 17.}}}}\n\n6. Same as ''tissue-paper''. See ''paper''.—7. In ''photog.'', a film or very thin plate of gelatin compounded with a pigment, made on a continuous strip of paper, and used, after bichromate sensitization, for carbon-printing.\n\n{{smaller block|The ''tissue'' is prepared in three varieties of colour, . . . indian ink, sepia, and photographic purple.\n{{right|''Workshop Receipts'', 1st ser., p. 273.}}}}\n\n8. In ''entom.'', the geometrid moth ''Scotosia dubitata'': an English collectors' name.—'''Accidental tissue''', {{smaller|any tissue that grows in or upon a part to which it is foreign. It may be similar to a tissue normally found elsewhere in the body (analogous), or unlike any of the normal tissues of the organism (heterologous). A bony tumor growing in muscle is an example of analogous accidental tissue; cancer, of heterologous.}}—'''Adenoid, adipose, aqueous, areolar, basement, cartilaginous, cavernous, chordal, cicatricial tissue.''' {{smaller|See the qualifying words.}}—'''Adventitious tissue.''' {{smaller|Same as ''accidental''}} ''tissue.''—'''Cellular tissue.''' (''a'') In ''bot.'', parenchyma. See def. 4 and ''cellular.'' (''b'') In ''zoöl.'', areolar tissue. See def. 3.—'''Cloth of tissue†.''' See ''cloth.''—'''Conducting tissue,''' in ''bot.'', loose cellular tissue forming the body of the stigma and filling or lining the axis of the style, through which the pollen-tubes make their way to the cavity of the ovary. Also ''conductive tissue.''—'''Connective tissue.''' See ''connective.''—'''Cribriform tissue.''' (''a'') In ''bot.'', cribrose cells, or sieve-cells, taken collectively; sieve-tissue. See ''sieve-cell.'' (''b'') In ''zoöl.'', areolar tissue.—'''Dartoid, elastic, epidermal, erectile tissue.''' See the adjectives.—'''Fatty tissue.''' Same as ''adipose tissue.''—'''Felted, fibrilliform, fibrous, filamentous, gelatigenous, gelatinous tissue.''' See the adjectives.—'''Fundamental tissue.''' See ''fundamental cells'', under ''fundamental.''—'''Glandular woody tissue.''' See ''glandular.''—'''Granulation tissue.''' See ''granulation.''—'''Healing tissue,''' in ''bot.'', a general name for the cellular matter produced for the repair of injury in plants. Where any part of a plant has suffered serious mechanical injury by which the deeper tissues are exposed, the surface of the wound exhales moisture very rapidly, and soon becomes dry. This drying of the exposed tissues is fatal to {{smaller block|undergo chemical decomposition. This decomposition would very soon extend to neighboring cells were it not arrested by the tissues for repair. The principal healing tissue is cork. The soft tissues just below the wound immediately become merismatic and behave precisely like normal cork-meristem, covering the entire wound with a grayish or brownish film, which is in unbroken connection with the edges of the wound. Another form of repair is by callus, in which some of the cells at the exposed surface give rise to elongated sac-like bodies, which fill up the greater part of the injured cavity, and serve as a new epidermis. ''Goodale'', Phys. Bot.—'''Indifferent tissues.''' See ''indifferent cells'', under ''cell''.—'''Interstitial, lardaceous, laticiferous, leprous, lymphoid, muscular, osteogenic tissue.''' See the adjectives.—'''Laminated tissue''', cellular tissue.—'''Osteoid tissue,''' a tissue, formed of cells with large nuclei, lying in angular cavities of a faintly striated cartilage-like intercellular substance. It arises from lymphoid medullary cells, or from the periosteum, and it becomes converted into bone by impregnation with lime-salts, together with slight morphological modifications.—'''Reticular tissue.''' Same as ''adenoid tissue''.—'''Retiform connective tissue.''' Same as ''adenoid tissue''.—'''Sclerous tissue,''' a collective term embracing the cartilaginous, fibrous, and osseous tissues.—'''Sieve-tissue.''' See ''cribriform tissue'', above.—'''Splenic tissue.''' Same as ''spleen-pulp''.—'''Sporogenous, sustentacular, tracheary,''' etc., '''tissue.''' See the adjectives.—'''Vegetable tissue.''' See def. 4.}}\n\n'''II.''' ''a.'' Made of tissue.\n\n{{smaller block|Her head was decked with a gypsy hat, from which floated a blue ''tissue'' veil. ''Harper's Mag.'', LXXVIII. 440.}}\n\n¶\n'''tissue''' (tish′ö), ''v. t.''; pret. and pp. ''tissued'', ppr. ''tissuing''. [< ''tissue'', ''n.''] 1. To weave with threads of silver or gold, as in the manufacture of tissue.\n\n{{smaller block|The chariot was covered with cloth of gold ''tissued'' upon blue.\n{{right|''Bacon'', New Atlantis.}}}}\n\n2. To clothe in or adorn with tissue.\n\n{{smaller block|Crested knights and ''tissued'' dames<br>Assembled at the glorious call.\n{{right|''Wharton.''}}}}\n\n'''tissued''' (tish′öd), ''p. a.'' [< ''tissue'' + ''-ed''<sup>2</sup>.] Variegated in color; rich and silvery as if made of tissue.\n\n{{smaller block|With radiant feet the ''tissued'' clouds down steering.\n{{right|''Milton'', Nativity, l. 146.}}}}\n\n'''tissue-paper''' (tish′ö-pā″pėr), ''n.'' [So called as being used to place between the folds of the fine silk fabric called ''tissue''; < ''tissue'', 1, + ''paper''.] See ''paper''.\n\n'''tissue-secretion''' (tish′ö-sẹ̄-krē″shọn), ''n.'' In ''Actinozoa'', the sclerenchyma of sclerodermic corals, secreted by the polyps themselves and not by the cœnosarc: opposed to ''foot-secretion''.\n\n'''tit'''<sup>1</sup> (tit), ''n.'' [Also ''tet''; < (''a'') ME. ''tit'', ''titte'', ''tette'', < AS. ''tit'' (''titt-'') = MD. ''titte'' = MLG. LG. ''titte'' = MHG. G. ''zitze'' (cf. Sw. ''tisse'', < G. ?); mixed in E. with (''b'') E. ''teat'', < ME. ''tete'', < OF. ''tete'', ''tette'', F. ''tette'' (also ''teton'', ''tettin'') = Sp. Pg. ''tetta'' = It. ''tetta'' (also ''zitta'', ''cizza'', ''zezzolo''), teat (cf. F. ''teter'' = Sp. ''tetar'' = It. ''tettare'', suckle); root unknown. (''c'') Cf. OHG. ''tuttā'', ''tutā'', ''tutto'', ''tuto'', MHG. ''tutte'', ''tute'', dim. ''tütel'', teat; Icel. ''tāta'', teat; W. ''didi'', ''did'', teat; Gr. τιτθός, τίτθη, teat. The relations of these last forms are uncertain.] A teat. See ''teat''.\n\n'''tit'''<sup>2</sup> (tit), ''n.'' [< ME. *''tit'' (found only in comp.: see ''titmouse''), < Icel. ''tittr'', a little bird, = Norw. ''tita'', a little bird (cf. Icel. ''titlingr'', > E. ''titling''); perhaps connected with ''tit''<sup>3</sup>, ‘a small thing.’ The word appears also in ''titlark'', ''titling''<sup>1</sup>, ''titmouse'', and terminally in ''tomtit'', ''bottle-tit'', ''coal-tit'', ''thrush-tit'', ''wren-tit'', and other names.] One of several small birds. {{smaller|Specifically—(''a'') A titling or pipit. See ''titlark.'' (''b'') A tomtit or titmouse. (''c'') With a qualifying word, or in composition, one of many different birds which resemble or suggest titmice, especially of India and the East Indies. See phrases and words following.—'''Azure tit''' or '''titmouse,''' ''Parus'' (''Cyanestes'') ''cyanus,'' in part blue, and widely distributed in the northern Palearctic region. ''Pennant,'' 1785; ''Latham,'' 1787.—'''Bearded tit.''' See ''bearded.''—'''Cape tit,''' a penduline titmouse of South Africa, ''Ægithalus pendulinus.''—'''Gold tit,''' an American titmouse, ''Auriparus flaviceps,'' of Texas to California and southward, 4 inches long, ashy and whitish with the whole head golden-yellow. See ''titmouse.''—'''Ground tit.''' See ''wren-tit.''—'''Hill tit,''' one of numerous and various small oscine birds of the hill-countries of India: very loosely}} ''Timeliidæ.'' In illustration of the group may be noted the members of the genus ''Minla'', as ''M.'' (formerly ''Liothrix'') ''igneotincta'', of the Himalayan region and southward, and {{smaller|of ''Liothrix'' proper, as ''L. lutea.'' See also ''tit-babbler'' (with cut).—'''Hudsonian''' or '''Hudson's Bay tit,''' ''Parus hudsonicus,'' of New England and northward, resembling a chickadee, but marked with brown.—'''Long-tailed tit.''' See ''titmouse'' (with cut).—'''Penduline tit,''' any titmouse of the genus ''Ægithalus,'' with six or eight wide-ranging species in Europe and Africa, as ''Æ. pendulinus.''—'''Siberian tit,''' ''Parus cinctus.''—'''Toupet tit.''' See ''toupet,'' 2.—'''Tufted tit,''' a United States crested titmouse, ''Parus'' (''Lophophanes'') ''bicolor;'' the peto. See cut under ''titmouse.'' (See also ''bottle-tit, bush-tit, coal-tit, thrush-tit, wren-tit.'')}}\n\n[[File:century v08 p0158 c2f1.png|center|337px]]\n{{c|Hill tit (''Minla igneotincta'').}}\n\n[[File:century v08 p0158 c3f1.png|center|272px]]\n{{c|Hill tit (''Liothrix lutea'').}}\n\n¶\n'''tit'''<sup>3</sup> (tit), ''n.'' [Early mod. E. also ''titt;'' appar. orig. 'something small.' Cf. ''tit''<sup>2</sup>, ''titty''<sup>2</sup>. Cf. also ''tot''<sup>1</sup>.] 1. A small or poor horse.\n\n{{smaller block|The nag or the hackeneie is verie good for trauelling. . . . And if he be broken accordinglie, you shall haue a little ''tit'' that will trauell a whole daie without anie bait.\n{{right|''Stanihurst,'' Descrip. of Ireland, ii. (Holinshed's Chron., I.).}}}}\n\n{{smaller block|The Modern Poets seem to use Smut as the Old Ones did Machines, to relieve a fainting Invention. When Pegasus is jaded, and would stand still, he is apt, like other ''Tits,'' to run into every Puddle.\n{{right|''Jeremy Collier,'' Short View (ed. 1698), p. 6.}}}}\n\n2. A child; a girl; a young woman: a depreciatory term.\n\n{{smaller block|I wonder that any man is so mad to come to see these rascally ''tits'' play here.\n{{right|''B. Jonson,'' Cynthia's Revels, Ind.}}}} 3. A bit; morsel. ''Halliwell.''\n\n[Obsolete or rare in all uses.]\n\n'''tit'''<sup>4</sup> (tit), ''n.'' [In the phrase ''tit for tat'', a variation of ''tip for tap'': see under ''tip''<sup>2</sup>, ''n.'' ''Tit'' and ''tat'' in this phrase are in themselves meaningless; the phrase is often written with hyphens, ''tit-for-tat'', and indeed is better so written, being practically one word.] In the phrase ''tit for tat'' (literally, in the original form ''tip for tap'', 'blow for blow'), a retaliatory return; an equivalent by way of repartee or answer: as, to give a person ''tit for tat'' in a dispute or a war of wit.\n\n{{smaller block|''Tit for tat'', Betsey! You are right, my girl.\n{{right|''Colman and Garrick'', Clandestine Marriage, v. 2.}}\nI have had my ''tit-for-tat'' with John Russell, and I turned him out on Friday last.\n{{right|''Palmerston'', in McCarthy's Hist. Own Times, xxiii.}}}}\n\n'''tit'''<sup>5</sup>† (tit), ''v. t.'' [< ME. ''titten'', ''tytten'', origin obscure; cf. ''tight''<sup>1</sup>, ''v.''] To pull tightly. (''Halliwell'', under ''titte'' (2).)\n\n{{smaller block|And the feete uppward fast knytted,\nAnd in strang paynes be streyned and ''tytted''.\n{{right|''Hampole'', MS. Bowes, p. 210. (''Halliwell.'')}}}}\n\n'''tit'''<sup>5</sup>† (tit), ''n.'' [< ME. ''titte''; < ''tit''<sup>5</sup>, ''v.''] A pull.\n\n{{smaller block|Yf that tre war tite pulled oute\nAt a ''titte'', with al the rotes oboute.\n{{right|''Hampole'', Pricke of Conscience, l. 1915 (Morris and Skeat's [Spec. Eng. Lit.).}}}}\n\n'''tit'''<sup>6</sup>†, ''adv.'' A Middle English variant of ''tite''<sup>1</sup>.\n\n'''Titan'''<sup>1</sup> (tī′tan), ''n.'' [< ME. ''Titan'', ''Tytan'', < OF. ''Titan'', F. ''Titan'' = Sp. ''Titan'' = Pg. ''Titão'' = It. ''Titano'' = G. Dan. Sw. ''Titan'', < L. ''Titan'', rarely ''Titanus'' (pl. ''Titanes'', ''Titani''), < Gr. Τιτάν (pl. Τιτᾶνες, Τιτῆνες), a Titan; cf. τιτώ, day, < √ τι, lighten, illumine.] 1. In ''mythol.'', one of a race of primordial deities, children of Uranus and Ge (Heaven and Earth), or their son Titan, supposed to represent the various forces of nature. {{smaller|In the oldest accounts there were six male Titans (Oceanus, Cœus, Crius, Hyperion, Japetus, and Kronos), and six female (Theia, Rhea, Themis, Mnemosyne, Phœbe, and Tethys). They were imprisoned by their father Uranus from their birth, but, after unmanning and dethroning him, were delivered by Kronos. Zeus, son of Kronos, compelled him to disgorge his elder brothers and sisters, whom he had swallowed at their birth, and after a terrible war thrust the Titans (except Oceanus) into Tartarus, under guard of the hundred-armed giants. In the later legends, Titan, the father of the Titans, yielded the supreme power to his younger brother Kronos, but regained it, and was finally overcome by the thunderbolts of Zeus (Jupiter), son of Kronos (Saturn), who then became the supreme god. The Titans in their wars are said to have piled mountains upon mountains to scale heaven, and they are taken as the types of lawlessness, gigantic size, and enormous strength.}}<noinclude><references/></noinclude>"
+}

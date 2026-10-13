@@ -1,0 +1,377 @@
+{
+ "volume": 8,
+ "page_number": 189,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n188.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n188.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-13",
+  "angle": 0.05,
+  "column_width": 866,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     1,
+     75,
+     2330,
+     184
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     1,
+     184,
+     867,
+     1164
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     1,
+     1164,
+     867,
+     2159
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     1,
+     2159,
+     867,
+     2661
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     1,
+     2677,
+     867,
+     2700
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     1,
+     2700,
+     867,
+     3230
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     867,
+     184,
+     1602,
+     849
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     867,
+     849,
+     1602,
+     1189
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     867,
+     1193,
+     1602,
+     1262
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     867,
+     1262,
+     1602,
+     2337
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     867,
+     2337,
+     1602,
+     3230
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1602,
+     184,
+     2330,
+     652
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1602,
+     652,
+     2330,
+     820
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1602,
+     823,
+     2330,
+     848
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1602,
+     848,
+     2330,
+     1552
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1602,
+     1552,
+     2330,
+     2006
+    ]
+   },
+   {
+    "name": "c3c2",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1602,
+     2010,
+     2330,
+     2035
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1602,
+     2035,
+     2330,
+     2669
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1602,
+     2669,
+     2330,
+     3230
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|toparchy|6385|top-fuller}}",
+   "c1s1": "< Gr. τοπαρχία, < τοπάρχης, a toparch: see ''toparch.''] A little state consisting of a few cities or towns; a petty country or a locality governed by or under the influence of a toparch.\n\n{{smaller block|The rest [of Palestine] he diuideth into ten ''Toparchies.''\n{{right|''Purchas'', Pilgrimage, p. 105.}}}}\n\n'''top-armor''' (top′är″mo̤r), ''n.'' ''Naut.'', a railing formerly fitted across the after part of a top, about three feet high and covered with netting and painted canvas.\n\n'''topaz''' (tō′paz), ''n.'' [Early mod. E. also ''topase'', ''topace''; < ME. ''topas'', ''thopas'', ''topace'', ''tupace''; also, as ML., ''topacius'' (also fancifully as the name of Chaucer's ''Sir Topas'' or ''Thopas'') = G. ''topas'', < OF. ''topase'', ''topaze'', F. ''topaze'' = Pr. ''topazi'' = Sp. ''topacio'' = Pg. It. ''topazio'', < LL. ''topazion'', also ''topazon'', L. ''topazus'', ML. also ''topazius'', ''topacius'' (in L. applied to the chrysolite), < Gr. τοπάζιον, also τόπαζος, the yellow or oriental topaz; origin unknown; possibly so called from its brightness; cf. Skt. ''tapas'', heat. According to Pliny (bk. xxxvii. c. 8), the name is derived from that of ''Topazas'', an island in the Red Sea, the position of which is 'conjectural,' < Gr. τοπάζειν, conjecture. Others place this conjectural island in the Arabian Sea.] 1. A mineral of a vitreous luster, transparent or translucent, sometimes colorless, often of a yellow, white, green, or pale-blue color. {{smaller|It is a silicate of aluminium in which the oxygen is partly replaced by fluorin. The fracture is subconchoidal and uneven; the hardness}}",
+   "c1s2": "{{smaller block|is somewhat greater than that of quartz. It usually occurs in prismatic crystals with perfect basal cleavage, also massive, sometimes columnar (the variety pycnite). Topaz occurs generally in granitic rocks, less often in cavities in volcanic rocks as rhyolite. It is found in many parts of the world, as Cornwall, Scotland, Saxony, Siberia, Brazil, Mexico, and the United States. The finest varieties are obtained from the mountains of Brazil and the Ural Mountains. Those from Brazil have deep-yellow tints; those from Siberia have a bluish tinge; the Saxon topaz has a pale wine-yellow. The purest topazes from Brazil, when cut in facets, closely resemble the diamond in luster and brilliance.}}\n\n{{smaller block|Flaum-beande gemmes,<br>And safyres, & sardiners, & semely ''topace.''\n{{right|''Alliterative Poems'' (ed. Morris), ii. 1469.}}}}\n\n2. In ''her.'', the tincture or in blazoning by the precious stones. See ''blazon'', ''n.'', 2.—3. A humming-bird, ''Topaza pella'' or ''T. pyra.''—{{smaller|'''False topaz''', a transparent pale-yellow variety of quartz.—'''Oriental topaz''', a name for yellow sapphire, or corundum. See ''oriental'', 2.—'''Pink topaz''', pink or rose-colored topaz, produced from the yellow Brazilian topaz by strong heating. If the heat is continued too long, the color is entirely expelled, and the topaz becomes colorless. Also ''rose topaz.''—'''Scottish topaz.''' Same as ''smoky topaz.''—'''Siberian topaz''', the white or bluish-white topaz found in Siberia.—'''Smoky topaz.''' See ''smoky.''—'''Spanish topaz''', a variety of smoky quartz the color of which has been changed by heat from smoky- to dark-brown, golden-brown, or golden-yellow.—'''Star-topaz''', a yellow star-sapphire. See ''asteriated sapphire'', under ''sapphire.''}}\n\n'''Topaza''' (tō-pā′zä̤), ''n.'' [NL. (G. R. Gray, 1840), < Gr. τόπαζος, topaz: see ''topaz.''] A genus of humming-birds, the topaz hummers. {{smaller|The curved bill is longer than the head, and the tail is forcipate with a long slender pair of feathers next to the middle pair.}}",
+   "c1c1": "{{c|Topaz Humming-bird (''Topaza pella'').}}",
+   "c1s3": "¶\n{{smaller block|Two species are known, ''T. pella'' and ''T. pyra'', both of Cayenne, Trinidad, and the Amazon region. The long tail and beak give these hummers a length of 5½ inches, though the body is small. The coloration is gorgeous; in ''T. pella'' the back is shining dark-red, changing to orange-red on the rump, the head is black, the throat metallic greenish-yellow with a central topaz sheen and black border; the other under parts are glittering crimson, with golden-green vent.}}\n\n'''topazine''' (tō′paz-in), ''a.'' [< ''topaz'' + ''-ine''<sup>1</sup>.] In ''entom.'', yellow and semi-transparent with a glassy luster, as the ocelli of certain insects and the eyes of some spiders.\n\n'''topazolite''' (tọ̄-paz′ọ̄-līt), ''n.'' [< Gr. τόπαζος, topaz, + λίθος, stone.] A variety of garnet, of a topaz-yellow color, or an olive-green, found in Piedmont. See ''garnet''<sup>1</sup>.\n\n401",
+   "c2s1": "A rock which is a peculiar result of contact metamorphism. {{smaller|It is made up of fragments of an aggregate of quartz and tourmalin, which fragments (brocken) are cemented by a mixture of quartz and topaz. The locality of this peculiar rock is the vicinity of the Schreckenstein in the Erzgebirge.}}\n\n'''top-beam''' (top′bēm), ''n.'' Same as ''collar-beam.''\n\n'''top-block''' (top′blok), ''n.'' '''1.''' ''Naut.'', a large iron-bound block hung to an eye-bolt in the cap, used in swaying and lowering the topmast.—'''2.''' In a vehicle, a projection upon which the bows of the top rest when it is down. ''E. H. Knight.''\n\n'''top-boot''' (top′böt), ''n.'' A boot having a high top; specifically, one having the upper part of the leg of a different material from the rest and separate from it, as if turned over, or designed to be turned over. {{smaller|The jack-boots of the seventeenth century and later had the top somewhat projecting from the leg, as if to allow more freedom to the knee, and this upper part was of thinner leather than the leg, and sometimes, though rarely, of a colored leather, not requiring blacking. The modern top-boot, worn}}",
+   "c2c1": "{{c|Top-boots.}}\n{{c|''a'', coachman's boot; ''b'', jockey's boot; ''c'', man's walking-boot; ''d'', hunting-boot; ''e'', lady's riding-boot; ''f'', man's riding-boot.}}",
+   "c2s2": "{{smaller block|chiefly by fox-hunters in England and by jockeys and carriage-servants in livery, is made to appear as if folded over at the top, with the lining of white or yellow leather showing. Also ''top''.}}\n\n{{smaller block|He wrote to the chaps at school about his ''top-boots'', and his feats across country.|{{right|''Thackeray'', Pendennis, iii.}}}}\n\n'''top-booted''' (top′bö″ted), ''a.'' Wearing top-boots.\n\n{{smaller block|''Topbooted'' Graziers from the North; Swiss Brokers, Italian Drovers, also ''topbooted'', from the South.\n{{right|''Carlyle'', Sartor Resartus, ii. 2.}}}}\n\n'''top-card''' (top′kärd), ''n.'' In a carding-machine, a top-flat.\n\n'''topcastle†''' (top′kȧs″l), ''n.'' [Early mod. E. ''topcastell'', ME. ''toppe-castelle''; < ''top''<sup>1</sup> + ''castle''. Cf. ''forecastle''.] A protected place at the mast-heads of old English ships, from which darts and arrows and heavier missiles were thrown; hence, a high place.\n\n{{smaller block|Alle ryally in rede [he] arrayes his chippis; . . .\nThe ''toppe-castelles'' he stuffede with toyelys [weapons], as hym lykyde.\n{{right|''Morte Arthure'' (E. E. T. S.), l. 3617.}}}}\n\n{{smaller block|Thei whiche sitte in the ''topcastell'' or high chaire of religion, and whiche bee persons notorious in the profession of teaching the doctrine of holy scripture.\n{{right|''J. Udall'', On Luke xix.}}}}\n\n'''top-chain''' (top′chān), ''n.'' ''Naut.'', a chain to sling the lower yards in time of action to prevent them from falling if the ropes by which they are hung are shot away.\n\n'''top-cloth''' (top′klôth), ''n.'' ''Naut.'', a name formerly given to a piece of canvas used to cover the hammocks which were lashed to the top in action.\n\n'''top-coat''' (top′kōt), ''n.'' An upper coat, or overcoat.",
+   "c2s3": "¶\n'''top-cross''' (top′krôs), ''n.'' In ''breeding'', a generation of ancestors.\n\n{{smaller block|The rules of the Cleveland Bay Society of America say that a filly with three ''top crosses'' or a horse with four ''top crosses'' can be registered [in the forthcoming stud-book for that breed of horses].\n{{right|''Breeder's Gazette'' (Chicago), March 28, 1890.}}}}\n\n'''top-drain''' (top′drān), ''v. t.'' To drain by surface-drainage.\n\n'''top-draining''' (top′drā″ning), ''n.'' The act or practice of draining the surface of land.\n\n'''top-dress''' (top′dres), ''v. t.'' To manure on the surface, as land.\n\n'''top-dressing''' (top′dres″ing), ''n.'' A dressing of manure laid on the surface of land: often used figuratively.\n\n{{smaller block|His [Baron Stockmar's] Constitutional knowledge . . . was . . . only an English ''top-dressing'' on a German soil.\n{{right|''Gladstone'', Gleanings of Past Years, I. 84.}}}}\n\n'''tope<sup>1</sup>''' (tōp), ''v. i.''; pret. and pp. ''tōped'', ppr. ''toping''. [Perhaps < F. ''toper'', ''tôper'', formerly ''toper'', ''tauper'', dial. ''taupi'' = It. ''toppare'', cover a stake in dicing, stake as much as one's adversary, hence accept, agree, = Sp. ''topar'', butt, strike, accept a bet; used interjectionally, F. ''tôpe'', OIt. ''topa'', in dicing ‘(I) agree,’ hence ‘agreed!’ ‘done!’ also in drinking, ‘(I) pledge you’; perhaps orig. ‘strike hands’ or ‘strike glasses’; cf.",
+   "c3s1": "from a Teut. source, perhaps from the root of ''tup'' or of ''tap''<sup>2</sup>. The E. term is not connected with ''top''<sup>1</sup> or ''tip''<sup>1</sup>.] To drink alcoholic liquors to excess, especially to do so habitually.\n\n{{smaller block|If you ''tope'' in form, and treat,<br>'Tis the sour sauce to the sweet meat,<br>The fine you pay for being great.\n{{right|''Dryden'', To Sir George Etherege, l. 59.}}}}\n\n{{smaller block|Was there ever so thirsty an elf?—<br>But he still may ''tope'' on.\n{{right|''Hood'', Don't you Smell Fire?}}}}\n\n'''tope'''<sup>2</sup> (tōp), ''v. t.'' Same as ''top''<sup>2</sup>.\n\n'''tope'''<sup>3</sup> (tōp), ''n.'' [Cornish.] A kind of shark, the miller's-dog or penny-dog, ''Galeorhinus galeus'', or ''Galeus canis''; also, one of several related",
+   "c3c1": "{{c|European Tope (''Galeorhinus galeus'').}}",
+   "c3s2": "sharks of small size, some of them also called ''dogfish.'' {{smaller|The species to which the name originally pertained is found on the European coast. There are others in various parts of the world, as the oil-shark of California, ''G. zyopterus.'' See also cut under ''Galeorhinus.''}}\n\n'''tope'''<sup>3</sup> (tōp), ''n.'' [Cf. ''nope'' (?).] The European wren, ''Troglodytes parvulus.'' [Local, Eng.]\n\n'''tope'''<sup>4</sup> (tōp), ''n.'' [< Hind. (Panjab) ''tōp'', prob. < Pali or Prakrit ''thūpo'', < Skt. ''stūpa'', a mound, an accumulation.] The popular name for a type of Buddhist monument, which may be considered as a tumulus of masonry, of domical or tower-like form, many specimens of which occur in India and southeastern Asia, intended for the preservation of relics or the commemoration of some event. {{smaller|When for the former purpose the tope is called a ''dagoba,'' when for the latter a ''stupa,'' the term ''tope'' having reference to the external shape only. The oldest topes are dome-shaped, and rest on a base which is cylindrical, quadrangular, or polygonal, rising perpendicularly or in terraces. A distinctive feature of the tope is the apical structure, which is in the shape of an open parasol and is known as a ''tee.'' One of the most important sur-}}",
+   "c3c2": "{{c|Great Tope at Sanchi, near Bhilsa in Bhopal, Central India.}}",
+   "c3s3": "{{smaller block|viving topes is the principal one of a group at Sanchi in Bhopal, Central India. The tumulus is domical, somewhat less than a hemisphere, 106 feet in diameter and 42 feet in height. On the top is a flat space, in the center of which once stood the tee. A most elaborately carved stone railing surrounds this tope. In topes serving to preserve relics these were deposited in metal boxes or in chambers in the solid masonry of the tope. See ''dagoba'', ''stupa''<sup>2</sup>.}}\n\n'''tope'''<sup>5</sup> (tōp), ''n.'' [< Telugu ''tōpu'', Tamil ''tōppu'', a grove or orchard. The Hind. word is ''bāgh''.] In India, a grove or clump of trees: as, a toddy-''tope''; a cane-''tope''.\n\n'''topee''', ''n.'' See ''topi''.\n\n'''toper''' (tō′pėr), ''n.'' [< ''tope''<sup>1</sup> + ''-er''<sup>1</sup>.] One who habitually drinks alcoholic liquors to excess; a hard drinker; a sot.\n\n{{smaller block|In the public-houses, that orthodox tribe, the ''topers'', who neglect no privileged occasion of rejoicing, keep the feast [New Year's Eve], . . . as they keep every feast, saint's day or holiday, either of State or Church, by making it a day more than usually unholy.\n{{right|''W. Besant and J. Rice'', This Son of Vulcan, Prol., i.}}}}",
+   "c3s4": "¶\n'''top-filled†''' (top′fild), ''a.'' Filled to the top; brimful. ''Chapman'', Iliad, xvi. 219.\n\n'''top-flat''' (top′flat), ''n.'' In ''carding'', a narrow wooden strip carrying a card, or a card placed above the central cylinder of a carding-machine. Also called ''top-card''.\n\n'''topful†''' (top′fu̇l), ''a.'' [< ''top''<sup>1</sup> + ''-ful''.] Lofty; high. [Rare.]\n{{smaller block|Soon they won\nThe top of all the ''topful'' heav'ns.\n{{right|''Chapman'', Iliad, v. 761.}}}}\n\n'''top-full''' (top′fu̇l′), ''a.'' [< ''top''<sup>1</sup> + ''full''<sup>1</sup>.] Brimful. ''Shak.'', K. John, iii. 4. 180. [Obsolete or prov. Eng.]\n\n'''top-fuller''' (top′fu̇l″ėr), ''n.'' In ''forging'', a top-tool with narrow round edge, used in forming grooves, etc."
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0189 c1f1.png",
+   "c2f1": "century v08 p0189 c2f1.png",
+   "c3f1": "century v08 p0189 c3f1.png",
+   "c3f2": "century v08 p0189 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     155,
+     2182,
+     810,
+     2657
+    ],
+    "caption": [
+     296,
+     2677,
+     688,
+     2701
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     221,
+     2199,
+     873,
+     2665
+    ]
+   },
+   {
+    "box": [
+     899,
+     849,
+     1577,
+     1186
+    ],
+    "caption": [
+     893,
+     1193,
+     1597,
+     1262
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     888,
+     891,
+     1602,
+     1185
+    ]
+   },
+   {
+    "box": [
+     1646,
+     654,
+     2304,
+     816
+    ],
+    "caption": [
+     1775,
+     823,
+     2171,
+     848
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1640,
+     652,
+     2325,
+     818
+    ]
+   },
+   {
+    "box": [
+     1660,
+     1553,
+     2284,
+     2002
+    ],
+    "caption": [
+     1666,
+     2010,
+     2280,
+     2035
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1657,
+     1551,
+     2327,
+     1996
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    2,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 5,
+    "input_tokens": 8324,
+    "output_tokens": 309,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 15,
+    "input_tokens": 8501,
+    "output_tokens": 8416,
+    "cache_creation_input_tokens": 5428,
+    "cache_read_input_tokens": 35282
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|toparchy|6385|top-fuller}}</noinclude>< Gr. τοπαρχία, < τοπάρχης, a toparch: see ''toparch.''] A little state consisting of a few cities or towns; a petty country or a locality governed by or under the influence of a toparch.\n\n{{smaller block|The rest [of Palestine] he diuideth into ten ''Toparchies.''\n{{right|''Purchas'', Pilgrimage, p. 105.}}}}\n\n'''top-armor''' (top′är″mo̤r), ''n.'' ''Naut.'', a railing formerly fitted across the after part of a top, about three feet high and covered with netting and painted canvas.\n\n'''topaz''' (tō′paz), ''n.'' [Early mod. E. also ''topase'', ''topace''; < ME. ''topas'', ''thopas'', ''topace'', ''tupace''; also, as ML., ''topacius'' (also fancifully as the name of Chaucer's ''Sir Topas'' or ''Thopas'') = G. ''topas'', < OF. ''topase'', ''topaze'', F. ''topaze'' = Pr. ''topazi'' = Sp. ''topacio'' = Pg. It. ''topazio'', < LL. ''topazion'', also ''topazon'', L. ''topazus'', ML. also ''topazius'', ''topacius'' (in L. applied to the chrysolite), < Gr. τοπάζιον, also τόπαζος, the yellow or oriental topaz; origin unknown; possibly so called from its brightness; cf. Skt. ''tapas'', heat. According to Pliny (bk. xxxvii. c. 8), the name is derived from that of ''Topazas'', an island in the Red Sea, the position of which is 'conjectural,' < Gr. τοπάζειν, conjecture. Others place this conjectural island in the Arabian Sea.] 1. A mineral of a vitreous luster, transparent or translucent, sometimes colorless, often of a yellow, white, green, or pale-blue color. {{smaller|It is a silicate of aluminium in which the oxygen is partly replaced by fluorin. The fracture is subconchoidal and uneven; the hardness is somewhat greater than that of quartz. It usually occurs in prismatic crystals with perfect basal cleavage, also massive, sometimes columnar (the variety pycnite). Topaz occurs generally in granitic rocks, less often in cavities in volcanic rocks as rhyolite. It is found in many parts of the world, as Cornwall, Scotland, Saxony, Siberia, Brazil, Mexico, and the United States. The finest varieties are obtained from the mountains of Brazil and the Ural Mountains. Those from Brazil have deep-yellow tints; those from Siberia have a bluish tinge; the Saxon topaz has a pale wine-yellow. The purest topazes from Brazil, when cut in facets, closely resemble the diamond in luster and brilliance.}}\n\n{{smaller block|Flaum-beande gemmes,<br>And safyres, & sardiners, & semely ''topace.''\n{{right|''Alliterative Poems'' (ed. Morris), ii. 1469.}}}}\n\n2. In ''her.'', the tincture or in blazoning by the precious stones. See ''blazon'', ''n.'', 2.—3. A humming-bird, ''Topaza pella'' or ''T. pyra.''—{{smaller|'''False topaz''', a transparent pale-yellow variety of quartz.—'''Oriental topaz''', a name for yellow sapphire, or corundum. See ''oriental'', 2.—'''Pink topaz''', pink or rose-colored topaz, produced from the yellow Brazilian topaz by strong heating. If the heat is continued too long, the color is entirely expelled, and the topaz becomes colorless. Also ''rose topaz.''—'''Scottish topaz.''' Same as ''smoky topaz.''—'''Siberian topaz''', the white or bluish-white topaz found in Siberia.—'''Smoky topaz.''' See ''smoky.''—'''Spanish topaz''', a variety of smoky quartz the color of which has been changed by heat from smoky- to dark-brown, golden-brown, or golden-yellow.—'''Star-topaz''', a yellow star-sapphire. See ''asteriated sapphire'', under ''sapphire.''}}\n\n'''Topaza''' (tō-pā′zä̤), ''n.'' [NL. (G. R. Gray, 1840), < Gr. τόπαζος, topaz: see ''topaz.''] A genus of humming-birds, the topaz hummers. {{smaller|The curved bill is longer than the head, and the tail is forcipate with a long slender pair of feathers next to the middle pair.}}\n\n[[File:century v08 p0189 c1f1.png|center|360px]]\n{{c|Topaz Humming-bird (''Topaza pella'').}}\n\n{{smaller block|Two species are known, ''T. pella'' and ''T. pyra'', both of Cayenne, Trinidad, and the Amazon region. The long tail and beak give these hummers a length of 5½ inches, though the body is small. The coloration is gorgeous; in ''T. pella'' the back is shining dark-red, changing to orange-red on the rump, the head is black, the throat metallic greenish-yellow with a central topaz sheen and black border; the other under parts are glittering crimson, with golden-green vent.}}\n\n'''topazine''' (tō′paz-in), ''a.'' [< ''topaz'' + ''-ine''<sup>1</sup>.] In ''entom.'', yellow and semi-transparent with a glassy luster, as the ocelli of certain insects and the eyes of some spiders.\n\n'''topazolite''' (tọ̄-paz′ọ̄-līt), ''n.'' [< Gr. τόπαζος, topaz, + λίθος, stone.] A variety of garnet, of a topaz-yellow color, or an olive-green, found in Piedmont. See ''garnet''<sup>1</sup>.\n\n401 A rock which is a peculiar result of contact metamorphism. {{smaller|It is made up of fragments of an aggregate of quartz and tourmalin, which fragments (brocken) are cemented by a mixture of quartz and topaz. The locality of this peculiar rock is the vicinity of the Schreckenstein in the Erzgebirge.}}\n\n'''top-beam''' (top′bēm), ''n.'' Same as ''collar-beam.''\n\n'''top-block''' (top′blok), ''n.'' '''1.''' ''Naut.'', a large iron-bound block hung to an eye-bolt in the cap, used in swaying and lowering the topmast.—'''2.''' In a vehicle, a projection upon which the bows of the top rest when it is down. ''E. H. Knight.''\n\n'''top-boot''' (top′böt), ''n.'' A boot having a high top; specifically, one having the upper part of the leg of a different material from the rest and separate from it, as if turned over, or designed to be turned over. {{smaller|The jack-boots of the seventeenth century and later had the top somewhat projecting from the leg, as if to allow more freedom to the knee, and this upper part was of thinner leather than the leg, and sometimes, though rarely, of a colored leather, not requiring blacking. The modern top-boot, worn chiefly by fox-hunters in England and by jockeys and carriage-servants in livery, is made to appear as if folded over at the top, with the lining of white or yellow leather showing. Also ''top''.}}\n\n[[File:century v08 p0189 c2f1.png|center|306px]]\n{{c|Top-boots.}}\n{{c|''a'', coachman's boot; ''b'', jockey's boot; ''c'', man's walking-boot; ''d'', hunting-boot; ''e'', lady's riding-boot; ''f'', man's riding-boot.}}\n\n{{smaller block|He wrote to the chaps at school about his ''top-boots'', and his feats across country.|{{right|''Thackeray'', Pendennis, iii.}}}}\n\n'''top-booted''' (top′bö″ted), ''a.'' Wearing top-boots.\n\n{{smaller block|''Topbooted'' Graziers from the North; Swiss Brokers, Italian Drovers, also ''topbooted'', from the South.\n{{right|''Carlyle'', Sartor Resartus, ii. 2.}}}}\n\n'''top-card''' (top′kärd), ''n.'' In a carding-machine, a top-flat.\n\n'''topcastle†''' (top′kȧs″l), ''n.'' [Early mod. E. ''topcastell'', ME. ''toppe-castelle''; < ''top''<sup>1</sup> + ''castle''. Cf. ''forecastle''.] A protected place at the mast-heads of old English ships, from which darts and arrows and heavier missiles were thrown; hence, a high place.\n\n{{smaller block|Alle ryally in rede [he] arrayes his chippis; . . .\nThe ''toppe-castelles'' he stuffede with toyelys [weapons], as hym lykyde.\n{{right|''Morte Arthure'' (E. E. T. S.), l. 3617.}}}}\n\n{{smaller block|Thei whiche sitte in the ''topcastell'' or high chaire of religion, and whiche bee persons notorious in the profession of teaching the doctrine of holy scripture.\n{{right|''J. Udall'', On Luke xix.}}}}\n\n'''top-chain''' (top′chān), ''n.'' ''Naut.'', a chain to sling the lower yards in time of action to prevent them from falling if the ropes by which they are hung are shot away.\n\n'''top-cloth''' (top′klôth), ''n.'' ''Naut.'', a name formerly given to a piece of canvas used to cover the hammocks which were lashed to the top in action.\n\n'''top-coat''' (top′kōt), ''n.'' An upper coat, or overcoat.\n\n'''top-cross''' (top′krôs), ''n.'' In ''breeding'', a generation of ancestors.\n\n{{smaller block|The rules of the Cleveland Bay Society of America say that a filly with three ''top crosses'' or a horse with four ''top crosses'' can be registered [in the forthcoming stud-book for that breed of horses].\n{{right|''Breeder's Gazette'' (Chicago), March 28, 1890.}}}}\n\n'''top-drain''' (top′drān), ''v. t.'' To drain by surface-drainage.\n\n'''top-draining''' (top′drā″ning), ''n.'' The act or practice of draining the surface of land.\n\n'''top-dress''' (top′dres), ''v. t.'' To manure on the surface, as land.\n\n'''top-dressing''' (top′dres″ing), ''n.'' A dressing of manure laid on the surface of land: often used figuratively.\n\n{{smaller block|His [Baron Stockmar's] Constitutional knowledge . . . was . . . only an English ''top-dressing'' on a German soil.\n{{right|''Gladstone'', Gleanings of Past Years, I. 84.}}}}\n\n'''tope<sup>1</sup>''' (tōp), ''v. i.''; pret. and pp. ''tōped'', ppr. ''toping''. [Perhaps < F. ''toper'', ''tôper'', formerly ''toper'', ''tauper'', dial. ''taupi'' = It. ''toppare'', cover a stake in dicing, stake as much as one's adversary, hence accept, agree, = Sp. ''topar'', butt, strike, accept a bet; used interjectionally, F. ''tôpe'', OIt. ''topa'', in dicing ‘(I) agree,’ hence ‘agreed!’ ‘done!’ also in drinking, ‘(I) pledge you’; perhaps orig. ‘strike hands’ or ‘strike glasses’; cf. from a Teut. source, perhaps from the root of ''tup'' or of ''tap''<sup>2</sup>. The E. term is not connected with ''top''<sup>1</sup> or ''tip''<sup>1</sup>.] To drink alcoholic liquors to excess, especially to do so habitually.\n\n{{smaller block|If you ''tope'' in form, and treat,<br>'Tis the sour sauce to the sweet meat,<br>The fine you pay for being great.\n{{right|''Dryden'', To Sir George Etherege, l. 59.}}}}\n\n{{smaller block|Was there ever so thirsty an elf?—<br>But he still may ''tope'' on.\n{{right|''Hood'', Don't you Smell Fire?}}}}\n\n'''tope'''<sup>2</sup> (tōp), ''v. t.'' Same as ''top''<sup>2</sup>.\n\n'''tope'''<sup>3</sup> (tōp), ''n.'' [Cornish.] A kind of shark, the miller's-dog or penny-dog, ''Galeorhinus galeus'', or ''Galeus canis''; also, one of several related sharks of small size, some of them also called ''dogfish.'' {{smaller|The species to which the name originally pertained is found on the European coast. There are others in various parts of the world, as the oil-shark of California, ''G. zyopterus.'' See also cut under ''Galeorhinus.''}}\n\n[[File:century v08 p0189 c3f1.png|center|303px]]\n{{c|European Tope (''Galeorhinus galeus'').}}\n\n'''tope'''<sup>3</sup> (tōp), ''n.'' [Cf. ''nope'' (?).] The European wren, ''Troglodytes parvulus.'' [Local, Eng.]\n\n'''tope'''<sup>4</sup> (tōp), ''n.'' [< Hind. (Panjab) ''tōp'', prob. < Pali or Prakrit ''thūpo'', < Skt. ''stūpa'', a mound, an accumulation.] The popular name for a type of Buddhist monument, which may be considered as a tumulus of masonry, of domical or tower-like form, many specimens of which occur in India and southeastern Asia, intended for the preservation of relics or the commemoration of some event. {{smaller|When for the former purpose the tope is called a ''dagoba,'' when for the latter a ''stupa,'' the term ''tope'' having reference to the external shape only. The oldest topes are dome-shaped, and rest on a base which is cylindrical, quadrangular, or polygonal, rising perpendicularly or in terraces. A distinctive feature of the tope is the apical structure, which is in the shape of an open parasol and is known as a ''tee.'' One of the most important surviving topes is the principal one of a group at Sanchi in Bhopal, Central India. The tumulus is domical, somewhat less than a hemisphere, 106 feet in diameter and 42 feet in height. On the top is a flat space, in the center of which once stood the tee. A most elaborately carved stone railing surrounds this tope. In topes serving to preserve relics these were deposited in metal boxes or in chambers in the solid masonry of the tope. See ''dagoba'', ''stupa''<sup>2</sup>.}}\n\n[[File:century v08 p0189 c3f2.png|center|303px]]\n{{c|Great Tope at Sanchi, near Bhilsa in Bhopal, Central India.}}\n\n'''tope'''<sup>5</sup> (tōp), ''n.'' [< Telugu ''tōpu'', Tamil ''tōppu'', a grove or orchard. The Hind. word is ''bāgh''.] In India, a grove or clump of trees: as, a toddy-''tope''; a cane-''tope''.\n\n'''topee''', ''n.'' See ''topi''.\n\n'''toper''' (tō′pėr), ''n.'' [< ''tope''<sup>1</sup> + ''-er''<sup>1</sup>.] One who habitually drinks alcoholic liquors to excess; a hard drinker; a sot.\n\n{{smaller block|In the public-houses, that orthodox tribe, the ''topers'', who neglect no privileged occasion of rejoicing, keep the feast [New Year's Eve], . . . as they keep every feast, saint's day or holiday, either of State or Church, by making it a day more than usually unholy.\n{{right|''W. Besant and J. Rice'', This Son of Vulcan, Prol., i.}}}}\n\n'''top-filled†''' (top′fild), ''a.'' Filled to the top; brimful. ''Chapman'', Iliad, xvi. 219.\n\n'''top-flat''' (top′flat), ''n.'' In ''carding'', a narrow wooden strip carrying a card, or a card placed above the central cylinder of a carding-machine. Also called ''top-card''.\n\n'''topful†''' (top′fu̇l), ''a.'' [< ''top''<sup>1</sup> + ''-ful''.] Lofty; high. [Rare.]\n{{smaller block|Soon they won\nThe top of all the ''topful'' heav'ns.\n{{right|''Chapman'', Iliad, v. 761.}}}}\n\n'''top-full''' (top′fu̇l′), ''a.'' [< ''top''<sup>1</sup> + ''full''<sup>1</sup>.] Brimful. ''Shak.'', K. John, iii. 4. 180. [Obsolete or prov. Eng.]\n\n'''top-fuller''' (top′fu̇l″ėr), ''n.'' In ''forging'', a top-tool with narrow round edge, used in forming grooves, etc.<noinclude><references/></noinclude>"
+}
