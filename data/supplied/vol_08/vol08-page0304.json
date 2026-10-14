@@ -1,0 +1,305 @@
+{
+ "volume": 8,
+ "page_number": 304,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n303.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n303.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-13",
+  "angle": 0.0,
+  "column_width": 887,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     92,
+     41,
+     2442,
+     81
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     92,
+     81,
+     816,
+     1163
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     92,
+     1163,
+     816,
+     2226
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     92,
+     2226,
+     816,
+     2372
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     479,
+     2372,
+     816,
+     3028
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     479,
+     3033,
+     816,
+     3093
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     92,
+     2372,
+     479,
+     3107
+    ]
+   },
+   {
+    "name": "c1s5",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     92,
+     3107,
+     816,
+     3201
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     816,
+     81,
+     1555,
+     1110
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     816,
+     1110,
+     1555,
+     2012
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     816,
+     2012,
+     1555,
+     3031
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     816,
+     3031,
+     1555,
+     3201
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1555,
+     81,
+     2442,
+     930
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1555,
+     930,
+     2442,
+     1487
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1555,
+     1508,
+     2442,
+     1532
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1555,
+     1532,
+     2442,
+     2631
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1555,
+     2631,
+     2442,
+     3201
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|trophosphere|6500|tropology}}",
+   "c1s1": "etc., according to its shape. ''Quart. Jour. Micros. Sci.'', N. S., XXX. 322.\n\n'''trophospongia''' (trof-ọ-spon′ji-ä̤), ''n.'' [< Gr. τροφή, nourishment, + σπογγιά, a sponge.] In ''embryol.'', a compact cell-layer between the trophoblast and the decidual tissue; the maternal layer of the trophosphere in ''Erinaceus'', or of a corresponding part in other ''Mammalia''.\n\n'''trophotropic''' (trof-ọ-trop′ik), ''a.'' [< Gr. τροφή, nourishment, + τρέπειν, turn.] In ''bot.'', exhibiting or characterized by trophotropism.\n\n'''trophotropism''' (trof′ọ-trō-pizm), ''n.'' [< ''trophotrop-ic'' + ''-ism''.] In ''bot.'', the phenomena induced in a growing organ by the influence of the chemical nature of its environment, as when plasmodia that are spread out on surfaces which yield little or no nutriment move toward bodies which contain nutrient substances. ''De Bary.''\n\n'''trophozoöid''' (trof-ọ-zō′oid), ''n.'' [< Gr. τροφή, nourishment, + E. ''zoöid''.] A nutritive zoöid of any organism; a gastrozoöid. See ''trophosome''. ''Encyc. Brit.'', XXIII. 615.\n\n'''trophy''' (trō′fi), ''n.''; pl. ''trophies'' (-fiz). [Early mod. E. ''trophie'', ''trophee'', < OF. ''trophee'', F. ''trophée'' = Pg. ''tropheo'' = Sp. It. ''trofeo'', < L. ''trophæum'', prop. ''tropæum'', a sign of victory, a victory, a mark, sign, monument, < Gr. τρόπαιον, a monument of an enemy's defeat, a trophy, neut. of τροπαῖος, Attic τρόπαιος, of defeat, of change or turning, < τροπή, defeat, rout, putting to flight, lit. 'a turning' (hence also the solstice), < τρέπειν, turn: see ''trope'', ''tropic''.] 1. In ''antiq.'', a monument or memorial in com-",
+   "c1s2": "memoration of a victory. {{smaller|It consisted of some of the arms and other spoils of the vanquished enemy hung upon the trunk of a tree or a pillar or upright by the victor, either on the field of battle or in his home city. If for a naval victory, the trophy was set up on the nearest land. The custom of erecting trophies was most general among the Greeks, but it passed at length to the Romans. It was the practice also to have representations of trophies carved in stone, bronze, etc. In modern times trophies have been dedicated (see def. 2), in churches and other public buildings, to commemorate victories. See cut under ''Nike''.}}\n\n{{smaller block|And thou thy selfe (O Saul), whose Conquering hand\nHad yerst with ''Tropheis'' filled all the Land,\nAs far as Tigris, from the Iaphean Sea.\n{{right|''Sylvester'', tr. of Du Bartas's Weeks, ii., The Trophies.}}}}\n\n{{smaller block|And ''trophies'', reared of spoiled enemies,\nWhose tops pierced through the clouds and hit the skies.\n{{right|''B. Jonson'', Prince Henry's Barriers.}}}}\n\n2. Anything taken and preserved as a memorial of victory, as arms, flags, or standards captured from an enemy.\n\n{{smaller block|And for a ''trophy'' brought the Giant's coat away,\nMade of the beards of Kings.\n{{right|''Drayton'', Polyolbion, iv. 317.}}}}\n\n{{smaller block|Over the chimney-piece was a small mirror, and above that the ''trophy'' of a fox's brush.\n{{right|''Bulwer'', Kenelm Chillingly, ii. 9.}}}}\n\n3. Something regarded as a memorial or evidence of victory; a prize.\n\n{{smaller block|This is that famoused ''trophy'' which Philip would have his son Alexander in the games of Olympus to wrestle for.\n{{right|''Ford'', Honour Triumphant, ii.}}}}\n\n4. A memorial; a memento.\n\n{{smaller block|The mere word 's a slave\nDebosh'd on every tomb, on every grave\nA lying ''trophy''.\n{{right|''Shak.'', All's Well, ii. 3. 146.}}}}\n\n{{smaller block|At one point we met a party, women among them, bring-}}",
+   "c1s3": "{{smaller block|ing off various ''trophies'' they had picked up on the battle field.\n{{right|''O. W. Holmes'', Old Vol. of Life, p. 40.}}}}\n\n5. An ornamental group of objects, such as weapons, memorials of the chase, or flags, arranged on a wall, or a",
+   "c1c1": "{{c|Trophy.—From the Porte St. Denis, Paris; end of 17th century.}}",
+   "c1s4": "symbolic or typical grouping of exhibits at an exposition or the like; also, in ''decoration'', a representation of such a group. See ''trophy decoration'', under ''decoration''.\n\n{{smaller block|His gorget, sash, and sabre of the Horse Marines, with his boot-hooks underneath in a ''trophy''.\n{{right|''Thackeray'', Book of Snobs, xxvi.}}}}\n\n{{smaller block|Confiding customers lent them silver plate, and women's taste and a few ribbons make a gorgeous ''trophy''.\n{{right|''J. Ashton'', Social Life in Reign of Queen Anne, II. 160.}}}}\n\n'''trophy-cress''' (trō′fi-kres), ''n''. Same as ''trophy-wort''.\n\n'''trophy-lock''' (trō′fi-lok), ''n''. A lock of hair cut",
+   "c1s5": "from the head of a slain enemy, used to adorn a weapon or shield.",
+   "c2s1": "¶\n'''trophy-money''' (trō′fi-mun″i), ''n.'' A duty formerly paid annually in England by housekeepers toward providing harness, drums, colors, etc., for the militia.\n\n'''trophy-wort''' (trō′fi-wėrt), ''n.'' The Indian cress, ''Tropæolum.'' Also ''trophy-cress.''\n\n'''tropic''' (trop′ik), ''a.'' and ''n.'' [< OF. (and F.) ''tropique'' = Pr. ''tropic'' = Sp. ''trópico'' = Pg. It. ''tropico'' (cf. D. G. ''tropisch'' = Sw. Dan. ''tropisk'', a.), < LL. ''tropicus'', of or pertaining to the solstice (''Capricornus tropicus'', the tropic of Capricorn), as a noun, one of the tropics; < Gr. τροπικός, of or pertaining to a turn or change, or the solstice, or a trope or figure, tropic, tropical; as a noun, ὁ τροπικός (sc. κύκλος), the solstice, pl. οἱ τροπικοί (sc. κύκλοι), the tropic circles; < τροπή, a turn, turning, solstice, trope: see ''trope.''] '''I.''' ''a.'' Pertaining to the tropics (the regions so called); tropical.\n\n'''II.''' ''n.'' 1†. The turning-point; a solstitial point.\n\n{{smaller block|This signe of Capricorne is also cleped the ''tropik'' of wyntur, for thanne bygynneth the sonne to come agayn to us-ward.\n{{right|''Chaucer'', Astrolabe, I. 17.}}}}\n\n{{smaller block|How that the Sun performing his course in the winter ''Tropick'', and exhaling much moysture from Nilus, diminisheth him contrary to his nature.\n{{right|''Sandys'', Travailes, p. 77.}}}}\n\n2. In ''astron.'', one of two circles on the celestial sphere whose distances from the equator are each equal to the obliquity of the ecliptic, or 23½° nearly. {{smaller|The northern one touches the ecliptic at the sign Cancer, and is thence called the ''tropic of Cancer'', the southern one being for a similar reason called the}}",
+   "c2s2": "{{smaller block|''tropic of Capricorn.'' The sun's annual path in the heavens is bounded by these two circles, and they are called ''tropics'' because when the sun, in his journey northward or southward, reaches either of them, he, as it were, turns back, and travels in an opposite direction in regard to north and south.}}\n\n3. In ''geog.'', one of two parallels of latitude, each at the same distance from the terrestrial equator as the celestial tropics are from the celestial equator — that is, about 23½°. {{smaller|The one north of the equator is called the ''tropic of Cancer,'' and that south of the equator the ''tropic of Capricorn.'' Over these circles the sun is vertical when his declination is greatest, and they include the part of the globe called the torrid zone—a zone 47° in width, having the equator for its central line.}}\n\n4. ''pl.'' With the definite article: the regions lying between the tropics of Cancer and Capricorn, or near them on either side.—{{smaller|'''Malignant fever of the tropics.''' See ''fever''<sup>1</sup>.}}\n\n'''tropical''' (trop′i-kal), ''a.'' [< ''tropic'' + ''-al.''] 1. Of or pertaining to the tropics; being within the tropics; characteristic of the tropics or of the climate of the tropics.—2. In ''zoögeog.'', inhabiting the tropics; tropicopolitan.—3. Incident to the tropics: as, ''tropical'' diseases.—4. [< ''trope.''] Figurative; rhetorically changed from its proper or original sense.\n\n{{smaller block|There are many things delivered rhetorically, many expressions therein merely ''tropical.''\n{{right|''Sir T. Browne,'' Religio Medici, Pref.}}}}",
+   "c2s3": "{{smaller|'''Tropical abscess''', abscess of the liver, occurring as a result of long residence in the tropics.—'''Tropical diseases''', diseases met with, as a rule, solely in the tropics.—'''Tropical duckweed.''' See ''Pistia.''—'''Tropical grape.''' Same as ''sea-grape'' (which see, under ''grape''<sup>1</sup>).—'''Tropical homonym.''' See ''homonym.''—'''Tropical lichen''', in ''pathol.'', prickly heat. ''Encyc. Dict.''—'''Tropical month.''' See ''month'', 1 (''c'').—'''Tropical year.''' See ''year.''}}\n\n'''Tropicalia''' (trop-i-kā′li-ä̤), ''n.'' [NL., < Gr. τροπικός, tropic, + ἅλς, sea.] In ''zoögeog.'', the tropical marine realm, one of the prime zoölogical divisions of the seas of the globe, between the isocrymes of 68° F. north and south: same as Dana's torrid-zone or coral-reef seas.\n\n'''Tropicalian''' (trop-i-kā′li-a̤n), ''a.'' [< ''Tropicalia'' + ''-an.''] Of or pertaining to Tropicalia.\n\n'''tropically''' (trop′i-ka̤l-i), ''adv.'' In a tropical or figurative manner.\n\n{{smaller block|The Mouse-trap. Marry, how? ''Tropically.''\n{{right|''Shak.'', Hamlet, iii. 2. 247.}}}}\n\n'''tropic-bird''' (trop′ik-bėrd), ''n.'' One of several natatorial totipalmate birds of the family ''Phaëthontidæ'': so called because usually seen in tropical regions. {{smaller|They are beautiful birds of buoyant and dashing flight, resembling sea-swallows or terns, but with the two middle tail-feathers filamentous and long-exserted beyond the rest. They are somewhat larger than pigeons, white variously marked with black on the upper parts, and tinted with pink or salmon-color, especially on the long tail-feathers, and when adult have the bill red or yellow. The feet are small, and all four toes are united by webs. The two best-known species are the yellow-billed and the red-billed, ''Phaëthon flavirostris'' and ''P. æthereus.'' Though resembling terns, they belong to a different order of birds, their nearest relatives being the frigate-pelicans or man-of-war birds. See cut under ''Phaëthon.''}}",
+   "c2s4": "¶\n'''tropicopolitan''' (trop″i-kō-pol′i-tạn), ''a.'' [< ''tropic'' + Gr. πολίτης, a citizen. Cf. ''cosmopolitan.''] In ''zoögeog.'', belonging to the tropics; found only within the tropics; common to the whole of the tropics.",
+   "c3s1": "¶\n{{smaller block|Among birds and reptiles we have several families which, from being found only within the tropics of Asia, Africa, and America, have been termed ''tropicopolitan'' groups.\n{{right|''A. R. Wallace.''}}}}\n\n'''tropides,''' ''n.'' Plural of ''tropis.''\n\n'''tropidial''' (trọ̄-pid′i-a̤l), ''a.'' [< ''tropis'' (''-id-'') + ''-ial.''] Of or pertaining to a tropis, or keel of a cymba: as, ''tropidial'' pteres. See ''ptere.'' ''Encyc. Brit.,'' XXII. 417.\n\n'''Tropidogaster''' (trop″i-dọ̄-gas′tėr), ''n.'' [NL. (Duméril and Bibron), < Gr. τρόπις (τροπιδ-), keel, + γαστήρ, stomach.] '''1.''' A genus of iguanian lizards, as ''T. blainvillei,'' having the ventral scales three-keeled and no femoral pores.—'''2.''' [''l. c.''] A member of this genus.\n\n'''Tropidolepis''' (trop-i-dol′e-pis), ''n.'' [NL. (Cuvier, 1829), < Gr. τρόπις (τροπιδ-), keel, + λεπίς, scale.] '''1.''' A genus of lizards: a synonym of ''Sceloporus.''—'''2.''' [''l. c.''] A member of this genus.\n{{smaller block|The common fence-lizard of the United States, ''Sceloporus undulatus,'' has been called the ''waved tropidolepis.'' See cut under ''Sceloporus.''}}\n\n'''Tropidonotus''' (trop″i-dọ̄-nō′tus), ''n.'' [NL. (Kuhl), < Gr. τρόπις (τροπιδ-), keel, + νῶτος, νῶτον, the back.] A genus of ordinary colubriform serpents, of the family ''Colubridæ,'' including",
+   "c3c1": "{{c|Common Ringed Snake (''Tropidonotus natrix'').}}",
+   "c3s2": "such as ''T. natrix'', the common ringed snake of Europe. {{smaller|The name has been loosely used for many serpents not generically the same as the above. See also cut under ''snake''.}}\n\n'''Tropidorhynchus''' (trop″i-dō-ring′kus), ''n.'' [NL. (Vigors and Horsfield, 1826), < Gr. τρόπις (τροπιδ-), keel, + ῥύγχος, snout, beak.] A genus of Australian meliphagine birds. ''T. corniculatus'' is the well-known friar-bird or leatherhead. See cut under ''friar-bird.''\n\n'''tropidosternal''' (trop′i-dọ̄-stėr′na̤l), ''a.'' [< Gr. τρόπις (τροπιδ-), keel, + στέρνον, breast-bone.] Keeled, as a breast-bone; having a keeled sternum; carinate, as a bird. See cut under ''carinate.''\n\n'''Tropidosternii''' (trop″i-dọ̄-stėr′ni-ī), ''n. pl.'' [NL.: see ''tropidosternal.''] One of the primary divisions of recent birds, including those which have the sternum keeled: equivalent to ''Carinatæ'', and opposed to ''Homalosternii.'' [Rare.]\n\n'''tropis''' (trō′pis), ''n.''; pl. ''tropides'' (trop′i-dēz). [NL., < Gr. τρόπις, keel, < τρέπειν, turn.] Of sponge-spicules, the keel or backward curve of a cymba, or C-shaped flesh-spicule; the part between the ends or prows. See ''cymba. Encyc. Brit.'', XXII. 417.\n\n'''tropist''' (trō′pist), ''n.'' [< ''trope'' + ''-ist.''] One who deals in tropes; especially, one who explains the Scriptures by tropes, or figures of speech.\n\n'''tropologic''' (trop-ọ̄-loj′ik), ''a.'' [< ''tropolog-y'' + ''-ic.''] Same as ''tropological.''\n\n'''tropological''' (trop-ọ̄-loj′i-kal), ''a.'' [< ''tropologic'' + ''-al.''] Figurative: as, ''tropological'' interpretation.",
+   "c3s3": "¶\n\n{{smaller block|We are to take the second signification, the ''tropological'' or figurative.\n{{right|''Jer. Taylor'', Works (ed. 1835), II. 121.}}}}\n\n'''tropologically''' (trop-ọ̄-loj′i-kal-i), ''adv.'' In a tropological or figurative manner.\n\n'''tropologize''' (trọ̄-pol′ọ̄-jīz), ''v. t.''; pret. and pp. ''tropologized'', ppr. ''tropologizing''. [< ''tropolog-y'' + ''-ize''.] To use in a tropological sense, as a word; change to a figurative sense; use as a trope.\n\n{{smaller block|If Athena or Minerva be ''tropologized'' into prudence.\n{{right|''Cudworth'', Intellectual System, p. 520.}}}}\n\n'''tropology''' (trọ̄-pol′ọ̄-ji), ''n.''; pl. ''tropologies'' (-jiz). [< Gr. τρόπος, a figure of speech, a trope, + -λογία, < λέγειν, say (see ''-ology'').] 1. A rhetorical or figurative mode of speech; the use of tropes or metaphors.\n\n{{smaller block|Hee also blamed those that by Allegories and ''Tropologies'' peruert and obscure the Historie of their Gods.\n{{right|''Purchas'', Pilgrimage, p. 87.}}}}"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0304 c1f1.png",
+   "c3f1": "century v08 p0304 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1675,
+     929,
+     2200,
+     1484
+    ],
+    "caption": [
+     1685,
+     1508,
+     2193,
+     1532
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1653,
+     884,
+     2210,
+     1507
+    ]
+   },
+   {
+    "box": [
+     488,
+     2371,
+     796,
+     3025
+    ],
+    "caption": [
+     484,
+     3033,
+     804,
+     3093
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     482,
+     2453,
+     663,
+     3067
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 3,
+    "input_tokens": 6104,
+    "output_tokens": 164,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 15,
+    "input_tokens": 9283,
+    "output_tokens": 10693,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 40710
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|trophosphere|6500|tropology}}</noinclude>etc., according to its shape. ''Quart. Jour. Micros. Sci.'', N. S., XXX. 322.\n\n'''trophospongia''' (trof-ọ-spon′ji-ä̤), ''n.'' [< Gr. τροφή, nourishment, + σπογγιά, a sponge.] In ''embryol.'', a compact cell-layer between the trophoblast and the decidual tissue; the maternal layer of the trophosphere in ''Erinaceus'', or of a corresponding part in other ''Mammalia''.\n\n'''trophotropic''' (trof-ọ-trop′ik), ''a.'' [< Gr. τροφή, nourishment, + τρέπειν, turn.] In ''bot.'', exhibiting or characterized by trophotropism.\n\n'''trophotropism''' (trof′ọ-trō-pizm), ''n.'' [< ''trophotrop-ic'' + ''-ism''.] In ''bot.'', the phenomena induced in a growing organ by the influence of the chemical nature of its environment, as when plasmodia that are spread out on surfaces which yield little or no nutriment move toward bodies which contain nutrient substances. ''De Bary.''\n\n'''trophozoöid''' (trof-ọ-zō′oid), ''n.'' [< Gr. τροφή, nourishment, + E. ''zoöid''.] A nutritive zoöid of any organism; a gastrozoöid. See ''trophosome''. ''Encyc. Brit.'', XXIII. 615.\n\n'''trophy''' (trō′fi), ''n.''; pl. ''trophies'' (-fiz). [Early mod. E. ''trophie'', ''trophee'', < OF. ''trophee'', F. ''trophée'' = Pg. ''tropheo'' = Sp. It. ''trofeo'', < L. ''trophæum'', prop. ''tropæum'', a sign of victory, a victory, a mark, sign, monument, < Gr. τρόπαιον, a monument of an enemy's defeat, a trophy, neut. of τροπαῖος, Attic τρόπαιος, of defeat, of change or turning, < τροπή, defeat, rout, putting to flight, lit. 'a turning' (hence also the solstice), < τρέπειν, turn: see ''trope'', ''tropic''.] 1. In ''antiq.'', a monument or memorial in commemoration of a victory. {{smaller|It consisted of some of the arms and other spoils of the vanquished enemy hung upon the trunk of a tree or a pillar or upright by the victor, either on the field of battle or in his home city. If for a naval victory, the trophy was set up on the nearest land. The custom of erecting trophies was most general among the Greeks, but it passed at length to the Romans. It was the practice also to have representations of trophies carved in stone, bronze, etc. In modern times trophies have been dedicated (see def. 2), in churches and other public buildings, to commemorate victories. See cut under ''Nike''.}}\n\n{{smaller block|And thou thy selfe (O Saul), whose Conquering hand\nHad yerst with ''Tropheis'' filled all the Land,\nAs far as Tigris, from the Iaphean Sea.\n{{right|''Sylvester'', tr. of Du Bartas's Weeks, ii., The Trophies.}}}}\n\n{{smaller block|And ''trophies'', reared of spoiled enemies,\nWhose tops pierced through the clouds and hit the skies.\n{{right|''B. Jonson'', Prince Henry's Barriers.}}}}\n\n2. Anything taken and preserved as a memorial of victory, as arms, flags, or standards captured from an enemy.\n\n{{smaller block|And for a ''trophy'' brought the Giant's coat away,\nMade of the beards of Kings.\n{{right|''Drayton'', Polyolbion, iv. 317.}}}}\n\n{{smaller block|Over the chimney-piece was a small mirror, and above that the ''trophy'' of a fox's brush.\n{{right|''Bulwer'', Kenelm Chillingly, ii. 9.}}}}\n\n3. Something regarded as a memorial or evidence of victory; a prize.\n\n{{smaller block|This is that famoused ''trophy'' which Philip would have his son Alexander in the games of Olympus to wrestle for.\n{{right|''Ford'', Honour Triumphant, ii.}}}}\n\n4. A memorial; a memento.\n\n{{smaller block|The mere word 's a slave\nDebosh'd on every tomb, on every grave\nA lying ''trophy''.\n{{right|''Shak.'', All's Well, ii. 3. 146.}}}}\n\n{{smaller block|At one point we met a party, women among them, bringing off various ''trophies'' they had picked up on the battle field.\n{{right|''O. W. Holmes'', Old Vol. of Life, p. 40.}}}}\n\n5. An ornamental group of objects, such as weapons, memorials of the chase, or flags, arranged on a wall, or a symbolic or typical grouping of exhibits at an exposition or the like; also, in ''decoration'', a representation of such a group. See ''trophy decoration'', under ''decoration''.\n\n[[File:century v08 p0304 c1f1.png|center|137px]]\n{{c|Trophy.—From the Porte St. Denis, Paris; end of 17th century.}}\n\n{{smaller block|His gorget, sash, and sabre of the Horse Marines, with his boot-hooks underneath in a ''trophy''.\n{{right|''Thackeray'', Book of Snobs, xxvi.}}}}\n\n{{smaller block|Confiding customers lent them silver plate, and women's taste and a few ribbons make a gorgeous ''trophy''.\n{{right|''J. Ashton'', Social Life in Reign of Queen Anne, II. 160.}}}}\n\n'''trophy-cress''' (trō′fi-kres), ''n''. Same as ''trophy-wort''.\n\n'''trophy-lock''' (trō′fi-lok), ''n''. A lock of hair cut from the head of a slain enemy, used to adorn a weapon or shield.\n\n'''trophy-money''' (trō′fi-mun″i), ''n.'' A duty formerly paid annually in England by housekeepers toward providing harness, drums, colors, etc., for the militia.\n\n'''trophy-wort''' (trō′fi-wėrt), ''n.'' The Indian cress, ''Tropæolum.'' Also ''trophy-cress.''\n\n'''tropic''' (trop′ik), ''a.'' and ''n.'' [< OF. (and F.) ''tropique'' = Pr. ''tropic'' = Sp. ''trópico'' = Pg. It. ''tropico'' (cf. D. G. ''tropisch'' = Sw. Dan. ''tropisk'', a.), < LL. ''tropicus'', of or pertaining to the solstice (''Capricornus tropicus'', the tropic of Capricorn), as a noun, one of the tropics; < Gr. τροπικός, of or pertaining to a turn or change, or the solstice, or a trope or figure, tropic, tropical; as a noun, ὁ τροπικός (sc. κύκλος), the solstice, pl. οἱ τροπικοί (sc. κύκλοι), the tropic circles; < τροπή, a turn, turning, solstice, trope: see ''trope.''] '''I.''' ''a.'' Pertaining to the tropics (the regions so called); tropical.\n\n'''II.''' ''n.'' 1†. The turning-point; a solstitial point.\n\n{{smaller block|This signe of Capricorne is also cleped the ''tropik'' of wyntur, for thanne bygynneth the sonne to come agayn to us-ward.\n{{right|''Chaucer'', Astrolabe, I. 17.}}}}\n\n{{smaller block|How that the Sun performing his course in the winter ''Tropick'', and exhaling much moysture from Nilus, diminisheth him contrary to his nature.\n{{right|''Sandys'', Travailes, p. 77.}}}}\n\n2. In ''astron.'', one of two circles on the celestial sphere whose distances from the equator are each equal to the obliquity of the ecliptic, or 23½° nearly. {{smaller|The northern one touches the ecliptic at the sign Cancer, and is thence called the ''tropic of Cancer'', the southern one being for a similar reason called the ''tropic of Capricorn.'' The sun's annual path in the heavens is bounded by these two circles, and they are called ''tropics'' because when the sun, in his journey northward or southward, reaches either of them, he, as it were, turns back, and travels in an opposite direction in regard to north and south.}}\n\n3. In ''geog.'', one of two parallels of latitude, each at the same distance from the terrestrial equator as the celestial tropics are from the celestial equator — that is, about 23½°. {{smaller|The one north of the equator is called the ''tropic of Cancer,'' and that south of the equator the ''tropic of Capricorn.'' Over these circles the sun is vertical when his declination is greatest, and they include the part of the globe called the torrid zone—a zone 47° in width, having the equator for its central line.}}\n\n4. ''pl.'' With the definite article: the regions lying between the tropics of Cancer and Capricorn, or near them on either side.—{{smaller|'''Malignant fever of the tropics.''' See ''fever''<sup>1</sup>.}}\n\n'''tropical''' (trop′i-kal), ''a.'' [< ''tropic'' + ''-al.''] 1. Of or pertaining to the tropics; being within the tropics; characteristic of the tropics or of the climate of the tropics.—2. In ''zoögeog.'', inhabiting the tropics; tropicopolitan.—3. Incident to the tropics: as, ''tropical'' diseases.—4. [< ''trope.''] Figurative; rhetorically changed from its proper or original sense.\n\n{{smaller block|There are many things delivered rhetorically, many expressions therein merely ''tropical.''\n{{right|''Sir T. Browne,'' Religio Medici, Pref.}} '''Tropical abscess''', abscess of the liver, occurring as a result of long residence in the tropics.—'''Tropical diseases''', diseases met with, as a rule, solely in the tropics.—'''Tropical duckweed.''' See ''Pistia.''—'''Tropical grape.''' Same as ''sea-grape'' (which see, under ''grape''<sup>1</sup>).—'''Tropical homonym.''' See ''homonym.''—'''Tropical lichen''', in ''pathol.'', prickly heat. ''Encyc. Dict.''—'''Tropical month.''' See ''month'', 1 (''c'').—'''Tropical year.''' See ''year.''}}\n\n'''Tropicalia''' (trop-i-kā′li-ä̤), ''n.'' [NL., < Gr. τροπικός, tropic, + ἅλς, sea.] In ''zoögeog.'', the tropical marine realm, one of the prime zoölogical divisions of the seas of the globe, between the isocrymes of 68° F. north and south: same as Dana's torrid-zone or coral-reef seas.\n\n'''Tropicalian''' (trop-i-kā′li-a̤n), ''a.'' [< ''Tropicalia'' + ''-an.''] Of or pertaining to Tropicalia.\n\n'''tropically''' (trop′i-ka̤l-i), ''adv.'' In a tropical or figurative manner.\n\n{{smaller block|The Mouse-trap. Marry, how? ''Tropically.''\n{{right|''Shak.'', Hamlet, iii. 2. 247.}}}}\n\n'''tropic-bird''' (trop′ik-bėrd), ''n.'' One of several natatorial totipalmate birds of the family ''Phaëthontidæ'': so called because usually seen in tropical regions. {{smaller|They are beautiful birds of buoyant and dashing flight, resembling sea-swallows or terns, but with the two middle tail-feathers filamentous and long-exserted beyond the rest. They are somewhat larger than pigeons, white variously marked with black on the upper parts, and tinted with pink or salmon-color, especially on the long tail-feathers, and when adult have the bill red or yellow. The feet are small, and all four toes are united by webs. The two best-known species are the yellow-billed and the red-billed, ''Phaëthon flavirostris'' and ''P. æthereus.'' Though resembling terns, they belong to a different order of birds, their nearest relatives being the frigate-pelicans or man-of-war birds. See cut under ''Phaëthon.''}}\n\n'''tropicopolitan''' (trop″i-kō-pol′i-tạn), ''a.'' [< ''tropic'' + Gr. πολίτης, a citizen. Cf. ''cosmopolitan.''] In ''zoögeog.'', belonging to the tropics; found only within the tropics; common to the whole of the tropics.\n\n{{smaller block|Among birds and reptiles we have several families which, from being found only within the tropics of Asia, Africa, and America, have been termed ''tropicopolitan'' groups.\n{{right|''A. R. Wallace.''}}}}\n\n'''tropides,''' ''n.'' Plural of ''tropis.''\n\n'''tropidial''' (trọ̄-pid′i-a̤l), ''a.'' [< ''tropis'' (''-id-'') + ''-ial.''] Of or pertaining to a tropis, or keel of a cymba: as, ''tropidial'' pteres. See ''ptere.'' ''Encyc. Brit.,'' XXII. 417.\n\n'''Tropidogaster''' (trop″i-dọ̄-gas′tėr), ''n.'' [NL. (Duméril and Bibron), < Gr. τρόπις (τροπιδ-), keel, + γαστήρ, stomach.] '''1.''' A genus of iguanian lizards, as ''T. blainvillei,'' having the ventral scales three-keeled and no femoral pores.—'''2.''' [''l. c.''] A member of this genus.\n\n'''Tropidolepis''' (trop-i-dol′e-pis), ''n.'' [NL. (Cuvier, 1829), < Gr. τρόπις (τροπιδ-), keel, + λεπίς, scale.] '''1.''' A genus of lizards: a synonym of ''Sceloporus.''—'''2.''' [''l. c.''] A member of this genus.\n{{smaller block|The common fence-lizard of the United States, ''Sceloporus undulatus,'' has been called the ''waved tropidolepis.'' See cut under ''Sceloporus.''}}\n\n'''Tropidonotus''' (trop″i-dọ̄-nō′tus), ''n.'' [NL. (Kuhl), < Gr. τρόπις (τροπιδ-), keel, + νῶτος, νῶτον, the back.] A genus of ordinary colubriform serpents, of the family ''Colubridæ,'' including such as ''T. natrix'', the common ringed snake of Europe. {{smaller|The name has been loosely used for many serpents not generically the same as the above. See also cut under ''snake''.}}\n\n[[File:century v08 p0304 c3f1.png|center|360px]]\n{{c|Common Ringed Snake (''Tropidonotus natrix'').}}\n\n'''Tropidorhynchus''' (trop″i-dō-ring′kus), ''n.'' [NL. (Vigors and Horsfield, 1826), < Gr. τρόπις (τροπιδ-), keel, + ῥύγχος, snout, beak.] A genus of Australian meliphagine birds. ''T. corniculatus'' is the well-known friar-bird or leatherhead. See cut under ''friar-bird.''\n\n'''tropidosternal''' (trop′i-dọ̄-stėr′na̤l), ''a.'' [< Gr. τρόπις (τροπιδ-), keel, + στέρνον, breast-bone.] Keeled, as a breast-bone; having a keeled sternum; carinate, as a bird. See cut under ''carinate.''\n\n'''Tropidosternii''' (trop″i-dọ̄-stėr′ni-ī), ''n. pl.'' [NL.: see ''tropidosternal.''] One of the primary divisions of recent birds, including those which have the sternum keeled: equivalent to ''Carinatæ'', and opposed to ''Homalosternii.'' [Rare.]\n\n'''tropis''' (trō′pis), ''n.''; pl. ''tropides'' (trop′i-dēz). [NL., < Gr. τρόπις, keel, < τρέπειν, turn.] Of sponge-spicules, the keel or backward curve of a cymba, or C-shaped flesh-spicule; the part between the ends or prows. See ''cymba. Encyc. Brit.'', XXII. 417.\n\n'''tropist''' (trō′pist), ''n.'' [< ''trope'' + ''-ist.''] One who deals in tropes; especially, one who explains the Scriptures by tropes, or figures of speech.\n\n'''tropologic''' (trop-ọ̄-loj′ik), ''a.'' [< ''tropolog-y'' + ''-ic.''] Same as ''tropological.''\n\n'''tropological''' (trop-ọ̄-loj′i-kal), ''a.'' [< ''tropologic'' + ''-al.''] Figurative: as, ''tropological'' interpretation.\n\n{{smaller block|We are to take the second signification, the ''tropological'' or figurative.\n{{right|''Jer. Taylor'', Works (ed. 1835), II. 121.}}}}\n\n'''tropologically''' (trop-ọ̄-loj′i-kal-i), ''adv.'' In a tropological or figurative manner.\n\n'''tropologize''' (trọ̄-pol′ọ̄-jīz), ''v. t.''; pret. and pp. ''tropologized'', ppr. ''tropologizing''. [< ''tropolog-y'' + ''-ize''.] To use in a tropological sense, as a word; change to a figurative sense; use as a trope.\n\n{{smaller block|If Athena or Minerva be ''tropologized'' into prudence.\n{{right|''Cudworth'', Intellectual System, p. 520.}}}}\n\n'''tropology''' (trọ̄-pol′ọ̄-ji), ''n.''; pl. ''tropologies'' (-jiz). [< Gr. τρόπος, a figure of speech, a trope, + -λογία, < λέγειν, say (see ''-ology'').] 1. A rhetorical or figurative mode of speech; the use of tropes or metaphors.\n\n{{smaller block|Hee also blamed those that by Allegories and ''Tropologies'' peruert and obscure the Historie of their Gods.\n{{right|''Purchas'', Pilgrimage, p. 87.}}}}<noinclude><references/></noinclude>"
+}

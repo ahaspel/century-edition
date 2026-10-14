@@ -1,0 +1,301 @@
+{
+ "volume": 8,
+ "page_number": 289,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n288.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n288.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-13",
+  "angle": 0.0,
+  "column_width": 841,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     85,
+     2297,
+     132
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     132,
+     841,
+     1230
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1230,
+     841,
+     2322
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2322,
+     841,
+     3224
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     841,
+     132,
+     1572,
+     1198
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     841,
+     1198,
+     1572,
+     2212
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     841,
+     2212,
+     1572,
+     3224
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     132,
+     2297,
+     1158
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     2084,
+     1173,
+     2297,
+     1366
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     2084,
+     1367,
+     2297,
+     1389
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     1158,
+     2084,
+     1447
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     1447,
+     2297,
+     2533
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     2533,
+     2297,
+     2667
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     2092,
+     2690,
+     2297,
+     2916
+    ]
+   },
+   {
+    "name": "c3c2",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     2092,
+     2921,
+     2297,
+     2984
+    ]
+   },
+   {
+    "name": "c3s5",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     2667,
+     2092,
+     2984
+    ]
+   },
+   {
+    "name": "c3s6",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     2984,
+     2297,
+     3224
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|Triopidæ|6485|tripaschal}}",
+   "c1s1": "rows on a broad radula, and tentacles retractile within plaited sheaths. See cut under ''Triopa''.\n\n¶\n'''trior''' (trī′or), ''n.'' [See ''trier''.] In ''law'', a person appointed by the court to examine whether a challenge to a juror or a panel of jurors is just.\n\n'''triorchis''' (trī-ôr′kis), ''n.'' [NL., < Gr. τρεῖς (τρι-), three, + ὄρχις, testicle.] One who has three testicles.\n\n'''triorthogonal''' (trī-ôr-thog′ọ̄-nal), ''a.'' [< L. ''tres'' (''tri-''), three, + E. ''orthogonal''.] Having three lines, or systems of lines, crossing all at right angles to one another.\n\n'''Triosteum''' (trī-os′tē-um), ''n.'' [NL. (Linnæus, 1753), < Gr. τρεῖς (τρι-), three, + ὀστέον, bone.] A genus of gamopetalous plants, of the order ''Caprifoliaceæ'' and tribe ''Lonicereæ''. {{smaller|It is characterized by a tubular bell-shaped corolla gibbous at the base, and a three- to five-celled ovary with one ovule in each cell. There are about 6 species, natives of Asia and the eastern and central United States. They are herbs with a perennial root and little-branched stem with scaly buds. The leaves are sessile, entire, opposite, and somewhat connate at the base. The dull-yellow, purple, or whitish flowers are solitary, or clustered in the axils, or rarely condensed into short terminal spikes. The fruit is a coriaceous or fleshy berry, with smooth, bony, angled or ribbed seeds. ''T. perfoliatum'', a rather coarse erect species with purplish flowers and orange-colored berries, occurring from Canada to Alabama, is known as ''feverroot'', also as ''horse-gentian'', ''Tinker's-weed'', ''wild ipecac'', and ''wild coffee''; it produces a long, thick, yellowish or brownish root with a nauseous taste and odor, locally used as a cathartic and emetic. One other species, ''T. angustifolium'', with yellowish flowers, occurs in the United States; one, ''T. hirsutum'', with irregular corolla, in Nepāl and China; and two others in China, one of which, ''T. sinuatum'', extends to Japan.}}\n\n'''triovulate''' (trī-ō′vū-lāt), ''a.'' [< L. ''tres'' (''tri-''), three, + NL. ''ovulum'', ovule, + ''-ate''<sup>1</sup>.] In ''bot.'',",
+   "c1s2": "having three ovules; three-ovuled.\n\n'''trioxid, trioxide''' (trī-ok′sid, -sid or -sīd), ''n.'' An oxid containing three oxygen atoms: as, sulphur ''trioxid'', SO<sub>3</sub>. Also ''tritoxid, tritoxide.''\n\n'''trip<sup>1</sup>''' (trip), ''v.''; pret. and pp. ''tripped'', ppr. ''tripping.'' [Early mod. E. also ''tryppe''; < ME. ''trippen'' = MD. ''trippen'', step lightly, trip, cause to stumble, D. ''trippen'', trip, skip, = Sw. ''trippa'' = Dan. ''trippe'', tread lightly, trip; cf. freq. D. ''trippelen'' = LG. ''trippeln'', > G. ''trippeln'', trip; prob. a secondary form of the verb appearing as the source of ''trap''<sup>1</sup>, ''trap''<sup>2</sup>, ''trap''<sup>3</sup>, and ult. of ''tramp''.] '''I.''' ''intrans.'' '''1.''' To run or step lightly; skip, dance, or walk nimbly along; move with a quick, light tread.\n\n{{smaller block|She has twa weel-made feet,\nAnd she ''trips'' upon her taes.\n{{right|''The Laird of Waristoun'' (Child's Ballads, III. 107).}}\nCome, and ''trip'' it, as you go,\nOn the light fantastick toe.\n{{right|''Milton'', L'Allegro, l. 34.}}}}\n\n'''2.''' To make a brisk movement with the feet; prance.\n\n{{smaller block|This hors anon bigan to ''trippe'' and daunce\nWhan that this knyght leyde hand upon his reyne.\n{{right|''Chaucer'', Squire's Tale, l. 304.}}}}\n\n'''3.''' To take a voyage or journey; make a jaunt or excursion.\n\n{{smaller block|But yet, we hope you'll never grow so wise;\nFor, if you should, we and our Comedies\nMust ''trip'' to Norwich, or for Ireland go.\n{{right|''Etherege'', Love in a Tub, Prol.}}}}\n\n'''4.''' To stumble; strike the foot against something so as to lose the step and come near falling; make a false step; lose the footing.",
+   "c1s3": "{{smaller block|My slipp'ry footing fail'd me; and you ''tript''<br>Just as I slipt.\n{{right|''Quarles'', Emblems, ii. 14.}}}}\nHence—5. Figuratively, to make a false movement; err; go wrong; be guilty of an inconsistency or an inaccuracy.\n\n{{smaller block|St. Jerome, whose custom is not to pardon ever easily his adversaries if any where they chance to ''trip'', presseth him as thereby making all sorts of men in the world God's enemies.\n{{right|''Hooker'', Eccles. Polity, v. 29.}}}}\n\n{{smaller block|The captain, a wise man, after many endeavours to catch me ''tripping'' in some part of my story, at last began to have a better opinion of my veracity.\n{{right|''Swift'', Gulliver's Travels, iv. 11.}}}}\n\n{{smaller block|For Jenny, my cousin, had come to the place, and I knew right well<br>That Jenny had ''tript'' in her time; I knew, but I would not tell.\n{{right|''Tennyson'', The Grandmother.}}}}\n6. To rush by: said of deer.\n\n{{smaller block|A hundred head of red deer<br>Come ''tripping'' the sheriff full nigh.\n{{right|''Robin Hood and the Butcher'' (Child's Ballads, V. 37).}}}}\n=Syn. 1. ''Hop'', ''Leap'', etc. See ''skip''<sup>1</sup>.\n\n'''II.''' ''trans.'' 1. To perform with a light or tripping step, as a dance.\n\n{{smaller block|Every maid<br>Fit for this revel was arrayed,<br>The hornpipe neatly ''tripping''.\n{{right|''Drayton'', Nymphidia.}}}}\n2. To cause to stumble or fall, make a false step, or lose the footing by catching or en-",
+   "c2s1": "tangling the feet or suddenly checking their free action: often followed by ''up''.\n\n{{smaller block|A stump doth ''trip'' him in his pace;\nDown comes poor Hob upon his face.\n{{right|''Drayton'', Nymphidia.}}}}\n\n{{smaller block|Your excuse must be that . . . a mop stood across the entry, and ''tript'' you ''up''.\n{{right|''Swift'', Advice to Servants (Footman).}}}}\n\n'''3.''' To cause to stumble by placing an obstruction in the way; hence, to give a wrong turn to, or cause to halt or stumble, by presenting a mental or moral stumbling-block.\n\n{{smaller block|Be you contented, wearing now the garland, . . .\nTo ''trip'' the course of law and blunt the sword\nThat guards the peace and safety of your person.\n{{right|''Shak.'', 2 Hen. IV., v. 2. 87.}}}}\n\n'''4.''' To catch in a fault, offense, or error; detect in a misstep or blunder.\n\n{{smaller block|Yea, what and whosoeuer he be that thinkes himselfe a very good Italian, and that to ''trip'' others.\n{{right|''Florio'', It. Dict.. Ep. Ded., p. [5].}}}}\n\n{{smaller block|He must, sir, be\nA better statesman than yourself, that can\n''Trip'' me in anything; I will not speak\nBefore these witnesses.\n{{right|''Fletcher'' (''and another''), Noble Gentleman, iii. 4.}}}}\n\n'''5.''' ''Naut.'': (''a'') To loose, as an anchor from the bottom by means of its cable or buoy-rope. (''b'') To turn, as a yard, from a horizontal to a vertical position.\n\n{{smaller block|The royal yards were all ''tripped'' and lowered together.\n{{right|''R. H. Dana, Jr.'', Before the Mast, p. 218.}}}}\n\n'''6.''' ''Theat.'', to double in the center: said of a drop so situated that there is not room enough to hoist it out of sight.—'''7.''' In ''mech.'': (''a'') To",
+   "c2s2": "strike against, as a moving part against an obstruction. (''b'') To release suddenly, as the clutch of the windlass of a pile-driver, or the valve-closing mechanism in the trip-gear of a steam-engine, etc.\n\n'''trip<sup>1</sup>''' (trip), ''n.'' [Early mod. E. also ''tryppe''; < ME. ''trippe'' = Dan. ''trip'', a short step; from the verb.] 1. A light, short step; a lively movement of the feet.\n\n{{smaller block|More fine in ''trip'' then foote of running roe,<br>More pleasant then the field of flowring grasse.\n{{right|''England's Helicon'' (1614). (''Nares.'')}}}}\n\n{{smaller block|\"Where gang ye, young John,\" she says,<br>\"Sae early in the day?<br>It gars me think by your fast ''trip''<br>Your journey 's far away.\"\n{{right|''The Fause Lover'' (Child's Ballads, IV. 90).}}}}\n\n2. A journey or voyage; an excursion; a jaunt; specifically, in transportation, the performance of service one way over a route, the performance of service both ways being a ''round trip''.\n\n{{smaller block|An aungell . . . bad me flee<br>With hym and the<br>On-to Egipte.<br>And sertis I dred me sore<br>To make my smal ''trippe''. ''York Plays'', p. 142.}}\n\n{{smaller block|She, to return our foreigner's complaisance,<br>At Cupid's call, has made a ''trip'' to France.\n{{right|''Farquhar'', Love and a Bottle, Epil.}}}}\n\n{{smaller block|By thus advancing its base of operations on the same line, or by changing from one line to another, the wagons were relieved of two ''trips''.\n{{right|''Comte de Paris'', Civil War in America (trans.), I. 213.}}}}\n\n3. A sudden seizure or catch, as that by which",
+   "c2s3": "a wrestler throws his antagonist.\n\n{{smaller block|Of good hope no councell thou craue\nTil deeth thee caste with a ''trippe'' of dissaite.\n{{right|''Hymns to Virgin'', etc. (E. E. T. S.), p. 75.}}}}\n\n{{smaller block|Or, stript for wrestling, smears his limbs with oil,\nAnd watches, with a ''trip'' his foe to foil.\n{{right|''Dryden'', tr. of Virgil's Georgics, ii. 776.}}}}\n\n4. A stumble by the loss of foothold or a striking of the foot against an object.—5. In ''mach.'', a hitting of a moving part against some obstruction to its free movement.—6. A failure; an error; a blunder.\n\n{{smaller block|And mad'st imperfect words with childish ''trips'',\nHalf unpronounced, slide through my infant lips.\n{{right|''Milton'', Vacation Exercise, l. 3.}}}}\n\n{{smaller block|How, Cousin? I'd have you to know, before this faux pas, this ''Trip'' of mine, the World cou'd not talk of me.\n{{right|''Wycherley'', Plain Dealer, v. 1.}}}}\n\n7. In the fisheries, the catch, take, or fare of fish caught during a voyage; the proceeds of a trip in fish.—8. ''Naut.'', a single board or tack in plying to windward. ''Admiral Smyth.''—9. In ''coursing'', an unsuccessful effort of the dogs to kill. ''Encyc. Brit.'', VI. 515.—10. A small arch over a drain. ''Halliwell.''—'''Jonah trip.''' {{smaller|See ''Jonah.''}}—'''Round trip.''' {{smaller|See def. 2.}}—'''To fetch trip,''' {{smaller|to go backward in order to jump the further. ''Halliwell.'' [Prov. Eng.]}}—'''To hail for a trip.''' {{smaller|See ''hail''<sup>3</sup>.}}=='''Syn. 2.''' {{smaller|''Tour'', ''Travel'', etc. See ''journey''.}}\n\n'''trip'''<sup>2</sup> (trip), ''n.'' [< ME. ''trip'', ''trippe'': supposed to be a var. of ''troop'', or from the same ult. source.] 1. A number of animals (rarely of persons) together; a flock. [Provincial.]",
+   "c3s1": "¶\n{{smaller block|That men calleth a ''trip'' of a tame swyn is called of wylde swyn a soundre; that is to say, ȝif ther be passyd v. or vj. togedres.\n{{right|''MS. Bodl.'' 546. (''Halliwell.'')}}\nA ''trip'' of halibut which arrived on Friday [at Gloucester, Massachusetts] could not be sold.\n{{right|''Phila. Times'', July 23, 1883.}}\nA ''trip'' of Widgeon (according to the quantity).\n{{right|''W. W. Greener'', The Gun, p. 533.}}}}\n\n2. Race; family. ''Halliwell.'' [Prov. Eng.]\n\n'''trip'''<sup>3</sup> (trip), ''n.'' [ME. ''trippe'', ''trype''; origin obscure. Cf. ''tripe''.] 1†. A piece (?).\n\n{{smaller block|A Goddes kechyl, or a ''trype'' of chese.\nOr elles what yow lyst, we may nat cheese.\n{{right|''Chaucer'', Summoner's Tale, l. 39.}}}}\n\n2. New soft cheese made of milk. ''Halliwell.'' [Prov. Eng.]\n\n'''trip'''<sup>4</sup>† (trip), ''n.'' [A modification of ''thrip'', q. v.] Three pence sterling.\n\n{{smaller block|The same vingten is woorth our ''trip'', or English 3d., or woorth halfe a Spanish royall.\n{{right|''Hills'', Vulgar Arithmetic.}}}}\n\n'''tripaleolate''' (trī-pā′lē-ọ̄-lāt), ''a.'' [< L. ''tres'' (''tri-''), three, + NL. ''paleola'', dim. of ''palea'', straw: see ''palea''.] In ''bot.'', provided with three pales or paleæ, as the flower of a bamboo.\n\n'''tripang''', ''n.'' See ''trepang''.\n\n'''tripapillated''' (trī-pap′i-lā-ted), ''a.'' [< L. ''tres'' (''tri-''), three, + ''papilla'', a nipple, teat: see ''papilla''.] Having three papillæ, as the head of an ascaris. ''H. Allen.''\n\n'''tripart''' (trī′pärt), ''a.'' Triparted; tripartite. ''The Engineer'', LXVIII. 500.\n\n'''triparted''' (trī′pär-ted), ''a.'' [< L. ''tres'' (''tri-''), three, + ''pars'' (''part-''), part, + ''-ed''<sup>2</sup>. Cf. ''tripartite''.] Di-",
+   "c3c1": "{{c|Cross triparted.}}",
+   "c3s2": "vided into three parts. In heraldry it is used of the field, in which case it is equivalent to ''tierce'', or is applied to a cross (see the phrase). Also ''tripartite''.—'''Cross triparted''', a cross of which each bar or arm is composed of three narrow ribbons, not interlaced or lying one over the others, but in the same plane.—'''Saltier triparted.''' See ''saltier''<sup>1</sup>.\n\n'''tripartible''' (trī-pär′ti-bl), ''a.'' [<",
+   "c3s3": "three, + ''partibilis'', divisible: see ''partible'', and cf. ''tripartite''.] In ''bot.'', exhibiting a tendency to split into three parts or divisions.\n\n'''tripartient''' (trī-pär′shient), ''a.'' [< L. ''tres'' (''tri-''), three, + ''partien(t-)s'', ppr. of ''partiri'', divide: see ''part'', ''v.''] Dividing into three parts: said of a number that divides another into three equal parts.\n\n'''tripartite''' (trip′är-tīt or trī-pär′tīt), ''a.'' [< late ME. ''trypartyte'', < OF. (and F.) ''tripartite'' = Pr. ''tripartit'' = Sp. Pg. It. ''tripartito'', < L. ''tripartitus'', ''tripertitus'', divided into three parts, < ''tres'' (''tri-''), three, + ''partitus'', pp. of ''partiri'', part, divide: see ''partite''.] 1. Divided into three parts; three-parted.\n\n{{smaller block|She blazed abroade perdy a people small,<br>Late landed heere, and founde this pleasaunt Ile,<br>And how that now it was diuided all,<br>Made ''tripartite'', and might within a while<br>Bee won by force, by treason, fraud, or guile.\n{{right|''Mir. for Mags.'', I. 43.}}}}\n\n{{smaller block|Wisdom is ''tripartite'': saying, doing, avoiding.\n{{right|''Landor'', Imag. Conv., Diogenes and Plato.}}}}\n\n{{smaller block|The ''tripartite'' division of government into legislative, executive, and judicial. ''Bancroft'', Hist. Const., II. 327.}}\n\n2. Having three corresponding parts or copies.\n\n{{smaller block|This Indentur ''tripartite'' made the twenty dey of Aprile, the yere of our lorde godd a thowsaunde fyve hundreth and fourteyn. ''English Gilds'' (E. E. T. S.), p. 143.}}\n\n{{smaller block|Our indentures ''tripartite'' are drawn.\n{{right|''Shak.'', 1 Hen. IV., iii. 1. 80.}}}}\n\n3. Made or concluded between three parties: as, a ''tripartite'' treaty.\n\n{{smaller block|The College, myself, and Mr. Lintot, the bookseller, enter into a ''tripartite'' agreement upon these terms.\n{{right|''W. Brome'', Letters of Eminent Men, II. 96.}}}}",
+   "c3s4": "'''4.''' In ''her.'', same as ''triparted.''—'''5.''' In ''entom.'', divided from the apex to the base by two slits, forming three nearly equal parts.—'''6.''' In ''bot.'', divided into three segments nearly but not",
+   "c3c2": "{{c|Tripartite Leaf of ''Philodendron tripartitum''.}}",
+   "c3s5": "quite down to the base: as, a ''tripartite'' leaf. Also ''triparted''.—'''7.''' In ''math.'', homogeneous in three sets of variables.\n\n'''tripartitely''' (trip′ä̤r-tīt-li or trī-pär′tīt-li), ''adv.'' In a tripartite manner; by a division into three parts.\n\n'''tripartition''' (trī-pär- or trip-ä̤r-tish′on), ''n.'' [< ''tripartite'' + ''-ion.'']",
+   "c3s6": "1. A division into three parts. —2. A division by three, or the taking of a third part of any number or quantity.\n\n'''tripaschal''' (trī-pas′ka̤l), ''a.'' [< L. ''tres'' (''tri-''), three, + LL. ''pascha'', passover: see ''pasch''.] Including three passovers. See the quotation under ''bipaschal''."
+  },
+  "figure_files": {
+   "c3f1": "century v08 p0289 c3f1.png",
+   "c3f2": "century v08 p0289 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     2099,
+     1172,
+     2290,
+     1362
+    ],
+    "caption": [
+     2115,
+     1367,
+     2273,
+     1388
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     2086,
+     1165,
+     2236,
+     1339
+    ]
+   },
+   {
+    "box": [
+     2103,
+     2691,
+     2294,
+     2913
+    ],
+    "caption": [
+     2097,
+     2921,
+     2299,
+     2982
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     2073,
+     2663,
+     2236,
+     2913
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 3,
+    "input_tokens": 5214,
+    "output_tokens": 167,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 15,
+    "input_tokens": 9880,
+    "output_tokens": 8718,
+    "cache_creation_input_tokens": 2714,
+    "cache_read_input_tokens": 37996
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|Triopidæ|6485|tripaschal}}</noinclude>rows on a broad radula, and tentacles retractile within plaited sheaths. See cut under ''Triopa''.\n\n¶\n'''trior''' (trī′or), ''n.'' [See ''trier''.] In ''law'', a person appointed by the court to examine whether a challenge to a juror or a panel of jurors is just.\n\n'''triorchis''' (trī-ôr′kis), ''n.'' [NL., < Gr. τρεῖς (τρι-), three, + ὄρχις, testicle.] One who has three testicles.\n\n'''triorthogonal''' (trī-ôr-thog′ọ̄-nal), ''a.'' [< L. ''tres'' (''tri-''), three, + E. ''orthogonal''.] Having three lines, or systems of lines, crossing all at right angles to one another.\n\n'''Triosteum''' (trī-os′tē-um), ''n.'' [NL. (Linnæus, 1753), < Gr. τρεῖς (τρι-), three, + ὀστέον, bone.] A genus of gamopetalous plants, of the order ''Caprifoliaceæ'' and tribe ''Lonicereæ''. {{smaller|It is characterized by a tubular bell-shaped corolla gibbous at the base, and a three- to five-celled ovary with one ovule in each cell. There are about 6 species, natives of Asia and the eastern and central United States. They are herbs with a perennial root and little-branched stem with scaly buds. The leaves are sessile, entire, opposite, and somewhat connate at the base. The dull-yellow, purple, or whitish flowers are solitary, or clustered in the axils, or rarely condensed into short terminal spikes. The fruit is a coriaceous or fleshy berry, with smooth, bony, angled or ribbed seeds. ''T. perfoliatum'', a rather coarse erect species with purplish flowers and orange-colored berries, occurring from Canada to Alabama, is known as ''feverroot'', also as ''horse-gentian'', ''Tinker's-weed'', ''wild ipecac'', and ''wild coffee''; it produces a long, thick, yellowish or brownish root with a nauseous taste and odor, locally used as a cathartic and emetic. One other species, ''T. angustifolium'', with yellowish flowers, occurs in the United States; one, ''T. hirsutum'', with irregular corolla, in Nepāl and China; and two others in China, one of which, ''T. sinuatum'', extends to Japan.}}\n\n'''triovulate''' (trī-ō′vū-lāt), ''a.'' [< L. ''tres'' (''tri-''), three, + NL. ''ovulum'', ovule, + ''-ate''<sup>1</sup>.] In ''bot.'', having three ovules; three-ovuled.\n\n'''trioxid, trioxide''' (trī-ok′sid, -sid or -sīd), ''n.'' An oxid containing three oxygen atoms: as, sulphur ''trioxid'', SO<sub>3</sub>. Also ''tritoxid, tritoxide.''\n\n'''trip<sup>1</sup>''' (trip), ''v.''; pret. and pp. ''tripped'', ppr. ''tripping.'' [Early mod. E. also ''tryppe''; < ME. ''trippen'' = MD. ''trippen'', step lightly, trip, cause to stumble, D. ''trippen'', trip, skip, = Sw. ''trippa'' = Dan. ''trippe'', tread lightly, trip; cf. freq. D. ''trippelen'' = LG. ''trippeln'', > G. ''trippeln'', trip; prob. a secondary form of the verb appearing as the source of ''trap''<sup>1</sup>, ''trap''<sup>2</sup>, ''trap''<sup>3</sup>, and ult. of ''tramp''.] '''I.''' ''intrans.'' '''1.''' To run or step lightly; skip, dance, or walk nimbly along; move with a quick, light tread.\n\n{{smaller block|She has twa weel-made feet,\nAnd she ''trips'' upon her taes.\n{{right|''The Laird of Waristoun'' (Child's Ballads, III. 107).}}\nCome, and ''trip'' it, as you go,\nOn the light fantastick toe.\n{{right|''Milton'', L'Allegro, l. 34.}}}}\n\n'''2.''' To make a brisk movement with the feet; prance.\n\n{{smaller block|This hors anon bigan to ''trippe'' and daunce\nWhan that this knyght leyde hand upon his reyne.\n{{right|''Chaucer'', Squire's Tale, l. 304.}}}}\n\n'''3.''' To take a voyage or journey; make a jaunt or excursion.\n\n{{smaller block|But yet, we hope you'll never grow so wise;\nFor, if you should, we and our Comedies\nMust ''trip'' to Norwich, or for Ireland go.\n{{right|''Etherege'', Love in a Tub, Prol.}}}}\n\n'''4.''' To stumble; strike the foot against something so as to lose the step and come near falling; make a false step; lose the footing. {{smaller block|My slipp'ry footing fail'd me; and you ''tript''<br>Just as I slipt.\n{{right|''Quarles'', Emblems, ii. 14.}}}}\nHence—5. Figuratively, to make a false movement; err; go wrong; be guilty of an inconsistency or an inaccuracy.\n\n{{smaller block|St. Jerome, whose custom is not to pardon ever easily his adversaries if any where they chance to ''trip'', presseth him as thereby making all sorts of men in the world God's enemies.\n{{right|''Hooker'', Eccles. Polity, v. 29.}}}}\n\n{{smaller block|The captain, a wise man, after many endeavours to catch me ''tripping'' in some part of my story, at last began to have a better opinion of my veracity.\n{{right|''Swift'', Gulliver's Travels, iv. 11.}}}}\n\n{{smaller block|For Jenny, my cousin, had come to the place, and I knew right well<br>That Jenny had ''tript'' in her time; I knew, but I would not tell.\n{{right|''Tennyson'', The Grandmother.}}}}\n6. To rush by: said of deer.\n\n{{smaller block|A hundred head of red deer<br>Come ''tripping'' the sheriff full nigh.\n{{right|''Robin Hood and the Butcher'' (Child's Ballads, V. 37).}}}}\n=Syn. 1. ''Hop'', ''Leap'', etc. See ''skip''<sup>1</sup>.\n\n'''II.''' ''trans.'' 1. To perform with a light or tripping step, as a dance.\n\n{{smaller block|Every maid<br>Fit for this revel was arrayed,<br>The hornpipe neatly ''tripping''.\n{{right|''Drayton'', Nymphidia.}}}}\n2. To cause to stumble or fall, make a false step, or lose the footing by catching or entangling the feet or suddenly checking their free action: often followed by ''up''.\n\n{{smaller block|A stump doth ''trip'' him in his pace;\nDown comes poor Hob upon his face.\n{{right|''Drayton'', Nymphidia.}}}}\n\n{{smaller block|Your excuse must be that . . . a mop stood across the entry, and ''tript'' you ''up''.\n{{right|''Swift'', Advice to Servants (Footman).}}}}\n\n'''3.''' To cause to stumble by placing an obstruction in the way; hence, to give a wrong turn to, or cause to halt or stumble, by presenting a mental or moral stumbling-block.\n\n{{smaller block|Be you contented, wearing now the garland, . . .\nTo ''trip'' the course of law and blunt the sword\nThat guards the peace and safety of your person.\n{{right|''Shak.'', 2 Hen. IV., v. 2. 87.}}}}\n\n'''4.''' To catch in a fault, offense, or error; detect in a misstep or blunder.\n\n{{smaller block|Yea, what and whosoeuer he be that thinkes himselfe a very good Italian, and that to ''trip'' others.\n{{right|''Florio'', It. Dict.. Ep. Ded., p. [5].}}}}\n\n{{smaller block|He must, sir, be\nA better statesman than yourself, that can\n''Trip'' me in anything; I will not speak\nBefore these witnesses.\n{{right|''Fletcher'' (''and another''), Noble Gentleman, iii. 4.}}}}\n\n'''5.''' ''Naut.'': (''a'') To loose, as an anchor from the bottom by means of its cable or buoy-rope. (''b'') To turn, as a yard, from a horizontal to a vertical position.\n\n{{smaller block|The royal yards were all ''tripped'' and lowered together.\n{{right|''R. H. Dana, Jr.'', Before the Mast, p. 218.}}}}\n\n'''6.''' ''Theat.'', to double in the center: said of a drop so situated that there is not room enough to hoist it out of sight.—'''7.''' In ''mech.'': (''a'') To strike against, as a moving part against an obstruction. (''b'') To release suddenly, as the clutch of the windlass of a pile-driver, or the valve-closing mechanism in the trip-gear of a steam-engine, etc.\n\n'''trip<sup>1</sup>''' (trip), ''n.'' [Early mod. E. also ''tryppe''; < ME. ''trippe'' = Dan. ''trip'', a short step; from the verb.] 1. A light, short step; a lively movement of the feet.\n\n{{smaller block|More fine in ''trip'' then foote of running roe,<br>More pleasant then the field of flowring grasse.\n{{right|''England's Helicon'' (1614). (''Nares.'')}}}}\n\n{{smaller block|\"Where gang ye, young John,\" she says,<br>\"Sae early in the day?<br>It gars me think by your fast ''trip''<br>Your journey 's far away.\"\n{{right|''The Fause Lover'' (Child's Ballads, IV. 90).}}}}\n\n2. A journey or voyage; an excursion; a jaunt; specifically, in transportation, the performance of service one way over a route, the performance of service both ways being a ''round trip''.\n\n{{smaller block|An aungell . . . bad me flee<br>With hym and the<br>On-to Egipte.<br>And sertis I dred me sore<br>To make my smal ''trippe''. ''York Plays'', p. 142.}}\n\n{{smaller block|She, to return our foreigner's complaisance,<br>At Cupid's call, has made a ''trip'' to France.\n{{right|''Farquhar'', Love and a Bottle, Epil.}}}}\n\n{{smaller block|By thus advancing its base of operations on the same line, or by changing from one line to another, the wagons were relieved of two ''trips''.\n{{right|''Comte de Paris'', Civil War in America (trans.), I. 213.}}}}\n\n3. A sudden seizure or catch, as that by which a wrestler throws his antagonist.\n\n{{smaller block|Of good hope no councell thou craue\nTil deeth thee caste with a ''trippe'' of dissaite.\n{{right|''Hymns to Virgin'', etc. (E. E. T. S.), p. 75.}}}}\n\n{{smaller block|Or, stript for wrestling, smears his limbs with oil,\nAnd watches, with a ''trip'' his foe to foil.\n{{right|''Dryden'', tr. of Virgil's Georgics, ii. 776.}}}}\n\n4. A stumble by the loss of foothold or a striking of the foot against an object.—5. In ''mach.'', a hitting of a moving part against some obstruction to its free movement.—6. A failure; an error; a blunder.\n\n{{smaller block|And mad'st imperfect words with childish ''trips'',\nHalf unpronounced, slide through my infant lips.\n{{right|''Milton'', Vacation Exercise, l. 3.}}}}\n\n{{smaller block|How, Cousin? I'd have you to know, before this faux pas, this ''Trip'' of mine, the World cou'd not talk of me.\n{{right|''Wycherley'', Plain Dealer, v. 1.}}}}\n\n7. In the fisheries, the catch, take, or fare of fish caught during a voyage; the proceeds of a trip in fish.—8. ''Naut.'', a single board or tack in plying to windward. ''Admiral Smyth.''—9. In ''coursing'', an unsuccessful effort of the dogs to kill. ''Encyc. Brit.'', VI. 515.—10. A small arch over a drain. ''Halliwell.''—'''Jonah trip.''' {{smaller|See ''Jonah.''}}—'''Round trip.''' {{smaller|See def. 2.}}—'''To fetch trip,''' {{smaller|to go backward in order to jump the further. ''Halliwell.'' [Prov. Eng.]}}—'''To hail for a trip.''' {{smaller|See ''hail''<sup>3</sup>.}}=='''Syn. 2.''' {{smaller|''Tour'', ''Travel'', etc. See ''journey''.}}\n\n'''trip'''<sup>2</sup> (trip), ''n.'' [< ME. ''trip'', ''trippe'': supposed to be a var. of ''troop'', or from the same ult. source.] 1. A number of animals (rarely of persons) together; a flock. [Provincial.]\n\n{{smaller block|That men calleth a ''trip'' of a tame swyn is called of wylde swyn a soundre; that is to say, ȝif ther be passyd v. or vj. togedres.\n{{right|''MS. Bodl.'' 546. (''Halliwell.'')}}\nA ''trip'' of halibut which arrived on Friday [at Gloucester, Massachusetts] could not be sold.\n{{right|''Phila. Times'', July 23, 1883.}}\nA ''trip'' of Widgeon (according to the quantity).\n{{right|''W. W. Greener'', The Gun, p. 533.}}}}\n\n2. Race; family. ''Halliwell.'' [Prov. Eng.]\n\n'''trip'''<sup>3</sup> (trip), ''n.'' [ME. ''trippe'', ''trype''; origin obscure. Cf. ''tripe''.] 1†. A piece (?).\n\n{{smaller block|A Goddes kechyl, or a ''trype'' of chese.\nOr elles what yow lyst, we may nat cheese.\n{{right|''Chaucer'', Summoner's Tale, l. 39.}}}}\n\n2. New soft cheese made of milk. ''Halliwell.'' [Prov. Eng.]\n\n'''trip'''<sup>4</sup>† (trip), ''n.'' [A modification of ''thrip'', q. v.] Three pence sterling.\n\n{{smaller block|The same vingten is woorth our ''trip'', or English 3d., or woorth halfe a Spanish royall.\n{{right|''Hills'', Vulgar Arithmetic.}}}}\n\n'''tripaleolate''' (trī-pā′lē-ọ̄-lāt), ''a.'' [< L. ''tres'' (''tri-''), three, + NL. ''paleola'', dim. of ''palea'', straw: see ''palea''.] In ''bot.'', provided with three pales or paleæ, as the flower of a bamboo.\n\n'''tripang''', ''n.'' See ''trepang''.\n\n'''tripapillated''' (trī-pap′i-lā-ted), ''a.'' [< L. ''tres'' (''tri-''), three, + ''papilla'', a nipple, teat: see ''papilla''.] Having three papillæ, as the head of an ascaris. ''H. Allen.''\n\n'''tripart''' (trī′pärt), ''a.'' Triparted; tripartite. ''The Engineer'', LXVIII. 500.\n\n'''triparted''' (trī′pär-ted), ''a.'' [< L. ''tres'' (''tri-''), three, + ''pars'' (''part-''), part, + ''-ed''<sup>2</sup>. Cf. ''tripartite''.] Divided into three parts. In heraldry it is used of the field, in which case it is equivalent to ''tierce'', or is applied to a cross (see the phrase). Also ''tripartite''.—'''Cross triparted''', a cross of which each bar or arm is composed of three narrow ribbons, not interlaced or lying one over the others, but in the same plane.—'''Saltier triparted.''' See ''saltier''<sup>1</sup>.\n\n[[File:century v08 p0289 c3f1.png|center|91px]]\n{{c|Cross triparted.}}\n\n'''tripartible''' (trī-pär′ti-bl), ''a.'' [< three, + ''partibilis'', divisible: see ''partible'', and cf. ''tripartite''.] In ''bot.'', exhibiting a tendency to split into three parts or divisions.\n\n'''tripartient''' (trī-pär′shient), ''a.'' [< L. ''tres'' (''tri-''), three, + ''partien(t-)s'', ppr. of ''partiri'', divide: see ''part'', ''v.''] Dividing into three parts: said of a number that divides another into three equal parts.\n\n'''tripartite''' (trip′är-tīt or trī-pär′tīt), ''a.'' [< late ME. ''trypartyte'', < OF. (and F.) ''tripartite'' = Pr. ''tripartit'' = Sp. Pg. It. ''tripartito'', < L. ''tripartitus'', ''tripertitus'', divided into three parts, < ''tres'' (''tri-''), three, + ''partitus'', pp. of ''partiri'', part, divide: see ''partite''.] 1. Divided into three parts; three-parted.\n\n{{smaller block|She blazed abroade perdy a people small,<br>Late landed heere, and founde this pleasaunt Ile,<br>And how that now it was diuided all,<br>Made ''tripartite'', and might within a while<br>Bee won by force, by treason, fraud, or guile.\n{{right|''Mir. for Mags.'', I. 43.}}}}\n\n{{smaller block|Wisdom is ''tripartite'': saying, doing, avoiding.\n{{right|''Landor'', Imag. Conv., Diogenes and Plato.}}}}\n\n{{smaller block|The ''tripartite'' division of government into legislative, executive, and judicial. ''Bancroft'', Hist. Const., II. 327.}}\n\n2. Having three corresponding parts or copies.\n\n{{smaller block|This Indentur ''tripartite'' made the twenty dey of Aprile, the yere of our lorde godd a thowsaunde fyve hundreth and fourteyn. ''English Gilds'' (E. E. T. S.), p. 143.}}\n\n{{smaller block|Our indentures ''tripartite'' are drawn.\n{{right|''Shak.'', 1 Hen. IV., iii. 1. 80.}}}}\n\n3. Made or concluded between three parties: as, a ''tripartite'' treaty.\n\n{{smaller block|The College, myself, and Mr. Lintot, the bookseller, enter into a ''tripartite'' agreement upon these terms.\n{{right|''W. Brome'', Letters of Eminent Men, II. 96.}}}} '''4.''' In ''her.'', same as ''triparted.''—'''5.''' In ''entom.'', divided from the apex to the base by two slits, forming three nearly equal parts.—'''6.''' In ''bot.'', divided into three segments nearly but not quite down to the base: as, a ''tripartite'' leaf. Also ''triparted''.—'''7.''' In ''math.'', homogeneous in three sets of variables.\n\n[[File:century v08 p0289 c3f2.png|center|88px]]\n{{c|Tripartite Leaf of ''Philodendron tripartitum''.}}\n\n'''tripartitely''' (trip′ä̤r-tīt-li or trī-pär′tīt-li), ''adv.'' In a tripartite manner; by a division into three parts.\n\n'''tripartition''' (trī-pär- or trip-ä̤r-tish′on), ''n.'' [< ''tripartite'' + ''-ion.''] 1. A division into three parts. —2. A division by three, or the taking of a third part of any number or quantity.\n\n'''tripaschal''' (trī-pas′ka̤l), ''a.'' [< L. ''tres'' (''tri-''), three, + LL. ''pascha'', passover: see ''pasch''.] Including three passovers. See the quotation under ''bipaschal''.<noinclude><references/></noinclude>"
+}

@@ -1,0 +1,178 @@
+{
+ "volume": 8,
+ "page_number": 230,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n229.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n229.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-13",
+  "angle": 0.0,
+  "column_width": 835,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     127,
+     46,
+     2442,
+     87
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     127,
+     87,
+     861,
+     1114
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     127,
+     1114,
+     861,
+     2204
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     127,
+     2204,
+     861,
+     3203
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     861,
+     87,
+     1607,
+     930
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     861,
+     930,
+     1607,
+     2010
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     861,
+     2010,
+     1607,
+     3040
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     861,
+     3040,
+     1607,
+     3203
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1607,
+     87,
+     2442,
+     1127
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1607,
+     1127,
+     2442,
+     2162
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1607,
+     2162,
+     2442,
+     3203
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|trankum|6426|transcendent}}",
+   "c1s1": "¶\n'''trankum''' (trang′kum), ''n.'' Same as ''trangram.''\n\n{{smaller block|That shawl must be had for Clara, with the other ''trankums'' of muslin and lace.{{right|''Scott'', St. Ronan's Well, xviii.}}}}\n\n'''tranlace†''' (tran-lās′), ''v. t.'' [< ''tran-'' for ''trans-'' + ''lace.''] To transpose.\n\n{{smaller block|Here ye see how in the former rime this word life is ''tranlaced'' into liue, liuing, liuely, liuelode.{{right|''Puttenham'', Arte of Eng. Poesie, p. 170.}}}}\n\n'''trannel''' (tran′el), ''n.'' [A var. of ''trunnel'', ult. of ''treenail.''] A treenail.\n\n'''tranquil''' (trang′kwil), ''a.'' [< F. ''tranquille'' = Sp. ''tranquilo'' = Pg. It. ''tranquillo'', < L. ''tranquillus'', quiet, tranquil.] Quiet; calm; undisturbed; not agitated; serene.\n\n{{smaller block|O, now for ever<br>Farewell the ''tranquil'' mind! farewell content!{{right|''Shak.'', Othello, iii. 3. 348.}}}}\n\n='''Syn.''' ''Placid, Serene'', etc. See ''calm''<sup>1</sup>.\n\n'''tranquilization, tranquillization''' (trang″kwil-i-zā′shon), ''n.'' [< ''tranquilize'' + ''-ation.''] The act of tranquilizing, or the state of being tranquilized. Also spelled ''tranquilisation, tranquillisation.''\n\n'''tranquilize, tranquillize''' (trang′kwil-īz), ''v.''; pret. and pp. ''tranquilized, tranquillized'', ppr. ''tranquilizing, tranquillizing.'' [< F. ''tranquilliser'' = Sp. ''tranquilizar'' = Pg. ''tranquillizar'' (cf. It. ''tranquillare'', < L. ''tranquillare''), make tranquil; as ''tranquil'' + ''-ize.''] '''I.''' ''trans.'' To render tranquil or quiet; allay when agitated; compose; make calm or peaceful.\n\n{{smaller block|Religion haunts the imagination of the sinner, instead",
+   "c1s2": "{{smaller block|of ''tranquillizing'' his heart. {{right|''R. Hall.''}}}}\n\n=Syn. {{smaller|To quiet, still, soothe, calm, lull, hush.}}\n\n'''II.''' ''intrans.'' To become tranquil; also, to exert a quieting or calming effect.\n\n{{smaller block|I'll try as I ride in my chariot to ''tranquilise.''\n{{right|''Richardson'', Clarissa Harlowe, III. lviii.}}}}\n\nAlso spelled ''tranquilise, tranquillise.''\n\n'''tranquilizer, tranquillizer''' (trang′kwil-ī-zėr), ''n.'' [< ''tranquilize'' + ''-er''<sup>1</sup>.] One who or that which tranquilizes. Also spelled ''tranquiliser, tranquilliser.''\n\n'''tranquilizingly, tranquillizingly''' (trang′-kwil-ī-zing-li), ''adv.'' So as to tranquilize.\n\n'''tranquillamente''' (träng-kēl-lä-men′te), ''adv.'' [It., < ''tranquillo'', tranquil: see ''tranquil.''] In ''music'', tranquilly; calmly; in a quiet manner.\n\n'''tranquillity''' (trang-kwil′i̤-ti), ''n.'' [< ME. ''tranquillitee'', < OF. ''tranquillite'', F. ''tranquillité'' = Pr. ''tranquillitat, tranquilitat'' = Sp. ''tranquilidad'' = Pg. ''tranquillidade'' = It. ''tranquillità'', < L. ''tranquillita(t-)s'', tranquilness, < ''tranquillus'', tranquil: see ''tranquil.''] The state or character of being tranquil; quietness; serenity; freedom from disturbance or agitation; calmness.\n\n{{smaller block|Ne ever rests he in ''tranquillity'',\nThe roring billowes beat his bowre so boystrously.\n{{right|''Spenser'', F. Q., III. x. 58.}}}}\n\n{{smaller block|Preserving the ''tranquillity'' of our spirits and the evenness of our temper in the assault of infamy and disreputation. {{right|''Jer. Taylor'', Works (ed. 1835), I. 33.}}}}\n\n{{smaller block|Power dwells apart in its ''tranquillity'',\nRemote, serene, and inaccessible.\n{{right|''Shelley'', Mont Blanc, iv.}}}}\n\n=Syn. {{smaller|''Quiet, Peace'', etc. (see ''rest''<sup>1</sup>), serenity, placidness, calm, stillness.}}",
+   "c1s3": "¶\n'''tranquillo''' (trän-kwēl′lō), ''a.'' [It., = E. ''tranquil.''] In ''music'', tranquil: noting a passage to be so rendered.\n\n'''tranquilly''' (trang′kwil-li), ''adv.'' [< ''tranquil'' + ''-ly''<sup>2</sup>.] In a tranquil manner; quietly; peacefully.\n\n'''tranquilness''' (trang′kwil-nes), ''n.'' Tranquillity.\n\n'''trans-.''' [= F. ''trans-'', ''tré-'', OF. ''trans-'', ''tres-'' = Sp. Pg. ''trans-'', ''tras-'' = It. ''trans-'', ''tras-'', < L. ''trans-'', prefix, ''trans'', prep., across, over, beyond, on the other side of, in comp. across, over, through, through and through, beyond. Before a consonant the form varies between ''trans-'' and ''tra-'', as in ''transdere'', ''tradere'' (see ''tradition'', ''tray''<sup>3</sup>), ''transducere'', ''traducere'' (see ''traduce''), ''translucere'', ''tralucere'', etc. (see ''tralucent'', ''translucent''); before ''s'', the form commonly becomes ''tran-'', as in ''transcendere'', for ''transscendere'' (see ''transcend''), etc. This prefix appears in E. in other forms, as ''tra-'' in ''traduce'', ''traject'', etc., ''tre-'' in the obs. ''treget'', etc., ''tres-'' in ''trespass'', and reduced or partly absorbed in ''traitor'', ''treason'', ''tray''<sup>3</sup>, ''betray'', etc.] A prefix of Latin origin, meaning ‘across, over, beyond, on the other side of, through,’ as in ''transfer'', ‘carry over,’ ''transfuse'', ‘pour over,’ ''transgress'', ‘pass beyond,’ etc., ''transalpine'', ‘beyond the Alps,’ etc. (in the last use opposed to ''cis-''). {{smaller|Besides its use in numerous English words taken from Latin words with this prefix, it is used to some extent as an English formative, as in ''transdialect'', ''transearth'', ''transpierce'', ''transview'', etc. It is commonly used in its literal sense, but also as implying complete change,}}",
+   "c2s1": "as in ''transfigure, transform'', etc. ''Trans-'' is also a frequent formative of recent technical words of science, in the concrete sense of 'athwart, across, crosswise, transversely, from side to side,' like ''dia-'' in the same cases: as, ''trans-process'', equivalent to ''transverse process'', or ''diapophysis''; ''transductor, transfrontal, transmedian, transection'', etc.\n\n'''trans.''' An abbreviation of ''transactions, translated'' or ''translator, transpose, transitive'', etc.\n\n'''transact''' (trȧns-akt′), ''v.'' [< L. ''transactus'', pp. of ''transigere'' (> It. ''transigere'' = Sp. Pg. ''transigir''), drive through, carry through, bring to an end, finish, complete, perform, < ''trans'', through, + ''agere'', drive, do: see ''act''. The verb appears to have been suggested by the nouns ''transactor'' and ''transaction''.] '''I.''' ''trans.'' To carry through; perform; conduct; manage; do.\n\n{{smaller block|Which pretences I am content to let alone, if they . . . will but ''transact'' the question wholly by Scripture and common sense.\n{{right|''Jer. Taylor'', Real Presence, § 12.}}}}\n\n{{smaller block|In a country fully stocked in proportion to all the business it had to ''transact'', as great a quantity of stock would be employed in every particular branch as the nature and extent of the trade would admit.\n{{right|''Adam Smith'', Wealth of Nations, i. 9.}}}}\n\n'''II.''' ''intrans.'' To conduct, arrange, or settle matters; deal; treat; negotiate.\n\n{{smaller block|God ''transacts'' with mankind by gentle and paternal measures.\n{{right|''Bp. Parker'', Platonick Philos., p. 52.}}}}",
+   "c2s2": "¶\n'''transaction''' (trȧns-ak′shon), ''n.'' [< F. ''transaction'' = Pr. ''transactio'' = Sp. ''transaccion'' = Pg. ''transacção'' = It. ''transazione'', < LL. ''transactio(n-)'', a completion, an agreement, < L. ''transigere'', complete, perform, transact: see ''transact.''] 1. The management or settlement of an affair; a doing or performing: as, the ''transaction'' of business.—2. A completed or settled matter or item of business; a matter or affair either completed or in course of completion: as, a ''transaction'' of questionable honesty.\n\n{{smaller block|Indifferent to truth in the ''transactions'' of life, he was honestly devoted to truth in the researches of speculation.\n{{right|''Macaulay'', Machiavelli.}}}}\n\n3. ''pl.'' The reports or publications containing the several papers or abstracts of papers, speeches, discussions, etc., which have been read or delivered at the meetings of certain learned societies. Those of the Royal Society of London are known as the ''Philosophical Transactions.''\n\n{{smaller block|I have delivered him a Copy of the ''Transactions'' of Things that concerned their Company at Rheinsburgh.\n{{right|''Howell'', Letters, I. vi. 8.}}}}\n\n4. In ''civil law'', an adjustment of a dispute between parties by mutual agreement; the extinguishing of an obligation by an agreement by which each party consents to forego part of his claims in order to close the matter finally. {{smaller|It presupposes that each of the parties incurs some loss, otherwise the arrangement rather belongs to the class of donations. ''Amos.''}}—'''Personal transaction.''' {{smaller|See ''personal.''}}\n\n'''transactor''' (trȧns-ak′tor), ''n.'' [< OF. ''transacteur'' = Pg. ''transactor'', < L. ''transactor'', a manager, <",
+   "c2s3": "transansigere, pp. transactus... first line is continuation, so no ¶.\n\nPronunciation \"trȧns-al′pin\" — the a with dot above (ȧ). \"trȧns-an′din\", \"trȧns-an′i-māt\", \"trȧns-an-i-mā′shon\".\n\nQuote block.\n\n''transigere'', pp. ''transactus'', complete, transact: see ''transact''.] One who transacts, performs, or conducts any business.\n\n'''transalpine''' (trȧns-al′pin), ''a.'' and ''n.'' [< F. ''transalpin'' = Sp. Pg. It. ''transalpino'', < L. ''transalpinus'', < ''trans'', across, + ''Alpes'', Alps, ''Alpinus'', Alpine, of the Alps: see ''Alp''<sup>2</sup>, ''Alpine''.] '''I.''' ''a.'' Being or situated beyond the Alps, especially from Rome: as, ''transalpine'' Gaul: opposed to ''cisalpine''. Compare ''transmontane''.\n\n'''II.''' ''n.'' A native or an inhabitant of a country beyond the Alps, generally with reference to Rome.\n\n'''transandine''' (trȧns-an′din), ''a.'' [< ''trans-'' + ''Andes'' + ''-ine''<sup>1</sup>.] Across the Andes; to or on the other side of the Andes: as, ''transandine'' explorations.\n\n'''transanimate''' (trȧns-an′i-māt), ''v. t.''; pret. and pp. ''transanimated'', ppr. ''transanimating''. [< ''trans-'' + ''animate''.] To animate by the conveyance of a soul to another body. ''Dean King'', Sermon, Nov., 1608. [Rare.]\n\n'''transanimation''' (trȧns-an-i-mā′shon), ''n.'' [= It. ''transanimazione''; as ''transanimate'' + ''-ion''.] Transmigration of the soul; metempsychosis; also, any doctrine or theory of reincarnation (as in the following extract).\n\n{{smaller block|Yf it may be graunted . . . that the spirites of dead men may reuiue in other (after the opinion and ''transanimation'' of Pythagoras), we may thynke that the soule of Archimedes was reuiued in Besson, that excellent Geometer of our tyme.\n{{right|''R. Eden'' (First Books on America, ed. Arber, p. xlvii).}}}}",
+   "c2s4": "¶\n'''trans-Appalachian''' (trȧns-ap-a̤-lach′i-a̤n), ''a.'' [< ''trans-'' + ''Appalachian.''] Across the Appalachian range of mountains.\n\n{{smaller block|The ''Trans-Appalachian'' movement of Birds.\n{{right|''The Auk'', Jan., 1891, p. 82.}}}}",
+   "c3s1": "¶\n'''transatlantic''' (trȧns-at-lan′tik), ''a.'' [= F. ''transatlantique'' = Sp. ''transatlántico''; as ''trans-'' + ''Atlantic.''] 1. Lying or being beyond the Atlantic; on the opposite side of the Atlantic from the country of the speaker or writer; specifically, in Europe, American.\n\n{{smaller block|I go to search where, dark and deep,<br>Those ''Trans-atlantic'' treasures sleep.\n{{right|''Scott'', Rokeby, i. 21.}}}}\n\n2. Crossing or passing across the Atlantic: as, a ''transatlantic'' line of steamers.\n\n'''transaudient''' (trȧns-â′di-ẹnt), ''a.'' [< L. ''trans-'', through, + ''audien(t-)s'', ppr. of ''audire'', hear: see ''hearing.''] Permitting the passage of sound. [Rare.]\n\n{{smaller block|There were dwarfs, also, who danced and sang, and many a proprietor regretted the ''transaudient'' properties of canvas, which allowed the frugal public to share in the melody without entering the booth.\n{{right|''Lowell'', Cambridge Thirty Years Ago.}}}}\n\n'''transcalency''' (trȧns-kā′len-si), ''n.'' [< ''transcalen(t)'' + ''-cy.''] The property of being transcalent.\n\n'''transcalent''' (trȧns-kā′lẹnt), ''a.'' [< L. ''trans'', through, + ''calen(t-)s'', ppr. of ''calere'', be warm: see ''calid.''] Pervious to heat; permitting the passage of heat. ''E. Frankland'', Exper. Chem., p. 997.\n\n'''transcend''' (trȧn-send′), ''v.'' [< OF. ''transcender'' = Sp. ''transcender'', ''trascender'' = Pg. ''transcender'' = It. ''transcendere'', ''trascendere'', < L. ''transcendere'', ''transscendere'', climb over, step over, surpass, transcend, < ''trans'', over, + ''scandere'', climb: see",
+   "c3s2": "''scan.'' Cf. ''ascend'', ''descend''.] '''I.''' ''trans.'' '''1†.''' To climb over or up; ascend; mount; reach or extend upward to.\n\n{{smaller block|The shore let her ''transcend'', the promont to descry.\n{{right|''Drayton'', Polyolbion, i. 71.}}}}\n\n{{smaller block|It will be thought a thing ridiculous . . .\n. . . that any poet, void\nOf birth, or wealth, or temporal dignity,\nShould with decorum ''transcend'' Cæsar's chair.\n{{right|''B. Jonson'', Poetaster, v. 1.}}}}\n\n{{smaller block|Make disquisition whether these unusual lights be meteorological impressions not ''transcending'' the upper region, or whether to be ranked among celestial bodies.\n{{right|''Howell.'' (''Latham.'')}}}}\n\n'''2.''' To pass over; go beyond; overpass; overstep.\n\n{{smaller block|It is a dangerous opinion to such popes as shall ''transcend'' their limits and become tyrannical.\n{{right|''Bacon.''}}}}\n\n{{smaller block|The great will see that true love cannot be unrequited. True love ''transcends'' the unworthy object.\n{{right|''Emerson'', Friendship, p. 206.}}}}\n\n{{smaller block|We may indeed require rigid proof of whatever ''transcends'' our experience, but it is not only Orientals who say that \"With God all things are possible.\"\n{{right|''J. R. Seeley'', Nat. Religion, p. 77.}}}}\n\n'''3.''' To surpass; outdo; excel; exceed.\n\n{{smaller block|Secret scorching flames,\nThat far ''transcend'' earthly material fires,\nAre crept into me, and there is no cure.\n{{right|''Beau. and Fl.'', King and No King, iii. 3.}}}}\n\n{{smaller block|High though her wit, yet humble was her mind;\nAs if she could not or she would not find\nHow much her worth ''transcended'' all her kind.\n{{right|''Dryden'', Epitaph for Monument of a Lady at Bath.}}}}\n\n'''4†.''' To cause to climb or pass; lift; elevate.",
+   "c3s3": "{{smaller block|To that People thou a Law hast giv'n<br>Which from grosse earth ''transcendeth'' them to heav'n.\n{{right|''Heywood'', Hierarchy of Angels, p. 530.}}}}\n\n=Syn. 2. To overstep.—3. To outstrip, outdo.\n\nII. ''intrans.'' 1†. To climb; mount; pass upward or onward.\n\n{{smaller block|But to conclude an impossibility from a difficulty, or affirm whereas things not easily sink they do not drown at all, besides the fallacy, is a frequent addition in human expression, and an amplification not unusual as well in opinions as relations; which oftentimes give indistinct accounts of proximities, and without restraint ''transcend'' from one another.\n{{right|''Sir T. Browne'', Vulg. Err., vii. 15.}}}}\n\n2. To be transcendent; excel.\n\n'''transcendant†''', ''a.'' An obsolete form of ''transcendent.''\n\n'''transcendence''' (trȧn-sen′dens), ''n.'' [= F. ''transcendance'' = Sp. ''transcendencia'', ''trascendencia'' = Pg. ''transcendencia'' = It. ''transcendenza'', ''trascendenza'', < LL. ''transcendentia'', < L. ''transcenden(t-)s'', transcendent: see ''transcendent.''] The character of being transcendent; elevation; loftiness; exaggeration.\n\n{{smaller block|In a most weak and debile minister, great power, great ''transcendence.''\n{{right|''Shak.'', All's Well, ii. 3. 40.}}}}\n\n'''transcendency''' (trȧn-sen′den-si), ''n.'' [As ''transcendence'' (see ''-cy'').] Same as ''transcendence.''\n\n{{smaller block|\"It is true greatness to have in one the frailty of a man and the security of a God;\" . . . this would have done better in poesy, where ''transcendencies'' are more allowed.\n{{right|''Bacon'', Adversity (ed. 1887).}}}}\n\n'''transcendent''' (trȧn-sen′dent), ''a.'' and ''n.'' [Formerly also ''transcendant;'' < OF. (and F.) ''transcendant'' = Pr. ''trenscendant'' = Sp. ''transcendente'',"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 2781,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 9911,
+    "output_tokens": 9296,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 29854
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|trankum|6426|transcendent}}</noinclude>'''trankum''' (trang′kum), ''n.'' Same as ''trangram.''\n\n{{smaller block|That shawl must be had for Clara, with the other ''trankums'' of muslin and lace.{{right|''Scott'', St. Ronan's Well, xviii.}}}}\n\n'''tranlace†''' (tran-lās′), ''v. t.'' [< ''tran-'' for ''trans-'' + ''lace.''] To transpose.\n\n{{smaller block|Here ye see how in the former rime this word life is ''tranlaced'' into liue, liuing, liuely, liuelode.{{right|''Puttenham'', Arte of Eng. Poesie, p. 170.}}}}\n\n'''trannel''' (tran′el), ''n.'' [A var. of ''trunnel'', ult. of ''treenail.''] A treenail.\n\n'''tranquil''' (trang′kwil), ''a.'' [< F. ''tranquille'' = Sp. ''tranquilo'' = Pg. It. ''tranquillo'', < L. ''tranquillus'', quiet, tranquil.] Quiet; calm; undisturbed; not agitated; serene.\n\n{{smaller block|O, now for ever<br>Farewell the ''tranquil'' mind! farewell content!{{right|''Shak.'', Othello, iii. 3. 348.}}}}\n\n='''Syn.''' ''Placid, Serene'', etc. See ''calm''<sup>1</sup>.\n\n'''tranquilization, tranquillization''' (trang″kwil-i-zā′shon), ''n.'' [< ''tranquilize'' + ''-ation.''] The act of tranquilizing, or the state of being tranquilized. Also spelled ''tranquilisation, tranquillisation.''\n\n'''tranquilize, tranquillize''' (trang′kwil-īz), ''v.''; pret. and pp. ''tranquilized, tranquillized'', ppr. ''tranquilizing, tranquillizing.'' [< F. ''tranquilliser'' = Sp. ''tranquilizar'' = Pg. ''tranquillizar'' (cf. It. ''tranquillare'', < L. ''tranquillare''), make tranquil; as ''tranquil'' + ''-ize.''] '''I.''' ''trans.'' To render tranquil or quiet; allay when agitated; compose; make calm or peaceful.\n\n{{smaller block|Religion haunts the imagination of the sinner, instead {{smaller block|of ''tranquillizing'' his heart. {{right|''R. Hall.''}}}}\n\n=Syn. {{smaller|To quiet, still, soothe, calm, lull, hush.}}\n\n'''II.''' ''intrans.'' To become tranquil; also, to exert a quieting or calming effect.\n\n{{smaller block|I'll try as I ride in my chariot to ''tranquilise.''\n{{right|''Richardson'', Clarissa Harlowe, III. lviii.}}}}\n\nAlso spelled ''tranquilise, tranquillise.''\n\n'''tranquilizer, tranquillizer''' (trang′kwil-ī-zėr), ''n.'' [< ''tranquilize'' + ''-er''<sup>1</sup>.] One who or that which tranquilizes. Also spelled ''tranquiliser, tranquilliser.''\n\n'''tranquilizingly, tranquillizingly''' (trang′-kwil-ī-zing-li), ''adv.'' So as to tranquilize.\n\n'''tranquillamente''' (träng-kēl-lä-men′te), ''adv.'' [It., < ''tranquillo'', tranquil: see ''tranquil.''] In ''music'', tranquilly; calmly; in a quiet manner.\n\n'''tranquillity''' (trang-kwil′i̤-ti), ''n.'' [< ME. ''tranquillitee'', < OF. ''tranquillite'', F. ''tranquillité'' = Pr. ''tranquillitat, tranquilitat'' = Sp. ''tranquilidad'' = Pg. ''tranquillidade'' = It. ''tranquillità'', < L. ''tranquillita(t-)s'', tranquilness, < ''tranquillus'', tranquil: see ''tranquil.''] The state or character of being tranquil; quietness; serenity; freedom from disturbance or agitation; calmness.\n\n{{smaller block|Ne ever rests he in ''tranquillity'',\nThe roring billowes beat his bowre so boystrously.\n{{right|''Spenser'', F. Q., III. x. 58.}}}}\n\n{{smaller block|Preserving the ''tranquillity'' of our spirits and the evenness of our temper in the assault of infamy and disreputation. {{right|''Jer. Taylor'', Works (ed. 1835), I. 33.}}}}\n\n{{smaller block|Power dwells apart in its ''tranquillity'',\nRemote, serene, and inaccessible.\n{{right|''Shelley'', Mont Blanc, iv.}}}}\n\n=Syn. {{smaller|''Quiet, Peace'', etc. (see ''rest''<sup>1</sup>), serenity, placidness, calm, stillness.}}\n\n'''tranquillo''' (trän-kwēl′lō), ''a.'' [It., = E. ''tranquil.''] In ''music'', tranquil: noting a passage to be so rendered.\n\n'''tranquilly''' (trang′kwil-li), ''adv.'' [< ''tranquil'' + ''-ly''<sup>2</sup>.] In a tranquil manner; quietly; peacefully.\n\n'''tranquilness''' (trang′kwil-nes), ''n.'' Tranquillity.\n\n'''trans-.''' [= F. ''trans-'', ''tré-'', OF. ''trans-'', ''tres-'' = Sp. Pg. ''trans-'', ''tras-'' = It. ''trans-'', ''tras-'', < L. ''trans-'', prefix, ''trans'', prep., across, over, beyond, on the other side of, in comp. across, over, through, through and through, beyond. Before a consonant the form varies between ''trans-'' and ''tra-'', as in ''transdere'', ''tradere'' (see ''tradition'', ''tray''<sup>3</sup>), ''transducere'', ''traducere'' (see ''traduce''), ''translucere'', ''tralucere'', etc. (see ''tralucent'', ''translucent''); before ''s'', the form commonly becomes ''tran-'', as in ''transcendere'', for ''transscendere'' (see ''transcend''), etc. This prefix appears in E. in other forms, as ''tra-'' in ''traduce'', ''traject'', etc., ''tre-'' in the obs. ''treget'', etc., ''tres-'' in ''trespass'', and reduced or partly absorbed in ''traitor'', ''treason'', ''tray''<sup>3</sup>, ''betray'', etc.] A prefix of Latin origin, meaning ‘across, over, beyond, on the other side of, through,’ as in ''transfer'', ‘carry over,’ ''transfuse'', ‘pour over,’ ''transgress'', ‘pass beyond,’ etc., ''transalpine'', ‘beyond the Alps,’ etc. (in the last use opposed to ''cis-''). {{smaller|Besides its use in numerous English words taken from Latin words with this prefix, it is used to some extent as an English formative, as in ''transdialect'', ''transearth'', ''transpierce'', ''transview'', etc. It is commonly used in its literal sense, but also as implying complete change,}} as in ''transfigure, transform'', etc. ''Trans-'' is also a frequent formative of recent technical words of science, in the concrete sense of 'athwart, across, crosswise, transversely, from side to side,' like ''dia-'' in the same cases: as, ''trans-process'', equivalent to ''transverse process'', or ''diapophysis''; ''transductor, transfrontal, transmedian, transection'', etc.\n\n'''trans.''' An abbreviation of ''transactions, translated'' or ''translator, transpose, transitive'', etc.\n\n'''transact''' (trȧns-akt′), ''v.'' [< L. ''transactus'', pp. of ''transigere'' (> It. ''transigere'' = Sp. Pg. ''transigir''), drive through, carry through, bring to an end, finish, complete, perform, < ''trans'', through, + ''agere'', drive, do: see ''act''. The verb appears to have been suggested by the nouns ''transactor'' and ''transaction''.] '''I.''' ''trans.'' To carry through; perform; conduct; manage; do.\n\n{{smaller block|Which pretences I am content to let alone, if they . . . will but ''transact'' the question wholly by Scripture and common sense.\n{{right|''Jer. Taylor'', Real Presence, § 12.}}}}\n\n{{smaller block|In a country fully stocked in proportion to all the business it had to ''transact'', as great a quantity of stock would be employed in every particular branch as the nature and extent of the trade would admit.\n{{right|''Adam Smith'', Wealth of Nations, i. 9.}}}}\n\n'''II.''' ''intrans.'' To conduct, arrange, or settle matters; deal; treat; negotiate.\n\n{{smaller block|God ''transacts'' with mankind by gentle and paternal measures.\n{{right|''Bp. Parker'', Platonick Philos., p. 52.}}}}\n\n'''transaction''' (trȧns-ak′shon), ''n.'' [< F. ''transaction'' = Pr. ''transactio'' = Sp. ''transaccion'' = Pg. ''transacção'' = It. ''transazione'', < LL. ''transactio(n-)'', a completion, an agreement, < L. ''transigere'', complete, perform, transact: see ''transact.''] 1. The management or settlement of an affair; a doing or performing: as, the ''transaction'' of business.—2. A completed or settled matter or item of business; a matter or affair either completed or in course of completion: as, a ''transaction'' of questionable honesty.\n\n{{smaller block|Indifferent to truth in the ''transactions'' of life, he was honestly devoted to truth in the researches of speculation.\n{{right|''Macaulay'', Machiavelli.}}}}\n\n3. ''pl.'' The reports or publications containing the several papers or abstracts of papers, speeches, discussions, etc., which have been read or delivered at the meetings of certain learned societies. Those of the Royal Society of London are known as the ''Philosophical Transactions.''\n\n{{smaller block|I have delivered him a Copy of the ''Transactions'' of Things that concerned their Company at Rheinsburgh.\n{{right|''Howell'', Letters, I. vi. 8.}}}}\n\n4. In ''civil law'', an adjustment of a dispute between parties by mutual agreement; the extinguishing of an obligation by an agreement by which each party consents to forego part of his claims in order to close the matter finally. {{smaller|It presupposes that each of the parties incurs some loss, otherwise the arrangement rather belongs to the class of donations. ''Amos.''}}—'''Personal transaction.''' {{smaller|See ''personal.''}}\n\n'''transactor''' (trȧns-ak′tor), ''n.'' [< OF. ''transacteur'' = Pg. ''transactor'', < L. ''transactor'', a manager, < transansigere, pp. transactus... first line is continuation, so no ¶.\n\nPronunciation \"trȧns-al′pin\" — the a with dot above (ȧ). \"trȧns-an′din\", \"trȧns-an′i-māt\", \"trȧns-an-i-mā′shon\".\n\nQuote block.\n\n''transigere'', pp. ''transactus'', complete, transact: see ''transact''.] One who transacts, performs, or conducts any business.\n\n'''transalpine''' (trȧns-al′pin), ''a.'' and ''n.'' [< F. ''transalpin'' = Sp. Pg. It. ''transalpino'', < L. ''transalpinus'', < ''trans'', across, + ''Alpes'', Alps, ''Alpinus'', Alpine, of the Alps: see ''Alp''<sup>2</sup>, ''Alpine''.] '''I.''' ''a.'' Being or situated beyond the Alps, especially from Rome: as, ''transalpine'' Gaul: opposed to ''cisalpine''. Compare ''transmontane''.\n\n'''II.''' ''n.'' A native or an inhabitant of a country beyond the Alps, generally with reference to Rome.\n\n'''transandine''' (trȧns-an′din), ''a.'' [< ''trans-'' + ''Andes'' + ''-ine''<sup>1</sup>.] Across the Andes; to or on the other side of the Andes: as, ''transandine'' explorations.\n\n'''transanimate''' (trȧns-an′i-māt), ''v. t.''; pret. and pp. ''transanimated'', ppr. ''transanimating''. [< ''trans-'' + ''animate''.] To animate by the conveyance of a soul to another body. ''Dean King'', Sermon, Nov., 1608. [Rare.]\n\n'''transanimation''' (trȧns-an-i-mā′shon), ''n.'' [= It. ''transanimazione''; as ''transanimate'' + ''-ion''.] Transmigration of the soul; metempsychosis; also, any doctrine or theory of reincarnation (as in the following extract).\n\n{{smaller block|Yf it may be graunted . . . that the spirites of dead men may reuiue in other (after the opinion and ''transanimation'' of Pythagoras), we may thynke that the soule of Archimedes was reuiued in Besson, that excellent Geometer of our tyme.\n{{right|''R. Eden'' (First Books on America, ed. Arber, p. xlvii).}}}}\n\n'''trans-Appalachian''' (trȧns-ap-a̤-lach′i-a̤n), ''a.'' [< ''trans-'' + ''Appalachian.''] Across the Appalachian range of mountains.\n\n{{smaller block|The ''Trans-Appalachian'' movement of Birds.\n{{right|''The Auk'', Jan., 1891, p. 82.}}}}\n\n'''transatlantic''' (trȧns-at-lan′tik), ''a.'' [= F. ''transatlantique'' = Sp. ''transatlántico''; as ''trans-'' + ''Atlantic.''] 1. Lying or being beyond the Atlantic; on the opposite side of the Atlantic from the country of the speaker or writer; specifically, in Europe, American.\n\n{{smaller block|I go to search where, dark and deep,<br>Those ''Trans-atlantic'' treasures sleep.\n{{right|''Scott'', Rokeby, i. 21.}}}}\n\n2. Crossing or passing across the Atlantic: as, a ''transatlantic'' line of steamers.\n\n'''transaudient''' (trȧns-â′di-ẹnt), ''a.'' [< L. ''trans-'', through, + ''audien(t-)s'', ppr. of ''audire'', hear: see ''hearing.''] Permitting the passage of sound. [Rare.]\n\n{{smaller block|There were dwarfs, also, who danced and sang, and many a proprietor regretted the ''transaudient'' properties of canvas, which allowed the frugal public to share in the melody without entering the booth.\n{{right|''Lowell'', Cambridge Thirty Years Ago.}}}}\n\n'''transcalency''' (trȧns-kā′len-si), ''n.'' [< ''transcalen(t)'' + ''-cy.''] The property of being transcalent.\n\n'''transcalent''' (trȧns-kā′lẹnt), ''a.'' [< L. ''trans'', through, + ''calen(t-)s'', ppr. of ''calere'', be warm: see ''calid.''] Pervious to heat; permitting the passage of heat. ''E. Frankland'', Exper. Chem., p. 997.\n\n'''transcend''' (trȧn-send′), ''v.'' [< OF. ''transcender'' = Sp. ''transcender'', ''trascender'' = Pg. ''transcender'' = It. ''transcendere'', ''trascendere'', < L. ''transcendere'', ''transscendere'', climb over, step over, surpass, transcend, < ''trans'', over, + ''scandere'', climb: see ''scan.'' Cf. ''ascend'', ''descend''.] '''I.''' ''trans.'' '''1†.''' To climb over or up; ascend; mount; reach or extend upward to.\n\n{{smaller block|The shore let her ''transcend'', the promont to descry.\n{{right|''Drayton'', Polyolbion, i. 71.}}}}\n\n{{smaller block|It will be thought a thing ridiculous . . .\n. . . that any poet, void\nOf birth, or wealth, or temporal dignity,\nShould with decorum ''transcend'' Cæsar's chair.\n{{right|''B. Jonson'', Poetaster, v. 1.}}}}\n\n{{smaller block|Make disquisition whether these unusual lights be meteorological impressions not ''transcending'' the upper region, or whether to be ranked among celestial bodies.\n{{right|''Howell.'' (''Latham.'')}}}}\n\n'''2.''' To pass over; go beyond; overpass; overstep.\n\n{{smaller block|It is a dangerous opinion to such popes as shall ''transcend'' their limits and become tyrannical.\n{{right|''Bacon.''}}}}\n\n{{smaller block|The great will see that true love cannot be unrequited. True love ''transcends'' the unworthy object.\n{{right|''Emerson'', Friendship, p. 206.}}}}\n\n{{smaller block|We may indeed require rigid proof of whatever ''transcends'' our experience, but it is not only Orientals who say that \"With God all things are possible.\"\n{{right|''J. R. Seeley'', Nat. Religion, p. 77.}}}}\n\n'''3.''' To surpass; outdo; excel; exceed.\n\n{{smaller block|Secret scorching flames,\nThat far ''transcend'' earthly material fires,\nAre crept into me, and there is no cure.\n{{right|''Beau. and Fl.'', King and No King, iii. 3.}}}}\n\n{{smaller block|High though her wit, yet humble was her mind;\nAs if she could not or she would not find\nHow much her worth ''transcended'' all her kind.\n{{right|''Dryden'', Epitaph for Monument of a Lady at Bath.}}}}\n\n'''4†.''' To cause to climb or pass; lift; elevate. {{smaller block|To that People thou a Law hast giv'n<br>Which from grosse earth ''transcendeth'' them to heav'n.\n{{right|''Heywood'', Hierarchy of Angels, p. 530.}}}}\n\n=Syn. 2. To overstep.—3. To outstrip, outdo.\n\nII. ''intrans.'' 1†. To climb; mount; pass upward or onward.\n\n{{smaller block|But to conclude an impossibility from a difficulty, or affirm whereas things not easily sink they do not drown at all, besides the fallacy, is a frequent addition in human expression, and an amplification not unusual as well in opinions as relations; which oftentimes give indistinct accounts of proximities, and without restraint ''transcend'' from one another.\n{{right|''Sir T. Browne'', Vulg. Err., vii. 15.}}}}\n\n2. To be transcendent; excel.\n\n'''transcendant†''', ''a.'' An obsolete form of ''transcendent.''\n\n'''transcendence''' (trȧn-sen′dens), ''n.'' [= F. ''transcendance'' = Sp. ''transcendencia'', ''trascendencia'' = Pg. ''transcendencia'' = It. ''transcendenza'', ''trascendenza'', < LL. ''transcendentia'', < L. ''transcenden(t-)s'', transcendent: see ''transcendent.''] The character of being transcendent; elevation; loftiness; exaggeration.\n\n{{smaller block|In a most weak and debile minister, great power, great ''transcendence.''\n{{right|''Shak.'', All's Well, ii. 3. 40.}}}}\n\n'''transcendency''' (trȧn-sen′den-si), ''n.'' [As ''transcendence'' (see ''-cy'').] Same as ''transcendence.''\n\n{{smaller block|\"It is true greatness to have in one the frailty of a man and the security of a God;\" . . . this would have done better in poesy, where ''transcendencies'' are more allowed.\n{{right|''Bacon'', Adversity (ed. 1887).}}}}\n\n'''transcendent''' (trȧn-sen′dent), ''a.'' and ''n.'' [Formerly also ''transcendant;'' < OF. (and F.) ''transcendant'' = Pr. ''trenscendant'' = Sp. ''transcendente'',<noinclude><references/></noinclude>"
+}

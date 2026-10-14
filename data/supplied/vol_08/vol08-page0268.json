@@ -1,0 +1,351 @@
+{
+ "volume": 8,
+ "page_number": 268,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n267.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n267.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-13",
+  "angle": 0.0,
+  "column_width": 838,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     119,
+     59,
+     2436,
+     96
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     119,
+     96,
+     853,
+     1185
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     119,
+     1185,
+     853,
+     1689
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     119,
+     1696,
+     853,
+     1752
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     119,
+     1752,
+     853,
+     2736
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     605,
+     2753,
+     853,
+     3176
+    ]
+   },
+   {
+    "name": "c1c2",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     605,
+     3183,
+     853,
+     3207
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     119,
+     2736,
+     605,
+     3207
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     853,
+     96,
+     1598,
+     454
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1386,
+     462,
+     1598,
+     605
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     1386,
+     611,
+     1598,
+     633
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     853,
+     454,
+     1386,
+     633
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     853,
+     633,
+     1598,
+     1605
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     853,
+     1605,
+     1598,
+     2406
+    ]
+   },
+   {
+    "name": "c2s5",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     853,
+     2406,
+     1598,
+     3216
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1598,
+     96,
+     2436,
+     851
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1598,
+     851,
+     2436,
+     1788
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1598,
+     1788,
+     2436,
+     2507
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1598,
+     2507,
+     2436,
+     3216
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|triangle|6464|Triassic}}",
+   "c1s1": "bounded above by the lower margin of the lower jaw, and on its other two sides by the digastric muscle. See cut under ''muscle''<sup>1</sup>.—'''Suboccipital triangle''', a triangle on the surface of the neck bounded by the anterior border of the trapezius, the sternocleidomastoid, and the omohyoid muscle. See cut under ''muscle''<sup>1</sup>.—'''Superior carotid triangle''', a triangle on the surface of the neck bounded by the sternocleidomastoid, omohyoid, and digastric muscles. Also called ''triangle of election'', with reference to facilities afforded for tying the carotid. See cut under ''muscle''<sup>1</sup>.—'''Supplemental triangle''', a spherical triangle formed by joining the poles of three great circles.—'''Surgical triangle''', a triangular space, area, or region containing important vessels and nerves which may require to be operated upon: chiefly said of several such regions of the neck.—'''Triangle of election''', in ''surg.'', same as ''superior carotid triangle''.—'''Triangle of forces''', a name given to the proposition in statics which asserts that, if three forces meeting at a point in one plane be in equilibrium, and if on that plane any three mutually intersecting lines be drawn parallel to the directions of the three forces, a triangle will be formed the lengths of whose sides will be proportional to the magnitudes of the forces.—'''Triangle of Hesselbach.''' See ''Hesselbachian triangle''.—'''Triangle of necessity''', in ''surg.'', the inferior carotid triangle, where the artery must be tied, if there be no room for choice or election.—'''Triangle of Petit''', a triangular space in the lateral wall of the abdomen, bounded below by the crest of the ilium and laterally by the obliquus externus and latissimus dorsi muscles.—'''Triangle of reference.''' Same as ''fundamental triangle''.—'''Triangles in cross''', in ''her.'', a bearing consisting of a number of triangles arranged in a cross, the number being specified in the blazon. Also called ''cross of triangles''.—'''Triangles of the neck''', certain triangular spaces or areas on each side of the neck, bounded by several muscles, notably the sternocleidomastoid, omohyoid, and digastricus, and by the collar-bone and lower jaw-bone, and containing important vessels and nerves which may require to be operated upon. The sides of all these triangles are the natural landmarks in the topographical anatomy of the neck.—'''Triangle spider''', a spider, as ''Hyptiotes cavatus'', which spins a triangu-",
+   "c1c1": "{{c|Triangle Spider (''Hyptiotes cavatus'').<br>(Spider five times natural size, web one third natural size.)}}",
+   "c1s2": "{{smaller|lar web in trees, which it sets like a net, capable of being sprung upon its prey by letting go one of the elastic threads which the spider holds.—'''Vertical triangle''', in ''entom.'', a triangular space on the vertex, formed by the eyes when they meet in front, as in many ''Diptera''.—'''Vesical triangle''', the trigonum of the bladder.}}\n\n¶\n'''triangled''' (trī′ang-gld), ''a.'' [< ''triangle'' + ''-ed''<sup>2</sup>.] 1. Having three angles; having the form of a triangle; also, belonging to or situated in a triangle.\n\n{{smaller block|The forme or situation of this Citty is like vnto a Triangle. . . . In one of these ''triangled'' points . . . standeth the Pallace of the Great Turke, called Seralia.\n{{right|''W. Lithgow'', Travels, iv.}}}}\n\n2. In ''her.'', divided into triangles: noting the field, and equivalent to ''barry bendy dexter and sinister'', or ''paly bendy dexter and sinister''.\n\n'''triangular''' (trī-ang′gū-lär), ''a.'' [= F. ''triangulaire'' = Pr. ''triangular'' = Sp. Pg. ''triangular'' = It. ''triangolare'', < LL. ''triangularis'', < L. ''triangulus'', three-cornered, ''triangulum'', a triangle: see ''triangle''.] 1. Of or pertaining to a triangle; consisting of a triangle.—2. Three-cornered and three-sided; included within three sides and angles: as, a ''triangular'' plot of ground; a ''triangular'' building. {{smaller|Specifically, in ''bot.'' and ''zoöl.'': (''a'') Flat or lamellar and having three sides: as, a ''triangular'' leaf. (''b'') Having three lateral faces and edges; triangular in cross-section; trihedral: as, a ''triangular'' stem, seed, or column.}}\n\n3. Hence, of or pertaining to three independent things; three-sided as regards elements, inter-",
+   "c1c2": "{{c|Triangular Compass.}}",
+   "c1s3": "ests, or parties: as, a ''triangular'' treaty.\n\n{{smaller block|The same ''triangular'' contest between the three Henrys and their partizans.\n{{right|''Motley'', Hist. Netherlands, II. 135.}}}}\n\n4 In ''her.'', represented as solid and three-sided: thus, a ''triangular'' pyramid or a ''triangular'' pyramid reversed is a point or a pile which is divided by a line indicating a projecting edge, and is treated as if a solid seen in perspective.—'''Triangular compass''', a compass",
+   "c2s1": "having three legs, two opening in the usual manner, and the third turning round an extension of the central pin of the other two, besides having a motion on its own central joint. By means of this instrument any triangle or any three points may be taken off at once.—'''Triangular coördinates.''' See ''coördinate.''—'''Triangular crab''', any maioid, whose carapace is more or less triangular. See ''Triangulares.''—'''Triangular fascia''', a thin triangular fibrous band reflected upward and inward beneath the spermatic cord from the attachment of Gimbernat's ligament on the linea iliopectinæa to the linea alba. Also called ''triangular ligament.''—'''Triangular fibrocartilage, file, fret.''' See the nouns.—'''Triangular level''', a light frame in the shape of the letter A,",
+   "c2c1": "{{c|Triangular Level.}}",
+   "c2s2": "and having a plumb-line which determines verticality.—'''Triangular ligament.''' (''a'') Same as ''triangular fascia.'' (''b'') A dense fibrous membrane stretched across the subpubic arch on the deep surface of the crura of the penis and the bulb of the urethra. Also called ''deep''",
+   "c2s3": "{{smaller|''perineal'' or ''subpubic fascia.''—'''Triangular numbers''', the series of figurate numbers which consists of the successive sums of the terms of an arithmetical series whose first term is 1 and the common difference 1. Thus, 1, 3, 6, 10, 15, 21, 28, etc., are triangular numbers. They are so called because the number of points expressed by any one of them may be arranged in the form of an equilateral triangle.—'''Triangular plexus.''' See ''plexus.''—'''Triangular pyramid''', a pyramid whose base is a triangle, its sides consisting of three triangles which meet in a point called its vertex.—'''Triangular scale.''' See ''scale''<sup>3</sup>.}}\n\n'''triangulare''' (trī-ang-gụ̄-lā′rē), ''n.''; pl. ''triangularia'' (-ri-ä). [NL. (sc. ''os'', bone), neut. of L. ''triangularis'': see ''triangular.''] A peculiar bone of the tarsus of some animals, as ''Cryptoprocta ferox'': more fully called ''triangulare tarsi. Bardeleben.''\n\n'''Triangulares''' (trī-ang-gụ̄-lā′rēz), ''n. pl.'' [NL., pl. of L. ''triangularis'': see ''triangular.''] A group of crabs, the maioids or spider-crabs, of more or less triangular figure. See cuts under ''Oxyrhyncha'', ''Leptopodius'', and ''spider-crab.''\n\n'''triangularis''' (trī-ang-gụ̄-lā′ris), ''n.''; pl. ''triangulares'' (-rēz). [NL. (sc. ''musculus'', muscle): see ''triangular.''] In ''anat.'': (''a'') A triangular muscle of the thorax, on the inner surface of the front of the chest, under the sternum and parts of several ribs: more fully called ''triangularis sterni.'' Also ''sternocostalis.'' (''b'') The triangular muscle of the chin; the depressor anguli oris: more fully called ''triangularis menti.'' See cut under ''muscle''<sup>1</sup>.",
+   "c2s4": "¶\n'''triangularity''' (trī-ang-gū-lar′i-ti), ''n.'' [< ''triangular'' + ''-ity.''] The state or condition of being triangular; triangular form.\n\n'''triangularly''' (trī-ang′gū-lär-li), ''adv.'' In a triangular manner; after the form of a triangle.\n\n'''triangulary†''' (trī-ang′gū-lā-ri), ''a.'' [< L. ''triangularis'', three-cornered: see ''triangular.''] Triangular.\n\n{{smaller block|Lifting up in the upper part of the skull the two ''triangulary'' bones called sincipital.\n{{right|''Urquhart'', tr. of Rabelais, i. 45.}}}}\n\n'''triangulate''' (trī-ang′gū-lāt), ''v. t.''; pret. and pp. ''triangulated'', ppr. ''triangulating.'' [< NL. ''*triangulatus'', pp. of ''*triangulare'', < L. ''triangulus'', three-cornered, triangular: see ''triangle.''] '''1.''' To make three-cornered or triangular. ''Imp. Dict.'' —'''2.''' In ''surv.'', to divide into triangles; survey by dividing into triangles of which the sides and angles are measured.—'''3.''' To determine or observe trigonometrically; study by means of triangulation: as, to ''triangulate'' the height of a mountain.\n\n{{smaller block|Before each shot flag signals were exchanged with observers on shore, who ''triangulated'' the range.\n{{right|''Sci. Amer.'', N. S., LVII. 214.}}}}",
+   "c2s5": "¶\n'''triangulate''' (trī-ang′gụ̄-lāt), ''a.'' [< NL. *''triangulatus'': see the verb.] In ''zoöl.'', composed of or marked with triangles. {{smaller|A ''triangulate bar'' is generally formed of triangles with their bases together, so that the angles touch and sometimes coalesce; it is a form of ornamentation common on the wings of ''Lepidoptera.''}}\n\n'''triangulately''' (trī-ang′gụ̄-lāt-li), ''adv.'' In ''zoöl.'', so as to form triangles: as, a margin or surface marked ''triangulately'' with black—that is, having triangular black marks.\n\n'''triangulation''' (trī-ang-gụ̄-lā′shọn), ''n.'' [= F. ''triangulation''; as ''triangulate'' + ''-ion.''] 1. A making triangular; formation into triangles.—2. The operation and immediate result of measuring (ordinarily with a theodolite) the angles of a network of triangles laid out on the earth's surface by marking their vertices.\n\n{{smaller block|The triangulation usually proceeds from a base-line, the measurement of which is necessary, though no part of the triangulation proper. The geographical positions of the extremities of this base having been ascertained, and the triangulation, or operation of measuring the angles, having been completed, by trigonometrical calculations called the ''reduction of the triangulation'' (commonly involving a process of distributing the errors by least squares, called the ''adjustment of the triangulation'') the geographical positions of all the other vertices are calculated, assuming the figure of the earth to be known. By the combination of}}",
+   "c3s1": "{{smaller|the triangulations of different countries the figure of the earth is ascertained. See cut under ''base-line.''}}\n\n'''triangulator''' (trī-ang′gū-lā-tọr), ''n.'' [< ''triangulate'' + ''-or''<sup>1</sup>.] One who performs the work of triangulation in a trigonometrical survey.\n\n'''trianguloid''' (trī-ang′gū-loid), ''a.'' [< L. ''triangulum'', a triangle, + Gr. εἶδος, form.] Somewhat triangular in shape.\n\n{{smaller block|A ''trianguloid'' space.\n{{right|''H. Spencer.'' (''Imp. Dict.'')}}}}\n\n'''Triangulum''' (trī-ang′gū-lum), ''n.'' [L.: see ''triangle.''] An ancient northern constellation in the form of the letter delta (Δ). It has one star of the third magnitude.—{{smaller|'''Triangulum Australe''' (the Southern Triangle), a southern constellation, added by Petrus Theodori in the fifteenth century, south of Ara. It contains one star of the second and two of the third magnitude.—'''Triangulum Minus''' (the Lesser Triangle), a constellation introduced by Hevelius in 1690, immediately south of Triangulum. It is no longer in use.}}\n\n'''triantelope, triantulope''' (trī-an′tē-lōp, -tū-lōp), ''n.'' [A corruption of ''tarantula'', simulating ''antelope.''] A tarantula. [Australia.]\n\n{{smaller block|Tarantulas, or large spiders (as the bushmen call them, ''triantulopes''), . . . come crawling down the sides of the tent in wet weather.}}",
+   "c3s2": "{{smaller block|{{right|''Bush Wanderings of a Naturalist'', p. 208.}}}}\n\n'''Trianthema''' (trī-an-thē′mä), ''n.'' [NL. (Linnæus, 1753), < Gr. τρεῖς (τρι-), three, + ἄνθημα, a flowering, < ἀνθεῖν, flower, < ἄνθος, a flower.] A genus of plants, of the order ''Ficoideæ'' and tribe ''Aizoideæ''. {{smaller|It is distinguished from the related genus ''Sesuvium'' by its stipulate leaves, and ovary with one or two cells. There are 12 species, scattered through warm parts of Asia, Africa, and Australia, with one American species, ''T. monogynum'', native from Cuba to Venezuela and the Galapagos Islands. They are usually diffuse prostrate herbs, with opposite, unequal, entire leaves, and two-bracted flowers without petals, but with the five calyx-lobes colored within. ''T. monogynum'' is known in Jamaica as ''horse-purslane''.}}\n\n'''trianthous''' (trī-an′thus), ''a.'' [< Gr. τρεῖς (τρι-), three, + ἄνθος, a flower.] In ''bot.'', three-flowered.\n\n'''triantulope''', ''n.'' See ''triantelope''.\n\n'''triapsal''' (trī-ap′sal), ''a.'' [< L. ''tres'' (''tri-''), three, + ''apsis'', apse, + ''-al''.] Same as ''triapsidal''.\n\n{{smaller block|There is, so far as I know, only one ''triapsal'' church, that of St. Croix at Mont Majour near Arles.\n{{right|''J. Fergusson'', Hist. Arch., I. 462.}}}}\n\n'''triapsidal''' (trī-ap′si-dal), ''a.'' [< L. ''tres'' (''tri-''), three, + ''apsis'' (''apsid-''), apse, + ''-al''.] Having three apses; subdivided into three apses; characterized by a triple arrangement of the apse, as most Greek churches.\n\n{{smaller block|The arrangement of the ''triapsidal'' basilica is perfect.\n{{right|''E. A. Freeman'', Venice, p. 131.}}}}",
+   "c3s3": "¶\n'''triarch''' (trī′ärk), ''a.'' [< Gr. τρίαρχος, having three rulers, fig. having three branches, as a horn, < τρεῖς (τρι-), three, + ἀρχός, ruler.] In ''bot.'', noting radial fibrovascular bundles having three rays. ''Bastin.''\n\n'''triarchée''' (trī-är′chē), ''a.'' [Heraldic F., as ''tri-'' + ''arch'' + ''-ee''<sup>1</sup>.] In ''her.'', treble-arched; having three arches: noting a bridge or the like.\n\n'''triarchy''' (trī′är-ki), ''n.''; pl. ''triarchies'' (-kiz). [< Gr. τριαρχία, government by three, a triumvirate, < τρεῖς (τρι-), three, + ἄρχειν, rule.] Rule by three persons; a three-headed government.\n\n{{smaller block|She [the rational soul] issueth forth her commands, and, dividing her empire into a ''triarchy'', she governs by three viceroys, the three faculties.\n{{right|''Howell'', Parly of Beasts, p. 143. (''Davies.'')}}}}\n\n'''triarian''' (trī-ā′ri-a̤n), ''a.'' [< L. ''triarii'', soldiers of the third rank or class (< ''tres'', ''tri-'', three), + ''-an''.] Occupying the third post or place in an array.\n\n{{smaller block|Let the brave Second and ''Triarian'' band\nFirm against all impression stand.\n{{right|''Cowley'', Restoration of K. Charles II.}}}}",
+   "c3s4": "¶\n'''triarticulate''' (trī-är-tik′ū-lāt), ''a.'' [< L. ''tres'' (''tri-''), three, + ''articulatus'', jointed: see ''articulate''.] In ''zoöl.'' and ''anat.'', composed of three joints or articles: as, a ''triarticulate'' palpus; our fingers are ''triarticulate''. Also ''triarticulated''.\n\n'''trias''' (trī′as), ''n.'' [NL., < LL. ''trias'', < Gr. τριάς, the number three: see ''triad''.] '''1.''' In ''music'', same as ''triad'', 3.—'''2.''' [''cap.''] In ''geol.'', same as ''Triassic''.—'''3.''' [''cap.''] In ''German hist.'', a name sometimes given to the old German empire, reckoned as consisting of three coördinate parts—Austria, Prussia, and the group of smaller states.\n\n'''Triassic''' (trī-as′ik), ''a.'' and ''n.'' [= F. ''triasique'' = Sp. ''triásico''; as ''trias'' + ''-ic''.] In ''geol.'', the lower of the three great divisions of the entire system of fossiliferous rocks (Triassic, Jurassic, Cretaceous) which together make up the Mesozoic or Secondary series. {{smaller|The Triassic lies above the Permian, and beneath the Jurassic. The threefold subdivision from which the Triassic derives its name is best seen in central Europe, and especially in northern Germany, where the bunter-sandstein, muschelkalk, and}}"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0268 c1f1.png",
+   "c1f2": "century v08 p0268 c1f2.png",
+   "c2f1": "century v08 p0268 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1396,
+     462,
+     1598,
+     604
+    ],
+    "caption": [
+     1408,
+     611,
+     1596,
+     633
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1308,
+     464,
+     1596,
+     628
+    ]
+   },
+   {
+    "box": [
+     149,
+     1184,
+     823,
+     1686
+    ],
+    "caption": [
+     179,
+     1696,
+     789,
+     1752
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     221,
+     1138,
+     873,
+     1697
+    ]
+   },
+   {
+    "box": [
+     615,
+     2753,
+     835,
+     3175
+    ],
+    "caption": [
+     617,
+     3183,
+     835,
+     3207
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     552,
+     2811,
+     866,
+     3178
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    2,
+    0
+   ],
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 4,
+    "input_tokens": 6602,
+    "output_tokens": 235,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 16,
+    "input_tokens": 9368,
+    "output_tokens": 9157,
+    "cache_creation_input_tokens": 2714,
+    "cache_read_input_tokens": 40710
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|triangle|6464|Triassic}}</noinclude>bounded above by the lower margin of the lower jaw, and on its other two sides by the digastric muscle. See cut under ''muscle''<sup>1</sup>.—'''Suboccipital triangle''', a triangle on the surface of the neck bounded by the anterior border of the trapezius, the sternocleidomastoid, and the omohyoid muscle. See cut under ''muscle''<sup>1</sup>.—'''Superior carotid triangle''', a triangle on the surface of the neck bounded by the sternocleidomastoid, omohyoid, and digastric muscles. Also called ''triangle of election'', with reference to facilities afforded for tying the carotid. See cut under ''muscle''<sup>1</sup>.—'''Supplemental triangle''', a spherical triangle formed by joining the poles of three great circles.—'''Surgical triangle''', a triangular space, area, or region containing important vessels and nerves which may require to be operated upon: chiefly said of several such regions of the neck.—'''Triangle of election''', in ''surg.'', same as ''superior carotid triangle''.—'''Triangle of forces''', a name given to the proposition in statics which asserts that, if three forces meeting at a point in one plane be in equilibrium, and if on that plane any three mutually intersecting lines be drawn parallel to the directions of the three forces, a triangle will be formed the lengths of whose sides will be proportional to the magnitudes of the forces.—'''Triangle of Hesselbach.''' See ''Hesselbachian triangle''.—'''Triangle of necessity''', in ''surg.'', the inferior carotid triangle, where the artery must be tied, if there be no room for choice or election.—'''Triangle of Petit''', a triangular space in the lateral wall of the abdomen, bounded below by the crest of the ilium and laterally by the obliquus externus and latissimus dorsi muscles.—'''Triangle of reference.''' Same as ''fundamental triangle''.—'''Triangles in cross''', in ''her.'', a bearing consisting of a number of triangles arranged in a cross, the number being specified in the blazon. Also called ''cross of triangles''.—'''Triangles of the neck''', certain triangular spaces or areas on each side of the neck, bounded by several muscles, notably the sternocleidomastoid, omohyoid, and digastricus, and by the collar-bone and lower jaw-bone, and containing important vessels and nerves which may require to be operated upon. The sides of all these triangles are the natural landmarks in the topographical anatomy of the neck.—'''Triangle spider''', a spider, as ''Hyptiotes cavatus'', which spins a triangu{{smaller|lar web in trees, which it sets like a net, capable of being sprung upon its prey by letting go one of the elastic threads which the spider holds.—'''Vertical triangle''', in ''entom.'', a triangular space on the vertex, formed by the eyes when they meet in front, as in many ''Diptera''.—'''Vesical triangle''', the trigonum of the bladder.}}\n\n[[File:century v08 p0268 c1f1.png|center|315px]]\n{{c|Triangle Spider (''Hyptiotes cavatus'').<br>(Spider five times natural size, web one third natural size.)}}\n\n¶\n'''triangled''' (trī′ang-gld), ''a.'' [< ''triangle'' + ''-ed''<sup>2</sup>.] 1. Having three angles; having the form of a triangle; also, belonging to or situated in a triangle.\n\n{{smaller block|The forme or situation of this Citty is like vnto a Triangle. . . . In one of these ''triangled'' points . . . standeth the Pallace of the Great Turke, called Seralia.\n{{right|''W. Lithgow'', Travels, iv.}}}}\n\n2. In ''her.'', divided into triangles: noting the field, and equivalent to ''barry bendy dexter and sinister'', or ''paly bendy dexter and sinister''.\n\n'''triangular''' (trī-ang′gū-lär), ''a.'' [= F. ''triangulaire'' = Pr. ''triangular'' = Sp. Pg. ''triangular'' = It. ''triangolare'', < LL. ''triangularis'', < L. ''triangulus'', three-cornered, ''triangulum'', a triangle: see ''triangle''.] 1. Of or pertaining to a triangle; consisting of a triangle.—2. Three-cornered and three-sided; included within three sides and angles: as, a ''triangular'' plot of ground; a ''triangular'' building. {{smaller|Specifically, in ''bot.'' and ''zoöl.'': (''a'') Flat or lamellar and having three sides: as, a ''triangular'' leaf. (''b'') Having three lateral faces and edges; triangular in cross-section; trihedral: as, a ''triangular'' stem, seed, or column.}}\n\n3. Hence, of or pertaining to three independent things; three-sided as regards elements, interests, or parties: as, a ''triangular'' treaty.\n\n[[File:century v08 p0268 c1f2.png|center|107px]]\n{{c|Triangular Compass.}}\n\n{{smaller block|The same ''triangular'' contest between the three Henrys and their partizans.\n{{right|''Motley'', Hist. Netherlands, II. 135.}}}}\n\n4 In ''her.'', represented as solid and three-sided: thus, a ''triangular'' pyramid or a ''triangular'' pyramid reversed is a point or a pile which is divided by a line indicating a projecting edge, and is treated as if a solid seen in perspective.—'''Triangular compass''', a compass having three legs, two opening in the usual manner, and the third turning round an extension of the central pin of the other two, besides having a motion on its own central joint. By means of this instrument any triangle or any three points may be taken off at once.—'''Triangular coördinates.''' See ''coördinate.''—'''Triangular crab''', any maioid, whose carapace is more or less triangular. See ''Triangulares.''—'''Triangular fascia''', a thin triangular fibrous band reflected upward and inward beneath the spermatic cord from the attachment of Gimbernat's ligament on the linea iliopectinæa to the linea alba. Also called ''triangular ligament.''—'''Triangular fibrocartilage, file, fret.''' See the nouns.—'''Triangular level''', a light frame in the shape of the letter A, and having a plumb-line which determines verticality.—'''Triangular ligament.''' (''a'') Same as ''triangular fascia.'' (''b'') A dense fibrous membrane stretched across the subpubic arch on the deep surface of the crura of the penis and the bulb of the urethra. Also called ''deep'' {{smaller|''perineal'' or ''subpubic fascia.''—'''Triangular numbers''', the series of figurate numbers which consists of the successive sums of the terms of an arithmetical series whose first term is 1 and the common difference 1. Thus, 1, 3, 6, 10, 15, 21, 28, etc., are triangular numbers. They are so called because the number of points expressed by any one of them may be arranged in the form of an equilateral triangle.—'''Triangular plexus.''' See ''plexus.''—'''Triangular pyramid''', a pyramid whose base is a triangle, its sides consisting of three triangles which meet in a point called its vertex.—'''Triangular scale.''' See ''scale''<sup>3</sup>.}}\n\n[[File:century v08 p0268 c2f1.png|center|91px]]\n{{c|Triangular Level.}}\n\n'''triangulare''' (trī-ang-gụ̄-lā′rē), ''n.''; pl. ''triangularia'' (-ri-ä). [NL. (sc. ''os'', bone), neut. of L. ''triangularis'': see ''triangular.''] A peculiar bone of the tarsus of some animals, as ''Cryptoprocta ferox'': more fully called ''triangulare tarsi. Bardeleben.''\n\n'''Triangulares''' (trī-ang-gụ̄-lā′rēz), ''n. pl.'' [NL., pl. of L. ''triangularis'': see ''triangular.''] A group of crabs, the maioids or spider-crabs, of more or less triangular figure. See cuts under ''Oxyrhyncha'', ''Leptopodius'', and ''spider-crab.''\n\n'''triangularis''' (trī-ang-gụ̄-lā′ris), ''n.''; pl. ''triangulares'' (-rēz). [NL. (sc. ''musculus'', muscle): see ''triangular.''] In ''anat.'': (''a'') A triangular muscle of the thorax, on the inner surface of the front of the chest, under the sternum and parts of several ribs: more fully called ''triangularis sterni.'' Also ''sternocostalis.'' (''b'') The triangular muscle of the chin; the depressor anguli oris: more fully called ''triangularis menti.'' See cut under ''muscle''<sup>1</sup>.\n\n'''triangularity''' (trī-ang-gū-lar′i-ti), ''n.'' [< ''triangular'' + ''-ity.''] The state or condition of being triangular; triangular form.\n\n'''triangularly''' (trī-ang′gū-lär-li), ''adv.'' In a triangular manner; after the form of a triangle.\n\n'''triangulary†''' (trī-ang′gū-lā-ri), ''a.'' [< L. ''triangularis'', three-cornered: see ''triangular.''] Triangular.\n\n{{smaller block|Lifting up in the upper part of the skull the two ''triangulary'' bones called sincipital.\n{{right|''Urquhart'', tr. of Rabelais, i. 45.}}}}\n\n'''triangulate''' (trī-ang′gū-lāt), ''v. t.''; pret. and pp. ''triangulated'', ppr. ''triangulating.'' [< NL. ''*triangulatus'', pp. of ''*triangulare'', < L. ''triangulus'', three-cornered, triangular: see ''triangle.''] '''1.''' To make three-cornered or triangular. ''Imp. Dict.'' —'''2.''' In ''surv.'', to divide into triangles; survey by dividing into triangles of which the sides and angles are measured.—'''3.''' To determine or observe trigonometrically; study by means of triangulation: as, to ''triangulate'' the height of a mountain.\n\n{{smaller block|Before each shot flag signals were exchanged with observers on shore, who ''triangulated'' the range.\n{{right|''Sci. Amer.'', N. S., LVII. 214.}}}}\n\n'''triangulate''' (trī-ang′gụ̄-lāt), ''a.'' [< NL. *''triangulatus'': see the verb.] In ''zoöl.'', composed of or marked with triangles. {{smaller|A ''triangulate bar'' is generally formed of triangles with their bases together, so that the angles touch and sometimes coalesce; it is a form of ornamentation common on the wings of ''Lepidoptera.''}}\n\n'''triangulately''' (trī-ang′gụ̄-lāt-li), ''adv.'' In ''zoöl.'', so as to form triangles: as, a margin or surface marked ''triangulately'' with black—that is, having triangular black marks.\n\n'''triangulation''' (trī-ang-gụ̄-lā′shọn), ''n.'' [= F. ''triangulation''; as ''triangulate'' + ''-ion.''] 1. A making triangular; formation into triangles.—2. The operation and immediate result of measuring (ordinarily with a theodolite) the angles of a network of triangles laid out on the earth's surface by marking their vertices.\n\n{{smaller block|The triangulation usually proceeds from a base-line, the measurement of which is necessary, though no part of the triangulation proper. The geographical positions of the extremities of this base having been ascertained, and the triangulation, or operation of measuring the angles, having been completed, by trigonometrical calculations called the ''reduction of the triangulation'' (commonly involving a process of distributing the errors by least squares, called the ''adjustment of the triangulation'') the geographical positions of all the other vertices are calculated, assuming the figure of the earth to be known. By the combination of the triangulations of different countries the figure of the earth is ascertained. See cut under ''base-line.''}}\n\n'''triangulator''' (trī-ang′gū-lā-tọr), ''n.'' [< ''triangulate'' + ''-or''<sup>1</sup>.] One who performs the work of triangulation in a trigonometrical survey.\n\n'''trianguloid''' (trī-ang′gū-loid), ''a.'' [< L. ''triangulum'', a triangle, + Gr. εἶδος, form.] Somewhat triangular in shape.\n\n{{smaller block|A ''trianguloid'' space.\n{{right|''H. Spencer.'' (''Imp. Dict.'')}}}}\n\n'''Triangulum''' (trī-ang′gū-lum), ''n.'' [L.: see ''triangle.''] An ancient northern constellation in the form of the letter delta (Δ). It has one star of the third magnitude.—{{smaller|'''Triangulum Australe''' (the Southern Triangle), a southern constellation, added by Petrus Theodori in the fifteenth century, south of Ara. It contains one star of the second and two of the third magnitude.—'''Triangulum Minus''' (the Lesser Triangle), a constellation introduced by Hevelius in 1690, immediately south of Triangulum. It is no longer in use.}}\n\n'''triantelope, triantulope''' (trī-an′tē-lōp, -tū-lōp), ''n.'' [A corruption of ''tarantula'', simulating ''antelope.''] A tarantula. [Australia.]\n\n{{smaller block|Tarantulas, or large spiders (as the bushmen call them, ''triantulopes''), . . . come crawling down the sides of the tent in wet weather. {{right|''Bush Wanderings of a Naturalist'', p. 208.}}}}\n\n'''Trianthema''' (trī-an-thē′mä), ''n.'' [NL. (Linnæus, 1753), < Gr. τρεῖς (τρι-), three, + ἄνθημα, a flowering, < ἀνθεῖν, flower, < ἄνθος, a flower.] A genus of plants, of the order ''Ficoideæ'' and tribe ''Aizoideæ''. {{smaller|It is distinguished from the related genus ''Sesuvium'' by its stipulate leaves, and ovary with one or two cells. There are 12 species, scattered through warm parts of Asia, Africa, and Australia, with one American species, ''T. monogynum'', native from Cuba to Venezuela and the Galapagos Islands. They are usually diffuse prostrate herbs, with opposite, unequal, entire leaves, and two-bracted flowers without petals, but with the five calyx-lobes colored within. ''T. monogynum'' is known in Jamaica as ''horse-purslane''.}}\n\n'''trianthous''' (trī-an′thus), ''a.'' [< Gr. τρεῖς (τρι-), three, + ἄνθος, a flower.] In ''bot.'', three-flowered.\n\n'''triantulope''', ''n.'' See ''triantelope''.\n\n'''triapsal''' (trī-ap′sal), ''a.'' [< L. ''tres'' (''tri-''), three, + ''apsis'', apse, + ''-al''.] Same as ''triapsidal''.\n\n{{smaller block|There is, so far as I know, only one ''triapsal'' church, that of St. Croix at Mont Majour near Arles.\n{{right|''J. Fergusson'', Hist. Arch., I. 462.}}}}\n\n'''triapsidal''' (trī-ap′si-dal), ''a.'' [< L. ''tres'' (''tri-''), three, + ''apsis'' (''apsid-''), apse, + ''-al''.] Having three apses; subdivided into three apses; characterized by a triple arrangement of the apse, as most Greek churches.\n\n{{smaller block|The arrangement of the ''triapsidal'' basilica is perfect.\n{{right|''E. A. Freeman'', Venice, p. 131.}}}}\n\n'''triarch''' (trī′ärk), ''a.'' [< Gr. τρίαρχος, having three rulers, fig. having three branches, as a horn, < τρεῖς (τρι-), three, + ἀρχός, ruler.] In ''bot.'', noting radial fibrovascular bundles having three rays. ''Bastin.''\n\n'''triarchée''' (trī-är′chē), ''a.'' [Heraldic F., as ''tri-'' + ''arch'' + ''-ee''<sup>1</sup>.] In ''her.'', treble-arched; having three arches: noting a bridge or the like.\n\n'''triarchy''' (trī′är-ki), ''n.''; pl. ''triarchies'' (-kiz). [< Gr. τριαρχία, government by three, a triumvirate, < τρεῖς (τρι-), three, + ἄρχειν, rule.] Rule by three persons; a three-headed government.\n\n{{smaller block|She [the rational soul] issueth forth her commands, and, dividing her empire into a ''triarchy'', she governs by three viceroys, the three faculties.\n{{right|''Howell'', Parly of Beasts, p. 143. (''Davies.'')}}}}\n\n'''triarian''' (trī-ā′ri-a̤n), ''a.'' [< L. ''triarii'', soldiers of the third rank or class (< ''tres'', ''tri-'', three), + ''-an''.] Occupying the third post or place in an array.\n\n{{smaller block|Let the brave Second and ''Triarian'' band\nFirm against all impression stand.\n{{right|''Cowley'', Restoration of K. Charles II.}}}}\n\n'''triarticulate''' (trī-är-tik′ū-lāt), ''a.'' [< L. ''tres'' (''tri-''), three, + ''articulatus'', jointed: see ''articulate''.] In ''zoöl.'' and ''anat.'', composed of three joints or articles: as, a ''triarticulate'' palpus; our fingers are ''triarticulate''. Also ''triarticulated''.\n\n'''trias''' (trī′as), ''n.'' [NL., < LL. ''trias'', < Gr. τριάς, the number three: see ''triad''.] '''1.''' In ''music'', same as ''triad'', 3.—'''2.''' [''cap.''] In ''geol.'', same as ''Triassic''.—'''3.''' [''cap.''] In ''German hist.'', a name sometimes given to the old German empire, reckoned as consisting of three coördinate parts—Austria, Prussia, and the group of smaller states.\n\n'''Triassic''' (trī-as′ik), ''a.'' and ''n.'' [= F. ''triasique'' = Sp. ''triásico''; as ''trias'' + ''-ic''.] In ''geol.'', the lower of the three great divisions of the entire system of fossiliferous rocks (Triassic, Jurassic, Cretaceous) which together make up the Mesozoic or Secondary series. {{smaller|The Triassic lies above the Permian, and beneath the Jurassic. The threefold subdivision from which the Triassic derives its name is best seen in central Europe, and especially in northern Germany, where the bunter-sandstein, muschelkalk, and}}<noinclude><references/></noinclude>"
+}

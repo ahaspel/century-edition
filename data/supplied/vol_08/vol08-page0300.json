@@ -1,0 +1,337 @@
+{
+ "volume": 8,
+ "page_number": 300,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n299.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n299.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-13",
+  "angle": 0.0,
+  "column_width": 1453,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     126,
+     50,
+     2442,
+     123
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     126,
+     123,
+     1579,
+     1062
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     126,
+     1062,
+     1579,
+     1823
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     866,
+     1888,
+     1579,
+     3065
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     126,
+     1823,
+     866,
+     3062
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     126,
+     3062,
+     1579,
+     3172
+    ]
+   },
+   {
+    "name": "c1c2",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     126,
+     3172,
+     1579,
+     3199
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1579,
+     123,
+     2442,
+     162
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1849,
+     162,
+     2442,
+     790
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     1849,
+     790,
+     2442,
+     833
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1579,
+     162,
+     1849,
+     857
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1579,
+     857,
+     2442,
+     1909
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1579,
+     1909,
+     2442,
+     1967
+    ]
+   },
+   {
+    "name": "c2f2",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1579,
+     1967,
+     2442,
+     2391
+    ]
+   },
+   {
+    "name": "c2c2",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     1579,
+     2401,
+     2442,
+     2512
+    ]
+   },
+   {
+    "name": "c2s5",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1579,
+     2512,
+     2442,
+     3199
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|trode|6496|Troic}}",
+   "c1s1": "{{smaller|wren of the United States is ''T. hiemalis;'' the house-wren, ''T. aedon;'' the great Carolina wren was ''T. ludovicianus;'' Bewick's wren, ''T. bewicki;'' the long-billed marsh-wren, ''T. palustris;'' the short-billed marsh-wren, ''T. brevirostris.'' The last four named are now placed in other genera. See cuts under ''marsh-wren'' and ''Thryothorus.''}} (''b''†) In the form ''Troglodites'', a Linnean name (1744) of humming-birds, later (1748–66) called ''Trochilus.'' Compare similar confusion of ''trochilus'', 1 (''b'') and (''c'').—2. In ''mammal.'', a genus of anthropoid apes, instituted by Isidore Geoffroy St. Hilaire after 1807, containing the chimpanzee, ''T. niger'', and the gorilla, ''T. gorilla''. {{smaller|The generic name being preoccupied in ornithology, and therefore strictly untenable in mammalogy, this genus was called ''Mimetes'' by Leach in 1819, and afterward ''Anthropopithecus'' by De Blainville; but ''Troglodytes'' is still much used. See cuts under ''chimpanzee'' and ''gorilla.''}}\n\n'''troglodytic''' (trog-lọ̄-dit′ik), ''a.'' [< L. ''troglodyticus'', < Gr. τρωγλοδυτικός, pertaining to a cave-dweller, < τρωγλοδύτης, a cave-dweller, troglodyte: see ''troglodyte.''] Of or pertaining to the troglodytes or cave-dwellers; relating to or having the habits of the cave-dwellers.\n\n{{smaller block|The dwelling-places or the burial vaults of a ''troglodytic'' tribe closely akin to the Guanches of the Canaries.\n{{right|''The Academy'', No. 891, p. 370.}}}}\n\n'''troglodytical''' (trog-lọ̄-dit′i-ka̤l), ''a.'' [< ''troglodytic'' + ''-al.''] Troglodytic in character or habits; relating to the troglodytes or cave-dwellers.",
+   "c1s2": "¶\n'''Troglodytidæ''' (trog-lō-dit′i-dē), ''n. pl.'' [NL., < ''Troglodytes'' + ''-idæ.''] In ''ornith.'', a family of oscine passerine birds, whose typical genus is ''Troglodytes;'' the wrens. {{smaller|The family is of no fixed limit or satisfactory definition. The birds referred to it, in its usual acceptation, are mainly American, and very numerous in tropical and subtropical America. These are well distinguished from most New World passerines, excepting from the mocking-birds, thrashers, and the like, toward which they grade so closely, through such forms as the cactus-wrens, for example, that they have often been associated with them in the family ''Liotrichidæ'' (the mockers, etc., being then removed from ''Turdidæ'' to enter into this association). But the Old World wren-like birds have so many and varied relationships that they have thus far proved entirely unmanageable. The whole of them, therefore, together with the American forms, have been thrown in the ornithological waste-basket (''Timeliidæ''). See ''wren'', and cuts under ''Campylorhynchus'', ''marsh-wren'', ''Pnoëpyga'', ''rock-wren'', ''Tesia'', ''Thryothorus'', and ''Troglodytes''.}}\n\n'''Troglodytinæ''' (trog-lod-i-tī′nē), ''n. pl.'' [NL., < ''Troglodytes'' + ''-inæ.''] The wrens, most properly so called: (''a'') As one of the restricted groups of ''Troglodytidæ'', when the latter name is used in a broad sense. (''b'') As a subfamily of ''Liotrichidæ'' or of ''Timeliidæ''.",
+   "c1s3": "{{smaller block|whole families get by means of ropes; and many are born, live, and die, in these dens, without ever going out of them.\n{{right|''W. H. Smyth'', The Mediterranean, p. 497.}}}}\n\n{{smaller block|Palæolithic man was unquestionably a true ''troglodyte'', the caves which he is known to have inhabited being very numerous.\n{{right|''J. Geikie'', Prehistoric Europe, p. 19.}}}}\n\n2. Hence, one living in seclusion; one unacquainted with the affairs of the world. ''Saturday Rev.''—3. In ''mammal.'', an anthropoid ape of the genus ''Troglodytes'', as the chimpanzee or the gorilla, especially the former, which was earlier known to naturalists and was called ''Simia troglodytes''. {{smaller|The name is actually a misnomer, arising from some confounding or comparing of these apes with peoples who in ancient times were called ''troglodytes''. See ''Troglodytes'', 2, and cuts under ''chimpanzee'' and ''gorilla''.}}\n\n4. In ''ornith.'', a wren of the genus ''Troglodytes'' or family ''Troglodytidæ''. The term is a misnomer, since no wrens live in caves.\n\n'''Troglodytes''' (trog-lod′i-tēz), ''n.'' [NL.: see ''troglodyte''.] 1. In ''ornith.'': (''a'') A genus of wrens, type of the family ''Troglodytidæ'', based by Vieillot in 1807 on ''T. aëdon''. {{smaller|The type is taken to be the common wren of Europe, ''T. europæus'' or ''T. parvulus'', formerly ''Sylvia troglodytes''. The name, erroneous in fact, was changed by Rennie in 1831 to ''Anorthura''. It has been used by different writers for nearly all the birds of the family ''Troglo-''}}",
+   "c1c2": "{{c|Winter Wren (''Troglodytes hiemalis'').}}",
+   "c2s1": "iting tropical and subtropical countries of both hemi-",
+   "c2c1": "{{c|An African type of ''Trogonidæ'' (''Hapaloderma constantia'').}}",
+   "c2s2": "spheres, most numerous in the Neotropical, less so in the Oriental, and least so in the Ethiopian region. A principal technical character is the structure of the feet; for, though many other birds are yoke-toed or zygodactyl, in all except the trogons the first and fourth toes are reversed, in trogons the first and second; and this character is correlated with the heteropelmous disposition of the flexor tendons of the digits. In the skull basipterygoids are present and the",
+   "c2s3": "{{smaller block|palate is desmognathous, the sternum is double-notched on each side behind, there is only one carotid (sinistral), cæca are present, the oil-gland is nude, the pterylosis is somewhat passerine, there are large aftershafts of the contour-feathers, and these feathers are peculiarly soft and of brilliant hues. The trogons inhabit the depths of the forest, and are both frugivorous and insectivorous. The African type of trogons is the genus ''Hapaloderma''; the Oriental is ''Harpactes''; the West Indian forms are ''Priotelus'' and ''Temnotrogon''. The more numerous trogons of continental America have a characteristic coloration, the upper parts being green or brown, and the lower red or yellow with a white throat-bar. There are several genera of these besides ''Trogon'', including ''Pharomacrus''. One species, ''T. ambiguus'', extends over the Mexican border of the United States in Arizona. See cut under ''Trogon''.}}\n\n'''trogonoid''' (trō′gọ̄-noid), ''a.'' [< ''trogon'' + ''-oid''.] Resembling a trogon; belonging to the ''Trogonoideæ''.\n\n'''Trogonoideæ''' (trō-gọ̄-noi′dẹ̄-ē), ''n. pl.'' [NL., < ''Trogon'' + ''-oideæ''.] The trogons as a superfamily of picarian birds, characterized by being heterodactylous and heteropelmous: a needless synonym of ''Heterodactylæ''. ''Stejneger'', 1885.\n\n'''Trogonophidæ''' (trō-gọ̄-nof′i-dē), ''n. pl.'' [< ''Trogonophis'' + ''-idæ''.] A family of ophiosaurian lizards, typified by the genus ''Trogonophis'', and characterized by the acrodont dentition and the absence of fore limbs.\n\n'''Trogonophis''' (trọ̄-gon′ọ̄-fis), ''n.'' [NL. (Kaup), < Gr. τρώγων (see ''Trogon'') + ὄφις, a snake.] A genus of snake-like lizards destitute of limbs, typical of the family ''Trogonophidæ''.\n\n'''Trogosita''' (trō-gọ̄-sī′tä̤), ''n.'' [NL. (Olivier, 1790), < Gr. τρώγειν, gnaw, + σῖτος, corn, grain.] A cosmopolitan genus of clavicorn beetles, typi-",
+   "c2s4": "cal of the family ''Trogositidæ.'' {{smaller|They have the eyes transverse, the tibiæ not spinous, and the thorax trun-}}",
+   "c2c2": "{{c|''Trogosita corticalis.''}}\n{{c|''a'', larva; ''c'', its mandible; ''d'', antenna; ''e'', under side of the head; ''f'', the two-horned anal plate; ''b'', the beetle; ''h'', its antenna; ''i'', the mandible; ''g'', labium and its palpi; ''j'', cne of the maxillæ and its palpus. (Lines show natural sizes of ''a'' and ''b''.)}}",
+   "c2s5": "{{smaller|cate at the apex, with the lateral margin deflexed at the middle. About 50 species are known. ''T.'' (''Tenebrioides'') ''mauritanica'' is a common cosmopolitan species found in stored grain. ''T.'' (''Tenebrioides'') ''corticalis'' is American. Also ''Trogosites.''}}\n\n'''Trogositidæ''' (trō-gọ̄-sit′i-dē), ''n. pl.'' [NL. (Kirby, 1837), < ''Trogosita'' + ''-idæ.''] A family of clavicorn beetles, allied to the ''Nitidulidæ'', but separated by the slender tarsi, whose first joint is short. {{smaller|The family contains two groups, members of the first of which are elongate, with the prothorax narrowed behind, those of the second rounded and somewhat flattened. About 160 species are known, of which nearly 50 inhabit the United States; many are found under bark, and others live in fungi.}}\n\n'''trogue''' (trōg), ''n.'' [A var. of ''trough.''] A wooden trough. [North. Eng.]\n\n'''Troic''' (trō′ik), ''a.'' [< L. ''Troicus'', < Gr. Τρωϊκός, of or pertaining to Troy, < Τρώς, a Trojan; cf. Τρῳάς, the Troad, L. ''Troia'', ''Troja'', Troy.] Of or pertaining to ancient Troy or the Troas; Trojan; relating to the Trojan war. ''Gladstone.''"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0300 c1f1.png",
+   "c1f2": "century v08 p0300 c1f2.png",
+   "c2f1": "century v08 p0300 c2f1.png",
+   "c2f2": "century v08 p0300 c2f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1849,
+     168,
+     2311,
+     786
+    ],
+    "caption": [
+     1844,
+     790,
+     2311,
+     832
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1830,
+     194,
+     2320,
+     778
+    ]
+   },
+   {
+    "box": [
+     880,
+     1895,
+     1317,
+     3064
+    ],
+    "caption": [
+     1015,
+     2538,
+     1287,
+     2581
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     924,
+     1852,
+     1326,
+     3061
+    ]
+   },
+   {
+    "box": [
+     1599,
+     1991,
+     2311,
+     2391
+    ],
+    "caption": [
+     1603,
+     2401,
+     2317,
+     2511
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1602,
+     1989,
+     2320,
+     2360
+    ]
+   },
+   {
+    "box": [
+     234,
+     2671,
+     766,
+     3165
+    ],
+    "caption": [
+     288,
+     3169,
+     681,
+     3199
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     232,
+     2663,
+     696,
+     3138
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    2,
+    0
+   ],
+   "2": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 5,
+    "input_tokens": 10793,
+    "output_tokens": 672,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 12,
+    "input_tokens": 7574,
+    "output_tokens": 6959,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 32568
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|trode|6496|Troic}}</noinclude>{{smaller|wren of the United States is ''T. hiemalis;'' the house-wren, ''T. aedon;'' the great Carolina wren was ''T. ludovicianus;'' Bewick's wren, ''T. bewicki;'' the long-billed marsh-wren, ''T. palustris;'' the short-billed marsh-wren, ''T. brevirostris.'' The last four named are now placed in other genera. See cuts under ''marsh-wren'' and ''Thryothorus.''}} (''b''†) In the form ''Troglodites'', a Linnean name (1744) of humming-birds, later (1748–66) called ''Trochilus.'' Compare similar confusion of ''trochilus'', 1 (''b'') and (''c'').—2. In ''mammal.'', a genus of anthropoid apes, instituted by Isidore Geoffroy St. Hilaire after 1807, containing the chimpanzee, ''T. niger'', and the gorilla, ''T. gorilla''. {{smaller|The generic name being preoccupied in ornithology, and therefore strictly untenable in mammalogy, this genus was called ''Mimetes'' by Leach in 1819, and afterward ''Anthropopithecus'' by De Blainville; but ''Troglodytes'' is still much used. See cuts under ''chimpanzee'' and ''gorilla.''}}\n\n'''troglodytic''' (trog-lọ̄-dit′ik), ''a.'' [< L. ''troglodyticus'', < Gr. τρωγλοδυτικός, pertaining to a cave-dweller, < τρωγλοδύτης, a cave-dweller, troglodyte: see ''troglodyte.''] Of or pertaining to the troglodytes or cave-dwellers; relating to or having the habits of the cave-dwellers.\n\n{{smaller block|The dwelling-places or the burial vaults of a ''troglodytic'' tribe closely akin to the Guanches of the Canaries.\n{{right|''The Academy'', No. 891, p. 370.}}}}\n\n'''troglodytical''' (trog-lọ̄-dit′i-ka̤l), ''a.'' [< ''troglodytic'' + ''-al.''] Troglodytic in character or habits; relating to the troglodytes or cave-dwellers.\n\n'''Troglodytidæ''' (trog-lō-dit′i-dē), ''n. pl.'' [NL., < ''Troglodytes'' + ''-idæ.''] In ''ornith.'', a family of oscine passerine birds, whose typical genus is ''Troglodytes;'' the wrens. {{smaller|The family is of no fixed limit or satisfactory definition. The birds referred to it, in its usual acceptation, are mainly American, and very numerous in tropical and subtropical America. These are well distinguished from most New World passerines, excepting from the mocking-birds, thrashers, and the like, toward which they grade so closely, through such forms as the cactus-wrens, for example, that they have often been associated with them in the family ''Liotrichidæ'' (the mockers, etc., being then removed from ''Turdidæ'' to enter into this association). But the Old World wren-like birds have so many and varied relationships that they have thus far proved entirely unmanageable. The whole of them, therefore, together with the American forms, have been thrown in the ornithological waste-basket (''Timeliidæ''). See ''wren'', and cuts under ''Campylorhynchus'', ''marsh-wren'', ''Pnoëpyga'', ''rock-wren'', ''Tesia'', ''Thryothorus'', and ''Troglodytes''.}}\n\n'''Troglodytinæ''' (trog-lod-i-tī′nē), ''n. pl.'' [NL., < ''Troglodytes'' + ''-inæ.''] The wrens, most properly so called: (''a'') As one of the restricted groups of ''Troglodytidæ'', when the latter name is used in a broad sense. (''b'') As a subfamily of ''Liotrichidæ'' or of ''Timeliidæ''. {{smaller block|whole families get by means of ropes; and many are born, live, and die, in these dens, without ever going out of them.\n{{right|''W. H. Smyth'', The Mediterranean, p. 497.}}}}\n\n[[File:century v08 p0300 c1f1.png|center|177px]]\n\n{{smaller block|Palæolithic man was unquestionably a true ''troglodyte'', the caves which he is known to have inhabited being very numerous.\n{{right|''J. Geikie'', Prehistoric Europe, p. 19.}}}}\n\n2. Hence, one living in seclusion; one unacquainted with the affairs of the world. ''Saturday Rev.''—3. In ''mammal.'', an anthropoid ape of the genus ''Troglodytes'', as the chimpanzee or the gorilla, especially the former, which was earlier known to naturalists and was called ''Simia troglodytes''. {{smaller|The name is actually a misnomer, arising from some confounding or comparing of these apes with peoples who in ancient times were called ''troglodytes''. See ''Troglodytes'', 2, and cuts under ''chimpanzee'' and ''gorilla''.}}\n\n4. In ''ornith.'', a wren of the genus ''Troglodytes'' or family ''Troglodytidæ''. The term is a misnomer, since no wrens live in caves.\n\n'''Troglodytes''' (trog-lod′i-tēz), ''n.'' [NL.: see ''troglodyte''.] 1. In ''ornith.'': (''a'') A genus of wrens, type of the family ''Troglodytidæ'', based by Vieillot in 1807 on ''T. aëdon''. {{smaller|The type is taken to be the common wren of Europe, ''T. europæus'' or ''T. parvulus'', formerly ''Sylvia troglodytes''. The name, erroneous in fact, was changed by Rennie in 1831 to ''Anorthura''. It has been used by different writers for nearly all the birds of the family ''Trogloiting''}} tropical and subtropical countries of both hemispheres, most numerous in the Neotropical, less so in the Oriental, and least so in the Ethiopian region. A principal technical character is the structure of the feet; for, though many other birds are yoke-toed or zygodactyl, in all except the trogons the first and fourth toes are reversed, in trogons the first and second; and this character is correlated with the heteropelmous disposition of the flexor tendons of the digits. In the skull basipterygoids are present and the {{smaller block|palate is desmognathous, the sternum is double-notched on each side behind, there is only one carotid (sinistral), cæca are present, the oil-gland is nude, the pterylosis is somewhat passerine, there are large aftershafts of the contour-feathers, and these feathers are peculiarly soft and of brilliant hues. The trogons inhabit the depths of the forest, and are both frugivorous and insectivorous. The African type of trogons is the genus ''Hapaloderma''; the Oriental is ''Harpactes''; the West Indian forms are ''Priotelus'' and ''Temnotrogon''. The more numerous trogons of continental America have a characteristic coloration, the upper parts being green or brown, and the lower red or yellow with a white throat-bar. There are several genera of these besides ''Trogon'', including ''Pharomacrus''. One species, ''T. ambiguus'', extends over the Mexican border of the United States in Arizona. See cut under ''Trogon''.}}\n\n[[File:century v08 p0300 c1f2.png|center|360px]]\n{{c|Winter Wren (''Troglodytes hiemalis'').}}\n\n[[File:century v08 p0300 c2f1.png|center|147px]]\n{{c|An African type of ''Trogonidæ'' (''Hapaloderma constantia'').}}\n\n'''trogonoid''' (trō′gọ̄-noid), ''a.'' [< ''trogon'' + ''-oid''.] Resembling a trogon; belonging to the ''Trogonoideæ''.\n\n'''Trogonoideæ''' (trō-gọ̄-noi′dẹ̄-ē), ''n. pl.'' [NL., < ''Trogon'' + ''-oideæ''.] The trogons as a superfamily of picarian birds, characterized by being heterodactylous and heteropelmous: a needless synonym of ''Heterodactylæ''. ''Stejneger'', 1885.\n\n'''Trogonophidæ''' (trō-gọ̄-nof′i-dē), ''n. pl.'' [< ''Trogonophis'' + ''-idæ''.] A family of ophiosaurian lizards, typified by the genus ''Trogonophis'', and characterized by the acrodont dentition and the absence of fore limbs.\n\n'''Trogonophis''' (trọ̄-gon′ọ̄-fis), ''n.'' [NL. (Kaup), < Gr. τρώγων (see ''Trogon'') + ὄφις, a snake.] A genus of snake-like lizards destitute of limbs, typical of the family ''Trogonophidæ''.\n\n'''Trogosita''' (trō-gọ̄-sī′tä̤), ''n.'' [NL. (Olivier, 1790), < Gr. τρώγειν, gnaw, + σῖτος, corn, grain.] A cosmopolitan genus of clavicorn beetles, typical of the family ''Trogositidæ.'' {{smaller|They have the eyes transverse, the tibiæ not spinous, and the thorax truncate at the apex, with the lateral margin deflexed at the middle. About 50 species are known. ''T.'' (''Tenebrioides'') ''mauritanica'' is a common cosmopolitan species found in stored grain. ''T.'' (''Tenebrioides'') ''corticalis'' is American. Also ''Trogosites.''}}\n\n[[File:century v08 p0300 c2f2.png|center|214px]]\n{{c|''Trogosita corticalis.''}}\n{{c|''a'', larva; ''c'', its mandible; ''d'', antenna; ''e'', under side of the head; ''f'', the two-horned anal plate; ''b'', the beetle; ''h'', its antenna; ''i'', the mandible; ''g'', labium and its palpi; ''j'', cne of the maxillæ and its palpus. (Lines show natural sizes of ''a'' and ''b''.)}}\n\n'''Trogositidæ''' (trō-gọ̄-sit′i-dē), ''n. pl.'' [NL. (Kirby, 1837), < ''Trogosita'' + ''-idæ.''] A family of clavicorn beetles, allied to the ''Nitidulidæ'', but separated by the slender tarsi, whose first joint is short. {{smaller|The family contains two groups, members of the first of which are elongate, with the prothorax narrowed behind, those of the second rounded and somewhat flattened. About 160 species are known, of which nearly 50 inhabit the United States; many are found under bark, and others live in fungi.}}\n\n'''trogue''' (trōg), ''n.'' [A var. of ''trough.''] A wooden trough. [North. Eng.]\n\n'''Troic''' (trō′ik), ''a.'' [< L. ''Troicus'', < Gr. Τρωϊκός, of or pertaining to Troy, < Τρώς, a Trojan; cf. Τρῳάς, the Troad, L. ''Troia'', ''Troja'', Troy.] Of or pertaining to ancient Troy or the Troas; Trojan; relating to the Trojan war. ''Gladstone.''<noinclude><references/></noinclude>"
+}

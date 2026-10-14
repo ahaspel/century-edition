@@ -1,0 +1,327 @@
+{
+ "volume": 8,
+ "page_number": 260,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n259.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n259.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-13",
+  "angle": 0.95,
+  "column_width": 856,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     104,
+     0,
+     2442,
+     98
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     104,
+     98,
+     839,
+     1172
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     104,
+     1172,
+     839,
+     2251
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     104,
+     2251,
+     839,
+     3212
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     839,
+     98,
+     1586,
+     663
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     839,
+     663,
+     1586,
+     913
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     839,
+     923,
+     1586,
+     947
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     839,
+     947,
+     1586,
+     1865
+    ]
+   },
+   {
+    "name": "c2f2",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     839,
+     1865,
+     1586,
+     2392
+    ]
+   },
+   {
+    "name": "c2c2",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     839,
+     2395,
+     1586,
+     2447
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     839,
+     2447,
+     1586,
+     3212
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1586,
+     98,
+     2442,
+     995
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1586,
+     995,
+     2442,
+     2082
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1586,
+     2082,
+     2442,
+     2245
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1586,
+     2245,
+     2442,
+     2703
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1586,
+     2710,
+     2442,
+     2842
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1586,
+     2842,
+     2442,
+     3212
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|treget|6456|Trematoda}}",
+   "c1s1": "glery; illusion; guile; craft; trickery; deceit; sleight of hand; legerdemain.\n\n{{smaller block|All to-fowled is my faire fruyte,<br>That neuer dyd ''treget'' ne truyte<br>With theuys that loue ryot vnrigte.\n{{right|''Holy Rood'' (ed. Morris), p. 198.}}}}\n\n{{smaller block|Truyt and ''treget'' to helle schal terve.\n{{right|''Holy Rood'' (ed. Morris), p. 207.}}}}\n\n{{smaller block|By my ''treget'' I gadre and threste<br>The grete tresour into my cheste.\n{{right|''Rom. of the Rose'', l. 6825.}}}}\n\n'''tregetour†, tragetour†,''' ''n.'' [ME., also ''tregettour, trajetour, trajitour'', < OF. *''tresgettour, tresgetteres, trajectaire'', a juggler, one who leaps through hoops: see ''treget''.] One who practised legerdemain or sleight of hand; a prestigiator; a magician; a juggler who produced optical illusions by mechanical contrivances; hence, an impostor; a cheat.\n\n{{smaller block|For ofte at feestes have I wel herd seye<br>That ''tregetours'' withinne an halle large<br>Have maad come in a water and a barge,<br>And in the halle rowen up and doun;<br>Some tyme hath semed come a grym leoun,<br>And somtyme floures sprynge as in a mede;<br>Somtyme a vyne, and grapes white and rede;<br>Somtyme a castel, al of lym and stoon;<br>And whan hym lyked voyded it anoon:<br>Thus semed it to every mannes sighte.\n{{right|''Chaucer'', Franklin's Tale, l. 415.}}}}\n\n{{smaller block|Maister John Rykell, sometyme ''tregitoure''<br>Of noble Henry kynge of Englonde.\n{{right|''Lydgate'', Daunce of Macabre, quoted in J. P. Collier's<br>[Hist. Dram. Poetry, I. 21.}}}}\n\n'''tregetry†, tragetry†,''' ''n.'' [ME., < ''treget'' + -(''e'')''ry''.] Legerdemain; jugglery; deception.",
+   "c1s2": "{{smaller block|Soche soteltie thai soght to solas hom with;\nThe tables, the top, ''tregetre'' also,\nAnd in the moneth of may mekill thai vsit,\nWith floures and fresshe bowes fecchyng of somer.\n{{right|''Destruction of Troy'' (E. E. T. S.), l. 1624.}}}}\n\n{{smaller block|They knowe not al my ''tregetrie.''\n{{right|''Rom. of the Rose'', l. 6382.}}}}\n\n'''trehala''' (trē-hä′lä̤), ''n.'' A kind of manna excreted in Persia and Turkey by an insect, ''Larinus maculatus'', in the form of cocoons, consisting chiefly of starch, sugar, and gum derived from the species of globe-thistle (''Echinops Persica'') on which it feeds. Also called ''Turkish manna.''\n\n'''trehalose''' (trē′hä̤-lōs), ''n.'' [< ''trehala'' + ''-ose.''] A sugar first extracted from trehala, since proved to be identical with mycose.\n\n'''treie†''', ''n.'' See ''tray''<sup>2</sup>.\n\n'''treillage†''' (trel′āj; F. pron. trā-lyäzh′), ''n.'' [F., < ''treille'', a trellis: see ''trail''<sup>2</sup>, ''trellis.''] In ''hort.'', a structure of light posts and rails for supporting wall-trees, etc.; a lattice; a trellis.\n\n{{smaller block|Makers of flower-gardens: . . . contrivers of bowers, grottos, ''treillages.'' {{right|''Spectator.''}}}}\n\n'''treille''' (trel), ''n.'' [F., a lattice, trellis: see ''trail''<sup>2</sup>, ''trellis.''] 1. In ''her.'', a lattice. [Rare.]—2. In ''lace-making'', a réseau or net ground.\n\n'''trek''' (trek), ''v. i.'' [Also ''treck''; < D. ''trekken'', draw, draw a wagon, journey: see ''track''<sup>1</sup>.] In South Africa: (''a'') To draw a vehicle, as oxen; pull a load along.\n\n{{smaller block|Bullocks can not ''trek'' with wet yokes, or their shoulders become galled. {{right|''Pop. Sci. Mo.'', XXIX. 618.}}}}\n\n(''b'') To travel by ox-wagon; hence, to travel in",
+   "c1s3": "general; go from place to place; migrate.\n\n{{smaller block|Thus the early Cape \"boers\" adopted the nomad habit of ''trekking'', which simply meant enlarging the range of their occupation of new land and a further advance into the interior.{{right|''Westminster Rev.'', CXXVI. 166.}}}}\n\n'''trek''' (trek), ''n.'' [D., pull, tug, draft: see ''trek'', ''v.'', ''track''<sup>1</sup>, ''n.''] In South Africa, the action of drawing, as a vehicle or a load; draft; traction; hence, a journey or migration; the distance between one stopping-place and the next; travel: as, that was short ''trek''.\n\n{{smaller block|After the rain the ''trek'' was heavy.{{right|''Pop. Sci. Mo.'', XXIX. 619.}}\nWhen it first became known that the ''trek'' was projected, 5,000 Boers were calculated to be upon the point of forming the army of invasion.{{right|''New York Tribune'', May 8, 1891.}}}}\n\n'''trekker''' (trek′ėr), ''n.'' [< D. ''trekker'', < ''trekken'', draw: see ''trek'', ''v.''] One who treks; a traveler; a wanderer; a migrator. [South Africa.]\n\n{{smaller block|Quiet people nowadays are no lovers of . . . the carpet-bagging colonists, the beach-comber, the ''trekker'', the belligerent missionary.{{right|''Contemporary Rev.'', LIII. 534.}}}}\n\n'''trek-oxen''' (trek′ok″sn), ''n. pl.'' Oxen used for drawing wagons; draft-oxen. [South Africa.]\n\n{{smaller block|''Trek-oxen'' are, without exception, obstinate, perverse creatures.{{right|''Pop. Sci. Mo.'', XXIX. 620.}}}}\n\n'''trek-rope''' (trek′rōp), ''n.'' A rope used as a trek-tow. [South Africa.]\n\n'''trekschuit''' (trek′skoit), ''n.'' [Also ''trekschuyt''; D. ''trekschuit'', < ''trekken'', draw, + ''schuit'', a boat: see",
+   "c2s1": "''trek'', ''track''<sup>1</sup>, and ''scout''<sup>4</sup>.] A track-boat or canal-boat, such as is in common use in Holland.\n\n'''trek-tow''' (trek′tō), ''n.'' [< D. ''trek'' + E. ''tow''<sup>1</sup>.] In South Africa, an iron chain or rawhide cable connecting a wagon-pole with the line of yokes to which the bullocks are attached.\n\n'''trelawny''' (trẹ̄-lâ′ni), ''n.'' [Appar. from the surname ''Trelawney''.] A thin mess, made of barley-meal, water, and salt. ''Halliwell.'' [Prov. Eng.]\n\n'''trellice†''' (trel′is), ''n.'' An obsolete spelling of ''trellis''.\n\n'''trellis''' (trel′is), ''n.'' [Formerly also ''trellice''; < ME. ''trelys'', < OF. ''treillis'', a trellis, < ''treille'', ''trelle'', F. ''treille'' = Pr. ''treilla'', ''trelha'', ''trilla'', < L. ''trichila'', also ''tricla'', bower, arbor, summer-house: see ''trail''<sup>2</sup>.] '''1.''' A structure of light cross-bars,",
+   "c2c1": "{{c|Trellises: 1, wooden; 2, wire.}}",
+   "c2s2": "as of wood, nailed together where they cross one another, or of thin ribbons of metal, or of wire imitating this.\n\n{{smaller block|Through the ''trellis'' of the woodwork and the leaves of the flowering shrub, he just caught a glimpse of some form within.\n{{right|''Bulwer'', What will he Do with it? vii. 21.}}}}\n\n'''2.''' A shed, canopy, summer-house, or the like composed, or partly composed, of trellis-work. Such buildings are utilized especially for the support of growing vines.—'''3.''' In ''her.'', same as ''treille'' or ''lattice'', 3.\n\n'''trellis''' (trel′is), ''v. t.'' [< ''trellis'', ''n.''] '''1.''' To furnish with trellises or trellis-work; especially, to support or train on trellises: as, to ''trellis'' a vine. ''Bailey'', 1727.\n\n{{smaller block|The rich moulding of masques and flowers and fruit . . . shone out amid the ''trellised'' trees.\n{{right|''J. H. Shorthouse'', Countess Eve, ix.}}}}\n\n'''2.''' To form into trellis-work; interlace; interweave.\n\n{{smaller block|The red and golden vines,\nPiercing with their ''trellised'' lines\nThe rough, dark-skirted wilderness.\n{{right|''Shelley'', Lines Written among the Euganean Hills.}}}}\n\n{{smaller block|We passed out of a ''trellised'' door on to the black lacquered floor of a veranda.\n{{right|''The Century'', XL. 196.}}}}\n\n{{smaller block|'''Trellised armor''', garments of fence which are represented in early works of art as consisting of a background of leather or cloth, upon which are laid crossing bands,}}",
+   "c2c2": "{{c|Trellised Armor, 9th century.<br>(From Viollet-le-Duc's \"Dict. du Mobilier français.\")}}\n\nWait — <br> is not allowed. Let me redo.\n\n{{c|Trellised Armor, 9th century.}}\n{{c|(From Viollet-le-Duc's \"Dict. du Mobilier français.\")}}",
+   "c2s3": "{{smaller|apparently in relief, and bosses in the square or lozenge-shaped intervals. Another variety of it shows rivets or studs also at the intersection of the crossing bands. It is generally assumed that the bands are of leather.}}\n\n'''trellis-work''' (trel′is-wėrk), ''n.'' 1. Same as ''latticework.''\n\n{{smaller block|The pillars support a ''trellis-work,'' which is covered with vines.\n{{right|''Pococke,'' Description of the East, II. ii. 3.}}}}\n\n{{smaller block|Birds\nOf sunny plume in gilded ''trellis-work.''\n{{right|''Tennyson,'' Geraint.}}}}\n\n2. A modern kind of fancy work made by cutting out patterns in different materials and applying them upon a background with needlework edging, etc. {{smaller|The name is derived from the common use of a pattern of vines and climbing plants supported on a trellis.}}\n\n'''treloobing''' (tre-lö′bing), ''n.'' [Cf. ''loobs.''] Stirring and working the loobs, or slimy earth of tin, in a slime-pit, that the mud may partly wash off with the water and the ore settle at the bottom (''R. Hunt''); as used by some writers, the same as ''tossing.'' [Cornwall, Eng.]\n\n'''Trema''' (trē′mä̤), ''n.'' [NL. (Loureiro, 1790), from the small external pits in the endocarp of many",
+   "c3s1": "species; < Gr. τρῆμα, a hole, < τετραίνειν (√ τρα), bore, pierce.] 1. A genus of apetalous plants, of the order ''Urticaceæ'' and tribe ''Celtideæ''. {{smaller|It is characterized by lateral free stipules, polygamous flowers, and narrow cotyledons. There are about 30 species, perhaps to be reduced to 20, widely dispersed through tropical and subtropical regions, often described under the names ''Sponia'' and ''Celtis''. They are trees or tall shrubs, bearing alternate serrate leaves three-nerved at the base and usually two-ranked. The flowers are borne in cymes nearly sessile in the axils, followed by small drupes often with the perianth and the involute style-branches persistent. ''T. micrantha'', known in Jamaica as ''nettle-tree'', is a rough-leaved shrub or small tree, widely diffused from Cuba to Brazil. Three species occur in Australia, and are known as ''hoop-ash''; of these ''T. orientalis'', a tree about 40 feet high with evergreen leaves silvery beneath, extends also to Ceylon, and is known as ''charcoal-tree'' in India, where it springs up profusely in deserted grounds.}}\n\n2. [''l. c.''] In ''anat.'': (''a'') A foramen. (''b'') The vulva. [Rare.]\n\n'''Tremadoc slate''' (tre-mad′ọk slāt). A division of the Lower Silurian: so named by Sedgwick because occurring near Tremadoc in Carnarvonshire. {{smaller|It is at the top of this subdivision of the older rocks of this region, in regard to whose nomenclature there has been so much dispute, that the line between Cambrian and Silurian is drawn in England by those English geologists who desire to use the former name. See ''Silurian''.}}\n\n'''tremando''' (trā-män′dọ̄), ''adv.'' [It., trembling, ppr. of ''tremare'', tremble: see ''tremble''.] In ''music'', same as ''tremolando''.",
+   "c3s2": "¶\n'''Tremandra''' (trẹ̄-man′drä̤), ''n.'' [NL. (R. Brown, 1814), named from the remarkably tremulous anthers; < L. ''tremere'', tremble, + Gr. ἀνήρ (ἀνδρ-), male (taken for ‘anther’).] A genus of plants, type of the order ''Tremandreæ'', distinguished by its jointed anthers and opposite leaves. {{smaller|The 2 species are natives of southwestern Australia. They are shrubs, more or less downy with stellate hairs, and bear ovate dentate leaves and axillary purple flowers. The ''T. verticillata'' of greenhouse cultivation, now separated as ''Platytheca galioides'', on account of its whorled leaves and biseriate unjointed anthers, is known as ''purple heath-flower''.}}\n\n'''Tremandreæ''' (trẹ̄-man′drẹ̄-ē), ''n. pl.'' [NL. (R. Brown, 1814), < ''Tremandra'' + ''-eæ''.] An order of polypetalous plants, of the series ''Thalamifloræ'' and cohort ''Polygalinæ''. {{smaller|It is characterized by regular flowers with three, four, or five sepals, as many petals, and twice as many free stamens. It includes 17 species, belonging to the three genera ''Tremandra'' (the type), ''Platytheca'', and ''Tetratheca'', the last including all but three of the species in the order. They are all natives of Australia south of the tropics, and are small heath-like shrubs with alternate, opposite, or whorled leaves, and solitary axillary flowers, usually red or purple, often with purple anthers.}}\n\n'''Tremarctos''' (trẹ̄-märk′tos), ''n.'' [NL., < Gr. τρῆμα, hole, + ἄρκτος, bear.] The only South American genus of ''Ursidæ'', containing the spectacled bear, ''T. ornatus''. See cut under ''spectacled''.\n\n'''Trematoda''' (trem-a̤-tō′dä̤), ''n. pl.'' [NL., < Gr. τρηματώδης, having many holes, porous: see ''trematoid''.] 1†. In Cuvier's system of classification, the second family of parenchymatous entozoa, containing the flukes proper, the hectocotyls of cephalopods, and the planarian larvæ of turbellarians. See cuts under ''Cercaria'', ''Bu-''",
+   "c3s3": "''cephalus'', and ''water-vascular''.—'''2.''' An extensive order of parasitic and chiefly entoparasitic worms, which may be found inside the bodies of almost any animal, and sometimes on the gills or skin of fishes; the flukes or fluke-worms.",
+   "c3c1": "{{c|''Aspidogaster conchicola'', one of the ''Trematoda'', in profile outline, to show alimentary and reproductive organs.<br>''a'', mouth; ''b'', muscular pharynx; ''c'', stomach; ''d'', germarium; ''e'', internal vas deferens; ''f'', common vitellarian duct; ''g'', vitellarium; ''i'', ''k'', oviduct; ''l'', uterus; ''m'', testis; ''o'', vagina; ''p'', penis, continuous posteriorly with external vas deferens.}}",
+   "c3s4": "They mostly have a flattened and more or less chitinized body, and a pair or more of suckers for adhering to the tissues of the host. Most trematoids are hermaphrodite or monœcious, but some are diœcious, and all undergo a series of transformations comparable to those of tapes. The well-known liver-fluke of man, ''Distoma hepaticum'', is a characteristic example. (See ''cercaria'', ''Distoma'', ''fluke''<sup>2</sup>, ''hydatid'', ''redia'', and ''sporocyst''.) When the order is raised to the rank of a class, as is done by some, the monogeneous and digeneous suborders become subclasses, and the current families are regarded as orders, as ''Tristoma'' and ''Polystoma'' of the former division, and of the latter ''Monostoma'', ''Distoma'', ''Gasterostoma'', and ''Holostoma''. Also ''Trematoidea'', ''Trematodea'', and ''Trematoida''."
+  },
+  "figure_files": {
+   "c2f1": "century v08 p0260 c2f1.png",
+   "c2f2": "century v08 p0260 c2f2.png",
+   "c3f1": "century v08 p0260 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     947,
+     665,
+     1501,
+     913
+    ],
+    "caption": [
+     1070,
+     923,
+     1380,
+     947
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     946,
+     663,
+     1520,
+     911
+    ]
+   },
+   {
+    "box": [
+     947,
+     1866,
+     1459,
+     2375
+    ],
+    "caption": [
+     937,
+     2395,
+     1490,
+     2446
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     946,
+     1883,
+     1525,
+     2387
+    ]
+   },
+   {
+    "box": [
+     1618,
+     2273,
+     2282,
+     2703
+    ],
+    "caption": [
+     1606,
+     2711,
+     2318,
+     2837
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1609,
+     2263,
+     2281,
+     2692
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    2,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 4,
+    "input_tokens": 7283,
+    "output_tokens": 262,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 14,
+    "input_tokens": 9047,
+    "output_tokens": 7947,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 37996
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|treget|6456|Trematoda}}</noinclude>glery; illusion; guile; craft; trickery; deceit; sleight of hand; legerdemain.\n\n{{smaller block|All to-fowled is my faire fruyte,<br>That neuer dyd ''treget'' ne truyte<br>With theuys that loue ryot vnrigte.\n{{right|''Holy Rood'' (ed. Morris), p. 198.}}}}\n\n{{smaller block|Truyt and ''treget'' to helle schal terve.\n{{right|''Holy Rood'' (ed. Morris), p. 207.}}}}\n\n{{smaller block|By my ''treget'' I gadre and threste<br>The grete tresour into my cheste.\n{{right|''Rom. of the Rose'', l. 6825.}}}}\n\n'''tregetour†, tragetour†,''' ''n.'' [ME., also ''tregettour, trajetour, trajitour'', < OF. *''tresgettour, tresgetteres, trajectaire'', a juggler, one who leaps through hoops: see ''treget''.] One who practised legerdemain or sleight of hand; a prestigiator; a magician; a juggler who produced optical illusions by mechanical contrivances; hence, an impostor; a cheat.\n\n{{smaller block|For ofte at feestes have I wel herd seye<br>That ''tregetours'' withinne an halle large<br>Have maad come in a water and a barge,<br>And in the halle rowen up and doun;<br>Some tyme hath semed come a grym leoun,<br>And somtyme floures sprynge as in a mede;<br>Somtyme a vyne, and grapes white and rede;<br>Somtyme a castel, al of lym and stoon;<br>And whan hym lyked voyded it anoon:<br>Thus semed it to every mannes sighte.\n{{right|''Chaucer'', Franklin's Tale, l. 415.}}}}\n\n{{smaller block|Maister John Rykell, sometyme ''tregitoure''<br>Of noble Henry kynge of Englonde.\n{{right|''Lydgate'', Daunce of Macabre, quoted in J. P. Collier's<br>[Hist. Dram. Poetry, I. 21.}}}}\n\n'''tregetry†, tragetry†,''' ''n.'' [ME., < ''treget'' + -(''e'')''ry''.] Legerdemain; jugglery; deception. {{smaller block|Soche soteltie thai soght to solas hom with;\nThe tables, the top, ''tregetre'' also,\nAnd in the moneth of may mekill thai vsit,\nWith floures and fresshe bowes fecchyng of somer.\n{{right|''Destruction of Troy'' (E. E. T. S.), l. 1624.}}}}\n\n{{smaller block|They knowe not al my ''tregetrie.''\n{{right|''Rom. of the Rose'', l. 6382.}}}}\n\n'''trehala''' (trē-hä′lä̤), ''n.'' A kind of manna excreted in Persia and Turkey by an insect, ''Larinus maculatus'', in the form of cocoons, consisting chiefly of starch, sugar, and gum derived from the species of globe-thistle (''Echinops Persica'') on which it feeds. Also called ''Turkish manna.''\n\n'''trehalose''' (trē′hä̤-lōs), ''n.'' [< ''trehala'' + ''-ose.''] A sugar first extracted from trehala, since proved to be identical with mycose.\n\n'''treie†''', ''n.'' See ''tray''<sup>2</sup>.\n\n'''treillage†''' (trel′āj; F. pron. trā-lyäzh′), ''n.'' [F., < ''treille'', a trellis: see ''trail''<sup>2</sup>, ''trellis.''] In ''hort.'', a structure of light posts and rails for supporting wall-trees, etc.; a lattice; a trellis.\n\n{{smaller block|Makers of flower-gardens: . . . contrivers of bowers, grottos, ''treillages.'' {{right|''Spectator.''}}}}\n\n'''treille''' (trel), ''n.'' [F., a lattice, trellis: see ''trail''<sup>2</sup>, ''trellis.''] 1. In ''her.'', a lattice. [Rare.]—2. In ''lace-making'', a réseau or net ground.\n\n'''trek''' (trek), ''v. i.'' [Also ''treck''; < D. ''trekken'', draw, draw a wagon, journey: see ''track''<sup>1</sup>.] In South Africa: (''a'') To draw a vehicle, as oxen; pull a load along.\n\n{{smaller block|Bullocks can not ''trek'' with wet yokes, or their shoulders become galled. {{right|''Pop. Sci. Mo.'', XXIX. 618.}}}}\n\n(''b'') To travel by ox-wagon; hence, to travel in general; go from place to place; migrate.\n\n{{smaller block|Thus the early Cape \"boers\" adopted the nomad habit of ''trekking'', which simply meant enlarging the range of their occupation of new land and a further advance into the interior.{{right|''Westminster Rev.'', CXXVI. 166.}}}}\n\n'''trek''' (trek), ''n.'' [D., pull, tug, draft: see ''trek'', ''v.'', ''track''<sup>1</sup>, ''n.''] In South Africa, the action of drawing, as a vehicle or a load; draft; traction; hence, a journey or migration; the distance between one stopping-place and the next; travel: as, that was short ''trek''.\n\n{{smaller block|After the rain the ''trek'' was heavy.{{right|''Pop. Sci. Mo.'', XXIX. 619.}}\nWhen it first became known that the ''trek'' was projected, 5,000 Boers were calculated to be upon the point of forming the army of invasion.{{right|''New York Tribune'', May 8, 1891.}}}}\n\n'''trekker''' (trek′ėr), ''n.'' [< D. ''trekker'', < ''trekken'', draw: see ''trek'', ''v.''] One who treks; a traveler; a wanderer; a migrator. [South Africa.]\n\n{{smaller block|Quiet people nowadays are no lovers of . . . the carpet-bagging colonists, the beach-comber, the ''trekker'', the belligerent missionary.{{right|''Contemporary Rev.'', LIII. 534.}}}}\n\n'''trek-oxen''' (trek′ok″sn), ''n. pl.'' Oxen used for drawing wagons; draft-oxen. [South Africa.]\n\n{{smaller block|''Trek-oxen'' are, without exception, obstinate, perverse creatures.{{right|''Pop. Sci. Mo.'', XXIX. 620.}}}}\n\n'''trek-rope''' (trek′rōp), ''n.'' A rope used as a trek-tow. [South Africa.]\n\n'''trekschuit''' (trek′skoit), ''n.'' [Also ''trekschuyt''; D. ''trekschuit'', < ''trekken'', draw, + ''schuit'', a boat: see ''trek'', ''track''<sup>1</sup>, and ''scout''<sup>4</sup>.] A track-boat or canal-boat, such as is in common use in Holland.\n\n'''trek-tow''' (trek′tō), ''n.'' [< D. ''trek'' + E. ''tow''<sup>1</sup>.] In South Africa, an iron chain or rawhide cable connecting a wagon-pole with the line of yokes to which the bullocks are attached.\n\n'''trelawny''' (trẹ̄-lâ′ni), ''n.'' [Appar. from the surname ''Trelawney''.] A thin mess, made of barley-meal, water, and salt. ''Halliwell.'' [Prov. Eng.]\n\n'''trellice†''' (trel′is), ''n.'' An obsolete spelling of ''trellis''.\n\n'''trellis''' (trel′is), ''n.'' [Formerly also ''trellice''; < ME. ''trelys'', < OF. ''treillis'', a trellis, < ''treille'', ''trelle'', F. ''treille'' = Pr. ''treilla'', ''trelha'', ''trilla'', < L. ''trichila'', also ''tricla'', bower, arbor, summer-house: see ''trail''<sup>2</sup>.] '''1.''' A structure of light cross-bars, as of wood, nailed together where they cross one another, or of thin ribbons of metal, or of wire imitating this.\n\n[[File:century v08 p0260 c2f1.png|center|314px]]\n{{c|Trellises: 1, wooden; 2, wire.}}\n\n{{smaller block|Through the ''trellis'' of the woodwork and the leaves of the flowering shrub, he just caught a glimpse of some form within.\n{{right|''Bulwer'', What will he Do with it? vii. 21.}}}}\n\n'''2.''' A shed, canopy, summer-house, or the like composed, or partly composed, of trellis-work. Such buildings are utilized especially for the support of growing vines.—'''3.''' In ''her.'', same as ''treille'' or ''lattice'', 3.\n\n'''trellis''' (trel′is), ''v. t.'' [< ''trellis'', ''n.''] '''1.''' To furnish with trellises or trellis-work; especially, to support or train on trellises: as, to ''trellis'' a vine. ''Bailey'', 1727.\n\n{{smaller block|The rich moulding of masques and flowers and fruit . . . shone out amid the ''trellised'' trees.\n{{right|''J. H. Shorthouse'', Countess Eve, ix.}}}}\n\n'''2.''' To form into trellis-work; interlace; interweave.\n\n{{smaller block|The red and golden vines,\nPiercing with their ''trellised'' lines\nThe rough, dark-skirted wilderness.\n{{right|''Shelley'', Lines Written among the Euganean Hills.}}}}\n\n{{smaller block|We passed out of a ''trellised'' door on to the black lacquered floor of a veranda.\n{{right|''The Century'', XL. 196.}}}}\n\n{{smaller block|'''Trellised armor''', garments of fence which are represented in early works of art as consisting of a background of leather or cloth, upon which are laid crossing bands, apparently in relief, and bosses in the square or lozenge-shaped intervals. Another variety of it shows rivets or studs also at the intersection of the crossing bands. It is generally assumed that the bands are of leather.}}\n\n[[File:century v08 p0260 c2f2.png|center|314px]]\n{{c|Trellised Armor, 9th century.<br>(From Viollet-le-Duc's \"Dict. du Mobilier français.\")}}\n\nWait — <br> is not allowed. Let me redo.\n\n{{c|Trellised Armor, 9th century.}}\n{{c|(From Viollet-le-Duc's \"Dict. du Mobilier français.\")}}\n\n'''trellis-work''' (trel′is-wėrk), ''n.'' 1. Same as ''latticework.''\n\n{{smaller block|The pillars support a ''trellis-work,'' which is covered with vines.\n{{right|''Pococke,'' Description of the East, II. ii. 3.}}}}\n\n{{smaller block|Birds\nOf sunny plume in gilded ''trellis-work.''\n{{right|''Tennyson,'' Geraint.}}}}\n\n2. A modern kind of fancy work made by cutting out patterns in different materials and applying them upon a background with needlework edging, etc. {{smaller|The name is derived from the common use of a pattern of vines and climbing plants supported on a trellis.}}\n\n'''treloobing''' (tre-lö′bing), ''n.'' [Cf. ''loobs.''] Stirring and working the loobs, or slimy earth of tin, in a slime-pit, that the mud may partly wash off with the water and the ore settle at the bottom (''R. Hunt''); as used by some writers, the same as ''tossing.'' [Cornwall, Eng.]\n\n'''Trema''' (trē′mä̤), ''n.'' [NL. (Loureiro, 1790), from the small external pits in the endocarp of many species; < Gr. τρῆμα, a hole, < τετραίνειν (√ τρα), bore, pierce.] 1. A genus of apetalous plants, of the order ''Urticaceæ'' and tribe ''Celtideæ''. {{smaller|It is characterized by lateral free stipules, polygamous flowers, and narrow cotyledons. There are about 30 species, perhaps to be reduced to 20, widely dispersed through tropical and subtropical regions, often described under the names ''Sponia'' and ''Celtis''. They are trees or tall shrubs, bearing alternate serrate leaves three-nerved at the base and usually two-ranked. The flowers are borne in cymes nearly sessile in the axils, followed by small drupes often with the perianth and the involute style-branches persistent. ''T. micrantha'', known in Jamaica as ''nettle-tree'', is a rough-leaved shrub or small tree, widely diffused from Cuba to Brazil. Three species occur in Australia, and are known as ''hoop-ash''; of these ''T. orientalis'', a tree about 40 feet high with evergreen leaves silvery beneath, extends also to Ceylon, and is known as ''charcoal-tree'' in India, where it springs up profusely in deserted grounds.}}\n\n2. [''l. c.''] In ''anat.'': (''a'') A foramen. (''b'') The vulva. [Rare.]\n\n'''Tremadoc slate''' (tre-mad′ọk slāt). A division of the Lower Silurian: so named by Sedgwick because occurring near Tremadoc in Carnarvonshire. {{smaller|It is at the top of this subdivision of the older rocks of this region, in regard to whose nomenclature there has been so much dispute, that the line between Cambrian and Silurian is drawn in England by those English geologists who desire to use the former name. See ''Silurian''.}}\n\n'''tremando''' (trā-män′dọ̄), ''adv.'' [It., trembling, ppr. of ''tremare'', tremble: see ''tremble''.] In ''music'', same as ''tremolando''.\n\n'''Tremandra''' (trẹ̄-man′drä̤), ''n.'' [NL. (R. Brown, 1814), named from the remarkably tremulous anthers; < L. ''tremere'', tremble, + Gr. ἀνήρ (ἀνδρ-), male (taken for ‘anther’).] A genus of plants, type of the order ''Tremandreæ'', distinguished by its jointed anthers and opposite leaves. {{smaller|The 2 species are natives of southwestern Australia. They are shrubs, more or less downy with stellate hairs, and bear ovate dentate leaves and axillary purple flowers. The ''T. verticillata'' of greenhouse cultivation, now separated as ''Platytheca galioides'', on account of its whorled leaves and biseriate unjointed anthers, is known as ''purple heath-flower''.}}\n\n'''Tremandreæ''' (trẹ̄-man′drẹ̄-ē), ''n. pl.'' [NL. (R. Brown, 1814), < ''Tremandra'' + ''-eæ''.] An order of polypetalous plants, of the series ''Thalamifloræ'' and cohort ''Polygalinæ''. {{smaller|It is characterized by regular flowers with three, four, or five sepals, as many petals, and twice as many free stamens. It includes 17 species, belonging to the three genera ''Tremandra'' (the type), ''Platytheca'', and ''Tetratheca'', the last including all but three of the species in the order. They are all natives of Australia south of the tropics, and are small heath-like shrubs with alternate, opposite, or whorled leaves, and solitary axillary flowers, usually red or purple, often with purple anthers.}}\n\n'''Tremarctos''' (trẹ̄-märk′tos), ''n.'' [NL., < Gr. τρῆμα, hole, + ἄρκτος, bear.] The only South American genus of ''Ursidæ'', containing the spectacled bear, ''T. ornatus''. See cut under ''spectacled''.\n\n'''Trematoda''' (trem-a̤-tō′dä̤), ''n. pl.'' [NL., < Gr. τρηματώδης, having many holes, porous: see ''trematoid''.] 1†. In Cuvier's system of classification, the second family of parenchymatous entozoa, containing the flukes proper, the hectocotyls of cephalopods, and the planarian larvæ of turbellarians. See cuts under ''Cercaria'', ''Bucephalus'', and ''water-vascular''.—'''2.''' An extensive order of parasitic and chiefly entoparasitic worms, which may be found inside the bodies of almost any animal, and sometimes on the gills or skin of fishes; the flukes or fluke-worms. They mostly have a flattened and more or less chitinized body, and a pair or more of suckers for adhering to the tissues of the host. Most trematoids are hermaphrodite or monœcious, but some are diœcious, and all undergo a series of transformations comparable to those of tapes. The well-known liver-fluke of man, ''Distoma hepaticum'', is a characteristic example. (See ''cercaria'', ''Distoma'', ''fluke''<sup>2</sup>, ''hydatid'', ''redia'', and ''sporocyst''.) When the order is raised to the rank of a class, as is done by some, the monogeneous and digeneous suborders become subclasses, and the current families are regarded as orders, as ''Tristoma'' and ''Polystoma'' of the former division, and of the latter ''Monostoma'', ''Distoma'', ''Gasterostoma'', and ''Holostoma''. Also ''Trematoidea'', ''Trematodea'', and ''Trematoida''.\n\n[[File:century v08 p0260 c3f1.png|center|360px]]\n{{c|''Aspidogaster conchicola'', one of the ''Trematoda'', in profile outline, to show alimentary and reproductive organs.<br>''a'', mouth; ''b'', muscular pharynx; ''c'', stomach; ''d'', germarium; ''e'', internal vas deferens; ''f'', common vitellarian duct; ''g'', vitellarium; ''i'', ''k'', oviduct; ''l'', uterus; ''m'', testis; ''o'', vagina; ''p'', penis, continuous posteriorly with external vas deferens.}}<noinclude><references/></noinclude>"
+}

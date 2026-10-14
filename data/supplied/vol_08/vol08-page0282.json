@@ -1,0 +1,245 @@
+{
+ "volume": 8,
+ "page_number": 282,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n281.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n281.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-13",
+  "angle": 0.0,
+  "column_width": 1459,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     97,
+     36,
+     2442,
+     74
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     97,
+     74,
+     1556,
+     426
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     97,
+     426,
+     1556,
+     1013
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     97,
+     1013,
+     1556,
+     1034
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     97,
+     1034,
+     1556,
+     2118
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     97,
+     2118,
+     1556,
+     3192
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1556,
+     74,
+     2442,
+     846
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1556,
+     846,
+     2442,
+     1944
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1556,
+     1944,
+     2442,
+     2227
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1556,
+     2227,
+     2442,
+     2832
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     1556,
+     2864,
+     2442,
+     2888
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1556,
+     2888,
+     2442,
+     3192
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|trigonoid|6478|trilithon}}",
+   "c1s1": "¶\n'''trigonoid''' (trig′ọ̄-noid), ''n.'' [< ''trigon''<sup>1</sup> + ''-oid''.] A plane figure composed of three arcs of circles of equal radius, especially when two of these arcs subtend 60° and one 120°.\n\n'''trigonoidal''' (trig-ọ̄-noi′dạl), ''a.'' Like a trigonoid.\n\n'''trigonometer''' (trig-ọ̄-nom′e-tėr), ''n.'' [< Gr. τρίγωνον, triangle, + μέτρον, measure.] An instrument for solving plane right-angled triangles by inspection. {{smaller|In the form shown in the figure, a graduated arm turns about one of the corners of a square}}\n\n{{smaller|base being formed by the striæ acusticæ, and the hypotenuse by the inner margin of the ala cinerea. Also called ''tuberculum hypoglossi.''—'''Trigonum Lieutaudi''', the trigonum of the bladder.—'''Trigonum vagi.''' Same as ''ala cinerea'' (which see, under ''ala'').—'''Trigonum vesicæ.''' See def. (''a'').}}\n\n'''trigony†''' (trig′ọ̄-ni), ''n.'' [Cf. Gr. τριγονία, the third generation, < Gr. τρεῖς (τρι-), three, + -γονία, production: see ''-gony''.] A threefold birth or product.\n\n{{smaller block|Man is that great Amphybium in whom be\nThree distinct souls by way of ''trigony''.}}",
+   "c1c1": "{{c|Trigonometer.}}",
+   "c1s2": "{{smaller block|graduated linearly parallel to adjacent sides, so as to form squares, and having outside of it a protractor. If the arm is not nicely centered, however, a detached rule would be preferable.}}\n\n¶\n'''trigonometric''' (trig″ọ̄-nọ̄-met′rik), ''a.'' [= F. ''trigonométrique'' = Sp. ''trigonométrico'' = Pg. It. ''trigonometrico'', < NL. *''trigonometricus'', < *''trigonometria'', trigonometry: see ''trigonometry''.] Same as ''trigonometrical''.—'''Trigonometric series.''' See ''series''.\n\n'''trigonometrical''' (trig″ọ̄-nọ̄-met′ri-kạl), ''a.'' [< ''trigonometric'' + ''-al''.] Of or pertaining to trigonometry; performed by or according to the rules of trigonometry.—'''Trigonometrical canon,''' {{smaller|a table of the numerical values of trigonometrical functions; especially, a very extensive and fundamental table, from which smaller tables are extracted.}}—'''Trigonometrical curve,''' {{smaller|a curve whose equation involves trigonometrical and no higher functions.}}—'''Trigonometrical function,''' {{smaller|a singly periodic function with a real period; especially, the sine, cosine, tangent, or their reciprocals.}}—'''Trigonometrical survey,''' {{smaller|a survey by triangulation, the measurement of base-lines, and astronomical observations of latitude, longitude, and azimuth. A trigonometrical survey should be followed by a plane-table or other topographical survey; it is also an important basis of or adjunct to hydrographical, magnetical, meteorological, geological, biological, political, anthropological, sociological, military, and other surveys.}}\n\n'''trigonometrically''' (trig″ọ̄-nọ̄-met′ri-kạl-i), ''adv.'' In a trigonometrical manner; according to the rules or principles of trigonometry.\n\n{{smaller block|An exact Map of all the Province of Attica, ''trigonometrically'' surveyed.\n{{right|''J. Stuart and N. Revett'' (Ellis's Lit. Letters, p. 383).}}}}\n\n'''trigonometry''' (trig-ọ̄-nom′e-tri), ''n.'' [= F. ''trigonométrie'' = Sp. ''trigonometria'' = Pg. It. ''trigo-''\n\nAn order of plants in the Linnean system, distinguished by the fact that the flowers have three styles or pistils, as in the bladder-nut.\n\n'''trigynian''' (trī-jin′i-an), ''a.'' [< ''Trigynia'' + ''-an''.] Belonging or relating to the ''Trigynia''; trigynous.\n\n'''trigynous''' (trij′i-nus), ''a.'' [As ''trigyn'' + ''-ous''.] In ''bot.'', three-styled; having three styles.\n\n'''trihedral''' (trī-hē′drạl), ''a.'' [Also ''triedral''; < Gr. τρεῖς (τρι-), three, + ἕδρα, a seat, + ''-al''.] Having three faces; three-faced.\n\n{{smaller block|The upper face of the ''trihedral'', proximal, and largest joint of the antennule presents an oval space.\n{{right|''Huxley'', Anat. Invert., p. 287.}}}}\n\n{{smaller block|'''Trihedral angle,''' a solid angle formed by the concurrence of three planes.}}\n\n'''trihilate''' (trī-hī′lāt), ''a.'' [< L. ''tres'' (''tri-''), three, + NL. ''hilum'' + ''-ate''<sup>1</sup>.] In ''bot.'', having three hila or scars, as a seed; having three apertures, as a pollen-grain. [Rare.]\n\n'''trihoral''' (trī-hō′rạl), ''a.'' [< L. ''tres'' (''tri-''), three, + ''hora'', hour: see ''hour''.] Happening once in every three hours. ''Lord Ellesmere.'' (''Worcester.'')\n\n'''trijugate''' (trī-jö′gāt), ''a.'' [< L. ''trijugus'', threefold (< ''tres'' (''tri-''), three, + ''jugum'', yoke), + ''-ate''<sup>1</sup>.] In ''bot.'', having three pairs of leaflets or pinnæ (said of a leaf or frond); arranged in three pairs (said of the parts themselves).\n\n'''trijugous''' (trij′ọ̄-gus or trī-jö′gus), ''a.'' [< L. ''trijugus'', triple-yoked, threefold, < ''tres'' (''tri-''), three, + ''jugum'', yoke.] In ''bot.'', same as ''trijugate''.\n\n'''trijunction''' (trī-jungk′shọn), ''n.'' [< L. ''tres'' (''tri-''), three, + ''junctio''(''n-''), junction.] The junction of three things.",
+   "c1s3": "''nometria'', < NL. *''trigonometria'', < Gr. τρίγωνον, a triangle, + -μετρία, < μέτρον, measure.] The mathematical doctrine of the calculation of the angles, sides, and areas of triangles, plane and spherical, together with that of other quantities intimately related to those. Trigonometry embraces also goniometry, or the elementary theory of singly periodic functions.\n\n'''trigonon''' (tri-gō′non), ''n.'' [< Gr. τρίγωνον, a triangle, a musical instrument so called: see ''trigon''<sup>1</sup>.] Same as ''trigon''<sup>1</sup>, 3 (''a'').\n\n{{smaller block|Female players on the flute, the cithern, and the ''trigonon''. {{right|''C. O. Müller'', Manual of Archæol. (trans.), § 425.}}}}\n\n'''trigonotype''' (trig′ọ̄-nọ̄-tīp), ''n.'' [< Gr. τρίγωνον, a triangle, + τύπος, type.] A trigonal trapezohedron. See ''tetartohedrism''.\n\n'''trigonous''' (trig′ọ̄-nus), ''a.'' [< LL. ''trigonus'', < Gr. τρίγωνος, three-cornered, triangular: see ''trigon''<sup>1</sup>.] 1. Same as ''trigonal''.—2. In ''bot.'', three-angled; having three prominent longitudinal angles, as a stem or an ovary. Also ''trigonal''.\n\n'''trigonum''' (tri-gō′num), ''n.'' [NL., < L. ''trigonum'', < Gr. τρίγωνον, a triangle: see ''trigon''<sup>1</sup>.] In ''anat.'', a triangular space or area. {{smaller|Specifically—(''a'') The trigonal space or area at the base of the urinary bladder, whose apex is at the beginning of the urethra, and whose other two angles are at the points of entrance of the ureters into the bladder: more fully called ''trigonum vesicæ''. (''b'') A triangular depressed space between the pulvinar and the peduncle of the pineal body: more fully called ''trigonum habenulæ''.—'''Trigonum acustici''', a triangular area on the floor of the fourth ventricle, just lateral of the ala cinerea, and inside the restiform tract: the striæ acusticæ form the base.—'''Trigonum habenulæ.''' See def. (''b'').—'''Trigonum hypoglossi''', a triangular area on either side of the middle line of the floor of the fourth ventricle, the}}\n\n{{smaller block|It is a great convenience to have the ''trijunction'' of Tibet, India, and Burma focussed within the four corners of a map. {{right|''Athenæum'', Jan. 29, 1887, p. 164.}}}}\n\n'''trilabe''' (trī′lāb), ''n.'' [< Gr. τρεῖς (τρι-), three, + λαβή, hold, handle, < λαμβάνειν (√ λαβ), take.] A three-pronged surgical instrument for taking foreign bodies and small calculi from the bladder. {{smaller|It is so made that the prongs can be moved as desired after the instrument is in position.}}\n\n'''trilabiate''' (trī-lā′bi-āt), ''a.'' [< L. ''tres'' (''tri-''), three, + ''labium'', lip.] Three-lipped; having three lips: used in zoölogy and in botany.\n\n'''trilaminar''' (trī-lam′i-nä̤r), ''a.'' [< L. ''tres'' (''tri-''), three, + ''lamina'', plate: see ''laminar''.] In ''zoöl.'' and ''anat.'', having three laminæ, lamellæ, or layers; three-layered, as a germ—that is, consisting of endoderm, mesoderm, and ectoderm.\n\n'''trilaminate''' (trī-lam′i-nāt), ''a.'' [< L. ''tres'' (''tri-''), three, + ''lamina'', plate: see ''laminate''.] In ''zoöl.'' and ''bot.'', consisting of three laminæ or layers; trilaminar.\n\n'''trilateral''' (trī-lat′e̤-ra̤l), ''a.'' [< F. ''trilatéral'' (cf. ''trilatère''), < LL. ''trilaterus'', three-sided, < L. ''tres'' (''tri-''), three, + ''latus'' (''later-''), side: see ''lateral''.] Having three sides.\n\n'''trilaterality''' (trī-lat-e̤-ral′i-ti), ''n.'' [< ''trilateral'' + ''-ity''.] The character of being trilateral.\n\n{{smaller block|Triangle, [distinguished] from every other class of mathematical figures by the single character of ''trilaterality''. {{right|''Day'', Rhetoric, p. 85.}}}}\n\n'''trilaterally''' (trī-lat′e̤-ra̤l-i), ''adv.'' With three sides.\n\n'''trilateralness''' (trī-lat′e̤-ra̤l-nes), ''n.'' Trilaterality.",
+   "c2s1": "¶\n'''trilemma''' (trī-lem′ä), ''n.'' [NL., < Gr. τρεῖς (τρι-), three, + λῆμμα, an assumption: see ''lemma''<sup>1</sup>.] 1. In ''logic'', a syllogism with three conditional propositions, the major premises of which are disjunctively affirmed in the minor. See ''dilemma''.—2. Hence, in general, any choice between three objects.\n\n'''triletto''' (tri-let′tō), ''n.'' [It., dim. of ''trillo'': see ''trill''<sup>2</sup>.] In ''music'', a short trill.\n\n'''trilinear''' (trī-lin′ẹ̄-är), ''a.'' [< L. ''tres'' (''tri-''), three, + ''linea'' + ''-ar''<sup>3</sup> (cf. ''linear'').] Composed or consisting of three lines.—'''Trilinear coördinates.''' {{smaller|See ''coördinate''.}}\n\n'''trilineate''' (trī-lin′ẹ̄-āt), ''a.'' [< L. ''tres'' (''tri-''), three, + ''linea'', line, + ''-ate''<sup>1</sup>.] In ''zoöl.'', having three colored lines, generally longitudinal ones.\n\n'''trilingual''' (trī-ling′gwa̤l), ''a.'' [Cf. F. Sp. Pg. It. ''trilingue''; < L. ''trilinguis'', in three languages, < ''tres'' (''tri-''), three, + ''lingua'', language: see ''lingual''.] Consisting of or expressed in three languages.\n\n{{smaller block|The much-noted Rosetta stone . . . bears upon its surface a ''trilingual'' inscription.\n{{right|''Is. Taylor.''}}}}",
+   "c2s2": "¶\n'''trilinguar''' (trī-ling′gwär), ''a.'' Same as ''trilingual.''\n\n'''Trilisa''' (tril′i-sä), ''n.'' [NL. (Cassini, 1818): an anagram of ''Liatris.''] A genus of composite plants, of the tribe ''Eupatoriaceæ'' and subtribe ''Adenostyleæ.'' {{smaller|It is distinguished from the related genus ''Liatris'' by its broad corymbose panicle of small flower-heads, with their membranous involucral bracts forming only two or three rows and but slightly unequal. The 2 species are both natives of North America, growing in damp pine-barrens from Virginia south and west. They are erect perennials with alternate entire clasping leaves, those from the root very much elongated. ''T.'' (''Liatris'') ''odoratissima'' is known as ''wild vanilla'' (which see, under ''vanilla''), and is also called ''deer's-tongue.''}}\n\n'''triliteral''' (trī-lit′e-ral), ''a.'' and ''n.'' [< L. ''tres'' (''tri-''), three, + ''litĕra, littera,'' letter: see ''literal.''] '''I.''' ''a.'' Consisting of three letters, as a word or syllable; also, of or pertaining to what consists of three letters.\n\n{{smaller block|Repeating at the same time the ''triliteral'' syllable AUM.\n{{right|''J. F. Clarke,'' Ten Great Religions, iii. 5.}}}}\n\n{{smaller block|'''Triliteral languages''', the Semitic family of tongues: so called because their roots in general consist of three consonants each, which represent the essential idea expressed by the word, while special modifications are produced by certain vowels or additional letters.}}\n\n'''II.''' ''n.'' A word consisting of three letters.\n\n'''triliteralism''' (trī-lit′e-ral-izm), ''n.'' [< ''triliteral'' + ''-ism.''] The use of triliteral roots; the tendency toward triliterality.\n\n{{smaller block|''Triliteralism'' is so prevalent a law in this family [Semitic languages] that sometimes there is a semblance of artificial effort to preserve the triliteral form.\n{{right|''Amer. Jour. Philol.,'' X. 229.}}}}\n\n'''triliterality''' (trī-lit-ẹ-ral′ị-ti), ''n.'' [< ''triliteral'' + ''-ity.''] The character of being triliteral, or of consisting of three letters.",
+   "c2s3": "¶\n{{smaller block|This [Semitic speech] contains two characteristics—the ''triliterality'' of the roots and their inflection by internal change.\n{{right|''Whitney'', Life and Growth of Language, p. 248.}}}}\n\n'''triliteralness''' (trī-lit′e̤-ra̤l-nes), ''n.'' Triliterality.\n\n'''trilith''' (trī′lith), ''n.'' [< Gr. τρίλιθος, of three stones, < τρεῖς (τρι-), three, + λίθος, stone.] A monument, or part of a monument, consisting of three large stones; especially, in prehistoric",
+   "c2c1": "{{c|Triliths, Stonehenge, England.}}",
+   "c2s4": "or megalithic antiquities, a group consisting of two upright stones with a lintel-stone resting upon them. Also ''trilithon.''\n\n'''trilithic''' (trī-lith′ik), ''a.'' [< ''trilith'' + ''-ic.''] Of the nature of a trilith; consisting of three masses of stone.\n\n'''trilithon''' (trī′lith-on), ''n.'' [< Gr. τρίλιθον, neut. of τρίλιθος, of three stones: see ''trilith.''] Same as ''trilith.'' ''J. Fergusson'', Hist. Arch., I. 26."
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0282 c1f1.png",
+   "c2f1": "century v08 p0282 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     185,
+     436,
+     711,
+     1000
+    ],
+    "caption": [
+     377,
+     1010,
+     523,
+     1034
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     186,
+     442,
+     685,
+     983
+    ]
+   },
+   {
+    "box": [
+     1627,
+     2255,
+     2230,
+     2829
+    ],
+    "caption": [
+     1773,
+     2864,
+     2100,
+     2888
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1622,
+     2254,
+     2223,
+     2862
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 3,
+    "input_tokens": 7378,
+    "output_tokens": 178,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 10,
+    "input_tokens": 8213,
+    "output_tokens": 11700,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 27140
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|trigonoid|6478|trilithon}}</noinclude>'''trigonoid''' (trig′ọ̄-noid), ''n.'' [< ''trigon''<sup>1</sup> + ''-oid''.] A plane figure composed of three arcs of circles of equal radius, especially when two of these arcs subtend 60° and one 120°.\n\n'''trigonoidal''' (trig-ọ̄-noi′dạl), ''a.'' Like a trigonoid.\n\n'''trigonometer''' (trig-ọ̄-nom′e-tėr), ''n.'' [< Gr. τρίγωνον, triangle, + μέτρον, measure.] An instrument for solving plane right-angled triangles by inspection. {{smaller|In the form shown in the figure, a graduated arm turns about one of the corners of a square}}\n\n{{smaller|base being formed by the striæ acusticæ, and the hypotenuse by the inner margin of the ala cinerea. Also called ''tuberculum hypoglossi.''—'''Trigonum Lieutaudi''', the trigonum of the bladder.—'''Trigonum vagi.''' Same as ''ala cinerea'' (which see, under ''ala'').—'''Trigonum vesicæ.''' See def. (''a'').}}\n\n'''trigony†''' (trig′ọ̄-ni), ''n.'' [Cf. Gr. τριγονία, the third generation, < Gr. τρεῖς (τρι-), three, + -γονία, production: see ''-gony''.] A threefold birth or product.\n\n{{smaller block|Man is that great Amphybium in whom be\nThree distinct souls by way of ''trigony''. graduated linearly parallel to adjacent sides, so as to form squares, and having outside of it a protractor. If the arm is not nicely centered, however, a detached rule would be preferable.}}\n\n[[File:century v08 p0282 c1f1.png|center|360px]]\n{{c|Trigonometer.}}\n\n¶\n'''trigonometric''' (trig″ọ̄-nọ̄-met′rik), ''a.'' [= F. ''trigonométrique'' = Sp. ''trigonométrico'' = Pg. It. ''trigonometrico'', < NL. *''trigonometricus'', < *''trigonometria'', trigonometry: see ''trigonometry''.] Same as ''trigonometrical''.—'''Trigonometric series.''' See ''series''.\n\n'''trigonometrical''' (trig″ọ̄-nọ̄-met′ri-kạl), ''a.'' [< ''trigonometric'' + ''-al''.] Of or pertaining to trigonometry; performed by or according to the rules of trigonometry.—'''Trigonometrical canon,''' {{smaller|a table of the numerical values of trigonometrical functions; especially, a very extensive and fundamental table, from which smaller tables are extracted.}}—'''Trigonometrical curve,''' {{smaller|a curve whose equation involves trigonometrical and no higher functions.}}—'''Trigonometrical function,''' {{smaller|a singly periodic function with a real period; especially, the sine, cosine, tangent, or their reciprocals.}}—'''Trigonometrical survey,''' {{smaller|a survey by triangulation, the measurement of base-lines, and astronomical observations of latitude, longitude, and azimuth. A trigonometrical survey should be followed by a plane-table or other topographical survey; it is also an important basis of or adjunct to hydrographical, magnetical, meteorological, geological, biological, political, anthropological, sociological, military, and other surveys.}}\n\n'''trigonometrically''' (trig″ọ̄-nọ̄-met′ri-kạl-i), ''adv.'' In a trigonometrical manner; according to the rules or principles of trigonometry.\n\n{{smaller block|An exact Map of all the Province of Attica, ''trigonometrically'' surveyed.\n{{right|''J. Stuart and N. Revett'' (Ellis's Lit. Letters, p. 383).}}}}\n\n'''trigonometry''' (trig-ọ̄-nom′e-tri), ''n.'' [= F. ''trigonométrie'' = Sp. ''trigonometria'' = Pg. It. ''trigo-''\n\nAn order of plants in the Linnean system, distinguished by the fact that the flowers have three styles or pistils, as in the bladder-nut.\n\n'''trigynian''' (trī-jin′i-an), ''a.'' [< ''Trigynia'' + ''-an''.] Belonging or relating to the ''Trigynia''; trigynous.\n\n'''trigynous''' (trij′i-nus), ''a.'' [As ''trigyn'' + ''-ous''.] In ''bot.'', three-styled; having three styles.\n\n'''trihedral''' (trī-hē′drạl), ''a.'' [Also ''triedral''; < Gr. τρεῖς (τρι-), three, + ἕδρα, a seat, + ''-al''.] Having three faces; three-faced.\n\n{{smaller block|The upper face of the ''trihedral'', proximal, and largest joint of the antennule presents an oval space.\n{{right|''Huxley'', Anat. Invert., p. 287.}}}}\n\n{{smaller block|'''Trihedral angle,''' a solid angle formed by the concurrence of three planes.}}\n\n'''trihilate''' (trī-hī′lāt), ''a.'' [< L. ''tres'' (''tri-''), three, + NL. ''hilum'' + ''-ate''<sup>1</sup>.] In ''bot.'', having three hila or scars, as a seed; having three apertures, as a pollen-grain. [Rare.]\n\n'''trihoral''' (trī-hō′rạl), ''a.'' [< L. ''tres'' (''tri-''), three, + ''hora'', hour: see ''hour''.] Happening once in every three hours. ''Lord Ellesmere.'' (''Worcester.'')\n\n'''trijugate''' (trī-jö′gāt), ''a.'' [< L. ''trijugus'', threefold (< ''tres'' (''tri-''), three, + ''jugum'', yoke), + ''-ate''<sup>1</sup>.] In ''bot.'', having three pairs of leaflets or pinnæ (said of a leaf or frond); arranged in three pairs (said of the parts themselves).\n\n'''trijugous''' (trij′ọ̄-gus or trī-jö′gus), ''a.'' [< L. ''trijugus'', triple-yoked, threefold, < ''tres'' (''tri-''), three, + ''jugum'', yoke.] In ''bot.'', same as ''trijugate''.\n\n'''trijunction''' (trī-jungk′shọn), ''n.'' [< L. ''tres'' (''tri-''), three, + ''junctio''(''n-''), junction.] The junction of three things. ''nometria'', < NL. *''trigonometria'', < Gr. τρίγωνον, a triangle, + -μετρία, < μέτρον, measure.] The mathematical doctrine of the calculation of the angles, sides, and areas of triangles, plane and spherical, together with that of other quantities intimately related to those. Trigonometry embraces also goniometry, or the elementary theory of singly periodic functions.\n\n'''trigonon''' (tri-gō′non), ''n.'' [< Gr. τρίγωνον, a triangle, a musical instrument so called: see ''trigon''<sup>1</sup>.] Same as ''trigon''<sup>1</sup>, 3 (''a'').\n\n{{smaller block|Female players on the flute, the cithern, and the ''trigonon''. {{right|''C. O. Müller'', Manual of Archæol. (trans.), § 425.}}}}\n\n'''trigonotype''' (trig′ọ̄-nọ̄-tīp), ''n.'' [< Gr. τρίγωνον, a triangle, + τύπος, type.] A trigonal trapezohedron. See ''tetartohedrism''.\n\n'''trigonous''' (trig′ọ̄-nus), ''a.'' [< LL. ''trigonus'', < Gr. τρίγωνος, three-cornered, triangular: see ''trigon''<sup>1</sup>.] 1. Same as ''trigonal''.—2. In ''bot.'', three-angled; having three prominent longitudinal angles, as a stem or an ovary. Also ''trigonal''.\n\n'''trigonum''' (tri-gō′num), ''n.'' [NL., < L. ''trigonum'', < Gr. τρίγωνον, a triangle: see ''trigon''<sup>1</sup>.] In ''anat.'', a triangular space or area. {{smaller|Specifically—(''a'') The trigonal space or area at the base of the urinary bladder, whose apex is at the beginning of the urethra, and whose other two angles are at the points of entrance of the ureters into the bladder: more fully called ''trigonum vesicæ''. (''b'') A triangular depressed space between the pulvinar and the peduncle of the pineal body: more fully called ''trigonum habenulæ''.—'''Trigonum acustici''', a triangular area on the floor of the fourth ventricle, just lateral of the ala cinerea, and inside the restiform tract: the striæ acusticæ form the base.—'''Trigonum habenulæ.''' See def. (''b'').—'''Trigonum hypoglossi''', a triangular area on either side of the middle line of the floor of the fourth ventricle, the}}\n\n{{smaller block|It is a great convenience to have the ''trijunction'' of Tibet, India, and Burma focussed within the four corners of a map. {{right|''Athenæum'', Jan. 29, 1887, p. 164.}}}}\n\n'''trilabe''' (trī′lāb), ''n.'' [< Gr. τρεῖς (τρι-), three, + λαβή, hold, handle, < λαμβάνειν (√ λαβ), take.] A three-pronged surgical instrument for taking foreign bodies and small calculi from the bladder. {{smaller|It is so made that the prongs can be moved as desired after the instrument is in position.}}\n\n'''trilabiate''' (trī-lā′bi-āt), ''a.'' [< L. ''tres'' (''tri-''), three, + ''labium'', lip.] Three-lipped; having three lips: used in zoölogy and in botany.\n\n'''trilaminar''' (trī-lam′i-nä̤r), ''a.'' [< L. ''tres'' (''tri-''), three, + ''lamina'', plate: see ''laminar''.] In ''zoöl.'' and ''anat.'', having three laminæ, lamellæ, or layers; three-layered, as a germ—that is, consisting of endoderm, mesoderm, and ectoderm.\n\n'''trilaminate''' (trī-lam′i-nāt), ''a.'' [< L. ''tres'' (''tri-''), three, + ''lamina'', plate: see ''laminate''.] In ''zoöl.'' and ''bot.'', consisting of three laminæ or layers; trilaminar.\n\n'''trilateral''' (trī-lat′e̤-ra̤l), ''a.'' [< F. ''trilatéral'' (cf. ''trilatère''), < LL. ''trilaterus'', three-sided, < L. ''tres'' (''tri-''), three, + ''latus'' (''later-''), side: see ''lateral''.] Having three sides.\n\n'''trilaterality''' (trī-lat-e̤-ral′i-ti), ''n.'' [< ''trilateral'' + ''-ity''.] The character of being trilateral.\n\n{{smaller block|Triangle, [distinguished] from every other class of mathematical figures by the single character of ''trilaterality''. {{right|''Day'', Rhetoric, p. 85.}}}}\n\n'''trilaterally''' (trī-lat′e̤-ra̤l-i), ''adv.'' With three sides.\n\n'''trilateralness''' (trī-lat′e̤-ra̤l-nes), ''n.'' Trilaterality.\n\n'''trilemma''' (trī-lem′ä), ''n.'' [NL., < Gr. τρεῖς (τρι-), three, + λῆμμα, an assumption: see ''lemma''<sup>1</sup>.] 1. In ''logic'', a syllogism with three conditional propositions, the major premises of which are disjunctively affirmed in the minor. See ''dilemma''.—2. Hence, in general, any choice between three objects.\n\n'''triletto''' (tri-let′tō), ''n.'' [It., dim. of ''trillo'': see ''trill''<sup>2</sup>.] In ''music'', a short trill.\n\n'''trilinear''' (trī-lin′ẹ̄-är), ''a.'' [< L. ''tres'' (''tri-''), three, + ''linea'' + ''-ar''<sup>3</sup> (cf. ''linear'').] Composed or consisting of three lines.—'''Trilinear coördinates.''' {{smaller|See ''coördinate''.}}\n\n'''trilineate''' (trī-lin′ẹ̄-āt), ''a.'' [< L. ''tres'' (''tri-''), three, + ''linea'', line, + ''-ate''<sup>1</sup>.] In ''zoöl.'', having three colored lines, generally longitudinal ones.\n\n'''trilingual''' (trī-ling′gwa̤l), ''a.'' [Cf. F. Sp. Pg. It. ''trilingue''; < L. ''trilinguis'', in three languages, < ''tres'' (''tri-''), three, + ''lingua'', language: see ''lingual''.] Consisting of or expressed in three languages.\n\n{{smaller block|The much-noted Rosetta stone . . . bears upon its surface a ''trilingual'' inscription.\n{{right|''Is. Taylor.''}}}}\n\n'''trilinguar''' (trī-ling′gwär), ''a.'' Same as ''trilingual.''\n\n'''Trilisa''' (tril′i-sä), ''n.'' [NL. (Cassini, 1818): an anagram of ''Liatris.''] A genus of composite plants, of the tribe ''Eupatoriaceæ'' and subtribe ''Adenostyleæ.'' {{smaller|It is distinguished from the related genus ''Liatris'' by its broad corymbose panicle of small flower-heads, with their membranous involucral bracts forming only two or three rows and but slightly unequal. The 2 species are both natives of North America, growing in damp pine-barrens from Virginia south and west. They are erect perennials with alternate entire clasping leaves, those from the root very much elongated. ''T.'' (''Liatris'') ''odoratissima'' is known as ''wild vanilla'' (which see, under ''vanilla''), and is also called ''deer's-tongue.''}}\n\n'''triliteral''' (trī-lit′e-ral), ''a.'' and ''n.'' [< L. ''tres'' (''tri-''), three, + ''litĕra, littera,'' letter: see ''literal.''] '''I.''' ''a.'' Consisting of three letters, as a word or syllable; also, of or pertaining to what consists of three letters.\n\n{{smaller block|Repeating at the same time the ''triliteral'' syllable AUM.\n{{right|''J. F. Clarke,'' Ten Great Religions, iii. 5.}}}}\n\n{{smaller block|'''Triliteral languages''', the Semitic family of tongues: so called because their roots in general consist of three consonants each, which represent the essential idea expressed by the word, while special modifications are produced by certain vowels or additional letters.}}\n\n'''II.''' ''n.'' A word consisting of three letters.\n\n'''triliteralism''' (trī-lit′e-ral-izm), ''n.'' [< ''triliteral'' + ''-ism.''] The use of triliteral roots; the tendency toward triliterality.\n\n{{smaller block|''Triliteralism'' is so prevalent a law in this family [Semitic languages] that sometimes there is a semblance of artificial effort to preserve the triliteral form.\n{{right|''Amer. Jour. Philol.,'' X. 229.}}}}\n\n'''triliterality''' (trī-lit-ẹ-ral′ị-ti), ''n.'' [< ''triliteral'' + ''-ity.''] The character of being triliteral, or of consisting of three letters.\n\n{{smaller block|This [Semitic speech] contains two characteristics—the ''triliterality'' of the roots and their inflection by internal change.\n{{right|''Whitney'', Life and Growth of Language, p. 248.}}}}\n\n'''triliteralness''' (trī-lit′e̤-ra̤l-nes), ''n.'' Triliterality.\n\n'''trilith''' (trī′lith), ''n.'' [< Gr. τρίλιθος, of three stones, < τρεῖς (τρι-), three, + λίθος, stone.] A monument, or part of a monument, consisting of three large stones; especially, in prehistoric or megalithic antiquities, a group consisting of two upright stones with a lintel-stone resting upon them. Also ''trilithon.''\n\n[[File:century v08 p0282 c2f1.png|center|219px]]\n{{c|Triliths, Stonehenge, England.}}\n\n'''trilithic''' (trī-lith′ik), ''a.'' [< ''trilith'' + ''-ic.''] Of the nature of a trilith; consisting of three masses of stone.\n\n'''trilithon''' (trī′lith-on), ''n.'' [< Gr. τρίλιθον, neut. of τρίλιθος, of three stones: see ''trilith.''] Same as ''trilith.'' ''J. Fergusson'', Hist. Arch., I. 26.<noinclude><references/></noinclude>"
+}

@@ -1,0 +1,339 @@
+{
+ "volume": 8,
+ "page_number": 299,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n298.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n298.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-13",
+  "angle": -1.25,
+  "column_width": 821,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     6,
+     81,
+     2284,
+     124
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     6,
+     124,
+     827,
+     1213
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     6,
+     1213,
+     827,
+     2305
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     6,
+     2305,
+     827,
+     3209
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     827,
+     124,
+     1560,
+     1065
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     827,
+     1065,
+     1560,
+     2065
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     827,
+     2065,
+     1560,
+     3049
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     827,
+     3049,
+     1560,
+     3209
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1560,
+     124,
+     2284,
+     541
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     2024,
+     599,
+     2284,
+     846
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     2024,
+     853,
+     2284,
+     892
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1560,
+     541,
+     2024,
+     910
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1560,
+     910,
+     2284,
+     1699
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1594,
+     1728,
+     2284,
+     2062
+    ]
+   },
+   {
+    "name": "c3c2",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1594,
+     2068,
+     2284,
+     2089
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1560,
+     1699,
+     1594,
+     2089
+    ]
+   },
+   {
+    "name": "c3s5",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1560,
+     2089,
+     2284,
+     3166
+    ]
+   },
+   {
+    "name": "c3s6",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1560,
+     3166,
+     2284,
+     3209
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|Trochilium|6495|trod}}",
+   "c1s1": "¶\n'''Trochilium''' (trọ̄-kil′i-um), ''n.'' [NL. (Scopoli, 1777), < Gr. τροχίλος, some small bird: see ''trochilus''<sup>1</sup>.] A genus of clear-winged hawk-moths, including large species with transparent wings, obsolete tongue, subclavate antennæ with a brush of hair at the tip, and rather densely clothed legs, which, however, are not tufted. ''T. apiformis'' of the United States is so called from its bee-like appearance.\n\n'''trochilus'''<sup>1</sup> (trok′i-lus), ''n.'' [NL., < L. ''trochilus'', < Gr. τροχίλος, some small bird, < τρέχειν, run: see ''trochus''. Cf. ''trochil''<sup>1</sup>.] 1. A trochil; one of several different birds. {{smaller|(''a'') A bird described by some ancient writers, as Herodotus, as a kind of wagtail or sandpiper which enters the mouth of the crocodile and feeds by picking the reptile's teeth. Many surmises have been made in the attempt to identify this bird. It is certainly one of the small plover-like birds of the region of the Nile, probably either the Egyptian courser, crocodile-bird, or sicsac, ''Pluvianus ægyptius'', belonging to the subfamily ''Cursoriinæ'' (see cut under ''Pluvianus''), or the Egyptian spur-winged plover, ''Hoplopterus spinosus'' (see cut under ''spur-winged''). (''b'') One of several very small European warbler-like birds, as the golden-crested wren, or kinglet, ''Regulus cristatus'' (see cut under ''goldcrest''), and the willow-warbler, ''Phylloscopus trochilus'', etc. (''c'') Some or any humming-bird; a colibri.}}\n\n2. [''cap.''] In ''ornith.'', a Linnean genus of humming-birds, type of the family ''Trochilidæ'', formerly including all the species then known, since divided into perhaps 200 modern genera. {{smaller|The generic name is now commonly restricted to such species as the common ruby-throated humming-bird of the United States, ''T. colubris'', and the black-throated humming-bird of California, ''T. alexandri''. See cut under ''humming-bird''.}}\n\n'''trochilus'''<sup>2</sup> (trok′i-lus), ''n.''; pl. ''trochili'' (-lī). [< L. ''trochilus'', < Gr. τροχίλος, a broad hollow mold-",
+   "c1s2": "ing running round the base of a column, a casement, scotia, < τρέχειν, run.] In ''arch.'', same as ''scotia''.\n\n'''trochin''' (trō′kin), ''n.'' [< Gr. τροχός, wheel, something spherical or circular (see ''trochus''), + ''-in''<sup>1</sup>.] The lesser tuberosity of the head of the humerus, in man the site of the insertion of the subscapularis muscle. See ''trochiter'', and cut under ''humerus''.\n\n'''troching†''', ''n.'' [< ''troche''<sup>2</sup> + ''-ing''<sup>1</sup>.] One of the small snags or points surmounting the antlers of the stag. ''Howell.''\n\n'''trochinian''' (trọ̄-kin′i-a̤n), ''a.'' [< ''trochin'' + ''-ian''.] Of or pertaining to the trochin, or lesser tuberosity of the humerus.\n\n'''trochiscus''' (trọ̄-kis′kus), ''n.''; pl. ''trochisci'' (-ī). [< L. ''trochiscus'': see ''trochisk''.] Same as ''trochisk''.\n\n'''trochisk''' (trō′kisk), ''n.'' [< OF. ''trochisque'' = Pg. ''trochisco'', ''trocisco'' = It. ''trochisco'' = G. ''trochisk'', < L. ''trochiscus'', a pill, troche, < Gr. τροχίσκος, a small wheel, a small disk or ball, pastil, troche, dim. of τροχός, a round cake, a pill: see ''trochus'', ''troche''<sup>1</sup>.] A troche.\n\n{{smaller block|I would have trial made of two other kinds of bracelets, for comforting the heart and spirits: the one of the ''trochisk'' of vipers, made into little pieces of beads; for since they do great good inwards, especially for pestilent agues, it is like they will be effectual outwards, where they may be applied in greater quantity. There would be ''trochisk'' likewise made of snakes, whose flesh dried is thought to have a very opening and cordial virtue.\n{{right|''Bacon'', Nat. Hist. (ed. Montagu), § 965.}}}}\n\n{{smaller block|God finds out a way to improve their evils to advantage; and teaches them, of these vipers, to make sovereign treacles, and safe and powerful ''trochisees'' [read ''trochiskes''].\n{{right|''Bp. Hall'', Balm of Gilead, xvii. § 4.}}}}",
+   "c1s3": "¶\n'''trochite''' (trō′kīt), ''n.'' [< Gr. τροχός, a wheel, + ''-ite''<sup>2</sup>.] One of the disks or wheel-like joints of the stem of an encrinite; a wheelstone, screwstone, or entrochus. [Rare or obsolete.]\n\n'''trochiter''' (trok′i-tėr), ''n.'' [An arbitrary variant of ''trochanter''.] The greater tuberosity of the head of the humerus, in man the site of the insertion of the supraspinatus, infraspinatus, and teres minor muscles. See ''trochin'', and cut under ''humerus''.\n\n'''trochiterian''' (trok-i-tē′ri-a̤n), ''a.'' [< ''trochiter'' + ''-ian''.] Of or pertaining to the trochiter: as, the ''trochiterian'' fossa (a depression upon the trochiter for insertion of the infraspinatus muscle).\n\n'''trochitic''' (trọ̄-kit′ik), ''a.'' [< ''trochite'' + ''-ic''.] Of the nature of a trochite; pertaining to a trochite.\n\n'''trochlea''' (trok′lẹ̄-ä̤), ''n.''; pl. ''trochleæ'' (-ē). [NL., < L. ''trochlea'', ''troclea'', a pulley, sheaf, block, ML. also a windlass, roller, small wheel, < Gr. τροχιλία, τροχιλέα, τροχαλία, a pulley, a block; cf. τροχαλός, running, < τρέχειν, run: see ''trochus''. Hence ult. E. ''truckle''.] In ''anat.'' and ''zoöl.'', a pulley or pulley-like arrangement of parts, affording a smooth surface upon which another part glides. {{smaller|Specifically—(''a'') A fibrous loop in the upper inner corner of the orbit of the eye, through which runs the tendon of the superior oblique muscle of the eyeball. The line of traction of the muscle is by this}}",
+   "c2s1": "{{smaller|contrivance deflected at nearly a right angle. This trochlea is not found below mammals. Similar loops (seldom, however, taking the name ''trochlea'') bind down and alter the direction of some other double-bellied muscles, as the digastricus and omohyoid. See cuts under ''eye''<sup>1</sup> and ''eyeball.'' (''b'') In the elbow-joint, the articular surface of the inner condyle of the humerus, with which the ulna articulates: distinguished from the capitellum, or outer convex surface for the articulation of the radius: so called because in man it is concave from side to side, though very convex in the opposite direction, thus affording a surface like that of the rim of a pulley-wheel. See cuts under ''capitellum'' and ''epicondyle.'' (''c'') In ''entom.'', the orifice of the metathorax through which passes the tendon of the abdomen, and whose smooth rim serves as a sort of pulley. ''Kirby and Spence.''—'''Tibial trochlea.''' See ''tibial.''}}\n\n'''trochlear''' (trok′lē-ä̤r), ''a.'' and ''n.'' [< NL. ''trochlearis'', < L. ''trochlea'', pulley: see ''trochlea.''] '''I.''' ''a.'' '''1.''' Pulley-like; forming a loop that acts like a pulley for a tendon to run through, or affording a surface like that of a pulley, upon which a bone may ride back and forth. See ''trochlea.''—'''2.''' In ''bot.'', circular, compressed, and contracted in the middle of its circumference, so as to resemble a pulley, as the embryo of ''Commelina communis.'' Also ''trochleate.''—'''3.''' Pertaining to or connected with a trochlea: as, a ''trochlear'' muscle or nerve; ''trochlear'' movements.—{{smaller|'''Trochlear fossa,''' a small depression in the orbital plate of the frontal bone, situated near the internal angular process, for attachment of the trochlea of the eye.—'''Trochlear muscle,''' the superior oblique muscle of the eyeball, whose tendon runs through a trochlea. See cut under ''eyeball.''—'''Trochlear nerve''' (''nervus trochlearis''), the fourth and smallest of the}}",
+   "c2s2": "{{smaller|cranial nerves. Its superficial origin is just behind the corpora quadrigemina. It supplies the superior oblique muscle of the orbit. It is purely motor in its function. Also called ''patheticus, oculomuscularis superior''. See second cut under ''brain''.—'''Trochlear spine.''' See ''spine''.—'''Trochlear surface of the femur''', the smooth depression forming the anterior part of the articular surface of the condyles, for articulation with the patella.}}\n\n'''II.''' ''n.'' A trochlear muscle or nerve; a trochlearis.\n\nAlso ''trochleary''.\n\n'''trochlearis''' (trok-lẹ̄-ā′ris), ''n.''; pl. ''trochleares'' (-rēz). [NL. (sc. ''musculus''): see ''trochlear''.] In ''anat.'', a trochlear muscle or nerve. See phrases under ''trochlear''.\n\n'''trochleary''' (trok′lẹ̄-ā-ri), ''a.'' and ''n.'' [< ''trochlea'' + ''-ary''.] In ''anat.'', same as ''trochlear''.\n\n'''trochleate''' (trok′lẹ̄-āt), ''a.'' [< NL. *''trochleatus'', < L. ''trochlea'', a pulley: see ''trochlea''.] In ''bot.'', same as ''trochlear'', 2.\n\n'''Trochocarpa''' (trok-ọ̄-kär′pä), ''n.'' [NL. (R. Brown, 1810), from the fruit; < Gr. τροχός, a wheel, + καρπός, fruit.] A genus of gamopetalous plants, of the order ''Epacridaceæ'' and tribe ''Stypheliex.'' {{smaller|It is characterized by a ten-celled ovary, and a drupaceous fruit with five to ten one-seeded nutlets. The 8 species are natives of Australia. They bear petioled polymorphous leaves, either scattered, two-ranked, or somewhat whorled. The small flowers form axillary or terminal spikelets. ''T. thymifolia'', a small Tasmanian shrub, is cultivated under the name of ''wheelseed''. ''T. laurina'' is the beech- or brush-cherry of New South Wales and Queensland, a tree reaching 20 or 40 feet high, with tough fine-grained wood, used for turning.}}\n\n'''trochoid''' (trō′koid), ''a.'' and ''n.'' [= F. ''trochoïde'',",
+   "c2s3": "< Gr. τροχοειδής, round like a wheel, < τροχός, a wheel, + εἶδος, form.] '''I.''' ''a.'' '''1.''' In ''geom.'', trochoidal.—'''2.''' In ''anat.'', rotating or revolving like a wheel; pivotal, as an articulation; trochoidal: applied to that kind of rotatory arthrosis in which a part revolves to some extent upon another, as the head of the radius in the lesser sigmoid cavity of the ulna in pronation and supination of the forearm, or the atlas about the odontoid process of the axis in shaking the head.—'''3.''' In ''conch.'', top-shaped, like a shell of the genus ''Trochus;'' conical with a flat base; of or related to the ''Trochidæ''.\n\n'''II.''' ''n.'' '''1.''' In ''geom.'', a prolate or curtate cycloid or curve traced by a point in fixed connection with, but not generally on the circumference of, a wheel which rolls upon a right line. If the point is outside the circumference, the trochoid has loops; if inside, it has waves. See ''cycloid''.—'''2.''' In ''anat.'', a rotatory or pivotal joint; diarthrosis rotatorius; cyclarthrosis.—'''3.''' In ''conch.'', a top-shell, or some similar shell; any member of the ''Trochidæ''.\n\n¶\n'''trochoidal''' (trō′koi-dal), ''a.'' [< ''trochoid'' + ''-al''.] '''1.''' Pertaining to a trochoid; partaking of the nature of a trochoid: as, the ''trochoidal'' curves, such as the epicycloid, the involute of the circle, and the spiral of Archimedes.—'''2.''' In ''anat.'' and ''conch.'', same as ''trochoid''.\n\n'''trochometer''' (trō-kom′e-tėr), ''n.'' [< Gr. τροχός, a wheel, + μέτρον, a measure.] Same as ''tre-''",
+   "c2s4": "''chometer.''\n\n'''Trochosphæra''' (trok-ō-sfē′rä̤), ''n.'' [NL.: see ''trochosphere.''] 1†. A supposed genus of rotifers, as ''T. æquatorialis'' of the Philippines. ''Semper.''—2. [''l. c.''] A trochosphere.",
+   "c3s1": "¶\n'''trochosphere''' (trok′ọ̄-sfēr), ''n.'' [< Gr. τροχός, a wheel, + σφαῖρα, a sphere.] That larval form of various annelids, mollusks, and mulluscoids which has a circlet of cilia. {{smaller|The trochosphere in ''Mollusca'' is an advanced gastrula or gastrular stage of the embryo, prior to the veliger stage, when the original blastopore has been lost or transformed, a rudimentary mouth and anus have appeared, and there is an equatorial circlet of cilia about the spheroidal body. In mollusks also called ''neoembryo'' (see ''typembryo'').}}\n\n'''trochospherical''' (trok-ō-sfer′i-kạl), ''a.'' [< ''trochosphere'' + ''-ic-al.''] Having a spherical figure and a ciliated circlet; of or pertaining to a trochosphere.",
+   "c3c1": "{{c|''Trochotoma conuloides.''}}",
+   "c3s2": "¶\n'''Trochotoma''' (trọ̄-kot′ọ̄-mä), ''n'' champs, 1841), < Gr. τροχός, wheel, + -τομος, < τέμνειν, ταμεῖν, cut.] A genus of pleurotomarioid gastropods with a trochiform shell, an infundibuliform base, and a slit above the carina, obliterated except near the margin of the aperture. The species flourished in the Liassic seas.",
+   "c3s3": "¶\n\n'''Trochozoa''' (trok-ọ̄-zō′ä), ''n. pl.'' [NL., pl. of ''trochozoön''.] Those invertebrates, as annelids and mollusks, whose larval forms in one stage are trochospheres; also, loosely, such larvæ, collectively considered, or hypothetical organisms from which annelids and mollusks are supposed to have been derived.\n\n'''trochozoön''' (trok-ọ̄-zō′on), ''n.'' [NL., < Gr. τροχός, wheel, + ζῷον, animal.] Any member of the ''Trochozoa'', considered as hypothetical ancestral forms of annelids and mollusks. ''Stand. Nat. Hist.'', I. 236.\n\n{{smaller block|The Balanoglossus occupies an intermediate position between the worms and the Chordata. It has originated from a ''trochozoön'' which acquired some features in common with worms.\n{{right|''Nature'', XLII. 94.}}}}\n\n'''trochus''' (trō′kus), ''n.'' [< L. ''trochus'', ML. also ''trocus'', hoop, ML. also wheel, top, < Gr. τροχός, something round, as a wheel, hoop, circle, circuit, ring, cake, pill, < τρέχειν, run. Hence ult. (from τροχός or the orig. verb) E. ''troche''<sup>1</sup>, ''trochiscus'', ''trochisk'', ''trochee'', ''trochil'', ''trochilus'', ''trochanter'', ''truck''<sup>1</sup>, ''truckle'', etc. See especially ''troche''<sup>1</sup> and ''truck''<sup>1</sup>.] '''1†.''' A wheel. ''Bailey'', 1733. —'''2†.''' A round lump. ''Bailey'', 1733.—'''3.''' [''cap.'']",
+   "c3c2": "{{c|''Trochus obeliscus.''        ''Trochus zizyphinus.''}}",
+   "c3s4": "",
+   "c3s5": "operculum of many whorls; top-shells. {{smaller|''T. zizyphinus'' and ''T. obeliscus'' are examples. Some of the species grow to a large size, are handsomely marked, and when cut and polished show an extremely brilliant nacre. See also cuts under ''operculum'', ''radula'', and ''top-shell''.}}\n\n'''trock''' (trok), ''v.'' A Scotch form of ''truck''<sup>1</sup>.\n\n'''troco''' (trō′kō), ''n.'' [< Sp. ''truco'', \"a truck table to play on\" (Stevens, 1706): see ''truck''<sup>3</sup>.] An old English game, formerly known as ''lawn-billiards''. {{smaller|It is played on a lawn with wooden balls and a cue ending in a spoon-shaped iron projection. In the center of the green there is an iron ring moving on a pivot, and the object is to drive the ball through the ring. Points are also made by caroming—that is, by the striking of two balls in succession with the player's own ball.}}\n\n'''trod''' (trod), ''n.'' [< ME. ''trod'' (cf. Norw. ''trod'', a way or path much trodden), < AS. ''tredan'' (pret. ''træd''), etc., tread: see ''tread'', and cf. ''trode'', ''trade''<sup>1</sup>.] Tread; tramp; track. [Obsolete or Scotch.]\n\n{{smaller block|This is the worst o' a' mishaps,\n'Tis war than death's fell ''trod.''\n{{right|''Tarras'', Poems, p. 59. (''Jamieson.'')}}}}\n\n{{smaller|'''Hot trod''', the pursuit or tracings of moss-troopers or reavers; literally, a fresh track or footstep.}}\n\n{{smaller block|The pursuit of Border marauders was followed by the injured party and his friends with blood-hounds and bugle-horn, and was called the ''hot-trod.'' He was entitled, if his dog could trace the scent, to follow the invaders into the opposite kingdom, a privilege which often occasioned bloodshed. {{right|''Scott'', L. of L. M., v. 29, note.}}}}\n\n'''trod, trodden''' (trod, trod′n), ''p. a.'' [Pp. of ''tread'', ''v.''] Trampled; crushed; hence, insulted; degraded: much used in composition with an adverbial element: as, down-''trodden''.\n\n{{smaller block|Then to the well-''trod'' stage anon,\nIf Jonson's learned sock be on.}}",
+   "c3s6": "{{right|''Milton'', L'Allegro, l. 131.}}"
+  },
+  "figure_files": {
+   "c3f1": "century v08 p0299 c3f1.png",
+   "c3f2": "century v08 p0299 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     2036,
+     600,
+     2269,
+     846
+    ],
+    "caption": [
+     2062,
+     853,
+     2249,
+     892
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     2015,
+     625,
+     2281,
+     857
+    ]
+   },
+   {
+    "box": [
+     1608,
+     1751,
+     2253,
+     2061
+    ],
+    "caption": [
+     1655,
+     2068,
+     2246,
+     2089
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1631,
+     1768,
+     1918,
+     2062
+    ]
+   },
+   {
+    "box": [
+     1608,
+     1751,
+     2253,
+     2054
+    ],
+    "caption": [
+     1654,
+     2066,
+     2218,
+     2091
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1918,
+     1901,
+     2219,
+     2062
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "3": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 4,
+    "input_tokens": 6402,
+    "output_tokens": 563,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 16,
+    "input_tokens": 9446,
+    "output_tokens": 10375,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43424
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|Trochilium|6495|trod}}</noinclude>'''Trochilium''' (trọ̄-kil′i-um), ''n.'' [NL. (Scopoli, 1777), < Gr. τροχίλος, some small bird: see ''trochilus''<sup>1</sup>.] A genus of clear-winged hawk-moths, including large species with transparent wings, obsolete tongue, subclavate antennæ with a brush of hair at the tip, and rather densely clothed legs, which, however, are not tufted. ''T. apiformis'' of the United States is so called from its bee-like appearance.\n\n'''trochilus'''<sup>1</sup> (trok′i-lus), ''n.'' [NL., < L. ''trochilus'', < Gr. τροχίλος, some small bird, < τρέχειν, run: see ''trochus''. Cf. ''trochil''<sup>1</sup>.] 1. A trochil; one of several different birds. {{smaller|(''a'') A bird described by some ancient writers, as Herodotus, as a kind of wagtail or sandpiper which enters the mouth of the crocodile and feeds by picking the reptile's teeth. Many surmises have been made in the attempt to identify this bird. It is certainly one of the small plover-like birds of the region of the Nile, probably either the Egyptian courser, crocodile-bird, or sicsac, ''Pluvianus ægyptius'', belonging to the subfamily ''Cursoriinæ'' (see cut under ''Pluvianus''), or the Egyptian spur-winged plover, ''Hoplopterus spinosus'' (see cut under ''spur-winged''). (''b'') One of several very small European warbler-like birds, as the golden-crested wren, or kinglet, ''Regulus cristatus'' (see cut under ''goldcrest''), and the willow-warbler, ''Phylloscopus trochilus'', etc. (''c'') Some or any humming-bird; a colibri.}}\n\n2. [''cap.''] In ''ornith.'', a Linnean genus of humming-birds, type of the family ''Trochilidæ'', formerly including all the species then known, since divided into perhaps 200 modern genera. {{smaller|The generic name is now commonly restricted to such species as the common ruby-throated humming-bird of the United States, ''T. colubris'', and the black-throated humming-bird of California, ''T. alexandri''. See cut under ''humming-bird''.}}\n\n'''trochilus'''<sup>2</sup> (trok′i-lus), ''n.''; pl. ''trochili'' (-lī). [< L. ''trochilus'', < Gr. τροχίλος, a broad hollow molding running round the base of a column, a casement, scotia, < τρέχειν, run.] In ''arch.'', same as ''scotia''.\n\n'''trochin''' (trō′kin), ''n.'' [< Gr. τροχός, wheel, something spherical or circular (see ''trochus''), + ''-in''<sup>1</sup>.] The lesser tuberosity of the head of the humerus, in man the site of the insertion of the subscapularis muscle. See ''trochiter'', and cut under ''humerus''.\n\n'''troching†''', ''n.'' [< ''troche''<sup>2</sup> + ''-ing''<sup>1</sup>.] One of the small snags or points surmounting the antlers of the stag. ''Howell.''\n\n'''trochinian''' (trọ̄-kin′i-a̤n), ''a.'' [< ''trochin'' + ''-ian''.] Of or pertaining to the trochin, or lesser tuberosity of the humerus.\n\n'''trochiscus''' (trọ̄-kis′kus), ''n.''; pl. ''trochisci'' (-ī). [< L. ''trochiscus'': see ''trochisk''.] Same as ''trochisk''.\n\n'''trochisk''' (trō′kisk), ''n.'' [< OF. ''trochisque'' = Pg. ''trochisco'', ''trocisco'' = It. ''trochisco'' = G. ''trochisk'', < L. ''trochiscus'', a pill, troche, < Gr. τροχίσκος, a small wheel, a small disk or ball, pastil, troche, dim. of τροχός, a round cake, a pill: see ''trochus'', ''troche''<sup>1</sup>.] A troche.\n\n{{smaller block|I would have trial made of two other kinds of bracelets, for comforting the heart and spirits: the one of the ''trochisk'' of vipers, made into little pieces of beads; for since they do great good inwards, especially for pestilent agues, it is like they will be effectual outwards, where they may be applied in greater quantity. There would be ''trochisk'' likewise made of snakes, whose flesh dried is thought to have a very opening and cordial virtue.\n{{right|''Bacon'', Nat. Hist. (ed. Montagu), § 965.}}}}\n\n{{smaller block|God finds out a way to improve their evils to advantage; and teaches them, of these vipers, to make sovereign treacles, and safe and powerful ''trochisees'' [read ''trochiskes''].\n{{right|''Bp. Hall'', Balm of Gilead, xvii. § 4.}}}}\n\n'''trochite''' (trō′kīt), ''n.'' [< Gr. τροχός, a wheel, + ''-ite''<sup>2</sup>.] One of the disks or wheel-like joints of the stem of an encrinite; a wheelstone, screwstone, or entrochus. [Rare or obsolete.]\n\n'''trochiter''' (trok′i-tėr), ''n.'' [An arbitrary variant of ''trochanter''.] The greater tuberosity of the head of the humerus, in man the site of the insertion of the supraspinatus, infraspinatus, and teres minor muscles. See ''trochin'', and cut under ''humerus''.\n\n'''trochiterian''' (trok-i-tē′ri-a̤n), ''a.'' [< ''trochiter'' + ''-ian''.] Of or pertaining to the trochiter: as, the ''trochiterian'' fossa (a depression upon the trochiter for insertion of the infraspinatus muscle).\n\n'''trochitic''' (trọ̄-kit′ik), ''a.'' [< ''trochite'' + ''-ic''.] Of the nature of a trochite; pertaining to a trochite.\n\n'''trochlea''' (trok′lẹ̄-ä̤), ''n.''; pl. ''trochleæ'' (-ē). [NL., < L. ''trochlea'', ''troclea'', a pulley, sheaf, block, ML. also a windlass, roller, small wheel, < Gr. τροχιλία, τροχιλέα, τροχαλία, a pulley, a block; cf. τροχαλός, running, < τρέχειν, run: see ''trochus''. Hence ult. E. ''truckle''.] In ''anat.'' and ''zoöl.'', a pulley or pulley-like arrangement of parts, affording a smooth surface upon which another part glides. {{smaller|Specifically—(''a'') A fibrous loop in the upper inner corner of the orbit of the eye, through which runs the tendon of the superior oblique muscle of the eyeball. The line of traction of the muscle is by this contrivance deflected at nearly a right angle. This trochlea is not found below mammals. Similar loops (seldom, however, taking the name ''trochlea'') bind down and alter the direction of some other double-bellied muscles, as the digastricus and omohyoid. See cuts under ''eye''<sup>1</sup> and ''eyeball.'' (''b'') In the elbow-joint, the articular surface of the inner condyle of the humerus, with which the ulna articulates: distinguished from the capitellum, or outer convex surface for the articulation of the radius: so called because in man it is concave from side to side, though very convex in the opposite direction, thus affording a surface like that of the rim of a pulley-wheel. See cuts under ''capitellum'' and ''epicondyle.'' (''c'') In ''entom.'', the orifice of the metathorax through which passes the tendon of the abdomen, and whose smooth rim serves as a sort of pulley. ''Kirby and Spence.''—'''Tibial trochlea.''' See ''tibial.''}}\n\n'''trochlear''' (trok′lē-ä̤r), ''a.'' and ''n.'' [< NL. ''trochlearis'', < L. ''trochlea'', pulley: see ''trochlea.''] '''I.''' ''a.'' '''1.''' Pulley-like; forming a loop that acts like a pulley for a tendon to run through, or affording a surface like that of a pulley, upon which a bone may ride back and forth. See ''trochlea.''—'''2.''' In ''bot.'', circular, compressed, and contracted in the middle of its circumference, so as to resemble a pulley, as the embryo of ''Commelina communis.'' Also ''trochleate.''—'''3.''' Pertaining to or connected with a trochlea: as, a ''trochlear'' muscle or nerve; ''trochlear'' movements.—{{smaller|'''Trochlear fossa,''' a small depression in the orbital plate of the frontal bone, situated near the internal angular process, for attachment of the trochlea of the eye.—'''Trochlear muscle,''' the superior oblique muscle of the eyeball, whose tendon runs through a trochlea. See cut under ''eyeball.''—'''Trochlear nerve''' (''nervus trochlearis''), the fourth and smallest of the cranial nerves. Its superficial origin is just behind the corpora quadrigemina. It supplies the superior oblique muscle of the orbit. It is purely motor in its function. Also called ''patheticus, oculomuscularis superior''. See second cut under ''brain''.—'''Trochlear spine.''' See ''spine''.—'''Trochlear surface of the femur''', the smooth depression forming the anterior part of the articular surface of the condyles, for articulation with the patella.}}\n\n'''II.''' ''n.'' A trochlear muscle or nerve; a trochlearis.\n\nAlso ''trochleary''.\n\n'''trochlearis''' (trok-lẹ̄-ā′ris), ''n.''; pl. ''trochleares'' (-rēz). [NL. (sc. ''musculus''): see ''trochlear''.] In ''anat.'', a trochlear muscle or nerve. See phrases under ''trochlear''.\n\n'''trochleary''' (trok′lẹ̄-ā-ri), ''a.'' and ''n.'' [< ''trochlea'' + ''-ary''.] In ''anat.'', same as ''trochlear''.\n\n'''trochleate''' (trok′lẹ̄-āt), ''a.'' [< NL. *''trochleatus'', < L. ''trochlea'', a pulley: see ''trochlea''.] In ''bot.'', same as ''trochlear'', 2.\n\n'''Trochocarpa''' (trok-ọ̄-kär′pä), ''n.'' [NL. (R. Brown, 1810), from the fruit; < Gr. τροχός, a wheel, + καρπός, fruit.] A genus of gamopetalous plants, of the order ''Epacridaceæ'' and tribe ''Stypheliex.'' {{smaller|It is characterized by a ten-celled ovary, and a drupaceous fruit with five to ten one-seeded nutlets. The 8 species are natives of Australia. They bear petioled polymorphous leaves, either scattered, two-ranked, or somewhat whorled. The small flowers form axillary or terminal spikelets. ''T. thymifolia'', a small Tasmanian shrub, is cultivated under the name of ''wheelseed''. ''T. laurina'' is the beech- or brush-cherry of New South Wales and Queensland, a tree reaching 20 or 40 feet high, with tough fine-grained wood, used for turning.}}\n\n'''trochoid''' (trō′koid), ''a.'' and ''n.'' [= F. ''trochoïde'', < Gr. τροχοειδής, round like a wheel, < τροχός, a wheel, + εἶδος, form.] '''I.''' ''a.'' '''1.''' In ''geom.'', trochoidal.—'''2.''' In ''anat.'', rotating or revolving like a wheel; pivotal, as an articulation; trochoidal: applied to that kind of rotatory arthrosis in which a part revolves to some extent upon another, as the head of the radius in the lesser sigmoid cavity of the ulna in pronation and supination of the forearm, or the atlas about the odontoid process of the axis in shaking the head.—'''3.''' In ''conch.'', top-shaped, like a shell of the genus ''Trochus;'' conical with a flat base; of or related to the ''Trochidæ''.\n\n'''II.''' ''n.'' '''1.''' In ''geom.'', a prolate or curtate cycloid or curve traced by a point in fixed connection with, but not generally on the circumference of, a wheel which rolls upon a right line. If the point is outside the circumference, the trochoid has loops; if inside, it has waves. See ''cycloid''.—'''2.''' In ''anat.'', a rotatory or pivotal joint; diarthrosis rotatorius; cyclarthrosis.—'''3.''' In ''conch.'', a top-shell, or some similar shell; any member of the ''Trochidæ''.\n\n¶\n'''trochoidal''' (trō′koi-dal), ''a.'' [< ''trochoid'' + ''-al''.] '''1.''' Pertaining to a trochoid; partaking of the nature of a trochoid: as, the ''trochoidal'' curves, such as the epicycloid, the involute of the circle, and the spiral of Archimedes.—'''2.''' In ''anat.'' and ''conch.'', same as ''trochoid''.\n\n'''trochometer''' (trō-kom′e-tėr), ''n.'' [< Gr. τροχός, a wheel, + μέτρον, a measure.] Same as ''trechometer.''\n\n'''Trochosphæra''' (trok-ō-sfē′rä̤), ''n.'' [NL.: see ''trochosphere.''] 1†. A supposed genus of rotifers, as ''T. æquatorialis'' of the Philippines. ''Semper.''—2. [''l. c.''] A trochosphere.\n\n'''trochosphere''' (trok′ọ̄-sfēr), ''n.'' [< Gr. τροχός, a wheel, + σφαῖρα, a sphere.] That larval form of various annelids, mollusks, and mulluscoids which has a circlet of cilia. {{smaller|The trochosphere in ''Mollusca'' is an advanced gastrula or gastrular stage of the embryo, prior to the veliger stage, when the original blastopore has been lost or transformed, a rudimentary mouth and anus have appeared, and there is an equatorial circlet of cilia about the spheroidal body. In mollusks also called ''neoembryo'' (see ''typembryo'').}}\n\n'''trochospherical''' (trok-ō-sfer′i-kạl), ''a.'' [< ''trochosphere'' + ''-ic-al.''] Having a spherical figure and a ciliated circlet; of or pertaining to a trochosphere.\n\n[[File:century v08 p0299 c3f1.png|center|114px]]\n{{c|''Trochotoma conuloides.''}}\n\n'''Trochotoma''' (trọ̄-kot′ọ̄-mä), ''n'' champs, 1841), < Gr. τροχός, wheel, + -τομος, < τέμνειν, ταμεῖν, cut.] A genus of pleurotomarioid gastropods with a trochiform shell, an infundibuliform base, and a slit above the carina, obliterated except near the margin of the aperture. The species flourished in the Liassic seas.\n\n'''Trochozoa''' (trok-ọ̄-zō′ä), ''n. pl.'' [NL., pl. of ''trochozoön''.] Those invertebrates, as annelids and mollusks, whose larval forms in one stage are trochospheres; also, loosely, such larvæ, collectively considered, or hypothetical organisms from which annelids and mollusks are supposed to have been derived.\n\n'''trochozoön''' (trok-ọ̄-zō′on), ''n.'' [NL., < Gr. τροχός, wheel, + ζῷον, animal.] Any member of the ''Trochozoa'', considered as hypothetical ancestral forms of annelids and mollusks. ''Stand. Nat. Hist.'', I. 236.\n\n{{smaller block|The Balanoglossus occupies an intermediate position between the worms and the Chordata. It has originated from a ''trochozoön'' which acquired some features in common with worms.\n{{right|''Nature'', XLII. 94.}}}}\n\n'''trochus''' (trō′kus), ''n.'' [< L. ''trochus'', ML. also ''trocus'', hoop, ML. also wheel, top, < Gr. τροχός, something round, as a wheel, hoop, circle, circuit, ring, cake, pill, < τρέχειν, run. Hence ult. (from τροχός or the orig. verb) E. ''troche''<sup>1</sup>, ''trochiscus'', ''trochisk'', ''trochee'', ''trochil'', ''trochilus'', ''trochanter'', ''truck''<sup>1</sup>, ''truckle'', etc. See especially ''troche''<sup>1</sup> and ''truck''<sup>1</sup>.] '''1†.''' A wheel. ''Bailey'', 1733. —'''2†.''' A round lump. ''Bailey'', 1733.—'''3.''' [''cap.''] operculum of many whorls; top-shells. {{smaller|''T. zizyphinus'' and ''T. obeliscus'' are examples. Some of the species grow to a large size, are handsomely marked, and when cut and polished show an extremely brilliant nacre. See also cuts under ''operculum'', ''radula'', and ''top-shell''.}}\n\n[[File:century v08 p0299 c3f2.png|center|303px]]\n{{c|''Trochus obeliscus.''        ''Trochus zizyphinus.''}}\n\n'''trock''' (trok), ''v.'' A Scotch form of ''truck''<sup>1</sup>.\n\n'''troco''' (trō′kō), ''n.'' [< Sp. ''truco'', \"a truck table to play on\" (Stevens, 1706): see ''truck''<sup>3</sup>.] An old English game, formerly known as ''lawn-billiards''. {{smaller|It is played on a lawn with wooden balls and a cue ending in a spoon-shaped iron projection. In the center of the green there is an iron ring moving on a pivot, and the object is to drive the ball through the ring. Points are also made by caroming—that is, by the striking of two balls in succession with the player's own ball.}}\n\n'''trod''' (trod), ''n.'' [< ME. ''trod'' (cf. Norw. ''trod'', a way or path much trodden), < AS. ''tredan'' (pret. ''træd''), etc., tread: see ''tread'', and cf. ''trode'', ''trade''<sup>1</sup>.] Tread; tramp; track. [Obsolete or Scotch.]\n\n{{smaller block|This is the worst o' a' mishaps,\n'Tis war than death's fell ''trod.''\n{{right|''Tarras'', Poems, p. 59. (''Jamieson.'')}}}}\n\n{{smaller|'''Hot trod''', the pursuit or tracings of moss-troopers or reavers; literally, a fresh track or footstep.}}\n\n{{smaller block|The pursuit of Border marauders was followed by the injured party and his friends with blood-hounds and bugle-horn, and was called the ''hot-trod.'' He was entitled, if his dog could trace the scent, to follow the invaders into the opposite kingdom, a privilege which often occasioned bloodshed. {{right|''Scott'', L. of L. M., v. 29, note.}}}}\n\n'''trod, trodden''' (trod, trod′n), ''p. a.'' [Pp. of ''tread'', ''v.''] Trampled; crushed; hence, insulted; degraded: much used in composition with an adverbial element: as, down-''trodden''.\n\n{{smaller block|Then to the well-''trod'' stage anon,\nIf Jonson's learned sock be on. ''Milton'', L'Allegro, l. 131.}}<noinclude><references/></noinclude>"
+}

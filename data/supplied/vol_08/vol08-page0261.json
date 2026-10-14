@@ -1,0 +1,235 @@
+{
+ "volume": 8,
+ "page_number": 261,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n260.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n260.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-13",
+  "angle": 0.0,
+  "column_width": 821,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     3,
+     93,
+     2277,
+     138
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     3,
+     138,
+     824,
+     662
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     3,
+     662,
+     824,
+     1200
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     3,
+     1208,
+     824,
+     1358
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     3,
+     1358,
+     824,
+     2385
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     3,
+     2385,
+     824,
+     3219
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     824,
+     138,
+     1557,
+     1147
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     824,
+     1147,
+     1557,
+     2122
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     824,
+     2122,
+     1557,
+     3219
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1557,
+     138,
+     2277,
+     1145
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1557,
+     1145,
+     2277,
+     2020
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1557,
+     2020,
+     2277,
+     3090
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1557,
+     3090,
+     2277,
+     3219
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|trematode|6457|tremor}}",
+   "c1s1": "¶\n'''trematode''' (trem′a̤-tōd), ''a.'' and ''n.'' [< Gr. τρηματώδης, having many holes: see ''trematoid''.] Same as ''trematoid''.\n\n'''trematoid''' (trem′a̤-toid), ''a.'' and ''n.'' [< Gr. *τρηματοειδής, contr. τρηματώδης, having many holes, < τρῆμα(τ-), hole: see ''Trema''.] '''I.''' ''a.'' Having many holes; suctorial, as an entoparasite worm; of the nature of or resembling a fluke; of or pertaining to the ''Trematoda''.\n\n'''II.''' ''n.'' A trematoid worm, or fluke; a member of the ''Trematoda''.\n\n'''Trematoidea''' (trem-ạ-toi′dẹ̄-ä), ''n. pl.'' [NL.: see ''trematoid''.] Same as ''Trematoda'', 2.\n\n'''Trematosaurus''' (trem″ạ-tọ̄-sâ′rus), ''n.'' [NL. (Braun, 1841), < Gr. τρῆμα(τ-), hole, + σαῦρος, lizard.] A genus of extinct labyrinthodont am-",
+   "c1c1": "{{c|Side and Top Views of Skull of ''Trematosaurus'': cranial sculpture omitted from lower half of latter, to show sutures more distinctly.\n\n''EpO'', distinct pointed epiotic; ''Fr'', frontal; ''Ju'', jugal; ''La'', lacrymal; ''Mn'', mandible; ''Mx'', maxilla; ''Na'', nasal; ''Or'', orbit; ''Pa'', parietal; ''Pmx'', premaxilla; ''Prf'', prefrontal; ''Ptf'', postfrontal; ''PtO'', postorbital; ''Qj'', quadratojugal; ''SO'', one of a pair of bones taking the place of supra-occipitals; ''Sq'', squamosal; ''ST'', supratemporal.}}",
+   "c1s2": "phibians, having the skull mailed and sculptured.\n\n'''tremblable†''' (trem′bla̤-bl), ''a.'' [< ''tremble'' + ''-able.''] Calculated to cause fear or trembling.\n\n{{smaller block|But, what is ''tremblable'' and monstrous, there be some who, when God smites them, they fly unto a witch or an inchauntresse, and call for succour.\n{{right|''Dr. G. Benson.'' (''Imp. Dict.'')}}}}\n\n'''tremble''' (trem′bl), ''v. i.''; pret. and pp. ''trembled'', ppr. ''trembling''. [< ME. ''tremblen'', ''tremlen'', < OF. ''trembler'', ''tremeler'', F. ''trembler'' = Pr. ''tremblar'' = Sp. ''temblar'' = It. ''tremolare'', < ML. ''tremulare'', tremble, fear, hesitate, < L. ''tremulus'', trembling, < ''tremere'' (> It. ''tremere'' = Sp. Pg. ''tremer'' = OF. ''tremer'') = Gr. τρέμειν, tremble. From the same L. verb ''tremere'' are also ult. E. ''tremor'', ''tremulous'', etc.] 1. To be affected with slight, quick, and continued vibratory movements; be moved in a quivering manner by some external force.\n\n{{smaller block|The mountayne that the werke was sette on gan to ''tremble'', that thei semed it wolde synke.\n{{right|''Merlin'' (E. E. T. S.), i. 27.}}}}\n\n2. To be affected with involuntary muscular agitation; be agitated convulsively from either a physical or a moral cause; be in a tremor; quake; shake: as, to ''tremble'' with fatigue; his hand ''trembled'' from excitement.\n\n{{smaller block|And as he reasoned of righteousness, temperance, and judgment to come, Felix ''trembled''.\n{{right|Acts xxiv. 25.}}}}\n\n{{smaller block|Scarce can my knees these ''trembling'' limbs sustain,\nAnd scarce my heart support its load of pain.\n{{right|''Pope'', Iliad, x. 100.}}}}",
+   "c1s3": "¶\n'''3.''' To feel or manifest a quivering agitation; be tremulous or shaky; quiver; quaver: as, his voice ''trembled'' from emotion.\n\n{{smaller block|Patience perforce with wilful choler meeting<br>Makes my flesh ''tremble.''\n{{right|''Shak.'', R. and J., i. 5. 92.}}\nHer red lips ''trembled'', and her eyes were wet<br>With tears that fell not.\n{{right|''William Morris'', Earthly Paradise, II. 239.}}}}\n\n'''4.''' Figuratively, to be in doubt or suspense; oscillate between certainty and uncertainty; hang upon chance.\n\n{{smaller block|Seeking but to borrow<br>From the ''trembling'' hope of morrow<br>Solace for the weary day.\n{{right|''Whittier'', The Ranger.}}\nTheir serried masses, overwhelming superiority of numbers, and bold bearing made the chances of victory to ''tremble'' in the balance.\n{{right|''The Century'', XXXI. 458.}}}}\n\n{{smaller|'''To tremble for,''' to be in fear on account of: as, to ''tremble for'' one's safety.}}\n\n{{smaller block|I ''tremble for'' the cause of liberty, from such an example to kings. I ''tremble for'' the cause of humanity, in the unpunished outrages of the most wicked of mankind.\n{{right|''Burke'', Rev. in France.}}}}\n\n{{smaller|'''Trembling palsy.''' Same as ''paralysis agitans'' (which see, under ''paralysis'').—'''Trembling poplar.''' See ''poplar.''—'''Trembling prairie.''' [Tr. F. ''prairie tremblante'': limited in use to parts of Louisiana: also called ''shaking prairie.''] See the quotation.}}",
+   "c2s1": "¶\n{{smaller block|Also, in the vicinity of the numerous lakes of the parish [La Fourche, Louisiana] exist immense tracts called ''trembling prairies.'' These seem to be a surface composed of the matted roots and decayed stalks of the marsh vegetation, floating upon water in some instances, and upon very soft mud in others. Over these prairies it is practicable to walk, and cattle graze upon them, although they vibrate at every tread, and a cut of a few feet in depth will always discover a substratum of water.\n{{right|''S. H. Lockett'', Sec. Ann. Rep. Topog. Surv. of Louisiana, [1871, p. 10.}}}}\n\n{{smaller|'''Trembling tree''', the trembling poplar, or more often the American aspen, ''Populus tremuloides.''}}\n\n'''tremble''' (trem′bl), ''n.'' [< ''tremble'', ''v.''] 1. The act or state of trembling; an involuntary quivering or shivering as from cold or fear.\n\n{{smaller block|There stood Emmy in a ''tremble.''\n{{right|''Thackeray'', Vanity Fair, lxv.}}}}\n\n2. ''pl.'' A form of disease or diseased condition in man or animals, characterized by continued trembling or tremulousness; specifically, in some parts of the United States, a disease of domestic animals, under peculiar local conditions, affecting the quality of the milk and flesh, and known as ''milk-sickness'' when communicated through these to human beings. See ''milk-sickness.''\n\n{{smaller block|The flesh of an animal suffering from ''trembles'', or in the prodromic stages of ''trembles'', would also produce the disease.\n{{right|''Buck's Handbook of Med. Sciences'', V. 9.}}}}\n\n{{smaller block|Workers in mercury . . . are apt to suffer from a peculiar form of shaking palsy, known as \"the ''trembles'','' or mercurial tremor.\n{{right|''Encyc. Brit.'', XIX. 277.}}}}\n\n{{smaller|'''All of a tremble''', trembling all over; in a state of general agitation or excitement. [Colloq.]}}",
+   "c2s2": "¶\n{{smaller block|Mrs. Gill . . . came “''all of a tremble,''” as she said herself.\n{{right|''Charlotte Brontë'', Shirley, xx.}}}}\n\n'''tremblement''' (trem′bl-ment), ''n.'' [< F. ''tremblement'' (= Pr. ''tremolament''), a trembling or quaking, < ''trembler'', tremble: see ''tremble'' and ''-ment.''] 1. In ''music'', a trill or shake.—2. A tremor; a quivering. [Rare.]\n\n{{smaller block|The wood . . .\nThrills in leafy ''tremblement'',\nLike a heart that, after climbing, beateth quickly through content.\n{{right|''Mrs. Browning'', Lost Bower, st. 4.}}}}\n\n'''trembler''' (trem′blėr), ''n.'' [= F. ''trembleur;'' as ''tremble'' + ''-er''<sup>1</sup>.] 1. One who trembles; especially, a person or an animal that trembles from fear.\n\n{{smaller block|Those base submissions that the covetous mammonist, or cowardly ''trembler'', drudges under.\n{{right|''Hammond'', Works, IV. 479. (''Latham.'')}}}}\n\n{{smaller block|Well had the boding ''tremblers'' learned to trace\nThe day's disasters in his morning face.\n{{right|''Goldsmith'', Des. Vil., l. 199.}}}}\n\n2. [''cap.''] One of a religious sect of the time of Queen Elizabeth. ''Imp. Dict.''\n\n{{smaller block|These quaint-primitive dissemblers\nIn old Queen Bess's days called ''Tremblers.''\n{{right|''Hudibras Redivivus.''}}}}\n\n3. That which trembles or vibrates; specifically, an automatic vibrator used for making and breaking the circuit of an induction-coil; an electric bell.\n\n{{smaller block|Audible signals are given . . . on board the locomotive by a ''trembler'' bell. ''Jour. Franklin Inst.'', CXXI. 69, Supp.}}",
+   "c2s3": "¶\n'''trembling-jock, trembling-jocky''' (trem′bling-jok, -jok″i), ''n.'' The quaking-grass, ''Briza media'', supposed to be obnoxious to mice. [Prov. Eng.]\n\n'''tremblingly''' (trem′bling-li), ''adv.'' In a trembling manner; tremulously.\n\n{{smaller block|''Tremblingly'' she stood,<br>And on the sudden dropp'd.\n{{right|''Shak.'', A. and C., v. 2. 346.}}}}\n\n'''trembly''' (trem′bli), ''a.'' [< ''tremble'' + ''-y''<sup>1</sup>.] Trembling; tremulous. [Colloq.]\n\n{{smaller block|So frankly coy, so full of ''trembly'' confidences.\n{{right|''Lowell'', Birch Tree.}}\nShe [a rabbit] sot thar ez upright an' ''trembly'' ez me.\n{{right|''M. N. Murfree'', Great Smoky Mountains, xiii.}}}}\n\n'''Tremella''' (trē-mel′ä̤), ''n.'' [NL. (Fries), so called in allusion to the gelatinous texture of the plants; < L. ''tremere'', tremble, + dim. ''-ella''.] A genus of gelatinous hymenomycetous fungi, typical of the order ''Tremellineæ'', having a non-papillate hymenium which surrounds the whole of the fungus. See ''fairy-butter''.\n\n'''Tremellineæ''' (trem-e-lin′ẹ̄-ē), ''n. pl.'' [NL., < ''Tremella'' + ''-ineæ''.] An order of hymenomycetous fungi. {{smaller|They are gelatinous, of not very definite form, commonly of wavy outline, and are saprophytic on old and dead wood. Also ''Tremellini''.}}\n\n'''tremellineous''' (trem-e-lin′ẹ̄-us), ''a.'' In ''bot.'', belonging, pertaining to, or resembling fungi of the group ''Tremellineæ''.\n\n'''tremelloid''' (trem′e-loid), ''a.'' [< ''Tremella'' + ''-oid''.] In ''bot.'', resembling the fungus ''Tremella'' in substance; jelly-like.\n\n'''tremellose''' (trem′e-lōs), ''a.'' [< L. ''tremere'', tremble, + ''-ella'' + ''-ose''.] In ''bot.'', jelly-like; shaking like jelly; of a gelatinous consistence.",
+   "c3s1": "¶\n'''tremendous''' (trẹ̄-men′dus), ''a.'' [= Sp. Pg. It. ''tremendo'', < L. ''tremendus'', fearful, terrible, gerundive of ''tremere'', quake, tremble: see ''tremble''.] 1. Such as may or does excite trembling, fear, or awe; overpowering in character or quality; awful; dreadful: as, a ''tremendous'' explosion; ''tremendous'' invective.\n\n{{smaller block|Secondly, [a precept] about blessing, or rather not blaspheming the ''tremendous'' name of God.\n{{right|''Evelyn'', True Religion, II. 17.}}}}\n\n{{smaller block|The battle of Ravenna, one of those ''tremendous'' days into which human folly and wickedness compress the whole devastation of a famine or a plague.\n{{right|''Macaulay'', Machiavelli.}}}}\n\nHence — 2. Such as to excite astonishment or awe; unexampled; wonderful in a high degree; overwhelming; astounding: used intensively or hyperbolically.\n\n{{smaller block|The floor of each story was arched, the walls of ''tremendous'' thickness.\n{{right|''Scott'', Kenilworth, xxvi.}}}}\n\n{{smaller block|From the trees we sometimes saw hanging pythons of ''tremendous'' girth.\n{{right|''P. Robinson'', Under the Sun, p. 130.}}}}\n\n{{smaller block|The skilfullest crew that ever launched a life-boat would be dashed in pieces in a moment in those ''tremendous'' rollers.\n{{right|''Froude'', Sketches, p. 198.}}}}\n\n{{smaller|='''Syn.''' 1. Frightful, terrific, horrible, appalling.}}\n\n'''tremendously''' (trẹ̄-men′dus-li), ''adv.'' In a tremendous manner; in a manner to awe or astonish; with excessive force or magnitude.\n\n'''tremendousness''' (trẹ̄-men′dus-nes), ''n.'' The state or property of being tremendous.\n\n'''Tremex''' (trē′meks), ''n.'' [NL. (Jurine, 1807), irreg. < Gr. τρῆμα, a hole.] 1. A notable genus",
+   "c3s2": "of hymenopterous insects, of the family ''Uroceridæ'', separated from the typical genus ''Urocerus'' only by the venation of the wings. {{smaller|''T. columba'' is a large and handsome North American horntail, the larva of which bores the trunks of shade-trees, particularly the maple, and is known as the ''pigeon-tremex.''}}\n\n2. [''l. c.''] A horntail of this genus: as, the pigeon-''tremex''.\n\n'''tremolando''' (trem-ọ̄-län′dọ̄), ''adv.'' [It., ppr. of ''tremolare'', tremble: see ''tremble.''] In ''music'', in a tremulous manner; in a manner characterized by a tremolo. Also ''tremando.''\n\n'''tremolant''' (trem′ọ̄-lant), ''n.'' [< It. ''tremolante:'' see ''tremulant.''] Same as ''tremolo'' (''d'').\n\n'''tremolite''' (trem′ọ̄-līt), ''n.'' [< ''Tremola'' (Val ''Tremola'', a valley near Airolo in the Alps, where the mineral was discovered) + ''-ite''<sup>2</sup>.] A variety of amphibole, having usually a white to gray color, and occurring in fibrous or columnar crystalline masses. {{smaller|It differs from other varieties of amphibole in containing little or no iron, being essentially a silicate of calcium and magnesium. Also called ''grammatite.''}}\n\n'''tremolitic''' (trem-ọ̄-lit′ik), ''a.'' [< ''tremolite'' + ''-ic.''] Pertaining to or characterized by the presence of tremolite: as, ''tremolitic'' marble.\n\n'''tremolo''' (trem′ọ̄-lō), ''n.'' [It., < L. ''tremulus'', shaking, quivering: see ''tremulous.''] In ''music:'' (''a'') A tremulous or fluttering effect in vocal music,",
+   "c3s3": "intended to give a sentimental or passionate quality to the tone, but often carried to a pedantic and offensive extreme. (''b'') A similar effect in instrumental music, produced by a rapid reiteration of a tone or chord. (''c'') A similar effect in organ music, produced in the pipe-organ by means of a delicately balanced bellows attached to one of the wind-trunks, and in the reed-organ by a revolving fan. (''d'') The mechanical device in an organ by which a tremolo is produced; a tremulant. The use of such a mechanism is usually controlled by a stop-knob. Also ''tremolant, tremulant.''\n\n'''tremor''' (trem′o̤r or trē′mo̤r), ''n.'' [Formerly also ''tremour;'' < OF. ''tremeur'', F. ''trémeur'' = Sp. Pg. ''tremor'' = It. ''tremore'', < L. ''tremor'', a shaking, a quivering, < ''tremere'', shake, tremble: see ''tremble.''] '''1.''' A shaking or quivering caused by some external impulse; a close succession of short vibratory or modulatory movements; a state of trembling in a living object or substance: as, the ''tremor'' of the aspen-leaf.\n\n{{smaller block|Morauia, Bauaria, and Dacia\nWere with the earths like-horrid feuers shaken; . . .\nOne of these ''Tremors'' lasted forty dayes,\nWhen six and twenty tow'rs and castles fell.\n{{right|''Heywood'', Hierarchy of Angels, p. 570.}}}}\n\n{{smaller block|Each wave-length of light resulting from a molecular ''tremor'' of corresponding wave-length.\n{{right|''J. N. Lockyer'', Spect. Anal., p. 118.}}}}\n\n{{smaller block|Modern research has shown a typical earthquake to consist of a series of small ''tremors'' succeeded by a shock, or series of shocks.\n{{right|''J. Milne'', Earthquakes, ii.}}}}\n\n'''2.''' An involuntary or convulsive muscular shaking, quaking, or quivering, as from weakness,",
+   "c3s4": "disorder, or emotion.\n\n{{smaller block|At first a ''tremor'' of silent fear . . .<br>Over the hearts of the people went.\n{{right|''Whittier'', The Preacher.}}}}"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0261 c1f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     150,
+     665,
+     755,
+     1197
+    ],
+    "caption": [
+     106,
+     1208,
+     817,
+     1358
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     150,
+     663,
+     736,
+     1200
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 4568,
+    "output_tokens": 88,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 12,
+    "input_tokens": 9166,
+    "output_tokens": 9991,
+    "cache_creation_input_tokens": 2714,
+    "cache_read_input_tokens": 29854
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|trematode|6457|tremor}}</noinclude>'''trematode''' (trem′a̤-tōd), ''a.'' and ''n.'' [< Gr. τρηματώδης, having many holes: see ''trematoid''.] Same as ''trematoid''.\n\n'''trematoid''' (trem′a̤-toid), ''a.'' and ''n.'' [< Gr. *τρηματοειδής, contr. τρηματώδης, having many holes, < τρῆμα(τ-), hole: see ''Trema''.] '''I.''' ''a.'' Having many holes; suctorial, as an entoparasite worm; of the nature of or resembling a fluke; of or pertaining to the ''Trematoda''.\n\n'''II.''' ''n.'' A trematoid worm, or fluke; a member of the ''Trematoda''.\n\n'''Trematoidea''' (trem-ạ-toi′dẹ̄-ä), ''n. pl.'' [NL.: see ''trematoid''.] Same as ''Trematoda'', 2.\n\n'''Trematosaurus''' (trem″ạ-tọ̄-sâ′rus), ''n.'' [NL. (Braun, 1841), < Gr. τρῆμα(τ-), hole, + σαῦρος, lizard.] A genus of extinct labyrinthodont amphibians, having the skull mailed and sculptured.\n\n[[File:century v08 p0261 c1f1.png|center|360px]]\n{{c|Side and Top Views of Skull of ''Trematosaurus'': cranial sculpture omitted from lower half of latter, to show sutures more distinctly.\n\n''EpO'', distinct pointed epiotic; ''Fr'', frontal; ''Ju'', jugal; ''La'', lacrymal; ''Mn'', mandible; ''Mx'', maxilla; ''Na'', nasal; ''Or'', orbit; ''Pa'', parietal; ''Pmx'', premaxilla; ''Prf'', prefrontal; ''Ptf'', postfrontal; ''PtO'', postorbital; ''Qj'', quadratojugal; ''SO'', one of a pair of bones taking the place of supra-occipitals; ''Sq'', squamosal; ''ST'', supratemporal.}}\n\n'''tremblable†''' (trem′bla̤-bl), ''a.'' [< ''tremble'' + ''-able.''] Calculated to cause fear or trembling.\n\n{{smaller block|But, what is ''tremblable'' and monstrous, there be some who, when God smites them, they fly unto a witch or an inchauntresse, and call for succour.\n{{right|''Dr. G. Benson.'' (''Imp. Dict.'')}}}}\n\n'''tremble''' (trem′bl), ''v. i.''; pret. and pp. ''trembled'', ppr. ''trembling''. [< ME. ''tremblen'', ''tremlen'', < OF. ''trembler'', ''tremeler'', F. ''trembler'' = Pr. ''tremblar'' = Sp. ''temblar'' = It. ''tremolare'', < ML. ''tremulare'', tremble, fear, hesitate, < L. ''tremulus'', trembling, < ''tremere'' (> It. ''tremere'' = Sp. Pg. ''tremer'' = OF. ''tremer'') = Gr. τρέμειν, tremble. From the same L. verb ''tremere'' are also ult. E. ''tremor'', ''tremulous'', etc.] 1. To be affected with slight, quick, and continued vibratory movements; be moved in a quivering manner by some external force.\n\n{{smaller block|The mountayne that the werke was sette on gan to ''tremble'', that thei semed it wolde synke.\n{{right|''Merlin'' (E. E. T. S.), i. 27.}}}}\n\n2. To be affected with involuntary muscular agitation; be agitated convulsively from either a physical or a moral cause; be in a tremor; quake; shake: as, to ''tremble'' with fatigue; his hand ''trembled'' from excitement.\n\n{{smaller block|And as he reasoned of righteousness, temperance, and judgment to come, Felix ''trembled''.\n{{right|Acts xxiv. 25.}}}}\n\n{{smaller block|Scarce can my knees these ''trembling'' limbs sustain,\nAnd scarce my heart support its load of pain.\n{{right|''Pope'', Iliad, x. 100.}}}}\n\n'''3.''' To feel or manifest a quivering agitation; be tremulous or shaky; quiver; quaver: as, his voice ''trembled'' from emotion.\n\n{{smaller block|Patience perforce with wilful choler meeting<br>Makes my flesh ''tremble.''\n{{right|''Shak.'', R. and J., i. 5. 92.}}\nHer red lips ''trembled'', and her eyes were wet<br>With tears that fell not.\n{{right|''William Morris'', Earthly Paradise, II. 239.}}}}\n\n'''4.''' Figuratively, to be in doubt or suspense; oscillate between certainty and uncertainty; hang upon chance.\n\n{{smaller block|Seeking but to borrow<br>From the ''trembling'' hope of morrow<br>Solace for the weary day.\n{{right|''Whittier'', The Ranger.}}\nTheir serried masses, overwhelming superiority of numbers, and bold bearing made the chances of victory to ''tremble'' in the balance.\n{{right|''The Century'', XXXI. 458.}}}}\n\n{{smaller|'''To tremble for,''' to be in fear on account of: as, to ''tremble for'' one's safety.}}\n\n{{smaller block|I ''tremble for'' the cause of liberty, from such an example to kings. I ''tremble for'' the cause of humanity, in the unpunished outrages of the most wicked of mankind.\n{{right|''Burke'', Rev. in France.}}}}\n\n{{smaller|'''Trembling palsy.''' Same as ''paralysis agitans'' (which see, under ''paralysis'').—'''Trembling poplar.''' See ''poplar.''—'''Trembling prairie.''' [Tr. F. ''prairie tremblante'': limited in use to parts of Louisiana: also called ''shaking prairie.''] See the quotation.}}\n\n{{smaller block|Also, in the vicinity of the numerous lakes of the parish [La Fourche, Louisiana] exist immense tracts called ''trembling prairies.'' These seem to be a surface composed of the matted roots and decayed stalks of the marsh vegetation, floating upon water in some instances, and upon very soft mud in others. Over these prairies it is practicable to walk, and cattle graze upon them, although they vibrate at every tread, and a cut of a few feet in depth will always discover a substratum of water.\n{{right|''S. H. Lockett'', Sec. Ann. Rep. Topog. Surv. of Louisiana, [1871, p. 10.}}}}\n\n{{smaller|'''Trembling tree''', the trembling poplar, or more often the American aspen, ''Populus tremuloides.''}}\n\n'''tremble''' (trem′bl), ''n.'' [< ''tremble'', ''v.''] 1. The act or state of trembling; an involuntary quivering or shivering as from cold or fear.\n\n{{smaller block|There stood Emmy in a ''tremble.''\n{{right|''Thackeray'', Vanity Fair, lxv.}}}}\n\n2. ''pl.'' A form of disease or diseased condition in man or animals, characterized by continued trembling or tremulousness; specifically, in some parts of the United States, a disease of domestic animals, under peculiar local conditions, affecting the quality of the milk and flesh, and known as ''milk-sickness'' when communicated through these to human beings. See ''milk-sickness.''\n\n{{smaller block|The flesh of an animal suffering from ''trembles'', or in the prodromic stages of ''trembles'', would also produce the disease.\n{{right|''Buck's Handbook of Med. Sciences'', V. 9.}}}}\n\n{{smaller block|Workers in mercury . . . are apt to suffer from a peculiar form of shaking palsy, known as \"the ''trembles'','' or mercurial tremor.\n{{right|''Encyc. Brit.'', XIX. 277.}}}}\n\n{{smaller|'''All of a tremble''', trembling all over; in a state of general agitation or excitement. [Colloq.]}}\n\n{{smaller block|Mrs. Gill . . . came “''all of a tremble,''” as she said herself.\n{{right|''Charlotte Brontë'', Shirley, xx.}}}}\n\n'''tremblement''' (trem′bl-ment), ''n.'' [< F. ''tremblement'' (= Pr. ''tremolament''), a trembling or quaking, < ''trembler'', tremble: see ''tremble'' and ''-ment.''] 1. In ''music'', a trill or shake.—2. A tremor; a quivering. [Rare.]\n\n{{smaller block|The wood . . .\nThrills in leafy ''tremblement'',\nLike a heart that, after climbing, beateth quickly through content.\n{{right|''Mrs. Browning'', Lost Bower, st. 4.}}}}\n\n'''trembler''' (trem′blėr), ''n.'' [= F. ''trembleur;'' as ''tremble'' + ''-er''<sup>1</sup>.] 1. One who trembles; especially, a person or an animal that trembles from fear.\n\n{{smaller block|Those base submissions that the covetous mammonist, or cowardly ''trembler'', drudges under.\n{{right|''Hammond'', Works, IV. 479. (''Latham.'')}}}}\n\n{{smaller block|Well had the boding ''tremblers'' learned to trace\nThe day's disasters in his morning face.\n{{right|''Goldsmith'', Des. Vil., l. 199.}}}}\n\n2. [''cap.''] One of a religious sect of the time of Queen Elizabeth. ''Imp. Dict.''\n\n{{smaller block|These quaint-primitive dissemblers\nIn old Queen Bess's days called ''Tremblers.''\n{{right|''Hudibras Redivivus.''}}}}\n\n3. That which trembles or vibrates; specifically, an automatic vibrator used for making and breaking the circuit of an induction-coil; an electric bell.\n\n{{smaller block|Audible signals are given . . . on board the locomotive by a ''trembler'' bell. ''Jour. Franklin Inst.'', CXXI. 69, Supp.}}\n\n'''trembling-jock, trembling-jocky''' (trem′bling-jok, -jok″i), ''n.'' The quaking-grass, ''Briza media'', supposed to be obnoxious to mice. [Prov. Eng.]\n\n'''tremblingly''' (trem′bling-li), ''adv.'' In a trembling manner; tremulously.\n\n{{smaller block|''Tremblingly'' she stood,<br>And on the sudden dropp'd.\n{{right|''Shak.'', A. and C., v. 2. 346.}}}}\n\n'''trembly''' (trem′bli), ''a.'' [< ''tremble'' + ''-y''<sup>1</sup>.] Trembling; tremulous. [Colloq.]\n\n{{smaller block|So frankly coy, so full of ''trembly'' confidences.\n{{right|''Lowell'', Birch Tree.}}\nShe [a rabbit] sot thar ez upright an' ''trembly'' ez me.\n{{right|''M. N. Murfree'', Great Smoky Mountains, xiii.}}}}\n\n'''Tremella''' (trē-mel′ä̤), ''n.'' [NL. (Fries), so called in allusion to the gelatinous texture of the plants; < L. ''tremere'', tremble, + dim. ''-ella''.] A genus of gelatinous hymenomycetous fungi, typical of the order ''Tremellineæ'', having a non-papillate hymenium which surrounds the whole of the fungus. See ''fairy-butter''.\n\n'''Tremellineæ''' (trem-e-lin′ẹ̄-ē), ''n. pl.'' [NL., < ''Tremella'' + ''-ineæ''.] An order of hymenomycetous fungi. {{smaller|They are gelatinous, of not very definite form, commonly of wavy outline, and are saprophytic on old and dead wood. Also ''Tremellini''.}}\n\n'''tremellineous''' (trem-e-lin′ẹ̄-us), ''a.'' In ''bot.'', belonging, pertaining to, or resembling fungi of the group ''Tremellineæ''.\n\n'''tremelloid''' (trem′e-loid), ''a.'' [< ''Tremella'' + ''-oid''.] In ''bot.'', resembling the fungus ''Tremella'' in substance; jelly-like.\n\n'''tremellose''' (trem′e-lōs), ''a.'' [< L. ''tremere'', tremble, + ''-ella'' + ''-ose''.] In ''bot.'', jelly-like; shaking like jelly; of a gelatinous consistence.\n\n'''tremendous''' (trẹ̄-men′dus), ''a.'' [= Sp. Pg. It. ''tremendo'', < L. ''tremendus'', fearful, terrible, gerundive of ''tremere'', quake, tremble: see ''tremble''.] 1. Such as may or does excite trembling, fear, or awe; overpowering in character or quality; awful; dreadful: as, a ''tremendous'' explosion; ''tremendous'' invective.\n\n{{smaller block|Secondly, [a precept] about blessing, or rather not blaspheming the ''tremendous'' name of God.\n{{right|''Evelyn'', True Religion, II. 17.}}}}\n\n{{smaller block|The battle of Ravenna, one of those ''tremendous'' days into which human folly and wickedness compress the whole devastation of a famine or a plague.\n{{right|''Macaulay'', Machiavelli.}}}}\n\nHence — 2. Such as to excite astonishment or awe; unexampled; wonderful in a high degree; overwhelming; astounding: used intensively or hyperbolically.\n\n{{smaller block|The floor of each story was arched, the walls of ''tremendous'' thickness.\n{{right|''Scott'', Kenilworth, xxvi.}}}}\n\n{{smaller block|From the trees we sometimes saw hanging pythons of ''tremendous'' girth.\n{{right|''P. Robinson'', Under the Sun, p. 130.}}}}\n\n{{smaller block|The skilfullest crew that ever launched a life-boat would be dashed in pieces in a moment in those ''tremendous'' rollers.\n{{right|''Froude'', Sketches, p. 198.}}}}\n\n{{smaller|='''Syn.''' 1. Frightful, terrific, horrible, appalling.}}\n\n'''tremendously''' (trẹ̄-men′dus-li), ''adv.'' In a tremendous manner; in a manner to awe or astonish; with excessive force or magnitude.\n\n'''tremendousness''' (trẹ̄-men′dus-nes), ''n.'' The state or property of being tremendous.\n\n'''Tremex''' (trē′meks), ''n.'' [NL. (Jurine, 1807), irreg. < Gr. τρῆμα, a hole.] 1. A notable genus of hymenopterous insects, of the family ''Uroceridæ'', separated from the typical genus ''Urocerus'' only by the venation of the wings. {{smaller|''T. columba'' is a large and handsome North American horntail, the larva of which bores the trunks of shade-trees, particularly the maple, and is known as the ''pigeon-tremex.''}}\n\n2. [''l. c.''] A horntail of this genus: as, the pigeon-''tremex''.\n\n'''tremolando''' (trem-ọ̄-län′dọ̄), ''adv.'' [It., ppr. of ''tremolare'', tremble: see ''tremble.''] In ''music'', in a tremulous manner; in a manner characterized by a tremolo. Also ''tremando.''\n\n'''tremolant''' (trem′ọ̄-lant), ''n.'' [< It. ''tremolante:'' see ''tremulant.''] Same as ''tremolo'' (''d'').\n\n'''tremolite''' (trem′ọ̄-līt), ''n.'' [< ''Tremola'' (Val ''Tremola'', a valley near Airolo in the Alps, where the mineral was discovered) + ''-ite''<sup>2</sup>.] A variety of amphibole, having usually a white to gray color, and occurring in fibrous or columnar crystalline masses. {{smaller|It differs from other varieties of amphibole in containing little or no iron, being essentially a silicate of calcium and magnesium. Also called ''grammatite.''}}\n\n'''tremolitic''' (trem-ọ̄-lit′ik), ''a.'' [< ''tremolite'' + ''-ic.''] Pertaining to or characterized by the presence of tremolite: as, ''tremolitic'' marble.\n\n'''tremolo''' (trem′ọ̄-lō), ''n.'' [It., < L. ''tremulus'', shaking, quivering: see ''tremulous.''] In ''music:'' (''a'') A tremulous or fluttering effect in vocal music, intended to give a sentimental or passionate quality to the tone, but often carried to a pedantic and offensive extreme. (''b'') A similar effect in instrumental music, produced by a rapid reiteration of a tone or chord. (''c'') A similar effect in organ music, produced in the pipe-organ by means of a delicately balanced bellows attached to one of the wind-trunks, and in the reed-organ by a revolving fan. (''d'') The mechanical device in an organ by which a tremolo is produced; a tremulant. The use of such a mechanism is usually controlled by a stop-knob. Also ''tremolant, tremulant.''\n\n'''tremor''' (trem′o̤r or trē′mo̤r), ''n.'' [Formerly also ''tremour;'' < OF. ''tremeur'', F. ''trémeur'' = Sp. Pg. ''tremor'' = It. ''tremore'', < L. ''tremor'', a shaking, a quivering, < ''tremere'', shake, tremble: see ''tremble.''] '''1.''' A shaking or quivering caused by some external impulse; a close succession of short vibratory or modulatory movements; a state of trembling in a living object or substance: as, the ''tremor'' of the aspen-leaf.\n\n{{smaller block|Morauia, Bauaria, and Dacia\nWere with the earths like-horrid feuers shaken; . . .\nOne of these ''Tremors'' lasted forty dayes,\nWhen six and twenty tow'rs and castles fell.\n{{right|''Heywood'', Hierarchy of Angels, p. 570.}}}}\n\n{{smaller block|Each wave-length of light resulting from a molecular ''tremor'' of corresponding wave-length.\n{{right|''J. N. Lockyer'', Spect. Anal., p. 118.}}}}\n\n{{smaller block|Modern research has shown a typical earthquake to consist of a series of small ''tremors'' succeeded by a shock, or series of shocks.\n{{right|''J. Milne'', Earthquakes, ii.}}}}\n\n'''2.''' An involuntary or convulsive muscular shaking, quaking, or quivering, as from weakness, disorder, or emotion.\n\n{{smaller block|At first a ''tremor'' of silent fear . . .<br>Over the hearts of the people went.\n{{right|''Whittier'', The Preacher.}}}}<noinclude><references/></noinclude>"
+}

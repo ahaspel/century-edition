@@ -1,0 +1,459 @@
+{
+ "volume": 8,
+ "page_number": 277,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n276.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n276.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-13",
+  "angle": 0.0,
+  "column_width": 815,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     18,
+     81,
+     2291,
+     127
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     18,
+     127,
+     833,
+     755
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     18,
+     755,
+     833,
+     1231
+    ]
+   },
+   {
+    "name": "c1c1",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     18,
+     1231,
+     833,
+     1358
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     18,
+     1358,
+     833,
+     2096
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     18,
+     2096,
+     833,
+     2479
+    ]
+   },
+   {
+    "name": "c1c2",
+    "kind": "caption",
+    "column": 1,
+    "box": [
+     18,
+     2481,
+     833,
+     2509
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     18,
+     2509,
+     833,
+     3224
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     833,
+     127,
+     1565,
+     289
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     833,
+     289,
+     1565,
+     705
+    ]
+   },
+   {
+    "name": "c2c1",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     833,
+     708,
+     1565,
+     818
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     833,
+     818,
+     1565,
+     1834
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     833,
+     1834,
+     1565,
+     2238
+    ]
+   },
+   {
+    "name": "c2f2",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1185,
+     2249,
+     1565,
+     2992
+    ]
+   },
+   {
+    "name": "c2c2",
+    "kind": "caption",
+    "column": 2,
+    "box": [
+     1185,
+     3000,
+     1565,
+     3041
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     833,
+     2238,
+     1185,
+     3055
+    ]
+   },
+   {
+    "name": "c2s5",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     833,
+     3055,
+     1565,
+     3224
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1565,
+     127,
+     2291,
+     249
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1952,
+     249,
+     2291,
+     691
+    ]
+   },
+   {
+    "name": "c3c1",
+    "kind": "caption",
+    "column": 3,
+    "box": [
+     1952,
+     699,
+     2291,
+     722
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1565,
+     249,
+     1952,
+     754
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1565,
+     754,
+     2291,
+     1794
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1565,
+     1794,
+     2291,
+     2883
+    ]
+   },
+   {
+    "name": "c3s5",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1565,
+     2883,
+     2291,
+     3224
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|tricuspidated|6473|tridiapason}}",
+   "c1s1": "¶\n'''tricuspidated''' (trī-kus′pi-dā-ted), ''a.'' [< ''tricuspidate'' + ''-ed''<sup>2</sup>.] Same as ''tricuspidate.''\n\n{{smaller block|Over each door is a lofty ''tricuspidated'' arch.\n{{right|''W. Howitt'', Visits to Remarkable Places, p. 402.}}}}\n\n'''tricycle''' (trī′si-kl), ''n.'' [< F. ''tricycle'', < Gr. τρεῖς (τρι-), three, + κύκλος, circle, wheel.] A three-wheeled vehicle. {{smaller|Specifically — (''a''†) A three-wheeled coach. See the quotation.}}\n\n{{smaller block|''Tricycles.'' — Christmas Day was rendered memorable to the Parisians by the starting of this new species of carriage for public accommodation. The ''tricycle'' is a kind of coach, mounted on three wheels; it is drawn by two horses only. It moves very lightly, although there is an appearance of weight about it. One wheel is placed exactly as the leading wheel of the steam coach; it is capable of containing twenty persons, whom it conveys distances of at least three miles for five sous each.\n{{right|''Annual Register'' for 1828 (\"Chronicle,\" p. 185), quoted [in N. and Q., 7th ser., X. 148.}}}}\n\n{{smaller|(''b'') A modification of the velocipede or bicycle, having three wheels. The wheels are variously arranged, as two}}",
+   "c1c1": "{{c|Tricycle.}}\n{{c|''a'', driving-wheel, and ''b'', steering-wheels—all provided with solid rubber tires; ''c'', frame; ''d'', ''d′'', sprocket-wheels; ''e'', driving-chain working on the sprocket-wheels; ''f'', cranks and pedals; ''g'', saddle; ''h'', cradle-spring, upon which the saddle is mounted; ''i'', handle-bars for steering.}}",
+   "c1s2": "{{smaller|in front and one behind, or the reverse. Tricycles are made for one or two persons; in the latter case the riders sit either side by side or one before the other. Compare ''bicycle.''}}\n\n'''tricycle''' (trī′si-kl), ''v. i.''; pret. and pp. ''tricycled'', ppr. ''tricycling.'' [< ''tricycle, n.''] To ride on a tricycle. [Recent.]\n\n{{smaller block|I have heard the uninitiated say that ''tricycling'' must be so easy, just like working the velocipedes of our childhood.\n{{right|''J. and E. R. Pennell'', Canterbury Pilgrimage on a Tricycle.}}}}\n\n'''tricycler''' (trī′si-klėr), ''n.'' [< ''tricycle'' + ''-er''<sup>1</sup>.] One who rides on a tricycle. ''Harper's Mag.'', LXXVII. 491. [Recent.]\n\n'''tricyclist''' (trī′si-klist), ''n.'' [< ''tricycle'' + ''-ist.''] A tricycler. ''Bury and Hillier'', Cycling, p. 200.\n\n'''Tridacna''' (trī-dak′nä), ''n.'' [NL. (Da Costa, 1776), also erroneously ''Tridachia, Tridachna, Tridachnes''; < Gr. τρίδακνος, eaten at three bites, < τρεῖς (τρι-), three, + δάκνειν, bite.] A genus of inequilateral equivalve bivalve mollusks, forming the type of the family ''Tridacnidæ.'' {{smaller|The margin is deeply waved and indented, the opposite sides fitting}}",
+   "c1c2": "{{c|Shell of one of the Giant Clams (''Tridacna squamosa'').}}",
+   "c1s3": "{{smaller|into each other. ''T. gigas,'' the largest bivalve shell known, attains a length of 2 or 3 feet and a weight of 500 pounds or more. The animal may weigh 20 pounds or more. It is a native of the East Indian seas, and is edible. The great valves are used for various purposes, as for baptismal fonts, as receptacles for holy water, and, it is alleged, as babies' bath-tubs. The substance of the shell is extremely hard, and calcification progresses until almost every trace of organic structure is obliterated. Pieces of the shell weighing 7 or 8 pounds are used by the natives of the Caroline Islands for axes. The other species of the genus, as ''T. squamosa'' and ''T. crocea,'' are much smaller. Also called ''Pelex.'' See also cut under ''Tridacnidæ.''}}\n\n'''Tridacnacea''' (trī-dak-nā′sē-ä), ''n. pl.'' [NL., < ''Tridacna'' + ''-acea.''] A superfamily of bivalves, represented by the ''Tridacnidæ'' alone.\n\n'''tridacnacean''' (trī-dak-nā′sẹ̄-an), ''a.'' and ''n.'' [< ''Tridacnacea'' + ''-an.''] '''I.''' ''a.'' Of or pertaining to the ''Tridacnacea'' or ''Tridacnidæ.''\n\n'''II.''' ''n.'' A giant clam; any member of the ''Tridacnidæ.''\n\n'''Tridacnidæ''' (trī-dak′ni-dē), ''n. pl.'' [NL., < ''Tridacna'' + ''-idæ.''] A family of bivalves, named from the genus ''Tridacna.'' {{smaller|The mantle-lobes are ex-}}",
+   "c2s1": "tensively united, with a large pedal opening in front of the umbones of the shell; the siphonal orifices, surrounded by a thickened pallial border, are at the lower margin of the shell; the gills are double, narrow, the outer pair composed of a single lamina, the inner thick, with conspicu-",
+   "c2c1": "{{c|''Tridacnidæ.''— Anatomy of ''Tridacna crocea.''}}\n\n{{c|''a'', adductor muscle; ''b'', byssus; ''e'', valvular excurrent orifice; ''f'', foot; ''g'', gills; ''i'', inhalent orifice; ''l'', pallial muscle; ''m'', mantle-margin; ''o'', orifice for foot and byssus; ''p'', pedal retractor muscle; ''s'', siphonal border; ''t'', labial palpi.}}",
+   "c2s2": "{{smaller block|ously grooved margins; the palpi are slender and pointed; the foot is finger-like with a byssal groove; the valves are regular and truncate in front, with an external ligament and blended subcentral muscular impression formed by the large adductor with the smaller pedal retractor muscle close behind it. It is a remarkable group, including the genera ''Tridacna'' and ''Hippopus'' (''Tridacna gigas'' being the largest member of the ''Mollusca''), and is the basis of the suborder ''Metarrhiptæ'' (which see). See also cuts under ''Hippopus'' and ''Tridacna''.}}\n\n'''tridacnoid''' (trī-dak′noid), ''a.'' and ''n.'' Same as ''tridacnacean''.\n\n'''tridactyl, tridactyle''' (trī-dak′til), ''a.'' [< F. ''tridactyle'', < Gr. τριδάκτυλος, three-fingered, three fingers long, < τρεῖς (τρι-), three, + δάκτυλος, finger, toe.] 1. Having three digits, whether fingers or toes; tridigitate.—2. Having three digital parts or processes.\n\nAlso ''tridactylous''.\n\n'''Tridactyla''' (trī-dak′ti-lä), ''n.'' [NL., < Gr. τριδάκτυλος, three-fingered (three-toed): see ''tridactyl''.] In ''ornith.'', same as ''Picoides''<sup>1</sup>.\n\n'''tridactylous''' (trī-dak′ti-lus), ''a.'' [< ''tridactyl'' + ''-ous''.] Same as ''tridactyl''.\n\n'''tridaily''' (trī-dā′li), ''a.'' [< L. ''tres'' (''tri-''), three, + E. ''daily''.] Made, done, or occurring thrice a day. ''Science'', IX. 79. [Rare.]\n\n'''triddler''' (trid′lėr), ''n.'' [Origin obscure.] The pectoral sandpiper, ''Tringa maculata'': a gunners' name. ''G. Trumbull'', 1808. [New Jersey.]\n\n'''tride''' (trīd), ''a.'' [< F. ''tride'', lively, cadenced; origin obscure.] In ''hunting'', short and swift; fleet: as, a ''tride'' pace.",
+   "c2s3": "{{smaller block|''Tride'', a word signifying short and swift. A ''tride''-pace is a going of short and swift motions. A horse is said to work ''tride'' upon volts when the times he makes with his haunches are short and ready. Some apply the word only to the motion of the haunches.\n{{right|''Osbaldiston'', Sportsman's Dict., p. 635.}}}}\n\n'''tridens''' (trī′denz), ''n.'' [L.: see ''trident''.] A three-toothed or three-bladed implement or weapon.\n\n{{smaller block|In the latter example [a halberd] the axe-blade being balanced by a ''tridens''. ''J. Hewitt'', Anc. Armour, II. 269.}}\n\n'''trident''' (trī′dent), ''n.'' [= F. ''trident'' = Sp. Pg. It. ''tridente'', < L. ''triden(t-)s'', three-toothed, three-",
+   "c2c2": "{{c|Trident.— Archaistic relief of Neptune, in the Vatican.}}",
+   "c2s4": "pronged; as a noun, a three-pronged spear, a trident as an attribute of Neptune; < ''tres'' (''tri-''), three, + ''den''(''t-'')''s'' = E. ''tooth'': see ''tooth''.] 1. Any instrument of the form of a fork with three prongs; specifically, a three-pronged fish-spear.—2. A spear with three prongs, usually barb-pointed, forming a characteristic attribute of Poseidon (Neptune), the sea-god. See also cut under ''Poseidon''.\n\n{{smaller block|His nature is too noble for the world:<br>He would not flatter Neptune for his ''trident'',<br>Or Jove for 's power to thunder.\n{{right|''Shak.'', Cor., iii. 1. 256.}}}}",
+   "c2s5": "¶\n'''3.''' Hence, marine sovereignty; rule over the ocean or sea.\n\n{{smaller block|To Worlds remote she wide extends her Reign,\nAnd wields the ''Trident'' of the stormy Main.\n{{right|''Congreve'', Birth of the Muse.}}}}",
+   "c3s1": "'''4.''' In ''Rom. antiq.'', a three-pronged spear used by the retiarius in gladiatorial combats.—'''5.''' In ''geom.'', a crunodal plane cubic curve hav-",
+   "c3c1": "{{c|Trident, 5.}}",
+   "c3s2": "ing the line at infinity for one of the tangents at the node. It was discovered and named by Descartes.\n\n'''tridental†''' (trī-den′tal), ''a.'' [< ''trident'' + ''-al.''] Of or pertaining to a trident; in the form of a trident; possessing or wielding a trident.\n\n{{smaller block|The white-mouth'd water now usurps the shore,\nAnd scorns the pow'r of her ''tridental'' guide.\n{{right|''Quarles'', Emblems, i. 2.}}}}\n\n{{smaller block|Nor Juno less endured,}}",
+   "c3s3": "{{smaller block|Son of Amphitryon with ''tridental'' shaft\nHer bosom pierced. {{right|''Cowper'', Iliad, v. 458.}}}}\n\n'''tridentate''' (trī-den′tāt), ''a.'' [= F. ''tridenté'', < NL. *''tridentatus'', having three teeth, < L. ''tres'' (''tri-''), three, + ''dentatus'', toothed: see ''dentate'', and cf. ''trident''.] Having three teeth or tooth-like parts; tridentated; three-pronged.\n\n'''tridentated''' (trī-den′tā-ted), ''a.'' [< ''tridentate'' + ''-ed''<sup>2</sup>.] Same as ''tridentate''.\n\n'''tridented†''' (trī-den′ted), ''a.'' [< ''trident'' + ''-ed''<sup>2</sup>.] Having three teeth or prongs.\n\n{{smaller block|Neptune . . .\nHeld his ''tridented'' mace.\n{{right|''Quarles'', Hist. Jonah, § 6.}}}}\n\n'''tridentiferous''' (trī-den-tif′e-rus), ''a.'' [< L. ''tridentifer'', < ''triden(t-)s'', a trident, + ''ferre'' = E. ''bear''<sup>1</sup>.] Bearing a trident. ''Bailey'', 1727.\n\n'''Tridentine''' (trī-den′tin), ''a.'' and ''n.'' [< NL. ''Tridentinus'', < ML. ''Tridentum'', Trent (see def.).] '''I.''' ''a.'' 1. Pertaining to Trent, a city of Tyrol, or to the Council of Trent (1545-63): as, ''Tridentine'' decrees (that is, the decrees of the Council of Trent, the authoritative symbol of the Roman Catholic Church); ''Tridentine'' theology (that is, theology in accordance with those decrees, Roman Catholic theology).\n\n{{smaller block|The King [Henry VIII.] remained a believer in Roman Catholic forms of doctrine; but . . . those forms had not yet, by the ''Tridentine'' decrees, been hardened into their later inflexibility.\n{{right|''Stubbs'', Medieval and Modern Hist., p 261.}}}}\n\n2. Conforming to the Council of Trent, or its decrees and doctrine.",
+   "c3s4": "¶\n{{smaller block|Her [Elizabeth's] explanation of her supreme governorship might have satisfied every one but the most ''Tridentine'' papist, but she re-enacted the most stringent part of her father's act of supremacy.\n{{right|''Stubbs'', Medieval and Modern Hist., p. 324.}}}}\n\n'''Tridentine catechism.''' {{smaller|See ''catechism'', 2.}}\n\n'''II.''' ''n.'' A Roman Catholic: a name implying that the present system of Roman Catholic doctrine and practice dates from the Council of Trent (1545). {{smaller|The creeds of the Roman Catholic Church are four in number — the Apostles', the Nicene, the Athanasian, and the Creed of Pope Pius IV. The last named is also called the ''Profession of the Tridentine Faith.'' It was formulated in 1564, and includes the Nicene Creed, a summary of the doctrines defined by the Council of Trent, a recognition of the Roman Church as mother and teacher of all churches, and an oath of obedience to the Pope as successor of St. Peter and vicar of Christ. With the addition of the doctrines of the immaculate conception (promulgated in 1854) and the papal infallibility (defined in 1870), this creed is that which must be accepted by converts to the Roman Church, except those from the Greek Church (for whom special forms are provided), and is incumbent on all Roman Catholic priests and teachers.}}\n\n{{smaller block|They called the council of Chalcedon a \"council of fools,\" and styled the Catholics Chalcedonians, just as Anglicans have styled Catholics of the present day ''Tridentines.''\n{{right|''Dublin Rev.'' (''Imp. Dict.'')}}}}\n\n'''Tridentipes''' (trī-den′ti-pēz), ''n.'' [NL. (Hitchcock, 1858), < L. ''tres'' (''tri-''), three, + ''dens'' (''dent-'') = E. ''tooth'', + ''pes'' = E. ''foot''.] A genus of gigantic animals, formerly supposed to be birds, now believed to be dinosaurian reptiles, known by their footprints in the Triassic formation of the Connecticut valley.\n\n'''triderivative''' (trī-dē-riv′ạ-tiv), ''n.'' [< Gr. τρεῖς (τρι-), three, + E. ''derivative''.] In ''chem.'', a derivative in which there are three substituted",
+   "c3s5": "atoms or radicals of the same kind: as, trichloracetic acid is a ''triderivative'' of acetic acid.\n\n'''tridge†''', ''v. i.'' An obsolete form of ''trudge''<sup>1</sup>.\n\n'''tridiametral''' (trī-dī-am′e-trạl), ''a.'' [< Gr. τρεῖς (τρι-), three, + διάμετρος, diameter: see ''diametral.''] Having three diameters.\n\n'''tridiapason''' (trī-dī-ạ-pā′zọn), ''n.'' [< Gr. τρεῖς (τρι-), three, + διαπασῶν, diapason: see ''diapason.''] In ''music'', a triple octave, or twenty-second."
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0277 c1f1.png",
+   "c1f2": "century v08 p0277 c1f2.png",
+   "c2f1": "century v08 p0277 c2f1.png",
+   "c2f2": "century v08 p0277 c2f2.png",
+   "c3f1": "century v08 p0277 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     911,
+     288,
+     1489,
+     700
+    ],
+    "caption": [
+     853,
+     708,
+     1555,
+     818
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     913,
+     283,
+     1549,
+     667
+    ]
+   },
+   {
+    "box": [
+     130,
+     758,
+     742,
+     1230
+    ],
+    "caption": [
+     134,
+     1228,
+     824,
+     1358
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     110,
+     758,
+     751,
+     1231
+    ]
+   },
+   {
+    "box": [
+     228,
+     2114,
+     720,
+     2473
+    ],
+    "caption": [
+     184,
+     2484,
+     755,
+     2509
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     281,
+     2117,
+     740,
+     2477
+    ]
+   },
+   {
+    "box": [
+     1199,
+     2250,
+     1561,
+     2992
+    ],
+    "caption": [
+     1199,
+     3000,
+     1557,
+     3041
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1189,
+     2250,
+     1560,
+     2994
+    ]
+   },
+   {
+    "box": [
+     1964,
+     250,
+     2265,
+     691
+    ],
+    "caption": [
+     2068,
+     699,
+     2177,
+     722
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1960,
+     208,
+     2270,
+     685
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    2,
+    1
+   ],
+   "2": [
+    2,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 6,
+    "input_tokens": 10303,
+    "output_tokens": 424,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 19,
+    "input_tokens": 8139,
+    "output_tokens": 9287,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 51566
+   }
+  },
+  "captions_marked": true
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|tricuspidated|6473|tridiapason}}</noinclude>'''tricuspidated''' (trī-kus′pi-dā-ted), ''a.'' [< ''tricuspidate'' + ''-ed''<sup>2</sup>.] Same as ''tricuspidate.''\n\n{{smaller block|Over each door is a lofty ''tricuspidated'' arch.\n{{right|''W. Howitt'', Visits to Remarkable Places, p. 402.}}}}\n\n'''tricycle''' (trī′si-kl), ''n.'' [< F. ''tricycle'', < Gr. τρεῖς (τρι-), three, + κύκλος, circle, wheel.] A three-wheeled vehicle. {{smaller|Specifically — (''a''†) A three-wheeled coach. See the quotation.}}\n\n{{smaller block|''Tricycles.'' — Christmas Day was rendered memorable to the Parisians by the starting of this new species of carriage for public accommodation. The ''tricycle'' is a kind of coach, mounted on three wheels; it is drawn by two horses only. It moves very lightly, although there is an appearance of weight about it. One wheel is placed exactly as the leading wheel of the steam coach; it is capable of containing twenty persons, whom it conveys distances of at least three miles for five sous each.\n{{right|''Annual Register'' for 1828 (\"Chronicle,\" p. 185), quoted [in N. and Q., 7th ser., X. 148.}}}}\n\n{{smaller|(''b'') A modification of the velocipede or bicycle, having three wheels. The wheels are variously arranged, as two in front and one behind, or the reverse. Tricycles are made for one or two persons; in the latter case the riders sit either side by side or one before the other. Compare ''bicycle.''}}\n\n[[File:century v08 p0277 c1f1.png|center|360px]]\n{{c|Tricycle.}}\n{{c|''a'', driving-wheel, and ''b'', steering-wheels—all provided with solid rubber tires; ''c'', frame; ''d'', ''d′'', sprocket-wheels; ''e'', driving-chain working on the sprocket-wheels; ''f'', cranks and pedals; ''g'', saddle; ''h'', cradle-spring, upon which the saddle is mounted; ''i'', handle-bars for steering.}}\n\n'''tricycle''' (trī′si-kl), ''v. i.''; pret. and pp. ''tricycled'', ppr. ''tricycling.'' [< ''tricycle, n.''] To ride on a tricycle. [Recent.]\n\n{{smaller block|I have heard the uninitiated say that ''tricycling'' must be so easy, just like working the velocipedes of our childhood.\n{{right|''J. and E. R. Pennell'', Canterbury Pilgrimage on a Tricycle.}}}}\n\n'''tricycler''' (trī′si-klėr), ''n.'' [< ''tricycle'' + ''-er''<sup>1</sup>.] One who rides on a tricycle. ''Harper's Mag.'', LXXVII. 491. [Recent.]\n\n'''tricyclist''' (trī′si-klist), ''n.'' [< ''tricycle'' + ''-ist.''] A tricycler. ''Bury and Hillier'', Cycling, p. 200.\n\n'''Tridacna''' (trī-dak′nä), ''n.'' [NL. (Da Costa, 1776), also erroneously ''Tridachia, Tridachna, Tridachnes''; < Gr. τρίδακνος, eaten at three bites, < τρεῖς (τρι-), three, + δάκνειν, bite.] A genus of inequilateral equivalve bivalve mollusks, forming the type of the family ''Tridacnidæ.'' {{smaller|The margin is deeply waved and indented, the opposite sides fitting into each other. ''T. gigas,'' the largest bivalve shell known, attains a length of 2 or 3 feet and a weight of 500 pounds or more. The animal may weigh 20 pounds or more. It is a native of the East Indian seas, and is edible. The great valves are used for various purposes, as for baptismal fonts, as receptacles for holy water, and, it is alleged, as babies' bath-tubs. The substance of the shell is extremely hard, and calcification progresses until almost every trace of organic structure is obliterated. Pieces of the shell weighing 7 or 8 pounds are used by the natives of the Caroline Islands for axes. The other species of the genus, as ''T. squamosa'' and ''T. crocea,'' are much smaller. Also called ''Pelex.'' See also cut under ''Tridacnidæ.''}}\n\n[[File:century v08 p0277 c1f2.png|center|360px]]\n{{c|Shell of one of the Giant Clams (''Tridacna squamosa'').}}\n\n'''Tridacnacea''' (trī-dak-nā′sē-ä), ''n. pl.'' [NL., < ''Tridacna'' + ''-acea.''] A superfamily of bivalves, represented by the ''Tridacnidæ'' alone.\n\n'''tridacnacean''' (trī-dak-nā′sẹ̄-an), ''a.'' and ''n.'' [< ''Tridacnacea'' + ''-an.''] '''I.''' ''a.'' Of or pertaining to the ''Tridacnacea'' or ''Tridacnidæ.''\n\n'''II.''' ''n.'' A giant clam; any member of the ''Tridacnidæ.''\n\n'''Tridacnidæ''' (trī-dak′ni-dē), ''n. pl.'' [NL., < ''Tridacna'' + ''-idæ.''] A family of bivalves, named from the genus ''Tridacna.'' {{smaller|The mantle-lobes are extensively}} united, with a large pedal opening in front of the umbones of the shell; the siphonal orifices, surrounded by a thickened pallial border, are at the lower margin of the shell; the gills are double, narrow, the outer pair composed of a single lamina, the inner thick, with conspicu{{smaller block|ously grooved margins; the palpi are slender and pointed; the foot is finger-like with a byssal groove; the valves are regular and truncate in front, with an external ligament and blended subcentral muscular impression formed by the large adductor with the smaller pedal retractor muscle close behind it. It is a remarkable group, including the genera ''Tridacna'' and ''Hippopus'' (''Tridacna gigas'' being the largest member of the ''Mollusca''), and is the basis of the suborder ''Metarrhiptæ'' (which see). See also cuts under ''Hippopus'' and ''Tridacna''.}}\n\n[[File:century v08 p0277 c2f1.png|center|323px]]\n{{c|''Tridacnidæ.''— Anatomy of ''Tridacna crocea.''}}\n\n{{c|''a'', adductor muscle; ''b'', byssus; ''e'', valvular excurrent orifice; ''f'', foot; ''g'', gills; ''i'', inhalent orifice; ''l'', pallial muscle; ''m'', mantle-margin; ''o'', orifice for foot and byssus; ''p'', pedal retractor muscle; ''s'', siphonal border; ''t'', labial palpi.}}\n\n'''tridacnoid''' (trī-dak′noid), ''a.'' and ''n.'' Same as ''tridacnacean''.\n\n'''tridactyl, tridactyle''' (trī-dak′til), ''a.'' [< F. ''tridactyle'', < Gr. τριδάκτυλος, three-fingered, three fingers long, < τρεῖς (τρι-), three, + δάκτυλος, finger, toe.] 1. Having three digits, whether fingers or toes; tridigitate.—2. Having three digital parts or processes.\n\nAlso ''tridactylous''.\n\n'''Tridactyla''' (trī-dak′ti-lä), ''n.'' [NL., < Gr. τριδάκτυλος, three-fingered (three-toed): see ''tridactyl''.] In ''ornith.'', same as ''Picoides''<sup>1</sup>.\n\n'''tridactylous''' (trī-dak′ti-lus), ''a.'' [< ''tridactyl'' + ''-ous''.] Same as ''tridactyl''.\n\n'''tridaily''' (trī-dā′li), ''a.'' [< L. ''tres'' (''tri-''), three, + E. ''daily''.] Made, done, or occurring thrice a day. ''Science'', IX. 79. [Rare.]\n\n'''triddler''' (trid′lėr), ''n.'' [Origin obscure.] The pectoral sandpiper, ''Tringa maculata'': a gunners' name. ''G. Trumbull'', 1808. [New Jersey.]\n\n'''tride''' (trīd), ''a.'' [< F. ''tride'', lively, cadenced; origin obscure.] In ''hunting'', short and swift; fleet: as, a ''tride'' pace. {{smaller block|''Tride'', a word signifying short and swift. A ''tride''-pace is a going of short and swift motions. A horse is said to work ''tride'' upon volts when the times he makes with his haunches are short and ready. Some apply the word only to the motion of the haunches.\n{{right|''Osbaldiston'', Sportsman's Dict., p. 635.}}}}\n\n'''tridens''' (trī′denz), ''n.'' [L.: see ''trident''.] A three-toothed or three-bladed implement or weapon.\n\n{{smaller block|In the latter example [a halberd] the axe-blade being balanced by a ''tridens''. ''J. Hewitt'', Anc. Armour, II. 269.}}\n\n'''trident''' (trī′dent), ''n.'' [= F. ''trident'' = Sp. Pg. It. ''tridente'', < L. ''triden(t-)s'', three-toothed, threepronged; as a noun, a three-pronged spear, a trident as an attribute of Neptune; < ''tres'' (''tri-''), three, + ''den''(''t-'')''s'' = E. ''tooth'': see ''tooth''.] 1. Any instrument of the form of a fork with three prongs; specifically, a three-pronged fish-spear.—2. A spear with three prongs, usually barb-pointed, forming a characteristic attribute of Poseidon (Neptune), the sea-god. See also cut under ''Poseidon''.\n\n[[File:century v08 p0277 c2f2.png|center|168px]]\n{{c|Trident.— Archaistic relief of Neptune, in the Vatican.}}\n\n{{smaller block|His nature is too noble for the world:<br>He would not flatter Neptune for his ''trident'',<br>Or Jove for 's power to thunder.\n{{right|''Shak.'', Cor., iii. 1. 256.}}}}\n\n'''3.''' Hence, marine sovereignty; rule over the ocean or sea.\n\n{{smaller block|To Worlds remote she wide extends her Reign,\nAnd wields the ''Trident'' of the stormy Main.\n{{right|''Congreve'', Birth of the Muse.}}}} '''4.''' In ''Rom. antiq.'', a three-pronged spear used by the retiarius in gladiatorial combats.—'''5.''' In ''geom.'', a crunodal plane cubic curve having the line at infinity for one of the tangents at the node. It was discovered and named by Descartes.\n\n[[File:century v08 p0277 c3f1.png|center|150px]]\n{{c|Trident, 5.}}\n\n'''tridental†''' (trī-den′tal), ''a.'' [< ''trident'' + ''-al.''] Of or pertaining to a trident; in the form of a trident; possessing or wielding a trident.\n\n{{smaller block|The white-mouth'd water now usurps the shore,\nAnd scorns the pow'r of her ''tridental'' guide.\n{{right|''Quarles'', Emblems, i. 2.}}}}\n\n{{smaller block|Nor Juno less endured, Son of Amphitryon with ''tridental'' shaft\nHer bosom pierced. {{right|''Cowper'', Iliad, v. 458.}}}}\n\n'''tridentate''' (trī-den′tāt), ''a.'' [= F. ''tridenté'', < NL. *''tridentatus'', having three teeth, < L. ''tres'' (''tri-''), three, + ''dentatus'', toothed: see ''dentate'', and cf. ''trident''.] Having three teeth or tooth-like parts; tridentated; three-pronged.\n\n'''tridentated''' (trī-den′tā-ted), ''a.'' [< ''tridentate'' + ''-ed''<sup>2</sup>.] Same as ''tridentate''.\n\n'''tridented†''' (trī-den′ted), ''a.'' [< ''trident'' + ''-ed''<sup>2</sup>.] Having three teeth or prongs.\n\n{{smaller block|Neptune . . .\nHeld his ''tridented'' mace.\n{{right|''Quarles'', Hist. Jonah, § 6.}}}}\n\n'''tridentiferous''' (trī-den-tif′e-rus), ''a.'' [< L. ''tridentifer'', < ''triden(t-)s'', a trident, + ''ferre'' = E. ''bear''<sup>1</sup>.] Bearing a trident. ''Bailey'', 1727.\n\n'''Tridentine''' (trī-den′tin), ''a.'' and ''n.'' [< NL. ''Tridentinus'', < ML. ''Tridentum'', Trent (see def.).] '''I.''' ''a.'' 1. Pertaining to Trent, a city of Tyrol, or to the Council of Trent (1545-63): as, ''Tridentine'' decrees (that is, the decrees of the Council of Trent, the authoritative symbol of the Roman Catholic Church); ''Tridentine'' theology (that is, theology in accordance with those decrees, Roman Catholic theology).\n\n{{smaller block|The King [Henry VIII.] remained a believer in Roman Catholic forms of doctrine; but . . . those forms had not yet, by the ''Tridentine'' decrees, been hardened into their later inflexibility.\n{{right|''Stubbs'', Medieval and Modern Hist., p 261.}}}}\n\n2. Conforming to the Council of Trent, or its decrees and doctrine.\n\n{{smaller block|Her [Elizabeth's] explanation of her supreme governorship might have satisfied every one but the most ''Tridentine'' papist, but she re-enacted the most stringent part of her father's act of supremacy.\n{{right|''Stubbs'', Medieval and Modern Hist., p. 324.}}}}\n\n'''Tridentine catechism.''' {{smaller|See ''catechism'', 2.}}\n\n'''II.''' ''n.'' A Roman Catholic: a name implying that the present system of Roman Catholic doctrine and practice dates from the Council of Trent (1545). {{smaller|The creeds of the Roman Catholic Church are four in number — the Apostles', the Nicene, the Athanasian, and the Creed of Pope Pius IV. The last named is also called the ''Profession of the Tridentine Faith.'' It was formulated in 1564, and includes the Nicene Creed, a summary of the doctrines defined by the Council of Trent, a recognition of the Roman Church as mother and teacher of all churches, and an oath of obedience to the Pope as successor of St. Peter and vicar of Christ. With the addition of the doctrines of the immaculate conception (promulgated in 1854) and the papal infallibility (defined in 1870), this creed is that which must be accepted by converts to the Roman Church, except those from the Greek Church (for whom special forms are provided), and is incumbent on all Roman Catholic priests and teachers.}}\n\n{{smaller block|They called the council of Chalcedon a \"council of fools,\" and styled the Catholics Chalcedonians, just as Anglicans have styled Catholics of the present day ''Tridentines.''\n{{right|''Dublin Rev.'' (''Imp. Dict.'')}}}}\n\n'''Tridentipes''' (trī-den′ti-pēz), ''n.'' [NL. (Hitchcock, 1858), < L. ''tres'' (''tri-''), three, + ''dens'' (''dent-'') = E. ''tooth'', + ''pes'' = E. ''foot''.] A genus of gigantic animals, formerly supposed to be birds, now believed to be dinosaurian reptiles, known by their footprints in the Triassic formation of the Connecticut valley.\n\n'''triderivative''' (trī-dē-riv′ạ-tiv), ''n.'' [< Gr. τρεῖς (τρι-), three, + E. ''derivative''.] In ''chem.'', a derivative in which there are three substituted atoms or radicals of the same kind: as, trichloracetic acid is a ''triderivative'' of acetic acid.\n\n'''tridge†''', ''v. i.'' An obsolete form of ''trudge''<sup>1</sup>.\n\n'''tridiametral''' (trī-dī-am′e-trạl), ''a.'' [< Gr. τρεῖς (τρι-), three, + διάμετρος, diameter: see ''diametral.''] Having three diameters.\n\n'''tridiapason''' (trī-dī-ạ-pā′zọn), ''n.'' [< Gr. τρεῖς (τρι-), three, + διαπασῶν, diapason: see ''diapason.''] In ''music'', a triple octave, or twenty-second.<noinclude><references/></noinclude>"
+}
