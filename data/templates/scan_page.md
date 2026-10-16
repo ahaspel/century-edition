@@ -19,3 +19,9 @@ seems to end in a small raised t is ending in †. Write the dagger, never t.
 
 Quotations follow a sense in smaller type, each on its own lines, with its
 source set flush right beneath it.
+
+Each letter of the alphabet opens with a large ornamental capital, several lines
+tall, set into the first lines of its first entry (the A beside "1. The first
+letter in the English alphabet"). It is that letter, not an illustration:
+transcribe it as the letter, in bold, where the entry begins ('''A'''), never
+as a figure.

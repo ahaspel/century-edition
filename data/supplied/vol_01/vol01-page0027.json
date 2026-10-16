@@ -1,0 +1,253 @@
+{
+ "volume": 1,
+ "page_number": 27,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n26.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n26.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-16",
+  "angle": -0.2,
+  "column_width": 760,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     65,
+     198,
+     2261,
+     253
+    ]
+   },
+   {
+    "name": "c0s1",
+    "kind": "text",
+    "column": 0,
+    "box": [
+     65,
+     253,
+     2261,
+     865
+    ]
+   },
+   {
+    "name": "c0f1",
+    "kind": "figure",
+    "column": 0,
+    "box": [
+     65,
+     253,
+     2261,
+     865
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     65,
+     865,
+     788,
+     1936
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     65,
+     1936,
+     788,
+     2739
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     131,
+     2229,
+     703,
+     2364
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     65,
+     2739,
+     788,
+     3313
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     788,
+     865,
+     1531,
+     1935
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     788,
+     1935,
+     1531,
+     3026
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     788,
+     3026,
+     1531,
+     3313
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1531,
+     865,
+     2261,
+     1942
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1531,
+     1942,
+     2261,
+     3003
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1531,
+     3003,
+     2261,
+     3313
+    ]
+   }
+  ],
+  "readings": {
+   "head": "",
+   "c0s1": "[[FIGURE]]",
+   "c1s1": "",
+   "c1s2": "originate, according to De Rougé's theory. It is to be noticed that our ordinary capitals are the original forms of our letters; the lower-case, Italic, and written letters are all derived from the capitals. Our A corresponds to the Phenician letter called ''aleph;'' and this name, signifying \"ox,\" is also the original of the Greek name of the same letter, ''alpha.'' The comparative scheme for A is as follows:\n[[FIGURE]]\n{{c|Egyptian. Hieroglyphic. Hieratic. Pheni-cian. Early Greek and Latin.}}\nThe Phenician ''aleph'' was not a proper vowel-sign, but rather a quasi-consonantal one, to which an initial vowel-sound, of whatever kind, attached itself; since the fundamental plan of that alphabet assumed that every syllable should begin with a consonant. But the Greeks, in adapting the borrowed alphabet to their own use, made the sign represent a single vowel-sound: that, namely, which we usually call the \"Italian\" or \"Continental\" ''a'' (ä), as",
+   "c1s3": "heard in ''far'', ''father''. This was its value in the Latin also, and in the various alphabets founded on the Latin, including that of our own ancestors, the speakers and writers of earliest English or Anglo-Saxon; and it is mainly retained to the present time in the languages of continental Europe. In consequence, however, of the gradual and pervading change of utterance of English words, without corresponding change in the mode of writing them, it has come to have in our use a variety of values. The sound of ''a'' in ''far'' is the purest and most fundamental of vowel-sounds, being that which is naturally sent forth by the human organs of utterance when the mouth and throat are widely opened, and the tone from the larynx suffered to come\n1",
+   "c2s1": "out with least modifying interference by the parts of the mouth. On the other hand, in the production of the ''i''-sound of ''machine'' or ''pique'' and the ''u''-sound of ''rule'' (or double ''o'' of ''pool''), the organs are brought quite nearly together: in the case of ''i'', the flat of the tongue and the roof of the mouth; in the case of ''u'', the rounded lips. Hence these vowels approach a consonantal character, and pass with little or no alteration into ''y'' and ''w'' respectively. Then ''e'' and ''o'' (as in ''they'' and ''note'') are intermediate respectively between ''a'' (ä) and ''i'' and ''a'' (ä) and ''u''; and the sounds in ''fat'' and ''fall'' are still less removed in either direction from ''a'' (ä). The pure or original sound of ''a'' (''far'') is more prevalent in earlier stages of language, and is constantly being weakened or closened into the other vowel-sounds, which are to a great extent derived from it; and this process has gone on in English on a larger scale than in almost any other known language. Hence the ''a''-sound (as in ''far'') is very rare with us (less than half of one per cent. of our whole utterance, or not a tenth part as frequent as the sound of ''i'' in ''pit'' or as that of ''u'' in ''but''); its short sound has been so generally flattened into that in ''fat'', and its long sound into that in ''fate'', that we now call these sounds respectively \"short ''a''\" and \"long ''a''\"; and, on the other hand, it has in many words been broadened or rounded into the sound heard in ''all''",
+   "c2s2": "and ''fall.'' Thus the most usual sounds of English written ''a'' are now, in the order of their frequency, those in ''fat, fate, fall, far;'' there are also a few cases like the ''a'' in ''what'' and ''was'' (after a ''w''-sound, nearly a corresponding short to the ''a'' of ''all''), ''many'' (a \"short ''e''\"), and others yet more sporadic. In syllables of least stress and distinctness, too, as in the first and third syllables of ''abundant'' and ''abundance,'' it is universally uttered with the \"short ''u''\" sound of ''but.'' The \"long ''a''\" of ''fate'' is not strictly one sound, but ends with a vanishing sound of \"long ''e''\": ''i. e.,'' it is a slide from the ''e''-sound of ''they'' down to the ''i''-sound of ''pique.'' From this vanish the ''a'' of ''fare'' and ''bare'' and their like is free, while it has also an opener sound, and is even, in the mouths of many speakers, indistinguishable in quality from the \"short ''a''\" of ''fat;'' hence the ''a''-sound of ''fare'' is in the respellings of this work written with ã, to distinguish it from the sound in ''fate.'' There is also a class of words, like ''ask, fast, ant,'' in which some pronounce the vowel simply as \"short ''a,''\" while some give it the full open sound of ''a'' in ''far'', and yet others make it something intermediate between the two: such an ''a'' is represented in this work by ȧ. ''A'' occurs as final only in a very few proper English words; and it is never doubled in such words.—'''2.''' As a ''symbol,'' ''a'' denotes the first of an actual or possible series. Specifically—(''a'') In ''music,'' the name of the sixth note of the natural diatonic scale of C, or the first note of the relative minor scale; the ''la'' of Italian, French,",
+   "c2s3": "and Spanish musicians. {{smaller|It is the note sounded by the open second string of the violin, and to it as given by a fixed-toned instrument (as the oboe or organ) all the instruments of an orchestra are tuned.}} (''b'') In the mnemonic words of ''logic'', the universal affirmative proposition, as, all men are mortal. {{smaller|Similarly, ''I'' stands for the particular affirmative, as, some men are mortal; ''E'' for the universal negative, as, no men are mortal; ''O'' for the particular negative, as, some}}",
+   "c3s1": "{{smaller|men are not mortal. The use of these symbols dates from the thirteenth century; they appear to be arbitrary applications of the vowels ''a'', ''e'', ''i'', ''o'', but are usually supposed to have been taken from the Latin ''AffIrmo'', I affirm, and ''nEgO'', I deny. But some authorities maintain that their use in Greek is much older.}} (''c'') In ''math.'': In ''algebra'', ''a'', ''b'', ''c'', etc., the first letters of the alphabet, stand for known quantities, while ''x'', ''y'', ''z'', the last letters, stand for unknown quantities; in ''geometry'', ''A'', ''B'', ''C'', etc., are used to name points, lines, and figures. (''d'') In abstract reasoning, suppositions, etc., ''A'', ''B'', ''C'', etc., denote each a particular person or thing in relation to the others of a series or group. (''e'') In ''writing'' and ''printing'', ''a'', ''b'', ''c'', etc., are used instead of or in addition to the Arabic figures in marking paragraphs or other divisions, or in making references. (''f'') In ''naut. lang.'', ''A'' 1, ''A'' 2, etc., are symbols used in the Record of American and Foreign Shipping, and in Lloyd's Register of British and Foreign Shipping, to denote the relative rating of merchant vessels. {{smaller|In the former, the character assigned to vessels by the surveyors is expressed by the numbers from 1 to 3, A1 standing for the highest and A3 for the lowest grade. The numbers 1½, 1¾, 2, 2½ express intermediate degrees of seaworthiness. Vessels classed as A1 or A1½ are regarded as fit for the carriage of all kinds of cargoes on all kinds of voyages for a specified term of years; those classed as A1¾ or A2, for all cargoes on Atlantic voyages, and in exceptional cases on long voyages, and for such cargoes as oil, sugar, molasses, etc., on any voyage; those classed as A2½ or A3, for coasting voyages only, with wood or coal. In Lloyd's Register, the letters A, A (in red), Æ, and E are used to denote various}}",
+   "c3s2": "{{smaller|degrees of excellence in the hulls of ships, the figure 1 being added to express excellence of equipment, such as masts and rigging in sailing-ships, or boilers and engines in steamers. The broad A in the British Lloyd's indicates a ship built of iron. In the American Register, the annexed figures do not refer to the equipment.—Hence, in commerce, ''A1'' is used to denote the highest mercantile credit; and colloquially ''A1'', or in the United States ''A No.'' 1, is an adjective of commendation, like ''first-class'', ''first-rate'': as, an ''A1'' speaker.}}\n{{smaller block|\"He must be a first-rater,\" said Sam. \"''A'' 1,\" replied Mr. Roker.\n{{right|''Dickens'', Pickwick Papers.}}}}\n{{smaller block|An ''A number one'' cook, and no mistake.\n{{right|''Mrs. Stowe'', Dred.}}}}\n3. As an ''abbreviation'', ''a'' stands, according to context, for ''acre'', ''acting'', ''adjective'', ''answer'', ''are'' (in the metric system), ''argent'' (in ''her.''), ''anal'' (anal fin, in ''ichth.''), ''anechinoplacid'' (in echinoderms), etc.; in ''com.'', for ''approved'', for ''accepted'', and for Latin ''ad'' (commonly written ''@''), \"at\" or \"to\": as, 500 shares L. I. preferred ''@'' 67½; 25 ''@'' 30 cents per yard.—4. ''Attrib.'', having the form of the capital A, as a tent.\n{{smaller block|The common or ''A'' tent, for the use of enlisted men.\n{{right|''Wilhelm'', Mil. Dict.}}}}\n\n'''a'''<sup>2</sup> (a or ā), ''indef. art.'' [< ME. ''a'' (before consonants), earlier ''an'', orig. with long vowel, < AS. ''ān'', one, an: see ''an''<sup>1</sup>.] The form of ''an'' used before consonants and words beginning with a consonant-sound: as, ''a'' man, ''a'' woman, ''a'' year, ''a'' union, ''a'' eulogy, ''a'' oneness, ''a'' hope. ''An'', however, was formerly often used before the sounds of ''h'' and initial long ''u'' and ''eu'' even in accented syllables (as, ''an'' hospital, ''an'' union), and is still retained by some before",
+   "c3s3": "those sounds in unaccented syllables (as, ''an'' historian, ''an'' united whole, ''an'' euphonious sound). {{smaller|The form ''a'' first appeared about the beginning of the thirteenth century. It is placed before nouns of the singular number, and also before plural nouns when ''few'' or ''great many'' is interposed. [''Few'' was originally singular as well as plural, and the article was singular (ME. ''a'') or plural (ME. ''ane'') to agree with it. In the phrase ''a great many'', the article agrees with ''many'', which is properly a noun (AS. ''menigu'': see ''many''<sup>1</sup>, ''n.''); the following plural}}"
+  },
+  "figure_files": {
+   "c0f1": "century v01 p0027 c0f1.png",
+   "c1f1": "century v01 p0027 c1f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     75,
+     198,
+     2253,
+     865
+    ],
+    "caption": null,
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     64,
+     194,
+     2350,
+     917
+    ]
+   },
+   {
+    "box": [
+     143,
+     2241,
+     691,
+     2352
+    ],
+    "caption": [
+     102,
+     2363,
+     733,
+     2408
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     137,
+     2245,
+     696,
+     2373
+    ]
+   }
+  ],
+  "across": [
+   [
+    160,
+    3286,
+    187,
+    3313
+   ]
+  ],
+  "refused": [],
+  "unread": {
+   "c1s1": "1 figure mark(s) for 0 figure(s)"
+  },
+  "rejected": {
+   "c1s1": "¶\n[[FIGURE]]\n1. The first letter in the English alphabet, as also generally in the other alphabets which, like the English, come ultimately from the Phenician. Our letters are the same as those used by the Romans; the Roman or Latin alphabet is one of several Italian alphabets derived from the Greek; and the Greek alphabet is, with a few adaptations and additions, formed from the Phenician. As to the origin of the Phenician alphabet, opinions are by no means agreed; but the view now most widely current is that put forth and supported a few years ago by the French scholar De Rougé: namely, that the Phenician characters are derived from early Egyptian hieratic characters, or abbreviated forms of written hieroglyphs. Under each letter will be given in this work the Phenician character from which it comes, along with an early form or two of the Greek and Latin derived characters (especially intended to show the change of direction of the letter consequent upon the change of direction of writing, since the Phenician was always written from right to left); and to these will be added the hieratic and hieroglyphic characters from which the Phenician is held to"
+  },
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 3,
+    "input_tokens": 5716,
+    "output_tokens": 566,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 13,
+    "input_tokens": 10523,
+    "output_tokens": 6485,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47424
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"2\" user=\"transcriber\" /></noinclude>{{nop}}[[File:century v01 p0027 c0f1.png|center|1040px]]\n\n originate, according to De Rougé's theory. It is to be noticed that our ordinary capitals are the original forms of our letters; the lower-case, Italic, and written letters are all derived from the capitals. Our A corresponds to the Phenician letter called ''aleph;'' and this name, signifying \"ox,\" is also the original of the Greek name of the same letter, ''alpha.'' The comparative scheme for A is as follows:\n[[File:century v01 p0027 c1f1.png|center|271px]]\n{{c|Egyptian. Hieroglyphic. Hieratic. Pheni-cian. Early Greek and Latin.}}\nThe Phenician ''aleph'' was not a proper vowel-sign, but rather a quasi-consonantal one, to which an initial vowel-sound, of whatever kind, attached itself; since the fundamental plan of that alphabet assumed that every syllable should begin with a consonant. But the Greeks, in adapting the borrowed alphabet to their own use, made the sign represent a single vowel-sound: that, namely, which we usually call the \"Italian\" or \"Continental\" ''a'' (ä), as heard in ''far'', ''father''. This was its value in the Latin also, and in the various alphabets founded on the Latin, including that of our own ancestors, the speakers and writers of earliest English or Anglo-Saxon; and it is mainly retained to the present time in the languages of continental Europe. In consequence, however, of the gradual and pervading change of utterance of English words, without corresponding change in the mode of writing them, it has come to have in our use a variety of values. The sound of ''a'' in ''far'' is the purest and most fundamental of vowel-sounds, being that which is naturally sent forth by the human organs of utterance when the mouth and throat are widely opened, and the tone from the larynx suffered to come\n1 out with least modifying interference by the parts of the mouth. On the other hand, in the production of the ''i''-sound of ''machine'' or ''pique'' and the ''u''-sound of ''rule'' (or double ''o'' of ''pool''), the organs are brought quite nearly together: in the case of ''i'', the flat of the tongue and the roof of the mouth; in the case of ''u'', the rounded lips. Hence these vowels approach a consonantal character, and pass with little or no alteration into ''y'' and ''w'' respectively. Then ''e'' and ''o'' (as in ''they'' and ''note'') are intermediate respectively between ''a'' (ä) and ''i'' and ''a'' (ä) and ''u''; and the sounds in ''fat'' and ''fall'' are still less removed in either direction from ''a'' (ä). The pure or original sound of ''a'' (''far'') is more prevalent in earlier stages of language, and is constantly being weakened or closened into the other vowel-sounds, which are to a great extent derived from it; and this process has gone on in English on a larger scale than in almost any other known language. Hence the ''a''-sound (as in ''far'') is very rare with us (less than half of one per cent. of our whole utterance, or not a tenth part as frequent as the sound of ''i'' in ''pit'' or as that of ''u'' in ''but''); its short sound has been so generally flattened into that in ''fat'', and its long sound into that in ''fate'', that we now call these sounds respectively \"short ''a''\" and \"long ''a''\"; and, on the other hand, it has in many words been broadened or rounded into the sound heard in ''all'' and ''fall.'' Thus the most usual sounds of English written ''a'' are now, in the order of their frequency, those in ''fat, fate, fall, far;'' there are also a few cases like the ''a'' in ''what'' and ''was'' (after a ''w''-sound, nearly a corresponding short to the ''a'' of ''all''), ''many'' (a \"short ''e''\"), and others yet more sporadic. In syllables of least stress and distinctness, too, as in the first and third syllables of ''abundant'' and ''abundance,'' it is universally uttered with the \"short ''u''\" sound of ''but.'' The \"long ''a''\" of ''fate'' is not strictly one sound, but ends with a vanishing sound of \"long ''e''\": ''i. e.,'' it is a slide from the ''e''-sound of ''they'' down to the ''i''-sound of ''pique.'' From this vanish the ''a'' of ''fare'' and ''bare'' and their like is free, while it has also an opener sound, and is even, in the mouths of many speakers, indistinguishable in quality from the \"short ''a''\" of ''fat;'' hence the ''a''-sound of ''fare'' is in the respellings of this work written with ã, to distinguish it from the sound in ''fate.'' There is also a class of words, like ''ask, fast, ant,'' in which some pronounce the vowel simply as \"short ''a,''\" while some give it the full open sound of ''a'' in ''far'', and yet others make it something intermediate between the two: such an ''a'' is represented in this work by ȧ. ''A'' occurs as final only in a very few proper English words; and it is never doubled in such words.—'''2.''' As a ''symbol,'' ''a'' denotes the first of an actual or possible series. Specifically—(''a'') In ''music,'' the name of the sixth note of the natural diatonic scale of C, or the first note of the relative minor scale; the ''la'' of Italian, French, and Spanish musicians. {{smaller|It is the note sounded by the open second string of the violin, and to it as given by a fixed-toned instrument (as the oboe or organ) all the instruments of an orchestra are tuned.}} (''b'') In the mnemonic words of ''logic'', the universal affirmative proposition, as, all men are mortal. {{smaller|Similarly, ''I'' stands for the particular affirmative, as, some men are mortal; ''E'' for the universal negative, as, no men are mortal; ''O'' for the particular negative, as, some men are not mortal. The use of these symbols dates from the thirteenth century; they appear to be arbitrary applications of the vowels ''a'', ''e'', ''i'', ''o'', but are usually supposed to have been taken from the Latin ''AffIrmo'', I affirm, and ''nEgO'', I deny. But some authorities maintain that their use in Greek is much older.}} (''c'') In ''math.'': In ''algebra'', ''a'', ''b'', ''c'', etc., the first letters of the alphabet, stand for known quantities, while ''x'', ''y'', ''z'', the last letters, stand for unknown quantities; in ''geometry'', ''A'', ''B'', ''C'', etc., are used to name points, lines, and figures. (''d'') In abstract reasoning, suppositions, etc., ''A'', ''B'', ''C'', etc., denote each a particular person or thing in relation to the others of a series or group. (''e'') In ''writing'' and ''printing'', ''a'', ''b'', ''c'', etc., are used instead of or in addition to the Arabic figures in marking paragraphs or other divisions, or in making references. (''f'') In ''naut. lang.'', ''A'' 1, ''A'' 2, etc., are symbols used in the Record of American and Foreign Shipping, and in Lloyd's Register of British and Foreign Shipping, to denote the relative rating of merchant vessels. {{smaller|In the former, the character assigned to vessels by the surveyors is expressed by the numbers from 1 to 3, A1 standing for the highest and A3 for the lowest grade. The numbers 1½, 1¾, 2, 2½ express intermediate degrees of seaworthiness. Vessels classed as A1 or A1½ are regarded as fit for the carriage of all kinds of cargoes on all kinds of voyages for a specified term of years; those classed as A1¾ or A2, for all cargoes on Atlantic voyages, and in exceptional cases on long voyages, and for such cargoes as oil, sugar, molasses, etc., on any voyage; those classed as A2½ or A3, for coasting voyages only, with wood or coal. In Lloyd's Register, the letters A, A (in red), Æ, and E are used to denote various degrees of excellence in the hulls of ships, the figure 1 being added to express excellence of equipment, such as masts and rigging in sailing-ships, or boilers and engines in steamers. The broad A in the British Lloyd's indicates a ship built of iron. In the American Register, the annexed figures do not refer to the equipment.—Hence, in commerce, ''A1'' is used to denote the highest mercantile credit; and colloquially ''A1'', or in the United States ''A No.'' 1, is an adjective of commendation, like ''first-class'', ''first-rate'': as, an ''A1'' speaker.}}\n{{smaller block|\"He must be a first-rater,\" said Sam. \"''A'' 1,\" replied Mr. Roker.\n{{right|''Dickens'', Pickwick Papers.}}}}\n{{smaller block|An ''A number one'' cook, and no mistake.\n{{right|''Mrs. Stowe'', Dred.}}}}\n3. As an ''abbreviation'', ''a'' stands, according to context, for ''acre'', ''acting'', ''adjective'', ''answer'', ''are'' (in the metric system), ''argent'' (in ''her.''), ''anal'' (anal fin, in ''ichth.''), ''anechinoplacid'' (in echinoderms), etc.; in ''com.'', for ''approved'', for ''accepted'', and for Latin ''ad'' (commonly written ''@''), \"at\" or \"to\": as, 500 shares L. I. preferred ''@'' 67½; 25 ''@'' 30 cents per yard.—4. ''Attrib.'', having the form of the capital A, as a tent.\n{{smaller block|The common or ''A'' tent, for the use of enlisted men.\n{{right|''Wilhelm'', Mil. Dict.}}}}\n\n'''a'''<sup>2</sup> (a or ā), ''indef. art.'' [< ME. ''a'' (before consonants), earlier ''an'', orig. with long vowel, < AS. ''ān'', one, an: see ''an''<sup>1</sup>.] The form of ''an'' used before consonants and words beginning with a consonant-sound: as, ''a'' man, ''a'' woman, ''a'' year, ''a'' union, ''a'' eulogy, ''a'' oneness, ''a'' hope. ''An'', however, was formerly often used before the sounds of ''h'' and initial long ''u'' and ''eu'' even in accented syllables (as, ''an'' hospital, ''an'' union), and is still retained by some before those sounds in unaccented syllables (as, ''an'' historian, ''an'' united whole, ''an'' euphonious sound). {{smaller|The form ''a'' first appeared about the beginning of the thirteenth century. It is placed before nouns of the singular number, and also before plural nouns when ''few'' or ''great many'' is interposed. [''Few'' was originally singular as well as plural, and the article was singular (ME. ''a'') or plural (ME. ''ane'') to agree with it. In the phrase ''a great many'', the article agrees with ''many'', which is properly a noun (AS. ''menigu'': see ''many''<sup>1</sup>, ''n.''); the following plural}}<noinclude><references/></noinclude>"
+}
