@@ -5,14 +5,13 @@ as one text to correct, and one check for the page.  Each page is proofread by
 whoever fetched it on their own key, until it is given to someone else at the
 desk (`supplied.owner`); the desk shows each person their own.
 
-    uv run python tools/desk.py bundle [--each N]
+    uv run python tools/desk.py bundle [--each N] [VOL:PAGE[-PAGE] ...]
         -> data/derived/desk/: each person's next N pages not yet proofread
-           (default 20), in the book's order: desk.json, page scans, figure
+           (default 20), in the book's order, and any pages named besides
+           (8:13-17: vol 8 leaves 13 to 17): desk.json, page scans, figure
            copies, desk_render.js, and seed/<page id>.json, one document per
            page for the desk's store.  Apply the desk's saved pages FIRST: a
            page given away at the desk is the new owner's only once applied.
-    uv run python tools/desk.py bundle VOLUME PAGE [PAGE ...]
-        -> the same, for these pages
     uv run python tools/desk.py apply DIR
         DIR holds the desk's saved pages, one <page id>.json each (as
         exported from its store): each page takes its text as the
@@ -109,10 +108,15 @@ def apply(src: Path) -> None:
 
 
 def main() -> int:
-    if len(sys.argv) >= 4 and sys.argv[1] == "bundle" and sys.argv[2] != "--each":
-        bundle([(int(sys.argv[2]), int(p)) for p in sys.argv[3:]])
-    elif sys.argv[1:2] == ["bundle"] and len(sys.argv) in (2, 4):
-        bundle(next_pages(int(sys.argv[3]) if len(sys.argv) == 4 else 20))
+    if sys.argv[1:2] == ["bundle"]:
+        args, each, named = sys.argv[2:], 20, set()
+        if args[:1] == ["--each"]:
+            each, args = int(args[1]), args[2:]
+        for a in args:
+            vol, _, pages = a.partition(":")
+            first, _, last = pages.partition("-")
+            named |= {(int(vol), p) for p in range(int(first), int(last or first) + 1)}
+        bundle(sorted(set(next_pages(each)) | named))
     elif len(sys.argv) == 3 and sys.argv[1] == "apply":
         apply(Path(sys.argv[2]))
     else:

@@ -1,0 +1,202 @@
+{
+ "volume": 8,
+ "page_number": 16,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n15.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n15.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-17",
+  "fetched_by": "ahaspel",
+  "angle": 0.45,
+  "column_width": 824,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     123,
+     79,
+     2433,
+     119
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     123,
+     119,
+     864,
+     1141
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     123,
+     1141,
+     864,
+     1893
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     123,
+     1893,
+     864,
+     2968
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     123,
+     2968,
+     864,
+     3246
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     864,
+     119,
+     1609,
+     1062
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     864,
+     1062,
+     1609,
+     2067
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     864,
+     2067,
+     1609,
+     3094
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     864,
+     3094,
+     1609,
+     3246
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1609,
+     119,
+     2433,
+     1076
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1609,
+     1076,
+     2433,
+     1705
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1609,
+     1705,
+     2433,
+     2791
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1609,
+     2791,
+     2433,
+     3246
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|tegh|6212|telautograph}}",
+   "c1s1": "¶\n'''tegh†.''' A Middle English preterit of ''tee''<sup>1</sup>, also of ''tie''<sup>1</sup>.\n\n'''tegmen''' (teg′men), ''n.''; pl. ''tegmina'' (-mi-nä̤). [Also ''tegumen''; NL., < L. ''tegmen'', ''tegumen'', a cover, < ''tegere'', cover: see ''tegument''.] '''1.''' A covering; a covering or protecting part or organ; a tectorium; an integument; a tegmentum.—'''2.''' In ''bot.'', the endopleura, or inner coat, of the seed. It is soft and delicate, and conforms to the shape of the nucleus. See ''seed'', 1.—'''3.''' ''pl.'' In ''ornith.'', the tectrices or coverts of the wing or tail. See ''tectrices''. [Rare.]—'''4.''' In ''anat.'', the roof of the tympanic cavity of the ear, especially in early stages of its formation: also distinguished as ''tegmen tympani''.—'''5.''' The covering of the posterior wing of some insects; especially, the fore wing of any orthopterous insect, corresponding to the elytrum of a beetle or the hemielytrum of a bug.\n\n'''tegmental''' (teg′men-tal), ''a.'' [< ''tegment''(''um'') + ''-al''.] Pertaining to the tegmentum.—{{smaller|'''Tegmental nucleus.''' Same as ''red nucleus'' (which see, under ''nucleus'').—'''Tegmental region,''' the tegmentum of the crus and the corresponding parts of the pons and oblongata down to the decussation of the pyramids. It contains the formatio reticularis, lemniscus, posterior longitudinal fasciculus, other fibers, and various collections of ganglion-cells.}}\n\n'''tegmentum''' (teg-men′tum), ''n.''; pl. ''tegmenta'' (-tä̤). [Also ''tegumentum''; NL., < L. ''tegmentum'', ''tegumentum'', a cover, a covering: see ''tegument''.] '''1.''' In ''bot.'', the scaly coat which covers the leaf-buds of deciduous trees; also, one of",
+   "c1s2": "the scales of such covering.—2. In ''anat.'', the larger and deeper or upper of two parts into which each crus cerebri is divisible, separated from the crusta by the substantia nigra.—'''Nucleus of the tegmentum''' {{smaller|(''nucleus tegmenti''). Same as ''red nucleus'' (which see, under ''nucleus'').}}\n\n¶\n'''tegmina''', ''n.'' Plural of ''tegmen.''\n\n'''tegminal''' (teg′mi-na̤l), ''a.'' [< NL. ''tegminalis'', < ''tegmen'' (''tegmin-''), a covering: see ''tegmen.''] Covering or protecting, as a tegmen; tectorial; tegumentary.\n\n'''tegminalia''' (teg-mi-nā′li-ä), ''n. pl.'' [NL., neut. pl. of ''tegminalis:'' see ''tegminal.''] The regularly arranged plates of the body or calyx of the tessellated crinoids.\n\n'''teguexin''' (te-gek′sin), ''n.'' [Braz.] A large South American lizard of the genus ''Teius'', ''T. teguexin.'' {{smaller|It attains a length of three or four feet, and is marked with yellow and black. ''T. rufescens'' is the red teguexin. See ''Teiidæ.''}}\n\n'''tegula''' (teg′ū-lä), ''n.''; pl. ''tegulæ'' (-lē). [NL., < L. ''tegula'', a tile, a roofing-tile, < ''tegere'', cover, conceal: see ''tect'', ''tile''<sup>1</sup>.] In ''entom.'': (''a'') A sclerite attached to the lateral border of the mesoscu-",
+   "c1s3": "tum and covering the base of the fore wing, as in hymenopterous insects. (See ''pterygoda'' and ''operculum'' (''b'') (8).) A similar formation of lepidopterous insects is known as the ''patagium'', ''scapula'', or ''shoulder-tippet''. (''b'') A little membrane covering the metathoracic spiracle of dipterous insects: also called ''squama'', ''prehalter'', and ''covering-scale''.\n\n'''tegular''' (teg′ū-lär), ''a.'' [= F. ''tégulaire'', < L. ''tegula'', a tile: see ''tegula'', ''tile''.] 1. Of or pertaining to a tile; resembling a tile; consisting of tiles.—2. In ''entom.'', covering, as a sclerite, the base of an insect’s wing; of or pertaining to a tegula.\n\n'''tegularly''' (teg′ū-lär-li), ''adv.'' In the manner of tiles on a roof.\n\n'''tegulated''' (teg′ū-lā-ted), ''a.'' [< L. ''tegula'', a tile, + ''-ate''<sup>1</sup> + ''-ed''<sup>2</sup>.] Composed of plates or scales overlapping like tiles: used specifically of a type of armor.—{{smaller|'''Tegulated armor''', armor made of overlapping plates sewed to a foundation of textile fabric or leather. During the years immediately preceding the perfected armor of plate this was the armor adopted as the best by those who could afford the expense.}}\n\n'''tegumen''' (teg′ū-men), ''n.''; pl. ''tegumina'' (te-gū′-mi-nä̤). [NL.: see ''tegmen''.] Same as ''tegmen''.\n\n'''tegument''' (teg′ū-ment), ''n.'' [ME. ''tegument'', < OF. ''tegument'', F. ''tégument'' = Sp. Pg. ''tegumento'', < L. ''tegumentum'', ''tegimentum'', ''tegmentum'', < ''tegere'' = Gr. στέγειν, cover, conceal: see ''tect''. Cf. ''integument''.] A cover; an envelop; a natural covering or protection of the body or a part of it; a tegmen or tegmentum.\n{{smaller block|<poem>Over ther thai stonde</poem>}}",
+   "c1s4": "{{smaller block|<poem>A ''tegument'' of brom or such extende\nHem fro tempest and coldes to defende.</poem>\n{{right|''Palladius'', Husbondrie (E. E. T. S.), p. 218.}}}}\n\nSpecifically—(''a'') In ''zoöl.'' and ''anat.'', skin; the general covering of the body; the integument. (''b'') In ''entom.'': (1) A tegmen; the wing-cover or elytrum of orthopterous insects: an erroneous use, apparently by confusion with ''tegmen'', 5. (2) Properly, the crust, or chitinous integument, of the body, as distinguished from the hairs, scales, etc., which may grow upon it.",
+   "c2s1": "¶\n'''tegumental''' (teg-ū-men′tal), ''a.'' [< ''tegument'' + ''-al.''] Covering; investing or integumental; tectorial; tegumentary; tegminal.\n{{smaller block|Visual and ''tegumental'' sense organs borne by the tentacles.\n{{right|''Huxley and Martin'', Elementary Biology, p. 276.}}}}\n\n'''tegumentary''' (teg-ū-men′ta-ri), ''a.'' [= F. ''tégumentaire''; as ''tegument'' + ''-ary.''] Of or pertaining to integument; composing or consisting of skin or other covering or investing part or structure; tegminal; tectorial.—'''Tegumentary amputation''', {{smaller|amputation in which the flaps are made of tegumentary tissue only. Also called ''skin-flap amputation.''}}—'''Tegumentary epithelium.''' {{smaller|Same as ''epidermis.''}}\n\n'''tegumentum''' (teg-ū-men′tum), ''n.''; pl. ''tegumenta'' (-tạ̈). Same as ''tegmentum.''\n\n'''tehee''' (tē′hē′), ''interj.'' [< ME. ''te hee''; imitative.] A word expressing a laugh.\n{{smaller block|“''Te hee,''” quod she, and clapte the wyndow to.\n{{right|''Chaucer'', Miller’s Tale, l. 554.}}}}\n\n'''tehee''' (tē′hē′), ''n.'' [< ''tehee, interj.''] A laugh: from the sound.\n{{smaller block|Did you chide me for not putting a stronger lace in your stays, when you had broke one as strong as a hempen cord with containing a violent ''tihee'' at a smutty jest in the last play? {{right|''Farquhar'', Love and a Bottle, i. 1.}}}}\n\n'''tehee''' (tē′hē′). ''v. i.'' [< ''tehee, interj.''] To laugh contemptuously or insolently; titter.\n{{smaller block|<poem>That laughed and ''tee-he’d'' with derision\nTo see them take your deposition.</poem>\n{{right|''S. Butler'', Hudibras, III. iii. 133.}}}}",
+   "c2s2": "¶\n'''Teian, Tean''' (tē′an), ''a.'' [< L. ''Teius'', < ''Teos'', < Gr. Τέως, Teos (see def.), + ''-an''.] Of or pertaining to Teos, an ancient Greek city of Ionia, Asia Minor: especially referring to the poet Anacreon, who was born there.\n{{smaller block|<poem>The Scian and the ''Teian'' muse,\nThe hero’s harp, the lover’s lute,\nHave found the fame your shores refuse.</poem>\n{{right|''Byron'', Don Juan, iii. 86 (song).}}}}\n\n'''Te Igitur''' (tē ij′i-tėr). [So called from the first words of the canon: L. ''te'' (= E. ''thee''), acc. sing. of pers. pron. ''tu'', thou (= E. ''thou''); ''igitur'', therefore.] The first paragraph of the eucharistic canon in the Roman and some other Latin liturgies. It immediately succeeds the preface, and contains a prayer for the church.\n\n'''Teiidæ''' (tē′i-dē), ''n. pl.'' [NL., < ''Teius'' + ''-idæ''.] A family of eriglossate lacertilians, typified by the genus ''Teius'', having confluent parietal bones, supratemporal fossæ not tegmented or roofed over, and no osteodermal plates. {{smaller|These lizards are confined to America, and some of them are called ''teguexins''. The family is also named ''Ameividæ''. Also ''Teidæ'', ''Tejidæ''.}}\n\n'''teil''' (tēl), ''n.'' [Formerly also ''teile''; < OF. ''teil'', ''teill'', ''til'', F. ''tille'', < L. ''tilia'', a linden. Cf. dim. ''teylet'', ''tillet''.] 1. The linden or lime-tree.\n{{smaller block|<poem>From purple violets and the ''teile'' they bring\nTheir gather’d sweets, and rifle all the spring.</poem>\n{{right|''Addison'', tr. of Virgil’s Georgics, iv. 233.}}}}\n2. The terebinth.\n{{smaller block|As a ''teil'' tree [terebinth, R. V.], and as an oak. Isa. vi. 13.}}",
+   "c2s3": "¶\n'''teind''' (tēnd), ''n.'' [< Icel. ''tīund'', a tenth, a tithe: see ''tenth'', ''tithe''.] In Scotland, a tithe. {{smaller|It is paid from the produce of land or cattle only. After the Reformation the whole teinds of Scotland were transferred to the crown, or to private individuals called ''titulars'', to whom they had been granted by the crown, or to feuars or renters from the church, or to the original founding patrons, or to colleges or pious institutions. By a succession of decrees and enactments these tithes were generally rendered redeemable at a fixed valuation, but the clergy have now no right to the teinds beyond a suitable provision, called a ''stipend''; so that teinds may now be described as that part of the estates of the laity which is liable to be assessed for the stipend of the clergy of the established church.}}\n{{smaller block|<poem>At every seven years\nThey pay the ''teind'' to hell;\nAnd I am sae fat and fair of flesh,\nI fear ’twill be mysell.</poem>\n{{right|''The Young Tamlane'' (Child’s Ballads, I. 120).}}}}\n{{smaller|'''Court of Teinds''' (in full, ''Court of Lords Commissioners for Teinds''), a court in Scotland consisting of five judges of the Court of Session (four lords of the inner house and the lord ordinary on teinds), who sit as a parliamentary commission, with jurisdiction extending to all matters respecting valuations and sales of teinds, augmentations of stipends, the disjunction or annexation of parishes, etc.—'''Decree of valuation of teinds.''' See ''decree''.}}\n\n'''teind-master''' (tēnd′mȧs″tėr), ''n.'' In Scotland, one who is entitled to teinds.\n\n'''teine†''', ''n.'' See ''tain''.\n\n'''tein-land''' (tēn′land), ''n.'' Thane-land. See ''thane''.\n\n'''teinoscope''' (tī′nō-skōp), ''n.'' [< Gr. τείνειν (see ''tend''<sup>1</sup>), stretch, extend, + σκοπεῖν, view.] An optical instrument invented by Sir David Brewster, consisting of two prisms so combined as to correct the chromatic aberration,",
+   "c2s4": "while the dimensions of objects seen through them are increased or decreased in the plane of refraction. {{smaller|Amici’s prism-telescope consists of two such teinoscopes arranged consecutively, with their planes of refraction perpendicular to each other.}}",
+   "c3s1": "¶\n'''teint†, teinture†.''' Old spellings of ''taint''<sup>1</sup>, ''tainture''.\n\n'''teise†,''' ''n.'' [ME., < OF. ''teise'', later ''toise'', a fathom: see ''toise''. Cf. ''peise'', ''poise''.] A fathom.\n{{smaller block|<poem>In me prisoun thow schelt abide,\nVnder therthe twenti ''teise''.</poem>\n{{right|''Beves of Hamtoun'', l. 1417.}}}}\n\n'''teise†,''' ''v. i.'' [ME., < ''teise'', ''n.''] To weigh anchor; set sail.\n{{smaller block|<poem>Into see thay went, the sayl vp gan reise,\nTo cipresse contre ther shippes gan ''teise''.</poem>\n{{right|''Rom. of Partenay'' (E. E. T. S.), l. 1295.}}}}\n\n'''Teius''' (tē′us), ''n.'' [NL.] The typical genus of ''Teiidæ''. See ''teguexin''. Also ''Tejus''.\n\n'''teknonymous''' (tek-non′i-mus), ''a.'' [< Gr. τέκνον, child, + ὄνομα, ὄνυμα, name.] Pertaining to or characterized by teknonymy.\n{{smaller block|Let us now turn to another custom, not less quaint-seeming than the last to the European mind. This is the practice of naming the parent from the child. . . . There are above thirty peoples spread over the earth who thus name the father, and, though less often, the mother. They may be called, coining a name for them, ''teknonymous'' peoples. {{right|''Jour. Anthrop. Inst.'', XVIII. 248.}}}}\n\n'''teknonymy''' (tek-non′i-mi), ''n.'' [< ''teknonym-ous'' + ''-y''<sup>3</sup>.] The naming of a parent from his or her child.\n{{smaller block|Another custom, here called ''teknonymy'', or naming the parent from the child, prevails among more than thirty peoples. {{right|''Athenæum'', No. 3188, p. 740.}}}}\n\n'''tel''' (tel), ''n.'' Sesame. See ''til''.",
+   "c3s2": "¶\n'''tela''' (tē′lä̤), ''n.''; pl. ''telæ'' (-lē). [NL., < L. ''tela'', web, warp: see ''toil''<sup>2</sup>.] 1. A web; a rete.—2. In ''anat.'': (''a'') A tissue, in general; any tissue of the body, or histological structure, as distinguished from the structures or organs of gross anatomy: extended to include liquids containing corpuscles: as, ''tela adiposa'', fatty tissue; ''tela connectiva'', connective tissue; ''tela lymphatica'', liquid contents of the body-cavity and lymphatic vessels. ''Haeckel.'' (''b'') A delicate membranous web or thin sheet of scarcely nervous tissue found in the brain in connection with its cavities, consisting both of pia mater and of endyma, with little or no nerve-tissue intervening. {{smaller|—'''Tela aranea.''' Same as ''spider-web.''—'''Tela cellulosa,''' areolar tissue.—'''Tela choroidea cerebelli,''' the membranous roof of the lower section of the fourth ventricle, continuous above with the velum medullare posterius. Also called ''tela choroidea inferior ventriculi quarti.''—'''Tela choroidea superior,''' the velum interpositum, or membranous roof of the third ventricle. Also called ''velum trian-''}}",
+   "c3s3": "''gulare.''\n\n'''telæsthesia''' (tel-es-thē′si-ä), ''n.'' [NL., < Gr. τῆλε, afar, + αἴσθησις, perception.] Perception at a distance. See the quotation under ''telepathy''.\n\n'''telamon''' (tel′ạ-mon), ''n.''; pl. ''telamones'' (tel-a-mō′nēz). [< L. ''telamon'', ''telamo'', < Gr. τελαμών, bearer, < τλῆναι, bear.] In ''arch.'', the figure of a man performing the function of a column or pilaster to support an entablature, in the same manner as a caryatid. They were called ''atlantes'' by the Greeks. See ''atlantes''.\n\n'''telangiectasia''' (te-lan″ji-ek-tā′si-ä), ''n.'' [NL., also ''telangiectasis'', < Gr. τέλος, the end, + ἀγγεῖον, vessel, + ἔκτασις, extension.] In ''med.'', a dilatation of the small vessels.\n\n'''telangiectasis''' (te-lan-ji-ek′tā-sis), ''n.'' [NL.: see ''telangiectasia''.] Same as ''telangiectasia''.\n\n'''telangiectasy''' (te-lan-ji-ek′tā-si), ''n.'' [< NL. ''telangiectasia''.] Same as ''telangiectasia''.\n\n'''telangiectatic''' (te-lan″ji-ek-tat′ik), ''a.'' Pertaining to or exhibiting telangiectasia.\n\n'''telapoin†''', ''n.'' An obsolete form of ''talapoin''. ''Imp. Dict.''\n\n'''telar<sup>1</sup>''' (tē′lär), ''a.'' [< ''tela'' + ''-ar''<sup>3</sup>.] Having the character of a tela, web, or tissue; telary: as, the ''telar'' membranes of the brain. See ''tela''.\n\n'''telar<sup>2</sup>†''', ''n.'' An obsolete form of ''tiller''<sup>2</sup>. ''Arch. Jour.'', XIX. 71.\n\n'''telarian''' (tē-lā′ri-a̤n), ''a.'' and ''n.'' [< ''telary'' + ''-an''.] '''I.''' ''a.'' Spinning a web, as a spider. See ''retitelarian'', ''tubitelarian'', ''orbitelarian''.\n\n'''II.''' ''n.'' A spinning spider.\n\n'''telarly†''' (tē′lär-li), ''adv.'' [< ''telar'' (cf. ''telary'') + ''-ly''<sup>2</sup>.] In the manner of or so as to make a web",
+   "c3s4": "or tela: as, “''telarly'' interwoven,” ''Sir T. Browne.''\n\n'''telary''' (tel′a-ri), ''a.'' [< ML. *''telarius'', < L. ''tela'', a web: see ''tela.''] 1. Of or pertaining to a web, tissue, or tela; woven; spun.—2†. Spinning a web, as a spider; telarian.\n{{smaller block|The picture of ''telary'' spiders, and their position in the web, is commonly made lateral, and regarding the horizon.\n{{right|''Sir T. Browne'', Vulg. Err., v. 19. (''Richardson.'')}}}}\n\n'''telautograph''' (te-lâ′tō-grȧf), ''n.'' [< Gr. τῆλε, afar, + αὐτός, self, + γράφειν, write.] The name given by Elisha Gray to his form of writing- or copying-telegraph. {{smaller|This telegraph can be used to reproduce in facsimile either the handwriting of the person sending the message, or any picture or drawing which can be made with a pen. The transmitting-pen is}}"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 1,
+    "input_tokens": 2781,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 13,
+    "input_tokens": 10018,
+    "output_tokens": 8910,
+    "cache_creation_input_tokens": 19060,
+    "cache_read_input_tokens": 30496
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|tegh|6212|telautograph}}</noinclude>{{nop}}'''tegh†.''' A Middle English preterit of ''tee''<sup>1</sup>, also of ''tie''<sup>1</sup>.\n\n'''tegmen''' (teg′men), ''n.''; pl. ''tegmina'' (-mi-nä̤). [Also ''tegumen''; NL., < L. ''tegmen'', ''tegumen'', a cover, < ''tegere'', cover: see ''tegument''.] '''1.''' A covering; a covering or protecting part or organ; a tectorium; an integument; a tegmentum.—'''2.''' In ''bot.'', the endopleura, or inner coat, of the seed. It is soft and delicate, and conforms to the shape of the nucleus. See ''seed'', 1.—'''3.''' ''pl.'' In ''ornith.'', the tectrices or coverts of the wing or tail. See ''tectrices''. [Rare.]—'''4.''' In ''anat.'', the roof of the tympanic cavity of the ear, especially in early stages of its formation: also distinguished as ''tegmen tympani''.—'''5.''' The covering of the posterior wing of some insects; especially, the fore wing of any orthopterous insect, corresponding to the elytrum of a beetle or the hemielytrum of a bug.\n\n'''tegmental''' (teg′men-tal), ''a.'' [< ''tegment''(''um'') + ''-al''.] Pertaining to the tegmentum.—{{smaller|'''Tegmental nucleus.''' Same as ''red nucleus'' (which see, under ''nucleus'').—'''Tegmental region,''' the tegmentum of the crus and the corresponding parts of the pons and oblongata down to the decussation of the pyramids. It contains the formatio reticularis, lemniscus, posterior longitudinal fasciculus, other fibers, and various collections of ganglion-cells.}}\n\n'''tegmentum''' (teg-men′tum), ''n.''; pl. ''tegmenta'' (-tä̤). [Also ''tegumentum''; NL., < L. ''tegmentum'', ''tegumentum'', a cover, a covering: see ''tegument''.] '''1.''' In ''bot.'', the scaly coat which covers the leaf-buds of deciduous trees; also, one of the scales of such covering.—2. In ''anat.'', the larger and deeper or upper of two parts into which each crus cerebri is divisible, separated from the crusta by the substantia nigra.—'''Nucleus of the tegmentum''' {{smaller|(''nucleus tegmenti''). Same as ''red nucleus'' (which see, under ''nucleus'').}}\n\n'''tegmina''', ''n.'' Plural of ''tegmen.''\n\n'''tegminal''' (teg′mi-na̤l), ''a.'' [< NL. ''tegminalis'', < ''tegmen'' (''tegmin-''), a covering: see ''tegmen.''] Covering or protecting, as a tegmen; tectorial; tegumentary.\n\n'''tegminalia''' (teg-mi-nā′li-ä), ''n. pl.'' [NL., neut. pl. of ''tegminalis:'' see ''tegminal.''] The regularly arranged plates of the body or calyx of the tessellated crinoids.\n\n'''teguexin''' (te-gek′sin), ''n.'' [Braz.] A large South American lizard of the genus ''Teius'', ''T. teguexin.'' {{smaller|It attains a length of three or four feet, and is marked with yellow and black. ''T. rufescens'' is the red teguexin. See ''Teiidæ.''}}\n\n'''tegula''' (teg′ū-lä), ''n.''; pl. ''tegulæ'' (-lē). [NL., < L. ''tegula'', a tile, a roofing-tile, < ''tegere'', cover, conceal: see ''tect'', ''tile''<sup>1</sup>.] In ''entom.'': (''a'') A sclerite attached to the lateral border of the mesoscutum and covering the base of the fore wing, as in hymenopterous insects. (See ''pterygoda'' and ''operculum'' (''b'') (8).) A similar formation of lepidopterous insects is known as the ''patagium'', ''scapula'', or ''shoulder-tippet''. (''b'') A little membrane covering the metathoracic spiracle of dipterous insects: also called ''squama'', ''prehalter'', and ''covering-scale''.\n\n'''tegular''' (teg′ū-lär), ''a.'' [= F. ''tégulaire'', < L. ''tegula'', a tile: see ''tegula'', ''tile''.] 1. Of or pertaining to a tile; resembling a tile; consisting of tiles.—2. In ''entom.'', covering, as a sclerite, the base of an insect’s wing; of or pertaining to a tegula.\n\n'''tegularly''' (teg′ū-lär-li), ''adv.'' In the manner of tiles on a roof.\n\n'''tegulated''' (teg′ū-lā-ted), ''a.'' [< L. ''tegula'', a tile, + ''-ate''<sup>1</sup> + ''-ed''<sup>2</sup>.] Composed of plates or scales overlapping like tiles: used specifically of a type of armor.—{{smaller|'''Tegulated armor''', armor made of overlapping plates sewed to a foundation of textile fabric or leather. During the years immediately preceding the perfected armor of plate this was the armor adopted as the best by those who could afford the expense.}}\n\n'''tegumen''' (teg′ū-men), ''n.''; pl. ''tegumina'' (te-gū′-mi-nä̤). [NL.: see ''tegmen''.] Same as ''tegmen''.\n\n'''tegument''' (teg′ū-ment), ''n.'' [ME. ''tegument'', < OF. ''tegument'', F. ''tégument'' = Sp. Pg. ''tegumento'', < L. ''tegumentum'', ''tegimentum'', ''tegmentum'', < ''tegere'' = Gr. στέγειν, cover, conceal: see ''tect''. Cf. ''integument''.] A cover; an envelop; a natural covering or protection of the body or a part of it; a tegmen or tegmentum.\n{{smaller block|<poem>Over ther thai stonde</poem>}}\n<poem>A ''tegument'' of brom or such extende\nHem fro tempest and coldes to defende.</poem>\n{{smaller block|{{right|''Palladius'', Husbondrie (E. E. T. S.), p. 218.}}}}\n\nSpecifically—(''a'') In ''zoöl.'' and ''anat.'', skin; the general covering of the body; the integument. (''b'') In ''entom.'': (1) A tegmen; the wing-cover or elytrum of orthopterous insects: an erroneous use, apparently by confusion with ''tegmen'', 5. (2) Properly, the crust, or chitinous integument, of the body, as distinguished from the hairs, scales, etc., which may grow upon it.\n\n'''tegumental''' (teg-ū-men′tal), ''a.'' [< ''tegument'' + ''-al.''] Covering; investing or integumental; tectorial; tegumentary; tegminal.\n{{smaller block|Visual and ''tegumental'' sense organs borne by the tentacles.\n{{right|''Huxley and Martin'', Elementary Biology, p. 276.}}}}\n\n'''tegumentary''' (teg-ū-men′ta-ri), ''a.'' [= F. ''tégumentaire''; as ''tegument'' + ''-ary.''] Of or pertaining to integument; composing or consisting of skin or other covering or investing part or structure; tegminal; tectorial.—'''Tegumentary amputation''', {{smaller|amputation in which the flaps are made of tegumentary tissue only. Also called ''skin-flap amputation.''}}—'''Tegumentary epithelium.''' {{smaller|Same as ''epidermis.''}}\n\n'''tegumentum''' (teg-ū-men′tum), ''n.''; pl. ''tegumenta'' (-tạ̈). Same as ''tegmentum.''\n\n'''tehee''' (tē′hē′), ''interj.'' [< ME. ''te hee''; imitative.] A word expressing a laugh.\n{{smaller block|“''Te hee,''” quod she, and clapte the wyndow to.\n{{right|''Chaucer'', Miller’s Tale, l. 554.}}}}\n\n'''tehee''' (tē′hē′), ''n.'' [< ''tehee, interj.''] A laugh: from the sound.\n{{smaller block|Did you chide me for not putting a stronger lace in your stays, when you had broke one as strong as a hempen cord with containing a violent ''tihee'' at a smutty jest in the last play? {{right|''Farquhar'', Love and a Bottle, i. 1.}}}}\n\n'''tehee''' (tē′hē′). ''v. i.'' [< ''tehee, interj.''] To laugh contemptuously or insolently; titter.\n{{smaller block|<poem>That laughed and ''tee-he’d'' with derision\nTo see them take your deposition.</poem>\n{{right|''S. Butler'', Hudibras, III. iii. 133.}}}}\n\n'''Teian, Tean''' (tē′an), ''a.'' [< L. ''Teius'', < ''Teos'', < Gr. Τέως, Teos (see def.), + ''-an''.] Of or pertaining to Teos, an ancient Greek city of Ionia, Asia Minor: especially referring to the poet Anacreon, who was born there.\n{{smaller block|<poem>The Scian and the ''Teian'' muse,\nThe hero’s harp, the lover’s lute,\nHave found the fame your shores refuse.</poem>\n{{right|''Byron'', Don Juan, iii. 86 (song).}}}}\n\n'''Te Igitur''' (tē ij′i-tėr). [So called from the first words of the canon: L. ''te'' (= E. ''thee''), acc. sing. of pers. pron. ''tu'', thou (= E. ''thou''); ''igitur'', therefore.] The first paragraph of the eucharistic canon in the Roman and some other Latin liturgies. It immediately succeeds the preface, and contains a prayer for the church.\n\n'''Teiidæ''' (tē′i-dē), ''n. pl.'' [NL., < ''Teius'' + ''-idæ''.] A family of eriglossate lacertilians, typified by the genus ''Teius'', having confluent parietal bones, supratemporal fossæ not tegmented or roofed over, and no osteodermal plates. {{smaller|These lizards are confined to America, and some of them are called ''teguexins''. The family is also named ''Ameividæ''. Also ''Teidæ'', ''Tejidæ''.}}\n\n'''teil''' (tēl), ''n.'' [Formerly also ''teile''; < OF. ''teil'', ''teill'', ''til'', F. ''tille'', < L. ''tilia'', a linden. Cf. dim. ''teylet'', ''tillet''.] 1. The linden or lime-tree.\n{{smaller block|<poem>From purple violets and the ''teile'' they bring\nTheir gather’d sweets, and rifle all the spring.</poem>\n{{right|''Addison'', tr. of Virgil’s Georgics, iv. 233.}}}}\n2. The terebinth.\n{{smaller block|As a ''teil'' tree [terebinth, R. V.], and as an oak. Isa. vi. 13.}}\n\n'''teind''' (tēnd), ''n.'' [< Icel. ''tīund'', a tenth, a tithe: see ''tenth'', ''tithe''.] In Scotland, a tithe. {{smaller|It is paid from the produce of land or cattle only. After the Reformation the whole teinds of Scotland were transferred to the crown, or to private individuals called ''titulars'', to whom they had been granted by the crown, or to feuars or renters from the church, or to the original founding patrons, or to colleges or pious institutions. By a succession of decrees and enactments these tithes were generally rendered redeemable at a fixed valuation, but the clergy have now no right to the teinds beyond a suitable provision, called a ''stipend''; so that teinds may now be described as that part of the estates of the laity which is liable to be assessed for the stipend of the clergy of the established church.}}\n{{smaller block|<poem>At every seven years\nThey pay the ''teind'' to hell;\nAnd I am sae fat and fair of flesh,\nI fear ’twill be mysell.</poem>\n{{right|''The Young Tamlane'' (Child’s Ballads, I. 120).}}}}\n{{smaller|'''Court of Teinds''' (in full, ''Court of Lords Commissioners for Teinds''), a court in Scotland consisting of five judges of the Court of Session (four lords of the inner house and the lord ordinary on teinds), who sit as a parliamentary commission, with jurisdiction extending to all matters respecting valuations and sales of teinds, augmentations of stipends, the disjunction or annexation of parishes, etc.—'''Decree of valuation of teinds.''' See ''decree''.}}\n\n'''teind-master''' (tēnd′mȧs″tėr), ''n.'' In Scotland, one who is entitled to teinds.\n\n'''teine†''', ''n.'' See ''tain''.\n\n'''tein-land''' (tēn′land), ''n.'' Thane-land. See ''thane''.\n\n'''teinoscope''' (tī′nō-skōp), ''n.'' [< Gr. τείνειν (see ''tend''<sup>1</sup>), stretch, extend, + σκοπεῖν, view.] An optical instrument invented by Sir David Brewster, consisting of two prisms so combined as to correct the chromatic aberration, while the dimensions of objects seen through them are increased or decreased in the plane of refraction. {{smaller|Amici’s prism-telescope consists of two such teinoscopes arranged consecutively, with their planes of refraction perpendicular to each other.}}\n\n'''teint†, teinture†.''' Old spellings of ''taint''<sup>1</sup>, ''tainture''.\n\n'''teise†,''' ''n.'' [ME., < OF. ''teise'', later ''toise'', a fathom: see ''toise''. Cf. ''peise'', ''poise''.] A fathom.\n{{smaller block|<poem>In me prisoun thow schelt abide,\nVnder therthe twenti ''teise''.</poem>\n{{right|''Beves of Hamtoun'', l. 1417.}}}}\n\n'''teise†,''' ''v. i.'' [ME., < ''teise'', ''n.''] To weigh anchor; set sail.\n{{smaller block|<poem>Into see thay went, the sayl vp gan reise,\nTo cipresse contre ther shippes gan ''teise''.</poem>\n{{right|''Rom. of Partenay'' (E. E. T. S.), l. 1295.}}}}\n\n'''Teius''' (tē′us), ''n.'' [NL.] The typical genus of ''Teiidæ''. See ''teguexin''. Also ''Tejus''.\n\n'''teknonymous''' (tek-non′i-mus), ''a.'' [< Gr. τέκνον, child, + ὄνομα, ὄνυμα, name.] Pertaining to or characterized by teknonymy.\n{{smaller block|Let us now turn to another custom, not less quaint-seeming than the last to the European mind. This is the practice of naming the parent from the child. . . . There are above thirty peoples spread over the earth who thus name the father, and, though less often, the mother. They may be called, coining a name for them, ''teknonymous'' peoples. {{right|''Jour. Anthrop. Inst.'', XVIII. 248.}}}}\n\n'''teknonymy''' (tek-non′i-mi), ''n.'' [< ''teknonym-ous'' + ''-y''<sup>3</sup>.] The naming of a parent from his or her child.\n{{smaller block|Another custom, here called ''teknonymy'', or naming the parent from the child, prevails among more than thirty peoples. {{right|''Athenæum'', No. 3188, p. 740.}}}}\n\n'''tel''' (tel), ''n.'' Sesame. See ''til''.\n\n'''tela''' (tē′lä̤), ''n.''; pl. ''telæ'' (-lē). [NL., < L. ''tela'', web, warp: see ''toil''<sup>2</sup>.] 1. A web; a rete.—2. In ''anat.'': (''a'') A tissue, in general; any tissue of the body, or histological structure, as distinguished from the structures or organs of gross anatomy: extended to include liquids containing corpuscles: as, ''tela adiposa'', fatty tissue; ''tela connectiva'', connective tissue; ''tela lymphatica'', liquid contents of the body-cavity and lymphatic vessels. ''Haeckel.'' (''b'') A delicate membranous web or thin sheet of scarcely nervous tissue found in the brain in connection with its cavities, consisting both of pia mater and of endyma, with little or no nerve-tissue intervening. {{smaller|—'''Tela aranea.''' Same as ''spider-web.''—'''Tela cellulosa,''' areolar tissue.—'''Tela choroidea cerebelli,''' the membranous roof of the lower section of the fourth ventricle, continuous above with the velum medullare posterius. Also called ''tela choroidea inferior ventriculi quarti.''—'''Tela choroidea superior,''' the velum interpositum, or membranous roof of the third ventricle. Also called ''velum trian''gulare''}}.''\n\n'''telæsthesia''' (tel-es-thē′si-ä), ''n.'' [NL., < Gr. τῆλε, afar, + αἴσθησις, perception.] Perception at a distance. See the quotation under ''telepathy''.\n\n'''telamon''' (tel′ạ-mon), ''n.''; pl. ''telamones'' (tel-a-mō′nēz). [< L. ''telamon'', ''telamo'', < Gr. τελαμών, bearer, < τλῆναι, bear.] In ''arch.'', the figure of a man performing the function of a column or pilaster to support an entablature, in the same manner as a caryatid. They were called ''atlantes'' by the Greeks. See ''atlantes''.\n\n'''telangiectasia''' (te-lan″ji-ek-tā′si-ä), ''n.'' [NL., also ''telangiectasis'', < Gr. τέλος, the end, + ἀγγεῖον, vessel, + ἔκτασις, extension.] In ''med.'', a dilatation of the small vessels.\n\n'''telangiectasis''' (te-lan-ji-ek′tā-sis), ''n.'' [NL.: see ''telangiectasia''.] Same as ''telangiectasia''.\n\n'''telangiectasy''' (te-lan-ji-ek′tā-si), ''n.'' [< NL. ''telangiectasia''.] Same as ''telangiectasia''.\n\n'''telangiectatic''' (te-lan″ji-ek-tat′ik), ''a.'' Pertaining to or exhibiting telangiectasia.\n\n'''telapoin†''', ''n.'' An obsolete form of ''talapoin''. ''Imp. Dict.''\n\n'''telar<sup>1</sup>''' (tē′lär), ''a.'' [< ''tela'' + ''-ar''<sup>3</sup>.] Having the character of a tela, web, or tissue; telary: as, the ''telar'' membranes of the brain. See ''tela''.\n\n'''telar<sup>2</sup>†''', ''n.'' An obsolete form of ''tiller''<sup>2</sup>. ''Arch. Jour.'', XIX. 71.\n\n'''telarian''' (tē-lā′ri-a̤n), ''a.'' and ''n.'' [< ''telary'' + ''-an''.] '''I.''' ''a.'' Spinning a web, as a spider. See ''retitelarian'', ''tubitelarian'', ''orbitelarian''.\n\n'''II.''' ''n.'' A spinning spider.\n\n'''telarly†''' (tē′lär-li), ''adv.'' [< ''telar'' (cf. ''telary'') + ''-ly''<sup>2</sup>.] In the manner of or so as to make a web or tela: as, “''telarly'' interwoven,” ''Sir T. Browne.''\n\n'''telary''' (tel′a-ri), ''a.'' [< ML. *''telarius'', < L. ''tela'', a web: see ''tela.''] 1. Of or pertaining to a web, tissue, or tela; woven; spun.—2†. Spinning a web, as a spider; telarian.\n{{smaller block|The picture of ''telary'' spiders, and their position in the web, is commonly made lateral, and regarding the horizon.\n{{right|''Sir T. Browne'', Vulg. Err., v. 19. (''Richardson.'')}}}}\n\n'''telautograph''' (te-lâ′tō-grȧf), ''n.'' [< Gr. τῆλε, afar, + αὐτός, self, + γράφειν, write.] The name given by Elisha Gray to his form of writing- or copying-telegraph. {{smaller|This telegraph can be used to reproduce in facsimile either the handwriting of the person sending the message, or any picture or drawing which can be made with a pen. The transmitting-pen is}}<noinclude><references/></noinclude>"
+}
