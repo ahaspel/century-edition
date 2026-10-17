@@ -35,6 +35,17 @@ _PAGES = {1: 916, 2: 918, 3: 916, 4: 908, 5: 902, 6: 904, 7: 916, 8: 890,
           9: 1110, 10: 904}
 
 
+#: The first leaf of each volume's text (read from its scans, 2026-10-17):
+#: before it, the binding, endpapers, blank leaves, title pages, and the lists
+#: of abbreviations and the key to pronunciation — what a contributor's run
+#: (tools/contribute.py) does not read.  Volume 1's front matter (its preface)
+#: and the lists are for later (user, 2026-10-17).  Volume 9, the Cyclopedia
+#: of Names, opens with its own preface (leaves 11-13) and a blank leaf.
+#: Volume 10, the Atlas, is maps and their indexes, not read as text: not set,
+#: so a run there is refused.
+TEXT_STARTS = {1: 27, 2: 13, 3: 13, 4: 13, 5: 13, 6: 13, 7: 13, 8: 13, 9: 15}
+
+
 def _ia_item(volume: int) -> str:
     if volume not in IA_ITEMS:
         raise ValueError(f"the Century has volumes 1-10, not {volume}")

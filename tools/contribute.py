@@ -10,8 +10,10 @@ Your key goes in `.env` at the repository root (never committed):
 
     ANTHROPIC_API_KEY=sk-ant-...
 
-`run` picks the next pages of your volume that nobody has transcribed (it
-fetches the repository first, so it sees what others have sent), estimates
+`run` picks the next pages of your volume that nobody has transcribed, from
+the first page of its text on (`century.TEXT_STARTS`: never the binding,
+blank leaves or title pages before it), fetching the repository first so it
+sees what others have sent; it estimates
 their cost from what pages have actually cost so far, and sends as many as the
 budget allows through the Batch API (half price; answered within a day,
 usually much sooner).  A spending ledger (data/derived/contrib_ledger.json,
@@ -38,7 +40,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-from century import CENTURY, scan_url
+from century import CENTURY, TEXT_STARTS, scan_url
 from century.scans import scan
 from wikikit.scan import batch, supplied
 from wikikit.scan.model import MODEL, USAGE_FIELDS
@@ -167,7 +169,10 @@ def pick(a, batched: bool) -> tuple[list[int], float, float] | int:
         return 1
     each = per_page_estimate(batched)
     waiting = {(p["volume"], p["page"]) for p in batch.load()["pages"].values() if p["stage"] != "done"}
-    todo = [p for p in range(1, CENTURY.pages[a.volume] + 1)
+    if a.volume not in TEXT_STARTS:
+        print(f"Where volume {a.volume}'s text begins is not yet set (century.TEXT_STARTS): nothing sent.")
+        return 1
+    todo = [p for p in range(TEXT_STARTS[a.volume], CENTURY.pages[a.volume] + 1)
             if p not in done_pages(a.volume) and (a.volume, p) not in waiting]
     take = todo[:max(0, int(budget // each))]
     if not take:
