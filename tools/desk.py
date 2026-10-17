@@ -9,9 +9,11 @@ desk (`supplied.owner`); the desk shows each person their own.
         -> data/derived/desk/: each person's next N pages not yet proofread
            (default 20), in the book's order, and any pages named besides
            (8:13-17: vol 8 leaves 13 to 17): desk.json, page scans, figure
-           copies, desk_render.js, and seed/<page id>.json, one document per
-           page for the desk's store.  Apply the desk's saved pages FIRST: a
-           page given away at the desk is the new owner's only once applied.
+           copies, desk_render.js, the desk (tools/desk.html, as index.html),
+           and seed/<page id>.json, one document per page for the desk's
+           store: the folder that is published.  Apply the desk's saved pages
+           FIRST: a page given away at the desk is the new owner's only once
+           applied.
     uv run python tools/desk.py apply DIR
         DIR holds the desk's saved pages, one <page id>.json each (as
         exported from its store): each page takes its text as the
@@ -31,6 +33,8 @@ from wikikit.scan import desk, supplied
 
 sys.stdout.reconfigure(encoding="utf-8")
 OUT = Path("data/derived/desk")
+#: The desk itself, as published: the folder OUT is, with this as its page.
+PAGE = Path(__file__).with_name("desk.html")
 
 
 _HEAD = re.compile(r"^\{\{RunningHeader\|([^|{}]*)\|([^|{}]*)\|([^|{}]*)\}\}$")
@@ -81,6 +85,7 @@ def bundle(keys: list[tuple[int, int]]) -> None:
     path = desk.bundle(keys, {k: scan(*k) for k in keys}, OUT, flags=page_flags, label=label,
                        people=people())
     shutil.copyfile(desk.DESK_RENDER_JS, OUT / "desk_render.js")
+    shutil.copyfile(PAGE, OUT / "index.html")
     seed = OUT / "seed"
     seed.mkdir()
     data = json.loads(path.read_text(encoding="utf-8"))

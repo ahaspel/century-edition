@@ -1,0 +1,767 @@
+<title>Century Proofreading Desk</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400&family=Alegreya+Sans:wght@400;500;700&display=swap">
+<style>
+:root {
+  --bg: #eceff1;
+  --panel: #ffffff;
+  --ink: #1b2229;
+  --muted: #5a6570;
+  --line: #ccd3d9;
+  --accent: #23507a;
+  --accent-ink: #ffffff;
+  --edit: #b4452e;
+  --ok: #2e7a4a;
+  --chip: #e3e8ec;
+  --scan-bg: #f7f5ef;
+  --flag: #c48a10;
+  --ui: "Alegreya Sans", "Segoe UI", system-ui, sans-serif;
+  --text: "Gentium Plus", "Charis SIL", "Noto Serif", "Times New Roman", serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #12161a; --panel: #1b2127; --ink: #e3e8ec; --muted: #97a2ad;
+    --line: #2e363e; --accent: #7fb0de; --accent-ink: #0d1a26; --edit: #e2806a;
+    --ok: #6cc08f; --chip: #252d34; --scan-bg: #e9e6de; --flag: #e0b04a;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #12161a; --panel: #1b2127; --ink: #e3e8ec; --muted: #97a2ad;
+  --line: #2e363e; --accent: #7fb0de; --accent-ink: #0d1a26; --edit: #e2806a;
+  --ok: #6cc08f; --chip: #252d34; --scan-bg: #e9e6de; --flag: #e0b04a;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font: 16px/1.45 var(--ui); padding-inline: 16px; padding-block: 0 32px; margin: 0; }
+.wrap { max-width: 1900px; margin: 0 auto; display: grid; grid-template-columns: minmax(0, 1fr); gap: 12px; }
+header.top { padding-block: 18px 0; display: grid; gap: 8px; }
+header.top h1 { margin: 0; font: 700 1.5rem/1.15 var(--ui); letter-spacing: .01em; }
+select, button, textarea, input { font: inherit; color: inherit; }
+.bar { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; }
+.bar label { font-weight: 500; }
+select, input[type=text] { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 6px 10px; }
+.btn { border: 1px solid var(--line); background: var(--panel); border-radius: 6px; padding: 6px 12px; cursor: pointer; }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.btn.ok { background: var(--ok); border-color: var(--ok); color: #fff; }
+.btn:disabled { opacity: .45; cursor: default; }
+.btn:focus-visible, select:focus-visible, textarea:focus-visible, input:focus-visible, .keys button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.progress { display: flex; align-items: center; gap: 10px; font-variant-numeric: tabular-nums; color: var(--muted); }
+.meter { width: 140px; height: 8px; background: var(--chip); border-radius: 99px; overflow: hidden; }
+.meter > i { display: block; height: 100%; width: 0; background: var(--ok); transition: width .3s; }
+.notice { padding: 8px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); color: var(--muted); }
+.notice[data-kind="warn"] { border-color: var(--edit); color: var(--edit); }
+details.help { background: var(--panel); border-left: 4px solid var(--accent); border-radius: 6px; padding: 8px 14px; max-width: 95ch; }
+details.help summary { cursor: pointer; font-weight: 700; }
+details.help p { margin: .5em 0; }
+
+.palette { position: sticky; top: 0; z-index: 5; background: var(--bg); padding-block: 6px; border-bottom: 1px solid var(--line); }
+.palette-inner { display: flex; gap: 14px; overflow-x: auto; padding-bottom: 4px; }
+.group { display: flex; flex-direction: column; gap: 3px; flex: 0 0 auto; }
+.group > span { font-size: .7rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
+.keys { display: flex; gap: 4px; }
+.keys button { font-family: var(--text); font-size: 1.1rem; min-width: 2rem; height: 2rem; padding: 0 6px; background: var(--panel); border: 1px solid var(--line); border-radius: 6px; cursor: pointer; }
+.keys button.mk { font-family: var(--ui); font-size: .85rem; }
+.keys button:hover { border-color: var(--accent); }
+
+.issues { display: grid; gap: 4px; margin: 0; padding: 0; list-style: none; }
+.issues:empty { display: none; }
+.issues li button { all: unset; cursor: pointer; display: block; padding: 4px 10px; border-radius: 6px; font-size: .92rem;
+  background: color-mix(in srgb, var(--flag) 16%, var(--panel)); border-left: 3px solid var(--flag); }
+.issues li.leak button { background: color-mix(in srgb, var(--edit) 12%, var(--panel)); border-left-color: var(--edit); }
+.issues li.note { padding: 4px 10px; border-left: 3px solid var(--edit); color: var(--edit); background: var(--panel); border-radius: 6px; }
+.issues li button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.issues b { font-family: var(--text); font-weight: 400; font-size: 1.02rem; }
+
+.desk { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr) minmax(0, 1fr); gap: 12px; }
+.pane { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; display: flex; flex-direction: column; min-height: 0; height: calc(100vh - 90px); min-height: 420px; }
+.pane-head { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; justify-content: space-between; padding: 8px 12px; border-bottom: 1px solid var(--line); }
+.pane-title { font-size: .72rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
+.pane-body { flex: 1; overflow: auto; min-height: 0; }
+.desk[data-state="checked"] .pane { border-color: color-mix(in srgb, var(--ok) 55%, var(--line)); }
+
+.scan { background: var(--scan-bg); }
+.scan img { display: block; width: calc(100% * var(--zoom, 1)); max-width: none; height: auto; }
+.zoom { display: flex; gap: 4px; }
+.zoom button { min-width: 2.2rem; padding: 2px 8px; }
+.zoom button[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); font-weight: 700; }
+
+/* The reader's view: the edition's own article styles (wikikit.site viewer). */
+.render { background: var(--scan-bg); color: #2c2416; padding: 12px 16px;
+  font-family: Georgia, "Times New Roman", "Cambria Math", "Segoe UI Symbol", "Noto Sans Symbols 2", serif; font-size: 1rem; line-height: 1.7; }
+.render p { margin: 0 0 .75em; }
+.render .small-caps { font-variant: small-caps; }
+.render .centered { text-align: center; margin: 0.5em 0; }
+.render .verse { margin: 1em 2em; line-height: 1.6; text-align: left; }
+.render .leak { background: #f6d5cc; color: #8f2a14; border-bottom: 2px solid #b4452e; font-family: var(--ui); font-size: .85em; }
+.render .rh { display: flex; align-items: baseline; border-bottom: 1px solid #d8d0bf; margin-bottom: .6em; padding-bottom: .2em; }
+.render .rh > span:nth-child(2) { flex: 1; text-align: center; }
+.render img { max-width: 100%; }
+.render mark { background: #f7dc8a; color: inherit; border-bottom: 2px solid #c48a10; padding: 0 1px; }
+.render .tex { font-family: ui-monospace, monospace; font-size: .85em; color: #5a4a2a; }
+
+.edit .pane-body { display: flex; flex-direction: column; gap: 8px; padding: 10px 12px; overflow: hidden; }
+.headrow { display: flex; gap: 8px; align-items: center; }
+.headrow label { font-size: .85rem; color: var(--muted); white-space: nowrap; }
+.headrow input { flex: 1; font-family: var(--text); font-size: 1rem; min-width: 0; }
+textarea { flex: 1; width: 100%; min-height: 12rem; resize: none; padding: 10px 12px; border: 1px solid var(--line); border-radius: 6px; background: var(--panel); font-family: var(--text); font-size: 1.08rem; line-height: 1.55; }
+.inspect { font-size: .85rem; color: var(--muted); min-height: 1.4em; font-variant-numeric: tabular-nums; }
+.inspect b { font-family: var(--text); font-size: 1.15rem; color: var(--ink); font-weight: 400; }
+.actions { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.by { color: var(--muted); font-size: .85rem; }
+.who { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; color: var(--muted); }
+.who b { color: var(--ink, inherit); }
+.linkish { background: none; border: none; padding: 0; color: var(--accent); text-decoration: underline; cursor: pointer; font: inherit; }
+.claim { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.give { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.give[hidden], .who[hidden], .claim[hidden] { display: none; }
+.chip { font-size: .8rem; padding: 2px 9px; border-radius: 99px; background: var(--chip); color: var(--muted); }
+.chip[data-s="dirty"] { background: color-mix(in srgb, var(--edit) 16%, var(--panel)); color: var(--edit); }
+.chip[data-s="edited"] { background: color-mix(in srgb, var(--accent) 14%, var(--panel)); color: var(--accent); }
+.chip[data-s="checked"] { background: color-mix(in srgb, var(--ok) 16%, var(--panel)); color: var(--ok); }
+.comment-btn[hidden] { display: none; }
+
+/* The scan always beside the text being corrected: three columns while they
+   fit, then the scan and the wikitext side by side with the reader's view
+   below, then one column on a phone. */
+@media (max-width: 1250px) {
+  .desk { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+}
+@media (max-width: 900px) {
+  .desk { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); grid-template-areas: "scan edit" "reader reader"; }
+  .desk .scan-pane { grid-area: scan; }
+  .desk .edit { grid-area: edit; }
+  .desk .reader-pane { grid-area: reader; height: 70vh; }
+}
+@media (max-width: 600px) {
+  .desk { grid-template-areas: none; }
+  .desk .scan-pane, .desk .edit, .desk .reader-pane { grid-area: auto; }
+  .desk { grid-template-columns: 1fr; }
+  .pane { height: 75vh; }
+}
+@media (prefers-reduced-motion: reduce) { .meter > i { transition: none; } }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <h1>Century Proofreading Desk</h1>
+    <div class="bar">
+      <label for="pagePick">Page</label>
+      <select id="pagePick"></select>
+      <button type="button" class="btn" id="prevPage" aria-label="Previous page">&lsaquo; Prev</button>
+      <button type="button" class="btn" id="nextPage" aria-label="Next page">Next &rsaquo;</button>
+      <div class="progress"><div class="meter"><i id="meterFill"></i></div><span id="progressText">0 of 0 pages checked</span></div>
+      <div class="who" id="who" hidden>
+        <span>You: <b id="whoName"></b></span>
+        <button type="button" class="linkish" id="whoChange">not you?</button>
+        <label for="viewPick">Show</label>
+        <select id="viewPick"><option value="mine">my pages</option><option value="all">everyone's pages</option></select>
+      </div>
+      <span class="give" id="give" hidden>
+        <label for="givePick">Give this page to</label>
+        <select id="givePick"></select>
+        <button type="button" class="btn" id="giveBtn" disabled>Give</button>
+      </span>
+    </div>
+    <div class="notice claim" id="claim" hidden>
+      <span>Which of these is you? The desk shows each person the pages they fetched or were given.</span>
+      <span id="claimNames"></span>
+    </div>
+    <details class="help" id="help">
+      <summary>How to proofread a page</summary>
+      <p>Each page is shown whole: the scan, the page as a reader of the site will see it, and our transcription in
+      wikitext. Compare the scan with the reader's view, correct the wikitext, and <b>Save</b>. When the whole page
+      is right, press <b>Save and mark page checked</b>. Every save is kept, with the text before and after.</p>
+      <p><b>Flags.</b> Words in yellow were caught by checks on the book's own order and notation, such as a headword
+      out of alphabetical order or a mark not in the pronunciation key. Click a flag to find it in the wikitext.
+      A flag is a pointer, not a verdict: the page may well print what was read.</p>
+      <p><b>Markup the edition reads otherwise</b> (in red) is wikitext that will not come out on the site as it
+      looks here, usually an apostrophe run left open or crossed (''italic'' and '''bold''' must close in the order
+      they open) or a stray brace. Click it to find the line.</p>
+      <p><b>Lines.</b> As on Wikisource, a single line break in the wikitext is read as a space: the printed lines
+      join into one paragraph. Leave a blank line (press Enter twice) to begin a new paragraph. To keep lines as
+      printed (verse, or a list set line by line), put one printed line per line, select them, and press
+      <b>lines</b> in the Markup palette.</p>
+      <p><b>Your pages.</b> The desk shows you the pages you fetched with your own key. To hand one to someone else,
+      choose them under <b>Give to</b> and press <b>Give</b>: the page, with anything you typed on it, is theirs from
+      then on. <b>Show everyone's pages</b> lets you read the others' pages; only a page's owner can save it.</p>
+      <p><b>Quotation marks and apostrophes</b> are curly, as the book prints them: use the <b>Quotes</b> keys
+      (“ ” ‘ ’). A straight " pair typed by mistake still comes out curly, but a straight ' does not, and beside
+      italic or bold ('' or ''') it is read as part of the markup.</p>
+      <p><b>Indents.</b> Spaces typed at the start of a line do not show. To set a line in (verse), put
+      <b>indent</b> from the Markup palette at its start.</p>
+      <p><b>Figures</b> appear in the reader's view where they stand in the page. If a crop misses part of the
+      picture or takes in text, say so with <b>Comment on this page</b>.</p>
+    </details>
+    <ul class="issues" id="issues" aria-label="Notes, flags and markup to look at"></ul>
+    <div id="status" class="notice" hidden></div>
+  </header>
+
+  <nav class="palette" aria-label="Characters and markup">
+    <div class="palette-inner" id="palette"></div>
+  </nav>
+
+  <main class="desk" id="desk">
+    <section class="pane scan-pane" aria-label="Scan">
+      <div class="pane-head">
+        <span class="pane-title">Scan</span>
+        <div class="zoom" role="group" aria-label="Zoom">
+          <button type="button" class="btn" data-zoom="1" aria-pressed="true">Fit</button>
+          <button type="button" class="btn" data-zoom="1.5" aria-pressed="false">150%</button>
+          <button type="button" class="btn" data-zoom="2" aria-pressed="false">200%</button>
+          <button type="button" class="btn" data-zoom="3" aria-pressed="false">300%</button>
+        </div>
+      </div>
+      <div class="pane-body scan" id="scanBox"><img id="scanImg" alt=""></div>
+    </section>
+    <section class="pane reader-pane" aria-label="As the reader sees it">
+      <div class="pane-head"><span class="pane-title">As the reader sees it</span></div>
+      <div class="pane-body"><div class="render" id="render" aria-live="off"></div></div>
+    </section>
+    <section class="pane edit" aria-label="Transcription">
+      <div class="pane-head">
+        <span class="pane-title">Wikitext</span>
+        <span class="chip" id="chip" data-s="loading">loading</span>
+      </div>
+      <div class="pane-body">
+        <div class="headrow"><label for="headInput">Running head</label><input type="text" id="headInput" spellcheck="false"></div>
+        <textarea id="text" spellcheck="false" aria-label="The page's wikitext"></textarea>
+        <div class="inspect" id="inspect" aria-live="polite"></div>
+        <div class="actions">
+          <button type="button" class="btn primary" id="saveBtn" disabled>Save</button>
+          <button type="button" class="btn ok" id="checkBtn" disabled>Save and mark page checked</button>
+          <button type="button" class="btn" id="revertBtn" disabled>Restore model text</button>
+          <button type="button" class="btn comment-btn" id="commentBtn" hidden>Comment on this page</button>
+        </div>
+        <div class="by" id="by"></div>
+      </div>
+    </section>
+  </main>
+</div>
+
+<script src="desk_render.js"></script>
+<script>
+/* Everything this page shows comes from the engine (wikikit.scan.desk):
+   desk.json carries the pages (each one whole: its scan, running head and
+   text), the render table the engine measured through its own chain, and the
+   book's notation; the reader view is desk_render.js, held to the engine by its
+   parity gate.  This page adds no markup of its own.  Each page's current text
+   lives in the shared store (pages/<id>), seeded from the same text. */
+const MARK_NAMES = {
+  "̀": "grave", "́": "acute", "̂": "circumflex", "̃": "tilde",
+  "̄": "macron", "̆": "breve", "̇": "dot above", "̈": "diaeresis",
+  "̣": "dot below", "̤": "diaeresis below", "̮": "breve below",
+  "̵": "short stroke overlay",
+};
+const COMBINING = ["̣", "̤", "̮", "̄", "̇", "̈"];
+
+const $ = (s, el = document) => el.querySelector(s);
+const state = { desk: null, db: null, user: null, me: null, canWrite: null, docs: {}, drafts: {},
+                comments: null, renderTimer: 0,
+                // who is who: people/<name> -> {user}, claimed once by each person
+                claims: {}, myName: null, view: "mine" };
+
+function hex(c) { return "U+" + c.codePointAt(0).toString(16).toUpperCase().padStart(4, "0"); }
+function graphemeAt(text, pos) {
+  let start = Math.max(0, pos - 1);
+  while (start > 0 && /\p{M}/u.test(text[start])) start--;
+  let end = start + 1;
+  while (end < text.length && /\p{M}/u.test(text[end])) end++;
+  return text.slice(start, end);
+}
+function describe(g) {
+  return [...g.normalize("NFD")].map(c => MARK_NAMES[c] ? `+ ${MARK_NAMES[c]} (${hex(c)})` : `${c} (${hex(c)})`).join(" ");
+}
+function setStatus(text, kind) {
+  const el = $("#status"); el.hidden = !text; el.textContent = text || ""; el.dataset.kind = kind || "";
+}
+function escapeHtml(s) { return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
+
+/* The palette: the engine's markup (the render table's constructs) and the
+   book's own notation. */
+const MARKUP = [
+  ["B", "Bold", "'''", "'''"], ["I", "Italic", "''", "''"], ["SC", "Small capitals", "{{sc|", "}}"],
+  ["sup", "Superscript", "<sup>", "</sup>"], ["small", "Smaller type", "{{smaller|", "}}"],
+  ["block", "Smaller type, set off", "{{smaller block|", "}}"],
+  ["right", "Right-aligned (a quotation's source)", "{{right|", "}}"], ["c", "Centred (a caption)", "{{c|", "}}"],
+  ["poem", "Verse: select the lines and press it, one printed line per line (also any list set line by line). For a staggered line, {{gap}} at its start.", "<poem>", "</poem>"],
+  ["centre block", "A centred block, e.g. verse: wrap the <poem> in it", "{{block center|", "}}"],
+  ["indent", "Indent: put it at the start of a line set in (2 ems; {{gap|1em}}, {{gap|4em}} … for other widths). Spaces typed at the start of a line do not show.", "{{gap}}", ""],
+];
+const MARKUP_KEY = { SC: "sc", sup: "sup", small: "smaller", block: "smaller block", right: "right", c: "c",
+                     poem: "poem", "centre block": "block center", indent: "gap" };
+let lastField = null;
+function buildPalette() {
+  const pal = $("#palette"); pal.textContent = "";
+  const add = (label, keys, makeBtn) => {
+    const g = document.createElement("div"); g.className = "group";
+    const s = document.createElement("span"); s.textContent = label;
+    const row = document.createElement("div"); row.className = "keys";
+    keys.forEach(k => row.appendChild(makeBtn(k)));
+    g.append(s, row); pal.appendChild(g);
+  };
+  add("Markup", MARKUP.filter(m => m[0] === "B" || m[0] === "I" || state.desk.table[MARKUP_KEY[m[0]]]),
+    ([label, title, open, close]) => {
+      const b = document.createElement("button");
+      b.type = "button"; b.className = "mk"; b.textContent = label; b.title = title;
+      b.addEventListener("mousedown", e => e.preventDefault());
+      b.addEventListener("click", () => wrap(open, close));
+      return b;
+    });
+  const key = k => {
+    const b = document.createElement("button");
+    b.type = "button"; b.textContent = k.shown; b.title = k.title;
+    b.addEventListener("mousedown", e => e.preventDefault());
+    b.addEventListener("click", () => insert(k.insert));
+    return b;
+  };
+  for (const g of state.desk.notation) {
+    add(g.label, g.symbols.map(s => ({ shown: s.symbol, insert: s.symbol,
+      title: (s.as_in ? "as in " + s.as_in : s.meaning || "") + (s.uncertain ? " (to confirm against the page)" : "") })), key);
+  }
+  // the book prints its quotation marks and apostrophes curly; a straight '
+  // beside '' or ''' is read as markup
+  add("Quotes", [["“", "Opening quotation mark"], ["”", "Closing quotation mark"],
+                 ["‘", "Opening single quotation mark"], ["’", "Apostrophe, or closing single quotation mark (don’t)"]]
+    .map(([c, t]) => ({ shown: c, insert: c, title: t })), key);
+  add("Combining", COMBINING.map(c => ({ shown: "◌" + c, insert: c, title: describe(c) })), key);
+}
+function field() { return lastField && !lastField.readOnly ? lastField : null; }
+function insert(text) {
+  const t = field(); if (!t) return;
+  const { selectionStart: a, selectionEnd: b, value } = t;
+  t.value = value.slice(0, a) + text + value.slice(b);
+  t.selectionStart = t.selectionEnd = a + text.length;
+  t.focus(); t.dispatchEvent(new Event("input"));
+}
+function wrap(open, close) {
+  const t = field(); if (!t) return;
+  const { selectionStart: a, selectionEnd: b, value } = t;
+  t.value = value.slice(0, a) + open + value.slice(a, b) + close + value.slice(b);
+  t.selectionStart = a + open.length; t.selectionEnd = b + open.length;
+  t.focus(); t.dispatchEvent(new Event("input"));
+}
+
+function page() { return state.desk.pages.find(p => p.id === $("#pagePick").value) || state.desk.pages[0]; }
+function current() { return { head: $("#headInput").value, text: $("#text").value }; }
+function stored(pg) {
+  const d = state.docs[pg.id];
+  return d ? { head: d.head ?? "", text: d.text ?? "" } : { head: pg.head, text: pg.text };
+}
+function isDirty(pg) {
+  const dr = state.drafts[pg.id]; if (!dr) return false;
+  const s = stored(pg); return dr.head !== s.head || dr.text !== s.text;
+}
+
+/* The reader's view of the page: its running head, then desk_render.js over
+   the engine's table, the page's figures shown from the desk's copies. */
+function headHtml(src) {
+  const m = src.trim().match(/^\{\{\s*RunningHeader\s*\|([^{}]*)\}\}$/i);
+  if (!src.trim()) return "";
+  if (!m) return `<div class="rh"><span class="leak">${escapeHtml(src)}</span></div>`;
+  const [l = "", c = "", r = ""] = m[1].split("|").map(x => escapeHtml(x.trim()));
+  return `<div class="rh"><span>${l}</span><span>${c}</span><span>${r}</span></div>`;
+}
+function paint() {
+  const pg = page(), { head, text } = current();
+  const { html, leaks } = DeskRender.render(text, state.desk.table, pg.figures);
+  let out = html;
+  const tokens = [...new Set(leaks.filter(l => !l.includes(" ")))];
+  for (const l of tokens) out = out.split(escapeHtml(l)).join(`<span class="leak" title="Not in the markup the edition renders">${escapeHtml(l)}</span>`);
+  const box = $("#render");
+  box.innerHTML = headHtml(head) + out;
+  markFlags(box, pg.flags || []);
+  paintIssues(pg, leaks);
+}
+function schedulePaint() { clearTimeout(state.renderTimer); state.renderTimer = setTimeout(paint, 150); }
+
+/* Highlight each flagged word in the reader's view (its first occurrence). */
+function markFlags(box, flags) {
+  for (const f of flags) {
+    const walker = document.createTreeWalker(box, NodeFilter.SHOW_TEXT);
+    for (let n = walker.nextNode(); n; n = walker.nextNode()) {
+      if (n.parentElement.closest("mark")) continue;
+      const i = n.data.indexOf(f.text);
+      if (i < 0) continue;
+      const hit = n.splitText(i); hit.splitText(f.text.length);
+      const m = document.createElement("mark"); m.title = f.reason;
+      hit.parentNode.replaceChild(m, hit); m.appendChild(hit);
+      break;
+    }
+  }
+}
+
+/* Find a piece of text in the wikitext: select it and scroll to it. */
+function findInText(needle) {
+  const ta = $("#text");
+  let at = ta.value.indexOf(needle, ta.selectionEnd);
+  if (at < 0) at = ta.value.indexOf(needle);
+  if (at < 0) { setStatus("Not found in the wikitext as it stands now.", ""); return; }
+  setStatus("", "");
+  ta.focus(); ta.setSelectionRange(at, at + needle.length);
+  const line = ta.value.slice(0, at).split("\n").length;
+  const lh = parseFloat(getComputedStyle(ta).lineHeight) || 26;
+  // a long line wraps: estimate by characters as well as by lines
+  const cols = Math.max(20, Math.floor(ta.clientWidth / 9));
+  const wrapped = ta.value.slice(0, at).split("\n").reduce((k, l) => k + Math.max(1, Math.ceil(l.length / cols)), 0);
+  ta.scrollTop = Math.max(0, (Math.max(line, wrapped) - 4) * lh);
+}
+
+function paintIssues(pg, leaks) {
+  const ul = $("#issues"); ul.textContent = "";
+  for (const n of pg.notes || []) {
+    const li = document.createElement("li"); li.className = "note"; li.textContent = n; ul.appendChild(li);
+  }
+  for (const f of pg.flags || []) {
+    const li = document.createElement("li"), b = document.createElement("button");
+    b.type = "button";
+    const w = document.createElement("b"); w.textContent = f.text;
+    b.append("⚑ ", w, " — " + f.reason);
+    b.addEventListener("click", () => findInText(f.text));
+    li.appendChild(b); ul.appendChild(li);
+  }
+  // a line the edition reads otherwise can be found; a stray mark is shown in
+  // red where it stands in the reader's view
+  const lines = [...new Set(leaks.filter(l => l.includes(" ")))];
+  const marks = [...new Set(leaks.filter(l => !l.includes(" ")))];
+  if (marks.length) {
+    const li = document.createElement("li"); li.className = "note";
+    li.textContent = `Markup the edition does not render (${marks.join("  ")}) is shown in red in the reader's view.`;
+    ul.appendChild(li);
+  }
+  for (const l of lines) {
+    const li = document.createElement("li"); li.className = "leak";
+    const b = document.createElement("button"); b.type = "button";
+    const w = document.createElement("b"); w.textContent = l.length > 90 ? l.slice(0, 90) + "…" : l;
+    b.append("Markup the edition reads otherwise: ", w);
+    b.addEventListener("click", () => findInText(l.length > 60 ? l.slice(0, 60) : l));
+    li.appendChild(b); ul.appendChild(li);
+  }
+}
+
+/* Whose page it is: whoever it was last given to at the desk, else whoever
+   fetched it (desk.json's owner).  Without the store (a preview) every page
+   is open to try; with it, only the owner saves or gives a page. */
+function ownerOf(pg) { const d = state.docs[pg.id]; return (d && d.owner) || pg.owner || null; }
+function isMine(pg) { return !state.db || (!!state.myName && ownerOf(pg) === state.myName); }
+function visiblePages() {
+  if (!state.db || !state.myName || state.view === "all") return state.desk.pages;
+  return state.desk.pages.filter(isMine);
+}
+
+/* The picker holds the pages in view: one's own, or everyone's. */
+function rebuildPicker() {
+  const pick = $("#pagePick"), was = pick.value, pages = visiblePages();
+  const ids = pages.map(p => p.id).join();
+  if (pick.dataset.ids !== ids) {
+    pick.textContent = "";
+    pages.forEach(p => { const o = document.createElement("option"); o.value = p.id; pick.appendChild(o); });
+    pick.dataset.ids = ids;
+    if (pages.some(p => p.id === was)) pick.value = was;
+    else {
+      // the page left the list (given away): go on to the next one after it
+      const all = state.desk.pages.map(p => p.id), at = all.indexOf(was);
+      const next = pages.find(p => all.indexOf(p.id) > at);
+      if (next) pick.value = next.id;
+    }
+    if (!pages.length) setStatus("You have no pages on the desk right now. Show everyone's pages to read the others'.", "");
+  }
+  refreshPicker();
+  return pick.value !== was;
+}
+
+function refreshPicker() {
+  const pick = $("#pagePick");
+  for (const o of pick.options) {
+    const pg = state.desk.pages.find(p => p.id === o.value);
+    const d = state.docs[pg.id];
+    const checked = d ? d.status === "checked" : pg.checked;
+    const n = (pg.flags || []).length;
+    const whose = state.db && state.myName && !isMine(pg) && ownerOf(pg) ? ` — ${ownerOf(pg)}'s` : "";
+    o.textContent = (checked ? "✓ " : "") + pg.label + whose + (n ? ` — ${n} flagged` : "") + (isDirty(pg) ? " (unsaved)" : "");
+  }
+  const i = pick.selectedIndex;
+  $("#prevPage").disabled = i <= 0; $("#nextPage").disabled = i >= pick.options.length - 1;
+}
+
+function refreshProgress() {
+  const pages = visiblePages();
+  const done = pages.filter(pg => { const d = state.docs[pg.id]; return d ? d.status === "checked" : pg.checked; }).length;
+  const yours = pages !== state.desk.pages ? " of yours" : "";
+  $("#progressText").textContent = `${done} of ${pages.length} pages${yours} checked`;
+  $("#meterFill").style.width = (pages.length ? 100 * done / pages.length : 0) + "%";
+}
+
+/* Who is who: each person says once which name is theirs (people/<name>). */
+function refreshWho() {
+  const claim = $("#claim"), who = $("#who");
+  const asking = !!state.db && !state.myName && state.canWrite !== false;
+  claim.hidden = !asking; who.hidden = !state.myName;
+  if (state.myName) $("#whoName").textContent = state.myName;
+  if (asking) {
+    const box = $("#claimNames"); box.textContent = "";
+    for (const name of state.desk.people || []) {
+      const b = document.createElement("button"); b.type = "button"; b.className = "btn";
+      const taken = state.claims[name] && state.claims[name] !== state.me;
+      b.textContent = name + (taken ? " (taken)" : ""); b.disabled = !!taken;
+      b.addEventListener("click", () => claimName(name));
+      box.appendChild(b);
+    }
+  }
+  const give = $("#givePick"), others = (state.desk.people || []).filter(n => n !== state.myName);
+  if (give.dataset.names !== others.join()) {
+    give.textContent = "";
+    const none = document.createElement("option"); none.value = ""; none.textContent = "choose…"; give.appendChild(none);
+    others.forEach(n => { const o = document.createElement("option"); o.value = n; o.textContent = n; give.appendChild(o); });
+    give.dataset.names = others.join();
+  }
+}
+async function claimName(name) {
+  try { await state.db.doc("people/" + name).set({ user: state.me, at: new Date().toISOString() }); }
+  catch (e) { setStatus("Could not record who you are (" + (e && e.code || "error") + "). Try again.", "warn"); }
+}
+async function unclaim() {
+  if (!state.myName) return;
+  if (state.desk.pages.some(isDirty)) { setStatus("Save or undo your unsaved edits before changing who you are.", "warn"); return; }
+  try { await state.db.doc("people/" + state.myName).delete(); }
+  catch (e) { setStatus("Could not change who you are (" + (e && e.code || "error") + "). Try again.", "warn"); }
+}
+
+/* Giving a page: it, and anything typed on it, is the other person's from
+   then on.  Pressed once to choose, again to confirm. */
+function resetGive() {
+  const b = $("#giveBtn");
+  delete b.dataset.armed; b.textContent = "Give";
+  b.disabled = !$("#givePick").value;
+}
+async function give() {
+  const pg = page(), d = state.docs[pg.id], to = $("#givePick").value, b = $("#giveBtn");
+  if (!d || !to || !isMine(pg)) return;
+  if (!b.dataset.armed) {
+    b.dataset.armed = "1"; b.textContent = "Confirm: give to " + to;
+    setStatus(`${pg.label} will be ${to}'s` + (isDirty(pg) ? ", with your unsaved edits" : "") +
+              ". Press again to give it, or choose someone else to cancel.", "");
+    return;
+  }
+  const cur = current(), at = new Date().toISOString();
+  const patch = { owner: to, given_by: state.me, given_at: at };
+  if (cur.head !== d.head || cur.text !== d.text) Object.assign(patch, { head: cur.head, text: cur.text, status: "unchecked", updated_by: state.me, updated_at: at });
+  try {
+    await state.db.doc("pages/" + pg.id).update(patch);
+    if (cur.text !== d.text) await state.db.collection("corrections").add({ page: pg.id, field: "text", before: d.text, after: cur.text, by: state.me, at });
+    if (cur.head !== d.head) await state.db.collection("corrections").add({ page: pg.id, field: "head", before: d.head, after: cur.head, by: state.me, at });
+    delete state.drafts[pg.id];
+    $("#givePick").value = ""; resetGive();
+    setStatus(`${pg.label} is now ${to}'s.`, "");
+  } catch (e) {
+    resetGive();
+    setStatus("Could not give the page (" + (e && e.code || "error") + "). It is still yours; try again.", "warn");
+  }
+}
+
+async function refreshState() {
+  const pg = page(), d = state.docs[pg.id];
+  // without the store (a preview outside Claude) the text can still be tried:
+  // the reader's view follows it; only saving needs the store
+  const mine = isMine(pg);
+  const writable = state.canWrite !== false && !!state.db && !!d && mine;
+  const typable = state.canWrite !== false && (!state.db || !!d) && mine;
+  $("#text").readOnly = !typable; $("#headInput").readOnly = !typable;
+  const dirty = isDirty(pg);
+  let st = "unchecked";
+  if (state.db && d === undefined) st = "loading";
+  else if (state.db && d === null) st = "missing";
+  else if (!mine) st = "theirs";
+  else if (dirty) st = "dirty";
+  else if (d && d.status === "checked") st = "checked";
+  else if (d && (d.text !== d.model_text || d.head !== d.model_head)) st = "edited";
+  const chip = $("#chip");
+  chip.dataset.s = st;
+  chip.textContent = { loading: "loading", missing: "not on the desk", dirty: "unsaved", checked: "page checked",
+                       edited: "corrected, not checked", unchecked: "not checked",
+                       theirs: (ownerOf(pg) ? ownerOf(pg) + "'s page" : "someone else's page") + ", read only" }[st];
+  $("#give").hidden = !writable || !(state.desk.people || []).some(n => n !== state.myName);
+  $("#desk").dataset.state = st;
+  $("#saveBtn").disabled = !writable || !dirty;
+  $("#checkBtn").disabled = !writable || (st === "checked" && !dirty);
+  const cur = current();
+  $("#revertBtn").disabled = !writable || !d || (cur.text === d.model_text && cur.head === d.model_head);
+  refreshPicker(); refreshProgress();
+  const by = $("#by"); by.textContent = "";
+  if (d && d.updated_by && state.user) {
+    try {
+      const ps = await state.user.profiles([d.updated_by]);
+      const when = d.updated_at ? new Date(d.updated_at).toLocaleString() : "";
+      if (page().id === pg.id) by.textContent = `Last saved by ${(ps[d.updated_by] || {}).name || "someone"}${when ? ", " + when : ""}`;
+    } catch (e) { /* names are a courtesy */ }
+  }
+}
+
+function showPage() {
+  const pg = page();
+  resetGive();
+  const img = $("#scanImg"); img.src = pg.img; img.alt = "Scan of " + pg.label;
+  $("#scanBox").scrollTop = 0; $("#scanBox").scrollLeft = 0;
+  const v = state.drafts[pg.id] || stored(pg);
+  $("#headInput").value = v.head; $("#text").value = v.text;
+  $("#text").scrollTop = 0; $(".reader-pane .pane-body").scrollTop = 0;
+  paint(); refreshState();
+  try { localStorage.setItem("century-desk-page", pg.id); } catch (e) {}
+}
+
+/* The store, live: every page's document (its text, status and owner) and
+   who is who.  A page given away leaves its giver's list and joins the
+   other's as it happens. */
+function storeChanged() {
+  if (rebuildPicker()) { showPage(); return; }
+  const pg = page();
+  if (!state.drafts[pg.id] && state.docs[pg.id]) {
+    const s = stored(pg);
+    if ($("#headInput").value !== s.head || $("#text").value !== s.text) {
+      $("#headInput").value = s.head; $("#text").value = s.text; paint();
+    }
+  }
+  refreshState();
+}
+function subscribe() {
+  const lost = err => setStatus("Lost the connection to the shared store (" + err.code + "). Reload the page to continue.", "warn");
+  state.db.collection("pages").onSnapshot(snap => {
+    const seen = {};
+    for (const doc of snap.docs) seen[doc.id] = doc.data();
+    for (const pg of state.desk.pages) state.docs[pg.id] = seen[pg.id] || null;
+    storeChanged();
+  }, lost);
+  state.db.collection("people").onSnapshot(snap => {
+    state.claims = {};
+    for (const doc of snap.docs) state.claims[doc.id] = (doc.data() || {}).user;
+    state.myName = Object.keys(state.claims).find(n => state.claims[n] === state.me) || null;
+    refreshWho(); storeChanged();
+  }, lost);
+}
+
+function edited() {
+  const pg = page(), cur = current(), s = stored(pg);
+  if (cur.head === s.head && cur.text === s.text) delete state.drafts[pg.id];
+  else state.drafts[pg.id] = cur;
+  schedulePaint(); refreshState();
+}
+
+async function save(check) {
+  const pg = page(), d = state.docs[pg.id];
+  if (!d || !state.db) return;
+  const cur = current(), at = new Date().toISOString();
+  const patch = { head: cur.head, text: cur.text, updated_by: state.me, updated_at: at };
+  const changed = cur.head !== d.head || cur.text !== d.text;
+  if (check) patch.status = "checked";
+  else if (changed) patch.status = "unchecked";
+  try {
+    await state.db.doc("pages/" + pg.id).update(patch);
+    if (cur.text !== d.text) await state.db.collection("corrections").add({ page: pg.id, field: "text", before: d.text, after: cur.text, by: state.me, at });
+    if (cur.head !== d.head) await state.db.collection("corrections").add({ page: pg.id, field: "head", before: d.head, after: cur.head, by: state.me, at });
+    delete state.drafts[pg.id];
+    setStatus(check ? "Saved, and the page is marked checked." : "Saved.", "");
+  } catch (e) {
+    if (e && e.code === "invalid_argument") { state.canWrite = false; setStatus("This page is read-only for you. Ask the owner for edit access to save corrections.", "warn"); }
+    else setStatus("Could not save (" + (e && e.code || "error") + "). Your text is still in the box; try again.", "warn");
+  }
+  refreshState();
+}
+
+function revert() {
+  const pg = page(), d = state.docs[pg.id]; if (!d) return;
+  $("#headInput").value = d.model_head; $("#text").value = d.model_text;
+  edited();
+}
+
+function step(k) {
+  const pick = $("#pagePick"), i = pick.selectedIndex + k;
+  if (i < 0 || i >= pick.options.length) return;
+  pick.selectedIndex = i; showPage();
+}
+
+async function start() {
+  try {
+    state.desk = await (await fetch("desk.json")).json();
+  } catch (e) {
+    setStatus("Could not load the desk's pages (desk.json). Reload the page.", "warn");
+    return;
+  }
+  const pick = $("#pagePick");
+  rebuildPicker();
+  try {
+    const last = localStorage.getItem("century-desk-page");
+    if (last && state.desk.pages.some(p => p.id === last)) pick.value = last;
+    const view = localStorage.getItem("century-desk-view");
+    if (view === "all" || view === "mine") { state.view = view; $("#viewPick").value = view; }
+  } catch (e) {}
+  pick.addEventListener("change", showPage);
+  $("#viewPick").addEventListener("change", () => {
+    state.view = $("#viewPick").value;
+    try { localStorage.setItem("century-desk-view", state.view); } catch (e) {}
+    if (rebuildPicker()) showPage(); else refreshState();
+  });
+  $("#whoChange").addEventListener("click", unclaim);
+  $("#givePick").addEventListener("change", () => { resetGive(); setStatus("", ""); });
+  $("#giveBtn").addEventListener("click", give);
+  $("#prevPage").addEventListener("click", () => step(-1));
+  $("#nextPage").addEventListener("click", () => step(1));
+  $("#saveBtn").addEventListener("click", () => save(false));
+  $("#checkBtn").addEventListener("click", () => save(true));
+  $("#revertBtn").addEventListener("click", revert);
+  for (const el of [$("#text"), $("#headInput")]) {
+    el.addEventListener("focus", () => { lastField = el; });
+    el.addEventListener("input", edited);
+  }
+  const ta = $("#text");
+  const inspect = () => {
+    const box = $("#inspect"); box.textContent = "";
+    const g = graphemeAt(ta.value, ta.selectionStart);
+    if (!g.trim()) return;
+    const b = document.createElement("b"); b.textContent = g;
+    box.append("At cursor: ", b, " " + describe(g));
+  };
+  ["keyup", "click", "select"].forEach(ev => ta.addEventListener(ev, inspect));
+  document.querySelectorAll("[data-zoom]").forEach(b => b.addEventListener("click", () => {
+    const box = $("#scanBox"), old = parseFloat(getComputedStyle(box).getPropertyValue("--zoom")) || 1;
+    const z = parseFloat(b.dataset.zoom);
+    const fx = (box.scrollLeft + box.clientWidth / 2) / old, fy = (box.scrollTop + box.clientHeight / 2) / old;
+    box.style.setProperty("--zoom", z);
+    box.scrollLeft = fx * z - box.clientWidth / 2; box.scrollTop = fy * z - box.clientHeight / 2;
+    document.querySelectorAll("[data-zoom]").forEach(x => x.setAttribute("aria-pressed", String(x === b)));
+  }));
+  window.addEventListener("beforeunload", e => {
+    if (state.desk.pages.some(isDirty)) { e.preventDefault(); e.returnValue = ""; }
+  });
+  buildPalette();
+  showPage();
+  // Comments light up on their own; the page never waits for them.
+  Promise.resolve(window.claude?.use?.("comments") ?? null).then(c => {
+    state.comments = c;
+    $("#commentBtn").hidden = !c;
+  }, () => {});
+  $("#commentBtn").addEventListener("click", async () => {
+    if (!state.comments) return;
+    try { await state.comments.openComposer({ element: $("#desk") }); }
+    catch (e) {
+      if (e && ["unavailable", "not_granted", "capability_disabled", "capability_removed"].includes(e.code)) {
+        $("#commentBtn").hidden = true;
+        setStatus("Commenting is not available in this view. Open the page in Claude, signed in, to comment.", "warn");
+      } else if (e && e.code === "rate_limited") {
+        setStatus("Too many comment boxes opened at once; wait a moment and try again.", "warn");
+      }
+    }
+  });
+  const [db, user] = await Promise.all([window.claude?.use?.("db") ?? null, window.claude?.use?.("user") ?? null]);
+  state.user = user;
+  if (!db) { setStatus("Preview: you can type, and the reader's view follows, but nothing is saved. Open this page in Claude, signed in, to save corrections.", "warn"); return; }
+  state.db = db;
+  state.me = user ? await user.id() : null;
+  state.canWrite = user ? await user.can("data.write") : null;
+  if (state.canWrite === false) setStatus("You can read this desk but not save. Ask the owner for edit access to proofread.", "warn");
+  refreshWho();
+  subscribe();
+  showPage();
+}
+start();
+</script>
