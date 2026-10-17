@@ -1,0 +1,260 @@
+{
+ "volume": 1,
+ "page_number": 61,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n60.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n60.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-16",
+  "angle": 0.0,
+  "column_width": 743,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     56,
+     126,
+     2270,
+     164
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     56,
+     164,
+     788,
+     1054
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     57,
+     460,
+     478,
+     659
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     56,
+     1054,
+     788,
+     2089
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     56,
+     2089,
+     788,
+     3158
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     56,
+     3158,
+     788,
+     3266
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     788,
+     164,
+     1527,
+     1186
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     788,
+     1186,
+     1527,
+     2219
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     788,
+     2219,
+     1527,
+     3266
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1527,
+     164,
+     2270,
+     1251
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1527,
+     1251,
+     2270,
+     2287
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1538,
+     1809,
+     1926,
+     2197
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1527,
+     2287,
+     2270,
+     3266
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|accidental|35|acclimatement}}",
+   "c1s1": "'''tion''', a description.—'''Accidental distinction''', in ''logic'', one which does not concern the definitions of the objects distinguished.—'''Accidental error''', in ''physics''. See ''error''.—'''Accidental form.''' See ''form''.—'''Accidental light''', in ''painting'', a secondary light which is not accounted for by the prevalent effect, such as the rays of the sun darting through a cloud, or between the leaves of a thicket, or the effects of moonlight, candle-light, or burning bodies, in a scene which does not owe its chief light to such a source.—'''Accidental point''', in ''persp.'', that point in which a right line drawn from the eye parallel to another given right\n[[FIGURE]]\n{{c|Accidental Point.}}\nline cuts the picture or plane. Thus, suppose AB to be the line given in perspective, CFE the perspective plane, D the eye, DC the line parallel to AB; then is C the accidental point. = '''Syn.''' '''1.''' ''Accidental, Chance, Casual, Fortuitous, Incidental, Contingent.'' The first four are the words most commonly used to express occurrence without expectation or design. ''Accidental'' is the most common, and expresses that which happens outside of the regular course of events. ''Chance'' has about the same force as ''accidental'', but it is not used predicatively. There is a tendency to desynonymize ''accidental'' and ''casual'', so as to make the former apply to events that are of more consequence: as, an ''accidental'' fall; a ''casual'' remark. As to actual connection with the main course of events, ''casual'' is the word most opposed to ''incidental;'' the connection of what is ''incidental'' is real and necessary, but secondary: as, an ''incidental'' benefit or evil. An ''incidental'' remark is a real part of a discussion; a ''casual'' remark is not. ''Fortuitous'' is rather a learned word, not",
+   "c1s2": "{{smaller|applicable in many cases where ''accidental'' or even ''casual'' could be used; perhaps through its resemblance to ''fortunate,'' it is rarely if ever used when speaking of that which is unfavorable or undesired; thus, it would not be proper to speak of a ''fortuitous'' shipwreck. It is chiefly used with the more abstract words: as, ''fortuitous'' events; a ''fortuitous'' resemblance. That which is ''contingent'' is dependent upon something else for its happening: as, his recovery is ''contingent'' upon the continuance of mild weather. See ''occasional.''}}\n{{smaller block|Thy sin’s not ''accidental,'' but a trade.\n{{right|''Shak.'', M. for M., iii. 1.}}}}\n{{smaller block|<poem>But let it not be such as that\nYou set before ''chance''-comers.</poem>\n{{right|''Tennyson'', Will Waterproof.}}}}\n{{smaller block|<poem>No ''casual'' mistress, but a wife.</poem>\n{{right|''Tennyson'', In Memoriam.}}}}\n{{smaller block|''Fortuitous'' coincidences of sound, . . . in words of wholly independent derivation.\n{{right|''Whitney'', Lang. and Study of Lang., p. 387.}}}}\n{{smaller block|By some persons religious duties appear to be regarded as an ''incidental'' business.\n{{right|''J. Rogers.''}}}}\n{{smaller block|With an infinite being nothing can be ''contingent.''\n{{right|''Paley.''}}}}\n\n'''II.''' ''n.'' '''1.''' Anything happening, occurring, or appearing accidentally, or as if accidentally; a casualty. {{smaller|Specifically—(''a'') In ''music,'' a sign occurring in the course of a piece of music and altering the pitch of the note before which it is placed from the pitch indicated by the signature, or restoring it to the latter after it has undergone such alteration. There are five such signs: the sharp (♯), double sharp (×), flat (♭), double flat (♭♭), and natural (♮). The sharp raises the pitch a half step, the double sharp a whole step; the flat lowers the pitch a half step, the double flat a whole step; the natural annuls the effect of a previous sharp or flat occurring either in the signature or as an accidental. The effect of an accidental is usually limited to the bar in which it occurs. (''b'') In ''med.,'' tissue}}",
+   "c1s3": "{{smaller block|resulting from morbid action: chiefly employed in this sense by French writers, but adopted by some English authors. (''c'') In ''painting'', a fortuitous or chance effect resulting from the incidence of luminous rays or accidental lights upon certain objects, whereby the latter are brought into greater emphasis of light and shadow.}}\n\n2. An unessential property; a mere adjunct or circumstance.\n{{smaller block|He conceived it just that ''accidentals'' . . . should sink with the substance of the accusation. {{right|''Fuller''.}}\n\nConceive as much as you can of the essentials of any subject, before you consider its ''accidentals''. ''Watts'', Logic.}}\n\n¶\n'''accidentalism''' (ak-si-den′tạl-izm), ''n.'' 1. The condition or quality of being accidental; accidental character.—2. That which is accidental; accidental effect; specifically, in ''painting'', the effect produced by accidental rays of light. ''Ruskin.'' See ''accidental, n.'', 1 (''c''), and ''accidental light'', under ''accidental, a.''—3. In ''med.'', the hypothesis by which disease is regarded as an accidental modification of health. ''Syd. Soc. Lex.''\n\n'''accidentalist''' (ak-si-den′tạl-ist), ''n.'' In ''med.'', one who favors accidentalism. ''Syd. Soc. Lex.''\n\n'''accidentality''' (ak″si-den-tal′i-ti), ''n.'' The state or quality of being accidental; accidental character.\n{{smaller block|I wish in short to connect by a moral copula natural history with political history, or, in other words, to make history scientific, and science historical—to take from history its ''accidentality'', and from science its fatalism. {{right|''Coleridge'', Table-Talk.}}}}\n\n'''accidentally''' (ak-si-den′tạl-i), ''adv.'' In an accidental manner; by chance; casually; fortuitously; not essentially or intrinsically.\n{{smaller block|I conclude choler ''accidentally'' bitter and acrimonious,}}",
+   "c1s4": "{{smaller block|but not in itself.\n{{right|''Harvey'', Consumption.}}}}\n\n{{smaller block|Despite the comparatively lukewarm piety of the age, the Meccan pilgrimage is religious essentially, ''accidentally'' an affair of commerce.\n{{right|''R. F. Burton'', El-Medinah, p. 402.}}}}",
+   "c2s1": "¶\n'''accidentalness''' (ak-si-den′tal-nes), ''n.'' The quality of being accidental or fortuitous.\n{{smaller block|All that ''accidentalness'' and mixture of extravagance and penury which is the natural atmosphere of such reckless souls.\n{{right|''Mrs. Oliphant'', Sheridan, p. 5.}}}}\n\n'''accidentary†''' (ak-si-den′ta-ri), ''a.'' [=Sp. Pg. ''accidentario'', < L. as if *''accidentarius'', < ''accident(t-)s'': see ''accident.''] Accidental. ''Holland.''\n\n'''accidented''' (ak′si-den-ted), ''p. a.'' Characterized by accidents or irregularities of surface; undulating.\n{{smaller block|I can only compare our progress to a headlong steeple-chase over a violently ''accidented'' ploughed field.\n{{right|''O’Donovan'', Merv, i.}}}}\n{{smaller block|The Brazilian plateau consists in great part of table-lands, which, from the deep excavation of the innumerable river-valleys, have become very much ''accidented'', so as to present a mountainous aspect.\n{{right|''Science'', V. 273.}}}}\n\n'''accidential†''' (ak-si-den′shal), ''a.'' [< L. ''accidentia'' (see ''accidence''<sup>2</sup>) + ''-al.''] Accidental.\n{{smaller block|The substantiall use of them might remain, when their ''accidential'' abuse was removed.\n{{right|''Fuller'', Injured Innocence, i. 69.}}}}\n\n'''accidentiary†''' (ak-si-den′shi-ạ̄-ri), ''a.'' [< L. ''accidentia'', the accidence (see ''accidence''<sup>1</sup>), + ''-ary.''] Pertaining to or learning the accidence. [Rare.]\n{{smaller block|You know the word “sacerdotes” to signify priests, and not the lay-people, which every ''accidentiary'' boy in schools knoweth as well as you.\n{{right|''Bp. Morton'', Discharge of Imput., p. 186.}}}}\n\n'''accidie†''', ''n.'' [ME., = OF. ''accide'' = Sp. Pg. ''acidia'' = It. ''accidia'', < ML. ''accidia'', slothfulness, indolence; also, and better, spelled ''acedia'', q.",
+   "c2s2": "v.] Sloth; negligence; indolence. ''Chaucer.''\n\n¶\n'''Accipenser''', etc. See ''Acipenser'', etc.\n\n'''accipiter''' (ak-sip′i-tėr), ''n.''; pl. ''accipitres'' (-trēz). [L., a general name for birds of prey, especially the common hawk (''Falco palumbarius'') and the sparrow-hawk (''F. nisus''), an appar. (irreg.) deriv. of ''accipere'', take (hence the rare form ''acceptor'', lit. the taker, seizer), but prob. for *''ăcipiter'', < *''ăci-'', *''ăcu-'' (= Gr. ὠκύς), swift, + *''petrum'' (= Gr. πτερόν = E. ''feather''), wing. Cf. Gr. ὠκύπτερος, swift-winged, applied to a hawk (Homer, Il., xiii. 62).] '''1.''' In ''ornith.'': (''a'') A bird of the order ''Accipitres'' or ''Raptores''; an accipitrine or raptorial bird. (''b'') [''cap.''] A genus of birds of the family ''Falconidæ'', embracing short-winged, long-tailed hawks, such as the sparrow-hawk of Europe, ''Accipiter nisus'', and the sharp-shinned hawk of North America, ''A. fuscus'', with many other congeneric species. ''Brisson'', 1760. See ''Raptores''.—'''2.''' In ''surg.'', a bandage applied over the nose: so called from its resemblance to the claw of a hawk.\n\n'''accipitral''' (ak-sip′i-tral), ''a.'' Of or pertaining to the ''Accipitres'' or birds of prey; having the character of a bird of prey; hawk-like.\n{{smaller block|Of temper most ''accipitral'', hawkish, aquiline, not to say vulturish.\n{{right|''Carlyle'', Misc., IV. 245.}}\nThat they [Hawthorne’s eyes] were sometimes ''accipitral'' we can readily believe.\n{{right|''Harper’s Mag.'', LXII. 271.}}}}\n\n'''accipitrary†''' (ak-sip′i-trạ̄-ri), ''n.'' [< ML. ''accipitrarius'', a falconer, < L. ''accipiter'': see ''accipiter''.] A falconer. ''Nathan Drake.''",
+   "c2s3": "¶\n'''Accipitres''' (ak-sip′i-trēz), ''n. pl.'' [L., pl. of ''accipiter.''] Birds of prey; the accipitrine or raptorial birds regarded as an order, now more frequently named ''Raptores'' (which see). ''Linnæus'', 1735.\n\n'''Accipitrinæ''' (ak-sip-i-trī′nē), ''n. pl.'' [NL., < ''Accipiter'' + ''-inæ'': see ''accipiter.''] In ''ornith.'': (''a'') A subfamily of ''Falconidæ'', including hawks of such genera as ''Accipiter'' and ''Astur.'' (''b'') In Nitzsch’s classification of birds, same as ''Accipitres'' or ''Raptores'' of authors in general. Other forms are ''Accipitrina, Accipitrini.''\n\n'''accipitrine''' (ak-sip′i-trin), ''a.'' [< NL. ''Accipitrinæ'', < L. ''accipiter'': see ''accipiter.''] Of or pertaining to (''a'') the ''Accipitres'' or raptorial birds, or (''b'') the hawks proper, of the subfamily ''Accipitrinæ''; hawk-like; rapacious: as, the ''accipitrine'' order of birds.\n\n'''accismus''' (ak-siz′mus), ''n.'' [NL., < Gr. ἀκκισμός, affectation of indifference, coyness, < ἀκκίζεσθαι, affect indifference, < ἀκκώ, a bugbear.] In ''rhet.'', a feigned refusal; an ironical dissimulation. ''Smart.''\n\n'''accite†''' (ak-sīt′), ''v. t.'' [< L. ''accitus'', pp. of ''accīre'', summon, < ''ad'', to, + ''cīre'', orig. go (= Gr. κιειν, go), but mixed with its causative ''ciēre'', cause to go, summon: see ''cite'' and ''excite.''] '''1.''' To call; cite; summon.\n{{smaller block|He by the senate is ''accited'' home.\n{{right|''Shak.'', Tit. And., i. 1.}}}}\n'''2.''' To excite; prompt; move.\n{{smaller block|What ''accites'' your most worshipful thought to think so?\n{{right|''Shak.'', 2 Hen. IV., ii. 2.}}}}",
+   "c3s1": "¶\n{{smaller block|<poem>But in my deske what was there to ''accite''\nSo ravenous and vast an appetite?</poem>\n{{right|''B. Jonson'', On Vulcan.}}}}\n\n'''acclaim''' (a-klām′), ''v.'' [In imitation of ''claim'', < L. ''acclamare'', cry out at, shout at, either in a hostile or a friendly manner, < ''ad'', to, + ''clamare'', shout: see ''claim'', ''v.''] '''I.''' ''trans.'' '''1.''' To applaud; treat with words or sounds of joy or approval. [Rare.]\n{{smaller block|How gladly did they spend their breath in ''acclaiming'' thee!\n{{right|''Bp. Hall'', Contemplation, iv. 25.}}}}\n'''2.''' To declare or salute by acclamation.\n{{smaller block|<poem>While the shouting crowd\n''Acclaims'' thee king of traitors.</poem>\n{{right|''Smollett'', Regicide, v. 8.}}}}\n\n'''II.''' ''intrans.'' To make acclamation; shout applause.\n\n'''acclaim''' (a-klām′), ''n.'' [< ''acclaim'', ''v.''] A shout of joy; acclamation.\n{{smaller block|<poem>The herald ends: the vaulted firmament\nWith loud ''acclaims'' and vast applause is rent.</poem>\n{{right|''Dryden'', Pal. and Arc., l. 1801.}}\n<poem>And the roofs were starred with banners,\nAnd the steeples rang ''acclaim''.</poem>\n{{right|''Whittier'', Sycamores.}}}}\n\n'''acclamate†''' (ak′lā-māt), ''v. t.'' [< L. ''acclamatus'', pp. of ''acclamare'': see ''acclaim'', ''v.''] To applaud. ''Waterhouse.'' [Rare.]\n\n'''acclamation''' (ak-lā-mā′shon), ''n.'' [< L. ''acclamatio(n-)'', a shouting, either in approval or in disapproval, < ''acclamare'': see ''acclaim''.] '''1.''' A shout or other demonstration of applause, indicating joy, hearty assent, approbation, or good will. {{smaller|Acclamations are expressed by hurrahs, by clapping of hands, and often by repeating such cries as ''Long live the queen! Vive l’empereur! Er lebe hoch!'' etc.}}\n{{smaller block|<poem>The hands</poem>}}",
+   "c3s2": "{{smaller block|<poem>Of a great multitude are upward flung\nIn ''acclamation''.</poem>\n{{right|''Bryant'', Hymn of the Sea.}}}}\n\n2. In ''deliberative assemblies'', the spontaneous approval or adoption of a resolution or measure by a unanimous ''viva voce'' vote, in distinction from a formal division or ballot.\n\n{{smaller block|When they [the Anglo-Saxons] consented to anything, it was rather in the way of ''acclamation'' than by the exercise of a deliberate voice. {{right|''Burke'', Abridg. of Eng. Hist., ii.}}}}\n\n{{smaller block|In the ''Rom. Cath. Ch.'', a method of papal election, said to be by inspiration (''per inspirationem''), because \"all the cardinals, with a sudden and harmonious consent, as though breathed on by the Divine Spirit, proclaim some person pontiff with one voice, without any previous canvassing or negotiation whence fraud or insidious suggestion could be surmised.\" ''Vecchiotti.''}}\n\n3. Something expressing praise or joy. {{smaller|Applied specifically—(''a'') To forms of praise, thanksgiving, or felicitation at the close of ecclesiastical gatherings. (''b'') To\n[[FIGURE]]\n{{c|Acclamation. Bronze Coin of Hadrian, British Museum. (Size of the original.)}}\ncertain short inscriptions in the form of a wish or injunction, found mostly on tombs. (''c'') To the responses of the congregation in antiphonal singing. (''d'') In ''Rom. antiq.'', to representations in works of art, especially on coins or medals, of popular assent or approval, as of several figures (standing for the whole people, or a class, or a military division, etc.) greeting an official or benefactor.}}\n\n'''acclamator†''' (ak′lā-mā-tọr), ''n.'' [< L. as if *''acclamator'', < ''ac-''",
+   "c3s3": "''clamare'': see ''acclaim''.] One who expresses joy or applause by acclamation. [Rare.]\n{{smaller block|''Acclamators'' who had fill’d . . . the aire with “Vive le Roy!”\n{{right|''Evelyn'', Diary, Sept. 7, 1651.}}}}\n\n¶'''acclamatory''' (a-klam′a̤-tō-ri), ''a.'' [< L. as if *''acclamatorius''.] Expressing joy or applause by acclamation.\n\n¶'''acclearment†''' (a-klēr′ment), ''n.'' [Irreg. < ''ac-'' + ''clear'' + ''-ment'': see ''clear''.] A clearing; a showing; a plea in exculpation. [Rare.]\n{{smaller block|The ''acclearment'' is fair, and the proof nothing.\n{{right|''Bp. Hacket'', Life of Abp. Williams, i. 148.}}}}\n\n¶'''acclimatation''' (a-klī-mā-tā′sho̤n), ''n.'' [< F. ''acclimatation'', < ''acclimater'', acclimate: see ''acclimate''.] Acclimatization: chiefly used in transcription from the French: as, the ''Acclimatation'' Society of Nantes.\n\n¶'''acclimate''' (a-klī′māt), ''v. t.''; pret. and pp. ''acclimated'', ppr. ''acclimating''. [< F. ''acclimater'', acclimate, < ''ac-'' (L. ''ad'', to) + ''climat'', climate; cf. Pg. ''acclimar'', acclimate, < ''ac-'' + ''clima'', climate: see ''climate''.] To habituate to a foreign climate; acclimatize: more especially (of persons), to adapt to new climates: as, to ''acclimate'' settlers; to ''acclimate'' one’s self.\n{{smaller block|The native inhabitants and ''acclimated'' Europeans.\n{{right|''J. Crawfurd'', Commixture of Races.}}}}\n\n¶'''acclimatement''' (a-klī′māt-ment), ''n.'' [< F. ''acclimatement'', acclimation, < ''acclimater'': see ''acclimate''.] Acclimation. [Rare.]"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0061 c1f1.png",
+   "c3f1": "century v01 p0061 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     69,
+     472,
+     466,
+     647
+    ],
+    "caption": [
+     167,
+     660,
+     349,
+     682
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     64,
+     479,
+     472,
+     653
+    ]
+   },
+   {
+    "box": [
+     1550,
+     1821,
+     1914,
+     2185
+    ],
+    "caption": [
+     1555,
+     2193,
+     1905,
+     2264
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1545,
+     1814,
+     1862,
+     2200
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 3,
+    "input_tokens": 5218,
+    "output_tokens": 173,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9485,
+    "output_tokens": 10136,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 41338
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c1f1": "left",
+   "c3f1": "left"
+  },
+  "fetched_by": "ahaspel"
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|accidental|35|acclimatement}}</noinclude>'''tion''', a description.—'''Accidental distinction''', in ''logic'', one which does not concern the definitions of the objects distinguished.—'''Accidental error''', in ''physics''. See ''error''.—'''Accidental form.''' See ''form''.—'''Accidental light''', in ''painting'', a secondary light which is not accounted for by the prevalent effect, such as the rays of the sun darting through a cloud, or between the leaves of a thicket, or the effects of moonlight, candle-light, or burning bodies, in a scene which does not owe its chief light to such a source.—'''Accidental point''', in ''persp.'', that point in which a right line drawn from the eye parallel to another given right {{img float|file=century v01 p0061 c1f1.png|width=204px|align=left|cap=Accidental Point.}} line cuts the picture or plane. Thus, suppose AB to be the line given in perspective, CFE the perspective plane, D the eye, DC the line parallel to AB; then is C the accidental point. = '''Syn.''' '''1.''' ''Accidental, Chance, Casual, Fortuitous, Incidental, Contingent.'' The first four are the words most commonly used to express occurrence without expectation or design. ''Accidental'' is the most common, and expresses that which happens outside of the regular course of events. ''Chance'' has about the same force as ''accidental'', but it is not used predicatively. There is a tendency to desynonymize ''accidental'' and ''casual'', so as to make the former apply to events that are of more consequence: as, an ''accidental'' fall; a ''casual'' remark. As to actual connection with the main course of events, ''casual'' is the word most opposed to ''incidental;'' the connection of what is ''incidental'' is real and necessary, but secondary: as, an ''incidental'' benefit or evil. An ''incidental'' remark is a real part of a discussion; a ''casual'' remark is not. ''Fortuitous'' is rather a learned word, not {{smaller|applicable in many cases where ''accidental'' or even ''casual'' could be used; perhaps through its resemblance to ''fortunate,'' it is rarely if ever used when speaking of that which is unfavorable or undesired; thus, it would not be proper to speak of a ''fortuitous'' shipwreck. It is chiefly used with the more abstract words: as, ''fortuitous'' events; a ''fortuitous'' resemblance. That which is ''contingent'' is dependent upon something else for its happening: as, his recovery is ''contingent'' upon the continuance of mild weather. See ''occasional.''}}\n{{smaller block|Thy sin’s not ''accidental,'' but a trade.\n{{right|''Shak.'', M. for M., iii. 1.}}}}\n{{smaller block|<poem>But let it not be such as that\nYou set before ''chance''-comers.</poem>\n{{right|''Tennyson'', Will Waterproof.}}}}\n{{smaller block|<poem>No ''casual'' mistress, but a wife.</poem>\n{{right|''Tennyson'', In Memoriam.}}}}\n{{smaller block|''Fortuitous'' coincidences of sound, . . . in words of wholly independent derivation.\n{{right|''Whitney'', Lang. and Study of Lang., p. 387.}}}}\n{{smaller block|By some persons religious duties appear to be regarded as an ''incidental'' business.\n{{right|''J. Rogers.''}}}}\n{{smaller block|With an infinite being nothing can be ''contingent.''\n{{right|''Paley.''}}}}\n\n'''II.''' ''n.'' '''1.''' Anything happening, occurring, or appearing accidentally, or as if accidentally; a casualty. {{smaller|Specifically—(''a'') In ''music,'' a sign occurring in the course of a piece of music and altering the pitch of the note before which it is placed from the pitch indicated by the signature, or restoring it to the latter after it has undergone such alteration. There are five such signs: the sharp (♯), double sharp (×), flat (♭), double flat (♭♭), and natural (♮). The sharp raises the pitch a half step, the double sharp a whole step; the flat lowers the pitch a half step, the double flat a whole step; the natural annuls the effect of a previous sharp or flat occurring either in the signature or as an accidental. The effect of an accidental is usually limited to the bar in which it occurs. (''b'') In ''med.,'' tissue resulting from morbid action: chiefly employed in this sense by French writers, but adopted by some English authors. (''c'') In ''painting'', a fortuitous or chance effect resulting from the incidence of luminous rays or accidental lights upon certain objects, whereby the latter are brought into greater emphasis of light and shadow.}}\n\n2. An unessential property; a mere adjunct or circumstance.\n{{smaller block|He conceived it just that ''accidentals'' . . . should sink with the substance of the accusation. {{right|''Fuller''.}}\n\nConceive as much as you can of the essentials of any subject, before you consider its ''accidentals''. ''Watts'', Logic.}}\n\n'''accidentalism''' (ak-si-den′tạl-izm), ''n.'' 1. The condition or quality of being accidental; accidental character.—2. That which is accidental; accidental effect; specifically, in ''painting'', the effect produced by accidental rays of light. ''Ruskin.'' See ''accidental, n.'', 1 (''c''), and ''accidental light'', under ''accidental, a.''—3. In ''med.'', the hypothesis by which disease is regarded as an accidental modification of health. ''Syd. Soc. Lex.''\n\n'''accidentalist''' (ak-si-den′tạl-ist), ''n.'' In ''med.'', one who favors accidentalism. ''Syd. Soc. Lex.''\n\n'''accidentality''' (ak″si-den-tal′i-ti), ''n.'' The state or quality of being accidental; accidental character.\n{{smaller block|I wish in short to connect by a moral copula natural history with political history, or, in other words, to make history scientific, and science historical—to take from history its ''accidentality'', and from science its fatalism. {{right|''Coleridge'', Table-Talk.}}}}\n\n'''accidentally''' (ak-si-den′tạl-i), ''adv.'' In an accidental manner; by chance; casually; fortuitously; not essentially or intrinsically.\n{{smaller block|I conclude choler ''accidentally'' bitter and acrimonious, but not in itself.\n{{right|''Harvey'', Consumption.}}}}\n\n{{smaller block|Despite the comparatively lukewarm piety of the age, the Meccan pilgrimage is religious essentially, ''accidentally'' an affair of commerce.\n{{right|''R. F. Burton'', El-Medinah, p. 402.}}}}\n\n'''accidentalness''' (ak-si-den′tal-nes), ''n.'' The quality of being accidental or fortuitous.\n{{smaller block|All that ''accidentalness'' and mixture of extravagance and penury which is the natural atmosphere of such reckless souls.\n{{right|''Mrs. Oliphant'', Sheridan, p. 5.}}}}\n\n'''accidentary†''' (ak-si-den′ta-ri), ''a.'' [=Sp. Pg. ''accidentario'', < L. as if *''accidentarius'', < ''accident(t-)s'': see ''accident.''] Accidental. ''Holland.''\n\n'''accidented''' (ak′si-den-ted), ''p. a.'' Characterized by accidents or irregularities of surface; undulating.\n{{smaller block|I can only compare our progress to a headlong steeple-chase over a violently ''accidented'' ploughed field.\n{{right|''O’Donovan'', Merv, i.}}}}\n{{smaller block|The Brazilian plateau consists in great part of table-lands, which, from the deep excavation of the innumerable river-valleys, have become very much ''accidented'', so as to present a mountainous aspect.\n{{right|''Science'', V. 273.}}}}\n\n'''accidential†''' (ak-si-den′shal), ''a.'' [< L. ''accidentia'' (see ''accidence''<sup>2</sup>) + ''-al.''] Accidental.\n{{smaller block|The substantiall use of them might remain, when their ''accidential'' abuse was removed.\n{{right|''Fuller'', Injured Innocence, i. 69.}}}}\n\n'''accidentiary†''' (ak-si-den′shi-ạ̄-ri), ''a.'' [< L. ''accidentia'', the accidence (see ''accidence''<sup>1</sup>), + ''-ary.''] Pertaining to or learning the accidence. [Rare.]\n{{smaller block|You know the word “sacerdotes” to signify priests, and not the lay-people, which every ''accidentiary'' boy in schools knoweth as well as you.\n{{right|''Bp. Morton'', Discharge of Imput., p. 186.}}}}\n\n'''accidie†''', ''n.'' [ME., = OF. ''accide'' = Sp. Pg. ''acidia'' = It. ''accidia'', < ML. ''accidia'', slothfulness, indolence; also, and better, spelled ''acedia'', q. v.] Sloth; negligence; indolence. ''Chaucer.''\n\n'''Accipenser''', etc. See ''Acipenser'', etc.\n\n'''accipiter''' (ak-sip′i-tėr), ''n.''; pl. ''accipitres'' (-trēz). [L., a general name for birds of prey, especially the common hawk (''Falco palumbarius'') and the sparrow-hawk (''F. nisus''), an appar. (irreg.) deriv. of ''accipere'', take (hence the rare form ''acceptor'', lit. the taker, seizer), but prob. for *''ăcipiter'', < *''ăci-'', *''ăcu-'' (= Gr. ὠκύς), swift, + *''petrum'' (= Gr. πτερόν = E. ''feather''), wing. Cf. Gr. ὠκύπτερος, swift-winged, applied to a hawk (Homer, Il., xiii. 62).] '''1.''' In ''ornith.'': (''a'') A bird of the order ''Accipitres'' or ''Raptores''; an accipitrine or raptorial bird. (''b'') [''cap.''] A genus of birds of the family ''Falconidæ'', embracing short-winged, long-tailed hawks, such as the sparrow-hawk of Europe, ''Accipiter nisus'', and the sharp-shinned hawk of North America, ''A. fuscus'', with many other congeneric species. ''Brisson'', 1760. See ''Raptores''.—'''2.''' In ''surg.'', a bandage applied over the nose: so called from its resemblance to the claw of a hawk.\n\n'''accipitral''' (ak-sip′i-tral), ''a.'' Of or pertaining to the ''Accipitres'' or birds of prey; having the character of a bird of prey; hawk-like.\n{{smaller block|Of temper most ''accipitral'', hawkish, aquiline, not to say vulturish.\n{{right|''Carlyle'', Misc., IV. 245.}}\nThat they [Hawthorne’s eyes] were sometimes ''accipitral'' we can readily believe.\n{{right|''Harper’s Mag.'', LXII. 271.}}}}\n\n'''accipitrary†''' (ak-sip′i-trạ̄-ri), ''n.'' [< ML. ''accipitrarius'', a falconer, < L. ''accipiter'': see ''accipiter''.] A falconer. ''Nathan Drake.''\n\n'''Accipitres''' (ak-sip′i-trēz), ''n. pl.'' [L., pl. of ''accipiter.''] Birds of prey; the accipitrine or raptorial birds regarded as an order, now more frequently named ''Raptores'' (which see). ''Linnæus'', 1735.\n\n'''Accipitrinæ''' (ak-sip-i-trī′nē), ''n. pl.'' [NL., < ''Accipiter'' + ''-inæ'': see ''accipiter.''] In ''ornith.'': (''a'') A subfamily of ''Falconidæ'', including hawks of such genera as ''Accipiter'' and ''Astur.'' (''b'') In Nitzsch’s classification of birds, same as ''Accipitres'' or ''Raptores'' of authors in general. Other forms are ''Accipitrina, Accipitrini.''\n\n'''accipitrine''' (ak-sip′i-trin), ''a.'' [< NL. ''Accipitrinæ'', < L. ''accipiter'': see ''accipiter.''] Of or pertaining to (''a'') the ''Accipitres'' or raptorial birds, or (''b'') the hawks proper, of the subfamily ''Accipitrinæ''; hawk-like; rapacious: as, the ''accipitrine'' order of birds.\n\n'''accismus''' (ak-siz′mus), ''n.'' [NL., < Gr. ἀκκισμός, affectation of indifference, coyness, < ἀκκίζεσθαι, affect indifference, < ἀκκώ, a bugbear.] In ''rhet.'', a feigned refusal; an ironical dissimulation. ''Smart.''\n\n'''accite†''' (ak-sīt′), ''v. t.'' [< L. ''accitus'', pp. of ''accīre'', summon, < ''ad'', to, + ''cīre'', orig. go (= Gr. κιειν, go), but mixed with its causative ''ciēre'', cause to go, summon: see ''cite'' and ''excite.''] '''1.''' To call; cite; summon.\n{{smaller block|He by the senate is ''accited'' home.\n{{right|''Shak.'', Tit. And., i. 1.}}}}\n'''2.''' To excite; prompt; move.\n{{smaller block|What ''accites'' your most worshipful thought to think so?\n{{right|''Shak.'', 2 Hen. IV., ii. 2.}}}}\n\n<poem>But in my deske what was there to ''accite''\nSo ravenous and vast an appetite?</poem>\n{{smaller block|{{right|''B. Jonson'', On Vulcan.}}}}\n\n'''acclaim''' (a-klām′), ''v.'' [In imitation of ''claim'', < L. ''acclamare'', cry out at, shout at, either in a hostile or a friendly manner, < ''ad'', to, + ''clamare'', shout: see ''claim'', ''v.''] '''I.''' ''trans.'' '''1.''' To applaud; treat with words or sounds of joy or approval. [Rare.]\n{{smaller block|How gladly did they spend their breath in ''acclaiming'' thee!\n{{right|''Bp. Hall'', Contemplation, iv. 25.}}}}\n'''2.''' To declare or salute by acclamation.\n{{smaller block|<poem>While the shouting crowd\n''Acclaims'' thee king of traitors.</poem>\n{{right|''Smollett'', Regicide, v. 8.}}}}\n\n'''II.''' ''intrans.'' To make acclamation; shout applause.\n\n'''acclaim''' (a-klām′), ''n.'' [< ''acclaim'', ''v.''] A shout of joy; acclamation.\n{{smaller block|<poem>The herald ends: the vaulted firmament\nWith loud ''acclaims'' and vast applause is rent.</poem>\n{{right|''Dryden'', Pal. and Arc., l. 1801.}}\n<poem>And the roofs were starred with banners,\nAnd the steeples rang ''acclaim''.</poem>\n{{right|''Whittier'', Sycamores.}}}}\n\n'''acclamate†''' (ak′lā-māt), ''v. t.'' [< L. ''acclamatus'', pp. of ''acclamare'': see ''acclaim'', ''v.''] To applaud. ''Waterhouse.'' [Rare.]\n\n'''acclamation''' (ak-lā-mā′shon), ''n.'' [< L. ''acclamatio(n-)'', a shouting, either in approval or in disapproval, < ''acclamare'': see ''acclaim''.] '''1.''' A shout or other demonstration of applause, indicating joy, hearty assent, approbation, or good will. {{smaller|Acclamations are expressed by hurrahs, by clapping of hands, and often by repeating such cries as ''Long live the queen! Vive l’empereur! Er lebe hoch!'' etc.}}\n{{smaller block|<poem>The hands</poem>}}\n<poem>Of a great multitude are upward flung\nIn ''acclamation''.</poem>\n{{smaller block|{{right|''Bryant'', Hymn of the Sea.}}}}\n\n2. In ''deliberative assemblies'', the spontaneous approval or adoption of a resolution or measure by a unanimous ''viva voce'' vote, in distinction from a formal division or ballot.\n\n{{smaller block|When they [the Anglo-Saxons] consented to anything, it was rather in the way of ''acclamation'' than by the exercise of a deliberate voice. {{right|''Burke'', Abridg. of Eng. Hist., ii.}}}}\n\n{{smaller block|In the ''Rom. Cath. Ch.'', a method of papal election, said to be by inspiration (''per inspirationem''), because \"all the cardinals, with a sudden and harmonious consent, as though breathed on by the Divine Spirit, proclaim some person pontiff with one voice, without any previous canvassing or negotiation whence fraud or insidious suggestion could be surmised.\" ''Vecchiotti.''}}\n\n3. Something expressing praise or joy. {{smaller|Applied specifically—(''a'') To forms of praise, thanksgiving, or felicitation at the close of ecclesiastical gatherings. (''b'') To {{img float|file=century v01 p0061 c3f1.png|width=188px|align=left|cap=Acclamation. Bronze Coin of Hadrian, British Museum. (Size of the original.)}} certain short inscriptions in the form of a wish or injunction, found mostly on tombs. (''c'') To the responses of the congregation in antiphonal singing. (''d'') In ''Rom. antiq.'', to representations in works of art, especially on coins or medals, of popular assent or approval, as of several figures (standing for the whole people, or a class, or a military division, etc.) greeting an official or benefactor.}}\n\n'''acclamator†''' (ak′lā-mā-tọr), ''n.'' [< L. as if *''acclamator'', < ''acclamare'': see ''acclaim''.] One who expresses joy or applause by acclamation. [Rare.]\n{{smaller block|''Acclamators'' who had fill’d . . . the aire with “Vive le Roy!”\n{{right|''Evelyn'', Diary, Sept. 7, 1651.}}}}\n\n¶'''acclamatory''' (a-klam′a̤-tō-ri), ''a.'' [< L. as if *''acclamatorius''.] Expressing joy or applause by acclamation.\n\n¶'''acclearment†''' (a-klēr′ment), ''n.'' [Irreg. < ''ac-'' + ''clear'' + ''-ment'': see ''clear''.] A clearing; a showing; a plea in exculpation. [Rare.]\n{{smaller block|The ''acclearment'' is fair, and the proof nothing.\n{{right|''Bp. Hacket'', Life of Abp. Williams, i. 148.}}}}\n\n¶'''acclimatation''' (a-klī-mā-tā′sho̤n), ''n.'' [< F. ''acclimatation'', < ''acclimater'', acclimate: see ''acclimate''.] Acclimatization: chiefly used in transcription from the French: as, the ''Acclimatation'' Society of Nantes.\n\n¶'''acclimate''' (a-klī′māt), ''v. t.''; pret. and pp. ''acclimated'', ppr. ''acclimating''. [< F. ''acclimater'', acclimate, < ''ac-'' (L. ''ad'', to) + ''climat'', climate; cf. Pg. ''acclimar'', acclimate, < ''ac-'' + ''clima'', climate: see ''climate''.] To habituate to a foreign climate; acclimatize: more especially (of persons), to adapt to new climates: as, to ''acclimate'' settlers; to ''acclimate'' one’s self.\n{{smaller block|The native inhabitants and ''acclimated'' Europeans.\n{{right|''J. Crawfurd'', Commixture of Races.}}}}\n\n¶'''acclimatement''' (a-klī′māt-ment), ''n.'' [< F. ''acclimatement'', acclimation, < ''acclimater'': see ''acclimate''.] Acclimation. [Rare.]<noinclude><references/></noinclude>"
+}

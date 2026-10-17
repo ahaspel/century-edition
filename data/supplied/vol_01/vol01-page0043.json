@@ -1,0 +1,219 @@
+{
+ "volume": 1,
+ "page_number": 43,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n42.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n42.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-16",
+  "angle": 0.0,
+  "column_width": 741,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     50,
+     145,
+     2261,
+     182
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     50,
+     182,
+     786,
+     1250
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     50,
+     1250,
+     786,
+     2104
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     50,
+     2104,
+     786,
+     3179
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     50,
+     3179,
+     786,
+     3322
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     786,
+     182,
+     1527,
+     1243
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     786,
+     1243,
+     1527,
+     2311
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     786,
+     2311,
+     1527,
+     3322
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     887,
+     2447,
+     1430,
+     2868
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1527,
+     182,
+     2261,
+     1259
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1527,
+     1259,
+     2261,
+     2346
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1527,
+     2346,
+     2261,
+     3322
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|about|17|Abraham-man}}",
+   "c1s1": "¶\n6. At work; astir; begin in earnest: used with the force of an imperative.\n{{smaller block|''About'', my brain!\n{{right|''Shak.'', Hamlet, ii. 2.}}}}\n\n{{smaller|'''To be about''', to be astir; be on the move; be attending to one’s usual duties.—'''To bring about''', to cause or effect: as, ''to bring about'' a reconciliation.—'''To come about''', to come to pass; happen.—'''To go about.''' (''a'') Literally, to take a circuitous route; hence, to devise roundabout or secret methods of accomplishing anything; contrive; prepare; seek the means.}}\n{{smaller block|Why ''go'' ye ''about'' to kill me?\n{{right|John vii. 19.}}}}\n{{smaller block|If we look into the eyes of the youngest person, we sometimes discover that here is one who knows already what you would ''go about'' with much pains to teach him.\n{{right|''Emerson'', Old Age.}}}}\n{{smaller|(''b'') ''Naut.'', to take a different direction, as a vessel in tacking.—'''Much about''', very nearly: as, his health is ''much about'' the same as yesterday.—'''Put about''', annoyed; disturbed; provoked: as, he was much ''put about'' by the news.—'''Ready about! About ship!''' orders to a crew to prepare for tacking.—'''Right about! Left about!''' (''milit.''), commands to face or turn round half a circle, by the right or left, as the case may be, so as to face in the opposite direction.—'''Turn about, week about''', etc., in rotation or succession; alternately; on each alternate occasion, week, etc.}}\n{{smaller block|A woman or two, and three or four undertaker’s men, . . . had charge of the remains, which they watched ''turn about.''\n{{right|''Thackeray.''}}}}\n\nII. ''prep.'' 1. On the outside or outer surface of; surrounding; around; all around.\n{{smaller block|Bind them ''about'' thy neck.\n{{right|Prov. iii. 3.}}}}\n{{smaller block|<poem>''About'' her commeth all the world to begge.</poem>\n{{right|''Sir T. More'', To them that trust in Fortune.}}}}\n{{smaller block|<poem>Like one who wraps the drapery of his couch\n''About'' him, and lies down to pleasant dreams.</poem>\n{{right|''Bryant'', Thanatopsis.}}}}",
+   "c1s2": "2. Near to in place; close to; at: as, ''about'' the door. See the adv., 4.—3. Over or upon different parts; here and there; backward and forward; in various directions.\n{{smaller block|Where lies thy pain? All ''about'' the breast?\n{{right|''Shak.'', L. L. L., iv. 3.}}}}\n4. Near or on one’s person; with; at hand.\n{{smaller block|You have not the “Book of Riddles” ''about'' you, have you?\n{{right|''Shak.'', M. W. of W., i. 1.}}}}\n5. In relation to; respecting; in regard to; on account of.\n{{smaller block|He is very courageous mad ''about'' his throwing into the water.\n{{right|''Shak.'', M. W. of W., iv. 1.}}\nThe question is not ''about'' what is there, but ''about'' what I see.\n{{right|''W. K. Clifford'', Lectures, I. 256.}}\nIt is not enough to be industrious; so are the ants. What are you industrious ''about?''\n{{right|''Thoreau'', Letters, p. 161.}}}}\n6. Concerned in; engaged in: as, what is he ''about?''\n{{smaller block|I must be ''about'' my Father’s business.\n{{right|Luke ii. 49.}}}}\n{{smaller|'''To go''' or '''set about,''' to become occupied with; engage in; undertake; begin: as, ''go about'' your business; he ''set about'' the performance of his task.}}\n\n'''about-sledge''' (ạ-bout′slej), ''n.'' [< ''about'' (in reference to its being swung around) + ''sledge''<sup>1</sup>.] The largest hammer used by blacksmiths. It",
+   "c1s3": "is grasped at the end of the handle with both hands and swung at arm’s length.\n\n¶\n'''above''' (a-buv′), ''adv.'' and ''prep.'' [< ME. ''above'', ''aboven'', ''abuve'', ''abuven'', ''abufen'' (> E. dial. and Sc. ''aboon'', ''abune'', q. v.), < AS. ''ābūfan'', above, < ''ā''- for ''on'' + ''bufan'' (full form ''beufan'' = OS. ''biobhan'' = D. ''boven''), above, < ''be''-, by, + ''ufan'', from above, above, = OS. ''obhana'', from above, ''obhan'', above, = OHG. ''opana'', ''obana'', MHG. G. ''oben'', = Icel. ''ofan''; all from a base appearing in Goth. ''uf'', prep., under, OHG. ''opa'', ''aba'', MHG. ''obe'', ''ob'', adv. and prep., over, Icel. ''of'', prep., over, for. A different form of the same base appears in ''up'', q. v. See also ''over''.] '''I.''' ''adv.'' '''1.''' In or to a higher place; overhead; often, in a special sense: (''a'') In or to the celestial regions; in heaven.\n{{smaller block|<poem>Your praise the birds shall chant in every grove,\nAnd winds shall waft it to the powers ''above''.</poem>\n{{right|''Pope'', Summer, l. 80.}}}}\n(''b'') Upstairs.\n{{smaller block|My maid’s aunt . . . has a gown ''above''.\n{{right|''Shak.'', M. W. of W., iv. 1.}}}}\n'''2.''' On the upper side (opposed to ''beneath''); toward the top (opposed to ''below''): as, leaves green ''above'', glaucous ''beneath''; stems smooth ''above'', hairy ''below''.—'''3.''' Higher in rank or power: as, the courts ''above''.—'''4.''' Before in rank or order, especially in a book or writing: as, from what has been said ''above''.—'''5.''' Besides: in the expression ''over and above''.\n{{smaller block|<poem>And stand indebted, ''over and above'',\nIn love and service to you evermore.</poem>\n{{right|''Shak.'', M. of V., iv. 1.}}}}",
+   "c1s4": "[Shakspere has ''more above'' in the same sense.\n{{smaller block|<poem>This, in obedience, hath my daughter showed me;\nAnd ''more above'', hath his solicitings . . .\nAll given to mine ear.</poem>\n{{right|Hamlet, ii. 2.]}}}}\n2",
+   "c2s1": "{{smaller block|''Above'' is often used elliptically as a noun, meaning: (1) Heaven: as, \"Every good gift . . . is from ''above'','' Jas. i. 17. (2) Preceding statement, remarks, or the like: as, from the ''above'' you will learn my object. It has the force of an adjective in such phrases as the ''above'' particulars, in which ''cited'' or ''mentioned'' is understood.}}\n\n'''II.''' ''prep.'' '''1.''' In or to a higher place than.\n{{smaller block|And fowl that may fly ''above'' the earth. {{right|Gen. i. 20.}}}}\n\n'''2.''' Superior to in any respect: often in the sense of too high for, as too high in dignity or fancied importance; too elevated in character: as, this man is ''above'' his business, ''above'' mean actions.\n{{smaller block|<poem>Doubtless, in man there is a nature found,\nBeside the senses, and ''above'' them far.</poem>\n{{right|''Sir J. Davies'', Immortal. of Soul, ii.}}\nSeneca wrote largely on natural philosophy . . . solely because it tended to raise the mind ''above'' low cares.\n{{right|''Macaulay'', Lord Byron.}}}}\n\n'''3.''' More in quantity or number than: as, the weight is ''above'' a ton.\n{{smaller block|He was seen of ''above'' five hundred brethren at once.\n{{right|1 Cor. xv. 6.}}}}\n\n'''4.''' More in degree than; in a greater degree than; beyond; in excess of.\n{{smaller block|Thou [the serpent] art cursed ''above'' all cattle.\n{{right|Gen. iii. 14.}}\nGod . . . will not suffer you to be tempted ''above'' that ye are able. {{right|1 Cor. x. 13.}}\n''Above'' the bounds of reason. {{right|''Shak.'', T. G. of V., ii. 7.}}\nI heard a knocking for ''above'' an hour.\n{{right|''Swift'', Gull. Trav., i. 1.}}}}\n\n{{smaller|'''Above all''', above or before everything else; before every other consideration; in preference to all other things.—}}",
+   "c2s2": "{{smaller|'''Above the rest''', especially; particularly: as, one night ''above the rest''.—'''Above the world.''' (''a'') Above considering what people say. (''b'') Holding a secure position in life; having one’s fortune made.}}\n{{smaller block|With such an income as that he should be ''above the world'', as the saying is.\n{{right|''A. Trollope.''}}}}\n\n{{smaller|='''Syn.''' ''Over'', ''Above''. See ''over''.}}\n\n'''aboveboard''' (a̤-buv′bōrd), ''prep. phr.'' as ''adv.'' or ''a.'' [< ''above'' + ''board''. “A figurative expression, borrowed from gamesters, who, when they put their hands under the table, are changing their cards.” Johnson.] In open sight; without tricks or disguise: as, an honest man deals ''aboveboard;'' his actions are open and ''aboveboard''.\n{{smaller block|Lovers in this age have too much honour to do anything underhand; they do all ''aboveboard''.\n{{right|''Vanbrugh'', Relapse, ii. 1.}}}}\n\n'''above-deck''' (a̤-buv′dek), ''prep. phr.'' as ''adv.'' or ''a.'' '''1.''' Upon deck: as, the ''above-deck'' cargo.—'''2.''' Figuratively, without artifice; aboveboard: as, his dealings are all ''above-deck''. [Colloq.]\n\n'''above-ground''' (a̤-buv′ground), ''prep. phr.'' as ''adv.'' or ''a.'' Alive; not buried.\n{{smaller block|I’ll have 'em, an they be ''above-ground''.\n{{right|''Beau. and Fl.'', The Chances.}}}}\n\n'''ab ovo''' (ab ō′vō). [L., from the egg: ''ab'', from; ''ovo'', abl. of ''ovum'', egg, ovum: see ''ovum''.] Literally, from the egg; hence, from the very beginning, generally with allusion to the Roman custom of beginning a meal with eggs. {{smaller|In this case it is the first part of the phrase ''ab ovo usque ad mala'', from the egg to the apples, that is, from beginning to end; but sometimes the allusion is to the poet who began the history of the Trojan war with the story of the egg from which Helen was fabled to have been born.}}",
+   "c2s3": "¶\n{{smaller block|By way of tracing the whole theme [the Homeric controversy] ''ab ovo'', suppose we begin by stating the chronological bearings of the principal objects . . . connected with the Iliad.\n{{right|''De Quincey'', Homer, i.}}}}\n[[FIGURE]]\n{{c|Bark with Yards Abox.}}\n\n'''abox''' (a̤-boks′), ''prep. phr.'' as ''adv.'' or ''a.'' [< ''a''<sup>3</sup>, ''prep.'', + ''box''<sup>2</sup>.] ''Naut.'', in or into the position of the yards of a vessel when the head-sails are laid aback: applied to the head-yards only, the other sails being kept full.\n\n'''abp.''' A contraction of ''archbishop''.\n\n'''abracadabra''' (ab″ra̤-ka̤-dab′rä), ''n.'' [L.; occurring first in a poem (''Præcepta de Medicina'') by Q. Serenus Sammonicus, in the second century; mere jargon. Cf. ''abracalam''.] '''1.''' A caba-",
+   "c3s1": "A B R A C A D A B R A\nA B R A C A D A B R\nA B R A C A D A B\nA B R A C A D A\nA B R A C A D\nA B R A C A\nA B R A C\nA B R A\nA B R\nA B\nA\n</poem>\nferent directions, and worn as an amulet, it was supposed to cure certain ailments.\n{{smaller block|Mr. Banester saith that he healed 200 in one year of an ague by hanging ''abracadabra'' about their necks, and would stanch blood, or heal the toothake, although the partyes were 10 myle of.\n{{right|''MS. in Brit. Museum.''}}}}\nHence — 2. Any word-charm or empty jingle of words.\n\n'''abracalam''' (a-brak′a̤-lam), ''n.'' [Cf. ''abracadabra.''] A cabalistic word used as a charm among the Jews.\n\n'''abrachia''' (a-brā′ki-ä̤), ''n.'' [NL., < Gr. ἀ- priv. + L. ''brachium'', arm.] In ''zoöl.'', absence of anterior limbs.\n\n'''abrachius''' (a-brā′ki-us), ''n.''; pl. ''abrachii'' (-ī). [NL.: see ''abrachia.''] In ''teratol.'', a monster in which the anterior limbs are absent, while the posterior are well developed.\n\n'''abradant''' (ab-rā′da̤nt), ''a.'' and ''n.'' [< OF. ''abradant'', serving to scrape, scraping, < L. ''abra-''",
+   "c3s2": "¶\n''den(t-)s'', ppr. of ''abradere'', scrape off: see ''abrade.''\n\n'''I.''' ''a.'' Abrading; having the property or quality of scraping.\n\n'''II.''' ''n.'' A material used for grinding, such as emery, sand, powdered glass, etc.\n\n'''abrade''' (ab-rād′), ''v. t.''; pret. and pp. ''abraded'', ppr. ''abrading''. [< L. ''abradere'', scrape or rub off, < ''ab'', off, + ''radere'', scrape: see ''raze.''] To rub or wear away; rub or scrape off; detach particles from the surface of by friction: as, glaciers ''abrade'' the rocks over which they pass; to ''abrade'' the prominences of a surface.\n{{smaller block|Dusty red walls and ''abraded'' towers.\n{{right|''Lathrop'', Spanish Vistas, p. 132.}}\nA termination is the ''abraded'' relic of an originally distinct qualifying word. {{right|''J. Fiske'', Cos. Phil., I. 66.}}}}\n{{smaller|= '''Syn.''' ''Scratch, Chafe'', etc. See ''scrape, v. t.''}}\n\n'''Abrahamic''' (ā-bra̤-ham′ik), ''a.'' [< L. ''Abraham'', < Gr. Ἀβραάμ, repr. Heb. ''’Abrāhām'', father of a multitude, orig. ''’Abrām'', lit. father of height.] Of or pertaining to the patriarch Abraham: as, the ''Abrahamic'' covenant.\n\n'''Abrahamidæ''' (ā-bra-ham′i-dē), ''n. pl.'' [NL., < ''Abraham'' + ''-idæ.''] The descendants of Abraham; the Hebrews.\n{{smaller block|This [Biblical] revelation of origins . . . was a whole system of religion, pure and elevating, . . . placing the ''Abrahamidæ'', who for ages seem alone to have held to it, on a plane of spiritual vantage immeasurably above that of other nations. {{right|''Dawson'', Orig. of World, p. 71.}}}}\n\n'''Abrahamite''' (ā′bra-ham-īt or ā′bram-īt), ''n.'' [< ML. ''Abrahamitæ'', pl.; as ''Abraham'' + ''-ite''<sup>2</sup>.] '''1.''' One of a Christian sect named from its founder, Abraham of Antioch (ninth century),",
+   "c3s3": "and charged with Paulician (Gnostic) errors.—'''2.''' One of a sect of Deists in Bohemia, who came into prominence about 1782, and were banished to Hungary by the Emperor Joseph II. for nonconformity. {{smaller|They seem to have professed the religion of Abraham before his circumcision, to have believed in God, the immortality of the soul, and a future state of rewards and punishments, but to have rejected baptism and the doctrine of the Trinity, and to have acknowledged no scripture but the decalogue and the Lord’s prayer.}}\n\n'''Abrahamitical''' (ā″bra̤-ham-it′i-ka̤l or ā-bram-it′i-ka̤l), ''a.'' Relating to Abraham or to the Abrahamites.\n\n'''Abraham-man''' (ā′bra̤-ham- or ā′bram-man), ''n.'' '''1.''' Originally, a mendicant lunatic from Bethlehem Hospital, London. {{smaller|The wards in the ancient Bedlam (Bethlehem) bore distinctive names, as of some saint or patriarch. That named after Abraham was devoted to a class of lunatics who on certain days were permitted to go out begging. They bore a badge, and were known as ''Abraham-men.'' Many, however, assumed the badge without right, and begged, feigning lunacy. Hence the more received meaning came to be}}—'''2.''' An impostor who wandered about the country seeking alms, under pretense of lunacy. {{smaller|Hence the phrase ''to sham Abraham,'' to feign sickness.}}\n{{smaller block|Matthew, sceptic and scoffer, had failed to subscribe a prompt belief in that pain about the heart; he had muttered some words in which the phrase, “''shamming Abraham,''” had been very distinctly audible.\n{{right|''Charlotte Brontë'', Shirley, xxxiii.}}}}"
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0043 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     899,
+     2459,
+     1418,
+     2856
+    ],
+    "caption": [
+     1038,
+     2909,
+     1280,
+     2931
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     931,
+     2423,
+     1431,
+     2852
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4142,
+    "output_tokens": 317,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9672,
+    "output_tokens": 10098,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 41338
+   }
+  },
+  "captions_marked": true,
+  "insets": {},
+  "fetched_by": "ahaspel"
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|about|17|Abraham-man}}</noinclude>{{nop}}6. At work; astir; begin in earnest: used with the force of an imperative.\n{{smaller block|''About'', my brain!\n{{right|''Shak.'', Hamlet, ii. 2.}}}}\n\n{{smaller|'''To be about''', to be astir; be on the move; be attending to one’s usual duties.—'''To bring about''', to cause or effect: as, ''to bring about'' a reconciliation.—'''To come about''', to come to pass; happen.—'''To go about.''' (''a'') Literally, to take a circuitous route; hence, to devise roundabout or secret methods of accomplishing anything; contrive; prepare; seek the means.}}\n{{smaller block|Why ''go'' ye ''about'' to kill me?\n{{right|John vii. 19.}}}}\n{{smaller block|If we look into the eyes of the youngest person, we sometimes discover that here is one who knows already what you would ''go about'' with much pains to teach him.\n{{right|''Emerson'', Old Age.}}}}\n{{smaller|(''b'') ''Naut.'', to take a different direction, as a vessel in tacking.—'''Much about''', very nearly: as, his health is ''much about'' the same as yesterday.—'''Put about''', annoyed; disturbed; provoked: as, he was much ''put about'' by the news.—'''Ready about! About ship!''' orders to a crew to prepare for tacking.—'''Right about! Left about!''' (''milit.''), commands to face or turn round half a circle, by the right or left, as the case may be, so as to face in the opposite direction.—'''Turn about, week about''', etc., in rotation or succession; alternately; on each alternate occasion, week, etc.}}\n{{smaller block|A woman or two, and three or four undertaker’s men, . . . had charge of the remains, which they watched ''turn about.''\n{{right|''Thackeray.''}}}}\n\nII. ''prep.'' 1. On the outside or outer surface of; surrounding; around; all around.\n{{smaller block|Bind them ''about'' thy neck.\n{{right|Prov. iii. 3.}}}}\n{{smaller block|<poem>''About'' her commeth all the world to begge.</poem>\n{{right|''Sir T. More'', To them that trust in Fortune.}}}}\n{{smaller block|<poem>Like one who wraps the drapery of his couch\n''About'' him, and lies down to pleasant dreams.</poem>\n{{right|''Bryant'', Thanatopsis.}}}} 2. Near to in place; close to; at: as, ''about'' the door. See the adv., 4.—3. Over or upon different parts; here and there; backward and forward; in various directions.\n{{smaller block|Where lies thy pain? All ''about'' the breast?\n{{right|''Shak.'', L. L. L., iv. 3.}}}}\n4. Near or on one’s person; with; at hand.\n{{smaller block|You have not the “Book of Riddles” ''about'' you, have you?\n{{right|''Shak.'', M. W. of W., i. 1.}}}}\n5. In relation to; respecting; in regard to; on account of.\n{{smaller block|He is very courageous mad ''about'' his throwing into the water.\n{{right|''Shak.'', M. W. of W., iv. 1.}}\nThe question is not ''about'' what is there, but ''about'' what I see.\n{{right|''W. K. Clifford'', Lectures, I. 256.}}\nIt is not enough to be industrious; so are the ants. What are you industrious ''about?''\n{{right|''Thoreau'', Letters, p. 161.}}}}\n6. Concerned in; engaged in: as, what is he ''about?''\n{{smaller block|I must be ''about'' my Father’s business.\n{{right|Luke ii. 49.}}}}\n{{smaller|'''To go''' or '''set about,''' to become occupied with; engage in; undertake; begin: as, ''go about'' your business; he ''set about'' the performance of his task.}}\n\n'''about-sledge''' (ạ-bout′slej), ''n.'' [< ''about'' (in reference to its being swung around) + ''sledge''<sup>1</sup>.] The largest hammer used by blacksmiths. It is grasped at the end of the handle with both hands and swung at arm’s length.\n\n'''above''' (a-buv′), ''adv.'' and ''prep.'' [< ME. ''above'', ''aboven'', ''abuve'', ''abuven'', ''abufen'' (> E. dial. and Sc. ''aboon'', ''abune'', q. v.), < AS. ''ābūfan'', above, < ''ā''- for ''on'' + ''bufan'' (full form ''beufan'' = OS. ''biobhan'' = D. ''boven''), above, < ''be''-, by, + ''ufan'', from above, above, = OS. ''obhana'', from above, ''obhan'', above, = OHG. ''opana'', ''obana'', MHG. G. ''oben'', = Icel. ''ofan''; all from a base appearing in Goth. ''uf'', prep., under, OHG. ''opa'', ''aba'', MHG. ''obe'', ''ob'', adv. and prep., over, Icel. ''of'', prep., over, for. A different form of the same base appears in ''up'', q. v. See also ''over''.] '''I.''' ''adv.'' '''1.''' In or to a higher place; overhead; often, in a special sense: (''a'') In or to the celestial regions; in heaven.\n{{smaller block|<poem>Your praise the birds shall chant in every grove,\nAnd winds shall waft it to the powers ''above''.</poem>\n{{right|''Pope'', Summer, l. 80.}}}}\n(''b'') Upstairs.\n{{smaller block|My maid’s aunt . . . has a gown ''above''.\n{{right|''Shak.'', M. W. of W., iv. 1.}}}}\n'''2.''' On the upper side (opposed to ''beneath''); toward the top (opposed to ''below''): as, leaves green ''above'', glaucous ''beneath''; stems smooth ''above'', hairy ''below''.—'''3.''' Higher in rank or power: as, the courts ''above''.—'''4.''' Before in rank or order, especially in a book or writing: as, from what has been said ''above''.—'''5.''' Besides: in the expression ''over and above''.\n{{smaller block|<poem>And stand indebted, ''over and above'',\nIn love and service to you evermore.</poem>\n{{right|''Shak.'', M. of V., iv. 1.}}}} [Shakspere has ''more above'' in the same sense.\n{{smaller block|<poem>This, in obedience, hath my daughter showed me;\nAnd ''more above'', hath his solicitings . . .\nAll given to mine ear.</poem>\n{{right|Hamlet, ii. 2.]}}}}\n2 {{smaller block|''Above'' is often used elliptically as a noun, meaning: (1) Heaven: as, \"Every good gift . . . is from ''above'','' Jas. i. 17. (2) Preceding statement, remarks, or the like: as, from the ''above'' you will learn my object. It has the force of an adjective in such phrases as the ''above'' particulars, in which ''cited'' or ''mentioned'' is understood.}}\n\n'''II.''' ''prep.'' '''1.''' In or to a higher place than.\n{{smaller block|And fowl that may fly ''above'' the earth. {{right|Gen. i. 20.}}}}\n\n'''2.''' Superior to in any respect: often in the sense of too high for, as too high in dignity or fancied importance; too elevated in character: as, this man is ''above'' his business, ''above'' mean actions.\n{{smaller block|<poem>Doubtless, in man there is a nature found,\nBeside the senses, and ''above'' them far.</poem>\n{{right|''Sir J. Davies'', Immortal. of Soul, ii.}}\nSeneca wrote largely on natural philosophy . . . solely because it tended to raise the mind ''above'' low cares.\n{{right|''Macaulay'', Lord Byron.}}}}\n\n'''3.''' More in quantity or number than: as, the weight is ''above'' a ton.\n{{smaller block|He was seen of ''above'' five hundred brethren at once.\n{{right|1 Cor. xv. 6.}}}}\n\n'''4.''' More in degree than; in a greater degree than; beyond; in excess of.\n{{smaller block|Thou [the serpent] art cursed ''above'' all cattle.\n{{right|Gen. iii. 14.}}\nGod . . . will not suffer you to be tempted ''above'' that ye are able. {{right|1 Cor. x. 13.}}\n''Above'' the bounds of reason. {{right|''Shak.'', T. G. of V., ii. 7.}}\nI heard a knocking for ''above'' an hour.\n{{right|''Swift'', Gull. Trav., i. 1.}}}}\n\n{{smaller|'''Above all''', above or before everything else; before every other consideration; in preference to all other things.— '''Above the rest''', especially; particularly: as, one night ''above the rest''.—'''Above the world.''' (''a'') Above considering what people say. (''b'') Holding a secure position in life; having one’s fortune made.}}\n{{smaller block|With such an income as that he should be ''above the world'', as the saying is.\n{{right|''A. Trollope.''}}}}\n\n{{smaller|='''Syn.''' ''Over'', ''Above''. See ''over''.}}\n\n'''aboveboard''' (a̤-buv′bōrd), ''prep. phr.'' as ''adv.'' or ''a.'' [< ''above'' + ''board''. “A figurative expression, borrowed from gamesters, who, when they put their hands under the table, are changing their cards.” Johnson.] In open sight; without tricks or disguise: as, an honest man deals ''aboveboard;'' his actions are open and ''aboveboard''.\n{{smaller block|Lovers in this age have too much honour to do anything underhand; they do all ''aboveboard''.\n{{right|''Vanbrugh'', Relapse, ii. 1.}}}}\n\n'''above-deck''' (a̤-buv′dek), ''prep. phr.'' as ''adv.'' or ''a.'' '''1.''' Upon deck: as, the ''above-deck'' cargo.—'''2.''' Figuratively, without artifice; aboveboard: as, his dealings are all ''above-deck''. [Colloq.]\n\n'''above-ground''' (a̤-buv′ground), ''prep. phr.'' as ''adv.'' or ''a.'' Alive; not buried.\n{{smaller block|I’ll have 'em, an they be ''above-ground''.\n{{right|''Beau. and Fl.'', The Chances.}}}}\n\n'''ab ovo''' (ab ō′vō). [L., from the egg: ''ab'', from; ''ovo'', abl. of ''ovum'', egg, ovum: see ''ovum''.] Literally, from the egg; hence, from the very beginning, generally with allusion to the Roman custom of beginning a meal with eggs. {{smaller|In this case it is the first part of the phrase ''ab ovo usque ad mala'', from the egg to the apples, that is, from beginning to end; but sometimes the allusion is to the poet who began the history of the Trojan war with the story of the egg from which Helen was fabled to have been born.}}\n\n{{smaller block|By way of tracing the whole theme [the Homeric controversy] ''ab ovo'', suppose we begin by stating the chronological bearings of the principal objects . . . connected with the Iliad.\n{{right|''De Quincey'', Homer, i.}}}}\n\n[[File:century v01 p0043 c2f1.png|center|264px]]\n{{c|Bark with Yards Abox.}}\n\n'''abox''' (a̤-boks′), ''prep. phr.'' as ''adv.'' or ''a.'' [< ''a''<sup>3</sup>, ''prep.'', + ''box''<sup>2</sup>.] ''Naut.'', in or into the position of the yards of a vessel when the head-sails are laid aback: applied to the head-yards only, the other sails being kept full.\n\n'''abp.''' A contraction of ''archbishop''.\n\n'''abracadabra''' (ab″ra̤-ka̤-dab′rä), ''n.'' [L.; occurring first in a poem (''Præcepta de Medicina'') by Q. Serenus Sammonicus, in the second century; mere jargon. Cf. ''abracalam''.] '''1.''' A cabaA B R A C A D A B R A\nA B R A C A D A B R\nA B R A C A D A B\nA B R A C A D A\nA B R A C A D\nA B R A C A\nA B R A C\nA B R A\nA B R\nA B\nA\n</poem>\nferent directions, and worn as an amulet, it was supposed to cure certain ailments.\n{{smaller block|Mr. Banester saith that he healed 200 in one year of an ague by hanging ''abracadabra'' about their necks, and would stanch blood, or heal the toothake, although the partyes were 10 myle of.\n{{right|''MS. in Brit. Museum.''}}}}\nHence — 2. Any word-charm or empty jingle of words.\n\n'''abracalam''' (a-brak′a̤-lam), ''n.'' [Cf. ''abracadabra.''] A cabalistic word used as a charm among the Jews.\n\n'''abrachia''' (a-brā′ki-ä̤), ''n.'' [NL., < Gr. ἀ- priv. + L. ''brachium'', arm.] In ''zoöl.'', absence of anterior limbs.\n\n'''abrachius''' (a-brā′ki-us), ''n.''; pl. ''abrachii'' (-ī). [NL.: see ''abrachia.''] In ''teratol.'', a monster in which the anterior limbs are absent, while the posterior are well developed.\n\n'''abradant''' (ab-rā′da̤nt), ''a.'' and ''n.'' [< OF. ''abradant'', serving to scrape, scraping, < L. ''abra-''\n\n''den(t-)s'', ppr. of ''abradere'', scrape off: see ''abrade.''\n\n'''I.''' ''a.'' Abrading; having the property or quality of scraping.\n\n'''II.''' ''n.'' A material used for grinding, such as emery, sand, powdered glass, etc.\n\n'''abrade''' (ab-rād′), ''v. t.''; pret. and pp. ''abraded'', ppr. ''abrading''. [< L. ''abradere'', scrape or rub off, < ''ab'', off, + ''radere'', scrape: see ''raze.''] To rub or wear away; rub or scrape off; detach particles from the surface of by friction: as, glaciers ''abrade'' the rocks over which they pass; to ''abrade'' the prominences of a surface.\n{{smaller block|Dusty red walls and ''abraded'' towers.\n{{right|''Lathrop'', Spanish Vistas, p. 132.}}\nA termination is the ''abraded'' relic of an originally distinct qualifying word. {{right|''J. Fiske'', Cos. Phil., I. 66.}}}}\n{{smaller|= '''Syn.''' ''Scratch, Chafe'', etc. See ''scrape, v. t.''}}\n\n'''Abrahamic''' (ā-bra̤-ham′ik), ''a.'' [< L. ''Abraham'', < Gr. Ἀβραάμ, repr. Heb. ''’Abrāhām'', father of a multitude, orig. ''’Abrām'', lit. father of height.] Of or pertaining to the patriarch Abraham: as, the ''Abrahamic'' covenant.\n\n'''Abrahamidæ''' (ā-bra-ham′i-dē), ''n. pl.'' [NL., < ''Abraham'' + ''-idæ.''] The descendants of Abraham; the Hebrews.\n{{smaller block|This [Biblical] revelation of origins . . . was a whole system of religion, pure and elevating, . . . placing the ''Abrahamidæ'', who for ages seem alone to have held to it, on a plane of spiritual vantage immeasurably above that of other nations. {{right|''Dawson'', Orig. of World, p. 71.}}}}\n\n'''Abrahamite''' (ā′bra-ham-īt or ā′bram-īt), ''n.'' [< ML. ''Abrahamitæ'', pl.; as ''Abraham'' + ''-ite''<sup>2</sup>.] '''1.''' One of a Christian sect named from its founder, Abraham of Antioch (ninth century), and charged with Paulician (Gnostic) errors.—'''2.''' One of a sect of Deists in Bohemia, who came into prominence about 1782, and were banished to Hungary by the Emperor Joseph II. for nonconformity. {{smaller|They seem to have professed the religion of Abraham before his circumcision, to have believed in God, the immortality of the soul, and a future state of rewards and punishments, but to have rejected baptism and the doctrine of the Trinity, and to have acknowledged no scripture but the decalogue and the Lord’s prayer.}}\n\n'''Abrahamitical''' (ā″bra̤-ham-it′i-ka̤l or ā-bram-it′i-ka̤l), ''a.'' Relating to Abraham or to the Abrahamites.\n\n'''Abraham-man''' (ā′bra̤-ham- or ā′bram-man), ''n.'' '''1.''' Originally, a mendicant lunatic from Bethlehem Hospital, London. {{smaller|The wards in the ancient Bedlam (Bethlehem) bore distinctive names, as of some saint or patriarch. That named after Abraham was devoted to a class of lunatics who on certain days were permitted to go out begging. They bore a badge, and were known as ''Abraham-men.'' Many, however, assumed the badge without right, and begged, feigning lunacy. Hence the more received meaning came to be}}—'''2.''' An impostor who wandered about the country seeking alms, under pretense of lunacy. {{smaller|Hence the phrase ''to sham Abraham,'' to feign sickness.}}\n{{smaller block|Matthew, sceptic and scoffer, had failed to subscribe a prompt belief in that pain about the heart; he had muttered some words in which the phrase, “''shamming Abraham,''” had been very distinctly audible.\n{{right|''Charlotte Brontë'', Shirley, xxxiii.}}}}<noinclude><references/></noinclude>"
+}

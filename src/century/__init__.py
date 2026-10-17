@@ -74,4 +74,11 @@ CENTURY = Corpus(
     # Every page is transcribed from its Archive scan.
     page_scan=_page_scan,
     page_scan_url=scan_url,
+    # The book prints its quotation marks and apostrophes curly (user,
+    # 2026-10-17); our readings mostly typed them straight (vol. 1 p. 9,
+    # ''abducted'' … "''enlevé''"), and a straight ' beside '' is the markup's
+    # own character.  Set curly as each page is read, and any straight pair a
+    # proofreader types set curly in the edition.
+    curly_quotes=True,
+    curly_readings=True,
 )
