@@ -7,6 +7,13 @@ bating²): write that figure as <sup>1</sup>. After the title-word comes its
 pronunciation in parentheses, then the part of speech in italic, then the
 etymology in square brackets, then the numbered senses.
 
+The numbers of the senses are printed in bold, every one, the first after the
+etymology and each after a dash or at a line's start: write them bold, a
+dagger with its number ('''1.''' To detach; —'''2.''' The place; '''3†.''' To
+reject). So is the synonyms' head with its number: ='''Syn. 1.''' A number
+in a cross-reference (see ''abbas'', 1) or a citation (Rev. ix. 11) is not
+bold.
+
 Pronunciations are respellings in the book's own notation: transcribe every
 mark exactly, choosing each character from the book's key below, with the
 accent marks ′ and ″ as printed. Greek is printed in Greek type: write it in
