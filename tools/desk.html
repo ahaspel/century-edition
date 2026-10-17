@@ -93,7 +93,9 @@ details.help p { margin: .5em 0; }
 .render p { margin: 0 0 .75em; }
 .render .small-caps { font-variant: small-caps; }
 .render .centered { text-align: center; margin: 0.5em 0; }
-.render .verse { margin: 1em 2em; line-height: 1.6; text-align: left; }
+/* The Century's verse is a quotation like any other: its source follows it
+   at once, flush right, with no space after the last line. */
+.render .verse { margin: 1em 2em 0; line-height: 1.6; text-align: left; }
 .render .leak { background: #f6d5cc; color: #8f2a14; border-bottom: 2px solid #b4452e; font-family: var(--ui); font-size: .85em; }
 .render .rh { display: flex; align-items: baseline; border-bottom: 1px solid #d8d0bf; margin-bottom: .6em; padding-bottom: .2em; }
 .render .rh > span:nth-child(2) { flex: 1; text-align: center; }
