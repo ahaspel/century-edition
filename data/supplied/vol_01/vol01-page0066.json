@@ -6,7 +6,8 @@
  "provenance": {
   "scan": "https://archive.org/download/centurydictionary01whit/page/n65.jpg",
   "model": "claude-opus-5-5",
-  "transcribed": "2026-10-16",
+  "transcribed": "2026-10-18",
+  "fetched_by": "ahaspel",
   "angle": 0.0,
   "column_width": 744,
   "items": [
@@ -28,8 +29,8 @@
     "box": [
      117,
      159,
-     580,
-     1227
+     853,
+     1163
     ]
    },
    {
@@ -38,9 +39,9 @@
     "column": 1,
     "box": [
      117,
-     1227,
-     580,
-     2277
+     1163,
+     853,
+     2240
     ]
    },
    {
@@ -49,8 +50,8 @@
     "column": 1,
     "box": [
      117,
-     2277,
-     580,
+     2240,
+     853,
      3297
     ]
    },
@@ -59,10 +60,10 @@
     "kind": "text",
     "column": 2,
     "box": [
-     580,
+     853,
      159,
-     857,
-     1128
+     1601,
+     1127
     ]
    },
    {
@@ -70,10 +71,10 @@
     "kind": "text",
     "column": 2,
     "box": [
-     580,
-     1128,
-     857,
-     2213
+     853,
+     1127,
+     1601,
+     1960
     ]
    },
    {
@@ -81,9 +82,20 @@
     "kind": "text",
     "column": 2,
     "box": [
-     580,
-     2213,
-     857,
+     853,
+     1960,
+     1601,
+     3027
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     853,
+     3027,
+     1601,
      3297
     ]
    },
@@ -92,50 +104,6 @@
     "kind": "text",
     "column": 3,
     "box": [
-     857,
-     159,
-     1601,
-     1127
-    ]
-   },
-   {
-    "name": "c3s2",
-    "kind": "text",
-    "column": 3,
-    "box": [
-     857,
-     1127,
-     1601,
-     1960
-    ]
-   },
-   {
-    "name": "c3s3",
-    "kind": "text",
-    "column": 3,
-    "box": [
-     857,
-     1960,
-     1601,
-     3027
-    ]
-   },
-   {
-    "name": "c3s4",
-    "kind": "text",
-    "column": 3,
-    "box": [
-     857,
-     3027,
-     1601,
-     3297
-    ]
-   },
-   {
-    "name": "c4s1",
-    "kind": "text",
-    "column": 4,
-    "box": [
      1601,
      159,
      2343,
@@ -143,9 +111,9 @@
     ]
    },
    {
-    "name": "c4s2",
+    "name": "c3s2",
     "kind": "text",
-    "column": 4,
+    "column": 3,
     "box": [
      1601,
      1190,
@@ -154,9 +122,9 @@
     ]
    },
    {
-    "name": "c4s3",
+    "name": "c3s3",
     "kind": "text",
-    "column": 4,
+    "column": 3,
     "box": [
      1601,
      2014,
@@ -165,20 +133,20 @@
     ]
    },
    {
-    "name": "c4f1",
+    "name": "c3f1",
     "kind": "figure",
-    "column": 4,
+    "column": 3,
     "box": [
      1601,
-     2008,
+     2009,
      2343,
-     2304
+     2306
     ]
    },
    {
-    "name": "c4s4",
+    "name": "c3s4",
     "kind": "text",
-    "column": 4,
+    "column": 3,
     "box": [
      1601,
      2907,
@@ -187,81 +155,78 @@
     ]
    },
    {
-    "name": "c4f2",
+    "name": "c3f2",
     "kind": "figure",
-    "column": 4,
+    "column": 3,
     "box": [
-     1620,
-     2995,
-     1850,
-     3174
+     1619,
+     2994,
+     1853,
+     3158
     ]
    }
   ],
   "readings": {
    "head": "{{RunningHeader|accoutrement|40|accumbent}}",
-   "c1s1": "¶\n'''2.''' ''pl.'' Dress in relation to its c equipage; trappings; specific ments of a soldier except ar equipage for military service.\n{{smaller block|In robes of peace, ''accoutren''<br>He was advanc’d a counsello<br>{{right|''Fo''}}}}\n{{smaller block|Among piled arms and rough<br>{{right|''Tenny''}}}}\n\n'''accoy†''' (a-koi′), ''v. t.'' [< ME. ''acc'' quiet, < ''a-'' (L. ''ad''), to, + ''coi'',\n\n'''1.''' To render quiet; soothe.\n{{smaller block|And with kind words ''accoyd'', vowin<br>{{right|''Spens''}}}}\n\n'''2.''' To dishearten; daunt; sub\n{{smaller block|Then is your carelesse cours<br>{{right|''Spens''}}}}\n\n'''accrase†''', ''v. t.'' See ''acraze.''\n\n'''accrease†''' (a-krēs′), ''v. i.'' [F ''creace'', ''accress'', < ME. ''acresen'', ''acreistre'', later ''accroistre'', mod. ''acrecer'' = It. ''accrescere'', < L. become larger by growth, i ''cresce'' (a later form, after the ''crease'', etc., and der. ''accrue.'']\n{{smaller block|''Accrescere'', to increase, to ''accrease'', accrew, to eeke.}}\n{{smaller block|Such as ask, why the sea doth neve a whit.<br>{{right|''D. Person'', Varieties,}}}}\n\n'''accredit''' (a-kred′it), ''v. t.'' [< l lier ''acrediter'', accredit, < ''ac-'' (L n., credit (see ''credit'', ''n.''); = = It. ''accreditare'', accredit, si",
-   "c1s2": "'''1.''' To give credit or credence dence in; trust; esteem.\n{{smaller block|Such were the principal terms of nada, as authenticated by the most ''ac'' Arabic authorities.\n{{right|''Prescott'',}}}}\n{{smaller block|His party will . . . protect and ''acc'' conduct the most contradictory to tl}}\n'''2.''' To confer credit or authorit authority.\n{{smaller block|With the best writers of our age, ''ac'' credit or authority,\" to which ma matic sense, \"send with letters cre\n{{right|''F. Ha''}}}}\n{{smaller block|I am better pleased indeed that he than I should have been with unmixe his censure will . . . ''accredit'' his pr}}\nHence, specifically—'''3.''' To dentials, as an envoy.\n{{smaller block|According to their rank, some age ments are directly ''accredited'' to a to his minister of foreign affairs.\n{{right|''Woolsey'', Intro}}}}\n'''4.''' To believe; accept as tru\n{{smaller block|He ''accredited'' and repeated stori witchcraft, and possession, so silly, that they might have nauseated the wonder.\n{{right|''Southey'', L}}}}\n'''5.''' To ascribe or attribute to credit of: followed by ''with''.\n{{smaller block|Mr. Bright himself was ''accredited'' his own effort to arouse a reformin flogging a dead horse.\n{{right|''McCarthy'',}}}}\n\n'''accreditate†''' (a-kred′i-tāt), ''v.''",
-   "c1s3": "accreditated'', ppr. ''accreditatin'' -''ate''<sup>2</sup>.] Same as ''accredit.''\n\n{{smaller block|She bowed, kissing the Thracian’s resist it, to ''accreditate'' the beginnin estimation.\n{{right|''Sir A. Cokaine'', tr. of Loredano, Diar}}}}\n\n'''accreditation†''' (a-kred-i-tā′sl of accrediting, or the state of\n\n{{smaller block|Having received my instructions ''tation'' from the Earl of Hillsborou April, 1780. ''Mem. of R. Cumberl''}}\n\n'''accrementitial''' (ak″rē-men-ti if *''accrementum'' (found once, ing), addition (< ''accrescere'', ''cresce'', and cf. ''excrement'', ''incre'' In ''physiol.'', of or pertaining accrementition.\n\n'''accrementition''' (ak″rē-men- as if *''accrementum'', on anal ''tial'', q. v. The regular form ''mentation.''] In ''physiol.'', the velopment of a new individ tion of a part of the parent;\n\n'''accresce†''' (a-kres′), ''v. i.'' [Lat q. v., after orig. L. ''accresce'' to, + ''crescere'', grow: see ''cr'' ''crue.''] '''1.''' To increase; gr To accrue. See ''accrue'', ''v.'', 2\n\n'''accrescence''' (a-kres′ens), ''n.'' Sp. ''acrecencia'' = It. ''accrescen'' The act of increasing; grad crease; accretion.",
-   "c2s1": "omponent parts; ally, the equipms and clothing; See ''equipage''.\n{{smaller block|''ents'' of rest, or.\n{{right|''rd'', Fame’s Memorial.}}\n''accoutrements''.\n{{right|''son'', The Princess, v.}}}}\n''oien'', < OF. ''acoier'', quiet: see ''coy''<sup>1</sup>.]\n{{smaller block|g great love to mee.\n{{right|''er'', F. Q., IV. viii. 59.}}}}\nodue.\n{{smaller block|ge ''accoyed''.\n{{right|''ser'', Shep. Cal. (Feb.).}}}}\n\normerly also ''ac-'' increase, < OF. F. ''accroître'' = Sp. ''accrescere'', grow, ncrease: see ''ac-'' L.), ''increase'', ''de-'' To increase.\n{{smaller block|, to add vnto, . . . to\n{{right|''Florio.''}}\nr debord nor ''accreace'' 1 § 6, 24. (''N. E. D.'')}}\n\nF. ''accréditer'', ear-",
-   "c2s2": ". ''ad''), to, + ''crédit'', Sp. Pg. ''acreditar'' milarly formed.] to; repose confi-\n{{smaller block|the surrender of Gra- ''credited'' Castilian and\n{{right|Ferd. and Isa., i. 15.}}\n''redit'' him, in spite of heir own principles.\n{{right|''Scott.''}}}}\ny on; stamp with\n{{smaller block|''credit'' is “invest with y be added its diplo- lential.”\n{{right|''ll'', Mod. Eng., p. 284.}}\ncensures some things d commendation; for aises.\n{{right|''Cowper'', Letters, xliii.}}}}\nsend with cre-\n{{smaller block|nts of foreign govern- sovereign, and others\n{{right|d. to Inter. Law, § 91.}}}}\ne.\n{{smaller block|es of apparitions, and as well as monstrous, coarsest appetite for\n{{right|ife of Wesley, II. 198.}}}}\n; invest with the\n{{smaller block|''with'' having said that g spirit . . . was like}}",
-   "c2s3": "{{smaller|, Hist. Own Times, xl.}}\n''t.''; pret. and pp.\n''g.'' [As ''accredit'' +\n{{smaller|hands, who would not}}\n{{smaller|gs of his Love to be of}}\n{{smaller|nea, IV. § 3. (''N. E. D.'')}}\nhon), ''n.'' The act\nbeing accredited.\n{{smaller|and letters of ''accredi-''}}\n{{smaller|gh on the 17th day of}}\n{{smaller|''and'', I. 417. (''N. E. D.'')}}\nish′al), ''a.'' [< L. as\n, but a false read-\nincrease: see ''ac-''\n''ment''), + E. ''-itial.'']\nto the process of\ntish′on), ''n.'' [< L.\nogy of ''accrementi-''\nwould be *''accre-''\nproduction or de-\nual by the separa-\ngemmation.\ner form of ''accrease'',\n''re'', increase, < ''ad'',\n''escent'', and cf. ''ac-''\now. [Rare.]—2.\n.\n. [< ''accrescent''; =\n''za'', increase.] 1.\nual growth or in-",
-   "c3s1": "¶\n{{smaller block|The silent ''accrescence'' of belief from the unwatched depositions of a general, never contradicted, hearsay.\n{{right|''Coleridge'', Statesman’s Manual (1839), App. B, p. 296.}}}}\n\n'''2.''' That by which anything is increased; an increment.\n\n'''accrescent''' (a-kres′ẹnt), ''a.'' [< L. ''accrescen(t-)s'', ppr. of ''accrescere'', grow: see ''accresce''.] Increasing; growing. {{smaller|Specifically, in ''bot.'', applied to parts connected with the flower which increase in size after flowering, as frequently occurs with the calyx, involucre, etc.}}\n\n'''accrescimento''' (äk-kresh-i-men′tọ̄), ''n.'' [It.: see ''accresce''.] In ''music'', the increase of the duration of a sound by one half, indicated by a dot after the note.\n\n'''accrete''' (a-krēt′), ''v.''; pret. and pp. ''accreted'', ppr. ''accreting''. [< L. ''accretus'', pp. of ''accrescere'': see ''accresce''.] '''I.''' ''intrans.'' '''1.''' To grow by accretion; gather additions from without. [Rare.]\n{{smaller block|We see everywhere wasted cliffs and denuded shores, or ''accreted'' shingle-banks and sand-hills.\n{{right|''N. and Q.'', 7th ser., II. 62.}}}}\n\n'''2.''' To be added; adhere; become attached by a process of accretion.\n{{smaller block|Centres about which thought has ''accreted'', instead of crystallizing into its own free forms.\n{{right|''G. S. Hall'', German Culture, p. 161.}}}}\n\n'''II.''' ''trans.'' To cause to grow or unite.\n\n'''accrete''' (a-krēt′), ''a.'' [< L. ''accretus'', pp. of ''accrescere'': see ''accresce''.] Grown together; formed by accretion; accreted.",
-   "c3s2": "¶\n\n'''accretion''' (a-krē′shọn), ''n.'' [< L. ''accretio(n-)'', < ''accretus'', pp. of ''accrescere'', grow: see ''accresce'' and ''accrete''.] '''1.''' The act of accreting or accrescing; a growing to; an increase by natural growth; an addition; specifically, an increase by an accession of parts externally.\n{{smaller block|The phrase “living language,” used with reference to facts, must import perpetual excretion and ''accretion'' of substance, involving or producing assimilation, development, and renewal.\n{{right|''F. Hall'', Mod. Eng., p. 18.}}}}\n{{smaller block|A mineral or unorganized body can undergo no change save by the operation of mechanical or chemical forces; and any increase of its bulk is due to the addition of like particles to its exterior: it augments not by growth but by ''accretion''.\n{{right|''Owen'', Comp. Anat., i.}}}}\n'''2.''' In ''pathol.'', the growing together of parts normally separate, as the fingers or toes.—'''3.''' The thing added; an extraneous addition; an accession: commonly used in the plural, and restricted to accessions made slowly and gradually by some external force.\n{{smaller block|He strove to pare away the ''accretions'' of age.\n{{right|''Merivale'', Hist. Romans, V. 150.}}}}\n'''4.''' In ''law'': (''a'') The increase or growth of property by external accessions, as by alluvium naturally added to land situated on the bank of a river, or on the seashore. {{smaller|When the accretion}}",
-   "c3s3": "{{smaller|takes place by small and imperceptible degrees it belongs to the owner of the land immediately behind, but if it is sudden and considerable it may belong to the}}\n{{smaller|state.}} (''b'') In ''Scots law'', the completion of an originally defective or imperfect right by some subsequent act on the part of the person from whom the right was derived.\n\n'''accretive''' (a-krē′tiv), ''a.'' Of or pertaining to accretion; increasing or adding by growth; growing; accrescent: as, “the ''accretive'' motion of plants,” ''Glanville'', Scep. Sci., ix. 60.\n\n'''accrew†''', '''accrewe†''', ''n.'' and ''v.'' Obsolete spellings of ''accrue''. The spelling is retained in the clipped form ''crew''<sup>1</sup> (which see).\n\n'''accriminate†''' (a-krim′i-nāt), ''v. t.'' [< ''ac-'' + ''criminate'' (cf. Sp. ''acriminar'', exaggerate a crime, accuse): see ''criminate''.] To charge with a crime.\n\n'''accroach†''' (a-krōch′), ''v. t.'' [< ME. ''acrochen'', < OF. ''accrocher'', fix on a hook, hook up, < ''a-'' (L. ''ad''), to, + ''croc'', a hook, a crook: see ''crook'' and ''crochet''. Cf. ''encroach''.] '''1.''' To hook, or draw to one’s self as with a hook.—'''2.''' In ''old laws'', to usurp: as, to ''accroach'' royal power to one’s self.\n\n'''accroachment†''' (a-krōch′ment), ''n.'' The act of accroaching; encroachment; usurpation, as of sovereign power.\n\n'''accrual''' (a-krö′al), ''n.'' The act or process of accruing; accretion.\n\n'''accrue''' (a-krö′), ''n.'' [Also written ''accrew'' (now obs.), < late ME. *''acrewe'', found only in the clipped form ''crewe'' (> E. ''crew''), and in the verb ''acrewe'', accrue; < OF. ''acrewe'', ''acreue'', that which",
-   "c3s4": "grows up, to the profit of the owner, on the earth or in a wood, later “''accreue'', a growth, increase, eeking, augmentation” (Cotgrave), orig. fem. of ''acreu'', “''accreu'', growne, increased” (Cotgrave), (AF. ''acru''), pp. of ''acreistre'' (AF. ''acrestre''), later ''accroistre'', mod. F. ''accroître'', < L. ''accrescere'', grow, accrease, accresce, increase: see ''accrease'', ''accresce''. Hence by abbr.",
-   "c4s1": "crue, crew: see ''crew''<sup>1</sup>, and cf. ''recruit''.] '''1†.''' An accession; addition; reinforcement.\n\n{{smaller block|The towne of Calis and the forts thereabouts were not supplied with anie new ''accrewes'' of soldiers.\n{{right|''Holinshed'', Chron., III. 1135 1.}}}}\n\n{{smaller block|Should be able . . . to oppose the French by the ''accrue'' of Scotland. ''M. Godwyn'', Annals Eng., III. 283. (''N. E. D.'')}}\n\n'''2.''' A loop or stitch forming an extra mesh in network.\n\n{{smaller block|There are also ''accrues'', false meshes, or quarterings, which are loops inserted in any given row, by which the number of meshes is increased. ''Encyc. Brit.'', XVII. 359.}}\n\n'''accrue''' (a-krö′), ''v. i.''; pret. and pp. ''accrued'', ppr. ''accruing''. [Also written ''accrew'' (now obs.), < ME. ''acrewe'', v., < *''acrewe'', n.: see ''accrue'', ''n.''] '''1†.''' To grow; increase; augment.\n\n{{smaller block|And, though powre faild, her courage did ''accrew''.\n{{right|''Spenser'', F. Q., V. v. 7.}}}}\n\n'''2.''' To happen or result as a natural growth; come or fall as an addition or increment, as of profit or loss, advantage or damage; arise in due course: as, a profit ''accrues'' to government from the coinage of copper; the natural increase ''accrues'' to the common benefit.\n\n{{smaller block|To no one can any benefit ''accrue'' from such aërial speculations . . . as crowd almost every book in our language that we turn to. ''F. Hall'', Mod. Eng., Pref.}}\n\n{{smaller block|That pleasure which ''accrues'' from good actions.\n{{right|''J. F. Clarke'', Ten Great Relig., ii. 5.}}}}\n\n'''3.''' In ''law'', to become a present and enforcible right or demand. {{smaller|Thus the right to set up the statute of limitations against a claim ''accrues'' by lapse of time; a cause of action on a note does not ''accrue'' till the note}}",
-   "c4s2": "becomes payable.\n\n'''accrued''' (a̤-kröd′), ''p. a.'' In ''her.'', full-grown: an epithet applied to trees.\n\n'''accruement''' (a̤-krö′ment), ''n.'' '''1.''' Accrual.—'''2.''' That which accrues; an addition; increment.\n\n'''accruer''' (a̤-krö′ėr), ''n.'' [< ''accrue'' + ''-er''<sup>5</sup>, as in ''user'', ''trover'', ''waiver'', and other law terms, where ''-er'' represents the F. inf. suffix.] In ''law'', the act or fact of accruing; accrual.—'''Clause of accruer''', {{smaller|a clause in a deed or bequest to several persons, directing to whom, in case of the death of one or more, his or their shares shall go or accrue.}}\n\n'''acct. curt.''' In ''com.'', a contraction of ''account current''. Originally written <sup>''a''</sup>/''c'', a symbol now almost exclusively used for ''account''.\n\n'''accubation''' (ak-ū-bā′sho̤n), ''n.'' [< L. ''accubatio(n-)'', < ''accubare'', lie near, esp. recline at table, < ''ad'', to, + ''cubare'', lie down. See ''incubate'' and ''accumb''.] '''1.''' The act of lying down or reclining; specifically, the ancient practice, derived from the Orient, of eating meals in a recumbent posture. {{smaller|Among the Greeks at the time of the Homeric poems this practice had not yet been adopted; but in historical times it obtained in general among both Greeks and Romans, and it is illustrated in early vase-paintings. It was customary to eat reclining diagonally toward}}",
-   "c4s3": "[[FIGURE]]\n{{c|{{smaller|Accubation.—An ancient dinner.}}}}\n{{smaller block|the table, resting on couches, either flat on the breast or supported on the left elbow in a semi-sitting position. Cushions were provided to relieve the strain upon the elbow and the back. The table was usually a little lower than the couches, for convenience in reaching the food. See ''triclinium.''}}\n{{smaller block|Which gesture . . . cannot be avoided in the laws of ''accubation.''\n{{right|''Sir T. Browne'', Vulg. Err., v. 6.}}}}\n'''2.''' In ''med.'', lying-in; confinement; accouchement. ''Syd. Soc. Lex.''\n\n¶\n'''accumb†''' (a-kumb′), ''v. i.'' [< L. ''accumbere'', lie near, esp. recline at table, < ''ad'', to, + *''cumbere'' (in comp.), a nasalized form of ''cubare'', lie down. See ''accubation.''] To recline, according to the ancient fashion at table. See ''accubation. Bailey.''\n\n'''accumbency†''' (a-kum′ben-si), ''n.'' [< ''accumbent'': see ''-cy.''] The state of being accumbent or of",
-   "c4s4": "reclining.\n\n'''accumbent''' (a-kum′bent), ''a.'' and ''n.'' [< L. ''accumben(t-)s'', ppr. of ''accumbere'': see ''accumb.''] '''I.''' ''a.'' '''1.''' Leaning or reclining, in the manner of the ancients at their meals. See ''accubation.''\n[[FIGURE]]\n{{c|{{smaller|Accumbent Ovule (''Thlaspi arvense'').}}}}\n{{smaller block|The Roman recumbent (or more properly ''accumbent'') posture in eating was introduced after the first Punic war.\n{{right|''Arbuthnot'', Anc. Coins, p. 134.}}}}\n'''2.''' In ''bot.'', lying against: applied to the cotyle-"
+   "c1s1": "¶\n'''2.''' ''pl.'' Dress in relation to its component parts; equipage; trappings; specifically, the equipments of a soldier except arms and clothing; equipage for military service. See ''equipage.''\n{{smaller block|<poem>In robes of peace, ''accoutrements'' of rest,\nHe was advanc’d a counsellor.</poem>\n{{right|''Ford'', Fame’s Memorial.}}}}\n{{smaller block|Among piled arms and rough ''accoutrements.''\n{{right|''Tennyson'', The Princess, v.}}}}\n\n'''accoy†''' (a-koi′), ''v. t.'' [< ME. ''acoien'', < OF. ''acoier'', quiet, < ''a-'' (L. ''ad''), to, + ''coi'', quiet: see ''coy''<sup>1</sup>.]\n\n'''1.''' To render quiet; soothe.\n{{smaller block|And with kind words ''accoyd'', vowing great love to mee.\n{{right|''Spenser'', F. Q., IV. viii. 59.}}}}\n\n'''2.''' To dishearten; daunt; subdue.\n{{smaller block|Then is your carelesse courage ''accoyed.''\n{{right|''Spenser'', Shep. Cal. (Feb.).}}}}\n\n'''accrase†''', ''v. t.'' See ''acraze.''\n\n'''accrease†''' (a-krēs′), ''v. i.'' [Formerly also ''accreace'', ''accress'', < ME. ''acresen'', increase, < OF. ''acreistre'', later ''accroistre'', mod. F. ''accroître'' = Sp. ''acrecer'' = It. ''accrescere'', < L. ''accrescere'', grow, become larger by growth, increase: see ''accresce'' (a later form, after the L.), ''increase'', ''decrease'', etc., and der. ''accrue.''] To increase.\n{{smaller block|''Accrescere'', to increase, to ''accrease'', to add vnto, . . . to accrew, to eeke. {{right|''Florio.''}}}}\n{{smaller block|Such as ask, why the sea doth never debord nor ''accreace'' a whit. {{right|''D. Person'', Varieties, 1 § 6, 24. (''N. E. D.'')}}}}\n\n'''accredit''' (a-kred′it), ''v. t.'' [< F. ''accréditer'', earlier ''acrediter'', accredit, < ''ac-'' (L. ''ad''), to, + ''crédit'',",
+   "c1s2": "n., credit (see ''credit'', ''n.''); = Sp. Pg. ''acreditar'' = It. ''accreditare'', accredit, similarly formed.] '''1.''' To give credit or credence to; repose confidence in; trust; esteem.\n{{smaller block|Such were the principal terms of the surrender of Granada, as authenticated by the most ''accredited'' Castilian and Arabic authorities.\n{{right|''Prescott'', Ferd. and Isa., i. 15.}}\nHis party will . . . protect and ''accredit'' him, in spite of conduct the most contradictory to their own principles.\n{{right|''Scott.''}}}}\n'''2.''' To confer credit or authority on; stamp with authority.\n{{smaller block|With the best writers of our age, ''accredit'' is “invest with credit or authority,” to which may be added its diplomatic sense, “send with letters credential.”\n{{right|''F. Hall'', Mod. Eng., p. 284.}}\nI am better pleased indeed that he censures some things than I should have been with unmixed commendation; for his censure will . . . ''accredit'' his praises.\n{{right|''Cowper'', Letters, xliii.}}}}\nHence, specifically—'''3.''' To send with credentials, as an envoy.\n{{smaller block|According to their rank, some agents of foreign governments are directly ''accredited'' to a sovereign, and others to his minister of foreign affairs.\n{{right|''Woolsey'', Introd. to Inter. Law, § 91.}}}}\n'''4.''' To believe; accept as true.\n{{smaller block|He ''accredited'' and repeated stories of apparitions, and witchcraft, and possession, so silly, as well as monstrous, that they might have nauseated the coarsest appetite for wonder.\n{{right|''Southey'', Life of Wesley, II. 198.}}}}\n'''5.''' To ascribe or attribute to; invest with the credit of: followed by ''with''.\n{{smaller block|Mr. Bright himself was ''accredited with'' having said that his own effort to arouse a reforming spirit . . . was like flogging a dead horse.\n{{right|''McCarthy'', Hist. Own Times, xl.}}}}",
+   "c1s3": "¶\n'''accreditate†''' (a-kred′i-tāt), ''v. t.''; pret. and pp. ''accreditated'', ppr. ''accreditating''. [As ''accredit'' + ''-ate''<sup>2</sup>.] Same as ''accredit''.\n{{smaller block|She bowed, kissing the Thracian’s hands, who would not resist it, to ''accreditate'' the beginnings of his Love to be of estimation.\n{{right|''Sir A. Cokaine'', tr. of Loredano, Dianea, IV. § 3. (''N. E. D.'')}}}}\n\n'''accreditation†''' (a-kred-i-tā′shọn), ''n.'' The act of accrediting, or the state of being accredited.\n{{smaller block|Having received my instructions and letters of ''accreditation'' from the Earl of Hillsborough on the 17th day of April, 1780.\n{{right|''Mem. of R. Cumberland'', I. 417. (''N. E. D.'')}}}}\n\n'''accrementitial''' (ak″rē-men-tish′al), ''a.'' [< L. as if *''accrementum'' (found once, but a false reading), addition (< ''accrescere'', increase: see ''accresce'', and cf. ''excrement'', ''increment''), + E. ''-itial''.] In ''physiol.'', of or pertaining to the process of accrementition.\n\n'''accrementition''' (ak″rē-men-tish′ọn), ''n.'' [< L. as if *''accrementum'', on analogy of ''accrementitial'', q. v. The regular form would be *''accrementation''.] In ''physiol.'', the production or development of a new individual by the separation of a part of the parent; gemmation.\n\n'''accresce†''' (a-kres′), ''v. i.'' [Later form of ''accrease'', q. v., after orig. L. ''accrescere'', increase, < ''ad'', to, + ''crescere'', grow: see ''crescent'', and cf. ''accrue''.] '''1.''' To increase; grow. [Rare.] —'''2.''' To accrue. See ''accrue'', ''v.'', 2.\n\n'''accrescence''' (a-kres′ẹns), ''n.'' [< ''accrescent''; = Sp. ''acrecencia'' = It. ''accrescenza'', increase.] '''1.''' The act of increasing; gradual growth or increase; accretion.",
+   "c2s1": "{{smaller block|The silent ''accrescence'' of belief from the unwatched depositions of a general, never contradicted, hearsay.\n{{right|''Coleridge'', Statesman’s Manual (1839), App. B, p. 296.}}}}\n'''2.''' That by which anything is increased; an increment.\n\n'''accrescent''' (a-kres′ent), ''a.'' [< L. ''accrescen(t-)s'', ppr. of ''accrescere'', grow: see ''accresce.''] Increasing; growing. {{smaller|Specifically, in ''bot.'', applied to parts connected with the flower which increase in size after flowering, as frequently occurs with the calyx, involucre, etc.}}\n\n'''accrescimento''' (äk-kresh-i-men′tō), ''n.'' [It.: see ''accresce.''] In ''music'', the increase of the duration of a sound by one half, indicated by a dot after the note.\n\n'''accrete''' (a-krēt′), ''v.''; pret. and pp. ''accreted'', ppr. ''accreting''. [< L. ''accretus'', pp. of ''accrescere'': see ''accresce.''] '''I.''' ''intrans.'' '''1.''' To grow by accretion; gather additions from without. [Rare.]\n{{smaller block|We see everywhere wasted cliffs and denuded shores, or ''accreted'' shingle-banks and sand-hills.\n{{right|''N. and Q.'', 7th ser., II. 62.}}}}\n'''2.''' To be added; adhere; become attached by a process of accretion.\n{{smaller block|Centres about which thought has ''accreted'', instead of crystallizing into its own free forms.\n{{right|''G. S. Hall'', German Culture, p. 161.}}}}\n'''II.''' ''trans.'' To cause to grow or unite.\n\n'''accrete''' (a-krēt′), ''a.'' [< L. ''accretus'', pp. of ''accrescere'': see ''accresce.''] Grown together; formed by accretion; accreted.",
+   "c2s2": "¶\n'''accretion''' (a-krē′sho̤n), ''n.'' [< L. ''accretio(n-)'', < ''accretus'', pp. of ''accrescere'', grow: see ''accresce'' and ''accrete''.] '''1.''' The act of accreting or accrescing; a growing to; an increase by natural growth; an addition; specifically, an increase by an accession of parts externally.\n{{smaller block|The phrase “living language,” used with reference to facts, must import perpetual excretion and ''accretion'' of substance, involving or producing assimilation, development, and renewal.\n{{right|''F. Hall'', Mod. Eng., p. 18.}}}}\n{{smaller block|A mineral or unorganized body can undergo no change save by the operation of mechanical or chemical forces; and any increase of its bulk is due to the addition of like particles to its exterior: it augments not by growth but by ''accretion''.\n{{right|''Owen'', Comp. Anat., i.}}}}\n'''2.''' In ''pathol.'', the growing together of parts normally separate, as the fingers or toes.—'''3.''' The thing added; an extraneous addition; an accession: commonly used in the plural, and restricted to accessions made slowly and gradually by some external force.\n{{smaller block|He strove to pare away the ''accretions'' of age.\n{{right|''Merivale'', Hist. Romans, V. 150.}}}}\n'''4.''' In ''law'': (''a'') The increase or growth of property by external accessions, as by alluvium naturally added to land situated on the bank of a river, or on the seashore. {{smaller|When the accretion}}",
+   "c2s3": "{{smaller|takes place by small and imperceptible degrees it belongs to the owner of the land immediately behind, but if it is sudden and considerable it may belong to the}}\n{{smaller|state.}} (''b'') In ''Scots law'', the completion of an originally defective or imperfect right by some subsequent act on the part of the person from whom the right was derived.\n\n¶'''accretive''' (a-krē′tiv), ''a.'' Of or pertaining to accretion; increasing or adding by growth; growing; accrescent: as, “the ''accretive'' motion of plants,” ''Glanville'', Scep. Sci., ix. 60.\n\n'''accrew†''', '''accrewe†''', ''n.'' and ''v.'' Obsolete spellings of ''accrue''. The spelling is retained in the clipped form ''crew''<sup>1</sup> (which see).\n\n'''accriminate†''' (a-krim′i-nāt), ''v. t.'' [< ''ac-'' + ''criminate'' (cf. Sp. ''acriminar'', exaggerate a crime, accuse): see ''criminate''.] To charge with a crime.\n\n'''accroach†''' (a-krōch′), ''v. t.'' [< ME. ''acrochen'', < OF. ''accrocher'', fix on a hook, hook up, < ''a-'' (L. ''ad''), to, + ''croc'', a hook, a crook: see ''crook'' and ''crochet''. Cf. ''encroach''.] '''1.''' To hook, or draw to one’s self as with a hook.—'''2.''' In ''old laws'', to usurp: as, to ''accroach'' royal power to one’s self.\n\n'''accroachment†''' (a-krōch′ment), ''n.'' The act of accroaching; encroachment; usurpation, as of sovereign power.\n\n'''accrual''' (a-krö′al), ''n.'' The act or process of accruing; accretion.\n\n'''accrue''' (a-krö′), ''n.'' [Also written ''accrew'' (now obs.), < late ME. *''acrewe'', found only in the clipped form ''crewe'' (> E. ''crew''), and in the verb ''acrewe'', accrue; < OF. ''acrewe'', ''acreue'', that which",
+   "c2s4": "grows up, to the profit of the owner, on the earth or in a wood, later “''accreue'', a growth, increase, eeking, augmentation” (Cotgrave), orig. fem. of ''acreu'', “''accreu'', growne, increased” (Cotgrave), (AF. ''acru''), pp. of ''acreistre'' (AF. ''acrestre''), later ''accroistre'', mod. F. ''accroître'', < L. ''accrescere'', grow, accrease, accresce, increase: see ''accrease'', ''accresce''. Hence by abbr.",
+   "c3s1": "crue, crew: see ''crew''<sup>1</sup>, and cf. ''recruit''.] '''1†.''' An accession; addition; reinforcement.\n{{smaller block|The towne of Calis and the forts thereabouts were not supplied with anie new ''accrewes'' of soldiers.\n{{right|''Holinshed'', Chron., III. 1135 1.}}}}\n{{smaller block|Should be able . . . to oppose the French by the ''accrue'' of Scotland. ''M. Godwyn'', Annals Eng., III. 283. (''N. E. D.'')}}\n'''2.''' A loop or stitch forming an extra mesh in network.\n{{smaller block|There are also ''accrues'', false meshes, or quarterings, which are loops inserted in any given row, by which the number of meshes is increased. ''Encyc. Brit.'', XVII. 359.}}\n\n'''accrue''' (a̤-krö′), ''v. i.''; pret. and pp. ''accrued'', ppr. ''accruing''. [Also written ''accrew'' (now obs.), < ME. ''acrewe'', v., < *''acrewe'', n.: see ''accrue'', ''n.''] '''1†.''' To grow; increase; augment.\n{{smaller block|And, though powre faild, her courage did ''accrew''.\n{{right|''Spenser'', F. Q., V. v. 7.}}}}\n'''2.''' To happen or result as a natural growth; come or fall as an addition or increment, as of profit or loss, advantage or damage; arise in due course: as, a profit ''accrues'' to government from the coinage of copper; the natural increase ''accrues'' to the common benefit.\n{{smaller block|To no one can any benefit ''accrue'' from such aërial speculations . . . as crowd almost every book in our language that we turn to. ''F. Hall'', Mod. Eng., Pref.}}\n{{smaller block|That pleasure which ''accrues'' from good actions.\n{{right|''J. F. Clarke'', Ten Great Relig., ii. 5.}}}}\n'''3.''' In ''law'', to become a present and enforcible right or demand. {{smaller|Thus the right to set up the statute of limitations against a claim ''accrues'' by lapse of time; a cause of action on a note does not ''accrue'' till the note}}",
+   "c3s2": "{{smaller|becomes payable.}}\n\n'''accrued''' (a̤-kröd′), ''p. a.'' In ''her.'', full-grown: an epithet applied to trees.\n\n'''accruement''' (a̤-krö′ment), ''n.'' '''1.''' Accrual.—'''2.''' That which accrues; an addition; increment.\n\n'''accruer''' (a̤-krö′ėr), ''n.'' [< ''accrue'' + ''-er''<sup>5</sup>, as in ''user'', ''trover'', ''waiver'', and other law terms, where ''-er'' represents the F. inf. suffix.] In ''law'', the act or fact of accruing; accrual.—{{smaller|'''Clause of accruer,''' a clause in a deed or bequest to several persons, directing to whom, in case of the death of one or more, his or their shares shall go or accrue.}}\n\n'''acct. curt.''' In ''com.'', a contraction of ''account current''. Originally written <sup>''a''</sup>/<sub>''c''</sub>, a symbol now almost exclusively used for ''account''.\n\n'''accubation''' (ak-ū-bā′sho̤n), ''n.'' [< L. ''accubatio(n-)'', < ''accubare'', lie near, esp. recline at table, < ''ad'', to, + ''cubare'', lie down. See ''incubate'' and ''accumb''.] '''1.''' The act of lying down or reclining; specifically, the ancient practice, derived from the Orient, of eating meals in a recumbent posture. {{smaller|Among the Greeks at the time of the Homeric poems this practice had not yet been adopted; but in historical times it obtained in general among both Greeks and Romans, and it is illustrated in early vase-paintings. It was customary to eat reclining diagonally toward}}",
+   "c3s3": "[[FIGURE]]\n{{c|{{smaller|Accubation.—An ancient dinner.}}}}\n{{smaller block|the table, resting on couches, either flat on the breast or supported on the left elbow in a semi-sitting position. Cushions were provided to relieve the strain upon the elbow and the back. The table was usually a little lower than the couches, for convenience in reaching the food. See ''triclinium.''}}\n{{smaller block|Which gesture . . . cannot be avoided in the laws of ''accubation.''\n{{right|''Sir T. Browne'', Vulg. Err., v. 6.}}}}\n'''2.''' In ''med.'', lying-in; confinement; accouchement. ''Syd. Soc. Lex.''\n\n'''accumb†''' (a-kumb′), ''v. i.'' [< L. ''accumbere'', lie near, esp. recline at table, < ''ad'', to, + *''cumbere'' (in comp.), a nasalized form of ''cubare'', lie down. See ''accubation.''] To recline, according to the ancient fashion at table. See ''accubation. Bailey.''\n\n'''accumbency†''' (a-kum′ben-si), ''n.'' [< ''accumbent'': see ''-cy.''] The state of being accumbent or of",
+   "c3s4": "reclining.\n\n'''accumbent''' (a-kum′bent), ''a.'' and ''n.'' [< L. ''accumben(t-)s'', ppr. of ''accumbere'': see ''accumb.''] '''I.''' ''a.'' '''1.''' Leaning or reclining, in the manner of the ancients at their meals. See ''accubation.''\n[[FIGURE]]\n{{c|{{smaller|Accumbent Ovule (''Thlaspi arvense'').}}}}\n{{smaller block|The Roman recumbent (or more properly ''accumbent'') posture in eating was introduced after the first Punic war.\n{{right|''Arbuthnot'', Anc. Coins, p. 134.}}}}\n'''2.''' In ''bot.'', lying against: applied to the cotyle-"
   },
   "figure_files": {
-   "c4f1": "century v01 p0066 c4f1.png",
-   "c4f2": "century v01 p0066 c4f2.png"
+   "c3f1": "century v01 p0066 c3f1.png",
+   "c3f2": "century v01 p0066 c3f2.png"
   },
   "figures": [
    {
     "box": [
-     1582,
-     2020,
-     2340,
-     2292
+     1579,
+     2021,
+     2337,
+     2294
     ],
     "caption": [
      1766,
      2307,
-     2103,
-     2330
+     2102,
+     2329
     ],
     "column": 3,
     "inset": false,
     "page_box": [
-     1611,
-     1990,
+     1616,
+     2038,
      2346,
-     2298
+     2300
     ]
    },
    {
     "box": [
-     1632,
-     3007,
-     1838,
-     3162
+     1631,
+     3006,
+     1841,
+     3146
     ],
     "caption": [
-     1648,
-     3166,
+     1647,
+     3165,
      1843,
-     3207
+     3208
     ],
     "column": 3,
     "inset": true,
     "page_box": [
      1625,
-     3003,
+     2998,
      1825,
-     3167
+     3158
     ]
    }
   ],
@@ -270,7 +235,7 @@
   "unread": {},
   "rejected": {},
   "disagreements": {
-   "4": [
+   "3": [
     2,
     1
    ]
@@ -279,25 +244,24 @@
    "figures": {
     "batch": true,
     "calls": 3,
-    "input_tokens": 4994,
+    "input_tokens": 4937,
     "output_tokens": 167,
     "cache_creation_input_tokens": 0,
     "cache_read_input_tokens": 0
    },
    "text": {
     "batch": true,
-    "calls": 16,
-    "input_tokens": 10815,
-    "output_tokens": 14309,
+    "calls": 12,
+    "input_tokens": 9645,
+    "output_tokens": 9644,
     "cache_creation_input_tokens": 0,
-    "cache_read_input_tokens": 60128
+    "cache_read_input_tokens": 47592
    }
   },
   "captions_marked": true,
   "insets": {
-   "c4f2": "left"
-  },
-  "fetched_by": "ahaspel"
+   "c3f2": "left"
+  }
  },
- "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|accoutrement|40|accumbent}}</noinclude>{{nop}}'''2.''' ''pl.'' Dress in relation to its c equipage; trappings; specific ments of a soldier except ar equipage for military service.\n{{smaller block|In robes of peace, ''accoutren''<br>He was advanc’d a counsello<br>{{right|''Fo''}}}}\n{{smaller block|Among piled arms and rough<br>{{right|''Tenny''}}}}\n\n'''accoy†''' (a-koi′), ''v. t.'' [< ME. ''acc'' quiet, < ''a-'' (L. ''ad''), to, + ''coi'',\n\n'''1.''' To render quiet; soothe.\n{{smaller block|And with kind words ''accoyd'', vowin<br>{{right|''Spens''}}}}\n\n'''2.''' To dishearten; daunt; sub\n{{smaller block|Then is your carelesse cours<br>{{right|''Spens''}}}}\n\n'''accrase†''', ''v. t.'' See ''acraze.''\n\n'''accrease†''' (a-krēs′), ''v. i.'' [F ''creace'', ''accress'', < ME. ''acresen'', ''acreistre'', later ''accroistre'', mod. ''acrecer'' = It. ''accrescere'', < L. become larger by growth, i ''cresce'' (a later form, after the ''crease'', etc., and der. ''accrue.'']\n{{smaller block|''Accrescere'', to increase, to ''accrease'', accrew, to eeke.}}\n{{smaller block|Such as ask, why the sea doth neve a whit.<br>{{right|''D. Person'', Varieties,}}}}\n\n'''accredit''' (a-kred′it), ''v. t.'' [< l lier ''acrediter'', accredit, < ''ac-'' (L n., credit (see ''credit'', ''n.''); = = It. ''accreditare'', accredit, si '''1.''' To give credit or credence dence in; trust; esteem.\n{{smaller block|Such were the principal terms of nada, as authenticated by the most ''ac'' Arabic authorities.\n{{right|''Prescott'',}}}}\n{{smaller block|His party will . . . protect and ''acc'' conduct the most contradictory to tl}}\n'''2.''' To confer credit or authorit authority.\n{{smaller block|With the best writers of our age, ''ac'' credit or authority,\" to which ma matic sense, \"send with letters cre\n{{right|''F. Ha''}}}}\n{{smaller block|I am better pleased indeed that he than I should have been with unmixe his censure will . . . ''accredit'' his pr}}\nHence, specifically—'''3.''' To dentials, as an envoy.\n{{smaller block|According to their rank, some age ments are directly ''accredited'' to a to his minister of foreign affairs.\n{{right|''Woolsey'', Intro}}}}\n'''4.''' To believe; accept as tru\n{{smaller block|He ''accredited'' and repeated stori witchcraft, and possession, so silly, that they might have nauseated the wonder.\n{{right|''Southey'', L}}}}\n'''5.''' To ascribe or attribute to credit of: followed by ''with''.\n{{smaller block|Mr. Bright himself was ''accredited'' his own effort to arouse a reformin flogging a dead horse.\n{{right|''McCarthy'',}}}}\n\n'''accreditate†''' (a-kred′i-tāt), ''v.'' accreditated'', ppr. ''accreditatin'' -''ate''<sup>2</sup>.] Same as ''accredit.''\n\n{{smaller block|She bowed, kissing the Thracian’s resist it, to ''accreditate'' the beginnin estimation.\n{{right|''Sir A. Cokaine'', tr. of Loredano, Diar}}}}\n\n'''accreditation†''' (a-kred-i-tā′sl of accrediting, or the state of\n\n{{smaller block|Having received my instructions ''tation'' from the Earl of Hillsborou April, 1780. ''Mem. of R. Cumberl''}}\n\n'''accrementitial''' (ak″rē-men-ti if *''accrementum'' (found once, ing), addition (< ''accrescere'', ''cresce'', and cf. ''excrement'', ''incre'' In ''physiol.'', of or pertaining accrementition.\n\n'''accrementition''' (ak″rē-men- as if *''accrementum'', on anal ''tial'', q. v. The regular form ''mentation.''] In ''physiol.'', the velopment of a new individ tion of a part of the parent;\n\n'''accresce†''' (a-kres′), ''v. i.'' [Lat q. v., after orig. L. ''accresce'' to, + ''crescere'', grow: see ''cr'' ''crue.''] '''1.''' To increase; gr To accrue. See ''accrue'', ''v.'', 2\n\n'''accrescence''' (a-kres′ens), ''n.'' Sp. ''acrecencia'' = It. ''accrescen'' The act of increasing; grad crease; accretion. omponent parts; ally, the equipms and clothing; See ''equipage''.\n{{smaller block|''ents'' of rest, or.\n{{right|''rd'', Fame’s Memorial.}}\n''accoutrements''.\n{{right|''son'', The Princess, v.}}}}\n''oien'', < OF. ''acoier'', quiet: see ''coy''<sup>1</sup>.]\n{{smaller block|g great love to mee.\n{{right|''er'', F. Q., IV. viii. 59.}}}}\nodue.\n{{smaller block|ge ''accoyed''.\n{{right|''ser'', Shep. Cal. (Feb.).}}}}\n\normerly also ''ac-'' increase, < OF. F. ''accroître'' = Sp. ''accrescere'', grow, ncrease: see ''ac-'' L.), ''increase'', ''de-'' To increase.\n{{smaller block|, to add vnto, . . . to\n{{right|''Florio.''}}\nr debord nor ''accreace'' 1 § 6, 24. (''N. E. D.'')}}\n\nF. ''accréditer'', ear. ''ad''), to, + ''crédit'', Sp. Pg. ''acreditar'' milarly formed.] to; repose confi{{smaller block|the surrender of Gra- ''credited'' Castilian and\n{{right|Ferd. and Isa., i. 15.}}\n''redit'' him, in spite of heir own principles.\n{{right|''Scott.''}}}}\ny on; stamp with\n{{smaller block|''credit'' is “invest with y be added its diplo- lential.”\n{{right|''ll'', Mod. Eng., p. 284.}}\ncensures some things d commendation; for aises.\n{{right|''Cowper'', Letters, xliii.}}}}\nsend with cre{{smaller block|nts of foreign govern- sovereign, and others\n{{right|d. to Inter. Law, § 91.}}}}\ne.\n{{smaller block|es of apparitions, and as well as monstrous, coarsest appetite for\n{{right|ife of Wesley, II. 198.}}}}\n; invest with the\n{{smaller block|''with'' having said that g spirit . . . was like , Hist. Own Times, xl.}}\n''t.''; pret. and pp.\n''g.'' [As ''accredit'' +\n{{smaller|hands, who would not}}\n{{smaller|gs of his Love to be of}}\n{{smaller|nea, IV. § 3. (''N. E. D.'')}}\nhon), ''n.'' The act\nbeing accredited.\n{{smaller|and letters of ''accredi-''}}\n{{smaller|gh on the 17th day of}}\n{{smaller|''and'', I. 417. (''N. E. D.'')}}\nish′al), ''a.'' [< L. as\n, but a false readincrease: see ''ac-''\n''ment''), + E. ''-itial.'']\nto the process of\ntish′on), ''n.'' [< L.\nogy of ''accrementi-''\nwould be *''accre-''\nproduction or deual by the separagemmation.\ner form of ''accrease'',\n''re'', increase, < ''ad'',\n''escent'', and cf. ''ac-''\now. [Rare.]—2.\n.\n. [< ''accrescent''; =\n''za'', increase.] 1.\nual growth or in-\n\n{{smaller block|The silent ''accrescence'' of belief from the unwatched depositions of a general, never contradicted, hearsay.\n{{right|''Coleridge'', Statesman’s Manual (1839), App. B, p. 296.}}}}\n\n'''2.''' That by which anything is increased; an increment.\n\n'''accrescent''' (a-kres′ẹnt), ''a.'' [< L. ''accrescen(t-)s'', ppr. of ''accrescere'', grow: see ''accresce''.] Increasing; growing. {{smaller|Specifically, in ''bot.'', applied to parts connected with the flower which increase in size after flowering, as frequently occurs with the calyx, involucre, etc.}}\n\n'''accrescimento''' (äk-kresh-i-men′tọ̄), ''n.'' [It.: see ''accresce''.] In ''music'', the increase of the duration of a sound by one half, indicated by a dot after the note.\n\n'''accrete''' (a-krēt′), ''v.''; pret. and pp. ''accreted'', ppr. ''accreting''. [< L. ''accretus'', pp. of ''accrescere'': see ''accresce''.] '''I.''' ''intrans.'' '''1.''' To grow by accretion; gather additions from without. [Rare.]\n{{smaller block|We see everywhere wasted cliffs and denuded shores, or ''accreted'' shingle-banks and sand-hills.\n{{right|''N. and Q.'', 7th ser., II. 62.}}}}\n\n'''2.''' To be added; adhere; become attached by a process of accretion.\n{{smaller block|Centres about which thought has ''accreted'', instead of crystallizing into its own free forms.\n{{right|''G. S. Hall'', German Culture, p. 161.}}}}\n\n'''II.''' ''trans.'' To cause to grow or unite.\n\n'''accrete''' (a-krēt′), ''a.'' [< L. ''accretus'', pp. of ''accrescere'': see ''accresce''.] Grown together; formed by accretion; accreted.\n\n'''accretion''' (a-krē′shọn), ''n.'' [< L. ''accretio(n-)'', < ''accretus'', pp. of ''accrescere'', grow: see ''accresce'' and ''accrete''.] '''1.''' The act of accreting or accrescing; a growing to; an increase by natural growth; an addition; specifically, an increase by an accession of parts externally.\n{{smaller block|The phrase “living language,” used with reference to facts, must import perpetual excretion and ''accretion'' of substance, involving or producing assimilation, development, and renewal.\n{{right|''F. Hall'', Mod. Eng., p. 18.}}}}\n{{smaller block|A mineral or unorganized body can undergo no change save by the operation of mechanical or chemical forces; and any increase of its bulk is due to the addition of like particles to its exterior: it augments not by growth but by ''accretion''.\n{{right|''Owen'', Comp. Anat., i.}}}}\n'''2.''' In ''pathol.'', the growing together of parts normally separate, as the fingers or toes.—'''3.''' The thing added; an extraneous addition; an accession: commonly used in the plural, and restricted to accessions made slowly and gradually by some external force.\n{{smaller block|He strove to pare away the ''accretions'' of age.\n{{right|''Merivale'', Hist. Romans, V. 150.}}}}\n'''4.''' In ''law'': (''a'') The increase or growth of property by external accessions, as by alluvium naturally added to land situated on the bank of a river, or on the seashore. {{smaller|When the accretion takes place by small and imperceptible degrees it belongs to the owner of the land immediately behind, but if it is sudden and considerable it may belong to the}}\n{{smaller|state.}} (''b'') In ''Scots law'', the completion of an originally defective or imperfect right by some subsequent act on the part of the person from whom the right was derived.\n\n'''accretive''' (a-krē′tiv), ''a.'' Of or pertaining to accretion; increasing or adding by growth; growing; accrescent: as, “the ''accretive'' motion of plants,” ''Glanville'', Scep. Sci., ix. 60.\n\n'''accrew†''', '''accrewe†''', ''n.'' and ''v.'' Obsolete spellings of ''accrue''. The spelling is retained in the clipped form ''crew''<sup>1</sup> (which see).\n\n'''accriminate†''' (a-krim′i-nāt), ''v. t.'' [< ''ac-'' + ''criminate'' (cf. Sp. ''acriminar'', exaggerate a crime, accuse): see ''criminate''.] To charge with a crime.\n\n'''accroach†''' (a-krōch′), ''v. t.'' [< ME. ''acrochen'', < OF. ''accrocher'', fix on a hook, hook up, < ''a-'' (L. ''ad''), to, + ''croc'', a hook, a crook: see ''crook'' and ''crochet''. Cf. ''encroach''.] '''1.''' To hook, or draw to one’s self as with a hook.—'''2.''' In ''old laws'', to usurp: as, to ''accroach'' royal power to one’s self.\n\n'''accroachment†''' (a-krōch′ment), ''n.'' The act of accroaching; encroachment; usurpation, as of sovereign power.\n\n'''accrual''' (a-krö′al), ''n.'' The act or process of accruing; accretion.\n\n'''accrue''' (a-krö′), ''n.'' [Also written ''accrew'' (now obs.), < late ME. *''acrewe'', found only in the clipped form ''crewe'' (> E. ''crew''), and in the verb ''acrewe'', accrue; < OF. ''acrewe'', ''acreue'', that which grows up, to the profit of the owner, on the earth or in a wood, later “''accreue'', a growth, increase, eeking, augmentation” (Cotgrave), orig. fem. of ''acreu'', “''accreu'', growne, increased” (Cotgrave), (AF. ''acru''), pp. of ''acreistre'' (AF. ''acrestre''), later ''accroistre'', mod. F. ''accroître'', < L. ''accrescere'', grow, accrease, accresce, increase: see ''accrease'', ''accresce''. Hence by abbr. crue, crew: see ''crew''<sup>1</sup>, and cf. ''recruit''.] '''1†.''' An accession; addition; reinforcement.\n\n{{smaller block|The towne of Calis and the forts thereabouts were not supplied with anie new ''accrewes'' of soldiers.\n{{right|''Holinshed'', Chron., III. 1135 1.}}}}\n\n{{smaller block|Should be able . . . to oppose the French by the ''accrue'' of Scotland. ''M. Godwyn'', Annals Eng., III. 283. (''N. E. D.'')}}\n\n'''2.''' A loop or stitch forming an extra mesh in network.\n\n{{smaller block|There are also ''accrues'', false meshes, or quarterings, which are loops inserted in any given row, by which the number of meshes is increased. ''Encyc. Brit.'', XVII. 359.}}\n\n'''accrue''' (a-krö′), ''v. i.''; pret. and pp. ''accrued'', ppr. ''accruing''. [Also written ''accrew'' (now obs.), < ME. ''acrewe'', v., < *''acrewe'', n.: see ''accrue'', ''n.''] '''1†.''' To grow; increase; augment.\n\n{{smaller block|And, though powre faild, her courage did ''accrew''.\n{{right|''Spenser'', F. Q., V. v. 7.}}}}\n\n'''2.''' To happen or result as a natural growth; come or fall as an addition or increment, as of profit or loss, advantage or damage; arise in due course: as, a profit ''accrues'' to government from the coinage of copper; the natural increase ''accrues'' to the common benefit.\n\n{{smaller block|To no one can any benefit ''accrue'' from such aërial speculations . . . as crowd almost every book in our language that we turn to. ''F. Hall'', Mod. Eng., Pref.}}\n\n{{smaller block|That pleasure which ''accrues'' from good actions.\n{{right|''J. F. Clarke'', Ten Great Relig., ii. 5.}}}}\n\n'''3.''' In ''law'', to become a present and enforcible right or demand. {{smaller|Thus the right to set up the statute of limitations against a claim ''accrues'' by lapse of time; a cause of action on a note does not ''accrue'' till the note}} becomes payable.\n\n'''accrued''' (a̤-kröd′), ''p. a.'' In ''her.'', full-grown: an epithet applied to trees.\n\n'''accruement''' (a̤-krö′ment), ''n.'' '''1.''' Accrual.—'''2.''' That which accrues; an addition; increment.\n\n'''accruer''' (a̤-krö′ėr), ''n.'' [< ''accrue'' + ''-er''<sup>5</sup>, as in ''user'', ''trover'', ''waiver'', and other law terms, where ''-er'' represents the F. inf. suffix.] In ''law'', the act or fact of accruing; accrual.—'''Clause of accruer''', {{smaller|a clause in a deed or bequest to several persons, directing to whom, in case of the death of one or more, his or their shares shall go or accrue.}}\n\n'''acct. curt.''' In ''com.'', a contraction of ''account current''. Originally written <sup>''a''</sup>/''c'', a symbol now almost exclusively used for ''account''.\n\n'''accubation''' (ak-ū-bā′sho̤n), ''n.'' [< L. ''accubatio(n-)'', < ''accubare'', lie near, esp. recline at table, < ''ad'', to, + ''cubare'', lie down. See ''incubate'' and ''accumb''.] '''1.''' The act of lying down or reclining; specifically, the ancient practice, derived from the Orient, of eating meals in a recumbent posture. {{smaller|Among the Greeks at the time of the Homeric poems this practice had not yet been adopted; but in historical times it obtained in general among both Greeks and Romans, and it is illustrated in early vase-paintings. It was customary to eat reclining diagonally toward the table, resting on couches, either flat on the breast or supported on the left elbow in a semi-sitting position. Cushions were provided to relieve the strain upon the elbow and the back. The table was usually a little lower than the couches, for convenience in reaching the food. See ''triclinium.''}}\n{{smaller block|Which gesture . . . cannot be avoided in the laws of ''accubation.''\n{{right|''Sir T. Browne'', Vulg. Err., v. 6.}}}}\n'''2.''' In ''med.'', lying-in; confinement; accouchement. ''Syd. Soc. Lex.''\n\n[[File:century v01 p0066 c4f1.png|center|359px]]\n{{c|{{smaller|Accubation.—An ancient dinner.}}}}\n\n'''accumb†''' (a-kumb′), ''v. i.'' [< L. ''accumbere'', lie near, esp. recline at table, < ''ad'', to, + *''cumbere'' (in comp.), a nasalized form of ''cubare'', lie down. See ''accubation.''] To recline, according to the ancient fashion at table. See ''accubation. Bailey.''\n\n'''accumbency†''' (a-kum′ben-si), ''n.'' [< ''accumbent'': see ''-cy.''] The state of being accumbent or of reclining.\n\n'''accumbent''' (a-kum′bent), ''a.'' and ''n.'' [< L. ''accumben(t-)s'', ppr. of ''accumbere'': see ''accumb.''] '''I.''' ''a.'' '''1.''' Leaning or reclining, in the manner of the ancients at their meals. See ''accubation.'' {{img float|file=century v01 p0066 c4f2.png|width=111px|align=left|cap={{smaller|Accumbent Ovule (''Thlaspi arvense'').}}}} {{smaller block|The Roman recumbent (or more properly ''accumbent'') posture in eating was introduced after the first Punic war.\n{{right|''Arbuthnot'', Anc. Coins, p. 134.}}}}\n'''2.''' In ''bot.'', lying against: applied to the cotyle-<noinclude><references/></noinclude>"
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|accoutrement|40|accumbent}}</noinclude>{{nop}}'''2.''' ''pl.'' Dress in relation to its component parts; equipage; trappings; specifically, the equipments of a soldier except arms and clothing; equipage for military service. See ''equipage.''\n{{smaller block|<poem>In robes of peace, ''accoutrements'' of rest,\nHe was advanc’d a counsellor.</poem>\n{{right|''Ford'', Fame’s Memorial.}}}}\n{{smaller block|Among piled arms and rough ''accoutrements.''\n{{right|''Tennyson'', The Princess, v.}}}}\n\n'''accoy†''' (a-koi′), ''v. t.'' [< ME. ''acoien'', < OF. ''acoier'', quiet, < ''a-'' (L. ''ad''), to, + ''coi'', quiet: see ''coy''<sup>1</sup>.]\n\n'''1.''' To render quiet; soothe.\n{{smaller block|And with kind words ''accoyd'', vowing great love to mee.\n{{right|''Spenser'', F. Q., IV. viii. 59.}}}}\n\n'''2.''' To dishearten; daunt; subdue.\n{{smaller block|Then is your carelesse courage ''accoyed.''\n{{right|''Spenser'', Shep. Cal. (Feb.).}}}}\n\n'''accrase†''', ''v. t.'' See ''acraze.''\n\n'''accrease†''' (a-krēs′), ''v. i.'' [Formerly also ''accreace'', ''accress'', < ME. ''acresen'', increase, < OF. ''acreistre'', later ''accroistre'', mod. F. ''accroître'' = Sp. ''acrecer'' = It. ''accrescere'', < L. ''accrescere'', grow, become larger by growth, increase: see ''accresce'' (a later form, after the L.), ''increase'', ''decrease'', etc., and der. ''accrue.''] To increase.\n{{smaller block|''Accrescere'', to increase, to ''accrease'', to add vnto, . . . to accrew, to eeke. {{right|''Florio.''}}}}\n{{smaller block|Such as ask, why the sea doth never debord nor ''accreace'' a whit. {{right|''D. Person'', Varieties, 1 § 6, 24. (''N. E. D.'')}}}}\n\n'''accredit''' (a-kred′it), ''v. t.'' [< F. ''accréditer'', earlier ''acrediter'', accredit, < ''ac-'' (L. ''ad''), to, + ''crédit'', n., credit (see ''credit'', ''n.''); = Sp. Pg. ''acreditar'' = It. ''accreditare'', accredit, similarly formed.] '''1.''' To give credit or credence to; repose confidence in; trust; esteem.\n{{smaller block|Such were the principal terms of the surrender of Granada, as authenticated by the most ''accredited'' Castilian and Arabic authorities.\n{{right|''Prescott'', Ferd. and Isa., i. 15.}}\nHis party will . . . protect and ''accredit'' him, in spite of conduct the most contradictory to their own principles.\n{{right|''Scott.''}}}}\n'''2.''' To confer credit or authority on; stamp with authority.\n{{smaller block|With the best writers of our age, ''accredit'' is “invest with credit or authority,” to which may be added its diplomatic sense, “send with letters credential.”\n{{right|''F. Hall'', Mod. Eng., p. 284.}}\nI am better pleased indeed that he censures some things than I should have been with unmixed commendation; for his censure will . . . ''accredit'' his praises.\n{{right|''Cowper'', Letters, xliii.}}}}\nHence, specifically—'''3.''' To send with credentials, as an envoy.\n{{smaller block|According to their rank, some agents of foreign governments are directly ''accredited'' to a sovereign, and others to his minister of foreign affairs.\n{{right|''Woolsey'', Introd. to Inter. Law, § 91.}}}}\n'''4.''' To believe; accept as true.\n{{smaller block|He ''accredited'' and repeated stories of apparitions, and witchcraft, and possession, so silly, as well as monstrous, that they might have nauseated the coarsest appetite for wonder.\n{{right|''Southey'', Life of Wesley, II. 198.}}}}\n'''5.''' To ascribe or attribute to; invest with the credit of: followed by ''with''.\n{{smaller block|Mr. Bright himself was ''accredited with'' having said that his own effort to arouse a reforming spirit . . . was like flogging a dead horse.\n{{right|''McCarthy'', Hist. Own Times, xl.}}}}\n\n'''accreditate†''' (a-kred′i-tāt), ''v. t.''; pret. and pp. ''accreditated'', ppr. ''accreditating''. [As ''accredit'' + ''-ate''<sup>2</sup>.] Same as ''accredit''.\n{{smaller block|She bowed, kissing the Thracian’s hands, who would not resist it, to ''accreditate'' the beginnings of his Love to be of estimation.\n{{right|''Sir A. Cokaine'', tr. of Loredano, Dianea, IV. § 3. (''N. E. D.'')}}}}\n\n'''accreditation†''' (a-kred-i-tā′shọn), ''n.'' The act of accrediting, or the state of being accredited.\n{{smaller block|Having received my instructions and letters of ''accreditation'' from the Earl of Hillsborough on the 17th day of April, 1780.\n{{right|''Mem. of R. Cumberland'', I. 417. (''N. E. D.'')}}}}\n\n'''accrementitial''' (ak″rē-men-tish′al), ''a.'' [< L. as if *''accrementum'' (found once, but a false reading), addition (< ''accrescere'', increase: see ''accresce'', and cf. ''excrement'', ''increment''), + E. ''-itial''.] In ''physiol.'', of or pertaining to the process of accrementition.\n\n'''accrementition''' (ak″rē-men-tish′ọn), ''n.'' [< L. as if *''accrementum'', on analogy of ''accrementitial'', q. v. The regular form would be *''accrementation''.] In ''physiol.'', the production or development of a new individual by the separation of a part of the parent; gemmation.\n\n'''accresce†''' (a-kres′), ''v. i.'' [Later form of ''accrease'', q. v., after orig. L. ''accrescere'', increase, < ''ad'', to, + ''crescere'', grow: see ''crescent'', and cf. ''accrue''.] '''1.''' To increase; grow. [Rare.] —'''2.''' To accrue. See ''accrue'', ''v.'', 2.\n\n'''accrescence''' (a-kres′ẹns), ''n.'' [< ''accrescent''; = Sp. ''acrecencia'' = It. ''accrescenza'', increase.] '''1.''' The act of increasing; gradual growth or increase; accretion. {{smaller block|The silent ''accrescence'' of belief from the unwatched depositions of a general, never contradicted, hearsay.\n{{right|''Coleridge'', Statesman’s Manual (1839), App. B, p. 296.}}}}\n'''2.''' That by which anything is increased; an increment.\n\n'''accrescent''' (a-kres′ent), ''a.'' [< L. ''accrescen(t-)s'', ppr. of ''accrescere'', grow: see ''accresce.''] Increasing; growing. {{smaller|Specifically, in ''bot.'', applied to parts connected with the flower which increase in size after flowering, as frequently occurs with the calyx, involucre, etc.}}\n\n'''accrescimento''' (äk-kresh-i-men′tō), ''n.'' [It.: see ''accresce.''] In ''music'', the increase of the duration of a sound by one half, indicated by a dot after the note.\n\n'''accrete''' (a-krēt′), ''v.''; pret. and pp. ''accreted'', ppr. ''accreting''. [< L. ''accretus'', pp. of ''accrescere'': see ''accresce.''] '''I.''' ''intrans.'' '''1.''' To grow by accretion; gather additions from without. [Rare.]\n{{smaller block|We see everywhere wasted cliffs and denuded shores, or ''accreted'' shingle-banks and sand-hills.\n{{right|''N. and Q.'', 7th ser., II. 62.}}}}\n'''2.''' To be added; adhere; become attached by a process of accretion.\n{{smaller block|Centres about which thought has ''accreted'', instead of crystallizing into its own free forms.\n{{right|''G. S. Hall'', German Culture, p. 161.}}}}\n'''II.''' ''trans.'' To cause to grow or unite.\n\n'''accrete''' (a-krēt′), ''a.'' [< L. ''accretus'', pp. of ''accrescere'': see ''accresce.''] Grown together; formed by accretion; accreted.\n\n'''accretion''' (a-krē′sho̤n), ''n.'' [< L. ''accretio(n-)'', < ''accretus'', pp. of ''accrescere'', grow: see ''accresce'' and ''accrete''.] '''1.''' The act of accreting or accrescing; a growing to; an increase by natural growth; an addition; specifically, an increase by an accession of parts externally.\n{{smaller block|The phrase “living language,” used with reference to facts, must import perpetual excretion and ''accretion'' of substance, involving or producing assimilation, development, and renewal.\n{{right|''F. Hall'', Mod. Eng., p. 18.}}}}\n{{smaller block|A mineral or unorganized body can undergo no change save by the operation of mechanical or chemical forces; and any increase of its bulk is due to the addition of like particles to its exterior: it augments not by growth but by ''accretion''.\n{{right|''Owen'', Comp. Anat., i.}}}}\n'''2.''' In ''pathol.'', the growing together of parts normally separate, as the fingers or toes.—'''3.''' The thing added; an extraneous addition; an accession: commonly used in the plural, and restricted to accessions made slowly and gradually by some external force.\n{{smaller block|He strove to pare away the ''accretions'' of age.\n{{right|''Merivale'', Hist. Romans, V. 150.}}}}\n'''4.''' In ''law'': (''a'') The increase or growth of property by external accessions, as by alluvium naturally added to land situated on the bank of a river, or on the seashore. {{smaller|When the accretion takes place by small and imperceptible degrees it belongs to the owner of the land immediately behind, but if it is sudden and considerable it may belong to the}}\n{{smaller|state.}} (''b'') In ''Scots law'', the completion of an originally defective or imperfect right by some subsequent act on the part of the person from whom the right was derived.\n\n¶'''accretive''' (a-krē′tiv), ''a.'' Of or pertaining to accretion; increasing or adding by growth; growing; accrescent: as, “the ''accretive'' motion of plants,” ''Glanville'', Scep. Sci., ix. 60.\n\n'''accrew†''', '''accrewe†''', ''n.'' and ''v.'' Obsolete spellings of ''accrue''. The spelling is retained in the clipped form ''crew''<sup>1</sup> (which see).\n\n'''accriminate†''' (a-krim′i-nāt), ''v. t.'' [< ''ac-'' + ''criminate'' (cf. Sp. ''acriminar'', exaggerate a crime, accuse): see ''criminate''.] To charge with a crime.\n\n'''accroach†''' (a-krōch′), ''v. t.'' [< ME. ''acrochen'', < OF. ''accrocher'', fix on a hook, hook up, < ''a-'' (L. ''ad''), to, + ''croc'', a hook, a crook: see ''crook'' and ''crochet''. Cf. ''encroach''.] '''1.''' To hook, or draw to one’s self as with a hook.—'''2.''' In ''old laws'', to usurp: as, to ''accroach'' royal power to one’s self.\n\n'''accroachment†''' (a-krōch′ment), ''n.'' The act of accroaching; encroachment; usurpation, as of sovereign power.\n\n'''accrual''' (a-krö′al), ''n.'' The act or process of accruing; accretion.\n\n'''accrue''' (a-krö′), ''n.'' [Also written ''accrew'' (now obs.), < late ME. *''acrewe'', found only in the clipped form ''crewe'' (> E. ''crew''), and in the verb ''acrewe'', accrue; < OF. ''acrewe'', ''acreue'', that which grows up, to the profit of the owner, on the earth or in a wood, later “''accreue'', a growth, increase, eeking, augmentation” (Cotgrave), orig. fem. of ''acreu'', “''accreu'', growne, increased” (Cotgrave), (AF. ''acru''), pp. of ''acreistre'' (AF. ''acrestre''), later ''accroistre'', mod. F. ''accroître'', < L. ''accrescere'', grow, accrease, accresce, increase: see ''accrease'', ''accresce''. Hence by abbr. crue, crew: see ''crew''<sup>1</sup>, and cf. ''recruit''.] '''1†.''' An accession; addition; reinforcement.\n{{smaller block|The towne of Calis and the forts thereabouts were not supplied with anie new ''accrewes'' of soldiers.\n{{right|''Holinshed'', Chron., III. 1135 1.}}}}\n{{smaller block|Should be able . . . to oppose the French by the ''accrue'' of Scotland. ''M. Godwyn'', Annals Eng., III. 283. (''N. E. D.'')}}\n'''2.''' A loop or stitch forming an extra mesh in network.\n{{smaller block|There are also ''accrues'', false meshes, or quarterings, which are loops inserted in any given row, by which the number of meshes is increased. ''Encyc. Brit.'', XVII. 359.}}\n\n'''accrue''' (a̤-krö′), ''v. i.''; pret. and pp. ''accrued'', ppr. ''accruing''. [Also written ''accrew'' (now obs.), < ME. ''acrewe'', v., < *''acrewe'', n.: see ''accrue'', ''n.''] '''1†.''' To grow; increase; augment.\n{{smaller block|And, though powre faild, her courage did ''accrew''.\n{{right|''Spenser'', F. Q., V. v. 7.}}}}\n'''2.''' To happen or result as a natural growth; come or fall as an addition or increment, as of profit or loss, advantage or damage; arise in due course: as, a profit ''accrues'' to government from the coinage of copper; the natural increase ''accrues'' to the common benefit.\n{{smaller block|To no one can any benefit ''accrue'' from such aërial speculations . . . as crowd almost every book in our language that we turn to. ''F. Hall'', Mod. Eng., Pref.}}\n{{smaller block|That pleasure which ''accrues'' from good actions.\n{{right|''J. F. Clarke'', Ten Great Relig., ii. 5.}}}}\n'''3.''' In ''law'', to become a present and enforcible right or demand. {{smaller|Thus the right to set up the statute of limitations against a claim ''accrues'' by lapse of time; a cause of action on a note does not ''accrue'' till the note becomes payable.}}\n\n'''accrued''' (a̤-kröd′), ''p. a.'' In ''her.'', full-grown: an epithet applied to trees.\n\n'''accruement''' (a̤-krö′ment), ''n.'' '''1.''' Accrual.—'''2.''' That which accrues; an addition; increment.\n\n'''accruer''' (a̤-krö′ėr), ''n.'' [< ''accrue'' + ''-er''<sup>5</sup>, as in ''user'', ''trover'', ''waiver'', and other law terms, where ''-er'' represents the F. inf. suffix.] In ''law'', the act or fact of accruing; accrual.—{{smaller|'''Clause of accruer,''' a clause in a deed or bequest to several persons, directing to whom, in case of the death of one or more, his or their shares shall go or accrue.}}\n\n'''acct. curt.''' In ''com.'', a contraction of ''account current''. Originally written <sup>''a''</sup>/<sub>''c''</sub>, a symbol now almost exclusively used for ''account''.\n\n'''accubation''' (ak-ū-bā′sho̤n), ''n.'' [< L. ''accubatio(n-)'', < ''accubare'', lie near, esp. recline at table, < ''ad'', to, + ''cubare'', lie down. See ''incubate'' and ''accumb''.] '''1.''' The act of lying down or reclining; specifically, the ancient practice, derived from the Orient, of eating meals in a recumbent posture. {{smaller|Among the Greeks at the time of the Homeric poems this practice had not yet been adopted; but in historical times it obtained in general among both Greeks and Romans, and it is illustrated in early vase-paintings. It was customary to eat reclining diagonally toward the table, resting on couches, either flat on the breast or supported on the left elbow in a semi-sitting position. Cushions were provided to relieve the strain upon the elbow and the back. The table was usually a little lower than the couches, for convenience in reaching the food. See ''triclinium.''}}\n{{smaller block|Which gesture . . . cannot be avoided in the laws of ''accubation.''\n{{right|''Sir T. Browne'', Vulg. Err., v. 6.}}}}\n'''2.''' In ''med.'', lying-in; confinement; accouchement. ''Syd. Soc. Lex.''\n\n[[File:century v01 p0066 c3f1.png|center|359px]]\n{{c|{{smaller|Accubation.—An ancient dinner.}}}}\n\n'''accumb†''' (a-kumb′), ''v. i.'' [< L. ''accumbere'', lie near, esp. recline at table, < ''ad'', to, + *''cumbere'' (in comp.), a nasalized form of ''cubare'', lie down. See ''accubation.''] To recline, according to the ancient fashion at table. See ''accubation. Bailey.''\n\n'''accumbency†''' (a-kum′ben-si), ''n.'' [< ''accumbent'': see ''-cy.''] The state of being accumbent or of reclining.\n\n'''accumbent''' (a-kum′bent), ''a.'' and ''n.'' [< L. ''accumben(t-)s'', ppr. of ''accumbere'': see ''accumb.''] '''I.''' ''a.'' '''1.''' Leaning or reclining, in the manner of the ancients at their meals. See ''accubation.'' {{img float|file=century v01 p0066 c3f2.png|width=113px|align=left|cap={{smaller|Accumbent Ovule (''Thlaspi arvense'').}}}} {{smaller block|The Roman recumbent (or more properly ''accumbent'') posture in eating was introduced after the first Punic war.\n{{right|''Arbuthnot'', Anc. Coins, p. 134.}}}}\n'''2.''' In ''bot.'', lying against: applied to the cotyle-<noinclude><references/></noinclude>"
 }
