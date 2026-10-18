@@ -85,6 +85,7 @@ def bundle(keys: list[tuple[int, int]]) -> None:
     path = desk.bundle(keys, {k: scan(*k) for k in keys}, OUT, flags=page_flags, label=label,
                        people=people())
     shutil.copyfile(desk.DESK_RENDER_JS, OUT / "desk_render.js")
+    shutil.copytree(desk.DESK_FONTS, OUT / "fonts", dirs_exist_ok=True)
     shutil.copyfile(PAGE, OUT / "index.html")
     seed = OUT / "seed"
     seed.mkdir()
