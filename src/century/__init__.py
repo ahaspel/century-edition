@@ -61,6 +61,18 @@ def scan_url(volume: int, page: int) -> str:
     return f"https://archive.org/download/{_ia_item(volume)}/page/n{page - 1}.jpg"
 
 
+def _page_layout(volume: int, page: int):
+    """The dictionary's text pages (volumes 1-8, from `TEXT_STARTS` on) print
+    three columns.  Declared, not measured: the gutter finder took a line of
+    word spaces running down a column for a gutter (vol. 1 pp. 8, 12, 16, 18,
+    30, 40, 44: the first column split lengthwise, or a strip of it never
+    read).  Elsewhere, as the ink shows."""
+    from wikikit.scan.layout import PageLayout
+    if volume <= 8 and page >= TEXT_STARTS[volume]:
+        return PageLayout(columns=3)
+    return PageLayout()
+
+
 def _page_scan(volume: int, page: int):
     """`century.scans.scan`, imported when a transcription asks for a page
     (that module imports this one)."""
@@ -84,6 +96,7 @@ CENTURY = Corpus(
     data_files=frozenset({"scan_notation.json", "templates/scan_page.md"}),
     # Every page is transcribed from its Archive scan.
     page_scan=_page_scan,
+    page_layout=_page_layout,
     page_scan_url=scan_url,
     # The book prints its quotation marks and apostrophes curly (user,
     # 2026-10-17); our readings mostly typed them straight (vol. 1 p. 9,
