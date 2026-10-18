@@ -3,13 +3,13 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400;500;700&display=swap">
 <style>
-/* The text face, Gentium Plus, whole, from the files beside this page
-   (wikikit.scan.desk.DESK_FONTS): Google Fonts serves it cut into script
+/* The text face, Junicode, whole, from the files beside this page
+   (wikikit.scan.desk.DESK_FONTS): Google Fonts serves its faces cut into script
    subsets that leave out the rarer combining marks. */
-@font-face { font-family: "Gentium Plus"; src: url(fonts/GentiumPlus-Regular.woff2) format("woff2"); }
-@font-face { font-family: "Gentium Plus"; src: url(fonts/GentiumPlus-Italic.woff2) format("woff2"); font-style: italic; }
-@font-face { font-family: "Gentium Plus"; src: url(fonts/GentiumPlus-Bold.woff2) format("woff2"); font-weight: 700; }
-@font-face { font-family: "Gentium Plus"; src: url(fonts/GentiumPlus-BoldItalic.woff2) format("woff2"); font-weight: 700; font-style: italic; }
+@font-face { font-family: "Junicode"; src: url(fonts/Junicode-Regular.woff2) format("woff2"); }
+@font-face { font-family: "Junicode"; src: url(fonts/Junicode-Italic.woff2) format("woff2"); font-style: italic; }
+@font-face { font-family: "Junicode"; src: url(fonts/Junicode-Bold.woff2) format("woff2"); font-weight: 700; }
+@font-face { font-family: "Junicode"; src: url(fonts/Junicode-BoldItalic.woff2) format("woff2"); font-weight: 700; font-style: italic; }
 :root {
   --bg: #eceff1;
   --panel: #ffffff;
@@ -24,7 +24,7 @@
   --scan-bg: #f7f5ef;
   --flag: #c48a10;
   --ui: "Alegreya Sans", "Segoe UI", system-ui, sans-serif;
-  --text: "Gentium Plus", "Charis SIL", "Noto Serif", "Times New Roman", serif;
+  --text: "Junicode", "Noto Serif", "Times New Roman", serif;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
@@ -95,13 +95,13 @@ details.help p { margin: .5em 0; }
 .zoom button[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); font-weight: 700; }
 
 /* The reader's view: the edition's own article styles (wikikit.site viewer),
-   in Gentium Plus, not the site's Georgia.  Georgia has no polytonic Greek
+   in Junicode (the user's choice, 2026-10-18), not the site's Georgia.  Georgia has no polytonic Greek
    (Ἄβδηρα came out in two fonts) and cannot place a combining mark (the
    diaeresis below of e̤ hung loose); letters borrowed from another face for
-   those stood taller than their word's small capitals.  Gentium sets them
+   those stood taller than their word's small capitals.  Junicode sets them
    all, a word in one face. */
 .render { background: var(--scan-bg); color: #2c2416; padding: 12px 16px;
-  font-family: "Gentium Plus", Cambria, "Times New Roman", "Cambria Math", "Segoe UI Symbol", "Noto Sans Symbols 2", serif; font-size: 1rem; line-height: 1.7; }
+  font-family: "Junicode", Cambria, "Times New Roman", "Cambria Math", "Segoe UI Symbol", "Noto Sans Symbols 2", serif; font-size: 1.1rem; line-height: 1.7; }
 .render p { margin: 0 0 .75em; }
 .render .small-caps { font-variant: small-caps; }
 .render .centered { text-align: center; margin: 0.5em 0; }
