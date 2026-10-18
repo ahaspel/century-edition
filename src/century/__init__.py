@@ -92,4 +92,9 @@ CENTURY = Corpus(
     # proofreader types set curly in the edition.
     curly_quotes=True,
     curly_readings=True,
+    # Captions and legends are printed small, every one seen so far (user,
+    # 2026-10-18: "it's looking that way"); the model reads them at the text's
+    # size.  Set small as each page is read; a caption found printed full size
+    # has its {{smaller|…}} taken off at the desk.
+    captions_small=True,
 )
