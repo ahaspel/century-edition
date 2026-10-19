@@ -194,10 +194,10 @@ textarea { flex: 1; width: 100%; min-height: 12rem; resize: none; padding: 10px 
       <p><b>Markup the edition reads otherwise</b> (in red) is wikitext that will not come out on the site as it
       looks here, usually an apostrophe run left open or crossed (''italic'' and '''bold''' must close in the order
       they open) or a stray brace. Click it to find the line.</p>
-      <p><b>Lines.</b> As on Wikisource, a single line break in the wikitext is read as a space: the printed lines
-      join into one paragraph. Leave a blank line (press Enter twice) to begin a new paragraph. To keep lines as
-      printed (verse, or a list set line by line), put one printed line per line, select them, and press
-      <b>poem</b> in the Markup palette.</p>
+      <p><b>New lines.</b> To start a new line within a paragraph, press <b>Shift+Enter</b> (or <b>new line</b> in
+      the Markup palette); it types &lt;br&gt; for you. To begin a new paragraph, press Enter twice, leaving a blank
+      line. A plain Enter alone, as on Wikisource, is read as a space: the printed lines join into one paragraph.
+      For verse, or a list set line by line, put one printed line per line, select them, and press <b>poem</b>.</p>
       <p><b>Your pages.</b> The desk shows you the pages you fetched with your own key. To hand one to someone else,
       choose them under <b>Give to</b> and press <b>Give</b>: the page, with anything you typed on it, is theirs from
       then on. <b>Show everyone's pages</b> lets you read the others' pages; only a page's owner can save it.</p>
@@ -296,6 +296,7 @@ function escapeHtml(s) { return String(s).replace(/&/g, "&amp;").replace(/</g, "
 /* The palette: the engine's markup (the render table's constructs) and the
    book's own notation. */
 const MARKUP = [
+  ["new line", "Start a new line within the paragraph (or press Shift+Enter)", "<br>\n", ""],
   ["B", "Bold", "'''", "'''"], ["I", "Italic", "''", "''"], ["SC", "Small capitals", "{{sc|", "}}"],
   ["sup", "Superscript", "<sup>", "</sup>"], ["small", "Smaller type", "{{smaller|", "}}"],
   ["block", "Smaller type, set off", "{{smaller block|", "}}"],
@@ -304,7 +305,7 @@ const MARKUP = [
   ["centre block", "A centred block, e.g. verse: wrap the <poem> in it", "{{block center|", "}}"],
   ["indent", "Indent: put it at the start of a line set in (2 ems; {{gap|1em}}, {{gap|4em}} … for other widths). Spaces typed at the start of a line do not show.", "{{gap}}", ""],
 ];
-const MARKUP_KEY = { SC: "sc", sup: "sup", small: "smaller", block: "smaller block", right: "right", c: "c",
+const MARKUP_KEY = { "new line": "br", SC: "sc", sup: "sup", small: "smaller", block: "smaller block", right: "right", c: "c",
                      poem: "poem", "centre block": "block center", indent: "gap" };
 let lastField = null;
 function buildPalette() {
@@ -737,6 +738,10 @@ async function start() {
     box.append("At cursor: ", b, " " + describe(g));
   };
   ["keyup", "click", "select"].forEach(ev => ta.addEventListener(ev, inspect));
+  // a new line within a paragraph: a bare line break is read as a space
+  ta.addEventListener("keydown", e => {
+    if (e.key === "Enter" && e.shiftKey && !e.ctrlKey && !e.altKey && !e.metaKey) { e.preventDefault(); insert("<br>\n"); }
+  });
   document.querySelectorAll("[data-zoom]").forEach(b => b.addEventListener("click", () => {
     const box = $("#scanBox"), old = parseFloat(getComputedStyle(box).getPropertyValue("--zoom")) || 1;
     const z = parseFloat(b.dataset.zoom);
