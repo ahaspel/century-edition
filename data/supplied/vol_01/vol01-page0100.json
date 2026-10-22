@@ -1,0 +1,190 @@
+{
+ "volume": 1,
+ "page_number": 100,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n99.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n99.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-16",
+  "angle": 0.0,
+  "column_width": 742,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     123,
+     125,
+     2336,
+     164
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     123,
+     164,
+     857,
+     1125
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     123,
+     1125,
+     857,
+     2144
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     123,
+     2144,
+     857,
+     3192
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     123,
+     3192,
+     857,
+     3271
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     857,
+     164,
+     1599,
+     1194
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     857,
+     1194,
+     1599,
+     1999
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     857,
+     1999,
+     1599,
+     2799
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     857,
+     2799,
+     1599,
+     3271
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1599,
+     164,
+     2336,
+     1229
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1599,
+     1229,
+     2336,
+     2324
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1599,
+     2324,
+     2336,
+     3271
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|adjag|74|adjunct}}",
+   "c1s1": "¶\n'''adjag''' (aj′ag), ''n.'' [Native name in Java.] A kind of wild dog, ''Canis rutilans'', found in Java.\n{{smaller block|The dog-tribe is represented by the fox-like ''adjag'' (''Canis rutilans''), which hunts in ferocious packs.\n{{right|''Encyc. Brit.'', XIII. 603.}}}}\n\n'''adject''' (a-jekt′), ''v. t.'' [< L. ''adjectus'', pp. of ''adjicere'', usually contr. ''adicere'', add, put to, < ''ad'', to, + ''jacĕre'', throw: see ''jactation'', ''jet''<sup>1</sup>.] To add or put, as one thing to another; annex. [Rare.]\n{{smaller block|Lanstufan castel and lordship by the new act is . . . ''adjected'' to Pembrokeshire. {{right|''Leland'', Itinerary, III. 26.}}}}\n\n'''adjection''' (a-jek′shọn), ''n.'' [< L. ''adjectio(n-)'', an addition, < ''adjicere'', ''adicere'', add: see ''adject''.] The act of adjecting or adding, or the thing added. [Rare.]\n{{smaller block|This is added to complete our happiness, by the ''adjection'' of eternity. {{right|''Bp. Pearson'', Expos. of Creed, xii.}}}}\n\n'''adjectitious''' (ad-jek-tish′us), ''a.'' [< LL. ''adjectitius'', better spelled ''adjecticius'', added, beside, < L. ''adjectus'', pp.: see ''adject''.] Added; additional: as, “''adjectitious'' work,” ''Maundrell''. [Rare.]\n\n'''adjectival''' (ad-jek-tī′vạl or aj′ek-ti-vạl), ''a.'' [< ''adjective'' + ''-al''.] Belonging to or like an adjective; having the import of an adjective.\n{{smaller block|The more frequent employment of both the participles with an ''adjectival'' syntax is, in its origin, a Gallicism.\n{{right|''G. P. Marsh'', Lects. on Eng. Lang., p. 658.}}\nRelatively to the real, which is substantival, the idea is ''adjectival''. {{right|''Mind'', IX. 127.}}}}",
+   "c1s2": "¶\n'''adjectivally''' (ad-jek-tī′vạl-i or aj′ek-ti-vạl-i), ''adv.'' By way of or as an adjective: as, a noun or participle ''adjectivally'' used.\n\n'''adjective''' (aj′ek-tiv), ''a.'' and ''n.'' [< L. ''adjectivus'', that is added (only as a grammatical term), < ''adjectus'', pp. of ''adjicere'', add: see ''adject.''] '''I.''' ''a.'' '''1.''' Naming or forming an adjunct to a noun: as, an ''adjective'' name.—'''2.''' Pertaining to an adjective: as, the ''adjective'' use of a noun.—'''3.''' Added or adjected; additional. [Rare.]—{{smaller|'''Adjective color''', in ''dyeing'', a color which is not absorbed directly from its solution by the fibers of the substance dyed, but can be fixed only by a mordant or by some other means: opposed to ''substantive color'', which the fibers directly absorb.—'''Adjective law.''' See ''law.''—'''Noun adjective,''' a word standing for the name of an attribute: now usually ''adjective'', ''n.'' See below.}}\n\n'''II.''' ''n.'' '''1.''' In ''gram.'', a word used to qualify, limit, or define a noun, or a word or phrase which has the value of a noun; a part of speech expressing quality or condition as belonging to something: thus, ''whiteness'' is the name of a quality, and is a noun; ''white'' means possessing whiteness, and so is an adjective. {{smaller|The adjective is used attributively, appositively, or predicatively: thus, attributively in “a ''wise'' ruler”; appositively, in “a ruler ''wise'' and ''good''”; predicatively, in “the ruler is ''wise''.” Commonly abbreviated to ''a.'' or ''adj.''}}\n\n'''2†.''' A dependant or an accessory; a secondary or subsidiary part.\n\n'''adjective''' (aj′ek-tiv), ''v. t.'' To make an adjective of; form into an adjective; give the character of an adjective to. [Rare.]\n{{smaller block|In English, instead of ''adjectiving'' our own nouns, we}}",
+   "c1s3": "{{smaller block|have borrowed in immense numbers ''adjectived'' signs from other languages, without borrowing the unadjectived signs of these ideas.\n{{right|''Horne Tooke'', Purley.}}}}\n¶\n'''adjectively''' (aj′ek-tiv-li), ''adv.'' In the manner of an adjective: as, the word is here used ''adjectively.''\n\n'''adjiger''' (aj′i-gėr), ''n.'' [Anglo-Ind., repr. Hind. ''ajgar.''] A large Indian rock-snake, ''Python molurus.'' See ''anaconda.''\n\n'''adjoin''' (a-join′), ''v.'' [< ME. ''ajoinen,'' < OF. ''ajoindre'' (F. ''adjoindre''), < L. ''adjungere,'' < ''ad,'' to, + ''jungere,'' join: see ''join.''] '''I.''' ''trans.'' '''1.''' To join on or add; unite; annex or append.\n{{smaller block|<poem>A massy wheel . . .\nTo whose huge spokes ten thousand lesser things\nAre mortis’d and ''adjoin’d.''</poem>\n{{right|''Shak.'', Hamlet, iii. 3.}}}}\n'''2.''' To be contiguous to or in contact with: as, his house ''adjoins'' the lake; a field ''adjoining'' the lawn.\n{{smaller block|<poem>As one . . .\nForth issuing on a summer’s morn, to breathe\nAmong the pleasant villages and farms\n''Adjoin’d,'' from each thing met conceives delight.</poem>\n{{right|''Milton'', P. L., ix. 449.}}}}\n\n'''II.''' ''intrans.'' '''1.''' To be contiguous; lie or be next, or in contact: with ''to:'' as, “a farm ''adjoining to'' the highway,” ''Blackstone.''—'''2'''†. To approach; join.\n{{smaller block|She lightly unto him ''adjoyned'' syde to syde.\n{{right|''Spenser'', F. Q., III. vii. 42.}}}}\n\n'''adjoinant†''' (a-joi′nant), ''a.'' [< F. ''adjoignant,'' ppr. of ''adjoindre:'' see ''adjoin.''] Contiguous.\n{{smaller block|To the town there is ''adjoinant'' in site . . . an ancient castle.\n{{right|''R. Carew'', Survey of Cornwall.}}}}",
+   "c1s4": "¶\n'''adjoint''' (aj′oint), ''n.'' [< F. ''adjoint'', assistant, adjunct, prop. pp. of ''adjoindre'', adjoin, assign",
+   "c2s1": "as an assistant: see ''adjoin''.] '''1†.''' One who is joined or associated with another as a helper; an adjunct. [Rare.]\n{{smaller block|You are, madam, I perceive, said he, a public minister, and this lady is your ''adjoint''.\n{{right|''Gentleman Instructed'', p. 108.}}}}\n'''2.''' [Pron. ȧ-jwaṅ′.] In France, specifically—(''a'') An assistant of or substitute for the mayor of a commune, or in Paris of an arrondissement. (''b'') An assistant professor in a college.\n\n¶\n'''adjourn''' (a̤-jėrn′), ''v.'' [< ME. ''ajournen, ajornen,'' < OF. ''ajorner, ajurner,'' F. ''ajourner'' = Pg. ''ajornar'' = It. ''aggiornare,'' < ML. ''adiurnare, adjurnare, adjornare,'' fix a day, summon for a particular day, < L. ''ad,'' to, + LL. *''diurnus,'' *''jurnus,'' *''jornus'' (> It. ''giorno'' = Pr. ''jorn'' = OF. ''jor, jur,'' F. ''jour,'' a day), < L. ''diurnus,'' daily, < ''dies,'' day: see ''diurnal, journal''.] '''I.''' ''trans.'' '''1.''' To put off or defer, properly to another day, but also till a later period indefinitely.\n{{smaller block|<poem>Or how the sun shall in mid heaven stand still\nA day entire, and night’s due course ''adjourn''.</poem>\n{{right|''Milton'', P. L., xii. 264.}}}}\n{{smaller block|It is a common practice to ''adjourn'' the reformation of their lives to a further time.\n{{right|''Barrow''.}}}}\nSpecifically—'''2.''' To suspend the meeting of, as a public or private body, to a future day or to another place; also, defer or postpone to a future meeting of the same body: as, the court ''adjourned'' the consideration of the question.",
+   "c2s2": "{{smaller block|<poem>The queen being absent, ’t is a needful fitness\nThat we ''adjourn'' this court till further day.</poem>\n{{right|''Shak.'', Hen. VIII., ii. 4.}}}}\n\n'''II.''' ''intrans.'' To suspend a sitting or transaction till another day, or transfer it to another place: usually said of legislatures, courts, or other formally organized bodies: as, the legislature ''adjourned'' at four o’clock; the meeting ''adjourned'' to the town hall.—{{smaller|'''To adjourn sine die''' (literally, to adjourn without day), to adjourn without setting a time to reconvene or sit again; specifically, to adjourn without intending or expecting to sit again: the usual formula of minutes recording the proceedings of a body, as a court martial, whose existence terminates with the business for which it was convened.}}\n\n'''adjournal''' (a̤-jėr′na̤l), ''n.'' [< ''adjourn'' + ''-al.''] In ''Scots law'', the proceedings of a single day in, or of a single sitting of, the Court of Justiciary: equivalent to ''sederunt'' as applied to a civil court.—{{smaller|'''Act of adjournal''', the record of a sentence in a criminal cause.—'''Book of adjournal''', a book containing the records of the Court of Justiciary.}}\n\n'''adjournment''' (a̤-jėrn′ment), ''n.'' [< OF. ''ajournement'', earlier ''ajornement'': see ''adjourn'' and ''-ment.''] '''1.''' The act of postponing or deferring.\n{{smaller block|We run our lives out in ''adjournments'' from time to time.\n{{right|''L’Estrange.''}}}}",
+   "c2s3": "'''2.''' The act of discontinuing a meeting of a public or private body or the transaction of any business until a fixed date or indefinitely.—'''3.''' The period during which a public body adjourns its sittings: as, during an ''adjournment'' of six weeks.—{{smaller|'''Adjournment in eyre,''' in ''old Eng. law,'' the appointment by the justices in eyre, or circuit judges, of a day for future session.=Syn. ''Adjournment, Recess, Prorogation, Dissolution.'' ''Adjournment'' is the act by which an assembly suspends its session in virtue of authority inherent in itself; it may be also the time or interval of such suspension. A ''recess'' is a customary suspension of business, as during the period of certain recognized or legal holidays: as, the Easter ''recess;'' a ''recess'' for Washington’s birthday. ''Recess'' is also popularly used for a brief suspension of business for any reason: as, it was agreed that there be a ''recess'' of ten minutes. A ''prorogation'' is the adjournment of the sittings of a legislative body at the instance of the authority which called it together, as the sovereign; during a prorogation it can hold no sittings, but in order to resume business must be again summoned: the close of a session of the British Parliament is called a ''prorogation.'' ''Dissolution'' is the act by which the body, as such, is broken up, and its members are finally discharged from their duties. The United States House of Representatives ''dissolves'' every two years at a time fixed by law, but the Senate has a continuous life, and therefore ''adjourns'' from one Congress to another. The ''dissolution'' of the British Parliament necessitates a new election; the ''dissolution'' of the United}}",
+   "c2s4": "{{smaller block|States House of Representatives is provided for by law, an election being previously held.}}\n\n'''adjoust†''', ''v.'' Obsolete form of ''adjust.''\n\n'''adjt.''' A contraction of ''adjutant.''\n\n'''adjudge''' (a-juj′), ''v.''; pret. and pp. ''adjudged'', ppr. ''adjudging.'' [< ME. ''adjugen'', ''ajugen'', < OF. ''ajugier'', ''ajuger'', F. ''adjuger'', < L. ''adjudicare'', award, decide, < ''ad'', to, + ''judicare'', decide: see ''judge'' and ''adjudicate.''] '''I.''' ''trans.'' '''1.''' To award judicially; assign: as, the prize was ''adjudged'' to him.\n{{smaller block|Ajax ran mad, because his arms were ''adjudged'' to Ulysses.\n{{right|''Burton'', Anat. of Mel., p. 165.}}}}\n'''2.''' To decide by a judicial opinion or sentence; adjudicate upon; determine; settle.",
+   "c3s1": "¶\n{{smaller block|Happily we are not without authority on this point. It has been considered and ''adjudged''.\n{{right|''D. Webster'', Speech, March 10, 1818.}}}}\n\n'''3.''' To pass sentence on; sentence or condemn.\n{{smaller block|Those rebel spirits ''adjudged'' to hell.\n{{right|''Milton'', P. L., iv. 823.}}}}\n\n'''4†.''' To deem; judge; consider. [Rare.]\n{{smaller block|He ''adjudged'' him unworthy of his friendship. {{right|''Knolles.''}}}}\n{{smaller|='''Syn.''' To decree, adjudicate.}}\n\n'''II.''' ''intrans.'' To decree; decide; pass sentence.\n{{smaller block|<poem>There let him still victor sway,\nAs battel hath ''adjudged''.</poem>\n{{right|''Milton'', P. L., x. 377.}}}}\n\n'''adjudgeable''' (a-juj′ạ-bl), ''a.'' [< ''adjudge'' + ''-able.''] Capable of being adjudged.\n{{smaller block|Burgh customs still stand in the peculiar position of being neither ''adjudgeable'' nor arrestable.\n{{right|''Encyc. Brit.'', IV. 63.}}}}\n\n'''adjudgement''', ''n.'' See ''adjudgment''.\n\n'''adjudger''' (a-juj′ėr), ''n.'' One who adjudges.\n\n'''adjudgment''' (a-juj′ment), ''n.'' The act of adjudging; adjudication; sentence. Also spelled ''adjudgement.''\n{{smaller block|The ''adjudgment'' of the punishment.\n{{right|''Sir W. Temple'', Introd. to Hist. Eng.}}}}\n\n'''adjudicataire''' (a-jö″di-ka-tãr′), ''n.'' [F., < L. ''adjudicatus'', pp. of ''adjudicare'': see ''adjudicate.''] In Canada, a purchaser at a judicial sale.\n\n'''adjudicate''' (a-jö′di-kāt), ''v.''; pret. and pp. ''adjudicated'', ppr. ''adjudicating''. [< L. ''adjudicatus'', pp. of ''adjudicare'', award, decide, < ''ad'', to, + ''judicare'', judge: see ''adjudge'' and ''judge.''] '''I.''' ''trans.'' To adjudge; pronounce judgment upon; award judicially.",
+   "c3s2": "{{smaller block|Superior force may end in conquest; . . . but it cannot ''adjudicate'' any right. {{right|''Sumner'', True Grand. of Nations.}}}}\n\n'''II.''' ''intrans.'' To sit in judgment; give a judicial decision: with ''upon'': as, the court ''adjudicated upon'' the case.\n{{smaller block|From the whole taken in continuation, but not from any one as an insulated principle, you come into a power of ''adjudicating upon'' the pretensions of the whole theory. {{right|''De Quincey'', Style, ii.}}}}\n\n'''adjudication''' (a-jö-di-kā′shọn), ''n.'' [< L. ''adjudicatio(n-)'', < ''adjudicāre'': see ''adjudicate''.] '''1.''' The act of adjudicating; the act or process of determining or adjudging; a passing of judgment.\n{{smaller block|To pass off a verdict of personal taste, under the guise of an ''adjudication'' of science. ''F. Hall'', Mod. Eng., p. 81.}}\n'''2.''' In ''law'': (''a'') A judicial sentence; judgment or decision of a court. (''b'') The act of a court declaring an ascertained fact: as, an ''adjudication'' of bankruptcy.\n{{smaller block|The consequence of ''adjudication'' is that all the bankrupt’s property vests in the registrar of the court until the appointment by the creditors of a trustee, and thereafter in the trustee. {{right|''Encyc. Brit.'', III. 343.}}}}\n'''3.''' In ''Scots law'', the diligence or process by which land is attached in security for or in payment of a debt.—{{smaller|'''Articulate adjudication''', in ''Scots law'', adjudication which is often used where there are more debts than one due to the adjudging creditor; in which case it is usual to accumulate each debt by itself, so that, in case of an error in ascertaining or calculating one of the debts, the error may affect only that debt.—'''Effectual adjudication''', in ''Scots law'', a form of action by which real property is attached by a creditor.—'''Former adjudication''', in ''law'', a previous judicial decision between the same parties or those whom they succeed, available, or sought to be made available, to bar a subsequent litigation involving the same point.}}",
+   "c3s3": "¶\n'''adjudicator''' (a-jö′di-kā-tor), ''n.'' [< L. as if *''adjudicator'', < ''adjudicare'': see ''adjudicate''.] One who adjudicates.\n\n'''adjudicature''' (a-jö′di-kạ̄-t̮ūr″), ''n.'' [< ''adjudicate'' + ''-ure''.] The act or process of adjudicating; adjudication.\n\n'''adjugate†''' (aj′ö-gāt), ''v. t.'' [< L. ''adjugatus'', pp. of ''adjugare'', unite, < ''ad'', to, + ''jugare'', join, < ''jugum'' (= E. ''yoke''), < ''jungere'', join: see ''yoke'' and ''join''.] To yoke to. ''Bailey.''\n\n'''adjument†''' (aj′ö-ment), ''n.'' [< L. ''adjūmentum'', a means of aid, a contr. of *''adjuvamentum'', < ''adjuvare'', help, aid: see ''aid''.] Help; support; that which supports or assists.\n{{smaller block|Nerves are ''adjuments'' to corporal activity.\n{{right|''Waterhouse'', Fortescue, p. 197.}}}}\n\n'''adjunct''' (aj′ungkt), ''a.'' and ''n.'' [< L. ''adjunctus'', joined to, added, pp. of ''adjungere'': see ''adjoin''.] '''I.''' ''a.'' '''1.''' United with another (generally in a subordinate capacity) in office or in action of any kind: as, an ''adjunct'' professor.—'''2.''' Added to or conjoined with, as a consequence; attending; accompanying.\n{{smaller block|<poem>Though that my death were ''adjunct'' to my act,\nBy Heaven, I would do it.</poem>\n{{right|''Shak.'', K. John, iii. 3.}}}}\n\n'''Adjunct diagnostics.''' {{smaller|See ''diagnostic.''}}—'''Adjunct note,''' {{smaller|in ''music'', an unaccented auxiliary note not forming an essential part of the harmony.}}\n\n'''II.''' ''n.'' '''1.''' Something added to another, but not essentially a part of it."
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 1,
+    "input_tokens": 2673,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9591,
+    "output_tokens": 10558,
+    "cache_creation_input_tokens": 3758,
+    "cache_read_input_tokens": 41338
+   }
+  },
+  "captions_marked": true,
+  "insets": {},
+  "fetched_by": "ahaspel"
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|adjag|74|adjunct}}</noinclude>{{nop}}'''adjag''' (aj′ag), ''n.'' [Native name in Java.] A kind of wild dog, ''Canis rutilans'', found in Java.\n{{smaller block|The dog-tribe is represented by the fox-like ''adjag'' (''Canis rutilans''), which hunts in ferocious packs.\n{{right|''Encyc. Brit.'', XIII. 603.}}}}\n\n'''adject''' (a-jekt′), ''v. t.'' [< L. ''adjectus'', pp. of ''adjicere'', usually contr. ''adicere'', add, put to, < ''ad'', to, + ''jacĕre'', throw: see ''jactation'', ''jet''<sup>1</sup>.] To add or put, as one thing to another; annex. [Rare.]\n{{smaller block|Lanstufan castel and lordship by the new act is . . . ''adjected'' to Pembrokeshire. {{right|''Leland'', Itinerary, III. 26.}}}}\n\n'''adjection''' (a-jek′shọn), ''n.'' [< L. ''adjectio(n-)'', an addition, < ''adjicere'', ''adicere'', add: see ''adject''.] The act of adjecting or adding, or the thing added. [Rare.]\n{{smaller block|This is added to complete our happiness, by the ''adjection'' of eternity. {{right|''Bp. Pearson'', Expos. of Creed, xii.}}}}\n\n'''adjectitious''' (ad-jek-tish′us), ''a.'' [< LL. ''adjectitius'', better spelled ''adjecticius'', added, beside, < L. ''adjectus'', pp.: see ''adject''.] Added; additional: as, “''adjectitious'' work,” ''Maundrell''. [Rare.]\n\n'''adjectival''' (ad-jek-tī′vạl or aj′ek-ti-vạl), ''a.'' [< ''adjective'' + ''-al''.] Belonging to or like an adjective; having the import of an adjective.\n{{smaller block|The more frequent employment of both the participles with an ''adjectival'' syntax is, in its origin, a Gallicism.\n{{right|''G. P. Marsh'', Lects. on Eng. Lang., p. 658.}}\nRelatively to the real, which is substantival, the idea is ''adjectival''. {{right|''Mind'', IX. 127.}}}}\n\n'''adjectivally''' (ad-jek-tī′vạl-i or aj′ek-ti-vạl-i), ''adv.'' By way of or as an adjective: as, a noun or participle ''adjectivally'' used.\n\n'''adjective''' (aj′ek-tiv), ''a.'' and ''n.'' [< L. ''adjectivus'', that is added (only as a grammatical term), < ''adjectus'', pp. of ''adjicere'', add: see ''adject.''] '''I.''' ''a.'' '''1.''' Naming or forming an adjunct to a noun: as, an ''adjective'' name.—'''2.''' Pertaining to an adjective: as, the ''adjective'' use of a noun.—'''3.''' Added or adjected; additional. [Rare.]—{{smaller|'''Adjective color''', in ''dyeing'', a color which is not absorbed directly from its solution by the fibers of the substance dyed, but can be fixed only by a mordant or by some other means: opposed to ''substantive color'', which the fibers directly absorb.—'''Adjective law.''' See ''law.''—'''Noun adjective,''' a word standing for the name of an attribute: now usually ''adjective'', ''n.'' See below.}}\n\n'''II.''' ''n.'' '''1.''' In ''gram.'', a word used to qualify, limit, or define a noun, or a word or phrase which has the value of a noun; a part of speech expressing quality or condition as belonging to something: thus, ''whiteness'' is the name of a quality, and is a noun; ''white'' means possessing whiteness, and so is an adjective. {{smaller|The adjective is used attributively, appositively, or predicatively: thus, attributively in “a ''wise'' ruler”; appositively, in “a ruler ''wise'' and ''good''”; predicatively, in “the ruler is ''wise''.” Commonly abbreviated to ''a.'' or ''adj.''}}\n\n'''2†.''' A dependant or an accessory; a secondary or subsidiary part.\n\n'''adjective''' (aj′ek-tiv), ''v. t.'' To make an adjective of; form into an adjective; give the character of an adjective to. [Rare.]\n{{smaller block|In English, instead of ''adjectiving'' our own nouns, we have borrowed in immense numbers ''adjectived'' signs from other languages, without borrowing the unadjectived signs of these ideas.\n{{right|''Horne Tooke'', Purley.}}}}\n'''adjectively''' (aj′ek-tiv-li), ''adv.'' In the manner of an adjective: as, the word is here used ''adjectively.''\n\n'''adjiger''' (aj′i-gėr), ''n.'' [Anglo-Ind., repr. Hind. ''ajgar.''] A large Indian rock-snake, ''Python molurus.'' See ''anaconda.''\n\n'''adjoin''' (a-join′), ''v.'' [< ME. ''ajoinen,'' < OF. ''ajoindre'' (F. ''adjoindre''), < L. ''adjungere,'' < ''ad,'' to, + ''jungere,'' join: see ''join.''] '''I.''' ''trans.'' '''1.''' To join on or add; unite; annex or append.\n{{smaller block|<poem>A massy wheel . . .\nTo whose huge spokes ten thousand lesser things\nAre mortis’d and ''adjoin’d.''</poem>\n{{right|''Shak.'', Hamlet, iii. 3.}}}}\n'''2.''' To be contiguous to or in contact with: as, his house ''adjoins'' the lake; a field ''adjoining'' the lawn.\n{{smaller block|<poem>As one . . .\nForth issuing on a summer’s morn, to breathe\nAmong the pleasant villages and farms\n''Adjoin’d,'' from each thing met conceives delight.</poem>\n{{right|''Milton'', P. L., ix. 449.}}}}\n\n'''II.''' ''intrans.'' '''1.''' To be contiguous; lie or be next, or in contact: with ''to:'' as, “a farm ''adjoining to'' the highway,” ''Blackstone.''—'''2'''†. To approach; join.\n{{smaller block|She lightly unto him ''adjoyned'' syde to syde.\n{{right|''Spenser'', F. Q., III. vii. 42.}}}}\n\n'''adjoinant†''' (a-joi′nant), ''a.'' [< F. ''adjoignant,'' ppr. of ''adjoindre:'' see ''adjoin.''] Contiguous.\n{{smaller block|To the town there is ''adjoinant'' in site . . . an ancient castle.\n{{right|''R. Carew'', Survey of Cornwall.}}}}\n\n'''adjoint''' (aj′oint), ''n.'' [< F. ''adjoint'', assistant, adjunct, prop. pp. of ''adjoindre'', adjoin, assign as an assistant: see ''adjoin''.] '''1†.''' One who is joined or associated with another as a helper; an adjunct. [Rare.]\n{{smaller block|You are, madam, I perceive, said he, a public minister, and this lady is your ''adjoint''.\n{{right|''Gentleman Instructed'', p. 108.}}}}\n'''2.''' [Pron. ȧ-jwaṅ′.] In France, specifically—(''a'') An assistant of or substitute for the mayor of a commune, or in Paris of an arrondissement. (''b'') An assistant professor in a college.\n\n'''adjourn''' (a̤-jėrn′), ''v.'' [< ME. ''ajournen, ajornen,'' < OF. ''ajorner, ajurner,'' F. ''ajourner'' = Pg. ''ajornar'' = It. ''aggiornare,'' < ML. ''adiurnare, adjurnare, adjornare,'' fix a day, summon for a particular day, < L. ''ad,'' to, + LL. *''diurnus,'' *''jurnus,'' *''jornus'' (> It. ''giorno'' = Pr. ''jorn'' = OF. ''jor, jur,'' F. ''jour,'' a day), < L. ''diurnus,'' daily, < ''dies,'' day: see ''diurnal, journal''.] '''I.''' ''trans.'' '''1.''' To put off or defer, properly to another day, but also till a later period indefinitely.\n{{smaller block|<poem>Or how the sun shall in mid heaven stand still\nA day entire, and night’s due course ''adjourn''.</poem>\n{{right|''Milton'', P. L., xii. 264.}}}}\n{{smaller block|It is a common practice to ''adjourn'' the reformation of their lives to a further time.\n{{right|''Barrow''.}}}}\nSpecifically—'''2.''' To suspend the meeting of, as a public or private body, to a future day or to another place; also, defer or postpone to a future meeting of the same body: as, the court ''adjourned'' the consideration of the question.\n<poem>The queen being absent, ’t is a needful fitness\nThat we ''adjourn'' this court till further day.</poem>\n{{smaller block|{{right|''Shak.'', Hen. VIII., ii. 4.}}}}\n\n'''II.''' ''intrans.'' To suspend a sitting or transaction till another day, or transfer it to another place: usually said of legislatures, courts, or other formally organized bodies: as, the legislature ''adjourned'' at four o’clock; the meeting ''adjourned'' to the town hall.—{{smaller|'''To adjourn sine die''' (literally, to adjourn without day), to adjourn without setting a time to reconvene or sit again; specifically, to adjourn without intending or expecting to sit again: the usual formula of minutes recording the proceedings of a body, as a court martial, whose existence terminates with the business for which it was convened.}}\n\n'''adjournal''' (a̤-jėr′na̤l), ''n.'' [< ''adjourn'' + ''-al.''] In ''Scots law'', the proceedings of a single day in, or of a single sitting of, the Court of Justiciary: equivalent to ''sederunt'' as applied to a civil court.—{{smaller|'''Act of adjournal''', the record of a sentence in a criminal cause.—'''Book of adjournal''', a book containing the records of the Court of Justiciary.}}\n\n'''adjournment''' (a̤-jėrn′ment), ''n.'' [< OF. ''ajournement'', earlier ''ajornement'': see ''adjourn'' and ''-ment.''] '''1.''' The act of postponing or deferring.\n{{smaller block|We run our lives out in ''adjournments'' from time to time.\n{{right|''L’Estrange.''}}}} '''2.''' The act of discontinuing a meeting of a public or private body or the transaction of any business until a fixed date or indefinitely.—'''3.''' The period during which a public body adjourns its sittings: as, during an ''adjournment'' of six weeks.—{{smaller|'''Adjournment in eyre,''' in ''old Eng. law,'' the appointment by the justices in eyre, or circuit judges, of a day for future session.=Syn. ''Adjournment, Recess, Prorogation, Dissolution.'' ''Adjournment'' is the act by which an assembly suspends its session in virtue of authority inherent in itself; it may be also the time or interval of such suspension. A ''recess'' is a customary suspension of business, as during the period of certain recognized or legal holidays: as, the Easter ''recess;'' a ''recess'' for Washington’s birthday. ''Recess'' is also popularly used for a brief suspension of business for any reason: as, it was agreed that there be a ''recess'' of ten minutes. A ''prorogation'' is the adjournment of the sittings of a legislative body at the instance of the authority which called it together, as the sovereign; during a prorogation it can hold no sittings, but in order to resume business must be again summoned: the close of a session of the British Parliament is called a ''prorogation.'' ''Dissolution'' is the act by which the body, as such, is broken up, and its members are finally discharged from their duties. The United States House of Representatives ''dissolves'' every two years at a time fixed by law, but the Senate has a continuous life, and therefore ''adjourns'' from one Congress to another. The ''dissolution'' of the British Parliament necessitates a new election; the ''dissolution'' of the United States House of Representatives is provided for by law, an election being previously held.}}\n\n'''adjoust†''', ''v.'' Obsolete form of ''adjust.''\n\n'''adjt.''' A contraction of ''adjutant.''\n\n'''adjudge''' (a-juj′), ''v.''; pret. and pp. ''adjudged'', ppr. ''adjudging.'' [< ME. ''adjugen'', ''ajugen'', < OF. ''ajugier'', ''ajuger'', F. ''adjuger'', < L. ''adjudicare'', award, decide, < ''ad'', to, + ''judicare'', decide: see ''judge'' and ''adjudicate.''] '''I.''' ''trans.'' '''1.''' To award judicially; assign: as, the prize was ''adjudged'' to him.\n{{smaller block|Ajax ran mad, because his arms were ''adjudged'' to Ulysses.\n{{right|''Burton'', Anat. of Mel., p. 165.}}}}\n'''2.''' To decide by a judicial opinion or sentence; adjudicate upon; determine; settle.\n\n{{smaller block|Happily we are not without authority on this point. It has been considered and ''adjudged''.\n{{right|''D. Webster'', Speech, March 10, 1818.}}}}\n\n'''3.''' To pass sentence on; sentence or condemn.\n{{smaller block|Those rebel spirits ''adjudged'' to hell.\n{{right|''Milton'', P. L., iv. 823.}}}}\n\n'''4†.''' To deem; judge; consider. [Rare.]\n{{smaller block|He ''adjudged'' him unworthy of his friendship. {{right|''Knolles.''}}}}\n{{smaller|='''Syn.''' To decree, adjudicate.}}\n\n'''II.''' ''intrans.'' To decree; decide; pass sentence.\n{{smaller block|<poem>There let him still victor sway,\nAs battel hath ''adjudged''.</poem>\n{{right|''Milton'', P. L., x. 377.}}}}\n\n'''adjudgeable''' (a-juj′ạ-bl), ''a.'' [< ''adjudge'' + ''-able.''] Capable of being adjudged.\n{{smaller block|Burgh customs still stand in the peculiar position of being neither ''adjudgeable'' nor arrestable.\n{{right|''Encyc. Brit.'', IV. 63.}}}}\n\n'''adjudgement''', ''n.'' See ''adjudgment''.\n\n'''adjudger''' (a-juj′ėr), ''n.'' One who adjudges.\n\n'''adjudgment''' (a-juj′ment), ''n.'' The act of adjudging; adjudication; sentence. Also spelled ''adjudgement.''\n{{smaller block|The ''adjudgment'' of the punishment.\n{{right|''Sir W. Temple'', Introd. to Hist. Eng.}}}}\n\n'''adjudicataire''' (a-jö″di-ka-tãr′), ''n.'' [F., < L. ''adjudicatus'', pp. of ''adjudicare'': see ''adjudicate.''] In Canada, a purchaser at a judicial sale.\n\n'''adjudicate''' (a-jö′di-kāt), ''v.''; pret. and pp. ''adjudicated'', ppr. ''adjudicating''. [< L. ''adjudicatus'', pp. of ''adjudicare'', award, decide, < ''ad'', to, + ''judicare'', judge: see ''adjudge'' and ''judge.''] '''I.''' ''trans.'' To adjudge; pronounce judgment upon; award judicially. {{smaller block|Superior force may end in conquest; . . . but it cannot ''adjudicate'' any right. {{right|''Sumner'', True Grand. of Nations.}}}}\n\n'''II.''' ''intrans.'' To sit in judgment; give a judicial decision: with ''upon'': as, the court ''adjudicated upon'' the case.\n{{smaller block|From the whole taken in continuation, but not from any one as an insulated principle, you come into a power of ''adjudicating upon'' the pretensions of the whole theory. {{right|''De Quincey'', Style, ii.}}}}\n\n'''adjudication''' (a-jö-di-kā′shọn), ''n.'' [< L. ''adjudicatio(n-)'', < ''adjudicāre'': see ''adjudicate''.] '''1.''' The act of adjudicating; the act or process of determining or adjudging; a passing of judgment.\n{{smaller block|To pass off a verdict of personal taste, under the guise of an ''adjudication'' of science. ''F. Hall'', Mod. Eng., p. 81.}}\n'''2.''' In ''law'': (''a'') A judicial sentence; judgment or decision of a court. (''b'') The act of a court declaring an ascertained fact: as, an ''adjudication'' of bankruptcy.\n{{smaller block|The consequence of ''adjudication'' is that all the bankrupt’s property vests in the registrar of the court until the appointment by the creditors of a trustee, and thereafter in the trustee. {{right|''Encyc. Brit.'', III. 343.}}}}\n'''3.''' In ''Scots law'', the diligence or process by which land is attached in security for or in payment of a debt.—{{smaller|'''Articulate adjudication''', in ''Scots law'', adjudication which is often used where there are more debts than one due to the adjudging creditor; in which case it is usual to accumulate each debt by itself, so that, in case of an error in ascertaining or calculating one of the debts, the error may affect only that debt.—'''Effectual adjudication''', in ''Scots law'', a form of action by which real property is attached by a creditor.—'''Former adjudication''', in ''law'', a previous judicial decision between the same parties or those whom they succeed, available, or sought to be made available, to bar a subsequent litigation involving the same point.}}\n\n'''adjudicator''' (a-jö′di-kā-tor), ''n.'' [< L. as if *''adjudicator'', < ''adjudicare'': see ''adjudicate''.] One who adjudicates.\n\n'''adjudicature''' (a-jö′di-kạ̄-t̮ūr″), ''n.'' [< ''adjudicate'' + ''-ure''.] The act or process of adjudicating; adjudication.\n\n'''adjugate†''' (aj′ö-gāt), ''v. t.'' [< L. ''adjugatus'', pp. of ''adjugare'', unite, < ''ad'', to, + ''jugare'', join, < ''jugum'' (= E. ''yoke''), < ''jungere'', join: see ''yoke'' and ''join''.] To yoke to. ''Bailey.''\n\n'''adjument†''' (aj′ö-ment), ''n.'' [< L. ''adjūmentum'', a means of aid, a contr. of *''adjuvamentum'', < ''adjuvare'', help, aid: see ''aid''.] Help; support; that which supports or assists.\n{{smaller block|Nerves are ''adjuments'' to corporal activity.\n{{right|''Waterhouse'', Fortescue, p. 197.}}}}\n\n'''adjunct''' (aj′ungkt), ''a.'' and ''n.'' [< L. ''adjunctus'', joined to, added, pp. of ''adjungere'': see ''adjoin''.] '''I.''' ''a.'' '''1.''' United with another (generally in a subordinate capacity) in office or in action of any kind: as, an ''adjunct'' professor.—'''2.''' Added to or conjoined with, as a consequence; attending; accompanying.\n{{smaller block|<poem>Though that my death were ''adjunct'' to my act,\nBy Heaven, I would do it.</poem>\n{{right|''Shak.'', K. John, iii. 3.}}}}\n\n'''Adjunct diagnostics.''' {{smaller|See ''diagnostic.''}}—'''Adjunct note,''' {{smaller|in ''music'', an unaccented auxiliary note not forming an essential part of the harmony.}}\n\n'''II.''' ''n.'' '''1.''' Something added to another, but not essentially a part of it.<noinclude><references/></noinclude>"
+}

@@ -1,0 +1,330 @@
+{
+ "volume": 1,
+ "page_number": 34,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n33.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n33.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-18",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 742,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     94,
+     129,
+     2310,
+     174
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     94,
+     174,
+     838,
+     1241
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     94,
+     1241,
+     838,
+     2320
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     94,
+     2320,
+     838,
+     3282
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     838,
+     174,
+     1580,
+     564
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     838,
+     564,
+     1580,
+     1496
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     839,
+     711,
+     1211,
+     1187
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     838,
+     1496,
+     1580,
+     2303
+    ]
+   },
+   {
+    "name": "c2f2",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     843,
+     1902,
+     1276,
+     2220
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     838,
+     2303,
+     1580,
+     3282
+    ]
+   },
+   {
+    "name": "c2f3",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1271,
+     2384,
+     1575,
+     2850
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1580,
+     174,
+     2310,
+     1264
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1580,
+     240,
+     1941,
+     882
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1580,
+     1264,
+     2310,
+     2319
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1580,
+     2319,
+     2310,
+     3282
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|Abdevenham|8|abdominous}}",
+   "c1s1": "¶\n'''Abdevenham''' (ab-dev′n-ham), ''n.'' In ''astrol.'', the head of the twelfth house in a scheme of the heavens.\n\n'''abdicable''' (ab′di-ka-bl), ''a.'' [< L. as if *''abdicabilis'', < ''abdicare'': see ''abdicate''.] Capable of being abdicated.\n\n'''abdicant''' (ab′di-kant), ''a.'' and ''n.'' [< L. ''abdican(t-)s'', ppr. of ''abdicare'': see ''abdicate''.] '''I.''' ''a.'' Abdicating; renouncing. [Rare.]\n{{smaller block|Monks ''abdicant'' of their orders.\n{{right|''Whitlock'', Manners of Eng. People, p. 93.}}}}\n\n'''II.''' ''n.'' One who abdicates.\n\n'''abdicate''' (ab′di-kāt), ''v.''; pret. and pp. ''abdicated'', ppr. ''abdicating''. [< L. ''abdicatus'', pp. of ''abdicare'', renounce, lit. proclaim as not belonging to one, < ''ab'', from, + ''dicāre'', proclaim, declare, akin to ''dīcĕre'', say.] '''I.''' ''trans.'' '''1.''' To give up, renounce, abandon, lay down, or withdraw from, as a right or claim, office, duties, dignity, authority, and the like, especially in a voluntary, public, or formal manner.\n{{smaller block|The cross-bearers ''abdicated'' their service.\n{{right|''Gibbon'', D. and F., lxvii.}}}}\n{{smaller block|He [Charles II.] was utterly without ambition. He detested business, and would sooner have ''abdicated'' his crown than have undergone the trouble of really directing the administration.\n{{right|''Macaulay'', Hist. Eng., i.}}}}\n'''2.''' To discard; cast away; take leave of: as, to ''abdicate'' one’s mental faculties.—'''3.''' In ''civil law'', to disclaim and expel from a family, as a child; disinherit during lifetime: with a personal subject, as ''father'', ''parent''.\n{{smaller block|The father will disinherit or ''abdicate'' his child, quite}}",
+   "c1s2": "{{smaller block|cashier him.\n{{right|''Burton'', Anat. of Mel. (To the Reader), I. 86.}}}}\n\n'''4†.''' To put away or expel; banish; renounce the authority of; dethrone; degrade.\n{{smaller block|Scaliger would needs turn down Homer, and ''abdicate'' him after the possession of three thousand years.\n{{right|''Dryden'', Pref. to Third Misc.}}}}\n{{smaller|='''Syn. 1.''' To resign, renounce, give up, quit, vacate, relinquish, lay down, abandon, desert. (See list under ''abandon'', ''v.'')}}\n\n'''II.''' ''intrans.'' To renounce or give up something; abandon some claim; relinquish a right, power, or trust.\n{{smaller block|He cannot ''abdicate'' for his children, otherwise than by his own consent in form to a bill from the two houses.\n{{right|''Swift'', Sent. of Ch. of Eng. Man.}}}}\n{{smaller block|Don John is represented . . . to have voluntarily restored the throne to his father, who had once ''abdicated'' in his favor.\n{{right|''Ticknor'', Span. Lit., II. 221.}}}}\n\n'''abdicated''' (ab′di-kā-ted), ''p. a.'' Self-deposed; in the state of one who has renounced or given up a right, etc.: as, “the ''abdicated'' Emperor of Austria,” ''Howells'', Venetian Life, xxi.\n\n'''abdication''' (ab-di-kā′shọn), ''n.'' [< L. ''abdicatio''(''n''-), < ''abdicare'': see ''abdicate''.] The act of abdicating; the giving up of an office, power or authority, right or trust, etc.; renunciation; especially, the laying down of a sovereignty hitherto inherent in the person or in the blood.\n{{smaller block|The consequences drawn from these facts [were] that they amounted to an ''abdication'' of the government, which ''abdication'' did not only affect the person of the king himself, but also of all his heirs, and rendered the throne absolutely and completely vacant. ''Blackstone'', Com., I. iii.}}\n{{smaller block|Each new mind we approach seems to require an ''abdication'' of all our present and past possessions.}}",
+   "c1s3": "{{smaller block|{{right|''Emerson'', Essays, 1st ser., p. 311.}}}}\n\n'''abdicative''' (ab′di-kā-tiv), ''a.'' [< ''abdicate'' + ''-ive''; in form like L. ''abdicativus'', negative, < ''abdicare''.] Causing or implying abdication. [Rare.]\n\n'''abdicator''' (ab′di-kā-tor), ''n.'' [< L. ''abdicare'': see ''abdicate''.] One who abdicates.\n\n'''abditive''' (ab′di-tiv), ''a.'' [< L. ''abditivus'', removed or separated from, < ''abditus'', pp. of ''abdere'', put away, < ''ab'', from, away, + ''-dare'' (in comp.), put.] Having the power or quality of hiding. [Rare.]\n\n'''abditory''' (ab′di-tō-ri), ''n.'' [< ML. ''abditorium'', < L. ''abdere'': see ''abditive''.] A concealed repository; a place for hiding or preserving valuables, as goods, money, relics, etc. [Rare.]\n\n'''abdomen''' (ab-dō′men or ab′dọ̄-men), ''n.'' [L., of uncertain origin; perhaps irreg. < ''abdere'', put away, hide, conceal: see ''abditive''.] '''1.''' The belly; that part of the body of a mammal which lies between the thorax and the pelvis; the perivisceral cavity containing most of the digestive and some of the urogenital organs and associated structures. {{smaller|It is bounded above by the diaphragm, which separates it from the thoracic cavity; below by the brim of the pelvic cavity, with which it is continuous; behind by the vertebral column and the psoas and quadratus lumborum muscles; in front and laterally by several lower ribs, the iliac bones, and the abdominal muscles proper. The walls of the abdomen are lined with the serous membrane called ''peritoneum'', and are externally invested with common integument. Its external surface is arbitrarily divided into certain}}",
+   "c2s1": "{{smaller block|definite regions, called ''abdominal regions'' (see ''abdominal''). The principal contents of the abdomen, in man and other mammals, are the end of the esophagus, the stomach, the small and most of the large intestine, the liver, pancreas, and spleen, the kidneys, suprarenal capsules, ureters, bladder (in part), uterus (during pregnancy at least), and sometimes the testicles, with the associated nervous, vascular, and serous structures. The apertures in the abdominal walls are, usually, several through the diaphragm, for the passage of the esophagus, nerves, blood-vessels, and lymphatics; in the groin, for the passage of the femoral vessels and nerves and the spermatic cord, or the round ligament of the uterus; and at the navel, in the fetus, for the passage of the umbilical vessels.}}\n'''2.''' In vertebrates below mammals, in which",
+   "c2s2": "there is no diaphragm, and the abdomen consequently is not separated from the thorax, a region of the body corresponding to but not coincident with the human abdomen, and varying\n[[FIGURE]]\n{{c|{{smaller|''a'', Abdomen of an Insect (''Isosoma hordei'').}}}}\nin extent according to the configuration of the body. {{smaller|Thus, the abdomen of a serpent is coextensive with the under side of the body from head to tail; and in descriptive ornithology “pectus is restricted to the swelling anterior part of the gastræum, which we call belly or ''abdomen'' as soon as it begins to straighten out and flatten.” ''Coues'', N. A. Birds, p. 96.}}\n\n'''3.''' In ''entom.'', the hind body, the posterior one of the three parts of a perfect insect, united with the thorax by a slender connecting portion, and containing the greater part of the digestive apparatus. {{smaller|It is divided into a number of rings or segments, typically eleven (or ten, as in ''Hymenoptera'' and ''Lepidoptera''), on the sides of which are small respiratory stigmata, or spiracles.}}\n\n'''4.''' In ''Arthropoda'' other than insects, the corresponding hinder part of the body, however distinguished from the thorax, as the tail of a",
+   "c2s3": "lobster or the apron of a crab.—'''5.''' In ascidians (''Tunicata''), a special posterior portion of the body, situated behind the great pharyngeal cavity, and containing most of the alimentary canal.\n{{smaller block|In . . . most of the compound Ascidians, the greater part of the alimentary canal lies altogether beyond the branchial sac, in a backward prolongation of the body which has been termed the ''abdomen'', and is often longer than all the rest of the body.\n{{right|''Huxley'', Anat. Invert., p. 517.}}}}\n\n¶\n'''abdominal''' (ab-dom′i-nal), ''a.'' and ''n.'' [< NL. ''abdominalis'', < L. ''abdomen'': see ''abdomen.''] '''I.''' ''a.''\n[[FIGURE]]\n{{c|{{smaller|Abdominal Fish, with ventral behind pectoral fin.}}}}\n'''1.''' Pertaining to the abdomen or belly; situated in or on the abdomen: as, ''abdominal'' ventral fins.—'''2.''' In ''ichth.'', having ventral fins under the abdomen and about the middle of the body: as, an ''abdominal'' fish. See ''Abdominales.''",
+   "c2s4": "—'''Abdominal aorta,''' in man and other mammals, that portion of the aorta between its passage through the diaphragm and its bifurcation into the iliac arteries.—'''Abdominal apertures.''' See ''abdomen'', 1.—'''Abdominal fins,''' in ''ichth.'', ventral fins when situated behind the pectoral fins.—'''Abdominal legs,''' in ''entom.'', false legs or prop-legs of the abdomen of insects. In hexapodous insects they are soft, fleshy, inarticulate, and deciduous. There may be as many as eight pairs, or only a single pair, or none. The spinnerets of spiders, though abdominal in position, are regarded as homologous with the jointed legs of higher insects.—'''Abdominal line,''' in ''human anat.'': (''a'') The white line (linea alba) or lengthwise mid-line of union of the abdominal muscles along the front of the belly, and one of several cross-lines intersecting the course of the rectus muscle. The exaggeration of these\n[[FIGURE]]\n{{c|{{smaller|Torso Belvedere, showing “checker-board” appearance.}}}}\nlines in art gives the “checker-board” appearance of the abdomen in statuary. (''b'') ''pl.'' Certain imaginary lines drawn to divide the surface of the abdomen into regions, as given below.—'''Abdominal pore,''' in some fishes, an aperture in the belly connected with the sexual function.\n{{smaller block|This [the ovarium], in some few fishes, sheds its ova, as soon as they are ripened, into the peritoneal cavity, whence they escape by ''abdominal pores'', which place that cavity in direct communication with the exterior.\n{{right|''Huxley'', Anat. Vert., p. 95.}}}}\n'''Abdominal reflex,''' a superficial reflex consisting of a contraction in the abdominal muscles when the skin over the abdomen in the mammary line is stimulated.—'''Ab-",
+   "c3s1": "'''dominal regions,''' in ''human anat.'', certain regions into which the abdomen is arbitrarily divided for the purpose\n[[FIGURE]]\n{{c|{{smaller|''a a'', horizontal line through the cartilage of the ninth rib; ''b b'', horizontal line touching the highest parts of the iliac crests; ''c c'', vertical lines drawn through the middle of Poupart’s ligament, on either side; 1, epigastric region; 2, umbilical region; 3, hypogastric region; 4 4, hypochondriac regions; 5 5, lumbar regions; 6 6, iliac regions.}}}}\nof mapping its surface with reference to the viscera which lie beneath these regions respectively. Two horizontal parallel lines being drawn around the body, one (''a a'') crossing the cartilage of the ninth rib, the other (''b b'') crossing the highest point of the iliac bone, the abdominal surface is divided into three zones, an upper, a middle, and a lower, respectively called ''epigastric'', ''umbilical'', and ''hypogastric''. Each of these is subdivided into three parts by two vertical lines (''c c''), each drawn through the middle of Poupart’s ligament. The central part of the epigastric zone (1) retains the name of ''epigastric''; its lateral portions (4 4) are the ''right'' and ''left hypochondriac'' regions; the middle part of the umbilical (2) is called the ''umbilical'' region, while its lateral portions (5 5) are the ''right'' and ''left lumbar'' regions; the middle portion of the hypogastric zone (3) is called the ''hypogastric'' region, but sometimes the ''pubic'' region, while its lateral portions (6 6) are called the ''right'' and ''left iliac'' (or ''inguinal'') regions. The adjoining region of the thigh, below the fold of the groin, is properly excluded.—'''Abdominal respiration,''' that type of respiration in which the action of the diaphragm, and consequently the movement of the abdomen, is most marked: contrasted with ''thoracic'' or ''costal''",
+   "c3s2": "{{smaller|''respiration.''—'''Abdominal ribs''', in ''herpet.'', a series of transverse ossifications in the wall of the abdomen of some reptiles, as dinosaurs and crocodiles; in the latter the series consists of seven on each side, lying superficial to the recti muscles. They are quite distinct from true ribs, and considered by some to be dermal ossifications.}}\n{{smaller block|''Abdominal'' dermal ''ribs'' are developed in some species [of Dinosauria], if not in all. {{right|''Huxley'', Anat. Vert., p. 227.}}}}\n{{smaller|'''Abdominal ring''', in ''anat.'': (''a'') ''Internal'', an oval opening in the fascia of the transversalis abdominis (transverse muscle of the abdomen), about midway between the superior iliac spine and the pubic spine, and half an inch above Poupart’s ligament. (''b'') ''External'', a similar oblong opening in the fascia of the obliquus externus abdominis (external oblique muscle of the abdomen), further down and nearer the mid-line of the body. These rings are respectively the inlet and outlet of the inguinal canal. Also called ''inguinal rings.''—'''Abdominal scutella''', in ''herpet.'', the short, wide, imbricated scales which lie along the belly of a serpent from chin to anus.—'''Abdominal segments''', in ''entom.'', etc., the individual somites or rings of which the abdomen of an insect, a crustacean, etc., is or may be composed.—'''Abdominal vertebræ''', in ''ichth.'', all the vertebræ behind the head which have ribs or rib-like processes arching over the visceral cavity.—'''Abdominal viscera''', those organs, collectively considered, which are situated in the abdomen, being especially those of the digestive system. See ''abdomen'', 1.}}\n\n'''II.''' ''n.'' One of the ''Abdominales'' (which see).\n\n'''Abdominales''' (ab-dom-i-nā′lēz), ''n. pl.'' [NL., pl. of ''abdominalis'': see ''abdominal.''] '''1.''' A name introduced into the ichthyological system of Linnæus, and variously applied: {{smaller|(''a'') by Linnæus, as an ordinal name for all osseous fishes with abdominal ventrals; (''b'') by Cuvier, as a subordinal name for all those malacopterygian osseous fishes which have abdominal ventrals; (''c'') by J. Müller, as a subordinal name for those malacopterygian fishes which have abdominal ventrals and also a pneumatic duct between the air-bladder and intestinal canal. The name has also been}}",
+   "c3s3": "{{smaller|applied to other groups varying more or less from the preceding. The salmonids and the clupeids or herring family are typical representatives in all the above divisions.}}\n\n'''2.''' A section of the coleopterous family ''Carabidæ'', proposed by Latreille for beetles with the abdomen enlarged in proportion to the thorax.\n\n'''Abdominalia''' (ab-dom-i-nā′li-ä̤), ''n. pl.'' [NL. (sc. ''animalia'', animals), neut. pl. of ''abdominalis'': see ''abdominal''.] An order of cirriped crustaceans, having a segmented body, three pairs of abdominal limbs, no thoracic limbs, a flask-shaped carapace, an extensive mouth, two eyes, and the sexes distinct. {{smaller|The members of the order all burrow in shells. Two families are recognized, ''Cryptophialidæ'' and ''Alcippidæ''.}}\n{{smaller block|The whole family of the ''Abdominalia'', a name proposed by Darwin, if I am not mistaken, have the sexes separate.\n{{right|''Beneden'', An. Parasites. (''N. E. D.'')}}}}\n\n'''abdominally''' (ab-dom′i-nạl-i), ''adv.'' On or in the abdomen; toward the abdomen.\n\n'''abdominoscopy''' (ab-dom-i-nos′kọ̄-pi), ''n.'' [< L. ''abdomen'' (''-min-'') + Gr. -σκοπία, < σκοπεῖν, look at, view.] In ''med.'', examination of the abdomen for the detection of disease.\n\n'''abdominous''' (ab-dom′i-nus), ''a.'' [< ''abdomen'' (''-min-'') + ''-ous''.] '''1.''' Of or pertaining to the abdomen; abdominal.—'''2.''' Having a large belly; pot-bellied. [Rare.]\n{{smaller block|<poem>Gorgonius sits ''abdominous'' and wan,\nLike a fat squab upon a Chinese fan.</poem>\n{{right|''Cowper'', Prog. of Err.}}}}"
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0034 c2f1.png",
+   "c2f2": "century v01 p0034 c2f2.png",
+   "c2f3": "century v01 p0034 c2f3.png",
+   "c3f1": "century v01 p0034 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     851,
+     723,
+     1199,
+     1175
+    ],
+    "caption": [
+     857,
+     1185,
+     1202,
+     1229
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     849,
+     719,
+     1141,
+     1175
+    ]
+   },
+   {
+    "box": [
+     1585,
+     252,
+     1929,
+     870
+    ],
+    "caption": [
+     1588,
+     888,
+     1931,
+     1114
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1634,
+     224,
+     1894,
+     878
+    ]
+   },
+   {
+    "box": [
+     855,
+     1914,
+     1264,
+     2208
+    ],
+    "caption": [
+     855,
+     2215,
+     1304,
+     2254
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     851,
+     1894,
+     1294,
+     2209
+    ]
+   },
+   {
+    "box": [
+     1283,
+     2396,
+     1563,
+     2838
+    ],
+    "caption": [
+     1284,
+     2847,
+     1566,
+     2909
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1136,
+     2396,
+     1365,
+     2966
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    3,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 5,
+    "input_tokens": 8605,
+    "output_tokens": 308,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9539,
+    "output_tokens": 9958,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c2f1": "left",
+   "c2f2": "left",
+   "c2f3": "right",
+   "c3f1": "left"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|Abdevenham|8|abdominous}}</noinclude>{{nop}}'''Abdevenham''' (ab-dev′n-ham), ''n.'' In ''astrol.'', the head of the twelfth house in a scheme of the heavens.\n\n'''abdicable''' (ab′di-ka-bl), ''a.'' [< L. as if *''abdicabilis'', < ''abdicare'': see ''abdicate''.] Capable of being abdicated.\n\n'''abdicant''' (ab′di-kant), ''a.'' and ''n.'' [< L. ''abdican(t-)s'', ppr. of ''abdicare'': see ''abdicate''.] '''I.''' ''a.'' Abdicating; renouncing. [Rare.]\n{{smaller block|Monks ''abdicant'' of their orders.\n{{right|''Whitlock'', Manners of Eng. People, p. 93.}}}}\n\n'''II.''' ''n.'' One who abdicates.\n\n'''abdicate''' (ab′di-kāt), ''v.''; pret. and pp. ''abdicated'', ppr. ''abdicating''. [< L. ''abdicatus'', pp. of ''abdicare'', renounce, lit. proclaim as not belonging to one, < ''ab'', from, + ''dicāre'', proclaim, declare, akin to ''dīcĕre'', say.] '''I.''' ''trans.'' '''1.''' To give up, renounce, abandon, lay down, or withdraw from, as a right or claim, office, duties, dignity, authority, and the like, especially in a voluntary, public, or formal manner.\n{{smaller block|The cross-bearers ''abdicated'' their service.\n{{right|''Gibbon'', D. and F., lxvii.}}}}\n{{smaller block|He [Charles II.] was utterly without ambition. He detested business, and would sooner have ''abdicated'' his crown than have undergone the trouble of really directing the administration.\n{{right|''Macaulay'', Hist. Eng., i.}}}}\n'''2.''' To discard; cast away; take leave of: as, to ''abdicate'' one’s mental faculties.—'''3.''' In ''civil law'', to disclaim and expel from a family, as a child; disinherit during lifetime: with a personal subject, as ''father'', ''parent''.\n{{smaller block|The father will disinherit or ''abdicate'' his child, quite cashier him.\n{{right|''Burton'', Anat. of Mel. (To the Reader), I. 86.}}}}\n\n'''4†.''' To put away or expel; banish; renounce the authority of; dethrone; degrade.\n{{smaller block|Scaliger would needs turn down Homer, and ''abdicate'' him after the possession of three thousand years.\n{{right|''Dryden'', Pref. to Third Misc.}}}}\n{{smaller|='''Syn. 1.''' To resign, renounce, give up, quit, vacate, relinquish, lay down, abandon, desert. (See list under ''abandon'', ''v.'')}}\n\n'''II.''' ''intrans.'' To renounce or give up something; abandon some claim; relinquish a right, power, or trust.\n{{smaller block|He cannot ''abdicate'' for his children, otherwise than by his own consent in form to a bill from the two houses.\n{{right|''Swift'', Sent. of Ch. of Eng. Man.}}}}\n{{smaller block|Don John is represented . . . to have voluntarily restored the throne to his father, who had once ''abdicated'' in his favor.\n{{right|''Ticknor'', Span. Lit., II. 221.}}}}\n\n'''abdicated''' (ab′di-kā-ted), ''p. a.'' Self-deposed; in the state of one who has renounced or given up a right, etc.: as, “the ''abdicated'' Emperor of Austria,” ''Howells'', Venetian Life, xxi.\n\n'''abdication''' (ab-di-kā′shọn), ''n.'' [< L. ''abdicatio''(''n''-), < ''abdicare'': see ''abdicate''.] The act of abdicating; the giving up of an office, power or authority, right or trust, etc.; renunciation; especially, the laying down of a sovereignty hitherto inherent in the person or in the blood.\n{{smaller block|The consequences drawn from these facts [were] that they amounted to an ''abdication'' of the government, which ''abdication'' did not only affect the person of the king himself, but also of all his heirs, and rendered the throne absolutely and completely vacant. ''Blackstone'', Com., I. iii.}}\n{{smaller block|Each new mind we approach seems to require an ''abdication'' of all our present and past possessions. {{right|''Emerson'', Essays, 1st ser., p. 311.}}}}\n\n'''abdicative''' (ab′di-kā-tiv), ''a.'' [< ''abdicate'' + ''-ive''; in form like L. ''abdicativus'', negative, < ''abdicare''.] Causing or implying abdication. [Rare.]\n\n'''abdicator''' (ab′di-kā-tor), ''n.'' [< L. ''abdicare'': see ''abdicate''.] One who abdicates.\n\n'''abditive''' (ab′di-tiv), ''a.'' [< L. ''abditivus'', removed or separated from, < ''abditus'', pp. of ''abdere'', put away, < ''ab'', from, away, + ''-dare'' (in comp.), put.] Having the power or quality of hiding. [Rare.]\n\n'''abditory''' (ab′di-tō-ri), ''n.'' [< ML. ''abditorium'', < L. ''abdere'': see ''abditive''.] A concealed repository; a place for hiding or preserving valuables, as goods, money, relics, etc. [Rare.]\n\n'''abdomen''' (ab-dō′men or ab′dọ̄-men), ''n.'' [L., of uncertain origin; perhaps irreg. < ''abdere'', put away, hide, conceal: see ''abditive''.] '''1.''' The belly; that part of the body of a mammal which lies between the thorax and the pelvis; the perivisceral cavity containing most of the digestive and some of the urogenital organs and associated structures. {{smaller|It is bounded above by the diaphragm, which separates it from the thoracic cavity; below by the brim of the pelvic cavity, with which it is continuous; behind by the vertebral column and the psoas and quadratus lumborum muscles; in front and laterally by several lower ribs, the iliac bones, and the abdominal muscles proper. The walls of the abdomen are lined with the serous membrane called ''peritoneum'', and are externally invested with common integument. Its external surface is arbitrarily divided into certain definite regions, called ''abdominal regions'' (see ''abdominal''). The principal contents of the abdomen, in man and other mammals, are the end of the esophagus, the stomach, the small and most of the large intestine, the liver, pancreas, and spleen, the kidneys, suprarenal capsules, ureters, bladder (in part), uterus (during pregnancy at least), and sometimes the testicles, with the associated nervous, vascular, and serous structures. The apertures in the abdominal walls are, usually, several through the diaphragm, for the passage of the esophagus, nerves, blood-vessels, and lymphatics; in the groin, for the passage of the femoral vessels and nerves and the spermatic cord, or the round ligament of the uterus; and at the navel, in the fetus, for the passage of the umbilical vessels.}}\n'''2.''' In vertebrates below mammals, in which there is no diaphragm, and the abdomen consequently is not separated from the thorax, a region of the body corresponding to but not coincident with the human abdomen, and varying {{img float|file=century v01 p0034 c2f1.png|width=180px|align=left|cap={{smaller|''a'', Abdomen of an Insect (''Isosoma hordei'').}}}} in extent according to the configuration of the body. {{smaller|Thus, the abdomen of a serpent is coextensive with the under side of the body from head to tail; and in descriptive ornithology “pectus is restricted to the swelling anterior part of the gastræum, which we call belly or ''abdomen'' as soon as it begins to straighten out and flatten.” ''Coues'', N. A. Birds, p. 96.}}\n\n'''3.''' In ''entom.'', the hind body, the posterior one of the three parts of a perfect insect, united with the thorax by a slender connecting portion, and containing the greater part of the digestive apparatus. {{smaller|It is divided into a number of rings or segments, typically eleven (or ten, as in ''Hymenoptera'' and ''Lepidoptera''), on the sides of which are small respiratory stigmata, or spiracles.}}\n\n'''4.''' In ''Arthropoda'' other than insects, the corresponding hinder part of the body, however distinguished from the thorax, as the tail of a lobster or the apron of a crab.—'''5.''' In ascidians (''Tunicata''), a special posterior portion of the body, situated behind the great pharyngeal cavity, and containing most of the alimentary canal.\n{{smaller block|In . . . most of the compound Ascidians, the greater part of the alimentary canal lies altogether beyond the branchial sac, in a backward prolongation of the body which has been termed the ''abdomen'', and is often longer than all the rest of the body.\n{{right|''Huxley'', Anat. Invert., p. 517.}}}}\n\n'''abdominal''' (ab-dom′i-nal), ''a.'' and ''n.'' [< NL. ''abdominalis'', < L. ''abdomen'': see ''abdomen.''] '''I.''' ''a.'' {{img float|file=century v01 p0034 c2f2.png|width=210px|align=left|cap={{smaller|Abdominal Fish, with ventral behind pectoral fin.}}}} '''1.''' Pertaining to the abdomen or belly; situated in or on the abdomen: as, ''abdominal'' ventral fins.—'''2.''' In ''ichth.'', having ventral fins under the abdomen and about the middle of the body: as, an ''abdominal'' fish. See ''Abdominales.'' —'''Abdominal aorta,''' in man and other mammals, that portion of the aorta between its passage through the diaphragm and its bifurcation into the iliac arteries.—'''Abdominal apertures.''' See ''abdomen'', 1.—'''Abdominal fins,''' in ''ichth.'', ventral fins when situated behind the pectoral fins.—'''Abdominal legs,''' in ''entom.'', false legs or prop-legs of the abdomen of insects. In hexapodous insects they are soft, fleshy, inarticulate, and deciduous. There may be as many as eight pairs, or only a single pair, or none. The spinnerets of spiders, though abdominal in position, are regarded as homologous with the jointed legs of higher insects.—'''Abdominal line,''' in ''human anat.'': (''a'') The white line (linea alba) or lengthwise mid-line of union of the abdominal muscles along the front of the belly, and one of several cross-lines intersecting the course of the rectus muscle. The exaggeration of these {{img float|file=century v01 p0034 c2f3.png|width=147px|align=right|cap={{smaller|Torso Belvedere, showing “checker-board” appearance.}}}} lines in art gives the “checker-board” appearance of the abdomen in statuary. (''b'') ''pl.'' Certain imaginary lines drawn to divide the surface of the abdomen into regions, as given below.—'''Abdominal pore,''' in some fishes, an aperture in the belly connected with the sexual function.\n{{smaller block|This [the ovarium], in some few fishes, sheds its ova, as soon as they are ripened, into the peritoneal cavity, whence they escape by ''abdominal pores'', which place that cavity in direct communication with the exterior.\n{{right|''Huxley'', Anat. Vert., p. 95.}}}}\n'''Abdominal reflex,''' a superficial reflex consisting of a contraction in the abdominal muscles when the skin over the abdomen in the mammary line is stimulated.—'''Ab'''dominal regions,''' in ''human anat.'', certain regions into which the abdomen is arbitrarily divided for the purpose {{img float|file=century v01 p0034 c3f1.png|width=175px|align=left|cap={{smaller|''a a'', horizontal line through the cartilage of the ninth rib; ''b b'', horizontal line touching the highest parts of the iliac crests; ''c c'', vertical lines drawn through the middle of Poupart’s ligament, on either side; 1, epigastric region; 2, umbilical region; 3, hypogastric region; 4 4, hypochondriac regions; 5 5, lumbar regions; 6 6, iliac regions.}}}} of mapping its surface with reference to the viscera which lie beneath these regions respectively. Two horizontal parallel lines being drawn around the body, one (''a a'') crossing the cartilage of the ninth rib, the other (''b b'') crossing the highest point of the iliac bone, the abdominal surface is divided into three zones, an upper, a middle, and a lower, respectively called ''epigastric'', ''umbilical'', and ''hypogastric''. Each of these is subdivided into three parts by two vertical lines (''c c''), each drawn through the middle of Poupart’s ligament. The central part of the epigastric zone (1) retains the name of ''epigastric''; its lateral portions (4 4) are the ''right'' and ''left hypochondriac'' regions; the middle part of the umbilical (2) is called the ''umbilical'' region, while its lateral portions (5 5) are the ''right'' and ''left lumbar'' regions; the middle portion of the hypogastric zone (3) is called the ''hypogastric'' region, but sometimes the ''pubic'' region, while its lateral portions (6 6) are called the ''right'' and ''left iliac'' (or ''inguinal'') regions. The adjoining region of the thigh, below the fold of the groin, is properly excluded.—'''Abdominal respiration,''' that type of respiration in which the action of the diaphragm, and consequently the movement of the abdomen, is most marked: contrasted with ''thoracic'' or ''costal'' {{smaller|''respiration.''—'''Abdominal ribs''', in ''herpet.'', a series of transverse ossifications in the wall of the abdomen of some reptiles, as dinosaurs and crocodiles; in the latter the series consists of seven on each side, lying superficial to the recti muscles. They are quite distinct from true ribs, and considered by some to be dermal ossifications.}}\n{{smaller block|''Abdominal'' dermal ''ribs'' are developed in some species [of Dinosauria], if not in all. {{right|''Huxley'', Anat. Vert., p. 227.}}}}\n{{smaller|'''Abdominal ring''', in ''anat.'': (''a'') ''Internal'', an oval opening in the fascia of the transversalis abdominis (transverse muscle of the abdomen), about midway between the superior iliac spine and the pubic spine, and half an inch above Poupart’s ligament. (''b'') ''External'', a similar oblong opening in the fascia of the obliquus externus abdominis (external oblique muscle of the abdomen), further down and nearer the mid-line of the body. These rings are respectively the inlet and outlet of the inguinal canal. Also called ''inguinal rings.''—'''Abdominal scutella''', in ''herpet.'', the short, wide, imbricated scales which lie along the belly of a serpent from chin to anus.—'''Abdominal segments''', in ''entom.'', etc., the individual somites or rings of which the abdomen of an insect, a crustacean, etc., is or may be composed.—'''Abdominal vertebræ''', in ''ichth.'', all the vertebræ behind the head which have ribs or rib-like processes arching over the visceral cavity.—'''Abdominal viscera''', those organs, collectively considered, which are situated in the abdomen, being especially those of the digestive system. See ''abdomen'', 1.}}\n\n'''II.''' ''n.'' One of the ''Abdominales'' (which see).\n\n'''Abdominales''' (ab-dom-i-nā′lēz), ''n. pl.'' [NL., pl. of ''abdominalis'': see ''abdominal.''] '''1.''' A name introduced into the ichthyological system of Linnæus, and variously applied: {{smaller|(''a'') by Linnæus, as an ordinal name for all osseous fishes with abdominal ventrals; (''b'') by Cuvier, as a subordinal name for all those malacopterygian osseous fishes which have abdominal ventrals; (''c'') by J. Müller, as a subordinal name for those malacopterygian fishes which have abdominal ventrals and also a pneumatic duct between the air-bladder and intestinal canal. The name has also been applied to other groups varying more or less from the preceding. The salmonids and the clupeids or herring family are typical representatives in all the above divisions.}}\n\n'''2.''' A section of the coleopterous family ''Carabidæ'', proposed by Latreille for beetles with the abdomen enlarged in proportion to the thorax.\n\n'''Abdominalia''' (ab-dom-i-nā′li-ä̤), ''n. pl.'' [NL. (sc. ''animalia'', animals), neut. pl. of ''abdominalis'': see ''abdominal''.] An order of cirriped crustaceans, having a segmented body, three pairs of abdominal limbs, no thoracic limbs, a flask-shaped carapace, an extensive mouth, two eyes, and the sexes distinct. {{smaller|The members of the order all burrow in shells. Two families are recognized, ''Cryptophialidæ'' and ''Alcippidæ''.}}\n{{smaller block|The whole family of the ''Abdominalia'', a name proposed by Darwin, if I am not mistaken, have the sexes separate.\n{{right|''Beneden'', An. Parasites. (''N. E. D.'')}}}}\n\n'''abdominally''' (ab-dom′i-nạl-i), ''adv.'' On or in the abdomen; toward the abdomen.\n\n'''abdominoscopy''' (ab-dom-i-nos′kọ̄-pi), ''n.'' [< L. ''abdomen'' (''-min-'') + Gr. -σκοπία, < σκοπεῖν, look at, view.] In ''med.'', examination of the abdomen for the detection of disease.\n\n'''abdominous''' (ab-dom′i-nus), ''a.'' [< ''abdomen'' (''-min-'') + ''-ous''.] '''1.''' Of or pertaining to the abdomen; abdominal.—'''2.''' Having a large belly; pot-bellied. [Rare.]\n{{smaller block|<poem>Gorgonius sits ''abdominous'' and wan,\nLike a fat squab upon a Chinese fan.</poem>\n{{right|''Cowper'', Prog. of Err.}}}}<noinclude><references/></noinclude>"
+}

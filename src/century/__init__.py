@@ -35,6 +35,17 @@ _PAGES = {1: 916, 2: 918, 3: 916, 4: 908, 5: 902, 6: 904, 7: 916, 8: 890,
           9: 1110, 10: 904}
 
 
+#: The first leaf of each volume's text (read from its scans, 2026-10-17):
+#: before it, the binding, endpapers, blank leaves, title pages, and the lists
+#: of abbreviations and the key to pronunciation — what a contributor's run
+#: (tools/contribute.py) does not read.  Volume 1's front matter (its preface)
+#: and the lists are for later (user, 2026-10-17).  Volume 9, the Cyclopedia
+#: of Names, opens with its own preface (leaves 11-13) and a blank leaf.
+#: Volume 10, the Atlas, is maps and their indexes, not read as text: not set,
+#: so a run there is refused.
+TEXT_STARTS = {1: 27, 2: 13, 3: 13, 4: 13, 5: 13, 6: 13, 7: 13, 8: 13, 9: 15}
+
+
 def _ia_item(volume: int) -> str:
     if volume not in IA_ITEMS:
         raise ValueError(f"the Century has volumes 1-10, not {volume}")
@@ -48,6 +59,18 @@ def scan_url(volume: int, page: int) -> str:
     if not 1 <= page <= _PAGES[volume]:
         raise ValueError(f"volume {volume} has pages 1-{_PAGES[volume]}, not {page}")
     return f"https://archive.org/download/{_ia_item(volume)}/page/n{page - 1}.jpg"
+
+
+def _page_layout(volume: int, page: int):
+    """The dictionary's text pages (volumes 1-8, from `TEXT_STARTS` on) print
+    three columns.  Declared, not measured: the gutter finder took a line of
+    word spaces running down a column for a gutter (vol. 1 pp. 8, 12, 16, 18,
+    30, 40, 44: the first column split lengthwise, or a strip of it never
+    read).  Elsewhere, as the ink shows."""
+    from wikikit.scan.layout import PageLayout
+    if volume <= 8 and page >= TEXT_STARTS[volume]:
+        return PageLayout(columns=3)
+    return PageLayout()
 
 
 def _page_scan(volume: int, page: int):
@@ -73,5 +96,18 @@ CENTURY = Corpus(
     data_files=frozenset({"scan_notation.json", "templates/scan_page.md"}),
     # Every page is transcribed from its Archive scan.
     page_scan=_page_scan,
+    page_layout=_page_layout,
     page_scan_url=scan_url,
+    # The book prints its quotation marks and apostrophes curly (user,
+    # 2026-10-17); our readings mostly typed them straight (vol. 1 p. 9,
+    # ''abducted'' … "''enlevé''"), and a straight ' beside '' is the markup's
+    # own character.  Set curly as each page is read, and any straight pair a
+    # proofreader types set curly in the edition.
+    curly_quotes=True,
+    curly_readings=True,
+    # Captions and legends are printed small, every one seen so far (user,
+    # 2026-10-18: "it's looking that way"); the model reads them at the text's
+    # size.  Set small as each page is read; a caption found printed full size
+    # has its {{smaller|…}} taken off at the desk.
+    captions_small=True,
 )

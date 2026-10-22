@@ -1,0 +1,331 @@
+{
+ "volume": 1,
+ "page_number": 83,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n82.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n82.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-16",
+  "angle": 0.4,
+  "column_width": 745,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     40,
+     151,
+     2269,
+     186
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     40,
+     186,
+     786,
+     516
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     40,
+     516,
+     786,
+     1612
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     40,
+     557,
+     770,
+     1409
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     40,
+     1612,
+     786,
+     2689
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     40,
+     2689,
+     786,
+     3293
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     786,
+     186,
+     1530,
+     1200
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     786,
+     1200,
+     1530,
+     1932
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     786,
+     1932,
+     1530,
+     3293
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     808,
+     2322,
+     1301,
+     2629
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1530,
+     186,
+     2269,
+     1233
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1591,
+     445,
+     2195,
+     918
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1530,
+     1233,
+     2269,
+     2315
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1639,
+     1338,
+     2139,
+     1864
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1530,
+     2315,
+     2269,
+     3293
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|acropodium|57|act}}",
+   "c1s1": "''rodactylum.'' [Little used in either of these two senses.] — '''3.''' In ''art'', an elevated pedestal bearing a statue, particularly if raised from the substructure on supports or feet; the plinth of a statue or other work of art, if resting on feet. ''Ed. Guillaume.''\n\n¶\n'''acropolis''' (a-krop′ọ̄-lis), ''n.'' [L., < Gr. ἀκρόπολις, the upper city, < ἄκρος, highest, upper, + πόλις, a city: see ''police''.] The citadel of a Grecian city, usually the site of the original settlement,",
+   "c1s2": "and situated on an eminence commanding the\n[[FIGURE]]\n{{c|{{smaller|The Acropolis of Athens, from the southeast.}}}}\nsurrounding country. {{smaller|When the city spread beyond its earlier limits, the acropolis was generally cleared of its inhabitants and held sacred to the divinities of the state, whose temples were upon it. The acropolis of Athens contained the most splendid productions of Greek art, the Parthenon, the Erechtheum, and the Propylæa.}}",
+   "c1s3": "¶\n'''acrosarcum''' (ak-rọ̄-sär′kum), ''n.''; pl. ''acrosarca'' (-kä). [NL., < Gr. ἄκρος, at the end, + σάρξ (σαρκ-), flesh.] A name given by Desvaux to a berry resulting from an ovary with adnate calyx, as in the currant and cranberry.\n\n'''acrosaurus''' (ak-rọ̄-sâ′rus), ''n.''; pl. ''acrosauri'' (-rī). [NL., < Gr. ἄκρος, extreme, + σαῦρος, a lizard: see ''Saurus''.] An extraordinary fossil reptile, with 30 or 40 teeth and a broad cheekbone process, occurring in the Triassic sandstones of southern Africa.\n\n'''Acrosoma''' (ak-rọ̄-sō′mä), ''n.'' [NL., < Gr. ἄκρον, top, peak, extremity, + σῶμα, body.] A genus of orbitelarian spiders of the family ''Epeiridæ'' (or ''Gastracanthidæ''), having the sides of the abdomen prolonged into immense horns, whence the name. It is a tropical genus with many species.\n\n'''acrospire''' (ak′rọ̄-spīr), ''n.'' [Formerly ''aker-'', ''ackerspire''; < Gr. ἄκρος, at the top, + σπεῖρα, a coil, spire, > L. ''spira'', > E. ''spire'', q. v.] The first leaf which rises above the ground in the germination of grain; also the rudimentary stem or first leaf which appears in malted grain; the developed plumule of the seed.\n\n'''acrospire''' (ak′rọ̄-spīr), ''v. i.''; pret. and pp. ''acrospired'', ppr. ''acrospiring''. [Formerly ''aker-'', ''ackerspire''; from the noun.] To throw out the first leaf; sprout.\n\n'''acrospired''' (ak′rọ̄-spīrd), ''p. a.'' Having or exhibiting the acrospire: especially, in ''malt-making'', applied to the grains of barley which have sprouted so far as to exhibit the blade or plumule-end, together with the root or radicle.",
+   "c1s4": "¶\n'''acrospore''' (ak′rọ̄-spōr), ''n.'' [< Gr. ἄκρος, at the end, + σπορά, seed: see ''spore.''] In ''bot.'', a form of fruit in ''Peronospora'', a genus of microscopic fungi, borne at the ends of erect simple or branching filaments of the mycelium. {{smaller|The term is also applied generally to the reproductive organs of fungi when they are developed at the apex of the mother cell or sporophore.}}\n\n'''acrosporous''' (a-kros′pō-rus), ''a.'' Having spores naked and produced at the tips of cells: applied to one of the two modes in which fruit is formed in fungi. For the other method see ''ascigerous.''\n\n'''across''' (a-krôs′), ''prep. phr.'' as ''adv.'' and ''prep.'' [< late ME. ''acros'' (also ''in cross'', and ''in maner of a cros''); < ''a''<sup>3</sup> + ''cross.''] '''I.''' ''adv.'' '''1.''' From side to side; in a crossing or crossed manner; crosswise.\n{{smaller block|Who calls me villain? breaks my pate ''across?''\n{{right|''Shak.'', Hamlet, ii. 2.}}\n<poem>With arms ''across'',\nHe stood reflecting on his country’s loss. ''Dryden.''</poem>}}",
+   "c2s1": "{{smaller block|[In the exclamation, “Good faith, ''across!''” ''Shak.'', All’s Well, ii. 1, the allusion is to striking an adversary crosswise with the spear in tilting instead of by thrusting, the former being considered disgraceful.]}}\n\n'''2.''' From one side to another; transversely; in a transverse line: as, what is the distance ''across?'' I came ''across'' in a steamer.\n{{smaller block|At a descent into it [cavern of Vaucluse] of thirty or forty feet from the brink where we stood was a pool of water, perhaps thirty feet ''across.''\n{{right|''C. D. Warner'', Roundabout Journey, ii.}}}}\n\n'''3.''' Adversely; contrarily: as, “things go ''across,''” ''Mir. for Mags.'', p. 344.—{{smaller|'''To break across,''' in ''tilting'', to allow one’s spear by awkwardness to be broken across the body of one’s adversary, instead of by the push of the point.}}\n{{smaller block|One said he ''brake across.'' {{right|''Sir P. Sidney.''}}}}\n\n'''II.''' ''prep.'' '''1.''' From side to side of, as opposed to ''along'', which is in the direction of the length; athwart; quite over: as, a bridge is laid ''across'' a river.\n{{smaller block|[The boys] will go down on one side of the yacht . . . and bob up on the other, almost before you have time to run ''across'' the deck. ''Lady Brassey'', Voyage of Sunbeam, I. ii.}}\n\n'''2.''' Transverse to the length of; so as to intersect at any angle: as, a line passing ''across'' another.—'''3.''' Beyond; on the other side of.\n{{smaller block|<poem>O love, we two shall go no longer\nTo lands of summer ''across'' the sea.</poem>\n{{right|''Tennyson'', Daisy.}}}}\n\n{{smaller|'''Across lots,''' by the shortest way; by a short cut. [Colloq.]—'''To come across,''' to meet or fall in with.}}\n{{smaller block|If I ''come across'' a real thinker, . . . I enjoy the luxury of sitting still for a while as much as another.\n{{right|''O. W. Holmes'', The Professor, i.}}}}",
+   "c2s2": "¶\n'''acrostic<sup>1</sup>''' (a-kros′tik), ''n.'' and ''a.'' [= F. ''acrostiche'' = Sp. Pg. It. ''acrostico'', < Gr. ἀκροστίχιον, ἀκροστιχίς, an acrostic, < ἄκρος, at the end, + στίχος, row, order, line, < στείχειν (√ *στιχ), go, walk, march, go in line or order, = AS. ''stīgan'', E. ''sty''<sup>2</sup>, go up. The second element would prop. be ''-stich'', as in ''distich''; it has been assimilated to the common suffix ''-ic''.] '''I.''' ''n.'' '''1.''' A composition in verse, in which the first, or the first and last, or certain other letters of the lines, taken in order, form a name, title, motto, the order of the alphabet, etc.—'''2.''' A Hebrew poem in which the initial letters of the lines or stanzas were made to run over the letters of the alphabet in their order. Twelve of the Psalms are of this character, of which Psalm cxix. is the best example.\n\n'''II.''' ''a.'' Pertaining to, of the nature of, or containing an acrostic: as, ''acrostic'' verses.\n\n'''acrostic<sup>2</sup>†''' (a̤-kros′tik), ''a.'' [< ''across'' (''crossed'', ''crost''), confused with ''acrostic''<sup>1</sup>.] Crossed; folded across; crossing. [Rare.]\n{{smaller block|But what melancholy sir, with ''acrostic'' arms, now comes?\n{{right|''Middleton'', Family of Love, iv. 4.}}}}",
+   "c2s3": "¶\n'''acrostical''' (a̤-kros′ti-ka̤l), ''a.'' Same as ''acrostic''<sup>1</sup>. [Rare or unused.]\n\n'''acrostically''' (a̤-kros′ti-ka̤l-i), ''adv.'' In the manner of an acrostic.\n\n'''acrosticism''' (a̤-kros′ti-sizm), ''n.'' [< ''acrostic''<sup>1</sup> + ''-ism.''] Acrostic arrangement or character.\n\n'''acrostolium''' (ak-rō-stō′li-um), ''n.''; pl. ''acrostolia'' (-ä). [NL., < Gr. ἀκροστόλιον, defined as the same as ἄφλαστον, L. ''aplustre'', which, however, referred to the stern of a ship (see ''aplustre''); also the gunwale of a ship, prop. the extremity of the ship’s beak; < ἄκρος, at the end, + στόλος, a ship’s beak, an appendage, prop. armament, equipment, < στέλλειν, arrange, equip.] An ornament, often gracefully curved and elaborately\n[[FIGURE]]\n{{c|{{smaller|Acrostolium.}}}}\ncarved, surmounting the bows of ancient ships.\n{{smaller block|These ornaments frequently figured among trophies, as it was customary for the victor in a naval combat to take them from the captured ships.}}\n\n'''acrotarsial''' (ak-rō-tär′si-a̤l), ''a.'' Of or pertaining to the acrotarsium.\n\n'''acrotarsium''' (ak-rō-tär′si-um), ''n.''; pl. ''acrotarsia'' (-ä). [NL., < Gr. ἄκρος, at the top, + ταρσός, the sole of the foot: see ''tarsus.''] '''1.''' In ''zoöl.'', the upper surface of the tarsus; the instep of the foot.—'''2.''' In ''ornith.'', the front of the tarsometatarsus, this segment of the limb being called ''tarsus'' in ordinary descriptive ornithology. {{smaller|[The terms ''acropodium'', ''acrotarsium'', and ''acrodactylum'' have varying senses with different writers, or as applied to different animals; properly, the first of these covers the other two, as a whole includes the parts of which it consists. They are little used in any sense. See ''tarsus.'']}}\n\n'''acroteleutic''' (ak″rō-te-lū′tik), ''n.'' [< Gr. ἀκροτελεύτιον, the fag-end, esp. of a verse or poem, < ἄκρος, extreme, + τελευτή, end.] ''Eccles.'', any-",
+   "c3s1": "thing added to the end of a psalm or hymn, as a doxology.\n\n'''acroter''' (ak′rọ̄-tėr), ''n.'' Same as ''acroterium.''\n\n'''acroteral''' (ak′rọ̄-tē′ra̤l), ''a.'' Same as ''acroterial.''\n\n'''acroteria''', ''n.'' Plural of ''acroterium.''\n\n'''acroterial''' (ak-rọ̄-tē′ri-a̤l), ''a.'' [< ''acroterium.''] Pertaining to an acroterium: as, ''acroterial'' ornaments. An equivalent form is ''acroteral.''\n[[FIGURE]]\n{{c|{{smaller|Acroteria.<br>Hypothetical restoration of the gate of the Agora of Athena Archegetis at Athens.}}}}\n\n'''acroterium''' (ak-rọ̄-tē′ri-um), ''n.''; pl. ''acroteria'' (-ä̤). [L., < Gr. ἀκρωτήριον, pl. ἀκρωτήρια, any topmost or prominent part, the end or extremity, in pl. the extremities of the body, the angles of a pediment, < ἄκρος, extreme.] '''1.''' In ''classic arch.'', a small pedestal placed on the apex or angle of a pediment for the support of a statue or other ornament.—'''2.''' (''a'') A statue",
+   "c3s2": "or an ornament placed on such a pedestal. (''b'') Any ornament forming the apex of a building or other structure, or of a monument, such as\n[[FIGURE]]\n{{c|{{smaller|Acroterium.—Choragic Monument of Lysicrates, Athens.}}}}\nthe anthemia of Greek tombstones or the decorations of some modern architectural balustrades. Compare ''antefix.'' Also called ''acroter.''\n\n'''acrothymion, acrothymium''' (ak-rọ̄-thim′i-on, -um), ''n.''; pl. ''acrothymia'' (-ä̤). [NL., < Gr. ἄκρος, at the top, + θύμος, thyme: see ''thyme.''] In ''pathol.'', a rugose wart, with a narrow basis and broad top, compared by Celsus to the flower of thyme. Also called ''thymus.''\n\n'''acrotic''' (a-krot′ik), ''a.'' [Irreg. < Gr. ἀκρότης, an extremity, < ἄκρος, extreme, at the top, on the surface.] In ''pathol.'', belonging to or affecting external surfaces: as, ''acrotic'' diseases.",
+   "c3s3": "¶\n'''acrotism''' (ak′rō-tizm), ''n.'' [< Gr. ἀ- priv. + κρότος, sound of beating, + ''-ism.''] In ''pathol.'', absence or weakness of the pulse.\n\n'''acrotomous''' (a-krot′ō-mus), ''a.'' [< Gr. ἀκρότομος, cut off, sharp, abrupt, < ἄκρος, extreme, at the top, + -τομος, < τέμνειν, cut.] In ''mineral.'', having a cleavage parallel to the top or base.\n\n'''acryl''' (ak′ril), ''n.'' [< ''acr''(''olein'') + ''-yl.''] In ''chem.'', a hypothetical radical (CH<sub>2</sub>:CH.CO) of which acrylic acid is the hydrate.\n\n'''acrylic''' (a-kril′ik), ''a.'' [< ''acryl'' + ''-ic.''] Of or pertaining to acryl.—{{smaller|'''Acrylic acid''', CH<sub>2</sub>:CH.COOH, a pungent, agreeably smelling liquid, produced by the oxidation of acrolein. This acid is monobasic, and its salts are very soluble in water.}}\n\n'''Acryllium''' (a-kril′i-um), ''n.'' [NL., appar. < Gr. ἄκρον, extremity (with ref. to the pointed tail), + dim. term. -ύλλιον.] A notable genus of guinea-fowls, family ''Numididæ.'' {{smaller|The only species is ''A. vulturinum'' of Africa, having the head and upper part of the neck nearly naked, the fore part of the body covered with elongated lanceolate feathers, and the tail pointed with long acute central rectrices. The genus was founded by G. R. Gray in 1840.}}\n\n'''act''' (akt), ''n.'' [< ME. ''act'' = F. ''acte'' = Sp. Pg. ''auto'' and ''acto'' = It. ''atto''; partly (''a'') < L. ''actum'' (pl. ''acta''), a thing done, esp. a public transaction, prop. neut. of ''actus'', pp. of ''agere'', do; and partly (''b'') < L. ''actus'' (pl. ''actūs''), n., the doing of a thing, performance, action, division of a play, < ''agere'', lead, drive, impel, move, cause, make, perform, do, = Gr. ἄγειν, lead, drive, do, = Icel."
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0083 c1f1.png",
+   "c2f1": "century v01 p0083 c2f1.png",
+   "c3f1": "century v01 p0083 c3f1.png",
+   "c3f2": "century v01 p0083 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     48,
+     569,
+     758,
+     1397
+    ],
+    "caption": [
+     175,
+     1409,
+     639,
+     1434
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     50,
+     554,
+     780,
+     1396
+    ]
+   },
+   {
+    "box": [
+     1603,
+     457,
+     2183,
+     906
+    ],
+    "caption": [
+     1576,
+     903,
+     2207,
+     962
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1588,
+     570,
+     2259,
+     924
+    ]
+   },
+   {
+    "box": [
+     1651,
+     1350,
+     2127,
+     1852
+    ],
+    "caption": [
+     1602,
+     1860,
+     2194,
+     1883
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1588,
+     1360,
+     2286,
+     1855
+    ]
+   },
+   {
+    "box": [
+     820,
+     2334,
+     1289,
+     2617
+    ],
+    "caption": [
+     990,
+     2630,
+     1151,
+     2650
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     799,
+     2327,
+     1305,
+     2619
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 5,
+    "input_tokens": 8467,
+    "output_tokens": 311,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9566,
+    "output_tokens": 7839,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 41338
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c2f1": "left"
+  },
+  "fetched_by": "ahaspel"
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|acropodium|57|act}}</noinclude>''rodactylum.'' [Little used in either of these two senses.] — '''3.''' In ''art'', an elevated pedestal bearing a statue, particularly if raised from the substructure on supports or feet; the plinth of a statue or other work of art, if resting on feet. ''Ed. Guillaume.''\n\n'''acropolis''' (a-krop′ọ̄-lis), ''n.'' [L., < Gr. ἀκρόπολις, the upper city, < ἄκρος, highest, upper, + πόλις, a city: see ''police''.] The citadel of a Grecian city, usually the site of the original settlement, and situated on an eminence commanding the\nsurrounding country. {{smaller|When the city spread beyond its earlier limits, the acropolis was generally cleared of its inhabitants and held sacred to the divinities of the state, whose temples were upon it. The acropolis of Athens contained the most splendid productions of Greek art, the Parthenon, the Erechtheum, and the Propylæa.}}\n\n[[File:century v01 p0083 c1f1.png|center|353px]]\n{{c|{{smaller|The Acropolis of Athens, from the southeast.}}}}\n\n'''acrosarcum''' (ak-rọ̄-sär′kum), ''n.''; pl. ''acrosarca'' (-kä). [NL., < Gr. ἄκρος, at the end, + σάρξ (σαρκ-), flesh.] A name given by Desvaux to a berry resulting from an ovary with adnate calyx, as in the currant and cranberry.\n\n'''acrosaurus''' (ak-rọ̄-sâ′rus), ''n.''; pl. ''acrosauri'' (-rī). [NL., < Gr. ἄκρος, extreme, + σαῦρος, a lizard: see ''Saurus''.] An extraordinary fossil reptile, with 30 or 40 teeth and a broad cheekbone process, occurring in the Triassic sandstones of southern Africa.\n\n'''Acrosoma''' (ak-rọ̄-sō′mä), ''n.'' [NL., < Gr. ἄκρον, top, peak, extremity, + σῶμα, body.] A genus of orbitelarian spiders of the family ''Epeiridæ'' (or ''Gastracanthidæ''), having the sides of the abdomen prolonged into immense horns, whence the name. It is a tropical genus with many species.\n\n'''acrospire''' (ak′rọ̄-spīr), ''n.'' [Formerly ''aker-'', ''ackerspire''; < Gr. ἄκρος, at the top, + σπεῖρα, a coil, spire, > L. ''spira'', > E. ''spire'', q. v.] The first leaf which rises above the ground in the germination of grain; also the rudimentary stem or first leaf which appears in malted grain; the developed plumule of the seed.\n\n'''acrospire''' (ak′rọ̄-spīr), ''v. i.''; pret. and pp. ''acrospired'', ppr. ''acrospiring''. [Formerly ''aker-'', ''ackerspire''; from the noun.] To throw out the first leaf; sprout.\n\n'''acrospired''' (ak′rọ̄-spīrd), ''p. a.'' Having or exhibiting the acrospire: especially, in ''malt-making'', applied to the grains of barley which have sprouted so far as to exhibit the blade or plumule-end, together with the root or radicle.\n\n'''acrospore''' (ak′rọ̄-spōr), ''n.'' [< Gr. ἄκρος, at the end, + σπορά, seed: see ''spore.''] In ''bot.'', a form of fruit in ''Peronospora'', a genus of microscopic fungi, borne at the ends of erect simple or branching filaments of the mycelium. {{smaller|The term is also applied generally to the reproductive organs of fungi when they are developed at the apex of the mother cell or sporophore.}}\n\n'''acrosporous''' (a-kros′pō-rus), ''a.'' Having spores naked and produced at the tips of cells: applied to one of the two modes in which fruit is formed in fungi. For the other method see ''ascigerous.''\n\n'''across''' (a-krôs′), ''prep. phr.'' as ''adv.'' and ''prep.'' [< late ME. ''acros'' (also ''in cross'', and ''in maner of a cros''); < ''a''<sup>3</sup> + ''cross.''] '''I.''' ''adv.'' '''1.''' From side to side; in a crossing or crossed manner; crosswise.\n{{smaller block|Who calls me villain? breaks my pate ''across?''\n{{right|''Shak.'', Hamlet, ii. 2.}}\n<poem>With arms ''across'',\nHe stood reflecting on his country’s loss. ''Dryden.''</poem>}}\n{{smaller block|[In the exclamation, “Good faith, ''across!''” ''Shak.'', All’s Well, ii. 1, the allusion is to striking an adversary crosswise with the spear in tilting instead of by thrusting, the former being considered disgraceful.]}}\n\n'''2.''' From one side to another; transversely; in a transverse line: as, what is the distance ''across?'' I came ''across'' in a steamer.\n{{smaller block|At a descent into it [cavern of Vaucluse] of thirty or forty feet from the brink where we stood was a pool of water, perhaps thirty feet ''across.''\n{{right|''C. D. Warner'', Roundabout Journey, ii.}}}}\n\n'''3.''' Adversely; contrarily: as, “things go ''across,''” ''Mir. for Mags.'', p. 344.—{{smaller|'''To break across,''' in ''tilting'', to allow one’s spear by awkwardness to be broken across the body of one’s adversary, instead of by the push of the point.}}\n{{smaller block|One said he ''brake across.'' {{right|''Sir P. Sidney.''}}}}\n\n'''II.''' ''prep.'' '''1.''' From side to side of, as opposed to ''along'', which is in the direction of the length; athwart; quite over: as, a bridge is laid ''across'' a river.\n{{smaller block|[The boys] will go down on one side of the yacht . . . and bob up on the other, almost before you have time to run ''across'' the deck. ''Lady Brassey'', Voyage of Sunbeam, I. ii.}}\n\n'''2.''' Transverse to the length of; so as to intersect at any angle: as, a line passing ''across'' another.—'''3.''' Beyond; on the other side of.\n{{smaller block|<poem>O love, we two shall go no longer\nTo lands of summer ''across'' the sea.</poem>\n{{right|''Tennyson'', Daisy.}}}}\n\n{{smaller|'''Across lots,''' by the shortest way; by a short cut. [Colloq.]—'''To come across,''' to meet or fall in with.}}\n{{smaller block|If I ''come across'' a real thinker, . . . I enjoy the luxury of sitting still for a while as much as another.\n{{right|''O. W. Holmes'', The Professor, i.}}}}\n\n'''acrostic<sup>1</sup>''' (a-kros′tik), ''n.'' and ''a.'' [= F. ''acrostiche'' = Sp. Pg. It. ''acrostico'', < Gr. ἀκροστίχιον, ἀκροστιχίς, an acrostic, < ἄκρος, at the end, + στίχος, row, order, line, < στείχειν (√ *στιχ), go, walk, march, go in line or order, = AS. ''stīgan'', E. ''sty''<sup>2</sup>, go up. The second element would prop. be ''-stich'', as in ''distich''; it has been assimilated to the common suffix ''-ic''.] '''I.''' ''n.'' '''1.''' A composition in verse, in which the first, or the first and last, or certain other letters of the lines, taken in order, form a name, title, motto, the order of the alphabet, etc.—'''2.''' A Hebrew poem in which the initial letters of the lines or stanzas were made to run over the letters of the alphabet in their order. Twelve of the Psalms are of this character, of which Psalm cxix. is the best example.\n\n'''II.''' ''a.'' Pertaining to, of the nature of, or containing an acrostic: as, ''acrostic'' verses.\n\n'''acrostic<sup>2</sup>†''' (a̤-kros′tik), ''a.'' [< ''across'' (''crossed'', ''crost''), confused with ''acrostic''<sup>1</sup>.] Crossed; folded across; crossing. [Rare.]\n{{smaller block|But what melancholy sir, with ''acrostic'' arms, now comes?\n{{right|''Middleton'', Family of Love, iv. 4.}}}}\n\n'''acrostical''' (a̤-kros′ti-ka̤l), ''a.'' Same as ''acrostic''<sup>1</sup>. [Rare or unused.]\n\n'''acrostically''' (a̤-kros′ti-ka̤l-i), ''adv.'' In the manner of an acrostic.\n\n'''acrosticism''' (a̤-kros′ti-sizm), ''n.'' [< ''acrostic''<sup>1</sup> + ''-ism.''] Acrostic arrangement or character.\n\n'''acrostolium''' (ak-rō-stō′li-um), ''n.''; pl. ''acrostolia'' (-ä). [NL., < Gr. ἀκροστόλιον, defined as the same as ἄφλαστον, L. ''aplustre'', which, however, referred to the stern of a ship (see ''aplustre''); also the gunwale of a ship, prop. the extremity of the ship’s beak; < ἄκρος, at the end, + στόλος, a ship’s beak, an appendage, prop. armament, equipment, < στέλλειν, arrange, equip.] An ornament, often gracefully curved and elaborately {{img float|file=century v01 p0083 c2f1.png|width=238px|align=left|cap={{smaller|Acrostolium.}}}} carved, surmounting the bows of ancient ships.\n{{smaller block|These ornaments frequently figured among trophies, as it was customary for the victor in a naval combat to take them from the captured ships.}}\n\n'''acrotarsial''' (ak-rō-tär′si-a̤l), ''a.'' Of or pertaining to the acrotarsium.\n\n'''acrotarsium''' (ak-rō-tär′si-um), ''n.''; pl. ''acrotarsia'' (-ä). [NL., < Gr. ἄκρος, at the top, + ταρσός, the sole of the foot: see ''tarsus.''] '''1.''' In ''zoöl.'', the upper surface of the tarsus; the instep of the foot.—'''2.''' In ''ornith.'', the front of the tarsometatarsus, this segment of the limb being called ''tarsus'' in ordinary descriptive ornithology. {{smaller|[The terms ''acropodium'', ''acrotarsium'', and ''acrodactylum'' have varying senses with different writers, or as applied to different animals; properly, the first of these covers the other two, as a whole includes the parts of which it consists. They are little used in any sense. See ''tarsus.'']}}\n\n'''acroteleutic''' (ak″rō-te-lū′tik), ''n.'' [< Gr. ἀκροτελεύτιον, the fag-end, esp. of a verse or poem, < ἄκρος, extreme, + τελευτή, end.] ''Eccles.'', anything added to the end of a psalm or hymn, as a doxology.\n\n'''acroter''' (ak′rọ̄-tėr), ''n.'' Same as ''acroterium.''\n\n'''acroteral''' (ak′rọ̄-tē′ra̤l), ''a.'' Same as ''acroterial.''\n\n'''acroteria''', ''n.'' Plural of ''acroterium.''\n\n'''acroterial''' (ak-rọ̄-tē′ri-a̤l), ''a.'' [< ''acroterium.''] Pertaining to an acroterium: as, ''acroterial'' ornaments. An equivalent form is ''acroteral.''\n\n[[File:century v01 p0083 c3f1.png|center|292px]]\n{{c|{{smaller|Acroteria.<br>Hypothetical restoration of the gate of the Agora of Athena Archegetis at Athens.}}}}\n\n'''acroterium''' (ak-rọ̄-tē′ri-um), ''n.''; pl. ''acroteria'' (-ä̤). [L., < Gr. ἀκρωτήριον, pl. ἀκρωτήρια, any topmost or prominent part, the end or extremity, in pl. the extremities of the body, the angles of a pediment, < ἄκρος, extreme.] '''1.''' In ''classic arch.'', a small pedestal placed on the apex or angle of a pediment for the support of a statue or other ornament.—'''2.''' (''a'') A statue or an ornament placed on such a pedestal. (''b'') Any ornament forming the apex of a building or other structure, or of a monument, such as\nthe anthemia of Greek tombstones or the decorations of some modern architectural balustrades. Compare ''antefix.'' Also called ''acroter.''\n\n[[File:century v01 p0083 c3f2.png|center|242px]]\n{{c|{{smaller|Acroterium.—Choragic Monument of Lysicrates, Athens.}}}}\n\n'''acrothymion, acrothymium''' (ak-rọ̄-thim′i-on, -um), ''n.''; pl. ''acrothymia'' (-ä̤). [NL., < Gr. ἄκρος, at the top, + θύμος, thyme: see ''thyme.''] In ''pathol.'', a rugose wart, with a narrow basis and broad top, compared by Celsus to the flower of thyme. Also called ''thymus.''\n\n'''acrotic''' (a-krot′ik), ''a.'' [Irreg. < Gr. ἀκρότης, an extremity, < ἄκρος, extreme, at the top, on the surface.] In ''pathol.'', belonging to or affecting external surfaces: as, ''acrotic'' diseases.\n\n'''acrotism''' (ak′rō-tizm), ''n.'' [< Gr. ἀ- priv. + κρότος, sound of beating, + ''-ism.''] In ''pathol.'', absence or weakness of the pulse.\n\n'''acrotomous''' (a-krot′ō-mus), ''a.'' [< Gr. ἀκρότομος, cut off, sharp, abrupt, < ἄκρος, extreme, at the top, + -τομος, < τέμνειν, cut.] In ''mineral.'', having a cleavage parallel to the top or base.\n\n'''acryl''' (ak′ril), ''n.'' [< ''acr''(''olein'') + ''-yl.''] In ''chem.'', a hypothetical radical (CH<sub>2</sub>:CH.CO) of which acrylic acid is the hydrate.\n\n'''acrylic''' (a-kril′ik), ''a.'' [< ''acryl'' + ''-ic.''] Of or pertaining to acryl.—{{smaller|'''Acrylic acid''', CH<sub>2</sub>:CH.COOH, a pungent, agreeably smelling liquid, produced by the oxidation of acrolein. This acid is monobasic, and its salts are very soluble in water.}}\n\n'''Acryllium''' (a-kril′i-um), ''n.'' [NL., appar. < Gr. ἄκρον, extremity (with ref. to the pointed tail), + dim. term. -ύλλιον.] A notable genus of guinea-fowls, family ''Numididæ.'' {{smaller|The only species is ''A. vulturinum'' of Africa, having the head and upper part of the neck nearly naked, the fore part of the body covered with elongated lanceolate feathers, and the tail pointed with long acute central rectrices. The genus was founded by G. R. Gray in 1840.}}\n\n'''act''' (akt), ''n.'' [< ME. ''act'' = F. ''acte'' = Sp. Pg. ''auto'' and ''acto'' = It. ''atto''; partly (''a'') < L. ''actum'' (pl. ''acta''), a thing done, esp. a public transaction, prop. neut. of ''actus'', pp. of ''agere'', do; and partly (''b'') < L. ''actus'' (pl. ''actūs''), n., the doing of a thing, performance, action, division of a play, < ''agere'', lead, drive, impel, move, cause, make, perform, do, = Gr. ἄγειν, lead, drive, do, = Icel.<noinclude><references/></noinclude>"
+}
