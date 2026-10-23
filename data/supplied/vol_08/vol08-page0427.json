@@ -1,0 +1,213 @@
+{
+ "volume": 8,
+ "page_number": 427,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n426.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n426.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-22",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 786,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     16,
+     103,
+     2277,
+     145
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     16,
+     145,
+     814,
+     1229
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     16,
+     1229,
+     814,
+     1449
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     16,
+     1449,
+     814,
+     2437
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     16,
+     2437,
+     814,
+     3249
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     814,
+     145,
+     1546,
+     1022
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     814,
+     1022,
+     1546,
+     2084
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     814,
+     2084,
+     1546,
+     3147
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     814,
+     3147,
+     1546,
+     3249
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1546,
+     145,
+     2277,
+     1229
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1546,
+     1229,
+     2277,
+     2078
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1546,
+     2078,
+     2277,
+     3164
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1546,
+     3164,
+     2277,
+     3249
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|univalve|6623|university}}",
+   "c1s1": "{{smaller block|body-whorl or aperture are collectively the ''spire'', ending at the tip, point, or ''apex''. The opposite end of the shell is the ''base'', which often presents a depression, the ''umbilicus;'' the circumference, a completely lipped aperture, is the ''peristome''. The spiral line between the successive whorls or volutions is the ''suture''. See words italicized above with various cuts there, or there cited.}}\n\n¶\n'''univalved''' (ū′ni-valvd), ''a.'' [As ''univalve'' + ''-ed''<sup>2</sup>.] Same as ''univalve''.\n\n'''univalvular''' (ū-ni-val′vụ̄-lär), ''a.'' [As ''univalve'' + ''-ul-ar''.] Same as ''univalve''.\n\n'''universal''' (ū-ni-vėr′sạl), ''a.'' and ''n.'' [< F. ''universel'' = Sp. Pg. ''universal'' = It. ''universale'', < L. ''universalis'', of or belonging to all or to the whole, < ''universus'', all together, whole, entire, collective, general: see ''universe''. Hence colloq. abbr. ''versal'', ''varsal''.] '''I.''' ''a.'' '''1.''' Pertaining to the universe in its entirety, or to the human race collectively.\n{{smaller block|Sole monarch of the ''universal'' earth.\n{{right|''Shak.'', R. and J., iii. 2. 94.}}}}\n{{smaller block|All partial evil, ''universal'' good.\n{{right|''Pope'', Essay on Man, i. 292.}}}}\n'''2.''' Pertaining to all things or to all mankind distributively. This is the original and most proper signification.\n{{smaller block|Those men which have no written law of God to shew what is good or evil carry written in their hearts the ''universal'' law of mankind, the Law of Reason, whereby they judge, as by a rule which God hath given unto all men for that purpose. {{right|''Hooker'', Eccles. Polity, i. 16.}}}}\n{{smaller block|Nothing can be to us Catholic or ''universal'' in Religion but what the Scripture teaches.\n{{right|''Milton'', Eikonoklastes, xiii.}}}}\n{{smaller block|Which had the ''universal'' sanction of their own and all former ages. {{right|''Story'', Speech, Salem, Sept. 18, 1828.}}}}",
+   "c1s2": "¶\n'''3.''' Belonging to or predicated of all the members of a class considered without exception: as, a ''universal'' rule. {{smaller|This meaning arose in logic, where it is called the complex sense of ''universal'', and has been common in Latin since the second century.}}\n{{smaller block|Hearing applause and ''universal'' shout.\n{{right|''Shak.'', M. of V., iii. 2. 144.}}}}",
+   "c1s3": "¶\n{{smaller block|We say that every argument which tells in favour of the ''universal'' suffrage of the males tells equally in favour of female suffrage. {{right|''Macaulay'', West. Rev. Def. of Mill.}}}}\n\n'''4.''' In ''logic'', capable of being predicated of many individuals or single cases; general. {{smaller|This, called the simple sense of ''universal'', in which the word is precisely equivalent to ''general'', is quite opposed to its etymology, and perpetuates a confusion of thought due to Aristotle, whose καθόλου it translates. (See II., 1 (''b'').) In Latin it is nearly as old, perhaps older, than def. 3.—'''Universal agent,''' in ''law'', an agent with unqualified power to act, in place of his principal, in all things which the latter can delegate, as distinguished from a ''general agent'', who has unrestricted power in respect to a particular kind of business or at a particular place.—'''Universal arithmetic,''' algebra.—'''Universal chuck,''' a form of chuck having a face-plate with dogs which can move radially and simultaneously, to hold objects of different sizes.—'''Universal church,''' in ''theol.'', the church of God throughout the world.—'''Universal cognition.''' See ''cognition.'' —'''Universal compass,''' a compass with extension legs adapted for striking circles of either large or small size.—'''Universal conception,''' a general concept.—'''Universal conversion.''' See ''conversion'', 2.—'''Universal coupling,''' a coupling so made that the parts united may meet at various angles, as a gimbal joint.—'''Universal deluge.''' See ''deluge'', 1.—'''Universal dial.''' See ''dial.''—'''Universal ferment.''' See ''ferment.''—'''Universal Friends,''' an American sect of the eighteenth century, followers of Jemima Wilkinson, who professed to have prophetic and miraculous powers.—'''Universal galvanometer,''' a galvanometer capable of measuring either currents or electromotive forces or resistances. It usually consists of an ordinary galvanometer, which may have any suitable form, combined with a set of resistance-coils and a slide-bridge all mounted on one base.—'''Universal gravitation.''' See ''gravitation.''—'''Universal instrument,''' in ''astron.'', a species of altitude and azimuth instrument constructed so as}}",
+   "c1s4": "{{smaller|to combine portability with great power. The telescope of the instrument, instead of being a straight tube, is usually broken into two arms at right angles to each other in the middle of its length, and at the break a totally reflecting prism turns the rays entering the object-glass along the eye-end of the telescope which forms part of the horizontal axis of the circle, so that the telescope becomes free to move through all altitudes.—'''Universal joint.''' See ''joint.''—'''Universal legatee''', in ''Scots law'', a legatee to whom a testator gives his whole estate, subject only to the burden of other legacies and debts.—'''Universal lever, logic, method, partnership.''' See the nouns.—'''Universal mood''', a mood of syllogism concluding a universal proposition.—'''Universal part''', a part of a universal whole. ''Sir W. Hamilton.''—'''Universal Postal Union.''' See ''postal.''—'''Universal proposition.''' See ''proposition.''—'''Universal successor''', in ''Scots law'', an heir who succeeds to the whole of the heritage of a person who dies intestate.—'''Universal suffrage.''' See ''suffrage.''—'''Universal switch''', an apparatus used in telegraph- and telephone-offices for facilitating the connecting of one line to another. It usually consists of a large board or slab of insulating material, on the face of which are mounted two sets of parallel conducting-rods placed across one another. Each rod forms the terminal of one line, and hence any two lines can be connected together by a plug where their terminal rods cross each other.—'''Universal syllogism, theorem, time,''' etc. See the nouns.—'''Universal umbel.''' See ''umbel.''—'''Universal unity''', the capability of existing in many subjects while retaining its identity. This is the unity of a general character belonging to many objects.—'''Universal validity''', cogency}}",
+   "c2s1": "{{smaller|for all men. This is a phrase used by certain writers who misapprehend the doctrine of Kant.—'''Universal whole,''' a class with respect to the subjects included under it. ='''Syn. 3.''' ''General'', etc. See ''common''.}}\n\n'''II.''' ''n.'' '''1.''' In ''logic'': (''a'') One of the five predicables of the Aristotelians, or logical varieties of predicates, which are said to be genus, species, difference, property, and accident. (''b'') A general term or predicate, or the general nature which such a term signifies. {{smaller|In order to understand the great dispute concerning universals it is necessary to remark that the word in this sense entirely departs from its etymology. The universe is incapable of general description, and consists of objects connected by dynamical relations and recognized by associations of contiguity; while a universal is an idea connected with experience by associations of resemblance merely. But though a universal is, in its universality, thus not contracted to actual existence, it does not necessarily follow that things real have in their real existence no universal predicates. The common belief is that the mutual actions of things are subjected to laws that are really general—that the laws of mechanics, for instance, are not mere accidental uniformities, but have a real virtue. These laws may be subject to exceptions and interference; such has always been the vulgar belief, and in most ages that of philosophers; it may be they are never precisely followed. But any tendency in the things themselves toward generalizations of their characters constitutes what is termed a ''universal in re''. Before the laws of physics were established it was particularly the uniformities of heredity, and consequent commonness of organic forms, which specially attracted attention; so that ''man'' and ''horse'' are the tradi-}}",
+   "c2s2": "{{smaller block|tional examples of universals ''in re.'' The dispute concerning universals chiefly concerns the universals ''in re,'' and arises from the different degrees of importance attributed by different minds to the dynamical and to the intelligible relations of things. Those who follow the common opinion are called ''realists.'' The other party, looking at the blind dynamical character of the connections of things, denies that there is any real operation of law or intelligible guidance. These are the ''nominalists,'' who may take one of three main positions. First, there are those who hold that the uniformities of nature are due to the interference on every single occasion of general creative ideas, called ''universals ante rem.'' Second, there are those who, admitting that intelligible relations do govern one great department of creation—namely, the world of thought, so that there are general conceptions, called ''universals post rem''—insist that the notion of a law of nature, properly speaking, is purely illusory. Things as they are are therefore entirely incomprehensible, and all that is intelligible is mere seeming. Yet this seeming has so consistent a character that it is for all intents and purposes the real world; and this seemingly real world is seemingly governed by law, which, indeed, is the only feature in it which makes it seem like real. This is substantially Kantianism. Third, there are those who deny universals ''in re, ante rem,'' and ''post rem,'' holding that association by resemblance is reducible to association by contiguity, that generalization takes place only upon paper or in talk, and that every fact is at bottom unintelligible. In the middle ages, if not at all times, the realistic opinion has often been carried too far, the mere resemblances of things, which are nothing but the native tendency of the mind to associate them, being supposed to indicate more intimate dynamical relations than can justly be inferred on such a ground alone.}}\n'''2†.''' The whole; the system of the universe.\n{{smaller block|To what end had the angel been set to keep the entrance into Paradise after Adam’s expulsion if the ''universal'' had been paradise?\n{{right|''Raleigh,'' Hist. World.}}}}\n\n'''Posterioristic''' and '''prioristic universals.''' See ''posterioristic.''",
+   "c2s3": "¶\n'''Universalian''' (ū″ni-vėr-sā′li-a̤n), ''a.'' [< ''universal'' + ''-ian.''] Same as ''Universalist.'' [Rare.]\n\n'''universalisation, universalise,''' etc. See ''universalization,'' etc.\n\n'''Universalism''' (ū-ni-vėr′sa̤l-izm), ''n.'' [< ''universal'' + ''-ism.''] The doctrine or belief of Universalists.\n\n'''Universalist''' (ū-ni-vėr′sa̤l-ist), ''a.'' and ''n.'' [< ''universal'' + ''-ist.''] '''I.''' ''a.'' Of or pertaining to Universalism: as, ''Universalist'' views.\n\n'''II.''' ''n.'' '''1.''' One who, professing the Christian faith, believes that all mankind will eventually be redeemed from sin and suffering, and brought back to holiness and God. {{smaller|The name is properly applicable to all those who hold to the final salvation of all men; but it is specifically applied to a body of Christians with a distinct church organization, who, like the Unitarians, have no authoritative symbol of doctrine, and on other points than the salvation of the race differ among themselves.}}\n'''2.''' [''l. c.''] One who affects to understand everything. [Rare.]\n{{smaller block|A modern freethinker is an ''universalist'' in speculation; any proposition whatsoever he is ready to decide; self-assurance supplies all want of abilities.\n{{right|''Bentley,'' Phileleutherus Lipsiensis, § 3.}}}}\n\n'''universalistic''' (ū-ni-vėr-sa̤-lis′tik), ''a.'' [< ''universalist'' + ''-ic.''] '''1.''' Of, relating to, or affecting the whole; universal.\n{{smaller block|Distinguishing hedonism into the two kinds, egoistic and ''universalistic,'' according as the happiness sought is that of the actor himself or is that of all.\n{{right|''H. Spencer,'' Data of Ethics, p. 151.}}}}\n'''2.''' [''cap.''] Of or pertaining to Universalism; Universalist.",
+   "c2s4": "¶\n'''universality''' (ū″ni-vėr-sal′i-ti), ''n.'' [< F. ''universalité'' = Sp. ''universalidad'' = Pg. ''universalidade'' = It. ''universalità'', < ML. ''universalita(t-)s'', < L.",
+   "c3s1": "''universalis'', universal: see ''universal.''] '''1.''' The state or character of being universal; unlimited application or extent.\n{{smaller block|Set before your faith the freeness and the ''universality'' of the promise. Consider of God’s offer, and urging it upon all; and that he hath excepted from the conditional covenant no man in the world. {{right|''Baxter'', Saints’ Rest, iv. 4.}}\nAnother objection to all this remedy is, its want of ''universality.'' {{right|''Sterne'', Tristram Shandy, ix. 14.}}}}\n'''2.''' Unlimited adaptability; boundless versatility.\n{{smaller block|It was soon manifested that Garrick’s ''universality'', by reason of his natural endowments and acquired accomplishments, would no longer admit of any competitor for theatrical fame. {{right|''Life of Quin'' (reprint 1887), p. 37.}}}}\n'''3†.''' The universe. ''Sir P. Sidney'', Arcadia, iii.\n\n'''universalization''' (ū-ni-vėr″sạl-i-zā′shọn), ''n.'' [< ''universalize'' + ''-ation.''] The act or process of making universal or general; generalization. Also spelled ''universalisation.''\n{{smaller block|Reflexion, by separating the essence or species from the subsistence, obtains the full specific idea (''universalization''). {{right|''Encyc. Brit.'', XX. 853.}}}}\n\n'''universalize''' (ū-ni-vėr′sạl-īz), ''v. t.'' and ''i.''; pret. and pp. ''universalized'', ppr. ''universalizing.'' [= F. ''universaliser;'' as ''universal'' + ''-ize.''] To make universal; generalize. ''Berkeley.'' Also spelled ''universalise.''\n{{smaller block|To find out what is morally right, we have only to ask what actions may be ''universalised.'' ''Caird'', Hegel, p. 121.\nThe former Realism and Nominalism were lifted into a higher phase by the principle of the ''universalising'' action of intellect. {{right|''Encyc. Brit.'', II. 269.}}}}\n\n'''universally''' (ū-ni-vėr′sạl-i), ''adv.'' In a universal manner; as a universal; with extension to",
+   "c3s2": "the whole; in a manner to comprehend all; without exception.\n\n'''universalness''' (ū-ni-vėr′sa̤l-nes), ''n.'' Universality.\n\n'''universanimous''' (ū″ni-vėr-san′i-mus), ''a.'' [< L. ''universus'', general, + ''animus'', mind.] Of one mind or opinion; unanimous. ''Lowell'', Biglow Papers, 2d ser., p. 36. [Rare.]\n\n'''universe''' (ū′ni-vėrs), ''n.'' [< F. ''univers'' = Sp. Pg. It. ''universo'', < L. ''universum'', all things, as a whole, the universe, neut. of ''universus'', OL. ''oinovorsus'', also contr. ''oinvorsus'', later ''unvorsus'', all together, whole, entire, collective, general, lit. turned or combined into one, < ''unus'', one, + ''vertere'', pp. ''versus'', turn.] '''1.''' The totality of existing things; all that is in dynamical connection with general experience taken collectively—embracing (''a'') the Creator and creation; or (''b'') psychical and material objects, but excluding the Creator; or (''c'') material objects only.\n{{smaller block|<poem>For nothing in this wide ''universe'' I call,\nSave thou, my rose; in it thou art my all.</poem>\n{{right|''Shak.'', Sonnets, cix.}}\nFor this beauty of the ''universe'' is an emblem and revelation of the Divinity. {{right|''Channing'', Perfect Life, p. 13.}}}}\n'''2.''' The whole world; all mankind; all that",
+   "c3s3": "meets us in experience, in a loose sense.—'''3.''' In ''logic'', the collection of all the objects to which any discourse refers: as, the ''universe'' of things. {{smaller|The things belonging to a universe cannot be defined or discriminated by any general characters; for every universal proposition excludes some general description of objects from the universe which had been supposed to be found in it. It is only in their dynamical connections that the objects of the universe can be distinguished from all others; and therefore no general term in a proposition can show what universe is meant; but an index is necessary. See ''index'', ''n.'', 2.}}\n{{smaller block|Everything in the ''universe'' (whatever that ''universe'' may embrace) is either A or not A.\n{{right|''De Morgan'', Formal Logic (1847), ii.}}\nWe must be supposed to know the nature and limits of the ''universe'' of discourse with which we are concerned, whether we state it or not. If we are talking of ordinary phenomena we must know whether we refer to them without limit of time and space; and if not, within what limits, broadly speaking. If we include the realms of fiction and imagination we must know what boundaries we mean to put upon them. {{right|''Venn'', Symbolic Logic, vi.}}}}\n\n'''Egg of the universe.''' {{smaller|See ''egg''<sup>1</sup>.}}—'''The hub of the universe.''' {{smaller|See ''hub''.}}—'''Tree of the universe.''' {{smaller|See ''Yggdrasil''.}}—'''Universe of discourse,''' {{smaller|a universe in sense 3, above.}}\n\n'''university''' (ū-ni-vėr′si-ti), ''n.''; pl. ''universities'' (-tiz). [< ME. ''universite'', < OF. ''universite'', F. ''université'' = Sp. ''universidad'' = Pg. ''universidade'' = It. ''università'' = D. ''universiteit'' = G. ''universität'' = Dan. Sw. ''universitet'' = Russ. ''universitetŭ'', < L. ''universita(t-)s'', the whole, the universe, LL. a society, company, corporation, gild, ML. a university, < ''universus'', all together, whole, entire, collective, general: see ''universe''.] '''1†.''' The whole; the universe.\n{{smaller block|The eye of intelligence is heyere, for it surmounteth the envyronynge of the ''universite''.}}",
+   "c3s4": "{{smaller block|{{right|''Chaucer'', Boëthius, v. prose 4.}}\nSpeaking with respect to the ''university'' of things.\n{{right|''Barrow'', Sermons, II. 12.}}}}"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "1": [
+    0,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 13,
+    "input_tokens": 9815,
+    "output_tokens": 9359,
+    "cache_creation_input_tokens": 3966,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|univalve|6623|university}}</noinclude>{{smaller block|body-whorl or aperture are collectively the ''spire'', ending at the tip, point, or ''apex''. The opposite end of the shell is the ''base'', which often presents a depression, the ''umbilicus;'' the circumference, a completely lipped aperture, is the ''peristome''. The spiral line between the successive whorls or volutions is the ''suture''. See words italicized above with various cuts there, or there cited.}}\n\n'''univalved''' (ū′ni-valvd), ''a.'' [As ''univalve'' + ''-ed''<sup>2</sup>.] Same as ''univalve''.\n\n'''univalvular''' (ū-ni-val′vụ̄-lär), ''a.'' [As ''univalve'' + ''-ul-ar''.] Same as ''univalve''.\n\n'''universal''' (ū-ni-vėr′sạl), ''a.'' and ''n.'' [< F. ''universel'' = Sp. Pg. ''universal'' = It. ''universale'', < L. ''universalis'', of or belonging to all or to the whole, < ''universus'', all together, whole, entire, collective, general: see ''universe''. Hence colloq. abbr. ''versal'', ''varsal''.] '''I.''' ''a.'' '''1.''' Pertaining to the universe in its entirety, or to the human race collectively.\n{{smaller block|Sole monarch of the ''universal'' earth.\n{{right|''Shak.'', R. and J., iii. 2. 94.}}}}\n{{smaller block|All partial evil, ''universal'' good.\n{{right|''Pope'', Essay on Man, i. 292.}}}}\n'''2.''' Pertaining to all things or to all mankind distributively. This is the original and most proper signification.\n{{smaller block|Those men which have no written law of God to shew what is good or evil carry written in their hearts the ''universal'' law of mankind, the Law of Reason, whereby they judge, as by a rule which God hath given unto all men for that purpose. {{right|''Hooker'', Eccles. Polity, i. 16.}}}}\n{{smaller block|Nothing can be to us Catholic or ''universal'' in Religion but what the Scripture teaches.\n{{right|''Milton'', Eikonoklastes, xiii.}}}}\n{{smaller block|Which had the ''universal'' sanction of their own and all former ages. {{right|''Story'', Speech, Salem, Sept. 18, 1828.}}}}\n\n'''3.''' Belonging to or predicated of all the members of a class considered without exception: as, a ''universal'' rule. {{smaller|This meaning arose in logic, where it is called the complex sense of ''universal'', and has been common in Latin since the second century.}}\n{{smaller block|Hearing applause and ''universal'' shout.\n{{right|''Shak.'', M. of V., iii. 2. 144.}}}}\n\n{{smaller block|We say that every argument which tells in favour of the ''universal'' suffrage of the males tells equally in favour of female suffrage. {{right|''Macaulay'', West. Rev. Def. of Mill.}}}}\n\n'''4.''' In ''logic'', capable of being predicated of many individuals or single cases; general. {{smaller|This, called the simple sense of ''universal'', in which the word is precisely equivalent to ''general'', is quite opposed to its etymology, and perpetuates a confusion of thought due to Aristotle, whose καθόλου it translates. (See II., 1 (''b'').) In Latin it is nearly as old, perhaps older, than def. 3.—'''Universal agent,''' in ''law'', an agent with unqualified power to act, in place of his principal, in all things which the latter can delegate, as distinguished from a ''general agent'', who has unrestricted power in respect to a particular kind of business or at a particular place.—'''Universal arithmetic,''' algebra.—'''Universal chuck,''' a form of chuck having a face-plate with dogs which can move radially and simultaneously, to hold objects of different sizes.—'''Universal church,''' in ''theol.'', the church of God throughout the world.—'''Universal cognition.''' See ''cognition.'' —'''Universal compass,''' a compass with extension legs adapted for striking circles of either large or small size.—'''Universal conception,''' a general concept.—'''Universal conversion.''' See ''conversion'', 2.—'''Universal coupling,''' a coupling so made that the parts united may meet at various angles, as a gimbal joint.—'''Universal deluge.''' See ''deluge'', 1.—'''Universal dial.''' See ''dial.''—'''Universal ferment.''' See ''ferment.''—'''Universal Friends,''' an American sect of the eighteenth century, followers of Jemima Wilkinson, who professed to have prophetic and miraculous powers.—'''Universal galvanometer,''' a galvanometer capable of measuring either currents or electromotive forces or resistances. It usually consists of an ordinary galvanometer, which may have any suitable form, combined with a set of resistance-coils and a slide-bridge all mounted on one base.—'''Universal gravitation.''' See ''gravitation.''—'''Universal instrument,''' in ''astron.'', a species of altitude and azimuth instrument constructed so as to combine portability with great power. The telescope of the instrument, instead of being a straight tube, is usually broken into two arms at right angles to each other in the middle of its length, and at the break a totally reflecting prism turns the rays entering the object-glass along the eye-end of the telescope which forms part of the horizontal axis of the circle, so that the telescope becomes free to move through all altitudes.—'''Universal joint.''' See ''joint.''—'''Universal legatee''', in ''Scots law'', a legatee to whom a testator gives his whole estate, subject only to the burden of other legacies and debts.—'''Universal lever, logic, method, partnership.''' See the nouns.—'''Universal mood''', a mood of syllogism concluding a universal proposition.—'''Universal part''', a part of a universal whole. ''Sir W. Hamilton.''—'''Universal Postal Union.''' See ''postal.''—'''Universal proposition.''' See ''proposition.''—'''Universal successor''', in ''Scots law'', an heir who succeeds to the whole of the heritage of a person who dies intestate.—'''Universal suffrage.''' See ''suffrage.''—'''Universal switch''', an apparatus used in telegraph- and telephone-offices for facilitating the connecting of one line to another. It usually consists of a large board or slab of insulating material, on the face of which are mounted two sets of parallel conducting-rods placed across one another. Each rod forms the terminal of one line, and hence any two lines can be connected together by a plug where their terminal rods cross each other.—'''Universal syllogism, theorem, time,''' etc. See the nouns.—'''Universal umbel.''' See ''umbel.''—'''Universal unity''', the capability of existing in many subjects while retaining its identity. This is the unity of a general character belonging to many objects.—'''Universal validity''', cogency for all men. This is a phrase used by certain writers who misapprehend the doctrine of Kant.—'''Universal whole,''' a class with respect to the subjects included under it. ='''Syn. 3.''' ''General'', etc. See ''common''.}}\n\n'''II.''' ''n.'' '''1.''' In ''logic'': (''a'') One of the five predicables of the Aristotelians, or logical varieties of predicates, which are said to be genus, species, difference, property, and accident. (''b'') A general term or predicate, or the general nature which such a term signifies. {{smaller|In order to understand the great dispute concerning universals it is necessary to remark that the word in this sense entirely departs from its etymology. The universe is incapable of general description, and consists of objects connected by dynamical relations and recognized by associations of contiguity; while a universal is an idea connected with experience by associations of resemblance merely. But though a universal is, in its universality, thus not contracted to actual existence, it does not necessarily follow that things real have in their real existence no universal predicates. The common belief is that the mutual actions of things are subjected to laws that are really general—that the laws of mechanics, for instance, are not mere accidental uniformities, but have a real virtue. These laws may be subject to exceptions and interference; such has always been the vulgar belief, and in most ages that of philosophers; it may be they are never precisely followed. But any tendency in the things themselves toward generalizations of their characters constitutes what is termed a ''universal in re''. Before the laws of physics were established it was particularly the uniformities of heredity, and consequent commonness of organic forms, which specially attracted attention; so that ''man'' and ''horse'' are the traditional examples of universals ''in re.'' The dispute concerning universals chiefly concerns the universals ''in re,'' and arises from the different degrees of importance attributed by different minds to the dynamical and to the intelligible relations of things. Those who follow the common opinion are called ''realists.'' The other party, looking at the blind dynamical character of the connections of things, denies that there is any real operation of law or intelligible guidance. These are the ''nominalists,'' who may take one of three main positions. First, there are those who hold that the uniformities of nature are due to the interference on every single occasion of general creative ideas, called ''universals ante rem.'' Second, there are those who, admitting that intelligible relations do govern one great department of creation—namely, the world of thought, so that there are general conceptions, called ''universals post rem''—insist that the notion of a law of nature, properly speaking, is purely illusory. Things as they are are therefore entirely incomprehensible, and all that is intelligible is mere seeming. Yet this seeming has so consistent a character that it is for all intents and purposes the real world; and this seemingly real world is seemingly governed by law, which, indeed, is the only feature in it which makes it seem like real. This is substantially Kantianism. Third, there are those who deny universals ''in re, ante rem,'' and ''post rem,'' holding that association by resemblance is reducible to association by contiguity, that generalization takes place only upon paper or in talk, and that every fact is at bottom unintelligible. In the middle ages, if not at all times, the realistic opinion has often been carried too far, the mere resemblances of things, which are nothing but the native tendency of the mind to associate them, being supposed to indicate more intimate dynamical relations than can justly be inferred on such a ground alone.}}\n'''2†.''' The whole; the system of the universe.\n{{smaller block|To what end had the angel been set to keep the entrance into Paradise after Adam’s expulsion if the ''universal'' had been paradise?\n{{right|''Raleigh,'' Hist. World.}}}}\n\n'''Posterioristic''' and '''prioristic universals.''' See ''posterioristic.''\n\n'''Universalian''' (ū″ni-vėr-sā′li-a̤n), ''a.'' [< ''universal'' + ''-ian.''] Same as ''Universalist.'' [Rare.]\n\n'''universalisation, universalise,''' etc. See ''universalization,'' etc.\n\n'''Universalism''' (ū-ni-vėr′sa̤l-izm), ''n.'' [< ''universal'' + ''-ism.''] The doctrine or belief of Universalists.\n\n'''Universalist''' (ū-ni-vėr′sa̤l-ist), ''a.'' and ''n.'' [< ''universal'' + ''-ist.''] '''I.''' ''a.'' Of or pertaining to Universalism: as, ''Universalist'' views.\n\n'''II.''' ''n.'' '''1.''' One who, professing the Christian faith, believes that all mankind will eventually be redeemed from sin and suffering, and brought back to holiness and God. {{smaller|The name is properly applicable to all those who hold to the final salvation of all men; but it is specifically applied to a body of Christians with a distinct church organization, who, like the Unitarians, have no authoritative symbol of doctrine, and on other points than the salvation of the race differ among themselves.}}\n'''2.''' [''l. c.''] One who affects to understand everything. [Rare.]\n{{smaller block|A modern freethinker is an ''universalist'' in speculation; any proposition whatsoever he is ready to decide; self-assurance supplies all want of abilities.\n{{right|''Bentley,'' Phileleutherus Lipsiensis, § 3.}}}}\n\n'''universalistic''' (ū-ni-vėr-sa̤-lis′tik), ''a.'' [< ''universalist'' + ''-ic.''] '''1.''' Of, relating to, or affecting the whole; universal.\n{{smaller block|Distinguishing hedonism into the two kinds, egoistic and ''universalistic,'' according as the happiness sought is that of the actor himself or is that of all.\n{{right|''H. Spencer,'' Data of Ethics, p. 151.}}}}\n'''2.''' [''cap.''] Of or pertaining to Universalism; Universalist.\n\n'''universality''' (ū″ni-vėr-sal′i-ti), ''n.'' [< F. ''universalité'' = Sp. ''universalidad'' = Pg. ''universalidade'' = It. ''universalità'', < ML. ''universalita(t-)s'', < L. ''universalis'', universal: see ''universal.''] '''1.''' The state or character of being universal; unlimited application or extent.\n{{smaller block|Set before your faith the freeness and the ''universality'' of the promise. Consider of God’s offer, and urging it upon all; and that he hath excepted from the conditional covenant no man in the world. {{right|''Baxter'', Saints’ Rest, iv. 4.}}\nAnother objection to all this remedy is, its want of ''universality.'' {{right|''Sterne'', Tristram Shandy, ix. 14.}}}}\n'''2.''' Unlimited adaptability; boundless versatility.\n{{smaller block|It was soon manifested that Garrick’s ''universality'', by reason of his natural endowments and acquired accomplishments, would no longer admit of any competitor for theatrical fame. {{right|''Life of Quin'' (reprint 1887), p. 37.}}}}\n'''3†.''' The universe. ''Sir P. Sidney'', Arcadia, iii.\n\n'''universalization''' (ū-ni-vėr″sạl-i-zā′shọn), ''n.'' [< ''universalize'' + ''-ation.''] The act or process of making universal or general; generalization. Also spelled ''universalisation.''\n{{smaller block|Reflexion, by separating the essence or species from the subsistence, obtains the full specific idea (''universalization''). {{right|''Encyc. Brit.'', XX. 853.}}}}\n\n'''universalize''' (ū-ni-vėr′sạl-īz), ''v. t.'' and ''i.''; pret. and pp. ''universalized'', ppr. ''universalizing.'' [= F. ''universaliser;'' as ''universal'' + ''-ize.''] To make universal; generalize. ''Berkeley.'' Also spelled ''universalise.''\n{{smaller block|To find out what is morally right, we have only to ask what actions may be ''universalised.'' ''Caird'', Hegel, p. 121.\nThe former Realism and Nominalism were lifted into a higher phase by the principle of the ''universalising'' action of intellect. {{right|''Encyc. Brit.'', II. 269.}}}}\n\n'''universally''' (ū-ni-vėr′sạl-i), ''adv.'' In a universal manner; as a universal; with extension to the whole; in a manner to comprehend all; without exception.\n\n'''universalness''' (ū-ni-vėr′sa̤l-nes), ''n.'' Universality.\n\n'''universanimous''' (ū″ni-vėr-san′i-mus), ''a.'' [< L. ''universus'', general, + ''animus'', mind.] Of one mind or opinion; unanimous. ''Lowell'', Biglow Papers, 2d ser., p. 36. [Rare.]\n\n'''universe''' (ū′ni-vėrs), ''n.'' [< F. ''univers'' = Sp. Pg. It. ''universo'', < L. ''universum'', all things, as a whole, the universe, neut. of ''universus'', OL. ''oinovorsus'', also contr. ''oinvorsus'', later ''unvorsus'', all together, whole, entire, collective, general, lit. turned or combined into one, < ''unus'', one, + ''vertere'', pp. ''versus'', turn.] '''1.''' The totality of existing things; all that is in dynamical connection with general experience taken collectively—embracing (''a'') the Creator and creation; or (''b'') psychical and material objects, but excluding the Creator; or (''c'') material objects only.\n{{smaller block|<poem>For nothing in this wide ''universe'' I call,\nSave thou, my rose; in it thou art my all.</poem>\n{{right|''Shak.'', Sonnets, cix.}}\nFor this beauty of the ''universe'' is an emblem and revelation of the Divinity. {{right|''Channing'', Perfect Life, p. 13.}}}}\n'''2.''' The whole world; all mankind; all that meets us in experience, in a loose sense.—'''3.''' In ''logic'', the collection of all the objects to which any discourse refers: as, the ''universe'' of things. {{smaller|The things belonging to a universe cannot be defined or discriminated by any general characters; for every universal proposition excludes some general description of objects from the universe which had been supposed to be found in it. It is only in their dynamical connections that the objects of the universe can be distinguished from all others; and therefore no general term in a proposition can show what universe is meant; but an index is necessary. See ''index'', ''n.'', 2.}}\n{{smaller block|Everything in the ''universe'' (whatever that ''universe'' may embrace) is either A or not A.\n{{right|''De Morgan'', Formal Logic (1847), ii.}}\nWe must be supposed to know the nature and limits of the ''universe'' of discourse with which we are concerned, whether we state it or not. If we are talking of ordinary phenomena we must know whether we refer to them without limit of time and space; and if not, within what limits, broadly speaking. If we include the realms of fiction and imagination we must know what boundaries we mean to put upon them. {{right|''Venn'', Symbolic Logic, vi.}}}}\n\n'''Egg of the universe.''' {{smaller|See ''egg''<sup>1</sup>.}}—'''The hub of the universe.''' {{smaller|See ''hub''.}}—'''Tree of the universe.''' {{smaller|See ''Yggdrasil''.}}—'''Universe of discourse,''' {{smaller|a universe in sense 3, above.}}\n\n'''university''' (ū-ni-vėr′si-ti), ''n.''; pl. ''universities'' (-tiz). [< ME. ''universite'', < OF. ''universite'', F. ''université'' = Sp. ''universidad'' = Pg. ''universidade'' = It. ''università'' = D. ''universiteit'' = G. ''universität'' = Dan. Sw. ''universitet'' = Russ. ''universitetŭ'', < L. ''universita(t-)s'', the whole, the universe, LL. a society, company, corporation, gild, ML. a university, < ''universus'', all together, whole, entire, collective, general: see ''universe''.] '''1†.''' The whole; the universe.\n{{smaller block|The eye of intelligence is heyere, for it surmounteth the envyronynge of the ''universite''. {{right|''Chaucer'', Boëthius, v. prose 4.}}\nSpeaking with respect to the ''university'' of things.\n{{right|''Barrow'', Sermons, II. 12.}}}}<noinclude><references/></noinclude>"
+}

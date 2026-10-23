@@ -1,0 +1,197 @@
+{
+ "volume": 8,
+ "page_number": 425,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n424.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n424.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-22",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 800,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     14,
+     93,
+     2297,
+     139
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     14,
+     139,
+     774,
+     975
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     14,
+     975,
+     774,
+     2057
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     14,
+     2057,
+     774,
+     3013
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     14,
+     3013,
+     774,
+     3245
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     774,
+     139,
+     1535,
+     1231
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     774,
+     1231,
+     1535,
+     2260
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     774,
+     2260,
+     1535,
+     3245
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1535,
+     139,
+     2297,
+     1171
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1535,
+     1171,
+     2297,
+     2085
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1535,
+     2085,
+     2297,
+     3043
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1535,
+     3043,
+     2297,
+     3245
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|unit|6621|unite}}",
+   "c1s1": "second system), adopts the ''centimeter'' as the unit of length, the ''gram'' as the unit of mass, and the ''second'' as the unit of time. In this system the ''unit of area'' is the square centimeter, the ''unit of volume'' is the cubic centimeter, and the ''unit of velocity'' is a velocity of a centimeter per second. The ''unit of momentum'' is the momentum of a gram moving with a velocity of a centimeter per second. The ''unit-force'' is that force which acting on a gram for one second generates a velocity of a centimeter per second. This force is called a ''dyne''. The ''unit of work'' is the work done by the force of a dyne working through a distance of a centimeter. This is called an ''erg''. Sometimes used attributively.\n{{smaller block|The ordinary smallest measure we have of either [extension or duration] is looked on as an ''unit'' in number when the mind by division would reduce them into less fractions. {{right|''Locke'', Human Understanding, II. xv. 9.}}\n\nFor purposes of accuracy it must always be remembered that the pound, the gramme, &c., are, strictly speaking, ''units'' of mass. {{right|''J. D. Everett'', Units and Phys. Const., p. 23.}}\n\nThe ''unit'' of magnetic moment is the moment of a magnet of ''unit'' length the strength of whose poles is equal to unity, or generally of any magnet the product of whose strength into its length is equal to unity. {{right|''J. E. H. Gordon'', Elect. and Mag., I. 154.}}}}\n\n'''Absolute unit''', a unit of an absolute system of measurement based entirely on arbitrary units of mass, length, and time; sometimes, but quite incorrectly, used as the synonym of a unit of the C. G. S. system, which is only a special system of absolute units.—'''Abstract unit''', the unit of numeration; the number represented by 1.—'''Alternat",
+   "c1s2": "'''units.''' Same as ''Hankel’s numbers'' (which see, unde ''number'').—'''B. A. unit of resistance.''' See ''ohm.''—'''Concrete''' or '''denominate unit,''' a unit of some definite kin as a yard, a second, a dollar, a Fahrenheit degree, et —'''Decimal units, duodecimal units,''' units in scal of numbers increasing or decreasing by ten or twelve.- '''Electrical units.''' See ''electrostatic.''—'''Electromagneti units.''' See ''electromagnetic.''—'''Electrostatic units c electricity.''' See ''electrostatic.''—'''Fundamental unit''' See ''fundamental.''—'''Magnetic unit,''' a unit of electrical magnetic quantity, founded on the forces which act on co ductors conveying currents, or on magnets, in a magnet field. See ''electromagnetic units,'' under ''electromagnetic.''- '''Monetary unit.''' See ''monetary.''—'''Neural units.''' S ''neural.''—'''Siemens’s unit''' [named after the electrici ''Siemens''], a unit formerly employed in measuring the ele tric resistance of a conductor: it is the resistance of a co umn of pure mercury 1 square millimeter in section a 1 meter long; it is a little less than an ohm.—'''Therm unit,''' a unit adopted for measuring and comparing qua tities of heat. In the English system of measures the ge erally accepted thermal unit is the pound-degree, or t amount of heat required to raise a pound of water from t temperature 50° F. to 51° F. (Tait). In the metric syste the unit of heat is the calory—that is, the amount nece sary to raise a kilogram of water from 0° to 1° centigrad or the small calory, the heat needed to raise the tempe ture of a gram of water the same amount.—'''Unit angl''' in circular measure, same as ''radian.''—'''Unit field.''' S ''field.''—'''Unit jar,''' an instrument of various forms devis for measuring definite quantities of electricity.—'''Un magnetic pole,''' a pole which repels a like pole at a u distance with unit force—that is, one dyne.—'''Unit of c pacity''' of a conductor, the farad.—'''Unit of electric resistance,''' the resistance of a conductor through whic current of unit strength is maintained by unit electr motive force.—'''Unit of electric potential,''' the differen of potential between the ends of a straight conductor, unit length, when it is moved with unit velocity in a rection at right angles to lines of force and its own leng in a magnetic field of unit intensity.—'''Unit of force,''' t dyne or the poundal. See def. 2.—'''Unit of heat.''' S ''thermal unit.''—'''Unit of illumination.''' See ''candle-pow''",
+   "c1s3": "{{smaller|—'''Unit of length''', a length in multiples of which other lengths are defined.—'''Unit of measure''', a certain conventional dimension or magnitude assumed as a standard by which other dimensions or magnitudes of the same kind are to be measured, as a foot, a gallon, an ounce, a pound, an hour, and the like. See ''measure'', ''weight''.—'''Unit of measurement''', a quantity used as the consequent of a ratio for defining other quantities.—'''Unit of output''', the unit by which the rate of working or the activity in an electric circuit is measured. The British Board of Trade unit of output is 1,000 watts.—'''Unit of photometry.''' See ''photometric standard'', under ''photometric''.—'''Unit of resistance.''' See ''resistance'', 3, and ''ohm''.—'''Unit of self-induction''', in ''elect.'', in any system of units, the same as the unit of length employed in the basis of the system. For the practical unit of induction in the centimeter-gram-second system, an earth quadrant, or a length equal to 10<sup>9</sup> centimeters, has been proposed. This unit has been called ''secohm'', which has been replaced by ''henry''.—'''Unit of tale''', a number of things, generally of a particular kind, recognized as a unit, as a dozen, a score, a sum of nails, a lac of rupees, etc.—'''Unit pole.''' See ''pole''<sup>2</sup>.—'''Unit prism''', in ''crystal.'' See ''prism'', 3.—'''Unit pyramid''', in ''crystal.'' See ''pyramid'', 3.—'''Unit rule''', in ''U. S. politics'', a rule sometimes adopted providing that in a national nominating convention the votes of the entire delegation from each State shall be cast in a body for the candidate preferred by the majority of the delegation, the wishes of the minority being disregarded.}}\n\n'''unitable''' (ū-nī′tạ-bl), ''a.'' [< ''unite'' + ''-able''.] Capable of being united; capable of union by growth or otherwise. Also spelled ''uniteable''.\n\n'''unital''' (ū′ni-tạl), ''a.'' [< ''unit'' + ''-al''.] Of or pertaining to a unit; unitary. [Rare.]\n{{smaller block|In nature there is a great, ''unital'', continuous . . . development.\n{{right|''Littell’s Living Age'', No. 2071, March 1, 1884, p. 5}}}}",
+   "c1s4": "¶\n'''unitarian''' (ū-ni-tā′ri-an), ''a.'' and ''n.'' [As ''unit'' + ''-an.''] '''I.''' ''a.'' '''1.''' Of or relating to a unit unity, or to one thing or plan or party; unita\n{{smaller block|It [division of powers] forms the essential distinct between a federal system such as that of America Switzerland, and a ''unitarian'' system of government s as that which exists in England or Russia.\n{{right|''A. V. Dicey'', Law of the Constitution, p.}}}}",
+   "c2s1": "{{smaller block|These two theories, the one dualistic, the other ''unitarian'', strangely foreshadow the discoveries of modern dynamics.\n{{right|''Encyc. Brit.'', I. 460.}}}}\n'''2.''' [''cap.''] Of or pertaining to the Unitarians or their doctrines.—'''Unitarian Church.''' See II., 1.\n\n'''II.''' ''n.'' '''1.''' [''cap.''] One who maintains the unipersonality of the Deity; one who denies the doctrine of the Trinity; specifically, a member of a Christian body founded upon the doctrine of unipersonality. {{smaller|The churches of the Unitarian body are congregational in government, and independent of one another. They possess no common symbol of doctrine, and differ widely among themselves. They may be divided into two schools of thought, though there is no sharply defined line between them. The conservative Unitarians hold doctrinal views in many respects resembling those of the orthodox Trinitarians, except in their denial of the tripersonality of the Deity. They accept Christ as the manifestation of God in a human life, though they do not regard him as equal in character or power with the Father. They believe in the work of the Holy Spirit, though they do not generally regard him as a distinct personality. They believe in the Scriptures as containing a divine revelation, and in the miracles as an attestation of that revelation. They hold a doctrine of inherited depravity, but not in guilt, except as the result of a personal choice; to a doctrine of future retribution, though not generally to its endlessness; to an atonement by Christ for the sins of mankind, but not to the expiatory theory of that atonement (see ''atonement''); and to the necessity of regeneration wrought by the Spirit of God, but only with the coöperation of man; in what is called “irresistible grace” they do not believe. The doctrines of election, reprobation, foreordination, and decrees, as those doctrines are interpreted in the Calvinistic symbols, they repudiate as unscriptural and irrational. The radical school of Unitarians hold views not materially varying from deism. They reverence Christ as a peculiarly holy man, with whom the Spirit of God abode, but in no sense other than that in which he abides with every truly holy man. They respect the Bible as a work of transcendent moral genius, but in}}",
+   "c2s2": "{{smaller block|no other sense inspired. They do not believe in the miracles, and either explain them as the product of natural causes or regard the accounts of them as mythical and traditionary. They do not accept the doctrines of atonement and regeneration, and do not employ the terms; and they both attribute sin to defective education, intellectual and moral, and depend upon a right education to redeem the world from its effects. The Unitarian movement in the United States was developed chiefly in New England about the beginning of the nineteenth century, under the lead of Dr. Channing. Many of the oldest Congregational churches in New England passed under Unitarian control, and the “American Unitarian Association” was formed in 1825. Outside of the denomination proper, Unitarian views are held by the Hicksite Friends, some Universalists, and by individuals in other denominations. See ''Arian''<sup>1</sup>, ''Socinianism''.}}\n'''2.''' A monotheist; a believer in one God, as opposed to a polytheist, or a believer in many gods.\n{{smaller block|In this sense it is applicable to all Christians, Jews, and Mohammedans, as well as deists. ''Fleming.'' [Rare.]}}\n'''3.''' A monist.\n{{smaller block|The Realists or Substantialists are again divided into Dualists, and into ''Unitarians'' or Monists, according as they are or are not contented with the testimony of consciousness to the ultimate duplicity of subject and object in perception. {{right|''Sir W. Hamilton'', Metaphysics, xvi.}}}}\n'''4.''' One who advocates any unitary system; an advocate of unity; in politics, an advocate of centralization.\n{{smaller block|<poem>The old men studied magic in the flowers,\nAnd human fortunes in astronomy,\nAnd an omnipotence in chemistry,\nPreferring things to names, for these were men,\nWere ''unitarians'' of the united world,\nAnd, wheresoever their clear eye-beams fell,\nThey caught the footsteps of the Same.</poem>\n{{right|''Emerson'', Blight}}}}",
+   "c2s3": "¶\n\n'''Unitarianism''' (ū-ni-tā′ri-a̤n-izm), ''n.'' [< ''Unitarian'' + ''-ism.''] '''1.''' The affirmation of the unipersonality of the Deity; the denial of the doctrine of the Trinity, or (rarely) of polytheism; the doctrines of the Unitarians.—'''2.''' [''l. c.''] Any unitary system.\n{{smaller block|The principle, in short, which gives its form to our government is (to use a foreign but convenient expression) ''unitarianism'', or the habitual exercise of supreme legislative authority by one central power.\n{{right|''A. V. Dicey'', Law of the Constitution, p. 127.}}}}\n'''3.''' [''l. c.''] In ''philos.'', the doctrine that mind and matter are one, or that there is but one general kind of substance.\n\n'''Unitarianize''' (ū-ni-tā′ri-a̤n-īz), ''v.''; pret. and pp. ''Unitarianized'', ppr. ''Unitarianizing''. [< ''Unitarian'' + ''-ize.''] To cause to conform, or to conform to Unitarianism. ''Imp. Dict.''\n\n'''unitary''' (ū′ni-tā-ri), ''a.'' [= F. ''unitaire'' = Sp. It. ''unitario'', unitarian (chiefly as a noun, a Unitarian); as ''unit'', ''unit-y'', + ''-ary''.] '''1.''' Of or relating to a unit; of the nature of a unit; not divided; entire: specifically noting in chemistry that system in which the molecules of all bodies are compared, as to their magnitude, with one molecule—water, for example—and all chemical reactions are as far as possible reduced to one typical form of reaction, namely double decomposition. ''Watts'', Dict. of Chem.—'''2.''' Of or pertaining to, or characterized by, unity or uniformity; also, directed at or striving for unity",
+   "c3s1": "as, a ''unitary'' system of thought; in politics, centralized.\n{{smaller block|Man loves the Universal, the Unchangeable, the ''Unitary.''{{right|''Channing'', Perfect Life, p. 110.}}}}\n{{smaller block|Had any one doubted before that the rights of human nature are ''unitary'', . . . the efforts of the advocates of slavery . . . could not fail to sharpen his eyes.{{right|''Lowell'', Study Windows, p. 173.}}}}\n{{smaller block|We know that the separation and isolation of the different parts of a once ''unitary'' community must necessarily bring about a separation of its language into different dialects.{{right|''W. D. Whitney'', Life and Growth of Lang., ix.}}}}\n{{smaller block|It of course by no means follows that, because we have become in the fullest organic sense a nation, ours has become a ''unitary'' government, its federal features merged in a new national organization.{{right|''W. Wilson'', State, § 881.}}}}\n'''3.''' In ''biol.'', monistic, as distinguished from dualistic.\n{{smaller block|The tendency called ''unitary'' or monistic . . . must ultimately prevail throughout philosophy.{{right|''Haeckel'', Evolution of Man (trans.), I. 17.}}}}\n'''4.''' Pertaining to or of the nature of a unit (of measurement).\n{{smaller block|A wind pressure of 1,200 pounds for the same ''unitary'' distance is allowed for.{{right|''Sci. Amer.'', N. S., LX. 304.}}}}\n'''5.''' In ''math.'', involving a root to unit power.\n\n'''Unitas Fratrum''' (ū′ni-tas frā′trum). [NL., unity of brethren: L. ''unitas'', unity; ''fratrum'', gen. pl. of ''frater'', brother: see ''brother''.] The proper official name of the Moravian Church. See ''Moravian'', ''n.'', 2.\n\n'''unitate''' (ū′ni-tāt), ''v. t.''; pret. and pp. ''unitated'', ppr. ''unitating''. [A back-formation from ''unitation''.] To perform the operation of unitation",
+   "c3s2": "upon.\n\n'''unitate''' (ū′ni-tāt), ''n.'' [As ''unit'' + ''-ate''<sup>1</sup>.] The remainder given by a number after division by a digit.\n\n'''unitation''' (ū-ni-tā′shọn), ''n.'' [< ''unit'' + ''-ation.''] '''1.''' Expression in terms of units; measurement in accordance with a system of units.—'''2.''' The operation of adding to the units of a number, written in the Arabic notation, (10 — N) times the tens (where N is any number less than 10), (10 — N)<sup>2</sup> times the hundreds, etc., and repeating the process until a digit is obtained. This (diminished by any multiple of N which it exceeds) is the remainder after dividing the original number by N.\n\n'''unite'''<sup>1</sup> (ū-nīt′), ''v.''; pret. and pp. ''united'', ppr. ''uniting.'' [< LL. ''unitus'', pp. of ''unire'' (> It. ''unire'' = Sp. Pg. ''unir'' = F. ''unir''), make one or as one, join together, < L. ''unus'', one: see ''one'', ''a.'' Cf. ''one'', ''v.'', and ''adunation.''] '''I.''' ''trans.'' '''1.''' To combine or conjoin so as to form one; make to be one and to be no longer separate; incorporate in one: as, to ''unite'' two kingdoms or two armies.\n{{smaller block|<poem>''Unite''\nYour troops of horsemen with his bands of foot.</poem>\n{{right|''Shak.'', 1 Hen. VI., iv. 1. 164.}}\nAs thou hast ''united'' our nature to thy eternal being, thou mightest also ''unite'' my person to thine by the interior adunations of love, and obedience, and conformity.\n{{right|''Jer. Taylor'', Works (ed. 1835), I. 37.}}}}",
+   "c3s3": "¶\n'''2.''' To connect, conjoin, bring together, or associate by some bond, legal or other; join in interest, affection, fellowship, or the like; ally; link together; associate; conjoin; couple; combine: as, to ''unite'' families by marriage; to ''unite'' nations by treaty; to ''unite'' fresh adherents to a cause.\n{{smaller block|<poem>Hymen did our hands\n''Unite'' commutual in most sacred bands.</poem>\n{{right|''Shak.'', Hamlet, iii. 2. 170.}}}}\n\n'''3.''' To make to agree or be uniform; harmonize.\n{{smaller block|The king proposed nothing more than to ''unite'' his kingdom in one form of worship. {{right|''Clarendon'', Great Rebellion.}}}}\n\n'''4.''' To cause to adhere; attach; connect together: as, to ''unite'' bricks or stones by means of cement.\n{{smaller block|The peritonæum, which is a dry body, may be ''united'' with the musculous flesh. {{right|''Wiseman'', Surgery.}}}}\n='''Syn. 1.''' {{smaller|To consolidate, amalgamate, blend, merge.}}\n\n'''II.''' ''intrans.'' '''1.''' To become one; become combined or incorporated; be consolidated; coalesce; combine; commingle.\n{{smaller block|<poem>Virgin Mother, hail,\nHigh in the love of Heaven; yet from my loins\nThou shalt proceed, and from thy womb the Son\nOf God Most High; so God with man ''unites.''</poem>\n{{right|''Milton'', P. L., xii. 382.}}}}\n\n'''2.''' To join in action; concur; act in concert.\n{{smaller block|<poem>If you will now ''unite'' in your complaints,\nAnd force them with a constancy, the cardinal</poem>}}",
+   "c3s4": "{{smaller block|Cannot stand under them.\n{{right|''Shak.'', Hen. VIII., iii. 2. 1.}}}}\n\n'''unite<sup>1</sup>†''' (ū-nīt′), ''a.'' [< LL. ''unitus'', pp. of ''unire'', unite: see ''unite''<sup>1</sup>, ''v.''] United; joint. ''Webster.''\n\n'''unite<sup>1</sup>''' (ū-nīt′), ''n.'' [< ''unite''<sup>1</sup>, ''v.'', with ref. to the union of the kingdoms of England and Scot-"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    2
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 12,
+    "input_tokens": 9933,
+    "output_tokens": 11914,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|unit|6621|unite}}</noinclude>second system), adopts the ''centimeter'' as the unit of length, the ''gram'' as the unit of mass, and the ''second'' as the unit of time. In this system the ''unit of area'' is the square centimeter, the ''unit of volume'' is the cubic centimeter, and the ''unit of velocity'' is a velocity of a centimeter per second. The ''unit of momentum'' is the momentum of a gram moving with a velocity of a centimeter per second. The ''unit-force'' is that force which acting on a gram for one second generates a velocity of a centimeter per second. This force is called a ''dyne''. The ''unit of work'' is the work done by the force of a dyne working through a distance of a centimeter. This is called an ''erg''. Sometimes used attributively.\n{{smaller block|The ordinary smallest measure we have of either [extension or duration] is looked on as an ''unit'' in number when the mind by division would reduce them into less fractions. {{right|''Locke'', Human Understanding, II. xv. 9.}}\n\nFor purposes of accuracy it must always be remembered that the pound, the gramme, &c., are, strictly speaking, ''units'' of mass. {{right|''J. D. Everett'', Units and Phys. Const., p. 23.}}\n\nThe ''unit'' of magnetic moment is the moment of a magnet of ''unit'' length the strength of whose poles is equal to unity, or generally of any magnet the product of whose strength into its length is equal to unity. {{right|''J. E. H. Gordon'', Elect. and Mag., I. 154.}}}}\n\n'''Absolute unit''', a unit of an absolute system of measurement based entirely on arbitrary units of mass, length, and time; sometimes, but quite incorrectly, used as the synonym of a unit of the C. G. S. system, which is only a special system of absolute units.—'''Abstract unit''', the unit of numeration; the number represented by 1.—'''Alternat '''units.''' Same as ''Hankel’s numbers'' (which see, unde ''number'').—'''B. A. unit of resistance.''' See ''ohm.''—'''Concrete''' or '''denominate unit,''' a unit of some definite kin as a yard, a second, a dollar, a Fahrenheit degree, et —'''Decimal units, duodecimal units,''' units in scal of numbers increasing or decreasing by ten or twelve.- '''Electrical units.''' See ''electrostatic.''—'''Electromagneti units.''' See ''electromagnetic.''—'''Electrostatic units c electricity.''' See ''electrostatic.''—'''Fundamental unit''' See ''fundamental.''—'''Magnetic unit,''' a unit of electrical magnetic quantity, founded on the forces which act on co ductors conveying currents, or on magnets, in a magnet field. See ''electromagnetic units,'' under ''electromagnetic.''- '''Monetary unit.''' See ''monetary.''—'''Neural units.''' S ''neural.''—'''Siemens’s unit''' [named after the electrici ''Siemens''], a unit formerly employed in measuring the ele tric resistance of a conductor: it is the resistance of a co umn of pure mercury 1 square millimeter in section a 1 meter long; it is a little less than an ohm.—'''Therm unit,''' a unit adopted for measuring and comparing qua tities of heat. In the English system of measures the ge erally accepted thermal unit is the pound-degree, or t amount of heat required to raise a pound of water from t temperature 50° F. to 51° F. (Tait). In the metric syste the unit of heat is the calory—that is, the amount nece sary to raise a kilogram of water from 0° to 1° centigrad or the small calory, the heat needed to raise the tempe ture of a gram of water the same amount.—'''Unit angl''' in circular measure, same as ''radian.''—'''Unit field.''' S ''field.''—'''Unit jar,''' an instrument of various forms devis for measuring definite quantities of electricity.—'''Un magnetic pole,''' a pole which repels a like pole at a u distance with unit force—that is, one dyne.—'''Unit of c pacity''' of a conductor, the farad.—'''Unit of electric resistance,''' the resistance of a conductor through whic current of unit strength is maintained by unit electr motive force.—'''Unit of electric potential,''' the differen of potential between the ends of a straight conductor, unit length, when it is moved with unit velocity in a rection at right angles to lines of force and its own leng in a magnetic field of unit intensity.—'''Unit of force,''' t dyne or the poundal. See def. 2.—'''Unit of heat.''' S ''thermal unit.''—'''Unit of illumination.''' See ''candle-pow'' {{smaller|—'''Unit of length''', a length in multiples of which other lengths are defined.—'''Unit of measure''', a certain conventional dimension or magnitude assumed as a standard by which other dimensions or magnitudes of the same kind are to be measured, as a foot, a gallon, an ounce, a pound, an hour, and the like. See ''measure'', ''weight''.—'''Unit of measurement''', a quantity used as the consequent of a ratio for defining other quantities.—'''Unit of output''', the unit by which the rate of working or the activity in an electric circuit is measured. The British Board of Trade unit of output is 1,000 watts.—'''Unit of photometry.''' See ''photometric standard'', under ''photometric''.—'''Unit of resistance.''' See ''resistance'', 3, and ''ohm''.—'''Unit of self-induction''', in ''elect.'', in any system of units, the same as the unit of length employed in the basis of the system. For the practical unit of induction in the centimeter-gram-second system, an earth quadrant, or a length equal to 10<sup>9</sup> centimeters, has been proposed. This unit has been called ''secohm'', which has been replaced by ''henry''.—'''Unit of tale''', a number of things, generally of a particular kind, recognized as a unit, as a dozen, a score, a sum of nails, a lac of rupees, etc.—'''Unit pole.''' See ''pole''<sup>2</sup>.—'''Unit prism''', in ''crystal.'' See ''prism'', 3.—'''Unit pyramid''', in ''crystal.'' See ''pyramid'', 3.—'''Unit rule''', in ''U. S. politics'', a rule sometimes adopted providing that in a national nominating convention the votes of the entire delegation from each State shall be cast in a body for the candidate preferred by the majority of the delegation, the wishes of the minority being disregarded.}}\n\n'''unitable''' (ū-nī′tạ-bl), ''a.'' [< ''unite'' + ''-able''.] Capable of being united; capable of union by growth or otherwise. Also spelled ''uniteable''.\n\n'''unital''' (ū′ni-tạl), ''a.'' [< ''unit'' + ''-al''.] Of or pertaining to a unit; unitary. [Rare.]\n{{smaller block|In nature there is a great, ''unital'', continuous . . . development.\n{{right|''Littell’s Living Age'', No. 2071, March 1, 1884, p. 5}}}}\n\n'''unitarian''' (ū-ni-tā′ri-an), ''a.'' and ''n.'' [As ''unit'' + ''-an.''] '''I.''' ''a.'' '''1.''' Of or relating to a unit unity, or to one thing or plan or party; unita\n{{smaller block|It [division of powers] forms the essential distinct between a federal system such as that of America Switzerland, and a ''unitarian'' system of government s as that which exists in England or Russia.\n{{right|''A. V. Dicey'', Law of the Constitution, p.}} These two theories, the one dualistic, the other ''unitarian'', strangely foreshadow the discoveries of modern dynamics.\n{{right|''Encyc. Brit.'', I. 460.}}}}\n'''2.''' [''cap.''] Of or pertaining to the Unitarians or their doctrines.—'''Unitarian Church.''' See II., 1.\n\n'''II.''' ''n.'' '''1.''' [''cap.''] One who maintains the unipersonality of the Deity; one who denies the doctrine of the Trinity; specifically, a member of a Christian body founded upon the doctrine of unipersonality. {{smaller|The churches of the Unitarian body are congregational in government, and independent of one another. They possess no common symbol of doctrine, and differ widely among themselves. They may be divided into two schools of thought, though there is no sharply defined line between them. The conservative Unitarians hold doctrinal views in many respects resembling those of the orthodox Trinitarians, except in their denial of the tripersonality of the Deity. They accept Christ as the manifestation of God in a human life, though they do not regard him as equal in character or power with the Father. They believe in the work of the Holy Spirit, though they do not generally regard him as a distinct personality. They believe in the Scriptures as containing a divine revelation, and in the miracles as an attestation of that revelation. They hold a doctrine of inherited depravity, but not in guilt, except as the result of a personal choice; to a doctrine of future retribution, though not generally to its endlessness; to an atonement by Christ for the sins of mankind, but not to the expiatory theory of that atonement (see ''atonement''); and to the necessity of regeneration wrought by the Spirit of God, but only with the coöperation of man; in what is called “irresistible grace” they do not believe. The doctrines of election, reprobation, foreordination, and decrees, as those doctrines are interpreted in the Calvinistic symbols, they repudiate as unscriptural and irrational. The radical school of Unitarians hold views not materially varying from deism. They reverence Christ as a peculiarly holy man, with whom the Spirit of God abode, but in no sense other than that in which he abides with every truly holy man. They respect the Bible as a work of transcendent moral genius, but in no other sense inspired. They do not believe in the miracles, and either explain them as the product of natural causes or regard the accounts of them as mythical and traditionary. They do not accept the doctrines of atonement and regeneration, and do not employ the terms; and they both attribute sin to defective education, intellectual and moral, and depend upon a right education to redeem the world from its effects. The Unitarian movement in the United States was developed chiefly in New England about the beginning of the nineteenth century, under the lead of Dr. Channing. Many of the oldest Congregational churches in New England passed under Unitarian control, and the “American Unitarian Association” was formed in 1825. Outside of the denomination proper, Unitarian views are held by the Hicksite Friends, some Universalists, and by individuals in other denominations. See ''Arian''<sup>1</sup>, ''Socinianism''.}}\n'''2.''' A monotheist; a believer in one God, as opposed to a polytheist, or a believer in many gods.\n{{smaller block|In this sense it is applicable to all Christians, Jews, and Mohammedans, as well as deists. ''Fleming.'' [Rare.]}}\n'''3.''' A monist.\n{{smaller block|The Realists or Substantialists are again divided into Dualists, and into ''Unitarians'' or Monists, according as they are or are not contented with the testimony of consciousness to the ultimate duplicity of subject and object in perception. {{right|''Sir W. Hamilton'', Metaphysics, xvi.}}}}\n'''4.''' One who advocates any unitary system; an advocate of unity; in politics, an advocate of centralization.\n{{smaller block|<poem>The old men studied magic in the flowers,\nAnd human fortunes in astronomy,\nAnd an omnipotence in chemistry,\nPreferring things to names, for these were men,\nWere ''unitarians'' of the united world,\nAnd, wheresoever their clear eye-beams fell,\nThey caught the footsteps of the Same.</poem>\n{{right|''Emerson'', Blight}}}}\n\n'''Unitarianism''' (ū-ni-tā′ri-a̤n-izm), ''n.'' [< ''Unitarian'' + ''-ism.''] '''1.''' The affirmation of the unipersonality of the Deity; the denial of the doctrine of the Trinity, or (rarely) of polytheism; the doctrines of the Unitarians.—'''2.''' [''l. c.''] Any unitary system.\n{{smaller block|The principle, in short, which gives its form to our government is (to use a foreign but convenient expression) ''unitarianism'', or the habitual exercise of supreme legislative authority by one central power.\n{{right|''A. V. Dicey'', Law of the Constitution, p. 127.}}}}\n'''3.''' [''l. c.''] In ''philos.'', the doctrine that mind and matter are one, or that there is but one general kind of substance.\n\n'''Unitarianize''' (ū-ni-tā′ri-a̤n-īz), ''v.''; pret. and pp. ''Unitarianized'', ppr. ''Unitarianizing''. [< ''Unitarian'' + ''-ize.''] To cause to conform, or to conform to Unitarianism. ''Imp. Dict.''\n\n'''unitary''' (ū′ni-tā-ri), ''a.'' [= F. ''unitaire'' = Sp. It. ''unitario'', unitarian (chiefly as a noun, a Unitarian); as ''unit'', ''unit-y'', + ''-ary''.] '''1.''' Of or relating to a unit; of the nature of a unit; not divided; entire: specifically noting in chemistry that system in which the molecules of all bodies are compared, as to their magnitude, with one molecule—water, for example—and all chemical reactions are as far as possible reduced to one typical form of reaction, namely double decomposition. ''Watts'', Dict. of Chem.—'''2.''' Of or pertaining to, or characterized by, unity or uniformity; also, directed at or striving for unity as, a ''unitary'' system of thought; in politics, centralized.\n{{smaller block|Man loves the Universal, the Unchangeable, the ''Unitary.''{{right|''Channing'', Perfect Life, p. 110.}}}}\n{{smaller block|Had any one doubted before that the rights of human nature are ''unitary'', . . . the efforts of the advocates of slavery . . . could not fail to sharpen his eyes.{{right|''Lowell'', Study Windows, p. 173.}}}}\n{{smaller block|We know that the separation and isolation of the different parts of a once ''unitary'' community must necessarily bring about a separation of its language into different dialects.{{right|''W. D. Whitney'', Life and Growth of Lang., ix.}}}}\n{{smaller block|It of course by no means follows that, because we have become in the fullest organic sense a nation, ours has become a ''unitary'' government, its federal features merged in a new national organization.{{right|''W. Wilson'', State, § 881.}}}}\n'''3.''' In ''biol.'', monistic, as distinguished from dualistic.\n{{smaller block|The tendency called ''unitary'' or monistic . . . must ultimately prevail throughout philosophy.{{right|''Haeckel'', Evolution of Man (trans.), I. 17.}}}}\n'''4.''' Pertaining to or of the nature of a unit (of measurement).\n{{smaller block|A wind pressure of 1,200 pounds for the same ''unitary'' distance is allowed for.{{right|''Sci. Amer.'', N. S., LX. 304.}}}}\n'''5.''' In ''math.'', involving a root to unit power.\n\n'''Unitas Fratrum''' (ū′ni-tas frā′trum). [NL., unity of brethren: L. ''unitas'', unity; ''fratrum'', gen. pl. of ''frater'', brother: see ''brother''.] The proper official name of the Moravian Church. See ''Moravian'', ''n.'', 2.\n\n'''unitate''' (ū′ni-tāt), ''v. t.''; pret. and pp. ''unitated'', ppr. ''unitating''. [A back-formation from ''unitation''.] To perform the operation of unitation upon.\n\n'''unitate''' (ū′ni-tāt), ''n.'' [As ''unit'' + ''-ate''<sup>1</sup>.] The remainder given by a number after division by a digit.\n\n'''unitation''' (ū-ni-tā′shọn), ''n.'' [< ''unit'' + ''-ation.''] '''1.''' Expression in terms of units; measurement in accordance with a system of units.—'''2.''' The operation of adding to the units of a number, written in the Arabic notation, (10 — N) times the tens (where N is any number less than 10), (10 — N)<sup>2</sup> times the hundreds, etc., and repeating the process until a digit is obtained. This (diminished by any multiple of N which it exceeds) is the remainder after dividing the original number by N.\n\n'''unite'''<sup>1</sup> (ū-nīt′), ''v.''; pret. and pp. ''united'', ppr. ''uniting.'' [< LL. ''unitus'', pp. of ''unire'' (> It. ''unire'' = Sp. Pg. ''unir'' = F. ''unir''), make one or as one, join together, < L. ''unus'', one: see ''one'', ''a.'' Cf. ''one'', ''v.'', and ''adunation.''] '''I.''' ''trans.'' '''1.''' To combine or conjoin so as to form one; make to be one and to be no longer separate; incorporate in one: as, to ''unite'' two kingdoms or two armies.\n{{smaller block|<poem>''Unite''\nYour troops of horsemen with his bands of foot.</poem>\n{{right|''Shak.'', 1 Hen. VI., iv. 1. 164.}}\nAs thou hast ''united'' our nature to thy eternal being, thou mightest also ''unite'' my person to thine by the interior adunations of love, and obedience, and conformity.\n{{right|''Jer. Taylor'', Works (ed. 1835), I. 37.}}}}\n\n'''2.''' To connect, conjoin, bring together, or associate by some bond, legal or other; join in interest, affection, fellowship, or the like; ally; link together; associate; conjoin; couple; combine: as, to ''unite'' families by marriage; to ''unite'' nations by treaty; to ''unite'' fresh adherents to a cause.\n{{smaller block|<poem>Hymen did our hands\n''Unite'' commutual in most sacred bands.</poem>\n{{right|''Shak.'', Hamlet, iii. 2. 170.}}}}\n\n'''3.''' To make to agree or be uniform; harmonize.\n{{smaller block|The king proposed nothing more than to ''unite'' his kingdom in one form of worship. {{right|''Clarendon'', Great Rebellion.}}}}\n\n'''4.''' To cause to adhere; attach; connect together: as, to ''unite'' bricks or stones by means of cement.\n{{smaller block|The peritonæum, which is a dry body, may be ''united'' with the musculous flesh. {{right|''Wiseman'', Surgery.}}}}\n='''Syn. 1.''' {{smaller|To consolidate, amalgamate, blend, merge.}}\n\n'''II.''' ''intrans.'' '''1.''' To become one; become combined or incorporated; be consolidated; coalesce; combine; commingle.\n{{smaller block|<poem>Virgin Mother, hail,\nHigh in the love of Heaven; yet from my loins\nThou shalt proceed, and from thy womb the Son\nOf God Most High; so God with man ''unites.''</poem>\n{{right|''Milton'', P. L., xii. 382.}}}}\n\n'''2.''' To join in action; concur; act in concert.\n{{smaller block|<poem>If you will now ''unite'' in your complaints,\nAnd force them with a constancy, the cardinal</poem> Cannot stand under them.\n{{right|''Shak.'', Hen. VIII., iii. 2. 1.}}}}\n\n'''unite<sup>1</sup>†''' (ū-nīt′), ''a.'' [< LL. ''unitus'', pp. of ''unire'', unite: see ''unite''<sup>1</sup>, ''v.''] United; joint. ''Webster.''\n\n'''unite<sup>1</sup>''' (ū-nīt′), ''n.'' [< ''unite''<sup>1</sup>, ''v.'', with ref. to the union of the kingdoms of England and Scot-<noinclude><references/></noinclude>"
+}

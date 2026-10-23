@@ -1,0 +1,265 @@
+{
+ "volume": 8,
+ "page_number": 367,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n366.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n366.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-22",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 813,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     4,
+     108,
+     2289,
+     147
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     4,
+     147,
+     822,
+     1211
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     4,
+     1211,
+     822,
+     1484
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     4,
+     1484,
+     822,
+     2827
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     118,
+     1728,
+     793,
+     2508
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     4,
+     2827,
+     822,
+     3254
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     822,
+     147,
+     1553,
+     903
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     822,
+     903,
+     1553,
+     2835
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1165,
+     1049,
+     1539,
+     1662
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     822,
+     2835,
+     1553,
+     3254
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1553,
+     147,
+     2289,
+     1059
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1553,
+     1059,
+     2289,
+     2140
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1553,
+     2140,
+     2289,
+     3239
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|type-measure|6563|typhomania}}",
+   "c1s1": "¶\n'''type-measure''' (tīp′mezh″ụ̄r), ''n.'' Same as ''type-scale.''\n\n'''type-measurer''' (tīp′mezh″ụ̄r-ėr), ''n.'' In ''printing'', a graduated rod on the sides or edges of which the body of each different size of type is marked. {{smaller|In use it is laid alongside a column of matter or proof, to ascertain the number of lines and the number of ems.}}\n\n'''type-metal''' (tīp′met″al), ''n.'' An alloy of lead with antimony, or with tin and antimony, used to make types for printing. {{smaller|The value of the alloy is considerably increased by the addition of a small amount of tin (from 6 to 8 per cent.). Copper and iron have also been used in small quantity to give greater resistance to the alloy. The proportions of the metals used vary considerably with the quality desired, and in different type-foundries. The metal used in some foundries for small types, from brilliant to brevier, consists of 100 pounds of lead, 40 pounds of antimony, and 20 pounds of tin; while larger types, from bourgeois to pica, are cast from 100 pounds of lead, 30 pounds of antimony, and 15 pounds of tin. Extra hard or copper-alloy metal contains 100 pounds of lead, 44 pounds of antimony, 24 pounds of tin, and 6 per cent. of copper. Electrotype-metal contains 100 pounds of lead, 4 pounds of antimony, and 5 pounds of tin. Stereotype-metal contains 100 pounds of lead, 20 pounds of antimony, and 10 pounds of tin. Soft metal, such as is used for leads and quadrats, contains a very large proportion of lead, and but little tin and antimony.}}\n\n'''type-mold''' (tīp′mōld), ''n.'' See ''mold''<sup>4</sup>, 3.\n\n'''type-punch''' (tīp′punch), ''n.'' See ''punch''<sup>1</sup>, 6.\n\n'''type-scale''' (tīp′skāl), ''n.'' A measuring-rod of stout paper, ivory, or thin brass, which shows the dimensions of the most-used bodies of type. It is used to measure composed types.\n\n'''type-setter''' (tīp′set″ėr), ''n.'' '''1.''' A composer of types; a compositor.—'''2.''' A type-setting ma-",
+   "c1s2": "chine. See ''type-setting.''\n\n'''type-setting''' (tīp′set″ing), ''n.'' The act or process of setting or combining types in proper order for printing. {{smaller|It is usually done by picking up each type from an exposed case, and arranging the types so collected in a composing-stick in lines of even length.—'''Type-setting machine''', a mechanism intended to quicken the operation of type-setting. In the simpler forms of mechanical type-setters, the types, separately arranged in inclined tubes or channels, are successively dislodged}}",
+   "c1s3": "by the pressure of appropriate levers moved by the fingers of the operator on a keyboard. As the types fall, they are collected in a long line, and afterward subdivided in lines of proper length. The Kastenbein and McMillen machines are of this construction. Distribution of types is usually done by a separate machine, of which there are many varieties. In all, each distinct letter or character is provided with its own special nick, which serves the\n[[FIGURE]]\n{{c|{{smaller|Thorne Type-setting Machine.}}}}\n{{smaller block|''a'', distributing-cylinder; ''b'', setting-cylinder; ''c'', mechanism actuating distributing-cylinder; ''d'', driving mechanism actuating type-carrying disk, carrying-belt, packer, keyboard, levers, etc.; ''e'', shaft, which transmits the power to all parts excepting the distributing-cylinder; ''f'', type-carrying disk; ''g'', packer, which lifts the type singly into a continuous line; ''h'', keyboard; ''i'', levers, connecting keyboard with bottom of setting-cylinder; ''j'', copy-holder; ''k'', justifying mechanism; ''l'', iron case for spaces and hyphens; ''m'', type-bank, containing italics, which are inserted by hand as required; ''n'', case for small capitals, in some machines for fractions and other odd characters, to be put in by hand.}}",
+   "c1s4": "same purpose as the nicks or channels in a key for the wards of its lock. When the types are successively presented before outlets with wards, the proper nick finds its proper ward, and is discharged in its proper channel. Some machines combine the two operations of setting and distribution, as the Thorne and Paige machines. The Paige machine adds the operation of automatic justifying, or making its lines of even length. A more complex form of machine dispenses with types and distribution, and makes the types as they are needed. The operator at the keyboard moves levers that assemble the matrices in proper order over a mold, and justifies the words of each line, in a line evenly spaced and of uniform length. The mold is then instantly filled with melted type-metal which casts all the words in one piece. The Mergenthaler or linotype, and the Rogers are of this form. The Lan-",
+   "c2s1": "{{smaller block|ston casts single types by the pressure of the finger on a keyboard, and arranges the cast types in lines for printing. The first type-setting and type-making machine was planned at London by Dr. Church in 1824. More than fifty varieties of machine type-setters have been invented, but few are in use.}}\n\n'''type-wheel''' (tīp′hwēl), ''n.'' A disk or revolving sector bearing letters in relief on its periphery: used in some adaptations of the telegraph and in some type-writers.\n\n'''type-write''' (tīp′rīt), ''v. t.'' and ''i.'' To print or reproduce by means of a type-writer; practise type-writing. [Recent.]\n\n'''type-writer''' (tīp′rī″tėr), ''n.'' '''1.''' A machine for mechanical writing, operated by hand, and printing one letter, or combination of letters, at a time, by the impress of type adapted to the purpose. There are now several distinct types of these machines.—'''2.''' An operator on a type-writing machine; one who prints characters on paper by means of a type-writer.—{{smaller|'''Automatic type-writer telegraph.''' See ''telegraph.''}}\n\n'''type-writing''' (tīp′rī″ting), ''n.'' The process of printing letter by letter by the use of a type-writer; also, work done by this process.",
+   "c2s2": "¶\n\n'''Typha''' (tī′fä), ''n.'' [NL. (Tournefort, 1700; earlier by Lobel, 1576), < Gr. τύφη, cattail.] A genus of plants, type of the order ''Typhaceæ.'' {{smaller|It is distinguished from ''Sparganium,'' the other genus of the family, by its linear anthers, stalked ovary, and dry indehiscent fruit. There are 13}}\n[[FIGURE]]\n{{c|{{smaller|Cattail (''Typha latifolia''). <br>''a,'' the spadix, with male flowers above and female ones below; ''b,'' a male flower; ''c,'' a female flower.}}}}\n{{smaller|species, natives of fresh-water swamps in both tropical and temperate regions. They are smooth herbs with strong creeping rootstocks from which grow erect unbranched and often tall and robust stems with a submerged base. The leaves are chiefly radical, long and linear, spongy, and at first somewhat fleshy and watery. The monœcious flowers form a cylindrical terminal spadix, the upper part of which is staminate and deciduous; both parts are partly covered in the bud by very perishable thin spathaceous bracts. The long-stalked minute fruit is produced in great abundance, over 60,000 to the average spike in the common species; each fruit contains a single seed, and is surrounded near the base by twenty to forty long slender white hairs which expand at maturity, aiding in dispersion by the wind. The plant usually reaches from 5 to 9 feet high; in California ''T. Domingensis'' sometimes reaches 18 feet, including an inflorescence of 3 feet; in the common ''T. latifolia'' the handsome dark rusty-brown fertile part of the spike is usually from 5 to 8 inches long, sometimes 14, and is much used for rustic decoration. The abundant mealy pollen is made into bread in India and New Zealand; it is inflammable, and has been used as a substitute for tinder and for matches. The powdered flowers have been used for poultices, and the farinaceous rootstocks are considered astringent and diuretic in eastern Asia. The long leaves are much used in central New York to make chair-bottoms, and are elsewhere woven into mats and baskets. Three species occur in the United States, of which ''T. latifolia,'' with four-grained pollen, and ''T. angustifolia,'' with single-grained pollen, are widely distributed throughout the northern parts of both hemispheres; the latter is in the United States more local and largely maritime, and often shows a distinct interval between the male and female divisions of the spike. The other and larger species, ''T. Domingensis,'' occurs in the West Indies, Mexico, Texas, California, and the Argentine Republic. For ''T. elephantina,'' see ''elephant-grass;'' for the others, ''cattail, reed-mace,'' and ''reree;'' and compare ''marsh-beetle'' and ''dunche-down.'' They are also commonly known as ''flag'' and as ''bulrush.''}}\n\n'''Typhaceæ''' (tī-fā′sē-ē), ''n. pl.'' [NL. (A. P. de Candolle, 1805), < ''Typha'' + ''-aceæ.''] An order of monocotyledonous plants, of the series ''Nudifloræ.'' {{smaller|It is characterized by usually monœcious flowers with a perianth of irregular membranous scales or of very slender elongated hairs. It includes about 19 species, belonging to 2 genera, ''Typha'' (the type) and ''Sparganium'' (where see cut), both marsh-plants of wide distribution, with unjointed watery stems and long entire alternate leaves which project stiffly out of the water or in a few cases float on its surface. The small crowded flowers contain six or more stamens with elongated flaccid filaments, and a single superior ovary usually with a single cell and a}}",
+   "c2s3": "single ovule.\n\n'''typh-fever''' (tīf′fē″vėr), ''n.'' [< ''typh''(''us''), ''typh''(''oid'') + ''fever''<sup>1</sup>.] A term proposed to include both typhus and typhoid fevers.\n\n'''typhinia''' (tī-fin′i-ä), ''n.'' [NL., < Gr. τῦφος, smoke, mist: see ''typhus.''] In ''pathol.'', relapsing fever. [Rare.]\n\n'''typhlitic''' (tif-lit′ik), ''a.'' [< ''typhlitis'' + ''-ic.''] Pertaining to or of the nature of typhlitis; affected with typhlitis.\n\n'''typhlitis''' (tif-lī′tis), ''n.'' [NL., < Gr. τυφλός, blind (with ref. to the cæcum), + ''-itis.''] Inflammation of the cæcum and vermiform appendix.",
+   "c3s1": "¶\n'''Typhloënteritis''' (tif-lō-en-te-rī′tis), ''n.'' [NL., < Gr. τυφλός, blind, + ἔντερον, intestine, + ''-itis.''] Same as ''typhlitis.''\n\n'''Typhloid''' (tif′loid), ''a.'' [< Gr. τυφλός, blind, + εἶδος, form.] Having defective vision, as a blindworm.\n\n'''Typhlology''' (tif-lol′ọ̄-ji), ''n.'' [< Gr. τυφλός, blind, + ''-λογία'', < λέγειν, speak: see ''-ology.''] The sum of scientific knowledge concerning blindness.\n\n'''Typhlope''' (tif′lōp), ''n.'' [< NL. ''Typhlops.''] A small snake of the family ''Typhlopidæ;'' a worm-snake or blindworm.\n\n'''Typhlophthalmi''' (tif-lof-thal′mī), ''n. pl.'' [NL., < Gr. τυφλός, blind, + ὀφθαλμός, eye.] In Cope’s classification, a superfamily of pleurodont lizards, represented by the ''Anelytropidæ, Acontiidæ,'' and ''Aniellidæ.''\n\n'''typhlophthalmic''' (tif-lof-thal′mik), ''a.'' [< ''Typhlophthalmi'' + ''-ic.''] Of or pertaining to the ''Typhlophthalmi.''\n\n'''Typhlopidæ''' (tif-lop′i-dē), ''n. pl.'' [NL., < ''Typhlops'' + ''-idæ.''] A family of angiostomatous scolecophidian serpents, typified by the genus ''Typhlops;'' the worm-snakes or blindworms. {{smaller|It formerly included all the small serpents with the mouth not distensible and teeth only in one jaw, upper or lower, being the same as ''Typhlopoidea.'' By the division of these into two families, ''Catodonta'' and ''Epanodonta,'' with lower and with upper teeth only, respectively, the ''Typhlopidæ'' are restricted to the latter, and contrasted with ''Stenostomidæ.''}}",
+   "c3s2": "¶\n'''Typhlopoidea''' (tif-lō-poi′dẹ̄-ä̤), ''n. pl.'' [NL., < Gr. τυφλός, blind, + ὤψ, eye, + εἶδος, form.] A suborder of ''Ophidia'', containing the small scolecophidian or angiostomatous snakes of the families ''Typhlopidæ'' and ''Stenostomatidæ'', and thus equivalent to ''Typhlopidæ'' in a broad sense.\n{{smaller block|They differ from all other ophidians in having no transverse bone of the skull, the pterygoid disconnected from the quadrate, the palatines with their long axes transverse and bounding the nasal choanæ behind, and the ethmoturbinal forming part of the roof of the mouth.}}\n\n'''Typhlops''' (tif′lops), ''n.'' [NL. (Schneider), < Gr. τυφλώψ, blind, < τυφλός, blind, + ὤψ, eye.] The typical genus of ''Typhlopidæ'', having the muzzle covered above with rostral and internasal scutes, and one ocular, one preocular, and one nasal plate.\n\n'''typhlosis''' (tif-lō′sis), ''n.'' [NL., < Gr. τύφλωσις, a making blind, blindness, < τυφλοῦν, make blind, < τυφλός, blind.] Blindness.\n\n'''typhlosolar''' (tif-lọ̄-sō′lär), ''a.'' [< ''typhlosole'' + ''-ar''<sup>3</sup>.] Of the character of or pertaining to a typhlosole. ''Micros. Sci.'', N. S., XXVII. 565.\n\n'''typhlosole''' (tif′lọ̄-sōl), ''n.'' [< Gr. τυφλός, blind, + σωλήν, tube, pipe: see ''solen''.] A thick folding of the intestine of certain annelids, mollusks, etc., formed by the involution of the wall of the intestine along the dorsomedian line, and projecting into the intestinal cavity. ''Huxley'', Anat. Invert., p. 196.\n\n'''Typhoëan''' (tī-fō′ẹ̄-an), ''a.'' [Also, erroneously, ''Typhœan, Typhean''; < L. ''Typhōeus'', < Gr. Τυφωεύς, contr. Τυφώς, Typhoëus (see def.); cf. ''Typhon''<sup>2</sup>.] Of, pertaining to, or resembling Typhoëus (or Typhos), a monster of Greek mythology, who",
+   "c3s3": "tried to conquer the gods, but was overcome by Zeus and buried under Mount Etna. {{smaller|Typhoëus is described as vomiting flame from a hundred mouths, and thus typifies a volcano.}}\n\n¶\n\n'''typhoid''' (tī′foid), ''a.'' and ''n.'' [= F. ''typhoïde'', < Gr. *τυφοειδής, contr. τυφώδης, delirious, of persons suffering from fever, also of the fever itself, < τῦφος, smoke, also stupor arising from fever: see ''typhus''.] '''I.''' ''a.'' Resembling typhus: noting a specific continued fever.{{smaller|—'''Bilious typhoid fever.''' See ''fever''<sup>1</sup>.—'''Typhoid bacillus,''' or '''Eberth’s bacillus,''' a micro-organism found in the intestinal ulcers, and elsewhere in the bodies, of those dying from typhoid fever, and believed to be the cause of this disease.—'''Typhoid condition''' or '''state,''' a condition occurring sometimes in the course of acute diseases of a depressing type, in which there is marked lowering of all the vital forces, shown by prostration, muttering delirium, carphologia, muscular twitchings, unconscious discharges from the bladder and bowels, a dry, cracked, often blackish tongue, etc.—'''Typhoid fever.''' See ''fever''<sup>1</sup>.—'''Typhoid pneumonia.''' See ''pneumonia''.}}\n\n'''II.''' ''n.'' Typhoid fever. See ''fever''<sup>1</sup>.\n\n'''typhoidal''' (tī′foi-dal), ''a.'' [< ''typhoid'' + ''-al''.] Of, pertaining to, or characteristic of typhoid fever: as, ''typhoidal'' symptoms.\n\n'''typhomalarial''' (tī″fō-mā-lā′ri-al), ''a.'' [< ''typho(id)'' + ''malarial''.] Involving both typhoid and malarial characters: applied to a disease caused by the combined influence of filth and the malarial poison, or a typhoid fever in which the symptoms are modified by the action of malaria. Whether either of these conditions exists has been a subject of dispute among medical writers.\n\n'''typhomania''' (tī-fō-mā′ni-ä̤), ''n.'' [< Gr. τῦφος, stupor (see ''typhus'', ''typhoid''), + μανία, madness.]"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0367 c1f1.png",
+   "c2f1": "century v08 p0367 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     130,
+     1740,
+     781,
+     2496
+    ],
+    "caption": [
+     121,
+     2530,
+     785,
+     2785
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     84,
+     1741,
+     791,
+     2519
+    ]
+   },
+   {
+    "box": [
+     1177,
+     1061,
+     1527,
+     1650
+    ],
+    "caption": [
+     1177,
+     1661,
+     1543,
+     1749
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1149,
+     1078,
+     1547,
+     1680
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    2
+   ],
+   "1": [
+    1,
+    0
+   ],
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 3,
+    "input_tokens": 12,
+    "output_tokens": 164,
+    "cache_creation_input_tokens": 6014,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 9825,
+    "output_tokens": 10286,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c2f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|type-measure|6563|typhomania}}</noinclude>{{nop}}'''type-measure''' (tīp′mezh″ụ̄r), ''n.'' Same as ''type-scale.''\n\n'''type-measurer''' (tīp′mezh″ụ̄r-ėr), ''n.'' In ''printing'', a graduated rod on the sides or edges of which the body of each different size of type is marked. {{smaller|In use it is laid alongside a column of matter or proof, to ascertain the number of lines and the number of ems.}}\n\n'''type-metal''' (tīp′met″al), ''n.'' An alloy of lead with antimony, or with tin and antimony, used to make types for printing. {{smaller|The value of the alloy is considerably increased by the addition of a small amount of tin (from 6 to 8 per cent.). Copper and iron have also been used in small quantity to give greater resistance to the alloy. The proportions of the metals used vary considerably with the quality desired, and in different type-foundries. The metal used in some foundries for small types, from brilliant to brevier, consists of 100 pounds of lead, 40 pounds of antimony, and 20 pounds of tin; while larger types, from bourgeois to pica, are cast from 100 pounds of lead, 30 pounds of antimony, and 15 pounds of tin. Extra hard or copper-alloy metal contains 100 pounds of lead, 44 pounds of antimony, 24 pounds of tin, and 6 per cent. of copper. Electrotype-metal contains 100 pounds of lead, 4 pounds of antimony, and 5 pounds of tin. Stereotype-metal contains 100 pounds of lead, 20 pounds of antimony, and 10 pounds of tin. Soft metal, such as is used for leads and quadrats, contains a very large proportion of lead, and but little tin and antimony.}}\n\n'''type-mold''' (tīp′mōld), ''n.'' See ''mold''<sup>4</sup>, 3.\n\n'''type-punch''' (tīp′punch), ''n.'' See ''punch''<sup>1</sup>, 6.\n\n'''type-scale''' (tīp′skāl), ''n.'' A measuring-rod of stout paper, ivory, or thin brass, which shows the dimensions of the most-used bodies of type. It is used to measure composed types.\n\n'''type-setter''' (tīp′set″ėr), ''n.'' '''1.''' A composer of types; a compositor.—'''2.''' A type-setting machine. See ''type-setting.''\n\n'''type-setting''' (tīp′set″ing), ''n.'' The act or process of setting or combining types in proper order for printing. {{smaller|It is usually done by picking up each type from an exposed case, and arranging the types so collected in a composing-stick in lines of even length.—'''Type-setting machine''', a mechanism intended to quicken the operation of type-setting. In the simpler forms of mechanical type-setters, the types, separately arranged in inclined tubes or channels, are successively dislodged}} by the pressure of appropriate levers moved by the fingers of the operator on a keyboard. As the types fall, they are collected in a long line, and afterward subdivided in lines of proper length. The Kastenbein and McMillen machines are of this construction. Distribution of types is usually done by a separate machine, of which there are many varieties. In all, each distinct letter or character is provided with its own special nick, which serves the same purpose as the nicks or channels in a key for the wards of its lock. When the types are successively presented before outlets with wards, the proper nick finds its proper ward, and is discharged in its proper channel. Some machines combine the two operations of setting and distribution, as the Thorne and Paige machines. The Paige machine adds the operation of automatic justifying, or making its lines of even length. A more complex form of machine dispenses with types and distribution, and makes the types as they are needed. The operator at the keyboard moves levers that assemble the matrices in proper order over a mold, and justifies the words of each line, in a line evenly spaced and of uniform length. The mold is then instantly filled with melted type-metal which casts all the words in one piece. The Mergenthaler or linotype, and the Rogers are of this form. The Lan{{smaller block|ston casts single types by the pressure of the finger on a keyboard, and arranges the cast types in lines for printing. The first type-setting and type-making machine was planned at London by Dr. Church in 1824. More than fifty varieties of machine type-setters have been invented, but few are in use.}}\n\n[[File:century v08 p0367 c1f1.png|center|299px]]\n{{c|{{smaller|Thorne Type-setting Machine.}}}}\n{{smaller block|''a'', distributing-cylinder; ''b'', setting-cylinder; ''c'', mechanism actuating distributing-cylinder; ''d'', driving mechanism actuating type-carrying disk, carrying-belt, packer, keyboard, levers, etc.; ''e'', shaft, which transmits the power to all parts excepting the distributing-cylinder; ''f'', type-carrying disk; ''g'', packer, which lifts the type singly into a continuous line; ''h'', keyboard; ''i'', levers, connecting keyboard with bottom of setting-cylinder; ''j'', copy-holder; ''k'', justifying mechanism; ''l'', iron case for spaces and hyphens; ''m'', type-bank, containing italics, which are inserted by hand as required; ''n'', case for small capitals, in some machines for fractions and other odd characters, to be put in by hand.}}\n\n'''type-wheel''' (tīp′hwēl), ''n.'' A disk or revolving sector bearing letters in relief on its periphery: used in some adaptations of the telegraph and in some type-writers.\n\n'''type-write''' (tīp′rīt), ''v. t.'' and ''i.'' To print or reproduce by means of a type-writer; practise type-writing. [Recent.]\n\n'''type-writer''' (tīp′rī″tėr), ''n.'' '''1.''' A machine for mechanical writing, operated by hand, and printing one letter, or combination of letters, at a time, by the impress of type adapted to the purpose. There are now several distinct types of these machines.—'''2.''' An operator on a type-writing machine; one who prints characters on paper by means of a type-writer.—{{smaller|'''Automatic type-writer telegraph.''' See ''telegraph.''}}\n\n'''type-writing''' (tīp′rī″ting), ''n.'' The process of printing letter by letter by the use of a type-writer; also, work done by this process.\n\n'''Typha''' (tī′fä), ''n.'' [NL. (Tournefort, 1700; earlier by Lobel, 1576), < Gr. τύφη, cattail.] A genus of plants, type of the order ''Typhaceæ.'' {{smaller|It is distinguished from ''Sparganium,'' the other genus of the family, by its linear anthers, stalked ovary, and dry indehiscent fruit. There are 13}} {{img float|file=century v08 p0367 c2f1.png|width=166px|align=right|cap={{smaller|Cattail (''Typha latifolia''). <br>''a,'' the spadix, with male flowers above and female ones below; ''b,'' a male flower; ''c,'' a female flower.}}}}\n{{smaller|species, natives of fresh-water swamps in both tropical and temperate regions. They are smooth herbs with strong creeping rootstocks from which grow erect unbranched and often tall and robust stems with a submerged base. The leaves are chiefly radical, long and linear, spongy, and at first somewhat fleshy and watery. The monœcious flowers form a cylindrical terminal spadix, the upper part of which is staminate and deciduous; both parts are partly covered in the bud by very perishable thin spathaceous bracts. The long-stalked minute fruit is produced in great abundance, over 60,000 to the average spike in the common species; each fruit contains a single seed, and is surrounded near the base by twenty to forty long slender white hairs which expand at maturity, aiding in dispersion by the wind. The plant usually reaches from 5 to 9 feet high; in California ''T. Domingensis'' sometimes reaches 18 feet, including an inflorescence of 3 feet; in the common ''T. latifolia'' the handsome dark rusty-brown fertile part of the spike is usually from 5 to 8 inches long, sometimes 14, and is much used for rustic decoration. The abundant mealy pollen is made into bread in India and New Zealand; it is inflammable, and has been used as a substitute for tinder and for matches. The powdered flowers have been used for poultices, and the farinaceous rootstocks are considered astringent and diuretic in eastern Asia. The long leaves are much used in central New York to make chair-bottoms, and are elsewhere woven into mats and baskets. Three species occur in the United States, of which ''T. latifolia,'' with four-grained pollen, and ''T. angustifolia,'' with single-grained pollen, are widely distributed throughout the northern parts of both hemispheres; the latter is in the United States more local and largely maritime, and often shows a distinct interval between the male and female divisions of the spike. The other and larger species, ''T. Domingensis,'' occurs in the West Indies, Mexico, Texas, California, and the Argentine Republic. For ''T. elephantina,'' see ''elephant-grass;'' for the others, ''cattail, reed-mace,'' and ''reree;'' and compare ''marsh-beetle'' and ''dunche-down.'' They are also commonly known as ''flag'' and as ''bulrush.''}}\n\n'''Typhaceæ''' (tī-fā′sē-ē), ''n. pl.'' [NL. (A. P. de Candolle, 1805), < ''Typha'' + ''-aceæ.''] An order of monocotyledonous plants, of the series ''Nudifloræ.'' {{smaller|It is characterized by usually monœcious flowers with a perianth of irregular membranous scales or of very slender elongated hairs. It includes about 19 species, belonging to 2 genera, ''Typha'' (the type) and ''Sparganium'' (where see cut), both marsh-plants of wide distribution, with unjointed watery stems and long entire alternate leaves which project stiffly out of the water or in a few cases float on its surface. The small crowded flowers contain six or more stamens with elongated flaccid filaments, and a single superior ovary usually with a single cell and a}} single ovule.\n\n'''typh-fever''' (tīf′fē″vėr), ''n.'' [< ''typh''(''us''), ''typh''(''oid'') + ''fever''<sup>1</sup>.] A term proposed to include both typhus and typhoid fevers.\n\n'''typhinia''' (tī-fin′i-ä), ''n.'' [NL., < Gr. τῦφος, smoke, mist: see ''typhus.''] In ''pathol.'', relapsing fever. [Rare.]\n\n'''typhlitic''' (tif-lit′ik), ''a.'' [< ''typhlitis'' + ''-ic.''] Pertaining to or of the nature of typhlitis; affected with typhlitis.\n\n'''typhlitis''' (tif-lī′tis), ''n.'' [NL., < Gr. τυφλός, blind (with ref. to the cæcum), + ''-itis.''] Inflammation of the cæcum and vermiform appendix.\n\n'''Typhloënteritis''' (tif-lō-en-te-rī′tis), ''n.'' [NL., < Gr. τυφλός, blind, + ἔντερον, intestine, + ''-itis.''] Same as ''typhlitis.''\n\n'''Typhloid''' (tif′loid), ''a.'' [< Gr. τυφλός, blind, + εἶδος, form.] Having defective vision, as a blindworm.\n\n'''Typhlology''' (tif-lol′ọ̄-ji), ''n.'' [< Gr. τυφλός, blind, + ''-λογία'', < λέγειν, speak: see ''-ology.''] The sum of scientific knowledge concerning blindness.\n\n'''Typhlope''' (tif′lōp), ''n.'' [< NL. ''Typhlops.''] A small snake of the family ''Typhlopidæ;'' a worm-snake or blindworm.\n\n'''Typhlophthalmi''' (tif-lof-thal′mī), ''n. pl.'' [NL., < Gr. τυφλός, blind, + ὀφθαλμός, eye.] In Cope’s classification, a superfamily of pleurodont lizards, represented by the ''Anelytropidæ, Acontiidæ,'' and ''Aniellidæ.''\n\n'''typhlophthalmic''' (tif-lof-thal′mik), ''a.'' [< ''Typhlophthalmi'' + ''-ic.''] Of or pertaining to the ''Typhlophthalmi.''\n\n'''Typhlopidæ''' (tif-lop′i-dē), ''n. pl.'' [NL., < ''Typhlops'' + ''-idæ.''] A family of angiostomatous scolecophidian serpents, typified by the genus ''Typhlops;'' the worm-snakes or blindworms. {{smaller|It formerly included all the small serpents with the mouth not distensible and teeth only in one jaw, upper or lower, being the same as ''Typhlopoidea.'' By the division of these into two families, ''Catodonta'' and ''Epanodonta,'' with lower and with upper teeth only, respectively, the ''Typhlopidæ'' are restricted to the latter, and contrasted with ''Stenostomidæ.''}}\n\n'''Typhlopoidea''' (tif-lō-poi′dẹ̄-ä̤), ''n. pl.'' [NL., < Gr. τυφλός, blind, + ὤψ, eye, + εἶδος, form.] A suborder of ''Ophidia'', containing the small scolecophidian or angiostomatous snakes of the families ''Typhlopidæ'' and ''Stenostomatidæ'', and thus equivalent to ''Typhlopidæ'' in a broad sense.\n{{smaller block|They differ from all other ophidians in having no transverse bone of the skull, the pterygoid disconnected from the quadrate, the palatines with their long axes transverse and bounding the nasal choanæ behind, and the ethmoturbinal forming part of the roof of the mouth.}}\n\n'''Typhlops''' (tif′lops), ''n.'' [NL. (Schneider), < Gr. τυφλώψ, blind, < τυφλός, blind, + ὤψ, eye.] The typical genus of ''Typhlopidæ'', having the muzzle covered above with rostral and internasal scutes, and one ocular, one preocular, and one nasal plate.\n\n'''typhlosis''' (tif-lō′sis), ''n.'' [NL., < Gr. τύφλωσις, a making blind, blindness, < τυφλοῦν, make blind, < τυφλός, blind.] Blindness.\n\n'''typhlosolar''' (tif-lọ̄-sō′lär), ''a.'' [< ''typhlosole'' + ''-ar''<sup>3</sup>.] Of the character of or pertaining to a typhlosole. ''Micros. Sci.'', N. S., XXVII. 565.\n\n'''typhlosole''' (tif′lọ̄-sōl), ''n.'' [< Gr. τυφλός, blind, + σωλήν, tube, pipe: see ''solen''.] A thick folding of the intestine of certain annelids, mollusks, etc., formed by the involution of the wall of the intestine along the dorsomedian line, and projecting into the intestinal cavity. ''Huxley'', Anat. Invert., p. 196.\n\n'''Typhoëan''' (tī-fō′ẹ̄-an), ''a.'' [Also, erroneously, ''Typhœan, Typhean''; < L. ''Typhōeus'', < Gr. Τυφωεύς, contr. Τυφώς, Typhoëus (see def.); cf. ''Typhon''<sup>2</sup>.] Of, pertaining to, or resembling Typhoëus (or Typhos), a monster of Greek mythology, who tried to conquer the gods, but was overcome by Zeus and buried under Mount Etna. {{smaller|Typhoëus is described as vomiting flame from a hundred mouths, and thus typifies a volcano.}}\n\n'''typhoid''' (tī′foid), ''a.'' and ''n.'' [= F. ''typhoïde'', < Gr. *τυφοειδής, contr. τυφώδης, delirious, of persons suffering from fever, also of the fever itself, < τῦφος, smoke, also stupor arising from fever: see ''typhus''.] '''I.''' ''a.'' Resembling typhus: noting a specific continued fever.{{smaller|—'''Bilious typhoid fever.''' See ''fever''<sup>1</sup>.—'''Typhoid bacillus,''' or '''Eberth’s bacillus,''' a micro-organism found in the intestinal ulcers, and elsewhere in the bodies, of those dying from typhoid fever, and believed to be the cause of this disease.—'''Typhoid condition''' or '''state,''' a condition occurring sometimes in the course of acute diseases of a depressing type, in which there is marked lowering of all the vital forces, shown by prostration, muttering delirium, carphologia, muscular twitchings, unconscious discharges from the bladder and bowels, a dry, cracked, often blackish tongue, etc.—'''Typhoid fever.''' See ''fever''<sup>1</sup>.—'''Typhoid pneumonia.''' See ''pneumonia''.}}\n\n'''II.''' ''n.'' Typhoid fever. See ''fever''<sup>1</sup>.\n\n'''typhoidal''' (tī′foi-dal), ''a.'' [< ''typhoid'' + ''-al''.] Of, pertaining to, or characteristic of typhoid fever: as, ''typhoidal'' symptoms.\n\n'''typhomalarial''' (tī″fō-mā-lā′ri-al), ''a.'' [< ''typho(id)'' + ''malarial''.] Involving both typhoid and malarial characters: applied to a disease caused by the combined influence of filth and the malarial poison, or a typhoid fever in which the symptoms are modified by the action of malaria. Whether either of these conditions exists has been a subject of dispute among medical writers.\n\n'''typhomania''' (tī-fō-mā′ni-ä̤), ''n.'' [< Gr. τῦφος, stupor (see ''typhus'', ''typhoid''), + μανία, madness.]<noinclude><references/></noinclude>"
+}

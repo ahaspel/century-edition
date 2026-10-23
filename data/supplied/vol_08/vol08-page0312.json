@@ -1,0 +1,297 @@
+{
+ "volume": 8,
+ "page_number": 312,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n311.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n311.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-22",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 879,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     102,
+     49,
+     2442,
+     82
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     102,
+     82,
+     830,
+     1173
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     164,
+     100,
+     766,
+     930
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     102,
+     1173,
+     830,
+     2267
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     102,
+     2267,
+     830,
+     3198
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     830,
+     82,
+     1572,
+     1169
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     830,
+     1169,
+     1572,
+     2262
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     830,
+     2262,
+     1572,
+     3198
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     82,
+     2442,
+     721
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     721,
+     2442,
+     1736
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1666,
+     1043,
+     2214,
+     1296
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     1736,
+     2442,
+     2799
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1625,
+     1730,
+     2251,
+     1945
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     2799,
+     2442,
+     3198
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|trumeau|6508|trumpet}}",
+   "c1s1": "[[FIGURE]]\n{{c|{{smaller|Trumeau, 13th century.—At Villeneuve-le-Comte, France. (From Viollet-le-Duc’s “Dict. de l’Architecture.”)}}}}\nIn ''arch.'', any piece of wall between two openings, particularly the central pillar often dividing great doorways, especially in medieval architecture.\n\n{{smaller block|After the eleventh century the principal portals of great monastic and cathedral churches were commonly divided}}",
+   "c1s2": "{{smaller block|into two openings by ''trumeaux'', or pillars of stone, affording place for sculpture, which consisted usually of a statue with more or less subordinate carving.\n{{right|''C. H. Moore'', Gothic Architecture, p. 262.}}}}\n\n¶\n'''trummelett†''' (trum′let), ''n.'' A ringlet.\n{{smaller block|Her long, disheuled, rose-crown’d ''trummeletts.''\n{{right|''Herrick'', Golden Apples, Description of a Woman.}}}}\n\n'''trump<sup>1</sup>''' (trump), ''n.'' [Early mod. E. also ''trumpe'', ''trompe''; < ME. ''trumpe'', ''trompe'' = MD. ''trompe'', < OF. ''trompe'', a trump, trumpet, elephant’s trunk, pump, F. ''trompe'', a trump, horn, jews’-harp, = Pr. Sp. Pg. ''trompa'', a trump, trumpet, elephant’s trunk, = It. ''tromba'', a trump, trumpet, elephant’s trunk, pump (ML. ''tromba'', ''trumba'', a trump, trumpet); cf. OHG. ''trumba'', ''trumpa'', a trump, trumpet, MHG. ''trumbe'', ''trumme'', ''drumbe'', ''drumme'', ''trum'', a drum, G. ''tromme'', dial. ''trumme'', ''trumm'', ''tromm'', ''dromm'' = LG. ''drumme'' = D. ''trom'' (> E. ''drum'': see ''drum''<sup>1</sup>, which is thus a doublet of ''trump''<sup>1</sup>) = Sw. ''trumma'' = Dan. ''tromme'', a drum, = Icel. ''trumba'', a pipe, a trumpet; orig. sense appar. ‘pipe’ or ‘tube,’ but commonly regarded (as with many other terms denoting sound or instruments of sound) as ult. imitative. The Teut. forms are supposed to be derived from the Rom. forms, and, according to Diez, are prob. from L. ''tuba'', tube, pipe (cf. OF. ''trufe'', ''truffe'', < L. ''tubera'': see ''truffle''). Cf. Russ. ''truba'', a tube, trumpet, = Lith. ''truba'', a horn. The sense ‘tube’ in E., however, is prob. not original. Hence ''trumpet''.] '''1†.''' A tube; pipe.\n{{smaller block|<poem>But hoolsumest and best is to have made\n''Trumpes'' of cley by potters in thaire gise,\nAnd iche of hem II finger thicke assise.</poem>\n{{right|''Palladius'', Husbondrie (E. E. T. S.), p. 177.}}}}",
+   "c1s3": "¶\n'''2.''' A musical wind-instrument; a trumpet: as, the ''trump'' of doom; the last ''trump'' (the summons to final judgment). [Obsolete or archaic.]\n{{smaller block|<poem>As when his Tritons’ ''trumps'' do them to battle call\nWithin his surging lists to combat with the whale.</poem>\n{{right|''Drayton'', Polyolbion, v. 99.}}}}\n{{smaller block|We shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last ''trump''.\n{{right|1 Cor. xv. 51, 52.}}}}\n{{smaller block|<poem>And will you think Pride speaks the word, if here\nI tell you Fame’s ''Trump'' breath’d my History?</poem>\n{{right|''J. Beaumont'', Psyche, ii. 55.}}}}\n'''3†.''' A trumpeter; a herald. See ''trumpet'', 3.\n{{smaller block|Alexander the Great . . . sighed and saide: Oh the most fortunate, which haste founde suche a ''trompe'' to magnifi thi doinges!\n{{right|''R. Eden'', First Books on America (ed. Arber, p. 5).}}}}\n'''4.''' A jews’-harp. [Scotch.]\n{{smaller block|He has two large Lochaber ''trumps'', for Lochaber ''trumps'' were to the highlands what Cremona violins were to musical Europe. He secures the end of each with his teeth, and, grasping them with his hands so that the tiny instruments are invisible, he applies the little finger of each hand to their vibrating steel tongues.\n{{right|''N. Macleod'', Life in a Highland Bothy.}}}}\n\n'''Great court trump''', the burghmote horn, or other horn or trumpet used by a town or corporation.—'''The tongue of the trump.''' See ''tongue''.—'''Trump marine†.''' Same as ''trumpet marine'', or ''sea-trumpet''.\n{{smaller block|We in to see a Frenchman, . . . one Monsieur Prin, play on the ''trump marine'', which he do beyond belief.\n{{right|''Pepys'', Diary, III. 288.}}}}",
+   "c2s1": "¶\n\n'''trump<sup>1</sup>†''' (trump), ''v. i.'' [< ME. ''trumpen''; < ''trump''<sup>1</sup>, ''n.''] To blow a trumpet.\n{{smaller block|Ther herde I ''trumpen'' Messenus.\n{{right|''Chaucer'', House of Fame, l. 1243.}}\n<poem>Qwhene they tristely had tretyd, thay ''trumppede'' up aftyre,\nDescendyd doune with a daunce of dukes and erles.</poem>\n{{right|''Morte Arthure'' (E. E. T. S.), l. 407.}}}}\n\n'''trump<sup>2</sup>''' (trump), ''v. t.'' [Formerly also ''tromp''; = MD. ''trompen'', < F. ''tromper'', deceive, dupe, lit. play on the trump or trumpet, hence ''se tromper de quelqu’un'', play with any one, mock, beguile, cheat, etc.: see ''trump''<sup>1</sup>, and cf. ''trump''<sup>3</sup>.] '''1†.''' To impose upon; dupe; deceive; gull.\n{{smaller block|<poem>When she [Fortune] is pleased to trick or ''tromp'' Mankind,\nSome may be Coats, as in the Cards; but then\nSome must be Knaves, some Varlets, Bauds, and Ostlers,\nAs Aces, Duzies, Cards o’ ten, to face it\nOut i’ the Game, which all the World is.</poem>\n{{right|''B. Jonson'', New Inn, i. 3.}}}}\n'''2.''' To obtrude or impose unfairly.\n{{smaller block|Authors have been ''trumped'' upon us, interpolated and corrupted.\n{{right|''C. Leslie'', Short Method with Deists.}}}}\n\n'''To trump up''', {{smaller|to devise; forge; fabricate; seek and collect from every quarter: as, to ''trump up'' a story.}}\n{{smaller block|<poem>Hang honesty!\n''Trump'' me not ''up'' with honesty.</poem>\n{{right|''Fletcher and Massinger'', A Very Woman, ii. 3.}}}}\n\n'''trump<sup>3</sup>''' (trump), ''n.'' [Formerly also ''triumph''; = D. ''troef'' = G. ''trumpf'' = Sw. Dan. ''trumf'', < F. ''triomphe'' = It. ''trionfo'', a game of cards so called, ruff or trump, also a triumph, < L. ''triumphus'', triumph: see ''triumph''. The word was in part confused with ''trump''<sup>2</sup>, < F. ''tromper'', deceive: see ''trump''<sup>2</sup>.] '''1.''' One card of that suit which for the time being outranks the other suits, and",
+   "c2s2": "which is generally determined by turning up the last card in dealing, but in some games by choice or otherwise; also, the suit which thus outranks the others (a loose use, for the plural ''trumps'').\n\n{{smaller block|Hearts is ''trump'', as I said before.\n{{right|''Latimer'', Sermons on the Card, i.}}}}\n\n{{smaller block|<poem>Come hether, Dol; Dol, sit downe and play this game,\nAnd as thou sawest me do, see thou do even the same;\nThere is five ''trumps'' besides the queen, the hindmost thou shalt find her;\nTake hede of Sim Glover’s wife, she hath an eie behind her.</poem>\n{{right|''Bp. Still'', Gammer Gurton’s Needle, ii. 2.}}}}\n\n{{smaller block|What ’s ''Trumpes?''\n{{right|''Heywood'', Woman Killed with Kindness (Works, ed. 1874, [II. 123).}}}}\n\n{{smaller block|O Martin, if dirt were ''trumps'', what a hand you would hold!\n{{right|''Lamb'', in Barry Cornwall, vii.}}}}\n\n{{smaller block|Ugliness being ''trump'', I wonder more people don’t win.\n{{right|''C. D. Warner'', Backlog Studies, p. 133.}}}}\n\n'''2†.''' An old game at cards, also called ''ruff'' (see ''ruff''<sup>4</sup>), the original of the modern game of whist. See ''triumph'', 7.—'''3.''' A person upon whom one can depend; one who spontaneously does the right thing in any emergency; a good fellow. [Colloq.]\n\n{{smaller block|I wish I may die if you’re not a ''trump'', Pip.\n{{right|''Dickens'', Martin Chuzzlewit, xxviii.}}}}\n\n{{smaller block|Tom . . . took his three tosses without a kick or a cry, and was called a young ''trump'' for his pains.\n{{right|''T. Hughes'', Tom Brown at Rugby, i. 6.}}}}\n\n{{smaller|'''Call for trumps''', in ''whist-playing'', a conventional signal indicating that the player wishes his partner to lead trumps. See ''peter''<sup>2</sup>, ''n.'' and ''v.''—'''To put to one’s trump''' or '''trumps''', to reduce to the last expedient, or to call for the utmost exertion of power: a figure borrowed from games at cards.}}",
+   "c2s3": "{{smaller block|Ay, there’s a card that ''puts us to our trump.''\n{{right|''Peele'', Edward I., iv.}}}}\n\n¶\n'''trump<sup>3</sup>''' (trump), ''v.'' [< ''trump''<sup>3</sup>, ''n.''] '''I.''' ''trans.'' To put a trump-card upon; take with a trump.\n{{smaller block|When Baynes got an opportunity of speaking unobserved, as he thought, to Madame, you may be sure the guilty wretch asked her how his little Charlotte was. Mrs. Baynes ''trumped'' her partner’s best heart at that moment, but pretended to observe or overhear nothing.\n{{right|''Thackeray'', Philip, xxviii.}}}}\n'''II.''' ''intrans.'' In ''card-playing'', to play a trump-card when another suit has been led.\n\n'''trump-card''' (trump′kärd), ''n.'' '''1.''' The turned-up card which determines the suit of trumps. —'''2.''' One of the suit of cards which outranks the other suits; a trump.\n\n'''trumped-up''' (trumpt′up), ''a.'' Fabricated out of nothing or deceitfully; forged; false; worthless.\n{{smaller block|Its neglect will cause a ''trumped-up'' claim to have the appearance of a true one neglected.\n{{right|''Edinburgh Rev.'', CLXVI. 399.}}}}\n\n'''trumper†''' (trum′pėr), ''n.'' [< ME. ''trumper'', ''trumpour'', ''trumpowre'', < OF. *''trompour'', < ''tromper'', blow a trump, < ''trompe'', trump: see ''trump''<sup>1</sup>, ''v.''] One who blows a trump; a trumpeter.\n\n'''trumpery''' (trum′pėr-i), ''n.'' and ''a.'' [< F. ''tromperie'', < ''tromper'', deceive: see ''trump''<sup>2</sup>.] '''I.''' ''n.'' '''1†.''' Deceit; fraud. ''Sir J. Harington.''—'''2.''' A showy thing of no intrinsic value; something",
+   "c3s1": "intended to deceive by false show; worthless finery.\n{{smaller block|<poem>The ''trumpery'' in my house go bring hither,\nFor stale to catch these thieves.</poem>\n{{right|''Shak.'', Tempest, iv. 1. 186.}}}}\n\n'''3.''' Useless stuff; rubbish; trash.\n{{smaller block|<poem>Here to repeate the partes that I haue playd\nWere to vnrippe a trusse of ''trumpery''.</poem>\n{{right|''Mir. for Mags.'', I. 397.}}}}\n{{smaller block|If I was as Mr. Jones, I should look a little higher than such ''trumpery'' as Molly Seagrim. ''Fielding'', Tom Jones, v. 4.}}\n\n'''4.''' Nonsense; false or idle talk; foolishness.\n{{smaller block|All the ''Trumpery'' of the Mass, and Follies of their [Church of Rome’s] Worship, are by no means Superstitious, because required by the Church.\n{{right|''Stillingfleet'', Sermons, II. viii.}}}}\n{{smaller block|Extinct be the fairies and fairy ''trumpery'' of legendary fabling. ''Lamb'', Old Benchers.}}\n\n'''II.''' ''a.'' Showy, but useless or unsubstantial; hence, trifling; worthless: as, ''trumpery'' ornaments.",
+   "c3s2": "{{smaller block|A very ''trumpery'' case it is altogether, that I must admit.\n{{right|''T. Hook'', Gilbert Gurney, II. i.}}}}\n\n¶\n'''trumpet''' (trum′pet), ''n.'' [< ME. ''trumpet, trumpette'' = MD. ''trompette'', D. ''trompet'' = G. ''trompete'' = Sw. ''trumpet'' = Dan. ''trompet'', < OF. (and F.) ''trompette'' = Pr. ''trompeta'' = Sp. ''trompeta'' = Pg. ''trombeta'' = It. ''trombetta'' (ML. ''trompeta''), a trumpet, dim. of OF. ''trompe'', etc., a trump: see ''trump''<sup>1</sup>.] '''1.''' A musical wind-instrument, properly of metal, consisting of a\n[[FIGURE]]\n{{c|{{smaller|Cavalry-trumpet.}}}}\ncup-shaped mouthpiece, a long cylindrical or a short conical tube, and a flaring bell. {{smaller|The tones are produced by the vibrations of the player’s lips. The fundamental tone of the tube depends on its length, but by varying the force of the breath and the method of embouchure, a considerable series of harmonics can also be produced, so that the compass of the instrument extends to about four octaves, the tones in the upper part of the series lying close together. By the addition of a slide, like that of the trombone, or of valves, as in the cornet-à-pistons, or of finger-holes and keys, as in the key-bugle and the serpent, a large number of other tones can be secured, so as to give a very full and continuous compass, well adjusted as to intonation. The fundamental tone can be extensively varied in modern instruments by the}}",
+   "c3s3": "[[FIGURE]]\n{{c|{{smaller|Orchestral Trumpet.}}}}\nuse of crooks. The trumpet is the typical instrument of a very numerous family of instruments, of which the horn, the bugle, the cornet, the trombone, the tuba, the euphonium, and the serpent are prominent members. The name ''trumpet'' itself has been applied to a large number of different instruments at different times. In ancient times two varieties were important—the one straight (the ''tuba''), and the other curved (the ''lituus''), the latter being often made of wood or horn. In the medieval period the evolution of a great number of variants was rapid, with little emphasis on any one distinctively known as the trumpet. In the eighteenth century, and early in the nineteenth, the present orchestral trumpet reached its full development in a twice-doubled tube about five and a half feet long (or with the longest crook eight feet), without keys or valves, but with a short slide for correcting the intonation of certain of the upper tones and for adding intermediate tones. The artistic value of this instrument is great; but in most cases music written for it is now generally given to valve-instruments of the cornet kind, whose tone can never be as pure and true. The use of the trumpet was frequent with Bach and Handel, under the names ''clarino'' and ''principale''. The instrument is most common now in works of a martial or festal character, but it is also useful for adding color to various combinations, especially with other wind-instruments. Music for the trumpet is traditionally written in the key of C, and the intended fundamental tone (to be obtained by the use of the appropriate crook) is indicated at the beginning, as “''clarino'' in F” or “''tromba'' in E.” Instruments of the trumpet class have always been used for military purposes, especially for signaling and in military bands.",
+   "c3s4": "{{smaller block|''Trumpet'', or a lytylle trumpe, that clepythe to mete, or men togedur. Sistrum.\n{{right|''Prompt. Parv.'', p. 504.}}}}\n'''2.''' In ''organ-building'', a powerful reed-stop, having a tone somewhat resembling that of a trumpet.—'''3†.''' A trumpeter; one who sounds a trumpet, either literally or figuratively.\n{{smaller block|And att every Corse the ''Trumpettes'' and the mynystrellys com inne a for them.\n{{right|''Torkington'', Diarie of Eng. Travell, p. 12.}}}}\n{{smaller block|To be the ''trumpet'' of his own virtues.\n{{right|''Shak.'', Much Ado, v. 2. 87.}}}}\n'''4.''' A sound like that of a trumpet; a loud cry, especially that of the elephant."
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0312 c1f1.png",
+   "c3f1": "century v08 p0312 c3f1.png",
+   "c3f2": "century v08 p0312 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     176,
+     112,
+     754,
+     918
+    ],
+    "caption": [
+     166,
+     920,
+     754,
+     968
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     210,
+     88,
+     813,
+     911
+    ]
+   },
+   {
+    "box": [
+     1678,
+     1055,
+     2202,
+     1284
+    ],
+    "caption": [
+     1851,
+     1293,
+     2031,
+     1314
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1680,
+     1087,
+     2243,
+     1288
+    ]
+   },
+   {
+    "box": [
+     1637,
+     1742,
+     2239,
+     1933
+    ],
+    "caption": [
+     1830,
+     1940,
+     2043,
+     1960
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1702,
+     1752,
+     2236,
+     1938
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "1": [
+    1,
+    0
+   ],
+   "3": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 4,
+    "input_tokens": 16,
+    "output_tokens": 255,
+    "cache_creation_input_tokens": 6962,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 10053,
+    "output_tokens": 9517,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|trumeau|6508|trumpet}}</noinclude>[[File:century v08 p0312 c1f1.png|center|247px]]\n{{c|{{smaller|Trumeau, 13th century.—At Villeneuve-le-Comte, France. (From Viollet-le-Duc’s “Dict. de l’Architecture.”)}}}}\nIn ''arch.'', any piece of wall between two openings, particularly the central pillar often dividing great doorways, especially in medieval architecture.\n\n{{smaller block|After the eleventh century the principal portals of great monastic and cathedral churches were commonly divided into two openings by ''trumeaux'', or pillars of stone, affording place for sculpture, which consisted usually of a statue with more or less subordinate carving.\n{{right|''C. H. Moore'', Gothic Architecture, p. 262.}}}}\n\n'''trummelett†''' (trum′let), ''n.'' A ringlet.\n{{smaller block|Her long, disheuled, rose-crown’d ''trummeletts.''\n{{right|''Herrick'', Golden Apples, Description of a Woman.}}}}\n\n'''trump<sup>1</sup>''' (trump), ''n.'' [Early mod. E. also ''trumpe'', ''trompe''; < ME. ''trumpe'', ''trompe'' = MD. ''trompe'', < OF. ''trompe'', a trump, trumpet, elephant’s trunk, pump, F. ''trompe'', a trump, horn, jews’-harp, = Pr. Sp. Pg. ''trompa'', a trump, trumpet, elephant’s trunk, = It. ''tromba'', a trump, trumpet, elephant’s trunk, pump (ML. ''tromba'', ''trumba'', a trump, trumpet); cf. OHG. ''trumba'', ''trumpa'', a trump, trumpet, MHG. ''trumbe'', ''trumme'', ''drumbe'', ''drumme'', ''trum'', a drum, G. ''tromme'', dial. ''trumme'', ''trumm'', ''tromm'', ''dromm'' = LG. ''drumme'' = D. ''trom'' (> E. ''drum'': see ''drum''<sup>1</sup>, which is thus a doublet of ''trump''<sup>1</sup>) = Sw. ''trumma'' = Dan. ''tromme'', a drum, = Icel. ''trumba'', a pipe, a trumpet; orig. sense appar. ‘pipe’ or ‘tube,’ but commonly regarded (as with many other terms denoting sound or instruments of sound) as ult. imitative. The Teut. forms are supposed to be derived from the Rom. forms, and, according to Diez, are prob. from L. ''tuba'', tube, pipe (cf. OF. ''trufe'', ''truffe'', < L. ''tubera'': see ''truffle''). Cf. Russ. ''truba'', a tube, trumpet, = Lith. ''truba'', a horn. The sense ‘tube’ in E., however, is prob. not original. Hence ''trumpet''.] '''1†.''' A tube; pipe.\n{{smaller block|<poem>But hoolsumest and best is to have made\n''Trumpes'' of cley by potters in thaire gise,\nAnd iche of hem II finger thicke assise.</poem>\n{{right|''Palladius'', Husbondrie (E. E. T. S.), p. 177.}}}}\n\n'''2.''' A musical wind-instrument; a trumpet: as, the ''trump'' of doom; the last ''trump'' (the summons to final judgment). [Obsolete or archaic.]\n{{smaller block|<poem>As when his Tritons’ ''trumps'' do them to battle call\nWithin his surging lists to combat with the whale.</poem>\n{{right|''Drayton'', Polyolbion, v. 99.}}}}\n{{smaller block|We shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last ''trump''.\n{{right|1 Cor. xv. 51, 52.}}}}\n{{smaller block|<poem>And will you think Pride speaks the word, if here\nI tell you Fame’s ''Trump'' breath’d my History?</poem>\n{{right|''J. Beaumont'', Psyche, ii. 55.}}}}\n'''3†.''' A trumpeter; a herald. See ''trumpet'', 3.\n{{smaller block|Alexander the Great . . . sighed and saide: Oh the most fortunate, which haste founde suche a ''trompe'' to magnifi thi doinges!\n{{right|''R. Eden'', First Books on America (ed. Arber, p. 5).}}}}\n'''4.''' A jews’-harp. [Scotch.]\n{{smaller block|He has two large Lochaber ''trumps'', for Lochaber ''trumps'' were to the highlands what Cremona violins were to musical Europe. He secures the end of each with his teeth, and, grasping them with his hands so that the tiny instruments are invisible, he applies the little finger of each hand to their vibrating steel tongues.\n{{right|''N. Macleod'', Life in a Highland Bothy.}}}}\n\n'''Great court trump''', the burghmote horn, or other horn or trumpet used by a town or corporation.—'''The tongue of the trump.''' See ''tongue''.—'''Trump marine†.''' Same as ''trumpet marine'', or ''sea-trumpet''.\n{{smaller block|We in to see a Frenchman, . . . one Monsieur Prin, play on the ''trump marine'', which he do beyond belief.\n{{right|''Pepys'', Diary, III. 288.}}}}\n\n'''trump<sup>1</sup>†''' (trump), ''v. i.'' [< ME. ''trumpen''; < ''trump''<sup>1</sup>, ''n.''] To blow a trumpet.\n{{smaller block|Ther herde I ''trumpen'' Messenus.\n{{right|''Chaucer'', House of Fame, l. 1243.}}\n<poem>Qwhene they tristely had tretyd, thay ''trumppede'' up aftyre,\nDescendyd doune with a daunce of dukes and erles.</poem>\n{{right|''Morte Arthure'' (E. E. T. S.), l. 407.}}}}\n\n'''trump<sup>2</sup>''' (trump), ''v. t.'' [Formerly also ''tromp''; = MD. ''trompen'', < F. ''tromper'', deceive, dupe, lit. play on the trump or trumpet, hence ''se tromper de quelqu’un'', play with any one, mock, beguile, cheat, etc.: see ''trump''<sup>1</sup>, and cf. ''trump''<sup>3</sup>.] '''1†.''' To impose upon; dupe; deceive; gull.\n{{smaller block|<poem>When she [Fortune] is pleased to trick or ''tromp'' Mankind,\nSome may be Coats, as in the Cards; but then\nSome must be Knaves, some Varlets, Bauds, and Ostlers,\nAs Aces, Duzies, Cards o’ ten, to face it\nOut i’ the Game, which all the World is.</poem>\n{{right|''B. Jonson'', New Inn, i. 3.}}}}\n'''2.''' To obtrude or impose unfairly.\n{{smaller block|Authors have been ''trumped'' upon us, interpolated and corrupted.\n{{right|''C. Leslie'', Short Method with Deists.}}}}\n\n'''To trump up''', {{smaller|to devise; forge; fabricate; seek and collect from every quarter: as, to ''trump up'' a story.}}\n{{smaller block|<poem>Hang honesty!\n''Trump'' me not ''up'' with honesty.</poem>\n{{right|''Fletcher and Massinger'', A Very Woman, ii. 3.}}}}\n\n'''trump<sup>3</sup>''' (trump), ''n.'' [Formerly also ''triumph''; = D. ''troef'' = G. ''trumpf'' = Sw. Dan. ''trumf'', < F. ''triomphe'' = It. ''trionfo'', a game of cards so called, ruff or trump, also a triumph, < L. ''triumphus'', triumph: see ''triumph''. The word was in part confused with ''trump''<sup>2</sup>, < F. ''tromper'', deceive: see ''trump''<sup>2</sup>.] '''1.''' One card of that suit which for the time being outranks the other suits, and which is generally determined by turning up the last card in dealing, but in some games by choice or otherwise; also, the suit which thus outranks the others (a loose use, for the plural ''trumps'').\n\n{{smaller block|Hearts is ''trump'', as I said before.\n{{right|''Latimer'', Sermons on the Card, i.}}}}\n\n<poem>Come hether, Dol; Dol, sit downe and play this game,\nAnd as thou sawest me do, see thou do even the same;\nThere is five ''trumps'' besides the queen, the hindmost thou shalt find her;\nTake hede of Sim Glover’s wife, she hath an eie behind her.</poem>\n{{smaller block|{{right|''Bp. Still'', Gammer Gurton’s Needle, ii. 2.}}}}\n\n{{smaller block|What ’s ''Trumpes?''\n{{right|''Heywood'', Woman Killed with Kindness (Works, ed. 1874, [II. 123).}}}}\n\n{{smaller block|O Martin, if dirt were ''trumps'', what a hand you would hold!\n{{right|''Lamb'', in Barry Cornwall, vii.}}}}\n\n{{smaller block|Ugliness being ''trump'', I wonder more people don’t win.\n{{right|''C. D. Warner'', Backlog Studies, p. 133.}}}}\n\n'''2†.''' An old game at cards, also called ''ruff'' (see ''ruff''<sup>4</sup>), the original of the modern game of whist. See ''triumph'', 7.—'''3.''' A person upon whom one can depend; one who spontaneously does the right thing in any emergency; a good fellow. [Colloq.]\n\n{{smaller block|I wish I may die if you’re not a ''trump'', Pip.\n{{right|''Dickens'', Martin Chuzzlewit, xxviii.}}}}\n\n{{smaller block|Tom . . . took his three tosses without a kick or a cry, and was called a young ''trump'' for his pains.\n{{right|''T. Hughes'', Tom Brown at Rugby, i. 6.}}}}\n\n{{smaller|'''Call for trumps''', in ''whist-playing'', a conventional signal indicating that the player wishes his partner to lead trumps. See ''peter''<sup>2</sup>, ''n.'' and ''v.''—'''To put to one’s trump''' or '''trumps''', to reduce to the last expedient, or to call for the utmost exertion of power: a figure borrowed from games at cards. Ay, there’s a card that ''puts us to our trump.''\n{{right|''Peele'', Edward I., iv.}}}}\n\n'''trump<sup>3</sup>''' (trump), ''v.'' [< ''trump''<sup>3</sup>, ''n.''] '''I.''' ''trans.'' To put a trump-card upon; take with a trump.\n{{smaller block|When Baynes got an opportunity of speaking unobserved, as he thought, to Madame, you may be sure the guilty wretch asked her how his little Charlotte was. Mrs. Baynes ''trumped'' her partner’s best heart at that moment, but pretended to observe or overhear nothing.\n{{right|''Thackeray'', Philip, xxviii.}}}}\n'''II.''' ''intrans.'' In ''card-playing'', to play a trump-card when another suit has been led.\n\n'''trump-card''' (trump′kärd), ''n.'' '''1.''' The turned-up card which determines the suit of trumps. —'''2.''' One of the suit of cards which outranks the other suits; a trump.\n\n'''trumped-up''' (trumpt′up), ''a.'' Fabricated out of nothing or deceitfully; forged; false; worthless.\n{{smaller block|Its neglect will cause a ''trumped-up'' claim to have the appearance of a true one neglected.\n{{right|''Edinburgh Rev.'', CLXVI. 399.}}}}\n\n'''trumper†''' (trum′pėr), ''n.'' [< ME. ''trumper'', ''trumpour'', ''trumpowre'', < OF. *''trompour'', < ''tromper'', blow a trump, < ''trompe'', trump: see ''trump''<sup>1</sup>, ''v.''] One who blows a trump; a trumpeter.\n\n'''trumpery''' (trum′pėr-i), ''n.'' and ''a.'' [< F. ''tromperie'', < ''tromper'', deceive: see ''trump''<sup>2</sup>.] '''I.''' ''n.'' '''1†.''' Deceit; fraud. ''Sir J. Harington.''—'''2.''' A showy thing of no intrinsic value; something intended to deceive by false show; worthless finery.\n{{smaller block|<poem>The ''trumpery'' in my house go bring hither,\nFor stale to catch these thieves.</poem>\n{{right|''Shak.'', Tempest, iv. 1. 186.}}}}\n\n'''3.''' Useless stuff; rubbish; trash.\n{{smaller block|<poem>Here to repeate the partes that I haue playd\nWere to vnrippe a trusse of ''trumpery''.</poem>\n{{right|''Mir. for Mags.'', I. 397.}}}}\n{{smaller block|If I was as Mr. Jones, I should look a little higher than such ''trumpery'' as Molly Seagrim. ''Fielding'', Tom Jones, v. 4.}}\n\n'''4.''' Nonsense; false or idle talk; foolishness.\n{{smaller block|All the ''Trumpery'' of the Mass, and Follies of their [Church of Rome’s] Worship, are by no means Superstitious, because required by the Church.\n{{right|''Stillingfleet'', Sermons, II. viii.}}}}\n{{smaller block|Extinct be the fairies and fairy ''trumpery'' of legendary fabling. ''Lamb'', Old Benchers.}}\n\n'''II.''' ''a.'' Showy, but useless or unsubstantial; hence, trifling; worthless: as, ''trumpery'' ornaments. {{smaller block|A very ''trumpery'' case it is altogether, that I must admit.\n{{right|''T. Hook'', Gilbert Gurney, II. i.}}}}\n\n'''trumpet''' (trum′pet), ''n.'' [< ME. ''trumpet, trumpette'' = MD. ''trompette'', D. ''trompet'' = G. ''trompete'' = Sw. ''trumpet'' = Dan. ''trompet'', < OF. (and F.) ''trompette'' = Pr. ''trompeta'' = Sp. ''trompeta'' = Pg. ''trombeta'' = It. ''trombetta'' (ML. ''trompeta''), a trumpet, dim. of OF. ''trompe'', etc., a trump: see ''trump''<sup>1</sup>.] '''1.''' A musical wind-instrument, properly of metal, consisting of a\ncup-shaped mouthpiece, a long cylindrical or a short conical tube, and a flaring bell. {{smaller|The tones are produced by the vibrations of the player’s lips. The fundamental tone of the tube depends on its length, but by varying the force of the breath and the method of embouchure, a considerable series of harmonics can also be produced, so that the compass of the instrument extends to about four octaves, the tones in the upper part of the series lying close together. By the addition of a slide, like that of the trombone, or of valves, as in the cornet-à-pistons, or of finger-holes and keys, as in the key-bugle and the serpent, a large number of other tones can be secured, so as to give a very full and continuous compass, well adjusted as to intonation. The fundamental tone can be extensively varied in modern instruments by the}} use of crooks. The trumpet is the typical instrument of a very numerous family of instruments, of which the horn, the bugle, the cornet, the trombone, the tuba, the euphonium, and the serpent are prominent members. The name ''trumpet'' itself has been applied to a large number of different instruments at different times. In ancient times two varieties were important—the one straight (the ''tuba''), and the other curved (the ''lituus''), the latter being often made of wood or horn. In the medieval period the evolution of a great number of variants was rapid, with little emphasis on any one distinctively known as the trumpet. In the eighteenth century, and early in the nineteenth, the present orchestral trumpet reached its full development in a twice-doubled tube about five and a half feet long (or with the longest crook eight feet), without keys or valves, but with a short slide for correcting the intonation of certain of the upper tones and for adding intermediate tones. The artistic value of this instrument is great; but in most cases music written for it is now generally given to valve-instruments of the cornet kind, whose tone can never be as pure and true. The use of the trumpet was frequent with Bach and Handel, under the names ''clarino'' and ''principale''. The instrument is most common now in works of a martial or festal character, but it is also useful for adding color to various combinations, especially with other wind-instruments. Music for the trumpet is traditionally written in the key of C, and the intended fundamental tone (to be obtained by the use of the appropriate crook) is indicated at the beginning, as “''clarino'' in F” or “''tromba'' in E.” Instruments of the trumpet class have always been used for military purposes, especially for signaling and in military bands. {{smaller block|''Trumpet'', or a lytylle trumpe, that clepythe to mete, or men togedur. Sistrum.\n{{right|''Prompt. Parv.'', p. 504.}}}}\n'''2.''' In ''organ-building'', a powerful reed-stop, having a tone somewhat resembling that of a trumpet.—'''3†.''' A trumpeter; one who sounds a trumpet, either literally or figuratively.\n{{smaller block|And att every Corse the ''Trumpettes'' and the mynystrellys com inne a for them.\n{{right|''Torkington'', Diarie of Eng. Travell, p. 12.}}}}\n{{smaller block|To be the ''trumpet'' of his own virtues.\n{{right|''Shak.'', Much Ado, v. 2. 87.}}}}\n'''4.''' A sound like that of a trumpet; a loud cry, especially that of the elephant.\n\n[[File:century v08 p0312 c3f1.png|center|224px]]\n{{c|{{smaller|Cavalry-trumpet.}}}}\n\n[[File:century v08 p0312 c3f2.png|center|256px]]\n{{c|{{smaller|Orchestral Trumpet.}}}}<noinclude><references/></noinclude>"
+}

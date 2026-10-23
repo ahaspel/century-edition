@@ -1,0 +1,327 @@
+{
+ "volume": 8,
+ "page_number": 347,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n346.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n346.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-22",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 842,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     0,
+     2303,
+     138
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     138,
+     848,
+     857
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     138,
+     301,
+     812,
+     811
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     857,
+     848,
+     1676
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1676,
+     848,
+     3231
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     138,
+     1686,
+     824,
+     2165
+    ]
+   },
+   {
+    "name": "c1f3",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     151,
+     2579,
+     839,
+     2765
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     138,
+     1581,
+     972
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     972,
+     1581,
+     2045
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     862,
+     972,
+     1553,
+     1484
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     2045,
+     1581,
+     2863
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     2863,
+     1581,
+     3231
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1581,
+     138,
+     2303,
+     1100
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1581,
+     1100,
+     2303,
+     2157
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1581,
+     2157,
+     2303,
+     3231
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|turnstile|6543|turpin}}",
+   "c1s1": "¶\n'''turnstile''' (tėrn′stīl), ''n.'' [< ''turn'' + ''stile''<sup>1</sup>.] A post surmounted by four horizontal arms which move round as a person passes through; a turnpike. {{smaller|Turnstiles are usually placed on roads, bridges, or other places, either to prevent the passage of cattle, horses,\n[[FIGURE]]\n{{c|Turnstile, with Turnstile-register.}}}}",
+   "c1s2": "{{smaller|vehicles, etc., but to admit that of persons, or to bar a passage until toll or passage-money is collected; they are also placed (sometimes with a turnstile-register) at the entrance of buildings, as where there is a charge for admission, or where it is desired to prevent the entrance of too many persons at one time.}}\n\n'''turnstile-register''' (tėrn′stīl-rej″is-tėr), ''n.'' A recording device for registering the number of persons passing through a turnstile, as at the entrance of a toll-bridge, a place of amusement, etc. It works by means of gear-wheels.\n\n'''turnstone''' (tėrn′stōn), ''n.'' [< ''turn'', ''v.'', + obj. ''stone''.] A small grallatorial bird of the genus ''Strepsilas'', allied both to plovers and to sandpipers: so called from its habit of turning over little stones or pebbles on the sea-shore in search of food. {{smaller|The common turnstone or sea-dotterel is ''S. interpres''. In full summer plumage this is one of the handsomest of its tribe, being pied with black, brown, white, and chestnut-red, and having orange feet; it is 8 to 9 inches long, and about 17 in extent of wings. It is nearly cosmopolitan in its extensive migrations, and breeds in high latitudes. It is common in North America, especially coastwise, and there has many local names, as ''brant-bird'', ''beach-bird'', ''whale-bird'', ''heart-bird'', ''chicken-bird'', ''calico-bird'', ''calico-back'', ''calico-jacket'', ''checkered snipe'', ''sparked-back'', ''streaked-back'', ''red-legs'', ''red-legged plover'', ''bishop-plover'', ''maggot-snipe'', ''horse-foot snipe'', ''chuckatuck'', ''creddock'', ''jinny'', etc., derived from its appearance or habits. Among its}}",
+   "c1s3": "[[FIGURE]]\n{{c|{{smaller|Turnstone (''Strepsilas interpres''), in full summer plumage.}}}}\n{{smaller|English names are ''Hebridal sandpiper'' and ''variegated plover, stone-pecker, tangle-picker'', etc. The black-headed turnstone, ''S. melanocephalus'', is a different variety or species, mostly of a blackish color, found on the coasts of the North Pacific. See ''Strepsilas''.}}—'''Plover-billed turnstone.''' {{smaller|Same as ''surf-bird. Seebohm.''}}\n\n¶\n'''turn-table''' (tėrn′tā″bl), ''n.'' '''1.''' A circular platform designed to turn upon its center, and supported by a series of wheels that travel upon a circular track laid under the edge of the platform. {{smaller|This is the original form of the railroad turn-table, and is still in use. The platform is laid with a single line of rails, and the running-gear, pivot, wheels, etc.,}}\n[[FIGURE]]\n{{c|{{smaller|Turn-table.}}}}\n{{c|{{smaller|''a'', side elevation of turn-table, pivoted at the central pier A; ''b'', rollers which support the ends and upon which the latter turn around on a circular flat-topped rail; ''c'', ''c''′, fixed rails and turn-table rails respectively.}}}}\n{{smaller|are sunk in a circular pit, so that the track is level with the connecting tracks. In some cases a second line of rails is laid on the platform, at right angles with the first. The turn-table for turning locomotives, as at the end of local lines, is now usually simply a wooden or iron girder, pivoted at the center and having each end supported on wheels that move on a circular track in a pit, the platform being dispensed with. Small turn-tables for moving cars from one track to another, as in narrow yards where there is no room for curves or switches, are sometimes used. Also called ''turning-plate''.}}\n\n'''2.''' A device used in tracing the circular cement-cells for microscope-slides. ''E. H. Knight.''",
+   "c2s1": "¶\n'''turntale†''' (tėrn′tāl), ''n.'' [< ''turn'', ''v.'', + ''tale''<sup>1</sup>.] An apostrophe. See the quotation under ''turnway''.\n\n'''turn-tippet†''' (tėrn′tip″et), ''n.'' [< ''turn'', ''v.'', + ''tippet''.] A turncoat; a time-server.\n{{smaller block|The priests, for the most part, were double-faced, ''turn-tippets'', and flatterers.\n{{right|''Cranmer'', Works (Parker Soc.), II. 15. (''Davies.'')}}}}\n\n'''turn-under''' (tėrn′un″dėr), ''n.'' Same as ''fall-under''.\n\n'''turn-up''' (tėrn′up), ''n.'' [< ''turn up'': see under ''turn''.] '''1.''' A disturbance; a commotion; a shindy or scrimmage.\n{{smaller block|I have seen many a ''turn-up'', and some pitched battles among the yokels; and, though one or two were rather too sanguinary for my taste, no serious mischief was done.\n{{right|''Noctes Ambrosianæ'', Dec., 1834.}}}}\n'''2.''' One who or that which turns up unexpectedly or without prearrangement.\n{{smaller block|The type of men of which Emerson and Carlyle are the most pronounced and influential examples in our time, it must be owned, are comparatively a new ''turn-up'' in literature.\n{{right|''The Century'', XXVII. 926.}}}}\n[Colloq. or slang in both uses.]\n\n'''turnus''' (tėr′nus), ''n.'' [< NL. ''turnus'', the specific name, < L. ''Turnus'', a man’s name.] The tiger-swallowtail, ''Papilio turnus'', a large yellow",
+   "c2s2": "[[FIGURE]]\n{{c|{{smaller|Turnus (''Papilio turnus''), one half natural size.}}}}\nblack-striped swallow-tailed butterfly common in the United States. {{smaller|One striking variety of the female has the wings entirely black. The larva, of a deep velvety-green color, feeds on sassafras, alder, willow, oak, apple, and various other trees.}}\n\n'''turnverein''' (törn′fe-rīn′), ''n.'' [G. ''turn-verein'', < ''turnen'', practise gymnastics (see ''turn'', ''turner''), + ''verein'', union, association, < ''ver-'', E. ''for-'', + ''ein'', one, = E. ''one''.] An association for the practice of gymnastics according to the system of the turners. See ''turner''<sup>1</sup>, 4.\n\n'''turnway†''' (tėrn′wā), ''n.'' [< ''turn'', ''v.'', + ''way''<sup>1</sup>, ''n.''] An apostrophe. [Rare.]\n{{smaller block|Many times, when we haue runne a long race in our tale spoken to the hearers, we do sodainly flye out & either speake or exclaime at some other person or thing, and therefore the Greekes call such a figure (as we do) the}}",
+   "c2s3": "{{smaller block|''turnway'' or turntale.\n{{right|''Puttenham'', Arte of Eng. Poesie, p. 199.}}}}\n\n¶\n'''turn-wrest''' (tėrn′rest), ''a.'' Noting a plow having a reversible mold-board, whereby a furrow may be turned either to the right or to the left, according to the position of the mold-board.\n\n'''Turonian''' (tū-rō′ni-a̤n), ''n.'' [Irreg. < ''Touraine'' in France, where the system is well developed, + ''-ian.''] In ''geol.'', a division of the Cretaceous system, according to the continental geologists.\n{{smaller block|It lies between the Cenomanian and the Senonian, and is the equivalent of the English Lower Chalk, or “Chalk without flints”—the chalk of the cliffs of Dover and Shakespeare Cliff. In the more detailed nomenclature of the French geologists it includes the Santonian and Campanian.}}\n\n'''turpentine''' (tėr′pen-tīn), ''n.'' [Formerly also ''terpentine''; < ME. ''turbentyne'' = MD. ''terpentijn'', ''termentijn'', D. ''terpentijn'' = G. Sw. Dan. ''terpentin'', < OF. ''turbentine'', ''terebentine'', turpentine, ''terebenthine'', ML. ''terebintina'', NL. ''terebinthina'', turpentine, < L. ''terebinthina'' (sc. ''resina''), fem. of ''terebinthinus'', of the terebinth, < ''terebinthus'', < Gr. τερέβινθος, terebinth: see ''terebinth'', and cf. ''terebinthine.''] '''1.''' An oleoresinous substance secreted by the wood or bark of a number of trees, all coniferous except the terebinth, which",
+   "c2s4": "yields Chian turpentine. It consists chiefly of an essential hydrocarbon oil (C<sub>10</sub>H<sub>16</sub>) and a resin called ''colophony'' or ''rosin.'' The common turpentine is derived in France from the maritime pine, ''Pinus maritima'' (French or Bordeaux turpentine); in Russia and Germany, from the Scotch pine, ''P. sylvestris;'' in Austria and Corsica, from the Corsican pine, ''P. Laricio;'' in the East Indies and Japan, from several pines; and in the United States, most largely in North Carolina, from the southern or long-leafed pine, ''P. palustris,'' and somewhat from the loblolly-pine, ''P. Tæda.'' For other turpentines, see the phrases below. In the United States turpentine is obtained by cutting a pocket in the side of the tree (boxing), whence it is periodically collected. In France the less destruc-",
+   "c3s1": "{{smaller block|tive method is practised of removing a piece of bark and conducting the flow into earthen vessels. The crude turpentine is subjected to distillation, separating the oil, or so-called spirit or spirits of turpentine, from the rosin—the oil in the case of the long-leafed pine constituting, it is said, 17 per cent., and in the case of the maritime pine 24 per cent. This when pure is limpid and colorless, of a penetrating peculiar odor, and a pungent bitterish taste. Spirit of turpentine is very extensively used in mixing paints and varnishes. In medicine it is stimulant and diuretic, an anthelmintic, and externally a rubefacient and counter-irritant.}}\n\n{{smaller block|Men sellen a Gome, that Men clepen ''Turbentyne'', in stede of Bawme; and thei putten there to a littille Bawme for to ȝeven gode Odour.\n{{right|''Mandeville'', Travels, p. 51.}}}}\n'''2.''' The oil or spirit of turpentine; turps: an ordinary but less precise use.—'''Aleppo turpentine''', {{smaller|an article resembling, but not equal to, the Bordeaux turpentine, obtained in Provence from ''Pinus Halepensis.''}}—'''Canada turpentine''', {{smaller|Canada balsam. (See ''balsam.'') During the American civil war, turpentine of the common sort was obtained from the Canadian red pine, ''Pinus resinosa.''}}—'''Carpathian turpentine''', {{smaller|usually called ''Carpathian balsam'', a turpentine from the Swiss stone-pine, ''Pinus Cembra.''}}—'''Chian turpentine''', {{smaller|the product of the turpentine-tree (which see), obtained by incision. It is of a feebly aromatic and terebinthinous flavor, not bitter or acrid, and of a characteristic pleasantly aromatic and terebinthinous scent. It was formerly of medicinal repute, then fell nearly into disuse, but latterly has been used with some success for cancer. Also ''Cyprian'' or ''Scio turpentine.''}}—'''Hungarian turpentine''', {{smaller|the product of the dwarf pine, ''Pinus Pumilio'', usually called ''Hungarian balsam'', an article scarcely met with in commerce. Its essential oil is used as an inhalant in throat-diseases.}}—'''Larch turpentine.''' {{smaller|Same as ''Venetian turpentine.''}}—'''Mineral turpentine''', {{smaller|a deodorized benzoin used in painting as a substi-}}",
+   "c3s2": "{{smaller|tute for turpentine.—'''Scio turpentine.''' Same as ''Chian turpentine.''—'''Strasburg turpentine,''' the product of the silver fir, ''Abies alba'', much resembling common turpentine, but pleasantly odorous, and not acrid and bitter. It was formerly much esteemed in medicine, but is now nearly obsolete.—'''Turpentine camphor.''' Same as ''artificial camphor.'' See ''camphor.''—'''Turpentine ointment.''' See ''ointment.''—'''Venetian''' or '''Venice turpentine,''' the oleoresin of the European larch, ''Larix Europæa'', secreted chiefly in its sapwood. It is less siccative than any other kind. It is useful for plasters, and is often prescribed in veterinary practice; but the genuine article is consumed mostly in continental Europe.}}\n\n'''turpentine''' (tėr′pen-tīn), ''v. t.'' [< ''turpentine'', ''n.''] To apply turpentine to; rub with turpentine.\n{{smaller block|<poem>Or Martyr beat like Shrovetide cocks with bats,\nAnd fired like ''turpentined'' poor wasting rats.</poem>\n{{right|''Wolcot'' (P. Pindar), Subjects for Painters.}}}}\n\n'''turpentine-hack''' (tėr′pen-tīn-hak), ''n.'' A hand-tool for cutting or boxing pine-trees, to start the flow of crude turpentine. ''E. H. Knight.''\n\n'''turpentine-moth''' (tėr′pen-tīn-môth), ''n.'' Any one of several tortricid moths whose larvæ bore the twigs and shoots of pine and fir, causing an exudation of resin and killing the twig. {{smaller|''Retinia resinana'' is the common turpentine-moth of Europe; ''R. comstockiana'' and ''R. frustana'' are common in the United States.}}\n\n'''turpentine-oil''' (tėr′pen-tīn-oil), ''n.'' The oil of turpentine. See ''turpentine.'' Also called ''pine-oil.''—{{smaller|'''Hydrochlorate of turpentine-oil,''' artificial camphor. See ''camphor.''}}\n\n'''turpentine-still''' (tėr′pen-tīn-stil), ''n.'' An apparatus for distilling spirit from turpentine, or turpentine from pine-wood.\n\n'''turpentine-tree''' (tėr′pen-tīn-trē), ''n.'' '''1.''' The terebinth-tree, ''Pistacia Terebinthus'', the source",
+   "c3s3": "of Chian or Scio turpentine. {{smaller|Though the range of the terebinth is wide, the moderate demand is met by about 1,000 trees, some of them 800 or 900 years old, on the isle of Scio. See ''terebinth.''}} '''2.''' The Australian ''Syncarpia laurifolia'' (''Tristania albens'') and ''Tristania conferta'', trees affording an aromatic oil. See the generic names.\n\n¶\n'''turpentinic''' (tėr-pen-tin′ik), ''a.'' [< ''turpentine'' + ''-ic.''] Related to turpentine.—'''Turpentinic acid.''' {{smaller|Same as ''terebic acid'' (which see, under ''terebic'').}}\n\n'''turpeth''' (tėr′peth), ''n.'' [Formerly also ''turbeth, turbith, turbit;'' < ME. ''turbyte,'' < OF. (and F.) ''turbith'' = Pg. ''turbit'' (ML. ''turpethum''), < Ar. ''turbid,'' < Pers. ''turbid,'' a cathartic, ''turbad,'' a purgative root.] '''1.''' The root of ''Ipomæa'' (''Convolvulus'') ''Turpethum'', a plant of Ceylon, Malabar, and Australia, which has a cathartic property. (See ''Indian jalap,'' under ''jalap.'') It is sometimes called ''vegetable turpeth,'' to distinguish it from ''mineral turpeth.''—'''2.''' Turpeth-mineral.——'''Resin of turpeth.''' {{smaller|See ''resin.''}}\n\n'''turpeth-mineral''' (tėr′peth-min″ẹ-ra̤l), ''n.'' A name formerly given to the yellow basic mercury sulphate (HgSO<sub>4</sub>2HgO). {{smaller|It acts as a powerful emetic, and was formerly given in croup, but it is now seldom used internally. It is a very useful errhine in cases of headache, amaurosis, etc.}}\n\n'''turpify†''' (tėr′pi-fī), ''v. t.'' [< L. *''turpificare,'' in pp. ''turpificatus,'' made foul, < ''turpis,'' foul, base, + ''-ficare,'' < ''facere,'' make.] To calumniate; stigmatize.\n{{smaller block|O [that] . . . a woman . . . should thus ''turpifie'' the reputation of my doctrine with the superscription of a fool! {{right|''Sir P. Sidney,'' Wanstead Play, p. 620. (''Davies.'')}}}}\n\n'''turpin†''', ''n.'' An obsolete corruption of ''terrapin.''"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0347 c1f1.png",
+   "c1f2": "century v08 p0347 c1f2.png",
+   "c1f3": "century v08 p0347 c1f3.png",
+   "c2f1": "century v08 p0347 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     150,
+     313,
+     800,
+     799
+    ],
+    "caption": [
+     299,
+     807,
+     643,
+     831
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     155,
+     371,
+     740,
+     800
+    ]
+   },
+   {
+    "box": [
+     874,
+     984,
+     1541,
+     1472
+    ],
+    "caption": [
+     970,
+     1480,
+     1455,
+     1502
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     873,
+     979,
+     1573,
+     1470
+    ]
+   },
+   {
+    "box": [
+     150,
+     1698,
+     812,
+     2153
+    ],
+    "caption": [
+     174,
+     2156,
+     782,
+     2179
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     150,
+     1673,
+     840,
+     2084
+    ]
+   },
+   {
+    "box": [
+     163,
+     2591,
+     827,
+     2753
+    ],
+    "caption": [
+     134,
+     2766,
+     842,
+     2872
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     155,
+     2579,
+     844,
+     2762
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "1": [
+    3,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 5,
+    "input_tokens": 20,
+    "output_tokens": 337,
+    "cache_creation_input_tokens": 8629,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 10130,
+    "output_tokens": 7968,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|turnstile|6543|turpin}}</noinclude>{{nop}}'''turnstile''' (tėrn′stīl), ''n.'' [< ''turn'' + ''stile''<sup>1</sup>.] A post surmounted by four horizontal arms which move round as a person passes through; a turnpike. {{smaller|Turnstiles are usually placed on roads, bridges, or other places, either to prevent the passage of cattle, horses, {{smaller|vehicles, etc., but to admit that of persons, or to bar a passage until toll or passage-money is collected; they are also placed (sometimes with a turnstile-register) at the entrance of buildings, as where there is a charge for admission, or where it is desired to prevent the entrance of too many persons at one time.}}\n\n[[File:century v08 p0347 c1f1.png|center|288px]]\n{{c|Turnstile, with Turnstile-register.}}}}\n\n'''turnstile-register''' (tėrn′stīl-rej″is-tėr), ''n.'' A recording device for registering the number of persons passing through a turnstile, as at the entrance of a toll-bridge, a place of amusement, etc. It works by means of gear-wheels.\n\n'''turnstone''' (tėrn′stōn), ''n.'' [< ''turn'', ''v.'', + obj. ''stone''.] A small grallatorial bird of the genus ''Strepsilas'', allied both to plovers and to sandpipers: so called from its habit of turning over little stones or pebbles on the sea-shore in search of food. {{smaller|The common turnstone or sea-dotterel is ''S. interpres''. In full summer plumage this is one of the handsomest of its tribe, being pied with black, brown, white, and chestnut-red, and having orange feet; it is 8 to 9 inches long, and about 17 in extent of wings. It is nearly cosmopolitan in its extensive migrations, and breeds in high latitudes. It is common in North America, especially coastwise, and there has many local names, as ''brant-bird'', ''beach-bird'', ''whale-bird'', ''heart-bird'', ''chicken-bird'', ''calico-bird'', ''calico-back'', ''calico-jacket'', ''checkered snipe'', ''sparked-back'', ''streaked-back'', ''red-legs'', ''red-legged plover'', ''bishop-plover'', ''maggot-snipe'', ''horse-foot snipe'', ''chuckatuck'', ''creddock'', ''jinny'', etc., derived from its appearance or habits. Among its English names are ''Hebridal sandpiper'' and ''variegated plover, stone-pecker, tangle-picker'', etc. The black-headed turnstone, ''S. melanocephalus'', is a different variety or species, mostly of a blackish color, found on the coasts of the North Pacific. See ''Strepsilas''.}}—'''Plover-billed turnstone.''' {{smaller|Same as ''surf-bird. Seebohm.''}}\n\n[[File:century v08 p0347 c1f2.png|center|293px]]\n{{c|{{smaller|Turnstone (''Strepsilas interpres''), in full summer plumage.}}}}\n\n'''turn-table''' (tėrn′tā″bl), ''n.'' '''1.''' A circular platform designed to turn upon its center, and supported by a series of wheels that travel upon a circular track laid under the edge of the platform. {{smaller|This is the original form of the railroad turn-table, and is still in use. The platform is laid with a single line of rails, and the running-gear, pivot, wheels, etc.,}}\n{{smaller|are sunk in a circular pit, so that the track is level with the connecting tracks. In some cases a second line of rails is laid on the platform, at right angles with the first. The turn-table for turning locomotives, as at the end of local lines, is now usually simply a wooden or iron girder, pivoted at the center and having each end supported on wheels that move on a circular track in a pit, the platform being dispensed with. Small turn-tables for moving cars from one track to another, as in narrow yards where there is no room for curves or switches, are sometimes used. Also called ''turning-plate''.}}\n\n[[File:century v08 p0347 c1f3.png|center|294px]]\n{{c|{{smaller|Turn-table.}}}}\n{{c|{{smaller|''a'', side elevation of turn-table, pivoted at the central pier A; ''b'', rollers which support the ends and upon which the latter turn around on a circular flat-topped rail; ''c'', ''c''′, fixed rails and turn-table rails respectively.}}}}\n\n'''2.''' A device used in tracing the circular cement-cells for microscope-slides. ''E. H. Knight.''\n\n'''turntale†''' (tėrn′tāl), ''n.'' [< ''turn'', ''v.'', + ''tale''<sup>1</sup>.] An apostrophe. See the quotation under ''turnway''.\n\n'''turn-tippet†''' (tėrn′tip″et), ''n.'' [< ''turn'', ''v.'', + ''tippet''.] A turncoat; a time-server.\n{{smaller block|The priests, for the most part, were double-faced, ''turn-tippets'', and flatterers.\n{{right|''Cranmer'', Works (Parker Soc.), II. 15. (''Davies.'')}}}}\n\n'''turn-under''' (tėrn′un″dėr), ''n.'' Same as ''fall-under''.\n\n'''turn-up''' (tėrn′up), ''n.'' [< ''turn up'': see under ''turn''.] '''1.''' A disturbance; a commotion; a shindy or scrimmage.\n{{smaller block|I have seen many a ''turn-up'', and some pitched battles among the yokels; and, though one or two were rather too sanguinary for my taste, no serious mischief was done.\n{{right|''Noctes Ambrosianæ'', Dec., 1834.}}}}\n'''2.''' One who or that which turns up unexpectedly or without prearrangement.\n{{smaller block|The type of men of which Emerson and Carlyle are the most pronounced and influential examples in our time, it must be owned, are comparatively a new ''turn-up'' in literature.\n{{right|''The Century'', XXVII. 926.}}}}\n[Colloq. or slang in both uses.]\n\n'''turnus''' (tėr′nus), ''n.'' [< NL. ''turnus'', the specific name, < L. ''Turnus'', a man’s name.] The tiger-swallowtail, ''Papilio turnus'', a large yellow black-striped swallow-tailed butterfly common in the United States. {{smaller|One striking variety of the female has the wings entirely black. The larva, of a deep velvety-green color, feeds on sassafras, alder, willow, oak, apple, and various other trees.}}\n\n[[File:century v08 p0347 c2f1.png|center|295px]]\n{{c|{{smaller|Turnus (''Papilio turnus''), one half natural size.}}}}\n\n'''turnverein''' (törn′fe-rīn′), ''n.'' [G. ''turn-verein'', < ''turnen'', practise gymnastics (see ''turn'', ''turner''), + ''verein'', union, association, < ''ver-'', E. ''for-'', + ''ein'', one, = E. ''one''.] An association for the practice of gymnastics according to the system of the turners. See ''turner''<sup>1</sup>, 4.\n\n'''turnway†''' (tėrn′wā), ''n.'' [< ''turn'', ''v.'', + ''way''<sup>1</sup>, ''n.''] An apostrophe. [Rare.]\n{{smaller block|Many times, when we haue runne a long race in our tale spoken to the hearers, we do sodainly flye out & either speake or exclaime at some other person or thing, and therefore the Greekes call such a figure (as we do) the ''turnway'' or turntale.\n{{right|''Puttenham'', Arte of Eng. Poesie, p. 199.}}}}\n\n'''turn-wrest''' (tėrn′rest), ''a.'' Noting a plow having a reversible mold-board, whereby a furrow may be turned either to the right or to the left, according to the position of the mold-board.\n\n'''Turonian''' (tū-rō′ni-a̤n), ''n.'' [Irreg. < ''Touraine'' in France, where the system is well developed, + ''-ian.''] In ''geol.'', a division of the Cretaceous system, according to the continental geologists.\n{{smaller block|It lies between the Cenomanian and the Senonian, and is the equivalent of the English Lower Chalk, or “Chalk without flints”—the chalk of the cliffs of Dover and Shakespeare Cliff. In the more detailed nomenclature of the French geologists it includes the Santonian and Campanian.}}\n\n'''turpentine''' (tėr′pen-tīn), ''n.'' [Formerly also ''terpentine''; < ME. ''turbentyne'' = MD. ''terpentijn'', ''termentijn'', D. ''terpentijn'' = G. Sw. Dan. ''terpentin'', < OF. ''turbentine'', ''terebentine'', turpentine, ''terebenthine'', ML. ''terebintina'', NL. ''terebinthina'', turpentine, < L. ''terebinthina'' (sc. ''resina''), fem. of ''terebinthinus'', of the terebinth, < ''terebinthus'', < Gr. τερέβινθος, terebinth: see ''terebinth'', and cf. ''terebinthine.''] '''1.''' An oleoresinous substance secreted by the wood or bark of a number of trees, all coniferous except the terebinth, which yields Chian turpentine. It consists chiefly of an essential hydrocarbon oil (C<sub>10</sub>H<sub>16</sub>) and a resin called ''colophony'' or ''rosin.'' The common turpentine is derived in France from the maritime pine, ''Pinus maritima'' (French or Bordeaux turpentine); in Russia and Germany, from the Scotch pine, ''P. sylvestris;'' in Austria and Corsica, from the Corsican pine, ''P. Laricio;'' in the East Indies and Japan, from several pines; and in the United States, most largely in North Carolina, from the southern or long-leafed pine, ''P. palustris,'' and somewhat from the loblolly-pine, ''P. Tæda.'' For other turpentines, see the phrases below. In the United States turpentine is obtained by cutting a pocket in the side of the tree (boxing), whence it is periodically collected. In France the less destruc{{smaller block|tive method is practised of removing a piece of bark and conducting the flow into earthen vessels. The crude turpentine is subjected to distillation, separating the oil, or so-called spirit or spirits of turpentine, from the rosin—the oil in the case of the long-leafed pine constituting, it is said, 17 per cent., and in the case of the maritime pine 24 per cent. This when pure is limpid and colorless, of a penetrating peculiar odor, and a pungent bitterish taste. Spirit of turpentine is very extensively used in mixing paints and varnishes. In medicine it is stimulant and diuretic, an anthelmintic, and externally a rubefacient and counter-irritant.}}\n\n{{smaller block|Men sellen a Gome, that Men clepen ''Turbentyne'', in stede of Bawme; and thei putten there to a littille Bawme for to ȝeven gode Odour.\n{{right|''Mandeville'', Travels, p. 51.}}}}\n'''2.''' The oil or spirit of turpentine; turps: an ordinary but less precise use.—'''Aleppo turpentine''', {{smaller|an article resembling, but not equal to, the Bordeaux turpentine, obtained in Provence from ''Pinus Halepensis.''}}—'''Canada turpentine''', {{smaller|Canada balsam. (See ''balsam.'') During the American civil war, turpentine of the common sort was obtained from the Canadian red pine, ''Pinus resinosa.''}}—'''Carpathian turpentine''', {{smaller|usually called ''Carpathian balsam'', a turpentine from the Swiss stone-pine, ''Pinus Cembra.''}}—'''Chian turpentine''', {{smaller|the product of the turpentine-tree (which see), obtained by incision. It is of a feebly aromatic and terebinthinous flavor, not bitter or acrid, and of a characteristic pleasantly aromatic and terebinthinous scent. It was formerly of medicinal repute, then fell nearly into disuse, but latterly has been used with some success for cancer. Also ''Cyprian'' or ''Scio turpentine.''}}—'''Hungarian turpentine''', {{smaller|the product of the dwarf pine, ''Pinus Pumilio'', usually called ''Hungarian balsam'', an article scarcely met with in commerce. Its essential oil is used as an inhalant in throat-diseases.}}—'''Larch turpentine.''' {{smaller|Same as ''Venetian turpentine.''}}—'''Mineral turpentine''', {{smaller|a deodorized benzoin used in painting as a substitute for turpentine.—'''Scio turpentine.''' Same as ''Chian turpentine.''—'''Strasburg turpentine,''' the product of the silver fir, ''Abies alba'', much resembling common turpentine, but pleasantly odorous, and not acrid and bitter. It was formerly much esteemed in medicine, but is now nearly obsolete.—'''Turpentine camphor.''' Same as ''artificial camphor.'' See ''camphor.''—'''Turpentine ointment.''' See ''ointment.''—'''Venetian''' or '''Venice turpentine,''' the oleoresin of the European larch, ''Larix Europæa'', secreted chiefly in its sapwood. It is less siccative than any other kind. It is useful for plasters, and is often prescribed in veterinary practice; but the genuine article is consumed mostly in continental Europe.}}\n\n'''turpentine''' (tėr′pen-tīn), ''v. t.'' [< ''turpentine'', ''n.''] To apply turpentine to; rub with turpentine.\n{{smaller block|<poem>Or Martyr beat like Shrovetide cocks with bats,\nAnd fired like ''turpentined'' poor wasting rats.</poem>\n{{right|''Wolcot'' (P. Pindar), Subjects for Painters.}}}}\n\n'''turpentine-hack''' (tėr′pen-tīn-hak), ''n.'' A hand-tool for cutting or boxing pine-trees, to start the flow of crude turpentine. ''E. H. Knight.''\n\n'''turpentine-moth''' (tėr′pen-tīn-môth), ''n.'' Any one of several tortricid moths whose larvæ bore the twigs and shoots of pine and fir, causing an exudation of resin and killing the twig. {{smaller|''Retinia resinana'' is the common turpentine-moth of Europe; ''R. comstockiana'' and ''R. frustana'' are common in the United States.}}\n\n'''turpentine-oil''' (tėr′pen-tīn-oil), ''n.'' The oil of turpentine. See ''turpentine.'' Also called ''pine-oil.''—{{smaller|'''Hydrochlorate of turpentine-oil,''' artificial camphor. See ''camphor.''}}\n\n'''turpentine-still''' (tėr′pen-tīn-stil), ''n.'' An apparatus for distilling spirit from turpentine, or turpentine from pine-wood.\n\n'''turpentine-tree''' (tėr′pen-tīn-trē), ''n.'' '''1.''' The terebinth-tree, ''Pistacia Terebinthus'', the source of Chian or Scio turpentine. {{smaller|Though the range of the terebinth is wide, the moderate demand is met by about 1,000 trees, some of them 800 or 900 years old, on the isle of Scio. See ''terebinth.''}} '''2.''' The Australian ''Syncarpia laurifolia'' (''Tristania albens'') and ''Tristania conferta'', trees affording an aromatic oil. See the generic names.\n\n'''turpentinic''' (tėr-pen-tin′ik), ''a.'' [< ''turpentine'' + ''-ic.''] Related to turpentine.—'''Turpentinic acid.''' {{smaller|Same as ''terebic acid'' (which see, under ''terebic'').}}\n\n'''turpeth''' (tėr′peth), ''n.'' [Formerly also ''turbeth, turbith, turbit;'' < ME. ''turbyte,'' < OF. (and F.) ''turbith'' = Pg. ''turbit'' (ML. ''turpethum''), < Ar. ''turbid,'' < Pers. ''turbid,'' a cathartic, ''turbad,'' a purgative root.] '''1.''' The root of ''Ipomæa'' (''Convolvulus'') ''Turpethum'', a plant of Ceylon, Malabar, and Australia, which has a cathartic property. (See ''Indian jalap,'' under ''jalap.'') It is sometimes called ''vegetable turpeth,'' to distinguish it from ''mineral turpeth.''—'''2.''' Turpeth-mineral.——'''Resin of turpeth.''' {{smaller|See ''resin.''}}\n\n'''turpeth-mineral''' (tėr′peth-min″ẹ-ra̤l), ''n.'' A name formerly given to the yellow basic mercury sulphate (HgSO<sub>4</sub>2HgO). {{smaller|It acts as a powerful emetic, and was formerly given in croup, but it is now seldom used internally. It is a very useful errhine in cases of headache, amaurosis, etc.}}\n\n'''turpify†''' (tėr′pi-fī), ''v. t.'' [< L. *''turpificare,'' in pp. ''turpificatus,'' made foul, < ''turpis,'' foul, base, + ''-ficare,'' < ''facere,'' make.] To calumniate; stigmatize.\n{{smaller block|O [that] . . . a woman . . . should thus ''turpifie'' the reputation of my doctrine with the superscription of a fool! {{right|''Sir P. Sidney,'' Wanstead Play, p. 620. (''Davies.'')}}}}\n\n'''turpin†''', ''n.'' An obsolete corruption of ''terrapin.''<noinclude><references/></noinclude>"
+}

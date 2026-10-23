@@ -1,0 +1,180 @@
+{
+ "volume": 8,
+ "page_number": 310,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n309.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n309.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-22",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 1460,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     94,
+     48,
+     2442,
+     80
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     94,
+     80,
+     819,
+     1156
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     94,
+     1156,
+     819,
+     2246
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     94,
+     2246,
+     819,
+     3195
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     819,
+     80,
+     1562,
+     1075
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     819,
+     1075,
+     1562,
+     2152
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     819,
+     2152,
+     1562,
+     3195
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1562,
+     80,
+     2442,
+     940
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1562,
+     940,
+     2442,
+     1989
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1562,
+     1989,
+     2442,
+     3071
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1562,
+     3071,
+     2442,
+     3195
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|truck-farmer|6506|true}}",
+   "c1s1": "¶\n'''truck-farmer''' (truk′fär″mėr), ''n.'' A farmer who raises vegetables, fruits, etc., for the market; a market-gardener on a large scale. [U. S.]\n\n'''truck-house''' (truk′hous), ''n.'' A house erected for the storage of goods, used by early English settlers in America in trading with the Indians.\n\n'''trucking-house''' (truk′ing-hous), ''n.'' Same as ''truck-house.''\n{{smaller block|The French came in a pinnace to Penobscot, and rifled a ''trucking-house'' belonging to Plimouth.\n{{right|''Winthrop'', Hist. New England, I. 94.}}}}\n\n'''truck-jack''' (truk′jak), ''n.'' A lifting-jack suspended from a truck-axle, and used to lift logs or other heavy objects for loading upon low-bodied sleds or wagons. ''E. H. Knight.''\n\n'''truckle''' (truk′l), ''n.'' [Early mod. E. ''troccle'', < ME. *''trokel'', ''trookyl'' (in comp.), < ML. ''troclea'', a small wheel, a wheel of a pulley, a pulley, < L. ''troclea'', ''trochlea'', a sheaf, pulley, < Gr. τροχιλέα, τροχιλία, a pulley, < τροχός, a wheel: see ''trochus'', and cf. ''trochlea'', ''trochilus''<sup>2</sup>. Cf. ''truck''<sup>2</sup>, as related to ''trochus''.] '''1†.''' A wheel of a pulley; also, a pulley.\n{{smaller block|''Jabol'', a ''truckle'' or pullie. . . . ''Moufle'', a ''truckle'' for a pullie.\n{{right|''Cotgrave.''}}}}\n'''2.''' A small wheel or caster. ''Sterne'', Tristram Shandy, ii. 200.—'''3.''' A small flat cheese. [Prov. Eng.]—'''4.''' A truckle-bed. ''Scott'', Abbot, I. 236.\n{{smaller block|Where be those kitchinstuffes here? shall we have no attendants? shew these Gentlemen into a close roome, with a standing bed in ’t, and a ''truckle'' too; you are welcome, Gentlemen.\n{{right|''Heywood'', Royal King (Works, ed. 1874, VI. 46).}}}}",
+   "c1s2": "¶\n\n'''truckle''' (truk′l), ''v.''; pret. and pp. ''truckled'', ppr. ''truckling''. [< ''truckle'', ''n.''] '''I.''' ''trans.'' To move on rollers or casters; trundle.\n\n{{smaller block|Tables with two legs and chairs without bottoms were ''truckled'' from the middle to one end of the room.\n{{right|''Miss Burney'', Camilla, iii. 13. (''Davies.'')}}}}\n\n'''II.''' ''intrans.'' '''1†.''' To sleep in a truckle-bed. See ''truckle'', ''n.'', 4, and ''truckle-bed.''\n\n{{smaller block|''Drawer.'' Now you are up, sir, will you go to bed?<br>''Pedro.'' I’ll ''truckle'' here, boy; give me another pillow.\n{{right|''Beau. and Fl.'', Coxcomb, i. 6.}}}}\n\nHence—'''2.''' To be tamely subordinate, as a pupil to his tutor, or a servant to his master; yield or bend obsequiously to the will of another; submit; cringe; act in a servile manner: usually with ''to'' or ''under''.\n\n{{smaller block|He will never, while he lives, ''truckle under'' any body or any faction, but do just as his own reason and judgment directs; and, when he cannot use that freedom, he will have nothing to do in public affairs.\n{{right|''Pepys'', Diary, III. 237.}}}}\n\n{{smaller block|The government ''truckles'', condescends to cajole them, and drops all prosecution of their crimes.\n{{right|''Franklin'', Autobiog., p. 333.}}}}\n\n'''truckle-bed''' (truk′l-bed), ''n.'' [Early mod. E. ''trocclebed''; < ME. ''trookylbed''; < ''truckle'' + ''bed''<sup>1</sup>. Cf. ''trundle-bed'', a diff. word of equiv. meaning.] A bed the frame of which runs on wheels; especially, one which is low enough to be wheeled under a high or standing bed, remaining there during the day, and rolled out for use at night; a trundle-bed. The truckle-bed was formerly appropriated to a servant or subordinate, and also to children.\n\n{{smaller block|There ’s his chamber, his house, his castle, his standing-}}",
+   "c1s3": "{{smaller block|bed and ''truckle-bed.''{{right|''Shak.'', M. W. of W., iv. 5. 7.}}}}\n{{smaller block|Well, go thy ways, for as sweet a breasted page as ever lay at his master’s feet in a ''truckle-bed.''{{right|''Middleton'', More Dissemblers besides Women, i. 4.}}}}\n{{smaller block|<poem>First, that he lie upon the ''truckle-bed'',\nWhile his young master lieth o’er his head.</poem>{{right|''Bp. Hall'', Satires, ii. 6.}}}}\n{{smaller block|Augustus . . . slept on a ''truckle bed'' without hangings.{{right|''Froude'', Short Studies on Great Subjects, 3d ser., p. 264.}}}}\n\n'''truckle-cheese''' (truk′l-chēz), ''n.'' Same as ''truckle'', 3.\n\n'''truckler''' (truk′lėr), ''n.'' [< ''truckle'' + ''-er''<sup>1</sup>.] One who truckles or yields obsequiously to the will of another.\n{{smaller block|Let him call me ''truckler.'' {{right|''Tennyson'', Queen Mary, iii. 4.}}}}\n\n'''truckling''' (truk′ling), ''p. a.'' Apt to truckle; cringing; fawning; slavish; servile; also, characteristic of a truckler: as, a ''truckling'' expedient.\n{{smaller block|They were subdued and insulted by Alexander’s captains, and continued under several revolutions a small ''truckling'' state.{{right|''Swift'', Nobles and Commons, ii.}}}}\n\n'''truckman<sup>1</sup>''' (truk′man), ''n.''; pl. ''truckmen'' (-men). [< ''truck''<sup>1</sup> + ''man''.] One who trucks or exchanges.\n\n'''truckman<sup>2</sup>''' (truk′man), ''n.''; pl. ''truckmen'' (-men). [< ''truck''<sup>2</sup> + ''man''.] A truck-driver; a carter or carman.\n\n'''truck-master''' (truk′mȧs″tėr), ''n.'' An officer charged with the supervision of trade with the American Indians. Compare ''truck-house''.",
+   "c2s1": "¶\n'''truck-pot''' (truk′pot), ''n.'' Same as ''track-pot.''\n\n'''truck-shop''' (truk′shop), ''n.'' A shop conducted on the truck system; a tommy-shop.\n\n'''truck-store''' (truk′stōr), ''n.'' Same as ''truck-shop.'' ''Appleton’s Ann. Cyc.'', 1886, p. 84.\n\n'''trucos''' (trö′kos), ''n.'' [Sp.: see ''truck''<sup>3</sup>.] A game. See ''truck''<sup>3</sup>. ''Prescott.''\n\n'''truculence''' (trö′kū-lẹns or truk′ū-lẹns), ''n.'' [< L. ''truculentia'', < ''truculentus'', truculent: see ''truculent.''] The state or character of being truculent; savageness of manners and appearance; ferociousness; ferocity.\n\n'''truculency''' (trö′kū-len-si or truk′ū-len-si), ''n.'' [< ''truculence'' (see ''-cy'').] Same as ''truculence.''\n{{smaller block|He loves not tyranny; . . . the ''truculency'' of the subject who transacts this he approves not.\n{{right|''Waterhouse'', On Fortescue (1663), p. 184.}}}}\n\n'''truculent''' (trö′kū-lent or truk′ū-lẹnt), ''a.'' [< OF. ''truculent'' = Sp. Pg. It. ''truculento'', < L. ''truculentus'', fierce, savage, ferocious, < ''trux'' (''truc-''), fierce, wild.] '''1.''' Fierce; savage; barbarous.\n{{smaller block|A barbarous Scythia, where the savage and ''truculent'' inhabitants . . . live upon milk, and flesh roasted in the sun.\n{{right|''Ray.''}}}}\n'''2.''' Inspiring terror; ferocious.\n{{smaller block|<poem>The trembling boy his brethren’s hands,\nTheir ''truculent'' aspects, and servile bands,\nBeheld. {{right|''Sandys'', Christ’s Passion.}}</poem>}}\n'''3.''' Cruel; destructive.\n{{smaller block|Pestilential seminaries, according to their grossness or subtility, cause more or less ''truculent'' plagues, some of}}",
+   "c2s2": "{{smaller block|such malignity that they enecate in two hours.\n{{right|''Harvey'', The Plague.}}}}\n\n¶\n'''truculently''' (trö′kū-lent-li or truk′ū-lẹnt-li), ''adv.'' In a truculent manner; fiercely; destructively.\n\n'''Trudeau’s tern.''' See ''tern''<sup>1</sup>.\n\n'''trudge'''<sup>1</sup> (truj), ''v. i.''; pret. and pp. ''trudged'', ppr. ''trudging''. [Formerly also ''tridge''; origin obscure. Connection with ''tread'', unless by confusion with ''drudge''<sup>1</sup>, is impossible. Skeat suggests as the prob. source Sw. dial. ''truga'' = Norw. ''truga'' = Icel. ''thrūga'', snow-shoe.] To make one’s way on foot; walk; travel on foot; especially, to travel wearily or laboriously on foot.\n{{smaller block|Thence dyd I ''trudge'' hoamward, too learne yf she haplye returned. {{right|''Stanihurst'', Æneid, ii.}}\n<poem>Nay, if you fall to fainting,\n’Tis time for me to ''trudge''.</poem>\n{{right|''Fletcher'' (''and Massinger''?), Lovers’ Progress, i. 2.}}\nHe was a faithful, affectionate, simple soul as ever ''trudged'' after the heels of a philosopher.\n{{right|''Sterne'', Sentimental Journey, p. 33.}}}}\n\n'''trudge'''<sup>1</sup> (truj), ''n.'' [< ''trudge''<sup>1</sup>, ''v.''] A weary or laborious walk or tramp. [Colloq.]\n{{smaller block|We set out for the two miles’ ''trudge'' to Doughtown.\n{{right|''Arch. Forbes'', in Eng. Illust. Mag., Aug., 1884, p. 698.}}}}\n\n'''trudge'''<sup>2</sup>† (truj), ''n.'' [Abbr. of ''trudgeman''.] An interpreter.\n{{smaller block|One thing said twice (as we say commonly) deserueth a ''trudge''. {{right|''Lyly'', Euphues, Anat. of Wit, p. 137.}}}}\n\n'''trudgeman'''†, ''n.'' See ''truchman''.\n\n'''true''' (trö), ''a.'' [Early mod. E. also ''trew'', ''trewe''; < ME. ''true'', ''truwe'', ''treue'', ''trewe'', ''triwe'', ''treowe'', < AS. ''treówe'', ''trȳwe'' (also ''getreówe'', ''getrȳwe'') = OS.",
+   "c2s3": "triuwi = OFries. ''triuwe'' = D. ''trouw'' = MLG. ''truwe'', LG. ''trou'' = OHG. *''triuwi'', MHG. ''triuwe'', G. ''treu'' (also OHG. ''gitriuwi'', MHG. ''getriuwe'', G. ''getreu'') = Icel. ''tryggr'', ''trūr'' = Sw. ''trogen'' = Dan. ''tro'' = Goth. ''triggws'', true; from a root (Teut. √ ''tru'', Aryan √ ''dru'') seen also in ''trow''<sup>1</sup>, ''trust'', etc., and in OPruss. ''druwi'', ''druwis'', faith, ''druwit'', believe. Hence ult. ''true'', ''n.'', ''truce'', ''truth'', ''troth'', etc. Cf. also ''trow''<sup>1</sup>, ''trust''<sup>1</sup>, and ''trig''.] '''1.''' Conformable to fact; being in accordance with the actual state of things; not false, fictitious, or erroneous: as, a ''true'' story; a ''true'' statement.\n{{smaller block|Sum Men seyn that thei ben Sepultures of grete Lordes, that weren somtyme; but that is not ''trewe''.\n{{right|''Mandeville'', Travels, p. 52.}}}}\n{{smaller block|What proposition is there respecting human nature which is absolutely and universally ''true''?\n{{right|''Macaulay'', Mill on Government.}}}}\n{{smaller block|[''True'' in this sense is often used elliptically for ''that is true'', or ''it is true''.\n\n''True'', I have married her. {{right|''Shak.'', Othello, i. 3. 79.}}\n\n''Cham.'' Your only road now, sir, is York, York, sir.\n''Green.'' ''True'', but yet it comes scant of the prophecy: Lincoln was, London is, and York shall be.\n{{right|''Dekker and Webster'', Northward Ho, i. 1.]}}}}\n\n'''2.''' Conformable to reason or to established rules or custom; exact; just; accurate; correct.\n{{smaller block|They were all illiterate men; the ablest of them could not write ''true'' English — no, not common words.\n{{right|''Winthrop'', Hist. New England, II. 175.}}}}\n{{smaller block|<poem>Apelles drew\nA Circle regularly ''true''.</poem>\n{{right|''Prior'', Protogenes and Apelles.}}}}\n{{smaller block|A translation nicely ''true'' to the original. {{right|''Arbuthnot.''}}}}",
+   "c3s1": "{{smaller block|It is not always that its [the trumpet’s] notes are either ''true'' or tuneful. {{right|''Dickens'', Martin Chuzzlewit, xii.}}}}\n'''3.''' Conformable to law and justice; legitimate; rightful: as, the ''true'' heir.\n{{smaller block|<poem>An oath is of no moment, being not took\nBefore a ''true'' and lawful magistrate.</poem>{{right|''Shak.'', 3 Hen. VI., i. 2. 23.}}}}\n'''4.''' Conformable to nature; natural; correct.\n{{smaller block|No shape so ''true'', no truth of such account.{{right|''Shak.'', Sonnets, lxii.}}}}\n'''5.''' In ''biol.'': (''a'') Conforming or conformable to a type, norm, or standard of structure; typical: as, an amœba is a ''true'' animal; a canary is a ''true'' bird; the lion is a ''true'' cat; a frog or toad is not a ''true'' reptile. (''b'') Genuine; truebred; not hybrid or mongrel: as, a ''true'' merino sheep. Also used adverbially: as, to breed ''true''.—'''6.''' Genuine; pure; real; not counterfeit, adulterated, false, or pretended.\n{{smaller block|For vntrue praise neuer giueth any ''true'' reputation.{{right|''Puttenham'', Arte of Eng. Poesie, p. 22.}}\nNever call a ''true'' piece of gold a counterfeit.{{right|''Shak.'', 1 Hen. IV., ii. 4. 539.}}\n<poem>Unbind the charms that in slight fables lie,\nAnd teach that truth is ''truest'' poetry.</poem>{{right|''Cowley.''}}}}\n'''7.''' In ''anat.'', complete; perfected: as, ''true'' ribs (that is, those which articulate with the breast-",
+   "c3s2": "bone, as distinguished from false or floating ribs); the ''true'' pelvis (that part of the pelvis below the superior strait or iliopectineal line); a ''true'' corpus luteum (the complete corpus luteum of pregnancy, as distinguished from the same body unaffected by the result of conception).—'''8.''' Free from falsehood; habitually speaking the truth; veracious; truthful.\n{{smaller block|Master, we know that thou art ''true'', and teachest the way of God in truth.\n{{right|Mat. xxii. 16.}}\n<poem>I am too plain and ''true'' to be suspected.</poem>\n{{right|''Fletcher'', Valentinian, iv. 2.}}}}\n'''9.''' Firm or steady in adhering to promises, to friends, to one’s principles, etc.; not fickle, false, or perfidious; faithful; constant; loyal.\n{{smaller block|Ne noon may be ''trewe'' to hym-self but he first be ''trewe'' to God.\n{{right|''Merlin'' (E. E. T. S.), i. 55.}}\n<poem>Fair is my love, but not so fair as fickle;\nMild as a dove, but neither ''true'' nor trusty.</poem>\n{{right|''Shak.'', Passionate Pilgrim, l. 86.}}\nThere is no such Treasure as a ''true'' Friend.\n{{right|''Howell'', Letters, I. vi. 56.}}\n<poem>A mercenary Jilt, and ''true'' to no Man.</poem>\n{{right|''Wycherley'', Plain Dealer, Prol.}}\nHe had seen the path of duty plain before him. Through good and evil he was to be ''true'' to Church and king.\n{{right|''Macaulay'', Hist. Eng., vi.}}}}\n'''10.''' Honest.\n{{smaller block|<poem>For why a ''trewe'' man, withouten drede,\nHath nat to parten with a theves dede.</poem>\n{{right|''Chaucer'', Good Women, l. 464.}}\nRich preys make ''true'' men thieves.\n{{right|''Shak.'', Venus and Adonis, l. 724.}}}}\n'''11.''' Sure; unerring; unfailing.",
+   "c3s3": "¶\n{{smaller block|At first she appear’d in Rage and Disdain, the ''truest'' Sign of a coming Woman; But at last you prevail’d, it seems; did you not?{{right|''Wycherley'', Plain Dealer, iv. 1.}}}}\n\n{{smaller|'''Identically true.''' See ''identically.'' — '''Out of true,''' not exact or true as to relation of lines or adjustment of parts. —'''To come true.''' See ''come.'' — '''True apogee.''' See ''apogee'', 1.—'''True as touch†.''' See ''touch.''—'''True bill,''' in ''law'', a bill of indictment indorsed by a grand jury, after investigation, as containing a well founded accusation.—'''True course, croup, discount, error, horizon,''' etc. See ''course''<sup>1</sup>, 5. ''croup''<sup>1</sup>, etc.—'''True place of a star''' or '''planet,''' in ''astron.'', the place which a star or planet would be seen to occupy if the effects of refraction, parallax, aberration, and equation of light were removed, or the place which it would occupy if viewed from the earth’s center, supposing the rays coming from it to move with infinite velocity and not to be subject to refraction. Sometimes only refraction and parallax are supposed removed.—'''True suture, vein,''' etc. See the nouns. ='''Syn. 1.''' Veritable, actual. See ''reality''.—'''8''' and '''9.''' Sincere, honorable.}}\n\n'''true†''' (trö), ''n.'' [< ME. ''truwe, tru, trewe'', < AS. ''treów'', also ''treówa, trūwa'', truth, faith, fidelity, compact, = OS. ''trewa'' = OFries. ''triuwe'' = MLG. ''truwe, trouwe'', LG. ''troue'' = OHG. ''triuwa'', MHG. ''triuwe'', G. ''treue'' = Sw. Dan. ''tro'', truth, faithfulness, = Goth. ''triggwa'', a covenant (> It. ''tregua'' = Sp. ''tregua'' = Pg. ''tregoa'' = Pr. ''tregua'' = OF. ''trive, trieve'', F. ''trêve'', a truce; cf. ''treague''); from the adj., AS. ''treówe'', etc., true, faithful: see ''true'', ''a.'' Hence the plural ''trues'', now ''truce'' as a singular.] '''1.''' Truth; fidelity.—'''2.''' Agreement; covenant; pledge.\n{{smaller block|He seide that he yede to seche ''trewys'' of the princes and the barouns from the kynge Arthur that the Saisnes myght be driven oute of the londe.{{right|''Merlin'' (E. E. T. S.), iii. 546.}}\nLeages and ''trues'' made by princes, . . . to the breache where of none excuse is sufficient.{{right|''Sir T. Elyot'', The Governour, iii. 6.}}}}",
+   "c3s4": "¶\n'''3.''' A temporary cessation of war, according to agreement; respite from war; truce. See ''truce.''\n{{smaller block|In tyme of ''trewe'' on haukynge wolde he ryde.\n{{right|''Chaucer'', Troilus, iii. 1779.}}}}"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 10027,
+    "output_tokens": 12033,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|truck-farmer|6506|true}}</noinclude>{{nop}}'''truck-farmer''' (truk′fär″mėr), ''n.'' A farmer who raises vegetables, fruits, etc., for the market; a market-gardener on a large scale. [U. S.]\n\n'''truck-house''' (truk′hous), ''n.'' A house erected for the storage of goods, used by early English settlers in America in trading with the Indians.\n\n'''trucking-house''' (truk′ing-hous), ''n.'' Same as ''truck-house.''\n{{smaller block|The French came in a pinnace to Penobscot, and rifled a ''trucking-house'' belonging to Plimouth.\n{{right|''Winthrop'', Hist. New England, I. 94.}}}}\n\n'''truck-jack''' (truk′jak), ''n.'' A lifting-jack suspended from a truck-axle, and used to lift logs or other heavy objects for loading upon low-bodied sleds or wagons. ''E. H. Knight.''\n\n'''truckle''' (truk′l), ''n.'' [Early mod. E. ''troccle'', < ME. *''trokel'', ''trookyl'' (in comp.), < ML. ''troclea'', a small wheel, a wheel of a pulley, a pulley, < L. ''troclea'', ''trochlea'', a sheaf, pulley, < Gr. τροχιλέα, τροχιλία, a pulley, < τροχός, a wheel: see ''trochus'', and cf. ''trochlea'', ''trochilus''<sup>2</sup>. Cf. ''truck''<sup>2</sup>, as related to ''trochus''.] '''1†.''' A wheel of a pulley; also, a pulley.\n{{smaller block|''Jabol'', a ''truckle'' or pullie. . . . ''Moufle'', a ''truckle'' for a pullie.\n{{right|''Cotgrave.''}}}}\n'''2.''' A small wheel or caster. ''Sterne'', Tristram Shandy, ii. 200.—'''3.''' A small flat cheese. [Prov. Eng.]—'''4.''' A truckle-bed. ''Scott'', Abbot, I. 236.\n{{smaller block|Where be those kitchinstuffes here? shall we have no attendants? shew these Gentlemen into a close roome, with a standing bed in ’t, and a ''truckle'' too; you are welcome, Gentlemen.\n{{right|''Heywood'', Royal King (Works, ed. 1874, VI. 46).}}}}\n\n'''truckle''' (truk′l), ''v.''; pret. and pp. ''truckled'', ppr. ''truckling''. [< ''truckle'', ''n.''] '''I.''' ''trans.'' To move on rollers or casters; trundle.\n\n{{smaller block|Tables with two legs and chairs without bottoms were ''truckled'' from the middle to one end of the room.\n{{right|''Miss Burney'', Camilla, iii. 13. (''Davies.'')}}}}\n\n'''II.''' ''intrans.'' '''1†.''' To sleep in a truckle-bed. See ''truckle'', ''n.'', 4, and ''truckle-bed.''\n\n{{smaller block|''Drawer.'' Now you are up, sir, will you go to bed?<br>''Pedro.'' I’ll ''truckle'' here, boy; give me another pillow.\n{{right|''Beau. and Fl.'', Coxcomb, i. 6.}}}}\n\nHence—'''2.''' To be tamely subordinate, as a pupil to his tutor, or a servant to his master; yield or bend obsequiously to the will of another; submit; cringe; act in a servile manner: usually with ''to'' or ''under''.\n\n{{smaller block|He will never, while he lives, ''truckle under'' any body or any faction, but do just as his own reason and judgment directs; and, when he cannot use that freedom, he will have nothing to do in public affairs.\n{{right|''Pepys'', Diary, III. 237.}}}}\n\n{{smaller block|The government ''truckles'', condescends to cajole them, and drops all prosecution of their crimes.\n{{right|''Franklin'', Autobiog., p. 333.}}}}\n\n'''truckle-bed''' (truk′l-bed), ''n.'' [Early mod. E. ''trocclebed''; < ME. ''trookylbed''; < ''truckle'' + ''bed''<sup>1</sup>. Cf. ''trundle-bed'', a diff. word of equiv. meaning.] A bed the frame of which runs on wheels; especially, one which is low enough to be wheeled under a high or standing bed, remaining there during the day, and rolled out for use at night; a trundle-bed. The truckle-bed was formerly appropriated to a servant or subordinate, and also to children.\n\n{{smaller block|There ’s his chamber, his house, his castle, his standingbed and ''truckle-bed.''{{right|''Shak.'', M. W. of W., iv. 5. 7.}}}}\n{{smaller block|Well, go thy ways, for as sweet a breasted page as ever lay at his master’s feet in a ''truckle-bed.''{{right|''Middleton'', More Dissemblers besides Women, i. 4.}}}}\n{{smaller block|<poem>First, that he lie upon the ''truckle-bed'',\nWhile his young master lieth o’er his head.</poem>{{right|''Bp. Hall'', Satires, ii. 6.}}}}\n{{smaller block|Augustus . . . slept on a ''truckle bed'' without hangings.{{right|''Froude'', Short Studies on Great Subjects, 3d ser., p. 264.}}}}\n\n'''truckle-cheese''' (truk′l-chēz), ''n.'' Same as ''truckle'', 3.\n\n'''truckler''' (truk′lėr), ''n.'' [< ''truckle'' + ''-er''<sup>1</sup>.] One who truckles or yields obsequiously to the will of another.\n{{smaller block|Let him call me ''truckler.'' {{right|''Tennyson'', Queen Mary, iii. 4.}}}}\n\n'''truckling''' (truk′ling), ''p. a.'' Apt to truckle; cringing; fawning; slavish; servile; also, characteristic of a truckler: as, a ''truckling'' expedient.\n{{smaller block|They were subdued and insulted by Alexander’s captains, and continued under several revolutions a small ''truckling'' state.{{right|''Swift'', Nobles and Commons, ii.}}}}\n\n'''truckman<sup>1</sup>''' (truk′man), ''n.''; pl. ''truckmen'' (-men). [< ''truck''<sup>1</sup> + ''man''.] One who trucks or exchanges.\n\n'''truckman<sup>2</sup>''' (truk′man), ''n.''; pl. ''truckmen'' (-men). [< ''truck''<sup>2</sup> + ''man''.] A truck-driver; a carter or carman.\n\n'''truck-master''' (truk′mȧs″tėr), ''n.'' An officer charged with the supervision of trade with the American Indians. Compare ''truck-house''.\n\n'''truck-pot''' (truk′pot), ''n.'' Same as ''track-pot.''\n\n'''truck-shop''' (truk′shop), ''n.'' A shop conducted on the truck system; a tommy-shop.\n\n'''truck-store''' (truk′stōr), ''n.'' Same as ''truck-shop.'' ''Appleton’s Ann. Cyc.'', 1886, p. 84.\n\n'''trucos''' (trö′kos), ''n.'' [Sp.: see ''truck''<sup>3</sup>.] A game. See ''truck''<sup>3</sup>. ''Prescott.''\n\n'''truculence''' (trö′kū-lẹns or truk′ū-lẹns), ''n.'' [< L. ''truculentia'', < ''truculentus'', truculent: see ''truculent.''] The state or character of being truculent; savageness of manners and appearance; ferociousness; ferocity.\n\n'''truculency''' (trö′kū-len-si or truk′ū-len-si), ''n.'' [< ''truculence'' (see ''-cy'').] Same as ''truculence.''\n{{smaller block|He loves not tyranny; . . . the ''truculency'' of the subject who transacts this he approves not.\n{{right|''Waterhouse'', On Fortescue (1663), p. 184.}}}}\n\n'''truculent''' (trö′kū-lent or truk′ū-lẹnt), ''a.'' [< OF. ''truculent'' = Sp. Pg. It. ''truculento'', < L. ''truculentus'', fierce, savage, ferocious, < ''trux'' (''truc-''), fierce, wild.] '''1.''' Fierce; savage; barbarous.\n{{smaller block|A barbarous Scythia, where the savage and ''truculent'' inhabitants . . . live upon milk, and flesh roasted in the sun.\n{{right|''Ray.''}}}}\n'''2.''' Inspiring terror; ferocious.\n{{smaller block|<poem>The trembling boy his brethren’s hands,\nTheir ''truculent'' aspects, and servile bands,\nBeheld. {{right|''Sandys'', Christ’s Passion.}}</poem>}}\n'''3.''' Cruel; destructive.\n{{smaller block|Pestilential seminaries, according to their grossness or subtility, cause more or less ''truculent'' plagues, some of such malignity that they enecate in two hours.\n{{right|''Harvey'', The Plague.}}}}\n\n'''truculently''' (trö′kū-lent-li or truk′ū-lẹnt-li), ''adv.'' In a truculent manner; fiercely; destructively.\n\n'''Trudeau’s tern.''' See ''tern''<sup>1</sup>.\n\n'''trudge'''<sup>1</sup> (truj), ''v. i.''; pret. and pp. ''trudged'', ppr. ''trudging''. [Formerly also ''tridge''; origin obscure. Connection with ''tread'', unless by confusion with ''drudge''<sup>1</sup>, is impossible. Skeat suggests as the prob. source Sw. dial. ''truga'' = Norw. ''truga'' = Icel. ''thrūga'', snow-shoe.] To make one’s way on foot; walk; travel on foot; especially, to travel wearily or laboriously on foot.\n{{smaller block|Thence dyd I ''trudge'' hoamward, too learne yf she haplye returned. {{right|''Stanihurst'', Æneid, ii.}}\n<poem>Nay, if you fall to fainting,\n’Tis time for me to ''trudge''.</poem>\n{{right|''Fletcher'' (''and Massinger''?), Lovers’ Progress, i. 2.}}\nHe was a faithful, affectionate, simple soul as ever ''trudged'' after the heels of a philosopher.\n{{right|''Sterne'', Sentimental Journey, p. 33.}}}}\n\n'''trudge'''<sup>1</sup> (truj), ''n.'' [< ''trudge''<sup>1</sup>, ''v.''] A weary or laborious walk or tramp. [Colloq.]\n{{smaller block|We set out for the two miles’ ''trudge'' to Doughtown.\n{{right|''Arch. Forbes'', in Eng. Illust. Mag., Aug., 1884, p. 698.}}}}\n\n'''trudge'''<sup>2</sup>† (truj), ''n.'' [Abbr. of ''trudgeman''.] An interpreter.\n{{smaller block|One thing said twice (as we say commonly) deserueth a ''trudge''. {{right|''Lyly'', Euphues, Anat. of Wit, p. 137.}}}}\n\n'''trudgeman'''†, ''n.'' See ''truchman''.\n\n'''true''' (trö), ''a.'' [Early mod. E. also ''trew'', ''trewe''; < ME. ''true'', ''truwe'', ''treue'', ''trewe'', ''triwe'', ''treowe'', < AS. ''treówe'', ''trȳwe'' (also ''getreówe'', ''getrȳwe'') = OS. triuwi = OFries. ''triuwe'' = D. ''trouw'' = MLG. ''truwe'', LG. ''trou'' = OHG. *''triuwi'', MHG. ''triuwe'', G. ''treu'' (also OHG. ''gitriuwi'', MHG. ''getriuwe'', G. ''getreu'') = Icel. ''tryggr'', ''trūr'' = Sw. ''trogen'' = Dan. ''tro'' = Goth. ''triggws'', true; from a root (Teut. √ ''tru'', Aryan √ ''dru'') seen also in ''trow''<sup>1</sup>, ''trust'', etc., and in OPruss. ''druwi'', ''druwis'', faith, ''druwit'', believe. Hence ult. ''true'', ''n.'', ''truce'', ''truth'', ''troth'', etc. Cf. also ''trow''<sup>1</sup>, ''trust''<sup>1</sup>, and ''trig''.] '''1.''' Conformable to fact; being in accordance with the actual state of things; not false, fictitious, or erroneous: as, a ''true'' story; a ''true'' statement.\n{{smaller block|Sum Men seyn that thei ben Sepultures of grete Lordes, that weren somtyme; but that is not ''trewe''.\n{{right|''Mandeville'', Travels, p. 52.}}}}\n{{smaller block|What proposition is there respecting human nature which is absolutely and universally ''true''?\n{{right|''Macaulay'', Mill on Government.}}}}\n{{smaller block|[''True'' in this sense is often used elliptically for ''that is true'', or ''it is true''.\n\n''True'', I have married her. {{right|''Shak.'', Othello, i. 3. 79.}}\n\n''Cham.'' Your only road now, sir, is York, York, sir.\n''Green.'' ''True'', but yet it comes scant of the prophecy: Lincoln was, London is, and York shall be.\n{{right|''Dekker and Webster'', Northward Ho, i. 1.]}}}}\n\n'''2.''' Conformable to reason or to established rules or custom; exact; just; accurate; correct.\n{{smaller block|They were all illiterate men; the ablest of them could not write ''true'' English — no, not common words.\n{{right|''Winthrop'', Hist. New England, II. 175.}}}}\n{{smaller block|<poem>Apelles drew\nA Circle regularly ''true''.</poem>\n{{right|''Prior'', Protogenes and Apelles.}}}}\n{{smaller block|A translation nicely ''true'' to the original. {{right|''Arbuthnot.''}} It is not always that its [the trumpet’s] notes are either ''true'' or tuneful. {{right|''Dickens'', Martin Chuzzlewit, xii.}}}}\n'''3.''' Conformable to law and justice; legitimate; rightful: as, the ''true'' heir.\n{{smaller block|<poem>An oath is of no moment, being not took\nBefore a ''true'' and lawful magistrate.</poem>{{right|''Shak.'', 3 Hen. VI., i. 2. 23.}}}}\n'''4.''' Conformable to nature; natural; correct.\n{{smaller block|No shape so ''true'', no truth of such account.{{right|''Shak.'', Sonnets, lxii.}}}}\n'''5.''' In ''biol.'': (''a'') Conforming or conformable to a type, norm, or standard of structure; typical: as, an amœba is a ''true'' animal; a canary is a ''true'' bird; the lion is a ''true'' cat; a frog or toad is not a ''true'' reptile. (''b'') Genuine; truebred; not hybrid or mongrel: as, a ''true'' merino sheep. Also used adverbially: as, to breed ''true''.—'''6.''' Genuine; pure; real; not counterfeit, adulterated, false, or pretended.\n{{smaller block|For vntrue praise neuer giueth any ''true'' reputation.{{right|''Puttenham'', Arte of Eng. Poesie, p. 22.}}\nNever call a ''true'' piece of gold a counterfeit.{{right|''Shak.'', 1 Hen. IV., ii. 4. 539.}}\n<poem>Unbind the charms that in slight fables lie,\nAnd teach that truth is ''truest'' poetry.</poem>{{right|''Cowley.''}}}}\n'''7.''' In ''anat.'', complete; perfected: as, ''true'' ribs (that is, those which articulate with the breastbone, as distinguished from false or floating ribs); the ''true'' pelvis (that part of the pelvis below the superior strait or iliopectineal line); a ''true'' corpus luteum (the complete corpus luteum of pregnancy, as distinguished from the same body unaffected by the result of conception).—'''8.''' Free from falsehood; habitually speaking the truth; veracious; truthful.\n{{smaller block|Master, we know that thou art ''true'', and teachest the way of God in truth.\n{{right|Mat. xxii. 16.}}\n<poem>I am too plain and ''true'' to be suspected.</poem>\n{{right|''Fletcher'', Valentinian, iv. 2.}}}}\n'''9.''' Firm or steady in adhering to promises, to friends, to one’s principles, etc.; not fickle, false, or perfidious; faithful; constant; loyal.\n{{smaller block|Ne noon may be ''trewe'' to hym-self but he first be ''trewe'' to God.\n{{right|''Merlin'' (E. E. T. S.), i. 55.}}\n<poem>Fair is my love, but not so fair as fickle;\nMild as a dove, but neither ''true'' nor trusty.</poem>\n{{right|''Shak.'', Passionate Pilgrim, l. 86.}}\nThere is no such Treasure as a ''true'' Friend.\n{{right|''Howell'', Letters, I. vi. 56.}}\n<poem>A mercenary Jilt, and ''true'' to no Man.</poem>\n{{right|''Wycherley'', Plain Dealer, Prol.}}\nHe had seen the path of duty plain before him. Through good and evil he was to be ''true'' to Church and king.\n{{right|''Macaulay'', Hist. Eng., vi.}}}}\n'''10.''' Honest.\n{{smaller block|<poem>For why a ''trewe'' man, withouten drede,\nHath nat to parten with a theves dede.</poem>\n{{right|''Chaucer'', Good Women, l. 464.}}\nRich preys make ''true'' men thieves.\n{{right|''Shak.'', Venus and Adonis, l. 724.}}}}\n'''11.''' Sure; unerring; unfailing.\n\n{{smaller block|At first she appear’d in Rage and Disdain, the ''truest'' Sign of a coming Woman; But at last you prevail’d, it seems; did you not?{{right|''Wycherley'', Plain Dealer, iv. 1.}}}}\n\n{{smaller|'''Identically true.''' See ''identically.'' — '''Out of true,''' not exact or true as to relation of lines or adjustment of parts. —'''To come true.''' See ''come.'' — '''True apogee.''' See ''apogee'', 1.—'''True as touch†.''' See ''touch.''—'''True bill,''' in ''law'', a bill of indictment indorsed by a grand jury, after investigation, as containing a well founded accusation.—'''True course, croup, discount, error, horizon,''' etc. See ''course''<sup>1</sup>, 5. ''croup''<sup>1</sup>, etc.—'''True place of a star''' or '''planet,''' in ''astron.'', the place which a star or planet would be seen to occupy if the effects of refraction, parallax, aberration, and equation of light were removed, or the place which it would occupy if viewed from the earth’s center, supposing the rays coming from it to move with infinite velocity and not to be subject to refraction. Sometimes only refraction and parallax are supposed removed.—'''True suture, vein,''' etc. See the nouns. ='''Syn. 1.''' Veritable, actual. See ''reality''.—'''8''' and '''9.''' Sincere, honorable.}}\n\n'''true†''' (trö), ''n.'' [< ME. ''truwe, tru, trewe'', < AS. ''treów'', also ''treówa, trūwa'', truth, faith, fidelity, compact, = OS. ''trewa'' = OFries. ''triuwe'' = MLG. ''truwe, trouwe'', LG. ''troue'' = OHG. ''triuwa'', MHG. ''triuwe'', G. ''treue'' = Sw. Dan. ''tro'', truth, faithfulness, = Goth. ''triggwa'', a covenant (> It. ''tregua'' = Sp. ''tregua'' = Pg. ''tregoa'' = Pr. ''tregua'' = OF. ''trive, trieve'', F. ''trêve'', a truce; cf. ''treague''); from the adj., AS. ''treówe'', etc., true, faithful: see ''true'', ''a.'' Hence the plural ''trues'', now ''truce'' as a singular.] '''1.''' Truth; fidelity.—'''2.''' Agreement; covenant; pledge.\n{{smaller block|He seide that he yede to seche ''trewys'' of the princes and the barouns from the kynge Arthur that the Saisnes myght be driven oute of the londe.{{right|''Merlin'' (E. E. T. S.), iii. 546.}}\nLeages and ''trues'' made by princes, . . . to the breache where of none excuse is sufficient.{{right|''Sir T. Elyot'', The Governour, iii. 6.}}}}\n\n'''3.''' A temporary cessation of war, according to agreement; respite from war; truce. See ''truce.''\n{{smaller block|In tyme of ''trewe'' on haukynge wolde he ryde.\n{{right|''Chaucer'', Troilus, iii. 1779.}}}}<noinclude><references/></noinclude>"
+}

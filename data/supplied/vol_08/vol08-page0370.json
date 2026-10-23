@@ -1,0 +1,225 @@
+{
+ "volume": 8,
+ "page_number": 370,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n369.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n369.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-22",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 2303,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     139,
+     68,
+     2442,
+     105
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     139,
+     105,
+     857,
+     1190
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     139,
+     1190,
+     857,
+     2195
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     139,
+     2195,
+     857,
+     3049
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     857,
+     105,
+     1607,
+     1114
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     857,
+     1114,
+     1607,
+     1967
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     857,
+     1967,
+     1607,
+     3049
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     880,
+     1965,
+     1564,
+     2401
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1607,
+     105,
+     2442,
+     1104
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1607,
+     1104,
+     2442,
+     1762
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1607,
+     1762,
+     2442,
+     2535
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1607,
+     2535,
+     2442,
+     3049
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|tyranny|6566|tzopilotl}}",
+   "c1s1": "¶\n'''6.''' Severity; harshness; stringency.\n{{smaller block|The ''tyranny'' of the open night ’s too rough<br>For nature to endure.{{right|''Shak.'', Lear, iii. 4.}}}}\n='''Syn. 1.''' ''Despotism, Autocracy'', etc. See ''despotism''.—'''6.''' ''Oppression, Despotism'', etc. See ''oppression''.\n\n'''tyrant''' (tī′rant), ''n.'' [Early mod. E. also ''tirant'', also ''tyran, tyranne''; < ME. ''tyrant, tirant, tyraunt, tiraunt'', also ''tyran, tiran'', < OF. ''tiran'' (with unorig. ''-t''), ''tiran, tyran'', F. ''tyran'' = Pr. ''tiran'' = Sp. ''tirano'' = Pg. ''tyranno'' = It. ''tiranno'' = D. ''tiran, tyran'' = G. Sw. ''tyrann'' = Dan. ''tyran'', < L. ''tyrannus'', < Gr. τύραννος, lord, master, sovereign, tyrant; root unknown.] '''1.''' In ancient Greece, an irresponsible chief or magistrate with unlimited powers, owing his office primarily to insurrection or usurpation. {{smaller|The first tyrants, so called, were generally the leaders of risings against the oligarchies during the seventh and sixth centuries B. C. They ruled with the popular consent in nearly all the Greek states and colonies at one time or another, transmitting their power to their heirs until democracies or new oligarchies overthrew them. Others raised themselves to the position by direct conquest or conspiracy. The arbitrary government of the tyrants was sometimes beneficent, but more often extremely oppressive and cruel. The typical tyrant in the latter sense of the word was Dionysius the Elder, of Syracuse (405–367 B. C.).}}\n{{smaller block|<poem>The ''tyrant'' of the Chersonese\n{{gap}}Was freedom’s best and bravest friend;\nThat ''tyrant'' was Miltiades!</poem>{{right|''Byron'', Don Juan, iii. 86 (song).}}}}\nHence—'''2.''' A wilfully arbitrary monarch or person in authority; a ruler or master who uses his power cruelly or oppressively; any person who treats those bound to him in any way as slaves to his will; an autocratic oppressor.",
+   "c1s2": "{{smaller block|Let us define a ''Tyrant'', not according to vulgar conceits, but the judgment of Aristotle, and of all Learned Men. He is a ''Tyrant'' who regards his own welfare and profit only, and not that of the People.\n{{right|''Milton'', Ans. to Salmasius, xii.}}}}\n\n{{smaller block|A ''tyrant'' cannot reign and oppress by his single force; he must really interest, and interest prodigiously, a sufficient number of subordinate ''tyrants'' in the duration of his power.\n{{right|''Ames'', Works, II. 280.}}}}\n'''3.''' A tyrannical or compulsory influence; something that constrains the will inexorably; an overruling power.\n{{smaller block|<poem>For lordly love is such a ''Tyranne'' fell\nThat where he rules all power he doth expell.</poem>\n{{right|''Spenser'', Shep. Cal., October.}}}}\n{{smaller block|Thought emancipated itself from expression without becoming its ''tyrant.''\n{{right|''Lowell'', Among my Books, 2d ser., p. 326.}}}}\n'''4.''' In ''ornith.'', a tyrant-flycatcher; one of the ''Tyrannidæ.''—{{smaller|'''Bald tyrant.''' Same as ''baldhead'', 3.—'''The Thirty Tyrants,''' a committee of thirty sympathizers with the oligarchs and with Sparta, who ruled Athens with absolute power 404–403 {{sc|b. c.}} They were overthrown by the democracy under Thrasybulus.}}\n\n¶\n'''tyrant†''' (tī′rant), ''v.'' [Early mod. E. also ''tyran''; < ''tyrant'', ''n.''] '''I.''' ''trans.'' To tyrannize over.\n{{smaller block|<poem>What glorie or what guerdon hast thou [Love] found\nIn feeble Ladies ''tyranning'' so sore?</poem>\n{{right|''Spenser'', F. Q., IV. vii. 1.}}}}\n\n'''II.''' ''intrans.'' To play the tyrant; tyrannize: sometimes with indefinite ''it.''\n{{smaller block|This encouraged the Irish grandees (their O’s and Mac’s) to rant and ''tyrant it'' in their respective seignories.\n{{right|''Fuller'', Worthies, Buckinghamshire, I. 203.}}}}",
+   "c1s3": "¶\n'''tyrant-bird''' (tī′ra̤nt-bėrd), ''n.'' A tyrant-flycatcher.\n\n'''tyrant-chat''' (tī′ra̤nt-chat), ''n.'' Some tyrant-flycatcher which resembles or suggests a chat.\n\n'''tyrant-flycatcher''' (tī′ra̤nt-flī″kach-ėr), ''n.'' A tyrant-bird; any member of the ''Tyrannidæ.''\n\n'''tyrantly†''' (tī′ra̤nt-li), ''adv.'' [< ME. ''tyrauntly''; < ''tyrant'' + ''-ly''<sup>2</sup>.] In the manner of a tyrant; tyrannically.\n{{smaller block|He askyde me ''tyrauntly'' tribute of Rome,<br>That tenefully tynt was in tyme of myne elders.\n{{right|''Morte Arthure'' (E. E. T. S.), l. 271.}}}}\n\n'''tyrantry†''' (tī′ra̤nt-ri), ''n.'' Same as ''tyranny.'' ''Wyclif'', 3 Ki. [1 Ki.] xvi. 20.\n\n'''tyrant-shrike''' (tī′ra̤nt-shrīk), ''n.'' One of the larger tyrant-flycatchers with a stout bill resembling a shrike’s, as any species of the genus ''Tyrannus'' proper, like the king-bird or bee-martin. Some of these used to be placed in the genus ''Lanius'', being mistaken for shrikes. See cut under ''king-bird.''\n\n'''tyrant-wren''' (tī′ra̤nt-ren), ''n.'' One of the smaller tyrant-flycatchers, as a species of ''Tyrannulus'', resembling a wren in some respects. See cut under ''Tyrannulus.''\n\n'''tyre<sup>1</sup>†.''' An obsolete spelling of ''tire.''",
+   "c2s1": "¶\n'''tyre<sup>2</sup>''' (tīr), ''n.'' [E. Ind.] A preparation of milk and rice used by the East Indians.\n\n'''tyremesis''' (tī-rem′e-sis), ''n.'' [< Gr. τυρός, cheese, + ἔμεσις, vomiting: see ''emesis''.] Vomiting of cheesy or curdy matters. Also ''tyrosis''.\n\n'''Tyrian''' (tir′i-an), ''a.'' and ''n.'' [= F. ''Tyrien'', < L. ''Tyrius'', < Gr. Τύριος, < Τύρος, L. ''Tyrus'', Tyre (see def.).] '''I.''' ''a.'' '''1.''' Of or pertaining to the ancient city and state of Tyre in Phenicia, on the Mediterranean.—'''2.''' Of a purple color characteristic of Tyre.—{{smaller|'''Tyrian Cynosure''', the constellation Ursa Minor, anciently called the Cynosure, which served as a guide to the Tyrians in their long voyages.}}\n{{smaller block|<poem>And thou shalt be our star of Arcady,\nOr ''Tyrian cynosure.''</poem>\n{{right|''Milton'', Comus, l. 342.}}}}\n{{smaller|'''Tyrian purple'''. See ''purple''.}}\n\n'''II.''' ''n.'' A native of Tyre.\n\n'''tyriasis''' (ti-rī′a-sis), ''n.'' [< Gr. τυρός, cheese, + ''-iasis''.] '''1.''' Elephantiasis Arabum.—'''2.''' Falling off of the hair; alopecia.\n\n'''tyrite''' (tī′rīt), ''n.'' [< Icel. ''Tȳr'', Tyr (see ''Tyr''), + ''-ite''<sup>2</sup>.] A variety of fergusonite found near Arendal in Norway.\n\n'''tyro''' (tī′rō), ''n.'' [Formerly, and prop., ''tiro''; < L. ''tiro'', misspelled ''tyro'', a newly levied soldier, a young soldier.] A beginner in learning anything; one who is employed in learning or who has mastered the rudiments only of any branch of knowledge; a novice.\n{{smaller block|<poem>There stands a structure on a rising hill,\nWhere ''tyros'' take their freedom out to kill.</poem>\n{{right|''Garth'', Dispensary, iii.}}}}",
+   "c2s2": "¶\n'''tyrocinium†''' (tī-rọ̄-sin′i-um), ''n.'' Same as ''tyrociny.'' ''Gayton.'' Compare ''tirocinium.''\n\n'''tyrociny''' (tī-ros′i-ni), ''n.'' [Prop. *''tirociny;'' < L. ''tirocinium,'' first service or trial, < ''tiro,'' a newly levied soldier: see ''tyro.''] The state of being a tyro, beginner, or learner; pupilage; apprenticeship; unskilled effort.\n{{smaller block|<poem>To thee I write my Apotheosie,\nMæcenas, strengthen my ''Tyrocinie.''</poem>\n{{right|''Tourneur,'' Trans. Metamorphosis, Ded.}}}}\n\n'''Tyroglyphidæ''' (tī-rọ̄-glif′i-dē), ''n. pl.'' [NL., < ''Tyroglyphus'' + ''-idæ.''] A family of atracheate ''Acarina,'' typified by the genus ''Tyroglyphus.'' {{smaller|They all have eight legs developed, of five joints apiece, chelate mandibles, skeleton composed of sclerites in a soft skin, and two front pairs of legs set below the body. The ''Tyroglyphidæ'' are usually parasitic during the curious hypopial stage, although they do not seem to require any nutriment from the host; and some species would appear to be parasitic in the adult stage, as ''Glyciphagus balænarum.'' The related families ''Sarcoptidæ'' and ''Myobiidæ'' are strictly parasitic during every stage of their existence.}}\n\n'''Tyroglyphus''' (tī-rog′li-fus), ''n.'' [NL. (Latreille, 1796), < Gr. τυρός, cheese, + γλύφειν, carve.] A notable genus of acarids or mites, typical of the family ''Tyroglyphidæ,'' having a tarsal claw and a sucker. {{smaller|Those of the subgenus ''Rhizoglyphus'' feed upon vegetable products, and comprise}}",
+   "c2s3": "[[FIGURE]]\n{{c|{{smaller|Phylloxera-mite (''Tyroglyphus phylloxeræ'').}}}}\n{{c|{{smaller|''a'', dorsal view of female; ''b'', ventral view of female; ''c'', mouth-parts; ''d'', ''f'', ''g'', ''h'', forms of tarsal appendages; ''e'', ventral tubercles of male. (All the figures are much enlarged.)}}}}\n{{smaller block|about a dozen species. Those of ''Tyroglyphus'' proper feed upon animal products, and include among others the well-known cheese-mites, ''T. siro'' and ''T. longior''—the latter feeding also upon farinaceous substances. (See cut under ''flour-mite''.) ''T. phylloxeræ'' preys upon the grape-vine phylloxera; ''T. entomophagus'' is a well-known pest in entomological collections.}}\n\n'''Tyroler''' (ti-rō′lėr), ''n.'' [< G. ''Tyroler'', ''Tiroler'', a Tyrolese, < ''Tyrol'', ''Tirol'', Tyrol: see ''Tyrolese''.] A native of Tyrol; a Tyrolese. [Rare.]\n\n'''Tyrolese''' (tir-ō-lēs′ or -lēz′), ''a.'' and ''n.'' [< ''Tyrol'' (G. ''Tirol'', and improperly ''Tyrol'') + ''-ese''.] '''I.''' ''a.'' Of or pertaining to Tyrol (often called the Tyrol), an Alpine province forming with Vorarlberg a crownland of the Cisleithan division of Austria-Hungary.\n\n'''II.''' ''n. sing.'' and ''pl.'' A native or the natives of Tyrol.",
+   "c3s1": "¶\n'''Tyrolienne''' (ti-rō-li-en′), ''n.'' [F., fem. of ''Tyrolien'', of or pertaining to Tyrol, < ''Tyrol'', Tyrol.] A dance of the Tyrolese peasants, or a song or melody suitable for such a dance. The characteristic folk-songs of Tyrol abound in yodels.\n\n'''tyroline''' (tir′ọ̄-lin), ''n.'' A violet dye produced by treatment of aniline; aniline violet. ''Ure'', Dict., III. 1050.\n\n'''tyrolite''' (tir′ọ̄-līt), ''n.'' [Also ''tirolite''; < ''Tyrol'' + ''-ite''<sup>2</sup>.] A hydrous arseniate of copper, occurring in orthorhombic crystals and in aggregates having a foliated micaceous structure. {{smaller|It is very soft, sectile, and flexible in thin scales, and has a bluish-green color. It is known from a number of localities, but is named from that at Falkenstein in Tyrol.}}\n\n'''tyroma''' (tī-rō′mä̤), ''n.'' [NL., < Gr. τυρός, cheese.] Falling off of the hair; alopecia.\n\n'''tyronism''' (tī′rọ̄-nizm), ''n.'' [< ''tyro(n-)'' + ''-ism''.] The state of being a tyro. Also ''tironism''.\n\n'''tyrosin''' (tī′rọ̄-sin), ''n.'' [Irreg. < Gr. τυρός, cheese, + ''-in''<sup>2</sup>.] A white crystalline body, odorless, and insoluble in cold water, having the formula C<sub>9</sub>H<sub>11</sub>NO<sub>3</sub>. {{smaller|It is an amido-acid, and forms salts with both acids and bases. It is a product of the decomposition of proteids, either by the ferment trypsin, by putrefaction, or by boiling with acids.}}\n\n'''tyrosis''' (tī-rō′sis), ''n.'' [NL., < Gr. τυρός, cheese, + ''-osis''.] '''1.''' Same as ''tyremesis''.—'''2.''' The curdling of milk.\n\n'''tyrothrix''' (tī′rọ̄-thriks), ''n.'' [NL., < Gr. τυρός, cheese, + θρίξ, hair.] A bacterium found in cheese.",
+   "c3s2": "¶\n'''tyrotoxicon''' (tī-rọ̄-tok′si-kon), ''n.'' [NL., < Gr. τυρός, cheese, + τοξικόν, poison.] A ptomaïne produced in milk or cheese, the cause of the symptoms of pòisoning occasionally observed to follow the eating of ice-cream. It is either identical with or closely related to diazobenzol.\n\n'''Tyrrel’s case.''' See ''case''<sup>1</sup>.\n\n'''Tyrrel’s fascia.''' The rectovesical fascia.\n\n'''Tyrrel’s hook.''' A fine hook used in certain operations on the eye for drawing forward the iris.\n\n'''Tyrrhene''' (ti-rēn′), ''a.'' [< L. ''Tyrrhenus'', < Gr. Τυρρηνός, < Τυρρηνία, the Gr. name of Etruria or Tuscany.] Same as ''Tyrrhenian''.\n\n'''Tyrrhenian''' (ti-rē′ni-a̤n), ''a.'' and ''n.'' [< ''Tyrrhene'' + ''-ian''.] '''I.''' ''a.'' Etruscan: used poetically, or in connection with subjects having some Greek relation or bearing.—{{smaller|'''Tyrrhenian Sea''', a name still used for that part of the Mediterranean which lies between Tuscany and the mainland southward and the islands of Sardinia and Corsica.}}\n\n'''II.''' ''n.'' An Etruscan.",
+   "c3s3": "¶\n'''tyrrit†''', ''n.'' An old spelling of ''tirret.''\n\n'''Tyrtæan''' (tėr-tē′ạn), ''a.'' [< L. ''Tyrtæus'', < Gr. Τυρταῖος, Tyrtæus (see def.), + ''-an.''] Of or pertaining to Tyrtæus, a Greek poet of the seventh century {{sc|b. c.}}, who wrote marching-songs and elegiac exhortations for the Spartans.\n\n'''tysan†''', ''n.'' A variant of ''tisane.''\n\n'''Tysonian''' (tī-sō′ni-ạn), ''a.'' [< ''Tyson'' (see def.) + ''-ian.''] Of or pertaining to, or named after, the anatomist Tyson: specifying the preputial glands or follicles which secrete the sebaceous substance smegma.\n\n'''tysonite''' (tī′sọn-īt), ''n.'' [After S. T. ''Tyson'', the discoverer.] A rare fluorid of the cerium metals, occurring in hexagonal crystals and massive, of a wax-yellow color: found in Colorado.\n\n'''Tyson’s glands.''' See ''gland'' and ''Tysonian.''\n\n'''tyssew†''', ''n.'' An old spelling of ''tissue.''\n\n'''tystie''' (tis′ti), ''n.'' The black guillemot, ''Uria grylle.'' See cut under ''guillemot.'' [Orkney and Shetland.]\n\n'''tyt†''', '''tyte†''', '''tytte†''', ''adv.'' Obsolete spellings of ''tite''<sup>1</sup>.",
+   "c3s4": "¶\n'''tythe†''', ''n.'' and ''v.'' An obsolete spelling of ''tithe''<sup>1</sup>.\n\n'''tything†''', ''n.'' An obsolete spelling of ''tithing''<sup>1</sup>.\n\n'''tythings†''', ''n.'' An obsolete form of ''tidings''. See ''tiding''.\n\n'''Tyzack’s anchor.''' See ''anchor'', 1.\n\n'''tzar, tzarina''', etc. See ''czar'', etc.\n\n'''tzetze, tzetse''', ''n.'' See ''tsetse''.\n\n'''Tzigany''' (tsig′a-ni), ''n.'' and ''a.'' [Hung. ''Cigany'', ''Tzigany'' (cf. It. ''Zingano'', ''Zingaro'', G. ''Zigeuner'', etc.), Gipsy: see under ''Gipsy''.] '''I.''' ''n.'' A Hungarian Gipsy.\n\n'''II.''' ''a.'' Of or pertaining to Hungarian Gipsies: used in English chiefly with reference to their music.\n\n'''tzopilotl''' (tsō′pi-lotl), ''n.'' [Mex.] Same as ''zopilote''."
+  },
+  "figure_files": {
+   "c2f1": "century v08 p0370 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     892,
+     1977,
+     1552,
+     2389
+    ],
+    "caption": [
+     878,
+     2392,
+     1588,
+     2485
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     891,
+     1967,
+     1607,
+     2387
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    2
+   ],
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 8,
+    "output_tokens": 90,
+    "cache_creation_input_tokens": 4286,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 9301,
+    "output_tokens": 10563,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|tyranny|6566|tzopilotl}}</noinclude>{{nop}}'''6.''' Severity; harshness; stringency.\n{{smaller block|The ''tyranny'' of the open night ’s too rough<br>For nature to endure.{{right|''Shak.'', Lear, iii. 4.}}}}\n='''Syn. 1.''' ''Despotism, Autocracy'', etc. See ''despotism''.—'''6.''' ''Oppression, Despotism'', etc. See ''oppression''.\n\n'''tyrant''' (tī′rant), ''n.'' [Early mod. E. also ''tirant'', also ''tyran, tyranne''; < ME. ''tyrant, tirant, tyraunt, tiraunt'', also ''tyran, tiran'', < OF. ''tiran'' (with unorig. ''-t''), ''tiran, tyran'', F. ''tyran'' = Pr. ''tiran'' = Sp. ''tirano'' = Pg. ''tyranno'' = It. ''tiranno'' = D. ''tiran, tyran'' = G. Sw. ''tyrann'' = Dan. ''tyran'', < L. ''tyrannus'', < Gr. τύραννος, lord, master, sovereign, tyrant; root unknown.] '''1.''' In ancient Greece, an irresponsible chief or magistrate with unlimited powers, owing his office primarily to insurrection or usurpation. {{smaller|The first tyrants, so called, were generally the leaders of risings against the oligarchies during the seventh and sixth centuries B. C. They ruled with the popular consent in nearly all the Greek states and colonies at one time or another, transmitting their power to their heirs until democracies or new oligarchies overthrew them. Others raised themselves to the position by direct conquest or conspiracy. The arbitrary government of the tyrants was sometimes beneficent, but more often extremely oppressive and cruel. The typical tyrant in the latter sense of the word was Dionysius the Elder, of Syracuse (405–367 B. C.).}}\n{{smaller block|<poem>The ''tyrant'' of the Chersonese\n{{gap}}Was freedom’s best and bravest friend;\nThat ''tyrant'' was Miltiades!</poem>{{right|''Byron'', Don Juan, iii. 86 (song).}}}}\nHence—'''2.''' A wilfully arbitrary monarch or person in authority; a ruler or master who uses his power cruelly or oppressively; any person who treats those bound to him in any way as slaves to his will; an autocratic oppressor. {{smaller block|Let us define a ''Tyrant'', not according to vulgar conceits, but the judgment of Aristotle, and of all Learned Men. He is a ''Tyrant'' who regards his own welfare and profit only, and not that of the People.\n{{right|''Milton'', Ans. to Salmasius, xii.}}}}\n\n{{smaller block|A ''tyrant'' cannot reign and oppress by his single force; he must really interest, and interest prodigiously, a sufficient number of subordinate ''tyrants'' in the duration of his power.\n{{right|''Ames'', Works, II. 280.}}}}\n'''3.''' A tyrannical or compulsory influence; something that constrains the will inexorably; an overruling power.\n{{smaller block|<poem>For lordly love is such a ''Tyranne'' fell\nThat where he rules all power he doth expell.</poem>\n{{right|''Spenser'', Shep. Cal., October.}}}}\n{{smaller block|Thought emancipated itself from expression without becoming its ''tyrant.''\n{{right|''Lowell'', Among my Books, 2d ser., p. 326.}}}}\n'''4.''' In ''ornith.'', a tyrant-flycatcher; one of the ''Tyrannidæ.''—{{smaller|'''Bald tyrant.''' Same as ''baldhead'', 3.—'''The Thirty Tyrants,''' a committee of thirty sympathizers with the oligarchs and with Sparta, who ruled Athens with absolute power 404–403 {{sc|b. c.}} They were overthrown by the democracy under Thrasybulus.}}\n\n'''tyrant†''' (tī′rant), ''v.'' [Early mod. E. also ''tyran''; < ''tyrant'', ''n.''] '''I.''' ''trans.'' To tyrannize over.\n{{smaller block|<poem>What glorie or what guerdon hast thou [Love] found\nIn feeble Ladies ''tyranning'' so sore?</poem>\n{{right|''Spenser'', F. Q., IV. vii. 1.}}}}\n\n'''II.''' ''intrans.'' To play the tyrant; tyrannize: sometimes with indefinite ''it.''\n{{smaller block|This encouraged the Irish grandees (their O’s and Mac’s) to rant and ''tyrant it'' in their respective seignories.\n{{right|''Fuller'', Worthies, Buckinghamshire, I. 203.}}}}\n\n'''tyrant-bird''' (tī′ra̤nt-bėrd), ''n.'' A tyrant-flycatcher.\n\n'''tyrant-chat''' (tī′ra̤nt-chat), ''n.'' Some tyrant-flycatcher which resembles or suggests a chat.\n\n'''tyrant-flycatcher''' (tī′ra̤nt-flī″kach-ėr), ''n.'' A tyrant-bird; any member of the ''Tyrannidæ.''\n\n'''tyrantly†''' (tī′ra̤nt-li), ''adv.'' [< ME. ''tyrauntly''; < ''tyrant'' + ''-ly''<sup>2</sup>.] In the manner of a tyrant; tyrannically.\n{{smaller block|He askyde me ''tyrauntly'' tribute of Rome,<br>That tenefully tynt was in tyme of myne elders.\n{{right|''Morte Arthure'' (E. E. T. S.), l. 271.}}}}\n\n'''tyrantry†''' (tī′ra̤nt-ri), ''n.'' Same as ''tyranny.'' ''Wyclif'', 3 Ki. [1 Ki.] xvi. 20.\n\n'''tyrant-shrike''' (tī′ra̤nt-shrīk), ''n.'' One of the larger tyrant-flycatchers with a stout bill resembling a shrike’s, as any species of the genus ''Tyrannus'' proper, like the king-bird or bee-martin. Some of these used to be placed in the genus ''Lanius'', being mistaken for shrikes. See cut under ''king-bird.''\n\n'''tyrant-wren''' (tī′ra̤nt-ren), ''n.'' One of the smaller tyrant-flycatchers, as a species of ''Tyrannulus'', resembling a wren in some respects. See cut under ''Tyrannulus.''\n\n'''tyre<sup>1</sup>†.''' An obsolete spelling of ''tire.''\n\n'''tyre<sup>2</sup>''' (tīr), ''n.'' [E. Ind.] A preparation of milk and rice used by the East Indians.\n\n'''tyremesis''' (tī-rem′e-sis), ''n.'' [< Gr. τυρός, cheese, + ἔμεσις, vomiting: see ''emesis''.] Vomiting of cheesy or curdy matters. Also ''tyrosis''.\n\n'''Tyrian''' (tir′i-an), ''a.'' and ''n.'' [= F. ''Tyrien'', < L. ''Tyrius'', < Gr. Τύριος, < Τύρος, L. ''Tyrus'', Tyre (see def.).] '''I.''' ''a.'' '''1.''' Of or pertaining to the ancient city and state of Tyre in Phenicia, on the Mediterranean.—'''2.''' Of a purple color characteristic of Tyre.—{{smaller|'''Tyrian Cynosure''', the constellation Ursa Minor, anciently called the Cynosure, which served as a guide to the Tyrians in their long voyages.}}\n{{smaller block|<poem>And thou shalt be our star of Arcady,\nOr ''Tyrian cynosure.''</poem>\n{{right|''Milton'', Comus, l. 342.}}}}\n{{smaller|'''Tyrian purple'''. See ''purple''.}}\n\n'''II.''' ''n.'' A native of Tyre.\n\n'''tyriasis''' (ti-rī′a-sis), ''n.'' [< Gr. τυρός, cheese, + ''-iasis''.] '''1.''' Elephantiasis Arabum.—'''2.''' Falling off of the hair; alopecia.\n\n'''tyrite''' (tī′rīt), ''n.'' [< Icel. ''Tȳr'', Tyr (see ''Tyr''), + ''-ite''<sup>2</sup>.] A variety of fergusonite found near Arendal in Norway.\n\n'''tyro''' (tī′rō), ''n.'' [Formerly, and prop., ''tiro''; < L. ''tiro'', misspelled ''tyro'', a newly levied soldier, a young soldier.] A beginner in learning anything; one who is employed in learning or who has mastered the rudiments only of any branch of knowledge; a novice.\n{{smaller block|<poem>There stands a structure on a rising hill,\nWhere ''tyros'' take their freedom out to kill.</poem>\n{{right|''Garth'', Dispensary, iii.}}}}\n\n'''tyrocinium†''' (tī-rọ̄-sin′i-um), ''n.'' Same as ''tyrociny.'' ''Gayton.'' Compare ''tirocinium.''\n\n'''tyrociny''' (tī-ros′i-ni), ''n.'' [Prop. *''tirociny;'' < L. ''tirocinium,'' first service or trial, < ''tiro,'' a newly levied soldier: see ''tyro.''] The state of being a tyro, beginner, or learner; pupilage; apprenticeship; unskilled effort.\n{{smaller block|<poem>To thee I write my Apotheosie,\nMæcenas, strengthen my ''Tyrocinie.''</poem>\n{{right|''Tourneur,'' Trans. Metamorphosis, Ded.}}}}\n\n'''Tyroglyphidæ''' (tī-rọ̄-glif′i-dē), ''n. pl.'' [NL., < ''Tyroglyphus'' + ''-idæ.''] A family of atracheate ''Acarina,'' typified by the genus ''Tyroglyphus.'' {{smaller|They all have eight legs developed, of five joints apiece, chelate mandibles, skeleton composed of sclerites in a soft skin, and two front pairs of legs set below the body. The ''Tyroglyphidæ'' are usually parasitic during the curious hypopial stage, although they do not seem to require any nutriment from the host; and some species would appear to be parasitic in the adult stage, as ''Glyciphagus balænarum.'' The related families ''Sarcoptidæ'' and ''Myobiidæ'' are strictly parasitic during every stage of their existence.}}\n\n'''Tyroglyphus''' (tī-rog′li-fus), ''n.'' [NL. (Latreille, 1796), < Gr. τυρός, cheese, + γλύφειν, carve.] A notable genus of acarids or mites, typical of the family ''Tyroglyphidæ,'' having a tarsal claw and a sucker. {{smaller|Those of the subgenus ''Rhizoglyphus'' feed upon vegetable products, and comprise about a dozen species. Those of ''Tyroglyphus'' proper feed upon animal products, and include among others the well-known cheese-mites, ''T. siro'' and ''T. longior''—the latter feeding also upon farinaceous substances. (See cut under ''flour-mite''.) ''T. phylloxeræ'' preys upon the grape-vine phylloxera; ''T. entomophagus'' is a well-known pest in entomological collections.}}\n\n[[File:century v08 p0370 c2f1.png|center|107px]]\n{{c|{{smaller|Phylloxera-mite (''Tyroglyphus phylloxeræ'').}}}}\n{{c|{{smaller|''a'', dorsal view of female; ''b'', ventral view of female; ''c'', mouth-parts; ''d'', ''f'', ''g'', ''h'', forms of tarsal appendages; ''e'', ventral tubercles of male. (All the figures are much enlarged.)}}}}\n\n'''Tyroler''' (ti-rō′lėr), ''n.'' [< G. ''Tyroler'', ''Tiroler'', a Tyrolese, < ''Tyrol'', ''Tirol'', Tyrol: see ''Tyrolese''.] A native of Tyrol; a Tyrolese. [Rare.]\n\n'''Tyrolese''' (tir-ō-lēs′ or -lēz′), ''a.'' and ''n.'' [< ''Tyrol'' (G. ''Tirol'', and improperly ''Tyrol'') + ''-ese''.] '''I.''' ''a.'' Of or pertaining to Tyrol (often called the Tyrol), an Alpine province forming with Vorarlberg a crownland of the Cisleithan division of Austria-Hungary.\n\n'''II.''' ''n. sing.'' and ''pl.'' A native or the natives of Tyrol.\n\n'''Tyrolienne''' (ti-rō-li-en′), ''n.'' [F., fem. of ''Tyrolien'', of or pertaining to Tyrol, < ''Tyrol'', Tyrol.] A dance of the Tyrolese peasants, or a song or melody suitable for such a dance. The characteristic folk-songs of Tyrol abound in yodels.\n\n'''tyroline''' (tir′ọ̄-lin), ''n.'' A violet dye produced by treatment of aniline; aniline violet. ''Ure'', Dict., III. 1050.\n\n'''tyrolite''' (tir′ọ̄-līt), ''n.'' [Also ''tirolite''; < ''Tyrol'' + ''-ite''<sup>2</sup>.] A hydrous arseniate of copper, occurring in orthorhombic crystals and in aggregates having a foliated micaceous structure. {{smaller|It is very soft, sectile, and flexible in thin scales, and has a bluish-green color. It is known from a number of localities, but is named from that at Falkenstein in Tyrol.}}\n\n'''tyroma''' (tī-rō′mä̤), ''n.'' [NL., < Gr. τυρός, cheese.] Falling off of the hair; alopecia.\n\n'''tyronism''' (tī′rọ̄-nizm), ''n.'' [< ''tyro(n-)'' + ''-ism''.] The state of being a tyro. Also ''tironism''.\n\n'''tyrosin''' (tī′rọ̄-sin), ''n.'' [Irreg. < Gr. τυρός, cheese, + ''-in''<sup>2</sup>.] A white crystalline body, odorless, and insoluble in cold water, having the formula C<sub>9</sub>H<sub>11</sub>NO<sub>3</sub>. {{smaller|It is an amido-acid, and forms salts with both acids and bases. It is a product of the decomposition of proteids, either by the ferment trypsin, by putrefaction, or by boiling with acids.}}\n\n'''tyrosis''' (tī-rō′sis), ''n.'' [NL., < Gr. τυρός, cheese, + ''-osis''.] '''1.''' Same as ''tyremesis''.—'''2.''' The curdling of milk.\n\n'''tyrothrix''' (tī′rọ̄-thriks), ''n.'' [NL., < Gr. τυρός, cheese, + θρίξ, hair.] A bacterium found in cheese.\n\n'''tyrotoxicon''' (tī-rọ̄-tok′si-kon), ''n.'' [NL., < Gr. τυρός, cheese, + τοξικόν, poison.] A ptomaïne produced in milk or cheese, the cause of the symptoms of pòisoning occasionally observed to follow the eating of ice-cream. It is either identical with or closely related to diazobenzol.\n\n'''Tyrrel’s case.''' See ''case''<sup>1</sup>.\n\n'''Tyrrel’s fascia.''' The rectovesical fascia.\n\n'''Tyrrel’s hook.''' A fine hook used in certain operations on the eye for drawing forward the iris.\n\n'''Tyrrhene''' (ti-rēn′), ''a.'' [< L. ''Tyrrhenus'', < Gr. Τυρρηνός, < Τυρρηνία, the Gr. name of Etruria or Tuscany.] Same as ''Tyrrhenian''.\n\n'''Tyrrhenian''' (ti-rē′ni-a̤n), ''a.'' and ''n.'' [< ''Tyrrhene'' + ''-ian''.] '''I.''' ''a.'' Etruscan: used poetically, or in connection with subjects having some Greek relation or bearing.—{{smaller|'''Tyrrhenian Sea''', a name still used for that part of the Mediterranean which lies between Tuscany and the mainland southward and the islands of Sardinia and Corsica.}}\n\n'''II.''' ''n.'' An Etruscan.\n\n'''tyrrit†''', ''n.'' An old spelling of ''tirret.''\n\n'''Tyrtæan''' (tėr-tē′ạn), ''a.'' [< L. ''Tyrtæus'', < Gr. Τυρταῖος, Tyrtæus (see def.), + ''-an.''] Of or pertaining to Tyrtæus, a Greek poet of the seventh century {{sc|b. c.}}, who wrote marching-songs and elegiac exhortations for the Spartans.\n\n'''tysan†''', ''n.'' A variant of ''tisane.''\n\n'''Tysonian''' (tī-sō′ni-ạn), ''a.'' [< ''Tyson'' (see def.) + ''-ian.''] Of or pertaining to, or named after, the anatomist Tyson: specifying the preputial glands or follicles which secrete the sebaceous substance smegma.\n\n'''tysonite''' (tī′sọn-īt), ''n.'' [After S. T. ''Tyson'', the discoverer.] A rare fluorid of the cerium metals, occurring in hexagonal crystals and massive, of a wax-yellow color: found in Colorado.\n\n'''Tyson’s glands.''' See ''gland'' and ''Tysonian.''\n\n'''tyssew†''', ''n.'' An old spelling of ''tissue.''\n\n'''tystie''' (tis′ti), ''n.'' The black guillemot, ''Uria grylle.'' See cut under ''guillemot.'' [Orkney and Shetland.]\n\n'''tyt†''', '''tyte†''', '''tytte†''', ''adv.'' Obsolete spellings of ''tite''<sup>1</sup>.\n\n'''tythe†''', ''n.'' and ''v.'' An obsolete spelling of ''tithe''<sup>1</sup>.\n\n'''tything†''', ''n.'' An obsolete spelling of ''tithing''<sup>1</sup>.\n\n'''tythings†''', ''n.'' An obsolete form of ''tidings''. See ''tiding''.\n\n'''Tyzack’s anchor.''' See ''anchor'', 1.\n\n'''tzar, tzarina''', etc. See ''czar'', etc.\n\n'''tzetze, tzetse''', ''n.'' See ''tsetse''.\n\n'''Tzigany''' (tsig′a-ni), ''n.'' and ''a.'' [Hung. ''Cigany'', ''Tzigany'' (cf. It. ''Zingano'', ''Zingaro'', G. ''Zigeuner'', etc.), Gipsy: see under ''Gipsy''.] '''I.''' ''n.'' A Hungarian Gipsy.\n\n'''II.''' ''a.'' Of or pertaining to Hungarian Gipsies: used in English chiefly with reference to their music.\n\n'''tzopilotl''' (tsō′pi-lotl), ''n.'' [Mex.] Same as ''zopilote''.<noinclude><references/></noinclude>"
+}

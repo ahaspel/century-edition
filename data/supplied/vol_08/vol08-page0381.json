@@ -1,0 +1,168 @@
+{
+ "volume": 8,
+ "page_number": 381,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n380.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n380.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-22",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 738,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     0,
+     2214,
+     150
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     150,
+     793,
+     1233
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1233,
+     793,
+     2257
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2257,
+     793,
+     3271
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     793,
+     150,
+     1519,
+     1173
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     793,
+     1173,
+     1519,
+     2253
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     793,
+     2253,
+     1519,
+     3271
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1519,
+     150,
+     2214,
+     1237
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1519,
+     1237,
+     2214,
+     2311
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1519,
+     2311,
+     2214,
+     3271
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|un-|6577|un-}}",
+   "c1s1": "{|\n|unfreighted||unlaminated\n|-\n|unfrozen||unlashed\n|-\n|ungallantly||unlaundered\n|-\n|ungalvanized||unleaded\n|-\n|unganglionated||unlearnable\n|-\n|ungarbled||unlet\n|-\n|ungarrisoned||unlighted\n|-\n|ungiven||unlikable\n|-\n|ungladden||unlisted\n|-\n|ungleaned||unlit\n|-\n|ungloved||unliterary\n|-\n|ungranted||unlocalized\n|-\n|ungraspable||unlodged\n|-\n|ungreeted||unlooped\n|-\n|unground||unlovable\n|-\n|ungrudged||unlowered\n|-\n|unguaranteed||unlying\n|-\n|unguessable||unmacadamized\n|-\n|unhabited||unmagnetic\n|-\n|unhandseled||unmagnified\n|-\n|unharvested||unmailed\n|-\n|unhasting||unmaintainable\n|-\n|unhealed||unmagisterial\n|-\n|unheated||unmalted\n|-\n|unhelped||unmanfully\n|-\n|unhemmed||unmanifested\n|-\n|unheralded||unmapped\n|-\n|unhewed||unmasticated\n|-\n|unhewn||unmatchably\n|-\n|unhindered||unmated\n|-\n|unhit||unmatriculated\n|-\n|unhomelike||unmatured\n|-\n|unhoping||unmelodiously\n|-\n|unhosed||unmelted\n|}",
+   "c1s2": "{|\n|unhulled||unmended\n|-\n|unhurried||unmentioned\n|-\n|unhushed||unmerciless\n|-\n|unhusked||unmeritorious\n|-\n|unhygienic||unmesmerized\n|-\n|unidentified||unmet\n|-\n|unidiomatic||unmetaled\n|-\n|unignited||unmetamorphosed\n|-\n|unillustrated||unmetaphorical\n|-\n|unimparted||unmetrically\n|-\n|unimpeded||unmilked\n|-\n|unimpregnated||unmilled\n|-\n|unimpressed||unministerial\n|-\n|unimpressionable||unminted\n|-\n|unimpressive||unmirthfully\n|-\n|unimproving||unmissed\n|-\n|unimpugned||unmistaken\n|-\n|unincorporate||unmodulated\n|-\n|unindebted||unmolten\n|-\n|unindemnify||unmonastic\n|-\n|unindexed||unmooted\n|-\n|unindictable||unmordanted\n|-\n|unindulged||unmortgaged\n|-\n|uninfected||unmotived\n|-\n|uninfectious||unmuzzled\n|-\n|uninflamed||unnegotiable\n|-\n|uninflated||unnetted\n|-\n|uninflected||unnotched\n|-\n|uninfluential||unnoticeable\n|-\n|uninfringed||unnoticeably\n|-\n|uninitiated||unnotified\n|-\n|uninoculated||unnourished\n|}",
+   "c1s3": "{|\n|uninquiring||unnutritious\n|-\n|uninspiring||unobjectionable\n|-\n|uninstigated||unobliging\n|-\n|uninstituted||unobliterated\n|-\n|uninstructed||unobscured\n|-\n|uninsulated||unobtainable\n|-\n|uninsurable||unobtained\n|-\n|uninsured||unobtruded\n|-\n|unintellectual||unoffended\n|-\n|unintended||unoffered\n|-\n|uninterdicted||unofficial\n|-\n|uninterred||unofficinal\n|-\n|unintoxicating||unopenable\n|-\n|uninured||unopened\n|-\n|uninvestigated||unoperated\n|-\n|uninvited||unorganizable\n|-\n|uninviting||unoxidated\n|-\n|uninvitingly||unoxidizable\n|-\n|uninvoked||unoxidized\n|-\n|uninvolved||unpacifiable\n|-\n|unirrigated||unpacified\n|-\n|unirrigating||unpacked\n|-\n|unissued||unpaged\n|-\n|unjoined||unpainted\n|-\n|unjustified||unpampered\n|-\n|unkilled||unparaphrased\n|-\n|unkindled||unpardoned\n|-\n|unkneaded||unpared\n|-\n|unknotted||unparted\n|-\n|unlabeled||unparticipative\n|-\n|unladylike||unpartizan\n|}\n413",
+   "c2s1": "{|\n|unpatented||unreduced\n|-\n|unpatriotically||unreducible\n|-\n|unpeeled||unreelable\n|-\n|unpenciled||unreeled\n|-\n|unpenetrated||unreflected\n|-\n|unpenned||unreflectingly\n|-\n|unpeptonized||unreformed\n|-\n|unperfected||unrefreshed\n|-\n|unperforated||unrefreshing\n|-\n|unpersuaded||unrefunded\n|-\n|unphilanthropic||unrefuted\n|-\n|unphilological||unregainable\n|-\n|unphonetic||unregal\n|-\n|unphysicked||unregretful\n|-\n|unphysiological||unregretted\n|-\n|unpicturesque||unregulated\n|-\n|unpillaged||unrehearsed\n|-\n|unpinned||unrejected\n|-\n|unpitiable||unrelaxing\n|-\n|unpitied||unreligious\n|-\n|unplaned||unrelinquished\n|-\n|unplastered||unrelishable\n|-\n|unplated||unrelished\n|-\n|unpledged||unreluctant\n|-\n|unplighted||unremarkable\n|-\n|unplowed||unremarked\n|-\n|unpolarized||unremedied\n|-\n|unpolishable||unreminded\n|-\n|unpolitical||unremittable\n|-\n|unpolitically||unremittent\n|-\n|unpooled||unremunerative\n|-\n|unpopulated||unrenowned\n|}",
+   "c2s2": "{|\n|unpotable||unrented\n|-\n|unpowdered||unrepaired\n|-\n|unpraised||unrepeated\n|-\n|unprayerful||unrepelled\n|-\n|unpreceded||unrepenting\n|-\n|unprecise||unrepined\n|-\n|unpredestinated||unreplaced\n|-\n|unprefaced||unreportable\n|-\n|unpresented||unreported\n|-\n|unpreserved||unrepresentative\n|-\n|unpretendingly||unrepressed\n|-\n|unpretentiously||unreprimanded\n|-\n|unprevalent||unreprinted\n|-\n|unprimed||unreproving\n|-\n|unprinted||unrepublican\n|-\n|unprobed||unrequiting\n|-\n|unprocurable||unrescinded\n|-\n|unproduced||unrescued\n|-\n|unprofessed||unresented\n|-\n|unprofessing||unresenting\n|-\n|unpromulgated||unresigned\n|-\n|unpropitiated||unrespected\n|-\n|unprosecuted||unrespirable\n|-\n|unprostrated||unresponsively\n|-\n|unprotracted||unrested\n|-\n|unprotruded||unrestrainable\n|-\n|unproven||unrestrainably\n|-\n|unprovincial||unretracted\n|-\n|unpulled||unrevealed\n|-\n|unpulped||unrevered\n|-\n|unpulverized||unreverenced\n|-\n|unpurchasable||unrevised\n|-\n|unpurified||unrhythmic\n|-\n|unpursued||unridden\n|}",
+   "c2s3": "{|\n|unquaffed||unrighted\n|-\n|unquakerlike||unrimed\n|-\n|unquartered||unrinsed\n|-\n|unquellable||unrisen\n|-\n|unquelled||unroasted\n|-\n|unquestioning||unrobbed\n|-\n|unquestioningly||unrounded\n|-\n|unquickened||unroused\n|-\n|unquotable||unrubbed\n|-\n|unquoted||unruptured\n|-\n|unransomed||unrusted\n|-\n|unrated||unsaddled\n|-\n|unratified||unsanctioned\n|-\n|unravaged||unsaponified\n|-\n|unravelable||unsated\n|-\n|unrazed||unsatiated\n|-\n|unrealizable||unsaved\n|-\n|unreaped||unsawed\n|-\n|unrebuked||unsawn\n|-\n|unrebutted||unsayable\n|-\n|unrecalled||unscaled\n|-\n|unrecanted||unscalped\n|-\n|unreceipted||unscattered\n|-\n|unreceivable||unscheduled\n|-\n|unreciprocated||unscholarlike\n|-\n|unrecited||unscholarly\n|-\n|unrecognized||unscientific\n|-\n|unrecruited||unscientifically\n|-\n|unrectified||unsecured\n|-\n|unredeemable||unseductive\n|-\n|unredressed||unseizable\n|}",
+   "c3s1": "{|\n|unselected||unstriped\n|-\n|unsensational||unstrung\n|-\n|unsensitized||unsubjected\n|-\n|unseparated||unsubscribed\n|-\n|unserved||unsubsidized\n|-\n|unsewed||unsubstantiated\n|-\n|unsewered||unsuckled\n|-\n|unsewn||unsued\n|-\n|unshackled||unsuffocated\n|-\n|unshady||unsuggestive\n|-\n|unshapable||unsummoned\n|-\n|unsharpened||unsunk\n|-\n|unshattered||unsupped\n|-\n|unshaved||unsurfeited\n|-\n|unsheared||unsurgical\n|-\n|unsheathed||unsurmised\n|-\n|unshelled||unsurmounted\n|-\n|unsheltered||unsurpassing\n|-\n|unshepherded||unsuspended\n|-\n|unshielded||unswallowed\n|-\n|unshocked||unsweetened\n|-\n|unshrinkable||unsympathetic\n|-\n|unshrived||unsympathetically\n|-\n|unshrunk||unsympathizing\n|-\n|unshuttered||unsystematized\n|-\n|unsignalized||untanned\n|-\n|unsigned||untarnishable\n|-\n|unsignified||untarred\n|-\n|unsilenced||untasked\n|-\n|unsimulated||untasteful\n|-\n|unsinful||untearable\n|-\n|unsinged||untechnical\n|-\n|unsinkable||unteleological\n|-\n|unskinned||untellable\n|}",
+   "c3s2": "{|\n|unslacked||untended\n|-\n|unslakable||unterrified\n|-\n|unslandered||untested\n|-\n|unslaughtered||untethered\n|-\n|unsleepy||unthickened\n|-\n|unsliced||unthoughtful\n|-\n|unslurred||unthrashed\n|-\n|unsmelted||unthreadable\n|-\n|unsmiling||unthreshed\n|-\n|unsmitten||unthriving\n|-\n|unsmoothed||unthwarted\n|-\n|unsmuggled||untidily\n|-\n|unsocially||untiringly\n|-\n|unsoftened||untransplanted\n|-\n|unsoiled||untransportable\n|-\n|unsold||untransported\n|-\n|unsoldered||untransposed\n|-\n|unsoldierlike||untransmissible\n|-\n|unsoldierly||untransmitted\n|-\n|unsolemnized||untraversable\n|-\n|unsolidified||untreated\n|-\n|unsophistical||untrilled\n|-\n|unsounded||untrumpeted\n|-\n|unsoured||untrusted\n|-\n|unsowed||untuneful\n|-\n|unspannable||untwined\n|-\n|unsparred||untwisted\n|-\n|unspecialized||untypical\n|-\n|unspecific||unutilized\n|-\n|unspectacled||unuttered\n|-\n|unspellable||unvamped\n|-\n|unspelled||unventured\n|-\n|unspillable||unverifiable\n|-\n|unspliced||unverified\n|}",
+   "c3s3": "{|\n|unsplit||unvictorious\n|-\n|unspoiled||unvisited\n|-\n|unsportsmanlike||unvitrifiable\n|-\n|unsprinkled||unvitrified\n|-\n|unsquandered||unvocal\n|-\n|unsqueamish||unvouched\n|-\n|unsqueezed||unvulcanized\n|-\n|unstably||unwaked\n|-\n|unstainable||unwalkable\n|-\n|unstarched||unwalled\n|-\n|unstarred||unwanted\n|-\n|unstartled||unwarmed\n|-\n|unstated||unwatered\n|-\n|unstatesmanlike||unwaxed\n|-\n|unstationed||unwearable\n|-\n|unstemmed||unweary\n|-\n|unstepped||unwearying\n|-\n|unstiffened||unwedded\n|-\n|unstifled||unweighted\n|-\n|unstilted||unweldable\n|-\n|unstimulating||unwelded\n|-\n|unstinted||unwhisperable\n|-\n|unstitched||unworkable\n|-\n|unstopped||unworked\n|-\n|unstoppered||unworkmanlike\n|-\n|unstored||unwrathfully\n|-\n|unstrengthened||unwronged\n|-\n|unstretchable||unyielded\n|-\n|unstretched||unyouthful\n|}"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 10,
+    "input_tokens": 9775,
+    "output_tokens": 5753,
+    "cache_creation_input_tokens": 7932,
+    "cache_read_input_tokens": 31728
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|un-|6577|un-}}</noinclude>{| style=\"margin:auto\"\n|unfreighted||unlaminated\n|-\n|unfrozen||unlashed\n|-\n|ungallantly||unlaundered\n|-\n|ungalvanized||unleaded\n|-\n|unganglionated||unlearnable\n|-\n|ungarbled||unlet\n|-\n|ungarrisoned||unlighted\n|-\n|ungiven||unlikable\n|-\n|ungladden||unlisted\n|-\n|ungleaned||unlit\n|-\n|ungloved||unliterary\n|-\n|ungranted||unlocalized\n|-\n|ungraspable||unlodged\n|-\n|ungreeted||unlooped\n|-\n|unground||unlovable\n|-\n|ungrudged||unlowered\n|-\n|unguaranteed||unlying\n|-\n|unguessable||unmacadamized\n|-\n|unhabited||unmagnetic\n|-\n|unhandseled||unmagnified\n|-\n|unharvested||unmailed\n|-\n|unhasting||unmaintainable\n|-\n|unhealed||unmagisterial\n|-\n|unheated||unmalted\n|-\n|unhelped||unmanfully\n|-\n|unhemmed||unmanifested\n|-\n|unheralded||unmapped\n|-\n|unhewed||unmasticated\n|-\n|unhewn||unmatchably\n|-\n|unhindered||unmated\n|-\n|unhit||unmatriculated\n|-\n|unhomelike||unmatured\n|-\n|unhoping||unmelodiously\n|-\n|unhosed||unmelted\n|}\n{| style=\"margin:auto\"\n|unhulled||unmended\n|-\n|unhurried||unmentioned\n|-\n|unhushed||unmerciless\n|-\n|unhusked||unmeritorious\n|-\n|unhygienic||unmesmerized\n|-\n|unidentified||unmet\n|-\n|unidiomatic||unmetaled\n|-\n|unignited||unmetamorphosed\n|-\n|unillustrated||unmetaphorical\n|-\n|unimparted||unmetrically\n|-\n|unimpeded||unmilked\n|-\n|unimpregnated||unmilled\n|-\n|unimpressed||unministerial\n|-\n|unimpressionable||unminted\n|-\n|unimpressive||unmirthfully\n|-\n|unimproving||unmissed\n|-\n|unimpugned||unmistaken\n|-\n|unincorporate||unmodulated\n|-\n|unindebted||unmolten\n|-\n|unindemnify||unmonastic\n|-\n|unindexed||unmooted\n|-\n|unindictable||unmordanted\n|-\n|unindulged||unmortgaged\n|-\n|uninfected||unmotived\n|-\n|uninfectious||unmuzzled\n|-\n|uninflamed||unnegotiable\n|-\n|uninflated||unnetted\n|-\n|uninflected||unnotched\n|-\n|uninfluential||unnoticeable\n|-\n|uninfringed||unnoticeably\n|-\n|uninitiated||unnotified\n|-\n|uninoculated||unnourished\n|}\n{| style=\"margin:auto\"\n|uninquiring||unnutritious\n|-\n|uninspiring||unobjectionable\n|-\n|uninstigated||unobliging\n|-\n|uninstituted||unobliterated\n|-\n|uninstructed||unobscured\n|-\n|uninsulated||unobtainable\n|-\n|uninsurable||unobtained\n|-\n|uninsured||unobtruded\n|-\n|unintellectual||unoffended\n|-\n|unintended||unoffered\n|-\n|uninterdicted||unofficial\n|-\n|uninterred||unofficinal\n|-\n|unintoxicating||unopenable\n|-\n|uninured||unopened\n|-\n|uninvestigated||unoperated\n|-\n|uninvited||unorganizable\n|-\n|uninviting||unoxidated\n|-\n|uninvitingly||unoxidizable\n|-\n|uninvoked||unoxidized\n|-\n|uninvolved||unpacifiable\n|-\n|unirrigated||unpacified\n|-\n|unirrigating||unpacked\n|-\n|unissued||unpaged\n|-\n|unjoined||unpainted\n|-\n|unjustified||unpampered\n|-\n|unkilled||unparaphrased\n|-\n|unkindled||unpardoned\n|-\n|unkneaded||unpared\n|-\n|unknotted||unparted\n|-\n|unlabeled||unparticipative\n|-\n|unladylike||unpartizan\n|}\n413\n{| style=\"margin:auto\"\n|unpatented||unreduced\n|-\n|unpatriotically||unreducible\n|-\n|unpeeled||unreelable\n|-\n|unpenciled||unreeled\n|-\n|unpenetrated||unreflected\n|-\n|unpenned||unreflectingly\n|-\n|unpeptonized||unreformed\n|-\n|unperfected||unrefreshed\n|-\n|unperforated||unrefreshing\n|-\n|unpersuaded||unrefunded\n|-\n|unphilanthropic||unrefuted\n|-\n|unphilological||unregainable\n|-\n|unphonetic||unregal\n|-\n|unphysicked||unregretful\n|-\n|unphysiological||unregretted\n|-\n|unpicturesque||unregulated\n|-\n|unpillaged||unrehearsed\n|-\n|unpinned||unrejected\n|-\n|unpitiable||unrelaxing\n|-\n|unpitied||unreligious\n|-\n|unplaned||unrelinquished\n|-\n|unplastered||unrelishable\n|-\n|unplated||unrelished\n|-\n|unpledged||unreluctant\n|-\n|unplighted||unremarkable\n|-\n|unplowed||unremarked\n|-\n|unpolarized||unremedied\n|-\n|unpolishable||unreminded\n|-\n|unpolitical||unremittable\n|-\n|unpolitically||unremittent\n|-\n|unpooled||unremunerative\n|-\n|unpopulated||unrenowned\n|}\n{| style=\"margin:auto\"\n|unpotable||unrented\n|-\n|unpowdered||unrepaired\n|-\n|unpraised||unrepeated\n|-\n|unprayerful||unrepelled\n|-\n|unpreceded||unrepenting\n|-\n|unprecise||unrepined\n|-\n|unpredestinated||unreplaced\n|-\n|unprefaced||unreportable\n|-\n|unpresented||unreported\n|-\n|unpreserved||unrepresentative\n|-\n|unpretendingly||unrepressed\n|-\n|unpretentiously||unreprimanded\n|-\n|unprevalent||unreprinted\n|-\n|unprimed||unreproving\n|-\n|unprinted||unrepublican\n|-\n|unprobed||unrequiting\n|-\n|unprocurable||unrescinded\n|-\n|unproduced||unrescued\n|-\n|unprofessed||unresented\n|-\n|unprofessing||unresenting\n|-\n|unpromulgated||unresigned\n|-\n|unpropitiated||unrespected\n|-\n|unprosecuted||unrespirable\n|-\n|unprostrated||unresponsively\n|-\n|unprotracted||unrested\n|-\n|unprotruded||unrestrainable\n|-\n|unproven||unrestrainably\n|-\n|unprovincial||unretracted\n|-\n|unpulled||unrevealed\n|-\n|unpulped||unrevered\n|-\n|unpulverized||unreverenced\n|-\n|unpurchasable||unrevised\n|-\n|unpurified||unrhythmic\n|-\n|unpursued||unridden\n|}\n{| style=\"margin:auto\"\n|unquaffed||unrighted\n|-\n|unquakerlike||unrimed\n|-\n|unquartered||unrinsed\n|-\n|unquellable||unrisen\n|-\n|unquelled||unroasted\n|-\n|unquestioning||unrobbed\n|-\n|unquestioningly||unrounded\n|-\n|unquickened||unroused\n|-\n|unquotable||unrubbed\n|-\n|unquoted||unruptured\n|-\n|unransomed||unrusted\n|-\n|unrated||unsaddled\n|-\n|unratified||unsanctioned\n|-\n|unravaged||unsaponified\n|-\n|unravelable||unsated\n|-\n|unrazed||unsatiated\n|-\n|unrealizable||unsaved\n|-\n|unreaped||unsawed\n|-\n|unrebuked||unsawn\n|-\n|unrebutted||unsayable\n|-\n|unrecalled||unscaled\n|-\n|unrecanted||unscalped\n|-\n|unreceipted||unscattered\n|-\n|unreceivable||unscheduled\n|-\n|unreciprocated||unscholarlike\n|-\n|unrecited||unscholarly\n|-\n|unrecognized||unscientific\n|-\n|unrecruited||unscientifically\n|-\n|unrectified||unsecured\n|-\n|unredeemable||unseductive\n|-\n|unredressed||unseizable\n|}\n{| style=\"margin:auto\"\n|unselected||unstriped\n|-\n|unsensational||unstrung\n|-\n|unsensitized||unsubjected\n|-\n|unseparated||unsubscribed\n|-\n|unserved||unsubsidized\n|-\n|unsewed||unsubstantiated\n|-\n|unsewered||unsuckled\n|-\n|unsewn||unsued\n|-\n|unshackled||unsuffocated\n|-\n|unshady||unsuggestive\n|-\n|unshapable||unsummoned\n|-\n|unsharpened||unsunk\n|-\n|unshattered||unsupped\n|-\n|unshaved||unsurfeited\n|-\n|unsheared||unsurgical\n|-\n|unsheathed||unsurmised\n|-\n|unshelled||unsurmounted\n|-\n|unsheltered||unsurpassing\n|-\n|unshepherded||unsuspended\n|-\n|unshielded||unswallowed\n|-\n|unshocked||unsweetened\n|-\n|unshrinkable||unsympathetic\n|-\n|unshrived||unsympathetically\n|-\n|unshrunk||unsympathizing\n|-\n|unshuttered||unsystematized\n|-\n|unsignalized||untanned\n|-\n|unsigned||untarnishable\n|-\n|unsignified||untarred\n|-\n|unsilenced||untasked\n|-\n|unsimulated||untasteful\n|-\n|unsinful||untearable\n|-\n|unsinged||untechnical\n|-\n|unsinkable||unteleological\n|-\n|unskinned||untellable\n|}\n{| style=\"margin:auto\"\n|unslacked||untended\n|-\n|unslakable||unterrified\n|-\n|unslandered||untested\n|-\n|unslaughtered||untethered\n|-\n|unsleepy||unthickened\n|-\n|unsliced||unthoughtful\n|-\n|unslurred||unthrashed\n|-\n|unsmelted||unthreadable\n|-\n|unsmiling||unthreshed\n|-\n|unsmitten||unthriving\n|-\n|unsmoothed||unthwarted\n|-\n|unsmuggled||untidily\n|-\n|unsocially||untiringly\n|-\n|unsoftened||untransplanted\n|-\n|unsoiled||untransportable\n|-\n|unsold||untransported\n|-\n|unsoldered||untransposed\n|-\n|unsoldierlike||untransmissible\n|-\n|unsoldierly||untransmitted\n|-\n|unsolemnized||untraversable\n|-\n|unsolidified||untreated\n|-\n|unsophistical||untrilled\n|-\n|unsounded||untrumpeted\n|-\n|unsoured||untrusted\n|-\n|unsowed||untuneful\n|-\n|unspannable||untwined\n|-\n|unsparred||untwisted\n|-\n|unspecialized||untypical\n|-\n|unspecific||unutilized\n|-\n|unspectacled||unuttered\n|-\n|unspellable||unvamped\n|-\n|unspelled||unventured\n|-\n|unspillable||unverifiable\n|-\n|unspliced||unverified\n|}\n{| style=\"margin:auto\"\n|unsplit||unvictorious\n|-\n|unspoiled||unvisited\n|-\n|unsportsmanlike||unvitrifiable\n|-\n|unsprinkled||unvitrified\n|-\n|unsquandered||unvocal\n|-\n|unsqueamish||unvouched\n|-\n|unsqueezed||unvulcanized\n|-\n|unstably||unwaked\n|-\n|unstainable||unwalkable\n|-\n|unstarched||unwalled\n|-\n|unstarred||unwanted\n|-\n|unstartled||unwarmed\n|-\n|unstated||unwatered\n|-\n|unstatesmanlike||unwaxed\n|-\n|unstationed||unwearable\n|-\n|unstemmed||unweary\n|-\n|unstepped||unwearying\n|-\n|unstiffened||unwedded\n|-\n|unstifled||unweighted\n|-\n|unstilted||unweldable\n|-\n|unstimulating||unwelded\n|-\n|unstinted||unwhisperable\n|-\n|unstitched||unworkable\n|-\n|unstopped||unworked\n|-\n|unstoppered||unworkmanlike\n|-\n|unstored||unwrathfully\n|-\n|unstrengthened||unwronged\n|-\n|unstretchable||unyielded\n|-\n|unstretched||unyouthful\n|}<noinclude><references/></noinclude>"
+}

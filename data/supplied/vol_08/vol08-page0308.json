@@ -1,0 +1,289 @@
+{
+ "volume": 8,
+ "page_number": 308,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n307.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n307.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-22",
+  "fetched_by": "alaemmle",
+  "angle": 1.25,
+  "column_width": 1461,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     98,
+     0,
+     2442,
+     71
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     98,
+     71,
+     817,
+     1161
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     98,
+     1161,
+     817,
+     2219
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     98,
+     2219,
+     817,
+     3193
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     817,
+     71,
+     1568,
+     1140
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     833,
+     163,
+     1554,
+     644
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     817,
+     1140,
+     1568,
+     1589
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     817,
+     1589,
+     1568,
+     2677
+    ]
+   },
+   {
+    "name": "c2f2",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     863,
+     1662,
+     1509,
+     2364
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     817,
+     2677,
+     1568,
+     3193
+    ]
+   },
+   {
+    "name": "c2f3",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     878,
+     2824,
+     1509,
+     3126
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1568,
+     71,
+     2442,
+     1141
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1568,
+     1141,
+     2442,
+     2157
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1568,
+     2157,
+     2442,
+     3193
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|trout-stream|6504|truant}}",
+   "c1s1": "{{RunningHeader|trout-stream||}}\n¶\n'''trout-stream''' (trout′strēm), ''n.'' A stream in which trout breed or may be taken.\n\n'''trout-tackle''' (trout′tak″l), ''n.'' Fishing-tackle specially adapted or designed for taking trout.\n\n'''trouty''' (trou′ti), ''a.'' [< ''trout''<sup>1</sup> + ''-y''<sup>1</sup>.] Abounding in trout.\n{{smaller block|Little inconsiderable rivers, as Awber, Eroways, and the like, scarce worth naming, but ''trouty'' too.\n{{right|''Cotton'', in Walton’s Angler, ii. 231.}}}}\n\n'''trouvère''' (trö-vãr′), ''n.'' [F., < ''trouver'', find: see ''troubadour''.] One of the medieval poets of northern France, whose productions partake of a narrative or epic character, and thus contrast broadly with the lyrical, amatory, and more polished effusions of the troubadours. {{smaller|The works of the trouvères include the chansons de geste, the fabliaux, poems of the Round Table cycle, the “Romance of the Rose,” “Reynard the Fox,” etc. Also ''trouveur''.}}\n{{smaller block|It is to the North of France and to the ''Trouvères'' that we are to look for the true origins of our modern literature.\n{{right|''Lowell'', Study Windows, p. 242.}}}}\n\n'''trover''' (trō′vėr), ''n.'' [< OF. ''trover'', F. ''trouver'' = Pr. ''trobar'' = Sp. Pg. ''trovar'' = It. ''trovare'', find, invent, < ML. *''tropare'', compose, sing. Cf. ''troubadour'', ''trouvère'', and ''treasure-trove''.] Properly, the finding of anything; specifically, in ''law'': (''a'') the gaining possession of personal property, whether by finding or otherwise; (''b'') a common-law action for damages for the wrongful taking or detention of goods from the possession of another. {{smaller|Originally this action was based on the finding by defendant of the plaintiff’s goods and converting them to his own use. In course of time, however, the suggestion of the finding became mere matter of form, and}}",
+   "c1s2": "{{smaller block|all that had to be proved was that the goods were the plaintiff’s and that the defendant had converted them to his own use. In this action the plaintiff could not recover the specific chattel, but only damages for its conversion. The action for such damages is now called an ''action for conversion.''}}\n\n'''trow<sup>1</sup>''' (trō), ''v. t.'' [< ME. ''trowen, trouwen, treuwen, treowen,'' < AS. ''treówian, trūwian,'' believe, trust, confide, also show to be true, justify, = OS. ''trūōn'' = OFries. ''trouwa'' = D. ''vertrouwen,'' trust (''trouwen,'' marry), = MLG. ''trūwen'' = OHG. ''triūwēn, trūwēn, trūēn,'' MHG. ''trūwen, trūen, trouwen, trowen,'' G. ''trauen,'' hope, believe, trust, = Icel. ''trūa'' = Sw. Dan. ''tro,'' believe, = Goth. ''trauan,'' believe, trust; connected with the adj. AS. ''treówe,'' etc., true, from a root (Teut. √ ''tru'') found also in ''trust'': see ''true,'' ''a.,'' ''true,'' ''n.,'' and ''trust.''] '''1†.''' To believe; trust.\n{{smaller block|<poem>Whoso wol ''trowe'' her love\nNe may offenden never more.</poem>\n{{right|''Rom. of the Rose,'' l. 3215.}}\n<poem>Then repentant they ’gan cry,\nO my heart that ''trow’d'' mine eye!</poem>\n{{right|''Greene,'' Isabel’s Ode.}}}}\n'''2.''' To think; suppose.\n{{smaller block|Thei saugh the Castell so fer fro thens that thei ''trowed'' not the sounde of the horne myght not thider ben herde.\n{{right|''Merlin'' (E. E. T. S.), iii. 605.}}\n<poem>We’ll ca’ our horse hame masterless,\nAn’ gar them ''trow'' slain men are we.</poem>\n{{right|''Battle of Bothwell Bridge'' (Child’s Ballads, VII. 150).}}\nSaid the Cardinal, I ''trow'' you are one of the King’s Privy-Chamber, your Name is Walsh.\n{{right|''Baker,'' Chronicles, p. 279.}}\nDoth he thank that servant because he did the things that were commanded him? I ''trow'' not. Luke xvii. 9.}}",
+   "c1s3": "¶\n{{smaller|'''I trow''', or '''trow''', a phrase added to questions, and expressive of contemptuous or indignant surprise: nearly equivalent to ''I wonder''.}}\n{{smaller block|What tempest, ''I trow'', threw this whale . . . ashore?\n{{right|''Shak.'', M. W. of W., ii. 1. 64.}}\n<poem>What have I done, ''trow'',\nTo bring these fears about me?</poem>\n{{right|''Beau. and Fl.'', Wit at Several Weapons, v. 2.}}\nWhat ails he, ''trow?'' {{right|''Chapman'', All Fools, iii. 1.}}}}\n\n'''trow<sup>2</sup>''' (trou), ''n.'' [A var. of ''trough.''] '''1.''' A channel or spout of wood for conveying water to a mill; a flume: sometimes used in the plural with the same sense: as, the mill-''trows''. [Scotch.]—'''2.''' A boat with an open live-well for fish; a sort of fishing-smack or lighter.\n{{smaller block|To assist and counseil theym in theire byeng and barganyng with the Bagers, such as bryngeth whete to towne, as wele in ''trowys'' as otherwyse, by lande and by watir, in kepyng downe of the market.\n{{right|''English Gilds'' (E. E. T. S.), p. 424.}}}}\n\n'''trow<sup>3</sup>''' (trou), ''n.'' Same as ''drow''3 and ''troll''2.\n\n'''trowandise†''', ''n.'' Same as ''truandise.'' ''Rom. of the Rose'', l. 3954.\n\n'''trowant†''', ''a.'' and ''n.'' A Middle English form of ''truant.''\n\n'''trowel''' (trou′el), ''n.'' [Early mod. E. ''trowell, truell''; < ME. ''truel, trulle, trowylle'', < OF. ''truelle, truele'', < L. ''trulla'', a small ladle, a dipper, dim. of ''trua'', a stirring-spoon, skimmer, ladle.] '''1.''' A tool, generally consisting of a flat long triangular, oval, or oblong blade of iron or steel, fitted",
+   "c2s1": "with a handle, used by masons, plasterers, and bricklayers for spreading and dressing mortar\n[[FIGURE]]\n{{c|{{smaller|Trowels.}}}}\n{{c|{{smaller|''a'', Lowell pattern brick-trowel; ''b'', bricklayers’ trowel; ''c'', London pattern trowel; ''d'', Philadelphia pattern brick-trowel; ''e'', ''f'', ''g'', molders’ trowels; ''h'', pointing-trowel; ''i'', plasterers’ trowel; ''j'', corner-trowel; ''k'', garden-trowels.}}}}\nand plaster, and for cutting bricks, and also by molders for smoothing the surface of the sand or loam composing the mold.\n{{smaller block|In one hand Swords, in th’ other ''Trowels'' hold.\n{{right|''Sylvester'', tr. of Du Bartas’s Weeks, ii., The Decay.}}}}\n'''2.''' A gardeners’ tool, like a small spade or scoop, used for taking up plants and for other purposes. See figs. ''k'', above.\n{{smaller block|The ''truel'' firste ful ofte it must distreyne.\n{{right|''Palladius'', Husbondrie (E. E. T. S.), p. 16.}}}}\n'''3.''' A tool used in oil-cloth manufacturing to",
+   "c2s2": "spread paint and remove what may be superfluous. It is made of steel, is 2 feet long, and very elastic, and has a handle near the broad end.—'''To lay on with a trowel''', {{smaller|to lay or spread thickly and coarsely; hence, to flatter grossly.}}\n{{smaller block|Well said: that was ''laid on with a trowel.''\n{{right|''Shak.'', As you Like it, i. 2. 112.}}}}\n\n¶\n'''trowel''' (trou′el), ''v. t.''; pret. and pp. ''troweled'', ''trowelled'', ppr. ''troweling'', ''trowelling''. [< ''trowel'', ''n.''] To dress, form, or apply with a trowel: as, ''troweled'' stucco.\n\n'''trowel-bayonet''' (trou′el-bā″ọ-net), ''n.'' See ''bayonet.''\n\n'''trowelbeak''' (trou′el-bēk), ''n.'' One of the broad-",
+   "c2s3": "throats, or birds of the family ''Eurylæmidæ;'' the ''Corydon sumatranus'' of Sumatra: so called from\n[[FIGURE]]\n{{c|{{smaller|Trowelbeak (''Corydon sumatranus''), with outline of beak from above.}}}}\nthe shape of the very broad, depressed beak, which is about as wide at the base as it is long.\n\n'''trowl†''', ''v.'' and ''n.'' An obsolete spelling of ''troll''<sup>1</sup>.\n\n'''trowsed†''', ''a.'' See ''troused.''\n\n'''trowsering†''', ''n.'' An obsolete spelling of ''trousering.''\n\n'''trowsers†''', '''trowzers†''', ''n. pl.'' Obsolete spellings of ''trousers.''",
+   "c2s4": "¶\n'''Trox''' (troks), ''n.'' [NL. (Fabricius, 1792), < Gr. τρώξ, a weevil, lit. ‘a gnawer,’ < τρώγειν, gnaw.] A curious genus of laparostict scarabæid beetles, having five ventral segments visible and the\n[[FIGURE]]\n{{c|{{smaller|''Trox monachus.''<br>{{smaller|''a'', larva; ''b'', pupa; ''c'', beetle; ''d'', ''e'', ''f'', leg, cervical plate, and maxilla (with palpi) of larva, enlarged.}}}}}}",
+   "c3s1": "epimera of the mesothorax not reaching the rounded coxæ. {{smaller|They are oval dark-colored beetles, usually with a rough surface. They feed upon decomposing animal matter, and many species are found about the refuse of tanneries and upon the hoofs and hair of decaying animals. About 100 species are known, of which about 20 are found in the United States, as ''T. monachus.''}}\n\n'''troy''' (troi), ''n.'' Short for ''troy weight.''\n\n'''troy weight''' (troi wāt). [Early mod. E. also ''Troie weight'', earlier ''weight of Troy'' (''weyght of Troyes'', Arnold’s Chron., p. 108): so called with ref. to ''Troyes'', a town in France, southeast of Paris, of considerable importance in the fourteenth century. Nearly all the principal towns or seats of commerce in the middle ages had their own weights and measures, the pound, foot, gallon, etc., varying from one town to another, sometimes even from one quarter to another. The pound of Troyes in the early part of the fourteenth century was adopted to some extent in other places and in England, but was then specifically designated as “of Troyes” (E. ''of Troy''). Later, ''troy weight'' losing recognized connection with a locality, the first element became a mere attributive, and the phrase was thus generally reduced to ''troy''.] A weight chiefly used in weighing bread, silk, gold, silver, and articles of jewelry, but now only for gold and silver. {{smaller|It was brought into England in the latter part of the reign of Edward III., and was adopted for the coinage in 1527. The table of troy weight is as follows:}}\n{|\n!Pound.!!!!Ounces.!!!!Pennyweights.!!!!Grains.\n|-\n|{{Ts|ac}}|1||=||{{Ts|ac}}|12||=||{{Ts|ac}}|240||=||{{Ts|ar}}|5,760\n|-\n| || ||{{Ts|ac}}|1||=||{{Ts|ac}}|20||=||{{Ts|ar}}|480\n|-\n| || || || ||{{Ts|ac}}|1||=||{{Ts|ar}}|24\n|}",
+   "c3s2": "{{smaller|The pound avoirdupois is equal to 7,000 grains troy. See ''avoirdupois'' and ''weight.''}}\n{{smaller block|Item, to do make me vj. sponys, of viij. ounce of ''troy-wyght,'' well facyond and dubbyl gylt.\n{{right|''Paston Letters,'' I. 422.}}}}\n\n'''tru†,''' ''n.'' See ''true.''\n\n'''truage†''' (trö′āj), ''n.'' See ''trewage.''\n\n'''truancy''' (trö′an-si), ''n.'' [< ''truan''(''t'') + ''-cy.''] Truant conduct; the habit or practice of playing truant.\n{{smaller block|I had many flattering reproaches for my late ''truancy'' from these parties. {{right|''Mme. D’Arblay,'' Diary, I. 563.}}}}\n'''Agent of truancy.''' {{smaller|See ''agent.''}}\n\n'''truand†, truanding†.''' Old spellings of ''truant, truanting.''\n\n'''truandise†,''' ''n.'' [ME., also ''truaundise, truwandise, trowandise, trowantyse,'' < OF. ''truandise,'' < ''truand,'' vagabond: see ''truant.''] A vagrant life with begging. ''Rom. of the Rose,'' l. 6664.\n\n'''truant''' (trö′ant), ''n.'' and ''a.'' [Formerly also ''trivant;'' < ME. ''truant, truaunt, truand, trewande, truont, trowant'' (= MD. ''trouwant, trawant, truwant''), < OF. ''truand, truant,'' a vagabond, beggar, rogue; also adj. ''truand,'' beggarly, roguish; = Pr. ''truan'' (''truanda,'' fem.), a vagabond, = Sp. ''truhan'' = Pg. ''truão'' (ML. reflex ''truannus, trudanus, trutanus, trutannus''), a buffoon, jester; prob. < Bret. *''truan,'' later (after F.) ''truant,'' vagabond (cf. ''truek,'' a wretch, ''truez,'' pity, etc.), = W. ''truan,'' wretched, ''truan,'' a wretch (cf. ''tru,'' wretched), etc.] '''I.''' ''n.'' '''1†.''' A vagabond; a vagrant; an idler.",
+   "c3s3": "{{smaller block|All thynges at this day faileth at Rome, except all onely these ydell ''trewandes'', iestours, tumblers, plaiers, . . . iuglers, and such other, of whom there is inow and to many.\n{{right|''Golden Book'', xii.}}}}\n'''2.''' One who shirks or neglects duty; especially, a child who stays away from school without leave.\n{{smaller block|I have a ''truant'' been to chivalry.\n{{right|''Shak.'', 1 Hen. IV., v. 1. 94.}}}}\n{{smaller|'''To play truant''', to stay from school without leave.—'''Truant-school''', a certified industrial school to which in Great Britain children who habitually absent themselves from school without leave, or who frequent the company of rogues or criminals, are committed by order of a magistrate, under the provisions of the Elementary Education Act, 1876.}}\n\n'''II.''' ''a.'' '''1.''' Idle; loitering; given to shirking duty or business, or attendance at some appointed time or place: especially noting children who absent themselves from school without leave.\n{{smaller block|<poem>A ''truant'' boy I pass’d my bounds,\nT’ enjoy a ramble on the banks of Thames.</poem>\n{{right|''Cowper'', Task, i. 114.}}}}\n'''2.''' Characteristic of a truant; idle; loitering; wandering.\n{{smaller block|''Ham.'' But what, in faith, make you from Wittenberg?\n''Hor.'' A ''truant'' disposition, good my lord.\n{{right|''Shak.'', Hamlet, i. 2. 169.}}\nTo lag behind with ''truant'' pace.\n{{right|''Dryden'', tr. of Virgil’s Georgics, iii. 708.}}}}\n\n'''truant''' (trö′ant), ''v.'' [< ME. ''truanten'', ''trowanten'', ''truanden'', < OF. ''truander'', play the truant, < ''truand'', truant: see ''truant'', ''n.''] '''I.''' ''intrans.'' To idle away time or shirk duty; play truant."
+  },
+  "figure_files": {
+   "c2f1": "century v08 p0308 c2f1.png",
+   "c2f2": "century v08 p0308 c2f2.png",
+   "c2f3": "century v08 p0308 c2f3.png"
+  },
+  "figures": [
+   {
+    "box": [
+     845,
+     175,
+     1542,
+     632
+    ],
+    "caption": [
+     843,
+     642,
+     1553,
+     750
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     849,
+     159,
+     1556,
+     659
+    ]
+   },
+   {
+    "box": [
+     875,
+     1674,
+     1497,
+     2352
+    ],
+    "caption": [
+     893,
+     2358,
+     1491,
+     2402
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     924,
+     1662,
+     1529,
+     2347
+    ]
+   },
+   {
+    "box": [
+     890,
+     2836,
+     1497,
+     3114
+    ],
+    "caption": [
+     883,
+     3118,
+     1503,
+     3190
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     884,
+     2860,
+     1410,
+     3116
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    3,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 4,
+    "input_tokens": 16,
+    "output_tokens": 263,
+    "cache_creation_input_tokens": 6863,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 10138,
+    "output_tokens": 8136,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|trout-stream|6504|truant}}</noinclude>{{RunningHeader|trout-stream||}}\n'''trout-stream''' (trout′strēm), ''n.'' A stream in which trout breed or may be taken.\n\n'''trout-tackle''' (trout′tak″l), ''n.'' Fishing-tackle specially adapted or designed for taking trout.\n\n'''trouty''' (trou′ti), ''a.'' [< ''trout''<sup>1</sup> + ''-y''<sup>1</sup>.] Abounding in trout.\n{{smaller block|Little inconsiderable rivers, as Awber, Eroways, and the like, scarce worth naming, but ''trouty'' too.\n{{right|''Cotton'', in Walton’s Angler, ii. 231.}}}}\n\n'''trouvère''' (trö-vãr′), ''n.'' [F., < ''trouver'', find: see ''troubadour''.] One of the medieval poets of northern France, whose productions partake of a narrative or epic character, and thus contrast broadly with the lyrical, amatory, and more polished effusions of the troubadours. {{smaller|The works of the trouvères include the chansons de geste, the fabliaux, poems of the Round Table cycle, the “Romance of the Rose,” “Reynard the Fox,” etc. Also ''trouveur''.}}\n{{smaller block|It is to the North of France and to the ''Trouvères'' that we are to look for the true origins of our modern literature.\n{{right|''Lowell'', Study Windows, p. 242.}}}}\n\n'''trover''' (trō′vėr), ''n.'' [< OF. ''trover'', F. ''trouver'' = Pr. ''trobar'' = Sp. Pg. ''trovar'' = It. ''trovare'', find, invent, < ML. *''tropare'', compose, sing. Cf. ''troubadour'', ''trouvère'', and ''treasure-trove''.] Properly, the finding of anything; specifically, in ''law'': (''a'') the gaining possession of personal property, whether by finding or otherwise; (''b'') a common-law action for damages for the wrongful taking or detention of goods from the possession of another. {{smaller|Originally this action was based on the finding by defendant of the plaintiff’s goods and converting them to his own use. In course of time, however, the suggestion of the finding became mere matter of form, and all that had to be proved was that the goods were the plaintiff’s and that the defendant had converted them to his own use. In this action the plaintiff could not recover the specific chattel, but only damages for its conversion. The action for such damages is now called an ''action for conversion.''}}\n\n'''trow<sup>1</sup>''' (trō), ''v. t.'' [< ME. ''trowen, trouwen, treuwen, treowen,'' < AS. ''treówian, trūwian,'' believe, trust, confide, also show to be true, justify, = OS. ''trūōn'' = OFries. ''trouwa'' = D. ''vertrouwen,'' trust (''trouwen,'' marry), = MLG. ''trūwen'' = OHG. ''triūwēn, trūwēn, trūēn,'' MHG. ''trūwen, trūen, trouwen, trowen,'' G. ''trauen,'' hope, believe, trust, = Icel. ''trūa'' = Sw. Dan. ''tro,'' believe, = Goth. ''trauan,'' believe, trust; connected with the adj. AS. ''treówe,'' etc., true, from a root (Teut. √ ''tru'') found also in ''trust'': see ''true,'' ''a.,'' ''true,'' ''n.,'' and ''trust.''] '''1†.''' To believe; trust.\n{{smaller block|<poem>Whoso wol ''trowe'' her love\nNe may offenden never more.</poem>\n{{right|''Rom. of the Rose,'' l. 3215.}}\n<poem>Then repentant they ’gan cry,\nO my heart that ''trow’d'' mine eye!</poem>\n{{right|''Greene,'' Isabel’s Ode.}}}}\n'''2.''' To think; suppose.\n{{smaller block|Thei saugh the Castell so fer fro thens that thei ''trowed'' not the sounde of the horne myght not thider ben herde.\n{{right|''Merlin'' (E. E. T. S.), iii. 605.}}\n<poem>We’ll ca’ our horse hame masterless,\nAn’ gar them ''trow'' slain men are we.</poem>\n{{right|''Battle of Bothwell Bridge'' (Child’s Ballads, VII. 150).}}\nSaid the Cardinal, I ''trow'' you are one of the King’s Privy-Chamber, your Name is Walsh.\n{{right|''Baker,'' Chronicles, p. 279.}}\nDoth he thank that servant because he did the things that were commanded him? I ''trow'' not. Luke xvii. 9.}}\n\n{{smaller|'''I trow''', or '''trow''', a phrase added to questions, and expressive of contemptuous or indignant surprise: nearly equivalent to ''I wonder''.}}\n{{smaller block|What tempest, ''I trow'', threw this whale . . . ashore?\n{{right|''Shak.'', M. W. of W., ii. 1. 64.}}\n<poem>What have I done, ''trow'',\nTo bring these fears about me?</poem>\n{{right|''Beau. and Fl.'', Wit at Several Weapons, v. 2.}}\nWhat ails he, ''trow?'' {{right|''Chapman'', All Fools, iii. 1.}}}}\n\n'''trow<sup>2</sup>''' (trou), ''n.'' [A var. of ''trough.''] '''1.''' A channel or spout of wood for conveying water to a mill; a flume: sometimes used in the plural with the same sense: as, the mill-''trows''. [Scotch.]—'''2.''' A boat with an open live-well for fish; a sort of fishing-smack or lighter.\n{{smaller block|To assist and counseil theym in theire byeng and barganyng with the Bagers, such as bryngeth whete to towne, as wele in ''trowys'' as otherwyse, by lande and by watir, in kepyng downe of the market.\n{{right|''English Gilds'' (E. E. T. S.), p. 424.}}}}\n\n'''trow<sup>3</sup>''' (trou), ''n.'' Same as ''drow''3 and ''troll''2.\n\n'''trowandise†''', ''n.'' Same as ''truandise.'' ''Rom. of the Rose'', l. 3954.\n\n'''trowant†''', ''a.'' and ''n.'' A Middle English form of ''truant.''\n\n'''trowel''' (trou′el), ''n.'' [Early mod. E. ''trowell, truell''; < ME. ''truel, trulle, trowylle'', < OF. ''truelle, truele'', < L. ''trulla'', a small ladle, a dipper, dim. of ''trua'', a stirring-spoon, skimmer, ladle.] '''1.''' A tool, generally consisting of a flat long triangular, oval, or oblong blade of iron or steel, fitted with a handle, used by masons, plasterers, and bricklayers for spreading and dressing mortar\nand plaster, and for cutting bricks, and also by molders for smoothing the surface of the sand or loam composing the mold.\n{{smaller block|In one hand Swords, in th’ other ''Trowels'' hold.\n{{right|''Sylvester'', tr. of Du Bartas’s Weeks, ii., The Decay.}}}}\n'''2.''' A gardeners’ tool, like a small spade or scoop, used for taking up plants and for other purposes. See figs. ''k'', above.\n{{smaller block|The ''truel'' firste ful ofte it must distreyne.\n{{right|''Palladius'', Husbondrie (E. E. T. S.), p. 16.}}}}\n'''3.''' A tool used in oil-cloth manufacturing to spread paint and remove what may be superfluous. It is made of steel, is 2 feet long, and very elastic, and has a handle near the broad end.—'''To lay on with a trowel''', {{smaller|to lay or spread thickly and coarsely; hence, to flatter grossly.}}\n{{smaller block|Well said: that was ''laid on with a trowel.''\n{{right|''Shak.'', As you Like it, i. 2. 112.}}}}\n\n[[File:century v08 p0308 c2f1.png|center|178px]]\n{{c|{{smaller|Trowels.}}}}\n{{c|{{smaller|''a'', Lowell pattern brick-trowel; ''b'', bricklayers’ trowel; ''c'', London pattern trowel; ''d'', Philadelphia pattern brick-trowel; ''e'', ''f'', ''g'', molders’ trowels; ''h'', pointing-trowel; ''i'', plasterers’ trowel; ''j'', corner-trowel; ''k'', garden-trowels.}}}}\n\n'''trowel''' (trou′el), ''v. t.''; pret. and pp. ''troweled'', ''trowelled'', ppr. ''troweling'', ''trowelling''. [< ''trowel'', ''n.''] To dress, form, or apply with a trowel: as, ''troweled'' stucco.\n\n'''trowel-bayonet''' (trou′el-bā″ọ-net), ''n.'' See ''bayonet.''\n\n'''trowelbeak''' (trou′el-bēk), ''n.'' One of the broadthroats, or birds of the family ''Eurylæmidæ;'' the ''Corydon sumatranus'' of Sumatra: so called from\nthe shape of the very broad, depressed beak, which is about as wide at the base as it is long.\n\n[[File:century v08 p0308 c2f2.png|center|159px]]\n{{c|{{smaller|Trowelbeak (''Corydon sumatranus''), with outline of beak from above.}}}}\n\n'''trowl†''', ''v.'' and ''n.'' An obsolete spelling of ''troll''<sup>1</sup>.\n\n'''trowsed†''', ''a.'' See ''troused.''\n\n'''trowsering†''', ''n.'' An obsolete spelling of ''trousering.''\n\n'''trowsers†''', '''trowzers†''', ''n. pl.'' Obsolete spellings of ''trousers.''\n\n'''Trox''' (troks), ''n.'' [NL. (Fabricius, 1792), < Gr. τρώξ, a weevil, lit. ‘a gnawer,’ < τρώγειν, gnaw.] A curious genus of laparostict scarabæid beetles, having five ventral segments visible and the epimera of the mesothorax not reaching the rounded coxæ. {{smaller|They are oval dark-colored beetles, usually with a rough surface. They feed upon decomposing animal matter, and many species are found about the refuse of tanneries and upon the hoofs and hair of decaying animals. About 100 species are known, of which about 20 are found in the United States, as ''T. monachus.''}}\n\n[[File:century v08 p0308 c2f3.png|center|155px]]\n{{c|{{smaller|''Trox monachus.''<br>{{smaller|''a'', larva; ''b'', pupa; ''c'', beetle; ''d'', ''e'', ''f'', leg, cervical plate, and maxilla (with palpi) of larva, enlarged.}}}}}}\n\n'''troy''' (troi), ''n.'' Short for ''troy weight.''\n\n'''troy weight''' (troi wāt). [Early mod. E. also ''Troie weight'', earlier ''weight of Troy'' (''weyght of Troyes'', Arnold’s Chron., p. 108): so called with ref. to ''Troyes'', a town in France, southeast of Paris, of considerable importance in the fourteenth century. Nearly all the principal towns or seats of commerce in the middle ages had their own weights and measures, the pound, foot, gallon, etc., varying from one town to another, sometimes even from one quarter to another. The pound of Troyes in the early part of the fourteenth century was adopted to some extent in other places and in England, but was then specifically designated as “of Troyes” (E. ''of Troy''). Later, ''troy weight'' losing recognized connection with a locality, the first element became a mere attributive, and the phrase was thus generally reduced to ''troy''.] A weight chiefly used in weighing bread, silk, gold, silver, and articles of jewelry, but now only for gold and silver. {{smaller|It was brought into England in the latter part of the reign of Edward III., and was adopted for the coinage in 1527. The table of troy weight is as follows:}}\n{| style=\"margin:auto\"\n!Pound.!!!!Ounces.!!!!Pennyweights.!!!!Grains.\n|-\n|{{Ts|ac}}|1||=||{{Ts|ac}}|12||=||{{Ts|ac}}|240||=||{{Ts|ar}}|5,760\n|-\n| || ||{{Ts|ac}}|1||=||{{Ts|ac}}|20||=||{{Ts|ar}}|480\n|-\n| || || || ||{{Ts|ac}}|1||=||{{Ts|ar}}|24\n|}\n{{smaller|The pound avoirdupois is equal to 7,000 grains troy. See ''avoirdupois'' and ''weight.''}}\n{{smaller block|Item, to do make me vj. sponys, of viij. ounce of ''troy-wyght,'' well facyond and dubbyl gylt.\n{{right|''Paston Letters,'' I. 422.}}}}\n\n'''tru†,''' ''n.'' See ''true.''\n\n'''truage†''' (trö′āj), ''n.'' See ''trewage.''\n\n'''truancy''' (trö′an-si), ''n.'' [< ''truan''(''t'') + ''-cy.''] Truant conduct; the habit or practice of playing truant.\n{{smaller block|I had many flattering reproaches for my late ''truancy'' from these parties. {{right|''Mme. D’Arblay,'' Diary, I. 563.}}}}\n'''Agent of truancy.''' {{smaller|See ''agent.''}}\n\n'''truand†, truanding†.''' Old spellings of ''truant, truanting.''\n\n'''truandise†,''' ''n.'' [ME., also ''truaundise, truwandise, trowandise, trowantyse,'' < OF. ''truandise,'' < ''truand,'' vagabond: see ''truant.''] A vagrant life with begging. ''Rom. of the Rose,'' l. 6664.\n\n'''truant''' (trö′ant), ''n.'' and ''a.'' [Formerly also ''trivant;'' < ME. ''truant, truaunt, truand, trewande, truont, trowant'' (= MD. ''trouwant, trawant, truwant''), < OF. ''truand, truant,'' a vagabond, beggar, rogue; also adj. ''truand,'' beggarly, roguish; = Pr. ''truan'' (''truanda,'' fem.), a vagabond, = Sp. ''truhan'' = Pg. ''truão'' (ML. reflex ''truannus, trudanus, trutanus, trutannus''), a buffoon, jester; prob. < Bret. *''truan,'' later (after F.) ''truant,'' vagabond (cf. ''truek,'' a wretch, ''truez,'' pity, etc.), = W. ''truan,'' wretched, ''truan,'' a wretch (cf. ''tru,'' wretched), etc.] '''I.''' ''n.'' '''1†.''' A vagabond; a vagrant; an idler. {{smaller block|All thynges at this day faileth at Rome, except all onely these ydell ''trewandes'', iestours, tumblers, plaiers, . . . iuglers, and such other, of whom there is inow and to many.\n{{right|''Golden Book'', xii.}}}}\n'''2.''' One who shirks or neglects duty; especially, a child who stays away from school without leave.\n{{smaller block|I have a ''truant'' been to chivalry.\n{{right|''Shak.'', 1 Hen. IV., v. 1. 94.}}}}\n{{smaller|'''To play truant''', to stay from school without leave.—'''Truant-school''', a certified industrial school to which in Great Britain children who habitually absent themselves from school without leave, or who frequent the company of rogues or criminals, are committed by order of a magistrate, under the provisions of the Elementary Education Act, 1876.}}\n\n'''II.''' ''a.'' '''1.''' Idle; loitering; given to shirking duty or business, or attendance at some appointed time or place: especially noting children who absent themselves from school without leave.\n{{smaller block|<poem>A ''truant'' boy I pass’d my bounds,\nT’ enjoy a ramble on the banks of Thames.</poem>\n{{right|''Cowper'', Task, i. 114.}}}}\n'''2.''' Characteristic of a truant; idle; loitering; wandering.\n{{smaller block|''Ham.'' But what, in faith, make you from Wittenberg?\n''Hor.'' A ''truant'' disposition, good my lord.\n{{right|''Shak.'', Hamlet, i. 2. 169.}}\nTo lag behind with ''truant'' pace.\n{{right|''Dryden'', tr. of Virgil’s Georgics, iii. 708.}}}}\n\n'''truant''' (trö′ant), ''v.'' [< ME. ''truanten'', ''trowanten'', ''truanden'', < OF. ''truander'', play the truant, < ''truand'', truant: see ''truant'', ''n.''] '''I.''' ''intrans.'' To idle away time or shirk duty; play truant.<noinclude><references/></noinclude>"
+}

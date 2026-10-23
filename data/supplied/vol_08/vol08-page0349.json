@@ -1,0 +1,333 @@
+{
+ "volume": 8,
+ "page_number": 349,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n348.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n348.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-22",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 853,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     0,
+     2313,
+     154
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     154,
+     862,
+     1214
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1214,
+     862,
+     2277
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     166,
+     1260,
+     769,
+     1769
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2277,
+     862,
+     3266
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     862,
+     154,
+     1595,
+     1217
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     895,
+     459,
+     1539,
+     1029
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     862,
+     1217,
+     1595,
+     2314
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     862,
+     2314,
+     1595,
+     3266
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1595,
+     154,
+     2313,
+     1215
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1842,
+     243,
+     2313,
+     1012
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1595,
+     1215,
+     2313,
+     1811
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1595,
+     1811,
+     2313,
+     2908
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1660,
+     2394,
+     2255,
+     2818
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1595,
+     2908,
+     2313,
+     3266
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|turtle|6545|tusk}}",
+   "c1s1": "by a whimsical association with ''turtle''<sup>1</sup>. The application to the smaller land-tortoises seems to be later.] '''1.''' A tortoise; any chelonian or testudinate; any member of the ''Chelonia'' or ''Testudinata'' (see the technical names); especially, a marine tortoise, provided with flippers; absolutely, the green turtle, as ''Chelonia midas'' (see cut below), highly esteemed for soup. See cuts referred to under ''tortoise'', also cuts under ''Aspidonectes'', ''Eretmochelys'', ''periotic'', ''Pleurospondylia'', ''slider'', and ''stinkpot''.\n{{smaller block|The tortoise, which they call ''turtle'', eats like veal.\n{{right|''S. Clarke'', Four Plantations in America (1670), p. 21.}}\nA ''turtle''—which means a tortoise—is fond of his shell.\n{{right|''O. W. Holmes'', Professor, ii.}}}}\n'''2.''' The detachable segment of the cylinder of a rotary printing-machine which contains the types or plates to be printed: so called from its curved surface. {{smaller|In practice, the turtle is removed from the machine to the type-setting room. The types are made up on the curved surface, and firmly held in place by rebated column-rules, thicker at the top than at the bottom, and firmly grooved in the turtle. When the types have been locked up by screws on the turtle, they can be placed on the machine for printing without risk of falling out, or they can be molded in thin curved form by the papier-mâché process, and the curved plate made therefrom can be used in printing. The stereotype method is preferred.—'''Bastard turtle''', ''Thalassochelys kempi.''—'''Box-turtle.''' See ''box-tortoise'', ''Cistudo'', ''cooter'', ''Pyxis.''—'''Chicken-turtle.''' Same as ''chicken-tortoise.'' [Southern U. S.]—'''Diamond-backed turtle.''' See ''diamond-backed.''—'''Greaved turtle''', a tortoise of the genus ''Podocnemis'', as ''P. expansa.''—'''Green turtle''', one of several species of turtles, belonging to the natural order ''Chelonia'', family ''Cheloniidæ'', and genus ''Chelonia'' (which see for the technical zoölogical characters). They are all marine, and feed al-}}",
+   "c1s2": "most exclusively on algæ or seaweeds. The common species\n[[FIGURE]]\n{{c|{{smaller|Green Turtle (''Chelonia midas'').}}}}\nof the West Indies is ''Chelonia midas;'' that of Pacific waters is ''C. virgata.'' The former comes on the coast of the United States, from the Gulf of Mexico northward, occasionally even to Long Island Sound or even on the New England fishing-banks. It attains great size, individuals having been taken weighing from 600 to 800 pounds. It lives chiefly in deep water, but also seeks the mouths of rivers and estuaries. It breeds from April till July, and in April, and especially in May, large numbers come ashore to lay their eggs, which are much esteemed and eagerly sought for. The animal itself is celebrated as the source of real-turtle soup. The Pacific species ranges along the whole southern coast of California, and is regularly taken to the San Francisco markets.—'''Hawk-billed''' or '''hawk’s-bill turtle,''' a marine turtle, the caret, ''Eretmochelys imbricata,'' the source of commercial tortoise-shell. See cut under ''Eretmochelys.''—'''Loggerhead turtle.''' See ''loggerhead,'' 4. —'''Mock turtle.''' See ''mock''<sup>1</sup>.—'''Painted turtle.''' Same",
+   "c1s3": "{{smaller|as ''painted terrapin'' (which see, under ''terrapin'').—'''Soft-shelled''' or '''soft turtle.''' See ''soft-shelled, Trionychidæ'', and cut under ''Aspidonectes''.—'''To turn turtle,''' to capsize: said of a vessel. [Naut. slang.] (See also ''alligator-turtle, land-turtle, mud-turtle, sea-turtle''<sup>2</sup>, ''snapping-turtle''.)}}\n\n'''turtle<sup>2</sup>''' (tėr′tl), ''v. i.''; pret. and pp. ''turtled'', ppr. ''turtling''. [< ''turtle''<sup>2</sup>, ''n.''] To pursue or capture turtles; make a practice or business of taking turtles.\n{{smaller block|When going on a ''turtling'' excursion a gaper is caught, and the more experienced natives have no great difficulty in procuring one when required.\n{{right|''Anthrop. Jour.'', XIX. 349.}}}}\n\n'''turtleback''' (tėr′tl-bak), ''n.'' '''1.''' A West Indian helmet-shell, ''Cassis tuberosa''. ''Imp. Dict.''—'''2.''' Something having the shape of a turtle’s back. {{smaller|(''a'') A rude stone implement, of a shape suggesting the name, by some supposed to represent a failure to chip out a more elaborate or perfect form.}}\n{{smaller block|The familiar ''turtle-back'' or one-faced stone, the double ''turtle-back'' or two-faced stone, together with all similar rude shapes.\n{{right|''W. H. Holmes'', Amer. Anthrop., Jan., 1890, p. 13.}}}}\n{{smaller|(''b'') An arched protection erected over the upper deck of a steamer at the bow, and often at the stern also, to guard against damage from the breaking on board of heavy seas; a whaleback.}}\n\n'''turtle-cowry''' (tėr′tl-kou″ri), ''n.'' A large handsome cowry, ''Cypræa testudinaria''.\n\n'''turtle-crawl''' (tėr′tl-krâl), ''n.'' '''1.''' The track of a turtle to and from its nest.—'''2.''' A pen constructed in the water for confining turtles. [Florida.]\n\n411",
+   "c2s1": "¶\n'''turtle-deck''' (tėr′tl-dek), ''n.'' See ''deck'', 2.\n\n'''turtle-dove''' (tėr′tl-duv), ''n.'' [< ME. ''turteldoufe'' = D. ''tortelduif'' = OHG. ''turtulatūbā'', ''turtiltūbā'', MHG. ''turteltūbe'', ''türteltūbe'', G. ''turteltaube'' = Dan. ''turteldue'' = Sw. ''turturdufva''; as ''turtle''<sup>1</sup> + ''dove''<sup>1</sup>.] '''1.''' The turtle; any member of the genus ''Turtur'' in a broad sense; specifically, ''T. vulgaris'', a dove native in the British Islands\n[[FIGURE]]\n{{c|{{smaller|Turtle-dove (''Turtur vulgaris'').}}}}\nand other parts of Europe, and thence extending into Africa and Asia. {{smaller|There are many others, of most parts of the Old World, as the Cambayan, ''T. senegalensis''; among them is ''T. risorius'', commonly seen in captivity and called ''ring-dove''.}}",
+   "c2s2": "'''2.''' The common Carolina dove or pigeon, ''Zenaidura carolinensis.'' Also called ''mourning-dove.'' See cut under ''dove.'' [Local, U. S.]—'''3.''' The Australian dove ''Stictopelia cuneata.'' [Local.]\n\n¶\n'''turtle-egging''' (tėr′tl-eg″ing), ''n.'' The act or industry of taking turtles’ eggs. {{smaller|The turtle digs a hole in the sand, in which the eggs are deposited and then covered over. To ascertain where the nest is located a sharp stick or iron rod is used to prod the ground.}}\n\n'''turtle-footed''' (tėr′tl-fu̇t″ed), ''a.'' Slow-footed.\n{{smaller block|''Turtle-footed'' peace. {{right|''Ford.'' (''Imp. Dict.'')}}}}\n\n'''turtle-grass''' (tėr′tl-gras), ''n.'' See ''Thalassia.''\n\n'''turtle-head''' (tėr′tl-hed), ''n.'' See ''Chelone'', 2.\n\n'''turtle-peg''' (tėr′tl-peg), ''n.'' The spear or harpoon used in striking turtles; a peg. {{smaller|It is a small sharp piece of iron, made fast to a cord, and mounted on a long shaft. The turtle is pegged by a thrust into the shell, where the head of the spear is held firmly; the staff is then withdrawn, and the turtle is brought in by the cord. [Florida.]}}\n\n'''turtler''' (tėr′tlėr), ''n.'' [< ''turtle''<sup>2</sup> + ''-er''<sup>1</sup>.] One who makes a business of hunting for turtles or their eggs.\n\n'''turtle-run''' (tėr′tl-run), ''n.'' A turtle-crawl. [Florida.]\n\n'''turtle-shell''' (tėr′tl-shel), ''n.'' '''1.''' Tortoise-shell; especially, the darker and less richly mottled tortoise-shell used for inlaying in wood, etc.—'''2.''' In ''conch.'', the turtle-cowry.\n\n'''turtle-soup''' (tėr′tl-söp′), ''n.'' A rich soup the chief ingredient of which is turtle-meat.—{{smaller|'''Mock-turtle soup.''' See ''mock-turtle.''}}\n\n'''turtle-stone''' (tėr′tl-stōn), ''n.'' In ''geol.'', a septarium.\n\n'''turtling''' (tėr′tling), ''n.'' [Verbal n. of ''turtle''<sup>2</sup>, ''v.''] The act or method of catching turtles; the busi-",
+   "c2s3": "ness of a turtler.\n\n'''turtosa''' (tėr-tō′sä), ''n.'' The African teak or oak, ''Oldfieldia Africana.''\n\n'''turtour†''', ''n.'' [ME., also ''tortor'' (also ''turtre'', < OF. ''turtre''), < L. ''turtur'', a turtle: see ''turtle''<sup>1</sup>.] A turtle-dove.\n{{smaller block|Oon litel and obscure,<br>With whete and mylde in that thi ''turtours'' fede.\n{{right|''Palladius'', Husbondrie (E. E. T. S.), p. 21.}}}}\n\n'''Turtur''' (tėr′tėr), ''n.'' [NL., < L. ''turtur'', a turtle: see ''turtle''<sup>1</sup>.] A genus of doves, based by Selby in 1835 upon the common turtle of Europe, ''Columba turtur'' of Linnæus, now called ''Turtur communis, vulgaris'', or ''auritus.'' (See cut under ''turtle-dove.'') There are many other Old World species, among them ''T. risorius'', probably the turtle of Scripture.\n\n'''turves''', ''n.'' An obsolescent plural of ''turf''<sup>1</sup>.\n\n'''turvy-topsy†''', ''adv.'' Same as ''topsyturvy.'' Cited by ''F. Hall'', The Nation, March 28, 1889, p. 268.\n\n'''turwar''' (tur′wär), ''n.'' [E. Ind.] The tanning-bark obtained in India from ''Cassia auriculata.''\n\n'''Tuscan''' (tus′kan), ''a.'' and ''n.'' [= F. ''Toscan'', < It. ''Toscano'', < L. ''Tuscanus'', < ''Tuscus'', ''Thuscus'', Tuscan. Cf. ''Etruscan.''] '''I.''' ''a.'' Pertaining to Tuscany, a former grand duchy, now a compartimento of the present kingdom of Italy, corresponding generally to the ancient Etruria.—{{smaller|'''Tuscan order''', one of the five orders of architecture, according to Vitruvius and Palladio. It admits of no or-}}",
+   "c3s1": "{{smaller|naments, presents the lack of refinement of the other Roman orders, and the columns are never fluted. It differs}}\n[[FIGURE]]\n{{c|{{smaller|Tuscan Order, after Vignola.}}}}\n{{smaller|so little, however, from the Roman Doric that it is generally regarded as being only a variety of the latter. See ''Doric.'' — '''Tuscan straw,''' plaited straw of fine yellow color, used for making hats and fine mats and baskets.}}\n\n'''II.''' ''n.'' '''1.''' An inhabitant of Tuscany.—'''2.''' In ''arch.'', the Tuscan order.\n\n'''tush<sup>1</sup>''' (tush), ''n.'' [< ME. ''tusch'', ''tosch''; an assibilated form of ''tusk''<sup>1</sup>.] A long pointed tooth; a tusk; specifically, one of the four canine teeth of the horse.\n{{smaller block|That great wolf [Gardiner], . . . whose teeth are like to the venomous ''toshes'' of the ramping lion.\n{{right|''Becon'', Works (Parker Soc.), III. 237.}}\nAnd whom he strikes his crooked ''tushes'' slay.\n{{right|''Shak.'', Venus and Adonis, l. 624.}}}}",
+   "c3s2": "¶\n'''tush'''<sup>2</sup> (tush), ''interj.'' [Formerly also ''twish''; cf. ''tut'' and ''pish.''] An exclamation expressing rebuke, impatience, or contempt, and equivalent to ‘pshaw! be silent’: as, ''tush! tush!'' never tell me such a story as that.\n{{smaller block|There is a cholerike or disdainfull interiection vsed in the Irish language called Boagh, which is as much in English as ''twish.''\n{{right|''Stanihurst,'' Descrip. of Ireland, i. (Holinshed’s Chron., I.).}}\n''Tush,'' man; in this topsy-turvy world friendship and bosom-kindness are but made covers for mischief, means to compass ill.\n{{right|''Chapman,'' Widow’s Tears, v.}}}}\n\n'''tush'''<sup>2</sup> (tush), ''v. i.'' [< ''tush''<sup>2</sup>, ''interj.''] To express impatience, contempt, or the like by the exclamation “Tush!”\n{{smaller block|Cedric ''tushed'' and pshawed more than once at the message.\n{{right|''Scott,'' Ivanhoe, xliv.}}}}\n\n'''tushed''' (tusht), ''a.'' [< ''tush''<sup>1</sup> + ''-ed''<sup>2</sup>.] Having tushes; tusked.",
+   "c3s3": "¶\n'''tusk'''<sup>1</sup> (tusk), ''n.'' [< ME. ''tusk'', also transposed ''tux'' (also assibilated ''tusch'', ''tosch'': see ''tush''<sup>1</sup>), < AS. ''tusc'', also transposed ''tux'' = OFries. ''tusk'', ''tusch'' = Icel. ''toskr'' (cf. Gael. ''tosg'', < E.), a tusk, tooth; prob., with orig. adj. formative ''-k'' or ''-sk'' (as in AS. ''-isc'', E. ''-ish''<sup>1</sup>), from the orig. form of ''tooth'' (AS. ''tōth'', Goth. ''tunthus'', etc.), the radical ''th'' + ''k'' or ''th'' + ''sk'' reducing to ''sk'', as ''th'' + ''t'' or ''th'' + ''st'' reduces to ''st''. The supposition that AS. ''tusc'' is a contr. of *''twisc'', < ''twi-'', two, though phonetically tenable (cf. ''tuskar'', ''twiscar''), does not meet the sense.] '''1.''' A long pointed tooth; especially, a tooth long enough to protrude from the lips when the mouth is closed. {{smaller|Tusks are extremely prominent in some animals, as elephants, mastodons, and other proboscideans; the narwhal among cetaceans; various pachyderms, as the hippopotamus, boar, and babirussa; the walrus among pinniped carnivores; and the fossil saber-toothed tigers among ordinary}}\n[[FIGURE]]\n{{c|{{smaller|Tusks.<br>''a'', tusk of walrus (canine tooth); ''b'', tusk of elephant (incisor tooth).}}}}\n{{smaller|carnivores. Tusks may be upper or lower; they are usually upper, but in the dinotherium lower. They are either incisors or canines in different animals, but are usu-}}",
+   "c3s4": "ally canines. They are always paired, except in the narwhal. The single developed upper incisor of the male narwhal is the longest tusk known, reaching a length of 10 or 12 feet, and it is spirally grooved as if twisted. Elephants’ tusks are upper incisors, and furnish most of the ivory of commerce. The tusks of the walrus are upper canines; those of the boar tribe are canines, both upper and lower. The tusks of the dinotherium are a pair of lower incisors turned down out of the mouth. The so-called tusks or tushes of the horse are ordinary canines. See cuts under ''babirussa'', ''boar'', ''Dinotherium'', ''elephant'', ''Mastodontinæ'', ''monodon'', ''narwhal'', ''Phacochærus'', ''saber-toothed'', and ''walrus''."
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0349 c1f1.png",
+   "c2f1": "century v08 p0349 c2f1.png",
+   "c3f1": "century v08 p0349 c3f1.png",
+   "c3f2": "century v08 p0349 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     907,
+     471,
+     1527,
+     1017
+    ],
+    "caption": [
+     1066,
+     1027,
+     1401,
+     1054
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     959,
+     469,
+     1547,
+     1012
+    ]
+   },
+   {
+    "box": [
+     1854,
+     255,
+     2311,
+     1000
+    ],
+    "caption": [
+     1933,
+     1018,
+     2232,
+     1043
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1845,
+     261,
+     2210,
+     1012
+    ]
+   },
+   {
+    "box": [
+     178,
+     1272,
+     757,
+     1757
+    ],
+    "caption": [
+     322,
+     1761,
+     657,
+     1784
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     217,
+     1322,
+     789,
+     1764
+    ]
+   },
+   {
+    "box": [
+     1672,
+     2406,
+     2243,
+     2806
+    ],
+    "caption": [
+     1777,
+     2738,
+     2289,
+     2806
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1684,
+     2438,
+     2320,
+     2736
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 5,
+    "input_tokens": 20,
+    "output_tokens": 313,
+    "cache_creation_input_tokens": 8805,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 10212,
+    "output_tokens": 7620,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|turtle|6545|tusk}}</noinclude>by a whimsical association with ''turtle''<sup>1</sup>. The application to the smaller land-tortoises seems to be later.] '''1.''' A tortoise; any chelonian or testudinate; any member of the ''Chelonia'' or ''Testudinata'' (see the technical names); especially, a marine tortoise, provided with flippers; absolutely, the green turtle, as ''Chelonia midas'' (see cut below), highly esteemed for soup. See cuts referred to under ''tortoise'', also cuts under ''Aspidonectes'', ''Eretmochelys'', ''periotic'', ''Pleurospondylia'', ''slider'', and ''stinkpot''.\n{{smaller block|The tortoise, which they call ''turtle'', eats like veal.\n{{right|''S. Clarke'', Four Plantations in America (1670), p. 21.}}\nA ''turtle''—which means a tortoise—is fond of his shell.\n{{right|''O. W. Holmes'', Professor, ii.}}}}\n'''2.''' The detachable segment of the cylinder of a rotary printing-machine which contains the types or plates to be printed: so called from its curved surface. {{smaller|In practice, the turtle is removed from the machine to the type-setting room. The types are made up on the curved surface, and firmly held in place by rebated column-rules, thicker at the top than at the bottom, and firmly grooved in the turtle. When the types have been locked up by screws on the turtle, they can be placed on the machine for printing without risk of falling out, or they can be molded in thin curved form by the papier-mâché process, and the curved plate made therefrom can be used in printing. The stereotype method is preferred.—'''Bastard turtle''', ''Thalassochelys kempi.''—'''Box-turtle.''' See ''box-tortoise'', ''Cistudo'', ''cooter'', ''Pyxis.''—'''Chicken-turtle.''' Same as ''chicken-tortoise.'' [Southern U. S.]—'''Diamond-backed turtle.''' See ''diamond-backed.''—'''Greaved turtle''', a tortoise of the genus ''Podocnemis'', as ''P. expansa.''—'''Green turtle''', one of several species of turtles, belonging to the natural order ''Chelonia'', family ''Cheloniidæ'', and genus ''Chelonia'' (which see for the technical zoölogical characters). They are all marine, and feed almost}} exclusively on algæ or seaweeds. The common species\nof the West Indies is ''Chelonia midas;'' that of Pacific waters is ''C. virgata.'' The former comes on the coast of the United States, from the Gulf of Mexico northward, occasionally even to Long Island Sound or even on the New England fishing-banks. It attains great size, individuals having been taken weighing from 600 to 800 pounds. It lives chiefly in deep water, but also seeks the mouths of rivers and estuaries. It breeds from April till July, and in April, and especially in May, large numbers come ashore to lay their eggs, which are much esteemed and eagerly sought for. The animal itself is celebrated as the source of real-turtle soup. The Pacific species ranges along the whole southern coast of California, and is regularly taken to the San Francisco markets.—'''Hawk-billed''' or '''hawk’s-bill turtle,''' a marine turtle, the caret, ''Eretmochelys imbricata,'' the source of commercial tortoise-shell. See cut under ''Eretmochelys.''—'''Loggerhead turtle.''' See ''loggerhead,'' 4. —'''Mock turtle.''' See ''mock''<sup>1</sup>.—'''Painted turtle.''' Same {{smaller|as ''painted terrapin'' (which see, under ''terrapin'').—'''Soft-shelled''' or '''soft turtle.''' See ''soft-shelled, Trionychidæ'', and cut under ''Aspidonectes''.—'''To turn turtle,''' to capsize: said of a vessel. [Naut. slang.] (See also ''alligator-turtle, land-turtle, mud-turtle, sea-turtle''<sup>2</sup>, ''snapping-turtle''.)}}\n\n[[File:century v08 p0349 c1f1.png|center|254px]]\n{{c|{{smaller|Green Turtle (''Chelonia midas'').}}}}\n\n'''turtle<sup>2</sup>''' (tėr′tl), ''v. i.''; pret. and pp. ''turtled'', ppr. ''turtling''. [< ''turtle''<sup>2</sup>, ''n.''] To pursue or capture turtles; make a practice or business of taking turtles.\n{{smaller block|When going on a ''turtling'' excursion a gaper is caught, and the more experienced natives have no great difficulty in procuring one when required.\n{{right|''Anthrop. Jour.'', XIX. 349.}}}}\n\n'''turtleback''' (tėr′tl-bak), ''n.'' '''1.''' A West Indian helmet-shell, ''Cassis tuberosa''. ''Imp. Dict.''—'''2.''' Something having the shape of a turtle’s back. {{smaller|(''a'') A rude stone implement, of a shape suggesting the name, by some supposed to represent a failure to chip out a more elaborate or perfect form.}}\n{{smaller block|The familiar ''turtle-back'' or one-faced stone, the double ''turtle-back'' or two-faced stone, together with all similar rude shapes.\n{{right|''W. H. Holmes'', Amer. Anthrop., Jan., 1890, p. 13.}}}}\n{{smaller|(''b'') An arched protection erected over the upper deck of a steamer at the bow, and often at the stern also, to guard against damage from the breaking on board of heavy seas; a whaleback.}}\n\n'''turtle-cowry''' (tėr′tl-kou″ri), ''n.'' A large handsome cowry, ''Cypræa testudinaria''.\n\n'''turtle-crawl''' (tėr′tl-krâl), ''n.'' '''1.''' The track of a turtle to and from its nest.—'''2.''' A pen constructed in the water for confining turtles. [Florida.]\n\n411\n\n'''turtle-deck''' (tėr′tl-dek), ''n.'' See ''deck'', 2.\n\n'''turtle-dove''' (tėr′tl-duv), ''n.'' [< ME. ''turteldoufe'' = D. ''tortelduif'' = OHG. ''turtulatūbā'', ''turtiltūbā'', MHG. ''turteltūbe'', ''türteltūbe'', G. ''turteltaube'' = Dan. ''turteldue'' = Sw. ''turturdufva''; as ''turtle''<sup>1</sup> + ''dove''<sup>1</sup>.] '''1.''' The turtle; any member of the genus ''Turtur'' in a broad sense; specifically, ''T. vulgaris'', a dove native in the British Islands\nand other parts of Europe, and thence extending into Africa and Asia. {{smaller|There are many others, of most parts of the Old World, as the Cambayan, ''T. senegalensis''; among them is ''T. risorius'', commonly seen in captivity and called ''ring-dove''.}} '''2.''' The common Carolina dove or pigeon, ''Zenaidura carolinensis.'' Also called ''mourning-dove.'' See cut under ''dove.'' [Local, U. S.]—'''3.''' The Australian dove ''Stictopelia cuneata.'' [Local.]\n\n[[File:century v08 p0349 c2f1.png|center|272px]]\n{{c|{{smaller|Turtle-dove (''Turtur vulgaris'').}}}}\n\n'''turtle-egging''' (tėr′tl-eg″ing), ''n.'' The act or industry of taking turtles’ eggs. {{smaller|The turtle digs a hole in the sand, in which the eggs are deposited and then covered over. To ascertain where the nest is located a sharp stick or iron rod is used to prod the ground.}}\n\n'''turtle-footed''' (tėr′tl-fu̇t″ed), ''a.'' Slow-footed.\n{{smaller block|''Turtle-footed'' peace. {{right|''Ford.'' (''Imp. Dict.'')}}}}\n\n'''turtle-grass''' (tėr′tl-gras), ''n.'' See ''Thalassia.''\n\n'''turtle-head''' (tėr′tl-hed), ''n.'' See ''Chelone'', 2.\n\n'''turtle-peg''' (tėr′tl-peg), ''n.'' The spear or harpoon used in striking turtles; a peg. {{smaller|It is a small sharp piece of iron, made fast to a cord, and mounted on a long shaft. The turtle is pegged by a thrust into the shell, where the head of the spear is held firmly; the staff is then withdrawn, and the turtle is brought in by the cord. [Florida.]}}\n\n'''turtler''' (tėr′tlėr), ''n.'' [< ''turtle''<sup>2</sup> + ''-er''<sup>1</sup>.] One who makes a business of hunting for turtles or their eggs.\n\n'''turtle-run''' (tėr′tl-run), ''n.'' A turtle-crawl. [Florida.]\n\n'''turtle-shell''' (tėr′tl-shel), ''n.'' '''1.''' Tortoise-shell; especially, the darker and less richly mottled tortoise-shell used for inlaying in wood, etc.—'''2.''' In ''conch.'', the turtle-cowry.\n\n'''turtle-soup''' (tėr′tl-söp′), ''n.'' A rich soup the chief ingredient of which is turtle-meat.—{{smaller|'''Mock-turtle soup.''' See ''mock-turtle.''}}\n\n'''turtle-stone''' (tėr′tl-stōn), ''n.'' In ''geol.'', a septarium.\n\n'''turtling''' (tėr′tling), ''n.'' [Verbal n. of ''turtle''<sup>2</sup>, ''v.''] The act or method of catching turtles; the business of a turtler.\n\n'''turtosa''' (tėr-tō′sä), ''n.'' The African teak or oak, ''Oldfieldia Africana.''\n\n'''turtour†''', ''n.'' [ME., also ''tortor'' (also ''turtre'', < OF. ''turtre''), < L. ''turtur'', a turtle: see ''turtle''<sup>1</sup>.] A turtle-dove.\n{{smaller block|Oon litel and obscure,<br>With whete and mylde in that thi ''turtours'' fede.\n{{right|''Palladius'', Husbondrie (E. E. T. S.), p. 21.}}}}\n\n'''Turtur''' (tėr′tėr), ''n.'' [NL., < L. ''turtur'', a turtle: see ''turtle''<sup>1</sup>.] A genus of doves, based by Selby in 1835 upon the common turtle of Europe, ''Columba turtur'' of Linnæus, now called ''Turtur communis, vulgaris'', or ''auritus.'' (See cut under ''turtle-dove.'') There are many other Old World species, among them ''T. risorius'', probably the turtle of Scripture.\n\n'''turves''', ''n.'' An obsolescent plural of ''turf''<sup>1</sup>.\n\n'''turvy-topsy†''', ''adv.'' Same as ''topsyturvy.'' Cited by ''F. Hall'', The Nation, March 28, 1889, p. 268.\n\n'''turwar''' (tur′wär), ''n.'' [E. Ind.] The tanning-bark obtained in India from ''Cassia auriculata.''\n\n'''Tuscan''' (tus′kan), ''a.'' and ''n.'' [= F. ''Toscan'', < It. ''Toscano'', < L. ''Tuscanus'', < ''Tuscus'', ''Thuscus'', Tuscan. Cf. ''Etruscan.''] '''I.''' ''a.'' Pertaining to Tuscany, a former grand duchy, now a compartimento of the present kingdom of Italy, corresponding generally to the ancient Etruria.—{{smaller|'''Tuscan order''', one of the five orders of architecture, according to Vitruvius and Palladio. It admits of no ornaments, presents the lack of refinement of the other Roman orders, and the columns are never fluted. It differs}}\n{{img float|file=century v08 p0349 c3f1.png|width=199px|align=right|cap={{smaller|Tuscan Order, after Vignola.}}}}\n{{smaller|so little, however, from the Roman Doric that it is generally regarded as being only a variety of the latter. See ''Doric.'' — '''Tuscan straw,''' plaited straw of fine yellow color, used for making hats and fine mats and baskets.}}\n\n'''II.''' ''n.'' '''1.''' An inhabitant of Tuscany.—'''2.''' In ''arch.'', the Tuscan order.\n\n'''tush<sup>1</sup>''' (tush), ''n.'' [< ME. ''tusch'', ''tosch''; an assibilated form of ''tusk''<sup>1</sup>.] A long pointed tooth; a tusk; specifically, one of the four canine teeth of the horse.\n{{smaller block|That great wolf [Gardiner], . . . whose teeth are like to the venomous ''toshes'' of the ramping lion.\n{{right|''Becon'', Works (Parker Soc.), III. 237.}}\nAnd whom he strikes his crooked ''tushes'' slay.\n{{right|''Shak.'', Venus and Adonis, l. 624.}}}}\n\n'''tush'''<sup>2</sup> (tush), ''interj.'' [Formerly also ''twish''; cf. ''tut'' and ''pish.''] An exclamation expressing rebuke, impatience, or contempt, and equivalent to ‘pshaw! be silent’: as, ''tush! tush!'' never tell me such a story as that.\n{{smaller block|There is a cholerike or disdainfull interiection vsed in the Irish language called Boagh, which is as much in English as ''twish.''\n{{right|''Stanihurst,'' Descrip. of Ireland, i. (Holinshed’s Chron., I.).}}\n''Tush,'' man; in this topsy-turvy world friendship and bosom-kindness are but made covers for mischief, means to compass ill.\n{{right|''Chapman,'' Widow’s Tears, v.}}}}\n\n'''tush'''<sup>2</sup> (tush), ''v. i.'' [< ''tush''<sup>2</sup>, ''interj.''] To express impatience, contempt, or the like by the exclamation “Tush!”\n{{smaller block|Cedric ''tushed'' and pshawed more than once at the message.\n{{right|''Scott,'' Ivanhoe, xliv.}}}}\n\n'''tushed''' (tusht), ''a.'' [< ''tush''<sup>1</sup> + ''-ed''<sup>2</sup>.] Having tushes; tusked.\n\n'''tusk'''<sup>1</sup> (tusk), ''n.'' [< ME. ''tusk'', also transposed ''tux'' (also assibilated ''tusch'', ''tosch'': see ''tush''<sup>1</sup>), < AS. ''tusc'', also transposed ''tux'' = OFries. ''tusk'', ''tusch'' = Icel. ''toskr'' (cf. Gael. ''tosg'', < E.), a tusk, tooth; prob., with orig. adj. formative ''-k'' or ''-sk'' (as in AS. ''-isc'', E. ''-ish''<sup>1</sup>), from the orig. form of ''tooth'' (AS. ''tōth'', Goth. ''tunthus'', etc.), the radical ''th'' + ''k'' or ''th'' + ''sk'' reducing to ''sk'', as ''th'' + ''t'' or ''th'' + ''st'' reduces to ''st''. The supposition that AS. ''tusc'' is a contr. of *''twisc'', < ''twi-'', two, though phonetically tenable (cf. ''tuskar'', ''twiscar''), does not meet the sense.] '''1.''' A long pointed tooth; especially, a tooth long enough to protrude from the lips when the mouth is closed. {{smaller|Tusks are extremely prominent in some animals, as elephants, mastodons, and other proboscideans; the narwhal among cetaceans; various pachyderms, as the hippopotamus, boar, and babirussa; the walrus among pinniped carnivores; and the fossil saber-toothed tigers among ordinary}}\n{{smaller|carnivores. Tusks may be upper or lower; they are usually upper, but in the dinotherium lower. They are either incisors or canines in different animals, but are usually}} canines. They are always paired, except in the narwhal. The single developed upper incisor of the male narwhal is the longest tusk known, reaching a length of 10 or 12 feet, and it is spirally grooved as if twisted. Elephants’ tusks are upper incisors, and furnish most of the ivory of commerce. The tusks of the walrus are upper canines; those of the boar tribe are canines, both upper and lower. The tusks of the dinotherium are a pair of lower incisors turned down out of the mouth. The so-called tusks or tushes of the horse are ordinary canines. See cuts under ''babirussa'', ''boar'', ''Dinotherium'', ''elephant'', ''Mastodontinæ'', ''monodon'', ''narwhal'', ''Phacochærus'', ''saber-toothed'', and ''walrus''.\n\n[[File:century v08 p0349 c3f2.png|center|251px]]\n{{c|{{smaller|Tusks.<br>''a'', tusk of walrus (canine tooth); ''b'', tusk of elephant (incisor tooth).}}}}<noinclude><references/></noinclude>"
+}
