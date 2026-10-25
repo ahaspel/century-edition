@@ -6,10 +6,14 @@ page is read, as it is assembled, as a proofreader's save comes in.
 ETYMOLOGY SPACING (user, 2026-10-25): an entry's etymology, the bracket that
 follows its headword, pronunciation and grammar, is set off by two word
 spaces at each end ("affectate (a-fek′tāt), a.  [< L. affectatus …
-affect¹.]  Affected"); our readings set one, and HTML collapses two.  The
-first is made a no-break space (U+00A0, which does not collapse: written as
-the character, the desk's text shows the two spaces the print does) and the
-plain space kept after it, where a line may break.
+affect¹.]  Affected"); our readings set one, and HTML collapses two.  Set
+as THREE of ours (user, 2026-10-25: two "really looks like one"): the
+print's word spaces, on its justified lines, are about half an em, so its
+gap is 1.1-1.6 em (vol. 1 p. 124: 30px against word gaps of 14px; 43
+against 22); ours are a quarter em, and two of them make one of the
+print's.  Two no-break spaces (U+00A0, which do not collapse: written as
+characters, the desk's text shows the gap) and the plain space after them,
+where a line may break.
 
 CITATIONS (user, 2026-10-25): a prose citation opens with a paragraph
 indent, and nothing else in small type does — synonyms (vol. 1 p. 38),
@@ -47,7 +51,7 @@ _HEAD_PARTS = re.compile(r"'''.*?'''|''.*?''|\([^()\n]*\)|<sup>.*?</sup>|\{\{[^{
 #: the head's own words, outside those: abbreviations (pret., pp., ppr., pl.,
 #: adv.), joining words, numbers
 _HEAD_WORD = re.compile(r"(?:[^\W\d_]+\.)+|and|or|as|also|of|the|same|in|with|used|\d+", re.I)
-SPACE = " "
+SPACE = "  "
 SMALL = "{{smaller|"
 
 
