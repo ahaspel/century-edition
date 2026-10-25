@@ -109,6 +109,16 @@ details.help p { margin: .5em 0; }
 /* The Century's verse is a quotation like any other: its source follows it
    at once, flush right, with no space after the last line. */
 .render .verse { margin: 1em 2em 0; line-height: 1.6; text-align: left; }
+/* A prose citation opens with a paragraph indent, and nothing else the book
+   sets small does (synonyms, notes, sub-entries: vol. 1 pp. 38, 42, 35).  A
+   citation is a small block ending in its source set right — one to a block
+   (`century.rules`, CITATIONS).  Its source floats right: on the last line
+   when it fits, as the print sets it, else on a line of its own.  In em, the
+   indent scales with the small type. */
+.render div[style*="font-size:83%"] { display: flow-root; text-indent: 0; }
+.render div[style*="font-size:83%"]:has(> div[style*="text-align:right"]:last-child) { text-indent: 1.5em; }
+.render div[style*="font-size:83%"] > div[style*="text-align:right"]:last-child { float: right; text-indent: 0; margin-left: 1em; }
+.render div[style*="font-size:83%"] .verse { text-indent: 0; }
 .render .leak { background: #f6d5cc; color: #8f2a14; border-bottom: 2px solid #b4452e; font-family: var(--ui); font-size: .85em; }
 .render .rh { display: flex; align-items: baseline; border-bottom: 1px solid #d8d0bf; margin-bottom: .6em; padding-bottom: .2em; }
 .render .rh > span:nth-child(2) { flex: 1; text-align: center; }

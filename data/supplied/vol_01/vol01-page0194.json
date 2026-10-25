@@ -1,0 +1,283 @@
+{
+ "volume": 1,
+ "page_number": 194,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n193.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n193.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 747,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     72,
+     145,
+     2302,
+     181
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     72,
+     181,
+     813,
+     1008
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     72,
+     1008,
+     813,
+     2084
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     108,
+     1007,
+     780,
+     1280
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     72,
+     2084,
+     813,
+     3172
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     72,
+     3172,
+     813,
+     3310
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     181,
+     1559,
+     1256
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     1256,
+     1559,
+     2064
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     2064,
+     1559,
+     3151
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     3151,
+     1559,
+     3310
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1559,
+     181,
+     2302,
+     388
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1559,
+     388,
+     2302,
+     1414
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     2023,
+     807,
+     2302,
+     1279
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1559,
+     1414,
+     2302,
+     2489
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1559,
+     2489,
+     2302,
+     3310
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|amber|168|ambilevous}}",
+   "c1s1": "¶\n'''II.''' ''a.'' '''1.''' Consisting of or resembling amber; of the color of amber.\n{{smaller block|<poem>What time the ''amber'' morn\nForth gushes from beneath a low-hung cloud.</poem>\n{{right|''Tennyson'', Ode to Memory.}}}}\n'''2†.''' Having the odor of ambergris.\n{{smaller block|<poem>An ''amber'' scent of odorous perfume\nHer harbinger.</poem>\n{{right|''Milton'', S. A., l. 720.}}}}\n{{smaller|'''Amber bronze,''' a decorative finish for iron surfaces.—'''Amber cement.''' See ''cement''.—'''Amber varnish,''' amber heated with linseed- or nut-oil, and thinned, when cool, with turpentine. It is very insoluble, hard, tough, and of a permanent color, which is generally too yellow for work in delicate tints. It dries very slowly, and forms an excellent addition to copal varnishes, making them much harder and more durable.}}\n\n'''amber<sup>2</sup>''' (am′bėr), ''v. t.'' '''1†.''' To scent or flavor with amber or ambergris.\n{{smaller block|<poem>Be sure\nThe wines be lusty, high, and full of spirit,\nAnd ''amber’d'' all.</poem>\n{{right|''Beau. and Fl.'', Custom of Country, iii. 2.}}}}\n'''2.''' To make amber-colored. ''N. E. D.''—'''3.''' To inclose in amber. ''N. E. D.''\n\n'''amber-fish''' (am′bėr-fish), ''n.'' [< ''amber''<sup>2</sup> + ''fish''.] A fish of the family ''Carangidæ'' and genus ''Seriola''. {{smaller|There are several species. They have a fusiform contour, but with the snout more or less decurved. The}}",
+   "c1s2": "[[FIGURE]]\n{{c|{{smaller|Amber-fish (''Seriola dorsalis'').<br>(From Report of U. S. Fish Commission, 1884.)}}}}\n{{smaller|color is generally blackish, with dark or blackish bands encroaching upon the dorsal and anal fins. The spinous dorsal fin is well developed. Some of the species are esteemed as food. They vary from about a foot to 4 or 5 feet in length. Species are found in almost all tropical and warm waters, and at least six occur along the coasts of the United States.}}\n\n'''ambergris''' (am′bėr-grēs), ''n.'' [Early mod. E. ''amber-greece'', ''-griese'', ''-grise'', ''-grease'', etc., and transposed ''grisamber'', q. v.; late ME. ''imbergres''; < F. ''ambre gris'', that is, gray amber (''amber''<sup>2</sup>, 1), thus distinguished from ''ambre jaune'', yellow amber (''amber''<sup>2</sup>, 2): ''ambre'', like E. ''amber''<sup>2</sup>, orig. used with the sense of ‘ambergris’; ''gris'', gray, < OHG. ''grīs'', G. ''greis'', gray.] A morbid secretion of the liver or intestines of the spermaceti whale, the ''Catodon'' (''Physeter'') ''macrocephalus''; a solid, opaque, ash-colored, inflammable substance, lighter than water, of a consistence like that of wax, and having when heated a fragrant odor. {{smaller|It softens in the heat of the hand, melts below 212° F. into a kind of yellow resin, and is highly soluble in alcohol. It is usually found floating on the surface of the ocean, or cast upon the shore in regions frequented by whales, as on the coasts of the Bahama islands, some-}}",
+   "c1s3": "{{smaller|times in masses of from 60 to 225 pounds in weight. In this substance are found the beaks of the cuttlefish, on which the whale is known to feed. It is highly valued as a material for perfumery, and was formerly used in medicine as an aphrodisiac and for spicing wines. Sometimes written ''ambergrise'' or ''ambergrease''.}}\n\n{{smaller block|Of ornaments . . . they [the women of El-Medinah] have a vast variety, . . . and they delight in strong perfumes, — musk, civet, ''ambergris'', attar of rose, oil of jasmine, aloe-wood, and extract of cinnamon.\n{{right|''R. F. Burton'', El-Medinah, p. 282.}}}}\n\n{{smaller block|''Ambergris'' is a sort of bezoar, found in the alimentary canal of the cachalot, and seemingly derived from the fatty matter contained in the Cephalopoda upon which the Cetacean feeds. {{right|''Huxley'', Anat. Vert., p. 341.}}}}\n\n'''amber-seed''' (am′bėr-sēd), ''n.'' The seed of ''Hibiscus Abelmoschus'', a plant cultivated in most warm countries. {{smaller|These seeds have a musky odor, and are often used to perfume pomatum. The Arabs mix them with their coffee. Also called ''musk-seed'' and ''ambrette''.}}\n\n'''amber-tree''' (am′bėr-trē), ''n.'' The English name for ''Anthospermum'', a genus of African shrubs with evergreen leaves, which when bruised emit a fragrant odor.\n\n'''ambes-ace†, ambs-ace†''' (āmz′ās), ''n.'' [< ME. ''ambesas'', ''ambezas'', < OF. ''ambesas'', ''ambezas'' (F. ''ambesas''), < ''ambes'' (< L. ''ambo'', both) + ''as'', ace: see ''ambi-'' and ''ace''.] The double ace, the lowest cast at dice; hence, ill luck, misfortune. Also spelled ''ames-ace''.\n\n{{smaller block|Your bagges ben not filled with ''ambes-as''.\n{{right|''Chaucer'', Man of Law’s Tale, l. 26.}}}}\n\n{{smaller block|I had rather be in this choice than throw ''ames-ace'' for my life. {{right|''Shak.'', All’s Well, ii. 3.}}}}\n\n{{smaller block|Æschylus, it seems to me, is willing, just as Shakspere is, to risk the prosperity of a verse upon a lucky throw of words, which may come up the sices of hardy metaphor or the ''ambsace'' of conceit.}}",
+   "c1s4": "{{smaller block|{{right|''Lowell'', Among my Books, 1st ser., p. 192.}}}}\n\n'''ambi''' (am′bi), ''n.'' Same as ''ambe.''\n\n'''ambi-.''' [< L. ''ambi-'', appearing also as ''ambe-'', ''amb-'', ''am-'', ''an-'', in OL. also as a prep., ''am'', ''an'',",
+   "c2s1": "around, = Gr. ἀμφί (see ''amphi-'') = Skt. ''abhi'' (for *''ambhi''), in comp. ''abhitas'', on both sides, = AS. ''ymbe'', ''ymb'', ''embe'', ''emb'', ME. ''umbe'', ''um-'', Sc. ''um-'', = OS. ''umbi'' = OFries. ''umbe'' = OD. D. ''om'' = OHG. ''umpi'', ''umbi'', MHG. ''umbe'', G. ''um'' = Icel. ''umb'', ''um'', around, on both sides (see ''um-''); akin to L. ''ambo'' = Gr. ἄμφω, both.] A prefix of Latin origin, meaning around, round about, on both sides: equivalent to ''amphi-'', of Greek origin.\n\n'''ambidentate''' (am-bi-den′tāt), ''a.'' [< LL. ''ambidens'' (''-dent-''), having (as noun, a sheep having) teeth in both jaws (< L. ''ambi-'', on both sides, + ''dens'' (''dent-'') = E. ''tooth'': see ''dental''), + ''-ate''.] Having teeth in both jaws: applied by Dewhurst to certain ''Cetacea'', as porpoises and dolphins. [Rare.]\n\n'''ambidexter''' (am-bi-deks′tėr), ''a.'' and ''n.'' [ML., < L. ''ambi-'', around, on both sides, + ''dexter'', the right hand: see ''dexter''. Cf. equiv. Gr. ἀμφιδέξιος, of the same ultimate origin.] '''I.''' ''a.'' '''1.''' Able to use both hands with equal ease; ambidextrous.—'''2.''' Double-dealing; deceitful; tricky. ='''Syn. 1.''' {{smaller|''Ambidexter'', ''Amphichiral''. See ''amphichiral''.}}\n\n'''II.''' ''n.'' '''1.''' A person who uses both hands with equal facility. ''Sir T. Browne.''—'''2.''' A double-dealer; one equally ready to act on either side in a dispute. ''Burton.''—'''3.''' In ''law'', a juror who takes money from both parties for giving his verdict.\n\n'''ambidexterity''' (am″bi-deks-ter′i-ti), ''n.'' [< ''ambidexter'' + ''-ity'', after ''dexterity''.] '''1.''' The faculty of using both hands with equal facility.",
+   "c2s2": "{{smaller block|Ignorant I was of the human frame, and of its latent powers, as regarded speed, force, and ''ambidexterity''.\n{{right|''De Quincey''.}}}}\n'''2.''' Double-dealing; duplicity.\n{{smaller block|That intricate net of general misery, spun out of his own crafty ''ambidexterity''.\n{{right|''I. D’Israeli'', Amen. of Lit., I. 412.}}}}\n'''3.''' In ''law'', the taking of money by a juror from both parties for a verdict.\n\n'''ambidextral''' (am-bi-deks′tra̤l), ''a.'' [< ''ambidexter'' + ''-al''.] Placed on either side of a given thing indifferently: as, “the ''ambidextral'' adjective,” ''Earle''. [Rare.]\n\n'''ambidextrous''' (am-bi-deks′trus), ''a.'' [< ''ambidexter'' + ''-ous'', after ''dexterous''.] '''1.''' Having the faculty of using both hands with equal ease and dexterity; hence, skilful; facile.\n{{smaller block|Nature is prolific and ''ambidextrous''.\n{{right|''O. W. Holmes'', Old Vol. of Life, p. 420.}}}}\n'''2.''' Practising or siding with both parties; double-dealing; deceitful.\n{{smaller block|Shuffling and ''ambidextrous'' dealings.\n{{right|''Sir R. L’Estrange''.}}\nEdward Gosynhyll . . . mending his ''ambidextrous'' pen for “The Praise of all Women.”\n{{right|''I. D’Israeli'', Amen. of Lit., I. 305.}}}}",
+   "c2s3": "¶\n'''ambidextrously''' (am-bi-deks′trus-li), ''adv.'' '''1.''' With both hands; with the dexterity of one who can use both hands equally well.—'''2.''' In a double-dealing way; cunningly.\n\n'''ambidextrousness''' (am-bi-deks′trus-nes), ''n.'' Same as ''ambidexterity'', 1, 2.\n\n'''ambiens''' (am′bi-enz), ''a.'' used as ''n.''; pl. ''ambientes'' (am-bi-en′tēz). [L., ppr. of ''ambire'': see ''ambient.''] In ''ornith.'', a muscle of the leg of certain birds: so called from the way in which it winds about the limb in passing from the hip to the foot. {{smaller|It is the muscle formerly known as the ''gracilis'' muscle of birds; but its identity with the mammalian gracilis is questionable. Most birds, as the entire order ''Passeres'', have no ambiens. The presence or absence of the muscle has lately been made a basis of the division of birds into two primary series in Garrod’s classification, birds having it being termed ''Homalogonatæ'', those lacking it ''Anomalogonatæ''. See these words.}}\n{{smaller block|The ''ambiens'' arises from the pelvis about the acetabulum, and passes along the inner side of the thigh; its tendon runs over the convexity of the knee to the outer side, and ends by connecting with the flexor digitorum perforatus. . . . When this arrangement obtains, the result is that when a bird goes to roost, and squats on its perch, the toes automatically clasp the perch by the strain upon the ''ambiens'' that ensues as soon as the leg is bent upon the thigh, and the tarsus upon the leg, the weight of the bird thus holding it fast upon its perch.\n{{right|''Coues'', Key to N. A. Birds, p. 193.}}}}\n\n'''ambient''' (am′bi-ẹnt), ''a.'' and ''n.'' [< L. ''ambien(t-)s'', ppr. of ''ambire'', go around, < ''amb-'', around (see ''ambi-''), + ''ire'', go, = Gr. ἰέναι, go, = Skt. and Zend √ ''i'', go: see ''go''.] '''I.''' ''a.'' '''1.''' Surrounding; encompassing on all sides; investing: applied to aëriform fluids or diffusible substances.\n{{smaller block|Whose perfumes through the ''ambient'' air diffuse}}",
+   "c2s4": "{{smaller block|Such native aromatics.\n{{right|''Carew'', To G. N.}}}}\n\n{{smaller block|That candles and lights burn dim and blue at the apparition of spirits may be true, if the ''ambient'' air be full of sulphurous spirits.\n{{right|''Sir T. Browne'', Vulg. Err.}}}}\n'''2.''' Moving round; circling about. ''N. E. D.''",
+   "c3s1": "¶\n'''II.''' ''n.'' '''1.''' That which encompasses on all sides, as a sphere or the atmosphere. [Rare.]\n{{smaller block|Air being a perpetual ''ambient''.\n{{right|''Wotton'', Elem. Archit., p. 7.}}}}\n'''2†.''' A canvasser, a suitor, or an aspirant. ''N. E. D.''",
+   "c3s2": "¶\n'''ambientes''', ''n.'' Plural of ''ambiens.''\n\n'''ambifarious''' (am-bi-fā′ri-us), ''a.'' [< LL. ''ambifarius'', having two sides or meanings, < L. ''ambi-'', on both sides, + ''-fa-rius'', < ''fari'', speak. Cf. ''bifarious'', ''multifarious.''] Double, or that may be taken both ways. ''Blount.'' [Rare.]\n\n'''ambigen''', '''ambigene''' (am′bi-jen, -jēn), ''a.'' [< NL. ''ambigenus'', of two kinds, < L. ''ambi-'', both, + ''-genus'', -born: see ''-gen'', ''-genous.''] Same as ''ambigenal.''\n\n'''ambigenal''' (am-bij′e-nạl), ''a.'' [As ''ambigen'' + ''-al.''] Of two kinds: used only in the Newtonian phrase ''ambigenal hyperbola'', a hyperbola of the\n[[FIGURE]]\n{{c|{{smaller|Ambigenal Hyperbola. ''a'', ''a'', hyperbola; ''b'', ''b'', asymptotes.}}}}\nthird order, having one of its infinite legs falling within an angle formed by the asymptotes, and the other without.\n\n'''ambigenous''' (am-bij′e-nus), ''a.'' [< NL. ''ambigenus'': see ''ambigen'' and ''-ous.''] Of two kinds: in ''bot.'', applied to a calyx with several series of sepals, of which the inner are more or less petaloid.\n\n'''ambigu†''' (am′bi-gū), ''n.'' [F., < ''ambigu'', ambiguous, < L. ''ambiguus'': see ''ambiguous.''] An entertainment or feast consisting, not of regular courses, but of a medley of dishes set on the table together.",
+   "c3s3": "¶\n'''ambiguity''' (am-bi-gū′i-ti), ''n.''; pl. ''ambiguities'' (-tiz). [< ME. ''ambiguite'' (rare), < L. ''ambiguita(t-)s'', < ''ambiguus'': see ''ambiguous''.] '''1.''' The state of being ambiguous; doubtfulness or uncertainty, particularly of signification.\n\n{{smaller block|The words are of single meaning without any ''ambiguity''.\n{{right|''South.''}}}}\n\n{{smaller block|If we would keep our conclusions free from ''ambiguity'', we must reserve the term we employ to signify absolute rectitude solely for this purpose.\n{{right|''H. Spencer'', Social Statics, p. 510.}}}}\n\n'''2.''' An equivocal or ambiguous expression.\n\n{{smaller block|Let our author, therefore, come out of his mists and ''ambiguities'', or give us some better authority for his unreasonable doubts.\n{{right|''Dryden'', To Duchess of York.}}}}\n\n'''ambiguous''' (am-big′ū-us), ''a.'' [< L. ''ambiguus'', going about, changeable, doubtful, uncertain, < ''ambigere'', go about, wander, doubt, < ''ambi-'', around, + ''agere'', drive, move: see ''agent''.] '''1.''' Of doubtful or uncertain nature; wanting clearness or definiteness; difficult to comprehend or distinguish; indistinct; obscure.\n\n{{smaller block|Even the most dextrous distances of the old masters . . . are ''ambiguous''.\n{{right|''Ruskin'', Mod. Painters, I. ii. 2.}}}}\n\n{{smaller block|Stratified rocks of ''ambiguous'' character.\n{{right|''Murchison'', Silur. Syst., p. 418. (''N. E. D.'')}}}}\n\n'''2.''' Of doubtful purport; open to various interpretations; having a double meaning; equivocal.\n\n{{smaller block|<poem>What have been thy answers, what but dark,\n''Ambiguous'', and with double sense deluding?</poem>\n{{right|''Milton'', P. R., i. 435.}}}}\n\n{{smaller block|He was recalled by the Duchess, whose letters had been uniformly so ''ambiguous'' that he confessed he was quite unable to divine their meaning.\n{{right|''Motley'', Dutch Republic, II. 23.}}}}",
+   "c3s4": "¶\n'''3.''' Wavering; undecided; hesitating: as, “''ambiguous'' in all their doings,” ''Milton'', Eikonoklastes (1649), p. 239. [Rare or obsolete.]\n{{smaller block|<poem>Th’ ''ambiguous'' god, who ruled her lab’ring breast,\nIn these mysterious words his mind exprest. ''Dryden.''</poem>}}\n\n'''4.''' Using obscure or equivocal language.\n{{smaller block|What mutterest thou with thine ''ambiguous'' mouth?\n{{right|''Swinburne'', Atalanta, l. 1500.}}}}\n{{smaller block|='''Syn. 2.''' ''Equivocal'', etc. (see ''obscure''), indeterminate, indefinite, indistinct, not clear, not plain, amphibolous, dubious, vague, enigmatical, dark, blind.}}\n\n'''ambiguously''' (am-big′ụ̄-us-li), ''adv.'' In an ambiguous manner; with doubtful meaning.\n{{smaller block|<poem>Why play . . . into the devil’s hands\nBy dealing so ''ambiguously?''</poem>\n{{right|''Browning'', Ring and Book, I. 321.}}}}\n\n'''ambiguousness''' (am-big′ụ̄-us-nes), ''n.'' The quality of being ambiguous; ambiguity; obscurity.\n\n'''ambilevous†''' (am-bi-lē′vus), ''a.'' [< L. ''ambi-'', on both sides, + ''lævus'' (= Gr. λαιός, for *λαιϝός), left. Cf. ''ambidexter''.] Unable to use either hand with facility: the opposite of ''ambidextrous''. [Rare.]\n{{smaller block|Some are as Galen hath expressed; that is, ''ambilevous'', or left-handed on both sides; such as with agility and vigour have not the use of either.\n{{right|''Sir T. Browne'', Vulg. Err., p. 189.}}}}"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0194 c1f1.png",
+   "c3f1": "century v01 p0194 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     120,
+     1019,
+     768,
+     1268
+    ],
+    "caption": [
+     203,
+     1279,
+     689,
+     1333
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     114,
+     1009,
+     712,
+     1232
+    ]
+   },
+   {
+    "box": [
+     2035,
+     819,
+     2303,
+     1267
+    ],
+    "caption": [
+     2038,
+     1274,
+     2301,
+     1340
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     2035,
+     812,
+     2305,
+     1296
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 3,
+    "input_tokens": 5488,
+    "output_tokens": 161,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 13,
+    "input_tokens": 9670,
+    "output_tokens": 9990,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 51558
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|amber|168|ambilevous}}</noinclude>{{nop}}'''II.''' ''a.'' '''1.''' Consisting of or resembling amber; of the color of amber.\n{{smaller block|<poem>What time the ''amber'' morn\nForth gushes from beneath a low-hung cloud.</poem>\n{{right|''Tennyson'', Ode to Memory.}}}}\n'''2†.''' Having the odor of ambergris.\n{{smaller block|<poem>An ''amber'' scent of odorous perfume\nHer harbinger.</poem>\n{{right|''Milton'', S. A., l. 720.}}}}\n{{smaller|'''Amber bronze,''' a decorative finish for iron surfaces.—'''Amber cement.''' See ''cement''.—'''Amber varnish,''' amber heated with linseed- or nut-oil, and thinned, when cool, with turpentine. It is very insoluble, hard, tough, and of a permanent color, which is generally too yellow for work in delicate tints. It dries very slowly, and forms an excellent addition to copal varnishes, making them much harder and more durable.}}\n\n'''amber<sup>2</sup>''' (am′bėr), ''v. t.'' '''1†.''' To scent or flavor with amber or ambergris.\n{{smaller block|<poem>Be sure\nThe wines be lusty, high, and full of spirit,\nAnd ''amber’d'' all.</poem>\n{{right|''Beau. and Fl.'', Custom of Country, iii. 2.}}}}\n'''2.''' To make amber-colored.  ''N. E. D.''—'''3.''' To inclose in amber.  ''N. E. D.''\n\n'''amber-fish''' (am′bėr-fish), ''n.''  [< ''amber''<sup>2</sup> + ''fish''.]  A fish of the family ''Carangidæ'' and genus ''Seriola''. {{smaller|There are several species. They have a fusiform contour, but with the snout more or less decurved. The color is generally blackish, with dark or blackish bands encroaching upon the dorsal and anal fins. The spinous dorsal fin is well developed. Some of the species are esteemed as food. They vary from about a foot to 4 or 5 feet in length. Species are found in almost all tropical and warm waters, and at least six occur along the coasts of the United States.}}\n\n[[File:century v01 p0194 c1f1.png|center|324px]]\n{{c|{{smaller|Amber-fish (''Seriola dorsalis'').<br>(From Report of U. S. Fish Commission, 1884.)}}}}\n\n'''ambergris''' (am′bėr-grēs), ''n.''  [Early mod. E. ''amber-greece'', ''-griese'', ''-grise'', ''-grease'', etc., and transposed ''grisamber'', q. v.; late ME. ''imbergres''; < F. ''ambre gris'', that is, gray amber (''amber''<sup>2</sup>, 1), thus distinguished from ''ambre jaune'', yellow amber (''amber''<sup>2</sup>, 2): ''ambre'', like E. ''amber''<sup>2</sup>, orig. used with the sense of ‘ambergris’; ''gris'', gray, < OHG. ''grīs'', G. ''greis'', gray.]  A morbid secretion of the liver or intestines of the spermaceti whale, the ''Catodon'' (''Physeter'') ''macrocephalus''; a solid, opaque, ash-colored, inflammable substance, lighter than water, of a consistence like that of wax, and having when heated a fragrant odor. {{smaller|It softens in the heat of the hand, melts below 212° F. into a kind of yellow resin, and is highly soluble in alcohol. It is usually found floating on the surface of the ocean, or cast upon the shore in regions frequented by whales, as on the coasts of the Bahama islands, sometimes in masses of from 60 to 225 pounds in weight. In this substance are found the beaks of the cuttlefish, on which the whale is known to feed. It is highly valued as a material for perfumery, and was formerly used in medicine as an aphrodisiac and for spicing wines. Sometimes written ''ambergrise'' or ''ambergrease''.}}\n\n{{smaller block|Of ornaments . . . they [the women of El-Medinah] have a vast variety, . . . and they delight in strong perfumes, — musk, civet, ''ambergris'', attar of rose, oil of jasmine, aloe-wood, and extract of cinnamon.\n{{right|''R. F. Burton'', El-Medinah, p. 282.}}}}\n\n{{smaller block|''Ambergris'' is a sort of bezoar, found in the alimentary canal of the cachalot, and seemingly derived from the fatty matter contained in the Cephalopoda upon which the Cetacean feeds. {{right|''Huxley'', Anat. Vert., p. 341.}}}}\n\n'''amber-seed''' (am′bėr-sēd), ''n.'' The seed of ''Hibiscus Abelmoschus'', a plant cultivated in most warm countries. {{smaller|These seeds have a musky odor, and are often used to perfume pomatum. The Arabs mix them with their coffee. Also called ''musk-seed'' and ''ambrette''.}}\n\n'''amber-tree''' (am′bėr-trē), ''n.'' The English name for ''Anthospermum'', a genus of African shrubs with evergreen leaves, which when bruised emit a fragrant odor.\n\n'''ambes-ace†, ambs-ace†''' (āmz′ās), ''n.''  [< ME. ''ambesas'', ''ambezas'', < OF. ''ambesas'', ''ambezas'' (F. ''ambesas''), < ''ambes'' (< L. ''ambo'', both) + ''as'', ace: see ''ambi-'' and ''ace''.]  The double ace, the lowest cast at dice; hence, ill luck, misfortune. Also spelled ''ames-ace''.\n\n{{smaller block|Your bagges ben not filled with ''ambes-as''.\n{{right|''Chaucer'', Man of Law’s Tale, l. 26.}}}}\n\n{{smaller block|I had rather be in this choice than throw ''ames-ace'' for my life. {{right|''Shak.'', All’s Well, ii. 3.}}}}\n\n{{smaller block|Æschylus, it seems to me, is willing, just as Shakspere is, to risk the prosperity of a verse upon a lucky throw of words, which may come up the sices of hardy metaphor or the ''ambsace'' of conceit. {{right|''Lowell'', Among my Books, 1st ser., p. 192.}}}}\n\n'''ambi''' (am′bi), ''n.'' Same as ''ambe.''\n\n'''ambi-.'''  [< L. ''ambi-'', appearing also as ''ambe-'', ''amb-'', ''am-'', ''an-'', in OL. also as a prep., ''am'', ''an'', around, = Gr. ἀμφί (see ''amphi-'') = Skt. ''abhi'' (for *''ambhi''), in comp. ''abhitas'', on both sides, = AS. ''ymbe'', ''ymb'', ''embe'', ''emb'', ME. ''umbe'', ''um-'', Sc. ''um-'', = OS. ''umbi'' = OFries. ''umbe'' = OD. D. ''om'' = OHG. ''umpi'', ''umbi'', MHG. ''umbe'', G. ''um'' = Icel. ''umb'', ''um'', around, on both sides (see ''um-''); akin to L. ''ambo'' = Gr. ἄμφω, both.]  A prefix of Latin origin, meaning around, round about, on both sides: equivalent to ''amphi-'', of Greek origin.\n\n'''ambidentate''' (am-bi-den′tāt), ''a.''  [< LL. ''ambidens'' (''-dent-''), having (as noun, a sheep having) teeth in both jaws (< L. ''ambi-'', on both sides, + ''dens'' (''dent-'') = E. ''tooth'': see ''dental''), + ''-ate''.]  Having teeth in both jaws: applied by Dewhurst to certain ''Cetacea'', as porpoises and dolphins. [Rare.]\n\n'''ambidexter''' (am-bi-deks′tėr), ''a.'' and ''n.''  [ML., < L. ''ambi-'', around, on both sides, + ''dexter'', the right hand: see ''dexter''. Cf. equiv. Gr. ἀμφιδέξιος, of the same ultimate origin.]  '''I.''' ''a.'' '''1.''' Able to use both hands with equal ease; ambidextrous.—'''2.''' Double-dealing; deceitful; tricky. ='''Syn. 1.''' {{smaller|''Ambidexter'', ''Amphichiral''. See ''amphichiral''.}}\n\n'''II.''' ''n.'' '''1.''' A person who uses both hands with equal facility.  ''Sir T. Browne.''—'''2.''' A double-dealer; one equally ready to act on either side in a dispute.  ''Burton.''—'''3.''' In ''law'', a juror who takes money from both parties for giving his verdict.\n\n'''ambidexterity''' (am″bi-deks-ter′i-ti), ''n.''  [< ''ambidexter'' + ''-ity'', after ''dexterity''.]  '''1.''' The faculty of using both hands with equal facility. {{smaller block|Ignorant I was of the human frame, and of its latent powers, as regarded speed, force, and ''ambidexterity''.\n{{right|''De Quincey''.}}}}\n'''2.''' Double-dealing; duplicity.\n{{smaller block|That intricate net of general misery, spun out of his own crafty ''ambidexterity''.\n{{right|''I. D’Israeli'', Amen. of Lit., I. 412.}}}}\n'''3.''' In ''law'', the taking of money by a juror from both parties for a verdict.\n\n'''ambidextral''' (am-bi-deks′tra̤l), ''a.''  [< ''ambidexter'' + ''-al''.]  Placed on either side of a given thing indifferently: as, “the ''ambidextral'' adjective,” ''Earle''. [Rare.]\n\n'''ambidextrous''' (am-bi-deks′trus), ''a.''  [< ''ambidexter'' + ''-ous'', after ''dexterous''.]  '''1.''' Having the faculty of using both hands with equal ease and dexterity; hence, skilful; facile.\n{{smaller block|Nature is prolific and ''ambidextrous''.\n{{right|''O. W. Holmes'', Old Vol. of Life, p. 420.}}}}\n'''2.''' Practising or siding with both parties; double-dealing; deceitful.\n{{smaller block|Shuffling and ''ambidextrous'' dealings.\n{{right|''Sir R. L’Estrange''.}}}}\n{{smaller block|Edward Gosynhyll . . . mending his ''ambidextrous'' pen for “The Praise of all Women.”\n{{right|''I. D’Israeli'', Amen. of Lit., I. 305.}}}}\n\n'''ambidextrously''' (am-bi-deks′trus-li), ''adv.'' '''1.''' With both hands; with the dexterity of one who can use both hands equally well.—'''2.''' In a double-dealing way; cunningly.\n\n'''ambidextrousness''' (am-bi-deks′trus-nes), ''n.'' Same as ''ambidexterity'', 1, 2.\n\n'''ambiens''' (am′bi-enz), ''a.'' used as ''n.''; pl. ''ambientes'' (am-bi-en′tēz).  [L., ppr. of ''ambire'': see ''ambient.'']  In ''ornith.'', a muscle of the leg of certain birds: so called from the way in which it winds about the limb in passing from the hip to the foot. {{smaller|It is the muscle formerly known as the ''gracilis'' muscle of birds; but its identity with the mammalian gracilis is questionable. Most birds, as the entire order ''Passeres'', have no ambiens. The presence or absence of the muscle has lately been made a basis of the division of birds into two primary series in Garrod’s classification, birds having it being termed ''Homalogonatæ'', those lacking it ''Anomalogonatæ''. See these words.}}\n{{smaller block|The ''ambiens'' arises from the pelvis about the acetabulum, and passes along the inner side of the thigh; its tendon runs over the convexity of the knee to the outer side, and ends by connecting with the flexor digitorum perforatus. . . . When this arrangement obtains, the result is that when a bird goes to roost, and squats on its perch, the toes automatically clasp the perch by the strain upon the ''ambiens'' that ensues as soon as the leg is bent upon the thigh, and the tarsus upon the leg, the weight of the bird thus holding it fast upon its perch.\n{{right|''Coues'', Key to N. A. Birds, p. 193.}}}}\n\n'''ambient''' (am′bi-ẹnt), ''a.'' and ''n.''  [< L. ''ambien(t-)s'', ppr. of ''ambire'', go around, < ''amb-'', around (see ''ambi-''), + ''ire'', go, = Gr. ἰέναι, go, = Skt. and Zend √ ''i'', go: see ''go''.]  '''I.''' ''a.'' '''1.''' Surrounding; encompassing on all sides; investing: applied to aëriform fluids or diffusible substances.\n{{smaller block|Whose perfumes through the ''ambient'' air diffuse Such native aromatics.\n{{right|''Carew'', To G. N.}}}}\n\n{{smaller block|That candles and lights burn dim and blue at the apparition of spirits may be true, if the ''ambient'' air be full of sulphurous spirits.\n{{right|''Sir T. Browne'', Vulg. Err.}}}}\n'''2.''' Moving round; circling about.  ''N. E. D.''\n\n'''II.''' ''n.'' '''1.''' That which encompasses on all sides, as a sphere or the atmosphere. [Rare.]\n{{smaller block|Air being a perpetual ''ambient''.\n{{right|''Wotton'', Elem. Archit., p. 7.}}}}\n'''2†.''' A canvasser, a suitor, or an aspirant.  ''N. E. D.''\n\n'''ambientes''', ''n.'' Plural of ''ambiens.''\n\n'''ambifarious''' (am-bi-fā′ri-us), ''a.''  [< LL. ''ambifarius'', having two sides or meanings, < L. ''ambi-'', on both sides, + ''-fa-rius'', < ''fari'', speak. Cf. ''bifarious'', ''multifarious.'']  Double, or that may be taken both ways.  ''Blount.'' [Rare.]\n\n'''ambigen''', '''ambigene''' (am′bi-jen, -jēn), ''a.''  [< NL. ''ambigenus'', of two kinds, < L. ''ambi-'', both, + ''-genus'', -born: see ''-gen'', ''-genous.'']  Same as ''ambigenal.''\n\n'''ambigenal''' (am-bij′e-nạl), ''a.''  [As ''ambigen'' + ''-al.'']  Of two kinds: used only in the Newtonian phrase ''ambigenal hyperbola'', a hyperbola of the {{img float|file=century v01 p0194 c3f1.png|width=134px|align=right|cap={{smaller|Ambigenal Hyperbola. ''a'', ''a'', hyperbola; ''b'', ''b'', asymptotes.}}}} third order, having one of its infinite legs falling within an angle formed by the asymptotes, and the other without.\n\n'''ambigenous''' (am-bij′e-nus), ''a.''  [< NL. ''ambigenus'': see ''ambigen'' and ''-ous.'']  Of two kinds: in ''bot.'', applied to a calyx with several series of sepals, of which the inner are more or less petaloid.\n\n'''ambigu†''' (am′bi-gū), ''n.''  [F., < ''ambigu'', ambiguous, < L. ''ambiguus'': see ''ambiguous.'']  An entertainment or feast consisting, not of regular courses, but of a medley of dishes set on the table together.\n\n'''ambiguity''' (am-bi-gū′i-ti), ''n.''; pl. ''ambiguities'' (-tiz).  [< ME. ''ambiguite'' (rare), < L. ''ambiguita(t-)s'', < ''ambiguus'': see ''ambiguous''.]  '''1.''' The state of being ambiguous; doubtfulness or uncertainty, particularly of signification.\n\n{{smaller block|The words are of single meaning without any ''ambiguity''.\n{{right|''South.''}}}}\n\n{{smaller block|If we would keep our conclusions free from ''ambiguity'', we must reserve the term we employ to signify absolute rectitude solely for this purpose.\n{{right|''H. Spencer'', Social Statics, p. 510.}}}}\n\n'''2.''' An equivocal or ambiguous expression.\n\n{{smaller block|Let our author, therefore, come out of his mists and ''ambiguities'', or give us some better authority for his unreasonable doubts.\n{{right|''Dryden'', To Duchess of York.}}}}\n\n'''ambiguous''' (am-big′ū-us), ''a.''  [< L. ''ambiguus'', going about, changeable, doubtful, uncertain, < ''ambigere'', go about, wander, doubt, < ''ambi-'', around, + ''agere'', drive, move: see ''agent''.]  '''1.''' Of doubtful or uncertain nature; wanting clearness or definiteness; difficult to comprehend or distinguish; indistinct; obscure.\n\n{{smaller block|Even the most dextrous distances of the old masters . . . are ''ambiguous''.\n{{right|''Ruskin'', Mod. Painters, I. ii. 2.}}}}\n\n{{smaller block|Stratified rocks of ''ambiguous'' character.\n{{right|''Murchison'', Silur. Syst., p. 418. (''N. E. D.'')}}}}\n\n'''2.''' Of doubtful purport; open to various interpretations; having a double meaning; equivocal.\n\n<poem>What have been thy answers, what but dark,\n''Ambiguous'', and with double sense deluding?</poem>\n{{smaller block|{{right|''Milton'', P. R., i. 435.}}}}\n\n{{smaller block|He was recalled by the Duchess, whose letters had been uniformly so ''ambiguous'' that he confessed he was quite unable to divine their meaning.\n{{right|''Motley'', Dutch Republic, II. 23.}}}}\n\n'''3.''' Wavering; undecided; hesitating: as, “''ambiguous'' in all their doings,” ''Milton'', Eikonoklastes (1649), p. 239. [Rare or obsolete.]\n{{smaller block|<poem>Th’ ''ambiguous'' god, who ruled her lab’ring breast,\nIn these mysterious words his mind exprest. ''Dryden.''</poem>}}\n\n'''4.''' Using obscure or equivocal language.\n{{smaller block|What mutterest thou with thine ''ambiguous'' mouth?\n{{right|''Swinburne'', Atalanta, l. 1500.}}}}\n{{smaller block|='''Syn. 2.''' ''Equivocal'', etc. (see ''obscure''), indeterminate, indefinite, indistinct, not clear, not plain, amphibolous, dubious, vague, enigmatical, dark, blind.}}\n\n'''ambiguously''' (am-big′ụ̄-us-li), ''adv.'' In an ambiguous manner; with doubtful meaning.\n{{smaller block|<poem>Why play . . . into the devil’s hands\nBy dealing so ''ambiguously?''</poem>\n{{right|''Browning'', Ring and Book, I. 321.}}}}\n\n'''ambiguousness''' (am-big′ụ̄-us-nes), ''n.'' The quality of being ambiguous; ambiguity; obscurity.\n\n'''ambilevous†''' (am-bi-lē′vus), ''a.''  [< L. ''ambi-'', on both sides, + ''lævus'' (= Gr. λαιός, for *λαιϝός), left. Cf. ''ambidexter''.]  Unable to use either hand with facility: the opposite of ''ambidextrous''. [Rare.]\n{{smaller block|Some are as Galen hath expressed; that is, ''ambilevous'', or left-handed on both sides; such as with agility and vigour have not the use of either.\n{{right|''Sir T. Browne'', Vulg. Err., p. 189.}}}}<noinclude><references/></noinclude>"
+}

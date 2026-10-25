@@ -1,0 +1,259 @@
+{
+ "volume": 1,
+ "page_number": 207,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n206.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n206.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 740,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     99,
+     150,
+     2310,
+     189
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     99,
+     189,
+     839,
+     1206
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     99,
+     1206,
+     839,
+     2208
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     217,
+     1202,
+     729,
+     1918
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     99,
+     2208,
+     839,
+     3305
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     839,
+     189,
+     1580,
+     1273
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     839,
+     1273,
+     1580,
+     2314
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     839,
+     2314,
+     1580,
+     3305
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1580,
+     189,
+     2310,
+     1263
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1580,
+     1263,
+     2310,
+     2060
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1580,
+     2060,
+     2310,
+     2960
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1622,
+     2134,
+     1822,
+     2398
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1580,
+     2960,
+     2310,
+     3305
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|amortization|181|ampere}}",
+   "c1s1": "¶\n'''2.''' Extinction, as of debt, especially by a sinking-fund; a payment toward such extinction.\n\nAlso ''admortization'', ''amortizement''.\n\n'''amortize, amortise''' (a-môr′tiz), ''v.''; pret. and pp. ''amortized'', ''-sed'', ppr. ''amortizing'', ''-sing''. [< ME. ''amortisen'', ''-eisen'', ''-esen'', < AF. ''amortizer'', ''-eyser'' (= Sp. ''amortizar'' = ML. ''amortisare'', ''admortizare''), < ''amortiz-'', OF. ''amortiss-'', stem of certain parts of ''amortir'', deaden, quench, abolish, extinguish, redeem, or buy out, as a rent-charge, alienate in mortmain; F. ''amortir'', deaden, slacken, reduce, redeem, liquidate, = Pr. ''amortir'' = OCat. ''amortir'' = It. ''ammortire'', < L. as if *''admortire'', < ''ad'', to, + ''mor(t-)s'', death: see ''mortal''. Cf. ''mortmain''.] '''I.''' ''trans.'' '''1†.''' To make dead; deaden; destroy.\n{{smaller block|The gode werkes that men don whil thei ben in gode lyfe ben al ''amortised'' by sin folowing.\n{{right|''Chaucer'', Parson’s Tale.}}}}\n'''2.''' In ''law'', to alienate in mortmain, that is, to convey to a corporation, sole or aggregate, ecclesiastical or temporal, and their successors. See ''mortmain''.—'''3.''' To extinguish, as a debt, by means of a sinking-fund.\n\n'''II.†''' ''intrans.'' To droop; hang as dead.\n{{smaller block|With this rayne went the sayle ''amortyssynge'' and hanging hevy.\n{{right|''Caxton'', Ovid’s Metam., xi. 19. (''N. E. D.'')}}}}\n'''amortizement, amortisement''' (a-môr′tiz-ment), ''n.'' [< F. ''amortissement'', a subduing, bringing to an end, in arch. a finishing (ML. ''amortisamentum'', ''admortizamentum''), < ''amortir''",
+   "c1s2": "[[FIGURE]]\n{{c|{{smaller|Amortizement of Buttress (13th century), Apsidal Chapel, Cathedral of Amiens.}}}}\n(''-iss-''): see ''amortize'' and ''-ment.''] '''1.''' The crowning member of an edifice; the architectural ornament or feature that terminates a façade, a ridged or pointed roof, a gable, a buttress, etc. ''Viollet-le-Duc.''—'''2.''' Same as ''amortization.''\n\n'''a-morwe†''', ''prep. phr.'' as ''adv.'' A Middle English form of ''amorrow.''",
+   "c1s3": "¶\n'''amotion''' (a-mō′shon), ''n.'' [< L. ''amotio(n-)'', < ''amovere'', pp. ''amotus'', remove: see ''amove''<sup>2</sup>.] '''1.''' Removal; ejection; ejectment from possession or office, as of an officer of a corporation.\n{{smaller block|The cause of his ''amotion'' is twice mentioned by the Oxford antiquary.\n{{right|''T. Warton'', Life of Sir T. Pope, p. 251.}}}}\n'''2.''' Motion away from; a moving away; removal. [Rare in both uses.]\n\n'''amount''' (a-mount′), ''v.'' [< ME. ''amounten'', ''amunten'', mount up to, come up to, signify, < OF. ''amounter'', ''amunter'', ''amonter'', amount to, < ''amunt'', ''amont'', adv., uphill, upward, prop. prep. phr. ''a mont'', toward or to a mountain or heap (cf. E. ''adown''), < L. ''ad montem'' : ''ad'', to; ''montem'', acc. of ''mon(t-)s'', mountain: see ''mount'', ''mountain''. Cf. ''avale''.] '''I.''' ''intrans.'' '''1†.''' To go up; rise; ascend; mount.\n{{smaller block|When the larke doth fyrst ''amounte'' on high.\n{{right|''Peacham'', Garden of Eloquence, p. 106.}}\nSo up he rose, and thence ''amounted'' streight.\n{{right|''Spenser'', F. Q., I. ix. 54.}}}}\n'''2.''' To reach or be equal (to) in number, quantity, or value; come (to) as a whole.\n{{smaller block|<poem>Thy substance, valued at the highest rate,\nCannot ''amount'' unto a hundred marks.</poem>\n{{right|''Shak.'', C. of E., i. 1.}}}}\n'''3.''' To rise, reach, or extend, in effect, substance, influence, etc.; be equivalent or tantamount in force or significance: as, his answer ''amounted'' almost to a threat.\n{{smaller block|The errors of young men are the ruin of business; but the errors of aged men ''amount'' but to this, that more might have been done or sooner.\n{{right|''Bacon.''}}\nHis love of mischief and of dark and crooked ways ''amounted'' almost to madness. ''Macaulay'', Hist. Eng., vi.}}",
+   "c2s1": "¶\n'''II.†''' ''trans.'' '''1.''' To ascend; climb; mount.—'''2.''' To rise in number, quantity, or value, so as to reach or be equal to; come to.\n{{smaller block|The som ''amounted'' v thousand pounde.\n{{right|''Caxton'', Chron. of Eng., ccv. 186. (''N. E. D.'')}}}}\n'''3.''' To be equivalent to; mean; signify.\n{{smaller block|<poem>Tell me, mayde chaste,\nWhat ''amounteth'' this?</poem>\n{{right|''Lybeaus Disc.'', 1471. (''N. E. D.'')}}}}\n'''4.''' To cause to rise; raise or elevate.\n{{smaller block|Here no Papists were arraigned to ''amount'' it to a Popish miracle.\n{{right|''Fuller'', Ch. Hist., ix. 110. (''N. E. D.'')}}}}\n\n'''amount''' (ạ-mount′), ''n.'' [Modern; < ''amount'', ''v.''] '''1.''' The sum total of two or more sums or quantities; the aggregate: as, the ''amount'' of 7 and 9 is 16; the ''amount'' of the day’s sales.—'''2.''' A quantity or sum viewed as a whole.\n{{smaller block|It is not often that a single fault can produce any vast ''amount'' of evil.\n{{right|''De Quincey'', Style, i.}}}}\n'''3.''' The full effect, value, or import; the sum or total: as, the evidence, in ''amount'', comes to this.\n\nOften contracted to ''amt.''\n\n'''amour''' (ạ-mör′), ''n.'' [< mod. F. ''amour'' (with F. pron. and accent), taking the place of earlier E. ''amour'', ''amor'' (with accent on first syllable), < ME. ''amour'', ''amur'', < OF. ''amur'', ''amour'', love: see ''amor'', and cf. ''paramour''.] '''1†.''' Love; affection; friendship.—'''2†.''' Love toward one of the opposite sex.—'''3.''' A love-affair; love-making; especially, an illicit love-affair; an intrigue.—{{smaller|'''Amour propre''' (a-mör propr), self-esteem; self-respect: sometimes used in an unfavorable sense, meaning self-love, pride, conceit, vanity, egotism: a French phrase now in}}",
+   "c2s2": "common use.\n\n{{smaller block|Doubtless in nearly every field of inquiry emotion is a perturbing intruder: mostly there is some preconception, and some ''amour propre'' that resists disproof of it.\n{{right|''H. Spencer'', Study of Sociol., p. 74.}}}}\n\n{{smaller block|These words were uttered with so much coldness, that Mr. Effingham’s ''amour propre'' was deeply wounded.\n{{right|''J. E. Cooke'', Virginia Comedians, I. xii.}}}}\n\n¶\n'''amourette†''', ''n.'' See ''amoret''.\n\n'''amourist''', ''n.'' See ''amorist''.\n\n'''amovability''' (a-mö-va-bil′i-ti), ''n.'' [< ''amovable'': see ''-bility''.] Capability of being removed, as from an office. [Rare.]\n\n{{smaller block|Let us retain ''amovability'' on the concurrence of the executive and legislative branches.\n{{right|''Jefferson'', Works, IV. 288.}}}}\n\n'''amovable''' (a-mö′va-bl), ''a.'' [< ''amove''<sup>2</sup> + ''-able''; also ''amovible'', after F. ''amovible''.] Removable. [Rare.]\n\n'''amoval†''' (a-mö′val), ''n.'' [< ''amove''<sup>2</sup> + ''-al''. Cf. ''removal'', < ''remove''.] Total removal.\n\n{{smaller block|''Amoval'' of . . . insufferable nuisances.\n{{right|''Evelyn'', Sylva, p. 342.}}}}\n\n'''amove<sup>1</sup>†''' (a-möv′), ''v. t.'' [Early mod. E. ''amoove'', < ME. ''amoeven'', ''ameven'', < OF. ''amover'', ''amouvoir'', < L. ''admovere'', move to, bring to, apply, incite, < ''ad'', to, + ''movere'', move: see ''a-''<sup>11</sup> and ''move''.] To move; stir; excite; affect.\n\n{{smaller block|And when she say thise poetical Muses aprochen aboute my bed and enditynge wordes to my wepynges, she was a lytel ''amoved'' and glowede with cruwel eyen.\n{{right|''Chaucer'', Boëthius, i. prose 1.}}}}\n\n{{smaller block|<poem>She nought ''ameved''\nNeither in word, or chere, or countenance.</poem>\n{{right|''Chaucer'', Clerk’s Tale, l. 442.}}}}",
+   "c2s3": "{{smaller block|At all these cries my heart was sore ''amoved.''\n{{right|''Greene'', Poems, p. 136. (''N. E. D.'')}}}}\n\n'''amove<sup>2</sup>†''' (a-möv′), ''v. t.''; pret. and pp. ''amoved'', ppr. ''amoving''. [< late ME. ''amoven'', < AF. ''amoever'', < L. ''amovere'', remove, < ''a'' for ''ab'', from, + ''movere'', move: see ''a-''<sup>13</sup> and ''move''.] To remove, especially from a post or station.\n{{smaller block|She well pleased was thence to ''amove'' him farre.\n{{right|''Spenser'', F. Q., II. vi. 37.}}}}\n{{smaller block|Coroners . . . may be ''amoved'' for reasonable cause.\n{{right|''Sir M. Hale'', Hist. Plac. Cor., ii. 3.}}}}\n\n'''amovible''' (a-mö′vi-bl), ''a.'' [F.: see ''amovable''.] Same as ''amovable''. [Rare.]\n\n'''ampac''' (am′pak), ''n.'' An East Indian tree, a species of ''Xanthoxylum'', producing a highly odoriferous resin. Its leaves are used to medicate baths.\n\n'''amparo''' (ȧm-pä′rō), ''n.'' [Sp. and Pg., defense, protection, < Sp. Pg. ''amparar'', defend, = Pr. ''amparar'' = F. ''emparer'', refl. seize upon, secure, = It. ''imparare'', learn, acquire, < ML. as if *''imparare'', < L. ''in'', into, toward, + ''parare'', furnish.] A document protecting a claimant of land till properly authorized papers can be issued. ''Texas Law Report.''\n\n'''ampassy''' (am′pa̤-si), ''n.'' [A corruption of ''and per se'': see ''ampersand''.] A form still used for ''ampersand'' in parts of England.\n\n'''Ampelidæ''' (am-pel′i-dē), ''n. pl.'' [NL., < ''Ampelis'' + ''-idæ''.] In ''ornith.'', a family name variously used. {{smaller|(''a'') A family founded by Swainson in 1831, having}}",
+   "c3s1": "{{smaller|no characters by which it can be defined, but containing a miscellaneous group of dentirostral insessorial birds from various parts of the world, and divided into the subfamilies ''Leiotrichanæ, Piprinæ, Ampelinæ, Pachycephalinæ,'' etc. (''b'') A family of dentirostral ''Insessores'', supposed to be related to the shrikes and flycatchers, and including the subfamilies ''Dicrurinæ, Campephaginæ, Gymnoderinæ, Ampelinæ, Piprinæ,'' and ''Pachycephalinæ.'' (''c'') A family of birds restricted to the ''Ampelinæ'' proper with the ''Ptilogonydinæ'', and placed between ''Tyrannidæ'' and ''Cotingidæ.'' See ''waxwing, Bombycillidæ.''}}\n\n'''Ampelideæ''' (am-pe-lid′ẹ̄-ē), ''n. pl.'' [NL., fem. pl. of ''ampelideus'': see ''ampelideous.''] The name given by Kunth and others to the natural order of plants called ''Vitaceæ'' (which see).\n\n'''ampelideous''' (am-pe-lid′ẹ̄-us), ''a.'' [< NL. ''ampelideus'', < Gr. ἀμπελίς (-ιδ-), a vine, dim. of ἄμπελος, a vine: see ''Ampelis.''] In ''bot.'', relating or belonging to the ''Ampelideæ'', or vine family; resembling the vine.\n\n'''Ampelinæ''' (am-pe-lī′nē), ''n. pl.'' [NL., < ''Ampelis'' + ''-inæ.''] A subfamily of birds, of the family ''Ampelidæ'', or chatterers. {{smaller|It is sometimes taken as equivalent to ''Ampelidæ'' (''c'') (which see), and sometimes restricted to the single genus ''Ampelis.''}}\n\n'''Ampelio''' (am-pē′li-ō), ''n.'' [NL., < Gr. ἀμπελίων, a kind of singing bird, also called ἀμπελίς: see ''Ampelis.''] A genus of cotingine birds of South America, established by Cabanis in 1845, made by Sundevall the type of his family ''Ampelioninæ''. ''A. melanocephala'' is an example. Also written ''Ampelion.''\n\n'''Ampelioninæ''' (am-pel″i-ọ̄-nī′nē), ''n. pl.'' [NL., < ''Ampelio(n-)'' + ''-inæ.''] In Sundevall’s classification of birds, the second family of his fourth cohort (''Pycnaspideæ'') of scutelliplantar oscine",
+   "c3s2": "{{smaller|passeres. It contains such genera as ''Ampelio'', ''Phibalura'', ''Cotinga'', ''Phytotoma'', ''Cephalopterus'', etc., and inexactly corresponds to a subfamily ''Cotinginæ'' of some authors.}}\n\n¶\n'''Ampelis''' (am′pe-lis), ''n.'' [NL., < Gr. ἀμπελίς, a kind of singing bird, also called ἀμπελίων, prob. from its haunting vines, < ἄμπελος, a vine.] A genus of oscine passerine birds, type of a supposed subfamily ''Ampelinæ'', or of an alleged family ''Ampelidæ''. {{smaller|It contains three species, the Carolina waxwing (''A. cedrorum''), the Bohemian waxwing (''A. garrulus''), and the Japanese waxwing (''A. phœnicopterus''); the birds are also called chatterers. A synonym of ''Ampelis'' is ''Bombycilla''. The name was formerly applied, with great latitude, to many birds properly belonging to various other families; but it is now restricted to the three here named. See ''waxwing''.}}\n\n'''ampelite''' (am′pe-līt), ''n.'' [< L. ''ampelitis'', < Gr. ἀμπελῖτις (sc. γῆ), a kind of bituminous earth used to sprinkle vines in order to keep off insects, < ἄμπελος, a vine.] A species of black earth abounding in pyrites: so named from having been used to kill insects on vines. The name is also applied to cannel-coal and to some kinds of schist.\n\n'''ampelitic''' (am-pe-lit′ik), ''a.'' [< ''ampelite'' + ''-ic''.] In ''mineral.'', pertaining to or resembling ampelite.",
+   "c3s3": "¶\n\n'''Ampeloglypter''' (am″pe-lō-glip′tėr), ''n.'' [NL., < Gr. ἄμπελος, a grape-vine, + γλυπτήρ, a chisel,\n[[FIGURE]]\n{{c|{{smaller|Grape-vine Gall-beetle (''Ampeloglypter sesostris''). Vertical line shows natural size.}}}}\n< γλύφειν, carve, cut.] A genus of beetles, of the family ''Curculionidæ'', established by Le Conte for three North American species formerly included in the genus ''Baris.'' {{smaller|They live, in the larval state, in the young canes of cultivated or wild grape-vines and the Virginia creeper, causing swellings in the shape of elongate knobs. The most abundant species, ''A. sesostris'' (Le Conte), the grape-vine gall-beetle, is a small, highly polished, elongate insect of uniform light yellowish-brown color. The elytra are gently undulated by broad transverse impressions.}}\n\n'''ampelography''' (am-pe-log′ra̤-fi), ''n.'' [< Gr. ἄμπελος, vine, + -γραφία, < γράφειν, write.] The scientific description of the vine. ''Syd. Soc. Lex.''\n\n'''Ampelopsis''' (am-pe-lop′sis), ''n.'' [NL., < Gr. ἄμπελος, vine, + ὄψις, appearance: see ''optic.''] A genus of plants, natural order ''Vitaceæ'', scarcely distinguishable from ''Vitis'' (and united with it by Bentham and Hooker), except in having no conspicuous disk at the base of the ovary. {{smaller|''A. quinquefolia'' is the well-known Virginia creeper, sometimes called American ivy, and erroneously woodbine. It has digitate leaves, climbs by clinging tendrils, and is fre-}}",
+   "c3s4": "quently cultivated for covering walls and arbors. The Japanese ''A. tricuspidata'', with simple leaves, is used for the same purpose.\n\n¶\n'''amper''' (am′pėr), ''n.'' [E. dial., also written ''ampor'', < ME. *''ampre'' (not found), < AS. ''ampre'', ''ompre'', earliest spelling ''ampræ'', ''ompræ'', a tumor or swelling.] A tumor; also, a defect.\n\n'''amperage''' (am-pãr′ạ̄j), ''n.'' The strength of an electrical current measured in amperes.\n\n'''ampere''' (am-pãr′), ''n.'' [A designation adopted by the Electric Congress at Paris in 1881; F. ''am-''"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0207 c1f1.png",
+   "c3f1": "century v01 p0207 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     229,
+     1214,
+     717,
+     1906
+    ],
+    "caption": [
+     168,
+     1918,
+     770,
+     1960
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     237,
+     1202,
+     810,
+     1905
+    ]
+   },
+   {
+    "box": [
+     1634,
+     2146,
+     1810,
+     2386
+    ],
+    "caption": [
+     1605,
+     2398,
+     1812,
+     2498
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1647,
+     2111,
+     1825,
+     2396
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 3,
+    "input_tokens": 5723,
+    "output_tokens": 165,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9618,
+    "output_tokens": 10209,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f1": "left"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|amortization|181|ampere}}</noinclude>{{nop}}'''2.''' Extinction, as of debt, especially by a sinking-fund; a payment toward such extinction.\n\nAlso ''admortization'', ''amortizement''.\n\n'''amortize, amortise''' (a-môr′tiz), ''v.''; pret. and pp. ''amortized'', ''-sed'', ppr. ''amortizing'', ''-sing''.  [< ME. ''amortisen'', ''-eisen'', ''-esen'', < AF. ''amortizer'', ''-eyser'' (= Sp. ''amortizar'' = ML. ''amortisare'', ''admortizare''), < ''amortiz-'', OF. ''amortiss-'', stem of certain parts of ''amortir'', deaden, quench, abolish, extinguish, redeem, or buy out, as a rent-charge, alienate in mortmain; F. ''amortir'', deaden, slacken, reduce, redeem, liquidate, = Pr. ''amortir'' = OCat. ''amortir'' = It. ''ammortire'', < L. as if *''admortire'', < ''ad'', to, + ''mor(t-)s'', death: see ''mortal''. Cf. ''mortmain''.]  '''I.''' ''trans.'' '''1†.''' To make dead; deaden; destroy.\n{{smaller block|The gode werkes that men don whil thei ben in gode lyfe ben al ''amortised'' by sin folowing.\n{{right|''Chaucer'', Parson’s Tale.}}}}\n'''2.''' In ''law'', to alienate in mortmain, that is, to convey to a corporation, sole or aggregate, ecclesiastical or temporal, and their successors. See ''mortmain''.—'''3.''' To extinguish, as a debt, by means of a sinking-fund.\n\n'''II.†''' ''intrans.'' To droop; hang as dead.\n{{smaller block|With this rayne went the sayle ''amortyssynge'' and hanging hevy.\n{{right|''Caxton'', Ovid’s Metam., xi. 19. (''N. E. D.'')}}}}\n'''amortizement, amortisement''' (a-môr′tiz-ment), ''n.''  [< F. ''amortissement'', a subduing, bringing to an end, in arch. a finishing (ML. ''amortisamentum'', ''admortizamentum''), < ''amortir'' (''-iss-''): see ''amortize'' and ''-ment.'']  '''1.''' The crowning member of an edifice; the architectural ornament or feature that terminates a façade, a ridged or pointed roof, a gable, a buttress, etc.  ''Viollet-le-Duc.''—'''2.''' Same as ''amortization.''\n\n[[File:century v01 p0207 c1f1.png|center|249px]]\n{{c|{{smaller|Amortizement of Buttress (13th century), Apsidal Chapel, Cathedral of Amiens.}}}}\n\n'''a-morwe†''', ''prep. phr.'' as ''adv.'' A Middle English form of ''amorrow.''\n\n'''amotion''' (a-mō′shon), ''n.''  [< L. ''amotio(n-)'', < ''amovere'', pp. ''amotus'', remove: see ''amove''<sup>2</sup>.]  '''1.''' Removal; ejection; ejectment from possession or office, as of an officer of a corporation.\n{{smaller block|The cause of his ''amotion'' is twice mentioned by the Oxford antiquary.\n{{right|''T. Warton'', Life of Sir T. Pope, p. 251.}}}}\n'''2.''' Motion away from; a moving away; removal. [Rare in both uses.]\n\n'''amount''' (a-mount′), ''v.''  [< ME. ''amounten'', ''amunten'', mount up to, come up to, signify, < OF. ''amounter'', ''amunter'', ''amonter'', amount to, < ''amunt'', ''amont'', adv., uphill, upward, prop. prep. phr. ''a mont'', toward or to a mountain or heap (cf. E. ''adown''), < L. ''ad montem'' : ''ad'', to; ''montem'', acc. of ''mon(t-)s'', mountain: see ''mount'', ''mountain''. Cf. ''avale''.]  '''I.''' ''intrans.'' '''1†.''' To go up; rise; ascend; mount.\n{{smaller block|When the larke doth fyrst ''amounte'' on high.\n{{right|''Peacham'', Garden of Eloquence, p. 106.}}}}\n{{smaller block|So up he rose, and thence ''amounted'' streight.\n{{right|''Spenser'', F. Q., I. ix. 54.}}}}\n'''2.''' To reach or be equal (to) in number, quantity, or value; come (to) as a whole.\n{{smaller block|<poem>Thy substance, valued at the highest rate,\nCannot ''amount'' unto a hundred marks.</poem>\n{{right|''Shak.'', C. of E., i. 1.}}}}\n'''3.''' To rise, reach, or extend, in effect, substance, influence, etc.; be equivalent or tantamount in force or significance: as, his answer ''amounted'' almost to a threat.\n{{smaller block|The errors of young men are the ruin of business; but the errors of aged men ''amount'' but to this, that more might have been done or sooner.\n{{right|''Bacon.''}}}}\n{{smaller block|His love of mischief and of dark and crooked ways ''amounted'' almost to madness.\n{{right|''Macaulay'', Hist. Eng., vi.}}}}\n\n'''II.†''' ''trans.'' '''1.''' To ascend; climb; mount.—'''2.''' To rise in number, quantity, or value, so as to reach or be equal to; come to.\n{{smaller block|The som ''amounted'' v thousand pounde.\n{{right|''Caxton'', Chron. of Eng., ccv. 186. (''N. E. D.'')}}}}\n'''3.''' To be equivalent to; mean; signify.\n{{smaller block|<poem>Tell me, mayde chaste,\nWhat ''amounteth'' this?</poem>\n{{right|''Lybeaus Disc.'', 1471. (''N. E. D.'')}}}}\n'''4.''' To cause to rise; raise or elevate.\n{{smaller block|Here no Papists were arraigned to ''amount'' it to a Popish miracle.\n{{right|''Fuller'', Ch. Hist., ix. 110. (''N. E. D.'')}}}}\n\n'''amount''' (ạ-mount′), ''n.''  [Modern; < ''amount'', ''v.'']  '''1.''' The sum total of two or more sums or quantities; the aggregate: as, the ''amount'' of 7 and 9 is 16; the ''amount'' of the day’s sales.—'''2.''' A quantity or sum viewed as a whole.\n{{smaller block|It is not often that a single fault can produce any vast ''amount'' of evil.\n{{right|''De Quincey'', Style, i.}}}}\n'''3.''' The full effect, value, or import; the sum or total: as, the evidence, in ''amount'', comes to this.\n\nOften contracted to ''amt.''\n\n'''amour''' (ạ-mör′), ''n.''  [< mod. F. ''amour'' (with F. pron. and accent), taking the place of earlier E. ''amour'', ''amor'' (with accent on first syllable), < ME. ''amour'', ''amur'', < OF. ''amur'', ''amour'', love: see ''amor'', and cf. ''paramour''.]  '''1†.''' Love; affection; friendship.—'''2†.''' Love toward one of the opposite sex.—'''3.''' A love-affair; love-making; especially, an illicit love-affair; an intrigue.—{{smaller|'''Amour propre''' (a-mör propr), self-esteem; self-respect: sometimes used in an unfavorable sense, meaning self-love, pride, conceit, vanity, egotism: a French phrase now in}} common use.\n\n{{smaller block|Doubtless in nearly every field of inquiry emotion is a perturbing intruder: mostly there is some preconception, and some ''amour propre'' that resists disproof of it.\n{{right|''H. Spencer'', Study of Sociol., p. 74.}}}}\n\n{{smaller block|These words were uttered with so much coldness, that Mr. Effingham’s ''amour propre'' was deeply wounded.\n{{right|''J. E. Cooke'', Virginia Comedians, I. xii.}}}}\n\n'''amourette†''', ''n.'' See ''amoret''.\n\n'''amourist''', ''n.'' See ''amorist''.\n\n'''amovability''' (a-mö-va-bil′i-ti), ''n.''  [< ''amovable'': see ''-bility''.]  Capability of being removed, as from an office. [Rare.]\n\n{{smaller block|Let us retain ''amovability'' on the concurrence of the executive and legislative branches.\n{{right|''Jefferson'', Works, IV. 288.}}}}\n\n'''amovable''' (a-mö′va-bl), ''a.''  [< ''amove''<sup>2</sup> + ''-able''; also ''amovible'', after F. ''amovible''.]  Removable. [Rare.]\n\n'''amoval†''' (a-mö′val), ''n.''  [< ''amove''<sup>2</sup> + ''-al''. Cf. ''removal'', < ''remove''.]  Total removal.\n\n{{smaller block|''Amoval'' of . . . insufferable nuisances.\n{{right|''Evelyn'', Sylva, p. 342.}}}}\n\n'''amove<sup>1</sup>†''' (a-möv′), ''v. t.''  [Early mod. E. ''amoove'', < ME. ''amoeven'', ''ameven'', < OF. ''amover'', ''amouvoir'', < L. ''admovere'', move to, bring to, apply, incite, < ''ad'', to, + ''movere'', move: see ''a-''<sup>11</sup> and ''move''.]  To move; stir; excite; affect.\n\n{{smaller block|And when she say thise poetical Muses aprochen aboute my bed and enditynge wordes to my wepynges, she was a lytel ''amoved'' and glowede with cruwel eyen.\n{{right|''Chaucer'', Boëthius, i. prose 1.}}}}\n\n<poem>She nought ''ameved''\nNeither in word, or chere, or countenance.</poem>\n{{smaller block|{{right|''Chaucer'', Clerk’s Tale, l. 442.}}}}\n{{smaller block|At all these cries my heart was sore ''amoved.''\n{{right|''Greene'', Poems, p. 136. (''N. E. D.'')}}}}\n\n'''amove<sup>2</sup>†''' (a-möv′), ''v. t.''; pret. and pp. ''amoved'', ppr. ''amoving''.  [< late ME. ''amoven'', < AF. ''amoever'', < L. ''amovere'', remove, < ''a'' for ''ab'', from, + ''movere'', move: see ''a-''<sup>13</sup> and ''move''.]  To remove, especially from a post or station.\n{{smaller block|She well pleased was thence to ''amove'' him farre.\n{{right|''Spenser'', F. Q., II. vi. 37.}}}}\n{{smaller block|Coroners . . . may be ''amoved'' for reasonable cause.\n{{right|''Sir M. Hale'', Hist. Plac. Cor., ii. 3.}}}}\n\n'''amovible''' (a-mö′vi-bl), ''a.''  [F.: see ''amovable''.]  Same as ''amovable''. [Rare.]\n\n'''ampac''' (am′pak), ''n.'' An East Indian tree, a species of ''Xanthoxylum'', producing a highly odoriferous resin. Its leaves are used to medicate baths.\n\n'''amparo''' (ȧm-pä′rō), ''n.''  [Sp. and Pg., defense, protection, < Sp. Pg. ''amparar'', defend, = Pr. ''amparar'' = F. ''emparer'', refl. seize upon, secure, = It. ''imparare'', learn, acquire, < ML. as if *''imparare'', < L. ''in'', into, toward, + ''parare'', furnish.]  A document protecting a claimant of land till properly authorized papers can be issued.  ''Texas Law Report.''\n\n'''ampassy''' (am′pa̤-si), ''n.''  [A corruption of ''and per se'': see ''ampersand''.]  A form still used for ''ampersand'' in parts of England.\n\n'''Ampelidæ''' (am-pel′i-dē), ''n. pl.''  [NL., < ''Ampelis'' + ''-idæ''.]  In ''ornith.'', a family name variously used. {{smaller|(''a'') A family founded by Swainson in 1831, having no characters by which it can be defined, but containing a miscellaneous group of dentirostral insessorial birds from various parts of the world, and divided into the subfamilies ''Leiotrichanæ, Piprinæ, Ampelinæ, Pachycephalinæ,'' etc. (''b'') A family of dentirostral ''Insessores'', supposed to be related to the shrikes and flycatchers, and including the subfamilies ''Dicrurinæ, Campephaginæ, Gymnoderinæ, Ampelinæ, Piprinæ,'' and ''Pachycephalinæ.'' (''c'') A family of birds restricted to the ''Ampelinæ'' proper with the ''Ptilogonydinæ'', and placed between ''Tyrannidæ'' and ''Cotingidæ.'' See ''waxwing, Bombycillidæ.''}}\n\n'''Ampelideæ''' (am-pe-lid′ẹ̄-ē), ''n. pl.''  [NL., fem. pl. of ''ampelideus'': see ''ampelideous.'']  The name given by Kunth and others to the natural order of plants called ''Vitaceæ'' (which see).\n\n'''ampelideous''' (am-pe-lid′ẹ̄-us), ''a.''  [< NL. ''ampelideus'', < Gr. ἀμπελίς (-ιδ-), a vine, dim. of ἄμπελος, a vine: see ''Ampelis.'']  In ''bot.'', relating or belonging to the ''Ampelideæ'', or vine family; resembling the vine.\n\n'''Ampelinæ''' (am-pe-lī′nē), ''n. pl.''  [NL., < ''Ampelis'' + ''-inæ.'']  A subfamily of birds, of the family ''Ampelidæ'', or chatterers. {{smaller|It is sometimes taken as equivalent to ''Ampelidæ'' (''c'') (which see), and sometimes restricted to the single genus ''Ampelis.''}}\n\n'''Ampelio''' (am-pē′li-ō), ''n.''  [NL., < Gr. ἀμπελίων, a kind of singing bird, also called ἀμπελίς: see ''Ampelis.'']  A genus of cotingine birds of South America, established by Cabanis in 1845, made by Sundevall the type of his family ''Ampelioninæ''. ''A. melanocephala'' is an example. Also written ''Ampelion.''\n\n'''Ampelioninæ''' (am-pel″i-ọ̄-nī′nē), ''n. pl.''  [NL., < ''Ampelio(n-)'' + ''-inæ.'']  In Sundevall’s classification of birds, the second family of his fourth cohort (''Pycnaspideæ'') of scutelliplantar oscine {{smaller|passeres. It contains such genera as ''Ampelio'', ''Phibalura'', ''Cotinga'', ''Phytotoma'', ''Cephalopterus'', etc., and inexactly corresponds to a subfamily ''Cotinginæ'' of some authors.}}\n\n'''Ampelis''' (am′pe-lis), ''n.''  [NL., < Gr. ἀμπελίς, a kind of singing bird, also called ἀμπελίων, prob. from its haunting vines, < ἄμπελος, a vine.]  A genus of oscine passerine birds, type of a supposed subfamily ''Ampelinæ'', or of an alleged family ''Ampelidæ''. {{smaller|It contains three species, the Carolina waxwing (''A. cedrorum''), the Bohemian waxwing (''A. garrulus''), and the Japanese waxwing (''A. phœnicopterus''); the birds are also called chatterers. A synonym of ''Ampelis'' is ''Bombycilla''. The name was formerly applied, with great latitude, to many birds properly belonging to various other families; but it is now restricted to the three here named. See ''waxwing''.}}\n\n'''ampelite''' (am′pe-līt), ''n.''  [< L. ''ampelitis'', < Gr. ἀμπελῖτις (sc. γῆ), a kind of bituminous earth used to sprinkle vines in order to keep off insects, < ἄμπελος, a vine.]  A species of black earth abounding in pyrites: so named from having been used to kill insects on vines. The name is also applied to cannel-coal and to some kinds of schist.\n\n'''ampelitic''' (am-pe-lit′ik), ''a.''  [< ''ampelite'' + ''-ic''.]  In ''mineral.'', pertaining to or resembling ampelite.\n\n'''Ampeloglypter''' (am″pe-lō-glip′tėr), ''n.''  [NL., < Gr. ἄμπελος, a grape-vine, + γλυπτήρ, a chisel, {{img float|file=century v01 p0207 c3f1.png|width=97px|align=left|cap={{smaller|Grape-vine Gall-beetle (''Ampeloglypter sesostris''). Vertical line shows natural size.}}}} < γλύφειν, carve, cut.]  A genus of beetles, of the family ''Curculionidæ'', established by Le Conte for three North American species formerly included in the genus ''Baris.'' {{smaller|They live, in the larval state, in the young canes of cultivated or wild grape-vines and the Virginia creeper, causing swellings in the shape of elongate knobs. The most abundant species, ''A. sesostris'' (Le Conte), the grape-vine gall-beetle, is a small, highly polished, elongate insect of uniform light yellowish-brown color. The elytra are gently undulated by broad transverse impressions.}}\n\n'''ampelography''' (am-pe-log′ra̤-fi), ''n.''  [< Gr. ἄμπελος, vine, + -γραφία, < γράφειν, write.]  The scientific description of the vine.  ''Syd. Soc. Lex.''\n\n'''Ampelopsis''' (am-pe-lop′sis), ''n.''  [NL., < Gr. ἄμπελος, vine, + ὄψις, appearance: see ''optic.'']  A genus of plants, natural order ''Vitaceæ'', scarcely distinguishable from ''Vitis'' (and united with it by Bentham and Hooker), except in having no conspicuous disk at the base of the ovary. {{smaller|''A. quinquefolia'' is the well-known Virginia creeper, sometimes called American ivy, and erroneously woodbine. It has digitate leaves, climbs by clinging tendrils, and is frequently}} cultivated for covering walls and arbors. The Japanese ''A. tricuspidata'', with simple leaves, is used for the same purpose.\n\n'''amper''' (am′pėr), ''n.''  [E. dial., also written ''ampor'', < ME. *''ampre'' (not found), < AS. ''ampre'', ''ompre'', earliest spelling ''ampræ'', ''ompræ'', a tumor or swelling.]  A tumor; also, a defect.\n\n'''amperage''' (am-pãr′ạ̄j), ''n.'' The strength of an electrical current measured in amperes.\n\n'''ampere''' (am-pãr′), ''n.''  [A designation adopted by the Electric Congress at Paris in 1881; F. ''am-''<noinclude><references/></noinclude>"
+}

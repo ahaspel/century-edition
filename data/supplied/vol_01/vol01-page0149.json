@@ -1,0 +1,344 @@
+{
+ "volume": 1,
+ "page_number": 149,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n148.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n148.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 743,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     83,
+     151,
+     2304,
+     191
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     83,
+     191,
+     830,
+     996
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     83,
+     996,
+     830,
+     1801
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     627,
+     1036,
+     830,
+     1322
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     83,
+     1801,
+     830,
+     2890
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     83,
+     1800,
+     263,
+     2178
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     83,
+     2890,
+     830,
+     3290
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     830,
+     191,
+     1570,
+     1250
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     830,
+     1250,
+     1570,
+     1961
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     830,
+     1961,
+     1570,
+     3212
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     836,
+     2101,
+     1500,
+     2952
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     830,
+     3212,
+     1570,
+     3290
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1570,
+     191,
+     2304,
+     1218
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1570,
+     1218,
+     2304,
+     2199
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1570,
+     2199,
+     2304,
+     3290
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1674,
+     2797,
+     2208,
+     2927
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|air-carbureter|123|air-heading}}",
+   "c1s1": "¶\n'''air-carbureter''' (ãr′kär″bū-ret-ėr), ''n.'' An apparatus in which air is passed through or over the surface of liquid hydrocarbons, and thus becomes charged with inflammable vapor. See ''gas-machine.''\n\n'''air-casing''' (ãr′kā″sing), ''n.'' An air-tight casing of sheet-iron placed around a pipe to prevent undue transmission of heat or cold; specifically, the casing placed around the base of the funnel or smoke-stack of a steamship, to prevent too great a transmission of heat to the deck.\n\n'''air-castle''' (ãr′kȧs″l), ''n.'' A castle in the air; a day-dream; a visionary scheme. See ''castle.''\n{{smaller block|Adventures, triumphs of strength and skill — these furnish subject-matter for the talk of the uncivilized man and the ''air-castles'' of the youth.\n{{right|''H. Spencer'', Prin. of Psychol., § 482.}}}}\n\n'''air-cavity''' (ãr′kav″i̤-ti), ''n.'' A cavity containing air; specifically, such a cavity occurring in the body or bones of an animal; a large air-sac or pneumatocyst of a bird.\n{{smaller block|In the latter case, ''air-cavities'' take the place of the medulla, which disappears, and so diminish permanently the specific gravity of the animal.\n{{right|''Gegenbaur'', Comp. Anat. (trans.), p. 573.}}}}\n\n'''air-cell''' (ãr′sel), ''n.'' '''1.''' In ''bot.'', one of the cav-",
+   "c1s2": "ities in the leaves, stems, or other parts of plants, containing air. {{smaller|They are well seen in the bladders of seaweeds, and are found in other aquatic plants, which they serve to float.}}\n[[FIGURE]]\n{{c|{{smaller|Air-cells in Gulf-weed (''Sargassum vulgare'').}}}}\n'''2.''' In ''anat.'' and ''zoöl.'', a definite circumscribed cavity in the body, containing atmospheric air inhaled through air-passages which place it in direct communication with the outer air. {{smaller|The term is used for any such cavity, without reference to the technical meaning of ''cell'' (which see). An air-cell is generally of small size, if not microscopic, as one of those in lung-tissue; but it sometimes forms a great space or inflatable inclosed area, as the air-cells of birds, and is then also called ''air-space'', ''air-receptacle'', or ''pneumatocyst''. Specifically—(''a'') One of the small hemispherical saccules which beset the walls of the alveolar passages and infundibula of the lungs. Also called ''alveolus''. (''b'') One of the dilatations of the trachea or air-tube in insects forming the respiratory apparatus. (''c'') In ''ornith.'', a pneumatocyst; any one of the extra-pulmonary cavities of the body of a bird, containing air, which are continuous with one another and with one or more of the bronchial tubes. See ''pneumatocyst''.}}\n\n'''air-chamber''' (ãr′chām″bėr), ''n.'' '''1.''' A large cavity in an organic body containing air.—'''2.''' A compartment of a hydraulic engine or",
+   "c1s3": "[[FIGURE]]\n{{c|{{smaller|Air-chamber.}}}}\napparatus, as a pump, interposed between and connected with the supply- and delivery-passages, and containing air which by its elasticity equalizes the pressure and flow of the fluids. {{smaller|Thus, in a reciprocating force-pump, the impulse given to the fluid by the delivery-stroke compresses the air in the air-chamber, and this compressed air reacts upon the outflowing fluid to continue its motion during the reverse stroke, or during those intervals when the force imparted falls below the average or normal amount. The pressure and flow are thus made practically uniform, notwithstanding the intermittent or variable action of the force. For some special forms, see ''air-vessel''.}} '''3.''' Any compartment or chamber designed to contain air: as, the ''air-chamber'' of a life-boat.\n\n'''air-chambered''' (ãr′chām″bėrd), ''a.'' Furnished with an air-chamber or with air-chambers.\n{{smaller block|It [the life-boat] was ''air-chambered'' and buoyant.\n{{right|''Kane'', Sec. Grinn. Exp., I. 49.}}}}\n\n'''air-cock''' (ãr′kok), ''n.'' A cock used to control the admission or outflow of air. See ''cock''<sup>1</sup>, 8.\n\n'''air-compressor''' (ãr′kọm-pres″ọr), ''n.'' A machine for condensing air, usually in the form of a force-pump. See ''compressor''.\n\n'''air-cone''' (ãr′kōn), ''n.'' A cone in a marine engine designed to receive air and steam from the hot-well, and carry them off through a pipe at the top.\n\n'''air-cooler''' (ãr′kö″lėr), ''n.'' Any appliance for lowering the temperature of the air, as in hospitals, dwellings, and theaters. {{smaller|A common form consists of chambers filled with ice, or fitted with screens of light fabric kept constantly wet with cooling liquids,}}",
+   "c1s4": "through which a current of air is forced. See ''refrigerating-chamber'', under ''refrigerate.''\n\n'''air-course''' (ãr′kōrs), ''n.'' A passage in a mine made or used for ventilating purposes; an airway.\n\n'''air-crossing''' (ãr′krôs″ing), ''n.'' A passageway or bridge constructed to carry one air-course over another, as in the ventilation of coal-mines.\n\n'''air-cushion''' (ãr′ku̇sh″o̤n), ''n.'' '''1.''' A bag made of an air-tight fabric used when inflated with air as a cushion for a seat.—'''2.''' Same as ''air-bag.''—'''3.''' A ball or cylinder (usually of india-rubber) filled with air and placed in a water-pipe,",
+   "c2s1": "to act as a cushion for the water, or to receive the pressure or shock caused by a sudden stoppage of its flow, or by the expansion of the water in freezing.—'''4.''' Same as ''air-spring'' or ''pneumatic spring.''\n\n'''air-cylinder''' (ãr′sil″in-dėr), ''n.'' In ''gun.'', a device consisting of a cylinder and piston, used for checking the recoil of heavy guns by means of the elasticity of atmospheric air confined within it; a pneumatic buffer.\n\n'''air-dew''' (ãr′dū), ''n.'' Manna. [Rare.]\n\n'''air-drain''' (ãr′drān), ''n.'' '''1.''' An empty space left around the external foundation-walls of a building to prevent the earth from lying against them and thus causing dampness.—'''2.''' In ''molding'', a large passage for the escape of gases from heavy castings while in the mold.\n\n'''air-drawn''' (ãr′drân), ''a.'' Drawn or depicted in the air: as, “the ''air-drawn'' dagger,” ''Shak.'', Macbeth, iii. 4.\n\n'''air-dried''' (ãr′drīd), ''a.'' Dried by or in the air: applied to fruits and materials from which moisture has been removed by exposure to currents of air under natural atmospheric conditions.\n\n'''air-drill''' (ãr′dril), ''n.'' A rock-drill driven by compressed air, as distinguished from a drill driven by steam. See ''rock-drill.''\n\n'''air-drum''' (ãr′drum), ''n.'' A drum-shaped chamber or reservoir for air; specifically, in ''ornith.'', a large lateral cervical pneumatocyst.\n{{smaller block|The great ''air-drums'' of our pinnated grouse and cock-of-the-plains.\n{{right|''Coues'', Key to N. A. Birds, p. 200.}}}}",
+   "c2s2": "¶\n'''air-duct''' (ãr′dukt), ''n.'' A duct or passage conveying air; specifically, in ''ichth.'', the communication of the air-bladder with the intestinal canal. It is persistent in physostomous, temporary in physoclistous, fishes.\n\n'''aire<sup>1</sup>†''', ''n.'' An old form of ''aery''<sup>2</sup>.\n\n'''aire<sup>2</sup>''' (ī′re; mod. pron. ãr), ''n.'' [Ir., pl. ''airig''; cf. ''aireach'', a noble, a privileged person.] In ''Irish antiq.'', a freeman; a gentleman; one of the privileged classes. {{smaller|Aires were of two classes: (''a'') the ''flaths'', or those who possessed property in land; and (''b'') the ''bo-aires'', who possessed cows and other chattels. The king was elected by these two classes.}}\n{{smaller block|Clansmen who possessed twenty-one cows and upwards were ''airig'' (sing. ''aire''), or, as we should say, had the franchise, and might fulfil the functions of bail, witness, etc.\n{{right|''Encyc. Brit.'', XIII. 257.}}}}\n{{smaller block|The upper classes were all ''aires''. To be eligible to the ''aire'' grade, the freeman should possess, besides a certain amount of wealth in cattle, a prescribed assortment of agricultural implements and household goods.\n{{right|''Encyc. Brit.'', IV. 252.}}}}\n\n'''air-endway''' (ãr′end″wā), ''n.'' A roadway or level driven into a coal-seam parallel with a",
+   "c2s3": "main level, used chiefly for purposes of ventilation. ''Gresley.'' [Eng.]\n\n'''air-engine''' (ãr′en″jin), ''n.'' A motor employing (''a'') the elastic force of air expanded by heat,\n[[FIGURE]]\n{{c|{{smaller|Ericsson’s Hot-air Pumping-engine.}}}}\n{{c|{{smaller|''a'', beam; ''b'', air-piston; ''c'', transfer-piston; ''d'', cylinder; ''j'', air-piston link; ''k'', bell-crank; ''o'', side-rods; ''p'', transfer-piston rod; ''r'', pump; ''s'', air-chamber; ''t'', vacuum-chamber; ''u'', gas-furnace; ''v'', gas-burners; ''w'', gas-chamber; ''x'', water-jacket.}}}}\nor (''b'') air compressed by means of another and separate motor, called a ''compressor'', which is generally a steam-engine. {{smaller|Machine-drills, in mining, are generally run by compressed-air engines, the com-}}",
+   "c2s4": "pressor being located at the surface, and the air-engines distributed underground, at the various points where their work is required.",
+   "c3s1": "¶\n'''air-equalizer''' (ãr′ē″kwal-ī-zėr), ''n.'' A device for distributing a current of air equally throughout its working-space.\n\n'''airer''' (ãr′ėr), ''n.'' [< ''air''<sup>1</sup>, ''v.'', + ''-er''<sup>1</sup>.] '''1.''' One who airs or exposes to the air.—'''2.''' A screen for drying clothes, etc.\n\n'''air-escape''' (ãr′es-kāp″), ''n.'' An air-trap for the escape of air which collects in the upper bends of water-pipes and in other hydraulic apparatus. {{smaller|The usual form is that of a ball-cock (which see) inclosed in a chamber situated at the point at which the air is to be withdrawn, and so adjusted that as the water-level within is lowered by the pressure of the accumulated air the ball-float descends, opens the valve, and permits the air to escape; the water then rising buoys up the float and closes the valve.}}\n\n'''air-exhauster''' (ãr′eg-zâs″tėr), ''n.'' '''1.''' Same as ''air-escape.''—'''2.''' Any apparatus, as an air-pump, exhaust-fan, suction-blower, or steam-jet, used for withdrawing air from an inclosed place, for ventilation or for the creation of a vacuum. See ''air-pump'', ''blower'', ''fan'', and ''ventilator''.\n\n'''air-faucet''' (ãr′fâ″set), ''n.'' A stop-cock for letting air out or in.\n\n'''air-filter''' (ãr′fil″tėr), ''n.'' An apparatus for extracting dust, smoke, microscopic germs, etc., from the air. {{smaller|It consists of screens or strainers of woven-wire fabrics, gun-cotton, asbestos, slag-wool, or other flocculent material, through which the air is drawn; or of showers, sprays, or films of water or chemical solutions, through or over which the air to be filtered passes. Air-filters are used in the ventilation of buildings and railroad-cars, in physical research, in surgery, and in the recovery of by-products in manufactures.}}\n\n'''air-flue''' (ãr′flö), ''n.'' A conduit for air. See ''air-''",
+   "c3s2": "''box'', ''air-funnel'', and ''air-pipe''.\n\n¶\n'''air-fountain''' (ãr′foun″tạ̄n), ''n.'' An apparatus for producing a jet of water by the elastic force of air compressed in a close vessel and made to act on the surface of the water to be raised.\n\n'''air-funnel''' (ãr′fun″el), ''n.'' In ''ship-building'', a flue formed by the omission of a timber in the upper works of a vessel, and designed to promote the ventilation of the hold.\n\n'''air-furnace''' (ãr′fėr″nạ̄s), ''n.'' '''1.''' A reverberatory furnace (which see, under ''furnace'').—'''2.''' An air-heating furnace for warming apartments. {{smaller|Air is led into a space formed between an outer casing and the sides of a fire-pot and combustion-chamber, and, after becoming heated by contact with the walls of the latter, flows to the apartments which are to be warmed. See ''air-stove'', ''furnace'', and ''heater''.}}\n\n'''air-gage''' (ãr′gāj), ''n.'' An instrument for indicating the pressure of air or gases. {{smaller|It consists of a glass tube of uniform caliber, closed at the top and having its lower end dipped into a cup of mercury on the surface of which the air or gas presses, thus forcing mercury into the tube, and compressing the air within it to an amount directly proportioned to the pressure. This pressure can be read from a scale attached to the tube, the zero of the scale being usually placed at the upper surface of the mercurial column when the instrument is exposed to the ordinary atmospheric pressure. Also called ''air-manometer''.}}\n\n'''air-gas''' (ãr′gas), ''n.'' An inflammable illuminating gas made by charging ordinary atmospheric air with the vapors of petroleum, naphtha, or some similar substance, as the hydrocarbon called ''gasolene''.",
+   "c3s3": "¶\n'''air-gate''' (ãr′gāt), ''n.'' '''1.''' An underground roadway in a coal-mine, used chiefly for ventilation. [Eng. Midland coal-fields.]—'''2.''' In ''molding'', an orifice through which the displaced air and the gases which are formed escape from the mold while the molten matter is filling it.\n\n'''air-gossamer''' (ãr′gos″a̤-mėr), ''n.'' Same as ''air-thread''.\n\n'''air-governor''' (ãr′guv″ėr-nọr), ''n.'' A device, attached to pneumatic apparatus and machinery, for regulating the pressure or delivery of air.\n\n'''air-grating''' (ãr′grā″ting), ''n.'' A grating protecting or forming a ventilating orifice in a wall or partition. See ''air-brick''.\n\n'''air-gun''' (ãr′gun), ''n.'' A gun in which condensed air is used as the propelling agent. {{smaller|The bore of the barrel is connected with a reservoir inclosed within or attached without the stock, into which air is forced by a piston or plunger fitted to the bore, or by an independent}}\n[[FIGURE]]\n{{c|{{smaller|Air-gun.}}}}\n{{smaller|condenser. When the trigger is pulled it operates a valve which permits the sudden escape of the whole or of a portion of the condensed air into the barrel at the rear of the ball or dart, thus projecting the latter. In some forms the propelling agent is a compressed spring freed by the trigger. The reactive force of the spring compresses the air which interposes between it and the projectile, and the air acts upon and projects the ball.}}\n\n'''air-heading''' (ãr′hed″ing), ''n.'' An excavation in a mine through which air is made to pass for ventilation."
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0149 c1f1.png",
+   "c1f2": "century v01 p0149 c1f2.png",
+   "c2f1": "century v01 p0149 c2f1.png",
+   "c3f1": "century v01 p0149 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     639,
+     1048,
+     820,
+     1310
+    ],
+    "caption": [
+     620,
+     1316,
+     819,
+     1378
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     675,
+     1036,
+     840,
+     1323
+    ]
+   },
+   {
+    "box": [
+     94,
+     1812,
+     251,
+     2166
+    ],
+    "caption": [
+     106,
+     2170,
+     243,
+     2193
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     100,
+     1798,
+     256,
+     2145
+    ]
+   },
+   {
+    "box": [
+     848,
+     2113,
+     1488,
+     2940
+    ],
+    "caption": [
+     849,
+     2953,
+     1560,
+     3066
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     853,
+     2111,
+     1574,
+     2944
+    ]
+   },
+   {
+    "box": [
+     1686,
+     2809,
+     2196,
+     2915
+    ],
+    "caption": [
+     1901,
+     2938,
+     1986,
+     2954
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1647,
+     2802,
+     2295,
+     2930
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    2,
+    0
+   ],
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 5,
+    "input_tokens": 8154,
+    "output_tokens": 314,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9537,
+    "output_tokens": 6614,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c1f1": "right",
+   "c1f2": "left"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|air-carbureter|123|air-heading}}</noinclude>{{nop}}'''air-carbureter''' (ãr′kär″bū-ret-ėr), ''n.'' An apparatus in which air is passed through or over the surface of liquid hydrocarbons, and thus becomes charged with inflammable vapor. See ''gas-machine.''\n\n'''air-casing''' (ãr′kā″sing), ''n.'' An air-tight casing of sheet-iron placed around a pipe to prevent undue transmission of heat or cold; specifically, the casing placed around the base of the funnel or smoke-stack of a steamship, to prevent too great a transmission of heat to the deck.\n\n'''air-castle''' (ãr′kȧs″l), ''n.'' A castle in the air; a day-dream; a visionary scheme. See ''castle.''\n{{smaller block|Adventures, triumphs of strength and skill — these furnish subject-matter for the talk of the uncivilized man and the ''air-castles'' of the youth.\n{{right|''H. Spencer'', Prin. of Psychol., § 482.}}}}\n\n'''air-cavity''' (ãr′kav″i̤-ti), ''n.'' A cavity containing air; specifically, such a cavity occurring in the body or bones of an animal; a large air-sac or pneumatocyst of a bird.\n{{smaller block|In the latter case, ''air-cavities'' take the place of the medulla, which disappears, and so diminish permanently the specific gravity of the animal.\n{{right|''Gegenbaur'', Comp. Anat. (trans.), p. 573.}}}}\n\n'''air-cell''' (ãr′sel), ''n.'' '''1.''' In ''bot.'', one of the cavities in the leaves, stems, or other parts of plants, containing air. {{smaller|They are well seen in the bladders of seaweeds, and are found in other aquatic plants, which they serve to float.}} {{img float|file=century v01 p0149 c1f1.png|width=98px|align=right|cap={{smaller|Air-cells in Gulf-weed (''Sargassum vulgare'').}}}} '''2.''' In ''anat.'' and ''zoöl.'', a definite circumscribed cavity in the body, containing atmospheric air inhaled through air-passages which place it in direct communication with the outer air. {{smaller|The term is used for any such cavity, without reference to the technical meaning of ''cell'' (which see). An air-cell is generally of small size, if not microscopic, as one of those in lung-tissue; but it sometimes forms a great space or inflatable inclosed area, as the air-cells of birds, and is then also called ''air-space'', ''air-receptacle'', or ''pneumatocyst''. Specifically—(''a'') One of the small hemispherical saccules which beset the walls of the alveolar passages and infundibula of the lungs. Also called ''alveolus''. (''b'') One of the dilatations of the trachea or air-tube in insects forming the respiratory apparatus. (''c'') In ''ornith.'', a pneumatocyst; any one of the extra-pulmonary cavities of the body of a bird, containing air, which are continuous with one another and with one or more of the bronchial tubes. See ''pneumatocyst''.}}\n\n'''air-chamber''' (ãr′chām″bėr), ''n.'' '''1.''' A large cavity in an organic body containing air.—'''2.''' A compartment of a hydraulic engine or {{img float|file=century v01 p0149 c1f2.png|width=87px|align=left|cap={{smaller|Air-chamber.}}}} apparatus, as a pump, interposed between and connected with the supply- and delivery-passages, and containing air which by its elasticity equalizes the pressure and flow of the fluids. {{smaller|Thus, in a reciprocating force-pump, the impulse given to the fluid by the delivery-stroke compresses the air in the air-chamber, and this compressed air reacts upon the outflowing fluid to continue its motion during the reverse stroke, or during those intervals when the force imparted falls below the average or normal amount. The pressure and flow are thus made practically uniform, notwithstanding the intermittent or variable action of the force. For some special forms, see ''air-vessel''.}} '''3.''' Any compartment or chamber designed to contain air: as, the ''air-chamber'' of a life-boat.\n\n'''air-chambered''' (ãr′chām″bėrd), ''a.'' Furnished with an air-chamber or with air-chambers.\n{{smaller block|It [the life-boat] was ''air-chambered'' and buoyant.\n{{right|''Kane'', Sec. Grinn. Exp., I. 49.}}}}\n\n'''air-cock''' (ãr′kok), ''n.'' A cock used to control the admission or outflow of air. See ''cock''<sup>1</sup>, 8.\n\n'''air-compressor''' (ãr′kọm-pres″ọr), ''n.'' A machine for condensing air, usually in the form of a force-pump. See ''compressor''.\n\n'''air-cone''' (ãr′kōn), ''n.'' A cone in a marine engine designed to receive air and steam from the hot-well, and carry them off through a pipe at the top.\n\n'''air-cooler''' (ãr′kö″lėr), ''n.'' Any appliance for lowering the temperature of the air, as in hospitals, dwellings, and theaters. {{smaller|A common form consists of chambers filled with ice, or fitted with screens of light fabric kept constantly wet with cooling liquids,}} through which a current of air is forced. See ''refrigerating-chamber'', under ''refrigerate.''\n\n'''air-course''' (ãr′kōrs), ''n.'' A passage in a mine made or used for ventilating purposes; an airway.\n\n'''air-crossing''' (ãr′krôs″ing), ''n.'' A passageway or bridge constructed to carry one air-course over another, as in the ventilation of coal-mines.\n\n'''air-cushion''' (ãr′ku̇sh″o̤n), ''n.'' '''1.''' A bag made of an air-tight fabric used when inflated with air as a cushion for a seat.—'''2.''' Same as ''air-bag.''—'''3.''' A ball or cylinder (usually of india-rubber) filled with air and placed in a water-pipe, to act as a cushion for the water, or to receive the pressure or shock caused by a sudden stoppage of its flow, or by the expansion of the water in freezing.—'''4.''' Same as ''air-spring'' or ''pneumatic spring.''\n\n'''air-cylinder''' (ãr′sil″in-dėr), ''n.'' In ''gun.'', a device consisting of a cylinder and piston, used for checking the recoil of heavy guns by means of the elasticity of atmospheric air confined within it; a pneumatic buffer.\n\n'''air-dew''' (ãr′dū), ''n.'' Manna.  [Rare.]\n\n'''air-drain''' (ãr′drān), ''n.'' '''1.''' An empty space left around the external foundation-walls of a building to prevent the earth from lying against them and thus causing dampness.—'''2.''' In ''molding'', a large passage for the escape of gases from heavy castings while in the mold.\n\n'''air-drawn''' (ãr′drân), ''a.'' Drawn or depicted in the air: as, “the ''air-drawn'' dagger,” ''Shak.'', Macbeth, iii. 4.\n\n'''air-dried''' (ãr′drīd), ''a.'' Dried by or in the air: applied to fruits and materials from which moisture has been removed by exposure to currents of air under natural atmospheric conditions.\n\n'''air-drill''' (ãr′dril), ''n.'' A rock-drill driven by compressed air, as distinguished from a drill driven by steam. See ''rock-drill.''\n\n'''air-drum''' (ãr′drum), ''n.'' A drum-shaped chamber or reservoir for air; specifically, in ''ornith.'', a large lateral cervical pneumatocyst.\n{{smaller block|The great ''air-drums'' of our pinnated grouse and cock-of-the-plains.\n{{right|''Coues'', Key to N. A. Birds, p. 200.}}}}\n\n'''air-duct''' (ãr′dukt), ''n.'' A duct or passage conveying air; specifically, in ''ichth.'', the communication of the air-bladder with the intestinal canal. It is persistent in physostomous, temporary in physoclistous, fishes.\n\n'''aire<sup>1</sup>†''', ''n.'' An old form of ''aery''<sup>2</sup>.\n\n'''aire<sup>2</sup>''' (ī′re; mod. pron. ãr), ''n.''  [Ir., pl. ''airig''; cf. ''aireach'', a noble, a privileged person.]  In ''Irish antiq.'', a freeman; a gentleman; one of the privileged classes. {{smaller|Aires were of two classes: (''a'') the ''flaths'', or those who possessed property in land; and (''b'') the ''bo-aires'', who possessed cows and other chattels. The king was elected by these two classes.}}\n{{smaller block|Clansmen who possessed twenty-one cows and upwards were ''airig'' (sing. ''aire''), or, as we should say, had the franchise, and might fulfil the functions of bail, witness, etc.\n{{right|''Encyc. Brit.'', XIII. 257.}}}}\n{{smaller block|The upper classes were all ''aires''. To be eligible to the ''aire'' grade, the freeman should possess, besides a certain amount of wealth in cattle, a prescribed assortment of agricultural implements and household goods.\n{{right|''Encyc. Brit.'', IV. 252.}}}}\n\n'''air-endway''' (ãr′end″wā), ''n.'' A roadway or level driven into a coal-seam parallel with a main level, used chiefly for purposes of ventilation.  ''Gresley.'' [Eng.]\n\n'''air-engine''' (ãr′en″jin), ''n.'' A motor employing (''a'') the elastic force of air expanded by heat,\nor (''b'') air compressed by means of another and separate motor, called a ''compressor'', which is generally a steam-engine. {{smaller|Machine-drills, in mining, are generally run by compressed-air engines, the compressor}} being located at the surface, and the air-engines distributed underground, at the various points where their work is required.\n\n[[File:century v01 p0149 c2f1.png|center|322px]]\n{{c|{{smaller|Ericsson’s Hot-air Pumping-engine.}}}}\n{{c|{{smaller|''a'', beam; ''b'', air-piston; ''c'', transfer-piston; ''d'', cylinder; ''j'', air-piston link; ''k'', bell-crank; ''o'', side-rods; ''p'', transfer-piston rod; ''r'', pump; ''s'', air-chamber; ''t'', vacuum-chamber; ''u'', gas-furnace; ''v'', gas-burners; ''w'', gas-chamber; ''x'', water-jacket.}}}}\n\n'''air-equalizer''' (ãr′ē″kwal-ī-zėr), ''n.'' A device for distributing a current of air equally throughout its working-space.\n\n'''airer''' (ãr′ėr), ''n.''  [< ''air''<sup>1</sup>, ''v.'', + ''-er''<sup>1</sup>.]  '''1.''' One who airs or exposes to the air.—'''2.''' A screen for drying clothes, etc.\n\n'''air-escape''' (ãr′es-kāp″), ''n.'' An air-trap for the escape of air which collects in the upper bends of water-pipes and in other hydraulic apparatus. {{smaller|The usual form is that of a ball-cock (which see) inclosed in a chamber situated at the point at which the air is to be withdrawn, and so adjusted that as the water-level within is lowered by the pressure of the accumulated air the ball-float descends, opens the valve, and permits the air to escape; the water then rising buoys up the float and closes the valve.}}\n\n'''air-exhauster''' (ãr′eg-zâs″tėr), ''n.'' '''1.''' Same as ''air-escape.''—'''2.''' Any apparatus, as an air-pump, exhaust-fan, suction-blower, or steam-jet, used for withdrawing air from an inclosed place, for ventilation or for the creation of a vacuum. See ''air-pump'', ''blower'', ''fan'', and ''ventilator''.\n\n'''air-faucet''' (ãr′fâ″set), ''n.'' A stop-cock for letting air out or in.\n\n'''air-filter''' (ãr′fil″tėr), ''n.'' An apparatus for extracting dust, smoke, microscopic germs, etc., from the air. {{smaller|It consists of screens or strainers of woven-wire fabrics, gun-cotton, asbestos, slag-wool, or other flocculent material, through which the air is drawn; or of showers, sprays, or films of water or chemical solutions, through or over which the air to be filtered passes. Air-filters are used in the ventilation of buildings and railroad-cars, in physical research, in surgery, and in the recovery of by-products in manufactures.}}\n\n'''air-flue''' (ãr′flö), ''n.'' A conduit for air. See ''airbox'', ''air-funnel'', and ''air-pipe''.\n\n'''air-fountain''' (ãr′foun″tạ̄n), ''n.'' An apparatus for producing a jet of water by the elastic force of air compressed in a close vessel and made to act on the surface of the water to be raised.\n\n'''air-funnel''' (ãr′fun″el), ''n.'' In ''ship-building'', a flue formed by the omission of a timber in the upper works of a vessel, and designed to promote the ventilation of the hold.\n\n'''air-furnace''' (ãr′fėr″nạ̄s), ''n.'' '''1.''' A reverberatory furnace (which see, under ''furnace'').—'''2.''' An air-heating furnace for warming apartments. {{smaller|Air is led into a space formed between an outer casing and the sides of a fire-pot and combustion-chamber, and, after becoming heated by contact with the walls of the latter, flows to the apartments which are to be warmed. See ''air-stove'', ''furnace'', and ''heater''.}}\n\n'''air-gage''' (ãr′gāj), ''n.'' An instrument for indicating the pressure of air or gases. {{smaller|It consists of a glass tube of uniform caliber, closed at the top and having its lower end dipped into a cup of mercury on the surface of which the air or gas presses, thus forcing mercury into the tube, and compressing the air within it to an amount directly proportioned to the pressure. This pressure can be read from a scale attached to the tube, the zero of the scale being usually placed at the upper surface of the mercurial column when the instrument is exposed to the ordinary atmospheric pressure. Also called ''air-manometer''.}}\n\n'''air-gas''' (ãr′gas), ''n.'' An inflammable illuminating gas made by charging ordinary atmospheric air with the vapors of petroleum, naphtha, or some similar substance, as the hydrocarbon called ''gasolene''.\n\n'''air-gate''' (ãr′gāt), ''n.'' '''1.''' An underground roadway in a coal-mine, used chiefly for ventilation. [Eng. Midland coal-fields.]—'''2.''' In ''molding'', an orifice through which the displaced air and the gases which are formed escape from the mold while the molten matter is filling it.\n\n'''air-gossamer''' (ãr′gos″a̤-mėr), ''n.'' Same as ''air-thread''.\n\n'''air-governor''' (ãr′guv″ėr-nọr), ''n.'' A device, attached to pneumatic apparatus and machinery, for regulating the pressure or delivery of air.\n\n'''air-grating''' (ãr′grā″ting), ''n.'' A grating protecting or forming a ventilating orifice in a wall or partition. See ''air-brick''.\n\n'''air-gun''' (ãr′gun), ''n.'' A gun in which condensed air is used as the propelling agent. {{smaller|The bore of the barrel is connected with a reservoir inclosed within or attached without the stock, into which air is forced by a piston or plunger fitted to the bore, or by an independent}}\n{{smaller|condenser. When the trigger is pulled it operates a valve which permits the sudden escape of the whole or of a portion of the condensed air into the barrel at the rear of the ball or dart, thus projecting the latter. In some forms the propelling agent is a compressed spring freed by the trigger. The reactive force of the spring compresses the air which interposes between it and the projectile, and the air acts upon and projects the ball.}}\n\n[[File:century v01 p0149 c3f1.png|center|259px]]\n{{c|{{smaller|Air-gun.}}}}\n\n'''air-heading''' (ãr′hed″ing), ''n.'' An excavation in a mine through which air is made to pass for ventilation.<noinclude><references/></noinclude>"
+}

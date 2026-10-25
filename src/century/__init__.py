@@ -14,6 +14,8 @@ book, and reading pages from the scans is engine work still to be built.
 """
 from wikikit.corpora import Corpus
 
+from century.rules import etymology_spacing, one_citation_per_block, source_spacing
+
 #: Volume -> its Internet Archive item.  Volume 10's identifier is spelled
 #: differently by the scanning centre; it is the same set (UC, 1897, 300 ppi).
 IA_ITEMS = {
@@ -110,4 +112,7 @@ CENTURY = Corpus(
     # size.  Set small as each page is read; a caption found printed full size
     # has its {{smaller|…}} taken off at the desk.
     captions_small=True,
+    # What the book sets that a reading misses, set wherever a page's text is
+    # written (`century.rules`).
+    text_rules=(etymology_spacing, one_citation_per_block, source_spacing),
 )
