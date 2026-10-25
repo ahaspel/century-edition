@@ -31,9 +31,11 @@ citation, closing a definition, is set off by two spaces, as an etymology is
 ("…signification of terms of art or the professions.  Warton.", vol. 8
 p. 6209; "…of New South Wales.  A. H. Garrod, 1875.", vol. 1 p. 119).  Not
 a source after an example quoted in the definition, which follows at a word
-space ("…“soar airwards again,” Thackeray, Shabby-Genteel Story, iv.", p. 151);
-not one the definition goes on after ("Abroad. Burns. Also spelled abraid.",
-p. 44: the print does not show it).
+space ("…“soar airwards again,” Thackeray, Shabby-Genteel Story, iv.", p. 151).
+One the definition goes on after is set off as well (user, 2026-10-25:
+"Abroad. Burns. Also spelled abraid.", p. 44) — shaped as a source, never a
+field label, an abbreviation explained or a word a synonym paragraph defines
+(`_MID_FORM`).
 """
 from __future__ import annotations
 
@@ -178,6 +180,26 @@ _DEF_SOURCE = re.compile(r"(?:(?<=[.!?;:)])|(?<=[.!?]''))( )"
                          r"[  ]*(?:\n|$|\[|—|<))")
 
 
+#: the subjects a sense is marked with, in italic after a sentence's close:
+#: never a source ("''Naut.'', said of a vessel's sails", vol. 1 p. 29)
+_FIELDS = ("Naut", "Eccles", "Milit", "Mil", "Zoöl", "Zool", "Bot", "Anat", "Med", "Math", "Chem",
+           "Geol", "Mus", "Arch", "Her", "Ornith", "Entom", "Ichth", "Conch", "Mineral", "Physiol",
+           "Pathol", "Surg", "Gram", "Rhet", "Theol", "Philos", "Elect", "Mech", "Astron", "Geom",
+           "Print", "Com", "Hist", "Myth", "Bibl", "Law", "Logic", "Pros")
+#: a source the definition goes on after ("Abroad.  Burns.  Also spelled
+#: abraid.", vol. 1 p. 44) — the author's period his own, and no comma, "for"
+#: or number after it (a field label, an abbreviation explained, a sense's
+#: number), never one initial ("''A.'' (''L.'') ''Githago''"); or his period
+#: after the italic; or a comma, then a year or a work (never the word a
+#: synonym paragraph defines: "''Dwell'', to be domiciled")
+_MID_SOURCE = re.compile(
+    r"(?:(?<=[.!?;:)])|(?<=[.!?]''))( )"
+    r"(?=''(?!(?:" + "|".join(re.escape(f) for f in _FIELDS) + r")\.'')"
+    r"(?:[A-Z][^'\n]{1,40}\.''(?![,])(?! for )(?! \(?\d)"
+    r"|[A-Z][^'\n]{0,40}''\.(?!,)"
+    r"|[A-Z][^'\n]{0,40}(?:'',|,'') (?=[\dA-Z])))")
+
+
 def _outside_quotations(text: str) -> list[tuple[int, int]]:
     """The stretches of `text` outside its small blocks (citations, notes),
     its brackets (etymologies, labels) and its entries' heads up to their
@@ -212,9 +234,10 @@ def source_spacing(text: str) -> str:
     """Two word spaces before a source closing a definition (module doc)."""
     out, last = [], 0
     for a, b in _outside_quotations(text):
-        for m in _DEF_SOURCE.finditer(text, a, b):
-            out.append(text[last:m.start(1)] + SPACE)
-            last = m.start(1)
+        at = sorted({m.start(1) for r in (_DEF_SOURCE, _MID_SOURCE) for m in r.finditer(text, a, b)})
+        for k in at:
+            out.append(text[last:k] + SPACE)
+            last = k
     out.append(text[last:])
     return "".join(out)
 
