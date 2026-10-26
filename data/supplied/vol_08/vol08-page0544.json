@@ -1,0 +1,223 @@
+{
+ "volume": 8,
+ "page_number": 544,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n543.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n543.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-23",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 1456,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     143,
+     0,
+     2442,
+     115
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     143,
+     115,
+     863,
+     1194
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     143,
+     1194,
+     863,
+     2254
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     143,
+     2254,
+     863,
+     3232
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     863,
+     115,
+     1606,
+     1135
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     863,
+     1135,
+     1606,
+     2205
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     863,
+     2205,
+     1606,
+     3232
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1606,
+     115,
+     2442,
+     187
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1606,
+     187,
+     2442,
+     1285
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1987,
+     190,
+     2332,
+     1107
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1606,
+     1285,
+     2442,
+     2223
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1606,
+     2223,
+     2442,
+     3232
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|vessel|6740|vested}}",
+   "c1s1": "{{smaller|Specifically, in ''metal.'', the converter in which Bessemer steel is made. See ''steel''<sup>1</sup>.}}\n{{smaller block|As far as my observation goes, metallurgical writers almost invariably use the word converter, while in the steel works the word ''vessel'' is almost always used.\n{{right|''H. M. Howe'', Metal. of Steel, p. 339.}}}}\n\n'''2.''' A ship; a craft of any kind: usually a larger craft than a boat, but in law often construed to mean any floating structure.\n{{smaller block|<poem>Let ’s to the seaside, ho!\nAs well to see the ''vessel'' that ’s come in\nAs to throw out our eyes for brave Othello.</poem>\n{{right|''Shak.'', Othello, ii. 1. 37.}}}}\n{{smaller block|<poem>He sent it with a small ''vessel''\nThat there was quickly gaun to sea.</poem>\n{{right|''John Thomson and the Turk'' (Child’s Ballads, III. 353).}}}}\n\n'''3.''' In ''anat.'' and ''zoöl.'', any duct or canal in which a fluid, as blood or lymph, is secreted, contained, or conveyed, as an artery, vein, capillary, lymphatic, or spermatic; especially, a blood-vessel. A part or organ pervaded or well provided with vessels is said to be ''vascular.'' —'''4.''' In ''bot.'', same as ''duct''—that is, a row of cells which have lost their intervening partitions, and consequently form a long continuous canal. {{smaller|The walls of the vessel or duct may be variously marked by pits, or by spiral, annular, or reticulated thickenings.}}\n\n'''5.''' Figuratively, something conceived as formed to receive or contain; hence, especially in Scriptural phraseology, a person into whom anything is conceived as poured or infused, or to whom something has been imparted; a recipient.\n\n{{smaller block|He is a chosen ''vessel'' unto me, to bear my name before}}",
+   "c1s2": "{{smaller block|the Gentiles, and kings, and the children of Israel.\n{{right|Acts ix. 15.}}}}\n{{smaller block|What if God, willing to shew his wrath, and to make his power known, endured with much long-suffering the ''vessels'' of wrath fitted to destruction?{{right|Rom. ix. 22.}}}}\n'''6†.''' Vessels collectively; plate.\n{{smaller block|The ''vessel'' of the temple he with him ladde.\n{{right|''Chaucer'', Monk’s Tale, l. 158.}}}}\n{{smaller block|‘Goth, bringeth forth the ''vesseulx,''” quod he.\n{{right|''Chaucer'', Monk’s Tale, l. 204.}}}}\n{{smaller block|<poem>Of gold ther is a borde, & tretels ther bi,\nOf siluer other ''vesselle'' gilte fulle richeli.</poem>\n{{right|''Rob. of Brunne'', p. 152.}}}}\n'''Acoustic, ambulacral, annular, ascending, blind, capillary, cardiac, coronary, dorsal, gluteal, intercostal vessel.''' {{smaller|See the adjectives.}}—'''Lacteal vessels,''' {{smaller|lymphatics which absorb chyle from the intestinal canal. See ''lacteal'', ''n.''}}—'''Laticiferous, lymphatic, Malpighian, merchant vessel.''' {{smaller|See the adjectives.}}—'''Milk vessel.''' {{smaller|See ''milk-vessel.''}}—'''Obliterated vessel.''' {{smaller|See ''obliterate.''}}—'''Scalariform, spiral, umbilical,''' etc., '''vessel.''' {{smaller|See the adjectives.}}—'''Squeezed-in vessel.''' {{smaller|See ''squeeze.''}}—'''The weaker vessel,''' {{smaller|a phrase applied, now often jocularly, to a woman, in allusion to 1 Pet. iii. 7: “Giving honour unto the wife as unto ''the weaker vessel.''”}}\n{{smaller block|I must comfort ''the weaker vessel,'' as doublet and hose ought to show itself courageous to petticoat.\n{{right|''Shak.'', As you Like it, ii. 4. 6.}}}}\n\n¶\n'''vessel†''' (ves′el), ''v. t.'' [< ME. ''vesselen''; < ''vessel'', ''n.''] To put into a vessel.\n{{smaller block|<poem>Aloes tweyne unces epatike;\nLet ''vessel'' it, and set it uppe in smyke.</poem>\n{{right|''Palladius'', Husbondrie (E. E. T. S.), p. 200.}}}}\n{{smaller block|Take that earth and . . . ''vessel'' it, and in that . . . set the seed.{{right|''Bacon'', Nat. Hist., § 529.}}}}\n\n'''vesselful''' (ves′el-fu̇l), ''n.'' [< ''vessel'' + ''-ful.''] As much as a vessel will hold.",
+   "c1s3": "¶\n'''veseling†''', ''n.'' [ME. ''vessellinge''; < ''vessel'' + ''-ing''<sup>1</sup>.] Vessels collectively.\n{{smaller block|<poem>Whenne thai beth colde in pitched ''vessellinge''\nAnd cleyed close hem up.</poem>\n{{right|''Palladius'', Husbondrie (E. E. T. S.), p. 118.}}}}\n\n'''vesselment†''', ''n.'' [< ME. ''vesselment'', ''vesselement'', < OF. ''vaissellement'', vessels, plate, furniture, < ''vaisselle'', vessels, plate: see ''vessel''.] Plate; furniture. ''Halliwell.''\n{{smaller block|<poem>Curteynes or outher vestyment,\nOr any outher ''vesselement''.</poem>\n{{right|''MS. Harl.'' 1701, f. 62.}}\n<poem>Deuised he the ''vesselment'', the vestures clene,\nWyth slyȝt of his ciences, his souerayn to loue.</poem>\n{{right|''Alliterative Poems'' (ed. Morris), ii. 1288.}}}}\n\n'''vesses''' (ves′ez), ''n.'' [Also ''vessets''; prob. connected with ME. ''fasel'', a fringe, AS. ''fæs'', thread, fiber.] A sort of worsted. ''Halliwell.''\n\n'''vessignon''' (ves′i-nyon), ''n.'' [< F. ''vessignon'', a wind-gall (on a horse), < L. ''vesica'', a bladder, a blister: see ''vesica''.] A kind of soft swelling on a horse’s leg; a wind-gall.\n\n'''vest''' (vest), ''n.'' [< F. ''veste'', a vest, jacket, = Sp. Pg. ''veste'' = It. ''veste'', ''vesta'', < L. ''vestis'', a garment, gown, robe, vestment, clothing, vesture, = Goth. ''wasti'', clothes; cf. Gr. ἐσθής, dress, clothing; < √ ''ves'' = Gr. ἐννύναι (√ Ϝεσ), clothe, = Skt. √ ''vas'', put on (clothes), = Goth. ''wasjan'' = AS. ''werian'', put on (clothes), wear: see ''wear''<sup>1</sup>. From the L. ''vestis'' are also ult. E. ''vest'', ''v.'', ''vestment'', ''vestry'', ''vesture'', ''divest'', ''invest'', ''travesty'', etc.] '''1.'''",
+   "c2s1": "An article of clothing covering the person; an outer garment; a vestment. [Archaic.]\n{{smaller block|<poem>Over his lucid arms\nA military ''vest'' of purple flow’d.</poem>\n{{right|''Milton'', P. L., xi. 241.}}}}\n{{smaller block|<poem>The rivets of the ''vest''\nWhich girds in steel his ample breast.</poem>\n{{right|''Whittier'', Mogg Megone, iii.}}}}\n'''2.''' Figuratively, garment; dress; array; vesture.\n{{smaller block|<poem>Not seldom, clad in radiant ''vest'',\nDeceitfully goes forth the morn.</poem>\n{{right|''Wordsworth'', Near the Spring of the Hermitage.}}}}\n{{smaller block|<poem>Wherever he be flown, whatever ''vest''\nThe being hath put on which lately here\nSo many-friended was.</poem>\n{{right|''Lowell'', Agassiz, vi. 2.}}}}\n'''3.''' A body-garment for men’s wear, at different times of distinct types. {{smaller|(''a'') Originally, a garment like a cassock, said by Pepys to have been adopted by Charles II. as the fashion for his court, and ridiculed by Louis XIV. of France, who put his servants into such vests.}}\n{{smaller block|<poem>You are not to learn,\nAt these Years, how absolutely necessary a rich ''Vest''\nAnd a Perruque are to a Man that aims at their [ladies’]\nFavours.</poem>\n{{right|''Etherege'', She Would if she Could, iii. 3.}}}}\n{{smaller block|The ''vest'' is gathered up before them [figures on medals] like an apron, which you must suppose filled with fruits as well as the cornu-copiæ. ''Addison'', Ancient Medals, ii.}}\n{{smaller block|Under his doublet Charles appeared in a ''vest'', “being a long cassock,” as Pepys explains, “close to the body, of black cloth and pinked with white silk under it.”\n{{right|''Encyc. Brit.'', VI. 473.}}}}\n{{smaller|(''b'') A body-garment of later times; especially, the waistcoat in the ordinary modern sense — that is, a short garment without sleeves, buttoning down the front, and hav-}}",
+   "c2s2": "{{smaller|ing the back concealed by the coat.}}\n{{smaller block|Numerous pegs with coats and “pants” and “''vests''”—as he was in the habit of calling waistcoats and pantaloons or trousers—hanging up as if the owner had melted out of them.\n{{right|''O. W. Holmes'', Professor, vii.}}\nIf tailors would only print upon waistcoats, I would give double price for a ''vest'' bearing this inscription.\n{{right|''R. D. Blackmore'', Lorna Doone, lxvi.}}}}\n'''4.''' An outer garment, or part of such a garment, for women. {{smaller|Especially—(''a'') A sort of jacket with or without sleeves, and known by many different names according to changing fashion: as, Breton ''vest'', Oriental ''vest'', etc. (''b'') A trimming or facing of the front of the bodice, sometimes with a different material, and following more or less closely the form of a man’s vest: a fashion often reappearing. Over the vest of this form a coat is generally worn.}}\n'''5.''' An undergarment knitted or woven on the stocking-loom. ''Vest'' and ''undervest'' are more common in England; ''undershirt'' in the United States.\n\n'''vest''' (vest), ''v.'' [< OF. ''vestir'', F. ''vêtir'' = Sp. Pg. ''vestir'' = It. ''vestire'', < L. ''vestire'', clothe, dress, < ''vestis'', a garment, clothing: see ''vest'', ''n.'' Cf. ''wear''<sup>1</sup>, ''v.''] '''I.''' ''trans.'' '''1.''' To clothe with or as with a garment, vest, or vestment; robe; dress; cover, surround, or encompass closely.\n{{smaller block|''Vested'' all in white, pure as her mind.\n{{right|''Milton'', Sonnets, xviii.}}}}\n'''2.''' To invest or clothe, as with authority; put in possession (of); endow; put more or less formally in occupation (of): followed by ''with''.\n{{smaller block|To settle men’s consciences, ’tis necessary that they know the person who by right is ''vested with'' power over them.\n{{right|''Locke.''}}\n<poem>Had I been ''vested with'' the Monarch’s Pow’r,</poem>}}",
+   "c2s3": "{{smaller block|Thou must have sigh’d, unlucky Youth, in vain.\n{{right|''Prior'', To Mr. Howard.}}}}\n'''3.''' To place or put in possession or at the disposal of; give or confer formally or legally an immediate fixed right of present or future possession, occupancy, or enjoyment of; commit to: followed by ''in''.\n\n{{smaller block|So, instead of getting licenses in mortmain to enable him to ''vest'' his lands ''in'' the Gild of the Holy Cross, he made a deed of feoffment, ''vesting'' them ''in'' persons therein named. {{right|''English Gilds'' (E. E. T. S.), p. 252.}}}}\n\n{{smaller block|I will not trust executive power, ''vested in'' the hands of a single magistrate, to keep the vigils of liberty.\n{{right|''D. Webster'', Speech, Senate, May 7, 1834.}}}}\n'''4.''' To lay out, as money or capital; invest: as, to ''vest'' money in land. [Rare.] ''Imp. Dict.''\n\n'''II.''' ''intrans.'' '''1.''' To put on clothing or vestments.\n\n{{smaller block|Even in the fourteenth and fifteenth centuries it was the common custom for priests, at least in England, to ''vest'' in the sanctuary. {{right|''Cath. Dict.'', p. 838.}}}}\n'''2.''' To come or descend; devolve; take effect, as a title or right: with ''in''.\n\n{{smaller block|The supreme power could not be said to ''vest in'' them exclusively. {{right|''Brougham.''}}}}\n\n{{smaller block|It is already the usage to speak of a trust as a thing that ''vests'', and as a thing that may be divested.\n{{right|''Bentham'', Introd. to Morals and Legislation, xvi. 27, note.}}}}\n\n'''To vest in interest''', {{smaller|to pass or devolve as matter of right or title irrespective of any immediate right of possession.}}—'''To vest in possession''', {{smaller|to pass in possession or immediate right of possession. See ''vested''.}}\n\n¶\n'''Vesta''' (ves′tä̤), ''n.'' [L., = Gr. Ἑστία, the goddess of the hearth, √ ''vas'', Skt. √ ''ush'', burn:",
+   "c3s1": "see ''ustion'', ''Aurora'', ''Easter''.] '''1.''' One of the chief divinities of the ancient Romans, equivalent",
+   "c3s2": "[[FIGURE]]\n{{c|{{smaller|The Giustiniani Statue of Vesta (Hestia).—Torlonia Museum, Rome.}}}}\nto the Greek Hestia, one of the twelve great Olympians, the virgin goddess of the hearth, presiding over both the private family altar and the central altar of the city, the tribe, or the race. {{smaller|She was worshiped along with the Penates at every meal, when the family assembled round the altar or hearth, which was in the center of the house. Æneas was said to have carried the sacred fire (which was her symbol) from Troy, and brought it to Italy, and it was preserved at Rome by the state in the sanctuary of the goddess, which stood in the Forum. To guard this fire from becoming extinguished, it was watched and tended by six stainless virgins, called ''vestals''. The Roman temples of Vesta were circular, preserving the form of the primitive huts of the Latin race, because it was in such a hut that the sacred fire was first tended by the young girls while their parents and brothers were absent in the chase or pasture-ground. See also cuts under ''hut-urn'' and ''monopteron''.}} '''2.''' The fourth planetoid, discovered by Olbers, at Bremen, in 1807.—'''3.''' [''l. c.''] A wax match which may be ignited by friction.",
+   "c3s3": "¶\n{{smaller block|The door of a small closet here attracted the young man’s attention; and, striking a ''vesta'', he opened it and entered.\n{{right|''R. L. Stevenson'', The Dynamiter, p. 178.}}}}\n\n'''vestal''' (ves′tal), ''a.'' and ''n.'' [= F. ''vestale'', n., = Sp. Pg. ''vestal'' = It. ''vestale'', < L. ''Vestalis'', of Vesta, as a noun (sc. ''virgo'') a vestal virgin, < ''Vesta'', Vesta: see ''Vesta''.] '''I.''' ''a.'' '''1.''' Of or pertaining to Vesta, the classical goddess of the sacred fire and of the household and the state.\n{{smaller block|<poem>When thou shouldst come,\nThen my cot with light should shine\nPurer than the ''vestal'' fire.</poem>\n{{right|''Drayton'', Shepherd’s Sirena.}}}}\n'''2.''' Pertaining to or characteristic of a vestal virgin or a nun.\n{{smaller block|''Vestal'' modesty.\n{{right|''Shak.'', R. and J., iii. 3. 38.}}}}\n{{smaller block|<poem>My ''vestal'' habit me contenting more\nThan all the robes adorning me before.</poem>\n{{right|''Drayton'', Matilda to King John.}}}}\n\n'''II.''' ''n.'' '''1.''' Among the ancient Romans, a virgin consecrated to Vesta and to the service of watching the sacred fire, which was kept perpetually burning upon her altar. {{smaller|The vestals were at first four in number, afterward six. They entered the service of the goddess at from six to ten years of age, their term of service lasting thirty years. They were then permitted to retire and to marry, but few did so, for, as vestals, they were treated with great honor, and had important public privileges. Their persons were inviolable, any offense against them being punished with death, and they were treated in all their relations with the highest distinction and reverence. A vestal who broke her}}",
+   "c3s4": "{{smaller|vow of chastity was immured alive in an underground vault amid public mourning. There were very few such instances; in one of them, under Domitian, the chief of the vestals was put to death under a false charge trumped up by the emperor.}} Hence—'''2.''' A virgin; a woman of spotless chastity; sometimes, a virgin who devotes her life entirely to the service of religion; a nun; a religieuse.\n{{smaller block|Shall ’s go hear the ''vestals'' sing?\n{{right|''Shak.'', Pericles, iv. 5. 7.}}\n<poem>She would a dedicated ''vestal'' prove,\nAnd give her virgin vows to heaven and love.</poem>\n{{right|''Crabbe'', Works, VII. 94.}}}}\n'''3.''' In ''entom.'': (''a'') The geometrid moth ''Sterrha sacraria'': popularly so called in England. (''b'') A gossamer-winged butterfly; any member of the ''Vestales''.\n\n'''Vestales†''' (ves-tā′lēz), ''n. pl.'' [NL.: see ''vestal''.] A group of butterflies; the vestals, virgins, or gossamer-winged butterflies.\n\n'''vestament†''', ''n.'' Same as ''vestment''.\n{{smaller block|His ''vestaments'' sit as if they grew upon him.\n{{right|''Massinger'', Fatal Dowry, iv. 1.}}}}\n\n'''vested''' (ves′ted), ''p. a.'' '''1.''' Clothed; especially, wearing, or having assumed, state robes or some ceremonial costume: as, a ''vested'' choir.\n{{smaller block|<poem>A troop of yellow-''vested'' white-haired Jews,\nBound for their own land, where redemption dawns.</poem>\n{{right|''Browning'', Paracelsus, iv.}}}}\n'''2.''' In ''her.'', clothed; draped: used especially when the clothing is of a different tincture from the rest of the bearing. This blazon is more"
+  },
+  "figure_files": {
+   "c3f1": "century v08 p0544 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1999,
+     202,
+     2320,
+     1095
+    ],
+    "caption": [
+     1995,
+     1104,
+     2334,
+     1166
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1996,
+     133,
+     2298,
+     1098
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 8,
+    "output_tokens": 92,
+    "cache_creation_input_tokens": 4684,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 10078,
+    "output_tokens": 9933,
+    "cache_creation_input_tokens": 7932,
+    "cache_read_input_tokens": 35694
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|vessel|6740|vested}}</noinclude>{{smaller|Specifically, in ''metal.'', the converter in which Bessemer steel is made. See ''steel''<sup>1</sup>.}}\n{{smaller block|As far as my observation goes, metallurgical writers almost invariably use the word converter, while in the steel works the word ''vessel'' is almost always used.\n{{right|''H. M. Howe'', Metal. of Steel, p. 339.}}}}\n\n'''2.''' A ship; a craft of any kind: usually a larger craft than a boat, but in law often construed to mean any floating structure.\n{{smaller block|<poem>Let ’s to the seaside, ho!\nAs well to see the ''vessel'' that ’s come in\nAs to throw out our eyes for brave Othello.</poem>\n{{right|''Shak.'', Othello, ii. 1. 37.}}}}\n{{smaller block|<poem>He sent it with a small ''vessel''\nThat there was quickly gaun to sea.</poem>\n{{right|''John Thomson and the Turk'' (Child’s Ballads, III. 353).}}}}\n\n'''3.''' In ''anat.'' and ''zoöl.'', any duct or canal in which a fluid, as blood or lymph, is secreted, contained, or conveyed, as an artery, vein, capillary, lymphatic, or spermatic; especially, a blood-vessel. A part or organ pervaded or well provided with vessels is said to be ''vascular.'' —'''4.''' In ''bot.'', same as ''duct''—that is, a row of cells which have lost their intervening partitions, and consequently form a long continuous canal. {{smaller|The walls of the vessel or duct may be variously marked by pits, or by spiral, annular, or reticulated thickenings.}}\n\n'''5.''' Figuratively, something conceived as formed to receive or contain; hence, especially in Scriptural phraseology, a person into whom anything is conceived as poured or infused, or to whom something has been imparted; a recipient.\n\n{{smaller block|He is a chosen ''vessel'' unto me, to bear my name before the Gentiles, and kings, and the children of Israel.\n{{right|Acts ix. 15.}}}}\n{{smaller block|What if God, willing to shew his wrath, and to make his power known, endured with much long-suffering the ''vessels'' of wrath fitted to destruction?{{right|Rom. ix. 22.}}}}\n'''6†.''' Vessels collectively; plate.\n{{smaller block|The ''vessel'' of the temple he with him ladde.\n{{right|''Chaucer'', Monk’s Tale, l. 158.}}}}\n{{smaller block|‘Goth, bringeth forth the ''vesseulx,''” quod he.\n{{right|''Chaucer'', Monk’s Tale, l. 204.}}}}\n{{smaller block|<poem>Of gold ther is a borde, & tretels ther bi,\nOf siluer other ''vesselle'' gilte fulle richeli.</poem>\n{{right|''Rob. of Brunne'', p. 152.}}}}\n'''Acoustic, ambulacral, annular, ascending, blind, capillary, cardiac, coronary, dorsal, gluteal, intercostal vessel.''' {{smaller|See the adjectives.}}—'''Lacteal vessels,''' {{smaller|lymphatics which absorb chyle from the intestinal canal. See ''lacteal'', ''n.''}}—'''Laticiferous, lymphatic, Malpighian, merchant vessel.''' {{smaller|See the adjectives.}}—'''Milk vessel.''' {{smaller|See ''milk-vessel.''}}—'''Obliterated vessel.''' {{smaller|See ''obliterate.''}}—'''Scalariform, spiral, umbilical,''' etc., '''vessel.''' {{smaller|See the adjectives.}}—'''Squeezed-in vessel.''' {{smaller|See ''squeeze.''}}—'''The weaker vessel,''' {{smaller|a phrase applied, now often jocularly, to a woman, in allusion to 1 Pet. iii. 7: “Giving honour unto the wife as unto ''the weaker vessel.''”}}\n{{smaller block|I must comfort ''the weaker vessel,'' as doublet and hose ought to show itself courageous to petticoat.\n{{right|''Shak.'', As you Like it, ii. 4. 6.}}}}\n\n'''vessel†''' (ves′el), ''v. t.'' [< ME. ''vesselen''; < ''vessel'', ''n.''] To put into a vessel.\n{{smaller block|<poem>Aloes tweyne unces epatike;\nLet ''vessel'' it, and set it uppe in smyke.</poem>\n{{right|''Palladius'', Husbondrie (E. E. T. S.), p. 200.}}}}\n{{smaller block|Take that earth and . . . ''vessel'' it, and in that . . . set the seed.{{right|''Bacon'', Nat. Hist., § 529.}}}}\n\n'''vesselful''' (ves′el-fu̇l), ''n.'' [< ''vessel'' + ''-ful.''] As much as a vessel will hold.\n\n'''veseling†''', ''n.'' [ME. ''vessellinge''; < ''vessel'' + ''-ing''<sup>1</sup>.] Vessels collectively.\n{{smaller block|<poem>Whenne thai beth colde in pitched ''vessellinge''\nAnd cleyed close hem up.</poem>\n{{right|''Palladius'', Husbondrie (E. E. T. S.), p. 118.}}}}\n\n'''vesselment†''', ''n.'' [< ME. ''vesselment'', ''vesselement'', < OF. ''vaissellement'', vessels, plate, furniture, < ''vaisselle'', vessels, plate: see ''vessel''.] Plate; furniture. ''Halliwell.''\n{{smaller block|<poem>Curteynes or outher vestyment,\nOr any outher ''vesselement''.</poem>\n{{right|''MS. Harl.'' 1701, f. 62.}}\n<poem>Deuised he the ''vesselment'', the vestures clene,\nWyth slyȝt of his ciences, his souerayn to loue.</poem>\n{{right|''Alliterative Poems'' (ed. Morris), ii. 1288.}}}}\n\n'''vesses''' (ves′ez), ''n.'' [Also ''vessets''; prob. connected with ME. ''fasel'', a fringe, AS. ''fæs'', thread, fiber.] A sort of worsted. ''Halliwell.''\n\n'''vessignon''' (ves′i-nyon), ''n.'' [< F. ''vessignon'', a wind-gall (on a horse), < L. ''vesica'', a bladder, a blister: see ''vesica''.] A kind of soft swelling on a horse’s leg; a wind-gall.\n\n'''vest''' (vest), ''n.'' [< F. ''veste'', a vest, jacket, = Sp. Pg. ''veste'' = It. ''veste'', ''vesta'', < L. ''vestis'', a garment, gown, robe, vestment, clothing, vesture, = Goth. ''wasti'', clothes; cf. Gr. ἐσθής, dress, clothing; < √ ''ves'' = Gr. ἐννύναι (√ Ϝεσ), clothe, = Skt. √ ''vas'', put on (clothes), = Goth. ''wasjan'' = AS. ''werian'', put on (clothes), wear: see ''wear''<sup>1</sup>. From the L. ''vestis'' are also ult. E. ''vest'', ''v.'', ''vestment'', ''vestry'', ''vesture'', ''divest'', ''invest'', ''travesty'', etc.] '''1.''' An article of clothing covering the person; an outer garment; a vestment. [Archaic.]\n{{smaller block|<poem>Over his lucid arms\nA military ''vest'' of purple flow’d.</poem>\n{{right|''Milton'', P. L., xi. 241.}}}}\n{{smaller block|<poem>The rivets of the ''vest''\nWhich girds in steel his ample breast.</poem>\n{{right|''Whittier'', Mogg Megone, iii.}}}}\n'''2.''' Figuratively, garment; dress; array; vesture.\n{{smaller block|<poem>Not seldom, clad in radiant ''vest'',\nDeceitfully goes forth the morn.</poem>\n{{right|''Wordsworth'', Near the Spring of the Hermitage.}}}}\n{{smaller block|<poem>Wherever he be flown, whatever ''vest''\nThe being hath put on which lately here\nSo many-friended was.</poem>\n{{right|''Lowell'', Agassiz, vi. 2.}}}}\n'''3.''' A body-garment for men’s wear, at different times of distinct types. {{smaller|(''a'') Originally, a garment like a cassock, said by Pepys to have been adopted by Charles II. as the fashion for his court, and ridiculed by Louis XIV. of France, who put his servants into such vests.}}\n{{smaller block|<poem>You are not to learn,\nAt these Years, how absolutely necessary a rich ''Vest''\nAnd a Perruque are to a Man that aims at their [ladies’]\nFavours.</poem>\n{{right|''Etherege'', She Would if she Could, iii. 3.}}}}\n{{smaller block|The ''vest'' is gathered up before them [figures on medals] like an apron, which you must suppose filled with fruits as well as the cornu-copiæ. ''Addison'', Ancient Medals, ii.}}\n{{smaller block|Under his doublet Charles appeared in a ''vest'', “being a long cassock,” as Pepys explains, “close to the body, of black cloth and pinked with white silk under it.”\n{{right|''Encyc. Brit.'', VI. 473.}}}}\n{{smaller|(''b'') A body-garment of later times; especially, the waistcoat in the ordinary modern sense — that is, a short garment without sleeves, buttoning down the front, and having the back concealed by the coat.}}\n{{smaller block|Numerous pegs with coats and “pants” and “''vests''”—as he was in the habit of calling waistcoats and pantaloons or trousers—hanging up as if the owner had melted out of them.\n{{right|''O. W. Holmes'', Professor, vii.}}\nIf tailors would only print upon waistcoats, I would give double price for a ''vest'' bearing this inscription.\n{{right|''R. D. Blackmore'', Lorna Doone, lxvi.}}}}\n'''4.''' An outer garment, or part of such a garment, for women. {{smaller|Especially—(''a'') A sort of jacket with or without sleeves, and known by many different names according to changing fashion: as, Breton ''vest'', Oriental ''vest'', etc. (''b'') A trimming or facing of the front of the bodice, sometimes with a different material, and following more or less closely the form of a man’s vest: a fashion often reappearing. Over the vest of this form a coat is generally worn.}}\n'''5.''' An undergarment knitted or woven on the stocking-loom. ''Vest'' and ''undervest'' are more common in England; ''undershirt'' in the United States.\n\n'''vest''' (vest), ''v.'' [< OF. ''vestir'', F. ''vêtir'' = Sp. Pg. ''vestir'' = It. ''vestire'', < L. ''vestire'', clothe, dress, < ''vestis'', a garment, clothing: see ''vest'', ''n.'' Cf. ''wear''<sup>1</sup>, ''v.''] '''I.''' ''trans.'' '''1.''' To clothe with or as with a garment, vest, or vestment; robe; dress; cover, surround, or encompass closely.\n{{smaller block|''Vested'' all in white, pure as her mind.\n{{right|''Milton'', Sonnets, xviii.}}}}\n'''2.''' To invest or clothe, as with authority; put in possession (of); endow; put more or less formally in occupation (of): followed by ''with''.\n{{smaller block|To settle men’s consciences, ’tis necessary that they know the person who by right is ''vested with'' power over them.\n{{right|''Locke.''}}\n<poem>Had I been ''vested with'' the Monarch’s Pow’r,</poem>}}\n{{smaller block|Thou must have sigh’d, unlucky Youth, in vain.\n{{right|''Prior'', To Mr. Howard.}}}}\n'''3.''' To place or put in possession or at the disposal of; give or confer formally or legally an immediate fixed right of present or future possession, occupancy, or enjoyment of; commit to: followed by ''in''.\n\n{{smaller block|So, instead of getting licenses in mortmain to enable him to ''vest'' his lands ''in'' the Gild of the Holy Cross, he made a deed of feoffment, ''vesting'' them ''in'' persons therein named. {{right|''English Gilds'' (E. E. T. S.), p. 252.}}}}\n\n{{smaller block|I will not trust executive power, ''vested in'' the hands of a single magistrate, to keep the vigils of liberty.\n{{right|''D. Webster'', Speech, Senate, May 7, 1834.}}}}\n'''4.''' To lay out, as money or capital; invest: as, to ''vest'' money in land. [Rare.] ''Imp. Dict.''\n\n'''II.''' ''intrans.'' '''1.''' To put on clothing or vestments.\n\n{{smaller block|Even in the fourteenth and fifteenth centuries it was the common custom for priests, at least in England, to ''vest'' in the sanctuary. {{right|''Cath. Dict.'', p. 838.}}}}\n'''2.''' To come or descend; devolve; take effect, as a title or right: with ''in''.\n\n{{smaller block|The supreme power could not be said to ''vest in'' them exclusively. {{right|''Brougham.''}}}}\n\n{{smaller block|It is already the usage to speak of a trust as a thing that ''vests'', and as a thing that may be divested.\n{{right|''Bentham'', Introd. to Morals and Legislation, xvi. 27, note.}}}}\n\n'''To vest in interest''', {{smaller|to pass or devolve as matter of right or title irrespective of any immediate right of possession.}}—'''To vest in possession''', {{smaller|to pass in possession or immediate right of possession. See ''vested''.}}\n\n'''Vesta''' (ves′tä̤), ''n.'' [L., = Gr. Ἑστία, the goddess of the hearth, √ ''vas'', Skt. √ ''ush'', burn: see ''ustion'', ''Aurora'', ''Easter''.] '''1.''' One of the chief divinities of the ancient Romans, equivalent {{img float|file=century v08 p0544 c3f1.png|width=85px|align=right|cap={{smaller|The Giustiniani Statue of Vesta (Hestia).—Torlonia Museum, Rome.}}}} to the Greek Hestia, one of the twelve great Olympians, the virgin goddess of the hearth, presiding over both the private family altar and the central altar of the city, the tribe, or the race. {{smaller|She was worshiped along with the Penates at every meal, when the family assembled round the altar or hearth, which was in the center of the house. Æneas was said to have carried the sacred fire (which was her symbol) from Troy, and brought it to Italy, and it was preserved at Rome by the state in the sanctuary of the goddess, which stood in the Forum. To guard this fire from becoming extinguished, it was watched and tended by six stainless virgins, called ''vestals''. The Roman temples of Vesta were circular, preserving the form of the primitive huts of the Latin race, because it was in such a hut that the sacred fire was first tended by the young girls while their parents and brothers were absent in the chase or pasture-ground. See also cuts under ''hut-urn'' and ''monopteron''.}} '''2.''' The fourth planetoid, discovered by Olbers, at Bremen, in 1807.—'''3.''' [''l. c.''] A wax match which may be ignited by friction.\n\n{{smaller block|The door of a small closet here attracted the young man’s attention; and, striking a ''vesta'', he opened it and entered.\n{{right|''R. L. Stevenson'', The Dynamiter, p. 178.}}}}\n\n'''vestal''' (ves′tal), ''a.'' and ''n.'' [= F. ''vestale'', n., = Sp. Pg. ''vestal'' = It. ''vestale'', < L. ''Vestalis'', of Vesta, as a noun (sc. ''virgo'') a vestal virgin, < ''Vesta'', Vesta: see ''Vesta''.] '''I.''' ''a.'' '''1.''' Of or pertaining to Vesta, the classical goddess of the sacred fire and of the household and the state.\n{{smaller block|<poem>When thou shouldst come,\nThen my cot with light should shine\nPurer than the ''vestal'' fire.</poem>\n{{right|''Drayton'', Shepherd’s Sirena.}}}}\n'''2.''' Pertaining to or characteristic of a vestal virgin or a nun.\n{{smaller block|''Vestal'' modesty.\n{{right|''Shak.'', R. and J., iii. 3. 38.}}}}\n{{smaller block|<poem>My ''vestal'' habit me contenting more\nThan all the robes adorning me before.</poem>\n{{right|''Drayton'', Matilda to King John.}}}}\n\n'''II.''' ''n.'' '''1.''' Among the ancient Romans, a virgin consecrated to Vesta and to the service of watching the sacred fire, which was kept perpetually burning upon her altar. {{smaller|The vestals were at first four in number, afterward six. They entered the service of the goddess at from six to ten years of age, their term of service lasting thirty years. They were then permitted to retire and to marry, but few did so, for, as vestals, they were treated with great honor, and had important public privileges. Their persons were inviolable, any offense against them being punished with death, and they were treated in all their relations with the highest distinction and reverence. A vestal who broke her vow of chastity was immured alive in an underground vault amid public mourning. There were very few such instances; in one of them, under Domitian, the chief of the vestals was put to death under a false charge trumped up by the emperor.}} Hence—'''2.''' A virgin; a woman of spotless chastity; sometimes, a virgin who devotes her life entirely to the service of religion; a nun; a religieuse.\n{{smaller block|Shall ’s go hear the ''vestals'' sing?\n{{right|''Shak.'', Pericles, iv. 5. 7.}}\n<poem>She would a dedicated ''vestal'' prove,\nAnd give her virgin vows to heaven and love.</poem>\n{{right|''Crabbe'', Works, VII. 94.}}}}\n'''3.''' In ''entom.'': (''a'') The geometrid moth ''Sterrha sacraria'': popularly so called in England. (''b'') A gossamer-winged butterfly; any member of the ''Vestales''.\n\n'''Vestales†''' (ves-tā′lēz), ''n. pl.'' [NL.: see ''vestal''.] A group of butterflies; the vestals, virgins, or gossamer-winged butterflies.\n\n'''vestament†''', ''n.'' Same as ''vestment''.\n{{smaller block|His ''vestaments'' sit as if they grew upon him.\n{{right|''Massinger'', Fatal Dowry, iv. 1.}}}}\n\n'''vested''' (ves′ted), ''p. a.'' '''1.''' Clothed; especially, wearing, or having assumed, state robes or some ceremonial costume: as, a ''vested'' choir.\n{{smaller block|<poem>A troop of yellow-''vested'' white-haired Jews,\nBound for their own land, where redemption dawns.</poem>\n{{right|''Browning'', Paracelsus, iv.}}}}\n'''2.''' In ''her.'', clothed; draped: used especially when the clothing is of a different tincture from the rest of the bearing. This blazon is more<noinclude><references/></noinclude>"
+}

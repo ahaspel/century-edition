@@ -1,0 +1,185 @@
+{
+ "volume": 8,
+ "page_number": 506,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n505.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n505.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-23",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 1461,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     145,
+     0,
+     2442,
+     111
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     145,
+     111,
+     862,
+     1189
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     145,
+     1189,
+     862,
+     2265
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     145,
+     2265,
+     862,
+     3231
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     862,
+     111,
+     1616,
+     1187
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     862,
+     1187,
+     1616,
+     2130
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     862,
+     2130,
+     1616,
+     3226
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1616,
+     111,
+     2442,
+     1006
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1616,
+     1006,
+     2442,
+     2045
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1616,
+     2045,
+     2442,
+     2802
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1616,
+     2802,
+     2442,
+     3231
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|varioloid|6702|varnish-tree}}",
+   "c1s1": "¶\n'''II.''' ''n.'' Modified smallpox; a mild form of smallpox which may abort at the vesicular stage, occurring usually in those who are partially protected by vaccination. {{smaller|The disease is seldom fatal, yet it is true smallpox, may be followed by pitting, and is capable of communicating by contagion the most virulent form of the disease.}}\n\n'''variolous''' (vạ̄-rī′ọ̄-lus), ''a.'' [= F. ''varioleux'', < ML. ''variolosus'', pitted with smallpox, < ''variola'', smallpox: see ''variola''.] '''1.''' Of or pertaining to or designating smallpox; variolar; variolic.—'''2.''' In ''entom.'', having somewhat scattered and irregular varioles.\n\nAlso ''variolar''.\n\n'''variolo-vaccine''' (vạ̄-rī″ọ̄-lō-vak′sin), ''n.'' Lymph or crusts obtained from a heifer with variolovaccinia.\n\n'''variolo-vaccinia''' (vạ̄-rī″ọ̄-lō-vak-sin′i-ä̤), ''n.'' Vaccinia resulting from inoculation with smallpox-virus.\n\n'''variometer''' (vạ̄-ri-om′e-tėr), ''n.'' [< L. ''varius'', various, + Gr. μέτρον, measure.] An instrument used in comparing the intensity of magnetic forces, especially the magnetic force of the earth at different points—for example, as varied by local causes. {{smaller|One form consists of four stationary magnets in whose field is suspended a delicate magnetic needle; the change in the position of this needle as the instrument is placed at different points gives a means of comparing the corresponding external forces.}}\n\n'''variorum''' (vạ̄-ri-ō′rum), ''a.'' [In the phrase ''variorum edition'', a half-translation of L. ''editio cum notis variorum'', edition with notes of various persons; ''variorum'', gen. pl. of ''varius'', various: see ''various''.] Noting an edition of some",
+   "c1s2": "work in which the notes of different commentators are inserted: as, a ''variorum'' edition of Shakspere.\n\n¶\n'''various''' (vā′ri-us), ''a.'' [< L. ''varius'', diverse, various, party-colored, variegated, also changing, changeable, fickle, etc. Hence ult. ''variety'', ''vary'', ''variant'', ''variegate'', etc.] '''1.''' Differing from one another; different; diverse; manifold: as, men of ''various'' occupations.\n{{smaller block|So many and so ''various'' laws are given.\n{{right|''Milton'', P. L., xii. 282.}}}}\n{{smaller block|<poem>How ''various'', how tormenting,\nAre my Miseries!</poem>\n{{right|''Congreve'', Semele, i. 1.}}}}\n'''2.''' Divers; several.\n{{smaller block|Dukes of the most modern Austria . . . have all of them at ''various'' times borne rule over the whole or part of the older Austria of Lombardy. ''E. A. Freeman'', Venice, p. 5.}}\n'''3.''' Changeable; uncertain; inconstant; variable; unfixed.\n{{smaller block|My comfort is that their [men’s] judgment is too weak to endanger you, since by this it confesses that it mistakes you, in thinking you irresolved or ''various''.\n{{right|''Donne'', Letters, xc.}}}}\n{{smaller block|<poem>The servile suitors watch her ''various'' face,\nShe smiles preferment, or she frowns disgrace.</poem>\n{{right|''Sheridan'', The Rivals, Epil.}}}}\n'''4.''' Exhibiting different characters; variform; diversiform; multiform.\n{{smaller block|<poem>A man so ''various'' that he seemed to be\nNot one, but all mankind’s epitome.</poem>\n{{right|''Dryden'', Abs. and Achit., i. 545.}}}}\n'''5.''' Having a diversity of features; not uniform or monotonous; diversified.\n{{smaller block|My grandfather was of a ''various'' life, beginning first at}}",
+   "c1s3": "{{smaller block|court, where, after he had spent most part of his means, he became a soldier, and made his fortune with his sword at the siege of St. Quintens in France and other wars.\n{{right|''Lord Herbert of Cherbury'', Life (ed. Howells), p. 24.}}}}\n{{smaller block|A happy rural seat of ''various'' view.\n{{right|''Milton'', P. L., iv. 247.}}}}\n{{smaller block|<poem>A ''various'' host they came — whose ranks display\nEach mode in which the warrior meets the fight.</poem>\n{{right|''Scott'', Vision of Don Roderick, The Vision, st. 57.}}}}\n{{smaller block|It is a common belief that Mr. Webster was a ''various'' reader; and I think it is true.\n{{right|''R. Choate'', Addresses, p. 235.}}}}\n\n'''variously''' (vā′ri-us-li), ''adv.'' In various or different ways; diversely; multifariously.\n\n'''variousness''' (vā′ri-us-nes), ''n.'' The character or state of being various; variety; multifariousness.\n\n'''variscite''' (var′i-sīt), ''n.'' [< L. ''Variscia'', Voigtland (now part of Saxony), + ''-ite''<sup>2</sup>.] A hydrous phosphate of aluminium, occurring in crystalline or reniform crusts of a bright-green color.\n\n'''varix''' (vā′riks), ''n.''; pl. ''varices'' (var′i-sēz). [= F. ''varice'' = Sp. ''variz'', ''varice'' = Pg. ''varix'' = It. ''varice'', < L. ''varix'' (''varic-''), a dilated vein, < ''varus'', bent, stretched: see ''varus''.] '''1.''' Abnormal dilatation or tortuosity of a vein or other vessel of the body; also, a vein, artery, or lymphatic thus dilated or tortuous; a varicose vessel.—'''2.''' [NL.] In ''conch.'', a mark or scar on the surface of a shell denoting a former position of the lip of the aperture, which",
+   "c2s1": "has passed on with the periodical growth of the shell. Varices are conspicuous in some univalves. See cuts under ''murex'' and ''triton''. —'''Aneurismal varix.''' {{smaller|See ''aneurismal''.}} —'''Lymphatic varix,''' {{smaller|dilatation of the lymphatic vessels.}}\n\n¶\n'''varlet''' (vär′let), ''n.'' [< ME. ''varlet'', ''verlet'', < OF. ''varlet'', also ''vaslet'', ''vallet'', ''vadlet'', ''valet'', F. ''valet'', a groom, younker, squire, stripling, youth, servant, for *''vassalet'', < ML. *''vassaletus'', dim. of ''vassallus'', a servant, vassal: see ''vassal''. Doublet of ''valet''.] '''1.''' Originally, a very young man of noble or knightly birth, serving an apprenticeship in knightly exercises and accomplishments while awaiting elevation to the rank of knight; hence (because such youths served as pages or personal servants to the knights who had charge of them), a body-servant or attendant. (See ''valet''.) The name was also given to the city bailiffs or serjeants.\n{{smaller block|One of these laws [of Richard II.] enacts “that no ''varlets'' called yeomen” should wear liveries; the other, “that no livery should be given under colour of a Gild or fraternity, or of any other association, whether of gentry or servants, or of commonalty.”\n{{right|''English Gilds'' (E. E. T. S.), p. cxlviii.}}\n<poem>Call here my ''varlet''; I’ll unarm again.</poem>\n{{right|''Shak.'', T. and C., i. 1. 1.}}\nWhy, you were best get one o’ the ''varlets'' of the city, a serjeant. ''B. Jonson'', Every Man in his Humour, iv. 7.\n<poem>Three ''varlets'' that the king had hir’d\nDid likely him betray.</poem>\n{{right|''Robin Hood Rescuing Will Stutly'' (Child’s Ballads, V. 283).}}}}\n'''2.''' Hence, one in a subordinate or menial position; a low fellow; a scoundrel; a rascal; a rogue: a term of contempt or reproach.",
+   "c2s2": "¶\n{{smaller block|Was not this a seditious ''varlet'', to tell them this to their beards?\n{{right|''Latimer'', 3d Sermon bef. Edw. VI., 1549.}}}}\n{{smaller block|<poem>''Ana.'' My name is Ananias.\n''Sub.'' Out, the ''varlet''\nThat cozened the apostles!</poem>\n{{right|''B. Jonson'', Alchemist, ii. 1.}}}}\n{{smaller block|Well, I am glad you are not the dull, insensible ''varlet'' you pretended to be.\n{{right|''Sheridan'', The Rivals, iv. 2.}}}}\n'''3†.''' The coat-card now called the ''knave'' or ''jack'' (in French, ''valet'').\n\n'''varletess†''' (vär′let-es), ''n.'' [< ''varlet'' + ''-ess.''] A female varlet; a waiting-woman. ''Richardson'', Clarissa Harlowe, I. xxxi.\n\n'''varletry''' (vär′let-ri), ''n.'' [< ''varlet'' + ''-ry'': see ''-ery.''] The rabble; the crowd; the mob.\n{{smaller block|<poem>The shouting ''varletry''\nOf censuring Rome.</poem>\n{{right|''Shak.'', A. and C., v. 2. 56.}}}}\n\n'''varmin, varmint''' (vär′min, vär′mint), ''n.'' Dialectal variants of ''vermin.'' Also ''varment.''\n{{smaller block|Among the topmost leaves . . . a dark looking savage was nestled, partly concealed by the trunk of the tree, and partly exposed, as though looking down . . . to ascertain the effect produced by his treacherous aim. . . . “This must be looked to!” said the scout. . . . “Uncas, . . . we have need of all our we’pons to bring the cunning ''varment'' from his roost.”\n{{right|''J. F. Cooper'', Last of Mohicans, viii.}}}}\n{{smaller block|The low public-house . . . was the rendezvous of the press-gang, . . . who were one and all regarded in the light of mean kidnappers and spies — ''varmint'', as the common people esteemed them.\n{{right|''Mrs. Gaskell'', Sylvia’s Lovers, i.}}}}",
+   "c2s3": "¶\n'''varnish''' (vär′nish), ''n.'' [< ME. ''vernysh'', ''vernisch'', ''vernysche'' = D. ''vernis'' = MHG. ''firnis'', G. ''firniss'' = Sw. ''fernissa'' = Dan. ''fernis'', < OF. (and F.) ''vernis'', varnish (cf. ''vernis'', adj., polished), = Pr. ''vernitz'' = Sp. ''berniz'', ''barniz'' = Pg. ''verniz'' = It. ''vernice'' (> NGr. βερνίκι), (ML. ''vernicium'', ''fernisium''), varnish: see ''varnish'', ''v.''] '''1.''' A solution of resinous matter, forming a clear limpid fluid capable of hardening without losing its transparency: used by painters, gilders, cabinet-makers, and others for coating over the surface of their work in order to give it a shining, transparent, and hard surface, capable of resisting in a greater or less degree the influences of air and moisture. {{smaller|The resinous substances most commonly employed for varnishes are amber, anime, copal, mastic, rosin, sandarac, and shellac, which may be colored with arnotto, asphalt, gamboge, saffron, turmeric, or dragon’s-blood. The solvents are (''a'') fixed or volatile oils or mixtures of them (as linseed-oil or spirits of turpentine), and (''b'') concentrated alcohol or methylated spirits; hence the varnishes are divided into two classes, ''oil-varnishes'' and ''spirit-varnishes''.}}\n{{smaller block|''Varnish'', that makes ceilings not only shine, but last.\n{{right|''Bacon'', Vain Glory (ed. 1887).}}\nTo Greatorex’s, and there he showed me his ''varnish'', which he hath invented, which appears every whit as good, upon a stick which he hath done, as the Indian.\n{{right|''Pepys'', Diary, I. 424.}}}}\n'''2.''' That which resembles varnish, either naturally or artificially; a glossy or lustrous appearance.\n{{smaller block|<poem>So doe I more the sacred Tongue esteem\n(Though plaine and rurall it do rather seem,\nThen schoold Athenian; and Diuinitie,\nFor onely ''varnish'', haue but Verity).</poem>\n{{right|''Sylvester'', tr. of Du Bartas’s Weeks, i. 2.}}}}",
+   "c3s1": "{{smaller block|The ''varnish'' of the holly and ivy. {{right|''Macaulay.''}}}}\n'''3.''' An artificial covering to give a fair appearance to any act or conduct; outside show; gloss; palliation; “whitewash.”\n{{smaller block|<poem>We’ll put on those shall praise your excellence,\nAnd set a double ''varnish'' on the fame\nThe Frenchman gave you.</poem>{{right|''Shak.'', Hamlet, iv. 7. 133.}}\nCount Orloff, whose gigantic figure was all in a blaze with jewels, and in whose demeanour the untamed ferocity of the Scythian might be discerned through a thin ''varnish'' of French politeness. {{right|''Macaulay'', Mme. D’Arblay.}}}}\n'''4.''' In ''ceram.'', the glaze of pottery or porcelain. {{smaller|—'''Amalgam, amber, antiseptic, asphalt varnish.''' See the qualifying words.—'''Black varnish''', a natural varnish or lacquer, the product of several trees (see ''varnish-tree''), chiefly the Burmese or Martaban varnish, consisting of the sap of ''Melanorrhœa usitata.'' This is a thick, viscid, grayish, terebinthinous substance, soon turning black on exposure, and drying very slowly. Nearly every vessel in Burma, whether for holding liquids or solids, is lacquered with this substance, as well as furniture, idols, temples, etc.—'''French varnish''', a varnish made by dissolving white shellac in alcohol. Sometimes a little gum sandarac is added.—'''Lac varnish.''' Same as ''lacquer.''—'''Lac water-varnish.''' See ''lac''<sup>2</sup>.—'''Lithographic varnish.''' See ''lithographic.''—'''Piny varnish.''' Same as ''piny resin.'' See ''piny''<sup>1</sup> and ''Vateria.''—'''Printers’ varnish.''' See ''printer.''—'''Sealing-wax varnish.''' See ''sealing-wax.''—'''Shellac varnish.''' See ''shellac.''—'''Varnish colors.''' See ''color.''—'''Varnish sumac.''' See ''sumac.''}}\n\n'''varnish''' (vär′nish), ''v.'' [Early mod. E. also ''vernish'' ; < ME. ''vernysshen'', ''vernischen'' = D. ''vernis-''",
+   "c3s2": "sen = G. ''firnissen'' = Sw. ''fernissa'' = Dan. ''fernisse'', < OF. (and F.) ''vernisser'', varnish, sleek, glaze over with varnish, = Sp. ''barnizar'' = Pg. ''(en)vernizar'' = It. ''verniciare'', also ''vernicare'' (cf. NGr. βερνικιάζειν, varnish); from the noun, but perhaps in part from the orig. verb, OF. ''vernir'' (''verniss-''), varnish, perhaps < ML. as if *''vitrinire'', lit. ‘glaze,’ < ML. ''vitrinus'' (> Pr. ''veirin''), of glass, glassy, < ''vitrum'', glass: see ''vitrine''. The Rom. forms of the noun are somewhat irregular; the Sp. Pg. It. are prob. due in part to the OF.] '''I.''' ''trans.'' '''1.''' To lay varnish on for the purpose of decorating or protecting the surface. See ''varnish'', ''n.'', 1.\n{{smaller block|<poem>Wel hath this millere ''vernysshed'' his heed;\nFul pale he was fordronken, and nat reed.</poem>\n{{right|''Chaucer'', Reeve’s Tale, l. 229.}}}}\n{{smaller block|The iron parts are ''varnished'', either with a fat varnish or the residuum of some turpentine varnish.\n{{right|''Workshop Receipts'', 1st ser., p. 234.}}}}\n'''2.''' To cover with something that gives a fair external appearance; give an improved appearance to.\n{{smaller block|<poem>A wither’d hermit, five-score winters worn,\n  Might shake off fifty, looking in her eye:\nBeauty doth ''varnish'' age, as if new-born,\n  And gives the crutch the cradle’s infancy.</poem>\n{{right|''Shak.'', L. L. L., iv. 3. 244.}}}}\n{{smaller block|Close ambition, ''varnish’d'' o’er with zeal.\n{{right|''Milton'', P. L., ii. 485.}}}}\n'''3.''' To give an attractive external appearance to by rhetoric; give a fair coloring to; gloss over; palliate: as, to ''varnish'' errors or deformity.",
+   "c3s3": "¶\n{{smaller block|The Church of Rome hath hitherto practised and doth profess the same adoration to the sign of the cross and neither less nor other than is due unto Christ himself, howsoever they ''varnish'' and qualify their sentence.\n{{right|''Hooker'', Eccles. Polity, v. 65.}}}}\n{{smaller block|<poem>Cato’s voice was ne’er employ’d\nTo clear the guilty, and to ''varnish'' crimes.</poem>\n{{right|''Addison'', Cato, ii. 2.}}}}\n'''Varnished glaze.''' {{smaller|See ''glaze''.}}\n\n'''II.''' ''intrans.'' To apply varnish, in a general sense.\n\n'''varnisher''' (vär′nish-ėr), ''n.'' [< ''varnish'' + ''-er''<sup>1</sup>.] '''1.''' One who varnishes, or whose occupation is to varnish.—'''2.''' One who disguises or palliates; one who gives a fair external appearance (to); one who glosses over.\n{{smaller block|Thou ''varnisher'' of fools, and cheat of all the wise.\n{{right|''Pope'', Imit. of Earl of Rochester, On Silence.}}}}\n\n'''varnishing-day''' (vär′nish-ing-dā), ''n.'' A day before the opening of a picture exhibition on which exhibitors have the privilege of retouching or varnishing their pictures after they have been placed on the walls.\n\n'''varnish-polish''' (vär′nish-pol″ish), ''n.'' See ''polish''<sup>1</sup>.",
+   "c3s4": "¶\n'''varnish-tree''' (vär′nish-trē), ''n.'' Any one of several trees of which the sap or some secretion serves as a lacquer or varnish. {{smaller|The most important of these is the Japan varnish- or lacquer-tree (see ''lacquer-tree''); also of high importance is the black, Burmese, or Martaban varnish-tree, ''Melanorrhœa usitata'', the theetsee of the Burmese, a tree of 50 or 60 feet, yielding on incision a sap of an extremely blistering property which forms a lacquer of very extensive local use (see ''black varnish'', under ''varnish''). In India the marking-nut, or Sylhet varnish-tree, ''Semecarpus Anacardium'', with one or two allied species, yields in its fruit an excellent black varnish, as does ''Holigarna longifolia'' in its bark. These all belong to the ''Anacardiaceæ''. See ''Hymenæa'' and ''Aleurites''.—'''False varnish-tree''', the tree-of-heaven, ''Ailantus glandulosa''.—'''Moreton Bay varnish-tree.''' See ''Pentaceras''.—'''New'''}}"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 10021,
+    "output_tokens": 9386,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|varioloid|6702|varnish-tree}}</noinclude>{{nop}}'''II.''' ''n.'' Modified smallpox; a mild form of smallpox which may abort at the vesicular stage, occurring usually in those who are partially protected by vaccination. {{smaller|The disease is seldom fatal, yet it is true smallpox, may be followed by pitting, and is capable of communicating by contagion the most virulent form of the disease.}}\n\n'''variolous''' (vạ̄-rī′ọ̄-lus), ''a.'' [= F. ''varioleux'', < ML. ''variolosus'', pitted with smallpox, < ''variola'', smallpox: see ''variola''.] '''1.''' Of or pertaining to or designating smallpox; variolar; variolic.—'''2.''' In ''entom.'', having somewhat scattered and irregular varioles.\n\nAlso ''variolar''.\n\n'''variolo-vaccine''' (vạ̄-rī″ọ̄-lō-vak′sin), ''n.'' Lymph or crusts obtained from a heifer with variolovaccinia.\n\n'''variolo-vaccinia''' (vạ̄-rī″ọ̄-lō-vak-sin′i-ä̤), ''n.'' Vaccinia resulting from inoculation with smallpox-virus.\n\n'''variometer''' (vạ̄-ri-om′e-tėr), ''n.'' [< L. ''varius'', various, + Gr. μέτρον, measure.] An instrument used in comparing the intensity of magnetic forces, especially the magnetic force of the earth at different points—for example, as varied by local causes. {{smaller|One form consists of four stationary magnets in whose field is suspended a delicate magnetic needle; the change in the position of this needle as the instrument is placed at different points gives a means of comparing the corresponding external forces.}}\n\n'''variorum''' (vạ̄-ri-ō′rum), ''a.'' [In the phrase ''variorum edition'', a half-translation of L. ''editio cum notis variorum'', edition with notes of various persons; ''variorum'', gen. pl. of ''varius'', various: see ''various''.] Noting an edition of some work in which the notes of different commentators are inserted: as, a ''variorum'' edition of Shakspere.\n\n'''various''' (vā′ri-us), ''a.'' [< L. ''varius'', diverse, various, party-colored, variegated, also changing, changeable, fickle, etc. Hence ult. ''variety'', ''vary'', ''variant'', ''variegate'', etc.] '''1.''' Differing from one another; different; diverse; manifold: as, men of ''various'' occupations.\n{{smaller block|So many and so ''various'' laws are given.\n{{right|''Milton'', P. L., xii. 282.}}}}\n{{smaller block|<poem>How ''various'', how tormenting,\nAre my Miseries!</poem>\n{{right|''Congreve'', Semele, i. 1.}}}}\n'''2.''' Divers; several.\n{{smaller block|Dukes of the most modern Austria . . . have all of them at ''various'' times borne rule over the whole or part of the older Austria of Lombardy. ''E. A. Freeman'', Venice, p. 5.}}\n'''3.''' Changeable; uncertain; inconstant; variable; unfixed.\n{{smaller block|My comfort is that their [men’s] judgment is too weak to endanger you, since by this it confesses that it mistakes you, in thinking you irresolved or ''various''.\n{{right|''Donne'', Letters, xc.}}}}\n{{smaller block|<poem>The servile suitors watch her ''various'' face,\nShe smiles preferment, or she frowns disgrace.</poem>\n{{right|''Sheridan'', The Rivals, Epil.}}}}\n'''4.''' Exhibiting different characters; variform; diversiform; multiform.\n{{smaller block|<poem>A man so ''various'' that he seemed to be\nNot one, but all mankind’s epitome.</poem>\n{{right|''Dryden'', Abs. and Achit., i. 545.}}}}\n'''5.''' Having a diversity of features; not uniform or monotonous; diversified.\n{{smaller block|My grandfather was of a ''various'' life, beginning first at court, where, after he had spent most part of his means, he became a soldier, and made his fortune with his sword at the siege of St. Quintens in France and other wars.\n{{right|''Lord Herbert of Cherbury'', Life (ed. Howells), p. 24.}}}}\n{{smaller block|A happy rural seat of ''various'' view.\n{{right|''Milton'', P. L., iv. 247.}}}}\n{{smaller block|<poem>A ''various'' host they came — whose ranks display\nEach mode in which the warrior meets the fight.</poem>\n{{right|''Scott'', Vision of Don Roderick, The Vision, st. 57.}}}}\n{{smaller block|It is a common belief that Mr. Webster was a ''various'' reader; and I think it is true.\n{{right|''R. Choate'', Addresses, p. 235.}}}}\n\n'''variously''' (vā′ri-us-li), ''adv.'' In various or different ways; diversely; multifariously.\n\n'''variousness''' (vā′ri-us-nes), ''n.'' The character or state of being various; variety; multifariousness.\n\n'''variscite''' (var′i-sīt), ''n.'' [< L. ''Variscia'', Voigtland (now part of Saxony), + ''-ite''<sup>2</sup>.] A hydrous phosphate of aluminium, occurring in crystalline or reniform crusts of a bright-green color.\n\n'''varix''' (vā′riks), ''n.''; pl. ''varices'' (var′i-sēz). [= F. ''varice'' = Sp. ''variz'', ''varice'' = Pg. ''varix'' = It. ''varice'', < L. ''varix'' (''varic-''), a dilated vein, < ''varus'', bent, stretched: see ''varus''.] '''1.''' Abnormal dilatation or tortuosity of a vein or other vessel of the body; also, a vein, artery, or lymphatic thus dilated or tortuous; a varicose vessel.—'''2.''' [NL.] In ''conch.'', a mark or scar on the surface of a shell denoting a former position of the lip of the aperture, which has passed on with the periodical growth of the shell. Varices are conspicuous in some univalves. See cuts under ''murex'' and ''triton''. —'''Aneurismal varix.''' {{smaller|See ''aneurismal''.}} —'''Lymphatic varix,''' {{smaller|dilatation of the lymphatic vessels.}}\n\n'''varlet''' (vär′let), ''n.'' [< ME. ''varlet'', ''verlet'', < OF. ''varlet'', also ''vaslet'', ''vallet'', ''vadlet'', ''valet'', F. ''valet'', a groom, younker, squire, stripling, youth, servant, for *''vassalet'', < ML. *''vassaletus'', dim. of ''vassallus'', a servant, vassal: see ''vassal''. Doublet of ''valet''.] '''1.''' Originally, a very young man of noble or knightly birth, serving an apprenticeship in knightly exercises and accomplishments while awaiting elevation to the rank of knight; hence (because such youths served as pages or personal servants to the knights who had charge of them), a body-servant or attendant. (See ''valet''.) The name was also given to the city bailiffs or serjeants.\n{{smaller block|One of these laws [of Richard II.] enacts “that no ''varlets'' called yeomen” should wear liveries; the other, “that no livery should be given under colour of a Gild or fraternity, or of any other association, whether of gentry or servants, or of commonalty.”\n{{right|''English Gilds'' (E. E. T. S.), p. cxlviii.}}\n<poem>Call here my ''varlet''; I’ll unarm again.</poem>\n{{right|''Shak.'', T. and C., i. 1. 1.}}\nWhy, you were best get one o’ the ''varlets'' of the city, a serjeant. ''B. Jonson'', Every Man in his Humour, iv. 7.\n<poem>Three ''varlets'' that the king had hir’d\nDid likely him betray.</poem>\n{{right|''Robin Hood Rescuing Will Stutly'' (Child’s Ballads, V. 283).}}}}\n'''2.''' Hence, one in a subordinate or menial position; a low fellow; a scoundrel; a rascal; a rogue: a term of contempt or reproach.\n\n{{smaller block|Was not this a seditious ''varlet'', to tell them this to their beards?\n{{right|''Latimer'', 3d Sermon bef. Edw. VI., 1549.}}}}\n{{smaller block|<poem>''Ana.'' My name is Ananias.\n''Sub.'' Out, the ''varlet''\nThat cozened the apostles!</poem>\n{{right|''B. Jonson'', Alchemist, ii. 1.}}}}\n{{smaller block|Well, I am glad you are not the dull, insensible ''varlet'' you pretended to be.\n{{right|''Sheridan'', The Rivals, iv. 2.}}}}\n'''3†.''' The coat-card now called the ''knave'' or ''jack'' (in French, ''valet'').\n\n'''varletess†''' (vär′let-es), ''n.'' [< ''varlet'' + ''-ess.''] A female varlet; a waiting-woman. ''Richardson'', Clarissa Harlowe, I. xxxi.\n\n'''varletry''' (vär′let-ri), ''n.'' [< ''varlet'' + ''-ry'': see ''-ery.''] The rabble; the crowd; the mob.\n{{smaller block|<poem>The shouting ''varletry''\nOf censuring Rome.</poem>\n{{right|''Shak.'', A. and C., v. 2. 56.}}}}\n\n'''varmin, varmint''' (vär′min, vär′mint), ''n.'' Dialectal variants of ''vermin.'' Also ''varment.''\n{{smaller block|Among the topmost leaves . . . a dark looking savage was nestled, partly concealed by the trunk of the tree, and partly exposed, as though looking down . . . to ascertain the effect produced by his treacherous aim. . . . “This must be looked to!” said the scout. . . . “Uncas, . . . we have need of all our we’pons to bring the cunning ''varment'' from his roost.”\n{{right|''J. F. Cooper'', Last of Mohicans, viii.}}}}\n{{smaller block|The low public-house . . . was the rendezvous of the press-gang, . . . who were one and all regarded in the light of mean kidnappers and spies — ''varmint'', as the common people esteemed them.\n{{right|''Mrs. Gaskell'', Sylvia’s Lovers, i.}}}}\n\n'''varnish''' (vär′nish), ''n.'' [< ME. ''vernysh'', ''vernisch'', ''vernysche'' = D. ''vernis'' = MHG. ''firnis'', G. ''firniss'' = Sw. ''fernissa'' = Dan. ''fernis'', < OF. (and F.) ''vernis'', varnish (cf. ''vernis'', adj., polished), = Pr. ''vernitz'' = Sp. ''berniz'', ''barniz'' = Pg. ''verniz'' = It. ''vernice'' (> NGr. βερνίκι), (ML. ''vernicium'', ''fernisium''), varnish: see ''varnish'', ''v.''] '''1.''' A solution of resinous matter, forming a clear limpid fluid capable of hardening without losing its transparency: used by painters, gilders, cabinet-makers, and others for coating over the surface of their work in order to give it a shining, transparent, and hard surface, capable of resisting in a greater or less degree the influences of air and moisture. {{smaller|The resinous substances most commonly employed for varnishes are amber, anime, copal, mastic, rosin, sandarac, and shellac, which may be colored with arnotto, asphalt, gamboge, saffron, turmeric, or dragon’s-blood. The solvents are (''a'') fixed or volatile oils or mixtures of them (as linseed-oil or spirits of turpentine), and (''b'') concentrated alcohol or methylated spirits; hence the varnishes are divided into two classes, ''oil-varnishes'' and ''spirit-varnishes''.}}\n{{smaller block|''Varnish'', that makes ceilings not only shine, but last.\n{{right|''Bacon'', Vain Glory (ed. 1887).}}\nTo Greatorex’s, and there he showed me his ''varnish'', which he hath invented, which appears every whit as good, upon a stick which he hath done, as the Indian.\n{{right|''Pepys'', Diary, I. 424.}}}}\n'''2.''' That which resembles varnish, either naturally or artificially; a glossy or lustrous appearance.\n{{smaller block|<poem>So doe I more the sacred Tongue esteem\n(Though plaine and rurall it do rather seem,\nThen schoold Athenian; and Diuinitie,\nFor onely ''varnish'', haue but Verity).</poem>\n{{right|''Sylvester'', tr. of Du Bartas’s Weeks, i. 2.}} The ''varnish'' of the holly and ivy. {{right|''Macaulay.''}}}}\n'''3.''' An artificial covering to give a fair appearance to any act or conduct; outside show; gloss; palliation; “whitewash.”\n{{smaller block|<poem>We’ll put on those shall praise your excellence,\nAnd set a double ''varnish'' on the fame\nThe Frenchman gave you.</poem>{{right|''Shak.'', Hamlet, iv. 7. 133.}}\nCount Orloff, whose gigantic figure was all in a blaze with jewels, and in whose demeanour the untamed ferocity of the Scythian might be discerned through a thin ''varnish'' of French politeness. {{right|''Macaulay'', Mme. D’Arblay.}}}}\n'''4.''' In ''ceram.'', the glaze of pottery or porcelain. {{smaller|—'''Amalgam, amber, antiseptic, asphalt varnish.''' See the qualifying words.—'''Black varnish''', a natural varnish or lacquer, the product of several trees (see ''varnish-tree''), chiefly the Burmese or Martaban varnish, consisting of the sap of ''Melanorrhœa usitata.'' This is a thick, viscid, grayish, terebinthinous substance, soon turning black on exposure, and drying very slowly. Nearly every vessel in Burma, whether for holding liquids or solids, is lacquered with this substance, as well as furniture, idols, temples, etc.—'''French varnish''', a varnish made by dissolving white shellac in alcohol. Sometimes a little gum sandarac is added.—'''Lac varnish.''' Same as ''lacquer.''—'''Lac water-varnish.''' See ''lac''<sup>2</sup>.—'''Lithographic varnish.''' See ''lithographic.''—'''Piny varnish.''' Same as ''piny resin.'' See ''piny''<sup>1</sup> and ''Vateria.''—'''Printers’ varnish.''' See ''printer.''—'''Sealing-wax varnish.''' See ''sealing-wax.''—'''Shellac varnish.''' See ''shellac.''—'''Varnish colors.''' See ''color.''—'''Varnish sumac.''' See ''sumac.''}}\n\n'''varnish''' (vär′nish), ''v.'' [Early mod. E. also ''vernish'' ; < ME. ''vernysshen'', ''vernischen'' = D. ''vernissen'' = G. ''firnissen'' = Sw. ''fernissa'' = Dan. ''fernisse'', < OF. (and F.) ''vernisser'', varnish, sleek, glaze over with varnish, = Sp. ''barnizar'' = Pg. ''(en)vernizar'' = It. ''verniciare'', also ''vernicare'' (cf. NGr. βερνικιάζειν, varnish); from the noun, but perhaps in part from the orig. verb, OF. ''vernir'' (''verniss-''), varnish, perhaps < ML. as if *''vitrinire'', lit. ‘glaze,’ < ML. ''vitrinus'' (> Pr. ''veirin''), of glass, glassy, < ''vitrum'', glass: see ''vitrine''. The Rom. forms of the noun are somewhat irregular; the Sp. Pg. It. are prob. due in part to the OF.] '''I.''' ''trans.'' '''1.''' To lay varnish on for the purpose of decorating or protecting the surface. See ''varnish'', ''n.'', 1.\n{{smaller block|<poem>Wel hath this millere ''vernysshed'' his heed;\nFul pale he was fordronken, and nat reed.</poem>\n{{right|''Chaucer'', Reeve’s Tale, l. 229.}}}}\n{{smaller block|The iron parts are ''varnished'', either with a fat varnish or the residuum of some turpentine varnish.\n{{right|''Workshop Receipts'', 1st ser., p. 234.}}}}\n'''2.''' To cover with something that gives a fair external appearance; give an improved appearance to.\n{{smaller block|<poem>A wither’d hermit, five-score winters worn,\n  Might shake off fifty, looking in her eye:\nBeauty doth ''varnish'' age, as if new-born,\n  And gives the crutch the cradle’s infancy.</poem>\n{{right|''Shak.'', L. L. L., iv. 3. 244.}}}}\n{{smaller block|Close ambition, ''varnish’d'' o’er with zeal.\n{{right|''Milton'', P. L., ii. 485.}}}}\n'''3.''' To give an attractive external appearance to by rhetoric; give a fair coloring to; gloss over; palliate: as, to ''varnish'' errors or deformity.\n\n{{smaller block|The Church of Rome hath hitherto practised and doth profess the same adoration to the sign of the cross and neither less nor other than is due unto Christ himself, howsoever they ''varnish'' and qualify their sentence.\n{{right|''Hooker'', Eccles. Polity, v. 65.}}}}\n{{smaller block|<poem>Cato’s voice was ne’er employ’d\nTo clear the guilty, and to ''varnish'' crimes.</poem>\n{{right|''Addison'', Cato, ii. 2.}}}}\n'''Varnished glaze.''' {{smaller|See ''glaze''.}}\n\n'''II.''' ''intrans.'' To apply varnish, in a general sense.\n\n'''varnisher''' (vär′nish-ėr), ''n.'' [< ''varnish'' + ''-er''<sup>1</sup>.] '''1.''' One who varnishes, or whose occupation is to varnish.—'''2.''' One who disguises or palliates; one who gives a fair external appearance (to); one who glosses over.\n{{smaller block|Thou ''varnisher'' of fools, and cheat of all the wise.\n{{right|''Pope'', Imit. of Earl of Rochester, On Silence.}}}}\n\n'''varnishing-day''' (vär′nish-ing-dā), ''n.'' A day before the opening of a picture exhibition on which exhibitors have the privilege of retouching or varnishing their pictures after they have been placed on the walls.\n\n'''varnish-polish''' (vär′nish-pol″ish), ''n.'' See ''polish''<sup>1</sup>.\n\n'''varnish-tree''' (vär′nish-trē), ''n.'' Any one of several trees of which the sap or some secretion serves as a lacquer or varnish. {{smaller|The most important of these is the Japan varnish- or lacquer-tree (see ''lacquer-tree''); also of high importance is the black, Burmese, or Martaban varnish-tree, ''Melanorrhœa usitata'', the theetsee of the Burmese, a tree of 50 or 60 feet, yielding on incision a sap of an extremely blistering property which forms a lacquer of very extensive local use (see ''black varnish'', under ''varnish''). In India the marking-nut, or Sylhet varnish-tree, ''Semecarpus Anacardium'', with one or two allied species, yields in its fruit an excellent black varnish, as does ''Holigarna longifolia'' in its bark. These all belong to the ''Anacardiaceæ''. See ''Hymenæa'' and ''Aleurites''.—'''False varnish-tree''', the tree-of-heaven, ''Ailantus glandulosa''.—'''Moreton Bay varnish-tree.''' See ''Pentaceras''.—'''New'''}}<noinclude><references/></noinclude>"
+}

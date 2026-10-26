@@ -1,0 +1,185 @@
+{
+ "volume": 8,
+ "page_number": 523,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n522.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n522.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-23",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 824,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     19,
+     0,
+     2331,
+     85
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     19,
+     85,
+     855,
+     980
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     19,
+     980,
+     855,
+     1987
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     19,
+     1987,
+     855,
+     2869
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     19,
+     2869,
+     855,
+     3191
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     855,
+     85,
+     1595,
+     1122
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     855,
+     1122,
+     1595,
+     2157
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     855,
+     2157,
+     1595,
+     3191
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1595,
+     85,
+     2331,
+     1037
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1595,
+     1037,
+     2331,
+     2116
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1595,
+     2116,
+     2331,
+     3191
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|vengeance|6719|venom-duct}}",
+   "c1s1": "{{smaller block|''What the vengeance!''\nCould he not speak ’em fair?\n{{right|''Shak.'', Cor., iii. 1. 262.}}\nBut ''what a vengeance'' makes thee fly?\n{{right|''S. Butler'', Hudibras, I. iii. 213.}}}}\n\n'''With a vengeance,''' vehemently, violently; also, extremely. [Colloq.]\n{{smaller block|<poem>The fishy fume\nThat drove him [Asmodeus], though enamour’d, from the spouse\nOf Tobit’s son, and ''with a vengeance'' sent\nFrom Media post to Egypt. {{right|''Milton'', P. L., iv. 170.}}</poem>\n''Manly.'' However, try her; put it to her.\n''Vernish.'' Ay, ay, I’ll try her; put it to her home, ''with a Vengeance.'' {{right|''Wycherley'', Plain Dealer, v. 1.}}}}\n='''Syn. 1.''' ''Retribution, Retaliation'', etc. See ''revenge.''\n\n'''vengeance†''' (ven′jans), ''adv.'' [Elliptical use of ''vengeance'', ''n.''] Extremely; very.\n{{smaller block|He’s ''vengeance'' proud, and loves not the common people. {{right|''Shak.'', Cor., ii. 2. 6.}}\nI am ''vengeance'' cold, I tell thee.\n{{right|''Beau. and Fl.'', Coxcomb, ii. 2.}}}}\n\n'''vengeancely†''' (ven′jans-li), ''adv.'' [< ''vengeance'' + ''-ly''<sup>2</sup>.] With a vengeance; extremely; excessively.\n{{smaller block|<poem>I could poison him in a pot of perry;\nHe loves that ''vengeancely.''</poem>\n{{right|''Fletcher'' (''and another''?), Prophetess, i. 3.}}}}\n\n'''vengeful''' (venj′fu̇l), ''a.'' [< ''venge'' + ''-ful.''] Vindictive; retributive; revengeful.",
+   "c1s2": "{{smaller block|<poem>I pray\nHis ''vengeful'' sword may fall upon thy head.</poem>\n{{right|''Fletcher'' (''and another''), Love’s Cure, v. 3.}}}}\n\n¶\n'''vengefully''' (venj′fu̇l-i), ''adv.'' In a vengeful manner; vindictively.\n\n'''vengefulness''' (venj′fu̇l-nes), ''n.'' Vindictiveness; revengefulness.\n{{smaller block|The two victims of his madness or of his ''vengefulness'' were removed to the London Hospital.\n{{right|''Daily Telegraph'', June 22, 1886. (''Encyc. Dict.'')}}}}\n\n'''vengement†''' (venj′ment), ''n.'' [< ''venge'' + ''-ment.''] Avengement; retribution.\n{{smaller block|<poem>He shew’d his head ther left,\nAnd wretched life forlorne for ''vengement'' of his theft.</poem>\n{{right|''Spenser'', F. Q., VI. iii. 18.}}}}\n\n'''venger†''' (ven′jėr), ''n.'' [< F. ''vengeur'' = Sp. ''vengador'', < LL. ''vindicator'', avenger, < L. ''vindicare'', avenge: see ''venge''. Cf. ''vindicator.''] An avenger.\n{{smaller block|God is a ''vengere'' of synne. {{right|''Coventry Mysteries'', p. 76.}}}}\n{{smaller block|<poem>His bleeding heart is in the ''vengers'' hand.</poem>\n{{right|''Spenser'', F. Q., I. iii. 20.}}}}\n\n'''vengeress†''' (ven′jėr-es), ''n.'' [< ME. ''vengeresse'', < OF. ''vengeresse'', fem. of ''vengeur'', an avenger: see ''venger''.] A female avenger.\n{{smaller block|This kynge alain was seke of the woundes of the spere ''vengeresse'', . . . for he was wounded thourgh bothe thyghes with that spere. {{right|''Merlin'' (E. E. T. S.), ii. 229.}}}}\n{{smaller block|The thre goddesses, furiis and ''vengeressis'' of felonies.\n{{right|''Chaucer'', Boëthius, iii. meter 12.}}}}\n\n'''veniable†''' (vē′ni-ạ-bl), ''a.'' [< ME. ''veniable'', < LL. ''veniabilis'', pardonable, < L. ''venia'', pardon: see ''venial''.] Venial; pardonable.",
+   "c1s3": "{{smaller block|In things of this nature silence commendeth history; ’tis the ''veniable'' part of things lost.\n{{right|''Sir T. Browne'', Vulg. Err., vii. 19.}}}}\n\n¶\n'''veniably†''' (vē′ni-a̤-bli), ''adv.'' Pardonably; excusably.\n\n'''venial''' (vē′ni-al), ''a.'' and ''n.'' [< ME. ''venial'', < OF. ''venial'', F. ''véniel'' = Sp. Pg. ''venial'' = It. ''veniale'', < LL. ''venialis'', pardonable, < L. ''venia'', indulgence, remission, pardon.] '''I.''' ''a.'' '''1.''' That may be forgiven; pardonable; not very sinful or wrong: as, a ''venial'' sin or transgression. See ''sin''<sup>1</sup>, 1.\n{{smaller block|There contricioun doth but dryueth it doun in-to a ''venial'' synne.\n{{right|''Piers Plowman'' (B), xiv. 92.}}\nIn our own country, a woman forfeits her place in society by what in a man is too commonly considered as an honourable distinction, and at worst as a ''venial'' error.\n{{right|''Macaulay'', Machiavelli.}}}}\n'''2.''' Excusable; that may be allowed or permitted to pass without severe censure.\n{{smaller block|<poem>They are things indifferent, whether kept or broken;\nMere ''venial'' slips, that grow not near the conscience.</poem>\n{{right|''Fletcher'', Wildgoose Chase, ii. 1.}}\nThis is a mistake, though a very ''venial'' one; the apophthegm is attributed . . . to Agasicles, not to Agesilaus.\n{{right|''Sir T. Elyot'', The Governour, ii. 9, note.}}}}\n'''3†.''' Permissible; harmless; unobjectionable.\n{{smaller block|<poem>Permitting him the while\n''Venial'' discourse unblamed.</poem>\n{{right|''Milton'', P. L., ix. 5.}}}}",
+   "c1s4": "¶\n='''Syn. 1''' and 2. ''Venial, Excusable, Pardonable. Excusable'' and ''pardonable'' are applied to things small and great, but ''pardonable'' primarily applies to greater offenses, as pardoning is a more serious act than excusing. ''Excusable'' may be applied where the offense is only in seeming. ''Venial'' applies to things actually done; the others may apply to infirmities and the like. ''Venial'', by theological use, is often opposed, more or less clearly, to ''mortal''.\n\n'''II.'''† ''n.'' A venial sin or offense.\n{{smaller block|It . . . gently blanches over the breaches of God’s Law with the name of ''venials'' and favourable titles of diminution.\n{{right|''Bp. Hall'', Dissuasive from Popery.}}}}",
+   "c2s1": "¶\n'''veniality''' (vē-ni-al′i-ti), ''n.'' [= Sp. ''venialidad'' = Pg. ''venialidade''; as ''venial'' + ''-ity''.] The property of being venial.\n{{smaller block|They palliate wickedness, with the fair pretence of ''veniality''.\n{{right|''Bp. Hall'', Sermon at Westminster, April 5, 1628.}}}}\n\n'''venially''' (vē′ni-a̤l-i), ''adv.'' In a venial manner; pardonably.\n\n'''venialness''' (vē′ni-a̤l-nes), ''n.'' The state of being excusable or pardonable.\n\n'''Venice crown.''' In ''her.'', a bearing representing the cornu or peaked cap of the Doge of Venice, decorated with a rim of gold like a coronet, surrounding the brow of the wearer.\n\n'''Venice glass, mallow, point, soap, sumac, turpentine, white,''' etc. See ''glass'', etc.\n\n'''Venice treacle.''' See ''theriac.''\n\n'''Veni Creator''' (vē′nī krē-ā′to̤r). [So called from the first words, “Veni Creator Spiritus,” ‘Come, Creator Spirit.’ L.: ''veni'', 2d pers. sing. impv. of ''venire'', come; ''creator'', creator.] A hymn to the Holy Ghost, used in the Roman Catholic Church in the daily office on Whitsunday and during the octave, also at coronations, synods, ordination of priests, consecration of bishops, creation of popes, and translation of relics. {{smaller|In Sarum use it also formed part of the priest’s preparation before mass. In the Anglican Prayer-book two free versions of it are given (“Come, Holy Ghost, our souls inspire,” and “Come, Holy Ghost, eternal God”), to be used at the ordination of priests and consecration of bishops, and it is also used at synods, etc. Its authorship is commonly attributed to Charlemagne, but it is certainly older, and may be referred with more probability to St. Gregory the Great. Also, more fully, ''Veni Creator Spiritus''.}}",
+   "c2s2": "¶\n'''venim†, venime†,''' ''n.'' Old spellings of ''venom.''\n\n'''venimous†,''' ''a.'' An obsolete form of ''venomous.''\n\n'''veniplex''' (vē′ni-pleks), ''n.'' [NL., < L. ''vena,'' vein, + ''plexus,'' a network: see ''plexus.''] A venous plexus, or plexiform arrangement of veins forming an anastomotic network. ''Coues.''\n\n'''veniplexed''' (vē′ni-plekst), ''a.'' [< ''veniplex'' + ''-ed''<sup>2</sup>.] Formed into a venous plexus or network. ''Coues.''\n\n'''venire facias''' (vē-nī′rē fā′s̮i-as). [So called from these words in the writ, lit. ‘cause to come.’ L.: ''venire,'' come; ''facias,'' 2d pers. sing. pres. subj. (as impv.) of ''facere,'' make, do, cause.] In ''law,'' a writ or precept directed to the sheriff, requiring him to cause a jury or a number of jurors to come or appear in court, for the trial of causes. Also, in common legal parlance, ''venire.''—{{smaller|'''Venire facias de novo,''' or '''venire de novo,''' in ''law,'' a new writ for summoning a jury anew; the process used at common law when, by reason of some irregularity or defect apparent on the record, a party was entitled to a new trial as matter of right. The motion for a new trial in modern practice may be made on the same grounds, and also on other grounds, including some that rest in judicial discretion.}}\n\n'''venire-man''' (vē-nī′rē-ma̤n), ''n.'' A man summoned under a venire facias for jury service.\n\n'''venison''' (ven′zn or ven′i-zn), ''n.'' [Formerly also ''ven’son;'' < ME. ''venison, venysoun, veneson, veneisun,'' < OF. *''veneisun, venaison, venoison,'' F. ''venaison,'' venison, the flesh of the deer and boar, the principal objects of the chase, < L. ''venatio(n-),'' hunting, also the product of the chase, game, < ''venari,'' hunt: see ''venation''<sup>1</sup>, of which ''venison'' is thus a doublet. For the form",
+   "c2s3": "and the dissyllabic pronunciation, cf. ''menison'', ''menson'', ult. < L. ''manatio''(''n''-).] '''1†.''' A beast or beasts of the chase, as deer and other large game.\n{{smaller block|<poem>A theef of ''venysoun'', that hath forlaft\nHis likerousnesse and al his olde craft,\nCan kepe a forest best of any man.</poem>\n{{right|''Chaucer'', Physician’s Tale, l. 83.}}}}\n{{smaller block|<poem>“Come, kill [me] a ''ven’son'',” said bold Robin Hood,\n“Come, kill me a good fat deer.”</poem>\n{{right|''Robin Hood and the Bishop of Hereford'' (Child’s Ballads, V. 294).}}}}\n'''2.''' The flesh of such game used as food; specifically, the flesh of animals of the deer tribe: now the common use of the word.\n{{smaller block|Shall we go and kill us ''venison?''\n{{right|''Shak.'', As you Like it, ii. 1. 21.}}}}\n{{smaller block|A fair ''ven’son'' pastye brought she out presentlye.\n{{right|''King and Miller of Mansfield'' (Child’s Ballads, VIII. 36).}}}}\n{{smaller block|<poem>Thanks, my Lord, for your ''venison'', for finer or fatter\nNever rang’d in a forest or smok’d in a platter.</poem>\n{{right|''Goldsmith'', Haunch of Venison.}}}}\n{{smaller|'''Fallow venison''', the flesh of the fallow deer.—'''Red venison''', the flesh of the red deer.}}\n{{smaller block|''Venison'' both ''red'' and fallow.\n{{right|''Fuller'', Pisgah Sight, I. v. § 2.}}}}\n\n'''Venite''' (vē-nī′tē), ''n.'' [So called from the first words, “Venite exultemus,” ‘O come, let us sing unto the Lord.’ L. ''venite'', 2d pers. pl. impv. of ''venire'', come.] '''1.''' In ''liturgics'', the 95th Psalm.\n{{smaller block|In the Roman and other Western arrangements of the daily office this psalm is said at matins, accompanied by the invitatory and followed, after a hymn, by the appointed psalms of the hour. In the Anglican Prayer-book it is also said daily at matins or morning prayer before the}}",
+   "c3s1": "{{smaller block|psalms of the Psalter, except on the nineteenth day of the month, when it begins the portion for the day in the Psalter, and at Easter, when it is replaced by a special anthem. Also, more fully, ''Venite exultemus.''}}\n'''2.''' A musical setting, usually in chant form, of the above canticle.\n\n'''venivel, venivela''' (ven′i-vel, ven-i-vē′lä̤), ''n.'' [E. Ind.] The velvetleaf, or spurious pareira brava, ''Cissampelos Pareira.''\n\n'''venje†''', ''v.'' An old spelling of ''venge.''\n\n'''vennel''' (ven′el), ''n.'' [Formerly also ''venall;'' < F. ''venelle'', a small street.] An alley, or narrow street. [Scotch.]\n{{smaller block|Some ruins remain in the ''vennel'' of the Maison Dieu or hospitium, founded by William of Brechin in 1256.\n{{right|''Encyc. Brit.'', IV. 242.}}}}\n\n'''venom''' (ven′um), ''n.'' and ''a.'' [Early mod. E. also ''venome, venim, venime, venym;'' < ME. ''venim, venym, venyme, fenim'', < OF. ''venim, venin'', also ''velin'', F. ''venin'' = Pr. ''vere, veri'' = Sp. Pg. ''veneno'' = It. ''veleno, veneno'', < L. ''venenum'', poison.] '''I.''' ''n.'' '''1.''' Poison in general: now an archaic use.\n{{smaller block|Zif ''Venym'' or Poysoun be broughte in presence of the Dyamand, anon it begynnethe to wexe moyst and for to swete.\n{{right|''Mandeville'', Travels, p. 159.}}}}\n{{smaller block|<poem>Full from the fount of Joy’s delicious springs\nSome bitter o’er the flowers its bubbling ''venom'' flings.</poem>\n{{right|''Byron'', Childe Harold, i. 82.}}}}\n'''2.''' The poisonous fluid secreted by some animals in a state of health, as a means of offense and defense, and introduced into the bodies of their",
+   "c3s2": "victims by biting, as in the case of many serpents, or stinging, as in the case of scorpions, etc. {{smaller|In vertebrates venom is usually a modified saliva secreted by glands morphologically identical with ordinary salivary glands; and the normal saliva of various animals acquires at times, or under some circumstances, an extremely venomous quality, as in the rabies of various beasts. Venom is normal to few vertebrates, notably all thanatophidian serpents, and one or two lizards, as the Gila monster. Venom-glands are connected with the spines of the head or fins of a few fishes. Venom of extreme virulence is injected with the bite of a few spiders (see ''Latrodectus'', and cut under ''spider''), and the punctures made by the claws or telson of centipeds and scorpions are envenomed. An acrid or irritating fluid, classable as venom, is injected with the sting of many insects (see cases cited under ''sting''<sup>1</sup>), and in one case at least may be fatal to large animals (see ''tsetse'').}}\n{{smaller block|<poem>Of alle fretynge ''venymes'' the vilest is the scorpion;\nMay no medecyne amende the place ther he styngeth.</poem>\n{{right|''Piers Plowman'' (C), xxi. 158.}}}}\n{{smaller block|<poem>Or hurtful worm with canker’d ''venom'' bites.</poem>\n{{right|''Milton'', Arcades, l. 53.}}}}\n\n'''3.''' Something that blights, cankers, or embitters; injurious influence; hence, spite; malice; malignity; virulency.\n{{smaller block|<poem>What with Venus, and other oppressioun\nOf houses, Mars his ''Venim'' is adoun,\nThat Ypermistra dar nat handle a knyf.</poem>\n{{right|''Chaucer'', Good Women, l. 2593.}}}}\n{{smaller block|<poem>The ''venom'' of such looks, we fairly hope,\nHave lost their quality. ''Shak.'', Hen. V., v. 2. 18.</poem>}}\n\n'''4†.''' Coloring material; dye.\n{{smaller block|They cowde nat medle the bryhte fleeces of the contre of Seryens with the ''venym'' of Tyrie.\n{{right|''Chaucer'', Boëthius, ii. meter 5.}}}}\n\n'''II.†''' ''a.'' Envenomed; venomous; poisonous.",
+   "c3s3": "¶\n{{smaller block|In our lande growith pepper in forestis full of snakes and other ''venym'' beestes.\n{{right|''R. Eden'' (First Books on America, ed. Arber, p. xxxiv.).}}}}\n{{smaller block|<poem>Thou art . . .\nMark’d by the destinies to be avoided,\nAs ''venom'' toads, or lizard’s dreadful stings.</poem>\n{{right|''Shak.'', 3 Hen. VI., ii. 2. 138.}}}}\n{{smaller block|<poem>My ''venom'' eyes\nStrike innocency dead at such a distance.</poem>\n{{right|''Beau. and Fl.'', Coxcomb, v. 2.}}}}\n\n'''venom''' (ven′um), ''v.'' [Early mod. E. ''venome'', ''venime''; < ME. ''venymen'', ''venynen'', by apheresis from ''envenimen'', < OF. ''envenimer'', poison (see ''envenom''); in part directly from the noun ''venom''.] '''I.''' ''trans.'' To envenom; infect with poison.\n{{smaller block|The ''venomed'' vengeance ride upon our swords.\n{{right|''Shak.'', T. and C., v. 3. 47.}}}}\n{{smaller block|<poem>Here boldly spread thy hands, no ''venom’d'' weed\nDares blister them.</poem>\n{{right|''Fletcher'', Faithful Shepherdess, iii. 1.}}}}\n{{smaller block|<poem>Since I must\nThrough Brothers’ periurie dye, O let me ''venome''\nTheir Soules with curses!</poem>\n{{right|''Tourneur'', Revenger’s Tragedy, iii. 4.}}}}\n{{smaller block|Its bite [that of ''Conus aulicus''] produces a ''venomed'' wound accompanied by acute pain.\n{{right|''A. Adams'', quoted in Stand. Nat. Hist., I. 336.}}}}\n\n'''II.†''' ''intrans.'' To become as if infected with venom.\n{{smaller block|Take out the temporal sting, that it shall not ''venom'' and fester. ''Jer. Taylor'', Ductor Dubitantium. (''Latham.'')}}\n\n'''venom-albumin''' (ven′um-al-bū″min), ''n.'' The albumin of snake-poison.\n\n'''venom-duct''' (ven′um-dukt), ''n.'' The duct which conveys venom from the sac or gland where it"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 10020,
+    "output_tokens": 10680,
+    "cache_creation_input_tokens": 3966,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|vengeance|6719|venom-duct}}</noinclude>{{smaller block|''What the vengeance!''\nCould he not speak ’em fair?\n{{right|''Shak.'', Cor., iii. 1. 262.}}\nBut ''what a vengeance'' makes thee fly?\n{{right|''S. Butler'', Hudibras, I. iii. 213.}}}}\n\n'''With a vengeance,''' vehemently, violently; also, extremely. [Colloq.]\n{{smaller block|<poem>The fishy fume\nThat drove him [Asmodeus], though enamour’d, from the spouse\nOf Tobit’s son, and ''with a vengeance'' sent\nFrom Media post to Egypt. {{right|''Milton'', P. L., iv. 170.}}</poem>\n''Manly.'' However, try her; put it to her.\n''Vernish.'' Ay, ay, I’ll try her; put it to her home, ''with a Vengeance.'' {{right|''Wycherley'', Plain Dealer, v. 1.}}}}\n='''Syn. 1.''' ''Retribution, Retaliation'', etc. See ''revenge.''\n\n'''vengeance†''' (ven′jans), ''adv.'' [Elliptical use of ''vengeance'', ''n.''] Extremely; very.\n{{smaller block|He’s ''vengeance'' proud, and loves not the common people. {{right|''Shak.'', Cor., ii. 2. 6.}}\nI am ''vengeance'' cold, I tell thee.\n{{right|''Beau. and Fl.'', Coxcomb, ii. 2.}}}}\n\n'''vengeancely†''' (ven′jans-li), ''adv.'' [< ''vengeance'' + ''-ly''<sup>2</sup>.] With a vengeance; extremely; excessively.\n{{smaller block|<poem>I could poison him in a pot of perry;\nHe loves that ''vengeancely.''</poem>\n{{right|''Fletcher'' (''and another''?), Prophetess, i. 3.}}}}\n\n'''vengeful''' (venj′fu̇l), ''a.'' [< ''venge'' + ''-ful.''] Vindictive; retributive; revengeful.\n<poem>I pray\nHis ''vengeful'' sword may fall upon thy head.</poem>\n{{smaller block|{{right|''Fletcher'' (''and another''), Love’s Cure, v. 3.}}}}\n\n'''vengefully''' (venj′fu̇l-i), ''adv.'' In a vengeful manner; vindictively.\n\n'''vengefulness''' (venj′fu̇l-nes), ''n.'' Vindictiveness; revengefulness.\n{{smaller block|The two victims of his madness or of his ''vengefulness'' were removed to the London Hospital.\n{{right|''Daily Telegraph'', June 22, 1886. (''Encyc. Dict.'')}}}}\n\n'''vengement†''' (venj′ment), ''n.'' [< ''venge'' + ''-ment.''] Avengement; retribution.\n{{smaller block|<poem>He shew’d his head ther left,\nAnd wretched life forlorne for ''vengement'' of his theft.</poem>\n{{right|''Spenser'', F. Q., VI. iii. 18.}}}}\n\n'''venger†''' (ven′jėr), ''n.'' [< F. ''vengeur'' = Sp. ''vengador'', < LL. ''vindicator'', avenger, < L. ''vindicare'', avenge: see ''venge''. Cf. ''vindicator.''] An avenger.\n{{smaller block|God is a ''vengere'' of synne. {{right|''Coventry Mysteries'', p. 76.}}}}\n{{smaller block|<poem>His bleeding heart is in the ''vengers'' hand.</poem>\n{{right|''Spenser'', F. Q., I. iii. 20.}}}}\n\n'''vengeress†''' (ven′jėr-es), ''n.'' [< ME. ''vengeresse'', < OF. ''vengeresse'', fem. of ''vengeur'', an avenger: see ''venger''.] A female avenger.\n{{smaller block|This kynge alain was seke of the woundes of the spere ''vengeresse'', . . . for he was wounded thourgh bothe thyghes with that spere. {{right|''Merlin'' (E. E. T. S.), ii. 229.}}}}\n{{smaller block|The thre goddesses, furiis and ''vengeressis'' of felonies.\n{{right|''Chaucer'', Boëthius, iii. meter 12.}}}}\n\n'''veniable†''' (vē′ni-ạ-bl), ''a.'' [< ME. ''veniable'', < LL. ''veniabilis'', pardonable, < L. ''venia'', pardon: see ''venial''.] Venial; pardonable. {{smaller block|In things of this nature silence commendeth history; ’tis the ''veniable'' part of things lost.\n{{right|''Sir T. Browne'', Vulg. Err., vii. 19.}}}}\n\n'''veniably†''' (vē′ni-a̤-bli), ''adv.'' Pardonably; excusably.\n\n'''venial''' (vē′ni-al), ''a.'' and ''n.'' [< ME. ''venial'', < OF. ''venial'', F. ''véniel'' = Sp. Pg. ''venial'' = It. ''veniale'', < LL. ''venialis'', pardonable, < L. ''venia'', indulgence, remission, pardon.] '''I.''' ''a.'' '''1.''' That may be forgiven; pardonable; not very sinful or wrong: as, a ''venial'' sin or transgression. See ''sin''<sup>1</sup>, 1.\n{{smaller block|There contricioun doth but dryueth it doun in-to a ''venial'' synne.\n{{right|''Piers Plowman'' (B), xiv. 92.}}\nIn our own country, a woman forfeits her place in society by what in a man is too commonly considered as an honourable distinction, and at worst as a ''venial'' error.\n{{right|''Macaulay'', Machiavelli.}}}}\n'''2.''' Excusable; that may be allowed or permitted to pass without severe censure.\n{{smaller block|<poem>They are things indifferent, whether kept or broken;\nMere ''venial'' slips, that grow not near the conscience.</poem>\n{{right|''Fletcher'', Wildgoose Chase, ii. 1.}}\nThis is a mistake, though a very ''venial'' one; the apophthegm is attributed . . . to Agasicles, not to Agesilaus.\n{{right|''Sir T. Elyot'', The Governour, ii. 9, note.}}}}\n'''3†.''' Permissible; harmless; unobjectionable.\n{{smaller block|<poem>Permitting him the while\n''Venial'' discourse unblamed.</poem>\n{{right|''Milton'', P. L., ix. 5.}}}}\n\n='''Syn. 1''' and 2. ''Venial, Excusable, Pardonable. Excusable'' and ''pardonable'' are applied to things small and great, but ''pardonable'' primarily applies to greater offenses, as pardoning is a more serious act than excusing. ''Excusable'' may be applied where the offense is only in seeming. ''Venial'' applies to things actually done; the others may apply to infirmities and the like. ''Venial'', by theological use, is often opposed, more or less clearly, to ''mortal''.\n\n'''II.'''† ''n.'' A venial sin or offense.\n{{smaller block|It . . . gently blanches over the breaches of God’s Law with the name of ''venials'' and favourable titles of diminution.\n{{right|''Bp. Hall'', Dissuasive from Popery.}}}}\n\n'''veniality''' (vē-ni-al′i-ti), ''n.'' [= Sp. ''venialidad'' = Pg. ''venialidade''; as ''venial'' + ''-ity''.] The property of being venial.\n{{smaller block|They palliate wickedness, with the fair pretence of ''veniality''.\n{{right|''Bp. Hall'', Sermon at Westminster, April 5, 1628.}}}}\n\n'''venially''' (vē′ni-a̤l-i), ''adv.'' In a venial manner; pardonably.\n\n'''venialness''' (vē′ni-a̤l-nes), ''n.'' The state of being excusable or pardonable.\n\n'''Venice crown.''' In ''her.'', a bearing representing the cornu or peaked cap of the Doge of Venice, decorated with a rim of gold like a coronet, surrounding the brow of the wearer.\n\n'''Venice glass, mallow, point, soap, sumac, turpentine, white,''' etc. See ''glass'', etc.\n\n'''Venice treacle.''' See ''theriac.''\n\n'''Veni Creator''' (vē′nī krē-ā′to̤r). [So called from the first words, “Veni Creator Spiritus,” ‘Come, Creator Spirit.’ L.: ''veni'', 2d pers. sing. impv. of ''venire'', come; ''creator'', creator.] A hymn to the Holy Ghost, used in the Roman Catholic Church in the daily office on Whitsunday and during the octave, also at coronations, synods, ordination of priests, consecration of bishops, creation of popes, and translation of relics. {{smaller|In Sarum use it also formed part of the priest’s preparation before mass. In the Anglican Prayer-book two free versions of it are given (“Come, Holy Ghost, our souls inspire,” and “Come, Holy Ghost, eternal God”), to be used at the ordination of priests and consecration of bishops, and it is also used at synods, etc. Its authorship is commonly attributed to Charlemagne, but it is certainly older, and may be referred with more probability to St. Gregory the Great. Also, more fully, ''Veni Creator Spiritus''.}}\n\n'''venim†, venime†,''' ''n.'' Old spellings of ''venom.''\n\n'''venimous†,''' ''a.'' An obsolete form of ''venomous.''\n\n'''veniplex''' (vē′ni-pleks), ''n.'' [NL., < L. ''vena,'' vein, + ''plexus,'' a network: see ''plexus.''] A venous plexus, or plexiform arrangement of veins forming an anastomotic network. ''Coues.''\n\n'''veniplexed''' (vē′ni-plekst), ''a.'' [< ''veniplex'' + ''-ed''<sup>2</sup>.] Formed into a venous plexus or network. ''Coues.''\n\n'''venire facias''' (vē-nī′rē fā′s̮i-as). [So called from these words in the writ, lit. ‘cause to come.’ L.: ''venire,'' come; ''facias,'' 2d pers. sing. pres. subj. (as impv.) of ''facere,'' make, do, cause.] In ''law,'' a writ or precept directed to the sheriff, requiring him to cause a jury or a number of jurors to come or appear in court, for the trial of causes. Also, in common legal parlance, ''venire.''—{{smaller|'''Venire facias de novo,''' or '''venire de novo,''' in ''law,'' a new writ for summoning a jury anew; the process used at common law when, by reason of some irregularity or defect apparent on the record, a party was entitled to a new trial as matter of right. The motion for a new trial in modern practice may be made on the same grounds, and also on other grounds, including some that rest in judicial discretion.}}\n\n'''venire-man''' (vē-nī′rē-ma̤n), ''n.'' A man summoned under a venire facias for jury service.\n\n'''venison''' (ven′zn or ven′i-zn), ''n.'' [Formerly also ''ven’son;'' < ME. ''venison, venysoun, veneson, veneisun,'' < OF. *''veneisun, venaison, venoison,'' F. ''venaison,'' venison, the flesh of the deer and boar, the principal objects of the chase, < L. ''venatio(n-),'' hunting, also the product of the chase, game, < ''venari,'' hunt: see ''venation''<sup>1</sup>, of which ''venison'' is thus a doublet. For the form and the dissyllabic pronunciation, cf. ''menison'', ''menson'', ult. < L. ''manatio''(''n''-).] '''1†.''' A beast or beasts of the chase, as deer and other large game.\n{{smaller block|<poem>A theef of ''venysoun'', that hath forlaft\nHis likerousnesse and al his olde craft,\nCan kepe a forest best of any man.</poem>\n{{right|''Chaucer'', Physician’s Tale, l. 83.}}}}\n{{smaller block|<poem>“Come, kill [me] a ''ven’son'',” said bold Robin Hood,\n“Come, kill me a good fat deer.”</poem>\n{{right|''Robin Hood and the Bishop of Hereford'' (Child’s Ballads, V. 294).}}}}\n'''2.''' The flesh of such game used as food; specifically, the flesh of animals of the deer tribe: now the common use of the word.\n{{smaller block|Shall we go and kill us ''venison?''\n{{right|''Shak.'', As you Like it, ii. 1. 21.}}}}\n{{smaller block|A fair ''ven’son'' pastye brought she out presentlye.\n{{right|''King and Miller of Mansfield'' (Child’s Ballads, VIII. 36).}}}}\n{{smaller block|<poem>Thanks, my Lord, for your ''venison'', for finer or fatter\nNever rang’d in a forest or smok’d in a platter.</poem>\n{{right|''Goldsmith'', Haunch of Venison.}}}}\n{{smaller|'''Fallow venison''', the flesh of the fallow deer.—'''Red venison''', the flesh of the red deer.}}\n{{smaller block|''Venison'' both ''red'' and fallow.\n{{right|''Fuller'', Pisgah Sight, I. v. § 2.}}}}\n\n'''Venite''' (vē-nī′tē), ''n.'' [So called from the first words, “Venite exultemus,” ‘O come, let us sing unto the Lord.’ L. ''venite'', 2d pers. pl. impv. of ''venire'', come.] '''1.''' In ''liturgics'', the 95th Psalm.\n{{smaller block|In the Roman and other Western arrangements of the daily office this psalm is said at matins, accompanied by the invitatory and followed, after a hymn, by the appointed psalms of the hour. In the Anglican Prayer-book it is also said daily at matins or morning prayer before the psalms of the Psalter, except on the nineteenth day of the month, when it begins the portion for the day in the Psalter, and at Easter, when it is replaced by a special anthem. Also, more fully, ''Venite exultemus.''}}\n'''2.''' A musical setting, usually in chant form, of the above canticle.\n\n'''venivel, venivela''' (ven′i-vel, ven-i-vē′lä̤), ''n.'' [E. Ind.] The velvetleaf, or spurious pareira brava, ''Cissampelos Pareira.''\n\n'''venje†''', ''v.'' An old spelling of ''venge.''\n\n'''vennel''' (ven′el), ''n.'' [Formerly also ''venall;'' < F. ''venelle'', a small street.] An alley, or narrow street. [Scotch.]\n{{smaller block|Some ruins remain in the ''vennel'' of the Maison Dieu or hospitium, founded by William of Brechin in 1256.\n{{right|''Encyc. Brit.'', IV. 242.}}}}\n\n'''venom''' (ven′um), ''n.'' and ''a.'' [Early mod. E. also ''venome, venim, venime, venym;'' < ME. ''venim, venym, venyme, fenim'', < OF. ''venim, venin'', also ''velin'', F. ''venin'' = Pr. ''vere, veri'' = Sp. Pg. ''veneno'' = It. ''veleno, veneno'', < L. ''venenum'', poison.] '''I.''' ''n.'' '''1.''' Poison in general: now an archaic use.\n{{smaller block|Zif ''Venym'' or Poysoun be broughte in presence of the Dyamand, anon it begynnethe to wexe moyst and for to swete.\n{{right|''Mandeville'', Travels, p. 159.}}}}\n{{smaller block|<poem>Full from the fount of Joy’s delicious springs\nSome bitter o’er the flowers its bubbling ''venom'' flings.</poem>\n{{right|''Byron'', Childe Harold, i. 82.}}}}\n'''2.''' The poisonous fluid secreted by some animals in a state of health, as a means of offense and defense, and introduced into the bodies of their victims by biting, as in the case of many serpents, or stinging, as in the case of scorpions, etc. {{smaller|In vertebrates venom is usually a modified saliva secreted by glands morphologically identical with ordinary salivary glands; and the normal saliva of various animals acquires at times, or under some circumstances, an extremely venomous quality, as in the rabies of various beasts. Venom is normal to few vertebrates, notably all thanatophidian serpents, and one or two lizards, as the Gila monster. Venom-glands are connected with the spines of the head or fins of a few fishes. Venom of extreme virulence is injected with the bite of a few spiders (see ''Latrodectus'', and cut under ''spider''), and the punctures made by the claws or telson of centipeds and scorpions are envenomed. An acrid or irritating fluid, classable as venom, is injected with the sting of many insects (see cases cited under ''sting''<sup>1</sup>), and in one case at least may be fatal to large animals (see ''tsetse'').}}\n{{smaller block|<poem>Of alle fretynge ''venymes'' the vilest is the scorpion;\nMay no medecyne amende the place ther he styngeth.</poem>\n{{right|''Piers Plowman'' (C), xxi. 158.}}}}\n{{smaller block|<poem>Or hurtful worm with canker’d ''venom'' bites.</poem>\n{{right|''Milton'', Arcades, l. 53.}}}}\n\n'''3.''' Something that blights, cankers, or embitters; injurious influence; hence, spite; malice; malignity; virulency.\n{{smaller block|<poem>What with Venus, and other oppressioun\nOf houses, Mars his ''Venim'' is adoun,\nThat Ypermistra dar nat handle a knyf.</poem>\n{{right|''Chaucer'', Good Women, l. 2593.}}}}\n{{smaller block|<poem>The ''venom'' of such looks, we fairly hope,\nHave lost their quality. ''Shak.'', Hen. V., v. 2. 18.</poem>}}\n\n'''4†.''' Coloring material; dye.\n{{smaller block|They cowde nat medle the bryhte fleeces of the contre of Seryens with the ''venym'' of Tyrie.\n{{right|''Chaucer'', Boëthius, ii. meter 5.}}}}\n\n'''II.†''' ''a.'' Envenomed; venomous; poisonous.\n\n{{smaller block|In our lande growith pepper in forestis full of snakes and other ''venym'' beestes.\n{{right|''R. Eden'' (First Books on America, ed. Arber, p. xxxiv.).}}}}\n{{smaller block|<poem>Thou art . . .\nMark’d by the destinies to be avoided,\nAs ''venom'' toads, or lizard’s dreadful stings.</poem>\n{{right|''Shak.'', 3 Hen. VI., ii. 2. 138.}}}}\n{{smaller block|<poem>My ''venom'' eyes\nStrike innocency dead at such a distance.</poem>\n{{right|''Beau. and Fl.'', Coxcomb, v. 2.}}}}\n\n'''venom''' (ven′um), ''v.'' [Early mod. E. ''venome'', ''venime''; < ME. ''venymen'', ''venynen'', by apheresis from ''envenimen'', < OF. ''envenimer'', poison (see ''envenom''); in part directly from the noun ''venom''.] '''I.''' ''trans.'' To envenom; infect with poison.\n{{smaller block|The ''venomed'' vengeance ride upon our swords.\n{{right|''Shak.'', T. and C., v. 3. 47.}}}}\n{{smaller block|<poem>Here boldly spread thy hands, no ''venom’d'' weed\nDares blister them.</poem>\n{{right|''Fletcher'', Faithful Shepherdess, iii. 1.}}}}\n{{smaller block|<poem>Since I must\nThrough Brothers’ periurie dye, O let me ''venome''\nTheir Soules with curses!</poem>\n{{right|''Tourneur'', Revenger’s Tragedy, iii. 4.}}}}\n{{smaller block|Its bite [that of ''Conus aulicus''] produces a ''venomed'' wound accompanied by acute pain.\n{{right|''A. Adams'', quoted in Stand. Nat. Hist., I. 336.}}}}\n\n'''II.†''' ''intrans.'' To become as if infected with venom.\n{{smaller block|Take out the temporal sting, that it shall not ''venom'' and fester. ''Jer. Taylor'', Ductor Dubitantium. (''Latham.'')}}\n\n'''venom-albumin''' (ven′um-al-bū″min), ''n.'' The albumin of snake-poison.\n\n'''venom-duct''' (ven′um-dukt), ''n.'' The duct which conveys venom from the sac or gland where it<noinclude><references/></noinclude>"
+}

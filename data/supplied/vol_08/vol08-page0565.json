@@ -1,0 +1,233 @@
+{
+ "volume": 8,
+ "page_number": 565,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n564.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n564.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-23",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 870,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     58,
+     2351,
+     101
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     101,
+     875,
+     1133
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1133,
+     875,
+     2018
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2018,
+     875,
+     2788
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2788,
+     875,
+     3315
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     875,
+     101,
+     1618,
+     1181
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     875,
+     1181,
+     1618,
+     2234
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     875,
+     2234,
+     1618,
+     3315
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1618,
+     101,
+     2351,
+     1123
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1695,
+     101,
+     2255,
+     797
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1618,
+     1123,
+     2351,
+     1858
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1618,
+     1858,
+     2351,
+     2843
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1618,
+     2843,
+     2351,
+     3315
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|viol-block|6761|violet}}",
+   "c1s1": "¶\n'''viol-block''' (vī′ọl-blok), ''n.'' A single block or snatch-block, large enough to reeve a small hawser; any large snatch-block.\n\n'''viole†''', ''v. t.'' [< OF. ''violer'', < L. ''violare'', violate: see ''violate''.] To violate.\n\n'''Violeæ''' (vī-ō′lẹ̄-ē), ''n. pl.'' [NL. (A. P. de Candolle, 1824), < ''Viola''<sup>2</sup> + ''-eæ''.] A tribe of plants, of the order ''Violarieæ'', characterized by an irregular corolla with the lower petal unlike the others. {{smaller|It includes 8 genera, of which ''Ionidium'' and ''Viola'' (the type) are large and widely distributed; of the others, ''Anchietea'' and ''Corynostylis'' each include 3 climbing and ''Noisettia'' 3 shrubby species, all of tropical America; 2 others are American and 1 Polynesian.}}\n\n'''violence''' (vī′ọ̄-lens), ''n.'' [< ME. ''violence'', < OF. ''violence'', F. ''violence'' = Sp. Pg. ''violencia'' = It. ''violenza'', < L. ''violentia'', vehemence, impetuosity, ferocity, < ''violentus'', vehement, forcible: see ''violent''.] '''1.''' The state or character of being violent; force; vehemence; intensity.\n{{smaller block|<poem>To be imprisoned in the viewless winds,\nAnd blown with restless ''violence'' round about.</poem>\n{{right|''Shak.'', M. for M., iii. 1. 125.}}\nThe ''violence'' of the lake is so great that it will carry away both man and beast that commeth within it.\n{{right|''Coryat'', Crudities, I. 89.}}\n<poem>Disturb’d and torn\nWith ''violence'' of this conflict.</poem>\n{{right|''Milton'', P. L., iv. 995.}}}}\n'''2.''' Highly excited feeling or action; impetuosity; vehemence; eagerness.\n{{smaller block|Mark me with what ''violence'' she first loved the Moor, but for bragging and telling her fantastical lies.\n{{right|''Shak.'', Othello, ii. 1. 224.}}}}",
+   "c1s2": "'''3.''' Injury done to anything which is entitled to respect, reverence, or observance; profanation; infringement; violation. See the phrases below. —'''4.''' Unjust or unwarranted exertion of power; unjust force; force employed against rights, laws, liberty, or the like; outrage; injury; hurt; attack; assault.\n{{smaller block|To prevent the tyrant’s ''violence.''\n{{right|''Shak.'', 3 Hen. VI., iv. 4. 29.}}\nFie, Master Morose, that you will use this ''violence'' to a man of the church! {{right|''B. Jonson'', Epicœne, iii. 2.}}}}\n'''5.''' Ravishment; rape.—'''6.''' In ''law:'' (''a'') Any wrongful act of one person, whereby either he or his instrument of wrong-doing is brought into contact with the limbs or body of another person. ''Robinson.'' (''b'') The overcoming or preventing of resistance by exciting fear through display of force. (''c'') The unlawful use of physical force.—'''To do violence on†''', {{smaller|to attack; murder.}}\n{{smaller block|But, as it seems, ''did violence on'' herself.\n{{right|''Shak.'', R. and J., v. 3. 264.}}}}\n'''To do violence to''' {{smaller|or}} '''unto''', {{smaller|to outrage; force; injure.}}\n{{smaller block|He said unto them, ''Do violence to'' no man. {{right|Luke iii. 14.}}\n<poem>They have ''done violence unto'' her tomb,\nNot granting rest unto her in the grave.</poem>\n{{right|''Beau. and Fl.'', Knight of Malta, v. 2.}}}}\n='''Syn. 1''' and '''2.''' {{smaller|Passion, fury, fierceness, wildness, rage, boisterousness.}}",
+   "c1s3": "¶\n'''violence†''' (vī′ọ̄-lens), ''v. t.'' [< ''violence, v.''] '''1.''' To do violence to; assault; injure.\n{{smaller block|<poem>''Mrs. Fitz.'' It may beget some favour like excuse,\nThough none like reason.\n''Wit.'' No, my tuneful mistress?\nThen surely love hath none, nor beauty any;\nNor nature, ''violenced'' in both of these.</poem>\n{{right|''B. Jonson'', Devil is an Ass, ii. 2.}}}}\n\n'''2.''' To bring by violence; compel.\n{{smaller block|Like our late misnam’d high court of justice, to which the loyal and the noble, the honest and the brave, were ''violenc’d'' by ambition and malice. ''Feltham'', Resolves, ii. 64.}}\n\n'''violency''' (vī′ọ̄-len-si), ''n.'' [As ''violence'' (see ''-cy'').] Same as ''violence. Jer. Taylor'', Rule of Conscience, III. ii. 3.\n\n'''violent''' (vī′ọ̄-lent), ''a.'' and ''n.'' [< ME. ''violent, vyolent'', < OF. ''violent'', F. ''violent'' = Sp. Pg. It. ''violento'', < L. ''violentus'', vehement, forcible, < ''vis'', strength, power, force: see ''vim.''] '''I.''' ''a.'' '''1.''' Characterized by strong and sudden physical force; impetuous; furious.\n{{smaller block|<poem>Our fortunes lie a bleeding by your rash\nAnd ''violent'' onset.</poem>\n{{right|''Lust’s Dominion'', iv. 2.}}\n''Violent'' fires soon burn out themselves.\n{{right|''Shak.'', Rich. II., ii. 1. 34.}}}}",
+   "c1s4": "¶\n'''2.''' Produced, effected, or continued by force; accompanied by extraneous or unnatural force; unnatural.\n{{smaller block|No ''violent'' state can be perpetual. {{right|''T. Burnet.''}}}}\n{{smaller block|Truly I don’t Care to discourage a young Man—he has a ''violent'' Death in his Face; but I hope no Danger of Hanging. {{right|''Congreve'', Love for Love, ii. 7.}}}}\n\n'''3.''' Acting or produced by unlawful, unjust, or improper force; characterized by force or violence unlawfully exercised; rough; outrageous; not authorized.\n{{smaller block|Then laid they ''violent'' hands upon him; next Himself imprisoned, and his goods asseized. {{right|''Marlowe'', Edw. II., i. 2.}}}}",
+   "c2s1": "¶\n{{smaller block|We would give much to use ''violent'' thefts.\n{{right|''Shak.'', T. and C., v. 3. 21.}}}}\n\n{{smaller block|<poem>When with a ''violent'' hand you made me yours,\nI curs’d the doer.</poem>\n{{right|''Fletcher'' (''and another''), Sea Voyage, ii. 1.}}}}\n\n'''4.''' Vehement mentally, or springing from such vehemence; fierce; passionate; furious.\n\n{{smaller block|<poem>Let down your anger! Is not this our sovereign?\nThe head of mercy and of law? who dares, then,\nBut rebels scorning law, appear thus ''violent?''</poem>\n{{right|''Fletcher'', Loyal Subject, iv. 7.}}}}\n\n{{smaller block|His Love, however ''violent'' it might appear, was still founded in Reason. ''Addison'', Spectator, No. 345.}}\n\n{{smaller block|Indeed, my Dear, you’ll tear another Fan, if you don’t mitigate those ''violent'' Airs.\n{{right|''Congreve'', Way of the World, iii. 11.}}}}\n\n'''5.''' In general, intense in any respect; extreme: as, a ''violent'' contrast; especially, of pain, acute.\n\n{{smaller block|Discreet maistris seyn that the feuere agu comounly is causid of a ''uyolent'' reed coler adust, and of blood adust, and of blak coler adust.\n{{right|''Book of Quinte Essence'' (ed. Furnivall), p. 22.}}}}\n\n{{smaller block|It was the ''violentest'' Fit of Contagion that ever was for the Time in this Island. ''Howell'', Letters, I. iv. 24.}}\n\n{{smaller block|The king’s whole army, encamped along the sides of this river, were taken with ''violent'' sickness after eating the fish caught in it. ''Bruce'', Source of the Nile, II. 235.}}\n\n{{smaller block|Rouge, if too ''violent'', by a natural law of color causes the planes of the cheeks to recede from the planes of the other and whiter portions of the face, thus producing a look of age and of gauntness. ''The Century'', XXXV. 539.}}\n\n'''6.''' Compelled; compulsory; not voluntary.\n\n{{smaller block|All ''violent'' marriages engender hatred betwixt the married. ''Guevara'', Letters (tr. by Hellowes, 1577), p. 297.}}\n\n{{smaller block|<poem>Ease would recant\nVows made in pain, as ''violent'' and void.</poem>\n{{right|''Milton'', P. L., iv. 97.}}}}",
+   "c2s2": "{{smaller|'''Violent motion'''†. See ''motion.''—'''Violent power.''' See ''power''<sup>1</sup>.—'''Violent profits,''' in ''Scots law,'' the penalty due on a tenant’s forcibly or unwarrantably retaining possession after he ought to have removed. ='''Syn. 1.''' Turbulent, boisterous.—'''5.''' Poignant, exquisite.}}\n\n'''II.'''† ''n.'' One acting with violence.\n{{smaller block|Such ''violents'' shall not take heaven, but hell, by force.\n{{right|''Decay of Christian Piety,'' p. 53. (''Latham.'')}}}}\n\n¶\n'''violent'''† (vī′ọ̄-lent), ''v.'' [< ''violent, a.''] '''I.''' ''trans.'' To urge with violence.\n{{smaller block|I find not the least appearance that his former adversaries ''violented'' any thing against him under that queen.\n{{right|''Fuller,'' Worthies, III. 510.}}}}\n\n'''II.''' ''intrans.'' To act or work with violence; be violent.\n{{smaller block|<poem>This grief is fine, full, perfect, that I taste,\nAnd ''violenteth'' in a sense as strong\nAs that which causeth. ''Shak.,'' T. and C., iv. 4. 4.</poem>}}\n\n'''violently''' (vī′ọ̄-lent-li), ''adv.'' In a violent manner; by violence; by force; forcibly; vehemently; outrageously.\n{{smaller block|They must not deny that there is to be found in nature another agent able to analyse compound bodies less ''violently,'' and both more genuinely and more universally, than the fire.\n{{right|''Boyle,'' Works, I. 486.}}\n\nThe king, at the head of the cavalry, fell so suddenly and so ''violently'' upon them that he broke through the van-guard commanded by Melca Christos, and put them to flight before his foot could come up.\n{{right|''Bruce,'' Source of the Nile, II. 393.}}\n\nDuring the siege of Valenciennes by the allied armies in June, 1793, the weather, which had been remarkably hot and dry, became ''violently'' rainy after the cannonading commenced.\n{{right|''Sci. Amer.,'' N. S., LXIII. 385.}}}}\n\n'''violer'''† (vī′ọl-ėr), ''n.'' [< ''viol'' + ''-er''<sup>1</sup>.] One skilled in playing on the viol; also, a violinist.",
+   "c2s3": "¶\n{{smaller block|To the Frenche ''violer'' for his quarters paye, 12''li.'' 10''s.''\n{{right|''Prince Henry’s Book of Payments'' (1609). (''Nares.'')}}\nOne . . . stabs a ''violer'' . . . because he was serenading in the night-time with his fiddle.\n{{right|''Fountainhall'', Decisions of the Lords of Council and [Session, I. 364. (''Jamieson.'')}}}}\n\n'''violescent''' (vī-ọ̄-les′ẹnt), ''a.'' [< L. ''viola'', a violet, a purple color (see ''violet''<sup>1</sup>), + ''-escent.''] Tending to a violet color.\n\n'''violet<sup>1</sup>''' (vī′ọ̄-let), ''n.'' and ''a.'' [Early mod. E. also ''violette''; < ME. ''violet, vyolet, vialet, vyalett, violette'', < OF. ''violette'', f., ''violet'', m., F. ''violette'' = Sp. Pg. ''violeta'' = It. ''violetta'', dim. of L. ''viola'' (It. Sp. Pg. ''viola'', OF. ''viole''), a violet, a dim. form, akin to Gr. ἴον (*Ϝίον), a violet.] '''I.''' ''n.'' '''1.''' A plant of the genus ''Viola'', or one of its flowers; also, one of a few plants of other genera. See ''Viola'', compound names below, and cut in next column.\n{{smaller block|Daisies pied and ''violets'' blue. {{right|''Shak.'', L. L. L., v. 2. 904.}}}}\n'''2.''' A general class of colors, of which the violet-flower is a highly chromatic example. {{smaller|In the spectrum the violet extends from ''h'' to H, covering all the upper part of the spectrum ordinarily visible. This color can be produced by a slight admixture of red to blue; and colors somewhat more red than the upper part of the spectrum are called violet. But the sensation of violet is produced by a pure blue whose chroma has been diminished while its luminosity has been increased. Thus, blue and violet are the same color, though the sensations are different. A mere increase of illumination may cause a violet blue to appear violet, with a diminution of apparent chroma. This color, called violet or blue according to the}}",
+   "c3s1": "[[FIGURE]]\n{{c|{{smaller|1, Stemmed Violet (''Viola tricolor'', var. ''arvensis''): ''St'', stem.}}}}\n{{c|{{smaller|2, Stemless Violet (''Viola palmata'', var. ''cucullata''): ''s'', scape.}}}}\n{{smaller block|quality of the sensation it excites, is one of the three fundamental colors of Young’s theory. It is nearly complementary to the color of brightness, so that deep shades generally appear by contrast of a violet tinge; and the light of a rainy day, and still more of a sudden tempest, has a violet appearance. Even the pure yellow of the spectrum, so reduced as to be barely visible, looks violet beside the same light in great intensity.}}\n'''3.''' Any one of the many different small blue or violet butterflies of ''Lycæna'', ''Polyommatus'', and",
+   "c3s2": "allied genera.—'''Acid violet''', a coal-tar color used in dyeing, being the sodium salt of di-methyl-rosaniline tri-sulphonic acid. It is applicable to wool and silk.—'''Aniline violet.''' Same as ''mauve.''—'''Arrow-leafed violet''', ''Viola sagittata'' of the eastern half of the United States, much resembling the common blue violet, except in the form of its leaves.—'''Bird’s-foot violet''', a low stemless species, ''Viola pedata'', of the same region, having pedately divided leaves, and fine large light-blue or whitish flowers, yellow-eyed with the stamens. A variety is the pansy violet.—'''Calathian violet''', the marsh-gentian, ''Gentiana Pneumonanthe.'' According to Gerard, the true plant was a ''Campanula. Britten and Holland.''—'''Canada violet''', ''Viola Canadensis'', a species common northward and in the mountains of eastern North America, having an upright stem a foot or two high, and white petals purplish beneath.—'''Common''' or '''early blue violet''', ''Viola palmata'', especially in the variety ''cucullata'', very common in moist ground in North America. The leaves are more or less palmately lobed, or in the variety only crenate. The size and shape of the leaves are variable, as also the color of the petals, which are deep- or pale-blue, or purple, or sometimes white or variegated.—'''Corn-violet.''' See ''Specularia.''—'''Crystal violet.''' See ''crystal.''—'''Damask violet.''' Same as ''dame’s-violet.''—'''Dog-tooth violet''', a plant of the genus ''Erythronium.'' The yellow dog-tooth violet is ''E. Americanum.''—'''Dog-violet''', ''Viola canina'' of the northern Old World, and in the variety ''Muhlenbergii'' of North America. It is a stemmed violet a few inches",
+   "c3s3": "high, with light-violet petals and a short cylindrical spur.—'''English violet.''' See ''sweet violet.''—'''Fringe''' or '''fringed violet,''' ''Arthropodium paniculatum'' and ''Thysanotus tuberosus,'' liliaceous plants of Australia with rather small panicled blue flowers, those of the former with crisped inner segments.—'''Green violet.''' See ''Ionidium.''—'''Hoffmann’s violet.''' Same as ''dahlia,'' 3.—'''Hooded violet,''' a plant of the tropical American genus ''Corynostylis'' (''Calyptrion''), related to the violets.—'''Horned violet''' (or '''pansy'''), ''Viola cornuta'' of the Pyrenees, having pale-blue or mauve-colored sweet-scented spurred flowers, produced abundantly and continuously, long cultivated in Europe, and forming an excellent border- or bedding-plant.—'''Lance-leafed violet,''' the American ''Viola lanceolata,'' with small white flowers.—'''Long-spurred violet,''' ''Viola rostrata'' of the eastern and central United States, having a low stem and pale-violet flowers with a slender spur.—'''Manganese violet,''' in ''ceram.,'' the purple color obtained by the use of manganese.—'''March violet,''' the sweet violet. ''Britten and Holland.'' [Local, Eng.]—'''Marian’s violet.''' Same as ''mariet.''—'''Marsh-violet.''' (''a'') ''Viola palustris,'' a species with small blue flowers marked with purple: found northward in both hemispheres. (''b'') Locally, same as ''bog-violet.''—'''Mars violet,''' an artificially prepared oxid of iron, used as a pigment by artists. It resembles Indian red, but is darker in color. Also called ''mineral purple.''—'''Mercury’s violet.''' Same as ''Marian’s violet.''—'''Naphthalene violet.''' Same as ''naphthamein.''—'''Neapolitan violet.''' See ''sweet violet.''—'''New fast violet.''' Same as ''gallocyanine.''—'''New Holland violet.''' Same as ''spurless violet.''—'''Pale violet,''' ''Viola striata'' of central and eastern North America, a stemmed species having white petals lined with purple.—'''Pansy violet,''' a local name for the variety ''bicolor'' of the bird’s-foot violet, ''Viola pedata.'' The two upper petals are of a deep-violet color and as if velvety. Also ''velvet violet.''—'''Paris violet.''' Same as ''methyl-violet.''—'''Perkin’s violet.''' Same as ''indisin.''—'''Primrose-leafed violet,''' ''Viola primulæfolia'' of the eastern United States, with small white flowers.—'''Rosaniline violet''' a coal-tar color used",
+   "c3s4": "in dyeing, being the hydrochlorids of mono- and di-phenylrosaniline. They produce a dull but moderately fast violet color on cotton, wool, and silk. Also called ''phenyl violet, spirit violet, Parma violet, imperial violet'', etc.—'''Round-leafed violet,''' ''Viola rotundifolia'' of cold woods in eastern North America, a species with small yellow flowers, the leaves at first erect, roundish-ovate, an inch broad, in summer 3 or 4 inches long, lying flat on the ground, shining above.—'''Sand violet,''' ''Viola arenaria,'' a small tufted stemless species with pale-blue flowers, found in the northern Old World.—'''Spurless violet,''' specifically, ''Viola hederacea'' of Australasia, once classed as a distinct genus ''Erpetion'', a tufted or widely creeping plant with rather small blue flowers.—'''Spurred violet,''' a pretty South"
+  },
+  "figure_files": {
+   "c3f1": "century v08 p0565 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1707,
+     108,
+     2243,
+     785
+    ],
+    "caption": [
+     1653,
+     791,
+     2302,
+     833
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1684,
+     93,
+     2281,
+     778
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 8,
+    "output_tokens": 95,
+    "cache_creation_input_tokens": 4214,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 12,
+    "input_tokens": 10476,
+    "output_tokens": 10547,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|viol-block|6761|violet}}</noinclude>{{nop}}'''viol-block''' (vī′ọl-blok), ''n.'' A single block or snatch-block, large enough to reeve a small hawser; any large snatch-block.\n\n'''viole†''', ''v. t.'' [< OF. ''violer'', < L. ''violare'', violate: see ''violate''.] To violate.\n\n'''Violeæ''' (vī-ō′lẹ̄-ē), ''n. pl.'' [NL. (A. P. de Candolle, 1824), < ''Viola''<sup>2</sup> + ''-eæ''.] A tribe of plants, of the order ''Violarieæ'', characterized by an irregular corolla with the lower petal unlike the others. {{smaller|It includes 8 genera, of which ''Ionidium'' and ''Viola'' (the type) are large and widely distributed; of the others, ''Anchietea'' and ''Corynostylis'' each include 3 climbing and ''Noisettia'' 3 shrubby species, all of tropical America; 2 others are American and 1 Polynesian.}}\n\n'''violence''' (vī′ọ̄-lens), ''n.'' [< ME. ''violence'', < OF. ''violence'', F. ''violence'' = Sp. Pg. ''violencia'' = It. ''violenza'', < L. ''violentia'', vehemence, impetuosity, ferocity, < ''violentus'', vehement, forcible: see ''violent''.] '''1.''' The state or character of being violent; force; vehemence; intensity.\n{{smaller block|<poem>To be imprisoned in the viewless winds,\nAnd blown with restless ''violence'' round about.</poem>\n{{right|''Shak.'', M. for M., iii. 1. 125.}}\nThe ''violence'' of the lake is so great that it will carry away both man and beast that commeth within it.\n{{right|''Coryat'', Crudities, I. 89.}}\n<poem>Disturb’d and torn\nWith ''violence'' of this conflict.</poem>\n{{right|''Milton'', P. L., iv. 995.}}}}\n'''2.''' Highly excited feeling or action; impetuosity; vehemence; eagerness.\n{{smaller block|Mark me with what ''violence'' she first loved the Moor, but for bragging and telling her fantastical lies.\n{{right|''Shak.'', Othello, ii. 1. 224.}}}} '''3.''' Injury done to anything which is entitled to respect, reverence, or observance; profanation; infringement; violation. See the phrases below. —'''4.''' Unjust or unwarranted exertion of power; unjust force; force employed against rights, laws, liberty, or the like; outrage; injury; hurt; attack; assault.\n{{smaller block|To prevent the tyrant’s ''violence.''\n{{right|''Shak.'', 3 Hen. VI., iv. 4. 29.}}\nFie, Master Morose, that you will use this ''violence'' to a man of the church! {{right|''B. Jonson'', Epicœne, iii. 2.}}}}\n'''5.''' Ravishment; rape.—'''6.''' In ''law:'' (''a'') Any wrongful act of one person, whereby either he or his instrument of wrong-doing is brought into contact with the limbs or body of another person. ''Robinson.'' (''b'') The overcoming or preventing of resistance by exciting fear through display of force. (''c'') The unlawful use of physical force.—'''To do violence on†''', {{smaller|to attack; murder.}}\n{{smaller block|But, as it seems, ''did violence on'' herself.\n{{right|''Shak.'', R. and J., v. 3. 264.}}}}\n'''To do violence to''' {{smaller|or}} '''unto''', {{smaller|to outrage; force; injure.}}\n{{smaller block|He said unto them, ''Do violence to'' no man. {{right|Luke iii. 14.}}\n<poem>They have ''done violence unto'' her tomb,\nNot granting rest unto her in the grave.</poem>\n{{right|''Beau. and Fl.'', Knight of Malta, v. 2.}}}}\n='''Syn. 1''' and '''2.''' {{smaller|Passion, fury, fierceness, wildness, rage, boisterousness.}}\n\n'''violence†''' (vī′ọ̄-lens), ''v. t.'' [< ''violence, v.''] '''1.''' To do violence to; assault; injure.\n{{smaller block|<poem>''Mrs. Fitz.'' It may beget some favour like excuse,\nThough none like reason.\n''Wit.'' No, my tuneful mistress?\nThen surely love hath none, nor beauty any;\nNor nature, ''violenced'' in both of these.</poem>\n{{right|''B. Jonson'', Devil is an Ass, ii. 2.}}}}\n\n'''2.''' To bring by violence; compel.\n{{smaller block|Like our late misnam’d high court of justice, to which the loyal and the noble, the honest and the brave, were ''violenc’d'' by ambition and malice. ''Feltham'', Resolves, ii. 64.}}\n\n'''violency''' (vī′ọ̄-len-si), ''n.'' [As ''violence'' (see ''-cy'').] Same as ''violence. Jer. Taylor'', Rule of Conscience, III. ii. 3.\n\n'''violent''' (vī′ọ̄-lent), ''a.'' and ''n.'' [< ME. ''violent, vyolent'', < OF. ''violent'', F. ''violent'' = Sp. Pg. It. ''violento'', < L. ''violentus'', vehement, forcible, < ''vis'', strength, power, force: see ''vim.''] '''I.''' ''a.'' '''1.''' Characterized by strong and sudden physical force; impetuous; furious.\n{{smaller block|<poem>Our fortunes lie a bleeding by your rash\nAnd ''violent'' onset.</poem>\n{{right|''Lust’s Dominion'', iv. 2.}}\n''Violent'' fires soon burn out themselves.\n{{right|''Shak.'', Rich. II., ii. 1. 34.}}}}\n\n'''2.''' Produced, effected, or continued by force; accompanied by extraneous or unnatural force; unnatural.\n{{smaller block|No ''violent'' state can be perpetual. {{right|''T. Burnet.''}}}}\n{{smaller block|Truly I don’t Care to discourage a young Man—he has a ''violent'' Death in his Face; but I hope no Danger of Hanging. {{right|''Congreve'', Love for Love, ii. 7.}}}}\n\n'''3.''' Acting or produced by unlawful, unjust, or improper force; characterized by force or violence unlawfully exercised; rough; outrageous; not authorized.\n{{smaller block|Then laid they ''violent'' hands upon him; next Himself imprisoned, and his goods asseized. {{right|''Marlowe'', Edw. II., i. 2.}}}}\n\n{{smaller block|We would give much to use ''violent'' thefts.\n{{right|''Shak.'', T. and C., v. 3. 21.}}}}\n\n<poem>When with a ''violent'' hand you made me yours,\nI curs’d the doer.</poem>\n{{smaller block|{{right|''Fletcher'' (''and another''), Sea Voyage, ii. 1.}}}}\n\n'''4.''' Vehement mentally, or springing from such vehemence; fierce; passionate; furious.\n\n<poem>Let down your anger! Is not this our sovereign?\nThe head of mercy and of law? who dares, then,\nBut rebels scorning law, appear thus ''violent?''</poem>\n{{smaller block|{{right|''Fletcher'', Loyal Subject, iv. 7.}}}}\n\n{{smaller block|His Love, however ''violent'' it might appear, was still founded in Reason. ''Addison'', Spectator, No. 345.}}\n\n{{smaller block|Indeed, my Dear, you’ll tear another Fan, if you don’t mitigate those ''violent'' Airs.\n{{right|''Congreve'', Way of the World, iii. 11.}}}}\n\n'''5.''' In general, intense in any respect; extreme: as, a ''violent'' contrast; especially, of pain, acute.\n\n{{smaller block|Discreet maistris seyn that the feuere agu comounly is causid of a ''uyolent'' reed coler adust, and of blood adust, and of blak coler adust.\n{{right|''Book of Quinte Essence'' (ed. Furnivall), p. 22.}}}}\n\n{{smaller block|It was the ''violentest'' Fit of Contagion that ever was for the Time in this Island. ''Howell'', Letters, I. iv. 24.}}\n\n{{smaller block|The king’s whole army, encamped along the sides of this river, were taken with ''violent'' sickness after eating the fish caught in it. ''Bruce'', Source of the Nile, II. 235.}}\n\n{{smaller block|Rouge, if too ''violent'', by a natural law of color causes the planes of the cheeks to recede from the planes of the other and whiter portions of the face, thus producing a look of age and of gauntness. ''The Century'', XXXV. 539.}}\n\n'''6.''' Compelled; compulsory; not voluntary.\n\n{{smaller block|All ''violent'' marriages engender hatred betwixt the married. ''Guevara'', Letters (tr. by Hellowes, 1577), p. 297.}}\n\n<poem>Ease would recant\nVows made in pain, as ''violent'' and void.</poem>\n{{smaller block|{{right|''Milton'', P. L., iv. 97.}} '''Violent motion'''†. See ''motion.''—'''Violent power.''' See ''power''<sup>1</sup>.—'''Violent profits,''' in ''Scots law,'' the penalty due on a tenant’s forcibly or unwarrantably retaining possession after he ought to have removed. ='''Syn. 1.''' Turbulent, boisterous.—'''5.''' Poignant, exquisite.}}\n\n'''II.'''† ''n.'' One acting with violence.\n{{smaller block|Such ''violents'' shall not take heaven, but hell, by force.\n{{right|''Decay of Christian Piety,'' p. 53. (''Latham.'')}}}}\n\n'''violent'''† (vī′ọ̄-lent), ''v.'' [< ''violent, a.''] '''I.''' ''trans.'' To urge with violence.\n{{smaller block|I find not the least appearance that his former adversaries ''violented'' any thing against him under that queen.\n{{right|''Fuller,'' Worthies, III. 510.}}}}\n\n'''II.''' ''intrans.'' To act or work with violence; be violent.\n{{smaller block|<poem>This grief is fine, full, perfect, that I taste,\nAnd ''violenteth'' in a sense as strong\nAs that which causeth. ''Shak.,'' T. and C., iv. 4. 4.</poem>}}\n\n'''violently''' (vī′ọ̄-lent-li), ''adv.'' In a violent manner; by violence; by force; forcibly; vehemently; outrageously.\n{{smaller block|They must not deny that there is to be found in nature another agent able to analyse compound bodies less ''violently,'' and both more genuinely and more universally, than the fire.\n{{right|''Boyle,'' Works, I. 486.}}\n\nThe king, at the head of the cavalry, fell so suddenly and so ''violently'' upon them that he broke through the van-guard commanded by Melca Christos, and put them to flight before his foot could come up.\n{{right|''Bruce,'' Source of the Nile, II. 393.}}\n\nDuring the siege of Valenciennes by the allied armies in June, 1793, the weather, which had been remarkably hot and dry, became ''violently'' rainy after the cannonading commenced.\n{{right|''Sci. Amer.,'' N. S., LXIII. 385.}}}}\n\n'''violer'''† (vī′ọl-ėr), ''n.'' [< ''viol'' + ''-er''<sup>1</sup>.] One skilled in playing on the viol; also, a violinist.\n\n{{smaller block|To the Frenche ''violer'' for his quarters paye, 12''li.'' 10''s.''\n{{right|''Prince Henry’s Book of Payments'' (1609). (''Nares.'')}}\nOne . . . stabs a ''violer'' . . . because he was serenading in the night-time with his fiddle.\n{{right|''Fountainhall'', Decisions of the Lords of Council and [Session, I. 364. (''Jamieson.'')}}}}\n\n'''violescent''' (vī-ọ̄-les′ẹnt), ''a.'' [< L. ''viola'', a violet, a purple color (see ''violet''<sup>1</sup>), + ''-escent.''] Tending to a violet color.\n\n'''violet<sup>1</sup>''' (vī′ọ̄-let), ''n.'' and ''a.'' [Early mod. E. also ''violette''; < ME. ''violet, vyolet, vialet, vyalett, violette'', < OF. ''violette'', f., ''violet'', m., F. ''violette'' = Sp. Pg. ''violeta'' = It. ''violetta'', dim. of L. ''viola'' (It. Sp. Pg. ''viola'', OF. ''viole''), a violet, a dim. form, akin to Gr. ἴον (*Ϝίον), a violet.] '''I.''' ''n.'' '''1.''' A plant of the genus ''Viola'', or one of its flowers; also, one of a few plants of other genera. See ''Viola'', compound names below, and cut in next column.\n{{smaller block|Daisies pied and ''violets'' blue. {{right|''Shak.'', L. L. L., v. 2. 904.}}}}\n'''2.''' A general class of colors, of which the violet-flower is a highly chromatic example. {{smaller|In the spectrum the violet extends from ''h'' to H, covering all the upper part of the spectrum ordinarily visible. This color can be produced by a slight admixture of red to blue; and colors somewhat more red than the upper part of the spectrum are called violet. But the sensation of violet is produced by a pure blue whose chroma has been diminished while its luminosity has been increased. Thus, blue and violet are the same color, though the sensations are different. A mere increase of illumination may cause a violet blue to appear violet, with a diminution of apparent chroma. This color, called violet or blue according to the quality of the sensation it excites, is one of the three fundamental colors of Young’s theory. It is nearly complementary to the color of brightness, so that deep shades generally appear by contrast of a violet tinge; and the light of a rainy day, and still more of a sudden tempest, has a violet appearance. Even the pure yellow of the spectrum, so reduced as to be barely visible, looks violet beside the same light in great intensity.}}\n'''3.''' Any one of the many different small blue or violet butterflies of ''Lycæna'', ''Polyommatus'', and allied genera.—'''Acid violet''', a coal-tar color used in dyeing, being the sodium salt of di-methyl-rosaniline tri-sulphonic acid. It is applicable to wool and silk.—'''Aniline violet.''' Same as ''mauve.''—'''Arrow-leafed violet''', ''Viola sagittata'' of the eastern half of the United States, much resembling the common blue violet, except in the form of its leaves.—'''Bird’s-foot violet''', a low stemless species, ''Viola pedata'', of the same region, having pedately divided leaves, and fine large light-blue or whitish flowers, yellow-eyed with the stamens. A variety is the pansy violet.—'''Calathian violet''', the marsh-gentian, ''Gentiana Pneumonanthe.'' According to Gerard, the true plant was a ''Campanula. Britten and Holland.''—'''Canada violet''', ''Viola Canadensis'', a species common northward and in the mountains of eastern North America, having an upright stem a foot or two high, and white petals purplish beneath.—'''Common''' or '''early blue violet''', ''Viola palmata'', especially in the variety ''cucullata'', very common in moist ground in North America. The leaves are more or less palmately lobed, or in the variety only crenate. The size and shape of the leaves are variable, as also the color of the petals, which are deep- or pale-blue, or purple, or sometimes white or variegated.—'''Corn-violet.''' See ''Specularia.''—'''Crystal violet.''' See ''crystal.''—'''Damask violet.''' Same as ''dame’s-violet.''—'''Dog-tooth violet''', a plant of the genus ''Erythronium.'' The yellow dog-tooth violet is ''E. Americanum.''—'''Dog-violet''', ''Viola canina'' of the northern Old World, and in the variety ''Muhlenbergii'' of North America. It is a stemmed violet a few inches high, with light-violet petals and a short cylindrical spur.—'''English violet.''' See ''sweet violet.''—'''Fringe''' or '''fringed violet,''' ''Arthropodium paniculatum'' and ''Thysanotus tuberosus,'' liliaceous plants of Australia with rather small panicled blue flowers, those of the former with crisped inner segments.—'''Green violet.''' See ''Ionidium.''—'''Hoffmann’s violet.''' Same as ''dahlia,'' 3.—'''Hooded violet,''' a plant of the tropical American genus ''Corynostylis'' (''Calyptrion''), related to the violets.—'''Horned violet''' (or '''pansy'''), ''Viola cornuta'' of the Pyrenees, having pale-blue or mauve-colored sweet-scented spurred flowers, produced abundantly and continuously, long cultivated in Europe, and forming an excellent border- or bedding-plant.—'''Lance-leafed violet,''' the American ''Viola lanceolata,'' with small white flowers.—'''Long-spurred violet,''' ''Viola rostrata'' of the eastern and central United States, having a low stem and pale-violet flowers with a slender spur.—'''Manganese violet,''' in ''ceram.,'' the purple color obtained by the use of manganese.—'''March violet,''' the sweet violet. ''Britten and Holland.'' [Local, Eng.]—'''Marian’s violet.''' Same as ''mariet.''—'''Marsh-violet.''' (''a'') ''Viola palustris,'' a species with small blue flowers marked with purple: found northward in both hemispheres. (''b'') Locally, same as ''bog-violet.''—'''Mars violet,''' an artificially prepared oxid of iron, used as a pigment by artists. It resembles Indian red, but is darker in color. Also called ''mineral purple.''—'''Mercury’s violet.''' Same as ''Marian’s violet.''—'''Naphthalene violet.''' Same as ''naphthamein.''—'''Neapolitan violet.''' See ''sweet violet.''—'''New fast violet.''' Same as ''gallocyanine.''—'''New Holland violet.''' Same as ''spurless violet.''—'''Pale violet,''' ''Viola striata'' of central and eastern North America, a stemmed species having white petals lined with purple.—'''Pansy violet,''' a local name for the variety ''bicolor'' of the bird’s-foot violet, ''Viola pedata.'' The two upper petals are of a deep-violet color and as if velvety. Also ''velvet violet.''—'''Paris violet.''' Same as ''methyl-violet.''—'''Perkin’s violet.''' Same as ''indisin.''—'''Primrose-leafed violet,''' ''Viola primulæfolia'' of the eastern United States, with small white flowers.—'''Rosaniline violet''' a coal-tar color used in dyeing, being the hydrochlorids of mono- and di-phenylrosaniline. They produce a dull but moderately fast violet color on cotton, wool, and silk. Also called ''phenyl violet, spirit violet, Parma violet, imperial violet'', etc.—'''Round-leafed violet,''' ''Viola rotundifolia'' of cold woods in eastern North America, a species with small yellow flowers, the leaves at first erect, roundish-ovate, an inch broad, in summer 3 or 4 inches long, lying flat on the ground, shining above.—'''Sand violet,''' ''Viola arenaria,'' a small tufted stemless species with pale-blue flowers, found in the northern Old World.—'''Spurless violet,''' specifically, ''Viola hederacea'' of Australasia, once classed as a distinct genus ''Erpetion'', a tufted or widely creeping plant with rather small blue flowers.—'''Spurred violet,''' a pretty South\n\n[[File:century v08 p0565 c3f1.png|center|232px]]\n{{c|{{smaller|1, Stemmed Violet (''Viola tricolor'', var. ''arvensis''): ''St'', stem.}}}}\n{{c|{{smaller|2, Stemless Violet (''Viola palmata'', var. ''cucullata''): ''s'', scape.}}}}<noinclude><references/></noinclude>"
+}

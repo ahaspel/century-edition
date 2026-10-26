@@ -1,0 +1,221 @@
+{
+ "volume": 8,
+ "page_number": 486,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n485.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n485.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-23",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 1472,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     100,
+     0,
+     2435,
+     177
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     100,
+     177,
+     822,
+     1233
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     100,
+     1233,
+     822,
+     2177
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     100,
+     2177,
+     822,
+     3243
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     822,
+     177,
+     1569,
+     1235
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     822,
+     1235,
+     1569,
+     2335
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     822,
+     2335,
+     1569,
+     3243
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     822,
+     2332,
+     1560,
+     2946
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     177,
+     2435,
+     1229
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     1229,
+     2435,
+     2082
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     2082,
+     2435,
+     2823
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     2823,
+     2435,
+     3243
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|vaccinal|6682|vacillation}}",
+   "c1s1": "{{smaller|especially in its severer forms.—'''Vaccinal scar.''' Same as ''vaccine cicatrix'' (which see, under ''vaccine'').}}\n\n'''vaccinate''' (vak′si-nāt), ''v. t.''; pret. and pp. ''vaccinated'', ppr. ''vaccinating''. [< ''vaccine'' + ''-ate''<sup>2</sup>. Cf. F. ''vacciner'' = Sp. ''vacunar'' = Pg. ''vaccinar'' = It. ''vaccinare'', vaccinate.] '''1.''' To inoculate with the cowpox, by means of vaccine matter or lymph taken directly or indirectly from the cow, for the purpose of procuring immunity from smallpox or of mitigating its attack.—'''2.''' In a general sense, to inoculate with the modified virus of any specific disease, in order to produce that disease in a mild form or to prevent its attack.\n\n'''vaccination''' (vak-si-nā′shon), ''n.'' [= F. ''vaccination'' = Sp. ''vacunacion'' = Pg. ''vaccinação'' = It. ''vaccinazione''; as ''vaccinate'' + ''-ion''.] In ''med.'', inoculation with vaccine, or the virus of cowpox, as a preventive of smallpox; in an extended sense, inoculation with the virus of any specific disease. {{smaller|The utility of vaccination with the virus of cowpox was discovered by Edward Jenner, an English surgeon, in the latter part of the eighteenth century, the first vaccination upon the human subject having been made in 1796. It consists in the introduction under the skin, or application to an abraded surface, usually on the upper arm or thigh, of a minute quantity of vaccine. This is followed, in a typical case, in about two days, by slight redness and swelling at the point of inoculation, and on the third or fourth day by the appearance of a vesicle filled with clear fluid, and umbilicated or depressed in the center. About the end of the eighth day a ring of inflammation, called the ''areola'', begins to form around the base of the vesicle; it is usually hard, swollen, and painful. On the eleventh or twelfth day the inflammation begins to subside; the vesicle turns yellow, and then dries up and forms a crust or scab, which usually falls off about the end of the third}}",
+   "c1s2": "{{smaller block|week, leaving a permanent scar. The appearance of the areola is sometimes attended with rather severe constitutional disturbance, such as fever, headache, loss of appetite, swelling of the glands above the part, and a general feeling of malaise. The appearance of this eruption, more or less modified from rubbing of the clothes or from scratching, is the only certain evidence that vaccination has been successful, or has taken. See also ''vaccine'' and ''vaccinia''.—'''Auto-vaccination,''' reinoculation of a person with virus taken from himself. This not infrequently occurs accidentally, the lymph from a ruptured vesicle being carried on the finger-nails and introduced at some other point.}}\n\n'''vaccinationist''' (vak-si-nā′sho̤n-ist), ''n.'' [< ''vaccination'' + ''-ist''.] One who favors the practice of vaccination. ''Lancet'', 1890, I. 1084.\n\n'''vaccination-scar''' (vak-si-nā′sho̤n-skär), ''n.'' Same as ''vaccine cicatrix'' (which see, under ''vaccine'').\n\n'''vaccinator''' (vak′si-nā-to̤r), ''n.'' [= F. ''vaccinateur'' = Sp. ''vacunador'' = Pg. ''vaccinador'' = It. ''vaccinatore''; as ''vaccinate'' + ''-or''<sup>1</sup>.] '''1.''' One who vaccinates. ''H. Spencer'', Study of Sociol., p. 287. —'''2.''' A lancet or a scarificator employed in vaccination. See cut under ''lancet''.\n\n'''vaccine''' (vak′sin), ''a.'' and ''n.'' [< F. ''vaccin'' = Sp. ''vacuno'' = It. ''vaccino'', vaccine (as a noun, F. ''vaccine'' = Sp. ''vacuna'' = Pg. ''vaccina'' = It. ''vaccina'', < NL. ''vaccina''), < L. ''vaccinus'', of a cow, < ''vacca'', a cow; prob. akin to Skt. √ ''vāç'', cry, howl, low; cf. ''voice''. Hence ''vaccinate'', etc.] '''I.''' ''a.'' '''1.''' Of or pertaining to cows; derived from cows: as,",
+   "c1s3": "the ''vaccine'' disease, or cowpox.—'''2.''' Of or relating to vaccinia or vaccination.—'''Vaccine agent,''' {{smaller|in certain of the United States, a State officer whose duty it is to procure and distribute a supply of pure vaccine matter.}}—'''Vaccine cicatrix,''' {{smaller|the scar remaining after a successful vaccination. It is usually silvery-white, of an irregularly circular outline, slightly depressed below the level of the surrounding skin, and foveated, or having numerous shallow pits on its surface.}}—'''Vaccine lymph, matter, virus.''' {{smaller|Same as II., 1.}}\n\n'''II.''' ''n.'' '''1.''' The virus of cowpox or vaccinia, used in the process of vaccination as a preventive of smallpox. {{smaller|Two varieties of vaccine are in use: namely, the ''bovine'', that which is obtained directly from the heifer, and the ''humanized'', or that which is obtained from vesicles on the human subject. The vaccinia following inoculation with bovine virus is usually attended with more pronounced local inflammation and constitutional symptoms than is that produced by the humanized lymph. Vaccine, as employed for vaccination, is prepared in the shape of dried lymph on quills or small flat pieces of bone or ivory, of fluid lymph in closed capillary glass tubes, and of crusts. Also called ''vaccine lymph, matter'', or ''virus''.}}\n\n'''2.''' In a general sense, the modified virus of any specific disease introduced into the body by inoculation, with a view to prevent or mitigate a threatened attack of that disease or to confer immunity against subsequent attacks.\n\nAlso ''vaccin''.\n\n¶\n'''vaccine-farm''' (vak′sin-färm), ''n.'' A place where vaccine virus is cultivated by the systematic inoculation of heifers.\n\n'''vaccinella''' (vak-si-nel′ä̤), ''n.'' Spurious vaccinia; an eruption which occasionally follows vaccination, but which is not true vaccinal eruption.",
+   "c2s1": "end and coated with dried vaccine lymph. {{smaller|The inoculation may be made by abrading the skin with the sharp point, thus avoiding the use of a lancet.}}\n\n¶\n'''vaccinia''' (vak-sin′i-ä̤), ''n.'' [NL., < L. ''vaccinus'', of or pertaining to a cow: see ''vaccine''.] A specific eruptive disease occurring in cattle, especially in milch cows. {{smaller|It is characterized by an eruption, at first papular, then changing to vesicular, situated usually at the junction of the teats with the udder. The vesicle is umbilicated, the margin being more elevated than the center, and contains a clear yellowish fluid. The skin surrounding it is somewhat inflamed, reddish in color, and indurated. The vesicle increases in size up to about the tenth day, when the contents become more opaque, and a crust begins to form. This crust increases in size for a few days, and then dries up and falls off at about the end of the third week. During the height of the disease there may be a little fever and loss of appetite, and the yield of milk may be somewhat diminished; but in general the constitutional disturbance is slight. It is by inoculation with lymph taken from the vesicles in this disease as it occurs in the cow or in the human subject that immunity against smallpox is conferred upon man. See ''vaccination'' and ''vaccine''. Also ''vaccina'' and ''cowpox''.}}\n\n'''Vacciniaceæ''' (vak-sin-i-ā′sē-ē), ''n. pl.'' [NL. (Lindley, 1845), < ''Vaccinium'' + ''-aceæ''.] An order of gamopetalous plants, of the cohort ''Ericales''. {{smaller|It is distinguished from the related order ''Ericaceæ'' by the fact that the inferior ovary forms a fleshy fruit. It includes about 348 species, belonging to 27 genera (classed in two tribes, the ''Thibaudieæ'' and ''Euvaccinieæ''), natives of moist mountain woods in temperate and cold regions, also numerous in tropical Asia and America, with 3 genera in islands of the Pacific. They are erect or prostrate shrubs or trees, often epiphytes, sometimes with tuberous or thickened stems, and frequently climbing over trees. The leaves are alternate or scattered, generally evergreen, and the flowers are usually in bracted racemes. Four genera occur in the United}}",
+   "c2s2": "{{smaller|States, of which ''Vaccinium'' (the type), ''Gaylussacia'', and ''Oxycoccus'' are the most important, producing the blueberries, huckleberries, and cranberries of the market; the other genus, ''Chiogenes'', the snowberry, is transitional to the ''Ericaceæ'', or heath family. See cuts under ''cranberry'', ''huckleberry'', and ''Vaccinium''.}}\n\n'''vacciniaceous''' (vak-sin-i-ā′shius), ''a.'' Belonging to or characteristic of the ''Vacciniaceæ''.\n\n'''vaccinic''' (vak-sin′ik), ''a.'' [< ''vaccine'' + ''-ic''.] Of or pertaining to vaccine.\n\n'''Vaccinieæ''' (vak-si-nī′ē-ē), ''n. pl.'' [NL. (A. P. de Candolle, 1813), < ''Vaccinium'' + ''-eæ''.] A tribe of plants, of the order ''Vacciniaceæ'', also known as ''Euvaccinieæ''. {{smaller|The flowers are usually small, their substance delicate, and the filaments distinct. It includes 9 or 10 genera, of which ''Vaccinium'' is the type.}}\n\n'''vaccinifer''' (vak-sin′i-fėr), ''n.'' [< NL. ''vaccina'', vaccine, + L. ''ferre'' = E. ''bear''<sup>1</sup>.] '''1.''' The source, either a person or an animal, of the vaccine virus.—'''2.''' An instrument used in vaccination. ''Quain'', Med. Dict., p. 1724.\n\n'''vacciniola''' (vak-si-nī′ọ̄-lä̤), ''n.'' [NL., dim. of ''vaccinia'', q. v.] A secondary eruption, resembling that at the site of inoculation, sometimes seen after vaccination.\n\n'''vaccinist''' (vak′si-nist), ''n.'' [< ''vaccine'' + ''-ist''.] '''1.''' One who performs vaccination.—'''2.''' One who favors the practice of vaccination.\n\n'''Vaccinium''' (vak-sin′i-um), ''n.'' [NL. (Linnæus, 1737), < L. ''vaccinium'', blueberry, whortleberry.] A genus of gamopetalous plants, type of the order ''Vacciniaceæ'' and of the tribe ''Euvaccinieæ''; the blueberries. {{smaller|It is distinguished from ''Gaylussacia'', the huckleberry genus, by the numerous ovules in each cell of the ovary and by sometimes having only eight stamens,}}",
+   "c2s3": "[[FIGURE]]\n{{c|{{smaller|Squaw-huckleberry (''Vaccinium stamineum'').<br>1, flowering branch; 2, branch with fruit; 3, a flower.}}}}\nand from ''Oxycoccus'', the cranberry genus, by usually having the anthers awned on the back. (See cut 7 under ''stamen'', 4.) It includes about 110 species, inhabiting the temperate and frigid regions of the northern hemisphere and the mountains of the tropics. They are usually branching shrubs, rarely trees, a few epiphytic. The leaves are generally small, coriaceous, and evergreen, but sometimes membranaceous and deciduous; the flowers",
+   "c3s1": "{{smaller block|with bracts. Many of the species yield edible berries. (See ''whortleberry'' and ''blueberry'', and compare ''huckleberry'', ''cranberry'', ''hurt''<sup>2</sup>, and ''hurtberry''.) The 3 well-known circumpolar species, ''V. Myrtillus'', ''V. uliginosum'', and ''V. Vitis-Idæa'', are the only species in Europe, the most important being ''V. Myrtillus'', the whortleberry. ''V. uliginosum'', the blueberry or bog-bilberry, a smaller shrub with terete branches and usually four-parted flowers, is common in northern Britain and in Canada. ''V. Vitis-Idæa'', the cowberry or mountain-cranberry, with evergreen leaves and prostrate stems, yields an acid red berry, edible when cooked, and sometimes substituted for the cranberry; it ranges in America from New England to Point Barrow, 71° 19′ north. There are 10 or more species in Alaska, and 22 in the United States proper, classed in 4 distinct groups, of which the smaller are ''Vitis-Idæa'', with ovate or globular corolla, and ''Batodendron'', with open bell-shaped flowers, and berries little edible. (See ''farkleberry'' and ''squaw-huckleberry''.) The blueberries, common species of the eastern United States and northward, forming the subgenus ''Cyanococcus'', are replaced in the Rocky Mountains and Pacific States by the bilberries, species of ''Vaccinium'' proper, the typical section, which are themselves few and rare westward, but range more extensively in Canada. About 12 species occur in the northwestern United States, 3 of these and 10 others in the Southern States, 4 in the Rocky Mountain region, and 6 or more in Oregon or Nevada. Most species are low bushes; but ''V. arboreum'', the farkleberry, sometimes reaches 25 feet in height, and ''V. corymbosum'', the widely distributed blue huckleberry of the later summer market, is often 10 feet in height. The American cranberry, ''Oxycoccus macrocarpus'', was formerly, and by some authors is still, referred to this genus.}}\n\n¶\n'''vaccinization''' (vak″si-ni-zā′shọn), ''n.'' [< ''vaccine'' + ''-ize'' + ''-ation''.] A very thorough method of vaccination, in which repeated inoculations are made until the vaccinal susceptibility is completely destroyed.\n\n'''vaccinosyphilis''' (vak″si-nō-sif′i-lis), ''n.'' [< ''vac-''",
+   "c3s2": "''cine'' + ''syphilis''.] Syphilis transmitted by impure humanized vaccine or by infected instruments used in vaccination.\n\n¶\n'''vache†''', ''n.'' [ME., < OF. (and F.) ''vache'' = Sp. ''vaca'' = Pg. It. ''vacca'', < L. ''vacca'', a cow: see ''vaccine''.] A cow; hence, a beast.\n{{smaller block|Therfore, thou ''vache'', leve thyn old wrecchednesse.\n{{right|''Chaucer'', Truth, l. 22.}}}}\n\n'''vacher''' (va-shā′), ''n.'' [< F. ''vacher'', OF. ''vachier'', ''vaquier'' = Pr. ''vaquier'' = Sp. ''vaquero'' = Pg. ''vaqueiro'' = It. ''vaccaro'', < ML. ''vaccarius'', cowherd, < L. ''vacca'', a cow: see ''vache'' and ''vaccine'', and cf. ''vaccary'', ''vachery''.] Same as ''vaquero''. ''S. De Vere'', Americanisms, p. 108. [Rare.]\n\n'''vachery''' (vash′ėr-i), ''n.''; pl. ''vacheries'' (-iz). [< ME. ''vacherye'', < OF. (and F.) ''vacherie'', < ML. ''vaccaria'', a cow-house, fem. of *''vaccarius'', pertaining to a cow: see ''vaccary'', ''vacher''.] A pen or inclosure for cows; also, a dairy. [Obsolete or provincial.]\n{{smaller block|''Vacherye'', or dayre. Vacaria. ''Prompt. Parv.'', p. 507.\n\nVaccary, alias ''Vachary'' (vaccaria), is a house or ground to keep Cows in, a Cow-pasture. . . . A word of common use in Lancashire. ''Blount'', Glossographia (1670).\n\n''Vachery'' (the ''ch'' with its French sound) is the name of several farms in different parts of England.\n{{right|''Latham''. (''Imp. Dict.'')}}}}",
+   "c3s3": "¶\n'''vacillancy''' (vas′i-lan-si), ''n.'' [< ''vacillan''(''t'') + ''-cy.''] A state of vacillating or wavering; vacillation; inconstancy; fluctuation. ''Dr. H. More'', Divine Dialogues. [Rare.]\n\n'''vacillant''' (vas′i-lant), ''a.'' [< L. ''vacillan''(''t-'')''s'', ppr. of ''vacillare'', vacillate: see ''vacillate.''] Vacillating; wavering; fluctuating; unsteady. [Rare.] ''Imp. Dict.''\n\n'''vacillate''' (vas′i-lāt), ''v. i.''; pret. and pp. ''vacillated'', ppr. ''vacillating.'' [< L. ''vacillatus'', pp. of ''vacillare'' (> It. ''vacillare'' = Pg. ''vacillar'' = Sp. ''vacilar'' = F. ''vaciller''), sway to and fro, vacillate; a dim. or freq. form, prob. akin to Skt. √ ''vank'', go tortuously, be crooked, ''vakra'', bent: see ''wag.''] '''1.''' To waver; move one way and the other; reel; stagger.\n{{smaller block|But whilst it [a spheroid] turns upon an axis which is not permanent, . . . it is always liable to shift and ''vacillate'' from one axis to another. {{right|''Paley'', Nat. Theol., xxii.}}}}\n'''2.''' To fluctuate in mind or opinion; waver; be irresolute or inconstant.\n{{smaller block|A self-tormentor he continued still to be, ''vacillating'' between hope and fear. {{right|''Southey'', Bunyan, p. 30.}}}}",
+   "c3s4": "{{smaller block|<poem>He could not rest,\nNor firmly fix the ''vacillating'' mind,\nThat, ever working, could no centre find.</poem>\n{{right|''Crabbe'', Works, V. 10.}}}}\n\n{{smaller|='''Syn. 1''' and '''2.''' ''Waver'', ''Oscillate'', etc. (see ''fluctuate''), sway.—'''2.''' To hesitate.}}\n\n¶\n'''vacillatingly''' (vas′i-lā-ting-li), ''adv.'' In a vacillating manner; unsteadily; fluctuatingly.\n\n'''vacillation''' (vas-i-lā′shon), ''n.'' [Formerly also ''vacilation''; < OF. (and F.) ''vacillation'' = Sp. ''vacilacion'' = Pg. ''vacillação'' = It. ''vacillazione'', < L. ''vacillatio(n-)'', a reeling, wavering, < ''vacillare'', pp. ''vacillatus'', sway to and fro: see ''vacillate''.] '''1.''' The act of vacillating; a wavering; a mov-"
+  },
+  "figure_files": {
+   "c2f1": "century v08 p0486 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     828,
+     2344,
+     1548,
+     2934
+    ],
+    "caption": [
+     908,
+     2944,
+     1456,
+     3002
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     893,
+     2332,
+     1547,
+     2935
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 8,
+    "output_tokens": 92,
+    "cache_creation_input_tokens": 4354,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 10192,
+    "output_tokens": 10068,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|vaccinal|6682|vacillation}}</noinclude>{{smaller|especially in its severer forms.—'''Vaccinal scar.''' Same as ''vaccine cicatrix'' (which see, under ''vaccine'').}}\n\n'''vaccinate''' (vak′si-nāt), ''v. t.''; pret. and pp. ''vaccinated'', ppr. ''vaccinating''. [< ''vaccine'' + ''-ate''<sup>2</sup>. Cf. F. ''vacciner'' = Sp. ''vacunar'' = Pg. ''vaccinar'' = It. ''vaccinare'', vaccinate.] '''1.''' To inoculate with the cowpox, by means of vaccine matter or lymph taken directly or indirectly from the cow, for the purpose of procuring immunity from smallpox or of mitigating its attack.—'''2.''' In a general sense, to inoculate with the modified virus of any specific disease, in order to produce that disease in a mild form or to prevent its attack.\n\n'''vaccination''' (vak-si-nā′shon), ''n.'' [= F. ''vaccination'' = Sp. ''vacunacion'' = Pg. ''vaccinação'' = It. ''vaccinazione''; as ''vaccinate'' + ''-ion''.] In ''med.'', inoculation with vaccine, or the virus of cowpox, as a preventive of smallpox; in an extended sense, inoculation with the virus of any specific disease. {{smaller|The utility of vaccination with the virus of cowpox was discovered by Edward Jenner, an English surgeon, in the latter part of the eighteenth century, the first vaccination upon the human subject having been made in 1796. It consists in the introduction under the skin, or application to an abraded surface, usually on the upper arm or thigh, of a minute quantity of vaccine. This is followed, in a typical case, in about two days, by slight redness and swelling at the point of inoculation, and on the third or fourth day by the appearance of a vesicle filled with clear fluid, and umbilicated or depressed in the center. About the end of the eighth day a ring of inflammation, called the ''areola'', begins to form around the base of the vesicle; it is usually hard, swollen, and painful. On the eleventh or twelfth day the inflammation begins to subside; the vesicle turns yellow, and then dries up and forms a crust or scab, which usually falls off about the end of the third week, leaving a permanent scar. The appearance of the areola is sometimes attended with rather severe constitutional disturbance, such as fever, headache, loss of appetite, swelling of the glands above the part, and a general feeling of malaise. The appearance of this eruption, more or less modified from rubbing of the clothes or from scratching, is the only certain evidence that vaccination has been successful, or has taken. See also ''vaccine'' and ''vaccinia''.—'''Auto-vaccination,''' reinoculation of a person with virus taken from himself. This not infrequently occurs accidentally, the lymph from a ruptured vesicle being carried on the finger-nails and introduced at some other point.}}\n\n'''vaccinationist''' (vak-si-nā′sho̤n-ist), ''n.'' [< ''vaccination'' + ''-ist''.] One who favors the practice of vaccination. ''Lancet'', 1890, I. 1084.\n\n'''vaccination-scar''' (vak-si-nā′sho̤n-skär), ''n.'' Same as ''vaccine cicatrix'' (which see, under ''vaccine'').\n\n'''vaccinator''' (vak′si-nā-to̤r), ''n.'' [= F. ''vaccinateur'' = Sp. ''vacunador'' = Pg. ''vaccinador'' = It. ''vaccinatore''; as ''vaccinate'' + ''-or''<sup>1</sup>.] '''1.''' One who vaccinates. ''H. Spencer'', Study of Sociol., p. 287. —'''2.''' A lancet or a scarificator employed in vaccination. See cut under ''lancet''.\n\n'''vaccine''' (vak′sin), ''a.'' and ''n.'' [< F. ''vaccin'' = Sp. ''vacuno'' = It. ''vaccino'', vaccine (as a noun, F. ''vaccine'' = Sp. ''vacuna'' = Pg. ''vaccina'' = It. ''vaccina'', < NL. ''vaccina''), < L. ''vaccinus'', of a cow, < ''vacca'', a cow; prob. akin to Skt. √ ''vāç'', cry, howl, low; cf. ''voice''. Hence ''vaccinate'', etc.] '''I.''' ''a.'' '''1.''' Of or pertaining to cows; derived from cows: as, the ''vaccine'' disease, or cowpox.—'''2.''' Of or relating to vaccinia or vaccination.—'''Vaccine agent,''' {{smaller|in certain of the United States, a State officer whose duty it is to procure and distribute a supply of pure vaccine matter.}}—'''Vaccine cicatrix,''' {{smaller|the scar remaining after a successful vaccination. It is usually silvery-white, of an irregularly circular outline, slightly depressed below the level of the surrounding skin, and foveated, or having numerous shallow pits on its surface.}}—'''Vaccine lymph, matter, virus.''' {{smaller|Same as II., 1.}}\n\n'''II.''' ''n.'' '''1.''' The virus of cowpox or vaccinia, used in the process of vaccination as a preventive of smallpox. {{smaller|Two varieties of vaccine are in use: namely, the ''bovine'', that which is obtained directly from the heifer, and the ''humanized'', or that which is obtained from vesicles on the human subject. The vaccinia following inoculation with bovine virus is usually attended with more pronounced local inflammation and constitutional symptoms than is that produced by the humanized lymph. Vaccine, as employed for vaccination, is prepared in the shape of dried lymph on quills or small flat pieces of bone or ivory, of fluid lymph in closed capillary glass tubes, and of crusts. Also called ''vaccine lymph, matter'', or ''virus''.}}\n\n'''2.''' In a general sense, the modified virus of any specific disease introduced into the body by inoculation, with a view to prevent or mitigate a threatened attack of that disease or to confer immunity against subsequent attacks.\n\nAlso ''vaccin''.\n\n'''vaccine-farm''' (vak′sin-färm), ''n.'' A place where vaccine virus is cultivated by the systematic inoculation of heifers.\n\n'''vaccinella''' (vak-si-nel′ä̤), ''n.'' Spurious vaccinia; an eruption which occasionally follows vaccination, but which is not true vaccinal eruption. end and coated with dried vaccine lymph. {{smaller|The inoculation may be made by abrading the skin with the sharp point, thus avoiding the use of a lancet.}}\n\n'''vaccinia''' (vak-sin′i-ä̤), ''n.'' [NL., < L. ''vaccinus'', of or pertaining to a cow: see ''vaccine''.] A specific eruptive disease occurring in cattle, especially in milch cows. {{smaller|It is characterized by an eruption, at first papular, then changing to vesicular, situated usually at the junction of the teats with the udder. The vesicle is umbilicated, the margin being more elevated than the center, and contains a clear yellowish fluid. The skin surrounding it is somewhat inflamed, reddish in color, and indurated. The vesicle increases in size up to about the tenth day, when the contents become more opaque, and a crust begins to form. This crust increases in size for a few days, and then dries up and falls off at about the end of the third week. During the height of the disease there may be a little fever and loss of appetite, and the yield of milk may be somewhat diminished; but in general the constitutional disturbance is slight. It is by inoculation with lymph taken from the vesicles in this disease as it occurs in the cow or in the human subject that immunity against smallpox is conferred upon man. See ''vaccination'' and ''vaccine''. Also ''vaccina'' and ''cowpox''.}}\n\n'''Vacciniaceæ''' (vak-sin-i-ā′sē-ē), ''n. pl.'' [NL. (Lindley, 1845), < ''Vaccinium'' + ''-aceæ''.] An order of gamopetalous plants, of the cohort ''Ericales''. {{smaller|It is distinguished from the related order ''Ericaceæ'' by the fact that the inferior ovary forms a fleshy fruit. It includes about 348 species, belonging to 27 genera (classed in two tribes, the ''Thibaudieæ'' and ''Euvaccinieæ''), natives of moist mountain woods in temperate and cold regions, also numerous in tropical Asia and America, with 3 genera in islands of the Pacific. They are erect or prostrate shrubs or trees, often epiphytes, sometimes with tuberous or thickened stems, and frequently climbing over trees. The leaves are alternate or scattered, generally evergreen, and the flowers are usually in bracted racemes. Four genera occur in the United States, of which ''Vaccinium'' (the type), ''Gaylussacia'', and ''Oxycoccus'' are the most important, producing the blueberries, huckleberries, and cranberries of the market; the other genus, ''Chiogenes'', the snowberry, is transitional to the ''Ericaceæ'', or heath family. See cuts under ''cranberry'', ''huckleberry'', and ''Vaccinium''.}}\n\n'''vacciniaceous''' (vak-sin-i-ā′shius), ''a.'' Belonging to or characteristic of the ''Vacciniaceæ''.\n\n'''vaccinic''' (vak-sin′ik), ''a.'' [< ''vaccine'' + ''-ic''.] Of or pertaining to vaccine.\n\n'''Vaccinieæ''' (vak-si-nī′ē-ē), ''n. pl.'' [NL. (A. P. de Candolle, 1813), < ''Vaccinium'' + ''-eæ''.] A tribe of plants, of the order ''Vacciniaceæ'', also known as ''Euvaccinieæ''. {{smaller|The flowers are usually small, their substance delicate, and the filaments distinct. It includes 9 or 10 genera, of which ''Vaccinium'' is the type.}}\n\n'''vaccinifer''' (vak-sin′i-fėr), ''n.'' [< NL. ''vaccina'', vaccine, + L. ''ferre'' = E. ''bear''<sup>1</sup>.] '''1.''' The source, either a person or an animal, of the vaccine virus.—'''2.''' An instrument used in vaccination. ''Quain'', Med. Dict., p. 1724.\n\n'''vacciniola''' (vak-si-nī′ọ̄-lä̤), ''n.'' [NL., dim. of ''vaccinia'', q. v.] A secondary eruption, resembling that at the site of inoculation, sometimes seen after vaccination.\n\n'''vaccinist''' (vak′si-nist), ''n.'' [< ''vaccine'' + ''-ist''.] '''1.''' One who performs vaccination.—'''2.''' One who favors the practice of vaccination.\n\n'''Vaccinium''' (vak-sin′i-um), ''n.'' [NL. (Linnæus, 1737), < L. ''vaccinium'', blueberry, whortleberry.] A genus of gamopetalous plants, type of the order ''Vacciniaceæ'' and of the tribe ''Euvaccinieæ''; the blueberries. {{smaller|It is distinguished from ''Gaylussacia'', the huckleberry genus, by the numerous ovules in each cell of the ovary and by sometimes having only eight stamens,}} and from ''Oxycoccus'', the cranberry genus, by usually having the anthers awned on the back. (See cut 7 under ''stamen'', 4.) It includes about 110 species, inhabiting the temperate and frigid regions of the northern hemisphere and the mountains of the tropics. They are usually branching shrubs, rarely trees, a few epiphytic. The leaves are generally small, coriaceous, and evergreen, but sometimes membranaceous and deciduous; the flowers {{smaller block|with bracts. Many of the species yield edible berries. (See ''whortleberry'' and ''blueberry'', and compare ''huckleberry'', ''cranberry'', ''hurt''<sup>2</sup>, and ''hurtberry''.) The 3 well-known circumpolar species, ''V. Myrtillus'', ''V. uliginosum'', and ''V. Vitis-Idæa'', are the only species in Europe, the most important being ''V. Myrtillus'', the whortleberry. ''V. uliginosum'', the blueberry or bog-bilberry, a smaller shrub with terete branches and usually four-parted flowers, is common in northern Britain and in Canada. ''V. Vitis-Idæa'', the cowberry or mountain-cranberry, with evergreen leaves and prostrate stems, yields an acid red berry, edible when cooked, and sometimes substituted for the cranberry; it ranges in America from New England to Point Barrow, 71° 19′ north. There are 10 or more species in Alaska, and 22 in the United States proper, classed in 4 distinct groups, of which the smaller are ''Vitis-Idæa'', with ovate or globular corolla, and ''Batodendron'', with open bell-shaped flowers, and berries little edible. (See ''farkleberry'' and ''squaw-huckleberry''.) The blueberries, common species of the eastern United States and northward, forming the subgenus ''Cyanococcus'', are replaced in the Rocky Mountains and Pacific States by the bilberries, species of ''Vaccinium'' proper, the typical section, which are themselves few and rare westward, but range more extensively in Canada. About 12 species occur in the northwestern United States, 3 of these and 10 others in the Southern States, 4 in the Rocky Mountain region, and 6 or more in Oregon or Nevada. Most species are low bushes; but ''V. arboreum'', the farkleberry, sometimes reaches 25 feet in height, and ''V. corymbosum'', the widely distributed blue huckleberry of the later summer market, is often 10 feet in height. The American cranberry, ''Oxycoccus macrocarpus'', was formerly, and by some authors is still, referred to this genus.}}\n\n[[File:century v08 p0486 c2f1.png|center|180px]]\n{{c|{{smaller|Squaw-huckleberry (''Vaccinium stamineum'').<br>1, flowering branch; 2, branch with fruit; 3, a flower.}}}}\n\n'''vaccinization''' (vak″si-ni-zā′shọn), ''n.'' [< ''vaccine'' + ''-ize'' + ''-ation''.] A very thorough method of vaccination, in which repeated inoculations are made until the vaccinal susceptibility is completely destroyed.\n\n'''vaccinosyphilis''' (vak″si-nō-sif′i-lis), ''n.'' [< ''vaccine'' + ''syphilis''.] Syphilis transmitted by impure humanized vaccine or by infected instruments used in vaccination.\n\n'''vache†''', ''n.'' [ME., < OF. (and F.) ''vache'' = Sp. ''vaca'' = Pg. It. ''vacca'', < L. ''vacca'', a cow: see ''vaccine''.] A cow; hence, a beast.\n{{smaller block|Therfore, thou ''vache'', leve thyn old wrecchednesse.\n{{right|''Chaucer'', Truth, l. 22.}}}}\n\n'''vacher''' (va-shā′), ''n.'' [< F. ''vacher'', OF. ''vachier'', ''vaquier'' = Pr. ''vaquier'' = Sp. ''vaquero'' = Pg. ''vaqueiro'' = It. ''vaccaro'', < ML. ''vaccarius'', cowherd, < L. ''vacca'', a cow: see ''vache'' and ''vaccine'', and cf. ''vaccary'', ''vachery''.] Same as ''vaquero''. ''S. De Vere'', Americanisms, p. 108. [Rare.]\n\n'''vachery''' (vash′ėr-i), ''n.''; pl. ''vacheries'' (-iz). [< ME. ''vacherye'', < OF. (and F.) ''vacherie'', < ML. ''vaccaria'', a cow-house, fem. of *''vaccarius'', pertaining to a cow: see ''vaccary'', ''vacher''.] A pen or inclosure for cows; also, a dairy. [Obsolete or provincial.]\n{{smaller block|''Vacherye'', or dayre. Vacaria. ''Prompt. Parv.'', p. 507.\n\nVaccary, alias ''Vachary'' (vaccaria), is a house or ground to keep Cows in, a Cow-pasture. . . . A word of common use in Lancashire. ''Blount'', Glossographia (1670).\n\n''Vachery'' (the ''ch'' with its French sound) is the name of several farms in different parts of England.\n{{right|''Latham''. (''Imp. Dict.'')}}}}\n\n'''vacillancy''' (vas′i-lan-si), ''n.'' [< ''vacillan''(''t'') + ''-cy.''] A state of vacillating or wavering; vacillation; inconstancy; fluctuation. ''Dr. H. More'', Divine Dialogues. [Rare.]\n\n'''vacillant''' (vas′i-lant), ''a.'' [< L. ''vacillan''(''t-'')''s'', ppr. of ''vacillare'', vacillate: see ''vacillate.''] Vacillating; wavering; fluctuating; unsteady. [Rare.] ''Imp. Dict.''\n\n'''vacillate''' (vas′i-lāt), ''v. i.''; pret. and pp. ''vacillated'', ppr. ''vacillating.'' [< L. ''vacillatus'', pp. of ''vacillare'' (> It. ''vacillare'' = Pg. ''vacillar'' = Sp. ''vacilar'' = F. ''vaciller''), sway to and fro, vacillate; a dim. or freq. form, prob. akin to Skt. √ ''vank'', go tortuously, be crooked, ''vakra'', bent: see ''wag.''] '''1.''' To waver; move one way and the other; reel; stagger.\n{{smaller block|But whilst it [a spheroid] turns upon an axis which is not permanent, . . . it is always liable to shift and ''vacillate'' from one axis to another. {{right|''Paley'', Nat. Theol., xxii.}}}}\n'''2.''' To fluctuate in mind or opinion; waver; be irresolute or inconstant.\n{{smaller block|A self-tormentor he continued still to be, ''vacillating'' between hope and fear. {{right|''Southey'', Bunyan, p. 30.}}}}\n<poem>He could not rest,\nNor firmly fix the ''vacillating'' mind,\nThat, ever working, could no centre find.</poem>\n{{smaller block|{{right|''Crabbe'', Works, V. 10.}}}}\n\n{{smaller|='''Syn. 1''' and '''2.''' ''Waver'', ''Oscillate'', etc. (see ''fluctuate''), sway.—'''2.''' To hesitate.}}\n\n'''vacillatingly''' (vas′i-lā-ting-li), ''adv.'' In a vacillating manner; unsteadily; fluctuatingly.\n\n'''vacillation''' (vas-i-lā′shon), ''n.'' [Formerly also ''vacilation''; < OF. (and F.) ''vacillation'' = Sp. ''vacilacion'' = Pg. ''vacillação'' = It. ''vacillazione'', < L. ''vacillatio(n-)'', a reeling, wavering, < ''vacillare'', pp. ''vacillatus'', sway to and fro: see ''vacillate''.] '''1.''' The act of vacillating; a wavering; a mov-<noinclude><references/></noinclude>"
+}

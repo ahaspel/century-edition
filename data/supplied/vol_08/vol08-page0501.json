@@ -1,0 +1,180 @@
+{
+ "volume": 8,
+ "page_number": 501,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n500.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n500.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-23",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 825,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     3,
+     0,
+     2305,
+     96
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     3,
+     96,
+     828,
+     834
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     3,
+     834,
+     828,
+     1702
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     3,
+     1702,
+     828,
+     2611
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     3,
+     2611,
+     828,
+     3196
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     828,
+     96,
+     1568,
+     1142
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     828,
+     1142,
+     1568,
+     2163
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     828,
+     2163,
+     1568,
+     3196
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1568,
+     96,
+     2305,
+     1180
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1568,
+     1180,
+     2305,
+     2272
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1568,
+     2272,
+     2305,
+     3196
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|vapor|6697|vaporole}}",
+   "c1s1": "{{smaller block|rated vapor. Aqueous vapor is always present as a minor constituent of the atmosphere, and its amount, which is very variable both at different places on the earth’s surface and in the same locality at different times, forms an important element of climate. By a reduction of temperature the aqueous vapor in the air is brought to the so-called state of saturation, and then condensed into cloud, mist, and rain. See ''rain''<sup>1</sup>.}}\n\n{{smaller block|It would be an error to confound clouds or fog or any visible mist with the ''vapour'' of water; this ''vapour'' is a perfectly impalpable gas, diffused, even on the clearest days, throughout the atmosphere.\n{{right|''Tyndall'', Radiation, § 12.}}}}\n\n'''3†.''' Effluence; influence.\n{{smaller block|<poem>Man, bryd, best, fissh, herbe, and grene tre,\nThey fele in tymes, with ''vapour'' eterne,\nGod loveth, and to love wol noght werne.</poem>\n{{right|''Chaucer'', Troilus, iii. 11.}}}}\n\n'''4†.''' Wind; flatulence.\n{{smaller block|For that that causeth gaping . . . or stretching is when the spirits are a little heavy, by any ''vapour'' or the like.\n{{right|''Bacon'', Nat. Hist., § 296.}}}}\n\n'''5.''' In ''med.'', a class of remedies, officinal in the British pharmacopœia, which are to be applied by inhalation: such as ''vapor creasoti'', a mixture of 12 minims of creosote in 8 fluidounces",
+   "c1s2": "of boiling water, the vapor of which is to be inhaled.—'''6.''' Something unsubstantial, fleeting, or transitory; vain imagination; fantastic notion.\n{{smaller block|Gentlemen, these are very strange ''vapours,'' and very idle ''vapours.''\n{{right|''B. Jonson'', Bartholomew Fair, ii. 1.}}}}\n'''7†.''' ''pl.'' A hectoring or bullying style of language or conduct, adopted by ranters and swaggerers with the purpose of bringing about a real or mock quarrel.\n{{smaller block|They are at it [quarrelling] still, sir; this they call ''vapours.''\n{{right|''B. Jonson'', Bartholomew Fair, iv. 3.}}}}\n'''8.''' ''pl.'' A disease of nervous debility in which strange images seem to float hazily before the eyes, or appear as if real; hence, hypochondriacal affections; depression of spirit; dejection; spleen; “the blues”: a term much affected in the eighteenth century, but now rarely used.\n{{smaller block|Some call it the fever on the spirits, some a nervous fever, some the ''vapours'', and some the hysterics.\n{{right|''Fielding'', Amelia, iii. 7.}}}}\n{{smaller block|<poem>Caused by a dearth of scandal, should the ''vapours''\nDistress our fair ones—let them read the papers.</poem>\n{{right|''Garrick'', Prol. to Sheridan’s School for Scandal.}}}}\n{{smaller block|But really these thick walls are enough to inspire the ''vapours'' if one never had them before.\n{{right|''Miss Burney'', Cecilia, vi. 2.}}}}",
+   "c1s3": "Aqueous vapor. {{smaller|See ''aqueous.''}}\n\n¶\n'''vapor, vapour''' (vā′po̤r), ''v.'' [< ME. ''vapouren'', < OF. *''vaporer'' = Sp. Pg. ''vaporar'' = It. ''vaporare'', < L. ''vaporare'', intr. steam, reek, tr. steam, smoke, heat, warm, < ''vapor'', exhalation, steam, vapor: see ''vapor'', ''n.''] '''I.''' ''intrans.'' '''1†.''' To pass off in the form of vapor; dissolve, as into vapor or thin air; be exhaled; evaporate.\n{{smaller block|Sette it to a litil fier so that it ''vapoure'' not.\n{{right|''Book of Quinte Essence'' (ed. Furnivall), p. 8.}}}}\n'''2.''' To give out vapor, steam, or gas; emit vapors or exhalations; exhale; steam.\n{{smaller block|Swift-running waters ''vapour'' not so much as standing waters. {{right|''Bacon'', Nat. Hist., § 767.}}}}\n{{smaller block|In the rear of the place stood a cooking-stove, upon which usually fizzed and ''vapored'' a fragrant mess of something which looked like sausages, and smelled like onions.\n{{right|''Harper’s Mag.'', LXXIX., Literary Notes.}}}}\n'''3.''' To boast or vaunt; bully; hector; brag; swagger; bounce.\n{{smaller block|<poem>''Pierce.'' He’s Burst’s protection.\n''Fly.'' Fights and ''vapours'' for him.</poem>\n{{right|''B. Jonson'', New Inn, iii. 1.}}}}\n{{smaller block|He ''vapours'' like a tinker, and struts like a juggler.\n{{right|''Ford'', Lover’s Melancholy, iv. 2.}}}}\n\n'''II.''' ''trans.'' '''1.''' To cause to pass into the state of vapor; cause to dissolve or disappear in or as in vapor, gas, thin air, or other unsubstantial thing.",
+   "c1s4": "¶\n{{smaller block|''Vapour'' it [quicksilver] away in a styllatorie of glasse: And thus shal yowe fynde the golde in the bottome of the vessell in maner pure without quickesyluer.\n{{right|''R. Eden'', tr. of Vannuccio Biringuccio (First Books on [America, ed. Arber, p. 366).}}}}\n{{smaller block|<poem>He now is dead, and all his glorie gone,\nAnd all his greatnes ''vapoured'' to nought.</poem>\n{{right|''Spenser'', Ruins of Time, l. 219.}}}}\n{{smaller block|<poem>He’d laugh to see one throw his heart away,\nAnother, sighing, ''vapour'' forth his soul. ''B. Jonson.''</poem>}}\n'''2.''' To afflict or infect with vapors; dispirit; depress.\n{{smaller block|He [Dr. Broxholme] always was nervous and ''vapoured.''\n{{right|''Walpole'', Letters, II. 120.}}}}\n{{smaller block|<poem>Her have I seen, pale, ''vapour’d'' through the day,\nWith crowded parties at the midnight play.</poem>\n{{right|''Crabbe'', Works, II. 144.}}}}\n{{smaller block|She has lost all her sprightliness, and ''vapours'' me but to look at her. ''Miss Burney'', Camilla, v. 6. (''Davies.'')}}\n'''3.''' To bully; hector.",
+   "c2s1": "¶\n{{smaller block|His designe was, if he could not refute them, yet at least with quips and snapping adagies to ''vapour'' them out.\n{{right|''Milton'', Apology for Smectymnuus.}}}}\n\n'''vaporability''' (vā″pọr-a-bil′i-ti), ''n.'' [< ''vaporable'' + ''-ity''.] The property or state of being vaporable.\n\n'''vaporable''' (vā′pọr-a-bl), ''a.'' [= Sp. ''vaporable'' = It. ''vaporabile''; as ''vapor'' + ''-able''.] Capable of being vaporized or converted into vapor.\n{{smaller block|The goodnes of the mine may be the cause . . . as eyther it is not of ''vaporable'' nature or to be of smaule quantitie.\n{{right|''R. Eden'', tr. of Vannuccio Biringuccio (First Books on [America, ed. Arber, p. 357).}}}}\n\n'''vaporarium''' (vā-pō-rā′ri-um), ''n.''; pl. ''vaporariums'', ''vaporaria'' (-umz, -ä̤). [NL., < L. ''vaporarium'', a steam-pipe in a hot bath, < ''vapor'', steam, vapor: see ''vapor''.] A Russian bath.\n\n'''vaporate†''' (vā′pọr-āt), ''v. i.'' [< L. ''vaporatus'', pp. of ''vaporare'', emit vapor: see ''vapor'', ''v.''] To emit vapor; evaporate.\n\n'''vaporation†''' (vā-pọ-rā′shọn), ''n.'' [= Sp. ''vaporacion'' = Pg. ''vaporação'' = It. ''vaporazione'', < L. ''vaporatio(n-)'', < ''vaporare'', emit vapor: see ''vapor'', ''vaporate''.] The act or process of converting into vapor, or of passing off in vapor; evaporation.\n\n'''vapor-bath''' (vā′pọr-bȧth), ''n.'' '''1.''' The application of the vapor of water to the body in a close apartment.\n{{smaller block|The physical organization of the Bengalee is feeble even to effeminacy. He lives in a constant ''vapour bath.'' His pursuits are sedentary, . . . his movements languid.\n{{right|''Macaulay'', Warren Hastings.}}}}",
+   "c2s2": "¶\n'''2.''' The apartment or bath for such application; an apparatus for bathing the body in vapor.\n\n'''vapor-burner''' (vā′po̤r-bėr″nėr), ''n.'' A device or apparatus for burning a hydrocarbon in the form of vapor: used for lamps, for heating- and cooking-stoves, etc. {{smaller|In a usual form the hydrocarbon is caused to pass through a metallic part which is so heated by the flame as to vaporize the liquid as it passes through. ''E. H. Knight.''}}\n\n'''vapor-douche''' (vā′po̤r-dösh), ''n.'' A topical vapor-bath which consists in the direction of a jet of aqueous vapor on some part of the body.\n\n'''vapored, vapoured''' (vā′po̤rd), ''a.'' [< ''vapor'' + ''-ed''<sup>2</sup>.] '''1.''' Full of vapors; dim or hazy, as if with vapors.\n{{smaller block|<poem>But I . . . kisse the ground wheras the corse doth rest,\nWith ''vapour’d'' eyes, from whence such streames availe\nAs Pyramus did on Thisbee’s brest bewail.</poem>\n{{right|''Surrey'', Death of Wyatt.}}}}\n\n'''2.''' Affected with the vapors; dejected; splenetic.\n{{smaller block|I was become so ''vapoured'' and timorous at home that I was ready to faint away if I did but go a few stones cast from our own house. ''Whiston'', Memoirs (1749), p. 18.}}\n\n'''vapor-engine''' (vā′po̤r-en″jin), ''n.'' A generic term for motors driven by elastic fluids, as hot air, steam, vapors of ammonia, alcohol, etc.\n\n'''vaporer, vapourer''' (vā′po̤r-ėr), ''n.'' [< ''vapor'' + ''-er''<sup>1</sup>.] '''1.''' One who vapors, swaggers, or bullies; one who makes a blustering display of his prowess; a braggart; a blusterer.\n{{smaller block|A ruffian, a riotous spendthrift, and a notable ''vapourer.''\n{{right|''Camden'', Elizabeth, an. 1570.}}}}",
+   "c2s3": "¶\n{{smaller block|My Lord Barkeley hath all along been a fortunate, though a passionate and but weak man as to policy, . . . and one that is the greatest ''vapourer'' in the world.\n{{right|''Pepys'', Diary, II. 331.}}}}\n'''2.''' A vaporer-moth.\n\n'''vaporer-moth''' (vā′pọr-ėr-môth), ''n.'' A common brown moth, ''Orgyia antiqua'', the female of which cannot fly; hence, any member of this group; a tussock. See ''tussock-moth'', and cut under ''Orgyia''.\n\n'''vaporiferous''' (vā-pọ-rif′ẹ-rus), ''a.'' [< L. ''vaporifer'', emitting vapor, < ''vapor'', vapor, + ''ferre'' = E. ''bear''<sup>1</sup>.] Conveying or producing vapor.\n\n'''vaporific''' (vā-pọ-rif′ik), ''a.'' [< L. ''vapor'', vapor, + ''-ficus'', < ''facere'', make: see ''-fic''.] That converts or is capable of converting into steam or other vapor; exhaling in a volatile form, as fluids.\n{{smaller block|The statement by Dr. Thomson refers to the completion, or last stage, of the discovery, namely, the ''vaporific'' combination of heat.\n{{right|''Buckle'', Civilization, II. vi., note.}}}}\n\n'''vaporiform''' (vā′pọr-i-fôrm), ''a.'' [< L. ''vapor'', vapor, + ''forma'', form.] Existing in the form of vapor.\n{{smaller block|Steam is water in its ''vaporiform'' state.\n{{right|''Ure'', Dict., III. 888.}}}}\n\n'''vaporimeter''' (vā-pọ-rim′e-tėr), ''n.'' [< L. ''vapor'', vapor, + Gr. μέτρον, measure.] An instrument for measuring the pressure of a vapor, especially one by which the amount of alcohol in a wine or liquor is determined from the height of the column of mercury which its vapor will support.",
+   "c3s1": "¶\n{{smaller block|This last distillate is diluted with water to a 10 per cent. strength, and the alcohol determined . . . by Geissler’s ''vaporimeter.''\n{{right|''Ure'', Dict., IV. 565.}}}}\n\n'''vaporing, vapouring''' (vā′pọr-ing), ''n.'' [Verbal n. of ''vapor'', ''v.''] The act of bragging or blustering; ostentatious or windy talk.\n{{smaller block|Here, take thy satin pincushion, with thy curious half hundred of pins in ’t, thou madest such a ''vapouring'' about yesterday.\n{{right|''Vanbrugh'', The Mistake, iv. 1.}}\nAll these valorous ''vapourings'' had a considerable effect.\n{{right|''Irving'', Knickerbocker, p. 355.}}\nThe warnings were not less numerous; the ''vaporings'' of village bullies, the extravagances of excited secessionist politicians, even the drolling of practical jokers, were faithfully reported to him by zealous or nervous friends.\n{{right|''The Century'', XXXIX. 431.}}}}\n\n'''vaporing''' (vā′pọr-ing), ''p. a.'' Vaunting; swaggering; blustering; given to brag or bluster: as, ''vaporing'' talk; a ''vaporing'' debater.\n\n'''vaporingly, vapouringly''' (vā′pọr-ing-li), ''adv.'' In a vaporing or blustering manner; boastfully.\n{{smaller block|The Corporal . . . gave a slight flourish with his stick—but not ''vapouringly.''\n{{right|''Sterne'', Tristram Shandy, ix. 3.}}}}\n\n'''vapor-inhaler''' (vā′pọr-in-hā″lėr), ''n.'' An apparatus for administering medicinal or anesthetic vapors.\n\n'''vaporisable, vaporisation,''' etc. See ''vaporizable'', etc.\n\n'''vaporish, vapourish''' (vā′pọr-ish), ''a.'' [< ''vapor'' + ''-ish''<sup>1</sup>.] '''1.''' Abounding in vapors; vaporous in a physical sense: as, a ''vaporish'' cave.\n{{smaller block|It proceeded from the nature of the ''vapourish'' place.\n{{right|''Sandys.''}}}}\n'''2.''' Affected by vapors; hypochondriac; dejected; splenetic; whimsical; hysterical.",
+   "c3s2": "¶\n{{smaller block|A man had better be plagued with all the curses of Egypt than with a ''vapourish'' wife.{{right|''Fielding'', Amelia, iii. 7.}}}}\n{{smaller block|<poem>Nor to be fretful, ''vapourish'', or give way\nTo spleen and anger, as the wealthy may.</poem>{{right|''Crabbe'', Works, VII. 63.}}}}\n\n'''vaporishness, vapourishness''' (vā′po̤r-ish-nes), ''n.'' The state or character of being vaporish or melancholy; hypochondria; spleen; the vapors.\n{{smaller block|You will not wonder that the ''vapourishness'' which has laid hold of my heart should rise to my pen.{{right|''Richardson'', Clarissa Harlowe, II. xcvii.}}}}\n\n'''vaporizable''' (vā′po̤r-ī-za-bl), ''a.'' [< ''vaporize'' + ''-able.''] Capable of being vaporized or converted into vapor. Also spelled ''vaporisable.''\n\n'''vaporization''' (vā″po̤r-i-zā′sho̤n), ''n.'' [= F. ''vaporisation'' = Sp. ''vaporizacion;'' as ''vaporize'' + ''-ation.''] The act or process of vaporizing; the artificial formation of vapor, or the state of being converted into vapor; treatment with vapor. Also spelled ''vaporisation.''\n{{smaller block|All matter, even the most solid, he [Zöllner] says, must slowly suffer volatilization if its temperature is above the absolute null point. This he illustrates by the ''vaporization'' of ice and the smell of metals and minerals.{{right|''G. S. Hall'', German Culture, p. 131.}}}}\n\n'''vaporize''' (vā′po̤r-īz), ''v.''; pret. and pp. ''vaporized'', ppr. ''vaporizing''. [= F. ''vaporiser'' = Sp. ''vaporizar;'' as ''vapor'' + ''-ize.''] '''I.''' ''trans.'' '''1.''' To convert into vapor by the application of heat or by artificial means; cause to evaporate; sublimate.\n{{smaller block|The energy of our rivers and streams comes from the sun, too — for its heat ''vaporizes'' the water of the ocean, and makes the winds which carry it over the land, where it falls as rain, and, flowing to the ocean again, runs our mills and factories.{{right|''Jour. Franklin Inst.'', CXXX. 89.}}}}",
+   "c3s3": "¶\n{{smaller block|The World lay still, suffused with a jewel-light, as of ''vaporized'' sapphire.\n{{right|''Harper’s Mag.'', LXXVI. 757.}}}}\n'''2.''' To affect with the vapors; render splenetic or hypochondriacal.\n{{smaller block|As ''vaporized'' ladies . . . run from spa to spa.\n{{right|''Macaulay'', in Trevelyan, I. 358.}}}}\n\n'''II.''' ''intrans.'' To pass off in vapor: as, sulphur or mercury ''vaporizes'' under certain conditions.\n{{smaller block|Iodine, allowed to ''vaporize'' at the temperature of boiling sulphur in presence of a large excess of air, showed no sign of dissociation. {{right|''Amer. Jour. Sci.'', 3d ser., XLI. 323.}}}}\n\nAlso spelled ''vaporise.''\n\n'''vaporizer''' (vā′pọr-ī-zėr), ''n.'' [< ''vaporize'' + ''-er''<sup>1</sup>.] One who or that which vaporizes or converts into vapor; a form of atomizer. Also spelled ''vaporiser.''\n{{smaller block|Take a ''vaporiser,'' and let the same be kept well at work with Mentholised Water night and day.\n{{right|''Lancet'', No. 3463, p. 25 of adv’ts.}}}}\n\n'''vaporizing-stove''' (vā′pọr-ī-zing-stōv), ''n.'' A form of heater for supplying steam to the air of a greenhouse. It consists, usually, of a pan for water placed over a lamp.\n\n'''vapor-lamp''' (vā′pọr-lamp), ''n.'' A vapor-burner, or a lamp constructed on the principle of the vapor-burner.\n\n'''vaporole''' (vā′pọ-rōl), ''n.'' [< ''vapor'' + ''-ole.''] A small thin glass capsule, containing a definite"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 9993,
+    "output_tokens": 9784,
+    "cache_creation_input_tokens": 3966,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|vapor|6697|vaporole}}</noinclude>{{smaller block|rated vapor. Aqueous vapor is always present as a minor constituent of the atmosphere, and its amount, which is very variable both at different places on the earth’s surface and in the same locality at different times, forms an important element of climate. By a reduction of temperature the aqueous vapor in the air is brought to the so-called state of saturation, and then condensed into cloud, mist, and rain. See ''rain''<sup>1</sup>.}}\n\n{{smaller block|It would be an error to confound clouds or fog or any visible mist with the ''vapour'' of water; this ''vapour'' is a perfectly impalpable gas, diffused, even on the clearest days, throughout the atmosphere.\n{{right|''Tyndall'', Radiation, § 12.}}}}\n\n'''3†.''' Effluence; influence.\n{{smaller block|<poem>Man, bryd, best, fissh, herbe, and grene tre,\nThey fele in tymes, with ''vapour'' eterne,\nGod loveth, and to love wol noght werne.</poem>\n{{right|''Chaucer'', Troilus, iii. 11.}}}}\n\n'''4†.''' Wind; flatulence.\n{{smaller block|For that that causeth gaping . . . or stretching is when the spirits are a little heavy, by any ''vapour'' or the like.\n{{right|''Bacon'', Nat. Hist., § 296.}}}}\n\n'''5.''' In ''med.'', a class of remedies, officinal in the British pharmacopœia, which are to be applied by inhalation: such as ''vapor creasoti'', a mixture of 12 minims of creosote in 8 fluidounces of boiling water, the vapor of which is to be inhaled.—'''6.''' Something unsubstantial, fleeting, or transitory; vain imagination; fantastic notion.\n{{smaller block|Gentlemen, these are very strange ''vapours,'' and very idle ''vapours.''\n{{right|''B. Jonson'', Bartholomew Fair, ii. 1.}}}}\n'''7†.''' ''pl.'' A hectoring or bullying style of language or conduct, adopted by ranters and swaggerers with the purpose of bringing about a real or mock quarrel.\n{{smaller block|They are at it [quarrelling] still, sir; this they call ''vapours.''\n{{right|''B. Jonson'', Bartholomew Fair, iv. 3.}}}}\n'''8.''' ''pl.'' A disease of nervous debility in which strange images seem to float hazily before the eyes, or appear as if real; hence, hypochondriacal affections; depression of spirit; dejection; spleen; “the blues”: a term much affected in the eighteenth century, but now rarely used.\n{{smaller block|Some call it the fever on the spirits, some a nervous fever, some the ''vapours'', and some the hysterics.\n{{right|''Fielding'', Amelia, iii. 7.}}}}\n{{smaller block|<poem>Caused by a dearth of scandal, should the ''vapours''\nDistress our fair ones—let them read the papers.</poem>\n{{right|''Garrick'', Prol. to Sheridan’s School for Scandal.}}}}\n{{smaller block|But really these thick walls are enough to inspire the ''vapours'' if one never had them before.\n{{right|''Miss Burney'', Cecilia, vi. 2.}}}} Aqueous vapor. {{smaller|See ''aqueous.''}}\n\n'''vapor, vapour''' (vā′po̤r), ''v.'' [< ME. ''vapouren'', < OF. *''vaporer'' = Sp. Pg. ''vaporar'' = It. ''vaporare'', < L. ''vaporare'', intr. steam, reek, tr. steam, smoke, heat, warm, < ''vapor'', exhalation, steam, vapor: see ''vapor'', ''n.''] '''I.''' ''intrans.'' '''1†.''' To pass off in the form of vapor; dissolve, as into vapor or thin air; be exhaled; evaporate.\n{{smaller block|Sette it to a litil fier so that it ''vapoure'' not.\n{{right|''Book of Quinte Essence'' (ed. Furnivall), p. 8.}}}}\n'''2.''' To give out vapor, steam, or gas; emit vapors or exhalations; exhale; steam.\n{{smaller block|Swift-running waters ''vapour'' not so much as standing waters. {{right|''Bacon'', Nat. Hist., § 767.}}}}\n{{smaller block|In the rear of the place stood a cooking-stove, upon which usually fizzed and ''vapored'' a fragrant mess of something which looked like sausages, and smelled like onions.\n{{right|''Harper’s Mag.'', LXXIX., Literary Notes.}}}}\n'''3.''' To boast or vaunt; bully; hector; brag; swagger; bounce.\n{{smaller block|<poem>''Pierce.'' He’s Burst’s protection.\n''Fly.'' Fights and ''vapours'' for him.</poem>\n{{right|''B. Jonson'', New Inn, iii. 1.}}}}\n{{smaller block|He ''vapours'' like a tinker, and struts like a juggler.\n{{right|''Ford'', Lover’s Melancholy, iv. 2.}}}}\n\n'''II.''' ''trans.'' '''1.''' To cause to pass into the state of vapor; cause to dissolve or disappear in or as in vapor, gas, thin air, or other unsubstantial thing.\n\n{{smaller block|''Vapour'' it [quicksilver] away in a styllatorie of glasse: And thus shal yowe fynde the golde in the bottome of the vessell in maner pure without quickesyluer.\n{{right|''R. Eden'', tr. of Vannuccio Biringuccio (First Books on [America, ed. Arber, p. 366).}}}}\n{{smaller block|<poem>He now is dead, and all his glorie gone,\nAnd all his greatnes ''vapoured'' to nought.</poem>\n{{right|''Spenser'', Ruins of Time, l. 219.}}}}\n{{smaller block|<poem>He’d laugh to see one throw his heart away,\nAnother, sighing, ''vapour'' forth his soul. ''B. Jonson.''</poem>}}\n'''2.''' To afflict or infect with vapors; dispirit; depress.\n{{smaller block|He [Dr. Broxholme] always was nervous and ''vapoured.''\n{{right|''Walpole'', Letters, II. 120.}}}}\n{{smaller block|<poem>Her have I seen, pale, ''vapour’d'' through the day,\nWith crowded parties at the midnight play.</poem>\n{{right|''Crabbe'', Works, II. 144.}}}}\n{{smaller block|She has lost all her sprightliness, and ''vapours'' me but to look at her. ''Miss Burney'', Camilla, v. 6. (''Davies.'')}}\n'''3.''' To bully; hector.\n\n{{smaller block|His designe was, if he could not refute them, yet at least with quips and snapping adagies to ''vapour'' them out.\n{{right|''Milton'', Apology for Smectymnuus.}}}}\n\n'''vaporability''' (vā″pọr-a-bil′i-ti), ''n.'' [< ''vaporable'' + ''-ity''.] The property or state of being vaporable.\n\n'''vaporable''' (vā′pọr-a-bl), ''a.'' [= Sp. ''vaporable'' = It. ''vaporabile''; as ''vapor'' + ''-able''.] Capable of being vaporized or converted into vapor.\n{{smaller block|The goodnes of the mine may be the cause . . . as eyther it is not of ''vaporable'' nature or to be of smaule quantitie.\n{{right|''R. Eden'', tr. of Vannuccio Biringuccio (First Books on [America, ed. Arber, p. 357).}}}}\n\n'''vaporarium''' (vā-pō-rā′ri-um), ''n.''; pl. ''vaporariums'', ''vaporaria'' (-umz, -ä̤). [NL., < L. ''vaporarium'', a steam-pipe in a hot bath, < ''vapor'', steam, vapor: see ''vapor''.] A Russian bath.\n\n'''vaporate†''' (vā′pọr-āt), ''v. i.'' [< L. ''vaporatus'', pp. of ''vaporare'', emit vapor: see ''vapor'', ''v.''] To emit vapor; evaporate.\n\n'''vaporation†''' (vā-pọ-rā′shọn), ''n.'' [= Sp. ''vaporacion'' = Pg. ''vaporação'' = It. ''vaporazione'', < L. ''vaporatio(n-)'', < ''vaporare'', emit vapor: see ''vapor'', ''vaporate''.] The act or process of converting into vapor, or of passing off in vapor; evaporation.\n\n'''vapor-bath''' (vā′pọr-bȧth), ''n.'' '''1.''' The application of the vapor of water to the body in a close apartment.\n{{smaller block|The physical organization of the Bengalee is feeble even to effeminacy. He lives in a constant ''vapour bath.'' His pursuits are sedentary, . . . his movements languid.\n{{right|''Macaulay'', Warren Hastings.}}}}\n\n'''2.''' The apartment or bath for such application; an apparatus for bathing the body in vapor.\n\n'''vapor-burner''' (vā′po̤r-bėr″nėr), ''n.'' A device or apparatus for burning a hydrocarbon in the form of vapor: used for lamps, for heating- and cooking-stoves, etc. {{smaller|In a usual form the hydrocarbon is caused to pass through a metallic part which is so heated by the flame as to vaporize the liquid as it passes through. ''E. H. Knight.''}}\n\n'''vapor-douche''' (vā′po̤r-dösh), ''n.'' A topical vapor-bath which consists in the direction of a jet of aqueous vapor on some part of the body.\n\n'''vapored, vapoured''' (vā′po̤rd), ''a.'' [< ''vapor'' + ''-ed''<sup>2</sup>.] '''1.''' Full of vapors; dim or hazy, as if with vapors.\n{{smaller block|<poem>But I . . . kisse the ground wheras the corse doth rest,\nWith ''vapour’d'' eyes, from whence such streames availe\nAs Pyramus did on Thisbee’s brest bewail.</poem>\n{{right|''Surrey'', Death of Wyatt.}}}}\n\n'''2.''' Affected with the vapors; dejected; splenetic.\n{{smaller block|I was become so ''vapoured'' and timorous at home that I was ready to faint away if I did but go a few stones cast from our own house. ''Whiston'', Memoirs (1749), p. 18.}}\n\n'''vapor-engine''' (vā′po̤r-en″jin), ''n.'' A generic term for motors driven by elastic fluids, as hot air, steam, vapors of ammonia, alcohol, etc.\n\n'''vaporer, vapourer''' (vā′po̤r-ėr), ''n.'' [< ''vapor'' + ''-er''<sup>1</sup>.] '''1.''' One who vapors, swaggers, or bullies; one who makes a blustering display of his prowess; a braggart; a blusterer.\n{{smaller block|A ruffian, a riotous spendthrift, and a notable ''vapourer.''\n{{right|''Camden'', Elizabeth, an. 1570.}}}}\n\n{{smaller block|My Lord Barkeley hath all along been a fortunate, though a passionate and but weak man as to policy, . . . and one that is the greatest ''vapourer'' in the world.\n{{right|''Pepys'', Diary, II. 331.}}}}\n'''2.''' A vaporer-moth.\n\n'''vaporer-moth''' (vā′pọr-ėr-môth), ''n.'' A common brown moth, ''Orgyia antiqua'', the female of which cannot fly; hence, any member of this group; a tussock. See ''tussock-moth'', and cut under ''Orgyia''.\n\n'''vaporiferous''' (vā-pọ-rif′ẹ-rus), ''a.'' [< L. ''vaporifer'', emitting vapor, < ''vapor'', vapor, + ''ferre'' = E. ''bear''<sup>1</sup>.] Conveying or producing vapor.\n\n'''vaporific''' (vā-pọ-rif′ik), ''a.'' [< L. ''vapor'', vapor, + ''-ficus'', < ''facere'', make: see ''-fic''.] That converts or is capable of converting into steam or other vapor; exhaling in a volatile form, as fluids.\n{{smaller block|The statement by Dr. Thomson refers to the completion, or last stage, of the discovery, namely, the ''vaporific'' combination of heat.\n{{right|''Buckle'', Civilization, II. vi., note.}}}}\n\n'''vaporiform''' (vā′pọr-i-fôrm), ''a.'' [< L. ''vapor'', vapor, + ''forma'', form.] Existing in the form of vapor.\n{{smaller block|Steam is water in its ''vaporiform'' state.\n{{right|''Ure'', Dict., III. 888.}}}}\n\n'''vaporimeter''' (vā-pọ-rim′e-tėr), ''n.'' [< L. ''vapor'', vapor, + Gr. μέτρον, measure.] An instrument for measuring the pressure of a vapor, especially one by which the amount of alcohol in a wine or liquor is determined from the height of the column of mercury which its vapor will support.\n\n{{smaller block|This last distillate is diluted with water to a 10 per cent. strength, and the alcohol determined . . . by Geissler’s ''vaporimeter.''\n{{right|''Ure'', Dict., IV. 565.}}}}\n\n'''vaporing, vapouring''' (vā′pọr-ing), ''n.'' [Verbal n. of ''vapor'', ''v.''] The act of bragging or blustering; ostentatious or windy talk.\n{{smaller block|Here, take thy satin pincushion, with thy curious half hundred of pins in ’t, thou madest such a ''vapouring'' about yesterday.\n{{right|''Vanbrugh'', The Mistake, iv. 1.}}\nAll these valorous ''vapourings'' had a considerable effect.\n{{right|''Irving'', Knickerbocker, p. 355.}}\nThe warnings were not less numerous; the ''vaporings'' of village bullies, the extravagances of excited secessionist politicians, even the drolling of practical jokers, were faithfully reported to him by zealous or nervous friends.\n{{right|''The Century'', XXXIX. 431.}}}}\n\n'''vaporing''' (vā′pọr-ing), ''p. a.'' Vaunting; swaggering; blustering; given to brag or bluster: as, ''vaporing'' talk; a ''vaporing'' debater.\n\n'''vaporingly, vapouringly''' (vā′pọr-ing-li), ''adv.'' In a vaporing or blustering manner; boastfully.\n{{smaller block|The Corporal . . . gave a slight flourish with his stick—but not ''vapouringly.''\n{{right|''Sterne'', Tristram Shandy, ix. 3.}}}}\n\n'''vapor-inhaler''' (vā′pọr-in-hā″lėr), ''n.'' An apparatus for administering medicinal or anesthetic vapors.\n\n'''vaporisable, vaporisation,''' etc. See ''vaporizable'', etc.\n\n'''vaporish, vapourish''' (vā′pọr-ish), ''a.'' [< ''vapor'' + ''-ish''<sup>1</sup>.] '''1.''' Abounding in vapors; vaporous in a physical sense: as, a ''vaporish'' cave.\n{{smaller block|It proceeded from the nature of the ''vapourish'' place.\n{{right|''Sandys.''}}}}\n'''2.''' Affected by vapors; hypochondriac; dejected; splenetic; whimsical; hysterical.\n\n{{smaller block|A man had better be plagued with all the curses of Egypt than with a ''vapourish'' wife.{{right|''Fielding'', Amelia, iii. 7.}}}}\n{{smaller block|<poem>Nor to be fretful, ''vapourish'', or give way\nTo spleen and anger, as the wealthy may.</poem>{{right|''Crabbe'', Works, VII. 63.}}}}\n\n'''vaporishness, vapourishness''' (vā′po̤r-ish-nes), ''n.'' The state or character of being vaporish or melancholy; hypochondria; spleen; the vapors.\n{{smaller block|You will not wonder that the ''vapourishness'' which has laid hold of my heart should rise to my pen.{{right|''Richardson'', Clarissa Harlowe, II. xcvii.}}}}\n\n'''vaporizable''' (vā′po̤r-ī-za-bl), ''a.'' [< ''vaporize'' + ''-able.''] Capable of being vaporized or converted into vapor. Also spelled ''vaporisable.''\n\n'''vaporization''' (vā″po̤r-i-zā′sho̤n), ''n.'' [= F. ''vaporisation'' = Sp. ''vaporizacion;'' as ''vaporize'' + ''-ation.''] The act or process of vaporizing; the artificial formation of vapor, or the state of being converted into vapor; treatment with vapor. Also spelled ''vaporisation.''\n{{smaller block|All matter, even the most solid, he [Zöllner] says, must slowly suffer volatilization if its temperature is above the absolute null point. This he illustrates by the ''vaporization'' of ice and the smell of metals and minerals.{{right|''G. S. Hall'', German Culture, p. 131.}}}}\n\n'''vaporize''' (vā′po̤r-īz), ''v.''; pret. and pp. ''vaporized'', ppr. ''vaporizing''. [= F. ''vaporiser'' = Sp. ''vaporizar;'' as ''vapor'' + ''-ize.''] '''I.''' ''trans.'' '''1.''' To convert into vapor by the application of heat or by artificial means; cause to evaporate; sublimate.\n{{smaller block|The energy of our rivers and streams comes from the sun, too — for its heat ''vaporizes'' the water of the ocean, and makes the winds which carry it over the land, where it falls as rain, and, flowing to the ocean again, runs our mills and factories.{{right|''Jour. Franklin Inst.'', CXXX. 89.}}}}\n\n{{smaller block|The World lay still, suffused with a jewel-light, as of ''vaporized'' sapphire.\n{{right|''Harper’s Mag.'', LXXVI. 757.}}}}\n'''2.''' To affect with the vapors; render splenetic or hypochondriacal.\n{{smaller block|As ''vaporized'' ladies . . . run from spa to spa.\n{{right|''Macaulay'', in Trevelyan, I. 358.}}}}\n\n'''II.''' ''intrans.'' To pass off in vapor: as, sulphur or mercury ''vaporizes'' under certain conditions.\n{{smaller block|Iodine, allowed to ''vaporize'' at the temperature of boiling sulphur in presence of a large excess of air, showed no sign of dissociation. {{right|''Amer. Jour. Sci.'', 3d ser., XLI. 323.}}}}\n\nAlso spelled ''vaporise.''\n\n'''vaporizer''' (vā′pọr-ī-zėr), ''n.'' [< ''vaporize'' + ''-er''<sup>1</sup>.] One who or that which vaporizes or converts into vapor; a form of atomizer. Also spelled ''vaporiser.''\n{{smaller block|Take a ''vaporiser,'' and let the same be kept well at work with Mentholised Water night and day.\n{{right|''Lancet'', No. 3463, p. 25 of adv’ts.}}}}\n\n'''vaporizing-stove''' (vā′pọr-ī-zing-stōv), ''n.'' A form of heater for supplying steam to the air of a greenhouse. It consists, usually, of a pan for water placed over a lamp.\n\n'''vapor-lamp''' (vā′pọr-lamp), ''n.'' A vapor-burner, or a lamp constructed on the principle of the vapor-burner.\n\n'''vaporole''' (vā′pọ-rōl), ''n.'' [< ''vapor'' + ''-ole.''] A small thin glass capsule, containing a definite<noinclude><references/></noinclude>"
+}

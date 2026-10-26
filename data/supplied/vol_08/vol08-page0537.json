@@ -1,0 +1,173 @@
+{
+ "volume": 8,
+ "page_number": 537,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n536.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n536.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-23",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 823,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     0,
+     2304,
+     103
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     103,
+     818,
+     1198
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1198,
+     818,
+     2278
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2278,
+     818,
+     3198
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     818,
+     103,
+     1571,
+     1152
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     818,
+     1152,
+     1571,
+     2246
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     818,
+     2246,
+     1571,
+     3198
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1571,
+     103,
+     2304,
+     1187
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1571,
+     1187,
+     2304,
+     2203
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1571,
+     2203,
+     2304,
+     3198
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|verruca|6733|verse}}",
+   "c1s1": "¶\n\n'''verruca''' (ve-rö′kä̤), ''n.''; pl. ''verrucæ'' (-sē). [NL., < L. ''verruca'', a wart, a steep place, a height.] '''1.''' In ''pathol.'', a wart.—'''2.''' In ''bot.'', a wart or sessile gland produced upon various parts of plants, especially upon a thallus.—'''3.''' In ''zoöl.'', a small, flattish, wart-like prominence; a verruciform tubercle.—'''4.''' [''cap.''] A genus of cirripeds, typical of the family ''Verrucidæ''.\n\n'''verrucano''' (ver-ọ̈-kä′nō), ''n.'' [< It. ''verrucana'', a hard stone used in crushing-mills, < ''verruca'', < L. ''verruca'', a wart.] The name given by Alpine geologists to a conglomerate of more or less imperfectly rounded fragments of white or pale-red quartz, varying in size from that of a grain of sand up to that of an egg, held together by a cement of reddish, greenish, or violet-colored silicious or talcose material. {{smaller|It occurs in numerous localities both north and south of the Alps, and in northern Italy, sometimes in masses of great thickness, which often take on a gneissoid or schistose structure. In certain localities the verrucano overlies a slaty rock which contains plants of Carboniferous age: hence some geologists have considered it as belonging to that formation, while others have regarded it as the equivalent of the Rothliegende, the lower division of the Permian.}}\n\n'''Verrucaria''' (ver-ọ̈-kā′ri-ä̤), ''n.'' [NL. (Persoon), < L. ''verrucaria'', a plant that drives away warts, < ''verruca'', a wart.] A genus of angiocarpous lichens, typical of the tribe ''Verrucariacei''.\n\n'''Verrucariacei''' (ver-ö-kā-ri-ā′sē-ī), ''n. pl.'' [NL., < ''Verrucaria'' + ''-acei''.] A tribe of angiocarpous lichens, having globular apothecia which open only by a pore at the summit, and a proper exciple covering a similarly shaped hymenium, which is in turn included in a more",
+   "c1s2": "or less distinguishable envelop. Also ''Verrucariæi.''\n\n'''verrucariaceous''' (ver-ö-kā-ri-ā′shius), ''a.'' In ''bot.'', of or pertaining to the genus ''Verrucaria'' or the tribe ''Verrucariacei.''\n\n'''verrucariine''' (ver-ọ̈-kā′ri-in), ''a.'' [< ''Verrucaria'' + ''-ine''<sup>1</sup>.] In ''bot.'', resembling the genus ''Verrucaria'' or the tribe ''Verrucariacei'', or having their characters.\n\n'''verrucarioid''' (ver-ö-kā′ri-oid), ''a.'' [< ''Verrucaria'' + ''-oid.''] In ''bot.'', same as ''verrucariine.''\n\n'''Verrucidæ''' (ve-rö′si-dē), ''n. pl.'' [NL., < ''Verruca'', 4, + ''-idæ.''] A family of sessile thoracic ''Cirripedia'', characterized by the absence of a peduncle and the lack of symmetry of the shell, the scuta and terga being deprived of depressor muscles, movable on one side only, on the other united with the rostrum and carina. ''Verruca'' is the only genus, with few recent species, but others are found fossil down to the Chalk formation.\n\n'''verruciform''' (ve-rö′si-fôrm), ''a.'' [< L. ''verruca'', a wart, + ''forma'', form.] Warty; resembling a wart in appearance. Also ''verrucæform.''\n\n'''verrucose''' (ver′ọ̈-kōs), ''a.'' [< L. ''verrucosus'': see ''verrucous.''] Same as ''verrucous.''\n\n'''verrucous''' (ver′ọ̈-kus), ''a.'' [= F. ''verruqueux'', < L. ''verrucosus'', full of warts, < ''verruca'', a wart: see ''verruca.''] Warty; studded with verruciform elevations or tubercles.\n\n'''verruculose''' (ve-rö′kū-lōs), ''a.'' [< L. ''verrucula'', a little eminence, a little wart (dim. of ''verruca'', a wart), + ''-ose.''] Minutely verrucose; covered with small warts or wart-like elevations.",
+   "c1s3": "¶\n'''verrugas''' (ve-rö′gäs), ''n.'' [< Sp. ''verrugas'', pl. of ''verruga'', < L. ''verruca'', a wart.] A specific disease, often fatal, occurring in Peru; frambœsia. A prominent characteristic is the appearance of warty growths on the skin. See also ''yaws''.\n\n'''verrule†''', ''n.'' An obsolete form of ''ferrule''<sup>2</sup>.\n\n'''verry''' (ver′i), ''a.'' In ''her.'', same as ''vairé''.\n\n'''versability''' (vėr-sa-bil′i̤-ti), ''n.'' [< ''versable'' + ''-ity''.] The state or quality of being versable; aptness to be turned round.\n{{smaller block|Now the use of the Auxiliaries is at once to set the soul a-going by herself upon the materials, as they are brought her, and, by the ''versability'' of this great engine, round which they are twisted, to open new tracts of inquiry, and make every idea engender millions.\n{{right|''Sterne'', Tristram Shandy, v. 42.}}}}\n\n'''versable''' (vėr′sa-bl), ''a.'' [< L. ''versabilis'', movable, changeable, < ''versare'', turn or whirl about: see ''versant''.] Capable of being turned. ''Blount'', 1670.\n\n'''versableness''' (vėr′sa-bl-nes), ''n.'' The character or state of being versable; versability.\n\n'''versal†''' (vėr′sal), ''a.'' [Abbr. of ''universal''. Cf. ''varsal''.] Universal; whole.\n{{smaller block|She looks as pale as any clout in the ''versal'' world.\n{{right|''Shak.'', R. and J., ii. 4. 219.}}\n<poem>Some, for brevity,\nHave cast the ''versal'' world’s nativity.</poem>\n{{right|''S. Butler'', Hudibras, II. iii. 930.}}}}",
+   "c2s1": "¶\n'''versant''' (vėr′sạnt), ''a.'' and ''n.'' [< F. ''versant'', < L. ''versan(t-)s'', ppr. of ''versare'', turn or whirl about: see ''verse''<sup>1</sup>, ''v.''] '''I.''' ''a.'' '''1.''' Familiar; conversant; versed.\n{{smaller block|I, with great pains and difficulty, got the whole book of the Canticles translated into each of these languages, by priests esteemed the most ''versant'' in the language of each nation. {{right|''Bruce'', Source of the Nile, I. 404.}}}}\n{{smaller block|The Bishop of London is . . . thoroughly ''versant'' in ecclesiastical law.\n{{right|''Sydney Smith'', First Letter to Archdeacon Singleton.}}\n{{right|[(''Davies.'')}}}}\n'''2.''' In ''her.'', carrying the wings erect and open.\n{{smaller block|It is generally held to be the same as ''elevated and pursuant'', but seems to refer especially to a display of the under surface of the wings.}}\n\n'''II.''' ''n.'' All that part of a country which slopes or inclines in one direction; the general lie or slope of surface; aspect.\n\n'''versatile''' (vėr′sạ-til), ''a.'' [< F. ''versatile'' = Sp. ''versátil'' = Pg. ''versatil'' = It. ''versatile'', < L. ''versatilis'', revolving, movable, versatile, < ''versare'', turn: see ''verse''<sup>1</sup>, ''v.''] '''1.''' Capable of being moved or turned round: as, a ''versatile'' spindle.\n{{smaller block|At y<sup>e</sup> Royall Society S<sup>r</sup> W<sup>m</sup> Petty propos’d divers things for the improvement of shipping: a ''versatile'' keele that should be on hinges. {{right|''Evelyn'', Diary, Nov. 20, 1661.}}}}\n{{smaller block|He had a ''versatile'' timber house built in Mr. Hart’s garden (opposite to St. James’s parke) to try the experiment. He would turne it to the sun, and sit towards it.\n{{right|''Aubrey'', Lives (James Harrington).}}}}\n{{smaller block|''Versatile'' and sharp-piercing, like a screw.\n{{right|''W. Harte'', Eulogies.}}}}\n'''2.''' Changeable; variable; unsteady; inconstant.",
+   "c2s2": "{{smaller block|Those ''versatile'' representations in the neck of a dove.\n{{right|''Glanville.''}}}}\n\n'''3.''' Turning with ease from one thing to another; readily applying one’s self to a new task, or to various subjects; many-sided: as, a ''versatile'' writer; a ''versatile'' actor.\n\n{{smaller block|An adventurer of ''versatile'' parts, sharper, coiner, false witness, sham bail, dancing-master, buffoon, poet, comedian.\n{{right|''Macaulay'', Hist. Eng., vii.}}\nConspicuous among the youths of high promise . . . was the quick and ''versatile'' Montague.\n{{right|''Macaulay'', Hist. Eng., xx.}}\nThe ''versatile'' mind, ever ready to turn its attention in a new and unexplored quarter.\n{{right|''J. Sully'', Outlines of Psychol., p. 97.}}}}\n\n'''4.''' In ''bot.'', swinging or turning freely on a support: especially noting an anther fixed by the middle on the apex of the filament, and swinging freely to and fro. See cuts under ''anther'' and ''lily''.—'''5.''' In ''ornith.'', specifically, reversible: noting any toe of a bird which may be turned either forward or backward.\n\n{{smaller block|It is advantageous to a bird of prey to be able to spread the toes as widely as possible, that the talons may seize the prey like a set of grappling irons; and accordingly the toes are widely divergent from each other, the outer one in the owls and a few hawks being quite ''versatile''.\n{{right|''Coues'', Key to N. A. Birds, p. 130.}}}}\n\n'''6.''' In ''entom.'', moving freely up and down or laterally: as, ''versatile'' antennæ.—{{smaller|'''Versatile dementia''', a form of dementia in which the patient is talkative and restless, often with a tendency to destroy, without reason, any objects within his reach.—'''Versatile head''', in ''entom.'', a head that can be freely moved in every direction.}}\n\n'''versatilely''' (vėr′sạ-til-li), ''adv.'' In a versatile manner.",
+   "c2s3": "¶\n'''versatileness''' (vėr′sa̤-til-nes), ''n.'' The state or quality of being versatile; versatility.\n\n'''versatility''' (vėr-sa̤-til′i-ti), ''n.'' [< F. ''versatilité'' = Sp. ''versatilidad'' = Pg. ''versatilidade'' = It. ''versatilità;'' as ''versatile'' + ''-ity.''] '''1.''' The state or character of being changeable or fickle; variableness.\n{{smaller block|The evils of inconstancy and ''versatility,'' ten thousand times worse than those of obstinacy and the blindest prejudice.\n{{right|''Burke,'' Rev. in France.}}}}\n'''2.''' The faculty of easily turning one’s mind to new tasks or subjects; facility in taking up various pursuits or lines of thought or action; versatileness: as, the ''versatility'' of genius.\n{{smaller block|<poem>I do not mean the force alone,\nThe grace and ''versatility'' of the man.</poem>\n{{right|''Tennyson,'' Lancelot and Elaine.}}}}\n'''3.''' Specifically, in ''ornith.,'' capability of turning either backward or forward, as a toe; the versatile movement of such a digit.\n\n'''versation''' (vėr-sā′sho̤n), ''n.'' A turning or winding. ''Blount,'' 1670.\n\n'''Verschoorist''' (ver′skör-ist), ''n.'' [< ''Verschoor'' (see def.) + ''-ist.''] One of a minor sect in the Netherlands in the seventeenth century, followers of one Verschoor. They are also called ''Hebraists,'' because of their application to the study of Hebrew.\n\n'''vers de société''' (vers dė sō-sē-ā-tā′). [F.] Same as ''society verse'' (which see, under ''society'').",
+   "c3s1": "¶\n'''verse<sup>1</sup>†''' (vėrs), ''v. t.'' [< OF. ''verser'', F. ''verser'' = Sp. Pg. ''versar'' = It. ''versare'', < L. ''versare'', OL. ''vorsare'', turn, wind, twist, or whirl about, turn over in the mind, meditate; in middle voice, ''versari'', move about, dwell, live, be occupied or engaged or concerned; freq. of ''vertere'', ''vortere'', pp. ''versus'', ''vorsus'', turn, turn about, overturn, change, alter, transform, translate; in middle voice, be occupied or engaged, be in a place or condition, = AS. ''weorthan'', E. ''worth'', be: see ''worth''<sup>1</sup>.] To turn; revolve, as in meditation.\n{{smaller block|Who, ''versing'' in his mind this thought, can keep his cheeks dry?\n{{right|''Rev. T. Adams'', Works, I. 344.}}}}\n\n'''verse<sup>2</sup>''' (vėrs), ''n.'' [< ME. ''vers'', partly, and in the early form ''fers'' wholly, < AS. ''fers'', partly < OF. (and F.) ''vers'' = Sp. Pg. It. ''verso'' = D. G. Sw. Dan. ''vers'', < L. ''versus'' (pl. ''versus''), also ''vorsus'', a furrow, a line, row, in particular a line of writing, and in poetry a verse, lit. a turning, turn (hence a turn at the end of a furrow, etc.), < ''vertere'', pp. ''versus'', turn: see ''verse''<sup>1</sup>. Hence ''verse''<sup>2</sup>, ''v.'', ''versicle'', ''versify'', etc.] '''1.''' In ''pros.'': (''a'') A succession of feet (colon or period) written or printed in one line; a line: as, a poem of three hundred ''verses''; hence, a type of metrical composition, as represented by a metrical line; a meter. A verse may be catalectic, dimeter, trimeter, iambic, dactylic, rimed, unrimed, alliterative, etc.\n{{smaller block|{{c|He made of ryme ten ''vers'' or twelve.}}\n{{right|''Chaucer'', Death of Blanche, l. 463.}}\nThey . . . thought themselues no small fooles, when they could make their ''verses'' goe all in ryme as did the schooles of Salerne. {{right|''Puttenham'', Arte of Eng. Poesie, p. 9.}}\nIt does not follow that, because a man is hanged for}}",
+   "c3s2": "{{smaller block|his faith, he is able to write good ''verses''.\n{{right|''Lowell'', Study Windows, p. 295.}}}}\n\n(''b'') A type of metrical composition, represented by a group of lines; a kind of stanza: as, Spenserian ''verse''; hence, a stanza: as, the first ''verse'' of a (rimed) hymn.\n{{smaller block|<poem>Now, good Cesario, but that piece of song . . .\nCome, but one ''verse''.</poem>\n{{right|''Shak.'', T. N., ii. 4. 7.}}\nA young lady proceeded to entertain the company with a ballad in four ''verses''.\n{{right|''Dickens'', Oliver Twist, xxvi.}}\nA stanza — often called a ''verse'' in the common speech of the present day — may be a group of two, three, or any number of lines.\n{{right|''S. Lanier'', Sci. of Eng. Verse, p. 239.}}}}\n\n(''c'') A specimen of metrical composition; a piece of poetry; a poem. [Rare.]\n{{smaller block|This ''verse'' be thine, my friend.\n{{right|''Pope'', Epistle to Jervas.}}}}\n\n(''d'') Metrical composition in general; versification; hence, poetical composition; poetry, especially as involving metrical form: opposed to ''prose''.\n{{smaller block|<poem>To write, to th’ honour of my Maker dread,\n''Verse'' that a Virgine without blush may read.</poem>\n{{right|''Sylvester'', tr. of Du Bartas’s Weeks, i. 2.}}\nWho says in ''verse'' what others say in prose.\n{{right|''Pope'', Imit. of Horace, II. i. 202.}}\n<poem>Poets, like painters, their machinery claim,\nAnd ''verse'' bestows the varnish and the frame.</poem>\n{{right|''O. W. Holmes'', Poetry.}}}}\n\n'''2.''' (''a'') A succession of words written in one line; hence, a sentence, or part of a sentence, written, or fitted to be written, as one line; a stich or stichos. {{smaller|It was a custom in ancient times}}",
+   "c3s3": "{{smaller|to write prosaic as well as metrical books in lines of average length. (See ''colometry'', ''stichometry''.) This custom was continued especially in writing the poetical books of the Bible, which, though not metrical in form, are composed in balanced clauses, and in liturgical forms taken from or similar to these.}} Hence—(''b'') In ''liturgics'', a sentence, or part of a sentence, usually from the Scriptures, especially from the Book of Psalms, said alternately by an officiant or leader and the choir or people: specifically, the sentence, clause, or phrase said by the officiant or leader, as distinguished from the response of the choir or congregation; a versicle. {{smaller|In the hour-offices a verse is especially a sentence following the responsory after a lesson. In the gradual the second sentence is called a ''verse'', and also that following the alleluia. Also ''versus''.}} (''c'') In ''church music'', a passage or movement for a single voice or for soloists, as contrasted with ''chorus''; also, a soloist who sings such a passage. (''d'') A short division of a chapter in any book of Scripture, usually forming one sentence, or part of a long sentence or period. {{smaller|The present division of verses in the Old Testament is inherited, with modifications, from the masoretic division of verses (pesūqīm), and has been used in Latin and other versions since 1528. The present division of verses in the New Testament was made by Robert Stephanus, on a horseback journey from Paris to Lyons, in an edition published in 1551. In English versions the verses were first marked in the Geneva Bible of 1560.}} (''e'') A similar division in any book.—'''Adonic, Alcaic, Alcmanian verse.''' {{smaller|See the adjectives.}}—'''Blank verse''', {{smaller|unrimed verse; particularly, that form of unrimed heroic verse which is commonly employed in English dramatic and epic poetry. It was introduced by}}"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 10,
+    "input_tokens": 9995,
+    "output_tokens": 9429,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|verruca|6733|verse}}</noinclude>{{nop}}'''verruca''' (ve-rö′kä̤), ''n.''; pl. ''verrucæ'' (-sē). [NL., < L. ''verruca'', a wart, a steep place, a height.] '''1.''' In ''pathol.'', a wart.—'''2.''' In ''bot.'', a wart or sessile gland produced upon various parts of plants, especially upon a thallus.—'''3.''' In ''zoöl.'', a small, flattish, wart-like prominence; a verruciform tubercle.—'''4.''' [''cap.''] A genus of cirripeds, typical of the family ''Verrucidæ''.\n\n'''verrucano''' (ver-ọ̈-kä′nō), ''n.'' [< It. ''verrucana'', a hard stone used in crushing-mills, < ''verruca'', < L. ''verruca'', a wart.] The name given by Alpine geologists to a conglomerate of more or less imperfectly rounded fragments of white or pale-red quartz, varying in size from that of a grain of sand up to that of an egg, held together by a cement of reddish, greenish, or violet-colored silicious or talcose material. {{smaller|It occurs in numerous localities both north and south of the Alps, and in northern Italy, sometimes in masses of great thickness, which often take on a gneissoid or schistose structure. In certain localities the verrucano overlies a slaty rock which contains plants of Carboniferous age: hence some geologists have considered it as belonging to that formation, while others have regarded it as the equivalent of the Rothliegende, the lower division of the Permian.}}\n\n'''Verrucaria''' (ver-ọ̈-kā′ri-ä̤), ''n.'' [NL. (Persoon), < L. ''verrucaria'', a plant that drives away warts, < ''verruca'', a wart.] A genus of angiocarpous lichens, typical of the tribe ''Verrucariacei''.\n\n'''Verrucariacei''' (ver-ö-kā-ri-ā′sē-ī), ''n. pl.'' [NL., < ''Verrucaria'' + ''-acei''.] A tribe of angiocarpous lichens, having globular apothecia which open only by a pore at the summit, and a proper exciple covering a similarly shaped hymenium, which is in turn included in a more or less distinguishable envelop. Also ''Verrucariæi.''\n\n'''verrucariaceous''' (ver-ö-kā-ri-ā′shius), ''a.'' In ''bot.'', of or pertaining to the genus ''Verrucaria'' or the tribe ''Verrucariacei.''\n\n'''verrucariine''' (ver-ọ̈-kā′ri-in), ''a.'' [< ''Verrucaria'' + ''-ine''<sup>1</sup>.] In ''bot.'', resembling the genus ''Verrucaria'' or the tribe ''Verrucariacei'', or having their characters.\n\n'''verrucarioid''' (ver-ö-kā′ri-oid), ''a.'' [< ''Verrucaria'' + ''-oid.''] In ''bot.'', same as ''verrucariine.''\n\n'''Verrucidæ''' (ve-rö′si-dē), ''n. pl.'' [NL., < ''Verruca'', 4, + ''-idæ.''] A family of sessile thoracic ''Cirripedia'', characterized by the absence of a peduncle and the lack of symmetry of the shell, the scuta and terga being deprived of depressor muscles, movable on one side only, on the other united with the rostrum and carina. ''Verruca'' is the only genus, with few recent species, but others are found fossil down to the Chalk formation.\n\n'''verruciform''' (ve-rö′si-fôrm), ''a.'' [< L. ''verruca'', a wart, + ''forma'', form.] Warty; resembling a wart in appearance. Also ''verrucæform.''\n\n'''verrucose''' (ver′ọ̈-kōs), ''a.'' [< L. ''verrucosus'': see ''verrucous.''] Same as ''verrucous.''\n\n'''verrucous''' (ver′ọ̈-kus), ''a.'' [= F. ''verruqueux'', < L. ''verrucosus'', full of warts, < ''verruca'', a wart: see ''verruca.''] Warty; studded with verruciform elevations or tubercles.\n\n'''verruculose''' (ve-rö′kū-lōs), ''a.'' [< L. ''verrucula'', a little eminence, a little wart (dim. of ''verruca'', a wart), + ''-ose.''] Minutely verrucose; covered with small warts or wart-like elevations.\n\n'''verrugas''' (ve-rö′gäs), ''n.'' [< Sp. ''verrugas'', pl. of ''verruga'', < L. ''verruca'', a wart.] A specific disease, often fatal, occurring in Peru; frambœsia. A prominent characteristic is the appearance of warty growths on the skin. See also ''yaws''.\n\n'''verrule†''', ''n.'' An obsolete form of ''ferrule''<sup>2</sup>.\n\n'''verry''' (ver′i), ''a.'' In ''her.'', same as ''vairé''.\n\n'''versability''' (vėr-sa-bil′i̤-ti), ''n.'' [< ''versable'' + ''-ity''.] The state or quality of being versable; aptness to be turned round.\n{{smaller block|Now the use of the Auxiliaries is at once to set the soul a-going by herself upon the materials, as they are brought her, and, by the ''versability'' of this great engine, round which they are twisted, to open new tracts of inquiry, and make every idea engender millions.\n{{right|''Sterne'', Tristram Shandy, v. 42.}}}}\n\n'''versable''' (vėr′sa-bl), ''a.'' [< L. ''versabilis'', movable, changeable, < ''versare'', turn or whirl about: see ''versant''.] Capable of being turned. ''Blount'', 1670.\n\n'''versableness''' (vėr′sa-bl-nes), ''n.'' The character or state of being versable; versability.\n\n'''versal†''' (vėr′sal), ''a.'' [Abbr. of ''universal''. Cf. ''varsal''.] Universal; whole.\n{{smaller block|She looks as pale as any clout in the ''versal'' world.\n{{right|''Shak.'', R. and J., ii. 4. 219.}}\n<poem>Some, for brevity,\nHave cast the ''versal'' world’s nativity.</poem>\n{{right|''S. Butler'', Hudibras, II. iii. 930.}}}}\n\n'''versant''' (vėr′sạnt), ''a.'' and ''n.'' [< F. ''versant'', < L. ''versan(t-)s'', ppr. of ''versare'', turn or whirl about: see ''verse''<sup>1</sup>, ''v.''] '''I.''' ''a.'' '''1.''' Familiar; conversant; versed.\n{{smaller block|I, with great pains and difficulty, got the whole book of the Canticles translated into each of these languages, by priests esteemed the most ''versant'' in the language of each nation. {{right|''Bruce'', Source of the Nile, I. 404.}}}}\n{{smaller block|The Bishop of London is . . . thoroughly ''versant'' in ecclesiastical law.\n{{right|''Sydney Smith'', First Letter to Archdeacon Singleton.}}\n{{right|[(''Davies.'')}}}}\n'''2.''' In ''her.'', carrying the wings erect and open.\n{{smaller block|It is generally held to be the same as ''elevated and pursuant'', but seems to refer especially to a display of the under surface of the wings.}}\n\n'''II.''' ''n.'' All that part of a country which slopes or inclines in one direction; the general lie or slope of surface; aspect.\n\n'''versatile''' (vėr′sạ-til), ''a.'' [< F. ''versatile'' = Sp. ''versátil'' = Pg. ''versatil'' = It. ''versatile'', < L. ''versatilis'', revolving, movable, versatile, < ''versare'', turn: see ''verse''<sup>1</sup>, ''v.''] '''1.''' Capable of being moved or turned round: as, a ''versatile'' spindle.\n{{smaller block|At y<sup>e</sup> Royall Society S<sup>r</sup> W<sup>m</sup> Petty propos’d divers things for the improvement of shipping: a ''versatile'' keele that should be on hinges. {{right|''Evelyn'', Diary, Nov. 20, 1661.}}}}\n{{smaller block|He had a ''versatile'' timber house built in Mr. Hart’s garden (opposite to St. James’s parke) to try the experiment. He would turne it to the sun, and sit towards it.\n{{right|''Aubrey'', Lives (James Harrington).}}}}\n{{smaller block|''Versatile'' and sharp-piercing, like a screw.\n{{right|''W. Harte'', Eulogies.}}}}\n'''2.''' Changeable; variable; unsteady; inconstant. {{smaller block|Those ''versatile'' representations in the neck of a dove.\n{{right|''Glanville.''}}}}\n\n'''3.''' Turning with ease from one thing to another; readily applying one’s self to a new task, or to various subjects; many-sided: as, a ''versatile'' writer; a ''versatile'' actor.\n\n{{smaller block|An adventurer of ''versatile'' parts, sharper, coiner, false witness, sham bail, dancing-master, buffoon, poet, comedian.\n{{right|''Macaulay'', Hist. Eng., vii.}}\nConspicuous among the youths of high promise . . . was the quick and ''versatile'' Montague.\n{{right|''Macaulay'', Hist. Eng., xx.}}\nThe ''versatile'' mind, ever ready to turn its attention in a new and unexplored quarter.\n{{right|''J. Sully'', Outlines of Psychol., p. 97.}}}}\n\n'''4.''' In ''bot.'', swinging or turning freely on a support: especially noting an anther fixed by the middle on the apex of the filament, and swinging freely to and fro. See cuts under ''anther'' and ''lily''.—'''5.''' In ''ornith.'', specifically, reversible: noting any toe of a bird which may be turned either forward or backward.\n\n{{smaller block|It is advantageous to a bird of prey to be able to spread the toes as widely as possible, that the talons may seize the prey like a set of grappling irons; and accordingly the toes are widely divergent from each other, the outer one in the owls and a few hawks being quite ''versatile''.\n{{right|''Coues'', Key to N. A. Birds, p. 130.}}}}\n\n'''6.''' In ''entom.'', moving freely up and down or laterally: as, ''versatile'' antennæ.—{{smaller|'''Versatile dementia''', a form of dementia in which the patient is talkative and restless, often with a tendency to destroy, without reason, any objects within his reach.—'''Versatile head''', in ''entom.'', a head that can be freely moved in every direction.}}\n\n'''versatilely''' (vėr′sạ-til-li), ''adv.'' In a versatile manner.\n\n'''versatileness''' (vėr′sa̤-til-nes), ''n.'' The state or quality of being versatile; versatility.\n\n'''versatility''' (vėr-sa̤-til′i-ti), ''n.'' [< F. ''versatilité'' = Sp. ''versatilidad'' = Pg. ''versatilidade'' = It. ''versatilità;'' as ''versatile'' + ''-ity.''] '''1.''' The state or character of being changeable or fickle; variableness.\n{{smaller block|The evils of inconstancy and ''versatility,'' ten thousand times worse than those of obstinacy and the blindest prejudice.\n{{right|''Burke,'' Rev. in France.}}}}\n'''2.''' The faculty of easily turning one’s mind to new tasks or subjects; facility in taking up various pursuits or lines of thought or action; versatileness: as, the ''versatility'' of genius.\n{{smaller block|<poem>I do not mean the force alone,\nThe grace and ''versatility'' of the man.</poem>\n{{right|''Tennyson,'' Lancelot and Elaine.}}}}\n'''3.''' Specifically, in ''ornith.,'' capability of turning either backward or forward, as a toe; the versatile movement of such a digit.\n\n'''versation''' (vėr-sā′sho̤n), ''n.'' A turning or winding. ''Blount,'' 1670.\n\n'''Verschoorist''' (ver′skör-ist), ''n.'' [< ''Verschoor'' (see def.) + ''-ist.''] One of a minor sect in the Netherlands in the seventeenth century, followers of one Verschoor. They are also called ''Hebraists,'' because of their application to the study of Hebrew.\n\n'''vers de société''' (vers dė sō-sē-ā-tā′). [F.] Same as ''society verse'' (which see, under ''society'').\n\n'''verse<sup>1</sup>†''' (vėrs), ''v. t.'' [< OF. ''verser'', F. ''verser'' = Sp. Pg. ''versar'' = It. ''versare'', < L. ''versare'', OL. ''vorsare'', turn, wind, twist, or whirl about, turn over in the mind, meditate; in middle voice, ''versari'', move about, dwell, live, be occupied or engaged or concerned; freq. of ''vertere'', ''vortere'', pp. ''versus'', ''vorsus'', turn, turn about, overturn, change, alter, transform, translate; in middle voice, be occupied or engaged, be in a place or condition, = AS. ''weorthan'', E. ''worth'', be: see ''worth''<sup>1</sup>.] To turn; revolve, as in meditation.\n{{smaller block|Who, ''versing'' in his mind this thought, can keep his cheeks dry?\n{{right|''Rev. T. Adams'', Works, I. 344.}}}}\n\n'''verse<sup>2</sup>''' (vėrs), ''n.'' [< ME. ''vers'', partly, and in the early form ''fers'' wholly, < AS. ''fers'', partly < OF. (and F.) ''vers'' = Sp. Pg. It. ''verso'' = D. G. Sw. Dan. ''vers'', < L. ''versus'' (pl. ''versus''), also ''vorsus'', a furrow, a line, row, in particular a line of writing, and in poetry a verse, lit. a turning, turn (hence a turn at the end of a furrow, etc.), < ''vertere'', pp. ''versus'', turn: see ''verse''<sup>1</sup>. Hence ''verse''<sup>2</sup>, ''v.'', ''versicle'', ''versify'', etc.] '''1.''' In ''pros.'': (''a'') A succession of feet (colon or period) written or printed in one line; a line: as, a poem of three hundred ''verses''; hence, a type of metrical composition, as represented by a metrical line; a meter. A verse may be catalectic, dimeter, trimeter, iambic, dactylic, rimed, unrimed, alliterative, etc.\n{{smaller block|{{c|He made of ryme ten ''vers'' or twelve.}}\n{{right|''Chaucer'', Death of Blanche, l. 463.}}\nThey . . . thought themselues no small fooles, when they could make their ''verses'' goe all in ryme as did the schooles of Salerne. {{right|''Puttenham'', Arte of Eng. Poesie, p. 9.}}\nIt does not follow that, because a man is hanged for his faith, he is able to write good ''verses''.\n{{right|''Lowell'', Study Windows, p. 295.}}}}\n\n(''b'') A type of metrical composition, represented by a group of lines; a kind of stanza: as, Spenserian ''verse''; hence, a stanza: as, the first ''verse'' of a (rimed) hymn.\n{{smaller block|<poem>Now, good Cesario, but that piece of song . . .\nCome, but one ''verse''.</poem>\n{{right|''Shak.'', T. N., ii. 4. 7.}}\nA young lady proceeded to entertain the company with a ballad in four ''verses''.\n{{right|''Dickens'', Oliver Twist, xxvi.}}\nA stanza — often called a ''verse'' in the common speech of the present day — may be a group of two, three, or any number of lines.\n{{right|''S. Lanier'', Sci. of Eng. Verse, p. 239.}}}}\n\n(''c'') A specimen of metrical composition; a piece of poetry; a poem. [Rare.]\n{{smaller block|This ''verse'' be thine, my friend.\n{{right|''Pope'', Epistle to Jervas.}}}}\n\n(''d'') Metrical composition in general; versification; hence, poetical composition; poetry, especially as involving metrical form: opposed to ''prose''.\n{{smaller block|<poem>To write, to th’ honour of my Maker dread,\n''Verse'' that a Virgine without blush may read.</poem>\n{{right|''Sylvester'', tr. of Du Bartas’s Weeks, i. 2.}}\nWho says in ''verse'' what others say in prose.\n{{right|''Pope'', Imit. of Horace, II. i. 202.}}\n<poem>Poets, like painters, their machinery claim,\nAnd ''verse'' bestows the varnish and the frame.</poem>\n{{right|''O. W. Holmes'', Poetry.}}}}\n\n'''2.''' (''a'') A succession of words written in one line; hence, a sentence, or part of a sentence, written, or fitted to be written, as one line; a stich or stichos. {{smaller|It was a custom in ancient times to write prosaic as well as metrical books in lines of average length. (See ''colometry'', ''stichometry''.) This custom was continued especially in writing the poetical books of the Bible, which, though not metrical in form, are composed in balanced clauses, and in liturgical forms taken from or similar to these.}} Hence—(''b'') In ''liturgics'', a sentence, or part of a sentence, usually from the Scriptures, especially from the Book of Psalms, said alternately by an officiant or leader and the choir or people: specifically, the sentence, clause, or phrase said by the officiant or leader, as distinguished from the response of the choir or congregation; a versicle. {{smaller|In the hour-offices a verse is especially a sentence following the responsory after a lesson. In the gradual the second sentence is called a ''verse'', and also that following the alleluia. Also ''versus''.}} (''c'') In ''church music'', a passage or movement for a single voice or for soloists, as contrasted with ''chorus''; also, a soloist who sings such a passage. (''d'') A short division of a chapter in any book of Scripture, usually forming one sentence, or part of a long sentence or period. {{smaller|The present division of verses in the Old Testament is inherited, with modifications, from the masoretic division of verses (pesūqīm), and has been used in Latin and other versions since 1528. The present division of verses in the New Testament was made by Robert Stephanus, on a horseback journey from Paris to Lyons, in an edition published in 1551. In English versions the verses were first marked in the Geneva Bible of 1560.}} (''e'') A similar division in any book.—'''Adonic, Alcaic, Alcmanian verse.''' {{smaller|See the adjectives.}}—'''Blank verse''', {{smaller|unrimed verse; particularly, that form of unrimed heroic verse which is commonly employed in English dramatic and epic poetry. It was introduced by}}<noinclude><references/></noinclude>"
+}

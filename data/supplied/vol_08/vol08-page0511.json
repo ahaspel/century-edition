@@ -1,0 +1,345 @@
+{
+ "volume": 8,
+ "page_number": 511,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n510.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n510.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-23",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 795,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     12,
+     62,
+     2284,
+     100
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     12,
+     100,
+     815,
+     1139
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     12,
+     1139,
+     815,
+     2096
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     94,
+     1437,
+     810,
+     1881
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     12,
+     2096,
+     815,
+     3191
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     815,
+     100,
+     1558,
+     1069
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     865,
+     177,
+     1479,
+     867
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     815,
+     1069,
+     1558,
+     2123
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     815,
+     2123,
+     1558,
+     3191
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1558,
+     100,
+     2284,
+     570
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1558,
+     570,
+     2284,
+     1797
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1629,
+     647,
+     2240,
+     1680
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1558,
+     1797,
+     2284,
+     2032
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1558,
+     2032,
+     2284,
+     3118
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     2032,
+     2426,
+     2256,
+     3053
+    ]
+   },
+   {
+    "name": "c3s5",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1558,
+     3118,
+     2284,
+     3191
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|Vaudois|6707|vaulting-tile}}",
+   "c1s1": "¶\n'''II.''' ''a.'' Pertaining to the canton of Vaud or to its inhabitants.\n\n'''Vaudois<sup>2</sup>''' (vō-dwo′), ''n.'' and ''a.'' [F.: see ''Waldenses.''] '''I.''' ''n. sing.'' and ''pl.'' A member or the members of the religious body generally known as Waldenses. See ''Waldensian.''\n\n'''II.''' ''a.'' Pertaining to the Vaudois or Waldenses.\n\n'''vaudoo, vaudou, vaudoux.''' See ''voodoo.''\n\n'''vault<sup>1</sup>''' (vâlt), ''n.'' [With inserted ''l'' (as also in ''fault''), in imitation of the orig. form; early mod. E. ''vaut, vaute, vawte,'' also ''vout,'' < ME. ''vawte, voute, vowte, vowt,'' < OF. ''voute, volte,'' later ''voulte,'' F. ''voûte'' (= Pr. ''volta, vouta, vota'' = It. ''volta''), a vault, arch, vaulted roof, < ''volt, vout,'' bowed, arched, < L. ''volūtus'' (> *''volŭtus,'' > *''voltus''), pp. of ''volvere,'' turn around, roll: see ''volve, volute.''] '''1.''' An arched roof; a concave roof or roof-like covering; the canopy of heaven.\n{{smaller block|<poem>O, you are men of stones:\nHad I your tongues and eyes, I ’d use them so\nThat heaven’s ''vault'' should crack.</poem>\n{{right|''Shak.'', Lear, v. 3. 259.}}\nA very lofty ''vault'' . . . is made over his [Antenor’s] monument. {{right|''Coryat'', Crudities, I. 154.}}\n<poem>Nor bird would sing, nor lamb would bleat,\nNor any cloud would cross the ''vault''.</poem>\n{{right|''Tennyson'', Mariana in the South.}}}}\n\n'''2.''' In ''arch.'', a continuous arch, or an arched roof, so constructed that the stones, bricks, or other materials of which it is composed mutually sustain themselves in their places upon their abutments, and that their joints radiate from",
+   "c1s2": "some central point or line (or points or lines).\n{{smaller block|Vaults are of various kinds, cylindrical, elliptical, single, double, cross, diagonal, pointed, etc. When a vault of which the curve is an arc of a circle is of greater height than half its span, it is said to be ''surmounted'', and when of less height, ''surbased''. A ''rampant vault'' is a vault which springs from planes not parallel to the horizon. One vault placed above or inclosing another constitutes a ''double vault''. A ''conical vault'' is formed as it were upon part of the surface of a cone, and a ''spherical vault'' upon part of the surface of a sphere. A vault is ''simple'' when it is formed\n[[FIGURE]]\n{{c|{{smaller|1, barrel-vault; 2, intersecting vault; 3, domed vault; 4, stilted vault.}}}}\nupon the surface of some regular solid, around one axis, and ''compound'' when compounded of two or more simple vaults or parts of such vaults. (Compare ''Roman'' and ''medieval architecture'', under ''Roman'' and ''medieval''.) A ''groined vault'' is a compound vault formed by the intersection of two or more vaults crossing each other. See}}",
+   "c1s3": "{{smaller|''groin''<sup>1</sup>, ''groined'', and cuts under ''aisle'', ''crypt'', and ''nave''.}}\n{{smaller block|The Citie standeth vpon great arches or ''vawtes'', like vnto Churches.\n{{right|''Hakluyt’s Voyages'', II. 284.}}}}\n\n'''3.''' An arched apartment or compartment; also, a chamber or compartment, even if not arched or vaulted; especially, a subterranean chamber used for certain specific purposes. {{smaller|(''a'') A place of interment.}}\n{{smaller block|Ther is a ''Vowt'' undre the Chirche, where that Cristene men duellen also; and thei han many gode Vynes.\n{{right|''Mandeville'', Travels, p. 124.}}}}\n{{smaller block|The deep, damp ''vault'', the darkness, and the worm.\n{{right|''Young'', Night Thoughts, iv. 11.}}}}\n{{smaller|(''b'') A place of confinement; a prison.}}\n{{smaller block|There are certaine ''vauts'' or dungeons, which goe downe verie deepe vnder those Pyramides.\n{{right|''Hakluyt’s Voyages'', II. 281.}}}}\n{{smaller|(''c'') A place for storing articles; a cellar: as, wine-''vaults''; the name is hence frequently given, in the plural, to a place where beer and wine are sold, whether subterranean or not.}}\n{{smaller block|<poem>When our ''vaults'' have wept\nWith drunken spilth of wine.</poem>\n{{right|''Shak.'', T. of A., ii. 2. 169.}}}}\n{{smaller block|They have ''vaults'' or cellars under most of their houses.\n{{right|''Coryat'', Crudities, I. 59.}}}}\n{{smaller|(''d'') A privy.}}\n\n'''4.''' In ''anat.'', a part forming a dome-like roof to a cavity.—{{smaller|'''Annular vault.''' See ''annular''.—'''Back of a vault.''' See ''back of an arch'', under ''back''<sup>1</sup>.—'''Counter-vault''', an inverted vault; a vault of which the crown is constructed downward, to resist pressure from below.—'''Double vault''', in ''arch.'', a superposition of two complete vaults, built one over the other with such an interval between as may be necessary to conform to the requirements of proportion of the interior and the exterior: a device employed in the construction of a dome or domical roof when it is desired that the appearance of a dome should be pre-}}",
+   "c2s1": "served both externally and internally, but the general proportions of the building require the dome to be of greater\n[[FIGURE]]\n{{c|{{smaller|Double Vault.—Section of dome of St. Peter’s, Rome.}}}}\nexterior altitude than would be harmonious for the interior.—'''Groined vault''', as distinguished from ''barrel-'' or ''cradle-vault'', a vault formed by two or more intersecting vaults, every two of which form a groin at the intersection. If the crowns of the intersecting vaults are on the same level, all the groins will meet in a common point,",
+   "c2s2": "{{smaller|which is called the apex or summit, and in ribbed vaulting is usually decorated with a boss. See cuts under ''crypt'' and ''groin''.—'''Lierne vault.''' See ''lierne''.—'''Palatal''' or '''palatine vault''', the roof of the mouth. See cut under ''palate''.—'''Rampant vault.''' See def. 2.—'''Rear vault.''' See ''rear''<sup>3</sup>.—'''Reins of a vault.''' See ''reins''.—'''Vault of the cranium''', the calvaria or skullcap; that part of a skull above the orbits, auditory canals, and superior curved line of the occipital bone.}}\n\n'''vault<sup>1</sup>''' (vâlt), ''v. t.'' [< ME. ''vouten'', < OF. ''vouter''; from the noun.] '''1.''' To form with a vault or arched roof; give the shape or character of an arch or a vault to; arch: as, to ''vault'' a passage to a court.\n{{smaller block|Some few stony bridges I saw also pretily ''vaulted'' with an arch or two.\n{{right|''Coryat'', Crudities, I. 88.}}}}\n'''2.''' To cover with or as with an arch or vault.\n{{smaller block|<poem>Fiery darts in flaming volleys flew,\nAnd flying ''vaulted'' either host with fire.</poem>\n{{right|''Milton'', P. L., vi. 214.}}}}\n\n'''vault<sup>2</sup>''' (vâlt), ''n.'' [< F. ''volte'', < It. ''volta'', a turn, leap, vault, < L. ''volūta'' (> *''volŭta'', > *''volta''), fem. of ''volutus'', pp. of ''volvere'', turn: see ''volve''. Cf. ''vault''<sup>1</sup>.] A leap or spring. {{smaller|Especially—(''a'') A leap made by means of a pole, or by resting the hand or hands on something. (''b'') The leap of a horse; a curvet.}}\n\n'''vault<sup>2</sup>''' (vâlt), ''v.'' [Early mod. E. also ''vaute''; < ''vault''<sup>2</sup>, ''n.''] '''I.''' ''intrans.'' '''1.''' To leap; bound; spring, especially by having something to rest the hands on, as in mounting a horse or clearing a fence.\n{{smaller block|''Vaulting'' ambition, which o’erleaps itself.\n{{right|''Shak.'', Macbeth, i. 7. 27.}}\nLeaning on his lance, he ''vaulted'' on a tree.\n{{right|''Dryden'', tr. of Ovid’s Metamorph., viii. 134.}}}}",
+   "c2s3": "{{smaller block|<poem>''Vaults'' every warrior to his steed.</poem>\n{{right|''Scott'', Cadyow Castle.}}}}\n'''2.''' To exhibit equestrian or other feats of tumbling or leaping.\n{{smaller block|For he could play, and daunce, and ''vaute'', and spring.\n{{right|''Spenser'', Mother Hub. Tale, l. 693.}}}}\n'''3.''' In the ''manège'', to curvet. ='''Syn.''' ''Leap, Jump,'' etc. See ''skip''<sup>1</sup>.\n\n'''II.''' ''trans.'' To leap over; especially, to leap over by aid of the hands or a pole: as, to ''vault'' a fence.\n\n'''vaultage†''' (vâl′tāj), ''n.'' [< ''vault''<sup>1</sup> + ''-age''.] Vaulted work; an arched cellar; a vaulted room.\n{{smaller block|Womby ''vaultages'' of France. ''Shak.'', Hen. V., ii. 4. 124.}}\n{{smaller block|<poem>''D. Now.'' What is this ''vaultage'' for, is fashion’d here?\n''Gresh.'' Stowage for merchants ware, and strangers goods.</poem>\n{{right|''Heywood'', If you Know not me (Works, 1874, I. 290).}}}}\n\n'''vaulted''' (vâl′ted), ''a.'' [< ''vault''<sup>1</sup> + ''-ed''<sup>2</sup>.] '''1.''' Arched; concave: as, a ''vaulted'' roof.\n{{smaller block|<poem>''Vauted'' all within, like to the Skye\nIn which the Gods doe dwell eternally.</poem>\n{{right|''Spenser'', F. Q., III. iv. 43.}}}}\n{{smaller block|<poem>A present deity, they shout around;\nA present deity, the ''vaulted'' roofs rebound.</poem>\n{{right|''Dryden'', Alexander’s Feast, l. 36.}}}}\n'''2.''' Covered with an arch or vault.\n{{smaller block|Undre theise Stages ben Stables wel y ''vowted'' for the Emperours Hors; and alle the Pileres ben of Marbelle.\n{{right|''Mandeville'', Travels, p. 17.}}}}\n{{smaller block|First a loggia, then a plain ''vaulted'' building.\n{{right|''E. A. Freeman'', Venice, p. 65.}}}}\n'''3.''' Provided with vaults or underground passages.",
+   "c3s1": "¶\n{{smaller block|The said citie of Alexandria is an old thing decayed or ruinated, . . . being all ''vauted'' vnderneath for prouision of fresh water.\n{{right|''Hakluyt’s Voyages'', II. 281.}}}}\n'''4.''' In ''bot.'', arched like the roof of the mouth, as the upper lip of many ringent flowers.—'''5.''' In ''zoöl.'', notably arched or convex, as a shell, or the beak of a bird; fornicated.\n\n'''vaulter''' (vâl′tėr), ''n.'' [< ''vault''<sup>2</sup> + ''-er''<sup>1</sup>.] One who or that which vaults; a leaper; a tumbler; a dancer.\n{{smaller block|The most celebrated Master, Mr. Simpson the famous ''Vaulter''.\n{{right|Quoted in ''Ashton’s'' Social Life in Reign of [Queen Anne, I. 255.}}}}\n{{smaller block|<poem>Green little ''vaulter'' in the sunny grass.</poem>\n{{right|''Leigh Hunt'', To the Grasshopper and the Cricket.}}}}",
+   "c3s2": "¶\n'''vaulting<sup>1</sup>''' (vâl′ting), ''n.'' [Verbal n. of ''vault<sup>1</sup>'', ''v.''] In ''arch.'', vaulted work; vaults collectively.\n[[FIGURE]]\n{{c|{{smaller|Vaulting.—Perspective of Vaulting as applied in a double curved apsidal aisle, Church of Notre Dame, Paris.}}}}\n—'''Cylindrical''' or '''semi-cylindrical vaulting.''' See ''cylindric.''—'''Fan-tracery vaulting.''' See ''fan-tracery.''—",
+   "c3s3": "¶\n'''Groined vaulting.''' See ''vault''<sup>1</sup>.\n\n'''vaulting'''<sup>2</sup> (vâl′ting), ''n.'' [Verbal n. of ''vault''<sup>2</sup>, ''v.''] The art or practice of a vaulter.\n{{smaller block|''Vaulting'' on the High Rope, and Tumbling on the Stage.\n{{right|Quoted in ''Ashton’s'' Social Life in Reign of Queen [Anne, I. 251.}}\nStilt-''vaulting'' is dying out.\n{{right|''Mayhew'', London Labour and London Poor, III. 151}}}}",
+   "c3s4": "¶\n'''vaulting-capital''' (vâl′ting-kap″i-tạl), ''n.'' In ''medieval arch.'', the capital of a shaft, usually an engaged shaft, which receives a rib of a vault. See ''vaulting-shaft.''\n\n'''vaulting-horse''' (vâl′ting-hôrs), ''n.'' A wooden horse in a gymnasium for practice in vaulting.\n\n'''vaulting-house†''' (vâl′ting-hous), ''n.'' A brothel. ''Massinger'', Unnatural Combat, iv. 2. [Low.]\n\n'''vaulting-pillar''' (vâl′ting-pil″ä̤r), ''n.'' Same as ''vaulting-shaft.''\n\n'''vaulting-shaft''' (vâl′ting-shȧft), ''n.'' In ''arch.'', a shaft, almost invariably engaged, rising from a\n[[FIGURE]]\n{{c|{{smaller|Vaulting-shaft, from the nave of Notre Dame, Paris.}}}}\nfloor or from the capital of a pier below, to receive the spring of a rib of a roof-vault; also, a shorter shaft engaged in the wall and rising from a corbel, from the top of which shaft the rib of the vault springs. {{smaller|The second form is lacking in architectural logic and propriety, which demand that if the rib is not frankly acknowledged to spring from the wall, and be supported by it, its support should be carried visibly down to the ground.}}\n\n'''vaulting-tile''' (vâl′ting-tīl), ''n.'' A special type of brick or tile, shaped according to the work in hand and",
+   "c3s5": "made hollow in various forms, often perforated in compartments: used in vaulting, etc., to"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0511 c1f1.png",
+   "c2f1": "century v08 p0511 c2f1.png",
+   "c3f1": "century v08 p0511 c3f1.png",
+   "c3f2": "century v08 p0511 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     877,
+     189,
+     1467,
+     855
+    ],
+    "caption": [
+     896,
+     865,
+     1448,
+     890
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     884,
+     190,
+     1531,
+     855
+    ]
+   },
+   {
+    "box": [
+     106,
+     1449,
+     798,
+     1869
+    ],
+    "caption": [
+     118,
+     1877,
+     774,
+     1919
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     99,
+     1463,
+     818,
+     1874
+    ]
+   },
+   {
+    "box": [
+     1641,
+     659,
+     2228,
+     1668
+    ],
+    "caption": [
+     1584,
+     1672,
+     2260,
+     1716
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1609,
+     659,
+     2281,
+     1684
+    ]
+   },
+   {
+    "box": [
+     2044,
+     2438,
+     2244,
+     3041
+    ],
+    "caption": [
+     1944,
+     3055,
+     2282,
+     3097
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     2029,
+     2438,
+     2250,
+     3056
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 5,
+    "input_tokens": 20,
+    "output_tokens": 345,
+    "cache_creation_input_tokens": 8757,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 12,
+    "input_tokens": 9682,
+    "output_tokens": 9087,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f2": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|Vaudois|6707|vaulting-tile}}</noinclude>{{nop}}'''II.''' ''a.'' Pertaining to the canton of Vaud or to its inhabitants.\n\n'''Vaudois<sup>2</sup>''' (vō-dwo′), ''n.'' and ''a.'' [F.: see ''Waldenses.''] '''I.''' ''n. sing.'' and ''pl.'' A member or the members of the religious body generally known as Waldenses. See ''Waldensian.''\n\n'''II.''' ''a.'' Pertaining to the Vaudois or Waldenses.\n\n'''vaudoo, vaudou, vaudoux.''' See ''voodoo.''\n\n'''vault<sup>1</sup>''' (vâlt), ''n.'' [With inserted ''l'' (as also in ''fault''), in imitation of the orig. form; early mod. E. ''vaut, vaute, vawte,'' also ''vout,'' < ME. ''vawte, voute, vowte, vowt,'' < OF. ''voute, volte,'' later ''voulte,'' F. ''voûte'' (= Pr. ''volta, vouta, vota'' = It. ''volta''), a vault, arch, vaulted roof, < ''volt, vout,'' bowed, arched, < L. ''volūtus'' (> *''volŭtus,'' > *''voltus''), pp. of ''volvere,'' turn around, roll: see ''volve, volute.''] '''1.''' An arched roof; a concave roof or roof-like covering; the canopy of heaven.\n{{smaller block|<poem>O, you are men of stones:\nHad I your tongues and eyes, I ’d use them so\nThat heaven’s ''vault'' should crack.</poem>\n{{right|''Shak.'', Lear, v. 3. 259.}}\nA very lofty ''vault'' . . . is made over his [Antenor’s] monument. {{right|''Coryat'', Crudities, I. 154.}}\n<poem>Nor bird would sing, nor lamb would bleat,\nNor any cloud would cross the ''vault''.</poem>\n{{right|''Tennyson'', Mariana in the South.}}}}\n\n'''2.''' In ''arch.'', a continuous arch, or an arched roof, so constructed that the stones, bricks, or other materials of which it is composed mutually sustain themselves in their places upon their abutments, and that their joints radiate from some central point or line (or points or lines).\n{{smaller block|Vaults are of various kinds, cylindrical, elliptical, single, double, cross, diagonal, pointed, etc. When a vault of which the curve is an arc of a circle is of greater height than half its span, it is said to be ''surmounted'', and when of less height, ''surbased''. A ''rampant vault'' is a vault which springs from planes not parallel to the horizon. One vault placed above or inclosing another constitutes a ''double vault''. A ''conical vault'' is formed as it were upon part of the surface of a cone, and a ''spherical vault'' upon part of the surface of a sphere. A vault is ''simple'' when it is formed\nupon the surface of some regular solid, around one axis, and ''compound'' when compounded of two or more simple vaults or parts of such vaults. (Compare ''Roman'' and ''medieval architecture'', under ''Roman'' and ''medieval''.) A ''groined vault'' is a compound vault formed by the intersection of two or more vaults crossing each other. See ''groin''<sup>1</sup>, ''groined'', and cuts under ''aisle'', ''crypt'', and ''nave''.}}\n{{smaller block|The Citie standeth vpon great arches or ''vawtes'', like vnto Churches.\n{{right|''Hakluyt’s Voyages'', II. 284.}}}}\n\n[[File:century v08 p0511 c1f1.png|center|324px]]\n{{c|{{smaller|1, barrel-vault; 2, intersecting vault; 3, domed vault; 4, stilted vault.}}}}\n\n'''3.''' An arched apartment or compartment; also, a chamber or compartment, even if not arched or vaulted; especially, a subterranean chamber used for certain specific purposes. {{smaller|(''a'') A place of interment.}}\n{{smaller block|Ther is a ''Vowt'' undre the Chirche, where that Cristene men duellen also; and thei han many gode Vynes.\n{{right|''Mandeville'', Travels, p. 124.}}}}\n{{smaller block|The deep, damp ''vault'', the darkness, and the worm.\n{{right|''Young'', Night Thoughts, iv. 11.}}}}\n{{smaller|(''b'') A place of confinement; a prison.}}\n{{smaller block|There are certaine ''vauts'' or dungeons, which goe downe verie deepe vnder those Pyramides.\n{{right|''Hakluyt’s Voyages'', II. 281.}}}}\n{{smaller|(''c'') A place for storing articles; a cellar: as, wine-''vaults''; the name is hence frequently given, in the plural, to a place where beer and wine are sold, whether subterranean or not.}}\n{{smaller block|<poem>When our ''vaults'' have wept\nWith drunken spilth of wine.</poem>\n{{right|''Shak.'', T. of A., ii. 2. 169.}}}}\n{{smaller block|They have ''vaults'' or cellars under most of their houses.\n{{right|''Coryat'', Crudities, I. 59.}}}}\n{{smaller|(''d'') A privy.}}\n\n'''4.''' In ''anat.'', a part forming a dome-like roof to a cavity.—{{smaller|'''Annular vault.''' See ''annular''.—'''Back of a vault.''' See ''back of an arch'', under ''back''<sup>1</sup>.—'''Counter-vault''', an inverted vault; a vault of which the crown is constructed downward, to resist pressure from below.—'''Double vault''', in ''arch.'', a superposition of two complete vaults, built one over the other with such an interval between as may be necessary to conform to the requirements of proportion of the interior and the exterior: a device employed in the construction of a dome or domical roof when it is desired that the appearance of a dome should be preserved}} both externally and internally, but the general proportions of the building require the dome to be of greater\nexterior altitude than would be harmonious for the interior.—'''Groined vault''', as distinguished from ''barrel-'' or ''cradle-vault'', a vault formed by two or more intersecting vaults, every two of which form a groin at the intersection. If the crowns of the intersecting vaults are on the same level, all the groins will meet in a common point, {{smaller|which is called the apex or summit, and in ribbed vaulting is usually decorated with a boss. See cuts under ''crypt'' and ''groin''.—'''Lierne vault.''' See ''lierne''.—'''Palatal''' or '''palatine vault''', the roof of the mouth. See cut under ''palate''.—'''Rampant vault.''' See def. 2.—'''Rear vault.''' See ''rear''<sup>3</sup>.—'''Reins of a vault.''' See ''reins''.—'''Vault of the cranium''', the calvaria or skullcap; that part of a skull above the orbits, auditory canals, and superior curved line of the occipital bone.}}\n\n[[File:century v08 p0511 c2f1.png|center|278px]]\n{{c|{{smaller|Double Vault.—Section of dome of St. Peter’s, Rome.}}}}\n\n'''vault<sup>1</sup>''' (vâlt), ''v. t.'' [< ME. ''vouten'', < OF. ''vouter''; from the noun.] '''1.''' To form with a vault or arched roof; give the shape or character of an arch or a vault to; arch: as, to ''vault'' a passage to a court.\n{{smaller block|Some few stony bridges I saw also pretily ''vaulted'' with an arch or two.\n{{right|''Coryat'', Crudities, I. 88.}}}}\n'''2.''' To cover with or as with an arch or vault.\n{{smaller block|<poem>Fiery darts in flaming volleys flew,\nAnd flying ''vaulted'' either host with fire.</poem>\n{{right|''Milton'', P. L., vi. 214.}}}}\n\n'''vault<sup>2</sup>''' (vâlt), ''n.'' [< F. ''volte'', < It. ''volta'', a turn, leap, vault, < L. ''volūta'' (> *''volŭta'', > *''volta''), fem. of ''volutus'', pp. of ''volvere'', turn: see ''volve''. Cf. ''vault''<sup>1</sup>.] A leap or spring. {{smaller|Especially—(''a'') A leap made by means of a pole, or by resting the hand or hands on something. (''b'') The leap of a horse; a curvet.}}\n\n'''vault<sup>2</sup>''' (vâlt), ''v.'' [Early mod. E. also ''vaute''; < ''vault''<sup>2</sup>, ''n.''] '''I.''' ''intrans.'' '''1.''' To leap; bound; spring, especially by having something to rest the hands on, as in mounting a horse or clearing a fence.\n{{smaller block|''Vaulting'' ambition, which o’erleaps itself.\n{{right|''Shak.'', Macbeth, i. 7. 27.}}\nLeaning on his lance, he ''vaulted'' on a tree.\n{{right|''Dryden'', tr. of Ovid’s Metamorph., viii. 134.}} <poem>''Vaults'' every warrior to his steed.</poem>\n{{right|''Scott'', Cadyow Castle.}}}}\n'''2.''' To exhibit equestrian or other feats of tumbling or leaping.\n{{smaller block|For he could play, and daunce, and ''vaute'', and spring.\n{{right|''Spenser'', Mother Hub. Tale, l. 693.}}}}\n'''3.''' In the ''manège'', to curvet. ='''Syn.''' ''Leap, Jump,'' etc. See ''skip''<sup>1</sup>.\n\n'''II.''' ''trans.'' To leap over; especially, to leap over by aid of the hands or a pole: as, to ''vault'' a fence.\n\n'''vaultage†''' (vâl′tāj), ''n.'' [< ''vault''<sup>1</sup> + ''-age''.] Vaulted work; an arched cellar; a vaulted room.\n{{smaller block|Womby ''vaultages'' of France. ''Shak.'', Hen. V., ii. 4. 124.}}\n{{smaller block|<poem>''D. Now.'' What is this ''vaultage'' for, is fashion’d here?\n''Gresh.'' Stowage for merchants ware, and strangers goods.</poem>\n{{right|''Heywood'', If you Know not me (Works, 1874, I. 290).}}}}\n\n'''vaulted''' (vâl′ted), ''a.'' [< ''vault''<sup>1</sup> + ''-ed''<sup>2</sup>.] '''1.''' Arched; concave: as, a ''vaulted'' roof.\n{{smaller block|<poem>''Vauted'' all within, like to the Skye\nIn which the Gods doe dwell eternally.</poem>\n{{right|''Spenser'', F. Q., III. iv. 43.}}}}\n{{smaller block|<poem>A present deity, they shout around;\nA present deity, the ''vaulted'' roofs rebound.</poem>\n{{right|''Dryden'', Alexander’s Feast, l. 36.}}}}\n'''2.''' Covered with an arch or vault.\n{{smaller block|Undre theise Stages ben Stables wel y ''vowted'' for the Emperours Hors; and alle the Pileres ben of Marbelle.\n{{right|''Mandeville'', Travels, p. 17.}}}}\n{{smaller block|First a loggia, then a plain ''vaulted'' building.\n{{right|''E. A. Freeman'', Venice, p. 65.}}}}\n'''3.''' Provided with vaults or underground passages.\n\n{{smaller block|The said citie of Alexandria is an old thing decayed or ruinated, . . . being all ''vauted'' vnderneath for prouision of fresh water.\n{{right|''Hakluyt’s Voyages'', II. 281.}}}}\n'''4.''' In ''bot.'', arched like the roof of the mouth, as the upper lip of many ringent flowers.—'''5.''' In ''zoöl.'', notably arched or convex, as a shell, or the beak of a bird; fornicated.\n\n'''vaulter''' (vâl′tėr), ''n.'' [< ''vault''<sup>2</sup> + ''-er''<sup>1</sup>.] One who or that which vaults; a leaper; a tumbler; a dancer.\n{{smaller block|The most celebrated Master, Mr. Simpson the famous ''Vaulter''.\n{{right|Quoted in ''Ashton’s'' Social Life in Reign of [Queen Anne, I. 255.}}}}\n{{smaller block|<poem>Green little ''vaulter'' in the sunny grass.</poem>\n{{right|''Leigh Hunt'', To the Grasshopper and the Cricket.}}}}\n\n'''vaulting<sup>1</sup>''' (vâl′ting), ''n.'' [Verbal n. of ''vault<sup>1</sup>'', ''v.''] In ''arch.'', vaulted work; vaults collectively.\n—'''Cylindrical''' or '''semi-cylindrical vaulting.''' See ''cylindric.''—'''Fan-tracery vaulting.''' See ''fan-tracery.''—\n\n[[File:century v08 p0511 c3f1.png|center|277px]]\n{{c|{{smaller|Vaulting.—Perspective of Vaulting as applied in a double curved apsidal aisle, Church of Notre Dame, Paris.}}}}\n\n'''Groined vaulting.''' See ''vault''<sup>1</sup>.\n\n'''vaulting'''<sup>2</sup> (vâl′ting), ''n.'' [Verbal n. of ''vault''<sup>2</sup>, ''v.''] The art or practice of a vaulter.\n{{smaller block|''Vaulting'' on the High Rope, and Tumbling on the Stage.\n{{right|Quoted in ''Ashton’s'' Social Life in Reign of Queen [Anne, I. 251.}}\nStilt-''vaulting'' is dying out.\n{{right|''Mayhew'', London Labour and London Poor, III. 151}}}}\n\n'''vaulting-capital''' (vâl′ting-kap″i-tạl), ''n.'' In ''medieval arch.'', the capital of a shaft, usually an engaged shaft, which receives a rib of a vault. See ''vaulting-shaft.''\n\n'''vaulting-horse''' (vâl′ting-hôrs), ''n.'' A wooden horse in a gymnasium for practice in vaulting.\n\n'''vaulting-house†''' (vâl′ting-hous), ''n.'' A brothel. ''Massinger'', Unnatural Combat, iv. 2. [Low.]\n\n'''vaulting-pillar''' (vâl′ting-pil″ä̤r), ''n.'' Same as ''vaulting-shaft.''\n\n'''vaulting-shaft''' (vâl′ting-shȧft), ''n.'' In ''arch.'', a shaft, almost invariably engaged, rising from a {{img float|file=century v08 p0511 c3f2.png|width=101px|align=right|cap={{smaller|Vaulting-shaft, from the nave of Notre Dame, Paris.}}}} floor or from the capital of a pier below, to receive the spring of a rib of a roof-vault; also, a shorter shaft engaged in the wall and rising from a corbel, from the top of which shaft the rib of the vault springs. {{smaller|The second form is lacking in architectural logic and propriety, which demand that if the rib is not frankly acknowledged to spring from the wall, and be supported by it, its support should be carried visibly down to the ground.}}\n\n'''vaulting-tile''' (vâl′ting-tīl), ''n.'' A special type of brick or tile, shaped according to the work in hand and made hollow in various forms, often perforated in compartments: used in vaulting, etc., to<noinclude><references/></noinclude>"
+}

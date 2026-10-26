@@ -1,0 +1,255 @@
+{
+ "volume": 8,
+ "page_number": 554,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n553.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n553.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-23",
+  "fetched_by": "alaemmle",
+  "angle": -0.25,
+  "column_width": 1456,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     131,
+     5,
+     2442,
+     149
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     131,
+     149,
+     852,
+     1241
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     135,
+     207,
+     544,
+     440
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     131,
+     1241,
+     852,
+     2316
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     131,
+     2316,
+     852,
+     3236
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     852,
+     149,
+     1593,
+     1235
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     855,
+     149,
+     1573,
+     1196
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     852,
+     1235,
+     1593,
+     2286
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     852,
+     2286,
+     1593,
+     3236
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1593,
+     149,
+     2442,
+     1213
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1593,
+     1213,
+     2442,
+     2099
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1593,
+     2099,
+     2442,
+     3190
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1593,
+     3190,
+     2442,
+     3236
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|victoriatus|6750|vicugna}}",
+   "c1s1": "¶\n'''victoriatus''' (vik-tō-ri-ā′tus), ''n.'' [L., < ''Victoria'', Victory, a figure of Victory crowning a\n[[FIGURE]]\n{{c|{{smaller|Obverse. Reverse.<br />Victoriatus — British Museum.<br />(Size of the original.)}}}}\ntrophy, forming the reverse type of the coin.] A silver coin of the Roman republic, first issued in 228 {{sc|b. c.}}, and in value three fourths of the denarius. Compare ''quinarius''.\n\n'''victorine''' (vik-tō-rēn′), ''n.'' [Said to be so called from F. ''Victorine'', a woman’s name, a fem. form of ''Victor'', < L. ''victor'', a conqueror: see ''victor''.] '''1.''' A fur tippet having long narrow ends, worn by women.—'''2.''' A kind of peach.\n\n'''victorious''' (vik-tō′ri-us), ''a.'' [< F. ''victorieux'' = Sp. Pg. ''victorioso'' = It. ''vittorioso'', < L. ''victoriosus'', full of victories (prop. applied, according to etym., to one frequently successful), < ''victoria'', victory: see ''victory''.] '''1.''' Conquering; triumphant; having conquered in any conquest or in battle; having overcome an antagonist or enemy.\n{{smaller block|<poem>The great Son return’d\n''Victorious'' with his saints. ''Milton'', P. L., vii. 136.</poem>\nThe Baharnagash, though ''victorious'', saw with some concern that he could not avoid the king, whose courage and capacity, both as a soldier and a general, left him everything to fear for his success.\n{{right|''Bruce'', Source of the Nile, II. 208.}}\n''Victorious'', wreath on head and spoils in hand.\n{{right|''Browning'', Ring and Book, I. 120.}}\nA body of ''victorious'' invaders may raise some, or the whole, of its supplies from the conquered country.}}",
+   "c1s2": "{{smaller block|{{right|''H. Spencer'', Prin. of Sociol., § 517.}}}}\n\n'''2.''' Of or pertaining to victory; characterized or signalized by victory.\n\n{{smaller block|<poem>Sudden these honours shall be snatch’d away,\nAnd cursed forever this ''victorious'' day.</poem>\n{{right|''Pope'', R. of the L., iii. 104.}}}}\n\n'''3.''' Emblematic of conquest; denoting victory.\n\n{{smaller block|Now are our brows bound with ''victorious'' wreaths.\n{{right|''Shak.'', Rich. III., i. 1. 5.}}}}\n\n'''victoriously''' (vik-tō′ri-us-li), ''adv.'' In a victorious manner; with defeat of an enemy or antagonist; triumphantly.\n\n{{smaller block|Grace will carry us . . . ''victoriously'' through all difficulties.\n{{right|''Hammond.''}}}}\n\n'''victoriousness''' (vik-tō′ri-us-nes), ''n.'' The state or character of being victorious.\n\n'''victory''' (vik′tō-ri), ''n.''; pl. ''victories'' (-riz). [< ME. ''victorie'', < OF. ''victorie'', ''victoire'', F. ''victoire'' = Sp. Pg. ''victoria'' = It. ''vittoria'', < L. ''victoria'', victory, < ''victor'', a conqueror, < ''vincere'', pp. ''victus'', conquer: see ''victor''.] '''1.''' The defeat or overcoming of an antagonist in a contest or an enemy in battle; triumph.\n\n{{smaller block|We also . . . [shall] assemble alle oure peple and ride vpon the saisnes, and yeve hem bataile in the name of god, that he graunte vs the ''victorie''. ''Merlin'' (E. E. T. S.), ii. 235.}}\n\n{{smaller block|David Deans believed this, and many other such ghostly encounters and ''victories'', on the faith of the ansars, or auxiliaries of the prophets. ''Scott'', Heart of Mid-Lothian, xv.}}\n\n{{smaller block|Knowing that they led unconquered veterans against a rude militia, they have broken every rule of warfare, and plucked ''victory'' out of extreme peril.\n{{right|''F. Harrison'', Oliver Cromwell, ix.}}}}\n\n{{smaller block|The alloy}}",
+   "c1s3": "{{smaller block|Of blood but makes the bliss of ''victory'' brighter.\n{{right|''R. W. Gilder'', The Celestial Passion, Cost.}}}}\n'''2.''' The advantage or superiority gained in any contest, as over passions, or over temptations, or in any moral or spiritual struggle.\n{{smaller block|Thanks be to God, which giveth us the ''victory'' through our Lord Jesus Christ.\n{{right|1 Cor. xv. 57.}}}}\n{{smaller block|<poem>Peace hath her ''victories''\nNo less renown’d than War.</poem>{{right|''Milton'', Sonnets, xi.}}}}\n'''3.''' A female deity of the Greeks and Romans, the personification of success in battle or in any active struggle. {{smaller|She is represented as a winged woman, often bearing as attributes a palm-branch and laurel crown, or a trumpet. The subject is a very frequent one in ancient art, from some of the noblest of antique sculpture down to vase-paintings and figurines. Among the most notable examples are the reliefs from the balustrade of the temple of Wingless Victory at Athens, one of which is the well-known figure entitled “Victory Loosing her Sandal,” and the magnificent statue called the “Victory of Samothrace,” a Greek original of the fourth century {{sc|b. c.}}, attributed to the school of Scopas, found in the island of Samothrace, where it stood on a pedestal representing the prow of a trireme, and now one of the chief ornaments of the Louvre Museum. See ''Nike'', cut in next column, and cut under ''Peloponnesian''.}}\n{{smaller block|I observed some ancient reliefs at this village [Ertesy], particularly three ''victories'', holding three festoons under three heads, on a marble coffin, with imperfect Greek inscriptions under them.\n{{right|''Pococke'', Description of the East, II. i. 170.}}}}\n\n'''Cadmean, moral, Pyrrhic victory.''' See the adjectives.",
+   "c2s1": "[[FIGURE]]\n{{c|{{smaller|The Victory of Samothrace, in the Louvre Museum.}}}}",
+   "c2s2": "¶\n'''victress''' (vik′tres), ''n.'' [< ''victor'' + ''-ess.'' Cf. ''victrice.''] A woman who conquers; a victrix.\n{{smaller block|She shall be sole ''victress'', Cæsar’s Cæsar.\n{{right|''Shak.'', Rich. III., iv. 4. 336.}}}}\n\n'''victrice†''' (vik′tris), ''n.'' [< OF. ''victrice'' = It. ''vittrice'', < L. ''victrix'', fem. of ''victor'', victor: see ''victor.''] A victress.\n{{smaller block|<poem>He knew certes,\nThat you, ''victrice''\nOf all ladies,\nShould have the prize\nOf worthiness.</poem>\n{{right|''Udall'' (Arber’s Eng. Garner, II. 59).}}\nWith boughs of palm a crowned ''victrice'' stand!\n{{right|''B. Jonson'', Underwoods, cii.}}}}\n\n'''victrix''' (vik′triks), ''n.'' [< L. ''victrix'', fem. of ''victor'', victor: see ''victor.''] A victress. ''Charlotte Brontë'', Villette, xxxii. [Rare.]\n\n'''victual''' (vit′l), ''n.'' [Early mod. E. also ''vittle'', earlier ''vytaylle'' (the spelling with ''c'', ''victual'', as in F. ''victuaille'', being a modern sophistication imitating the L. original, the pronunciation remaining that of ''vittle''); < ME. ''vitaille'', ''vitayle'', ''vitaile'', also ''vitailes'', ''vytaylles'', < OF. ''vitaille'', ''vytaile'', later (with inserted ''c'') ''victuaille'', ''victuailles'', ''vytailles'' = Sp. ''vitualla'' = Pg. ''vitualha'' = It. ''vettovaglia'', < LL. ''victualia'', provisions, nourishment, neut. pl. of ''victualis'', belonging to nourishment, < ''victus'', food, < ''vivere'', pp. ''victus'', live: see ''vivid.''] '''1.''' Provision of food; meat; provisions: generally used in the plural, and signifying (commonly) food for human beings, prepared for eating.",
+   "c2s3": "¶\n{{smaller block|But alleweyes Men fynden gode Innes, and alle that hem nedethe of ''Vytaylle.'' {{right|''Mandeville'', Travels, p. 34.}}}}\n{{smaller block|<poem>Ther as bagges ben and fat ''vitaile'',\nTher wol they gon.</poem>{{right|''Chaucer'', Former Age, l. 38.}}}}\n{{smaller block|Physicions ben of opynyon that one ought to begyn the meate of ''vitayle'' (uiandes liquides) to thende that by that means to gyve direction to the remenant. {{right|''G. du Guez'', quoted in Babees Book (E. E. T. S.), p. 107, [Index.}}}}\n{{smaller block|<poem>Look to those eating rogues that bawl for ''victuals'',\nAnd stop their throats a day or two.</poem>{{right|''Fletcher'', Bonduca, i. 2.}}}}\n{{smaller block|<poem>Why then we will to the greenwood gang,\nFor we have no ''vittles'' to dine.</poem>{{right|''Robin Hood and the Stranger'' (Child’s Ballads, V. 405).}}}}\n{{smaller block|My pig likes a dinner as well as a breakfast. No meal-time, and no sort of ''victuals'', ever seems to come amiss to my pig. {{right|''Hawthorne'', Seven Gables, xix.}}}}\n{{smaller block|<poem>There came a fair-hair’d youth, that in his hand\nBare ''victual'' for the mowers.</poem>{{right|''Tennyson'', Geraint and Enid.}}}}\n'''2.''' Any sort of grain or corn. [Scotch.]—'''Broken victuals.''' {{smaller|See ''broken meat'', under ''broken.''}}\n\n'''victual''' (vit′l), ''v.''; pret. and pp. ''victualed, victualled'', ppr. ''victualing, victualling''. [With spelling altered as in the noun; < ME. ''vitailen, vitaillen'', < ''vitaille'', food: see ''victual'', ''n.''] '''I.''' ''trans.'' To supply or store with victuals or provisions for subsistence; provide with stores of food.\n{{smaller block|<poem>Thy loving voyage\nIs but for two months ''victuall’d.''</poem>{{right|''Shak.'', As you Like it, v. 4. 198.}}}}",
+   "c3s1": "{{smaller block|{{right|''Hakluyt’s Voyages'', I. 243.}}}}\n\n'''II.''' ''intrans.'' To feed; obtain stores or provisions; provision; obtain or eat victuals.\n\n{{smaller block|And, ''victualling'' again, with brave and man-like minds To seaward cast their eyes, and pray for happy winds.\n{{right|''Drayton'', Polyolbion, ii. 427.}}}}\n\n{{smaller block|And soon we found Peggy and Smiler [the horses] in company, . . . and ''victualling'' where the grass was good.\n{{right|''R. D. Blackmore'', Lorna Doone, iii.}}}}\n\n'''victualage''' (vit′l-āj), ''n.'' [< ''victual'' + ''-age''.] Food; provisions; victuals. [Rare.]\n\n{{smaller block|I could not proceed to the school-room without passing some of their doors, and running the risk of being surprised with my cargo of ''victualage''; so I stood still at this end, which, being windowless, was dark.\n{{right|''Charlotte Brontë'', Jane Eyre, xvii.}}}}\n\n'''victualer, victualler''' (vit′l-ėr), ''n.'' [Formerly also ''vitler''; < ME. ''vitteller'', ''vitailler'' (see ''victual'') + ''-er''<sup>1</sup>.] '''1.''' One who furnishes victuals or provisions.\n\n{{smaller block|That no maner ''vitteller'' pay eny thynge for the occupacion of the kynges Borde, to eny maner offices, for ther vytelle ther to be sold, that ys to seye withyn the seid cite.\n{{right|''English Gilds'' (E. E. T. S.), p. 408.}}}}\n\n{{smaller block|But pray, what connection have you with the suttlers? You are no ''victualler'' here, are you?\n{{right|''Sheridan'' (?), The Camp, i. 1.}}}}\n\n'''2.''' One who keeps a house of entertainment; a tavern-keeper.\n\n{{smaller block|''Fal.'' Marry, there is another indictment upon thee, for suffering flesh to be eaten in thy house, contrary to the law. . . .\n''Host.'' All ''victuallers'' do so; what’s a joint of mutton or two in a whole Lent?\n{{right|''Shak.'', 2 Hen. IV., ii. 4. 375.}}}}\n\n{{smaller block|He scornes to walke in Paules without his bootes,}}",
+   "c3s2": "{{smaller block|And scores his diet on the ''vitlers'' post.\n{{right|''Letting of Humours Blood in the Head-Vaine'' (1600).}}\n{{right|[(''Halliwell.'')}}}}\n'''3.''' A ship employed to carry provisions for other ships, or for supplying troops at a distance; a store-ship. ''Admiral Smyth.''—'''4.''' A corn-factor; one who deals in grain. ''Jamieson.'' [Scotch.]—{{smaller|'''Licensed victualler,''' in Great Britain, an innkeeper or keeper of a public house who is licensed to sell spirits, wine, beer, etc.}}\n\n'''victualing, victualling''' (vit′l-ing), ''n.'' [Verbal n. of ''victual'', ''v.''] The furnishing of victuals or provisions.\n{{smaller block|Our ''victualling'' arrangements have now been satisfactorily settled, and everybody has been put on an allowance of water. ''Lady Brassey'', Voyage of Sunbeam, I. xii.}}\n\n'''victualing-bill''' (vit′l-ing-bil), ''n.'' A custom-house document warranting the shipment of such bonded stores as the master of an outward-bound merchantman may require for his intended voyage.\n\n'''victualing-house''' (vit′l-ing-hous), ''n.'' A house where provision is made for strangers to eat; an eating-house.\n{{smaller block|They chose that the region of Pocchorrosa to inhabyte . . . that they myght bee baytinge places and ''vytailynge houses'' for suche as shulde iorney towarde the southe.\n{{right|''Peter Martyr'' (tr. in Eden’s First Books on America,}}\n{{right|[ed. Arber, p. 148).}}}}",
+   "c3s3": "¶\n'''victualing-note''' (vit′l-ing-nōt), ''n.'' An order given to a seaman in the British navy by the paymaster, when he joins a ship, which is handed to the ship’s steward as his authority for victualing the man. ''Simmonds.''\n\n'''victualing-office''' (vit′l-ing-of″is), ''n.'' An office for supplying provisions and stores to the navy. [Eng.]\n{{smaller block|We laugh at the ridiculous management of the Navy-Board, pry into the Rogueries of the ''Victualling-Office,'' and tell the Names of those Clerks who were ten years ago bare-foot, and are now Twenty-Thousand-Pound Men.\n{{right|''C. Shadwell,'' Humours of the Navy. i. 1.}}}}\n\n'''victualing-ship''' (vit′l-ing-ship), ''n.'' A ship which conveys provisions to the navy; a victualer.\n\n'''victualing-yard''' (vit′l-ing-yärd), ''n.'' A yard, generally contiguous to a dockyard, containing magazines where provisions and other like stores for the navy are deposited, and where war-vessels and transports are provisioned. (''Imp. Dict.'') In the United States all navy-yards are victualing-yards.\n\n'''victualless''' (vit′l-les), ''a.'' [< ''victual'' + ''-less.''] Destitute of food. ''Carlyle,'' in Froude, First Forty Years, II.\n\n'''vicugna, vicuña''' (vi-kö′nyä̤), ''n.'' [Also ''vigonia'' and ''viguna''; = F. ''vigogne,'' formerly ''vicugne,'' < Sp. ''vicuña, vicugna,'' < Peruv. ''vicuna,'' Mex. ''vicugne,'' the vicugna.] A South American mammal of the camel tribe, ''Auchenia vicugna'' or ''vicuna,'' related to the llama, guanaco, and alpaca. {{smaller|It is found wild in elevated regions of Bolivia and Chili, and is much hunted for its wool and flesh. It is one of the smaller kinds, standing about 30 inches at the withers,}}",
+   "c3s4": "and of variegated coloration. It has as yet resisted all attempts to reduce it to domestication. The short soft"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0554 c1f1.png",
+   "c2f1": "century v08 p0554 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     147,
+     219,
+     532,
+     428
+    ],
+    "caption": [
+     183,
+     433,
+     493,
+     502
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     137,
+     217,
+     491,
+     457
+    ]
+   },
+   {
+    "box": [
+     867,
+     143,
+     1561,
+     1184
+    ],
+    "caption": [
+     958,
+     1196,
+     1495,
+     1220
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     869,
+     144,
+     1578,
+     1187
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 3,
+    "input_tokens": 12,
+    "output_tokens": 176,
+    "cache_creation_input_tokens": 5460,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 10102,
+    "output_tokens": 8094,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|victoriatus|6750|vicugna}}</noinclude>{{nop}}'''victoriatus''' (vik-tō-ri-ā′tus), ''n.'' [L., < ''Victoria'', Victory, a figure of Victory crowning a\ntrophy, forming the reverse type of the coin.] A silver coin of the Roman republic, first issued in 228 {{sc|b. c.}}, and in value three fourths of the denarius. Compare ''quinarius''.\n\n[[File:century v08 p0554 c1f1.png|center|101px]]\n{{c|{{smaller|Obverse. Reverse.<br />Victoriatus — British Museum.<br />(Size of the original.)}}}}\n\n'''victorine''' (vik-tō-rēn′), ''n.'' [Said to be so called from F. ''Victorine'', a woman’s name, a fem. form of ''Victor'', < L. ''victor'', a conqueror: see ''victor''.] '''1.''' A fur tippet having long narrow ends, worn by women.—'''2.''' A kind of peach.\n\n'''victorious''' (vik-tō′ri-us), ''a.'' [< F. ''victorieux'' = Sp. Pg. ''victorioso'' = It. ''vittorioso'', < L. ''victoriosus'', full of victories (prop. applied, according to etym., to one frequently successful), < ''victoria'', victory: see ''victory''.] '''1.''' Conquering; triumphant; having conquered in any conquest or in battle; having overcome an antagonist or enemy.\n{{smaller block|<poem>The great Son return’d\n''Victorious'' with his saints. ''Milton'', P. L., vii. 136.</poem>\nThe Baharnagash, though ''victorious'', saw with some concern that he could not avoid the king, whose courage and capacity, both as a soldier and a general, left him everything to fear for his success.\n{{right|''Bruce'', Source of the Nile, II. 208.}}\n''Victorious'', wreath on head and spoils in hand.\n{{right|''Browning'', Ring and Book, I. 120.}}\nA body of ''victorious'' invaders may raise some, or the whole, of its supplies from the conquered country. {{right|''H. Spencer'', Prin. of Sociol., § 517.}}}}\n\n'''2.''' Of or pertaining to victory; characterized or signalized by victory.\n\n<poem>Sudden these honours shall be snatch’d away,\nAnd cursed forever this ''victorious'' day.</poem>\n{{smaller block|{{right|''Pope'', R. of the L., iii. 104.}}}}\n\n'''3.''' Emblematic of conquest; denoting victory.\n\n{{smaller block|Now are our brows bound with ''victorious'' wreaths.\n{{right|''Shak.'', Rich. III., i. 1. 5.}}}}\n\n'''victoriously''' (vik-tō′ri-us-li), ''adv.'' In a victorious manner; with defeat of an enemy or antagonist; triumphantly.\n\n{{smaller block|Grace will carry us . . . ''victoriously'' through all difficulties.\n{{right|''Hammond.''}}}}\n\n'''victoriousness''' (vik-tō′ri-us-nes), ''n.'' The state or character of being victorious.\n\n'''victory''' (vik′tō-ri), ''n.''; pl. ''victories'' (-riz). [< ME. ''victorie'', < OF. ''victorie'', ''victoire'', F. ''victoire'' = Sp. Pg. ''victoria'' = It. ''vittoria'', < L. ''victoria'', victory, < ''victor'', a conqueror, < ''vincere'', pp. ''victus'', conquer: see ''victor''.] '''1.''' The defeat or overcoming of an antagonist in a contest or an enemy in battle; triumph.\n\n{{smaller block|We also . . . [shall] assemble alle oure peple and ride vpon the saisnes, and yeve hem bataile in the name of god, that he graunte vs the ''victorie''. ''Merlin'' (E. E. T. S.), ii. 235.}}\n\n{{smaller block|David Deans believed this, and many other such ghostly encounters and ''victories'', on the faith of the ansars, or auxiliaries of the prophets. ''Scott'', Heart of Mid-Lothian, xv.}}\n\n{{smaller block|Knowing that they led unconquered veterans against a rude militia, they have broken every rule of warfare, and plucked ''victory'' out of extreme peril.\n{{right|''F. Harrison'', Oliver Cromwell, ix.}}}}\n\n{{smaller block|The alloy Of blood but makes the bliss of ''victory'' brighter.\n{{right|''R. W. Gilder'', The Celestial Passion, Cost.}}}}\n'''2.''' The advantage or superiority gained in any contest, as over passions, or over temptations, or in any moral or spiritual struggle.\n{{smaller block|Thanks be to God, which giveth us the ''victory'' through our Lord Jesus Christ.\n{{right|1 Cor. xv. 57.}}}}\n{{smaller block|<poem>Peace hath her ''victories''\nNo less renown’d than War.</poem>{{right|''Milton'', Sonnets, xi.}}}}\n'''3.''' A female deity of the Greeks and Romans, the personification of success in battle or in any active struggle. {{smaller|She is represented as a winged woman, often bearing as attributes a palm-branch and laurel crown, or a trumpet. The subject is a very frequent one in ancient art, from some of the noblest of antique sculpture down to vase-paintings and figurines. Among the most notable examples are the reliefs from the balustrade of the temple of Wingless Victory at Athens, one of which is the well-known figure entitled “Victory Loosing her Sandal,” and the magnificent statue called the “Victory of Samothrace,” a Greek original of the fourth century {{sc|b. c.}}, attributed to the school of Scopas, found in the island of Samothrace, where it stood on a pedestal representing the prow of a trireme, and now one of the chief ornaments of the Louvre Museum. See ''Nike'', cut in next column, and cut under ''Peloponnesian''.}}\n{{smaller block|I observed some ancient reliefs at this village [Ertesy], particularly three ''victories'', holding three festoons under three heads, on a marble coffin, with imperfect Greek inscriptions under them.\n{{right|''Pococke'', Description of the East, II. i. 170.}}}}\n\n'''Cadmean, moral, Pyrrhic victory.''' See the adjectives.\n\n[[File:century v08 p0554 c2f1.png|center|178px]]\n{{c|{{smaller|The Victory of Samothrace, in the Louvre Museum.}}}}\n\n'''victress''' (vik′tres), ''n.'' [< ''victor'' + ''-ess.'' Cf. ''victrice.''] A woman who conquers; a victrix.\n{{smaller block|She shall be sole ''victress'', Cæsar’s Cæsar.\n{{right|''Shak.'', Rich. III., iv. 4. 336.}}}}\n\n'''victrice†''' (vik′tris), ''n.'' [< OF. ''victrice'' = It. ''vittrice'', < L. ''victrix'', fem. of ''victor'', victor: see ''victor.''] A victress.\n{{smaller block|<poem>He knew certes,\nThat you, ''victrice''\nOf all ladies,\nShould have the prize\nOf worthiness.</poem>\n{{right|''Udall'' (Arber’s Eng. Garner, II. 59).}}\nWith boughs of palm a crowned ''victrice'' stand!\n{{right|''B. Jonson'', Underwoods, cii.}}}}\n\n'''victrix''' (vik′triks), ''n.'' [< L. ''victrix'', fem. of ''victor'', victor: see ''victor.''] A victress. ''Charlotte Brontë'', Villette, xxxii. [Rare.]\n\n'''victual''' (vit′l), ''n.'' [Early mod. E. also ''vittle'', earlier ''vytaylle'' (the spelling with ''c'', ''victual'', as in F. ''victuaille'', being a modern sophistication imitating the L. original, the pronunciation remaining that of ''vittle''); < ME. ''vitaille'', ''vitayle'', ''vitaile'', also ''vitailes'', ''vytaylles'', < OF. ''vitaille'', ''vytaile'', later (with inserted ''c'') ''victuaille'', ''victuailles'', ''vytailles'' = Sp. ''vitualla'' = Pg. ''vitualha'' = It. ''vettovaglia'', < LL. ''victualia'', provisions, nourishment, neut. pl. of ''victualis'', belonging to nourishment, < ''victus'', food, < ''vivere'', pp. ''victus'', live: see ''vivid.''] '''1.''' Provision of food; meat; provisions: generally used in the plural, and signifying (commonly) food for human beings, prepared for eating.\n\n{{smaller block|But alleweyes Men fynden gode Innes, and alle that hem nedethe of ''Vytaylle.'' {{right|''Mandeville'', Travels, p. 34.}}}}\n{{smaller block|<poem>Ther as bagges ben and fat ''vitaile'',\nTher wol they gon.</poem>{{right|''Chaucer'', Former Age, l. 38.}}}}\n{{smaller block|Physicions ben of opynyon that one ought to begyn the meate of ''vitayle'' (uiandes liquides) to thende that by that means to gyve direction to the remenant. {{right|''G. du Guez'', quoted in Babees Book (E. E. T. S.), p. 107, [Index.}}}}\n{{smaller block|<poem>Look to those eating rogues that bawl for ''victuals'',\nAnd stop their throats a day or two.</poem>{{right|''Fletcher'', Bonduca, i. 2.}}}}\n{{smaller block|<poem>Why then we will to the greenwood gang,\nFor we have no ''vittles'' to dine.</poem>{{right|''Robin Hood and the Stranger'' (Child’s Ballads, V. 405).}}}}\n{{smaller block|My pig likes a dinner as well as a breakfast. No meal-time, and no sort of ''victuals'', ever seems to come amiss to my pig. {{right|''Hawthorne'', Seven Gables, xix.}}}}\n{{smaller block|<poem>There came a fair-hair’d youth, that in his hand\nBare ''victual'' for the mowers.</poem>{{right|''Tennyson'', Geraint and Enid.}}}}\n'''2.''' Any sort of grain or corn. [Scotch.]—'''Broken victuals.''' {{smaller|See ''broken meat'', under ''broken.''}}\n\n'''victual''' (vit′l), ''v.''; pret. and pp. ''victualed, victualled'', ppr. ''victualing, victualling''. [With spelling altered as in the noun; < ME. ''vitailen, vitaillen'', < ''vitaille'', food: see ''victual'', ''n.''] '''I.''' ''trans.'' To supply or store with victuals or provisions for subsistence; provide with stores of food.\n{{smaller block|<poem>Thy loving voyage\nIs but for two months ''victuall’d.''</poem>{{right|''Shak.'', As you Like it, v. 4. 198. ''Hakluyt’s Voyages'', I. 243.}}}}\n\n'''II.''' ''intrans.'' To feed; obtain stores or provisions; provision; obtain or eat victuals.\n\n{{smaller block|And, ''victualling'' again, with brave and man-like minds To seaward cast their eyes, and pray for happy winds.\n{{right|''Drayton'', Polyolbion, ii. 427.}}}}\n\n{{smaller block|And soon we found Peggy and Smiler [the horses] in company, . . . and ''victualling'' where the grass was good.\n{{right|''R. D. Blackmore'', Lorna Doone, iii.}}}}\n\n'''victualage''' (vit′l-āj), ''n.'' [< ''victual'' + ''-age''.] Food; provisions; victuals. [Rare.]\n\n{{smaller block|I could not proceed to the school-room without passing some of their doors, and running the risk of being surprised with my cargo of ''victualage''; so I stood still at this end, which, being windowless, was dark.\n{{right|''Charlotte Brontë'', Jane Eyre, xvii.}}}}\n\n'''victualer, victualler''' (vit′l-ėr), ''n.'' [Formerly also ''vitler''; < ME. ''vitteller'', ''vitailler'' (see ''victual'') + ''-er''<sup>1</sup>.] '''1.''' One who furnishes victuals or provisions.\n\n{{smaller block|That no maner ''vitteller'' pay eny thynge for the occupacion of the kynges Borde, to eny maner offices, for ther vytelle ther to be sold, that ys to seye withyn the seid cite.\n{{right|''English Gilds'' (E. E. T. S.), p. 408.}}}}\n\n{{smaller block|But pray, what connection have you with the suttlers? You are no ''victualler'' here, are you?\n{{right|''Sheridan'' (?), The Camp, i. 1.}}}}\n\n'''2.''' One who keeps a house of entertainment; a tavern-keeper.\n\n{{smaller block|''Fal.'' Marry, there is another indictment upon thee, for suffering flesh to be eaten in thy house, contrary to the law. . . .\n''Host.'' All ''victuallers'' do so; what’s a joint of mutton or two in a whole Lent?\n{{right|''Shak.'', 2 Hen. IV., ii. 4. 375.}}}}\n\n{{smaller block|He scornes to walke in Paules without his bootes, And scores his diet on the ''vitlers'' post.\n{{right|''Letting of Humours Blood in the Head-Vaine'' (1600).}}\n{{right|[(''Halliwell.'')}}}}\n'''3.''' A ship employed to carry provisions for other ships, or for supplying troops at a distance; a store-ship. ''Admiral Smyth.''—'''4.''' A corn-factor; one who deals in grain. ''Jamieson.'' [Scotch.]—{{smaller|'''Licensed victualler,''' in Great Britain, an innkeeper or keeper of a public house who is licensed to sell spirits, wine, beer, etc.}}\n\n'''victualing, victualling''' (vit′l-ing), ''n.'' [Verbal n. of ''victual'', ''v.''] The furnishing of victuals or provisions.\n{{smaller block|Our ''victualling'' arrangements have now been satisfactorily settled, and everybody has been put on an allowance of water. ''Lady Brassey'', Voyage of Sunbeam, I. xii.}}\n\n'''victualing-bill''' (vit′l-ing-bil), ''n.'' A custom-house document warranting the shipment of such bonded stores as the master of an outward-bound merchantman may require for his intended voyage.\n\n'''victualing-house''' (vit′l-ing-hous), ''n.'' A house where provision is made for strangers to eat; an eating-house.\n{{smaller block|They chose that the region of Pocchorrosa to inhabyte . . . that they myght bee baytinge places and ''vytailynge houses'' for suche as shulde iorney towarde the southe.\n{{right|''Peter Martyr'' (tr. in Eden’s First Books on America,}}\n{{right|[ed. Arber, p. 148).}}}}\n\n'''victualing-note''' (vit′l-ing-nōt), ''n.'' An order given to a seaman in the British navy by the paymaster, when he joins a ship, which is handed to the ship’s steward as his authority for victualing the man. ''Simmonds.''\n\n'''victualing-office''' (vit′l-ing-of″is), ''n.'' An office for supplying provisions and stores to the navy. [Eng.]\n{{smaller block|We laugh at the ridiculous management of the Navy-Board, pry into the Rogueries of the ''Victualling-Office,'' and tell the Names of those Clerks who were ten years ago bare-foot, and are now Twenty-Thousand-Pound Men.\n{{right|''C. Shadwell,'' Humours of the Navy. i. 1.}}}}\n\n'''victualing-ship''' (vit′l-ing-ship), ''n.'' A ship which conveys provisions to the navy; a victualer.\n\n'''victualing-yard''' (vit′l-ing-yärd), ''n.'' A yard, generally contiguous to a dockyard, containing magazines where provisions and other like stores for the navy are deposited, and where war-vessels and transports are provisioned. (''Imp. Dict.'') In the United States all navy-yards are victualing-yards.\n\n'''victualless''' (vit′l-les), ''a.'' [< ''victual'' + ''-less.''] Destitute of food. ''Carlyle,'' in Froude, First Forty Years, II.\n\n'''vicugna, vicuña''' (vi-kö′nyä̤), ''n.'' [Also ''vigonia'' and ''viguna''; = F. ''vigogne,'' formerly ''vicugne,'' < Sp. ''vicuña, vicugna,'' < Peruv. ''vicuna,'' Mex. ''vicugne,'' the vicugna.] A South American mammal of the camel tribe, ''Auchenia vicugna'' or ''vicuna,'' related to the llama, guanaco, and alpaca. {{smaller|It is found wild in elevated regions of Bolivia and Chili, and is much hunted for its wool and flesh. It is one of the smaller kinds, standing about 30 inches at the withers,}} and of variegated coloration. It has as yet resisted all attempts to reduce it to domestication. The short soft<noinclude><references/></noinclude>"
+}

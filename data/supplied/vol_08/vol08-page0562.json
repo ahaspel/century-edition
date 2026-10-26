@@ -1,0 +1,221 @@
+{
+ "volume": 8,
+ "page_number": 562,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n561.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n561.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-23",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 874,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     118,
+     0,
+     2442,
+     144
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     118,
+     144,
+     827,
+     1230
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     118,
+     1230,
+     827,
+     2310
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     118,
+     2310,
+     827,
+     3233
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     827,
+     144,
+     1568,
+     1201
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     827,
+     1201,
+     1568,
+     2077
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     827,
+     2077,
+     1568,
+     3168
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1183,
+     2635,
+     1568,
+     3045
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     827,
+     3168,
+     1568,
+     3233
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1568,
+     144,
+     2442,
+     1182
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1568,
+     1182,
+     2442,
+     2174
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1568,
+     2174,
+     2442,
+     3233
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|vine|6758|vinery}}",
+   "c1s1": "''the vine.'' It is of the genus ''Vitis'', and of numerous species and varieties, the primary species being the ''V. vinifera'' of the Old World. See ''grape''<sup>1</sup> and ''Vitis.''\n{{smaller block|I have seen great trees covered with single ''vines'', and those ''vines'' almost hid with the grapes.\n{{right|''Beverley'', Virginia, iv. ¶ 15.}}}}\n'''2.''' Any plant with a long slender stem that trails on the ground, or climbs and supports itself by winding round a fixed object, or by seizing any fixed thing with its tendrils or claspers: as, the hop-''vine''; the ''vines'' of melons.\n{{smaller block|The mock-cranberry’s red-berried creeping ''vine.''\n{{right|''The Century'', XXVI. 643.}}}}\n{{smaller|'''Alleghany vine''', climbing fumitory, ''Adlumia cirrhosa.''—'''Harvey’s vine.''' See ''Sarcopetalum.''—'''India-rubber vine.''' See ''india-rubber.''—'''Isle-of-Wight vine.''' See ''Tamus.''—'''Mexican vine.''' Same as ''Madeira-vine.''—'''Milk vine.''' (''a'') See ''Periploca.'' (''b'') A plant of Jamaica, ''Forsteronia floribunda'' of the ''Apocynaceæ'', yielding an excellent caoutchouc.—'''Red-bead vine''', ''Abrus precatorius.'' See ''Abrus.''—'''Scrub vine''', an Australian plant of the genus ''Cassytha'', especially ''C. melantha.'' The species are leafless parasites with filiform or wiry twining stems resembling dodder. Though anomalous in habit, the genus is classed in the ''Laurineæ'' on account of the structure of the flowers.—'''Seven-year vine''', a plant of the morning-glory kind, ''Ipomæa tuberosa'', widely diffused through the tropics. It has a very large tuber, and climbs to the top of high trees; the flowers are 2 inches long, bright-yellow. Also ''Spanish arbor-vine.''—'''Sorrel vine.''' See ''sorrel-vine.''—'''Spanish arbor-vine.''' Same as ''seven-year vine.''—'''To dwell under one’s vine and fig-tree.''' See ''dwell.''—'''Vine bark-louse.''' (''a'') ''Pulvinaria vitis'', a large coccid with large white egg-sac, common on the vine in Europe. (''b'') ''Aspidiotus uvæ'', a small, round, inconspicuous scale occurring on grape-canes in the United States; also, ''A. vitis'', a closely allied species occurring in Europe.—'''Vine cidaria.''' Same as ''vine inch-worm.''—'''Vine colaspis''', a leaf-beetle, ''Colaspis brun-''}}",
+   "c1s2": "''nea'', which feeds upon the foliage of the vine, and passes its larval state at the roots of the strawberry. Compare cut under ''Colaspis''.—'''Vine fidia''', a small brown leaf-beetle, ''Fidia longipes'' (''viticida'' of Walsh), which feeds on the leaves of the vine, and is an especial pest in Missouri and Kentucky. See ''Fidia''.—'''Vine flea-beetle''', one of the jumping leaf-beetles, ''Haltica chalybea'', which infests the vine. See ''flea-beetle''.—'''Vine gall-louse''', the above-ground form (''gallicola'') of the grape-vine phylloxera.—'''Vine inch-worm''', the larva of ''Cidaria diversilineata'', a geometrid moth. The larva is reddish in color, and 1¼ inches in length when full-grown; it feeds upon the leaves of the grape. Also called ''grape web-worm'', ''vine cidaria'', and ''vine measuring-worm''. See cut under ''Cidaria''.—'''Vine leaf-folder'''. See ''Desmia''.—'''Vine leaf-gall''', any gall formed upon the leaves of the vine. Especially—(''a'') The trumpet grape-gall of ''Cecidomyia vitis-viticola'', a small, elongate, conical reddish gall, ⅙ of an inch long. (''b'') The grape-vine filbert-gall of ''Cecidomyia vitis-coryloides'', a rounded mass of galls 1½ or 2 inches in diameter, springing from a common center, and composed of from ten to forty woolly greenish galls, the larger ones the size and shape of a filbert. (''c'') The grape-vine tomato-gall of ''Lasioptera vitis'', a mass of irregular succulent swellings on the leaf-stalks of the vine, yellowish-green with rosy cheeks, or sometimes entirely red. (''d'') The grape-vine apple-gall of ''Cecidomyia vitis-pomum'', a globular, fleshy, greenish gall, nearly an inch in diameter, attached by a rough base to the stem of the vine. (''e'') The leaf-gall of the above-ground form of ''Phylloxera vastatrix''.—'''Vine leaf-hopper'''. See ''leaf-hopper'' and ''Erythroneura''.—'''Vine leaf-roller'''. Same as ''vine leaf-folder''.—'''Vine measuring-worm'''. Same as ''vine inch-worm''.—'''Vine of Sodom''', a plant referred to in Deut. xxxii. 32, thought to have been the colocynth, which may also have been the “wild gourd” of 2 Ki. iv. 39.—'''Vine procris''', ''Procris americana''. See ''Procris'' (with cut).—'''Vine root-borer''', any insect which bores into the roots of the vine. (''a'') The broad-necked ''Prionus laticollis'', or the tile-horned ''P. imbricornis''. See ''Prionus'', and cut under ''Phytophaga''. (''b'') ''Sesia polistiformis'', a small hornet-moth whose larva bores in the roots of the vine.—'''Vine saw-fly''', a saw-fly common in the United States, ''Blennocampa pygmæa'' (formerly known as ''Selan-''",
+   "c1s3": "{{smaller|''dria vitis''), whose larvæ feed in company on the leaves of the vine, like those of the vine procris.—'''White vine,''' the bryony, ''Bryonia dioica''; also, the traveler’s joy, ''Clematis Vitalba.'' [Old or prov. Eng.]—'''Wild vine.''' (''a'') Same as ''white vine''; also, the black bryony, ''Tamus communis.'' (''b'') ''Vitis Labrusca'', the northern fox-grape of America. See ''Vitis.''—'''Wonga-wonga vine.''' See ''Tecoma.''—'''Wood-vine,''' the bryony. (See also ''cross-vine, cypress-vine, quarter-vine, silk-vine, silver-vine, squaw-vine, staff-vine, strainer-vine'', etc.)}}\n\n'''vinea''' (vin′ē̤-ä̤), ''n.'' [L.: see ''vine.''] In ''Rom. antiq.'', a shed or gallery movable on wheels, serving to protect besiegers and to connect their works.\n\n'''vineal†''' (vin′ē̤-a̤l), ''a.'' [< L. ''vinealis'', of or pertaining to the vine, < ''vinea'', vine: see ''vine.''] Relating to or consisting of vines: as, ''vineal'' plantations. ''Sir T. Browne.''\n\n'''vine-black''' (vīn′blak), ''n.'' Same as ''blue-black'', 2.\n\n'''vine-borer''' (vīn′bōr″ėr), ''n.'' '''1.''' One of the vine root-borers.—'''2.''' The red-shouldered sinoxylon, ''Sinoxylon basilare.''—'''3.''' ''Ampeloglypter sesostris.'' See ''vine-gall'', 1.\n\n'''vine-bower''' (vīn′bou″ėr), ''n.'' A species of ''Clematis'' or virgin’s-bower, ''C. Viticella'', of southern Europe, a handsome cultivated vine.\n\n'''vine-clad''' (vīn′klad), ''a.'' Clad or covered with vines.\n{{smaller block|All in an oriel on the summer side,<br>''Vine-clad'', of Arthur’s palace toward the stream,<br>They met. {{right|''Tennyson'', Lancelot and Elaine.}}}}",
+   "c2s1": "¶\n\n'''vine-culture''' (vīn′kul″tụ̄r), ''n.'' Same as ''viticulture.''\n\n'''vine-curculio''' (vīn′kėr-kū″li-ō), ''n.'' '''1.''' ''Ampeloglypter sesostris.'' See ''vine-gall.''—'''2.''' ''Craponius inæqualis'', a small weevil which infests grapes. Also ''vine-weevil.''\n\n'''vined''' (vīnd), ''a.'' [< ''vine'' + ''-ed''<sup>2</sup>.] Having leaves like those of the vine; ornamented with vine-leaves.\n{{smaller block|Wreathed and ''Vined'' and Figured Columnes.\n{{right|''Sir H. Wotton'', Reliquiæ, p. 21.}}}}\n\n'''vine-disease''' (vīn′di-zēz″), ''n.'' Disease of the grape-vine, especially that due to the phylloxera. See ''grape-mildew'', ''grape-rot'', and cut under ''Phylloxera.''\n\n'''vine-dresser''' (vīn′dres″ėr), ''n.'' '''1.''' One who dresses, trims, prunes, and cultivates vines.—'''2.''' The larva of a sphingid moth, ''Ampelophaga'' (''Darapsa'' or ''Everyx'') ''myron.'' {{smaller|It cuts off the leaves of the vine in the United States, and also sometimes severs half-grown bunches of grapes.}}\n\n'''vine-feeder''' (vīn′fē″dėr), ''n.'' Any insect which feeds upon the grape-vine. See the more distinctive names preceding and following this entry, and phrases under ''vine.''\n\n'''vine-forester''' (vīn′for″es-tėr), ''n.'' Same as ''forester'', 5.\n\n'''vine-fretter''' (vīn′fret″ėr), ''n.'' Any aphid or plant-louse which feeds on the grape-vine.\n\n'''vine-gall''' (vīn′gâl), ''n.'' '''1.''' The wound-gall, an elongated knot or swelling on the stem of the vine, made by the larva of ''Ampeloglypter sesostris'', a curculio one eighth of an inch long, of a reddish-brown color, with a stout head half as",
+   "c2s2": "long as its body. See cut under ''Ampeloglypter.'' —'''2.''' Any one of the vine leaf-galls. See ''vine leaf-gall'', under ''vine''.\n\n¶\n'''vinegar''' (vin′ē-gär), ''n.'' [Early mod. E. also ''vineger''; < ME. ''vinegre'', < OF. ''vinaigre'', ''vinegre'', F. ''vinaigre'' (= Pr. Sp. Pg. ''vinagre'' = It. ''vinagro''), lit. ‘eager (i. e. sour) wine,’ < ''vin'', wine, + ''aigre'', sour, acid: see ''wine'' and ''eager''<sup>1</sup>.] '''1.''' Dilute and impure acetic acid, obtained by the acetous fermentation. {{smaller|In wine-countries it is obtained from the acetous fermentation of inferior wines, but elsewhere it is procured from an infusion of malt which has previously undergone the vinous fermentation, or from apple cider. Common and distilled vinegars are used in pharmacy for preparing many remedies, and externally in medicine, in the form of lotions. The use of vinegar as a condiment is universal. It is likewise the antiseptic ingredient in pickles.}}\n{{smaller block|I’ll spend more in mustard and ''vinegar'' in a year than both you in beef. {{right|''Dekker and Webster'', Northward Ho, i. 3.}}}}\n'''2.''' Anything really or metaphorically sour; sourness of temper. Also used attributively to signify sour or crabbed.\n{{smaller block|<poem>And other of such ''vinegar'' aspect\nThat they’ll not show their teeth in way of smile,\nThough Nestor swear the jest be laughable.</poem>\n{{right|''Shak.'', M. of V., i. 1. 54.}}}}\n'''3.''' In ''phar.'', a solution of a medicinal substance in acetic acid, or vinegar; acetum.—'''Aromatic'''",
+   "c2s3": "{{smaller|'''vinegar.''' See ''aromatic.''—'''Beer vinegar.''' See ''beer''<sup>1</sup>.—'''Beet-root vinegar.''' See ''beet-root.''—'''Flowers of vinegar.''' See ''flower, fermentation'', 2, and ''vinegar-plant.''—'''Mother of vinegar.''' See ''mother''<sup>2</sup>, 2, ''fermentation'', 2, ''vinegar-plant.''—'''Pyroligneous vinegar,''' wood-vinegar.—'''Radical vinegar.''' Same as ''glacial acetic acid.'' See ''acetic acid'', under ''acetic.''—'''Raspberry vinegar.''' See ''raspberry.''—'''Thieves’ vinegar.''' See ''thief''<sup>1</sup>.—'''Toilet vinegar.''' Same as ''aromatic vinegar.''—'''Vinegar Bible.''' See ''Bible.''—'''Vinegar of lead,''' a liquor formed by digesting ceruse or litharge with a sufficient quantity of vinegar to dissolve it.—'''Vinegar of opium.''' Same as ''black-drop.''—'''Vinegar of the four thieves.''' See ''thieves’ vinegar.''—'''Wood-vinegar,''' an impure acetic acid obtained by the distillation of wood. Also called ''pyroligneous acid'' or ''vinegar.''}}\n\n'''vinegar''' (vin′ẹ̄-gär), ''v. t.'' [< ''vinegar'', ''n.''] '''1.''' To make into vinegar, or make sour like vinegar.\n{{smaller block|Hoping that he hath ''vinegared'' his senses<br>As he was bid. {{right|''B. Jonson.'' (''Imp. Dict.'')}}}}\n'''2.''' To apply vinegar to; pour vinegar over; also, to mix with vinegar.\n[[FIGURE]]\n{{c|{{smaller|Vinegar-eel (''Leptodera oxyphila''), enlarged about 40 times. ''m'', mouth; ''o'', ovaries.}}}}\n{{smaller block|The landlady . . . proceeded to ''vinegar'' the forehead, beat the hands, titillate the nose, and unlace the stays of the spinster aunt. {{right|''Dickens'', Pickwick, x.}}}}\n\n'''vinegar-cruet''' (vin′ẹ̄-gär-krö″et), ''n.'' A glass bottle for holding vinegar; especially, one of the bottles of a caster.\n\n'''vinegar-eel''' (vin′ẹ̄-gär-ēl), ''n.'' A free-living nematoid worm of the family ''Anguillulidæ'',",
+   "c2s4": "as ''Anguillula aceti-glutinis'' (or ''Leptodera oxyphila''), and other species found commonly in",
+   "c3s1": "cut under ''Nematoidea''.\n\n'''vinegarette''' (vin″ẹ̄-gạ-ret′), ''n.'' [< ''vinegar'' + ''-ette'', after ''vinaigrette''.] A vinaigrette.\n{{smaller block|And at parting I gave my dear Harry<br>A beautiful ''vinegarette!''\n{{right|''Thackeray'', The Almack’s Adieu.}}}}\n\n'''vinegar-fly''' (vin′ẹ̄-gär-flī), ''n.'' One of several dipterous insects of the family ''Drosophilidæ'', which are attracted by fermentation, and develop in pickles, jam, and preserved fruit. They belong mainly to the genus ''Drosophila''.\n\n'''vinegarish''' (vin′ẹ̄-gär-ish), ''a.'' [< ''vinegar'' + ''-ish''<sup>1</sup>.] Like vinegar; hence, sour; sharp.\n{{smaller block|Her temper may be ''vinegarish.''\n{{right|''The Rover'', New York, 1844.}}}}\n\n'''vinegar-maker''' (vin′ẹ̄-gär-mā″kėr), ''n.'' The whip-tailed scorpion: translating its West Indian name ''vinaigrier''. See ''Thelyphonus'', and cut under ''Pedipalpi''.\n\n'''vinegar-plant''' (vin′ẹ̄-gär-plant), ''n.'' The microscopic schizomycetous fungus, ''Micrococcus'' (''Mycoderma'') ''aceti'', which produces acetous fermentation. {{smaller|It oxidizes the alcohol in alcoholic liquids, and acetic acid or vinegar is the result. This micrococcus takes two forms: the anaërobiotic form, which produces a mucilaginous mass known as ''mother of vinegar'', and the aërobiotic form, called the ''flowers of vinegar''. See ''fermentation'', 2.}}\n\n'''vinegar-tree''' (vin′ẹ̄-gär-trē), ''n.'' The stag-horn sumac, ''Rhus typhina'', the acid fruit of which has been used to add sourness to vinegar.\n\n'''vinegary''' (vin′ẹ̄-gär-i), ''a.'' Having the character of vinegar; hence, sour; crabbed.",
+   "c3s2": "¶\n{{smaller block|Altogether, the honeymoon which follows the opening of a new administration has a ''vinegary'' flavor.\n{{right|''The American'', III. 99.}}}}\n'''vinegar-yard''' (vin′ẹ̄-gär-yärd), ''n.'' A yard where vinegar is made and kept. ''Simmonds.''\n\n'''vineger†''', ''n.'' An obsolete spelling of ''vinegar''.\n\n'''vinegerone''' (vin″ẹ̄-ge-rō′ne), ''n.'' [A corrupt form, < ''vinegar''.] The whip-tailed scorpion, ''Thelyphonus giganteus:'' so called on account of the strong vinegar-like odor of an acid secretion noticeable when the creature is alarmed. Also called ''vinaigrier'' and ''vinegar-maker''. See cut under ''Pedipalpi''. [West Indies and Florida.]\n\n'''vine-grub''' (vīn′grub), ''n.'' Any grub infesting the vine.\n\n'''vine-hopper''' (vīn′hop″ėr), ''n.'' See ''leaf-hopper'' and ''Erythroneura''.\n\n'''vine-land''' (vīn′land), ''n.'' Land on which vines are cultivated.\n{{smaller block|There are in Hungary upwards of 1,000,000 acres of ''vine-land.''\n{{right|''Encyc. Brit.'', XXIV. 610.}}}}\n\n'''vine-leek''' (vīn′lēk), ''n.'' See ''leek''.\n\n'''vine-louse''' (vīn′lous), ''n.'' '''1.''' The grape-phylloxera. See ''Phylloxera''.—'''2.''' ''Siphonophora viticola'', a brown plant-louse found commonly on grape-vines in the United States, preferably clustering on the young shoots and on the under sides of young leaves, sometimes infesting the young fruit-clusters.\n\n'''vine-maple''' (vīn′mā″pl), ''n.'' See ''maple''<sup>1</sup>.\n\n'''vine-mildew''' (vīn′mil″dū), ''n.'' See ''grape-mil-''",
+   "c3s3": "''dew, Oïdium, grape-rot.''\n\n'''vine-pest''' (vīn′pest), ''n.'' Same as ''phylloxera'', 2. See cuts under ''oak-pest'' and ''Phylloxera.''\n\n'''vine-plume''' (vīn′plöm), ''n.'' A handsome plume-moth, ''Oxyptilus periscelidactylus.'' {{smaller|Its larva fastens together the young terminal leaves of grape-shoots, and feeds upon the parenchyma and the young bunches of blossom. The moth is yellowish-brown with a metallic luster. See cut under ''plume-moth.''}}\n\n'''vine-puller''' (vīn′pu̇l″ėr), ''n.'' A machine for pulling up vines, etc. {{smaller|It consists of a truck-frame on which is mounted a double-pivoted lever with a chain from which is suspended a pair of double-grip pincers. ''E. H. Knight.''}}\n\n'''viner<sup>1</sup>†''' (vī′nėr), ''n.'' [< OF. ''vingnier'' = Sp. ''viñero'' = Pg. ''vinhero'', one who takes care of a vineyard, = It. ''vignajo'', < ML. ''venearius'', a vine-dresser, < LL. ''vinearius'', of or belonging to vines, < L. ''vinea'', a vine: see ''vine.'' Cf. ''vintner.''] '''1.''' A trimmer of vines.—'''2.''' A member of the Vintners’ Company. ''Marvell.''\n\n'''viner<sup>2</sup>†''', ''n.'' [ME., also ''vynere'', < OF. *''vinere, vinerie'', a place where wine is made or sold, < ''vin'', wine: see ''wine'', and cf. ''vine, vinery.''] A vineyard.\n\n{{smaller block|And alle aboute theise Dyches and ''Vyneres'' is the grete Gardyn, fulle of wylde Bestes. ''Mandeville,'' Travels, p. 216.}}\n\n'''vine-rake''' (vīn′rāk), ''n.'' In ''agri.'', a horse-hoe or -rake having a plow-beam and two curved forks or narrow shares. {{smaller|It is used for cultivating sweet potatoes and other vines, and for gathering the vines together preparatory to digging. It is practically a two-share horse-hoe. ''E. H. Knight.''}}\n\n'''vinery''' (vī′nėr-i), ''n.''; pl. ''vineries'' (-iz). [< ''vine'' + ''-ery.''] '''1†.''' A vineyard.—'''2.''' A greenhouse"
+  },
+  "figure_files": {
+   "c2f1": "century v08 p0562 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1195,
+     2647,
+     1562,
+     3033
+    ],
+    "caption": [
+     1200,
+     3039,
+     1560,
+     3112
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1193,
+     2652,
+     1554,
+     3041
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 8,
+    "output_tokens": 91,
+    "cache_creation_input_tokens": 4046,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 10272,
+    "output_tokens": 10782,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|vine|6758|vinery}}</noinclude>''the vine.'' It is of the genus ''Vitis'', and of numerous species and varieties, the primary species being the ''V. vinifera'' of the Old World. See ''grape''<sup>1</sup> and ''Vitis.''\n{{smaller block|I have seen great trees covered with single ''vines'', and those ''vines'' almost hid with the grapes.\n{{right|''Beverley'', Virginia, iv. ¶ 15.}}}}\n'''2.''' Any plant with a long slender stem that trails on the ground, or climbs and supports itself by winding round a fixed object, or by seizing any fixed thing with its tendrils or claspers: as, the hop-''vine''; the ''vines'' of melons.\n{{smaller block|The mock-cranberry’s red-berried creeping ''vine.''\n{{right|''The Century'', XXVI. 643.}}}}\n{{smaller|'''Alleghany vine''', climbing fumitory, ''Adlumia cirrhosa.''—'''Harvey’s vine.''' See ''Sarcopetalum.''—'''India-rubber vine.''' See ''india-rubber.''—'''Isle-of-Wight vine.''' See ''Tamus.''—'''Mexican vine.''' Same as ''Madeira-vine.''—'''Milk vine.''' (''a'') See ''Periploca.'' (''b'') A plant of Jamaica, ''Forsteronia floribunda'' of the ''Apocynaceæ'', yielding an excellent caoutchouc.—'''Red-bead vine''', ''Abrus precatorius.'' See ''Abrus.''—'''Scrub vine''', an Australian plant of the genus ''Cassytha'', especially ''C. melantha.'' The species are leafless parasites with filiform or wiry twining stems resembling dodder. Though anomalous in habit, the genus is classed in the ''Laurineæ'' on account of the structure of the flowers.—'''Seven-year vine''', a plant of the morning-glory kind, ''Ipomæa tuberosa'', widely diffused through the tropics. It has a very large tuber, and climbs to the top of high trees; the flowers are 2 inches long, bright-yellow. Also ''Spanish arbor-vine.''—'''Sorrel vine.''' See ''sorrel-vine.''—'''Spanish arbor-vine.''' Same as ''seven-year vine.''—'''To dwell under one’s vine and fig-tree.''' See ''dwell.''—'''Vine bark-louse.''' (''a'') ''Pulvinaria vitis'', a large coccid with large white egg-sac, common on the vine in Europe. (''b'') ''Aspidiotus uvæ'', a small, round, inconspicuous scale occurring on grape-canes in the United States; also, ''A. vitis'', a closely allied species occurring in Europe.—'''Vine cidaria.''' Same as ''vine inch-worm.''—'''Vine colaspis''', a leaf-beetle, ''Colaspis brun''nea''''}}, which feeds upon the foliage of the vine, and passes its larval state at the roots of the strawberry. Compare cut under ''Colaspis''.—'''Vine fidia''', a small brown leaf-beetle, ''Fidia longipes'' (''viticida'' of Walsh), which feeds on the leaves of the vine, and is an especial pest in Missouri and Kentucky. See ''Fidia''.—'''Vine flea-beetle''', one of the jumping leaf-beetles, ''Haltica chalybea'', which infests the vine. See ''flea-beetle''.—'''Vine gall-louse''', the above-ground form (''gallicola'') of the grape-vine phylloxera.—'''Vine inch-worm''', the larva of ''Cidaria diversilineata'', a geometrid moth. The larva is reddish in color, and 1¼ inches in length when full-grown; it feeds upon the leaves of the grape. Also called ''grape web-worm'', ''vine cidaria'', and ''vine measuring-worm''. See cut under ''Cidaria''.—'''Vine leaf-folder'''. See ''Desmia''.—'''Vine leaf-gall''', any gall formed upon the leaves of the vine. Especially—(''a'') The trumpet grape-gall of ''Cecidomyia vitis-viticola'', a small, elongate, conical reddish gall, ⅙ of an inch long. (''b'') The grape-vine filbert-gall of ''Cecidomyia vitis-coryloides'', a rounded mass of galls 1½ or 2 inches in diameter, springing from a common center, and composed of from ten to forty woolly greenish galls, the larger ones the size and shape of a filbert. (''c'') The grape-vine tomato-gall of ''Lasioptera vitis'', a mass of irregular succulent swellings on the leaf-stalks of the vine, yellowish-green with rosy cheeks, or sometimes entirely red. (''d'') The grape-vine apple-gall of ''Cecidomyia vitis-pomum'', a globular, fleshy, greenish gall, nearly an inch in diameter, attached by a rough base to the stem of the vine. (''e'') The leaf-gall of the above-ground form of ''Phylloxera vastatrix''.—'''Vine leaf-hopper'''. See ''leaf-hopper'' and ''Erythroneura''.—'''Vine leaf-roller'''. Same as ''vine leaf-folder''.—'''Vine measuring-worm'''. Same as ''vine inch-worm''.—'''Vine of Sodom''', a plant referred to in Deut. xxxii. 32, thought to have been the colocynth, which may also have been the “wild gourd” of 2 Ki. iv. 39.—'''Vine procris''', ''Procris americana''. See ''Procris'' (with cut).—'''Vine root-borer''', any insect which bores into the roots of the vine. (''a'') The broad-necked ''Prionus laticollis'', or the tile-horned ''P. imbricornis''. See ''Prionus'', and cut under ''Phytophaga''. (''b'') ''Sesia polistiformis'', a small hornet-moth whose larva bores in the roots of the vine.—'''Vine saw-fly''', a saw-fly common in the United States, ''Blennocampa pygmæa'' (formerly known as ''Selan''{{smaller|''dria vitis''), whose larvæ feed in company on the leaves of the vine, like those of the vine procris.—'''White vine,''' the bryony, ''Bryonia dioica''; also, the traveler’s joy, ''Clematis Vitalba.'' [Old or prov. Eng.]—'''Wild vine.''' (''a'') Same as ''white vine''; also, the black bryony, ''Tamus communis.'' (''b'') ''Vitis Labrusca'', the northern fox-grape of America. See ''Vitis.''—'''Wonga-wonga vine.''' See ''Tecoma.''—'''Wood-vine,''' the bryony. (See also ''cross-vine, cypress-vine, quarter-vine, silk-vine, silver-vine, squaw-vine, staff-vine, strainer-vine'', etc.)}}\n\n'''vinea''' (vin′ē̤-ä̤), ''n.'' [L.: see ''vine.''] In ''Rom. antiq.'', a shed or gallery movable on wheels, serving to protect besiegers and to connect their works.\n\n'''vineal†''' (vin′ē̤-a̤l), ''a.'' [< L. ''vinealis'', of or pertaining to the vine, < ''vinea'', vine: see ''vine.''] Relating to or consisting of vines: as, ''vineal'' plantations. ''Sir T. Browne.''\n\n'''vine-black''' (vīn′blak), ''n.'' Same as ''blue-black'', 2.\n\n'''vine-borer''' (vīn′bōr″ėr), ''n.'' '''1.''' One of the vine root-borers.—'''2.''' The red-shouldered sinoxylon, ''Sinoxylon basilare.''—'''3.''' ''Ampeloglypter sesostris.'' See ''vine-gall'', 1.\n\n'''vine-bower''' (vīn′bou″ėr), ''n.'' A species of ''Clematis'' or virgin’s-bower, ''C. Viticella'', of southern Europe, a handsome cultivated vine.\n\n'''vine-clad''' (vīn′klad), ''a.'' Clad or covered with vines.\n{{smaller block|All in an oriel on the summer side,<br>''Vine-clad'', of Arthur’s palace toward the stream,<br>They met. {{right|''Tennyson'', Lancelot and Elaine.}}}}\n\n'''vine-culture''' (vīn′kul″tụ̄r), ''n.'' Same as ''viticulture.''\n\n'''vine-curculio''' (vīn′kėr-kū″li-ō), ''n.'' '''1.''' ''Ampeloglypter sesostris.'' See ''vine-gall.''—'''2.''' ''Craponius inæqualis'', a small weevil which infests grapes. Also ''vine-weevil.''\n\n'''vined''' (vīnd), ''a.'' [< ''vine'' + ''-ed''<sup>2</sup>.] Having leaves like those of the vine; ornamented with vine-leaves.\n{{smaller block|Wreathed and ''Vined'' and Figured Columnes.\n{{right|''Sir H. Wotton'', Reliquiæ, p. 21.}}}}\n\n'''vine-disease''' (vīn′di-zēz″), ''n.'' Disease of the grape-vine, especially that due to the phylloxera. See ''grape-mildew'', ''grape-rot'', and cut under ''Phylloxera.''\n\n'''vine-dresser''' (vīn′dres″ėr), ''n.'' '''1.''' One who dresses, trims, prunes, and cultivates vines.—'''2.''' The larva of a sphingid moth, ''Ampelophaga'' (''Darapsa'' or ''Everyx'') ''myron.'' {{smaller|It cuts off the leaves of the vine in the United States, and also sometimes severs half-grown bunches of grapes.}}\n\n'''vine-feeder''' (vīn′fē″dėr), ''n.'' Any insect which feeds upon the grape-vine. See the more distinctive names preceding and following this entry, and phrases under ''vine.''\n\n'''vine-forester''' (vīn′for″es-tėr), ''n.'' Same as ''forester'', 5.\n\n'''vine-fretter''' (vīn′fret″ėr), ''n.'' Any aphid or plant-louse which feeds on the grape-vine.\n\n'''vine-gall''' (vīn′gâl), ''n.'' '''1.''' The wound-gall, an elongated knot or swelling on the stem of the vine, made by the larva of ''Ampeloglypter sesostris'', a curculio one eighth of an inch long, of a reddish-brown color, with a stout head half as long as its body. See cut under ''Ampeloglypter.'' —'''2.''' Any one of the vine leaf-galls. See ''vine leaf-gall'', under ''vine''.\n\n'''vinegar''' (vin′ē-gär), ''n.'' [Early mod. E. also ''vineger''; < ME. ''vinegre'', < OF. ''vinaigre'', ''vinegre'', F. ''vinaigre'' (= Pr. Sp. Pg. ''vinagre'' = It. ''vinagro''), lit. ‘eager (i. e. sour) wine,’ < ''vin'', wine, + ''aigre'', sour, acid: see ''wine'' and ''eager''<sup>1</sup>.] '''1.''' Dilute and impure acetic acid, obtained by the acetous fermentation. {{smaller|In wine-countries it is obtained from the acetous fermentation of inferior wines, but elsewhere it is procured from an infusion of malt which has previously undergone the vinous fermentation, or from apple cider. Common and distilled vinegars are used in pharmacy for preparing many remedies, and externally in medicine, in the form of lotions. The use of vinegar as a condiment is universal. It is likewise the antiseptic ingredient in pickles.}}\n{{smaller block|I’ll spend more in mustard and ''vinegar'' in a year than both you in beef. {{right|''Dekker and Webster'', Northward Ho, i. 3.}}}}\n'''2.''' Anything really or metaphorically sour; sourness of temper. Also used attributively to signify sour or crabbed.\n{{smaller block|<poem>And other of such ''vinegar'' aspect\nThat they’ll not show their teeth in way of smile,\nThough Nestor swear the jest be laughable.</poem>\n{{right|''Shak.'', M. of V., i. 1. 54.}}}}\n'''3.''' In ''phar.'', a solution of a medicinal substance in acetic acid, or vinegar; acetum.—'''Aromatic''' {{smaller|'''vinegar.''' See ''aromatic.''—'''Beer vinegar.''' See ''beer''<sup>1</sup>.—'''Beet-root vinegar.''' See ''beet-root.''—'''Flowers of vinegar.''' See ''flower, fermentation'', 2, and ''vinegar-plant.''—'''Mother of vinegar.''' See ''mother''<sup>2</sup>, 2, ''fermentation'', 2, ''vinegar-plant.''—'''Pyroligneous vinegar,''' wood-vinegar.—'''Radical vinegar.''' Same as ''glacial acetic acid.'' See ''acetic acid'', under ''acetic.''—'''Raspberry vinegar.''' See ''raspberry.''—'''Thieves’ vinegar.''' See ''thief''<sup>1</sup>.—'''Toilet vinegar.''' Same as ''aromatic vinegar.''—'''Vinegar Bible.''' See ''Bible.''—'''Vinegar of lead,''' a liquor formed by digesting ceruse or litharge with a sufficient quantity of vinegar to dissolve it.—'''Vinegar of opium.''' Same as ''black-drop.''—'''Vinegar of the four thieves.''' See ''thieves’ vinegar.''—'''Wood-vinegar,''' an impure acetic acid obtained by the distillation of wood. Also called ''pyroligneous acid'' or ''vinegar.''}}\n\n'''vinegar''' (vin′ẹ̄-gär), ''v. t.'' [< ''vinegar'', ''n.''] '''1.''' To make into vinegar, or make sour like vinegar.\n{{smaller block|Hoping that he hath ''vinegared'' his senses<br>As he was bid. {{right|''B. Jonson.'' (''Imp. Dict.'')}}}}\n'''2.''' To apply vinegar to; pour vinegar over; also, to mix with vinegar.\n\n[[File:century v08 p0562 c2f1.png|center|159px]]\n{{c|{{smaller|Vinegar-eel (''Leptodera oxyphila''), enlarged about 40 times. ''m'', mouth; ''o'', ovaries.}}}}\n{{smaller block|The landlady . . . proceeded to ''vinegar'' the forehead, beat the hands, titillate the nose, and unlace the stays of the spinster aunt. {{right|''Dickens'', Pickwick, x.}}}}\n\n'''vinegar-cruet''' (vin′ẹ̄-gär-krö″et), ''n.'' A glass bottle for holding vinegar; especially, one of the bottles of a caster.\n\n'''vinegar-eel''' (vin′ẹ̄-gär-ēl), ''n.'' A free-living nematoid worm of the family ''Anguillulidæ'', as ''Anguillula aceti-glutinis'' (or ''Leptodera oxyphila''), and other species found commonly in cut under ''Nematoidea''.\n\n'''vinegarette''' (vin″ẹ̄-gạ-ret′), ''n.'' [< ''vinegar'' + ''-ette'', after ''vinaigrette''.] A vinaigrette.\n{{smaller block|And at parting I gave my dear Harry<br>A beautiful ''vinegarette!''\n{{right|''Thackeray'', The Almack’s Adieu.}}}}\n\n'''vinegar-fly''' (vin′ẹ̄-gär-flī), ''n.'' One of several dipterous insects of the family ''Drosophilidæ'', which are attracted by fermentation, and develop in pickles, jam, and preserved fruit. They belong mainly to the genus ''Drosophila''.\n\n'''vinegarish''' (vin′ẹ̄-gär-ish), ''a.'' [< ''vinegar'' + ''-ish''<sup>1</sup>.] Like vinegar; hence, sour; sharp.\n{{smaller block|Her temper may be ''vinegarish.''\n{{right|''The Rover'', New York, 1844.}}}}\n\n'''vinegar-maker''' (vin′ẹ̄-gär-mā″kėr), ''n.'' The whip-tailed scorpion: translating its West Indian name ''vinaigrier''. See ''Thelyphonus'', and cut under ''Pedipalpi''.\n\n'''vinegar-plant''' (vin′ẹ̄-gär-plant), ''n.'' The microscopic schizomycetous fungus, ''Micrococcus'' (''Mycoderma'') ''aceti'', which produces acetous fermentation. {{smaller|It oxidizes the alcohol in alcoholic liquids, and acetic acid or vinegar is the result. This micrococcus takes two forms: the anaërobiotic form, which produces a mucilaginous mass known as ''mother of vinegar'', and the aërobiotic form, called the ''flowers of vinegar''. See ''fermentation'', 2.}}\n\n'''vinegar-tree''' (vin′ẹ̄-gär-trē), ''n.'' The stag-horn sumac, ''Rhus typhina'', the acid fruit of which has been used to add sourness to vinegar.\n\n'''vinegary''' (vin′ẹ̄-gär-i), ''a.'' Having the character of vinegar; hence, sour; crabbed.\n\n{{smaller block|Altogether, the honeymoon which follows the opening of a new administration has a ''vinegary'' flavor.\n{{right|''The American'', III. 99.}}}}\n'''vinegar-yard''' (vin′ẹ̄-gär-yärd), ''n.'' A yard where vinegar is made and kept. ''Simmonds.''\n\n'''vineger†''', ''n.'' An obsolete spelling of ''vinegar''.\n\n'''vinegerone''' (vin″ẹ̄-ge-rō′ne), ''n.'' [A corrupt form, < ''vinegar''.] The whip-tailed scorpion, ''Thelyphonus giganteus:'' so called on account of the strong vinegar-like odor of an acid secretion noticeable when the creature is alarmed. Also called ''vinaigrier'' and ''vinegar-maker''. See cut under ''Pedipalpi''. [West Indies and Florida.]\n\n'''vine-grub''' (vīn′grub), ''n.'' Any grub infesting the vine.\n\n'''vine-hopper''' (vīn′hop″ėr), ''n.'' See ''leaf-hopper'' and ''Erythroneura''.\n\n'''vine-land''' (vīn′land), ''n.'' Land on which vines are cultivated.\n{{smaller block|There are in Hungary upwards of 1,000,000 acres of ''vine-land.''\n{{right|''Encyc. Brit.'', XXIV. 610.}}}}\n\n'''vine-leek''' (vīn′lēk), ''n.'' See ''leek''.\n\n'''vine-louse''' (vīn′lous), ''n.'' '''1.''' The grape-phylloxera. See ''Phylloxera''.—'''2.''' ''Siphonophora viticola'', a brown plant-louse found commonly on grape-vines in the United States, preferably clustering on the young shoots and on the under sides of young leaves, sometimes infesting the young fruit-clusters.\n\n'''vine-maple''' (vīn′mā″pl), ''n.'' See ''maple''<sup>1</sup>.\n\n'''vine-mildew''' (vīn′mil″dū), ''n.'' See ''grape-mildew, Oïdium, grape-rot.''\n\n'''vine-pest''' (vīn′pest), ''n.'' Same as ''phylloxera'', 2. See cuts under ''oak-pest'' and ''Phylloxera.''\n\n'''vine-plume''' (vīn′plöm), ''n.'' A handsome plume-moth, ''Oxyptilus periscelidactylus.'' {{smaller|Its larva fastens together the young terminal leaves of grape-shoots, and feeds upon the parenchyma and the young bunches of blossom. The moth is yellowish-brown with a metallic luster. See cut under ''plume-moth.''}}\n\n'''vine-puller''' (vīn′pu̇l″ėr), ''n.'' A machine for pulling up vines, etc. {{smaller|It consists of a truck-frame on which is mounted a double-pivoted lever with a chain from which is suspended a pair of double-grip pincers. ''E. H. Knight.''}}\n\n'''viner<sup>1</sup>†''' (vī′nėr), ''n.'' [< OF. ''vingnier'' = Sp. ''viñero'' = Pg. ''vinhero'', one who takes care of a vineyard, = It. ''vignajo'', < ML. ''venearius'', a vine-dresser, < LL. ''vinearius'', of or belonging to vines, < L. ''vinea'', a vine: see ''vine.'' Cf. ''vintner.''] '''1.''' A trimmer of vines.—'''2.''' A member of the Vintners’ Company. ''Marvell.''\n\n'''viner<sup>2</sup>†''', ''n.'' [ME., also ''vynere'', < OF. *''vinere, vinerie'', a place where wine is made or sold, < ''vin'', wine: see ''wine'', and cf. ''vine, vinery.''] A vineyard.\n\n{{smaller block|And alle aboute theise Dyches and ''Vyneres'' is the grete Gardyn, fulle of wylde Bestes. ''Mandeville,'' Travels, p. 216.}}\n\n'''vine-rake''' (vīn′rāk), ''n.'' In ''agri.'', a horse-hoe or -rake having a plow-beam and two curved forks or narrow shares. {{smaller|It is used for cultivating sweet potatoes and other vines, and for gathering the vines together preparatory to digging. It is practically a two-share horse-hoe. ''E. H. Knight.''}}\n\n'''vinery''' (vī′nėr-i), ''n.''; pl. ''vineries'' (-iz). [< ''vine'' + ''-ery.''] '''1†.''' A vineyard.—'''2.''' A greenhouse<noinclude><references/></noinclude>"
+}

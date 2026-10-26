@@ -1,0 +1,319 @@
+{
+ "volume": 8,
+ "page_number": 522,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n521.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n521.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-23",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 1455,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     100,
+     0,
+     2439,
+     102
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     100,
+     102,
+     824,
+     1167
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     101,
+     201,
+     422,
+     569
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     100,
+     1167,
+     824,
+     2110
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     412,
+     1252,
+     770,
+     1585
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     100,
+     2110,
+     824,
+     3158
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     100,
+     3158,
+     824,
+     3216
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     824,
+     102,
+     1564,
+     887
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     824,
+     887,
+     1564,
+     1977
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1182,
+     895,
+     1561,
+     1578
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     824,
+     1977,
+     1564,
+     3065
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     824,
+     3065,
+     1564,
+     3216
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1564,
+     102,
+     2439,
+     1078
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1564,
+     1078,
+     2439,
+     2088
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1564,
+     2088,
+     2439,
+     3141
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1564,
+     3141,
+     2439,
+     3216
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|Veneridæ|6718|vengeance}}",
+   "c1s1": "¶\n'''Veneridæ''' (vē-ner′i-dē), ''n. pl.'' [< ''Venus'' (''Vener-'') + ''-idæ''.] A family of siphonate or sinupalliate\n[[FIGURE]]\n{{c|{{smaller|''Venus paphia'', one of the ''Veneridæ''.}}}}\nbivalve mollusks, whose typical genus is ''Venus'': used with various restrictions. {{smaller|It is now generally restricted to forms with siphons or siphonal orifices distinct and fringed, linguiform foot, the outer pair of branchiæ short and appendiculate, an equivalve shell whose hinge has generally three cardinal teeth, and a slightly sinuate pallial line. The species are mostly of moderate size, and include the quahog, or hard clam of the United States, ''Venus mercenaria'', and numerous other species found in temperate and tropical seas, many of whose shells are highly ornate. See also cuts under ''Cytherea'', ''Venerupis'', ''dimyarian'', and ''quahog''. Also called ''Veneracea'', ''Venusidæ'', and ''Conchacea''.}}\n\n'''venerie†''', ''n.'' An obsolete spelling of ''venery''<sup>1</sup>, ''venery''<sup>2</sup>.\n\n'''venerite''' (ven′e̤-rīt), ''n.'' [< L. ''Venus'' (''Vener-''), Venus, ML. copper, + ''-ite''<sup>2</sup>.] '''1.''' A copper ore from Pennsylvania, consisting of an earthy chloritic mineral impregnated with copper.—'''2.''' Same as ''venulite''.\n\n'''venerous†''' (ven′e̤-rus), ''a.'' [< ''Venus'' (''Vener-''), Venus, + ''-ous''. Cf. ''venereous''.] Same as ''venereous''.\n{{smaller block|<poem>Consum’d with loathed lust,\nWhich thy ''venerous'' mind hath basely nurs’d!</poem>\n{{right|''Lust’s Dominion'', v. 3.}}\nA remedy for ''venerous'' passions.\n{{right|''Burton'', Anat. of Mel., p. 563.}}}}",
+   "c1s2": "¶\n\n'''Venerupis''' (ven-ē-rö′pis), ''n.'' [NL. (Lamarck, 1818), later ''Venerupes'' (Swainson, 1840), < ''Venus'' (''Vener-''), 5, + L. ''rupes'',\n[[FIGURE]]\n{{c|{{smaller|''Venerupis exotica.''}}}}\na rock.] '''1.''' A genus of boring bivalve mollusks of the family ''Veneridæ'', as ''V. perforans'' or ''V. irus'' and ''V. exotica''.—'''2.''' [''l. c.''; pl. ''venerupes'' (-pēz).] A member of this genus; a Venus of the rock.\n\n'''venerupite''' (ven-ē-rö′pīt), ''n.'' [< ''Venerupis'' + ''-ite''<sup>2</sup>.] A fossil Venus of the rock.\n\n'''venery<sup>1</sup>''' (ven′ẹ-ri), ''n.'' [Early mod. E. also ''venerie''; < ME. ''venerye'', ''venorye'', < OF. ''venerie'', F. ''vénerie'' (ML. ''venaria'', beasts of the chase, game), hunting, a hunting-train, a kennel, < ''vener'', < L. ''venari'', hunt, chase: see ''venation''<sup>1</sup>.] '''1.''' The act or exercise of hunting; the sports of the chase; hunting.\n{{smaller block|An outrydere that loved ''venerye''.\n{{right|''Chaucer'', Gen. Prol. to C. T., l. 166.}}\nWe’ll make this hunting of the witch as famous As any other blast of ''venery''.\n{{right|''B. Jonson'', Sad Shepherd, ii. 2.}}\nThe right of pursuing and taking all beasts of chase or ''venary'' . . . was . . . held to belong to the king.\n{{right|''Blackstone'', Com., II. xxvii.}}}}",
+   "c1s3": "2†. Beasts of the chase; game.\n{{smaller block|Bukkes and beris and other bestes wilde,<br>Of alle fair ''venorye'' that falles to metes.\n{{right|''William of Palerne'' (E. E. T. S.), l. 1685.}}}}\n3†. A kennel for hunting-dogs.\n{{smaller block|The ''venery'', where the beagles and hounds were kept.\n{{right|''Urquhart'', tr. of Rabelais, i. 55. (''Davies.'')}}}}\n\n¶\n'''venery'''<sup>2</sup> (ven′e̤-ri), ''n.'' [Early mod. E. ''venerie'', < L. ''Veneria'' (sc. ''res''), sexual intercourse, fem. of ''Venerius'', of Venus, < ''Venus'' (''Vener-''), Venus, sexual intercourse: see ''venereous'', ''Venus''.] Gratification of the sexual desire.\n{{smaller block|<poem>Having discoursd of sensuall gluttonie,\nIt followes now I speake of ''venerie'';\nFor these companions as inseperable\nAre linckt together with sinnes ougly cable.</poem>\n{{right|''Times’ Whistle'' (E. E. T. S.), p. 75.}}}}\n{{smaller block|They are luxurious, incontinent, and prone to ''Venerie.''\n{{right|''Burton'', Anat. of Mel., p. 201.}}}}\n\n'''venesect''' (vē-nẹ̄-sekt′), ''v.'' [< L. ''vena'', vein, + ''secare'', cut: see ''vein'' and ''secant''.] '''I.''' ''trans.'' To cut or open a vein of; phlebotomize.\n\n'''II.''' ''intrans.'' To practise venesection: as, it was common to ''venesect'' for many diseases.\n\n'''venesection''' (vē-nẹ̄-sek′shọn), ''n.'' [< L. ''vena'', vein, + ''sectio''(''n-''), a cutting: see ''section''.] Blood-letting from a vein; phlebotomy. {{smaller|The operation may be performed on any of the superficial veins; but either the median cephalic or the basilic in the bend of the elbow is usually selected for this purpose. (See cut under ''median''<sup>1</sup>.) A band is tied around the arm just above the elbow, so as to cause a turgescence of the veins below, and then the vein selected is opened with a sharp lancet. When the desired amount of blood has been taken away,}}",
+   "c1s4": "the band is removed, and further bleeding arrested by the application of a small compress and bandage.",
+   "c2s1": "¶\n{{smaller block|In a Quinsey he [Aretæus] used ''Venesection'', and allow’d the Blood to flow till the Patient was ready to faint away.\n{{right|''Med. Dict.'' (1745), quoted in Harper’s Mag., LXXX. 440.}}}}\n\n{{smaller block|It is now well understood that spoliative ''venesection'' would be the sure forerunner of disaster to the patient.\n{{right|''J. M. Carnochan'', Operative Surgery, p. 88.}}}}\n\n{{smaller|'''Venesection bandage''', a simple figure-of-eight bandage applied about the elbow after venesection at this point.}}\n\n'''Venetian''' (vẹ̄-nē′shan), ''a.'' and ''n.'' [Early mod. E. also ''Venitian'', as a noun (def. 2) ''venytyons''; < OF. ''Venitian'', F. ''Vénitien'' = It. ''Veneziano'', < ML. *''Venetianus'', < ''Venetia'', Venice, L. ''Venetia'', the country of the Veneti, in the territory later held by Venice.] '''I.''' ''a.'' Of or pertaining to the city, province, or former republic of Venice, in northern Italy, on the edge of the Adriatic.\n\n{{smaller block|The land of the old Veneti bore the ''Venetian'' name ages before the city of Venice was in being.\n{{right|''E. A. Freeman'', Venice, p. 4.}}}}\n\n{{smaller block|A composition neither Byzantine nor Romanesque, unexampled hitherto, only to be called ''Venetian''.\n{{right|''C. E. Norton'', Church-building in Middle Ages, p. 53.}}}}\n\n{{smaller|'''Venetian architecture, Venetian Gothic''', the style of medieval architecture elaborated in Venice between the}}",
+   "c2s2": "twelfth and the early part of the sixteenth century. It combines in many respects the qualities of the arts of Byzantium, of the Italian mainland, and of transalpine Europe, but blends all these into a new style of high decorative quality and originality. The principal characteristics of this style are as follows: each story is usually graced with its own arcaded range of columns or pilasters, forming an open balcony or loggia, and separated from the other stories by conspicuous friezes or belts, often in the form of graceful balustrades; the arched windows are ornamented with small shafts at the sides, and their spandrels are often filled with rich carving; ornamental parapets are common; and the window-heads frequently show plain or pierced cusps of bold yet delicate outline\n[[FIGURE]]\n{{c|{{smaller|Venetian Architecture.<br>An angle of the Ducal Palace.}}}}\nand curves of great refinement. The most splendid example of the style is the famous Ducal Palace. Like all Italian Pointed architecture—the so-called ''Italian Gothic''—the merits of the style lie chiefly in external design; the Italians never sought to master the admirable theory of arched and vaulted construction securing stability by balance of opposed pressures, which was elaborated by northern medieval architects, and raises their architecture to the highest place in the history of the art. Venetian architecture is noteworthy for its lavish use of color derived from inlaid marbles, porphyries, and other stones of rich hue, as well as of gilding and brilliant mosaic and",
+   "c2s3": "painted decoration. It bears witness in many subtile details to the close intercourse of the Venetians with the Orient.—'''Venetian ball.''' See ''ball''<sup>1</sup>.—'''Venetian bar,''' needlework in imitation of heavy lace by buttonhole-stitches around a thread, producing a series of bars or bands across an open space. ''Dict. of Needlework.''—'''Venetian blind,''' a blind made of slats of wood so connected as to overlap one another when closed, and to show a series of open spaces for the admission of light and air when opened. The term is applied especially to a hanging blind of which the slats are held together by strips of webbing or other flexible material. The pulling of a cord lifts the whole blind, the slats coming in contact with one another as they rise until all are packed closely together above the window. The pulling of another cord when the blind is down turns the slats to open or close them. In the British islands outside slatted shutters are also so called.—'''Venetian carpet.''' See ''carpet.''—'''Venetian chalk.''' Same as ''French chalk'' (which see, under ''chalk'').—'''Venetian embroidery,''' embroidery upon linen and similar materials, done by cutting away a great deal of the background so as to produce an open design like coarse lace, the edges of the stuff forming the pattern being stitched, and bars or brides sometimes used to steady and support the smaller leaves, etc.—'''Venetian enamel,''' an enamel used for clock- and watch-dials.—'''Venetian glass.''' See ''glass'' (with cut).—'''Venetian lace.''' See ''rose-point,'' under ''point''<sup>1</sup>.—'''Venetian long-stitch embroidery,''' a simple kind of worsted-work done upon open canvas. ''Dict. of Needlework.''—'''Venetian mosaic.''' See ''mosaic''<sup>1</sup>, 1.—'''Venetian pearl,''' the trade-name for solid artificial pearls. See ''imitation pearl,'' under ''pearl.''—'''Venetian red.''' See ''red''<sup>1</sup>.—'''Venetian sallet,''' a form of sallet in which the neck and cheeks are protected by a long broad side-piece forged in one with the skull-piece, similar to the Greek helm with cheek-pieces and without crest.—'''Venetian school,''' in ''painting,'' the school of Italian painting which arose to prominence in Venice in the fifteenth century, with the Bellinis and Carpaccio, and was preëminent through a great part of the sixteenth century, when its chief masters were Titian, Paul Veronese, Giorgione, Tintoretto, Palma Vecchio, and Lorenzo Lotto. It was above all a school of colorists; in the magnificence of its use of",
+   "c2s4": "pigments and in technical perfection it has never been surpassed; and in every artistic quality its chief masters will always rank with the first painters of the world.—'''Venetian sumac.''' See ''sumac.''—'''Venetian swell''' in ''organbuilding'', a swell, or set of blinds, made after the pattern of Venetian blinds. See ''swell.''—'''Venetian turpentine.'''",
+   "c3s1": "{{smaller|See ''turpentine'' and ''larch''.—'''Venetian window.''' See ''window''.}}\n\n'''II.''' ''n.'' '''1.''' A native of Venice.—'''2†.''' [''l. c.''] ''pl.'' A particular fashion of hose or breeches reaching below the knee, originally brought from Venice: same as ''galligaskins'', 1.\n{{smaller block|Item for a ell half of brod taffaty to make him a dublet and ''venytyons''. 12 Sh.\n{{right|''Wardship of Rich. Fermor'' (1586).}}}}\n'''3.''' A Venetian blind. [Colloq.]\n{{smaller block|There is not a single pane of glass in the town, badly closing ''venetians'' being the only means of shutting up the windows.\n{{right|''E. Sartorius'', In the Soudan, p. 102.}}}}\n'''4.''' ''pl.'' A heavy kind of tape or braid made for Venetian blinds, to hold the slats in place.—'''5.''' Same as ''domino'', 2.\n{{smaller block|I then put off my sword, and put on my ''Venetian'' or domino, and entered the bal masqué. ''The Century'', XLII. 283.}}\n\n'''Venetianed''' (vē-nē′shand), ''a.'' [< ''Venetian'' + ''-ed''<sup>2</sup>.] Furnished with Venetian blinds: as, a ''Venetianed'' window.\n{{smaller block|The bookcase stood immediately in front of a double ''venetianed'' door.\n{{right|''R. Hodgson'', Proc. Soc. Psych. Research, III. 256.}}}}\n\n'''veneur''' (ve-nėr′), ''n.'' [< OF. ''veneor'', F. ''veneur'' (= Pr. ''venaire''), < L. ''venator'', a hunter, < ''venari'', hunt: see ''venation''<sup>1</sup>.] A person charged with the care of the chase, especially with the hounds used in the chase. There were mounted veneurs, and those of inferior class on foot.—{{smaller|'''Grand veneur,''' an officer of the French court charged with the arrangements for the king’s hunting: in later}}",
+   "c3s2": "{{smaller|times, a great dignity of the royal household.}}\n\n'''venew†''', '''veney†''', ''n.'' Same as ''venue''<sup>1</sup>.\n\n'''Venezuelan''' (ven-e-zwē′lạn), ''a.'' and ''n.'' [< ''Venezuela'' (see def.) + ''-an.''] '''I.''' ''a.'' Of or pertaining to Venezuela, a republic of South America, on the northern coast.\n{{smaller block|Guzman Blanco could not procure an audience with Lord Salisbury to protest against British seizures of ''Venezuelan'' territory at the north of the Orinoco.\n{{right|''Amer. Economist'', III. 169.}}}}\n{{smaller|'''Venezuelan ipecacuanha''', a climbing plant of Venezuela, ''Philibertia (Sarcostemma) glauca.''}}\n\n'''II.''' ''n.'' An inhabitant of Venezuela.\n\n'''venge†''' (venj), ''v. t.'' [< ME. ''vengen'', < OF. (and F.) ''venger'' = Sp. ''vengar'', < L. ''vindicare'', avenge, vindicate: see ''vindicate.'' Cf. ''avenge'', ''revenge'', ''vengeance.''] '''1.''' To avenge; take vengeance in behalf of (a person).\n{{smaller block|Right as they han ''venged'' hem on me, right so shal I ''venge'' me upon hem. {{right|''Chaucer'', Tale of Melibeus.}}\n<poem>I am coming on\nTo ''venge'' me as I may. ''Shak.'', Hen. V., i. 2. 292.</poem>}}\n'''2.''' To revenge; take vengeance because of (an offense).\n{{smaller block|Would none but I might ''venge'' my cousin’s death!\n{{right|''Shak.'', R. and J., iii. 5. 87.}}}}\n\n'''vengeable†''' (ven′jạ-bl), ''a.'' [Early mod. E. also ''vengible''; < OF. *''vengeable'' (= Sp. ''vengable''); as ''venge'' + ''-able.''] '''1.''' Capable of being or deserving to be revenged.\n{{smaller block|<poem>I sought\nUpon myselfe that ''vengeable'' despight\nTo punish. ''Spenser'', F. Q., II. iv. 30.</poem>}}",
+   "c3s3": "¶\n'''2.''' Characterized by revengefulness; entertaining or displaying a desire for revenge; vengeful.\n{{smaller block|<poem>In mallyce be not ''vengeable,''\nAs S. Mathewe doth speake.</poem>\n{{right|''Babees Book'' (E. E. T. S.), p. 92.}}\nAlexander . . . dyd put to ''vengeable'' deth his dere frende Clitus.\n{{right|''Sir T. Elyot,'' The Governour, ii. 6.}}}}\n\n'''3.''' Terrible; dreadful; awful; extraordinary: a hyperbolical use.\n{{smaller block|Paulus . . . was a ''vengible'' fellow in linking matters together.\n{{right|''Holland,'' tr. of Camden, p. 78. (''Davies.'')}}}}\n\n'''vengeably†''' (ven′ja̤-bli), ''adv.'' Revengefully; in revenge.\n{{smaller block|Charitably, lovingly, not of malice, not ''vengeably,'' not covetously.\n{{right|''Latimer,'' 4th Sermon bef. Edw. VI., 1594.}}}}\n\n'''vengeance''' (ven′jans), ''n.'' [< ME. ''vengeance, vengeaunce, venjaunce, vengeans, vengance, vengaunce,'' < OF. ''vengeance, venjance,'' F. ''vengeance'' (= Sp. ''venganza'' = It. ''vengianza''), < ''venger,'' avenge: see ''venge.''] '''1.''' Punishment inflicted in return for an injury or an offense. {{smaller|Vengeance generally implies indignation on the part of the punisher, and more or less justice in the nature of the punishment; it may also be inflicted for wrong done to others, as well as to the punisher, in which respects it is usually distinguished from revenge.}}\n{{smaller block|<poem>''Veniaunce, veniaunce'' forȝiue be it neuere.</poem>\n{{right|''Piers Plowman'' (B), xvii. 288.}}\n''Vengeance'' is mine; I will repay, saith the Lord.\n{{right|Rom. xii. 19.}}}}\n\n'''2†.''' Harm, mischief, or evil generally: formerly often used as an imprecation, especially in the phrase ''what a'' (''the'') ''vengeance!''",
+   "c3s4": "{{smaller block|<poem>Whiles the eye of man did woo me,\nThat could do no ''vengeance'' to me.</poem>\n{{right|''Shak.'', As you Like it, iv. 3. 48.}}}}"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0522 c1f1.png",
+   "c1f2": "century v08 p0522 c1f2.png",
+   "c2f1": "century v08 p0522 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     113,
+     213,
+     410,
+     557
+    ],
+    "caption": [
+     130,
+     563,
+     390,
+     603
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     106,
+     248,
+     446,
+     592
+    ]
+   },
+   {
+    "box": [
+     424,
+     1264,
+     758,
+     1573
+    ],
+    "caption": [
+     539,
+     1582,
+     690,
+     1609
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     424,
+     1264,
+     758,
+     1573
+    ]
+   },
+   {
+    "box": [
+     1194,
+     907,
+     1549,
+     1566
+    ],
+    "caption": [
+     1216,
+     1598,
+     1527,
+     1646
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1193,
+     844,
+     1556,
+     1582
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    2,
+    0
+   ],
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 4,
+    "input_tokens": 16,
+    "output_tokens": 260,
+    "cache_creation_input_tokens": 7660,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 13,
+    "input_tokens": 10297,
+    "output_tokens": 9948,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 51558
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c2f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|Veneridæ|6718|vengeance}}</noinclude>{{nop}}'''Veneridæ''' (vē-ner′i-dē), ''n. pl.'' [< ''Venus'' (''Vener-'') + ''-idæ''.] A family of siphonate or sinupalliate\nbivalve mollusks, whose typical genus is ''Venus'': used with various restrictions. {{smaller|It is now generally restricted to forms with siphons or siphonal orifices distinct and fringed, linguiform foot, the outer pair of branchiæ short and appendiculate, an equivalve shell whose hinge has generally three cardinal teeth, and a slightly sinuate pallial line. The species are mostly of moderate size, and include the quahog, or hard clam of the United States, ''Venus mercenaria'', and numerous other species found in temperate and tropical seas, many of whose shells are highly ornate. See also cuts under ''Cytherea'', ''Venerupis'', ''dimyarian'', and ''quahog''. Also called ''Veneracea'', ''Venusidæ'', and ''Conchacea''.}}\n\n[[File:century v08 p0522 c1f1.png|center|79px]]\n{{c|{{smaller|''Venus paphia'', one of the ''Veneridæ''.}}}}\n\n'''venerie†''', ''n.'' An obsolete spelling of ''venery''<sup>1</sup>, ''venery''<sup>2</sup>.\n\n'''venerite''' (ven′e̤-rīt), ''n.'' [< L. ''Venus'' (''Vener-''), Venus, ML. copper, + ''-ite''<sup>2</sup>.] '''1.''' A copper ore from Pennsylvania, consisting of an earthy chloritic mineral impregnated with copper.—'''2.''' Same as ''venulite''.\n\n'''venerous†''' (ven′e̤-rus), ''a.'' [< ''Venus'' (''Vener-''), Venus, + ''-ous''. Cf. ''venereous''.] Same as ''venereous''.\n{{smaller block|<poem>Consum’d with loathed lust,\nWhich thy ''venerous'' mind hath basely nurs’d!</poem>\n{{right|''Lust’s Dominion'', v. 3.}}\nA remedy for ''venerous'' passions.\n{{right|''Burton'', Anat. of Mel., p. 563.}}}}\n\n'''Venerupis''' (ven-ē-rö′pis), ''n.'' [NL. (Lamarck, 1818), later ''Venerupes'' (Swainson, 1840), < ''Venus'' (''Vener-''), 5, + L. ''rupes'',\na rock.] '''1.''' A genus of boring bivalve mollusks of the family ''Veneridæ'', as ''V. perforans'' or ''V. irus'' and ''V. exotica''.—'''2.''' [''l. c.''; pl. ''venerupes'' (-pēz).] A member of this genus; a Venus of the rock.\n\n[[File:century v08 p0522 c1f2.png|center|89px]]\n{{c|{{smaller|''Venerupis exotica.''}}}}\n\n'''venerupite''' (ven-ē-rö′pīt), ''n.'' [< ''Venerupis'' + ''-ite''<sup>2</sup>.] A fossil Venus of the rock.\n\n'''venery<sup>1</sup>''' (ven′ẹ-ri), ''n.'' [Early mod. E. also ''venerie''; < ME. ''venerye'', ''venorye'', < OF. ''venerie'', F. ''vénerie'' (ML. ''venaria'', beasts of the chase, game), hunting, a hunting-train, a kennel, < ''vener'', < L. ''venari'', hunt, chase: see ''venation''<sup>1</sup>.] '''1.''' The act or exercise of hunting; the sports of the chase; hunting.\n{{smaller block|An outrydere that loved ''venerye''.\n{{right|''Chaucer'', Gen. Prol. to C. T., l. 166.}}\nWe’ll make this hunting of the witch as famous As any other blast of ''venery''.\n{{right|''B. Jonson'', Sad Shepherd, ii. 2.}}\nThe right of pursuing and taking all beasts of chase or ''venary'' . . . was . . . held to belong to the king.\n{{right|''Blackstone'', Com., II. xxvii.}}}} 2†. Beasts of the chase; game.\n{{smaller block|Bukkes and beris and other bestes wilde,<br>Of alle fair ''venorye'' that falles to metes.\n{{right|''William of Palerne'' (E. E. T. S.), l. 1685.}}}}\n3†. A kennel for hunting-dogs.\n{{smaller block|The ''venery'', where the beagles and hounds were kept.\n{{right|''Urquhart'', tr. of Rabelais, i. 55. (''Davies.'')}}}}\n\n'''venery'''<sup>2</sup> (ven′e̤-ri), ''n.'' [Early mod. E. ''venerie'', < L. ''Veneria'' (sc. ''res''), sexual intercourse, fem. of ''Venerius'', of Venus, < ''Venus'' (''Vener-''), Venus, sexual intercourse: see ''venereous'', ''Venus''.] Gratification of the sexual desire.\n{{smaller block|<poem>Having discoursd of sensuall gluttonie,\nIt followes now I speake of ''venerie'';\nFor these companions as inseperable\nAre linckt together with sinnes ougly cable.</poem>\n{{right|''Times’ Whistle'' (E. E. T. S.), p. 75.}}}}\n{{smaller block|They are luxurious, incontinent, and prone to ''Venerie.''\n{{right|''Burton'', Anat. of Mel., p. 201.}}}}\n\n'''venesect''' (vē-nẹ̄-sekt′), ''v.'' [< L. ''vena'', vein, + ''secare'', cut: see ''vein'' and ''secant''.] '''I.''' ''trans.'' To cut or open a vein of; phlebotomize.\n\n'''II.''' ''intrans.'' To practise venesection: as, it was common to ''venesect'' for many diseases.\n\n'''venesection''' (vē-nẹ̄-sek′shọn), ''n.'' [< L. ''vena'', vein, + ''sectio''(''n-''), a cutting: see ''section''.] Blood-letting from a vein; phlebotomy. {{smaller|The operation may be performed on any of the superficial veins; but either the median cephalic or the basilic in the bend of the elbow is usually selected for this purpose. (See cut under ''median''<sup>1</sup>.) A band is tied around the arm just above the elbow, so as to cause a turgescence of the veins below, and then the vein selected is opened with a sharp lancet. When the desired amount of blood has been taken away,}} the band is removed, and further bleeding arrested by the application of a small compress and bandage.\n\n{{smaller block|In a Quinsey he [Aretæus] used ''Venesection'', and allow’d the Blood to flow till the Patient was ready to faint away.\n{{right|''Med. Dict.'' (1745), quoted in Harper’s Mag., LXXX. 440.}}}}\n\n{{smaller block|It is now well understood that spoliative ''venesection'' would be the sure forerunner of disaster to the patient.\n{{right|''J. M. Carnochan'', Operative Surgery, p. 88.}}}}\n\n{{smaller|'''Venesection bandage''', a simple figure-of-eight bandage applied about the elbow after venesection at this point.}}\n\n'''Venetian''' (vẹ̄-nē′shan), ''a.'' and ''n.'' [Early mod. E. also ''Venitian'', as a noun (def. 2) ''venytyons''; < OF. ''Venitian'', F. ''Vénitien'' = It. ''Veneziano'', < ML. *''Venetianus'', < ''Venetia'', Venice, L. ''Venetia'', the country of the Veneti, in the territory later held by Venice.] '''I.''' ''a.'' Of or pertaining to the city, province, or former republic of Venice, in northern Italy, on the edge of the Adriatic.\n\n{{smaller block|The land of the old Veneti bore the ''Venetian'' name ages before the city of Venice was in being.\n{{right|''E. A. Freeman'', Venice, p. 4.}}}}\n\n{{smaller block|A composition neither Byzantine nor Romanesque, unexampled hitherto, only to be called ''Venetian''.\n{{right|''C. E. Norton'', Church-building in Middle Ages, p. 53.}}}}\n\n{{smaller|'''Venetian architecture, Venetian Gothic''', the style of medieval architecture elaborated in Venice between the}} twelfth and the early part of the sixteenth century. It combines in many respects the qualities of the arts of Byzantium, of the Italian mainland, and of transalpine Europe, but blends all these into a new style of high decorative quality and originality. The principal characteristics of this style are as follows: each story is usually graced with its own arcaded range of columns or pilasters, forming an open balcony or loggia, and separated from the other stories by conspicuous friezes or belts, often in the form of graceful balustrades; the arched windows are ornamented with small shafts at the sides, and their spandrels are often filled with rich carving; ornamental parapets are common; and the window-heads frequently show plain or pierced cusps of bold yet delicate outline {{img float|file=century v08 p0522 c2f1.png|width=94px|align=right|cap={{smaller|Venetian Architecture.<br>An angle of the Ducal Palace.}}}} and curves of great refinement. The most splendid example of the style is the famous Ducal Palace. Like all Italian Pointed architecture—the so-called ''Italian Gothic''—the merits of the style lie chiefly in external design; the Italians never sought to master the admirable theory of arched and vaulted construction securing stability by balance of opposed pressures, which was elaborated by northern medieval architects, and raises their architecture to the highest place in the history of the art. Venetian architecture is noteworthy for its lavish use of color derived from inlaid marbles, porphyries, and other stones of rich hue, as well as of gilding and brilliant mosaic and painted decoration. It bears witness in many subtile details to the close intercourse of the Venetians with the Orient.—'''Venetian ball.''' See ''ball''<sup>1</sup>.—'''Venetian bar,''' needlework in imitation of heavy lace by buttonhole-stitches around a thread, producing a series of bars or bands across an open space. ''Dict. of Needlework.''—'''Venetian blind,''' a blind made of slats of wood so connected as to overlap one another when closed, and to show a series of open spaces for the admission of light and air when opened. The term is applied especially to a hanging blind of which the slats are held together by strips of webbing or other flexible material. The pulling of a cord lifts the whole blind, the slats coming in contact with one another as they rise until all are packed closely together above the window. The pulling of another cord when the blind is down turns the slats to open or close them. In the British islands outside slatted shutters are also so called.—'''Venetian carpet.''' See ''carpet.''—'''Venetian chalk.''' Same as ''French chalk'' (which see, under ''chalk'').—'''Venetian embroidery,''' embroidery upon linen and similar materials, done by cutting away a great deal of the background so as to produce an open design like coarse lace, the edges of the stuff forming the pattern being stitched, and bars or brides sometimes used to steady and support the smaller leaves, etc.—'''Venetian enamel,''' an enamel used for clock- and watch-dials.—'''Venetian glass.''' See ''glass'' (with cut).—'''Venetian lace.''' See ''rose-point,'' under ''point''<sup>1</sup>.—'''Venetian long-stitch embroidery,''' a simple kind of worsted-work done upon open canvas. ''Dict. of Needlework.''—'''Venetian mosaic.''' See ''mosaic''<sup>1</sup>, 1.—'''Venetian pearl,''' the trade-name for solid artificial pearls. See ''imitation pearl,'' under ''pearl.''—'''Venetian red.''' See ''red''<sup>1</sup>.—'''Venetian sallet,''' a form of sallet in which the neck and cheeks are protected by a long broad side-piece forged in one with the skull-piece, similar to the Greek helm with cheek-pieces and without crest.—'''Venetian school,''' in ''painting,'' the school of Italian painting which arose to prominence in Venice in the fifteenth century, with the Bellinis and Carpaccio, and was preëminent through a great part of the sixteenth century, when its chief masters were Titian, Paul Veronese, Giorgione, Tintoretto, Palma Vecchio, and Lorenzo Lotto. It was above all a school of colorists; in the magnificence of its use of pigments and in technical perfection it has never been surpassed; and in every artistic quality its chief masters will always rank with the first painters of the world.—'''Venetian sumac.''' See ''sumac.''—'''Venetian swell''' in ''organbuilding'', a swell, or set of blinds, made after the pattern of Venetian blinds. See ''swell.''—'''Venetian turpentine.''' {{smaller|See ''turpentine'' and ''larch''.—'''Venetian window.''' See ''window''.}}\n\n'''II.''' ''n.'' '''1.''' A native of Venice.—'''2†.''' [''l. c.''] ''pl.'' A particular fashion of hose or breeches reaching below the knee, originally brought from Venice: same as ''galligaskins'', 1.\n{{smaller block|Item for a ell half of brod taffaty to make him a dublet and ''venytyons''. 12 Sh.\n{{right|''Wardship of Rich. Fermor'' (1586).}}}}\n'''3.''' A Venetian blind. [Colloq.]\n{{smaller block|There is not a single pane of glass in the town, badly closing ''venetians'' being the only means of shutting up the windows.\n{{right|''E. Sartorius'', In the Soudan, p. 102.}}}}\n'''4.''' ''pl.'' A heavy kind of tape or braid made for Venetian blinds, to hold the slats in place.—'''5.''' Same as ''domino'', 2.\n{{smaller block|I then put off my sword, and put on my ''Venetian'' or domino, and entered the bal masqué. ''The Century'', XLII. 283.}}\n\n'''Venetianed''' (vē-nē′shand), ''a.'' [< ''Venetian'' + ''-ed''<sup>2</sup>.] Furnished with Venetian blinds: as, a ''Venetianed'' window.\n{{smaller block|The bookcase stood immediately in front of a double ''venetianed'' door.\n{{right|''R. Hodgson'', Proc. Soc. Psych. Research, III. 256.}}}}\n\n'''veneur''' (ve-nėr′), ''n.'' [< OF. ''veneor'', F. ''veneur'' (= Pr. ''venaire''), < L. ''venator'', a hunter, < ''venari'', hunt: see ''venation''<sup>1</sup>.] A person charged with the care of the chase, especially with the hounds used in the chase. There were mounted veneurs, and those of inferior class on foot.—{{smaller|'''Grand veneur,''' an officer of the French court charged with the arrangements for the king’s hunting: in later times, a great dignity of the royal household.}}\n\n'''venew†''', '''veney†''', ''n.'' Same as ''venue''<sup>1</sup>.\n\n'''Venezuelan''' (ven-e-zwē′lạn), ''a.'' and ''n.'' [< ''Venezuela'' (see def.) + ''-an.''] '''I.''' ''a.'' Of or pertaining to Venezuela, a republic of South America, on the northern coast.\n{{smaller block|Guzman Blanco could not procure an audience with Lord Salisbury to protest against British seizures of ''Venezuelan'' territory at the north of the Orinoco.\n{{right|''Amer. Economist'', III. 169.}}}}\n{{smaller|'''Venezuelan ipecacuanha''', a climbing plant of Venezuela, ''Philibertia (Sarcostemma) glauca.''}}\n\n'''II.''' ''n.'' An inhabitant of Venezuela.\n\n'''venge†''' (venj), ''v. t.'' [< ME. ''vengen'', < OF. (and F.) ''venger'' = Sp. ''vengar'', < L. ''vindicare'', avenge, vindicate: see ''vindicate.'' Cf. ''avenge'', ''revenge'', ''vengeance.''] '''1.''' To avenge; take vengeance in behalf of (a person).\n{{smaller block|Right as they han ''venged'' hem on me, right so shal I ''venge'' me upon hem. {{right|''Chaucer'', Tale of Melibeus.}}\n<poem>I am coming on\nTo ''venge'' me as I may. ''Shak.'', Hen. V., i. 2. 292.</poem>}}\n'''2.''' To revenge; take vengeance because of (an offense).\n{{smaller block|Would none but I might ''venge'' my cousin’s death!\n{{right|''Shak.'', R. and J., iii. 5. 87.}}}}\n\n'''vengeable†''' (ven′jạ-bl), ''a.'' [Early mod. E. also ''vengible''; < OF. *''vengeable'' (= Sp. ''vengable''); as ''venge'' + ''-able.''] '''1.''' Capable of being or deserving to be revenged.\n{{smaller block|<poem>I sought\nUpon myselfe that ''vengeable'' despight\nTo punish. ''Spenser'', F. Q., II. iv. 30.</poem>}}\n\n'''2.''' Characterized by revengefulness; entertaining or displaying a desire for revenge; vengeful.\n{{smaller block|<poem>In mallyce be not ''vengeable,''\nAs S. Mathewe doth speake.</poem>\n{{right|''Babees Book'' (E. E. T. S.), p. 92.}}\nAlexander . . . dyd put to ''vengeable'' deth his dere frende Clitus.\n{{right|''Sir T. Elyot,'' The Governour, ii. 6.}}}}\n\n'''3.''' Terrible; dreadful; awful; extraordinary: a hyperbolical use.\n{{smaller block|Paulus . . . was a ''vengible'' fellow in linking matters together.\n{{right|''Holland,'' tr. of Camden, p. 78. (''Davies.'')}}}}\n\n'''vengeably†''' (ven′ja̤-bli), ''adv.'' Revengefully; in revenge.\n{{smaller block|Charitably, lovingly, not of malice, not ''vengeably,'' not covetously.\n{{right|''Latimer,'' 4th Sermon bef. Edw. VI., 1594.}}}}\n\n'''vengeance''' (ven′jans), ''n.'' [< ME. ''vengeance, vengeaunce, venjaunce, vengeans, vengance, vengaunce,'' < OF. ''vengeance, venjance,'' F. ''vengeance'' (= Sp. ''venganza'' = It. ''vengianza''), < ''venger,'' avenge: see ''venge.''] '''1.''' Punishment inflicted in return for an injury or an offense. {{smaller|Vengeance generally implies indignation on the part of the punisher, and more or less justice in the nature of the punishment; it may also be inflicted for wrong done to others, as well as to the punisher, in which respects it is usually distinguished from revenge.}}\n{{smaller block|<poem>''Veniaunce, veniaunce'' forȝiue be it neuere.</poem>\n{{right|''Piers Plowman'' (B), xvii. 288.}}\n''Vengeance'' is mine; I will repay, saith the Lord.\n{{right|Rom. xii. 19.}}}}\n\n'''2†.''' Harm, mischief, or evil generally: formerly often used as an imprecation, especially in the phrase ''what a'' (''the'') ''vengeance!''\n<poem>Whiles the eye of man did woo me,\nThat could do no ''vengeance'' to me.</poem>\n{{smaller block|{{right|''Shak.'', As you Like it, iv. 3. 48.}}}}<noinclude><references/></noinclude>"
+}

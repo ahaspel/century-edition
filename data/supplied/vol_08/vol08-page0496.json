@@ -1,0 +1,251 @@
+{
+ "volume": 8,
+ "page_number": 496,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n495.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n495.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-23",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 1438,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     144,
+     0,
+     2442,
+     108
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     144,
+     108,
+     845,
+     1100
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     528,
+     250,
+     836,
+     798
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     144,
+     1100,
+     845,
+     2186
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     144,
+     2186,
+     845,
+     3231
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     845,
+     108,
+     1583,
+     1207
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1181,
+     267,
+     1577,
+     595
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     845,
+     1207,
+     1583,
+     2295
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     845,
+     2295,
+     1583,
+     3231
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1583,
+     108,
+     2442,
+     1080
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1583,
+     1080,
+     2442,
+     2144
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1583,
+     2144,
+     2442,
+     3231
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|valvate|6692|vamose}}",
+   "c1s1": "{{RunningHeader|valvate||}}\nprovided with valves; valviferous; valvated: as, ''valvate'' vessels; a ''valvate'' orifice.—'''2.''' In ''bot.'', united by the margins only, and opening as if\n[[FIGURE]]\n{{c|{{smaller|''a'', the valvate estivation of the corolla of ''Ampelopsis quinquefolia''; ''b'', the flower of the same, open; ''c'', stamen of ''Berberis vulgaris'', with the anther dehiscing with valves; ''d'', pod of ''Barbarea vulgaris'' with valvate dehiscence.}}}}\nby doors or valves, as the capsules of regularly dehiscent fruits, the anthers of certain ''Ericaceæ'', and the parts of a perianth which in the bud meet without overlapping: said also of an estivation thus characterized.\n\n'''valve''' (valv), ''n.'' [< F. ''valve'' = Sp. Pg. It. ''valva'', < L. ''valva'', the leaf of a double door, pl. ''valvæ'', folding doors, NL. a valve.] '''1.''' One of the leaves of a folding door; in the plural, a folding door.\n{{smaller block|Swift thro’ the ''valves'' the visionary fair<br>Repass’d.\n{{right|''Pope'', Odyssey, iv. 1093.}}\nHeavily closed, with a jarring sound, the ''valves'' of the barn-doors.\n{{right|''Longfellow'', Evangeline, i. 2.}}}}\n'''2.''' Any device or appliance used to control the flow of a liquid, vapor, or gas, or loose material in bulk, through a pipe, passageway, out-",
+   "c1s2": "let, or inlet, in any form of containing vessel.\n{{smaller block|In this wide and general sense, the term includes air-, gas-, steam-, and water-cocks of any kind, water-gates, air-gates, and keys to musical wind-instruments. ''Rotary valves'' are valves in which the leaf, disk, plug, or other device used to close the passage is made to revolve for opening or closing (the common stop-cock being an illustration); ''lifting-valves'' are those in which the ball, cone, or other stopper is lifted or raised clear of the valve-seat by pressure (usually that of the gas, steam, or liquid in the pipe) from below, the ''poppet-'', ''ball-'', and ''safety-valves'' being examples; ''hinged valves'' constitute a large class used in both air- and water-pipes, as the ''butterfly-valves'', ''clack-valves'', and other forms in which the leaf or plate of the valve is fastened on one side to the valve-seat or opening. Springs are sometimes used to keep such valves closed. ''Sliding valves'' are those in which the gate or leaf slides aside to open the valve-way, the ''D-valve'' and some forms of water- and gas-main valves being examples. The long-hinged valves of a pipe-organ, and the round stoppers operated by keys, as in the flute and other instruments, are called ''key-valves''. The names by which valves are distinguished are often descriptive of the shape or motion of the valves, of their use, or of the method by which they are operated, as ''globe-valve'', ''screw-valve'', ''blow-through valve'', ''relief-valve'', ''throttle-valve''. In a trade sense, ''valves'' appear to be distinguished from ''cocks''. A cock is a small plug-valve operated by hand. Other valves moved by screws or levers, or operated by power through some machinery, all self-acting appliances, and all large or complicated gates, stoppers, or cocks, are called ''valves''. The universal use of steam, gas, and water has led to the invention of a great variety of valves. In musical wind-instruments of the trumpet class, the valve is a device for changing the direction and length of the air-column so as to alter the pitch of the tone. The two forms most in use are the piston and the rotary valve — the former being a perforated plunger working in a cylindrical case, and the latter a four-way cock, both being operated by the fingers of the player’s right hand. The result of using a valve is to add to the main tube of the instrument a supplementary tube or crook of such length that the proper tone of the whole is lowered by some definite interval.}}",
+   "c1s3": "{{smaller block|The number of valves is commonly three, the first lowering the fundamental tone a whole step (and all its harmonics proportionally), the second lowering it a half-step, and the third a step and a half. A fourth valve is sometimes added on large instruments, lowering the pitch two steps and a half; and five and six valves have occasionally been tried. Two or more valves are used simultaneously with combined effect. Valves are more or less demanded to compensate for the incompleteness of the scale of all instruments of this family, and to provide for rapid changes of tonality. They are also useful in particular cases to remedy the inaccuracy for concerted music of certain of the regular harmonic series of tones. Their extended application has greatly developed the capacity of all kinds of brass instruments for rapid and unrestricted execution. But on the other hand valves and supplementary crooks cannot always give exactly accurate intonation, and the angles which they more or less necessitate in the air-column tend to injure the purity of the tones. Various compensations for these drawbacks have been attempted, with some success; but valve-instruments are still seldom used in the orchestra, while they are numerous in military bands. See ''piston'', 2, and compare ''key''<sup>1</sup>, 4 (''a''). See cuts under ''back-pressure'', ''ball-cock'', ''conical'', ''organ'', ''reed-organ'', ''twin-valve'', ''slide-valve'', ''steam-engine'', ''safety-valve''.}}\n'''3.''' In ''anat.'' and ''zoöl.'', a membranous part, fold, or thin layer which resembles a valve, or actually serves as a valve in connection with the flow of blood, lymph, or other fluid; a valva or valvula: as, the ''valve'' of Vieussens in the brain; the connivent ''valves'' of Kerkring in the intestine; ''valves'' of the heart, of the veins, etc. See cuts under ''bulb'', ''Crinoidea'', ''heart'', ''lymphatic'', and ''vein''.—'''4.''' In ''bot.'', in flowering plants, one of the segments into which a capsule dehisces, or which opens like a lid in the dehiscence of certain anthers. In ''Diatomaceæ'' each half of the",
+   "c2s1": "silicified membrane or shell is called a ''valve.'' See cuts under ''Marsilea'', ''septicidal'', and ''silicle.'' —'''5.''' In ''conch.'', one of the two or more separable pieces of which the shell may consist, or the whole shell when it is in one piece; each shell, right and left, of ordinary bivalves, and each shell, dorsal and ventral, of brachiopods. See ''bivalve'', ''multivalve'', ''univalve'', ''equivalve'', ''inequivalve'', and cuts under ''Caprotinidæ'', ''Chamidæ'', ''integropalliate'', and ''sinupalliate.''\n[[FIGURE]]\n{{c|{{smaller|Valves of a Brachiopod (''Leptæna''). ''A'', both valves, seen edgewise, showing hinge-area (''V'', ventral valve); ''B'', dorsal valve, interior.}}}}\n—'''6.''' In ''entom.'', a covering plate or sheath of any organ, generally one of a pair of plates which unite to form a tube or vagina, as those covering the external sexual organs, ovipositor, etc.—'''Accessory, aortic, back-pressure, basal valve.''' {{smaller|See the qualifying words.}}—'''Auriculoventricular valves,''' {{smaller|valves guarding either auriculoventricular orifice of the heart: on the right side the tricuspid, on the left the mitral. See cuts under ''heart.''}}—'''Bauhinian valve.''' {{smaller|Same as ''ileocæcal valve.''}}—'''Bicuspid valve.''' {{smaller|Same as ''mitral valve.''}}—'''Blow-through, brake-shoe, conical valve.''' {{smaller|See ''blow-through'', etc.}}—'''Connivent valves.''' {{smaller|See ''valvulæ conniventes'', under ''valvula.''}}—'''Coronary valve.''' {{smaller|See ''coronary.''}}—'''Cylindrical valve.''' {{smaller|See ''cylindric.''}}—'''Delivery-valve.''' {{smaller|See ''delivery.''}}—'''Eustachian valve.''' {{smaller|See ''Eustachian.''}}—'''Gridiron valve.''' {{smaller|See ''gridiron.''}}—'''Hasner’s valve,''' {{smaller|an imperfect valve formed by the mucous membrane at the meatal end of the nasal duct.}}—'''Heister’s valve,''' {{smaller|folds of mucous membrane at the neck of the gall-bladder and in the cys-}}",
+   "c2s2": "{{smaller|tic duct, which present the appearance of a spiral valve. See cut under ''stomach''.—'''Hydraulic, hypopygial, ileocæcal, inferior valve.''' See the adjectives.—'''Ileocolic valve.''' Same as ''ileocæcal valve''.—'''Kingston’s valve,''' a conical valve forming the outlet of the blow-off pipe of a marine engine. It opens through the side of a vessel by turning a screw.—'''Long valve,''' in a steam-engine, same as ''long slide'' (which see, under ''slide'').—'''Low-water valve,''' a valve which opens automatically and allows steam to escape when the water in an engine-boiler is reduced too low for safety.—'''Mitral valve,''' a valve formed by two triangular folds of the endocardium, or inner lining of the heart, situated at the opening between the left ventricle and the auricle, and serving to prevent regurgitation of blood into the latter cavity. Also ''bicuspid valve''. See cut under ''heart''.—'''Oral valves.''' See ''oral''.—'''Oscillating valve,''' a steam-valve which reciprocates on a pivot. It is frequently used with oscillating steam-engines.—'''Overpressure-valve.''' See ''overpressure''.—'''Pocketed valve,''' a valve fitting into a depression or pocket.—'''Pot-lid valve.''' (''a'') A cap-formed valve which shuts down like a cover upon a port or the end of a pipe. (''b'') The cover of the air-pump of a steam-engine. ''E. H. Knight''.—'''Pulmonary valves.''' See ''pulmonary'', and cut under ''heart''.—'''Pulmonic valves.''' Same as ''pulmonary valves''.—'''Pyloric valve.''' (''a'') A small tubercle situated at the anterior angle of the trigonum of the bladder. (''b'') Any formation serving to obstruct or close the pyloric orifice of the stomach. A pylorus may have a valvular construction, or a muscular sphincter may surround the orifice. See ''pylorus'', 2 (''b'').—'''Regulator-valve,''' a throttle-valve.—'''Reverse valve,''' in boilers, a valve opening inward to the pressure of the atmosphere when there is a negative pressure in the boiler.—'''Rotary valve.''' See ''rotary''.—'''Semilunar aortic valve, semilunar pulmonary valve.''' See ''semilunar'', and cut under ''heart''.—'''Semilunar valve of the brain.''' Same as ''valve'' of ''Vieussens''.—'''Sigmoid valve.''' See ''sigmoid''.—'''Spiral valve.''' See ''spiral''.—'''Steam-thrown valve,''' in a steam-engine or steam-pump, a valve moved by direct steam-pressure, without the intervention of an eccentric, crank, cam, or valve-stem. See cut under ''rock-drill''.—'''Thebesian valve.''' See ''Thebesian''.—'''Tricuspid valve.''' See ''tricuspid''.—'''Twin valve.''' See ''twin''<sup>1</sup>.—'''Undershut}}",
+   "c2s3": "{{smaller|'''valve''', a valve placed beneath the sole-plate of a pump or other mechanism, as distinguished from one placed above the plate, and closed by a force acting from below upward. ''E. H. Knight.''—'''Valve of Amussat.''' Same as ''Heister’s valve.''—'''Valve of Bauhin.''' Same as ''ileocæcal valve.''—'''Valve of Hasner.''' See ''Hasner’s valve.''—'''Valve of Tarinus.''' Same as ''valve of Vieussens.''—'''Valve of Thebesius.''' See ''Thebesian valve.''—'''Valve of Tulpius.''' Same as ''ileocæcal valve.''—'''Valve of Varolius.''' Same as ''ileocæcal valve.''—'''Valve of Vieussens''' the delicate transparent roof of the anterior part of the fourth ventricle, continuous anteriorly with the postoptici, posteriorly with the cerebellum; the superior medullary velum.—'''Valves of Kerkring,''' the valvulæ conniventes of the intestine (which see, under ''valvula'').—'''Valves of the heart.''' See ''coronary, mitral, semilunar'' (''aortic, pulmonary''), ''Thebesian'', and ''tricuspid valve''; also cut under ''heart.''—'''Valves of the lymphatics.''' See ''lymphatic'', ''n.'' (with cut).—'''Valves of the veins,''' folds of the lining membrane of the veins, most numerous in those of the lower extremities, which serve to impede or prevent the backward flow of blood in those vessels.}}\n\n¶'''valve-bucket''' (valv′buk″et), ''n.'' A bucket fitted with a valve; specifically, a pump-bucket or sucker.\n\n'''valve-chamber''' (valv′chām″bėr), ''n.'' The chamber in which a pump-valve or a steam-valve operates. See cuts under ''rock-drill, slide-valve,'' and ''steam-hammer.''\n\n'''valve-cock''' (valv′kok), ''n.'' A form of cock or faucet which is closed by the dropping of a valve on its seat. ''E. H. Knight.''\n\n'''valve-coupling''' (valv′kup″ling), ''n.'' A pipe-coupling containing a valve.",
+   "c3s1": "¶\n'''valved''' (valvd), ''a.'' [< ''valve'' + ''-ed''<sup>2</sup>.] Having a valve or valves, in any sense; valvate; valvular.\n\n'''valve-file''' (valv′fīl), ''n.'' A machinists’ file having two acute and two obtuse angles, used in finishing valves, splines, feathers, key-ways, etc. ''E. H. Knight.''\n\n'''valve-gear''' (valv′gēr), ''n.'' Mechanism employed in operating a valve.\n\n'''valveless''' (valv′les), ''a.'' [< ''valve'' + ''-less.''] Having no valve.\n\n'''valvelet''' (valv′let), ''n.'' [< ''valve'' + ''-let.''] A little valve; a valvule.\n\n'''valve-motion''' (valv′mō″shọn), ''n.'' Same as ''valve-gear.''\n\n'''valve-pallet''' (valv′pal″et), ''n.'' Same as ''pallet''<sup>2</sup>, 5.\n\n'''valve-seat''' (valv′sēt), ''n.'' In ''mach.'', the surface upon which a valve rests.\n\n'''valve-stem''' (valv′stem), ''n.'' A rod like a piston-rod by which a valve is moved. See cuts under ''slide-valve'', ''steam-engine'', and ''passenger-engine.''\n\n'''valve-tailed''' (valv′tāld), ''a.'' Noting a Brazilian bat, ''Diclidurus albus'', the end of whose tail occupies a valve-like formation of the interfemoral membrane.\n\n'''valve-view''' (valv′vū), ''n.'' and ''a.'' '''I.''' ''n.'' In ''bot.'', the valval aspect of a diatom. Also called ''side-view.'' See ''valval.''",
+   "c3s2": "¶\n\n'''II.''' ''a.'' Noting a position in which a valve-view is presented; valval.\n\n'''valviferous''' (val-vif′e̤-rus), ''a.'' [< L. ''valva'', valve, + ''ferre'' = E. ''bear''<sup>1</sup>.] Bearing a valve; provided with a valve or valvular parts.\n\n'''valviform''' (val′vi-fôrm), ''a.'' [< L. ''valva'', the leaf of a door (see ''valve''), + ''forma'', form.] Forming or acting as a valve; valvular; valvate. Also ''valvæform.''\n\n'''valvula''' (val′vū-lä̤), ''n.''; pl. ''valvulæ'' (-lē). [NL.: see ''valvule.''] In ''anat.'', same as ''valve.''—{{smaller|'''Valvula Bauhini''', the ileocæcal valve.—'''Valvulæ conniventes''', transverse folds of the mucous membrane and underlying tissues found throughout a large extent of the small intestine. Their use is probably to retard somewhat the passage of the alimentary mass, and at the same time to offer a greater surface for absorption.—'''Valvula Heisteri''', folds of the mucous membrane, in the neck of the gall-bladder and in the cystic duct, which present the appearance of a spiral valve. See cut under ''stomach.''—'''Valvula Vieussensii''', the valve of Vieussens (which see, under ''valve'').}}\n\n'''valvular''' (val′vū-lär), ''a.'' [< ''valvule'' + ''-ar''<sup>3</sup>.] Of or pertaining to a valve or valvula; also, having the character of a valve; valviform.—{{smaller|'''Valvular disease''', disease of one or more of the valves of the heart.—'''Valvular sinus.''' See ''sinus.''}}\n\n'''valvule''' (val′vūl), ''n.'' [< F. ''valvule''; < L. ''valvola'', ''valvula'', dim. of ''valva'', the leaf of a door, etc.: see ''valve.''] '''1.''' A little valve. {{smaller|Specifically—(''a'') In ''anat.'': (1) The valvula or valve of Vieussens. (2) One of the valvulæ conniventes. (''b'') In ''bot.'', a name formerly given to the inner or flowering glumes of grasses. (''c'') In ''entom.'', a corneous piece at the base of the haustellum of sucking insects, corresponding to the labrum in the mandibulate mouth. ''Kirby and Spence.''—'''Interventricular valvules.''' See ''interventricular.''}}",
+   "c3s3": "¶\n'''valvulitis''' (val-vū-lī′tis), ''n.'' [NL., < ''valvula'' + ''-itis.''] Inflammation of the tissues forming a valve, usually one of the valves of the heart.\n\n'''vambrace''' (vam′brās), ''n.'' [Also ''vantbrace, vantbras, vauntbrace''; abbr. < F. ''avant-bras'', < ''avant'', before, in front, + ''bras'', arm: see ''van''<sup>2</sup>, ''avant'', and ''brace''<sup>1</sup>.] The piece of armor which protects the forearm from the elbow-joint to the wrist, whether covering the outer part of the arm only and worn over the sleeve of mail (compare ''garde-bras'' and ''brassart''), or inclosing the whole forearm in a cylinder of iron. See cut under ''rerebrace.''\n\n'''vambraced''' (vam′brāst), ''a.'' [< ''vambrace'' + ''-ed''<sup>2</sup>.] Incased in armor: said of an arm, especially when used in heraldry as a bearing. Also ''umbraced.''\n\n'''vamose''' (va-mōs′), ''v. i.'' and ''t.''; pret. and pp. ''vamosed'', ppr. ''vamosing.'' [< Sp. ''vamos'', 1st pers. pl. pres. ind. (acting as 1st and 2d pl. impv.), used with inf. ''ir'', go; < L. ''vadimus'', 1st pers. pl. ind. of ''vadere'', go, = E. ''wade'': see ''wade.''] To be off; be gone; decamp from. [Slang.]\n{{smaller block|Paul had no such visions; he did not see human lives as pictures, as tableaux-vivants. He was sincerely sorry that Hollis had ''vamosed'' in that way.\n{{right|''C. F. Woolson'', Jupiter Lights, xxxi.}}\nThe inclination to adopt Spanish or Mexican terms, or terms derived from them, is shown also in ''vamosing'', disappearing or running away. ''N. and Q.'', 6th ser., X. 428.}}\n'''To vamose the ranch''', to clear out; decamp. [Slang, U. S.]\n{{smaller block|My precious partners had ''vamosed the ranch.''\n{{right|''The Century'', XVII. 82.}}}}"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0496 c1f1.png",
+   "c2f1": "century v08 p0496 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     540,
+     262,
+     824,
+     786
+    ],
+    "caption": [
+     540,
+     793,
+     834,
+     975
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     524,
+     199,
+     840,
+     791
+    ]
+   },
+   {
+    "box": [
+     1193,
+     279,
+     1565,
+     583
+    ],
+    "caption": [
+     1192,
+     589,
+     1570,
+     672
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1171,
+     265,
+     1547,
+     603
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "1": [
+    1,
+    0
+   ],
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 3,
+    "input_tokens": 12,
+    "output_tokens": 173,
+    "cache_creation_input_tokens": 5548,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 10,
+    "input_tokens": 10048,
+    "output_tokens": 9926,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|valvate|6692|vamose}}</noinclude>{{RunningHeader|valvate||}}\nprovided with valves; valviferous; valvated: as, ''valvate'' vessels; a ''valvate'' orifice.—'''2.''' In ''bot.'', united by the margins only, and opening as if\nby doors or valves, as the capsules of regularly dehiscent fruits, the anthers of certain ''Ericaceæ'', and the parts of a perianth which in the bud meet without overlapping: said also of an estivation thus characterized.\n\n[[File:century v08 p0496 c1f1.png|center|77px]]\n{{c|{{smaller|''a'', the valvate estivation of the corolla of ''Ampelopsis quinquefolia''; ''b'', the flower of the same, open; ''c'', stamen of ''Berberis vulgaris'', with the anther dehiscing with valves; ''d'', pod of ''Barbarea vulgaris'' with valvate dehiscence.}}}}\n\n'''valve''' (valv), ''n.'' [< F. ''valve'' = Sp. Pg. It. ''valva'', < L. ''valva'', the leaf of a double door, pl. ''valvæ'', folding doors, NL. a valve.] '''1.''' One of the leaves of a folding door; in the plural, a folding door.\n{{smaller block|Swift thro’ the ''valves'' the visionary fair<br>Repass’d.\n{{right|''Pope'', Odyssey, iv. 1093.}}\nHeavily closed, with a jarring sound, the ''valves'' of the barn-doors.\n{{right|''Longfellow'', Evangeline, i. 2.}}}}\n'''2.''' Any device or appliance used to control the flow of a liquid, vapor, or gas, or loose material in bulk, through a pipe, passageway, outlet, or inlet, in any form of containing vessel.\n{{smaller block|In this wide and general sense, the term includes air-, gas-, steam-, and water-cocks of any kind, water-gates, air-gates, and keys to musical wind-instruments. ''Rotary valves'' are valves in which the leaf, disk, plug, or other device used to close the passage is made to revolve for opening or closing (the common stop-cock being an illustration); ''lifting-valves'' are those in which the ball, cone, or other stopper is lifted or raised clear of the valve-seat by pressure (usually that of the gas, steam, or liquid in the pipe) from below, the ''poppet-'', ''ball-'', and ''safety-valves'' being examples; ''hinged valves'' constitute a large class used in both air- and water-pipes, as the ''butterfly-valves'', ''clack-valves'', and other forms in which the leaf or plate of the valve is fastened on one side to the valve-seat or opening. Springs are sometimes used to keep such valves closed. ''Sliding valves'' are those in which the gate or leaf slides aside to open the valve-way, the ''D-valve'' and some forms of water- and gas-main valves being examples. The long-hinged valves of a pipe-organ, and the round stoppers operated by keys, as in the flute and other instruments, are called ''key-valves''. The names by which valves are distinguished are often descriptive of the shape or motion of the valves, of their use, or of the method by which they are operated, as ''globe-valve'', ''screw-valve'', ''blow-through valve'', ''relief-valve'', ''throttle-valve''. In a trade sense, ''valves'' appear to be distinguished from ''cocks''. A cock is a small plug-valve operated by hand. Other valves moved by screws or levers, or operated by power through some machinery, all self-acting appliances, and all large or complicated gates, stoppers, or cocks, are called ''valves''. The universal use of steam, gas, and water has led to the invention of a great variety of valves. In musical wind-instruments of the trumpet class, the valve is a device for changing the direction and length of the air-column so as to alter the pitch of the tone. The two forms most in use are the piston and the rotary valve — the former being a perforated plunger working in a cylindrical case, and the latter a four-way cock, both being operated by the fingers of the player’s right hand. The result of using a valve is to add to the main tube of the instrument a supplementary tube or crook of such length that the proper tone of the whole is lowered by some definite interval. The number of valves is commonly three, the first lowering the fundamental tone a whole step (and all its harmonics proportionally), the second lowering it a half-step, and the third a step and a half. A fourth valve is sometimes added on large instruments, lowering the pitch two steps and a half; and five and six valves have occasionally been tried. Two or more valves are used simultaneously with combined effect. Valves are more or less demanded to compensate for the incompleteness of the scale of all instruments of this family, and to provide for rapid changes of tonality. They are also useful in particular cases to remedy the inaccuracy for concerted music of certain of the regular harmonic series of tones. Their extended application has greatly developed the capacity of all kinds of brass instruments for rapid and unrestricted execution. But on the other hand valves and supplementary crooks cannot always give exactly accurate intonation, and the angles which they more or less necessitate in the air-column tend to injure the purity of the tones. Various compensations for these drawbacks have been attempted, with some success; but valve-instruments are still seldom used in the orchestra, while they are numerous in military bands. See ''piston'', 2, and compare ''key''<sup>1</sup>, 4 (''a''). See cuts under ''back-pressure'', ''ball-cock'', ''conical'', ''organ'', ''reed-organ'', ''twin-valve'', ''slide-valve'', ''steam-engine'', ''safety-valve''.}}\n'''3.''' In ''anat.'' and ''zoöl.'', a membranous part, fold, or thin layer which resembles a valve, or actually serves as a valve in connection with the flow of blood, lymph, or other fluid; a valva or valvula: as, the ''valve'' of Vieussens in the brain; the connivent ''valves'' of Kerkring in the intestine; ''valves'' of the heart, of the veins, etc. See cuts under ''bulb'', ''Crinoidea'', ''heart'', ''lymphatic'', and ''vein''.—'''4.''' In ''bot.'', in flowering plants, one of the segments into which a capsule dehisces, or which opens like a lid in the dehiscence of certain anthers. In ''Diatomaceæ'' each half of the silicified membrane or shell is called a ''valve.'' See cuts under ''Marsilea'', ''septicidal'', and ''silicle.'' —'''5.''' In ''conch.'', one of the two or more separable pieces of which the shell may consist, or the whole shell when it is in one piece; each shell, right and left, of ordinary bivalves, and each shell, dorsal and ventral, of brachiopods. See ''bivalve'', ''multivalve'', ''univalve'', ''equivalve'', ''inequivalve'', and cuts under ''Caprotinidæ'', ''Chamidæ'', ''integropalliate'', and ''sinupalliate.''\n—'''6.''' In ''entom.'', a covering plate or sheath of any organ, generally one of a pair of plates which unite to form a tube or vagina, as those covering the external sexual organs, ovipositor, etc.—'''Accessory, aortic, back-pressure, basal valve.''' {{smaller|See the qualifying words.}}—'''Auriculoventricular valves,''' {{smaller|valves guarding either auriculoventricular orifice of the heart: on the right side the tricuspid, on the left the mitral. See cuts under ''heart.''}}—'''Bauhinian valve.''' {{smaller|Same as ''ileocæcal valve.''}}—'''Bicuspid valve.''' {{smaller|Same as ''mitral valve.''}}—'''Blow-through, brake-shoe, conical valve.''' {{smaller|See ''blow-through'', etc.}}—'''Connivent valves.''' {{smaller|See ''valvulæ conniventes'', under ''valvula.''}}—'''Coronary valve.''' {{smaller|See ''coronary.''}}—'''Cylindrical valve.''' {{smaller|See ''cylindric.''}}—'''Delivery-valve.''' {{smaller|See ''delivery.''}}—'''Eustachian valve.''' {{smaller|See ''Eustachian.''}}—'''Gridiron valve.''' {{smaller|See ''gridiron.''}}—'''Hasner’s valve,''' {{smaller|an imperfect valve formed by the mucous membrane at the meatal end of the nasal duct.}}—'''Heister’s valve,''' {{smaller|folds of mucous membrane at the neck of the gall-bladder and in the cystic duct, which present the appearance of a spiral valve. See cut under ''stomach''.—'''Hydraulic, hypopygial, ileocæcal, inferior valve.''' See the adjectives.—'''Ileocolic valve.''' Same as ''ileocæcal valve''.—'''Kingston’s valve,''' a conical valve forming the outlet of the blow-off pipe of a marine engine. It opens through the side of a vessel by turning a screw.—'''Long valve,''' in a steam-engine, same as ''long slide'' (which see, under ''slide'').—'''Low-water valve,''' a valve which opens automatically and allows steam to escape when the water in an engine-boiler is reduced too low for safety.—'''Mitral valve,''' a valve formed by two triangular folds of the endocardium, or inner lining of the heart, situated at the opening between the left ventricle and the auricle, and serving to prevent regurgitation of blood into the latter cavity. Also ''bicuspid valve''. See cut under ''heart''.—'''Oral valves.''' See ''oral''.—'''Oscillating valve,''' a steam-valve which reciprocates on a pivot. It is frequently used with oscillating steam-engines.—'''Overpressure-valve.''' See ''overpressure''.—'''Pocketed valve,''' a valve fitting into a depression or pocket.—'''Pot-lid valve.''' (''a'') A cap-formed valve which shuts down like a cover upon a port or the end of a pipe. (''b'') The cover of the air-pump of a steam-engine. ''E. H. Knight''.—'''Pulmonary valves.''' See ''pulmonary'', and cut under ''heart''.—'''Pulmonic valves.''' Same as ''pulmonary valves''.—'''Pyloric valve.''' (''a'') A small tubercle situated at the anterior angle of the trigonum of the bladder. (''b'') Any formation serving to obstruct or close the pyloric orifice of the stomach. A pylorus may have a valvular construction, or a muscular sphincter may surround the orifice. See ''pylorus'', 2 (''b'').—'''Regulator-valve,''' a throttle-valve.—'''Reverse valve,''' in boilers, a valve opening inward to the pressure of the atmosphere when there is a negative pressure in the boiler.—'''Rotary valve.''' See ''rotary''.—'''Semilunar aortic valve, semilunar pulmonary valve.''' See ''semilunar'', and cut under ''heart''.—'''Semilunar valve of the brain.''' Same as ''valve'' of ''Vieussens''.—'''Sigmoid valve.''' See ''sigmoid''.—'''Spiral valve.''' See ''spiral''.—'''Steam-thrown valve,''' in a steam-engine or steam-pump, a valve moved by direct steam-pressure, without the intervention of an eccentric, crank, cam, or valve-stem. See cut under ''rock-drill''.—'''Thebesian valve.''' See ''Thebesian''.—'''Tricuspid valve.''' See ''tricuspid''.—'''Twin valve.''' See ''twin''<sup>1</sup>.—'''Undershut '''valve''', a valve placed beneath the sole-plate of a pump or other mechanism, as distinguished from one placed above the plate, and closed by a force acting from below upward. ''E. H. Knight.''—'''Valve of Amussat.''' Same as ''Heister’s valve.''—'''Valve of Bauhin.''' Same as ''ileocæcal valve.''—'''Valve of Hasner.''' See ''Hasner’s valve.''—'''Valve of Tarinus.''' Same as ''valve of Vieussens.''—'''Valve of Thebesius.''' See ''Thebesian valve.''—'''Valve of Tulpius.''' Same as ''ileocæcal valve.''—'''Valve of Varolius.''' Same as ''ileocæcal valve.''—'''Valve of Vieussens''' the delicate transparent roof of the anterior part of the fourth ventricle, continuous anteriorly with the postoptici, posteriorly with the cerebellum; the superior medullary velum.—'''Valves of Kerkring,''' the valvulæ conniventes of the intestine (which see, under ''valvula'').—'''Valves of the heart.''' See ''coronary, mitral, semilunar'' (''aortic, pulmonary''), ''Thebesian'', and ''tricuspid valve''; also cut under ''heart.''—'''Valves of the lymphatics.''' See ''lymphatic'', ''n.'' (with cut).—'''Valves of the veins,''' folds of the lining membrane of the veins, most numerous in those of the lower extremities, which serve to impede or prevent the backward flow of blood in those vessels.}}\n\n[[File:century v08 p0496 c2f1.png|center|99px]]\n{{c|{{smaller|Valves of a Brachiopod (''Leptæna''). ''A'', both valves, seen edgewise, showing hinge-area (''V'', ventral valve); ''B'', dorsal valve, interior.}}}}\n\n¶'''valve-bucket''' (valv′buk″et), ''n.'' A bucket fitted with a valve; specifically, a pump-bucket or sucker.\n\n'''valve-chamber''' (valv′chām″bėr), ''n.'' The chamber in which a pump-valve or a steam-valve operates. See cuts under ''rock-drill, slide-valve,'' and ''steam-hammer.''\n\n'''valve-cock''' (valv′kok), ''n.'' A form of cock or faucet which is closed by the dropping of a valve on its seat. ''E. H. Knight.''\n\n'''valve-coupling''' (valv′kup″ling), ''n.'' A pipe-coupling containing a valve.\n\n'''valved''' (valvd), ''a.'' [< ''valve'' + ''-ed''<sup>2</sup>.] Having a valve or valves, in any sense; valvate; valvular.\n\n'''valve-file''' (valv′fīl), ''n.'' A machinists’ file having two acute and two obtuse angles, used in finishing valves, splines, feathers, key-ways, etc. ''E. H. Knight.''\n\n'''valve-gear''' (valv′gēr), ''n.'' Mechanism employed in operating a valve.\n\n'''valveless''' (valv′les), ''a.'' [< ''valve'' + ''-less.''] Having no valve.\n\n'''valvelet''' (valv′let), ''n.'' [< ''valve'' + ''-let.''] A little valve; a valvule.\n\n'''valve-motion''' (valv′mō″shọn), ''n.'' Same as ''valve-gear.''\n\n'''valve-pallet''' (valv′pal″et), ''n.'' Same as ''pallet''<sup>2</sup>, 5.\n\n'''valve-seat''' (valv′sēt), ''n.'' In ''mach.'', the surface upon which a valve rests.\n\n'''valve-stem''' (valv′stem), ''n.'' A rod like a piston-rod by which a valve is moved. See cuts under ''slide-valve'', ''steam-engine'', and ''passenger-engine.''\n\n'''valve-tailed''' (valv′tāld), ''a.'' Noting a Brazilian bat, ''Diclidurus albus'', the end of whose tail occupies a valve-like formation of the interfemoral membrane.\n\n'''valve-view''' (valv′vū), ''n.'' and ''a.'' '''I.''' ''n.'' In ''bot.'', the valval aspect of a diatom. Also called ''side-view.'' See ''valval.''\n\n'''II.''' ''a.'' Noting a position in which a valve-view is presented; valval.\n\n'''valviferous''' (val-vif′e̤-rus), ''a.'' [< L. ''valva'', valve, + ''ferre'' = E. ''bear''<sup>1</sup>.] Bearing a valve; provided with a valve or valvular parts.\n\n'''valviform''' (val′vi-fôrm), ''a.'' [< L. ''valva'', the leaf of a door (see ''valve''), + ''forma'', form.] Forming or acting as a valve; valvular; valvate. Also ''valvæform.''\n\n'''valvula''' (val′vū-lä̤), ''n.''; pl. ''valvulæ'' (-lē). [NL.: see ''valvule.''] In ''anat.'', same as ''valve.''—{{smaller|'''Valvula Bauhini''', the ileocæcal valve.—'''Valvulæ conniventes''', transverse folds of the mucous membrane and underlying tissues found throughout a large extent of the small intestine. Their use is probably to retard somewhat the passage of the alimentary mass, and at the same time to offer a greater surface for absorption.—'''Valvula Heisteri''', folds of the mucous membrane, in the neck of the gall-bladder and in the cystic duct, which present the appearance of a spiral valve. See cut under ''stomach.''—'''Valvula Vieussensii''', the valve of Vieussens (which see, under ''valve'').}}\n\n'''valvular''' (val′vū-lär), ''a.'' [< ''valvule'' + ''-ar''<sup>3</sup>.] Of or pertaining to a valve or valvula; also, having the character of a valve; valviform.—{{smaller|'''Valvular disease''', disease of one or more of the valves of the heart.—'''Valvular sinus.''' See ''sinus.''}}\n\n'''valvule''' (val′vūl), ''n.'' [< F. ''valvule''; < L. ''valvola'', ''valvula'', dim. of ''valva'', the leaf of a door, etc.: see ''valve.''] '''1.''' A little valve. {{smaller|Specifically—(''a'') In ''anat.'': (1) The valvula or valve of Vieussens. (2) One of the valvulæ conniventes. (''b'') In ''bot.'', a name formerly given to the inner or flowering glumes of grasses. (''c'') In ''entom.'', a corneous piece at the base of the haustellum of sucking insects, corresponding to the labrum in the mandibulate mouth. ''Kirby and Spence.''—'''Interventricular valvules.''' See ''interventricular.''}}\n\n'''valvulitis''' (val-vū-lī′tis), ''n.'' [NL., < ''valvula'' + ''-itis.''] Inflammation of the tissues forming a valve, usually one of the valves of the heart.\n\n'''vambrace''' (vam′brās), ''n.'' [Also ''vantbrace, vantbras, vauntbrace''; abbr. < F. ''avant-bras'', < ''avant'', before, in front, + ''bras'', arm: see ''van''<sup>2</sup>, ''avant'', and ''brace''<sup>1</sup>.] The piece of armor which protects the forearm from the elbow-joint to the wrist, whether covering the outer part of the arm only and worn over the sleeve of mail (compare ''garde-bras'' and ''brassart''), or inclosing the whole forearm in a cylinder of iron. See cut under ''rerebrace.''\n\n'''vambraced''' (vam′brāst), ''a.'' [< ''vambrace'' + ''-ed''<sup>2</sup>.] Incased in armor: said of an arm, especially when used in heraldry as a bearing. Also ''umbraced.''\n\n'''vamose''' (va-mōs′), ''v. i.'' and ''t.''; pret. and pp. ''vamosed'', ppr. ''vamosing.'' [< Sp. ''vamos'', 1st pers. pl. pres. ind. (acting as 1st and 2d pl. impv.), used with inf. ''ir'', go; < L. ''vadimus'', 1st pers. pl. ind. of ''vadere'', go, = E. ''wade'': see ''wade.''] To be off; be gone; decamp from. [Slang.]\n{{smaller block|Paul had no such visions; he did not see human lives as pictures, as tableaux-vivants. He was sincerely sorry that Hollis had ''vamosed'' in that way.\n{{right|''C. F. Woolson'', Jupiter Lights, xxxi.}}\nThe inclination to adopt Spanish or Mexican terms, or terms derived from them, is shown also in ''vamosing'', disappearing or running away. ''N. and Q.'', 6th ser., X. 428.}}\n'''To vamose the ranch''', to clear out; decamp. [Slang, U. S.]\n{{smaller block|My precious partners had ''vamosed the ranch.''\n{{right|''The Century'', XVII. 82.}}}}<noinclude><references/></noinclude>"
+}

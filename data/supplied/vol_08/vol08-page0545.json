@@ -1,0 +1,251 @@
+{
+ "volume": 8,
+ "page_number": 545,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n544.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n544.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-23",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 812,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     64,
+     2297,
+     101
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     101,
+     808,
+     916
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     916,
+     808,
+     1672
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1672,
+     808,
+     2693
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2693,
+     808,
+     3315
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     808,
+     101,
+     1551,
+     589
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     808,
+     589,
+     1551,
+     1491
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     808,
+     1491,
+     1551,
+     2466
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     808,
+     2466,
+     1551,
+     3315
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1551,
+     101,
+     2297,
+     1119
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1551,
+     1119,
+     2297,
+     2155
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1867,
+     1122,
+     2279,
+     1752
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1551,
+     2155,
+     2297,
+     3253
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1551,
+     3253,
+     2297,
+     3315
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|vested|6741|vestry}}",
+   "c1s1": "usual when only a part of the body is represented. Also ''clothed.''—'''3.''' Not in a state of contingency or suspension; fixed. {{smaller|In ''law:'' (''a'') Already acquired; existing, in contemplation of law, in a certain person as owner: as, a law is not to be construed so as to impair ''vested'' rights without compensation. See ''right.'' (''b'') Noting the quality of a present absolute right or interest, as distinguished from that which is defeasible. Thus, a legacy is said to be ''vested'' when given in such terms that the legatee has a present right to its future payment which is not defeasible, and he can therefore extinguish it by release. (''c'') Noting the quality of a present estate even though defeasible, as distinguished from that the very existence of which is contingent. Thus, a devise of land is said to be ''vested'' when the circumstances are such that the legatee is existing and known, and would be immediately entitled to possession were the precedent estate to terminate, although the time may not have come when he is entitled to receive it, and although it is possible that before that time comes another person may come into being who will take in preference to him. Meanwhile it is said to be ''vested in interest,'' but not ''vested in possession.''}}—'''Vested remainder.''' {{smaller|See ''remainder'', 3.}}\n\n'''vester''' (ves′tėr), ''n.'' One who invests money or other property; an investor. [Rare.]\n{{smaller block|But in another of their papers . . . they declare that their ''vesters'' aim at nothing short of a community in land and in goods. {{right|''Southey'', To W. S. Landor, Aug. 22, 1829.}}}}\n\n'''vestiarian''' (ves-ti-ā′ri-a̤n), ''a.'' [< ''vestiary'' +",
+   "c1s2": "''-an.''] Same as ''vestiary''.\n\n'''vestiary''' (ves′ti-ā-ri), ''a.'' and ''n.'' [= F. ''vestiaire'', a., = Sp. ''vestuario'' = Pg. ''vestiario'', ''vestuario'', n., = It. ''vestiario'', a. and n., < L. ''vestiarius'', of or pertaining to clothes, neut. ''vestiarium'', a wardrobe, ML. a robing-room, vestry, < ''vestis'', clothing: see ''vest''. Cf. ''vestry''.] '''I.''' ''a.'' Of or pertaining to costume or dress. ''Bp. Hall'', Select Thoughts, § 93.\n\n'''II.''' ''n.''; pl. ''vestiaries'' (-riz). '''1.''' A room or place for the keeping of vestments, garments, or clothes; a wardrobe. ''Fuller.'' [Rare.] —'''2.''' Garb; clothing.\n{{smaller block|If I throw my cloak over a fugitive slave to steal him, it is so short and straight, so threadbare and chinky, that he would be recognized by the idlest observer who had seen him seven years ago in the market-place; but if thou hadst enveloped him in thy versicolored and cloudlike ''vestiary'', puffed and effuse, rustling and rolling, nobody could guess well what animal was under it, much less what man. {{right|''Landor'', Imag. Conv., Diogenes and Plato.}}}}\n'''3†.''' A vestibule; a place of entrance; a court.\n{{smaller block|Thei wenten . . . in the hows of a manner man in Bahurym, that had a pit in his ''vestiary''.\n{{right|''Wyclif'', 2 Ki. [Sam.] xvii. 18.}}}}",
+   "c1s3": "¶\n'''vestibula,''' ''n.'' Plural of ''vestibulum.''\n\n'''vestibular''' (ves-tib′ū-lär), ''a.'' [< ''vestibule'' + ''-ar''<sup>3</sup>.] Of, pertaining to, or resembling a vestibule, in any sense.—{{smaller|'''Vestibular artery,''' a branch of the internal auditory artery distributed, in the form of a minute capillary network, in the substance of the membranous labyrinth.—'''Vestibular membrane.''' Same as ''membrane of Reissner'' (which see, under ''membrane'').—'''Vestibular nerve,''' the branch of the auditory nerve distributed to the vestibule.—'''Vestibular passage.''' Same as ''scala vestibuli'' (which see, under ''scala'').—'''Vestibular saccule''' or '''sacculus.''' See ''saccule.''—'''Vestibular seta,''' the bristle that projects from the vestibule of the ''Vorticellidæ'': originally called in French ''soie de Lachmann. W. S. Kent.''}}\n\n'''vestibulate''' (ves-tib′ū-lāt), ''a.'' [< ''vestibule'' + ''-ate''<sup>1</sup>.] In ''anat.'' and ''zoöl.'', having a vestibule, in any sense; formed into a vestibule; vestibular.\n\n'''vestibule''' (ves′ti-būl), ''n.'' [< F. ''vestibule'' = Sp. ''vestibulo'' = Pg. It. ''vestibulo'', < L. ''vestibulum'', a forecourt, entrance-court, an entrance; variously explained: (''a'') ‘a place separated from the (main) abode,’ < ''ve-'', apart, + ''stabulum'', abode (see ''stable''<sup>1</sup>); (''b'') ‘abode,’ < √ ''ves'', Skt. √ ''vas'', dwell (see ''was''); (''c'') possibly ‘the place where the outer clothing is put on or off as one goes out or comes in,’ i. e. the place corresponding to that assigned to the modern hat-rack (cf. ''vestry''), < ''vestis'', garment, clothing.] '''1.''' A passage, hall, or antechamber next the outer door of a house, from which doors open into the various inner rooms; a porch; a lobby; a hall; a narthex. See cuts under ''opisthodomus'', ''porch'', and ''pronaos''.",
+   "c1s4": "¶\n{{smaller block|In the intention of the early builders of the church, the ''vestibule'', or atrium, was regarded as that portion of the sacred building which was appropriated to those who had not been received into the full standing of members of the Church of Christ.\n{{right|''C. E. Norton'', Travel and Study in Italy, p. 186.}}}}\n'''2.''' In ''anat.'': (''a'') A part of the labyrinth of the ear, the common or central cavity, between the semicircular canals and the cochlea, communicating permanently with the former, and temporarily or permanently with the latter, from the proper membranous cavity of which it is generally shut off subsequently, opening into the tympanum or middle ear by the fenestra ovalis, which, however, is closed in life by a membrane. See cuts under ''ear''<sup>1</sup> and ''temporal''. (''b'') A triangular space between the nymphæ or labia mi-",
+   "c2s1": "nora of the human female and some anthropoid apes, containing the orifice of the urethra, or meatus urinarius. More fully called ''vestibule of the vulva'' and ''vestibulum vaginæ.'' (''c'') A part of the left ventricular cavity of the heart, adjoining the root of the aorta.—'''3.''' In ''zoöl.'': (''a'') A depression of the body-wall of sundry infusorians, as ''Paramecium'' and ''Noctiluca'', leading to the oral and sometimes also to the anal aperture, and thus connected, by means of an esophageal canal, with the endosarc. See ''Vorticella'', ''Noctiluca'', and cut under ''Paramecium.'' (''b'') In polyzoans, an outer chamber of a cell of the polyzoary, which opens on the surface, and into which, in some forms, the pharynx and anus",
+   "c2s2": "{{smaller|both open.—'''Aortic vestibule.''' See ''aortic.''—'''Common sinus of the vestibule.''' Same as ''utricle'', 2.—'''Membranous vestibule,''' the membranous sac contained within the osseous vestibule, in some animals, as in man, divided into a larger section, the utricle or utriculus, and a lesser, the saccule or sacculus.—'''Osseous vestibule,''' the bony cavity in the petrosal bone, in nearly all vertebrates inclosed by the proötic, epiotic, and opisthotic bones, and inclosing the membranous vestibule.—'''Pyramid of the vestibule.''' See ''pyramid.''—'''Utricle of the vestibule.''' See ''utricle.''—'''Vestibule of the larynx,''' that part of the laryngeal cavity which lies above the false vocal cords.—'''Vestibule of the mouth,''' the cavity of the mouth outside of the teeth, technically called ''vestibulum oris.''—'''Vestibule of the pharynx,''' the fauces; the passage from the mouth to the pharynx, bounded laterally by the pillars of the fauces.—'''Vestibule of the vulva.''' See def. 2 (''b'').—'''Vestibule train.''' See ''vestibule, v. t.'' ='''Syn. 1.''' See definitions of ''porch, portico, hall, lobby, passage.''}}\n\n'''vestibule''' (ves′ti-būl), ''v. t.''; pret. and pp. ''vestibuled'', ppr. ''vestibuling.'' [< ''vestibule'', ''n.''] To provide with a vestibule.{{smaller|—'''Vestibuled train,''' a train of parlor-cars each of which is provided with a “vestibule” at each end—that is, a part of the platform is so inclosed at the sides that when the cars are connected together a continuous passage from car to car is formed. [U. S.]}}\n\n'''vestibulum''' (ves-tib′ū-lum), ''n.''; pl. ''vestibula'' (-lạ̈). [NL.: see ''vestibule.''] In ''anat.'' and ''zoöl.'', a vestibule.{{smaller|—'''Aquæductus vestibuli.''' See ''aquæductus.''—'''Pyramis vestibuli.''' See ''pyramis.''—'''Scala vestibuli.''' See ''scala.''—'''Utriculus vestibuli.''' Same as ''utricle'', 2.—'''Vestibulum oris,''' the vestibule of the mouth (which see, under ''vestibule'').—'''Vestibulum vaginæ.''' Same as ''vesti-''}}",
+   "c2s3": "''bule'', 2 (b).\n\n'''vestigate†''' (ves′ti-gāt), ''v. t.'' [< L. ''vestigatus'', pp. of ''vestigare'', track, trace out, < ''vestigium'', a footprint, track: see ''vestige''. Cf. ''investigate''.] To investigate.\n\n'''vestige''' (ves′tij), ''n.'' [< F. ''vestige'' = Sp. Pg. It. ''vestigio'', < L. ''vestigium'', footstep, footprint, track, the sole of the foot, a trace, mark.] '''1.''' A footprint; a footstep; a track; a trace; hence, a mark, impression, or appearance of something which is no longer present or in existence; a sensible evidence or visible sign of something absent, lost, or perished; remains of something passed away.\n{{smaller block|<poem>Scarce any trace remaining, ''vestige'' gray,\nOr nodding column on the desert shore,\nTo point where Corinth, or where Athens stood.</poem>\n{{right|''Thomson'', Liberty, ii.}}\nI could discover no ''vestiges'' of common houses in Dendera more than in any other of the great towns in Egypt.\n{{right|''Bruce'', Source of the Nile, I. 105.}}\nWhat ''vestiges'' of liberty or property have they left?\n{{right|''Burke'', Rev. in France.}}}}\n'''2.''' In ''biol.'', any vestigial organ or tissue, having little or no utility, but corresponding to a useful part existing in some lower animal. See ''vestigial'' and ''rudiment'', 3. ='''Syn.''' {{smaller|See ''trace''<sup>1</sup>.}}\n\n'''vestigia''', ''n.'' Plural of ''vestigium''.\n\n'''vestigial''' (ves-tij′i-a̤l), ''a.'' [< L. ''vestigium'', footprint (see ''vestige''), + ''-al''.] Of, pertaining to, or of the nature of a vestige; like a mere trace of what has been; also, rudimentary. {{smaller|In biol-}}",
+   "c2s4": "{{smaller|ogy ''vestigial'' has a specific application to those organs or structures which are commonly called ''rudimentary'', and are rudimentary in fact, but which are properly regarded, not as beginnings or incipient states, but as remains of parts or structures which have been better developed in an earlier stage of existence of the same organism, or in lower preceding organisms, and have aborted or atrophied, or become otherwise reduced or rudimental in the evolution of the individual or of the species. Thus, the parovaria, the canals of Gärtner, the male womb, the urachus, and the round ligament of the liver are vestigial structures with reference to the Wolffian bodies and allantois of the fetus; the thymus of the adult is vestigial with reference to that structure in the infant; the vermiform appendix of the colon is vestigial with reference to the very large cæcum of a ruminant; the stunted coracoid process of the scapula of a mammal is a vestigial structure with reference to the large articulated coracoid bone of a bird. Vestigial structures of any kind, or the remains of what has been, are to be carefully distinguished from rudimentary structures, or the beginning of what is to be (as fully explained under ''rudimentary''). They are very significant biological facts, of which much use has been made by Darwin and other modern evolutionists in tracing lines of descent with modification and determining probable ancestry.—'''Vestigial fold''', a projection of the pericardium over the root of the left lung, caused by a cord which is the remains of the nearly obliterated ductus Cuvieri, or sinus of Cuvier, of the fetus.—'''Vestigial'''}}",
+   "c3s1": "'''muscle,''' {{smaller|a muscle, like those of the external ear, which is of use in the lower animals, but poorly developed and scarcely functional in man. ='''Syn.''' ''Abortive'', etc. See ''rudimentary''.}}\n\n'''vestigiary''' (ves-tij′i-ā-ri), ''a.'' [< L. ''vestigium'', footprint, + ''-ary''.] Vestigial.\n\n'''vestigium''' (ves-tij′i-um), ''n.''; pl. ''vestigia'' (-ä). [L.: see ''vestige''.] In ''anat.'', a vestige; a vestigial structure of any kind; a trace, as the pit which marks the closed foramen ovale between the right and left auricles of the heart.—'''Vestigium foraminis ovalis,''' {{smaller|the fovea or fossa ovalis.}}—'''Vestigia rerum,''' {{smaller|traces of things. See the quotation.}}\n{{smaller block|It is not to be doubted that those motions which give rise to sensation leave in the brain changes of its substance which answer to what Haller called “''vestigia rerum'',” and to what that great thinker, David Hartley, termed “Vibratiuncules.”\n{{right|''Huxley'', Address before the British Association at Belfast, 1874.}}}}\n\n'''vestiment†''', ''n.'' An obsolete variant of ''vestment''.\n\n'''vesting''' (ves′ting), ''n.'' [< ''vest'' + ''-ing''<sup>1</sup>.] Cloth especially made for men’s waistcoats: most commonly in the plural.\n\n'''vestiture''' (ves′ti-t̮ūr), ''n.'' [< L. ''vestire'', pp. ''vestitus'', dress, clothe (see ''vest''), + ''-ure''. Cf. ''vesture'', ''investiture''.] '''1†.''' The manufacture or preparation of cloth. ''R. Parke.''—'''2†.''' Investiture.—'''3.''' In ''zoöl.'', the hairs, scales, etc., covering a surface: as, the ''vestiture'' of the thorax of an insect.\n\n'''vestlet''' (vest′let), ''n.'' [< ''vest'' + ''-let''.] A tubicolous sea-anemone of the genus ''Cerianthus'', as ''C. borealis.'' {{smaller|It is not fixed to any support, and remarka-}}",
+   "c3s2": "¶\n[[FIGURE]]\n{{c|{{smaller|Vestlet (''Cerianthus borealis''), one third natural size.}}}}\n{{smaller|bly resembles a cephalobranchiate worm, having a long, smooth, slender body or stalk tapering to a free base, and surmounted by a large double wreath of tentacles. The stem is a tube secreted by the polyp and investing it (whence the name). It is 6 or 8 inches long, and the wreath expands an inch or more. See ''Cerianthus'', and compare cut under ''Edwardsia''.}}\n\n'''vestment''' (vest′me̤nt), ''n.'' [Formerly also ''vestiment, vestament''; < ME. ''vestement'', < OF. ''vestement'', F. ''vêtement'' = Sp. ''vestimento'', m., ''vestimenta'', f., = Pg. ''vestimenta'' = It. ''vestimento'', m., ''vestimenta'', f., < L. ''vestimentum'', clothing, covering, < ''vestire'', clothe: see ''vest'', ''v.''] '''1.''' A covering or garment; some part of clothing or dress; an article of clothing; especially, some part of outer clothing; specifically, a ceremonial or official robe or garment.\n{{smaller block|Hir ''vestiments'' which that they were.\n{{right|''Chaucer'', Knight’s Tale, l. 2090.}}\nThe judges in their ''vestments'' of state attended to give advice on points of law.\n{{right|''Macaulay'', Warren Hastings.}}}}",
+   "c3s3": "'''2.''' ''Eccles.'': (''a'') One of the garments worn, in addition to the cassock and ordinary dress, by the clergy and their assistants, choristers, etc., during divine service and the administration of the sacraments; especially, one of the garments so worn by the celebrant, deacon, and subdeacon during the celebration of the eucharist; specifically, the chasuble, or the chasuble with the other eucharistic garments and ornaments, especially the amice, stole, and maniple. {{smaller|From monumental and other evidence it appears that the type of the principal ecclesiastical vestments has always been nearly the same; that this agreed on the whole with the general style of dress among Greeks, Romans, and Orientals; and that in certain respects it agreed with official rather than common civil dress and with Syrian rather than Greek or Roman costume.}} (''b'') One of the cloths or coverings of the altar.\n\n'''vestral''' (ves′tral), ''a.'' [< ''vestr-y'' + ''-al''.] Of or pertaining to a vestry.\n\n'''vestrify''' (ves′tri-fī), ''v. t.''; pret. and pp. ''vestrified'', ppr. ''vestrifying''. [< ''vestry'' + ''-fy''.] To make a vestry of, or make like a vestry; turn into a vestry. [Rare.]\n{{smaller block|In the debate in the House of Commons on the Redistribution of Seats Bill, Dec. 4, 1884, Mr. Chaplin said it would “tend to ''vestrify'' the House of Commons.”\n{{right|''N. and Q.'', 6th ser., XI. 6.}}}}\n\n'''vestry''' (ves′tri), ''n.''; pl. ''vestries'' (-triz). [< ME. ''vestrye'', < OF. *''vestairie'' (?), ''vestiaire'', F. ''vestiaire'', < L. ''vestiarium'', a wardrobe: see ''vestiary''. For the terminal form, cf. ''sextry''.] '''1.''' A room, or sometimes a separate building, attached to a church, where the vestments of the clergy,",
+   "c3s4": ""
+  },
+  "figure_files": {
+   "c3f1": "century v08 p0545 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1879,
+     1134,
+     2267,
+     1740
+    ],
+    "caption": [
+     1900,
+     1744,
+     2262,
+     1785
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1914,
+     1112,
+     2276,
+     1728
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    2
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 8,
+    "output_tokens": 90,
+    "cache_creation_input_tokens": 4431,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 13,
+    "input_tokens": 10207,
+    "output_tokens": 10545,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 51558
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|vested|6741|vestry}}</noinclude>usual when only a part of the body is represented. Also ''clothed.''—'''3.''' Not in a state of contingency or suspension; fixed. {{smaller|In ''law:'' (''a'') Already acquired; existing, in contemplation of law, in a certain person as owner: as, a law is not to be construed so as to impair ''vested'' rights without compensation. See ''right.'' (''b'') Noting the quality of a present absolute right or interest, as distinguished from that which is defeasible. Thus, a legacy is said to be ''vested'' when given in such terms that the legatee has a present right to its future payment which is not defeasible, and he can therefore extinguish it by release. (''c'') Noting the quality of a present estate even though defeasible, as distinguished from that the very existence of which is contingent. Thus, a devise of land is said to be ''vested'' when the circumstances are such that the legatee is existing and known, and would be immediately entitled to possession were the precedent estate to terminate, although the time may not have come when he is entitled to receive it, and although it is possible that before that time comes another person may come into being who will take in preference to him. Meanwhile it is said to be ''vested in interest,'' but not ''vested in possession.''}}—'''Vested remainder.''' {{smaller|See ''remainder'', 3.}}\n\n'''vester''' (ves′tėr), ''n.'' One who invests money or other property; an investor. [Rare.]\n{{smaller block|But in another of their papers . . . they declare that their ''vesters'' aim at nothing short of a community in land and in goods. {{right|''Southey'', To W. S. Landor, Aug. 22, 1829.}}}}\n\n'''vestiarian''' (ves-ti-ā′ri-a̤n), ''a.'' [< ''vestiary'' + ''-an.''] Same as ''vestiary''.\n\n'''vestiary''' (ves′ti-ā-ri), ''a.'' and ''n.'' [= F. ''vestiaire'', a., = Sp. ''vestuario'' = Pg. ''vestiario'', ''vestuario'', n., = It. ''vestiario'', a. and n., < L. ''vestiarius'', of or pertaining to clothes, neut. ''vestiarium'', a wardrobe, ML. a robing-room, vestry, < ''vestis'', clothing: see ''vest''. Cf. ''vestry''.] '''I.''' ''a.'' Of or pertaining to costume or dress. ''Bp. Hall'', Select Thoughts, § 93.\n\n'''II.''' ''n.''; pl. ''vestiaries'' (-riz). '''1.''' A room or place for the keeping of vestments, garments, or clothes; a wardrobe. ''Fuller.'' [Rare.] —'''2.''' Garb; clothing.\n{{smaller block|If I throw my cloak over a fugitive slave to steal him, it is so short and straight, so threadbare and chinky, that he would be recognized by the idlest observer who had seen him seven years ago in the market-place; but if thou hadst enveloped him in thy versicolored and cloudlike ''vestiary'', puffed and effuse, rustling and rolling, nobody could guess well what animal was under it, much less what man. {{right|''Landor'', Imag. Conv., Diogenes and Plato.}}}}\n'''3†.''' A vestibule; a place of entrance; a court.\n{{smaller block|Thei wenten . . . in the hows of a manner man in Bahurym, that had a pit in his ''vestiary''.\n{{right|''Wyclif'', 2 Ki. [Sam.] xvii. 18.}}}}\n\n'''vestibula,''' ''n.'' Plural of ''vestibulum.''\n\n'''vestibular''' (ves-tib′ū-lär), ''a.'' [< ''vestibule'' + ''-ar''<sup>3</sup>.] Of, pertaining to, or resembling a vestibule, in any sense.—{{smaller|'''Vestibular artery,''' a branch of the internal auditory artery distributed, in the form of a minute capillary network, in the substance of the membranous labyrinth.—'''Vestibular membrane.''' Same as ''membrane of Reissner'' (which see, under ''membrane'').—'''Vestibular nerve,''' the branch of the auditory nerve distributed to the vestibule.—'''Vestibular passage.''' Same as ''scala vestibuli'' (which see, under ''scala'').—'''Vestibular saccule''' or '''sacculus.''' See ''saccule.''—'''Vestibular seta,''' the bristle that projects from the vestibule of the ''Vorticellidæ'': originally called in French ''soie de Lachmann. W. S. Kent.''}}\n\n'''vestibulate''' (ves-tib′ū-lāt), ''a.'' [< ''vestibule'' + ''-ate''<sup>1</sup>.] In ''anat.'' and ''zoöl.'', having a vestibule, in any sense; formed into a vestibule; vestibular.\n\n'''vestibule''' (ves′ti-būl), ''n.'' [< F. ''vestibule'' = Sp. ''vestibulo'' = Pg. It. ''vestibulo'', < L. ''vestibulum'', a forecourt, entrance-court, an entrance; variously explained: (''a'') ‘a place separated from the (main) abode,’ < ''ve-'', apart, + ''stabulum'', abode (see ''stable''<sup>1</sup>); (''b'') ‘abode,’ < √ ''ves'', Skt. √ ''vas'', dwell (see ''was''); (''c'') possibly ‘the place where the outer clothing is put on or off as one goes out or comes in,’ i. e. the place corresponding to that assigned to the modern hat-rack (cf. ''vestry''), < ''vestis'', garment, clothing.] '''1.''' A passage, hall, or antechamber next the outer door of a house, from which doors open into the various inner rooms; a porch; a lobby; a hall; a narthex. See cuts under ''opisthodomus'', ''porch'', and ''pronaos''.\n\n{{smaller block|In the intention of the early builders of the church, the ''vestibule'', or atrium, was regarded as that portion of the sacred building which was appropriated to those who had not been received into the full standing of members of the Church of Christ.\n{{right|''C. E. Norton'', Travel and Study in Italy, p. 186.}}}}\n'''2.''' In ''anat.'': (''a'') A part of the labyrinth of the ear, the common or central cavity, between the semicircular canals and the cochlea, communicating permanently with the former, and temporarily or permanently with the latter, from the proper membranous cavity of which it is generally shut off subsequently, opening into the tympanum or middle ear by the fenestra ovalis, which, however, is closed in life by a membrane. See cuts under ''ear''<sup>1</sup> and ''temporal''. (''b'') A triangular space between the nymphæ or labia minora of the human female and some anthropoid apes, containing the orifice of the urethra, or meatus urinarius. More fully called ''vestibule of the vulva'' and ''vestibulum vaginæ.'' (''c'') A part of the left ventricular cavity of the heart, adjoining the root of the aorta.—'''3.''' In ''zoöl.'': (''a'') A depression of the body-wall of sundry infusorians, as ''Paramecium'' and ''Noctiluca'', leading to the oral and sometimes also to the anal aperture, and thus connected, by means of an esophageal canal, with the endosarc. See ''Vorticella'', ''Noctiluca'', and cut under ''Paramecium.'' (''b'') In polyzoans, an outer chamber of a cell of the polyzoary, which opens on the surface, and into which, in some forms, the pharynx and anus {{smaller|both open.—'''Aortic vestibule.''' See ''aortic.''—'''Common sinus of the vestibule.''' Same as ''utricle'', 2.—'''Membranous vestibule,''' the membranous sac contained within the osseous vestibule, in some animals, as in man, divided into a larger section, the utricle or utriculus, and a lesser, the saccule or sacculus.—'''Osseous vestibule,''' the bony cavity in the petrosal bone, in nearly all vertebrates inclosed by the proötic, epiotic, and opisthotic bones, and inclosing the membranous vestibule.—'''Pyramid of the vestibule.''' See ''pyramid.''—'''Utricle of the vestibule.''' See ''utricle.''—'''Vestibule of the larynx,''' that part of the laryngeal cavity which lies above the false vocal cords.—'''Vestibule of the mouth,''' the cavity of the mouth outside of the teeth, technically called ''vestibulum oris.''—'''Vestibule of the pharynx,''' the fauces; the passage from the mouth to the pharynx, bounded laterally by the pillars of the fauces.—'''Vestibule of the vulva.''' See def. 2 (''b'').—'''Vestibule train.''' See ''vestibule, v. t.'' ='''Syn. 1.''' See definitions of ''porch, portico, hall, lobby, passage.''}}\n\n'''vestibule''' (ves′ti-būl), ''v. t.''; pret. and pp. ''vestibuled'', ppr. ''vestibuling.'' [< ''vestibule'', ''n.''] To provide with a vestibule.{{smaller|—'''Vestibuled train,''' a train of parlor-cars each of which is provided with a “vestibule” at each end—that is, a part of the platform is so inclosed at the sides that when the cars are connected together a continuous passage from car to car is formed. [U. S.]}}\n\n'''vestibulum''' (ves-tib′ū-lum), ''n.''; pl. ''vestibula'' (-lạ̈). [NL.: see ''vestibule.''] In ''anat.'' and ''zoöl.'', a vestibule.{{smaller|—'''Aquæductus vestibuli.''' See ''aquæductus.''—'''Pyramis vestibuli.''' See ''pyramis.''—'''Scala vestibuli.''' See ''scala.''—'''Utriculus vestibuli.''' Same as ''utricle'', 2.—'''Vestibulum oris,''' the vestibule of the mouth (which see, under ''vestibule'').—'''Vestibulum vaginæ.''' Same as ''vesti''bule''''}}, 2 (b).\n\n'''vestigate†''' (ves′ti-gāt), ''v. t.'' [< L. ''vestigatus'', pp. of ''vestigare'', track, trace out, < ''vestigium'', a footprint, track: see ''vestige''. Cf. ''investigate''.] To investigate.\n\n'''vestige''' (ves′tij), ''n.'' [< F. ''vestige'' = Sp. Pg. It. ''vestigio'', < L. ''vestigium'', footstep, footprint, track, the sole of the foot, a trace, mark.] '''1.''' A footprint; a footstep; a track; a trace; hence, a mark, impression, or appearance of something which is no longer present or in existence; a sensible evidence or visible sign of something absent, lost, or perished; remains of something passed away.\n{{smaller block|<poem>Scarce any trace remaining, ''vestige'' gray,\nOr nodding column on the desert shore,\nTo point where Corinth, or where Athens stood.</poem>\n{{right|''Thomson'', Liberty, ii.}}\nI could discover no ''vestiges'' of common houses in Dendera more than in any other of the great towns in Egypt.\n{{right|''Bruce'', Source of the Nile, I. 105.}}\nWhat ''vestiges'' of liberty or property have they left?\n{{right|''Burke'', Rev. in France.}}}}\n'''2.''' In ''biol.'', any vestigial organ or tissue, having little or no utility, but corresponding to a useful part existing in some lower animal. See ''vestigial'' and ''rudiment'', 3. ='''Syn.''' {{smaller|See ''trace''<sup>1</sup>.}}\n\n'''vestigia''', ''n.'' Plural of ''vestigium''.\n\n'''vestigial''' (ves-tij′i-a̤l), ''a.'' [< L. ''vestigium'', footprint (see ''vestige''), + ''-al''.] Of, pertaining to, or of the nature of a vestige; like a mere trace of what has been; also, rudimentary. {{smaller|In biology ''vestigial'' has a specific application to those organs or structures which are commonly called ''rudimentary'', and are rudimentary in fact, but which are properly regarded, not as beginnings or incipient states, but as remains of parts or structures which have been better developed in an earlier stage of existence of the same organism, or in lower preceding organisms, and have aborted or atrophied, or become otherwise reduced or rudimental in the evolution of the individual or of the species. Thus, the parovaria, the canals of Gärtner, the male womb, the urachus, and the round ligament of the liver are vestigial structures with reference to the Wolffian bodies and allantois of the fetus; the thymus of the adult is vestigial with reference to that structure in the infant; the vermiform appendix of the colon is vestigial with reference to the very large cæcum of a ruminant; the stunted coracoid process of the scapula of a mammal is a vestigial structure with reference to the large articulated coracoid bone of a bird. Vestigial structures of any kind, or the remains of what has been, are to be carefully distinguished from rudimentary structures, or the beginning of what is to be (as fully explained under ''rudimentary''). They are very significant biological facts, of which much use has been made by Darwin and other modern evolutionists in tracing lines of descent with modification and determining probable ancestry.—'''Vestigial fold''', a projection of the pericardium over the root of the left lung, caused by a cord which is the remains of the nearly obliterated ductus Cuvieri, or sinus of Cuvier, of the fetus.—'''Vestigial'''}} '''muscle,''' {{smaller|a muscle, like those of the external ear, which is of use in the lower animals, but poorly developed and scarcely functional in man. ='''Syn.''' ''Abortive'', etc. See ''rudimentary''.}}\n\n'''vestigiary''' (ves-tij′i-ā-ri), ''a.'' [< L. ''vestigium'', footprint, + ''-ary''.] Vestigial.\n\n'''vestigium''' (ves-tij′i-um), ''n.''; pl. ''vestigia'' (-ä). [L.: see ''vestige''.] In ''anat.'', a vestige; a vestigial structure of any kind; a trace, as the pit which marks the closed foramen ovale between the right and left auricles of the heart.—'''Vestigium foraminis ovalis,''' {{smaller|the fovea or fossa ovalis.}}—'''Vestigia rerum,''' {{smaller|traces of things. See the quotation.}}\n{{smaller block|It is not to be doubted that those motions which give rise to sensation leave in the brain changes of its substance which answer to what Haller called “''vestigia rerum'',” and to what that great thinker, David Hartley, termed “Vibratiuncules.”\n{{right|''Huxley'', Address before the British Association at Belfast, 1874.}}}}\n\n'''vestiment†''', ''n.'' An obsolete variant of ''vestment''.\n\n'''vesting''' (ves′ting), ''n.'' [< ''vest'' + ''-ing''<sup>1</sup>.] Cloth especially made for men’s waistcoats: most commonly in the plural.\n\n'''vestiture''' (ves′ti-t̮ūr), ''n.'' [< L. ''vestire'', pp. ''vestitus'', dress, clothe (see ''vest''), + ''-ure''. Cf. ''vesture'', ''investiture''.] '''1†.''' The manufacture or preparation of cloth. ''R. Parke.''—'''2†.''' Investiture.—'''3.''' In ''zoöl.'', the hairs, scales, etc., covering a surface: as, the ''vestiture'' of the thorax of an insect.\n\n'''vestlet''' (vest′let), ''n.'' [< ''vest'' + ''-let''.] A tubicolous sea-anemone of the genus ''Cerianthus'', as ''C. borealis.'' {{smaller|It is not fixed to any support, and remarka-}}\n\n{{img float|file=century v08 p0545 c3f1.png|width=183px|align=right|cap={{smaller|Vestlet (''Cerianthus borealis''), one third natural size.}}}}\n{{smaller|bly resembles a cephalobranchiate worm, having a long, smooth, slender body or stalk tapering to a free base, and surmounted by a large double wreath of tentacles. The stem is a tube secreted by the polyp and investing it (whence the name). It is 6 or 8 inches long, and the wreath expands an inch or more. See ''Cerianthus'', and compare cut under ''Edwardsia''.}}\n\n'''vestment''' (vest′me̤nt), ''n.'' [Formerly also ''vestiment, vestament''; < ME. ''vestement'', < OF. ''vestement'', F. ''vêtement'' = Sp. ''vestimento'', m., ''vestimenta'', f., = Pg. ''vestimenta'' = It. ''vestimento'', m., ''vestimenta'', f., < L. ''vestimentum'', clothing, covering, < ''vestire'', clothe: see ''vest'', ''v.''] '''1.''' A covering or garment; some part of clothing or dress; an article of clothing; especially, some part of outer clothing; specifically, a ceremonial or official robe or garment.\n{{smaller block|Hir ''vestiments'' which that they were.\n{{right|''Chaucer'', Knight’s Tale, l. 2090.}}\nThe judges in their ''vestments'' of state attended to give advice on points of law.\n{{right|''Macaulay'', Warren Hastings.}}}} '''2.''' ''Eccles.'': (''a'') One of the garments worn, in addition to the cassock and ordinary dress, by the clergy and their assistants, choristers, etc., during divine service and the administration of the sacraments; especially, one of the garments so worn by the celebrant, deacon, and subdeacon during the celebration of the eucharist; specifically, the chasuble, or the chasuble with the other eucharistic garments and ornaments, especially the amice, stole, and maniple. {{smaller|From monumental and other evidence it appears that the type of the principal ecclesiastical vestments has always been nearly the same; that this agreed on the whole with the general style of dress among Greeks, Romans, and Orientals; and that in certain respects it agreed with official rather than common civil dress and with Syrian rather than Greek or Roman costume.}} (''b'') One of the cloths or coverings of the altar.\n\n'''vestral''' (ves′tral), ''a.'' [< ''vestr-y'' + ''-al''.] Of or pertaining to a vestry.\n\n'''vestrify''' (ves′tri-fī), ''v. t.''; pret. and pp. ''vestrified'', ppr. ''vestrifying''. [< ''vestry'' + ''-fy''.] To make a vestry of, or make like a vestry; turn into a vestry. [Rare.]\n{{smaller block|In the debate in the House of Commons on the Redistribution of Seats Bill, Dec. 4, 1884, Mr. Chaplin said it would “tend to ''vestrify'' the House of Commons.”\n{{right|''N. and Q.'', 6th ser., XI. 6.}}}}\n\n'''vestry''' (ves′tri), ''n.''; pl. ''vestries'' (-triz). [< ME. ''vestrye'', < OF. *''vestairie'' (?), ''vestiaire'', F. ''vestiaire'', < L. ''vestiarium'', a wardrobe: see ''vestiary''. For the terminal form, cf. ''sextry''.] '''1.''' A room, or sometimes a separate building, attached to a church, where the vestments of the clergy,<noinclude><references/></noinclude>"
+}

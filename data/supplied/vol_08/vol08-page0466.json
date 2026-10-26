@@ -1,0 +1,168 @@
+{
+ "volume": 8,
+ "page_number": 466,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n465.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n465.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-23",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 1455,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     132,
+     87,
+     2442,
+     162
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     132,
+     162,
+     848,
+     1210
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     132,
+     1210,
+     848,
+     2298
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     132,
+     2298,
+     848,
+     3231
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     162,
+     1587,
+     1242
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     1242,
+     1587,
+     2287
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     2287,
+     1587,
+     3231
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1587,
+     162,
+     2442,
+     1187
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1587,
+     1187,
+     2442,
+     2216
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1587,
+     2216,
+     2442,
+     3231
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|uprear|6662|upsees}}",
+   "c1s1": "¶\n'''uprear''' (up-rēr′), ''v. t.'' To rear up; raise.\n{{smaller block|<poem>She doth ''vprear''\nHer selfe vpon her feet.</poem>\n{{right|''Times’ Whistle'' (E. E. T. S.), p. 36.}}\n<poem>The distant mountains, that ''uprear''\nTheir solid bastions to the skies.</poem>\n{{right|''Longfellow'', The Ladder of St. Augustine.}}}}\n\n'''upridge''' (up-rij′), ''v. t.'' To raise up in ridges or extended lines. ''Cowper'', Odyssey, xix. [Rare.]\n\n'''upright''' (up′rīt, formerly also up-rīt′), ''a.'' and ''n.'' [< ME. ''upriht'', ''uprigt'', ''opriȝt'', < AS. ''upriht'' (= D. ''opregt'' = MLG. ''uprecht'', ''upricht'' = OHG. MHG. ''ufreht'', G. ''aufrecht'' = Icel. ''upprëttr'' = Sw. ''upprätt'' = Dan. ''opret''), straight up, erect, < ''up-'', up, + ''riht'', straight, right: see ''right''.] '''I.''' ''a.'' '''1.''' Erect; vertical.\n{{smaller block|<poem>And sodeynly he was yslayn to-nyght,\nFordronke, as he sat on his bench ''upryght''.</poem>\n{{right|''Chaucer'', Pardoner’s Tale, l. 212.}}\n''Upright'' as the palm-tree.\n{{right|Jer. x. 5.}}}}\n'''2.''' Erect on one’s feet; hence, erect as a human being; in general, having the longest axis vertical: as, an ''upright'' boiler.\n{{smaller block|And there ben othere that han Crestes upon hire Hedes; and thei gon upon hire Feet ''upright''.\n{{right|''Mandeville'', Travels, p. 290.}}\nWhoever tasted lost his ''upright'' shape.\n{{right|''Milton'', Comus, l. 52.}}}}\n'''3.''' Erected; pricked up; standing out straight from the body.\n{{smaller block|Their ears ''upright''.\n{{right|''Spenser'', State of Ireland.}}\nWith chattering teeth and bristling hair ''upright''.\n{{right|''Dryden'', Theodore and Honoria, l. 145.}}}}\n'''4.''' Adhering to rectitude; not deviating from",
+   "c1s2": "correct moral principles; of inflexible honesty.\n{{smaller block|That man was perfect and ''upright'', and one that feared God, and eschewed evil.\n{{right|Job i. 1.}}\nI shall be found as ''upright'' in my dealings as any woman in Smithfield. {{right|''B. Jonson'', Bartholomew Fair, ii. 1.}}}}\n'''5.''' In accord with what is right; honest; just.\n{{smaller block|<poem>It is very meet\nThe Lord Bassanio live an ''upright'' life.</poem>\n{{right|''Shak.'', M. of V., iii. 5. 79.}}}}\n'''6†.''' Well adjusted or disposed; in good condition; right.\n{{smaller block|If it should please God y<sup>e</sup> one should faile (as God forbid), yet y<sup>e</sup> other would keepe both recconings, and things ''uprighte''.\n{{right|''Sherley'', quoted in Bradford’s Plymouth Plantation, p. 270.}}}}\n'''Bolt upright''', {{smaller|straight upright.}}\n{{smaller block|Then she sat ''bolt upright''.\n{{right|''Barham'', Ingoldsby Legends, I. 266.}}}}\n'''Upright man''', {{smaller|a chief rogue; a leader among thieves. [Thieves’ cant.]}}\n{{smaller block|An ''Vpright man'' is one that goeth wyth the trunchion of a staffe, which staffe they cal a Filtchman. This man is of so much authority that, meeting with any of his profession, he may cal them to accompt, & commaund a share or snap vnto him selfe of al that they haue gained by their trade in one moneth. {{right|''Fraternity of Vacabonds'' (1561).}}}}\n'''Upright piano.''' {{smaller|See ''pianoforte''.}}—'''Upright steam-engine.''' {{smaller|Same as ''vertical steam-engine''. See ''steam-engine''.}} ='''Syn. 1.''' {{smaller|Plumb.—'''4''' and '''5.''' ''Just'', ''Rightful'', etc. (see ''righteous''), honorable, conscientious, straightforward, true.}}\n\n'''II.''' ''n.'' '''1.''' Something standing erect or vertical. {{smaller|Specifically, in ''building''—(''a'') A principal piece of timber placed vertically, and serving to support rafters. (''b'') The newel of a staircase.}}\n'''2.''' In ''arch.'', the elevation or orthography of a building. ''Gwilt.'' [Rare.]—'''3.''' A molding-machine of which the mandrel is perpendicular.",
+   "c1s3": "''E. H. Knight.''—'''4.''' An upright pianoforte.\n\n'''upright''' (up′rīt, formerly also up-rīt′), ''adv.'' [< ME. ''upright'', < AS. ''uprihte'', upright, < ''upriht'', upright: see ''upright'', ''a.''] '''1.''' Vertically.\n{{smaller block|Ye wonderful growing and swelling of the water ''vpright'' . . . is to ye height of a huge mountaine.\n{{right|''Webbe'', Travels, p. 22.}}\n<poem>You are now within a foot\nOf th’ extreme verge. For all beneath the moon\nWould I not leap ''upright''. {{right|''Shak.'', Lear, iv. 6. 27.}}</poem>}}\n'''2†.''' Flat on the back; horizontally and with the face upward.\n{{smaller block|<poem>The corps lay in the floor ''upright''.\n{{right|''Chaucer'', Prol. to Wife of Bath’s Tale, l. 768.}}\nHe fill to the erthe ''vp-right''.\n{{right|''Merlin'' (E. E. T. S.), iii. 457.}}</poem>\nI throwe a man on his backe or ''upright'', so that his face is upwarde. Je renuerse. {{right|''Palsgrave.''}}\n<poem>And Mab, his merry Queen, by night\nBestrides young folks that lie ''upright'' . . .\n(In elder times the mare that hight),\nWhich plagues them out of measure.\n{{right|''Drayton'', Nymphidia.}}</poem>}}\n\n'''uprighteously†''' (up-rī′tyus-li), ''adv.'' [< ''upright'' + ''-eous'', after ''righteous''.] Righteously; justly; uprightly. ''Shak.'', M. for M., iii. 1. 205.\n\n'''uprightly''' (up′rīt-li), ''adv.'' In an upright manner. {{smaller|(''a'') Vertically. (''b'') With strict observance of rectitude; honestly and justly: as, to live ''uprightly''.}}\n{{smaller block|I deal not ''uprightly'' in buying and selling.\n{{right|''J. Bradford'', Works (Parker Soc., 1853), II. 261.}}}}",
+   "c2s1": "condition of being upright. {{smaller|(''a'') Erectness; verticalness. ''Waller.''}}\n\n{{smaller block|Guards walked their post with a stiffness and ''uprightness'' that was astonishing. {{right|''The Century'', XXIX. 109.}}}}\n\n{{smaller|(''b'') Moral integrity; honesty and equity in principle or practice; conformity to rectitude and justice.}}\n\n{{smaller block|The truly upright man is inflexible in his ''uprightness.'' {{right|''Bp. Atterbury.''}}}}\n\n{{smaller|='''Syn.''' (''b'') ''Integrity'', ''Honor'', etc. (see ''honesty''), fairness, principle, trustworthiness, worth.}}\n\n¶\n'''uprise''' (up-rīz′), ''v. i.''; pret. ''uprose'', pp. ''uprisen'', ppr. ''uprising''. [< ME. ''uprisen''; < ''up-'' + ''rise'': see ''rise''<sup>1</sup>.] '''1.''' To rise up, as from bed or from a seat; get up; rise.\n\n{{smaller block|''Uprose'' the virgin with the morning light. {{right|''Pope.''}}}}\n\n'''2.''' To ascend, as above the horizon: literally or figuratively.\n\n{{smaller block|<poem>Floures fresshe, honouren ye this day;\nFor, when the sonne ''uprist'', then wol ye sprede.</poem>\n{{right|''Chaucer'', Complaint of Mars, l. 4.}}\n<poem>Nor dim, nor red, like God’s own head\nThe glorious sun ''uprist''.</poem>\n{{right|''Coleridge.''}}\n<poem>With what an awful power\nI saw the buried past ''up-rise'',\nAnd gather in a single hour\nIts ghost-like memories!</poem>\n{{right|''Whittier'', Mogg Megone.}}}}\n\n'''3.''' To ascend, as a hill; slope upward. ''Tennyson'', Vision of Sin, v.—'''4.''' To swell; well up; rise in waves.\n\n{{smaller block|<poem>At thy call\n''Uprises'' the great deep.</poem>\n{{right|''Bryant'', A Forest Hymn.}}}}\n\n'''5.''' To spring up; come into being or perception; be made or caused.",
+   "c2s2": "{{smaller block|''Uprose'' a great shout from King Olaf’s men.\n{{right|''William Morris'', Earthly Paradise, II. 287.}}}}\n\n¶\n'''uprise''' (up′rīz or up-rīz′), ''n.'' [< ''uprise'', ''v.''] '''1†.''' Uprising.\n{{smaller block|The sun’s ''uprise''. {{right|''Shak.'', Tit. And., iii. 1. 159.}}}}\n'''2.''' An increase in size; a swelling; a protuberance.\n{{smaller block|Successive stages may be seen from the first gentle ''uprise'' to an unsightly swelling of the whole stone.\n{{right|''Geikie'', Geol. Sketches, viii.}}}}\n'''3.''' Rise; development; advance; augmentation, as of price or value. [Colloq.]\n\n'''uprising''' (up-rī′zing), ''n.'' [< ME. ''uprisinge'', ''oprisinge'' (= MLG. ''oprīsinge''); verbal n. of ''uprise'', ''v.''] '''1.''' The act of rising up, as from below the horizon, from a bed or seat, or from the grave.\n{{smaller block|The whiche Ston the 3 Maries sawen turnen upward, whan thei comen to the Sepulcre, the Day of his Resurrexioun; and there founden an Aungelle, that tolde hem of oure Lordes ''uprysynge'' from Dethe to Lyve.\n{{right|''Mandeville'', Travels, p. 91.}}\nThou knowest my downsitting and mine ''uprising''.\n{{right|Ps. cxxxix. 2.}}}}\n'''2.''' Ascent; acclivity; rising.\n{{smaller block|<poem>Was that the king, that spurr’d his horse so hard\nAgainst the steep ''uprising'' of the hill?</poem>\n{{right|''Shak.'', L. L. L., iv. 1. 2.}}}}\n'''3.''' A riot; an emeute; a rebellion; insurrection; popular revolt.\n{{smaller block|Such tumults and ''uprisings''.\n{{right|''Holinshed'', Chronicles of England, Hen. I., an. 1115.}}}}\n'''4.''' The ceremonies connected with the recovery and reappearance in society of a lady of",
+   "c2s3": "rank after the birth of a child. Compare ''lying-down''.\n\n'''uprist†''', ''n.'' [< ME. ''uprist'', ''opriste''; < ''uprise'', ''v.''] '''1.''' Uprising.\n{{smaller block|<poem>In the gardin, at the sonne ''upriste'',\nShe walketh up and doun.</poem>\n{{right|''Chaucer'', Knight’s Tale, l. 193.}}}}\n'''2.''' The resurrection.\n{{smaller block|Jhesus seide, I am ''upriste'' and lif.\n{{right|''Cursor Mundi'', ''MS. Coll. Trin. Cantab.'', f. 88. (''Halliwell.'')}}}}\n\n'''uproar''' (up-rōr′), ''v.'' [< D. *''oproeren'' (= G. ''aufrühren'' = Sw. ''uppröra'' = Dan. ''opröre''), stir up, < ''op'', up, + ''roeren'', stir: see ''up'' and ''rear''<sup>4</sup>. No connection with ''roar''. Cf. ''uproar'', ''n.''] '''I.''' ''trans.'' To stir up to tumult; throw into confusion; disturb. [Rare.]\n{{smaller block|''Uproar'' the universal peace. {{right|''Shak.'', Macbeth, iv. 3. 99.}}}}\n'''II.''' ''intrans.'' To make an uproar; cause a disturbance. [Rare.]\n{{smaller block|The man Danton was not prone to show himself, to act or ''uproar'' for his own safety.\n{{right|''Carlyle'', French Rev., III. vi. 2.}}}}\n\n'''uproar''' (up′rōr), ''n.'' [Early mod. E. ''uprore''; < D. ''oproer'' (= MLG. ''uprōr'', G. ''aufruhr'' = Sw. ''uppror'' = Dan. ''oprör''), tumult, sedition, revolt, < ''oproeren'', stir up: see ''uproar'', ''v.''] Great tumult; violent disturbance and noise; bustle and clamor; confusion; excitement.\n{{smaller block|To haue all the worlde in an ''vprore'', and vnquieted with warres. {{right|''J. Udall'', On Mark, Pref.}}}}",
+   "c3s1": "{{smaller block|''uproar.''{{right|Acts xvii. 5.}}}}\n\n{{smaller block|There was a greate ''uprore'' in London that the rebell armie quartering at Whitehall would plundre the Citty.{{right|''Evelyn'', Diary, April 26, 1648.}}}}\n\n{{smaller block|Many of her acts had been unusual, but excited no ''uproar.''{{right|''Marg. Fuller'', Woman in 19th Cent., p. 39.}}}}\n\n'''uproarious''' (up-rōr′i-us), ''a.'' [< ''uproar'' + ''-i-ous.''] Making or accompanied by a great uproar, noise, or tumult; tumultuous; noisy; loud. ''Moore.''\n\n'''uproariously''' (up-rōr′i-us-li), ''adv.'' In an uproarious manner; with great noise and tumult; clamorously.\n\n'''uproariousness''' (up-rōr′i-us-nes), ''n.'' The state or character of being uproarious, or noisy and riotous.\n\n'''uproll''' (up-rōl′), ''v. t.'' To roll up. ''Milton'', P. L., vii. 291.\n\n'''uproot''' (up-röt′), ''v. t.'' To root up; tear up by the roots, or as if by the roots; remove utterly; eradicate; extirpate.\n\n'''uprootal''' (up-rö′ta̤l), ''n.'' [< ''uproot'' + ''-al.''] The act of uprooting, or the state of being uprooted. [Rare.]\n\n{{smaller block|His mind had got confused altogether with trouble and weakness and the shock of ''uprootal.''{{right|''Mrs. Oliphant'', Curate in Charge, xviii.}}}}\n\n'''uprouse''' (up-rouz′), ''v. t.'' To rouse up; rouse from sleep; awake; arouse. ''Shak.'', R. and J., ii. 3. 40.\n\n'''uprun''' (up-run′), ''v. t.'' [< ME. ''uprinnen;'' < ''up'' + ''run''<sup>1</sup>.] To run up; ascend. [Rare.]",
+   "c3s2": "¶\n\n{{smaller block|<poem>The yonge sonne,\nThat in the ram is four degrees ''upronne''.</poem>\n{{right|''Chaucer'', Squire’s Tale, l. 376.}}}}\n{{smaller block|<poem>He gave me to bring forth and rear a son\nOf matchless might, who like a thriving plant\n''Upran'' to manhood, while his lusty growth\nI nourish’d as the husbandman his vine.</poem>\n{{right|''Cowper'', Iliad, xviii.}}}}\n\n'''uprush''' (up-rush′), ''v. i.'' To rush upward. ''Southey'', Thalaba, xii.\n\n'''uprush''' (up′rush), ''n.'' [< ''uprush'', ''v.''] A rush upward.\n{{smaller block|These ''uprushes'' of most intensely heated gas from the prominences which are traceable round the edge of the sun. {{right|''Stokes'', Lects. on Light, p. 237.}}}}\n{{smaller block|The ideas of M. Faye were, on two fundamental points, contradicted by the Kew investigators. He held spots to be regions of ''uprush'' and of heightened temperature.\n{{right|''A. M. Clerke'', Astron. in 19th Cent., p. 201.}}}}\n\n'''upsee-Dutch†''' (up′sē-duch′), ''adv.'' [Also ''upsie Dutch'', ''upsey Dutch'', ''upse-Dutch''; < D. ''op zijn Duitsch'', in the Dutch, i. e. German, fashion: ''op'', upon, in; ''zijn'' = G. ''sein'', his, its; ''Duitsch'', Dutch, i. e. German: see ''Dutch''. Cf. ''upsee-English'', ''upsee-Freese''. ''Upsee'' in this and the following words has been conjectured to mean ‘a kind of heady beer,’ qualified by the name of the place where it was brewed. For the allusion to German drinking, cf. ''carouse'', ult. < G. ''gar aus'', ‘all out.’] In the Dutch fashion or manner: as, to drink ''upsee-Dutch'' (to drink in the Dutch manner—that is, to drink deeply so as to be drunk).",
+   "c3s3": "{{smaller block|<poem>I do not like the dulness of your eye;\nIt hath a heavy cast, ’tis ''upsee Dutch.''</poem>\n{{right|''B. Jonson'', Alchemist, iv. 4.}}}}\n\n'''upsee-English†''' (up′sē-ing′glish), ''adv.'' [Found as ''upsey-English''; < D. ''op zijn Engelsch'', in the English fashion; cf. ''upsee-Dutch.''] In the English manner.\n\n{{smaller block|<poem>''Prig.'' Thou and Ferret,\nAnd Ginks, to sing the song; I for the structure,\nWhich is the bowl.\n''Hig.'' Which must be ''upsey-English'',\nStrong, lusty London beer.</poem>\n{{right|''Fletcher'', Beggars’ Bush, iv. 4.}}}}\n\n'''upsee-Freese†''' (up′sē-frēs′), ''adv.'' [Also ''upse-Freeze''; < D. ''op zijn Friesch'', in the Friesian fashion; cf. ''upsee-Dutch.''] In the Friesian manner.\n\n{{smaller block|<poem>This valiant pot-leech that, upon his knees,\nHas drunk a thousand pottles ''upse-Freeze.''</poem>\n{{right|''John Taylor.''}}}}\n\n'''upsee-freesy†''' (up′sē-frē″zi), ''a.'' Drunk; tipsy.\n\n{{smaller block|Bacchus, the god of brew’d wine and sugar, grand patron of rob-pots, ''upsy-freesy'' tipplers, and super-naculum topers. {{right|''Massinger'', Virgin-Martyr, ii. 1.}}}}\n\n'''upseek''' (up-sēk′), ''v. i.''; pret. and pp. ''upsought'', ppr. ''upseeking.'' To seek or strain upward. ''Southey'', Thalaba, xii.\n\n'''upsees†''' (up′sēz), ''adv.'' [< ''upsee-Dutch'', ''upsee-Freese'', etc., misunderstood: see ''upsee-Dutch.''] Same as ''upsee-Dutch.''\n\n{{smaller block|<poem>Yet whoop, Barnaby! off with thy liquor,\nDrink ''upsees'' out, and a fig for the vicar.</poem>\n{{right|''Scott'', L. of the L., vi. 5.}}}}"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 10,
+    "input_tokens": 9828,
+    "output_tokens": 9437,
+    "cache_creation_input_tokens": 7932,
+    "cache_read_input_tokens": 31728
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|uprear|6662|upsees}}</noinclude>{{nop}}'''uprear''' (up-rēr′), ''v. t.'' To rear up; raise.\n{{smaller block|<poem>She doth ''vprear''\nHer selfe vpon her feet.</poem>\n{{right|''Times’ Whistle'' (E. E. T. S.), p. 36.}}\n<poem>The distant mountains, that ''uprear''\nTheir solid bastions to the skies.</poem>\n{{right|''Longfellow'', The Ladder of St. Augustine.}}}}\n\n'''upridge''' (up-rij′), ''v. t.'' To raise up in ridges or extended lines. ''Cowper'', Odyssey, xix. [Rare.]\n\n'''upright''' (up′rīt, formerly also up-rīt′), ''a.'' and ''n.'' [< ME. ''upriht'', ''uprigt'', ''opriȝt'', < AS. ''upriht'' (= D. ''opregt'' = MLG. ''uprecht'', ''upricht'' = OHG. MHG. ''ufreht'', G. ''aufrecht'' = Icel. ''upprëttr'' = Sw. ''upprätt'' = Dan. ''opret''), straight up, erect, < ''up-'', up, + ''riht'', straight, right: see ''right''.] '''I.''' ''a.'' '''1.''' Erect; vertical.\n{{smaller block|<poem>And sodeynly he was yslayn to-nyght,\nFordronke, as he sat on his bench ''upryght''.</poem>\n{{right|''Chaucer'', Pardoner’s Tale, l. 212.}}\n''Upright'' as the palm-tree.\n{{right|Jer. x. 5.}}}}\n'''2.''' Erect on one’s feet; hence, erect as a human being; in general, having the longest axis vertical: as, an ''upright'' boiler.\n{{smaller block|And there ben othere that han Crestes upon hire Hedes; and thei gon upon hire Feet ''upright''.\n{{right|''Mandeville'', Travels, p. 290.}}\nWhoever tasted lost his ''upright'' shape.\n{{right|''Milton'', Comus, l. 52.}}}}\n'''3.''' Erected; pricked up; standing out straight from the body.\n{{smaller block|Their ears ''upright''.\n{{right|''Spenser'', State of Ireland.}}\nWith chattering teeth and bristling hair ''upright''.\n{{right|''Dryden'', Theodore and Honoria, l. 145.}}}}\n'''4.''' Adhering to rectitude; not deviating from correct moral principles; of inflexible honesty.\n{{smaller block|That man was perfect and ''upright'', and one that feared God, and eschewed evil.\n{{right|Job i. 1.}}\nI shall be found as ''upright'' in my dealings as any woman in Smithfield. {{right|''B. Jonson'', Bartholomew Fair, ii. 1.}}}}\n'''5.''' In accord with what is right; honest; just.\n{{smaller block|<poem>It is very meet\nThe Lord Bassanio live an ''upright'' life.</poem>\n{{right|''Shak.'', M. of V., iii. 5. 79.}}}}\n'''6†.''' Well adjusted or disposed; in good condition; right.\n{{smaller block|If it should please God y<sup>e</sup> one should faile (as God forbid), yet y<sup>e</sup> other would keepe both recconings, and things ''uprighte''.\n{{right|''Sherley'', quoted in Bradford’s Plymouth Plantation, p. 270.}}}}\n'''Bolt upright''', {{smaller|straight upright.}}\n{{smaller block|Then she sat ''bolt upright''.\n{{right|''Barham'', Ingoldsby Legends, I. 266.}}}}\n'''Upright man''', {{smaller|a chief rogue; a leader among thieves. [Thieves’ cant.]}}\n{{smaller block|An ''Vpright man'' is one that goeth wyth the trunchion of a staffe, which staffe they cal a Filtchman. This man is of so much authority that, meeting with any of his profession, he may cal them to accompt, & commaund a share or snap vnto him selfe of al that they haue gained by their trade in one moneth. {{right|''Fraternity of Vacabonds'' (1561).}}}}\n'''Upright piano.''' {{smaller|See ''pianoforte''.}}—'''Upright steam-engine.''' {{smaller|Same as ''vertical steam-engine''. See ''steam-engine''.}} ='''Syn. 1.''' {{smaller|Plumb.—'''4''' and '''5.''' ''Just'', ''Rightful'', etc. (see ''righteous''), honorable, conscientious, straightforward, true.}}\n\n'''II.''' ''n.'' '''1.''' Something standing erect or vertical. {{smaller|Specifically, in ''building''—(''a'') A principal piece of timber placed vertically, and serving to support rafters. (''b'') The newel of a staircase.}}\n'''2.''' In ''arch.'', the elevation or orthography of a building. ''Gwilt.'' [Rare.]—'''3.''' A molding-machine of which the mandrel is perpendicular. ''E. H. Knight.''—'''4.''' An upright pianoforte.\n\n'''upright''' (up′rīt, formerly also up-rīt′), ''adv.'' [< ME. ''upright'', < AS. ''uprihte'', upright, < ''upriht'', upright: see ''upright'', ''a.''] '''1.''' Vertically.\n{{smaller block|Ye wonderful growing and swelling of the water ''vpright'' . . . is to ye height of a huge mountaine.\n{{right|''Webbe'', Travels, p. 22.}}\n<poem>You are now within a foot\nOf th’ extreme verge. For all beneath the moon\nWould I not leap ''upright''. {{right|''Shak.'', Lear, iv. 6. 27.}}</poem>}}\n'''2†.''' Flat on the back; horizontally and with the face upward.\n{{smaller block|<poem>The corps lay in the floor ''upright''.\n{{right|''Chaucer'', Prol. to Wife of Bath’s Tale, l. 768.}}\nHe fill to the erthe ''vp-right''.\n{{right|''Merlin'' (E. E. T. S.), iii. 457.}}</poem>\nI throwe a man on his backe or ''upright'', so that his face is upwarde. Je renuerse. {{right|''Palsgrave.''}}\n<poem>And Mab, his merry Queen, by night\nBestrides young folks that lie ''upright'' . . .\n(In elder times the mare that hight),\nWhich plagues them out of measure.\n{{right|''Drayton'', Nymphidia.}}</poem>}}\n\n'''uprighteously†''' (up-rī′tyus-li), ''adv.'' [< ''upright'' + ''-eous'', after ''righteous''.] Righteously; justly; uprightly. ''Shak.'', M. for M., iii. 1. 205.\n\n'''uprightly''' (up′rīt-li), ''adv.'' In an upright manner. {{smaller|(''a'') Vertically. (''b'') With strict observance of rectitude; honestly and justly: as, to live ''uprightly''.}}\n{{smaller block|I deal not ''uprightly'' in buying and selling.\n{{right|''J. Bradford'', Works (Parker Soc., 1853), II. 261.}}}} condition of being upright. {{smaller|(''a'') Erectness; verticalness. ''Waller.''}}\n\n{{smaller block|Guards walked their post with a stiffness and ''uprightness'' that was astonishing. {{right|''The Century'', XXIX. 109.}}}}\n\n{{smaller|(''b'') Moral integrity; honesty and equity in principle or practice; conformity to rectitude and justice.}}\n\n{{smaller block|The truly upright man is inflexible in his ''uprightness.'' {{right|''Bp. Atterbury.''}}}}\n\n{{smaller|='''Syn.''' (''b'') ''Integrity'', ''Honor'', etc. (see ''honesty''), fairness, principle, trustworthiness, worth.}}\n\n'''uprise''' (up-rīz′), ''v. i.''; pret. ''uprose'', pp. ''uprisen'', ppr. ''uprising''. [< ME. ''uprisen''; < ''up-'' + ''rise'': see ''rise''<sup>1</sup>.] '''1.''' To rise up, as from bed or from a seat; get up; rise.\n\n{{smaller block|''Uprose'' the virgin with the morning light. {{right|''Pope.''}}}}\n\n'''2.''' To ascend, as above the horizon: literally or figuratively.\n\n<poem>Floures fresshe, honouren ye this day;\nFor, when the sonne ''uprist'', then wol ye sprede.</poem>\n{{smaller block|{{right|''Chaucer'', Complaint of Mars, l. 4.}}}}\n<poem>Nor dim, nor red, like God’s own head\nThe glorious sun ''uprist''.</poem>\n{{smaller block|{{right|''Coleridge.''}}}}\n<poem>With what an awful power\nI saw the buried past ''up-rise'',\nAnd gather in a single hour\nIts ghost-like memories!</poem>\n{{smaller block|{{right|''Whittier'', Mogg Megone.}}}}\n\n'''3.''' To ascend, as a hill; slope upward. ''Tennyson'', Vision of Sin, v.—'''4.''' To swell; well up; rise in waves.\n\n<poem>At thy call\n''Uprises'' the great deep.</poem>\n{{smaller block|{{right|''Bryant'', A Forest Hymn.}}}}\n\n'''5.''' To spring up; come into being or perception; be made or caused. {{smaller block|''Uprose'' a great shout from King Olaf’s men.\n{{right|''William Morris'', Earthly Paradise, II. 287.}}}}\n\n'''uprise''' (up′rīz or up-rīz′), ''n.'' [< ''uprise'', ''v.''] '''1†.''' Uprising.\n{{smaller block|The sun’s ''uprise''. {{right|''Shak.'', Tit. And., iii. 1. 159.}}}}\n'''2.''' An increase in size; a swelling; a protuberance.\n{{smaller block|Successive stages may be seen from the first gentle ''uprise'' to an unsightly swelling of the whole stone.\n{{right|''Geikie'', Geol. Sketches, viii.}}}}\n'''3.''' Rise; development; advance; augmentation, as of price or value. [Colloq.]\n\n'''uprising''' (up-rī′zing), ''n.'' [< ME. ''uprisinge'', ''oprisinge'' (= MLG. ''oprīsinge''); verbal n. of ''uprise'', ''v.''] '''1.''' The act of rising up, as from below the horizon, from a bed or seat, or from the grave.\n{{smaller block|The whiche Ston the 3 Maries sawen turnen upward, whan thei comen to the Sepulcre, the Day of his Resurrexioun; and there founden an Aungelle, that tolde hem of oure Lordes ''uprysynge'' from Dethe to Lyve.\n{{right|''Mandeville'', Travels, p. 91.}}\nThou knowest my downsitting and mine ''uprising''.\n{{right|Ps. cxxxix. 2.}}}}\n'''2.''' Ascent; acclivity; rising.\n{{smaller block|<poem>Was that the king, that spurr’d his horse so hard\nAgainst the steep ''uprising'' of the hill?</poem>\n{{right|''Shak.'', L. L. L., iv. 1. 2.}}}}\n'''3.''' A riot; an emeute; a rebellion; insurrection; popular revolt.\n{{smaller block|Such tumults and ''uprisings''.\n{{right|''Holinshed'', Chronicles of England, Hen. I., an. 1115.}}}}\n'''4.''' The ceremonies connected with the recovery and reappearance in society of a lady of rank after the birth of a child. Compare ''lying-down''.\n\n'''uprist†''', ''n.'' [< ME. ''uprist'', ''opriste''; < ''uprise'', ''v.''] '''1.''' Uprising.\n{{smaller block|<poem>In the gardin, at the sonne ''upriste'',\nShe walketh up and doun.</poem>\n{{right|''Chaucer'', Knight’s Tale, l. 193.}}}}\n'''2.''' The resurrection.\n{{smaller block|Jhesus seide, I am ''upriste'' and lif.\n{{right|''Cursor Mundi'', ''MS. Coll. Trin. Cantab.'', f. 88. (''Halliwell.'')}}}}\n\n'''uproar''' (up-rōr′), ''v.'' [< D. *''oproeren'' (= G. ''aufrühren'' = Sw. ''uppröra'' = Dan. ''opröre''), stir up, < ''op'', up, + ''roeren'', stir: see ''up'' and ''rear''<sup>4</sup>. No connection with ''roar''. Cf. ''uproar'', ''n.''] '''I.''' ''trans.'' To stir up to tumult; throw into confusion; disturb. [Rare.]\n{{smaller block|''Uproar'' the universal peace. {{right|''Shak.'', Macbeth, iv. 3. 99.}}}}\n'''II.''' ''intrans.'' To make an uproar; cause a disturbance. [Rare.]\n{{smaller block|The man Danton was not prone to show himself, to act or ''uproar'' for his own safety.\n{{right|''Carlyle'', French Rev., III. vi. 2.}}}}\n\n'''uproar''' (up′rōr), ''n.'' [Early mod. E. ''uprore''; < D. ''oproer'' (= MLG. ''uprōr'', G. ''aufruhr'' = Sw. ''uppror'' = Dan. ''oprör''), tumult, sedition, revolt, < ''oproeren'', stir up: see ''uproar'', ''v.''] Great tumult; violent disturbance and noise; bustle and clamor; confusion; excitement.\n{{smaller block|To haue all the worlde in an ''vprore'', and vnquieted with warres. {{right|''J. Udall'', On Mark, Pref.}} ''uproar.''{{right|Acts xvii. 5.}}}}\n\n{{smaller block|There was a greate ''uprore'' in London that the rebell armie quartering at Whitehall would plundre the Citty.{{right|''Evelyn'', Diary, April 26, 1648.}}}}\n\n{{smaller block|Many of her acts had been unusual, but excited no ''uproar.''{{right|''Marg. Fuller'', Woman in 19th Cent., p. 39.}}}}\n\n'''uproarious''' (up-rōr′i-us), ''a.'' [< ''uproar'' + ''-i-ous.''] Making or accompanied by a great uproar, noise, or tumult; tumultuous; noisy; loud. ''Moore.''\n\n'''uproariously''' (up-rōr′i-us-li), ''adv.'' In an uproarious manner; with great noise and tumult; clamorously.\n\n'''uproariousness''' (up-rōr′i-us-nes), ''n.'' The state or character of being uproarious, or noisy and riotous.\n\n'''uproll''' (up-rōl′), ''v. t.'' To roll up. ''Milton'', P. L., vii. 291.\n\n'''uproot''' (up-röt′), ''v. t.'' To root up; tear up by the roots, or as if by the roots; remove utterly; eradicate; extirpate.\n\n'''uprootal''' (up-rö′ta̤l), ''n.'' [< ''uproot'' + ''-al.''] The act of uprooting, or the state of being uprooted. [Rare.]\n\n{{smaller block|His mind had got confused altogether with trouble and weakness and the shock of ''uprootal.''{{right|''Mrs. Oliphant'', Curate in Charge, xviii.}}}}\n\n'''uprouse''' (up-rouz′), ''v. t.'' To rouse up; rouse from sleep; awake; arouse. ''Shak.'', R. and J., ii. 3. 40.\n\n'''uprun''' (up-run′), ''v. t.'' [< ME. ''uprinnen;'' < ''up'' + ''run''<sup>1</sup>.] To run up; ascend. [Rare.]\n\n{{smaller block|<poem>The yonge sonne,\nThat in the ram is four degrees ''upronne''.</poem>\n{{right|''Chaucer'', Squire’s Tale, l. 376.}}}}\n{{smaller block|<poem>He gave me to bring forth and rear a son\nOf matchless might, who like a thriving plant\n''Upran'' to manhood, while his lusty growth\nI nourish’d as the husbandman his vine.</poem>\n{{right|''Cowper'', Iliad, xviii.}}}}\n\n'''uprush''' (up-rush′), ''v. i.'' To rush upward. ''Southey'', Thalaba, xii.\n\n'''uprush''' (up′rush), ''n.'' [< ''uprush'', ''v.''] A rush upward.\n{{smaller block|These ''uprushes'' of most intensely heated gas from the prominences which are traceable round the edge of the sun. {{right|''Stokes'', Lects. on Light, p. 237.}}}}\n{{smaller block|The ideas of M. Faye were, on two fundamental points, contradicted by the Kew investigators. He held spots to be regions of ''uprush'' and of heightened temperature.\n{{right|''A. M. Clerke'', Astron. in 19th Cent., p. 201.}}}}\n\n'''upsee-Dutch†''' (up′sē-duch′), ''adv.'' [Also ''upsie Dutch'', ''upsey Dutch'', ''upse-Dutch''; < D. ''op zijn Duitsch'', in the Dutch, i. e. German, fashion: ''op'', upon, in; ''zijn'' = G. ''sein'', his, its; ''Duitsch'', Dutch, i. e. German: see ''Dutch''. Cf. ''upsee-English'', ''upsee-Freese''. ''Upsee'' in this and the following words has been conjectured to mean ‘a kind of heady beer,’ qualified by the name of the place where it was brewed. For the allusion to German drinking, cf. ''carouse'', ult. < G. ''gar aus'', ‘all out.’] In the Dutch fashion or manner: as, to drink ''upsee-Dutch'' (to drink in the Dutch manner—that is, to drink deeply so as to be drunk).\n<poem>I do not like the dulness of your eye;\nIt hath a heavy cast, ’tis ''upsee Dutch.''</poem>\n{{smaller block|{{right|''B. Jonson'', Alchemist, iv. 4.}}}}\n\n'''upsee-English†''' (up′sē-ing′glish), ''adv.'' [Found as ''upsey-English''; < D. ''op zijn Engelsch'', in the English fashion; cf. ''upsee-Dutch.''] In the English manner.\n\n<poem>''Prig.'' Thou and Ferret,\nAnd Ginks, to sing the song; I for the structure,\nWhich is the bowl.\n''Hig.'' Which must be ''upsey-English'',\nStrong, lusty London beer.</poem>\n{{smaller block|{{right|''Fletcher'', Beggars’ Bush, iv. 4.}}}}\n\n'''upsee-Freese†''' (up′sē-frēs′), ''adv.'' [Also ''upse-Freeze''; < D. ''op zijn Friesch'', in the Friesian fashion; cf. ''upsee-Dutch.''] In the Friesian manner.\n\n<poem>This valiant pot-leech that, upon his knees,\nHas drunk a thousand pottles ''upse-Freeze.''</poem>\n{{smaller block|{{right|''John Taylor.''}}}}\n\n'''upsee-freesy†''' (up′sē-frē″zi), ''a.'' Drunk; tipsy.\n\n{{smaller block|Bacchus, the god of brew’d wine and sugar, grand patron of rob-pots, ''upsy-freesy'' tipplers, and super-naculum topers. {{right|''Massinger'', Virgin-Martyr, ii. 1.}}}}\n\n'''upseek''' (up-sēk′), ''v. i.''; pret. and pp. ''upsought'', ppr. ''upseeking.'' To seek or strain upward. ''Southey'', Thalaba, xii.\n\n'''upsees†''' (up′sēz), ''adv.'' [< ''upsee-Dutch'', ''upsee-Freese'', etc., misunderstood: see ''upsee-Dutch.''] Same as ''upsee-Dutch.''\n\n<poem>Yet whoop, Barnaby! off with thy liquor,\nDrink ''upsees'' out, and a fig for the vicar.</poem>\n{{smaller block|{{right|''Scott'', L. of the L., vi. 5.}}}}<noinclude><references/></noinclude>"
+}
