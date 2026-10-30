@@ -1,0 +1,255 @@
+{
+ "volume": 1,
+ "page_number": 409,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n408.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n408.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 737,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     73,
+     142,
+     2282,
+     184
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     73,
+     184,
+     804,
+     1199
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     73,
+     1199,
+     804,
+     2212
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     73,
+     2212,
+     804,
+     3284
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     804,
+     184,
+     1554,
+     1145
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     804,
+     1145,
+     1554,
+     1784
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     804,
+     1784,
+     1554,
+     2858
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     909,
+     1818,
+     1446,
+     2396
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     804,
+     2858,
+     1554,
+     3284
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1554,
+     184,
+     2282,
+     1247
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1812,
+     565,
+     2282,
+     962
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1554,
+     1247,
+     2282,
+     2335
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1554,
+     2335,
+     2282,
+     3284
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|auricular|383|aurochs}}",
+   "c1s1": "'''5†.''' Communicated or known by report; hearsay.\n{{smaller block|''Auricular'' traditions and feigned testimonies.\n{{right|''Bacon'', Nat. Hist., § 326.}}}}\n'''6.''' Known or obtained by the sense of hearing: as, ''auricular'' evidence.—'''7.''' Ear-shaped; auriculate; auriform: as, the ''auricular'' articulating surface of the human ilium.—'''8.''' In echinoderms, of or pertaining to the auriculæ: as, an internal ''auricular'' process.—'''9.''' Pertaining to the auricle of the heart.—{{smaller|'''Anterior auricular arteries,''' two or more branches of the temporal artery supplying the external ear.—'''Anterior auricular veins,''' small veins from the external ear emptying into the temporal vein.—'''Auricular feathers,''' in ''ornith.'', the special set of feathers, usually of peculiar structure, which overlie and defend the outer opening of the ear.—'''Auricular finger,''' the little finger: so called from the fact that it is most easily introduced into the ear.—'''Auricular foramen,''' the mouth of the external auditory meatus of the ear.—'''Auricular nerves,''' various small nerves derived from the great auricular, the auriculotemporal, the facial, the second cervical, the small or sometimes the large occipital, and the vagus nerves, which supply the integument and other parts of the external ear and its vicinity.—'''Auricular point,''' in ''anat.'', the center of the auricular foramen.—'''Auricular radii,''' in ''craniom.'', radii drawn from the projection of the auricular point on the median plane to the projections of other points of the skull. See ''craniometry''.—'''Auricular tube,''' a speaking-tube, either portable for the use of deaf persons, or extending between different parts of a building for the conveyance of messages.—'''Auricular witness,''' a witness who relates what he has heard.—'''Deep auricular artery,''' a small branch from the internal maxillary artery, supplying the external meatus of the ear.—'''Great auricular nerve,''' the auricularis magnus, a nerve arising from the second and third cervical nerves,}}",
+   "c1s2": "{{smaller|and distributed to the external ear and adjacent parts. —'''Posterior auricular artery,''' a branch of the external carotid artery, supplying parts in the region of the ear.—'''Posterior auricular vein,''' a vein which, descending behind the pinna of the ear from the side of the head, joins the external jugular vein.}}\n\n'''II.''' ''n.'' '''1.''' ''pl.'' In ''ornith.'', the auricular feathers.—'''2.''' The auricular or little finger. See ''auricular finger'', above.\n\n'''auriculares''', ''n.'' Plural of ''auricularis.''\n\n'''auricularia''' (â-rik-ụ̄-lā′ri-ä̤), ''n.'' [NL., < ''auricula'', 4, + ''-aria.''] '''1.''' [Pl. ''auriculariæ'' (-ē).] A term applied to an early stage of the development of the embryo of certain echinoderms, as those of the genera ''Holothuria'', ''Synapta'', etc., when it is ciliated. See ''Holothuridea.'' [It is a generic name given by Müller through a mistake as to the nature of these larvæ.]—'''2.''' [''cap.''] In ''conch.'', a generic name variously used: as, (''a'') by De Blainville for a genus of acephalous mollusks; (''b'') by Fabricius for a genus of gastropods.\n\n'''auricularian''' (â-rik-ụ̄-lā′ri-a̤n), ''a.'' [< ''auricularia'' + ''-an.''] Of or pertaining to an auricularia; echinopædic.\n\n'''auricularis''' (â-rik-ụ̄-lā′ris), ''n.''; pl. ''auriculares'' (-rēz). [NL.: see ''auricular.''] The little finger. See ''auricular finger'', under ''auricular''.\n\n'''auricularly''' (â-rik′ụ̄-lär-li), ''adv.'' '''1.''' In an auricular manner; specifically, in a secret manner; by whispers.\n{{smaller block|These will soon confess, and that not ''auricularly'', but in a loud and audible voice.\n{{right|''Decay of Christ. Piety'', vii. § 4.}}}}",
+   "c1s3": "'''2.''' By means of auricles.\n\n'''auriculate, auriculated''' (â-rik′ū-lāt, -lā-ted), ''a.'' [< NL. ''auriculatus'', < L. ''auricula'': see ''auricle''.] '''1.''' Ear-shaped; like or likened to an auricle; auriform.—'''2.''' Having ears; provided with ears, auricles, or ear-like parts: in ''bot.'', said of a leaf with a pair of small blunt projections or ears at the base.—{{smaller|'''Auriculate antennæ''', in ''entom.'', antennæ in which one of the basal joints is expanded laterally in a concave plate, as in certain aquatic beetles.—'''Auriculate elytra''', in ''entom.'', elytra produced laterally at the humeral angles into a free lobe.}}\n\n'''auriculid''' (â-rik′ū-lid), ''n.'' A gastropod of the family ''Auriculidæ''.\n\n'''Auriculidæ''' (â-ri-kū′li-dē), ''n. pl.'' [NL., < ''Auricula'', 3, + ''-idæ''.] A family of pulmonate gastropods with contractile tentacles, eyes sessile at the inner or hinder bases of the tentacles, rugose teguments, and a spiral shell whose partitions are generally absorbed, and whose columella is plicated. {{smaller|The family is divided into subfamilies and many genera. Some of the species frequent banks, generally within tide-limits, others marshes and wet woods, and a few (of the genus ''Carychium'') are almost exclusively terrestrial. See cut under ''Pythia''.}}\n\n'''auriculobregmatic''' (â-rik″ū-lō-breg-mat′ik), ''a.'' [< ''auricula'' + ''bregma(t-)'' + ''-ic''.] In ''anat.'', pertaining to the auricular point and the bregma.—{{smaller|'''Auriculobregmatic line''', a line drawn from the projection of the auricular points on the median plane of the skull to the bregma. See ''craniometry''.}}\n\n'''auriculo-orbicularis''' (â-rik″ū-lō-ôr-bik-ū-lā′ris), ''n.'' [NL., < ''auricula'' + ''orbicularis''.] A muscle of the hedgehog connecting the pinna of the ear with the orbicularis panniculi, which it antagonizes.",
+   "c2s1": "¶\n'''auriculoparotidean''' (â-rik″ū-lō-pa-rō-tid′ē-an), ''a.'' [< ''auricula'' + ''parotid'' + ''-ean.''] Pertaining to the auricle of the ear and the parotid gland: specifically applied to a nerve which supplies those parts.\n\n'''auriculotemporal''' (â-rik″ū-lō-tem′pō-ral), ''a.'' [< ''auricula'' + ''temporal.''] Pertaining to the ear and the temporal region: specifically applied to a branch of the inferior maxillary nerve which supplies the external ear and adjacent regions.\n\n'''auriculoventricular''' (â-rik″ū-lō-ven-trik′ū-lär), ''a.'' [< ''auricula'' + ''ventricular.''] Pertaining both to the auricles and to the ventricles of the heart: as, the ''auriculoventricular'' orifice. See cut under ''heart.''—'''Auriculoventricular valves.''' {{smaller|See ''valve.''}}\n\n'''auriferous''' (â-rif′e-rus), ''a.'' [< L. ''aurifer'', gold-bearing, < ''aurum'', gold, + ''ferre'' = E. ''bear''<sup>1</sup>.] Yielding or producing gold; containing gold: as, ''auriferous'' quartz; ''auriferous'' strata.\n{{smaller block|<poem>Mountains big with mines,\nWhence many a bursting stream ''auriferous'' plays.</poem>\n{{right|''Thomson'', Summer, l. 648.}}}}\n\n'''aurific''' (â-rif′ik), ''a.'' [< L. ''aurum'', gold, + ''facere'', make.] Capable of transmuting substances into gold; gold-making.\n{{smaller block|Some experiments made with an ''aurific'' powder.\n{{right|''Southey'', The Doctor, clxxxvi.}}}}\n\n'''auriflamma, auriflamme''' (â-ri-flam′ä, â′ri-flam), ''n.'' [< ML. ''auriflamma'', lit. golden flame,",
+   "c2s2": "< L. ''aurum'', gold, + ''flamma'', flame.] The ancient royal banner of France. See ''oriflamme.''\n\n'''auriform''' (â′ri-fôrm), ''a.'' [< L. ''auris'', the ear, + ''forma'', form.] Ear-shaped; having the form of the external human ear: as, an ''auriform'' shell.\n\n'''aurifrisia''' (â-ri-friz′i-ä̤), ''n.'' Same as ''auriphrygia.''\n\n'''aurifrisiate''' (â-ri-friz′i-āt), ''a.'' Same as ''auriphrygiate.''\n\n'''aurify''' (â′ri-fī), ''v. t.'' and ''i.''; pret. and pp. ''aurified'', ppr. ''aurifying''. [< L. ''aurum'', gold, + ''facere'', make: see ''-fy''.] To turn into or become gold.\n\n'''Auriga''' (â-rī′gä̤), ''n.'' [L., a charioteer; as constellation, the Wagoner; perhaps < ''aurea'', bridle (cf. ''oreæ'', the bit of a bridle, < ''os'' (''or-''), the mouth: see ''os''<sup>1</sup>), + ''agere'', drive; otherwise < *''aurus'' (not found, supposed to mean ‘a horse,’ = Gr. αὐρος, swift) + ''agere'', drive: see",
+   "c2s3": "''act, v.''] '''1.''' A northern constellation contain-\n[[FIGURE]]\n{{c|{{smaller|The Constellation Auriga.}}}}\ning the splendid star Capella; the Charioteer or Wagoner. {{smaller|It is supposed to represent a charioteer kneeling in his vehicle. He is often represented with a kid on his left shoulder, this being doubtless an ancient constellation-figure coincident in position with the Charioteer.}} '''2.''' [''l. c.''] [NL.] A name of the fourth lobe of the liver. [Rare.]\n\n'''aurigal''' (â-rī′ga̤l), ''a.'' [< LL. ''aurigalis'', < L. ''auriga'': see ''Auriga''.] Pertaining to a chariot or carriage. [Rare.]\n\n'''aurigation''' (â-ri-gā′shọn), ''n.'' [< L. ''aurigatio(n-)'', < ''aurigare'', pp. ''aurigatus'', be a driver, < ''auriga'', a driver: see ''Auriga''.] The act or practice of driving a chariot or coach. [Rare.]",
+   "c2s4": "¶\n{{smaller block|If a man indulges in the vicious habit of sleeping, all the skill in ''aurigation'' of Apollo himself, with the horses of Aurora to execute his notions, avail him nothing.\n{{right|''De Quincey'', Eng. Mail-Coach.}}}}\n\n'''aurigerous''' (â-rij′ẹ-rus), ''a.'' [< L. ''aurum'', gold, + ''gerere'', bear.] Gold-bearing.\n\n'''aurigraphy''' (â-rig′rạ-fi), ''n.'' [< ML. ''aurigraphia'', < ''aurigraphus'', one who writes in golden characters, < L. ''aurum'', gold, + Gr. γράφειν, write.] The art or practice of writing in golden characters. ''Blount.''\n\n'''aurilave''' (â′ri-lāv), ''n.'' [< L. ''auris'', the ear, + ''lavare'', wash: see ''auricle'' and ''lave''<sup>2</sup>.] An ear-brush. ''E. H. Knight.''",
+   "c3s1": "¶\n'''aurin, aurine''' (â′rin), ''n.'' [< L. ''aurum'', gold, + ''-in''<sup>2</sup>.] The commercial name for impure rosolic acid (which see, under ''rosolic''), one of the coal-tar colors. {{smaller|In its pure state it forms ruby-red crystals with a blue fluorescence. Owing to its fugitiveness, it is seldom used in dyeing, but it is still used in printing calicoes and woolens and for pigments. It produces orange-red colors.}}\n{{smaller block|''Aurine'' dyes shades more inclining to orange than coralline.\n{{right|''Workshop Receipts'', 2d ser., p. 228.}}}}\n\n'''auriphrygia''' (â-ri-frij′i-ä̤), ''n.'' [< ML. *''auriphrygia'', ''aurifrigia'', also spelled ''aurifrisia'', ''aurifresia'', also ''aurifrygium'', also simply ''phrygium'', ''frigium'', gold embroidery, < L. ''aurum Phrygium'', lit. Phrygian gold; the Phrygians were noted for their skill in embroidering with gold: see ''aurum'' and ''Phrygian''. From the same\n[[FIGURE]]\n{{c|{{smaller|Miter with Auriphrygia, or Auriphrygiate Miter, 12th century. (From “L’Art pour Tous.”)}}}}\nsource, through the French, come ''orfrays'', ''orfray'', ''orphrey'', q. v.] Properly, gold embroidery; ''eccles.'', an ornamental band on various vestments; an orphrey: used especially of the orphrey of a miter, which is a richly adorned band around its lower edge. Also ''aurifrisia.''",
+   "c3s2": "¶\n'''auriphrygiate''' (â-ri-frij′i-āt), ''a.'' [< ML. *''auriphrygiatus, auriphrigiatus, aurifrisiatus, aurifriceatus,'' etc., < *''auriphrygia'': see ''auriphrygia.''] Embroidered with gold; provided with an auriphrygia. Also ''aurifrisiate.''\n{{smaller block|Nor wore he mitre here, precious or ''auriphrygiate.''\n{{right|''Southey,'' Roderick, xviii.}}}}\n\n'''auripigment, auripigmentum''' (â-ri-pig′ment, â″ri-pig-men′tum), ''n.'' [L. ''auripigmentum,'' < ''aurum,'' gold, + ''pigmentum,'' pigment: see ''aurum'' and ''pigment.'' From the L., through F., comes ''orpiment.''] Same as ''orpiment.''\n\n'''auris''' (â′ris), ''n.''; pl. ''aures'' (â′rēz). [L., = E. ''ear''<sup>1</sup>, q. v.] '''1.''' In ''zoöl.'' and ''anat.,'' an ear; the outer ear or auricle.—'''2.''' [''cap.''] [NL.] In ''conch.,'' a genus of ear-shells: synonymous with ''Haliotis.''\n\n'''auriscalp''' (â′ri-skalp), ''n.'' [< ''auriscalpium.''] An instrument for cleaning the ears; an ear-pick; also, a similar instrument used in surgical operations on the ear.\n\n'''auriscalpium''' (â-ri-skal′pi-um), ''n.''; pl. ''auriscalpia'' (-ä). [NL., < L. ''auris,'' = E. ''ear''<sup>1</sup>, + ''scalpere,'' scrape, scratch: see ''scalpel.''] '''1.''' Same as ''auriscalp.''—'''2.''' [''cap.''] In ''conch.,'' a genus of bivalve mollusks.\n\n'''auriscope''' (â′ri-skōp), ''n.'' [< L. ''auris,'' = E. ''ear''<sup>1</sup>, + Gr. σκοπεῖν, view, look at.] An instrument for examining and exploring the ear.\n\n'''auriscopy''' (â-ris′kọ̄-pi), ''n.'' [< L. ''auris,'' = E. ''ear''<sup>1</sup>, + Gr. -σκοπία, < σκοπεῖν, view, look at.] The use of the auriscope.\n\n'''aurist''' (â′rist), ''n.'' [< L. ''auris,'' = E. ''ear''<sup>1</sup>, + ''-ist.''] One who treats disorders of the ear; an otolo-",
+   "c3s3": "gist.\n\n{{smaller block|In England the medical profession is divided into physicians, surgeons, apothecaries, accoucheurs, oculists, ''aurists'', dentists.\n{{right|''Sir G. C. Lewis'', Authority in Matters of Opinion, v.}}}}\n\n'''aurite''' (â′rīt), ''a.'' Same as ''aurited.''\n\n'''aurited''' (â′ri-ted), ''a.'' [< L. ''auritus'', = E. ''eared'', < ''auris'' = E. ''ear''<sup>1</sup>. Cf. ''aurated''<sup>2</sup>.] In ''bot.'' and ''zoöl.'', eared; auriculate; having lobes or appendages like an ear.\n\n'''aurivorous''' (â-riv′ọ̄-rus), ''a.'' [< L. ''aurum'', gold, + ''vorare'', devour.] Gold-devouring. ''Walpole.''\n\n'''aurocephalous''' (â-rō-sef′a-lus), ''a.'' [< L. ''aurum'', gold, + Gr. κεφαλή, head.] In ''zoöl.'', characterized by a gold-colored head.\n\n'''aurochs''' (â′roks), ''n.'' [G., also ''auerochse'', < MHG. ''ūrochse'', < OHG. ''ūrohso'', < ''ūr'', a wild ox (= AS. ''ūr'' = Icel. ''ūrr''; cf. L. ''urus'' = Gr. οὖρος, from Teut.), + ''ohso'', G. ''ochse'', ''ochs'' = E. ''ox'': see ''urox'' and ''urus''.] A species of wild ox or buffalo, the ''bonasos'' of Aristotle, ''bison'' of Pliny, the European bison, ''Bos'' or ''Bison bonasus'' of modern naturalists. {{smaller|This animal was once abundant in many parts of the continent of Europe, especially in the neighborhood of large forests. The spread of population has nearly exterminated it, and were it not for the protection afforded by the emperor of Russia to a few herds which inhabit the forests of Lithuania and of Kuban in the Caucasus, it would soon become extinct. Also called ''urochs'', ''urox'', and, wrongly, ''auroch'' and ''aurock''. See ''urus''.}}\n\n{{smaller block|The relationships of the ''aurochs'' to the American bison, while very close, do not warrant that specific identity}}"
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0409 c2f1.png",
+   "c3f1": "century v01 p0409 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1824,
+     577,
+     2282,
+     950
+    ],
+    "caption": [
+     1837,
+     965,
+     2296,
+     1033
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1889,
+     573,
+     2282,
+     956
+    ]
+   },
+   {
+    "box": [
+     921,
+     1830,
+     1434,
+     2384
+    ],
+    "caption": [
+     1039,
+     2387,
+     1316,
+     2409
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     920,
+     1864,
+     1433,
+     2373
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 3,
+    "input_tokens": 5628,
+    "output_tokens": 178,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9426,
+    "output_tokens": 9631,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|auricular|383|aurochs}}</noinclude>'''5†.''' Communicated or known by report; hearsay.\n{{smaller block|''Auricular'' traditions and feigned testimonies.\n{{right|''Bacon'', Nat. Hist., § 326.}}}}\n'''6.''' Known or obtained by the sense of hearing: as, ''auricular'' evidence.—'''7.''' Ear-shaped; auriculate; auriform: as, the ''auricular'' articulating surface of the human ilium.—'''8.''' In echinoderms, of or pertaining to the auriculæ: as, an internal ''auricular'' process.—'''9.''' Pertaining to the auricle of the heart.—{{smaller|'''Anterior auricular arteries,''' two or more branches of the temporal artery supplying the external ear.—'''Anterior auricular veins,''' small veins from the external ear emptying into the temporal vein.—'''Auricular feathers,''' in ''ornith.'', the special set of feathers, usually of peculiar structure, which overlie and defend the outer opening of the ear.—'''Auricular finger,''' the little finger: so called from the fact that it is most easily introduced into the ear.—'''Auricular foramen,''' the mouth of the external auditory meatus of the ear.—'''Auricular nerves,''' various small nerves derived from the great auricular, the auriculotemporal, the facial, the second cervical, the small or sometimes the large occipital, and the vagus nerves, which supply the integument and other parts of the external ear and its vicinity.—'''Auricular point,''' in ''anat.'', the center of the auricular foramen.—'''Auricular radii,''' in ''craniom.'', radii drawn from the projection of the auricular point on the median plane to the projections of other points of the skull. See ''craniometry''.—'''Auricular tube,''' a speaking-tube, either portable for the use of deaf persons, or extending between different parts of a building for the conveyance of messages.—'''Auricular witness,''' a witness who relates what he has heard.—'''Deep auricular artery,''' a small branch from the internal maxillary artery, supplying the external meatus of the ear.—'''Great auricular nerve,''' the auricularis magnus, a nerve arising from the second and third cervical nerves, and distributed to the external ear and adjacent parts. —'''Posterior auricular artery,''' a branch of the external carotid artery, supplying parts in the region of the ear.—'''Posterior auricular vein,''' a vein which, descending behind the pinna of the ear from the side of the head, joins the external jugular vein.}}\n\n'''II.''' ''n.'' '''1.''' ''pl.'' In ''ornith.'', the auricular feathers.—'''2.''' The auricular or little finger. See ''auricular finger'', above.\n\n'''auriculares''', ''n.'' Plural of ''auricularis.''\n\n'''auricularia''' (â-rik-ụ̄-lā′ri-ä̤), ''n.''   [NL., < ''auricula'', 4, + ''-aria.'']   '''1.''' [Pl. ''auriculariæ'' (-ē).] A term applied to an early stage of the development of the embryo of certain echinoderms, as those of the genera ''Holothuria'', ''Synapta'', etc., when it is ciliated. See ''Holothuridea.'' [It is a generic name given by Müller through a mistake as to the nature of these larvæ.]—'''2.''' [''cap.''] In ''conch.'', a generic name variously used: as, (''a'') by De Blainville for a genus of acephalous mollusks; (''b'') by Fabricius for a genus of gastropods.\n\n'''auricularian''' (â-rik-ụ̄-lā′ri-a̤n), ''a.''   [< ''auricularia'' + ''-an.'']   Of or pertaining to an auricularia; echinopædic.\n\n'''auricularis''' (â-rik-ụ̄-lā′ris), ''n.''; pl. ''auriculares'' (-rēz).   [NL.: see ''auricular.'']   The little finger. See ''auricular finger'', under ''auricular''.\n\n'''auricularly''' (â-rik′ụ̄-lär-li), ''adv.'' '''1.''' In an auricular manner; specifically, in a secret manner; by whispers.\n{{smaller block|These will soon confess, and that not ''auricularly'', but in a loud and audible voice.\n{{right|''Decay of Christ. Piety'', vii. § 4.}}}} '''2.''' By means of auricles.\n\n'''auriculate, auriculated''' (â-rik′ū-lāt, -lā-ted), ''a.''   [< NL. ''auriculatus'', < L. ''auricula'': see ''auricle''.]   '''1.''' Ear-shaped; like or likened to an auricle; auriform.—'''2.''' Having ears; provided with ears, auricles, or ear-like parts: in ''bot.'', said of a leaf with a pair of small blunt projections or ears at the base.—{{smaller|'''Auriculate antennæ''', in ''entom.'', antennæ in which one of the basal joints is expanded laterally in a concave plate, as in certain aquatic beetles.—'''Auriculate elytra''', in ''entom.'', elytra produced laterally at the humeral angles into a free lobe.}}\n\n'''auriculid''' (â-rik′ū-lid), ''n.'' A gastropod of the family ''Auriculidæ''.\n\n'''Auriculidæ''' (â-ri-kū′li-dē), ''n. pl.''   [NL., < ''Auricula'', 3, + ''-idæ''.]   A family of pulmonate gastropods with contractile tentacles, eyes sessile at the inner or hinder bases of the tentacles, rugose teguments, and a spiral shell whose partitions are generally absorbed, and whose columella is plicated. {{smaller|The family is divided into subfamilies and many genera. Some of the species frequent banks, generally within tide-limits, others marshes and wet woods, and a few (of the genus ''Carychium'') are almost exclusively terrestrial. See cut under ''Pythia''.}}\n\n'''auriculobregmatic''' (â-rik″ū-lō-breg-mat′ik), ''a.''   [< ''auricula'' + ''bregma(t-)'' + ''-ic''.]   In ''anat.'', pertaining to the auricular point and the bregma.—{{smaller|'''Auriculobregmatic line''', a line drawn from the projection of the auricular points on the median plane of the skull to the bregma. See ''craniometry''.}}\n\n'''auriculo-orbicularis''' (â-rik″ū-lō-ôr-bik-ū-lā′ris), ''n.''   [NL., < ''auricula'' + ''orbicularis''.]   A muscle of the hedgehog connecting the pinna of the ear with the orbicularis panniculi, which it antagonizes.\n\n'''auriculoparotidean''' (â-rik″ū-lō-pa-rō-tid′ē-an), ''a.''   [< ''auricula'' + ''parotid'' + ''-ean.'']   Pertaining to the auricle of the ear and the parotid gland: specifically applied to a nerve which supplies those parts.\n\n'''auriculotemporal''' (â-rik″ū-lō-tem′pō-ral), ''a.''   [< ''auricula'' + ''temporal.'']   Pertaining to the ear and the temporal region: specifically applied to a branch of the inferior maxillary nerve which supplies the external ear and adjacent regions.\n\n'''auriculoventricular''' (â-rik″ū-lō-ven-trik′ū-lär), ''a.''   [< ''auricula'' + ''ventricular.'']   Pertaining both to the auricles and to the ventricles of the heart: as, the ''auriculoventricular'' orifice. See cut under ''heart.''—'''Auriculoventricular valves.''' {{smaller|See ''valve.''}}\n\n'''auriferous''' (â-rif′e-rus), ''a.''   [< L. ''aurifer'', gold-bearing, < ''aurum'', gold, + ''ferre'' = E. ''bear''<sup>1</sup>.]   Yielding or producing gold; containing gold: as, ''auriferous'' quartz; ''auriferous'' strata.\n{{smaller block|<poem>Mountains big with mines,\nWhence many a bursting stream ''auriferous'' plays.</poem>\n{{right|''Thomson'', Summer, l. 648.}}}}\n\n'''aurific''' (â-rif′ik), ''a.''   [< L. ''aurum'', gold, + ''facere'', make.]   Capable of transmuting substances into gold; gold-making.\n{{smaller block|Some experiments made with an ''aurific'' powder.\n{{right|''Southey'', The Doctor, clxxxvi.}}}}\n\n'''auriflamma, auriflamme''' (â-ri-flam′ä, â′ri-flam), ''n.''   [< ML. ''auriflamma'', lit. golden flame, < L. ''aurum'', gold, + ''flamma'', flame.]   The ancient royal banner of France. See ''oriflamme.''\n\n'''auriform''' (â′ri-fôrm), ''a.''   [< L. ''auris'', the ear, + ''forma'', form.]   Ear-shaped; having the form of the external human ear: as, an ''auriform'' shell.\n\n'''aurifrisia''' (â-ri-friz′i-ä̤), ''n.'' Same as ''auriphrygia.''\n\n'''aurifrisiate''' (â-ri-friz′i-āt), ''a.'' Same as ''auriphrygiate.''\n\n'''aurify''' (â′ri-fī), ''v. t.'' and ''i.''; pret. and pp. ''aurified'', ppr. ''aurifying''.   [< L. ''aurum'', gold, + ''facere'', make: see ''-fy''.]   To turn into or become gold.\n\n'''Auriga''' (â-rī′gä̤), ''n.''   [L., a charioteer; as constellation, the Wagoner; perhaps < ''aurea'', bridle (cf. ''oreæ'', the bit of a bridle, < ''os'' (''or-''), the mouth: see ''os''<sup>1</sup>), + ''agere'', drive; otherwise < *''aurus'' (not found, supposed to mean ‘a horse,’ = Gr. αὐρος, swift) + ''agere'', drive: see ''act, v.'']   '''1.''' A northern constellation containing the splendid star Capella; the Charioteer or Wagoner. {{smaller|It is supposed to represent a charioteer kneeling in his vehicle. He is often represented with a kid on his left shoulder, this being doubtless an ancient constellation-figure coincident in position with the Charioteer.}} '''2.''' [''l. c.''] [NL.] A name of the fourth lobe of the liver. [Rare.]\n\n[[File:century v01 p0409 c2f1.png|center|262px]]\n{{c|{{smaller|The Constellation Auriga.}}}}\n\n'''aurigal''' (â-rī′ga̤l), ''a.''   [< LL. ''aurigalis'', < L. ''auriga'': see ''Auriga''.]   Pertaining to a chariot or carriage. [Rare.]\n\n'''aurigation''' (â-ri-gā′shọn), ''n.''   [< L. ''aurigatio(n-)'', < ''aurigare'', pp. ''aurigatus'', be a driver, < ''auriga'', a driver: see ''Auriga''.]   The act or practice of driving a chariot or coach. [Rare.]\n\n{{smaller block|If a man indulges in the vicious habit of sleeping, all the skill in ''aurigation'' of Apollo himself, with the horses of Aurora to execute his notions, avail him nothing.\n{{right|''De Quincey'', Eng. Mail-Coach.}}}}\n\n'''aurigerous''' (â-rij′ẹ-rus), ''a.''   [< L. ''aurum'', gold, + ''gerere'', bear.]   Gold-bearing.\n\n'''aurigraphy''' (â-rig′rạ-fi), ''n.''   [< ML. ''aurigraphia'', < ''aurigraphus'', one who writes in golden characters, < L. ''aurum'', gold, + Gr. γράφειν, write.]   The art or practice of writing in golden characters.   ''Blount.''\n\n'''aurilave''' (â′ri-lāv), ''n.''   [< L. ''auris'', the ear, + ''lavare'', wash: see ''auricle'' and ''lave''<sup>2</sup>.]   An ear-brush.   ''E. H. Knight.''\n\n'''aurin, aurine''' (â′rin), ''n.''   [< L. ''aurum'', gold, + ''-in''<sup>2</sup>.]   The commercial name for impure rosolic acid (which see, under ''rosolic''), one of the coal-tar colors. {{smaller|In its pure state it forms ruby-red crystals with a blue fluorescence. Owing to its fugitiveness, it is seldom used in dyeing, but it is still used in printing calicoes and woolens and for pigments. It produces orange-red colors.}}\n{{smaller block|''Aurine'' dyes shades more inclining to orange than coralline.\n{{right|''Workshop Receipts'', 2d ser., p. 228.}}}}\n\n'''auriphrygia''' (â-ri-frij′i-ä̤), ''n.''   [< ML. *''auriphrygia'', ''aurifrigia'', also spelled ''aurifrisia'', ''aurifresia'', also ''aurifrygium'', also simply ''phrygium'', ''frigium'', gold embroidery, < L. ''aurum Phrygium'', lit. Phrygian gold; the Phrygians were noted for their skill in embroidering with gold: see ''aurum'' and ''Phrygian''. From the same {{img float|file=century v01 p0409 c3f1.png|width=230px|align=right|cap={{smaller|Miter with Auriphrygia, or Auriphrygiate Miter, 12th century. (From “L’Art pour Tous.”)}}}} source, through the French, come ''orfrays'', ''orfray'', ''orphrey'', q. v.]   Properly, gold embroidery; ''eccles.'', an ornamental band on various vestments; an orphrey: used especially of the orphrey of a miter, which is a richly adorned band around its lower edge. Also ''aurifrisia.''\n\n'''auriphrygiate''' (â-ri-frij′i-āt), ''a.''   [< ML. *''auriphrygiatus, auriphrigiatus, aurifrisiatus, aurifriceatus,'' etc., < *''auriphrygia'': see ''auriphrygia.'']   Embroidered with gold; provided with an auriphrygia. Also ''aurifrisiate.''\n{{smaller block|Nor wore he mitre here, precious or ''auriphrygiate.''\n{{right|''Southey,'' Roderick, xviii.}}}}\n\n'''auripigment, auripigmentum''' (â-ri-pig′ment, â″ri-pig-men′tum), ''n.''   [L. ''auripigmentum,'' < ''aurum,'' gold, + ''pigmentum,'' pigment: see ''aurum'' and ''pigment.'' From the L., through F., comes ''orpiment.'']   Same as ''orpiment.''\n\n'''auris''' (â′ris), ''n.''; pl. ''aures'' (â′rēz).   [L., = E. ''ear''<sup>1</sup>, q. v.]   '''1.''' In ''zoöl.'' and ''anat.,'' an ear; the outer ear or auricle.—'''2.''' [''cap.''] [NL.] In ''conch.,'' a genus of ear-shells: synonymous with ''Haliotis.''\n\n'''auriscalp''' (â′ri-skalp), ''n.''   [< ''auriscalpium.'']   An instrument for cleaning the ears; an ear-pick; also, a similar instrument used in surgical operations on the ear.\n\n'''auriscalpium''' (â-ri-skal′pi-um), ''n.''; pl. ''auriscalpia'' (-ä).   [NL., < L. ''auris,'' = E. ''ear''<sup>1</sup>, + ''scalpere,'' scrape, scratch: see ''scalpel.'']   '''1.''' Same as ''auriscalp.''—'''2.''' [''cap.''] In ''conch.,'' a genus of bivalve mollusks.\n\n'''auriscope''' (â′ri-skōp), ''n.''   [< L. ''auris,'' = E. ''ear''<sup>1</sup>, + Gr. σκοπεῖν, view, look at.]   An instrument for examining and exploring the ear.\n\n'''auriscopy''' (â-ris′kọ̄-pi), ''n.''   [< L. ''auris,'' = E. ''ear''<sup>1</sup>, + Gr. -σκοπία, < σκοπεῖν, view, look at.]   The use of the auriscope.\n\n'''aurist''' (â′rist), ''n.''   [< L. ''auris,'' = E. ''ear''<sup>1</sup>, + ''-ist.'']   One who treats disorders of the ear; an otologist.\n\n{{smaller block|In England the medical profession is divided into physicians, surgeons, apothecaries, accoucheurs, oculists, ''aurists'', dentists.\n{{right|''Sir G. C. Lewis'', Authority in Matters of Opinion, v.}}}}\n\n'''aurite''' (â′rīt), ''a.'' Same as ''aurited.''\n\n'''aurited''' (â′ri-ted), ''a.''   [< L. ''auritus'', = E. ''eared'', < ''auris'' = E. ''ear''<sup>1</sup>. Cf. ''aurated''<sup>2</sup>.]   In ''bot.'' and ''zoöl.'', eared; auriculate; having lobes or appendages like an ear.\n\n'''aurivorous''' (â-riv′ọ̄-rus), ''a.''   [< L. ''aurum'', gold, + ''vorare'', devour.]   Gold-devouring.   ''Walpole.''\n\n'''aurocephalous''' (â-rō-sef′a-lus), ''a.''   [< L. ''aurum'', gold, + Gr. κεφαλή, head.]   In ''zoöl.'', characterized by a gold-colored head.\n\n'''aurochs''' (â′roks), ''n.''   [G., also ''auerochse'', < MHG. ''ūrochse'', < OHG. ''ūrohso'', < ''ūr'', a wild ox (= AS. ''ūr'' = Icel. ''ūrr''; cf. L. ''urus'' = Gr. οὖρος, from Teut.), + ''ohso'', G. ''ochse'', ''ochs'' = E. ''ox'': see ''urox'' and ''urus''.]   A species of wild ox or buffalo, the ''bonasos'' of Aristotle, ''bison'' of Pliny, the European bison, ''Bos'' or ''Bison bonasus'' of modern naturalists. {{smaller|This animal was once abundant in many parts of the continent of Europe, especially in the neighborhood of large forests. The spread of population has nearly exterminated it, and were it not for the protection afforded by the emperor of Russia to a few herds which inhabit the forests of Lithuania and of Kuban in the Caucasus, it would soon become extinct. Also called ''urochs'', ''urox'', and, wrongly, ''auroch'' and ''aurock''. See ''urus''.}}\n\n{{smaller block|The relationships of the ''aurochs'' to the American bison, while very close, do not warrant that specific identity}}<noinclude><references/></noinclude>"
+}

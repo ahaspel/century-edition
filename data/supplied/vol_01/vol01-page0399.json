@@ -1,0 +1,257 @@
+{
+ "volume": 1,
+ "page_number": 399,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n398.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n398.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 747,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     81,
+     149,
+     2304,
+     185
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     81,
+     185,
+     832,
+     1279
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     81,
+     1279,
+     832,
+     2376
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     81,
+     2376,
+     832,
+     3295
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     832,
+     185,
+     1572,
+     1281
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     902,
+     368,
+     1464,
+     862
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     832,
+     1281,
+     1572,
+     2142
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     832,
+     2142,
+     1572,
+     3137
+    ]
+   },
+   {
+    "name": "c2f2",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     852,
+     2139,
+     1542,
+     2708
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     832,
+     3137,
+     1572,
+     3295
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     185,
+     2304,
+     1276
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     1276,
+     2304,
+     2262
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     2262,
+     2304,
+     3295
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|atterate|373|attire}}",
+   "c1s1": "¶\n'''atterate†, atteration†.''' See ''atterrate, atterration.''\n\n'''attercop''' (at′ėr-kop), ''n.'' [= Sc. ''ettercap''; < ME. ''attercop, attercoppe'', < AS. ''ättercoppe'' (= Dan. ''edderkop''), a spider, < ''ātor'', poison (see ''atter''<sup>1</sup>), + *''coppe'', < ''cop'', head, round lump, or ''copp'', a cup: see ''cob''<sup>1</sup>, ''cobweb'', ''cop''<sup>1</sup>, and ''cup''.] '''1.''' A spider. [Old and prov. Eng.]—'''2.''' Figuratively, a peevish, testy, ill-natured person. [North. Eng.]\n\n'''atterly†''' (at′ėr-li), ''a.'' [< ME. ''atterlich'', < AS. ''ātorlīc'' (= OHG. ''eitarlīh''), poisonous, < ''ātor'', poison, + ''-līc'': see ''atter''<sup>1</sup> and ''-ly''<sup>1</sup>.] Poisonous; attery.\n\n'''atterminal''', ''a.'' See ''adterminal.''\n\n'''atterr†''', ''v. t.'' See ''atter''<sup>2</sup>.\n\n'''atterrate†, atterate†''' (at′ẹ-rāt), ''v. t.'' [< ML. ''atterratus'', pp. of ''atterrare'', carry earth from one place to another: see ''atter''<sup>2</sup>.] To fill up with earth, especially with alluvium.\n{{smaller block|''Atterated'' by land brought down by floods.\n{{right|''Ray'', Diss. of World, v.}}}}\n\n'''atterration†, atteration†''' (at-ẹ-rā′shọn), ''n.'' [< ''atterrate, atterate.''] The process of filling up with earth; especially, the formation of land by alluvial deposits.\n\n'''attery†, attry†''', ''a.'' [< ME. ''attri'', < AS. ''ǣttrig, ǣtrig'', poisonous (= OHG. ''eitarig''), < ''ǣttor, ātor'', poison: see ''atter''<sup>1</sup>.] Poisonous; pernicious.\n{{smaller block|Than cometh also of ire ''attry'' anger.\n{{right|''Chaucer'', Parson’s Tale.}}}}\n\n'''attest''' (a̤-test′), ''v.'' [= F. ''attester'', OF. ''atester'' = Sp. ''atestar'' = Pg. ''attestar'' = It. ''attestare'', < L. ''attestari'', bear witness to, < ''ad'', to, + ''testari'', bear witness, < ''testis'', a witness: see ''testify''.]",
+   "c1s2": "I. ''trans.'' '''1.''' To bear witness to; certify; affirm to be true or genuine; declare the truth of in words or writing; especially, affirm in an official capacity: as, to ''attest'' the truth of a writing; to ''attest'' a copy of a document.\n{{smaller block|The most monstrous fables . . . ''attested'' with the utmost solemnity. {{right|''Goldsmith'', Citizen of the World, xvi.}}}}\n{{smaller block|This sale of a tract, twelve miles square, was formally ''attested'' at Manhattan. {{right|''Bancroft'', Hist. U. S., II. 44.}}}}\n'''2.''' To make evident; vouch for; give proof or evidence of; manifest.\n{{smaller block|<poem>The birds their notes renew, and bleating herds\n''Attest'' their joy, that hill and valley rings.</poem>\n{{right|''Milton'', P. L., ii. 495.}}}}\n{{smaller block|The rancor of the disease ''attests'' the strength of the constitution. {{right|''Emerson'', Conduct of Life.}}}}\n'''3.''' To call to witness; invoke as knowing or conscious. [Obsolete or archaic.]\n{{smaller block|<poem>The sacred streams which heaven’s imperial state\n''Attests'' in oaths, and fears to violate.</poem>\n{{right|''Dryden.''}}}}\n'''4.''' To put upon oath; swear in.\n{{smaller block|If a proposed recruit, when taken before a justice of the peace, . . . should change his mind, he is dismissed upon paying a fine of twenty shillings, popularly called smart money; but if he does not, he is ''attested'', and after that, should he abscond, he is considered and punished as a deserter. {{right|''A. Fonblanque, Jr.''}}}}\n{{smaller|'''Attesting witness''', a person who signs his name to an instrument to prove it, and for the purpose of identifying the maker or makers.}] ='''Syn. 1.''' To confirm, corroborate, support, authenticate, prove.}}\n'''II.''' ''intrans.'' To bear witness; make an attestation: with ''to'': as, to ''attest to'' a statement or a document.\n\n'''attest''' (a-test′), ''n.'' [< ''attest'', ''v.''] Witness; testimony; attestation. {{smaller|[Now chiefly used at the end of a document, as introductory to the name of one au-}}",
+   "c1s3": "thenticating it by his signature.]\n{{smaller block|<poem>There is a credence in my heart,\nAn esperance so obstinately strong,\nThat doth invert the ''attest'' of eyes and ears.</poem>\n{{right|''Shak.'', T. and C., v. 2.}}}}\n\n'''attestation''' (at-es-tā′shọn), ''n.'' [< F. ''attestation'', < LL. ''attestatio(n-)'', < L. ''attestari'', pp. ''attestatus'': see ''attest'', ''v.''] '''1.''' The act of attesting; a declaration, verbal or written, in support of a fact; evidence; testimony.\n{{smaller block|The applause of the crowd makes the head giddy, but the ''attestation'' of a reasonable man makes the heart glad.\n{{right|''Steele'', Spectator, No. 188.}}\nI would not willingly spare the ''attestation'' which they took pleasure in rendering to each other’s characters.\n{{right|''Everett'', Orations, I. 146.}}}}\n'''2.''' The administration of an oath, as to a military recruit. See ''attest'', 4.—'''Attestation clause''', {{smaller|a clause usually appended to wills, after the signature of the testator and before that of the witnesses, reciting the due performance of the formalities required by the law.}}\n\n'''attestative''' (a-tes′ta̤-tiv), ''a.'' [< L. ''attestatus'', pp. of ''attestari'' (see ''attest'', ''v.''), + ''-ive''.] Of the nature of attestation; corroborative: as, ''attestative'' evidence.\n\n'''attestator''' (at′es-tā-tor), ''n.'' [= It. ''attestatore'', < L. as if *''attestator'', < ''attestare'', pp. ''attestatus'': see ''attest'', ''v.''] An attester.\n\n'''attester, attestor''' (ạ-tes′tėr, -tọr), ''n.'' One who attests or vouches for. [''Attestor'' is the common form in legal phraseology.]",
+   "c2s1": "¶\n'''attestive''' (a-tes′tiv), ''a.'' [< ''attest'' + ''-ive.''] Giving attestation; attesting. [Rare.]\n\n'''attestor''', ''n.'' See ''attester''.\n\n'''Atthis''' (at′this), ''n.'' [NL., < Gr. Ἀτθίς, Attic, Attica.] A genus of diminutive humming-birds,\n[[FIGURE]]\n{{c|{{smaller|Attic Humming-bird (''Atthis heloisæ'').}}}}\nhaving the metallic scales of the throat prolonged into a ruff, as in ''A. heloisæ'', the Attic humming-bird of the southwestern United States.\n\n'''Attic<sup>1</sup>''' (at′ik), ''a.'' and ''n.'' [= F. ''Attique'' = Sp. ''Ático'' = Pg. It. ''Attico'', < L. ''Atticus'', < Gr. Ἀττικός, Attic, Athenian, < Ἀττική, Attica, a province of Greece; supposed by some to stand for *ἀκτική, fem. adj. equiv. to ἀκταία, on the coast, < ἀκτή, coast, prop. headland, promontory; Ἀκτή is the ancient name of the headland of the Piræus. According to others, Ἀττική stands for *Ἀστική,",
+   "c2s2": "< ἀστυ, city: see ''asteism.''] '''I.''' ''a.'' Pertaining to Attica, or to the city or state of Athens; Athenian; marked by such qualities as were characteristic of the Athenians.—{{smaller|'''Attic base,''' in ''arch.'', a base used properly with the Ionic order, consisting of an upper torus, a scotia, and a lower torus, separated by fillets. See cut under ''base.''—'''Attic dialect,''' the dialect of Greek used by the ancient Athenians, and regarded as the standard of the language. It was a subdivision of the Ionic, but is often spoken of as a coördinate dialect; it is distinguished from the Ionic by a more frequent retention of an original ''a'' (α) sound, and by its avoidance of hiatus, especially through contraction. Its chief literature belongs to the fifth and fourth centuries {{sc|b. c.}} As written during the greater part of the former century, it is known as ''old Attic;'' in its transition to the next century, as ''middle Attic;'' and during the greater part of the fourth century, as ''new Attic.'' It passed after this into the Koinê or common dialect, the general Greek of the Alexandrine and Roman periods, departing more or less from its former classic standard.—'''Attic faith,''' inviolable faith.—'''Attic hummer,''' a humming-bird of the genus ''Atthis.''—'''Attic salt,''' wit of a dry, delicate, and refined quality.—'''Attic school,''' in ''art.'' See ''Hellenic art,'' under ''Hellenic.''—'''Attic style,''' a pure, chaste, and elegant style.}}\n\n'''II.''' ''n.'' '''1.''' A native or an inhabitant of Attica, the territory of the ancient Athenian state, now an eparchy of the kingdom of Greece; an Athenian.—'''2.''' The Attic dialect; Attic Greek.\n\n'''attic<sup>2</sup>''' (at′ik), ''n.'' [= F. ''attique'' = Sp. ''ático'' = Pg. It. ''attico'', an attic, < L. ''Atticus'', Attic: see",
+   "c2s3": "[[FIGURE]]\n{{c|{{smaller|Attic of St. Peter’s, Rome.<br>''A'', attic of the main edifice; ''B'', attic of the dome.}}}}\n''Attic''<sup>1</sup>, and extract below.] '''1.''' In ''arch.'', a low story surmounting an entablature or the main cornice of a building. Also called ''attic story''.\n{{smaller block|The term [''attic''] appears to have been introduced by the architects of the seventeenth century, with the intention of conveying [falsely] the idea that the feature to which it alluded was constructed or designed in the Athenian manner.\n{{right|''Audsley'', Dict. of Architecture.}}}}\n'''2.''' A room in the uppermost part of a house, immediately beneath the roof or leads; a garret.\n{{smaller block|They stare not on the stars from out their ''attics''.\n{{right|''Byron'', Beppo, st. 78.}}}}",
+   "c2s4": "¶\n{{smaller|'''Attic order''', a name sometimes given to small pillars or pilasters decorating the exterior of an attic.}}\n\n'''Attical†''' (at′i-ka̤l), ''a.'' [< ''Attic''<sup>1</sup> + ''-al.''] Pertaining to Attica or Athens; Attic; pure; classical. ''Hammond.''",
+   "c3s1": "¶\n'''attice†''', ''v. t.'' [Early mod. E. also ''attise'', < ME. ''atisen'', ''atysen'', < OF. ''atisier'', ''aticier'', ''atiser'', mod. F. ''attiser'' = Pr. Sp. ''atizar'' = Pg. ''atiçar'' = It. ''attizzare'', < L. as if *''attitiare'', stir the fire, < ''ad'', to, + ''titio(n-)'', a firebrand; cf. ML. ''titionari'' = F. ''tisonner'', stir the fire. Cf. ''entice''.] To instigate; allure; entice.\n\n'''atticement†''', ''n.'' Instigation; enticement. ''Caxton.''\n\n'''Atticise''', ''v.'' See ''Atticize''.\n\n'''Atticism''' (at′i-sizm), ''n.'' [< Gr. Ἀττικισμός, a siding with Athens, Attic style, < Ἀττικίζειν, Atticize: see ''Atticize''.] '''1.''' A peculiarity of style or idiom belonging to the Greek language as used by the Athenians; Attic elegance of diction; concise and elegant expression.\n{{smaller block|They thought themselves gallant men, and I thought them fools, they made sport, and I laught, they mispronounc’t and I mislik’t, and to make up the ''atticisme'', they were out, and I hist. ''Milton'', Apology for Smectymnuus.}}\n{{smaller block|An elegant ''atticism'' which occurs Luke xiii. 9: “If it bear fruit, well.” ''Abp. Newcome'', Eng. Biblical Trans., p. 279.}}\n'''2.''' A siding with, or favoring the cause of, the Athenians.\n{{smaller block|Put to death by Pædaritus for ''atticism''.\n{{right|''Hobbes'', tr. of Thucydides, viii. 38.}}}}\n\n'''Atticist''' (at′i-sist), ''n.'' One who affects Attic style.\n\n'''Atticize''' (at′i-sīz), ''v.''; pret. and pp. ''Atticized'', ppr. ''Atticizing''. [= L. ''Atticissare'', < Gr. Ἀττικίζειν, side with the Athenians, speak Attic, < Ἀττικός, Attic, Athenian: see ''Attic''<sup>1</sup>.] '''I.''' ''intrans.'' '''1.''' To use Atticisms or idioms peculiar to Attic Greek.—'''2.''' To favor or side with the",
+   "c3s2": "Athenians. ''Dean Smith.''\n\n'''II.''' ''trans.'' To make conformable to the language or idiom of Attica.\n\nAlso spelled ''Atticise.''\n\n'''attid''' (at′id), ''n.'' A jumping-spider; a member of the family ''Attidæ.''\n\n'''Attidæ''' (at′i-dē), ''n. pl.'' [NL., < ''Attus'' + ''-idæ.''] A family of saltigrade dipneumonous araneids with a short body, flattened cephalothorax, and eyes usually in three transverse rows; the jumping-spiders. {{smaller|Their chief characteristic is that the median foremost pair of eyes are much larger and the hindmost pair smaller than the others. They spin no webs, but capture their prey by leaping upon it. The species are very numerous.}}\n\n'''Attidian''' (a-tid′i-an), ''a.'' Of or pertaining to the ancient town of Attidium in Umbria.—'''Attidian Brethren''', {{smaller|a corporation of twelve priests in ancient Umbria, who had authority over a considerable region, and who are known only from the Eugubine tables, the Umbrian inscriptions on which are records of their acts. See ''Eugubine.''}}\n\n'''attiguous†''' (a-tig′ū-us), ''a.'' [< L. ''attiguus'', touching, contiguous, < ''attigere'', older form of ''attingere'', touch: see ''attinge'', and cf. ''contiguous.''] Near; adjoining; contiguous.\n\n'''attiguousness†''' (a-tig′ū-us-nes), ''n.'' The quality or state of being attiguous. ''Bailey.''\n\n'''attihawmeg''' (at-i-hâ′meg), ''n.'' [Amer. Ind.] A kind of whitefish, of the genus ''Coregonus'' and family ''Salmonidæ'', abundant in the great lakes of North America, and a delicious food-fish.",
+   "c3s3": "¶\n\n'''Attila''' (at′i-lä̤), ''n.'' [NL., named from ''Attila'', king of the Huns.] In ''ornith.'', a genus of South American tyrant flycatchers, family ''Tyrannidæ'', sometimes giving name to a subfamily ''Attilinæ''. ''A. cinerea'' is the type, and about 12 other species are included in the genus.\n\n'''attinge†''' (a-tinj′), ''v. t.'' [< L. ''attingere'', older form ''attigere'', touch, border upon, be near, < ''ad'', to, + ''tangere'', touch: see ''tangent''.] To touch; come in contact with; hence, affect; influence.\n\n'''attire''' (ạ-tīr′), ''v. t.''; pret. and pp. ''attired'', ppr. ''attiring''. [Also by apheresis ''tire'' (see ''tire''<sup>4</sup>); < ME. ''atiren'', ''atyren'', < OF. ''atirer'', earlier ''atirier'' (= Pr. ''atieirar''), put in order, arrange, dress; < ''a tire'' (= Pr. ''a tieira''), in order, in a row: ''a'' (< L. ''ad''), to; ''tire'', ''tiere'' (= Pr. ''tieira'', ''tiera'' = It. ''tiera''), order, row, file, dress: see ''tier''<sup>2</sup>.] To dress; clothe; array; adorn.\n{{smaller block|With the linen mitre shall he [Aaron] be ''attired''.\n{{right|Lev. xvi. 4.}}\n<poem>His shoulders large a mantle did ''attire'',\nWith rubies thick, and sparkling as the fire.</poem>\n{{right|''Dryden'', Pal. and Arc., l. 1346.}}\nThe woman who ''attired'' her head.\n{{right|''Tennyson'', Geraint.}}}}\n\n'''attire''' (ạ-tīr′), ''n.'' [Also by apheresis ''tire'' (see ''tire''<sup>4</sup>, ''n.''); < ME. ''atire'', ''atir'', ''atyr'', dress, equipment; from the verb.] '''1.''' Dress; clothes; garb; apparel.\n{{smaller block|<poem>Earth in her rich ''attire''\nConsummate lovely smiled.</poem>\n{{right|''Milton'', P. L., vii. 501.}}}}"
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0399 c2f1.png",
+   "c2f2": "century v01 p0399 c2f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     914,
+     380,
+     1452,
+     850
+    ],
+    "caption": [
+     989,
+     852,
+     1389,
+     876
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     899,
+     258,
+     1424,
+     844
+    ]
+   },
+   {
+    "box": [
+     864,
+     2151,
+     1530,
+     2696
+    ],
+    "caption": [
+     955,
+     2704,
+     1462,
+     2757
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     860,
+     2083,
+     1488,
+     2693
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "2": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 3,
+    "input_tokens": 5779,
+    "output_tokens": 177,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9566,
+    "output_tokens": 9485,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|atterate|373|attire}}</noinclude>{{nop}}'''atterate†, atteration†.''' See ''atterrate, atterration.''\n\n'''attercop''' (at′ėr-kop), ''n.''   [= Sc. ''ettercap''; < ME. ''attercop, attercoppe'', < AS. ''ättercoppe'' (= Dan. ''edderkop''), a spider, < ''ātor'', poison (see ''atter''<sup>1</sup>), + *''coppe'', < ''cop'', head, round lump, or ''copp'', a cup: see ''cob''<sup>1</sup>, ''cobweb'', ''cop''<sup>1</sup>, and ''cup''.]   '''1.''' A spider. [Old and prov. Eng.]—'''2.''' Figuratively, a peevish, testy, ill-natured person. [North. Eng.]\n\n'''atterly†''' (at′ėr-li), ''a.''   [< ME. ''atterlich'', < AS. ''ātorlīc'' (= OHG. ''eitarlīh''), poisonous, < ''ātor'', poison, + ''-līc'': see ''atter''<sup>1</sup> and ''-ly''<sup>1</sup>.]   Poisonous; attery.\n\n'''atterminal''', ''a.'' See ''adterminal.''\n\n'''atterr†''', ''v. t.'' See ''atter''<sup>2</sup>.\n\n'''atterrate†, atterate†''' (at′ẹ-rāt), ''v. t.''   [< ML. ''atterratus'', pp. of ''atterrare'', carry earth from one place to another: see ''atter''<sup>2</sup>.]   To fill up with earth, especially with alluvium.\n{{smaller block|''Atterated'' by land brought down by floods.\n{{right|''Ray'', Diss. of World, v.}}}}\n\n'''atterration†, atteration†''' (at-ẹ-rā′shọn), ''n.''   [< ''atterrate, atterate.'']   The process of filling up with earth; especially, the formation of land by alluvial deposits.\n\n'''attery†, attry†''', ''a.''   [< ME. ''attri'', < AS. ''ǣttrig, ǣtrig'', poisonous (= OHG. ''eitarig''), < ''ǣttor, ātor'', poison: see ''atter''<sup>1</sup>.]   Poisonous; pernicious.\n{{smaller block|Than cometh also of ire ''attry'' anger.\n{{right|''Chaucer'', Parson’s Tale.}}}}\n\n'''attest''' (a̤-test′), ''v.''   [= F. ''attester'', OF. ''atester'' = Sp. ''atestar'' = Pg. ''attestar'' = It. ''attestare'', < L. ''attestari'', bear witness to, < ''ad'', to, + ''testari'', bear witness, < ''testis'', a witness: see ''testify''.]   I. ''trans.'' '''1.''' To bear witness to; certify; affirm to be true or genuine; declare the truth of in words or writing; especially, affirm in an official capacity: as, to ''attest'' the truth of a writing; to ''attest'' a copy of a document.\n{{smaller block|The most monstrous fables . . . ''attested'' with the utmost solemnity. {{right|''Goldsmith'', Citizen of the World, xvi.}}}}\n{{smaller block|This sale of a tract, twelve miles square, was formally ''attested'' at Manhattan. {{right|''Bancroft'', Hist. U. S., II. 44.}}}}\n'''2.''' To make evident; vouch for; give proof or evidence of; manifest.\n{{smaller block|<poem>The birds their notes renew, and bleating herds\n''Attest'' their joy, that hill and valley rings.</poem>\n{{right|''Milton'', P. L., ii. 495.}}}}\n{{smaller block|The rancor of the disease ''attests'' the strength of the constitution. {{right|''Emerson'', Conduct of Life.}}}}\n'''3.''' To call to witness; invoke as knowing or conscious. [Obsolete or archaic.]\n{{smaller block|<poem>The sacred streams which heaven’s imperial state\n''Attests'' in oaths, and fears to violate.</poem>\n{{right|''Dryden.''}}}}\n'''4.''' To put upon oath; swear in.\n{{smaller block|If a proposed recruit, when taken before a justice of the peace, . . . should change his mind, he is dismissed upon paying a fine of twenty shillings, popularly called smart money; but if he does not, he is ''attested'', and after that, should he abscond, he is considered and punished as a deserter. {{right|''A. Fonblanque, Jr.''}}}}\n{{smaller|'''Attesting witness''', a person who signs his name to an instrument to prove it, and for the purpose of identifying the maker or makers.}] ='''Syn. 1.''' To confirm, corroborate, support, authenticate, prove.}}\n'''II.''' ''intrans.'' To bear witness; make an attestation: with ''to'': as, to ''attest to'' a statement or a document.\n\n'''attest''' (a-test′), ''n.''   [< ''attest'', ''v.'']   Witness; testimony; attestation. {{smaller|[Now chiefly used at the end of a document, as introductory to the name of one authenticating}} it by his signature.]\n{{smaller block|<poem>There is a credence in my heart,\nAn esperance so obstinately strong,\nThat doth invert the ''attest'' of eyes and ears.</poem>\n{{right|''Shak.'', T. and C., v. 2.}}}}\n\n'''attestation''' (at-es-tā′shọn), ''n.''   [< F. ''attestation'', < LL. ''attestatio(n-)'', < L. ''attestari'', pp. ''attestatus'': see ''attest'', ''v.'']   '''1.''' The act of attesting; a declaration, verbal or written, in support of a fact; evidence; testimony.\n{{smaller block|The applause of the crowd makes the head giddy, but the ''attestation'' of a reasonable man makes the heart glad.\n{{right|''Steele'', Spectator, No. 188.}}}}\n{{smaller block|I would not willingly spare the ''attestation'' which they took pleasure in rendering to each other’s characters.\n{{right|''Everett'', Orations, I. 146.}}}}\n'''2.''' The administration of an oath, as to a military recruit. See ''attest'', 4.—'''Attestation clause''', {{smaller|a clause usually appended to wills, after the signature of the testator and before that of the witnesses, reciting the due performance of the formalities required by the law.}}\n\n'''attestative''' (a-tes′ta̤-tiv), ''a.''   [< L. ''attestatus'', pp. of ''attestari'' (see ''attest'', ''v.''), + ''-ive''.]   Of the nature of attestation; corroborative: as, ''attestative'' evidence.\n\n'''attestator''' (at′es-tā-tor), ''n.''   [= It. ''attestatore'', < L. as if *''attestator'', < ''attestare'', pp. ''attestatus'': see ''attest'', ''v.'']   An attester.\n\n'''attester, attestor''' (ạ-tes′tėr, -tọr), ''n.'' One who attests or vouches for. [''Attestor'' is the common form in legal phraseology.]\n\n'''attestive''' (a-tes′tiv), ''a.''   [< ''attest'' + ''-ive.'']   Giving attestation; attesting. [Rare.]\n\n'''attestor''', ''n.'' See ''attester''.\n\n'''Atthis''' (at′this), ''n.''   [NL., < Gr. Ἀτθίς, Attic, Attica.]   A genus of diminutive humming-birds,\nhaving the metallic scales of the throat prolonged into a ruff, as in ''A. heloisæ'', the Attic humming-bird of the southwestern United States.\n\n[[File:century v01 p0399 c2f1.png|center|271px]]\n{{c|{{smaller|Attic Humming-bird (''Atthis heloisæ'').}}}}\n\n'''Attic<sup>1</sup>''' (at′ik), ''a.'' and ''n.''   [= F. ''Attique'' = Sp. ''Ático'' = Pg. It. ''Attico'', < L. ''Atticus'', < Gr. Ἀττικός, Attic, Athenian, < Ἀττική, Attica, a province of Greece; supposed by some to stand for *ἀκτική, fem. adj. equiv. to ἀκταία, on the coast, < ἀκτή, coast, prop. headland, promontory; Ἀκτή is the ancient name of the headland of the Piræus. According to others, Ἀττική stands for *Ἀστική, < ἀστυ, city: see ''asteism.'']   '''I.''' ''a.'' Pertaining to Attica, or to the city or state of Athens; Athenian; marked by such qualities as were characteristic of the Athenians.—{{smaller|'''Attic base,''' in ''arch.'', a base used properly with the Ionic order, consisting of an upper torus, a scotia, and a lower torus, separated by fillets. See cut under ''base.''—'''Attic dialect,''' the dialect of Greek used by the ancient Athenians, and regarded as the standard of the language. It was a subdivision of the Ionic, but is often spoken of as a coördinate dialect; it is distinguished from the Ionic by a more frequent retention of an original ''a'' (α) sound, and by its avoidance of hiatus, especially through contraction. Its chief literature belongs to the fifth and fourth centuries {{sc|b. c.}} As written during the greater part of the former century, it is known as ''old Attic;'' in its transition to the next century, as ''middle Attic;'' and during the greater part of the fourth century, as ''new Attic.'' It passed after this into the Koinê or common dialect, the general Greek of the Alexandrine and Roman periods, departing more or less from its former classic standard.—'''Attic faith,''' inviolable faith.—'''Attic hummer,''' a humming-bird of the genus ''Atthis.''—'''Attic salt,''' wit of a dry, delicate, and refined quality.—'''Attic school,''' in ''art.'' See ''Hellenic art,'' under ''Hellenic.''—'''Attic style,''' a pure, chaste, and elegant style.}}\n\n'''II.''' ''n.'' '''1.''' A native or an inhabitant of Attica, the territory of the ancient Athenian state, now an eparchy of the kingdom of Greece; an Athenian.—'''2.''' The Attic dialect; Attic Greek.\n\n'''attic<sup>2</sup>''' (at′ik), ''n.''   [= F. ''attique'' = Sp. ''ático'' = Pg. It. ''attico'', an attic, < L. ''Atticus'', Attic: see ''Attic''<sup>1</sup>, and extract below.]   '''1.''' In ''arch.'', a low story surmounting an entablature or the main cornice of a building. Also called ''attic story''.\n{{smaller block|The term [''attic''] appears to have been introduced by the architects of the seventeenth century, with the intention of conveying [falsely] the idea that the feature to which it alluded was constructed or designed in the Athenian manner.\n{{right|''Audsley'', Dict. of Architecture.}}}}\n'''2.''' A room in the uppermost part of a house, immediately beneath the roof or leads; a garret.\n{{smaller block|They stare not on the stars from out their ''attics''.\n{{right|''Byron'', Beppo, st. 78.}}}}\n\n[[File:century v01 p0399 c2f2.png|center|333px]]\n{{c|{{smaller|Attic of St. Peter’s, Rome.<br>''A'', attic of the main edifice; ''B'', attic of the dome.}}}}\n\n{{smaller|'''Attic order''', a name sometimes given to small pillars or pilasters decorating the exterior of an attic.}}\n\n'''Attical†''' (at′i-ka̤l), ''a.''   [< ''Attic''<sup>1</sup> + ''-al.'']   Pertaining to Attica or Athens; Attic; pure; classical.   ''Hammond.''\n\n'''attice†''', ''v. t.''   [Early mod. E. also ''attise'', < ME. ''atisen'', ''atysen'', < OF. ''atisier'', ''aticier'', ''atiser'', mod. F. ''attiser'' = Pr. Sp. ''atizar'' = Pg. ''atiçar'' = It. ''attizzare'', < L. as if *''attitiare'', stir the fire, < ''ad'', to, + ''titio(n-)'', a firebrand; cf. ML. ''titionari'' = F. ''tisonner'', stir the fire. Cf. ''entice''.]   To instigate; allure; entice.\n\n'''atticement†''', ''n.'' Instigation; enticement.   ''Caxton.''\n\n'''Atticise''', ''v.'' See ''Atticize''.\n\n'''Atticism''' (at′i-sizm), ''n.''   [< Gr. Ἀττικισμός, a siding with Athens, Attic style, < Ἀττικίζειν, Atticize: see ''Atticize''.]   '''1.''' A peculiarity of style or idiom belonging to the Greek language as used by the Athenians; Attic elegance of diction; concise and elegant expression.\n{{smaller block|They thought themselves gallant men, and I thought them fools, they made sport, and I laught, they mispronounc’t and I mislik’t, and to make up the ''atticisme'', they were out, and I hist.\n{{right|''Milton'', Apology for Smectymnuus.}}}}\n{{smaller block|An elegant ''atticism'' which occurs Luke xiii. 9: “If it bear fruit, well.”\n{{right|''Abp. Newcome'', Eng. Biblical Trans., p. 279.}}}}\n'''2.''' A siding with, or favoring the cause of, the Athenians.\n{{smaller block|Put to death by Pædaritus for ''atticism''.\n{{right|''Hobbes'', tr. of Thucydides, viii. 38.}}}}\n\n'''Atticist''' (at′i-sist), ''n.'' One who affects Attic style.\n\n'''Atticize''' (at′i-sīz), ''v.''; pret. and pp. ''Atticized'', ppr. ''Atticizing''.   [= L. ''Atticissare'', < Gr. Ἀττικίζειν, side with the Athenians, speak Attic, < Ἀττικός, Attic, Athenian: see ''Attic''<sup>1</sup>.]   '''I.''' ''intrans.'' '''1.''' To use Atticisms or idioms peculiar to Attic Greek.—'''2.''' To favor or side with the Athenians.   ''Dean Smith.''\n\n'''II.''' ''trans.'' To make conformable to the language or idiom of Attica.\n\nAlso spelled ''Atticise.''\n\n'''attid''' (at′id), ''n.'' A jumping-spider; a member of the family ''Attidæ.''\n\n'''Attidæ''' (at′i-dē), ''n. pl.''   [NL., < ''Attus'' + ''-idæ.'']   A family of saltigrade dipneumonous araneids with a short body, flattened cephalothorax, and eyes usually in three transverse rows; the jumping-spiders. {{smaller|Their chief characteristic is that the median foremost pair of eyes are much larger and the hindmost pair smaller than the others. They spin no webs, but capture their prey by leaping upon it. The species are very numerous.}}\n\n'''Attidian''' (a-tid′i-an), ''a.'' Of or pertaining to the ancient town of Attidium in Umbria.—'''Attidian Brethren''', {{smaller|a corporation of twelve priests in ancient Umbria, who had authority over a considerable region, and who are known only from the Eugubine tables, the Umbrian inscriptions on which are records of their acts. See ''Eugubine.''}}\n\n'''attiguous†''' (a-tig′ū-us), ''a.''   [< L. ''attiguus'', touching, contiguous, < ''attigere'', older form of ''attingere'', touch: see ''attinge'', and cf. ''contiguous.'']   Near; adjoining; contiguous.\n\n'''attiguousness†''' (a-tig′ū-us-nes), ''n.'' The quality or state of being attiguous.   ''Bailey.''\n\n'''attihawmeg''' (at-i-hâ′meg), ''n.''   [Amer. Ind.]   A kind of whitefish, of the genus ''Coregonus'' and family ''Salmonidæ'', abundant in the great lakes of North America, and a delicious food-fish.\n\n'''Attila''' (at′i-lä̤), ''n.''   [NL., named from ''Attila'', king of the Huns.]   In ''ornith.'', a genus of South American tyrant flycatchers, family ''Tyrannidæ'', sometimes giving name to a subfamily ''Attilinæ''. ''A. cinerea'' is the type, and about 12 other species are included in the genus.\n\n'''attinge†''' (a-tinj′), ''v. t.''   [< L. ''attingere'', older form ''attigere'', touch, border upon, be near, < ''ad'', to, + ''tangere'', touch: see ''tangent''.]   To touch; come in contact with; hence, affect; influence.\n\n'''attire''' (ạ-tīr′), ''v. t.''; pret. and pp. ''attired'', ppr. ''attiring''.   [Also by apheresis ''tire'' (see ''tire''<sup>4</sup>); < ME. ''atiren'', ''atyren'', < OF. ''atirer'', earlier ''atirier'' (= Pr. ''atieirar''), put in order, arrange, dress; < ''a tire'' (= Pr. ''a tieira''), in order, in a row: ''a'' (< L. ''ad''), to; ''tire'', ''tiere'' (= Pr. ''tieira'', ''tiera'' = It. ''tiera''), order, row, file, dress: see ''tier''<sup>2</sup>.]   To dress; clothe; array; adorn.\n{{smaller block|With the linen mitre shall he [Aaron] be ''attired''.\n{{right|Lev. xvi. 4.}}}}\n{{smaller block|<poem>His shoulders large a mantle did ''attire'',\nWith rubies thick, and sparkling as the fire.</poem>\n{{right|''Dryden'', Pal. and Arc., l. 1346.}}}}\n{{smaller block|The woman who ''attired'' her head.\n{{right|''Tennyson'', Geraint.}}}}\n\n'''attire''' (ạ-tīr′), ''n.''   [Also by apheresis ''tire'' (see ''tire''<sup>4</sup>, ''n.''); < ME. ''atire'', ''atir'', ''atyr'', dress, equipment; from the verb.]   '''1.''' Dress; clothes; garb; apparel.\n{{smaller block|<poem>Earth in her rich ''attire''\nConsummate lovely smiled.</poem>\n{{right|''Milton'', P. L., vii. 501.}}}}<noinclude><references/></noinclude>"
+}

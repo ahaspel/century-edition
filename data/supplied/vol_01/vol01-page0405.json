@@ -1,0 +1,260 @@
+{
+ "volume": 1,
+ "page_number": 405,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n404.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n404.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 740,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     87,
+     140,
+     2301,
+     177
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     87,
+     177,
+     834,
+     1156
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     87,
+     1156,
+     834,
+     2092
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     87,
+     2092,
+     834,
+     3115
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     87,
+     3115,
+     834,
+     3283
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     834,
+     177,
+     1569,
+     1254
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     834,
+     1254,
+     1569,
+     2326
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     834,
+     2326,
+     1569,
+     3283
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     843,
+     2348,
+     1160,
+     2697
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     177,
+     2301,
+     1266
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     1266,
+     2301,
+     2246
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1931,
+     1396,
+     2301,
+     2000
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     2246,
+     2301,
+     3283
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|auger-bit|379|augur}}",
+   "c1s1": "¶\n'''auger-bit''' (â′gėr-bit), ''n.'' A small auger used with a brace or bit-stock.\n\n'''auger-faucet''' (â′gėr-fâ″set), ''n.'' A faucet with an auger attached. {{smaller|By means of the auger a hole is bored nearly through the wood of the cask, or the like, in which the faucet is to be inserted, and the faucet is then fixed by a single blow. The auger is withdrawn through the faucet by a rack and pinion.}}\n\n'''auger-gage''' (â′gėr-gāj), ''n.'' A collar, sleeve, or clamp attached to the shank of an auger, to prevent it from penetrating beyond the desired point.\n\n'''auger-hole''' (â′gėr-hōl), ''n.'' A hole made by an auger.\n{{smaller block|Hid in an ''auger-hole.''\n{{right|''Shak.'', Macbeth, ii. 3.}}}}\n\n'''auger-shell''' (â′gėr-shel), ''n.'' A shell of the genus ''Terebra'' and family ''Terebridæ.'' See cut under ''Terebra.''\n\n'''auger-stem''' (â′gėr-stem), ''n.'' The iron rod or bar to which the bit is attached in rope-drilling.\n\n'''auger-twister''' (â′gėr-twis″tėr), ''n.'' A machine for twisting the blanks for screw-augers.\n\n'''auges†''', ''n.'' See ''auge.''\n\n'''auget''' (â′jet; F. pron. ō-zhā′), ''n.'' [F., dim. of ''auge'', a trough, < L. ''alveus'', a trough, channel, hollow: see ''alveus.''] ''Milit.'', a small trough extending from the chamber of a mine to the extremity of a gallery, to protect from dampness a saucisson or tube filled with powder.\n\n'''augh''' (â; Sc. pron. âċh), ''interj.'' [Cf. ''aw'', ''ah'', ''oh.''] An exclamation of disgust. [U. S. and",
+   "c1s2": "Scotch.]\n\n'''aught<sup>1</sup>''' (ât), ''n.'' or ''pron.'' [In two forms: (1) ''aught'', < ME. ''aught'', ''auȝht'', ''auht'', ''aght'', ''aȝt'', ''aht'', < AS. ''awiht'', ''awuht'', with vowel shortened from orig. long, ''āwiht''; (2) ''ought'', < ME. ''ought'', ''ouht'', ''oght'', ''oȝt'', ''oht'', < AS. ''āwiht'', ''āwuht'', contr. ''āht'', with labialized vowel, ''ōwiht'', ''ōwuht'' (= OS. ''eowiht'' = OFries. ''āwet'', ''āet'' = D. ''iets'' = OHG. ''eowiht'', ''iowiht'', ''iewiht'', MHG. ''ieht'', ''iht'', ''iewet'', ''iet''), < ''ā'', ever, in comp. a generalizing prefix, + ''wiht'', wight, whit, thing: lit. ‘ever a whit’: see ''ay''<sup>1</sup> and ''whit'', ''wight'', and cf. the negative ''naught'', ''nought'', ‘never a whit.’ There is no essential difference between the two spellings ''aught'' and ''ought''; the former is now preferred.] Anything whatever; any part: used in interrogative, negative, and conditional sentences.\n{{smaller block|Is there ''aught'' else, my friends, I can do for you?\n{{right|''Addison'', Cato, iv. 4.}}\nUnfaith in ''aught'' is want of faith in all.\n{{right|''Tennyson'', Merlin and Vivien.}}}}\n\n'''aught<sup>1</sup>†''' (ât), ''adv.'' [< ME. ''aught'', etc.; prop. acc. of the noun.] In any respect; in any way; at all; by any chance.\n{{smaller block|Can he ''aught'' telle a mery tale or tweye?\n{{right|''Chaucer'', Prol. to Canon’s Yeoman’s Tale, l. 44.}}\n<poem>Thereon mused he\nIf that the childes moder were ''aught'' she\nThat was his wyf.</poem>\n{{right|''Chaucer'', Man of Law’s Tale, l. 936.}}}}",
+   "c1s3": "¶\n\n'''aught<sup>2</sup>†''', ''v.'' An obsolete form of ''ought''<sup>2</sup>.\n\n'''aught<sup>3</sup>†''' (ât), ''n.'' [Now only in Sc., written ''aucht'' (äċht), < ME. ''aught'', ''aughte'', ''auchte'', ''aght'', ''auhte'', ''ahte'', etc., < AS. ''ǣht'', pl. ''ǣhta'' (= OHG. ''ēht'' = Goth. ''aihts'', property, = Icel. ''ætt'', family), with formative ''-t'', < ''āgan'' (pret. ''āhte''), have, hold, own: see ''ought''<sup>2</sup> and ''owe''.] Possession; property.\n{{smaller block|The surest gear in their ''aught''.\n{{right|''Scott'', Quentin Durward, I. vii.}}}}\n\n'''aught<sup>4</sup>''' (ât, äċht), ''a.'' and ''n.'' An obsolete or dialectal form of ''eight''<sup>1</sup>.\n\n'''aughtwhere†''' (ât′hwãr), ''adv.'' [< ''aught''<sup>1</sup>, ''adv.'', + ''where''.] Anywhere. ''Chaucer.''\n\n'''augite''' (â′jīt), ''n.'' [= F. ''augite'', < L. ''augites'', a precious stone, < Gr. *αὐγίτης, < αὐγή, brightness, sunlight.] The dark-green to black variety of pyroxene characteristic of basic eruptive rocks like basalt. {{smaller|It differs from other varieties of pyroxene in containing a considerable proportion of alumina. The name is sometimes used to include the whole species. See ''pyroxene''.}}\n\n'''augitic''' (â-jit′ik), ''a.'' [< ''augite'' + ''-ic''.] Pertaining to augite; resembling augite, or partaking of its nature and characters; composed of or containing augite.—{{smaller|'''Augitic porphyry''', a rock with a dark-gray or greenish base, containing conspicuous crystals of augite and Labrador feldspar.}}\n\n'''auglette†''', ''n.'' An obsolete form of ''aglet''.\n\n'''augment''' (âg′ment), ''n.'' [< ME. ''augment'', < OF. ''augment'' = Pg. ''augmento'' = Sp. It. ''aumento'', < L. ''augmentum'', increase, growth, < ''augere'', increase: see ''auction''.] '''1†.''' Increase; enlarge-",
+   "c1s4": "ment by addition; augmentation.\n{{smaller block|This ''augment'' of the tree. {{right|''I. Walton'', Complete Angler.}}}}\n'''2.''' In ''gram.'', an addition at the beginning of certain past indicative tenses of the verb in a part of the Indo-European languages. {{smaller|In San-}}",
+   "c2s1": "{{smaller block|skrit it is always ''á''-; in Greek it is ''ἐ''- (''ἑ''-) before a consonant (syllabic augment), but an initial vowel is lengthened (''η''-, ''ει''-) (temporal augment). The same name is sometimes given to other prefixed inflectional elements, as to the ''ge''- of the German perfect participle (''gebracht'', brought).}}\n{{smaller block|Another form, which we may call the preterito-present, unites the ''augment'' of the past and the ending of the present tense.\n{{right|''Amer. Jour. Philol.'', VII. 354.}}}}\n'''3.''' In ''pathol.'', the period of a fever between its commencement and its height. [Rare.]\n\n'''augment''' (âg-ment′), ''v.'' [< ME. ''augmenten'', < OF. ''augmenter'', earlier ''aumenter'' = Sp. ''aumentar'' = Pg. ''augmentar'' = It. ''aumentare'', < LL. ''augmentare'', increase, < L. ''augmentum'', an increase: see ''augment'', ''n.''] '''I.''' ''trans.'' '''1.''' To increase; enlarge in size or extent; swell: as, to ''augment'' an army by reinforcement; impatience ''augments'' an evil.\n{{smaller block|<poem>Be it your care\nTo ''augment'' your heap of wealth.</poem>\n{{right|''Fletcher (and another)'', Elder Brother, i. 2.}}}}\n{{smaller block|<poem>Though fortune change, his constant spouse remains:\n''Augments'' his joys or mitigates his pains.</poem>\n{{right|''Pope'', January and May, l. 42.}}}}\n{{smaller block|The general distress did but ''augment'' the piety and confirm the fortitude of the colonists.\n{{right|''Bancroft'', Hist. U. S., I. 284.}}}}\n'''2.''' In ''gram.'', to add an augment to.\n{{smaller block|Most [Greek] verbs beginning with a consonant ''augment'' the imperfect and aorist by prefixing ε.\n{{right|''Goodwin'', Greek Gram., § 101.}}}}\n'''3.''' In ''her.'', to make an honorable addition to, as a coat of arms.\n{{smaller block|Henry VIII. granted to the earl of Surrey to ''augment'' his arms with a demi-lion, gules, pierced through the}}",
+   "c2s2": "{{smaller block|mouth with an arrow.\n{{right|''Encyc. Brit.'', XI. 690.}}}}\n\n{{smaller|'''Augmented interval.''' See ''interval.''—'''Augmented surface,''' a term first used by Rankine to denote an immersed or wetted surface sufficiently greater than the actual surface of a vessel to give, when substituted for the actual quantity in estimations of the speed of a vessel, results which conform to the actual performance.}}\n\n'''II.''' ''intrans.'' To become greater in size, amount, degree, etc.; increase; grow larger.\n\n{{smaller block|The winds redouble and the streams ''augment.''\n{{right|''Dryden'', tr. of Virgil’s Georgics, i. 466.}}\nHer fears ''augmented'' as her comforts fled.\n{{right|''Crabbe'', Tales of the Hall.}}}}\n\n'''augmentable''' (âg-men′ta̤-bl), ''a.'' [< ''augment'' + ''-able.''] Capable of being augmented or increased.\n\n'''augmentation''' (âg-men-tā′sho̤n), ''n.'' [< ML. ''augmentatio(n-)'', < LL. ''augmentare'', pp. ''augmentatus'', augment: see ''augment, v.''] '''1.''' The act of increasing or making larger by addition, expansion, or dilatation; the act of adding to or enlarging; the state or condition of being made larger.\n\n{{smaller block|Bacon, holding that this method was insufficient and futile for the ''augmentation'' of real and useful knowledge, published his Novum Organon.\n{{right|''Whewell'', Nov. Org. Renovatum, Pref.}}}}\n\n'''2.''' That by which anything is augmented; an addition: as, the ''augmentation'' amounted to $500 a year.\n\n{{smaller block|He does smile his face into more lines than are in the new map with the ''augmentation'' of the Indies.\n{{right|''Shak.'', T. N., iii. 2.}}}}\n\nSpecifically—'''3.''' In ''music'', where much repetition and imitation of themes is required, the",
+   "c2s3": "[[FIGURE]]\n{{c|{{smaller|Arms of first Duke of Wellington with the augmentation granted to him, viz., ''An Inescutcheon of England.'' (From Boutell’s “Heraldry.”)}}}}\nmodification of a theme or subject by systematically increasing the original time-value of all its notes.—'''4.''' In ''her.'', an additional charge to a coat-armor, granted as a mark of honor to an armiger. {{smaller|It is borne on an ordinary or subordinary in such a way as to be evidently an addition to the paternal coat, and in ancient times was more rarely used as an addition to the bearings on the field. Also called ''addition''.}}—'''5.''' In ''pathol.'', same as ''augment'', 3.—{{smaller|'''Augmentation Court''', in England, a court established by Henry VIII. to augment the revenues of the crown by the suppression of monasteries. It was dissolved on the accession of Queen Mary.—'''By augmentation''', in England, a phrase formerly used in the army-promotion lists to signify that an officer’s appointment had been conferred by the creation of a new patent, not by the purchase of an old one.—'''Process of augmentation''', in Scotland, a process in the teind court, raised by the minister of a parish against the titular and heritors, for the purpose of obtaining an augmentation of his stipend.}}\n\n'''augmentationer''' (âg-men-tā′shọn-ėr), ''n.'' An officer belonging to the Augmentation Court (which see, under ''augmentation'').\n{{smaller block|Here now I speak to you my masters, minters, ''augmentationers.''\n{{right|''Latimer'', 2d Sermon bef. Edw. VI., 1550.}}}}",
+   "c3s1": "¶\n'''augmentative''' (âg-men′ta̤-tiv), ''a.'' and ''n.'' [= F. ''augmentatif'', < LL. as if *''augmentativus'', < ''augmentare'', pp. ''augmentatus'': see ''augment'', ''v.''] '''I.''' ''a.'' '''1.''' Having the quality or power of augmenting.—'''2.''' In ''gram.'', expressing augmentation or increase in the force of the idea conveyed: applied both to words and to affixes which effect this.\n\n'''II.''' ''n.'' A word formed to express increased intensity of the idea conveyed by it, or an affix which serves this purpose.\n\nAlso ''augmentive''.\n\n'''augmentatively''' (âg-men′ta̤-tiv-li), ''adv.'' So as to augment or increase; in the manner of an augment.\n\n'''augmenter''' (âg-men′tėr), ''n.'' One who or that which augments.\n\n'''augmentive''' (âg-men′tiv), ''a.'' and ''n.'' [< ''augment'' + ''-ive''.] Same as ''augmentative''.\n\n'''augmentless''' (âg′ment-les), ''a.'' [< ''augment'' + ''-less''.] Without an augment.\n{{smaller block|Additional forms — agāsisam, agāsis, agāsit, and the ''augmentless'' gāsiṣus — are found throughout the Brāhmaṇas and Upanishads. {{right|''Amer. Jour. Philol.'', VI. 276.}}}}\n\n'''augoer†''', '''augre†''', ''n.'' Obsolete spellings of ''auger''.\n\n'''augrim†''', ''n.'' A Middle English form of ''algorism''.\n\n'''augrim-stones†''', ''n. pl.'' Stones used as counters in arithmetical calculations, some standing for units, others for tens, etc.\n{{smaller block|His ''augrim-stoones'', leyen faire apart.\n{{right|''Chaucer'', Miller’s Tale.}}}}\n\n'''Augsburg Confession.''' See ''confession''.\n\n'''augur''' (â′gėr), ''n.'' [< ME. ''augur'', < L. ''augur'', earlier ''auger'', of uncertain origin, perhaps < ''avis'', a",
+   "c3s2": "bird (cf. ''au-spex'' and ''au-cupation''), + ''-gur'', connected with ''garrire'', talk, chatter.] '''1.''' Among the ancient Romans, a functionary whose duty it was to observe and to interpret, according to\n[[FIGURE]]\n{{c|{{smaller|Augur.<br>(From a Roman bas-relief.)}}}}\ntraditional rules, the auspices, or reputed natural signs concerning future events. {{smaller|These auspices were studied, with a fixed ceremonial, in the following classes of phenomena: (1) signs from the heavens, including thunder and lightning, and other meteorological manifestations; (2) signs from the direction of flight or the various cries of birds; (3) signs from the manner of eating of domestic hens kept for this purpose; (4) signs from the movements and attitudes of animals; (5) evil omens from various fortuitous incidents, such as the fall of any object, the gnawing of a mouse, the creaking of a chair, etc., occurring during the augural ceremonies, or when these were about to begin. The official or public augurs, who constituted a college, probably founded by Numa, were originally three in number. By the time of Tarquin they had been increased to six. After 300 {{sc|b. c.}} the number became nine, of whom five must be plebeians. Sulla made the number fifteen; Julius Cæsar, sixteen, not including his own official membership in his character of}}",
+   "c3s3": "{{smaller block|perpetual chief priest and dictator; and toward the close of the empire the number was still further increased. The augurs wore the sacerdotal prætexta, or toga with a broad purple border, and their distinctive emblem was the curved rod called the ''lituus'', with which they marked out the limits of the templum or boundary within which the omens with which they had to do were to be observed. Before any public business or ceremony was undertaken the augurs decided whether the auspices were propitious, or whether unfavorable omens demanded interruption or delay; they conducted the inauguration or exauguration of priests, temples, and places, such as new settlements, and fixed the times of movable festivals. In the engraving, the figure holds the lituus in his right hand, while one of the sacred fowls appears at his feet.}}\nHence—'''2.''' One who pretends to foretell future events by omens; a soothsayer; a prophet; one who bodes, forebodes, or portends.\n{{smaller block|<poem>''Augur'' of ill, whose tongue was never found\nWithout a priestly curse or boding sound.</poem>\n{{right|''Dryden'', Iliad, i. 155.}}}}\n\n'''augur''' (â′gėr), ''v.'' [= F. ''augurer'' = Sp. Pg. ''augurar'' = It. ''augurare'', < L. ''augurari''; from the noun.] '''I.''' ''trans.'' '''1.''' To prognosticate from signs, omens, or indications; predict; anticipate: with a personal subject.\n{{smaller block|I did ''augur'' all this to him beforehand.\n{{right|''B. Jonson'', Poetaster, i. 1.}}\nI ''augur'' everything from the approbation the proposal has met with.\n{{right|''Sir J. Herschel.''}}}}\n'''2.''' To betoken; forebode: with a non-personal or impersonal subject.\n{{smaller block|<poem>Sooth was my prophecy of fear;\nBelieve it when it ''augurs'' cheer.</poem>\n{{right|''Scott'', L. of the L., iv. 11.}}}}\n='''Syn. 2.''' {{smaller|To portend, presage, foreshadow, be ominous of.}}"
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0405 c2f1.png",
+   "c3f1": "century v01 p0405 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1943,
+     1408,
+     2303,
+     1988
+    ],
+    "caption": [
+     1981,
+     2004,
+     2267,
+     2054
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1905,
+     1380,
+     2295,
+     2031
+    ]
+   },
+   {
+    "box": [
+     855,
+     2360,
+     1148,
+     2685
+    ],
+    "caption": [
+     855,
+     2697,
+     1161,
+     2823
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     849,
+     2357,
+     1159,
+     2693
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 3,
+    "input_tokens": 5723,
+    "output_tokens": 166,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9539,
+    "output_tokens": 9640,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c2f1": "left",
+   "c3f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|auger-bit|379|augur}}</noinclude>{{nop}}'''auger-bit''' (â′gėr-bit), ''n.'' A small auger used with a brace or bit-stock.\n\n'''auger-faucet''' (â′gėr-fâ″set), ''n.'' A faucet with an auger attached. {{smaller|By means of the auger a hole is bored nearly through the wood of the cask, or the like, in which the faucet is to be inserted, and the faucet is then fixed by a single blow. The auger is withdrawn through the faucet by a rack and pinion.}}\n\n'''auger-gage''' (â′gėr-gāj), ''n.'' A collar, sleeve, or clamp attached to the shank of an auger, to prevent it from penetrating beyond the desired point.\n\n'''auger-hole''' (â′gėr-hōl), ''n.'' A hole made by an auger.\n{{smaller block|Hid in an ''auger-hole.''\n{{right|''Shak.'', Macbeth, ii. 3.}}}}\n\n'''auger-shell''' (â′gėr-shel), ''n.'' A shell of the genus ''Terebra'' and family ''Terebridæ.'' See cut under ''Terebra.''\n\n'''auger-stem''' (â′gėr-stem), ''n.'' The iron rod or bar to which the bit is attached in rope-drilling.\n\n'''auger-twister''' (â′gėr-twis″tėr), ''n.'' A machine for twisting the blanks for screw-augers.\n\n'''auges†''', ''n.'' See ''auge.''\n\n'''auget''' (â′jet; F. pron. ō-zhā′), ''n.''   [F., dim. of ''auge'', a trough, < L. ''alveus'', a trough, channel, hollow: see ''alveus.'']   ''Milit.'', a small trough extending from the chamber of a mine to the extremity of a gallery, to protect from dampness a saucisson or tube filled with powder.\n\n'''augh''' (â; Sc. pron. âċh), ''interj.''   [Cf. ''aw'', ''ah'', ''oh.'']   An exclamation of disgust. [U. S. and Scotch.]\n\n'''aught<sup>1</sup>''' (ât), ''n.'' or ''pron.''   [In two forms: (1) ''aught'', < ME. ''aught'', ''auȝht'', ''auht'', ''aght'', ''aȝt'', ''aht'', < AS. ''awiht'', ''awuht'', with vowel shortened from orig. long, ''āwiht''; (2) ''ought'', < ME. ''ought'', ''ouht'', ''oght'', ''oȝt'', ''oht'', < AS. ''āwiht'', ''āwuht'', contr. ''āht'', with labialized vowel, ''ōwiht'', ''ōwuht'' (= OS. ''eowiht'' = OFries. ''āwet'', ''āet'' = D. ''iets'' = OHG. ''eowiht'', ''iowiht'', ''iewiht'', MHG. ''ieht'', ''iht'', ''iewet'', ''iet''), < ''ā'', ever, in comp. a generalizing prefix, + ''wiht'', wight, whit, thing: lit. ‘ever a whit’: see ''ay''<sup>1</sup> and ''whit'', ''wight'', and cf. the negative ''naught'', ''nought'', ‘never a whit.’ There is no essential difference between the two spellings ''aught'' and ''ought''; the former is now preferred.]   Anything whatever; any part: used in interrogative, negative, and conditional sentences.\n{{smaller block|Is there ''aught'' else, my friends, I can do for you?\n{{right|''Addison'', Cato, iv. 4.}}}}\n{{smaller block|Unfaith in ''aught'' is want of faith in all.\n{{right|''Tennyson'', Merlin and Vivien.}}}}\n\n'''aught<sup>1</sup>†''' (ât), ''adv.''   [< ME. ''aught'', etc.; prop. acc. of the noun.]   In any respect; in any way; at all; by any chance.\n{{smaller block|Can he ''aught'' telle a mery tale or tweye?\n{{right|''Chaucer'', Prol. to Canon’s Yeoman’s Tale, l. 44.}}}}\n{{smaller block|<poem>Thereon mused he\nIf that the childes moder were ''aught'' she\nThat was his wyf.</poem>\n{{right|''Chaucer'', Man of Law’s Tale, l. 936.}}}}\n\n'''aught<sup>2</sup>†''', ''v.'' An obsolete form of ''ought''<sup>2</sup>.\n\n'''aught<sup>3</sup>†''' (ât), ''n.''   [Now only in Sc., written ''aucht'' (äċht), < ME. ''aught'', ''aughte'', ''auchte'', ''aght'', ''auhte'', ''ahte'', etc., < AS. ''ǣht'', pl. ''ǣhta'' (= OHG. ''ēht'' = Goth. ''aihts'', property, = Icel. ''ætt'', family), with formative ''-t'', < ''āgan'' (pret. ''āhte''), have, hold, own: see ''ought''<sup>2</sup> and ''owe''.]   Possession; property.\n{{smaller block|The surest gear in their ''aught''.\n{{right|''Scott'', Quentin Durward, I. vii.}}}}\n\n'''aught<sup>4</sup>''' (ât, äċht), ''a.'' and ''n.'' An obsolete or dialectal form of ''eight''<sup>1</sup>.\n\n'''aughtwhere†''' (ât′hwãr), ''adv.''   [< ''aught''<sup>1</sup>, ''adv.'', + ''where''.]   Anywhere.   ''Chaucer.''\n\n'''augite''' (â′jīt), ''n.''   [= F. ''augite'', < L. ''augites'', a precious stone, < Gr. *αὐγίτης, < αὐγή, brightness, sunlight.]   The dark-green to black variety of pyroxene characteristic of basic eruptive rocks like basalt. {{smaller|It differs from other varieties of pyroxene in containing a considerable proportion of alumina. The name is sometimes used to include the whole species. See ''pyroxene''.}}\n\n'''augitic''' (â-jit′ik), ''a.''   [< ''augite'' + ''-ic''.]   Pertaining to augite; resembling augite, or partaking of its nature and characters; composed of or containing augite.—{{smaller|'''Augitic porphyry''', a rock with a dark-gray or greenish base, containing conspicuous crystals of augite and Labrador feldspar.}}\n\n'''auglette†''', ''n.'' An obsolete form of ''aglet''.\n\n'''augment''' (âg′ment), ''n.''   [< ME. ''augment'', < OF. ''augment'' = Pg. ''augmento'' = Sp. It. ''aumento'', < L. ''augmentum'', increase, growth, < ''augere'', increase: see ''auction''.]   '''1†.''' Increase; enlargement by addition; augmentation.\n{{smaller block|This ''augment'' of the tree. {{right|''I. Walton'', Complete Angler.}}}}\n'''2.''' In ''gram.'', an addition at the beginning of certain past indicative tenses of the verb in a part of the Indo-European languages. {{smaller|In Sanskrit it is always ''á''-; in Greek it is ''ἐ''- (''ἑ''-) before a consonant (syllabic augment), but an initial vowel is lengthened (''η''-, ''ει''-) (temporal augment). The same name is sometimes given to other prefixed inflectional elements, as to the ''ge''- of the German perfect participle (''gebracht'', brought).}}\n{{smaller block|Another form, which we may call the preterito-present, unites the ''augment'' of the past and the ending of the present tense.\n{{right|''Amer. Jour. Philol.'', VII. 354.}}}}\n'''3.''' In ''pathol.'', the period of a fever between its commencement and its height. [Rare.]\n\n'''augment''' (âg-ment′), ''v.''   [< ME. ''augmenten'', < OF. ''augmenter'', earlier ''aumenter'' = Sp. ''aumentar'' = Pg. ''augmentar'' = It. ''aumentare'', < LL. ''augmentare'', increase, < L. ''augmentum'', an increase: see ''augment'', ''n.'']   '''I.''' ''trans.'' '''1.''' To increase; enlarge in size or extent; swell: as, to ''augment'' an army by reinforcement; impatience ''augments'' an evil.\n{{smaller block|<poem>Be it your care\nTo ''augment'' your heap of wealth.</poem>\n{{right|''Fletcher (and another)'', Elder Brother, i. 2.}}}}\n{{smaller block|<poem>Though fortune change, his constant spouse remains:\n''Augments'' his joys or mitigates his pains.</poem>\n{{right|''Pope'', January and May, l. 42.}}}}\n{{smaller block|The general distress did but ''augment'' the piety and confirm the fortitude of the colonists.\n{{right|''Bancroft'', Hist. U. S., I. 284.}}}}\n'''2.''' In ''gram.'', to add an augment to.\n{{smaller block|Most [Greek] verbs beginning with a consonant ''augment'' the imperfect and aorist by prefixing ε.\n{{right|''Goodwin'', Greek Gram., § 101.}}}}\n'''3.''' In ''her.'', to make an honorable addition to, as a coat of arms.\n{{smaller block|Henry VIII. granted to the earl of Surrey to ''augment'' his arms with a demi-lion, gules, pierced through the mouth with an arrow.\n{{right|''Encyc. Brit.'', XI. 690.}}}}\n\n{{smaller|'''Augmented interval.''' See ''interval.''—'''Augmented surface,''' a term first used by Rankine to denote an immersed or wetted surface sufficiently greater than the actual surface of a vessel to give, when substituted for the actual quantity in estimations of the speed of a vessel, results which conform to the actual performance.}}\n\n'''II.''' ''intrans.'' To become greater in size, amount, degree, etc.; increase; grow larger.\n\n{{smaller block|The winds redouble and the streams ''augment.''\n{{right|''Dryden'', tr. of Virgil’s Georgics, i. 466.}}}}\n{{smaller block|Her fears ''augmented'' as her comforts fled.\n{{right|''Crabbe'', Tales of the Hall.}}}}\n\n'''augmentable''' (âg-men′ta̤-bl), ''a.''   [< ''augment'' + ''-able.'']   Capable of being augmented or increased.\n\n'''augmentation''' (âg-men-tā′sho̤n), ''n.''   [< ML. ''augmentatio(n-)'', < LL. ''augmentare'', pp. ''augmentatus'', augment: see ''augment, v.'']   '''1.''' The act of increasing or making larger by addition, expansion, or dilatation; the act of adding to or enlarging; the state or condition of being made larger.\n\n{{smaller block|Bacon, holding that this method was insufficient and futile for the ''augmentation'' of real and useful knowledge, published his Novum Organon.\n{{right|''Whewell'', Nov. Org. Renovatum, Pref.}}}}\n\n'''2.''' That by which anything is augmented; an addition: as, the ''augmentation'' amounted to $500 a year.\n\n{{smaller block|He does smile his face into more lines than are in the new map with the ''augmentation'' of the Indies.\n{{right|''Shak.'', T. N., iii. 2.}}}}\n\nSpecifically—'''3.''' In ''music'', where much repetition and imitation of themes is required, the {{img float|file=century v01 p0405 c2f1.png|width=154px|align=left|cap={{smaller|Arms of first Duke of Wellington with the augmentation granted to him, viz., ''An Inescutcheon of England.'' (From Boutell’s “Heraldry.”)}}}} modification of a theme or subject by systematically increasing the original time-value of all its notes.—'''4.''' In ''her.'', an additional charge to a coat-armor, granted as a mark of honor to an armiger. {{smaller|It is borne on an ordinary or subordinary in such a way as to be evidently an addition to the paternal coat, and in ancient times was more rarely used as an addition to the bearings on the field. Also called ''addition''.}}—'''5.''' In ''pathol.'', same as ''augment'', 3.—{{smaller|'''Augmentation Court''', in England, a court established by Henry VIII. to augment the revenues of the crown by the suppression of monasteries. It was dissolved on the accession of Queen Mary.—'''By augmentation''', in England, a phrase formerly used in the army-promotion lists to signify that an officer’s appointment had been conferred by the creation of a new patent, not by the purchase of an old one.—'''Process of augmentation''', in Scotland, a process in the teind court, raised by the minister of a parish against the titular and heritors, for the purpose of obtaining an augmentation of his stipend.}}\n\n'''augmentationer''' (âg-men-tā′shọn-ėr), ''n.'' An officer belonging to the Augmentation Court (which see, under ''augmentation'').\n{{smaller block|Here now I speak to you my masters, minters, ''augmentationers.''\n{{right|''Latimer'', 2d Sermon bef. Edw. VI., 1550.}}}}\n\n'''augmentative''' (âg-men′ta̤-tiv), ''a.'' and ''n.''   [= F. ''augmentatif'', < LL. as if *''augmentativus'', < ''augmentare'', pp. ''augmentatus'': see ''augment'', ''v.'']   '''I.''' ''a.'' '''1.''' Having the quality or power of augmenting.—'''2.''' In ''gram.'', expressing augmentation or increase in the force of the idea conveyed: applied both to words and to affixes which effect this.\n\n'''II.''' ''n.'' A word formed to express increased intensity of the idea conveyed by it, or an affix which serves this purpose.\n\nAlso ''augmentive''.\n\n'''augmentatively''' (âg-men′ta̤-tiv-li), ''adv.'' So as to augment or increase; in the manner of an augment.\n\n'''augmenter''' (âg-men′tėr), ''n.'' One who or that which augments.\n\n'''augmentive''' (âg-men′tiv), ''a.'' and ''n.''   [< ''augment'' + ''-ive''.]   Same as ''augmentative''.\n\n'''augmentless''' (âg′ment-les), ''a.''   [< ''augment'' + ''-less''.]   Without an augment.\n{{smaller block|Additional forms — agāsisam, agāsis, agāsit, and the ''augmentless'' gāsiṣus — are found throughout the Brāhmaṇas and Upanishads. {{right|''Amer. Jour. Philol.'', VI. 276.}}}}\n\n'''augoer†''', '''augre†''', ''n.'' Obsolete spellings of ''auger''.\n\n'''augrim†''', ''n.'' A Middle English form of ''algorism''.\n\n'''augrim-stones†''', ''n. pl.'' Stones used as counters in arithmetical calculations, some standing for units, others for tens, etc.\n{{smaller block|His ''augrim-stoones'', leyen faire apart.\n{{right|''Chaucer'', Miller’s Tale.}}}}\n\n'''Augsburg Confession.''' See ''confession''.\n\n'''augur''' (â′gėr), ''n.''   [< ME. ''augur'', < L. ''augur'', earlier ''auger'', of uncertain origin, perhaps < ''avis'', a bird (cf. ''au-spex'' and ''au-cupation''), + ''-gur'', connected with ''garrire'', talk, chatter.]   '''1.''' Among the ancient Romans, a functionary whose duty it was to observe and to interpret, according to {{img float|file=century v01 p0405 c3f1.png|width=180px|align=right|cap={{smaller|Augur.<br>(From a Roman bas-relief.)}}}} traditional rules, the auspices, or reputed natural signs concerning future events. {{smaller|These auspices were studied, with a fixed ceremonial, in the following classes of phenomena: (1) signs from the heavens, including thunder and lightning, and other meteorological manifestations; (2) signs from the direction of flight or the various cries of birds; (3) signs from the manner of eating of domestic hens kept for this purpose; (4) signs from the movements and attitudes of animals; (5) evil omens from various fortuitous incidents, such as the fall of any object, the gnawing of a mouse, the creaking of a chair, etc., occurring during the augural ceremonies, or when these were about to begin. The official or public augurs, who constituted a college, probably founded by Numa, were originally three in number. By the time of Tarquin they had been increased to six. After 300 {{sc|b. c.}} the number became nine, of whom five must be plebeians. Sulla made the number fifteen; Julius Cæsar, sixteen, not including his own official membership in his character of perpetual chief priest and dictator; and toward the close of the empire the number was still further increased. The augurs wore the sacerdotal prætexta, or toga with a broad purple border, and their distinctive emblem was the curved rod called the ''lituus'', with which they marked out the limits of the templum or boundary within which the omens with which they had to do were to be observed. Before any public business or ceremony was undertaken the augurs decided whether the auspices were propitious, or whether unfavorable omens demanded interruption or delay; they conducted the inauguration or exauguration of priests, temples, and places, such as new settlements, and fixed the times of movable festivals. In the engraving, the figure holds the lituus in his right hand, while one of the sacred fowls appears at his feet.}}\nHence—'''2.''' One who pretends to foretell future events by omens; a soothsayer; a prophet; one who bodes, forebodes, or portends.\n{{smaller block|<poem>''Augur'' of ill, whose tongue was never found\nWithout a priestly curse or boding sound.</poem>\n{{right|''Dryden'', Iliad, i. 155.}}}}\n\n'''augur''' (â′gėr), ''v.''   [= F. ''augurer'' = Sp. Pg. ''augurar'' = It. ''augurare'', < L. ''augurari''; from the noun.]   '''I.''' ''trans.'' '''1.''' To prognosticate from signs, omens, or indications; predict; anticipate: with a personal subject.\n{{smaller block|I did ''augur'' all this to him beforehand.\n{{right|''B. Jonson'', Poetaster, i. 1.}}}}\n{{smaller block|I ''augur'' everything from the approbation the proposal has met with.\n{{right|''Sir J. Herschel.''}}}}\n'''2.''' To betoken; forebode: with a non-personal or impersonal subject.\n{{smaller block|<poem>Sooth was my prophecy of fear;\nBelieve it when it ''augurs'' cheer.</poem>\n{{right|''Scott'', L. of the L., iv. 11.}}}}\n='''Syn. 2.''' {{smaller|To portend, presage, foreshadow, be ominous of.}}<noinclude><references/></noinclude>"
+}

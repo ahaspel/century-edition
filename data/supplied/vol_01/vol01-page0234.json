@@ -1,0 +1,295 @@
+{
+ "volume": 1,
+ "page_number": 234,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n233.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n233.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 746,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     86,
+     148,
+     2314,
+     188
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     86,
+     188,
+     826,
+     1093
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     86,
+     1093,
+     826,
+     1612
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     92,
+     1108,
+     498,
+     1508
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     86,
+     1612,
+     826,
+     2682
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     537,
+     1621,
+     826,
+     2227
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     86,
+     2682,
+     826,
+     3293
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     826,
+     188,
+     1581,
+     1216
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1130,
+     278,
+     1569,
+     934
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     826,
+     1216,
+     1581,
+     2282
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     826,
+     2282,
+     1581,
+     3293
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1581,
+     188,
+     2314,
+     1244
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1581,
+     1244,
+     2314,
+     2312
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1581,
+     2312,
+     2314,
+     3293
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|anemocracy|208|anerythropsia}}",
+   "c1s1": "¶\n'''anemocracy''' (an-e-mok′ra̤-si), ''n.'' [< Gr. ἄνεμος, wind, + -κρατία, government, < κρατεῖν, govern: see ''-cracy''.] A government by the wind. ''Sydney Smith.'' [Humorous.]\n\n'''anemogram''' (a-nem′ọ̄-gram), ''n.'' [< Gr. ἄνεμος, wind, + γράμμα, a writing, < γράφειν, write.] A record of the pressure or velocity of the wind, automatically marked by an anemograph.\n\n'''anemograph''' (a-nem′ọ̄-gráf), ''n.'' [= F. ''anémographe'', < Gr. ἄνεμος, wind, + γράφειν, write.] An instrument for measuring and recording either the velocity or the direction of the wind, or both.\n\n'''anemographic''' (an″e-mō-graf′ik), ''a.'' [< ''anemograph'' + ''-ic''.] Pertaining to, or obtained by means of, an anemograph.\n\n'''anemography''' (an-e-mog′ra̤-fi), ''n.'' [= F. ''anémographie'': see ''anemograph''.] '''1.''' A description of the winds.—'''2.''' The art of measuring and recording the direction, velocity, and force of the wind.\n\n'''anemological''' (an″e-mō-loj′i-kal), ''a.'' [< ''anemology''.] Pertaining to anemology. ''N. E. D.''\n\n'''anemology''' (an-e-mol′ọ̄-ji), ''n.'' [= F. ''anémologie'', < Gr. ἄνεμος, wind, + -λογία, < λέγειν, speak: see ''-ology''.] The literature and science of the winds.\n\n'''anemometer''' (an-e-mom′e-tėr), ''n.'' [= F. ''ané-''",
+   "c1s2": "''momètre'', < Gr. ἄνεμος, wind, + μέτρον, measure:\n[[FIGURE]]\n{{c|{{smaller|Casella’s Anemometer.}}}}\nsee ''meter''.] An instrument for indicating the velocity or pressure of the wind; a wind-gage. {{smaller|''Casella’s portable anemometer'', designed for measuring the velocity of air-currents in mines and ventilating shafts, consists of a wind-wheel attached to a counting arrangement. Anemometers for indicating velocity are commonly formed of plane surfaces or drums exposed to the wind, and so arranged as to yield to its pressure and indicate the amount by their movements.}}",
+   "c1s3": "{{smaller block|''Linds’s anemometer'' consists of a glass tube bent into the form of an inverted siphon, graduated, partly filled with water, and mounted as a weathercock. To one of its open ends a metallic cylinder of the same bore as the tube is attached at right angles. The pressure of the wind blowing into this causes the water to sink in one arm of the tube and to rise in the other, and the difference of level of the two columns of water, which is measured by the amount of fall plus the amount of rise, as shown by the graduated scales, gives the force or pressure of the wind. By the use of mechanical or electrical appliances anemometers may be made to record as well as measure variations in the velocity and pressure of the wind. When they record the velocity or direction, or both, they are sometimes called ''anemographs;'' when they indicate the direction only, they are called ''anemoscopes;'' when they automatically record velocity, direction, and pressure, they are called ''anemometrographs'' or ''anemometrographic registers.''\n[[FIGURE]]\n{{c|Linds’s Anemometer.}}}}\n\n'''anemometric''' (an″e-mō-met′rik), ''a.'' [< ''anemometry'' + ''-ic.''] Pertaining to an anemometer, or to anemometry.\n\n'''anemometrical''' (an″e-mọ̄-met′ri-kạl), ''a.'' Same as ''anemometric.''\n\n'''anemometrograph''' (an″e-mọ̄-met′rō-grȧf), ''n.'' [< Gr. ἄνεμος, wind, + μέτρον, measure, + γράφειν, write.] An instrument designed to measure and record the velocity, direction, and pressure of the wind.\n\n'''anemometrographic''' (an″e-mọ̄-met-rō-graf′ik), ''a.'' Of or pertaining to an anemometrograph.\n\n'''anemometry''' (an-e-mom′e-tri), ''n.'' [= F. ''ané-''",
+   "c1s4": "''mométrie''; as ''anemometer'' + ''-y''.] The process of determining the pressure or velocity of the wind by means of an anemometer.\n\n'''anemone''' (a̤-nem′ọ̄-nē; as a L. word, an-e-mō′-nē), ''n.'' [The E. pron. is that of the reg. E. form ''anemony'', pl. ''anemonies'', which is still occasionally used, but the spelling now generally follows the L.; < F. ''anémone'' = Sp. ''anémona'' = Pg. It. ''anemone'' = D. ''anemoon'' = G. Dan. ''anemone'', < L. ''anemōnē'', < Gr. ἀνεμώνη, the wind-flower, < ἄνεμος, the wind (= L. ''anima'', breath, spirit; cf. ''animus'', mind: see ''anima'' and ''animus''), + ''-ωνη'', fem. patronymic suffix.] '''1.''' A plant of the genus ''Anemone''. Also spelled ''anemony''.—'''2.''' [''cap.''] [NL.] A widely distributed genus of herbaceous perennials, the wind-flowers, natural order ''Ranunculaceæ''. {{smaller|The flowers are showy, readily varying in color and becoming double in cultivation. Several species are frequent in gardens, as the poppy-anemone (''A. Coronaria''), the star-anemone (''A.''}}",
+   "c2s1": "{{smaller block|''hortensis''), the pasque-flower (''A. Pulsatilla''), and other still more ornamental species from Japan and India. The wood-anemone, ''A. nemorosa'', is a well-known vernal flower\n[[FIGURE]]\n{{c|{{smaller|Common Wood-Anemone (''Anemone nemorosa'').}}}}\nof the woods. There are about 70 species, mostly belonging to the cool climates of the northern hemisphere. Of the 16 North American species, about half a dozen are also found in the Andes or in the old world.}}\n'''3.''' In ''zoöl.'', a sea-anemone (which see). {{smaller|—'''Plumose anemone''', in ''zoöl.'', ''Actinoloba dianthus.''—'''Snake-locked anemone''', in ''zoöl.'', ''Sagartia viduata.''}}\n\n'''anemonic''' (an-e-mon′ik), ''a.'' Of or pertaining to anemones, or to the genus ''Anemone''; obtained from anemonin: as, ''anemonic'' acid, an acid obtained by the action of baryta upon anemonin.\n\n'''anemonin, anemonine''' (a̤-nem′ọ̄-nin), ''n.'' [< ''anemone'' + ''-in''<sup>2</sup>.] A crystalline substance extracted from some species of the genus ''Anemone''.\n\n'''anemony''' (a̤-nem′ọ̄-ni), ''n.''; pl. ''anemonies'' (-niz). Same as ''anemone'', 1.",
+   "c2s2": "¶\n'''anemophilous''' (an-e-mof′i-lus), ''a.'' [< Gr. ἄνεμος, wind, + φίλος, loving.] Wind-loving: said of flowers which are dependent upon the wind for conveying the pollen to the stigma in fertilization. {{smaller|Anemophilous flowers, as a rule, are small, uncolored, and inconspicuous, and do not secrete honey, but produce a great abundance of pollen. The flowers of the grasses, sedges, pine-trees, etc., are examples.}}\n{{smaller block|The amount of pollen produced by ''anemophilous'' plants, and the distance to which it is often transported by the wind, are both surprisingly great.\n{{right|''Darwin'', Cross and Self Fertilisation, p. 405.}}}}\n\n'''anemoscope''' (a-nem′ọ̄-skōp), ''n.'' [= F. ''anémoscope'', < Gr. ἄνεμος, wind, + σκοπεῖν, view, examine.] Any device for showing the direction of the wind.\n\n'''anemosis''' (an-e-mō′sis), ''n.'' [NL., < Gr. ἄνεμος, the wind, + ''-osis''.] In ''bot.'', the condition of being wind-shaken; a condition of the timber of exogenous trees, in which the annual layers are separated from one another by the action, it is supposed, of strong gales. {{smaller|Many, however, doubt that this condition is due to wind, and believe it should be referred rather to frost or lightning.}}\n\n'''anemotrophy, anæmotrophy''' (an-e-mot′rọ̄-fi), ''n.'' [< Gr. ἄναιμος, without blood (see ''anemia''), + τροφή, nourishment, < τρέφειν, nourish.] In ''pathol.'', a deficient formation of blood.\n\n'''anencephali''', ''n.'' Plural of ''anencephalus''.\n\n'''anencephalia''' (an-en-se-fā′li-ä̤), ''n.'' [NL., < ''anencephalus'', without a brain: see ''anencephalous''.] In ''teratol.'', absence of the brain or encephalon. Also ''anencephaly''.\n{{smaller block|Quite recently Lebodeff has offered a new explanation of ''Anencephalia'' and Acrania. He thinks these are due to}}",
+   "c2s3": "{{smaller block|the production of an abnormally sharp cranial flexure in the embryo.\n{{right|''Ziegler'', Pathol. Anat. (trans.), i. § 7.}}}}\n\n'''anencephalic''' (an-en-se-fal′ik or -sef′ạ-lik), ''a.'' [As ''anencephalous'' + ''-ic.''] Same as ''anencephalous.''\n\n'''anencephaloid''' (an-en-sef′ạ-loid), ''a.'' [As ''anencephalous'' + ''-oid.''] Partially or somewhat anencephalous. ''Syd. Soc. Lex.''\n\n'''anencephalotrophia''' (an-en-sef″ạ-lọ̄-trō′fi-ä̤), ''n.'' [NL., < Gr. ἀν- priv. + ἐγκέφαλος, the brain, + τροφή, nourishment, < τρέφειν, nourish.] Atrophy of the brain.\n\n'''anencephalous''' (an-en-sef′ạ-lus), ''a.'' [< NL. ''anencephalus'', < Gr. ἀνεγκέφαλος, without brain, < ἀν- priv. + ἐγκέφαλος, brain: see ''encephalon.''] In ''teratol.'', having no encephalon; without a brain. An equivalent form is ''anencephalic.''\n\n'''anencephalus''' (an-en-sef′ạ-lus), ''n.''; pl. ''anencephali'' (-lī). [NL., < Gr. ἀνεγκέφαλος, without brain: see ''anencephalous.''] In ''teratol.'', a monster which is destitute of brain.\n\n'''anencephaly''' (an-en-sef′ạ-li), ''n.'' Same as ''anencephalia.''\n\n'''an-end''' (an-end′), ''prep. phr.'' as ''adv.'' [< ME. ''an-ende'', ''an ende'', at the end, to the end: ''an'', ''on'', E. ''on''; ''ende'', E. ''end.''] '''1.''' On end; in an upright position.\n{{smaller block|Make . . . each particular haire to stand ''an end.''\n{{right|''Shak.'', Hamlet, i. 3 (1623).}}}}\n{{smaller block|Specifically—(''a'') ''Naut.'', in the position of a mast when it is perpendicular to the deck. The topmasts are said to be ''an-end'' when hoisted up to their usual stations. (''b'') In ''mech.'', said of anything, as a pile, that is driven in the direction of its length.}}",
+   "c3s1": "'''2†.''' In the end; at the last; lastly.—'''3†.''' To the end; straight on; continuously.\n{{smaller block|[He] would ride a hundred miles ''an end'' to enjoy it.\n{{right|''Richardson'', Clarissa, VII. 220. (''N. E. D.'')}}}}\n{{smaller|'''Most an-end†''', almost continuously; almost always; mostly.}}\n{{smaller block|Knew him! I was a great Companion of his, I was with him ''most an end''.\n{{right|''Bunyan'', Pilgrim’s Progress (1678), ii. 115. (''N. E. D.'')}}}}\n\n'''anent, anenst''' (a̤-nent′, a̤-nenst′), ''prep.'' and ''adv.'', orig. ''prep. phr.'' [< ME. ''anent'', also ''anant'', ''anont'', ''onont'', ''onond''; with added adverbial suffix ''-e'', ''anente''; with added adverbial gen. suffix ''-es'', ''-is'', ''anentes'', ''anentis'', ''anemptis'', etc., contr. ''anens'', ''anence''; with excrescent ''-t'', ''anenist'', ''anenst'' (cf. ''again'', ''against'', ''among'', ''amongst''); earlier ME. ''onefent'', ''onevent'' (with excrescent ''-t''), < AS. ''on-efen'', ''on-efn'', ''on-emn'' (= OS. ''in ebhan'' = MHG. ''eneben'', ''neben'', ''nebent'', G. ''neben''), prep., beside, prop. prep. phr., ''on efen'', lit. ‘on even,’ on a level (with): ''on'', E. ''on''; ''efen'', E. ''even''<sup>1</sup>, q. v. Cf. ''afornens'', ''forenenst''. Formerly in reg. literary use, but now chiefly dialectal.] '''I.''' ''prep.'' '''1.''' In a line with; side by side with; on a level with. [Prov. Eng.]—'''2†.''' In front of; fronting; before; opposite; over against.\n{{smaller block|<poem>The king lay into Galstoun,\nThat is rycht ewyn [even] ''anent'' Lowdoun.</poem>\n{{right|''Barbour'', Bruce, vi. 123.}}\nAnd right ''anenst'' him a dog snarling.\n{{right|''B. Jonson'', Alchemist, ii. 1.}}}}\n'''3†.''' Against; toward.\n{{smaller block|Wylde Bestes . . . that slen [slay] and devouren alle that comen ''aneyntes'' hem.\n{{right|''Mandeville'', p. 298. (''N. E. D.'')}}}}",
+   "c3s2": "¶\n\n'''4.''' In respect of or regard to; as to; concerning; about: sometimes with ''as''. [Still in use in Scotch legal and ecclesiastical phraseology, whence also in literary English.]\n{{smaller block|He [Jesus] was an alien, ''as anentis'' his godhede.\n{{right|''Wyclif'', Select Works (ed. Arnold), I. 33.}}\nI cannot but pass you my judgment ''anent'' those six considerations which you offered to invalidate those authorities that I so much reverence.\n{{right|''King Charles I.'', To A. Henderson.}}\nSome little compunction ''anent'' the Excise.\n{{right|''Barham'', Ingoldsby Legends, II. 279.}}}}\n\n'''II.''' ''adv.'' On the other side; in an opposite place or situation. [Prov. Eng. and Scotch.]\n\n'''Anentera''' (an-en′tẹ-rä), ''n. pl.'' [NL., neut. pl. of ''anenterus'': see ''anenterous''.] A name applied by Ehrenberg to a class of infusorians having no intestinal canal, though supposed to have several stomachs (whence the alternative name ''Polygastrica'').\n\n'''anenterous''' (an-en′tẹ-rus), ''a.'' [< NL. ''anenterus'', < Gr. ἀν- priv. + ἔντερα, intestines: see ''enteric''.] '''1.''' Having no enteron or alimentary canal; not enterate: as, ''anenterous'' parasites.\n{{smaller block|Such species have no intestines, no anus, and are said to be ''anenterous''.\n{{right|''Owen'', Comp. Anat., p. 24.}}}}\n\n'''2.''' Of or pertaining to the ''Anentera''.\n\n'''-aneous.''' [Accom. of L. ''-ān-e-us'', a compound suffix, < ''-ān-'' + ''-e-us'', as in ''extrāneus'', ''miscellāneus'', ''subterrāneus'', etc.: see ''-an'' and ''-eous''. This suffix occurs disguised in ''foreign'', < ML. ''foraneus''.] A compound adjective suffix of Latin origin, as in ''contemporaneous'', ''extraneous'', ''miscellaneous'', ''subterraneous'', etc.",
+   "c3s3": "¶\n'''anepigraphous''' (an-e-pig′ra̤-fus), ''a.'' [< Gr. ἀνεπίγραφος, without inscription, < ἀν- priv. + ἐπιγραφή, inscription: see ''epigraph''.] Without inscription or title.\n{{smaller block|The ''anepigraphous'' coins of Haliartus and Thebes.\n{{right|''Numis. Chron.'', 3d ser., I. 235.}}}}\n\n'''anepiploic''' (an-ep-i-plō′ik), ''a.'' [< Gr. ἀν- priv. (''an-''<sup>5</sup>) + ''epiploön'', q. v.] Having no epiploön or great omentum. ''Syd. Soc. Lex.''\n\n'''anepithymia''' (an-ep-i-thim′i-ä), ''n.'' [NL., < Gr. ἀν- priv. + ἐπιθυμία, desire, < ἐπιθυμεῖν, set one’s heart upon a thing, desire, < ἐπί, upon, + θυμός, mind.] In ''pathol.'', loss of normal appetite, as for food or drink.\n\n'''Anergates''' (an-ėr-gā′tēz), ''n.'' [NL., < Gr. ἀν- priv. + ἐργάτης, a worker: see ''ergata''.] A genus of ants, the species of which are represented only by males and females, there being no neuters or workers, whence the name.\n\n'''aneroid''' (an′ẹ-roid), ''a.'' and ''n.'' [< F. ''anéroïde'', < Gr. ἀ- priv. + νηρός, wet, liquid (in class. Gr. ναρός, < νάειν, flow), + εἶδος, form: see ''-oid''.] '''I.''' ''a.'' Dispensing with fluid; of a barometer, dispensing with a fluid, as quicksilver, which is employed in an ordinary barometer.—'''Aneroid barometer.''' {{smaller|See ''barometer''.}}\n\n'''II.''' ''n.'' An aneroid barometer.\n\n'''anerythropsia''' (an-er-i-throp′si-ä), ''n.'' [NL., < Gr. ἀν- priv. + ἐρυθρός, red, + ὄψις, a view.] Inability to distinguish the color red: a form of color-blindness."
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0234 c1f1.png",
+   "c1f2": "century v01 p0234 c1f2.png",
+   "c2f1": "century v01 p0234 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     104,
+     1120,
+     486,
+     1496
+    ],
+    "caption": [
+     178,
+     1509,
+     420,
+     1533
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     107,
+     1148,
+     463,
+     1499
+    ]
+   },
+   {
+    "box": [
+     549,
+     1633,
+     820,
+     2215
+    ],
+    "caption": [
+     571,
+     2221,
+     801,
+     2245
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     470,
+     1625,
+     689,
+     2225
+    ]
+   },
+   {
+    "box": [
+     1142,
+     290,
+     1557,
+     922
+    ],
+    "caption": [
+     1161,
+     931,
+     1545,
+     975
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1155,
+     185,
+     1570,
+     924
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    2,
+    0
+   ],
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 4,
+    "input_tokens": 7212,
+    "output_tokens": 231,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9593,
+    "output_tokens": 11805,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c1f1": "left",
+   "c1f2": "right",
+   "c2f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|anemocracy|208|anerythropsia}}</noinclude>{{nop}}'''anemocracy''' (an-e-mok′ra̤-si), ''n.''   [< Gr. ἄνεμος, wind, + -κρατία, government, < κρατεῖν, govern: see ''-cracy''.]   A government by the wind.   ''Sydney Smith.'' [Humorous.]\n\n'''anemogram''' (a-nem′ọ̄-gram), ''n.''   [< Gr. ἄνεμος, wind, + γράμμα, a writing, < γράφειν, write.]   A record of the pressure or velocity of the wind, automatically marked by an anemograph.\n\n'''anemograph''' (a-nem′ọ̄-gráf), ''n.''   [= F. ''anémographe'', < Gr. ἄνεμος, wind, + γράφειν, write.]   An instrument for measuring and recording either the velocity or the direction of the wind, or both.\n\n'''anemographic''' (an″e-mō-graf′ik), ''a.''   [< ''anemograph'' + ''-ic''.]   Pertaining to, or obtained by means of, an anemograph.\n\n'''anemography''' (an-e-mog′ra̤-fi), ''n.''   [= F. ''anémographie'': see ''anemograph''.]   '''1.''' A description of the winds.—'''2.''' The art of measuring and recording the direction, velocity, and force of the wind.\n\n'''anemological''' (an″e-mō-loj′i-kal), ''a.''   [< ''anemology''.]   Pertaining to anemology.   ''N. E. D.''\n\n'''anemology''' (an-e-mol′ọ̄-ji), ''n.''   [= F. ''anémologie'', < Gr. ἄνεμος, wind, + -λογία, < λέγειν, speak: see ''-ology''.]   The literature and science of the winds.\n\n'''anemometer''' (an-e-mom′e-tėr), ''n.''   [= F. ''anémomètre'', < Gr. ἄνεμος, wind, + μέτρον, measure: {{img float|file=century v01 p0234 c1f1.png|width=196px|align=left|cap={{smaller|Casella’s Anemometer.}}}} see ''meter''.]   An instrument for indicating the velocity or pressure of the wind; a wind-gage. {{smaller|''Casella’s portable anemometer'', designed for measuring the velocity of air-currents in mines and ventilating shafts, consists of a wind-wheel attached to a counting arrangement. Anemometers for indicating velocity are commonly formed of plane surfaces or drums exposed to the wind, and so arranged as to yield to its pressure and indicate the amount by their movements. ''Linds’s anemometer'' consists of a glass tube bent into the form of an inverted siphon, graduated, partly filled with water, and mounted as a weathercock. To one of its open ends a metallic cylinder of the same bore as the tube is attached at right angles. The pressure of the wind blowing into this causes the water to sink in one arm of the tube and to rise in the other, and the difference of level of the two columns of water, which is measured by the amount of fall plus the amount of rise, as shown by the graduated scales, gives the force or pressure of the wind. By the use of mechanical or electrical appliances anemometers may be made to record as well as measure variations in the velocity and pressure of the wind. When they record the velocity or direction, or both, they are sometimes called ''anemographs;'' when they indicate the direction only, they are called ''anemoscopes;'' when they automatically record velocity, direction, and pressure, they are called ''anemometrographs'' or ''anemometrographic registers.'' {{img float|file=century v01 p0234 c1f2.png|width=139px|align=right|cap={{c|Linds’s Anemometer.}}}}}}\n\n'''anemometric''' (an″e-mō-met′rik), ''a.''   [< ''anemometry'' + ''-ic.'']   Pertaining to an anemometer, or to anemometry.\n\n'''anemometrical''' (an″e-mọ̄-met′ri-kạl), ''a.'' Same as ''anemometric.''\n\n'''anemometrograph''' (an″e-mọ̄-met′rō-grȧf), ''n.''   [< Gr. ἄνεμος, wind, + μέτρον, measure, + γράφειν, write.]   An instrument designed to measure and record the velocity, direction, and pressure of the wind.\n\n'''anemometrographic''' (an″e-mọ̄-met-rō-graf′ik), ''a.'' Of or pertaining to an anemometrograph.\n\n'''anemometry''' (an-e-mom′e-tri), ''n.''   [= F. ''anémométrie''; as ''anemometer'' + ''-y''.]   The process of determining the pressure or velocity of the wind by means of an anemometer.\n\n'''anemone''' (a̤-nem′ọ̄-nē; as a L. word, an-e-mō′-nē), ''n.''   [The E. pron. is that of the reg. E. form ''anemony'', pl. ''anemonies'', which is still occasionally used, but the spelling now generally follows the L.; < F. ''anémone'' = Sp. ''anémona'' = Pg. It. ''anemone'' = D. ''anemoon'' = G. Dan. ''anemone'', < L. ''anemōnē'', < Gr. ἀνεμώνη, the wind-flower, < ἄνεμος, the wind (= L. ''anima'', breath, spirit; cf. ''animus'', mind: see ''anima'' and ''animus''), + ''-ωνη'', fem. patronymic suffix.]   '''1.''' A plant of the genus ''Anemone''. Also spelled ''anemony''.—'''2.''' [''cap.''] [NL.] A widely distributed genus of herbaceous perennials, the wind-flowers, natural order ''Ranunculaceæ''. {{smaller|The flowers are showy, readily varying in color and becoming double in cultivation. Several species are frequent in gardens, as the poppy-anemone (''A. Coronaria''), the star-anemone (''A. hortensis''), the pasque-flower (''A. Pulsatilla''), and other still more ornamental species from Japan and India. The wood-anemone, ''A. nemorosa'', is a well-known vernal flower {{img float|file=century v01 p0234 c2f1.png|width=212px|align=right|cap={{smaller|Common Wood-Anemone (''Anemone nemorosa'').}}}} of the woods. There are about 70 species, mostly belonging to the cool climates of the northern hemisphere. Of the 16 North American species, about half a dozen are also found in the Andes or in the old world.}}\n'''3.''' In ''zoöl.'', a sea-anemone (which see). {{smaller|—'''Plumose anemone''', in ''zoöl.'', ''Actinoloba dianthus.''—'''Snake-locked anemone''', in ''zoöl.'', ''Sagartia viduata.''}}\n\n'''anemonic''' (an-e-mon′ik), ''a.'' Of or pertaining to anemones, or to the genus ''Anemone''; obtained from anemonin: as, ''anemonic'' acid, an acid obtained by the action of baryta upon anemonin.\n\n'''anemonin, anemonine''' (a̤-nem′ọ̄-nin), ''n.''   [< ''anemone'' + ''-in''<sup>2</sup>.]   A crystalline substance extracted from some species of the genus ''Anemone''.\n\n'''anemony''' (a̤-nem′ọ̄-ni), ''n.''; pl. ''anemonies'' (-niz). Same as ''anemone'', 1.\n\n'''anemophilous''' (an-e-mof′i-lus), ''a.''   [< Gr. ἄνεμος, wind, + φίλος, loving.]   Wind-loving: said of flowers which are dependent upon the wind for conveying the pollen to the stigma in fertilization. {{smaller|Anemophilous flowers, as a rule, are small, uncolored, and inconspicuous, and do not secrete honey, but produce a great abundance of pollen. The flowers of the grasses, sedges, pine-trees, etc., are examples.}}\n{{smaller block|The amount of pollen produced by ''anemophilous'' plants, and the distance to which it is often transported by the wind, are both surprisingly great.\n{{right|''Darwin'', Cross and Self Fertilisation, p. 405.}}}}\n\n'''anemoscope''' (a-nem′ọ̄-skōp), ''n.''   [= F. ''anémoscope'', < Gr. ἄνεμος, wind, + σκοπεῖν, view, examine.]   Any device for showing the direction of the wind.\n\n'''anemosis''' (an-e-mō′sis), ''n.''   [NL., < Gr. ἄνεμος, the wind, + ''-osis''.]   In ''bot.'', the condition of being wind-shaken; a condition of the timber of exogenous trees, in which the annual layers are separated from one another by the action, it is supposed, of strong gales. {{smaller|Many, however, doubt that this condition is due to wind, and believe it should be referred rather to frost or lightning.}}\n\n'''anemotrophy, anæmotrophy''' (an-e-mot′rọ̄-fi), ''n.''   [< Gr. ἄναιμος, without blood (see ''anemia''), + τροφή, nourishment, < τρέφειν, nourish.]   In ''pathol.'', a deficient formation of blood.\n\n'''anencephali''', ''n.'' Plural of ''anencephalus''.\n\n'''anencephalia''' (an-en-se-fā′li-ä̤), ''n.''   [NL., < ''anencephalus'', without a brain: see ''anencephalous''.]   In ''teratol.'', absence of the brain or encephalon. Also ''anencephaly''.\n{{smaller block|Quite recently Lebodeff has offered a new explanation of ''Anencephalia'' and Acrania. He thinks these are due to the production of an abnormally sharp cranial flexure in the embryo.\n{{right|''Ziegler'', Pathol. Anat. (trans.), i. § 7.}}}}\n\n'''anencephalic''' (an-en-se-fal′ik or -sef′ạ-lik), ''a.''   [As ''anencephalous'' + ''-ic.'']   Same as ''anencephalous.''\n\n'''anencephaloid''' (an-en-sef′ạ-loid), ''a.''   [As ''anencephalous'' + ''-oid.'']   Partially or somewhat anencephalous.   ''Syd. Soc. Lex.''\n\n'''anencephalotrophia''' (an-en-sef″ạ-lọ̄-trō′fi-ä̤), ''n.''   [NL., < Gr. ἀν- priv. + ἐγκέφαλος, the brain, + τροφή, nourishment, < τρέφειν, nourish.]   Atrophy of the brain.\n\n'''anencephalous''' (an-en-sef′ạ-lus), ''a.''   [< NL. ''anencephalus'', < Gr. ἀνεγκέφαλος, without brain, < ἀν- priv. + ἐγκέφαλος, brain: see ''encephalon.'']   In ''teratol.'', having no encephalon; without a brain. An equivalent form is ''anencephalic.''\n\n'''anencephalus''' (an-en-sef′ạ-lus), ''n.''; pl. ''anencephali'' (-lī).   [NL., < Gr. ἀνεγκέφαλος, without brain: see ''anencephalous.'']   In ''teratol.'', a monster which is destitute of brain.\n\n'''anencephaly''' (an-en-sef′ạ-li), ''n.'' Same as ''anencephalia.''\n\n'''an-end''' (an-end′), ''prep. phr.'' as ''adv.''   [< ME. ''an-ende'', ''an ende'', at the end, to the end: ''an'', ''on'', E. ''on''; ''ende'', E. ''end.'']   '''1.''' On end; in an upright position.\n{{smaller block|Make . . . each particular haire to stand ''an end.''\n{{right|''Shak.'', Hamlet, i. 3 (1623).}}}}\n{{smaller block|Specifically—(''a'') ''Naut.'', in the position of a mast when it is perpendicular to the deck. The topmasts are said to be ''an-end'' when hoisted up to their usual stations. (''b'') In ''mech.'', said of anything, as a pile, that is driven in the direction of its length.}} '''2†.''' In the end; at the last; lastly.—'''3†.''' To the end; straight on; continuously.\n{{smaller block|[He] would ride a hundred miles ''an end'' to enjoy it.\n{{right|''Richardson'', Clarissa, VII. 220. (''N. E. D.'')}}}}\n{{smaller|'''Most an-end†''', almost continuously; almost always; mostly.}}\n{{smaller block|Knew him! I was a great Companion of his, I was with him ''most an end''.\n{{right|''Bunyan'', Pilgrim’s Progress (1678), ii. 115. (''N. E. D.'')}}}}\n\n'''anent, anenst''' (a̤-nent′, a̤-nenst′), ''prep.'' and ''adv.'', orig. ''prep. phr.''   [< ME. ''anent'', also ''anant'', ''anont'', ''onont'', ''onond''; with added adverbial suffix ''-e'', ''anente''; with added adverbial gen. suffix ''-es'', ''-is'', ''anentes'', ''anentis'', ''anemptis'', etc., contr. ''anens'', ''anence''; with excrescent ''-t'', ''anenist'', ''anenst'' (cf. ''again'', ''against'', ''among'', ''amongst''); earlier ME. ''onefent'', ''onevent'' (with excrescent ''-t''), < AS. ''on-efen'', ''on-efn'', ''on-emn'' (= OS. ''in ebhan'' = MHG. ''eneben'', ''neben'', ''nebent'', G. ''neben''), prep., beside, prop. prep. phr., ''on efen'', lit. ‘on even,’ on a level (with): ''on'', E. ''on''; ''efen'', E. ''even''<sup>1</sup>, q. v. Cf. ''afornens'', ''forenenst''. Formerly in reg. literary use, but now chiefly dialectal.]   '''I.''' ''prep.'' '''1.''' In a line with; side by side with; on a level with. [Prov. Eng.]—'''2†.''' In front of; fronting; before; opposite; over against.\n{{smaller block|<poem>The king lay into Galstoun,\nThat is rycht ewyn [even] ''anent'' Lowdoun.</poem>\n{{right|''Barbour'', Bruce, vi. 123.}}}}\n{{smaller block|And right ''anenst'' him a dog snarling.\n{{right|''B. Jonson'', Alchemist, ii. 1.}}}}\n'''3†.''' Against; toward.\n{{smaller block|Wylde Bestes . . . that slen [slay] and devouren alle that comen ''aneyntes'' hem.\n{{right|''Mandeville'', p. 298. (''N. E. D.'')}}}}\n\n'''4.''' In respect of or regard to; as to; concerning; about: sometimes with ''as''. [Still in use in Scotch legal and ecclesiastical phraseology, whence also in literary English.]\n{{smaller block|He [Jesus] was an alien, ''as anentis'' his godhede.\n{{right|''Wyclif'', Select Works (ed. Arnold), I. 33.}}}}\n{{smaller block|I cannot but pass you my judgment ''anent'' those six considerations which you offered to invalidate those authorities that I so much reverence.\n{{right|''King Charles I.'', To A. Henderson.}}}}\n{{smaller block|Some little compunction ''anent'' the Excise.\n{{right|''Barham'', Ingoldsby Legends, II. 279.}}}}\n\n'''II.''' ''adv.'' On the other side; in an opposite place or situation. [Prov. Eng. and Scotch.]\n\n'''Anentera''' (an-en′tẹ-rä), ''n. pl.''   [NL., neut. pl. of ''anenterus'': see ''anenterous''.]   A name applied by Ehrenberg to a class of infusorians having no intestinal canal, though supposed to have several stomachs (whence the alternative name ''Polygastrica'').\n\n'''anenterous''' (an-en′tẹ-rus), ''a.''   [< NL. ''anenterus'', < Gr. ἀν- priv. + ἔντερα, intestines: see ''enteric''.]   '''1.''' Having no enteron or alimentary canal; not enterate: as, ''anenterous'' parasites.\n{{smaller block|Such species have no intestines, no anus, and are said to be ''anenterous''.\n{{right|''Owen'', Comp. Anat., p. 24.}}}}\n\n'''2.''' Of or pertaining to the ''Anentera''.\n\n'''-aneous.'''   [Accom. of L. ''-ān-e-us'', a compound suffix, < ''-ān-'' + ''-e-us'', as in ''extrāneus'', ''miscellāneus'', ''subterrāneus'', etc.: see ''-an'' and ''-eous''. This suffix occurs disguised in ''foreign'', < ML. ''foraneus''.]   A compound adjective suffix of Latin origin, as in ''contemporaneous'', ''extraneous'', ''miscellaneous'', ''subterraneous'', etc.\n\n'''anepigraphous''' (an-e-pig′ra̤-fus), ''a.''   [< Gr. ἀνεπίγραφος, without inscription, < ἀν- priv. + ἐπιγραφή, inscription: see ''epigraph''.]   Without inscription or title.\n{{smaller block|The ''anepigraphous'' coins of Haliartus and Thebes.\n{{right|''Numis. Chron.'', 3d ser., I. 235.}}}}\n\n'''anepiploic''' (an-ep-i-plō′ik), ''a.''   [< Gr. ἀν- priv. (''an-''<sup>5</sup>) + ''epiploön'', q. v.]   Having no epiploön or great omentum.   ''Syd. Soc. Lex.''\n\n'''anepithymia''' (an-ep-i-thim′i-ä), ''n.''   [NL., < Gr. ἀν- priv. + ἐπιθυμία, desire, < ἐπιθυμεῖν, set one’s heart upon a thing, desire, < ἐπί, upon, + θυμός, mind.]   In ''pathol.'', loss of normal appetite, as for food or drink.\n\n'''Anergates''' (an-ėr-gā′tēz), ''n.''   [NL., < Gr. ἀν- priv. + ἐργάτης, a worker: see ''ergata''.]   A genus of ants, the species of which are represented only by males and females, there being no neuters or workers, whence the name.\n\n'''aneroid''' (an′ẹ-roid), ''a.'' and ''n.''   [< F. ''anéroïde'', < Gr. ἀ- priv. + νηρός, wet, liquid (in class. Gr. ναρός, < νάειν, flow), + εἶδος, form: see ''-oid''.]   '''I.''' ''a.'' Dispensing with fluid; of a barometer, dispensing with a fluid, as quicksilver, which is employed in an ordinary barometer.—'''Aneroid barometer.''' {{smaller|See ''barometer''.}}\n\n'''II.''' ''n.'' An aneroid barometer.\n\n'''anerythropsia''' (an-er-i-throp′si-ä), ''n.''   [NL., < Gr. ἀν- priv. + ἐρυθρός, red, + ὄψις, a view.]   Inability to distinguish the color red: a form of color-blindness.<noinclude><references/></noinclude>"
+}

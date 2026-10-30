@@ -1,0 +1,263 @@
+{
+ "volume": 1,
+ "page_number": 217,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n216.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n216.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 748,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     73,
+     133,
+     2296,
+     174
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     73,
+     174,
+     818,
+     1114
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     73,
+     1114,
+     818,
+     1910
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     73,
+     1910,
+     818,
+     2812
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     73,
+     2812,
+     818,
+     3291
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     818,
+     174,
+     1559,
+     1214
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     818,
+     1214,
+     1559,
+     2224
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     818,
+     2224,
+     1559,
+     3291
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     845,
+     3084,
+     1249,
+     3262
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1559,
+     174,
+     2296,
+     1176
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1559,
+     1176,
+     2296,
+     2196
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1559,
+     2196,
+     2296,
+     3291
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1589,
+     2460,
+     2285,
+     2628
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|an-|191|anabolic}}",
+   "c1s1": "gin, the same as ''on-''<sup>1</sup> and ''a-''<sup>2</sup>, occurring unfelt in ''anent'', ''anon'', ''anan'', ''an''(''n'')''eal''<sup>1</sup>, ''an''(''n'')''eal''<sup>2</sup>, etc., and with accent in ''anvil'' (but in this and some other words perhaps originally ''and-'': see ''an''<sup>2</sup>).\n\n'''an-'''<sup>2</sup>. [< ME. ''an-'', ''and-'', < AS. ''and-'': see ''and-'' and ''a-''<sup>5</sup>, and cf. ''an-''<sup>1</sup>.] A prefix of Anglo-Saxon origin, a reduced form of ''and-'' (which see), occurring unfelt in ''answer''.\n\n'''an-'''<sup>3</sup>. [< ME. and OF. ''a-'', later restored to ''an-'', < L. ''an-'', assimilated form of ''ad-'' before ''n''; but in classical L. this assimilation was not prevalent. In ME. and AF. ''an-'' often represents other L. prefixes, ''in-'', ''ex-'', ''ob-'', etc., also ''ad-'' unassimilated: see ''anoint'', ''annoy'', ''ancheson'' = ''encheason'', etc.] A prefix of Latin origin, usually an assimilation of ''ad-'' before ''n-'', as in ''annex'', ''annul'', ''announce'', etc., but sometimes representing Latin ''in-'', as in ''anoint'', ''annoy''.\n\n'''an-'''<sup>4</sup>. [< L. ''an-'', orig. ''ambi-'': see ''ambi-''.] A prefix of Latin origin, a reduced form of ''ambi-'', occurring (unfelt in English) in ''ancile'', ''ancipital'', ''anfractuous'', etc.\n\n'''an-'''<sup>5</sup>. [< Gr. ἀν-, the fuller form of ἀ- priv., preserved before a vowel: see ''a-''<sup>18</sup>. The nasal is also lost in the cognate Icel. ''ū-'' for ''un-'': see ''un-''<sup>1</sup>.] A prefix of Greek origin, the fuller form of ''ȧ-'' privative (''a-''<sup>18</sup>) preserved before a vowel, as in ''anarchy'', ''anarthrous'', ''anecdote'',",
+   "c1s2": "''anomaly'', etc.\n\n'''an-'''<sup>6</sup>. [< Gr. ἀν-, elided form of ἀνα- before a vowel: see ''ana-''.] A prefix of Greek origin, the form of ''ana-'' before a vowel, as in ''anode''.\n\n'''-an.''' [< ME. ''-an'', reg. ''-ain'', ''-ein'', ''-en'', < OF. ''-ain'', ''-ein'', or before ''i'', ''-en'', mod. F. ''-ain'', ''-en'', fem. ''-aine'', ''-enne'', = Sp. It. Pg. ''-ano'', fem. ''-ana'', < L. ''-ānus'', fem. ''-āna'', neut. ''-ānum'', parallel to ''-ēnus'', ''-īnus'', ''-inus'', ''-ōnus'', ''-ūnus'', being ''-nu-s'' (= Gr. -νο-ς) preceded by various vowels; = AS. ''-en'', E. ''-en'', suffix of adjectives and pp. suffix: see ''-en''<sup>1</sup> and ''-en''<sup>2</sup>, and cf. ''-in''<sup>1</sup>, ''-ine''<sup>1</sup>. With an additional vowel, the suffix appears in L. as ''-āneus'', in E. accom. as ''-aneous'', q. v., or disguised in ''foreign'', q. v. The reg. ME. form of this suffix remains in ''dozen'', ''citizen'', etc., ''captain'', ''chieftain'', ''chaplain'', ''villain'', etc., disguised in ''sovereign'' (prop. ''soveren''); but in mod. E., in many words, ''-an'' has taken the place of the older ''-ain'', ''-en'', as in ''human'', and is the reg. form in words of recent introduction, varying with ''-ane'' in some words, chiefly dissyllables, as in ''mundane'', usually differentiated from forms in ''-an'', as in ''humane'', ''urbane'', etc., beside ''human'', ''urban'', etc.] A suffix of Latin origin, forming adjectives which",
+   "c1s3": "are or may be also used as nouns. {{smaller|It expresses various adjective relations, being used especially with proper names to form local or patrial adjectives or nouns, as ''Roman'', ''Italian'', ''Grecian'', ''American'', ''Fijian'', etc.; terms indicating party, sect, or system, as ''Arian'', ''Lutheran'', ''Wesleyan'', ''Mohammedan'', ''Copernican'', ''Linnean'', etc., so in ''Episcopalian'', ''Presbyterian'', ''Unitarian'', etc.; and in zoölogy, to form adjectives and nouns from names of classes or orders, as ''mammalian'', ''reptilian'', etc. As an English formative it is confined chiefly to words which may be made to assume a Latin type, having here also the euphonic variant ''-ian'', especially in proper adjectives, as in ''Darwinian'', ''Johnsonian'', etc.}}\n\n'''ana'''<sup>1</sup> (an′ä or ā′nä̤), ''n. pl.'' [< ''-ana'', q. v.] A general term for books recording miscellaneous sayings, anecdotes, and gossip about a particular person or subject; the sayings and anecdotes themselves. See ''-ana''.\n{{smaller block|<poem>But, all his vast heart sherris-warm’d,\nHe flash’d his random speeches;\nEre days, that deal in ''ana'', swarm’d\nHis literary leeches.</poem>\n{{right|''Tennyson'', Will Waterproof.}}}}\n\n'''ana'''<sup>2</sup>. [< Gr. ἀνά, prep., at (so much each): see ''ana-''.] A word used in medical prescriptions in a distributive sense, as in Greek, to indicate an equal quantity of each: often written ''āā'', earlier and more correctly ''āa'', where the mark above the first ''a'', according to general medieval practice, represented the omission of ''n''. See ''tilde''.",
+   "c1s4": "¶\n'''ana'''<sup>3</sup>, ''n.'' See ''anna''<sup>1</sup>.\n\n'''ana-.''' [< L. ''ana-'', < Gr. ἀνα-, prefix, ἀνά, prep., up, upon, hence along, throughout; distributively, at (so much each) (see ''ana''<sup>2</sup>); in comp., up, upward, throughout, back, again, = Goth. ''ana'' = AS. ''an'', ''on'', E. ''on'': see ''an''<sup>3</sup>, ''an-''<sup>1</sup>, ''on''.] A prefix of Greek origin, meaning up, upon, along, throughout, back, again, etc., as in ''anabasis''.\n\n'''-ana.''' [L. ''-āna'', neut. pl. of ''-ānus'', a common adj. suffix, used, for example, to form adjectives from proper names, as ''Ciceronianus'', Ciceronian, from ''Cicero(n-)'', Cicero: see ''-an''.] A suffix of Latin origin, in modern use with a euphonic variant, ''-i-ana'', to form collective plurals, as ''Scaligerana'', ''Johnsoniana'', etc., applied",
+   "c2s1": "to a collection of sayings of Scaliger, of Johnson, etc., or of anecdotes or gossip concerning them; also sometimes appended to common nouns, as ''boxiana'' (annals of pugilism); more recently extended to all the literature of a subject, as ''Americana'', ''Shaksperiana'', etc. Hence sometimes used as an independent word, ''ana''. See ''ana''<sup>1</sup>.\n\n¶\n'''anabamous''' (an-ab′a̤-mus), ''a.'' [Irreg. < Gr. ἀνά, upward, + βαίνειν, go: see ''Anabas'', ''anabasis''.] In ''ichth.'', a term applied to certain fishes which are said to be able to climb trees for a short distance. See ''Anabas''.\n\n'''anabantid''' (an-a-ban′tid), ''n.'' A fish of the family ''Anabantidæ''.\n\n'''Anabantidæ''' (an-a-ban′ti-dē), ''n. pl.'' [NL., < ''Anabas'' (''-bant-'') + ''-idæ''.] A family of acanthopterygian fishes, typified by the genus ''Anabas'', to which various limits have been assigned. {{smaller|(''a'') After the Cuvierian system of classification, a family characterized by the division of the superior pharyngeals into small irregular lamellæ, more or less numerous, and intercepting cells containing water, which thus flows upon and moistens the gills while the fish is out of water. It includes the ophiocephalids as well as the anabantids proper, the osphromenids, and the helostomids. (''b'') Among later authors, a family characterized by a compressed oblong body, moderate ctenoid scales, and a superbranchial organ in a cavity accessory to the gill-chamber. It includes the osphromenids and the helostomids as well as the typical anabantids. (''c'') By Cope the family was limited to ''Labyrinthici'' with the second epipharyngeals suppressed, the first superior branchihyals with three laminæ, and the second and third developed. Also written ''Anabatidæ'', and sometimes ''Anabasidæ''. See cut under ''Anabas''.}}",
+   "c2s2": "¶\n'''anabantoid''' (an-a̤-ban′toid), ''a.'' and ''n.'' [< ''Anabas'' (''-bant-'') + ''-oid.''] '''I.''' ''a.'' Having the characters of the ''Anabantidæ'', or fishes with labyrinthiform pharyngeals.\n\n'''II.''' ''n.'' An anabantid.\n\n'''anabaptism''' (an-a̤-bap′tizm), ''n.'' [< LL. ''anabaptismus'' (Augustine), < LGr. *ἀναβαπτισμός, ἀναβάπτισμα, rebaptism, < Gr. ἀναβαπτίζειν, dip repeatedly, LGr. baptize again: see ''anabaptize.''] '''1.''' A second baptism; rebaptism. ''N. E. D.''—'''2.''' [''cap.''] The doctrine or practices of the Anabaptists.\n\n'''Anabaptist''' (an-a̤-bap′tist), ''n.'' [< NL. ''anabaptista'', < Gr. as if *ἀναβαπτιστής, < ἀναβαπτίζειν, rebaptize: see ''anabaptism.''] One who believes in rebaptism; specifically, one of a class of Christians who hold baptism in infancy to be invalid, and require adults who have received it to be baptized on joining their communion.\n{{smaller block|The name is best known historically as applied to the followers of Thomas Münzer, a leader of the peasants’ war in Germany, who was killed in battle in 1525, and to those of John Matthias and John Bockold, or John of Leyden, who committed great excesses while attempting to establish a socialistic kingdom of New Zion or Mount Zion at Münster in Westphalia, and were defeated in 1535, their leaders being killed and hung up in iron cages, which are still preserved in that city. The name has also been applied to bodies of very different character in other respects, probably always in an opprobrious sense, since believers in the sole validity of adult baptism refuse to regard it as rebaptism in the case of persons who had received the rite in infancy. It is now most frequently used of the Mennonites. See ''Mennonite.''}}\n{{smaller block|Over his bow’d shoulder}}",
+   "c2s3": "{{smaller block|<poem>Scowl’d that world-hated and world-hating beast,\nA haggard ''Anabaptist.'' {{right|''Tennyson'', Queen Mary, ii. 2.}}</poem>}}\n\n'''anabaptistic''' (an″a̤-bap-tis′tik), ''a.'' [< ''Anabaptist'' + ''-ic.''] Of or relating to the Anabaptists or to their doctrines.\n\n'''anabaptistical''' (an″a̤-bap-tis′ti-kal), ''a.'' Same as ''anabaptistic.''\n\n'''anabaptistically''' (an″a̤-bap-tis′ti-kal-i), ''adv.'' In conformity with anabaptistic doctrine or practice.\n\n'''anabaptistry†''' (an-a̤-bap′tis-tri), ''n.'' [< ''Anabaptist'' + ''-ry'' for ''-ery.''] Same as ''anabaptism.''\n{{smaller block|''Anabaptistry'' was suppressed in Münster.\n{{right|''E. Pagit'', Heresiography, p. 9.}}}}\n\n'''anabaptize''' (an″a̤-bap-tīz′), ''v. t.''; pret. and pp. ''anabaptized'', ppr. ''anabaptizing.'' [< NL. ''anabaptizare'', < Gr. ἀναβαπτίζειν, dip repeatedly, LGr. baptize again, < ἀνά, again, + βαπτίζειν, dip, baptize: see ''baptize.''] To rebaptize; baptize again; rechristen; rename.\n{{smaller block|Some called their profound ignorances new lights; they were better ''anabaptized'' into the appellation of extinguishers. {{right|''Whitlock'', Manners of Eng., p. 160.}}}}\n\n'''Anabas''' (an′a̤-bas), ''n.'' [NL., < Gr. ἀναβάς (ἀναβαντ-), second aorist part. of ἀναβαίνειν, go up, mount, climb, < ἀνά, up, + βαίνειν, go, = L. ''venire'',\n[[FIGURE]]\n{{c|{{smaller|Climbing-fish (''Anabas scandens'').}}}}\ncome, = E. ''come'', q. v.] A genus of acanthopterygian fishes, type of the family ''Anabantidæ'' (which see). {{smaller|''Anabas scandens'' is the celebrated climb-}}",
+   "c3s1": "{{smaller|ing-fish of India, about 6 inches long, which is enabled by the peculiar modification of the branchial apparatus to live a long time out of water, to proceed some distance on dry land, and to climb trees for a distance of about 6 or 7 feet. See ''climbing-fish.''}}\n\n'''Anabasidæ''' (an-a-bas′i-dē), ''n. pl.'' [NL., irreg. < ''Anabas'' + ''-idæ.''] Same as ''Anabantidæ.''\n\n'''anabasis''' (a̤-nab′a̤-sis), ''n.''; pl. ''anabases'' (-sēz). [L., < Gr. ἀνάβασις, a going up, an ascent, < ἀναβαίνειν, go up: see ''Anabas.'' Cf. ''basis.''] '''1.''' A going up, especially a military advance: opposed to ''catabasis.'' {{smaller|Specifically, the title of a work in which Xenophon narrates the experiences of the Greek mercenaries of Cyrus the Younger in his attempt in 401 B. C. to dethrone his brother, Artaxerxes II., king of Persia.}} Hence—'''2.''' Any military expedition: as, “the ''anabasis'' of Napoleon,” ''De Quincey''; “General Sherman’s great ''anabasis,''” ''Spectator'', Dec. 31, 1864.—'''3†.''' The course of a disease from the commencement to the climax. ''J. Thomas.''\n\n'''anabasse''' (an-a̤-bas′), ''n.'' [F.] A coarse kind of blanketing made in France and the Netherlands for the African market.\n\n'''anabata''' (an-ab′a̤-tä), ''n.'' [ML.; in form like Gr. ἀναβατός, verbal adj. of ἀναβαίνειν, go up (see ''Anabas''); in sense like ML. *''anabola'' (corruptly ''analabus''), ''anaboladium'', ''anabolarium'', a cope (see ''abolla'').] ''Eccles.'', a hooded cope, usually worn in outdoor processions, frequently larger and longer than the closed cope. ''Lee'', Eccles. Terms.\n\n'''Anabates''' (an-ab′a̤-tēz), ''n.'' [NL., < Gr. ἀναβάτης, one who mounts, < ἀναβαίνειν, mount, go up:",
+   "c3s2": "see ''Anabas'', and cf. ''andabata''.] A genus of birds established by Temminck in 1820 upon ''A. ruficaudus'', a synallaxine bird of South America. {{smaller|The name was subsequently applied by authors to various birds of the same group. Nearly synonymous with ''Synallaxis'' (which see).}}\n\n'''Anabatidæ'''<sup>1</sup> (an-a-bat′i-dē), ''n. pl.'' [NL., < ''Anabates'' + ''-idæ''.] In ''ornith.'', a family of birds named by Bonaparte, 1849. {{smaller|The name was adopted by Gray for the South American creepers commonly called ''Dendrocolaptidæ'', including such leading genera as ''Furnarius, Sclerurus, Oxyrhamphus, Dendrocolaptes'', etc.; by Gray made to cover also the nuthatches. The group so composed is incapable of definition, and the term is little used.}}\n\n'''Anabatidæ'''<sup>2</sup> (an-a-bat′i-dē), ''n. pl.'' [NL., irreg. < ''Anabas'' + ''-idæ''.] In ''ichth.'', same as ''Anabantidæ''.\n\n'''Anabatinæ''' (an″a-ba-tī′nē), ''n. pl.'' [NL., < ''Anabates'' + ''-inæ''.] A subfamily of birds named by Swainson in 1837: a synonym of ''Synallaxinæ'' (which see).\n\n'''anabiosis''' (an″a-bī-ō′sis), ''n.'' [NL., < Gr. ἀναβιόειν, come to life again: see ''anabiotic''.] Reanimation; resuscitation; recovery after suspended animation. [Rare.]\n\n'''anabiotic''' (an″a-bī-ot′ik), ''a.'' [< Gr. ἀναβιόειν, come to life again, < ἀνά, again, + βιόειν, live (> βιωτικός, adj.), < βίος, life.] In ''med.'', reviving; acting as a stimulant.\n\n'''Anablepina''' (an″a-ble-pī′nä), ''n. pl.'' [NL., < ''Anableps'' + ''-ina''.] In Günther’s classification of fishes, a division of carnivorous cyprinodonts having all the teeth pointed and the sexes differentiated, the anal fin of the male",
+   "c3s3": "being modified into an intromittent organ. The group includes the genus ''Anableps'' and several other genera.\n\n'''Anableps''' (an′a̤-bleps), ''n.'' [NL., < Gr. ἀναβλέπειν, look up, > ἀνά, up, + βλέπειν, look.] A genus of cyprinodont fishes unique among vertebrates on account of the division of the cornea into upper and lower halves by a dark\n[[FIGURE]]\n{{c|{{smaller|Four-eyes (''Anableps tetraophthalmus'').}}}}\nhorizontal stripe of the conjunctiva, and the development of two pupils to each orbit, so that the fish appears to have four eyes, one pair looking upward and the other pair sidewise. {{smaller|There are several species of the genus, the principal one being ''A. tetraophthalmus'', known as the four-eyes, inhabiting the sandy shores of tropical American seas.}}\n\n'''anabole''' (an-ab′ọ̄-lē), ''n.'' [NL., < Gr. ἀναβολή, what is thrown up, < ἀναβάλλειν, throw up, < ἀνά, up, + βάλλειν, throw.] A throwing up; specifically, in ''med.'', an evacuation upward; an act by which certain matters are ejected by the mouth, including spitting, expectoration, regurgitation, and vomiting.\n\n'''anabolic''' (an-a̤-bol′ik), ''a.'' [< Gr. ἀναβολή, a throwing up, rising up, + ''-ic''.] Characterized by or exhibiting anabolism; pertaining to anabolism in general; assimilative; constructively metabolic."
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0217 c2f1.png",
+   "c3f1": "century v01 p0217 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1601,
+     2472,
+     2273,
+     2616
+    ],
+    "caption": [
+     1722,
+     2626,
+     2157,
+     2651
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1597,
+     2483,
+     2282,
+     2670
+    ]
+   },
+   {
+    "box": [
+     857,
+     3096,
+     1237,
+     3250
+    ],
+    "caption": [
+     868,
+     3260,
+     1214,
+     3285
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     874,
+     3019,
+     1319,
+     3247
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 3,
+    "input_tokens": 4853,
+    "output_tokens": 182,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9647,
+    "output_tokens": 9803,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c2f1": "left"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|an-|191|anabolic}}</noinclude>gin, the same as ''on-''<sup>1</sup> and ''a-''<sup>2</sup>, occurring unfelt in ''anent'', ''anon'', ''anan'', ''an''(''n'')''eal''<sup>1</sup>, ''an''(''n'')''eal''<sup>2</sup>, etc., and with accent in ''anvil'' (but in this and some other words perhaps originally ''and-'': see ''an''<sup>2</sup>).\n\n'''an-'''<sup>2</sup>.   [< ME. ''an-'', ''and-'', < AS. ''and-'': see ''and-'' and ''a-''<sup>5</sup>, and cf. ''an-''<sup>1</sup>.]   A prefix of Anglo-Saxon origin, a reduced form of ''and-'' (which see), occurring unfelt in ''answer''.\n\n'''an-'''<sup>3</sup>.   [< ME. and OF. ''a-'', later restored to ''an-'', < L. ''an-'', assimilated form of ''ad-'' before ''n''; but in classical L. this assimilation was not prevalent. In ME. and AF. ''an-'' often represents other L. prefixes, ''in-'', ''ex-'', ''ob-'', etc., also ''ad-'' unassimilated: see ''anoint'', ''annoy'', ''ancheson'' = ''encheason'', etc.]   A prefix of Latin origin, usually an assimilation of ''ad-'' before ''n-'', as in ''annex'', ''annul'', ''announce'', etc., but sometimes representing Latin ''in-'', as in ''anoint'', ''annoy''.\n\n'''an-'''<sup>4</sup>.   [< L. ''an-'', orig. ''ambi-'': see ''ambi-''.]   A prefix of Latin origin, a reduced form of ''ambi-'', occurring (unfelt in English) in ''ancile'', ''ancipital'', ''anfractuous'', etc.\n\n'''an-'''<sup>5</sup>.   [< Gr. ἀν-, the fuller form of ἀ- priv., preserved before a vowel: see ''a-''<sup>18</sup>. The nasal is also lost in the cognate Icel. ''ū-'' for ''un-'': see ''un-''<sup>1</sup>.]   A prefix of Greek origin, the fuller form of ''ȧ-'' privative (''a-''<sup>18</sup>) preserved before a vowel, as in ''anarchy'', ''anarthrous'', ''anecdote'', ''anomaly'', etc.\n\n'''an-'''<sup>6</sup>.   [< Gr. ἀν-, elided form of ἀνα- before a vowel: see ''ana-''.]   A prefix of Greek origin, the form of ''ana-'' before a vowel, as in ''anode''.\n\n'''-an.'''   [< ME. ''-an'', reg. ''-ain'', ''-ein'', ''-en'', < OF. ''-ain'', ''-ein'', or before ''i'', ''-en'', mod. F. ''-ain'', ''-en'', fem. ''-aine'', ''-enne'', = Sp. It. Pg. ''-ano'', fem. ''-ana'', < L. ''-ānus'', fem. ''-āna'', neut. ''-ānum'', parallel to ''-ēnus'', ''-īnus'', ''-inus'', ''-ōnus'', ''-ūnus'', being ''-nu-s'' (= Gr. -νο-ς) preceded by various vowels; = AS. ''-en'', E. ''-en'', suffix of adjectives and pp. suffix: see ''-en''<sup>1</sup> and ''-en''<sup>2</sup>, and cf. ''-in''<sup>1</sup>, ''-ine''<sup>1</sup>. With an additional vowel, the suffix appears in L. as ''-āneus'', in E. accom. as ''-aneous'', q. v., or disguised in ''foreign'', q. v. The reg. ME. form of this suffix remains in ''dozen'', ''citizen'', etc., ''captain'', ''chieftain'', ''chaplain'', ''villain'', etc., disguised in ''sovereign'' (prop. ''soveren''); but in mod. E., in many words, ''-an'' has taken the place of the older ''-ain'', ''-en'', as in ''human'', and is the reg. form in words of recent introduction, varying with ''-ane'' in some words, chiefly dissyllables, as in ''mundane'', usually differentiated from forms in ''-an'', as in ''humane'', ''urbane'', etc., beside ''human'', ''urban'', etc.]   A suffix of Latin origin, forming adjectives which are or may be also used as nouns. {{smaller|It expresses various adjective relations, being used especially with proper names to form local or patrial adjectives or nouns, as ''Roman'', ''Italian'', ''Grecian'', ''American'', ''Fijian'', etc.; terms indicating party, sect, or system, as ''Arian'', ''Lutheran'', ''Wesleyan'', ''Mohammedan'', ''Copernican'', ''Linnean'', etc., so in ''Episcopalian'', ''Presbyterian'', ''Unitarian'', etc.; and in zoölogy, to form adjectives and nouns from names of classes or orders, as ''mammalian'', ''reptilian'', etc. As an English formative it is confined chiefly to words which may be made to assume a Latin type, having here also the euphonic variant ''-ian'', especially in proper adjectives, as in ''Darwinian'', ''Johnsonian'', etc.}}\n\n'''ana'''<sup>1</sup> (an′ä or ā′nä̤), ''n. pl.''   [< ''-ana'', q. v.]   A general term for books recording miscellaneous sayings, anecdotes, and gossip about a particular person or subject; the sayings and anecdotes themselves. See ''-ana''.\n{{smaller block|<poem>But, all his vast heart sherris-warm’d,\nHe flash’d his random speeches;\nEre days, that deal in ''ana'', swarm’d\nHis literary leeches.</poem>\n{{right|''Tennyson'', Will Waterproof.}}}}\n\n'''ana'''<sup>2</sup>.   [< Gr. ἀνά, prep., at (so much each): see ''ana-''.]   A word used in medical prescriptions in a distributive sense, as in Greek, to indicate an equal quantity of each: often written ''āā'', earlier and more correctly ''āa'', where the mark above the first ''a'', according to general medieval practice, represented the omission of ''n''. See ''tilde''.\n\n'''ana'''<sup>3</sup>, ''n.'' See ''anna''<sup>1</sup>.\n\n'''ana-.'''   [< L. ''ana-'', < Gr. ἀνα-, prefix, ἀνά, prep., up, upon, hence along, throughout; distributively, at (so much each) (see ''ana''<sup>2</sup>); in comp., up, upward, throughout, back, again, = Goth. ''ana'' = AS. ''an'', ''on'', E. ''on'': see ''an''<sup>3</sup>, ''an-''<sup>1</sup>, ''on''.]   A prefix of Greek origin, meaning up, upon, along, throughout, back, again, etc., as in ''anabasis''.\n\n'''-ana.'''   [L. ''-āna'', neut. pl. of ''-ānus'', a common adj. suffix, used, for example, to form adjectives from proper names, as ''Ciceronianus'', Ciceronian, from ''Cicero(n-)'', Cicero: see ''-an''.]   A suffix of Latin origin, in modern use with a euphonic variant, ''-i-ana'', to form collective plurals, as ''Scaligerana'', ''Johnsoniana'', etc., applied to a collection of sayings of Scaliger, of Johnson, etc., or of anecdotes or gossip concerning them; also sometimes appended to common nouns, as ''boxiana'' (annals of pugilism); more recently extended to all the literature of a subject, as ''Americana'', ''Shaksperiana'', etc. Hence sometimes used as an independent word, ''ana''. See ''ana''<sup>1</sup>.\n\n'''anabamous''' (an-ab′a̤-mus), ''a.''   [Irreg. < Gr. ἀνά, upward, + βαίνειν, go: see ''Anabas'', ''anabasis''.]   In ''ichth.'', a term applied to certain fishes which are said to be able to climb trees for a short distance. See ''Anabas''.\n\n'''anabantid''' (an-a-ban′tid), ''n.'' A fish of the family ''Anabantidæ''.\n\n'''Anabantidæ''' (an-a-ban′ti-dē), ''n. pl.''   [NL., < ''Anabas'' (''-bant-'') + ''-idæ''.]   A family of acanthopterygian fishes, typified by the genus ''Anabas'', to which various limits have been assigned. {{smaller|(''a'') After the Cuvierian system of classification, a family characterized by the division of the superior pharyngeals into small irregular lamellæ, more or less numerous, and intercepting cells containing water, which thus flows upon and moistens the gills while the fish is out of water. It includes the ophiocephalids as well as the anabantids proper, the osphromenids, and the helostomids. (''b'') Among later authors, a family characterized by a compressed oblong body, moderate ctenoid scales, and a superbranchial organ in a cavity accessory to the gill-chamber. It includes the osphromenids and the helostomids as well as the typical anabantids. (''c'') By Cope the family was limited to ''Labyrinthici'' with the second epipharyngeals suppressed, the first superior branchihyals with three laminæ, and the second and third developed. Also written ''Anabatidæ'', and sometimes ''Anabasidæ''. See cut under ''Anabas''.}}\n\n'''anabantoid''' (an-a̤-ban′toid), ''a.'' and ''n.''   [< ''Anabas'' (''-bant-'') + ''-oid.'']   '''I.''' ''a.'' Having the characters of the ''Anabantidæ'', or fishes with labyrinthiform pharyngeals.\n\n'''II.''' ''n.'' An anabantid.\n\n'''anabaptism''' (an-a̤-bap′tizm), ''n.''   [< LL. ''anabaptismus'' (Augustine), < LGr. *ἀναβαπτισμός, ἀναβάπτισμα, rebaptism, < Gr. ἀναβαπτίζειν, dip repeatedly, LGr. baptize again: see ''anabaptize.'']   '''1.''' A second baptism; rebaptism.   ''N. E. D.''—'''2.''' [''cap.''] The doctrine or practices of the Anabaptists.\n\n'''Anabaptist''' (an-a̤-bap′tist), ''n.''   [< NL. ''anabaptista'', < Gr. as if *ἀναβαπτιστής, < ἀναβαπτίζειν, rebaptize: see ''anabaptism.'']   One who believes in rebaptism; specifically, one of a class of Christians who hold baptism in infancy to be invalid, and require adults who have received it to be baptized on joining their communion.\n{{smaller block|The name is best known historically as applied to the followers of Thomas Münzer, a leader of the peasants’ war in Germany, who was killed in battle in 1525, and to those of John Matthias and John Bockold, or John of Leyden, who committed great excesses while attempting to establish a socialistic kingdom of New Zion or Mount Zion at Münster in Westphalia, and were defeated in 1535, their leaders being killed and hung up in iron cages, which are still preserved in that city. The name has also been applied to bodies of very different character in other respects, probably always in an opprobrious sense, since believers in the sole validity of adult baptism refuse to regard it as rebaptism in the case of persons who had received the rite in infancy. It is now most frequently used of the Mennonites. See ''Mennonite.''}}\n{{smaller block|Over his bow’d shoulder}}\n<poem>Scowl’d that world-hated and world-hating beast,\nA haggard ''Anabaptist.'' {{right|''Tennyson'', Queen Mary, ii. 2.}}</poem>\n\n'''anabaptistic''' (an″a̤-bap-tis′tik), ''a.''   [< ''Anabaptist'' + ''-ic.'']   Of or relating to the Anabaptists or to their doctrines.\n\n'''anabaptistical''' (an″a̤-bap-tis′ti-kal), ''a.'' Same as ''anabaptistic.''\n\n'''anabaptistically''' (an″a̤-bap-tis′ti-kal-i), ''adv.'' In conformity with anabaptistic doctrine or practice.\n\n'''anabaptistry†''' (an-a̤-bap′tis-tri), ''n.''   [< ''Anabaptist'' + ''-ry'' for ''-ery.'']   Same as ''anabaptism.''\n{{smaller block|''Anabaptistry'' was suppressed in Münster.\n{{right|''E. Pagit'', Heresiography, p. 9.}}}}\n\n'''anabaptize''' (an″a̤-bap-tīz′), ''v. t.''; pret. and pp. ''anabaptized'', ppr. ''anabaptizing.''   [< NL. ''anabaptizare'', < Gr. ἀναβαπτίζειν, dip repeatedly, LGr. baptize again, < ἀνά, again, + βαπτίζειν, dip, baptize: see ''baptize.'']   To rebaptize; baptize again; rechristen; rename.\n{{smaller block|Some called their profound ignorances new lights; they were better ''anabaptized'' into the appellation of extinguishers. {{right|''Whitlock'', Manners of Eng., p. 160.}}}}\n\n'''Anabas''' (an′a̤-bas), ''n.''   [NL., < Gr. ἀναβάς (ἀναβαντ-), second aorist part. of ἀναβαίνειν, go up, mount, climb, < ἀνά, up, + βαίνειν, go, = L. ''venire'', {{img float|file=century v01 p0217 c2f1.png|width=194px|align=left|cap={{smaller|Climbing-fish (''Anabas scandens'').}}}} come, = E. ''come'', q. v.]   A genus of acanthopterygian fishes, type of the family ''Anabantidæ'' (which see). {{smaller|''Anabas scandens'' is the celebrated climbing-fish of India, about 6 inches long, which is enabled by the peculiar modification of the branchial apparatus to live a long time out of water, to proceed some distance on dry land, and to climb trees for a distance of about 6 or 7 feet. See ''climbing-fish.''}}\n\n'''Anabasidæ''' (an-a-bas′i-dē), ''n. pl.''   [NL., irreg. < ''Anabas'' + ''-idæ.'']   Same as ''Anabantidæ.''\n\n'''anabasis''' (a̤-nab′a̤-sis), ''n.''; pl. ''anabases'' (-sēz).   [L., < Gr. ἀνάβασις, a going up, an ascent, < ἀναβαίνειν, go up: see ''Anabas.'' Cf. ''basis.'']   '''1.''' A going up, especially a military advance: opposed to ''catabasis.'' {{smaller|Specifically, the title of a work in which Xenophon narrates the experiences of the Greek mercenaries of Cyrus the Younger in his attempt in 401 B. C. to dethrone his brother, Artaxerxes II., king of Persia.}} Hence—'''2.''' Any military expedition: as, “the ''anabasis'' of Napoleon,” ''De Quincey''; “General Sherman’s great ''anabasis,''” ''Spectator'', Dec. 31, 1864.—'''3†.''' The course of a disease from the commencement to the climax.   ''J. Thomas.''\n\n'''anabasse''' (an-a̤-bas′), ''n.''   [F.]   A coarse kind of blanketing made in France and the Netherlands for the African market.\n\n'''anabata''' (an-ab′a̤-tä), ''n.''   [ML.; in form like Gr. ἀναβατός, verbal adj. of ἀναβαίνειν, go up (see ''Anabas''); in sense like ML. *''anabola'' (corruptly ''analabus''), ''anaboladium'', ''anabolarium'', a cope (see ''abolla'').]   ''Eccles.'', a hooded cope, usually worn in outdoor processions, frequently larger and longer than the closed cope.   ''Lee'', Eccles. Terms.\n\n'''Anabates''' (an-ab′a̤-tēz), ''n.''   [NL., < Gr. ἀναβάτης, one who mounts, < ἀναβαίνειν, mount, go up: see ''Anabas'', and cf. ''andabata''.]   A genus of birds established by Temminck in 1820 upon ''A. ruficaudus'', a synallaxine bird of South America. {{smaller|The name was subsequently applied by authors to various birds of the same group. Nearly synonymous with ''Synallaxis'' (which see).}}\n\n'''Anabatidæ'''<sup>1</sup> (an-a-bat′i-dē), ''n. pl.''   [NL., < ''Anabates'' + ''-idæ''.]   In ''ornith.'', a family of birds named by Bonaparte, 1849. {{smaller|The name was adopted by Gray for the South American creepers commonly called ''Dendrocolaptidæ'', including such leading genera as ''Furnarius, Sclerurus, Oxyrhamphus, Dendrocolaptes'', etc.; by Gray made to cover also the nuthatches. The group so composed is incapable of definition, and the term is little used.}}\n\n'''Anabatidæ'''<sup>2</sup> (an-a-bat′i-dē), ''n. pl.''   [NL., irreg. < ''Anabas'' + ''-idæ''.]   In ''ichth.'', same as ''Anabantidæ''.\n\n'''Anabatinæ''' (an″a-ba-tī′nē), ''n. pl.''   [NL., < ''Anabates'' + ''-inæ''.]   A subfamily of birds named by Swainson in 1837: a synonym of ''Synallaxinæ'' (which see).\n\n'''anabiosis''' (an″a-bī-ō′sis), ''n.''   [NL., < Gr. ἀναβιόειν, come to life again: see ''anabiotic''.]   Reanimation; resuscitation; recovery after suspended animation. [Rare.]\n\n'''anabiotic''' (an″a-bī-ot′ik), ''a.''   [< Gr. ἀναβιόειν, come to life again, < ἀνά, again, + βιόειν, live (> βιωτικός, adj.), < βίος, life.]   In ''med.'', reviving; acting as a stimulant.\n\n'''Anablepina''' (an″a-ble-pī′nä), ''n. pl.''   [NL., < ''Anableps'' + ''-ina''.]   In Günther’s classification of fishes, a division of carnivorous cyprinodonts having all the teeth pointed and the sexes differentiated, the anal fin of the male being modified into an intromittent organ. The group includes the genus ''Anableps'' and several other genera.\n\n'''Anableps''' (an′a̤-bleps), ''n.''   [NL., < Gr. ἀναβλέπειν, look up, > ἀνά, up, + βλέπειν, look.]   A genus of cyprinodont fishes unique among vertebrates on account of the division of the cornea into upper and lower halves by a dark\nhorizontal stripe of the conjunctiva, and the development of two pupils to each orbit, so that the fish appears to have four eyes, one pair looking upward and the other pair sidewise. {{smaller|There are several species of the genus, the principal one being ''A. tetraophthalmus'', known as the four-eyes, inhabiting the sandy shores of tropical American seas.}}\n\n[[File:century v01 p0217 c3f1.png|center|335px]]\n{{c|{{smaller|Four-eyes (''Anableps tetraophthalmus'').}}}}\n\n'''anabole''' (an-ab′ọ̄-lē), ''n.''   [NL., < Gr. ἀναβολή, what is thrown up, < ἀναβάλλειν, throw up, < ἀνά, up, + βάλλειν, throw.]   A throwing up; specifically, in ''med.'', an evacuation upward; an act by which certain matters are ejected by the mouth, including spitting, expectoration, regurgitation, and vomiting.\n\n'''anabolic''' (an-a̤-bol′ik), ''a.''   [< Gr. ἀναβολή, a throwing up, rising up, + ''-ic''.]   Characterized by or exhibiting anabolism; pertaining to anabolism in general; assimilative; constructively metabolic.<noinclude><references/></noinclude>"
+}

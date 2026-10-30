@@ -1,0 +1,322 @@
+{
+ "volume": 1,
+ "page_number": 286,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n285.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n285.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 745,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     96,
+     141,
+     2314,
+     180
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     96,
+     180,
+     831,
+     1209
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     96,
+     1209,
+     831,
+     2054
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     96,
+     2054,
+     831,
+     3143
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     109,
+     2047,
+     831,
+     2346
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     96,
+     3143,
+     831,
+     3295
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     831,
+     180,
+     1579,
+     1241
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     831,
+     1241,
+     1579,
+     2105
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     831,
+     2105,
+     1579,
+     3143
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1330,
+     2210,
+     1578,
+     2509
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     831,
+     3143,
+     1579,
+     3295
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1579,
+     180,
+     2314,
+     1275
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1939,
+     343,
+     2314,
+     626
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1579,
+     1275,
+     2314,
+     2125
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1579,
+     2125,
+     2314,
+     3067
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1579,
+     3067,
+     2314,
+     3295
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|apiary|260|aplanogamete}}",
+   "c1s1": "''rius'', relating to bees: see ''apiarian''.] A place where bees are kept; a stand or shed for bees; a bee-house containing a number of beehives.\n\n'''apiaster''' (ā′pi-as-tėr), ''n.'' [NL., < LL. ''apiastra'', the bee-eater, a bird commonly called merops; < ''apis'', a bee, + ''-aster''.] In ''ornith.'', an old name of the bee-eater; in 1760 made by Brisson a generic name for the bee-eaters; now the specific name of the European bee-eater, ''Merops apiaster''. See cut under ''bee-eater''.\n\n'''apical''' (ap′i-kal), ''a.'' [< L. ''apex'' (''apic-''), apex, + ''-al''.] Relating to the apex or top; belonging to the pointed end of a cone-shaped body.—{{smaller|'''Apical cell.''' (''a'') In ''bot.'', the single cell which in most of the higher cryptogams constitutes the growing-point (''punctum vegetationis''). (''b'') In ''zoöl.'', a cell at the apex of the segmented ovum of some embryos, as sponges: the opposite of ''basal cell''.}}\n\n'''apically''' (ap′i-kal-i), ''adv.'' At the apex or tip.\n\n'''apicated''' (ap′i-kā-ted), ''a.'' [< NL. ''apicatus'' (cf. L. ''apicatus'', adorned with an apex or priest’s cap), < ''apex'' (''apic-''): see ''apex'' and ''-ate''<sup>1</sup>.] Having a conspicuous apex.\n\n'''apices''', ''n.'' Plural of ''apex''.\n\n'''Apician''' (a-pis̮′ia̤n), ''a.'' [< L. ''Apicianus'', < ''Apicius''.] Referring to or resembling Apicius, a celebrated Roman epicure in the time of Tiberius; hence, relating to the skilful preparation of delicate viands; dainty in regard to food.\n\n'''apicifixed''' (ap′i-si-fikst), ''a.'' [< L. ''apex'' (''apic-''), apex, + ''fixus'', fixed, + ''-ed''<sup>2</sup>.] In ''bot.'', attached by the apex, as an anther (in some cases) to the filament.",
+   "c1s2": "¶\n'''apicillary''' (ap-i-sil′a-ri), ''a.'' [< NL. as if *''apicillus'', dim. of L. ''apex'' (''apic-''), apex, + ''-ary.''] Situated at or near the apex.\n\n'''apickaback†, apickback†''', ''adv.'' Same as ''pickaback.''\n\n'''apiculate''' (a-pik′ụ̄-lạ̄t), ''a.'' [< NL. ''apiculatus'', < ''apiculus'', q. v.] In ''bot.'', tipped with a short and abrupt point: applied to a leaf or any other part which is suddenly terminated by a distinct point or apiculus.\n\n'''apiculated''' (a-pik′ụ̄-lā-ted), ''a.'' Same as ''apiculate.''\n\n'''apiculi''', ''n.'' Plural of ''apiculus.''\n\n'''apiculture''' (ā′pi-kul-ṭụ̄r), ''n.'' [< L. ''apis'', a bee, + ''cultura'', culture. Cf. ''agriculture.''] The rearing of bees.\n\n'''apiculturist''' (ā′pi-kul-ṭụ̄r-ist), ''n.'' [< ''apiculture'' + ''-ist.''] One who engages in apiculture, or the breeding, care, and improvement of bees.\n\n'''apiculus''' (a-pik′ụ̄-lus), ''n.''; pl. ''apiculi'' (-lī). [NL., dim. of L. ''apex'' (''apic-''), a point: see ''apex.''] In ''bot.'', a small point formed by the projection of the midrib beyond its leaf.\n\n'''Apidæ'''<sup>1</sup> (ap′i-dē), ''n. pl.'' [NL., < ''Apis''<sup>1</sup> + ''-idæ.''] A family of melliferous or anthophilous aculeate hymenopterous insects; the typical bees,",
+   "c1s3": "[[FIGURE]]\n{{c|{{smaller|Honey-Bee (''Apis mellifica''), typical of ''Apidæ''. 1, queen; 2, neuter worker; 3, drone. (Slightly reduced.)}}}}\nwith the mouth-parts short and stout, as distinguished from the other bees, or ''Andrenidæ'', which have a long trunk. {{smaller|The family contains ''Apis'' (the hive-bees), ''Bombus'' (the bumblebees), and many other genera of social bees, besides a number of solitary ones, as ''Xylocopa'' (the carpenter-bees), etc. See ''bee'', ''Apis''<sup>1</sup>, and cuts under ''Anthophora'' and ''carpenter-bee''.}}\n\n'''Apidæ'''<sup>2</sup> (ap′i-dē), ''n. pl.'' [NL., < ''Apus'' + ''-idæ''.] Same as ''Apodidæ''.\n\n'''apiece''' (a̤-pēs′), ''prep. phr.'' as ''adv.'' [Early mod. E. also ''apeece'', ''apece'', ''a piece'', ''a peece'', ''a pece'', < ME. ''a pece'': ''a'', E. ''a''<sup>3</sup>; ''pece'', piece; the prep. (''a''<sup>3</sup>) being merged in popular apprehension with the article (''a''<sup>2</sup>) and the noun extended in meaning: see ''a''<sup>3</sup>, ''a''<sup>2</sup>, and ''piece''.] For each piece, article, thing, or person; for each; to each; each: as, they cost a dollar ''apiece''; there is an orange ''apiece''.\n{{smaller block|Neither have two coats ''apiece''.\n{{right|Luke ix. 3.}}\n<poem>In earnest, pray, how many men ''apiece''\nHave you two been the death of?</poem>\n{{right|''Ford'', Broken Heart, i. 2.}}}}\n\n'''apieces†''' (a̤-pē′sez), ''adv.'' [< ''a''<sup>3</sup> + ''pieces''.] In or to pieces.",
+   "c1s4": "{{smaller block|Yield up my sword? That’s Hebrew;<br>I’ll first be cut ''apieces.''\n{{right|''Beau. and Fl.'', Little French Lawyer, ii. 1.}}}}\n\n'''apiin''' (ā′pi-in), ''n.'' [< L. ''apium'', parsley, + ''-in''<sup>2</sup>.] A gelatinous substance obtained from common",
+   "c2s1": "parsley by boiling it in water. The filtered solution, on cooling, deposits apiin.\n\n'''apiked†''', ''a.'' [ME., < ''a-'' + ''piked'', ''pyked'', trimmed, lit. picked: see ''a-''<sup>1</sup> and ''pike'', ''pick''.] Trimmed; cleaned from dirt.\n{{smaller block|Ful fressh and newe here gere ''apiked'' was.\n{{right|''Chaucer'', Gen. Prol. to C. T., l. 365.}}}}\n\n'''apilary''' (a-pil′ạ-ri), ''a.'' [< Gr. ἀ- priv. + πῖλος, a cap, + ''-ary''.] Characterized by abnormal suppression of the galea or upper lip: applied by Morren to the flowers of certain bilabiate plants, as ''Calceolaria''.\n\n'''apinoid''' (ap′i-noid), ''a.'' [< Gr. ἀπινής, without dirt (< ἀ- priv. + πίνος, dirt), + εἶδος, form: see ''-oid''.] Free from dirt: sometimes applied to scirrhous cancer, from the cleanliness of the surface of a section.\n\n'''Apiocrinidæ''' (ap″i-ọ̄-krin′i-dē), ''n. pl.'' [NL., < ''Apiocrinus'' + ''-idæ''.] The pear-encrinites, considered as a family of crinoids, typified by the genus ''Apiocrinus''. The same or a similar group is variously called ''Apiocrinidea'', ''Apiocrinitidea'', and ''Apiocrinoidea''.\n\n'''apiocrinite''' (ap-i-ok′ri-nīt), ''n.'' [< ''Apiocrinus'' + ''-ite''<sup>2</sup>.] A pear-encrinite; a member of the genus ''Apiocrinus''.\n\n'''Apiocrinus''' (ap-i-ok′ri-nus), ''n.'' [NL., < Gr. ἄπιον, a pear, + κρίνον, a lily: see ''crinoid''.] A genus of brachiate fossil crinoids, or encrinites; the pear-encrinites, or pyriform stone-lilies, of the family ''Encrinidæ'' and order ''Crinoidea''. One of the species is ''A. rotundus''. They occur in the Cretaceous and Oölite formations.",
+   "c2s2": "Originally written ''Apiocrinites''.\n\n¶\n'''apioid''' (ap′i-oid), ''n.'' [< Gr. ἀπιοειδής, pear-shaped, < ἄπιον, a pear, + εἶδος, form.] A plane curve so drawn that the distance of any point in it from a given fixed point, increased by a constant, positive, and proper fraction of its distance from another given fixed point, gives a positive constant. It is that one of a pair of Cartesian ovals which is within the other. See ''Cartesian''.\n\n'''apiol''' (ap′i-ol), ''n.'' [< L. ''apium'', parsley, + ''-ol.''] An organic substance, forming long, white, brittle, needle-like crystals, extracted by distilling parsley-seeds with water. It melts at 86° F., and boils at about 572° F. It is used as an emmenagogue. Also called ''parsley-camphor''.\n\n'''apiologist''' (ā-pi-ol′ọ-jist), ''n.'' One versed in apiology.\n\n'''apiology''' (ā-pi-ol′ọ-ji), ''n.'' [< L. ''apis'', a bee (see ''Apis''<sup>1</sup>), + Gr. ''-λογία'', < λέγειν, speak: see ''-ology''.] A systematic or scientific study of bees.\n\n'''Apiomerinæ''' (ap″i-ō-me-rī′nē), ''n. pl.'' [NL., < ''Apiomerus'' + ''-inæ''.] A subfamily of heteropterous insects, of the family ''Reduviidæ'', typified by the genus ''Apiomerus''. It is a large group in America, with several species peculiar to the United States.",
+   "c2s3": "¶\n'''Apiomerus''' (ap″i-ọ̄-mē′rus), ''n.'' [NL., < Gr. ἄπιον, a pear, + μηρός, thigh.] A genus of heteropterous insects, of the family ''Reduviidæ'', typical of a subfamily ''Apiomerinæ''. ''A. crassipes'' (Uhler) is a species widely distributed in the United States.\n[[FIGURE]]\n{{c|{{smaller|''Apiomerus crassipes.''}}}}\n\n'''Apion''' (ap′i-on), ''n.'' [NL., < Gr. ἄπιον, a pear.] A genus of weevils, of the family ''Curculionidæ'', the larvæ of which are specially injurious to clover.\n\n'''Apioninæ''' (ap″i-ọ̄-nī′nē), ''n. pl.'' [NL., < ''Apion'' + ''-inæ''.] In ''entom.'', a subfamily of rhynchophorous beetles, of the family ''Curculionidæ'' or weevils, typified by the genus ''Apion'', and characterized by straight antennæ, a lateral fold on the inner surface of the elytra, a horizontal pygidium, and an abdomen alike in both sexes. The species are mostly very small.\n\n'''Apios''' (ap′i-os), ''n.'' [NL., so called from the shape of the tubers; < Gr. ἄπιος, a pear, also a pear-tree; cf. ἄπιον, a pear, ἄπιος, a kind of euphorbia, perhaps the sun-spurge.] A North American genus of leguminous climbing plants, producing edible tubers on underground shoots. {{smaller|The only species, ''A. tuberosa'', is a native of the Atlantic States, and is called ''ground-nut'' or ''wild bean''; its tubers, though numerous, are small.}}\n\n'''Apis'''<sup>1</sup> (ā′pis), ''n.'' [L., a bee; perhaps = Gr. ἐμπίς, a gnat; cf. OHG. ''imbi'', ''impi'', a swarm of bees, MHG. ''imb'', ''imme'', G. ''imme'', a bee.] A",
+   "c2s4": "genus of melliferous or anthophilous aculeate hymenopterous insects, the type of the family ''Apidæ'' and of the suborder ''Mellifera'' or ''Anthophila;'' the hive-bees. {{smaller|The genus was formerly coextensive with these groups, but is now by successive}}",
+   "c3s1": "{{smaller|detachments of other genera limited to the hive-bee (''Apis mellifica'') and its immediate relatives. See ''bee'', and cut under ''Apidæ''<sup>1</sup>.}}\n\n'''Apis'''<sup>2</sup> (ā′pis), ''n.'' [L., < Gr. Ἆπις, < Egypt. ''Hapi'', lit. ‘hidden.’] The sacred bull of the ancient Egyptians, to which divine honors were paid. {{smaller|The bull sought out by the priests for this purpose was required to be black with a triangular white spot on the forehead, and with numerous other marks which denoted the true Apis.}}\n[[FIGURE]]\n{{c|{{smaller|Apis.<br>Mummy in the collection of the New York Historical Society.}}}}\n\n'''apish''' (ā′pish), ''a.'' [< ''ape'' + ''-ish''<sup>1</sup>.] Having the qualities of an ape; inclined to imitate in a servile manner; hence, foolishly foppish, affected, or trifling: as, ''apish'' manners.\n{{smaller block|A kinde of birds as it were of an ''apish'' kinde, ready to imitate what they see done.\n{{right|''Holland'', tr. of Camden’s Britannia (1637), p. 543.}}}}\n\n'''apishamore''' (a-pish′ạ-mōr), ''n.'' [Origin not ascertained.] In the western United States, a saddle-blanket made of the skin of a buffalo-calf.\n\n'''apishly''' (ā′pish-li), ''adv.'' In an apish manner; with silly imitation; foppishly.\n{{smaller block|Sin is so ''apishly'' crafty, as to hide itself under the colours and masks of goodness and honesty.\n{{right|''Jer. Taylor'', Artif. Handsomeness, p. 15.}}}}\n\n'''apishness''' (ā′pish-nes), ''n.'' [< ''apish'' + ''-ness.''] The quality of being apish; mimicry; foppery: as, “the ''apishness'' of foreign manners,” ''Warburton'', Sermons.",
+   "c3s2": "¶\n{{smaller block|We were not born to revel in the ''apishness'' of ridiculous expense of time.\n{{right|''Ford'', Line of Life.}}}}\n\n'''Apistes''' (a-pis′tēz), ''n.'' [NL., also ''Apistus'', < Gr. ἄπιστος, not to be trusted, incredible, < ἀ- priv. + πιστός, to be trusted, verbal adj. of πείθειν, prevail upon, in pass. πείθεσθαι, believe.] A genus of fishes, typical of the subfamily ''Apistinæ.''\n\n'''Apistinæ''' (ap-is-tī′nē), ''n. pl.'' [NL., < ''Apistes'' + ''-inæ.''] A subfamily of fishes, of the family ''Scorpænidæ'', exemplified by the genus ''Apistes'', having the vertebræ typical in number (10 abdominal and 14 caudal), and the dorsal fin commencing on the nape or head. They are characteristic of the Indo-Pacific region.\n\n'''apitpat†''' (a̤-pit′pat), ''prep. phr.'' as ''adv.'' [< ''a''<sup>3</sup> + ''pitpat.'' Cf. ''pit-a-pat.''] With quick beating or palpitation; pit-a-pat.\n{{smaller block|Welcome, my bully, my buck; agad, my heart is gone ''apitpat'' for you.\n{{right|''Congreve'', Old Batchelor, ii. 2.}}}}\n\n'''apivorous''' (ā-piv′ọ̄-rus), ''a.'' [< L. ''apis'', a bee, + ''vorare'', devour.] Bee-eating; feeding on bees.\n\n'''aplacental''' (ap-la̤-sen′ta̤l), ''a.'' [< NL. ''aplacentalis'', < Gr. ἀ- priv. (''a-''<sup>18</sup>) + ''placenta'', q. v.] Having no placenta; implacental: applied to those mammals in which no placenta is developed dur-",
+   "c3s3": "ing gestation. {{smaller|The aplacental mammals comprise the ''Monotremata'' and ''Marsupialia'', the two lowest orders of mammals, including the duck-mole, porcupine ant-eater, kangaroo, etc. The young are born at a much more immature stage of fetal development than in the placental mammals, and are so helpless that they are unable even to suck, and in most cases have to be fixed by the mother herself upon the teats, while the milk is forced into their mouths by a muscle which is spread over the mammary gland.}}\n\n'''Aplacentalia''' (ap″la̤-sen-tā′li-ä̤), ''n. pl.'' [NL., neut. pl. of ''aplacentalis'': see ''aplacental''.] Same as ''Implacentalia''.\n\n'''Aplacentaria''' (ap″la̤-sen-tā′ri-ä̤), ''n. pl.'' [NL., neut. pl. of ''aplacentarius'', < Gr. ἀ- priv. (''a-''<sup>18</sup>) + ''placenta'', q. v. Cf. ''aplacental''.] Same as ''Implacentalia''.\n\n'''aplanatic''' (ap-la̤-nat′ik), ''a.'' [Prop. ''aplanetic'', < Gr. ἀπλάνητος, not wandering, < ἀ- priv. + πλανητός, wandering: see ''planet''.] Without aberration: in ''optics'', applied to a lens or combination of lenses, as in a telescope, which brings parallel rays to a focus without spherical or chromatic aberration.—{{smaller|'''Aplanatic line''', a Cartesian oval: so called because it is the section of a surface refracting light from one focus to another without aberration.}}\n\n'''aplanatically''' (ap-la̤-nat′i-ka̤l-i), ''adv.'' In an aplanatic manner; as regards aplanatism, or the absence of spherical aberration.\n\n'''aplanatism''' (a-plan′a̤-tizm), ''n.'' [< ''aplanat-ic'' + ''-ism''.] In ''optics'', the condition of being free from spherical aberration.",
+   "c3s4": "¶\n'''aplanetic''' (ap-la-net′ik), ''a.'' Same as ''aplanatic.''\n\n'''aplanogamete''' (ap″la-nō-gam′e-tē), ''n.'' [< Gr. ἀ- priv. + πλάνος, wandering, roaming, + γαμετή, a wife: see ''a''-<sup>18</sup> and ''planogamete.''] In ''bot.'', a conjugating cell of the ''Conjugatæ'', in distinction from the ''planogamete'' (the ciliated and mobile zoöspore) of the ''Zoösporeæ.'' See ''gamete.''"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0286 c1f1.png",
+   "c2f1": "century v01 p0286 c2f1.png",
+   "c3f1": "century v01 p0286 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     121,
+     2059,
+     822,
+     2334
+    ],
+    "caption": [
+     162,
+     2340,
+     782,
+     2391
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     119,
+     2054,
+     776,
+     2332
+    ]
+   },
+   {
+    "box": [
+     1342,
+     2222,
+     1566,
+     2497
+    ],
+    "caption": [
+     1333,
+     2507,
+     1567,
+     2533
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1365,
+     2289,
+     1590,
+     2512
+    ]
+   },
+   {
+    "box": [
+     1951,
+     355,
+     2305,
+     614
+    ],
+    "caption": [
+     1960,
+     633,
+     2312,
+     701
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1958,
+     349,
+     2318,
+     657
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 4,
+    "input_tokens": 6435,
+    "output_tokens": 262,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 13,
+    "input_tokens": 9670,
+    "output_tokens": 9101,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 51558
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c2f1": "right",
+   "c3f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|apiary|260|aplanogamete}}</noinclude>''rius'', relating to bees: see ''apiarian''.] A place where bees are kept; a stand or shed for bees; a bee-house containing a number of beehives.\n\n'''apiaster''' (ā′pi-as-tėr), ''n.''   [NL., < LL. ''apiastra'', the bee-eater, a bird commonly called merops; < ''apis'', a bee, + ''-aster''.]   In ''ornith.'', an old name of the bee-eater; in 1760 made by Brisson a generic name for the bee-eaters; now the specific name of the European bee-eater, ''Merops apiaster''. See cut under ''bee-eater''.\n\n'''apical''' (ap′i-kal), ''a.''   [< L. ''apex'' (''apic-''), apex, + ''-al''.]   Relating to the apex or top; belonging to the pointed end of a cone-shaped body.—{{smaller|'''Apical cell.''' (''a'') In ''bot.'', the single cell which in most of the higher cryptogams constitutes the growing-point (''punctum vegetationis''). (''b'') In ''zoöl.'', a cell at the apex of the segmented ovum of some embryos, as sponges: the opposite of ''basal cell''.}}\n\n'''apically''' (ap′i-kal-i), ''adv.'' At the apex or tip.\n\n'''apicated''' (ap′i-kā-ted), ''a.''   [< NL. ''apicatus'' (cf. L. ''apicatus'', adorned with an apex or priest’s cap), < ''apex'' (''apic-''): see ''apex'' and ''-ate''<sup>1</sup>.]   Having a conspicuous apex.\n\n'''apices''', ''n.'' Plural of ''apex''.\n\n'''Apician''' (a-pis̮′ia̤n), ''a.''   [< L. ''Apicianus'', < ''Apicius''.]   Referring to or resembling Apicius, a celebrated Roman epicure in the time of Tiberius; hence, relating to the skilful preparation of delicate viands; dainty in regard to food.\n\n'''apicifixed''' (ap′i-si-fikst), ''a.''   [< L. ''apex'' (''apic-''), apex, + ''fixus'', fixed, + ''-ed''<sup>2</sup>.]   In ''bot.'', attached by the apex, as an anther (in some cases) to the filament.\n\n'''apicillary''' (ap-i-sil′a-ri), ''a.''   [< NL. as if *''apicillus'', dim. of L. ''apex'' (''apic-''), apex, + ''-ary.'']   Situated at or near the apex.\n\n'''apickaback†, apickback†''', ''adv.'' Same as ''pickaback.''\n\n'''apiculate''' (a-pik′ụ̄-lạ̄t), ''a.''   [< NL. ''apiculatus'', < ''apiculus'', q. v.]   In ''bot.'', tipped with a short and abrupt point: applied to a leaf or any other part which is suddenly terminated by a distinct point or apiculus.\n\n'''apiculated''' (a-pik′ụ̄-lā-ted), ''a.'' Same as ''apiculate.''\n\n'''apiculi''', ''n.'' Plural of ''apiculus.''\n\n'''apiculture''' (ā′pi-kul-ṭụ̄r), ''n.''   [< L. ''apis'', a bee, + ''cultura'', culture. Cf. ''agriculture.'']   The rearing of bees.\n\n'''apiculturist''' (ā′pi-kul-ṭụ̄r-ist), ''n.''   [< ''apiculture'' + ''-ist.'']   One who engages in apiculture, or the breeding, care, and improvement of bees.\n\n'''apiculus''' (a-pik′ụ̄-lus), ''n.''; pl. ''apiculi'' (-lī).   [NL., dim. of L. ''apex'' (''apic-''), a point: see ''apex.'']   In ''bot.'', a small point formed by the projection of the midrib beyond its leaf.\n\n'''Apidæ'''<sup>1</sup> (ap′i-dē), ''n. pl.''   [NL., < ''Apis''<sup>1</sup> + ''-idæ.'']   A family of melliferous or anthophilous aculeate hymenopterous insects; the typical bees, with the mouth-parts short and stout, as distinguished from the other bees, or ''Andrenidæ'', which have a long trunk. {{smaller|The family contains ''Apis'' (the hive-bees), ''Bombus'' (the bumblebees), and many other genera of social bees, besides a number of solitary ones, as ''Xylocopa'' (the carpenter-bees), etc. See ''bee'', ''Apis''<sup>1</sup>, and cuts under ''Anthophora'' and ''carpenter-bee''.}}\n\n[[File:century v01 p0286 c1f1.png|center|349px]]\n{{c|{{smaller|Honey-Bee (''Apis mellifica''), typical of ''Apidæ''. 1, queen; 2, neuter worker; 3, drone. (Slightly reduced.)}}}}\n\n'''Apidæ'''<sup>2</sup> (ap′i-dē), ''n. pl.''   [NL., < ''Apus'' + ''-idæ''.]   Same as ''Apodidæ''.\n\n'''apiece''' (a̤-pēs′), ''prep. phr.'' as ''adv.''   [Early mod. E. also ''apeece'', ''apece'', ''a piece'', ''a peece'', ''a pece'', < ME. ''a pece'': ''a'', E. ''a''<sup>3</sup>; ''pece'', piece; the prep. (''a''<sup>3</sup>) being merged in popular apprehension with the article (''a''<sup>2</sup>) and the noun extended in meaning: see ''a''<sup>3</sup>, ''a''<sup>2</sup>, and ''piece''.]   For each piece, article, thing, or person; for each; to each; each: as, they cost a dollar ''apiece''; there is an orange ''apiece''.\n{{smaller block|Neither have two coats ''apiece''.\n{{right|Luke ix. 3.}}}}\n{{smaller block|<poem>In earnest, pray, how many men ''apiece''\nHave you two been the death of?</poem>\n{{right|''Ford'', Broken Heart, i. 2.}}}}\n\n'''apieces†''' (a̤-pē′sez), ''adv.''   [< ''a''<sup>3</sup> + ''pieces''.]   In or to pieces. {{smaller block|Yield up my sword? That’s Hebrew;<br>I’ll first be cut ''apieces.''\n{{right|''Beau. and Fl.'', Little French Lawyer, ii. 1.}}}}\n\n'''apiin''' (ā′pi-in), ''n.''   [< L. ''apium'', parsley, + ''-in''<sup>2</sup>.]   A gelatinous substance obtained from common parsley by boiling it in water. The filtered solution, on cooling, deposits apiin.\n\n'''apiked†''', ''a.''   [ME., < ''a-'' + ''piked'', ''pyked'', trimmed, lit. picked: see ''a-''<sup>1</sup> and ''pike'', ''pick''.]   Trimmed; cleaned from dirt.\n{{smaller block|Ful fressh and newe here gere ''apiked'' was.\n{{right|''Chaucer'', Gen. Prol. to C. T., l. 365.}}}}\n\n'''apilary''' (a-pil′ạ-ri), ''a.''   [< Gr. ἀ- priv. + πῖλος, a cap, + ''-ary''.]   Characterized by abnormal suppression of the galea or upper lip: applied by Morren to the flowers of certain bilabiate plants, as ''Calceolaria''.\n\n'''apinoid''' (ap′i-noid), ''a.''   [< Gr. ἀπινής, without dirt (< ἀ- priv. + πίνος, dirt), + εἶδος, form: see ''-oid''.]   Free from dirt: sometimes applied to scirrhous cancer, from the cleanliness of the surface of a section.\n\n'''Apiocrinidæ''' (ap″i-ọ̄-krin′i-dē), ''n. pl.''   [NL., < ''Apiocrinus'' + ''-idæ''.]   The pear-encrinites, considered as a family of crinoids, typified by the genus ''Apiocrinus''. The same or a similar group is variously called ''Apiocrinidea'', ''Apiocrinitidea'', and ''Apiocrinoidea''.\n\n'''apiocrinite''' (ap-i-ok′ri-nīt), ''n.''   [< ''Apiocrinus'' + ''-ite''<sup>2</sup>.]   A pear-encrinite; a member of the genus ''Apiocrinus''.\n\n'''Apiocrinus''' (ap-i-ok′ri-nus), ''n.''   [NL., < Gr. ἄπιον, a pear, + κρίνον, a lily: see ''crinoid''.]   A genus of brachiate fossil crinoids, or encrinites; the pear-encrinites, or pyriform stone-lilies, of the family ''Encrinidæ'' and order ''Crinoidea''. One of the species is ''A. rotundus''. They occur in the Cretaceous and Oölite formations. Originally written ''Apiocrinites''.\n\n'''apioid''' (ap′i-oid), ''n.''   [< Gr. ἀπιοειδής, pear-shaped, < ἄπιον, a pear, + εἶδος, form.]   A plane curve so drawn that the distance of any point in it from a given fixed point, increased by a constant, positive, and proper fraction of its distance from another given fixed point, gives a positive constant. It is that one of a pair of Cartesian ovals which is within the other. See ''Cartesian''.\n\n'''apiol''' (ap′i-ol), ''n.''   [< L. ''apium'', parsley, + ''-ol.'']   An organic substance, forming long, white, brittle, needle-like crystals, extracted by distilling parsley-seeds with water. It melts at 86° F., and boils at about 572° F. It is used as an emmenagogue. Also called ''parsley-camphor''.\n\n'''apiologist''' (ā-pi-ol′ọ-jist), ''n.'' One versed in apiology.\n\n'''apiology''' (ā-pi-ol′ọ-ji), ''n.''   [< L. ''apis'', a bee (see ''Apis''<sup>1</sup>), + Gr. ''-λογία'', < λέγειν, speak: see ''-ology''.]   A systematic or scientific study of bees.\n\n'''Apiomerinæ''' (ap″i-ō-me-rī′nē), ''n. pl.''   [NL., < ''Apiomerus'' + ''-inæ''.]   A subfamily of heteropterous insects, of the family ''Reduviidæ'', typified by the genus ''Apiomerus''. It is a large group in America, with several species peculiar to the United States.\n\n'''Apiomerus''' (ap″i-ọ̄-mē′rus), ''n.''   [NL., < Gr. ἄπιον, a pear, + μηρός, thigh.]   A genus of heteropterous insects, of the family ''Reduviidæ'', typical of a subfamily ''Apiomerinæ''. ''A. crassipes'' (Uhler) is a species widely distributed in the United States. {{img float|file=century v01 p0286 c2f1.png|width=120px|align=right|cap={{smaller|''Apiomerus crassipes.''}}}}\n\n'''Apion''' (ap′i-on), ''n.''   [NL., < Gr. ἄπιον, a pear.]   A genus of weevils, of the family ''Curculionidæ'', the larvæ of which are specially injurious to clover.\n\n'''Apioninæ''' (ap″i-ọ̄-nī′nē), ''n. pl.''   [NL., < ''Apion'' + ''-inæ''.]   In ''entom.'', a subfamily of rhynchophorous beetles, of the family ''Curculionidæ'' or weevils, typified by the genus ''Apion'', and characterized by straight antennæ, a lateral fold on the inner surface of the elytra, a horizontal pygidium, and an abdomen alike in both sexes. The species are mostly very small.\n\n'''Apios''' (ap′i-os), ''n.''   [NL., so called from the shape of the tubers; < Gr. ἄπιος, a pear, also a pear-tree; cf. ἄπιον, a pear, ἄπιος, a kind of euphorbia, perhaps the sun-spurge.]   A North American genus of leguminous climbing plants, producing edible tubers on underground shoots. {{smaller|The only species, ''A. tuberosa'', is a native of the Atlantic States, and is called ''ground-nut'' or ''wild bean''; its tubers, though numerous, are small.}}\n\n'''Apis'''<sup>1</sup> (ā′pis), ''n.''   [L., a bee; perhaps = Gr. ἐμπίς, a gnat; cf. OHG. ''imbi'', ''impi'', a swarm of bees, MHG. ''imb'', ''imme'', G. ''imme'', a bee.]   A genus of melliferous or anthophilous aculeate hymenopterous insects, the type of the family ''Apidæ'' and of the suborder ''Mellifera'' or ''Anthophila;'' the hive-bees. {{smaller|The genus was formerly coextensive with these groups, but is now by successive detachments of other genera limited to the hive-bee (''Apis mellifica'') and its immediate relatives. See ''bee'', and cut under ''Apidæ''<sup>1</sup>.}}\n\n'''Apis'''<sup>2</sup> (ā′pis), ''n.''   [L., < Gr. Ἆπις, < Egypt. ''Hapi'', lit. ‘hidden.’]   The sacred bull of the ancient Egyptians, to which divine honors were paid. {{smaller|The bull sought out by the priests for this purpose was required to be black with a triangular white spot on the forehead, and with numerous other marks which denoted the true Apis.}} {{img float|file=century v01 p0286 c3f1.png|width=181px|align=right|cap={{smaller|Apis.<br>Mummy in the collection of the New York Historical Society.}}}}\n\n'''apish''' (ā′pish), ''a.''   [< ''ape'' + ''-ish''<sup>1</sup>.]   Having the qualities of an ape; inclined to imitate in a servile manner; hence, foolishly foppish, affected, or trifling: as, ''apish'' manners.\n{{smaller block|A kinde of birds as it were of an ''apish'' kinde, ready to imitate what they see done.\n{{right|''Holland'', tr. of Camden’s Britannia (1637), p. 543.}}}}\n\n'''apishamore''' (a-pish′ạ-mōr), ''n.''   [Origin not ascertained.]   In the western United States, a saddle-blanket made of the skin of a buffalo-calf.\n\n'''apishly''' (ā′pish-li), ''adv.'' In an apish manner; with silly imitation; foppishly.\n{{smaller block|Sin is so ''apishly'' crafty, as to hide itself under the colours and masks of goodness and honesty.\n{{right|''Jer. Taylor'', Artif. Handsomeness, p. 15.}}}}\n\n'''apishness''' (ā′pish-nes), ''n.''   [< ''apish'' + ''-ness.'']   The quality of being apish; mimicry; foppery: as, “the ''apishness'' of foreign manners,” ''Warburton'', Sermons.\n\n{{smaller block|We were not born to revel in the ''apishness'' of ridiculous expense of time.\n{{right|''Ford'', Line of Life.}}}}\n\n'''Apistes''' (a-pis′tēz), ''n.''   [NL., also ''Apistus'', < Gr. ἄπιστος, not to be trusted, incredible, < ἀ- priv. + πιστός, to be trusted, verbal adj. of πείθειν, prevail upon, in pass. πείθεσθαι, believe.]   A genus of fishes, typical of the subfamily ''Apistinæ.''\n\n'''Apistinæ''' (ap-is-tī′nē), ''n. pl.''   [NL., < ''Apistes'' + ''-inæ.'']   A subfamily of fishes, of the family ''Scorpænidæ'', exemplified by the genus ''Apistes'', having the vertebræ typical in number (10 abdominal and 14 caudal), and the dorsal fin commencing on the nape or head. They are characteristic of the Indo-Pacific region.\n\n'''apitpat†''' (a̤-pit′pat), ''prep. phr.'' as ''adv.''   [< ''a''<sup>3</sup> + ''pitpat.'' Cf. ''pit-a-pat.'']   With quick beating or palpitation; pit-a-pat.\n{{smaller block|Welcome, my bully, my buck; agad, my heart is gone ''apitpat'' for you.\n{{right|''Congreve'', Old Batchelor, ii. 2.}}}}\n\n'''apivorous''' (ā-piv′ọ̄-rus), ''a.''   [< L. ''apis'', a bee, + ''vorare'', devour.]   Bee-eating; feeding on bees.\n\n'''aplacental''' (ap-la̤-sen′ta̤l), ''a.''   [< NL. ''aplacentalis'', < Gr. ἀ- priv. (''a-''<sup>18</sup>) + ''placenta'', q. v.]   Having no placenta; implacental: applied to those mammals in which no placenta is developed during gestation. {{smaller|The aplacental mammals comprise the ''Monotremata'' and ''Marsupialia'', the two lowest orders of mammals, including the duck-mole, porcupine ant-eater, kangaroo, etc. The young are born at a much more immature stage of fetal development than in the placental mammals, and are so helpless that they are unable even to suck, and in most cases have to be fixed by the mother herself upon the teats, while the milk is forced into their mouths by a muscle which is spread over the mammary gland.}}\n\n'''Aplacentalia''' (ap″la̤-sen-tā′li-ä̤), ''n. pl.''   [NL., neut. pl. of ''aplacentalis'': see ''aplacental''.]   Same as ''Implacentalia''.\n\n'''Aplacentaria''' (ap″la̤-sen-tā′ri-ä̤), ''n. pl.''   [NL., neut. pl. of ''aplacentarius'', < Gr. ἀ- priv. (''a-''<sup>18</sup>) + ''placenta'', q. v. Cf. ''aplacental''.]   Same as ''Implacentalia''.\n\n'''aplanatic''' (ap-la̤-nat′ik), ''a.''   [Prop. ''aplanetic'', < Gr. ἀπλάνητος, not wandering, < ἀ- priv. + πλανητός, wandering: see ''planet''.]   Without aberration: in ''optics'', applied to a lens or combination of lenses, as in a telescope, which brings parallel rays to a focus without spherical or chromatic aberration.—{{smaller|'''Aplanatic line''', a Cartesian oval: so called because it is the section of a surface refracting light from one focus to another without aberration.}}\n\n'''aplanatically''' (ap-la̤-nat′i-ka̤l-i), ''adv.'' In an aplanatic manner; as regards aplanatism, or the absence of spherical aberration.\n\n'''aplanatism''' (a-plan′a̤-tizm), ''n.''   [< ''aplanat-ic'' + ''-ism''.]   In ''optics'', the condition of being free from spherical aberration.\n\n'''aplanetic''' (ap-la-net′ik), ''a.'' Same as ''aplanatic.''\n\n'''aplanogamete''' (ap″la-nō-gam′e-tē), ''n.''   [< Gr. ἀ- priv. + πλάνος, wandering, roaming, + γαμετή, a wife: see ''a''-<sup>18</sup> and ''planogamete.'']   In ''bot.'', a conjugating cell of the ''Conjugatæ'', in distinction from the ''planogamete'' (the ciliated and mobile zoöspore) of the ''Zoösporeæ.'' See ''gamete.''<noinclude><references/></noinclude>"
+}

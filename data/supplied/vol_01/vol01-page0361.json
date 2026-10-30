@@ -1,0 +1,237 @@
+{
+ "volume": 1,
+ "page_number": 361,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n360.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n360.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 733,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     71,
+     132,
+     2274,
+     171
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     71,
+     171,
+     813,
+     1218
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     71,
+     1218,
+     813,
+     2134
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     71,
+     2134,
+     813,
+     3089
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     71,
+     3089,
+     813,
+     3273
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     171,
+     1551,
+     1211
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1224,
+     174,
+     1547,
+     858
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     1211,
+     1551,
+     2147
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     2147,
+     1551,
+     3243
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     3243,
+     1551,
+     3273
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1551,
+     171,
+     2274,
+     1234
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1551,
+     1234,
+     2274,
+     2276
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1551,
+     2276,
+     2274,
+     3273
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|ascribe|335|ash}}",
+   "c1s1": "¶\n'''ascribe''' (a̤s-krīb′), ''v. t.''; pret. and pp. ''ascribed'', ppr. ''ascribing''. [Altered to ''ascribe'' (after L.) from early mod. E. ''ascrive'', < ME. ''ascriven'', < OF. ''ascrire'' (''ascriv-'') = It. ''ascrivere'', < L. ''ascribere'', annex by writing, add to a writing, enroll, enter in a list, impute, attribute, < ''ad'', to, + ''scribere'', write: see ''scribe''.] '''1†.''' To add in writing; append (one’s name) to a document, etc.; subscribe.\n{{smaller block|The ''ascribing'' of my name would . . . have substracted from . . . the weight of those discourses.\n{{right|''Nethersole'', Self-Cond., p. 3. (''N. E. D.'')}}}}\n'''2†.''' To inscribe or dedicate.\n{{smaller block|The secound pillor called Dorica, being ''ascribed'' to Hercules.\n{{right|''Shute'', Archit., C ij. b. (''N. E. D.'')}}}}\n'''3†.''' To enroll or register.\n{{smaller block|He would long since have been ''ascribed'' a member there.\n{{right|''Aubrey'', in Letters of Emin. Pers. (Bliss), II. 632. (''N. E. D.'')}}}}\n'''4.''' To attribute, impute, or refer, as to a cause or source; assign; set down: as, losses are often to be ''ascribed'' to imprudence.\n{{smaller block|This Speech is, I think, the finest that is ''ascribed'' to Satan in the whole Poem.\n{{right|''Addison'', Spectator, No. 321.}}\n\nBut many atrocious proceedings must, doubtless, be ''ascribed'' to heated imagination, to perverted principle, to a distaste for what was vulgar in morals, and a passion for what was startling and dubious.\n{{right|''Macaulay'', On History.}}}}\n'''5.''' To attribute, as a quality or an appurtenance; consider or allege to belong.\n{{smaller block|I . . . will ''ascribe'' righteousness to my Maker.\n{{right|Job xxxvi. 3.}}\n\nThey have ''ascribed'' unto David ten thousands, and to me they have ''ascribed'' but thousands.\n{{right|1 Sam. xviii. 8.}}}}",
+   "c1s2": "{{smaller|='''Syn.''' ''Attribute, Refer'', etc. See ''attribute''.}}\n\n¶\n'''ascript†''' (as′kript), ''a.'' [< L. ''ascriptus, adscriptus'', pp. of ''ascribere, adscribere'', annex by writing: see ''ascribe, adscript''.] Registered; enrolled.\n\n'''ascription''' (ạs-krip′shọn), ''n.'' [< L. ''ascriptio(n-)'', an addition in writing, lit. the act of ascribing, < ''ascribere'', pp. ''ascriptus'', add to a writing: see ''ascribe''.] '''1.''' The act of ascribing, imputing, or affirming to belong, to be due, etc.\n{{smaller block|Self-abnegations often repeated imply on the part of the actor a tacit ''ascription'' of relative selfishness to others who profit by the self-abnegations.\n{{right|''H. Spencer'', Data of Ethics, § 96.}}}}\n'''2.''' An expression ascribing; words in which one ascribes.\n{{smaller block|Offering up the ''ascriptions'' justly due to Him for such singular deliverances and blessings.\n{{right|''Lincoln'', in Raymond, p. 391.}}}}\nAlso rarely ''adscription.''\n\n'''ascriptitious''' (as-krip-tish′us), ''a.'' [< L. ''ascripticius'', enrolled as a citizen, soldier, etc. (''ascripticii servi'', slaves bound to the soil), < ''ascriptus'', pp. of ''ascribere'', enroll: see ''ascribe, ascript''.] '''1.''' Bound or attached to the soil: applied to villeins under the feudal system, who were annexed to the freehold and transferable with it. —'''2.''' Added, as to a list; enrolled.\n{{smaller block|An ''ascriptitious'' and supernumerary god.\n{{right|''Farindon'', Sermons, p. 82.}}}}",
+   "c1s3": "¶\nAlso rarely ''adscriptitious.''\n\n'''ascry†''', ''v.'' [Early mod. E., < ME. ''ascrien'', ''ascryen'', ''askryen'', < AF. *''ascrier'' (later ME. ''escrien'', < OF. ''escrier'', mod. F. ''écrier''), < ''es-'' (< L. ''ex''), out, + ''crier'', cry. Cf. ''escry'', and by apheresis ''scry'', doublet of ''ascry'': see ''as-''<sup>3</sup>, ''es-''<sup>1</sup>, and ''cry''.] '''I.''' ''trans.'' '''1.''' To call forth or out; call upon; challenge.—'''2.''' To descry.\n\n'''II.''' ''intrans.'' To cry out, shout, or exclaim.\n\n'''ascry†''', ''n.'' [< ''ascry'', ''v.''] Outcry; clamor; shouting.\n{{smaller block|''Ascry'' aros at skarmyssh al withoute.\n{{right|''Chaucer'', Troilus, ii. 611.}}}}\n\n'''ascula''' (as′kū-lä̤), ''n.''; pl. ''asculæ'' (-lē). [NL., dim. of ''ascus''.] '''1.''' That stage of the young of sponges (as ''Olynthus'', ''Sycon'', ''Haliphysema'') in which, after ceasing to be a free-swimming embryo, and before it has changed into adult form by the development of spiculæ in the ectoderm, or other modifications, it becomes attached to some support. ''Haeckel.''—'''2.''' The first period of attachment of certain sponges, namely, that in which the sponge has lost or is losing its collar, opening the primitive cloacal collar, and forming the first central cavity without lateral ampullæ. It corresponds to the protospongian stage of Haeckel. ''Hyatt.''\n\n'''ascus''' (as′kus), ''n.''; pl. ''asci'' (as′ī). [NL., < Gr. ἀσκός, a leathern bag, bottle, bladder, wine-skin: see ''Ascidium'', ''Ascidia'', etc.] '''1.''' In ''bot.'', the",
+   "c1s4": "spore-case of lichens and ascomycetous fungi, consisting of a single cell, usually the swollen terminal cell of a branch of a hypha, from the protoplasm of which the spores (typically 8) are produced. Also called ''ascidium'' and ''theca.''—'''2.''' In ''archæol.'', same as ''askos''.",
+   "c2s1": "¶\n[[FIGURE]]\n{{c|{{smaller|Asci.}}}}\n{{c|{{smaller|''A'', Section of ''Peziza convexula'', magnified: ''s'', tissue of the fungus, surrounding by its margin (''g'') the hymenium (''h''), which contains the asci. ''B'', A group of asci (''a-f''), highly magnified; ''sh'', subhymenial layer of hyphæ. (From Sachs’s “Lehrbuch der Botanik.”)}}}}\n\n'''ascyphous''' (as′i-fus), ''a.'' [< Gr. ἄσκυφος, without a cup, < ἀ- priv. + σκύφος, a cup.] In ''bot.'', having no scyphi: applied to lichens without cup-shaped bodies (scyphi) bearing the organs of fructification.\n\n'''as-ducat''' (as′duk″at), ''n.'' An old German unit of weight, used in Saxony, equal to 5.2875 centigrams, or five sixths of a troy grain.\n\n'''asea''' (ạ-sē′), ''prep. phr.'' as ''adv.'' [< ''a''<sup>3</sup> + ''sea.'' Cf. ''aland''<sup>1</sup>.] At sea; on the sea; to the sea.\n\n'''aseel''' (ạ-sēl′), ''n.'' [E. Ind.] A variety of the common hen, similar to the Malay. {{smaller|It is of medium size, and is esteemed in the East Indies for its pugnacity.}}\n\n'''aseismatic''' (ạ-sīs-mat′ik), ''a.'' [< ''a-''<sup>18</sup> + ''seismatic.''] Not seismatic; free from shock; mitigating the effects of earthquake-shocks: applied to certain contrivances designed to secure stability, as of lighthouses and other structures during earthquakes: as, ''aseismatic'' joints; ''aseismatic'' tables.",
+   "c2s2": "¶\n'''aseity''' (a-sē′i-ti), ''n.'' [= F. ''aséité'', < ML. ''aseitas'', the state of being of one’s self, independent existence, < L. ''a se'', of one’s self: ''a'' for ''ab'', of, from; ''se'', self: see ''se''.] The mode of being of that which is underived from anything else; independent existence; existence by self-origination.\n\n{{smaller block|By what mysterious light have you discovered that ''aseity'' is entail’d on matter?\n{{right|''Gentleman Instructed'' (ed. 1732), p. 425.}}}}\n\n{{smaller block|The absolute being and ''aseity'' of God. {{right|''W. R. Smith.''}}}}\n\n'''Aselli''', ''n.'' Plural of ''Asellus'', 1.\n\n'''asellid''' (a-sel′id), ''n.'' An isopod of the family ''Asellidæ''.\n\n'''Asellidæ''' (a-sel′i-dē), ''n. pl.'' [NL., < ''Asellus'' + ''-idæ''.] A family of isopodous crustaceans, of which the genus ''Asellus'' is the type. {{smaller|It also contains the genus ''Limnoria'', of which the species ''L. terebrans'', the gribble, is destructive to submerged wood. Other genera are ''Iæra'' and ''Munna''. Its various forms inhabit both fresh and salt water.}}\n\n'''Asellota''' (as-e-lō′tä̤), ''n. pl.'' [NL., < ''Asellus'' + ''-ota''.] A synonym of ''Asellidæ''.\n\n'''Asellus''' (a-sel′us), ''n.'' [L., dim. of ''asinus'', an ass: see ''ass''<sup>1</sup>.] '''1.''' [Pl. ''Aselli'' (-ī).] A name given to each of the two stars γ and δ Cancri, lying east of the quadrangle of that constellation.—'''2.''' [NL.] The typical genus of the family ''Asellidæ''. ''A. aquaticus'', the water hog-louse, is a common form in fresh water.",
+   "c2s3": "¶\n'''asemia''' (a-sē′mi-ä̤), ''n.'' [NL., < Gr. ἀσημος, having or giving no sign, < ἀ- priv. + σῆμα, a sign.] In ''pathol.'', the loss of the power of forming or understanding any sign or symbol of thought, whether spoken, written, or acted. Also called ''asymbolia.''\n\n'''asepsis''' (a-sep′sis), ''n.'' [NL., < Gr. ἀ- priv. + σῆψις, putrefaction.] Absence of living germs of disease, putrefaction, or fermentation.\n\n'''asepta''' (a-sep′tä̤), ''n. pl.'' [NL., neut. pl. of ''aseptus'', < Gr. ἄσηπτος, not liable to decay: see ''aseptic.''] Things not liable to putrefy.\n\n'''aseptic''' (a-sep′tik), ''a.'' [< Gr. ἄσηπτος, not liable to decay, < ἀ- priv. + σηπτός, septic: see ''septic.''] Free from the living germs of disease, fermentation, or putrefaction.\n\n'''asepticity''' (as-ep-tis′i-ti), ''n.'' [< ''aseptic'' + ''-ity.''] The character or quality of being aseptic.\n{{smaller block|These are absence of damp soil, ''asepticity'' of the air, and dryness of the atmosphere.\n{{right|''Med. News'', XLVII.}}}}\n\n'''asepticize''' (a-sep′ti-sīz), ''v. t.''; pret. and pp. ''asepticized'', ppr. ''asepticizing.'' [< ''aseptic'' + ''-ize.''] To render free from living germs of disease, fermentation, or putrefaction.\n\n'''asexual''' (a-sek′sū-al), ''a.'' [< Gr. ἀ- priv. (''a''-<sup>18</sup>) + ''sexual.''] '''1.''' Not sexual; not sexed; having no sex, as a species or other group of animals which have no sexual system or organs.—'''2.''' Neuter; being of neither sex, as some individuals of species in which other individuals are male or female, or as some stages in the growth of individuals which later develop into male or female.—'''3.''' Effected or produced by other than sexual processes; agamic; agamo-",
+   "c2s4": "genetic: as, ''asexual'' reproduction.",
+   "c3s1": "¶\n{{smaller block|Little colonies of these parasites, the Cuninæ, ultimately develop into medusæ. Here is an ''asexual'' multiplication, but no true alternation of generation. ''Science'', VII. 264a.}}\n\n{{smaller block|'''Asexual reproduction''', any process of propagation that is not effected by means of sexual organs, as, in ''bot.'', in many of the cryptogams, by cell-division, etc., and in phanerogams when propagation is carried on by buds, offshoots, bulbs, etc.}}\n\n'''asexually''' (a-sek′s̮ū-al-i), ''adv.'' In an asexual manner; agamically; agamogenetically.\n{{smaller block|For what are the phænomena of Agamogenesis, stated generally? An impregnated egg develops into an asexual form, A; this gives rise ''asexually'' to a second form or forms, B, more or less different from A. B may multiply ''asexually'' again; in the simpler cases, however, it does not, but, acquiring sexual characters, produces impregnated eggs from whence A once more arises.\n{{right|''Huxley'', Lay Sermons, p. 311.}}}}\n\n'''Asgard''' (as′gärd), ''n.'' [< Icel. ''āsgardhr'', < ''āss'', a god, + ''gardhr'', an inclosure, = E. ''yard''<sup>2</sup>: see ''As''<sup>3</sup>, ''garth''<sup>1</sup>, and ''yard''<sup>2</sup>.] In ''Norse myth.'', the abode of the twelve gods and twenty-six goddesses, and of heroes slain in battle, formed of the eyebrows of the giant Ymer. {{smaller|In the midst of Asgard were the plain of Ida (Idavöllr), where the gods assembled in council, and Odin’s throne (Hlidskjalf). The several gods and goddesses had their own dwellings, and Valhalla (Odin’s hall), Gladsheim (the special hall of the gods), and Vingolf (that of the goddesses) were common meeting-places for them all. Asgard was connected with Midgard (the earth) by the bridge Bifrost.}}\n\n'''ash<sup>1</sup>''' (ash), ''n.'' and ''a.'' [< ME. ''asch'', ''assh'', ''esche'', etc., < AS. ''æsc'' = D. ''esch'' = OHG. ''asc'', MHG. ''asch'', m., G. ''esche'', f., = Icel. ''askr'' = Dan. Sw. ''ask'' = OBulg. ''yasika'' = Lith. ''usis'', the ash.] '''I.''' ''n.'' '''1.''' In ''bot.'': (''a'') The popular name of trees belonging to the genus ''Fraxinus'' (which see). {{smaller|The}}",
+   "c3s2": "{{smaller|common ash of Europe, ''F. excelsior'', is native through the greater part of Europe, northern Africa, and some parts of Asia. It is a handsome ornamental tree, and is exceedingly valuable for its timber, which is close-grained and remarkably tough and elastic. It was therefore in early times the chief material in the construction of bows and spears, and is now largely used wherever these qualities are needed. In its younger state the tree is called ground-ash, and a variety is well known in cultivation as weeping-ash. The flowering ash, ''F. Ornus'', is a small tree of southern Europe, sometimes cultivated for ornament. It yields a saccharine exudation, which forms the best known and most important of the various kinds of manna. In the United States several species of the genus are commonly known under the name, as the black ash, ground-ash, or hoop-ash, ''F. sambucifolia''; the blue ash, ''F. quadrangulata''; the green ash, ''F. viridis''; the red ash, ''F. pubescens''; the water-ash, ''F. platycarpa''; and the white ash, ''F. Americana''. The last is the most valuable; its wood closely resembles that of the European ash, and is used for similar purposes.}} (''b'') The name (with some adjunct) of various trees or shrubs of other genera, generally from some resemblance in foliage or qualities of the wood to the common ash. (See below.) (''c'') Also, in parts of England, the name of some herbaceous plants, chiefly umbelliferous, as the ground-ash, or ashweed, ''Ægopodium Podagraria'' and ''Angelica sylvestris'', and the sweet ash, ''Anthriscus sylvestris''.—'''2.''' The wood of the ash-tree; hence, something made of ash, as the shaft of a lance or spear.\n{{smaller block|My grained ''ash'' a hundred times hath broke.\n{{right|''Shak.'', Cor., iv. 5.}}}}\n\n{{smaller|'''Ash of Jerusalem,''' an old English name for woad or dyer’s weed, ''Isatis tinctoria'' and ''Reseda luteola''.—'''Bitter ash,''' a West Indian name of the quassia-tree, ''Picræna excelsa''.—'''Cape ash,''' the ''Ekebergia capensis'', a large meliaceous tree of southern Africa, furnishing valuable timber.—}}",
+   "c3s3": "{{smaller|'''Poison ash''', the poison sumac, ''Rhus venenata''.—'''Prickly ash''', a name given to species of ''Xanthoxylum'' (''X. Americanum'', ''X. Clava-Herculis'', the latter also called ''sea-ash'').—'''Quaking ash''', in Scotland, the aspen.—'''Red ash''', of Australia, the ''Alphitonia excelsa'', a tall rhamnaceous tree with very hard wood.—'''Wild ash''', an old English name for the mountain-ash.—'''Yellow ash''', a leguminous tree of the United States, ''Cladrastis tinctoria''. See ''yellow-wood''. (See also ''hoop-ash'', ''mountain-ash'', ''wafer-ash''.)}}\n\n'''II.''' ''a.'' Pertaining to or like the ash; made of ash.\n\n'''ash'''<sup>2</sup> (ash), ''n.'' [E. dial. pl. ''axen'', Sc. ''as'', ''ass'', pl. ''asses''; < ME. ''ash'', ''ashe'', ''asche'', ''aische'', ''esche'', ''asse'', ''aske'', ''axe'', pl. ''ashes'', ''asches'', ''askes'', ''axes'', and with older term. ''ashen'', ''aschen'', ''asken'', ''axen'', < AS. ''asce'', ''æsce'', ''axe'', pl. ''ascan'', ''æscan'', ''axan'', ''æxan'', = D. ''asch'' = OHG. ''asga'', ''asca'', MHG. ''asche'', ''esche'', G. ''asche'' = Icel. Sw. ''aska'' = Dan. ''aske'' = Goth. ''azgō'', ash.] '''1.''' What remains of a body that is burned; the incombustible residue of organic substances (animal or vegetable) remaining after combustion; in common usage, any incombustible residue of materials used as fuel: usually in the plural. {{smaller|As a commercial term, the word generally means the ashes of vegetable substances, from which are extracted the alkaline matters called potash, pearlash, kelp, barilla, etc.}}\n{{smaller block|The ''ash'' of tobacco. {{right|''Donne'', Polydoron (1631), p. 142.}}\nA residue consisting of carbon, or carbon and ''ash''. {{right|''Ure''.}}}}\n'''2.''' Fine material thrown out of a volcano in eruption. {{smaller|It is not, like ordinary ashes, a residuum of the combustion of a substance containing carbonaceous mingled with inorganic matter, but is finely pulverized lava, derived in part from the actual tearing asunder of}}"
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0361 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1236,
+     186,
+     1535,
+     846
+    ],
+    "caption": [
+     1229,
+     858,
+     1537,
+     1091
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1223,
+     178,
+     1374,
+     885
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4310,
+    "output_tokens": 88,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9504,
+    "output_tokens": 10589,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c2f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|ascribe|335|ash}}</noinclude>{{nop}}'''ascribe''' (a̤s-krīb′), ''v. t.''; pret. and pp. ''ascribed'', ppr. ''ascribing''.   [Altered to ''ascribe'' (after L.) from early mod. E. ''ascrive'', < ME. ''ascriven'', < OF. ''ascrire'' (''ascriv-'') = It. ''ascrivere'', < L. ''ascribere'', annex by writing, add to a writing, enroll, enter in a list, impute, attribute, < ''ad'', to, + ''scribere'', write: see ''scribe''.]   '''1†.''' To add in writing; append (one’s name) to a document, etc.; subscribe.\n{{smaller block|The ''ascribing'' of my name would . . . have substracted from . . . the weight of those discourses.\n{{right|''Nethersole'', Self-Cond., p. 3. (''N. E. D.'')}}}}\n'''2†.''' To inscribe or dedicate.\n{{smaller block|The secound pillor called Dorica, being ''ascribed'' to Hercules.\n{{right|''Shute'', Archit., C ij. b. (''N. E. D.'')}}}}\n'''3†.''' To enroll or register.\n{{smaller block|He would long since have been ''ascribed'' a member there.\n{{right|''Aubrey'', in Letters of Emin. Pers. (Bliss), II. 632. (''N. E. D.'')}}}}\n'''4.''' To attribute, impute, or refer, as to a cause or source; assign; set down: as, losses are often to be ''ascribed'' to imprudence.\n{{smaller block|This Speech is, I think, the finest that is ''ascribed'' to Satan in the whole Poem.\n{{right|''Addison'', Spectator, No. 321.}}}}\n{{smaller block|But many atrocious proceedings must, doubtless, be ''ascribed'' to heated imagination, to perverted principle, to a distaste for what was vulgar in morals, and a passion for what was startling and dubious.\n{{right|''Macaulay'', On History.}}}}\n'''5.''' To attribute, as a quality or an appurtenance; consider or allege to belong.\n{{smaller block|I . . . will ''ascribe'' righteousness to my Maker.\n{{right|Job xxxvi. 3.}}}}\n{{smaller block|They have ''ascribed'' unto David ten thousands, and to me they have ''ascribed'' but thousands.\n{{right|1 Sam. xviii. 8.}}}}\n{{smaller block|='''Syn.''' ''Attribute, Refer'', etc. See ''attribute''.}}\n\n'''ascript†''' (as′kript), ''a.''   [< L. ''ascriptus, adscriptus'', pp. of ''ascribere, adscribere'', annex by writing: see ''ascribe, adscript''.]   Registered; enrolled.\n\n'''ascription''' (ạs-krip′shọn), ''n.''   [< L. ''ascriptio(n-)'', an addition in writing, lit. the act of ascribing, < ''ascribere'', pp. ''ascriptus'', add to a writing: see ''ascribe''.]   '''1.''' The act of ascribing, imputing, or affirming to belong, to be due, etc.\n{{smaller block|Self-abnegations often repeated imply on the part of the actor a tacit ''ascription'' of relative selfishness to others who profit by the self-abnegations.\n{{right|''H. Spencer'', Data of Ethics, § 96.}}}}\n'''2.''' An expression ascribing; words in which one ascribes.\n{{smaller block|Offering up the ''ascriptions'' justly due to Him for such singular deliverances and blessings.\n{{right|''Lincoln'', in Raymond, p. 391.}}}}\nAlso rarely ''adscription.''\n\n'''ascriptitious''' (as-krip-tish′us), ''a.''   [< L. ''ascripticius'', enrolled as a citizen, soldier, etc. (''ascripticii servi'', slaves bound to the soil), < ''ascriptus'', pp. of ''ascribere'', enroll: see ''ascribe, ascript''.]   '''1.''' Bound or attached to the soil: applied to villeins under the feudal system, who were annexed to the freehold and transferable with it. —'''2.''' Added, as to a list; enrolled.\n{{smaller block|An ''ascriptitious'' and supernumerary god.\n{{right|''Farindon'', Sermons, p. 82.}}}}\n\nAlso rarely ''adscriptitious.''\n\n'''ascry†''', ''v.''   [Early mod. E., < ME. ''ascrien'', ''ascryen'', ''askryen'', < AF. *''ascrier'' (later ME. ''escrien'', < OF. ''escrier'', mod. F. ''écrier''), < ''es-'' (< L. ''ex''), out, + ''crier'', cry. Cf. ''escry'', and by apheresis ''scry'', doublet of ''ascry'': see ''as-''<sup>3</sup>, ''es-''<sup>1</sup>, and ''cry''.]   '''I.''' ''trans.'' '''1.''' To call forth or out; call upon; challenge.—'''2.''' To descry.\n\n'''II.''' ''intrans.'' To cry out, shout, or exclaim.\n\n'''ascry†''', ''n.''   [< ''ascry'', ''v.'']   Outcry; clamor; shouting.\n{{smaller block|''Ascry'' aros at skarmyssh al withoute.\n{{right|''Chaucer'', Troilus, ii. 611.}}}}\n\n'''ascula''' (as′kū-lä̤), ''n.''; pl. ''asculæ'' (-lē).   [NL., dim. of ''ascus''.]   '''1.''' That stage of the young of sponges (as ''Olynthus'', ''Sycon'', ''Haliphysema'') in which, after ceasing to be a free-swimming embryo, and before it has changed into adult form by the development of spiculæ in the ectoderm, or other modifications, it becomes attached to some support.   ''Haeckel.''—'''2.''' The first period of attachment of certain sponges, namely, that in which the sponge has lost or is losing its collar, opening the primitive cloacal collar, and forming the first central cavity without lateral ampullæ. It corresponds to the protospongian stage of Haeckel.   ''Hyatt.''\n\n'''ascus''' (as′kus), ''n.''; pl. ''asci'' (as′ī).   [NL., < Gr. ἀσκός, a leathern bag, bottle, bladder, wine-skin: see ''Ascidium'', ''Ascidia'', etc.]   '''1.''' In ''bot.'', the spore-case of lichens and ascomycetous fungi, consisting of a single cell, usually the swollen terminal cell of a branch of a hypha, from the protoplasm of which the spores (typically 8) are produced. Also called ''ascidium'' and ''theca.''—'''2.''' In ''archæol.'', same as ''askos''.\n\n{{img float|file=century v01 p0361 c2f1.png|width=159px|align=right|cap={{smaller|Asci.}}<br />{{smaller|''A'', Section of ''Peziza convexula'', magnified: ''s'', tissue of the fungus, surrounding by its margin (''g'') the hymenium (''h''), which contains the asci.   ''B'', A group of asci (''a-f''), highly magnified; ''sh'', subhymenial layer of hyphæ. (From Sachs’s “Lehrbuch der Botanik.”)}}}}\n\n'''ascyphous''' (as′i-fus), ''a.''   [< Gr. ἄσκυφος, without a cup, < ἀ- priv. + σκύφος, a cup.]   In ''bot.'', having no scyphi: applied to lichens without cup-shaped bodies (scyphi) bearing the organs of fructification.\n\n'''as-ducat''' (as′duk″at), ''n.'' An old German unit of weight, used in Saxony, equal to 5.2875 centigrams, or five sixths of a troy grain.\n\n'''asea''' (ạ-sē′), ''prep. phr.'' as ''adv.''   [< ''a''<sup>3</sup> + ''sea.'' Cf. ''aland''<sup>1</sup>.]   At sea; on the sea; to the sea.\n\n'''aseel''' (ạ-sēl′), ''n.''   [E. Ind.]   A variety of the common hen, similar to the Malay. {{smaller|It is of medium size, and is esteemed in the East Indies for its pugnacity.}}\n\n'''aseismatic''' (ạ-sīs-mat′ik), ''a.''   [< ''a-''<sup>18</sup> + ''seismatic.'']   Not seismatic; free from shock; mitigating the effects of earthquake-shocks: applied to certain contrivances designed to secure stability, as of lighthouses and other structures during earthquakes: as, ''aseismatic'' joints; ''aseismatic'' tables.\n\n'''aseity''' (a-sē′i-ti), ''n.''   [= F. ''aséité'', < ML. ''aseitas'', the state of being of one’s self, independent existence, < L. ''a se'', of one’s self: ''a'' for ''ab'', of, from; ''se'', self: see ''se''.]   The mode of being of that which is underived from anything else; independent existence; existence by self-origination.\n\n{{smaller block|By what mysterious light have you discovered that ''aseity'' is entail’d on matter?\n{{right|''Gentleman Instructed'' (ed. 1732), p. 425.}}}}\n\n{{smaller block|The absolute being and ''aseity'' of God. {{right|''W. R. Smith.''}}}}\n\n'''Aselli''', ''n.'' Plural of ''Asellus'', 1.\n\n'''asellid''' (a-sel′id), ''n.'' An isopod of the family ''Asellidæ''.\n\n'''Asellidæ''' (a-sel′i-dē), ''n. pl.''   [NL., < ''Asellus'' + ''-idæ''.]   A family of isopodous crustaceans, of which the genus ''Asellus'' is the type. {{smaller|It also contains the genus ''Limnoria'', of which the species ''L. terebrans'', the gribble, is destructive to submerged wood. Other genera are ''Iæra'' and ''Munna''. Its various forms inhabit both fresh and salt water.}}\n\n'''Asellota''' (as-e-lō′tä̤), ''n. pl.''   [NL., < ''Asellus'' + ''-ota''.]   A synonym of ''Asellidæ''.\n\n'''Asellus''' (a-sel′us), ''n.''   [L., dim. of ''asinus'', an ass: see ''ass''<sup>1</sup>.]   '''1.''' [Pl. ''Aselli'' (-ī).] A name given to each of the two stars γ and δ Cancri, lying east of the quadrangle of that constellation.—'''2.''' [NL.] The typical genus of the family ''Asellidæ''.   ''A. aquaticus'', the water hog-louse, is a common form in fresh water.\n\n'''asemia''' (a-sē′mi-ä̤), ''n.''   [NL., < Gr. ἀσημος, having or giving no sign, < ἀ- priv. + σῆμα, a sign.]   In ''pathol.'', the loss of the power of forming or understanding any sign or symbol of thought, whether spoken, written, or acted. Also called ''asymbolia.''\n\n'''asepsis''' (a-sep′sis), ''n.''   [NL., < Gr. ἀ- priv. + σῆψις, putrefaction.]   Absence of living germs of disease, putrefaction, or fermentation.\n\n'''asepta''' (a-sep′tä̤), ''n. pl.''   [NL., neut. pl. of ''aseptus'', < Gr. ἄσηπτος, not liable to decay: see ''aseptic.'']   Things not liable to putrefy.\n\n'''aseptic''' (a-sep′tik), ''a.''   [< Gr. ἄσηπτος, not liable to decay, < ἀ- priv. + σηπτός, septic: see ''septic.'']   Free from the living germs of disease, fermentation, or putrefaction.\n\n'''asepticity''' (as-ep-tis′i-ti), ''n.''   [< ''aseptic'' + ''-ity.'']   The character or quality of being aseptic.\n{{smaller block|These are absence of damp soil, ''asepticity'' of the air, and dryness of the atmosphere.\n{{right|''Med. News'', XLVII.}}}}\n\n'''asepticize''' (a-sep′ti-sīz), ''v. t.''; pret. and pp. ''asepticized'', ppr. ''asepticizing.''   [< ''aseptic'' + ''-ize.'']   To render free from living germs of disease, fermentation, or putrefaction.\n\n'''asexual''' (a-sek′sū-al), ''a.''   [< Gr. ἀ- priv. (''a''-<sup>18</sup>) + ''sexual.'']   '''1.''' Not sexual; not sexed; having no sex, as a species or other group of animals which have no sexual system or organs.—'''2.''' Neuter; being of neither sex, as some individuals of species in which other individuals are male or female, or as some stages in the growth of individuals which later develop into male or female.—'''3.''' Effected or produced by other than sexual processes; agamic; agamogenetic: as, ''asexual'' reproduction.\n\n{{smaller block|Little colonies of these parasites, the Cuninæ, ultimately develop into medusæ. Here is an ''asexual'' multiplication, but no true alternation of generation.\n{{right|''Science'', VII. 264a.}}}}\n\n{{smaller block|'''Asexual reproduction''', any process of propagation that is not effected by means of sexual organs, as, in ''bot.'', in many of the cryptogams, by cell-division, etc., and in phanerogams when propagation is carried on by buds, offshoots, bulbs, etc.}}\n\n'''asexually''' (a-sek′s̮ū-al-i), ''adv.'' In an asexual manner; agamically; agamogenetically.\n{{smaller block|For what are the phænomena of Agamogenesis, stated generally? An impregnated egg develops into an asexual form, A; this gives rise ''asexually'' to a second form or forms, B, more or less different from A. B may multiply ''asexually'' again; in the simpler cases, however, it does not, but, acquiring sexual characters, produces impregnated eggs from whence A once more arises.\n{{right|''Huxley'', Lay Sermons, p. 311.}}}}\n\n'''Asgard''' (as′gärd), ''n.''   [< Icel. ''āsgardhr'', < ''āss'', a god, + ''gardhr'', an inclosure, = E. ''yard''<sup>2</sup>: see ''As''<sup>3</sup>, ''garth''<sup>1</sup>, and ''yard''<sup>2</sup>.]   In ''Norse myth.'', the abode of the twelve gods and twenty-six goddesses, and of heroes slain in battle, formed of the eyebrows of the giant Ymer. {{smaller|In the midst of Asgard were the plain of Ida (Idavöllr), where the gods assembled in council, and Odin’s throne (Hlidskjalf). The several gods and goddesses had their own dwellings, and Valhalla (Odin’s hall), Gladsheim (the special hall of the gods), and Vingolf (that of the goddesses) were common meeting-places for them all. Asgard was connected with Midgard (the earth) by the bridge Bifrost.}}\n\n'''ash<sup>1</sup>''' (ash), ''n.'' and ''a.''   [< ME. ''asch'', ''assh'', ''esche'', etc., < AS. ''æsc'' = D. ''esch'' = OHG. ''asc'', MHG. ''asch'', m., G. ''esche'', f., = Icel. ''askr'' = Dan. Sw. ''ask'' = OBulg. ''yasika'' = Lith. ''usis'', the ash.]   '''I.''' ''n.'' '''1.''' In ''bot.'': (''a'') The popular name of trees belonging to the genus ''Fraxinus'' (which see). {{smaller|The common ash of Europe, ''F. excelsior'', is native through the greater part of Europe, northern Africa, and some parts of Asia. It is a handsome ornamental tree, and is exceedingly valuable for its timber, which is close-grained and remarkably tough and elastic. It was therefore in early times the chief material in the construction of bows and spears, and is now largely used wherever these qualities are needed. In its younger state the tree is called ground-ash, and a variety is well known in cultivation as weeping-ash. The flowering ash, ''F. Ornus'', is a small tree of southern Europe, sometimes cultivated for ornament. It yields a saccharine exudation, which forms the best known and most important of the various kinds of manna. In the United States several species of the genus are commonly known under the name, as the black ash, ground-ash, or hoop-ash, ''F. sambucifolia''; the blue ash, ''F. quadrangulata''; the green ash, ''F. viridis''; the red ash, ''F. pubescens''; the water-ash, ''F. platycarpa''; and the white ash, ''F. Americana''. The last is the most valuable; its wood closely resembles that of the European ash, and is used for similar purposes.}} (''b'') The name (with some adjunct) of various trees or shrubs of other genera, generally from some resemblance in foliage or qualities of the wood to the common ash. (See below.) (''c'') Also, in parts of England, the name of some herbaceous plants, chiefly umbelliferous, as the ground-ash, or ashweed, ''Ægopodium Podagraria'' and ''Angelica sylvestris'', and the sweet ash, ''Anthriscus sylvestris''.—'''2.''' The wood of the ash-tree; hence, something made of ash, as the shaft of a lance or spear.\n{{smaller block|My grained ''ash'' a hundred times hath broke.\n{{right|''Shak.'', Cor., iv. 5.}}}}\n\n{{smaller|'''Ash of Jerusalem,''' an old English name for woad or dyer’s weed, ''Isatis tinctoria'' and ''Reseda luteola''.—'''Bitter ash,''' a West Indian name of the quassia-tree, ''Picræna excelsa''.—'''Cape ash,''' the ''Ekebergia capensis'', a large meliaceous tree of southern Africa, furnishing valuable timber.— '''Poison ash''', the poison sumac, ''Rhus venenata''.—'''Prickly ash''', a name given to species of ''Xanthoxylum'' (''X. Americanum'', ''X. Clava-Herculis'', the latter also called ''sea-ash'').—'''Quaking ash''', in Scotland, the aspen.—'''Red ash''', of Australia, the ''Alphitonia excelsa'', a tall rhamnaceous tree with very hard wood.—'''Wild ash''', an old English name for the mountain-ash.—'''Yellow ash''', a leguminous tree of the United States, ''Cladrastis tinctoria''. See ''yellow-wood''. (See also ''hoop-ash'', ''mountain-ash'', ''wafer-ash''.)}}\n\n'''II.''' ''a.'' Pertaining to or like the ash; made of ash.\n\n'''ash'''<sup>2</sup> (ash), ''n.''   [E. dial. pl. ''axen'', Sc. ''as'', ''ass'', pl. ''asses''; < ME. ''ash'', ''ashe'', ''asche'', ''aische'', ''esche'', ''asse'', ''aske'', ''axe'', pl. ''ashes'', ''asches'', ''askes'', ''axes'', and with older term. ''ashen'', ''aschen'', ''asken'', ''axen'', < AS. ''asce'', ''æsce'', ''axe'', pl. ''ascan'', ''æscan'', ''axan'', ''æxan'', = D. ''asch'' = OHG. ''asga'', ''asca'', MHG. ''asche'', ''esche'', G. ''asche'' = Icel. Sw. ''aska'' = Dan. ''aske'' = Goth. ''azgō'', ash.]   '''1.''' What remains of a body that is burned; the incombustible residue of organic substances (animal or vegetable) remaining after combustion; in common usage, any incombustible residue of materials used as fuel: usually in the plural. {{smaller|As a commercial term, the word generally means the ashes of vegetable substances, from which are extracted the alkaline matters called potash, pearlash, kelp, barilla, etc.}}\n{{smaller block|The ''ash'' of tobacco. {{right|''Donne'', Polydoron (1631), p. 142.}}}}\n{{smaller block|A residue consisting of carbon, or carbon and ''ash''. {{right|''Ure''.}}}}\n'''2.''' Fine material thrown out of a volcano in eruption. {{smaller|It is not, like ordinary ashes, a residuum of the combustion of a substance containing carbonaceous mingled with inorganic matter, but is finely pulverized lava, derived in part from the actual tearing asunder of}}<noinclude><references/></noinclude>"
+}

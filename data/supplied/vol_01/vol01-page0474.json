@@ -1,0 +1,202 @@
+{
+ "volume": 1,
+ "page_number": 474,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n473.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n473.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 744,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     85,
+     132,
+     2312,
+     173
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     85,
+     173,
+     828,
+     1132
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     85,
+     1132,
+     828,
+     2205
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     85,
+     2205,
+     828,
+     3273
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     828,
+     173,
+     1581,
+     1259
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     828,
+     1259,
+     1581,
+     2312
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     828,
+     2312,
+     1581,
+     3273
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1581,
+     173,
+     2312,
+     1147
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1627,
+     173,
+     2251,
+     560
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1581,
+     1147,
+     2312,
+     2230
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1581,
+     2230,
+     2312,
+     3273
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|barbarianize|448|barbel}}",
+   "c1s1": "¶\n'''barbarianize''' (bär-bā′ri-an-īz), ''v. t.''; pret. and pp. ''barbarianized'', ppr. ''barbarianizing''. To make barbarian; barbarize.\n\n'''barbaric''' (bär-bar′ik), ''a.'' [< L. ''barbaricus'', < Gr. βαρβαρικός, foreign, barbaric, < βάρβαρος, barbarous: see ''barbarous''.] '''1†.''' Foreign.\n{{smaller block|<poem>The gorgeous east with richest hand\nShowers on her kings ''Barbaric'' pearl and gold.</poem>\n{{right|''Milton'', P. L., ii. 4.}}}}\n'''2.''' Uncivilized; barbarian: as, “''barbaric'' or Gothic invaders,” ''T. Warton'', On Milton’s Smaller Poems.—'''3.''' Of, pertaining to, or characteristic of barbarians or their art; hence, ornate without being in accordance with cultivated taste; wildly rich or magnificent.\n{{smaller block|We are by no means insensible . . . to the wild and ''barbaric'' melody.\n{{right|''Macaulay.''}}\nHis plans were bold and fiery, and his conceptions glowed with ''barbaric'' lustre.\n{{right|''Poe'', Tales, I. 341.}}}}\n='''Syn.''' ''Barbarian'', ''Barbarous'', ''Barbaric''. See ''barbarian''.\n\n'''barbarically''' (bär-bar′i-kal-i), ''adv.'' In a barbaric manner; after the fashion of barbarians or uncivilized persons.\n\n'''barbaris''' (bär′ba-ris), ''n.'' In ''logic'', a mnemonic name for the syllogistic mood baralipton: used by some later nominalists. See ''mood''<sup>2</sup>.\n\n'''barbarisation, barbarise.''' See ''barbarization'', ''barbarize''.\n\n'''barbarism''' (bär′ba-rizm), ''n.'' [= F. ''barbarisme'', < L. ''barbarismus'', < Gr. βαρβαρισμός, the use of",
+   "c1s2": "a foreign, or misuse of one’s native, tongue, < βαρβαρίζειν, speak like a foreigner or barbarian: see ''barbarize.''] '''1.''' An offense against purity of style or language; originally, the mixing of foreign words and phrases in Latin or Greek; hence, the use of words or forms not made according to the accepted usages of a language: limited by some modern writers on rhetoric to an offense against the accepted rules of derivation or inflection, as ''hisn'' or ''hern'' for ''his'' or ''her'', ''gooses'' for ''geese'', ''goodest'' for ''best'', ''pled'' for ''pleaded'', ''proven'' for ''proved''.—'''2.''' A word or form so used; an expression not made in accordance with the proper usages of a language.\n{{smaller block|The Greeks were the first that branded a foreign term in any of their writers with the odious name of ''barbarism.''\n{{right|''G. Campbell.''}}\nA ''barbarism'' may be in one word; a solecism must be of more.\n{{right|''Johnson.''}}}}\n'''3.''' An uncivilized state or condition; want of civilization; rudeness of life resulting from ignorance or want of culture.\n{{smaller block|Times of ''barbarism'' and ignorance.\n{{right|''Dryden'', tr. of Dufresnoy’s Art of Painting, Pref.}}\nDivers great monarchies have risen from ''barbarism'' to civility, and fallen again to ruin.\n{{right|''Sir J. Davies'', State of Ireland.}}}}\n'''4†.''' An act of barbarity; an outrage.\n{{smaller block|A heinous ''barbarism'' . . . against the honour of marriage.\n{{right|''Milton.''}}}}\n='''Syn. 1.''' {{smaller|''Barbarism'', ''Solecism'', etc. See ''impropriety.''}}\n\n'''barbarity''' (bär-bar′i-ti), ''n.''; pl. ''barbarities'' (-tiz). [< ''barbarous.''] '''1.''' Brutal or inhuman conduct; barbarousness; savageness; cruelty.",
+   "c1s3": "{{smaller block|Another ground of violent outcry against the Indians is their ''barbarity'' to the vanquished.\n{{right|''Irving'', Sketch-Book, p. 348.}}}}\n'''2.''' An act of cruelty or inhumanity; a barbarous deed: as, the ''barbarities'' of war or of savage life.—'''3†.''' Barbarism.\n{{smaller block|The ''barbarity'' and narrowness of modern tongues.\n{{right|''Dryden.''}}}}\n\n'''barbarization''' (bär-ba̤-ri-zā′sho̤n), ''n.'' [< ''barbarize'' + ''-ation.''] The act of rendering barbarous; a reduction to barbarism, or to a barbarous state: said of language, and of persons and communities. Also spelled ''barbarisation.''\n\n'''barbarize''' (bär′ba̤-rīz), ''v.''; pret. and pp. ''barbarized'', ppr. ''barbarizing.'' [= F. ''barbariser'', < LL. ''barbarizare'', < Gr. βαρβαρίζειν, speak like a foreigner or barbarian, hold with the barbarians, < βάρβαρος, foreign, barbarian. See ''barbarous.''] '''I.''' ''intrans.'' '''1.''' To speak or write like a barbarian or foreigner; use barbarisms in speech or writing.\n{{smaller block|The ill habit which they got of wretched ''barbarizing'' against the Latin and Greek idiom. {{right|''Milton'', Education.}}}}\n'''2.''' To become barbarous. [Rare.]\n{{smaller block|The Roman Empire was ''barbarizing'' rapidly.\n{{right|''De Quincey'', Philos. of Rom. Hist.}}}}\n\n'''II.''' ''trans.'' '''1.''' To corrupt (language, art, etc.) by introducing impurities, or by departing from recognized classical standards.\n{{smaller block|He [Inigo Jones] ''barbarised'' the ancient cathedral of St. Paul in London, by repairing it according to his notions of Pointed architecture. {{right|''Encyc. Brit.'', II. 443.}}}}\n'''2.''' To render barbarous.",
+   "c2s1": "{{smaller block|Hideous changes have ''barbarized'' France.\n{{right|''Burke'', To a Noble Lord.}}}}\n{{smaller block|To habitual residents among the Alps this absence of social duties and advantages may be ''barbarising'', even brutalising. {{right|''J. A. Symonds'', Italy and Greece, p. 301.}}}}\nAlso spelled ''barbarise.''\n\n'''barbarous''' (bär′ba̤-rus), ''a.'' [Earlier ''barbar'', q. v.; < L. ''barbarŭs'', < Gr. βάρβαρος, foreign, uncivilized: applied orig. to one whose language was unintelligible. Cf. Skt. ''barbara'', stammering, in pl. foreigners; L. ''balbus'', stammering: see ''balbuties'' and ''booby;'' cf. ''babble.''] '''1.''' Foreign; not classical or pure; abounding in barbarisms; of or pertaining to an illiterate people: applied to language, originally to languages which were not Greek or Latin. See ''barbarism.''\n{{smaller block|A wholly ''barbarous'' use of the word.\n{{right|''Ruskin'', Pol. Econ., Art. ix.}}}}\n'''2.''' Speaking a foreign language; foreign; outlandish: applied to people. [Archaic.] See ''barbarian'', ''n.'', 1.\n{{smaller block|The island was called Melita. And the ''barbarous'' people shewed us no little kindness: for they kindled a fire and received us every one. {{right|Acts xxviii. 1, 2.}}}}\n'''3.''' Characterized by or showing ignorance of arts and civilization; uncivilized; rude; wild; savage: as, ''barbarous'' peoples, nations, or countries; ''barbarous'' habits or customs.\n{{smaller block|<poem>Thou art a Roman; be not ''barbarous.''</poem>\n{{right|''Shak.'', Tit. And., i. 2.}}}}\n{{smaller block|What we most require is the actual examination by trained observers of some ''barbarous'' or semi-barbarous community, whose Aryan pedigree is reasonably pure.\n{{right|''Maine'', Early Law and Custom, p. 233.}}}}",
+   "c2s2": "¶\n'''4.''' Pertaining to or characteristic of barbarians; adapted to the taste of barbarians; barbaric; of outlandish character.\n{{smaller block|<poem>Emetrius, king of Inde, a mighty name,\nOn a bay courser, goodly to behold,\nThe trappings of his horse emboss’d with ''barbarous'' gold.</poem>\n{{right|''Dryden'', Pal. and Arc., iii. 65.}}}}\n{{smaller block|Pyrrhus, seeing the Romans marshal their army with some art and skill, said, with surprise, “These barbarians have nothing ''barbarous'' in their discipline.”\n{{right|''Hume'', Refinement in the Arts.}}}}\n'''5.''' Cruel; ferocious; inhuman: as, ''barbarous'' treatment.\n{{smaller block|By their ''barbarous'' usage he died within a few days, to the grief of all that knew him.\n{{right|''Clarendon.''}}}}\n'''6.''' Harsh-sounding, like the speech of barbarians: as, wild and ''barbarous'' music.\n{{smaller block|A ''barbarous'' noise environs me.\n{{right|''Milton'', Sonnets, vii.}}}}\n{{smaller|='''Syn.''' ''Barbarian'', ''Barbarous'', ''Barbaric'' (see ''barbarian''); ruthless, brutal, fierce, bloody, savage, truculent.}}\n\n'''barbarously''' (bär′ba̤-rus-li), ''adv.'' In a barbarous manner; as a barbarian. {{smaller|(''a'') Imperfectly; without regard to purity of speech; with admixture of foreign or unclassical words and phrases.}}\n{{smaller block|How ''barbarously'' we yet speak and write, your lordship knows, and I am sufficiently sensible in my own English.\n{{right|''Dryden'', Ded. of Troilus and Cressida.}}}}\n{{smaller block|Modern French, the most polite of languages, is ''barbarously'' vulgar if compared with the Latin out of which it has been corrupted, or even with Italian.\n{{right|''Lowell'', Biglow Papers, 2d ser., Int.}}}}\n{{smaller|(''b'') As an uncivilized, illiterate, or uncultured person. (''c'') Savagely; cruelly; ferociously; inhumanly.}}\n{{smaller block|The English law touching forgery became, at a later period, ''barbarously'' severe.\n{{right|''Macaulay'', Hist. Eng., xxiii.}}}}",
+   "c2s3": "¶\n'''barbarousness''' (bär′ba-rus-nes), ''n.'' The state or quality of being barbarous. {{smaller|(''a'') Rudeness or incivility of manners. (''b'') Impurity of language.}}\n{{smaller block|It is much degenerated, as touching the pureness of speech; being overgrown with ''barbarousness.'' ''Brerewood.''}}\n{{smaller|(''c'') Cruelty; inhumanity; barbarity.}}\n\n'''barbary†''' (bär′ba-ri), ''n.'' [< ME. ''barbary, barbery, barbarie,'' < OF. ''barbarie'' = Sp. It. ''barbarie,'' < L. ''barbaria, barbaries'' (MGr. βαρβαρία), a foreign country, barbarism, < ''barbarus,'' < Gr. βάρβαρος, foreign, barbarous. Hence, specifically, ''Barbary,'' a collective name for the countries on the north and northwest coasts of Africa, < F. ''Barbarie,'' < ML. ''Barbaria; G. Berberei;'' Ar. ''Barbarīyan,'' < ''Barbar, Berber,'' the Berbers, people of Barbary in northern Africa, ult. < Gr. βάρβαρος, foreigner.] '''1.''' Foreign or barbarous nationality; paganism; heathenism.—'''2.''' Barbarity; barbarism.—'''3.''' Barbarous speech.—'''4.''' A Barbary horse; a barb. See ''barb''<sup>3</sup>, 1.\n{{smaller block|<poem>They are ill-built,\nPin-buttocked, like your dainty ''barbaries.''</poem>\n{{right|''Fletcher,'' Wildgoose Chase.}}}}\n\n'''Barbary ape, gum,''' etc. See the nouns.\n\n'''Barbary horse.''' Same as ''barb''<sup>3</sup>, 1.\n\n'''barbastel, barbastelle''' (bär′bas-tel or bär-bas-tel′), ''n.'' [< F. ''barbastelle'' = It. ''barbastello,'' < L. ''barba,'' beard.] A common European species of long-eared bat, ''Barbastellus communis, B. daubentoni,'' or ''Plecotus barbastellus.''",
+   "c3s1": "[[FIGURE]]\n{{c|{{smaller|Long-eared Bat (''Barbastellus communis'').}}}}\n\n'''barbate''' (bär′bāt), ''a.'' [< L. ''barbatus'', bearded, < ''barba'', beard: see ''barb''<sup>1</sup>.] '''1.''' Furnished with barbs.—'''2.''' In ''bot.'', bearded; furnished with long and weak hairs.—'''3.''' In ''zoöl.'', bearded; having a tuft of hair or feathers on the chin; in ''entom.'', bordered by long hairs.\n\n'''barbated†''' (bär′bā-ted), ''a.'' Barbed or bearded; barbate: as, “a dart uncommonly ''barbated'',” ''T. Warton'', Hist. of Kiddington, p. 63.\n\n'''Barbatula''' (bär-bat′ụ̄-lä), ''n.'' [NL., fem. of L. ''barbatulus'', dim. of ''barbatus'', bearded: see ''barbate''.] A genus of African scansorial barbets, the barbions, of the family ''Megalæmidæ'' or ''Capitonidæ''.\n\n'''barb-bolt''' (bärb′bōlt), ''n.'' A bolt whose edges are jagged to prevent it from being withdrawn from that into which it is driven; a rag-bolt.",
+   "c3s2": "¶\n'''barbe<sup>1</sup>''', ''n.'' See ''barb<sup>1</sup>''.\n\n'''barbe<sup>2</sup>†''', ''n.'' Same as ''bard<sup>2</sup>''.\n\n'''barbe<sup>3</sup>''' (bärb), ''n.'' [F., It., and Rumonsch ''barba'', < ML. ''barba'', ''barbas'', ''barbanus'', uncle, lit. having a beard, < L. ''barba'', beard: see ''barb<sup>1</sup>''.] A superior teacher or ecclesiastic among the Vaudois.\n\n'''barbecue''' (bär′bẹ̄-kū), ''n.'' [Also ''barbacue'', and formerly ''barbicue'', ''barbecu'', ''borbecu'' = Sp. ''barbacoa'', < Haytian ''barbacoa'', a framework of sticks set upon posts. In Cuba ''barbacoa'' designates a platform or floor in the top story of country houses where fruits and grain are kept.] '''1.''' A wooden framework used for supporting over a fire meat or fish to be smoked or dried.—'''2.''' An iron frame on which large joints are placed for broiling, or on which whole animals are roasted; a large gridiron.—'''3.''' The carcass of an ox, hog, or other animal, roasted whole.\n{{smaller block|A kid that had been cooked in a hole in the ground, with embers upon it. . . . This is called a “barbacoa”—a ''barbecue.''\n{{right|''Tylor'', Anahuac, iv. 95. (''N. E. D.'')}}}}\n'''4.''' A large social or political entertainment in the open air, at which animals are roasted whole, and feasting on a generous scale is indulged in. [U. S.]—'''5.''' An open floor or terrace smoothly covered with plaster or asphalt, on which to dry coffee-beans, etc.\n\n'''barbecue''' (bär′bẹ̄-kū), ''v. t.''; pret. and pp. ''barbecued'', ppr. ''barbecuing''. [< ''barbecue'', ''n.''] '''1.''' To cure by smoking or drying on a barbecue (which see).—'''2.''' To dress and roast whole, as an ox or a hog, by splitting it to the backbone, and roasting it on a gridiron.",
+   "c3s3": "{{smaller block|<poem>Rich puddings and big, and a ''barbecued'' pig.</poem>\n{{right|''Barham'', Ingoldsby Legends, I. 228.}}}}\n\n¶\n'''barbed<sup>1</sup>''' (bärbd), ''p. a.'' [< ''barb''<sup>1</sup>, ''v.'' or ''n.'', + ''-ed''<sup>2</sup>.] '''1†.''' Shaved; trimmed; having the beard dressed.—'''2.''' Furnished with barbs, as an arrow, the point of a fish-hook, and the like: as, “arrows ''barbed'' with fire,” ''Milton'', P. L., vi. 546; “a ''barbed'' proboscis,” ''Sir E. Tennent'', Ceylon, ii. 7.\n{{smaller block|<poem>And, with the same strong hand\nThat flung the ''barbed'' spear, he tilled the land.</poem>\n{{right|''Bryant'', Christmas in 1875.}}}}\n'''3.''' In ''her.'': (''a'') Having barbs: said of the rose used as a bearing. The barbs are commonly colored green, and the blazon is a rose gules ''barbed'' proper. (''b'') Having gills or wattles, as a cock: as, a cock sable, ''barbed'' or (that is, a black cock having golden gills). Also called ''wattled.'' (''c'') Having the ends made with barbs like those of an arrow-head: said especially of a cross of this form. Also called ''bearded.''—{{smaller|'''Barbed bolt.''' See ''bolt''<sup>1</sup>.—'''Barbed shot,''' a shot having barbs or grapnels. It is fired from a mortar to carry a life-line to a wreck.—'''Barbed wire,''' two or more wires twisted together, with spikes, hooks, or points clinched or woven into the strands, or a single wire furnished with sharp points or barbs: used for fences, and so made for the restraint of animals.}}\n\n'''barbed<sup>2</sup>''' (bärbd), ''p. a.'' [< ''barb''<sup>2</sup>, ''v.'', + ''-ed''<sup>2</sup>. Prop. ''barded'', q. v.] Same as ''barded''.\n\n'''barbel''' (bär′bel), ''n.'' [ME. ''barbelle'', ''barbylle'', < OF. ''barbel'' (F. ''barbeau''), < ML. ''barbellus'', dim. of ''barbus'', a barbel (fish), < ''barba'', beard: see ''barb''<sup>1</sup>. In the sense of an appendage, ''barbel'' is rather < NL. ''barbella'': see ''barbella'', and cf."
+  },
+  "figure_files": {
+   "c3f1": "century v01 p0474 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1639,
+     178,
+     2239,
+     548
+    ],
+    "caption": [
+     1710,
+     557,
+     2173,
+     582
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1631,
+     173,
+     2259,
+     543
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 3861,
+    "output_tokens": 93,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 10,
+    "input_tokens": 9514,
+    "output_tokens": 8165,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|barbarianize|448|barbel}}</noinclude>{{nop}}'''barbarianize''' (bär-bā′ri-an-īz), ''v. t.''; pret. and pp. ''barbarianized'', ppr. ''barbarianizing''. To make barbarian; barbarize.\n\n'''barbaric''' (bär-bar′ik), ''a.''   [< L. ''barbaricus'', < Gr. βαρβαρικός, foreign, barbaric, < βάρβαρος, barbarous: see ''barbarous''.]   '''1†.''' Foreign.\n{{smaller block|<poem>The gorgeous east with richest hand\nShowers on her kings ''Barbaric'' pearl and gold.</poem>\n{{right|''Milton'', P. L., ii. 4.}}}}\n'''2.''' Uncivilized; barbarian: as, “''barbaric'' or Gothic invaders,” ''T. Warton'', On Milton’s Smaller Poems.—'''3.''' Of, pertaining to, or characteristic of barbarians or their art; hence, ornate without being in accordance with cultivated taste; wildly rich or magnificent.\n{{smaller block|We are by no means insensible . . . to the wild and ''barbaric'' melody.\n{{right|''Macaulay.''}}}}\n{{smaller block|His plans were bold and fiery, and his conceptions glowed with ''barbaric'' lustre.\n{{right|''Poe'', Tales, I. 341.}}}}\n='''Syn.''' ''Barbarian'', ''Barbarous'', ''Barbaric''. See ''barbarian''.\n\n'''barbarically''' (bär-bar′i-kal-i), ''adv.'' In a barbaric manner; after the fashion of barbarians or uncivilized persons.\n\n'''barbaris''' (bär′ba-ris), ''n.'' In ''logic'', a mnemonic name for the syllogistic mood baralipton: used by some later nominalists. See ''mood''<sup>2</sup>.\n\n'''barbarisation, barbarise.''' See ''barbarization'', ''barbarize''.\n\n'''barbarism''' (bär′ba-rizm), ''n.''   [= F. ''barbarisme'', < L. ''barbarismus'', < Gr. βαρβαρισμός, the use of a foreign, or misuse of one’s native, tongue, < βαρβαρίζειν, speak like a foreigner or barbarian: see ''barbarize.'']   '''1.''' An offense against purity of style or language; originally, the mixing of foreign words and phrases in Latin or Greek; hence, the use of words or forms not made according to the accepted usages of a language: limited by some modern writers on rhetoric to an offense against the accepted rules of derivation or inflection, as ''hisn'' or ''hern'' for ''his'' or ''her'', ''gooses'' for ''geese'', ''goodest'' for ''best'', ''pled'' for ''pleaded'', ''proven'' for ''proved''.—'''2.''' A word or form so used; an expression not made in accordance with the proper usages of a language.\n{{smaller block|The Greeks were the first that branded a foreign term in any of their writers with the odious name of ''barbarism.''\n{{right|''G. Campbell.''}}}}\n{{smaller block|A ''barbarism'' may be in one word; a solecism must be of more.\n{{right|''Johnson.''}}}}\n'''3.''' An uncivilized state or condition; want of civilization; rudeness of life resulting from ignorance or want of culture.\n{{smaller block|Times of ''barbarism'' and ignorance.\n{{right|''Dryden'', tr. of Dufresnoy’s Art of Painting, Pref.}}}}\n{{smaller block|Divers great monarchies have risen from ''barbarism'' to civility, and fallen again to ruin.\n{{right|''Sir J. Davies'', State of Ireland.}}}}\n'''4†.''' An act of barbarity; an outrage.\n{{smaller block|A heinous ''barbarism'' . . . against the honour of marriage.\n{{right|''Milton.''}}}}\n='''Syn. 1.''' {{smaller|''Barbarism'', ''Solecism'', etc. See ''impropriety.''}}\n\n'''barbarity''' (bär-bar′i-ti), ''n.''; pl. ''barbarities'' (-tiz).   [< ''barbarous.'']   '''1.''' Brutal or inhuman conduct; barbarousness; savageness; cruelty. {{smaller block|Another ground of violent outcry against the Indians is their ''barbarity'' to the vanquished.\n{{right|''Irving'', Sketch-Book, p. 348.}}}}\n'''2.''' An act of cruelty or inhumanity; a barbarous deed: as, the ''barbarities'' of war or of savage life.—'''3†.''' Barbarism.\n{{smaller block|The ''barbarity'' and narrowness of modern tongues.\n{{right|''Dryden.''}}}}\n\n'''barbarization''' (bär-ba̤-ri-zā′sho̤n), ''n.''   [< ''barbarize'' + ''-ation.'']   The act of rendering barbarous; a reduction to barbarism, or to a barbarous state: said of language, and of persons and communities. Also spelled ''barbarisation.''\n\n'''barbarize''' (bär′ba̤-rīz), ''v.''; pret. and pp. ''barbarized'', ppr. ''barbarizing.''   [= F. ''barbariser'', < LL. ''barbarizare'', < Gr. βαρβαρίζειν, speak like a foreigner or barbarian, hold with the barbarians, < βάρβαρος, foreign, barbarian. See ''barbarous.'']   '''I.''' ''intrans.'' '''1.''' To speak or write like a barbarian or foreigner; use barbarisms in speech or writing.\n{{smaller block|The ill habit which they got of wretched ''barbarizing'' against the Latin and Greek idiom. {{right|''Milton'', Education.}}}}\n'''2.''' To become barbarous. [Rare.]\n{{smaller block|The Roman Empire was ''barbarizing'' rapidly.\n{{right|''De Quincey'', Philos. of Rom. Hist.}}}}\n\n'''II.''' ''trans.'' '''1.''' To corrupt (language, art, etc.) by introducing impurities, or by departing from recognized classical standards.\n{{smaller block|He [Inigo Jones] ''barbarised'' the ancient cathedral of St. Paul in London, by repairing it according to his notions of Pointed architecture. {{right|''Encyc. Brit.'', II. 443.}}}}\n'''2.''' To render barbarous. {{smaller block|Hideous changes have ''barbarized'' France.\n{{right|''Burke'', To a Noble Lord.}}}}\n{{smaller block|To habitual residents among the Alps this absence of social duties and advantages may be ''barbarising'', even brutalising. {{right|''J. A. Symonds'', Italy and Greece, p. 301.}}}}\nAlso spelled ''barbarise.''\n\n'''barbarous''' (bär′ba̤-rus), ''a.''   [Earlier ''barbar'', q. v.; < L. ''barbarŭs'', < Gr. βάρβαρος, foreign, uncivilized: applied orig. to one whose language was unintelligible. Cf. Skt. ''barbara'', stammering, in pl. foreigners; L. ''balbus'', stammering: see ''balbuties'' and ''booby;'' cf. ''babble.'']   '''1.''' Foreign; not classical or pure; abounding in barbarisms; of or pertaining to an illiterate people: applied to language, originally to languages which were not Greek or Latin. See ''barbarism.''\n{{smaller block|A wholly ''barbarous'' use of the word.\n{{right|''Ruskin'', Pol. Econ., Art. ix.}}}}\n'''2.''' Speaking a foreign language; foreign; outlandish: applied to people. [Archaic.] See ''barbarian'', ''n.'', 1.\n{{smaller block|The island was called Melita. And the ''barbarous'' people shewed us no little kindness: for they kindled a fire and received us every one. {{right|Acts xxviii. 1, 2.}}}}\n'''3.''' Characterized by or showing ignorance of arts and civilization; uncivilized; rude; wild; savage: as, ''barbarous'' peoples, nations, or countries; ''barbarous'' habits or customs.\n{{smaller block|<poem>Thou art a Roman; be not ''barbarous.''</poem>\n{{right|''Shak.'', Tit. And., i. 2.}}}}\n{{smaller block|What we most require is the actual examination by trained observers of some ''barbarous'' or semi-barbarous community, whose Aryan pedigree is reasonably pure.\n{{right|''Maine'', Early Law and Custom, p. 233.}}}}\n\n'''4.''' Pertaining to or characteristic of barbarians; adapted to the taste of barbarians; barbaric; of outlandish character.\n{{smaller block|<poem>Emetrius, king of Inde, a mighty name,\nOn a bay courser, goodly to behold,\nThe trappings of his horse emboss’d with ''barbarous'' gold.</poem>\n{{right|''Dryden'', Pal. and Arc., iii. 65.}}}}\n{{smaller block|Pyrrhus, seeing the Romans marshal their army with some art and skill, said, with surprise, “These barbarians have nothing ''barbarous'' in their discipline.”\n{{right|''Hume'', Refinement in the Arts.}}}}\n'''5.''' Cruel; ferocious; inhuman: as, ''barbarous'' treatment.\n{{smaller block|By their ''barbarous'' usage he died within a few days, to the grief of all that knew him.\n{{right|''Clarendon.''}}}}\n'''6.''' Harsh-sounding, like the speech of barbarians: as, wild and ''barbarous'' music.\n{{smaller block|A ''barbarous'' noise environs me.\n{{right|''Milton'', Sonnets, vii.}}}}\n{{smaller|='''Syn.''' ''Barbarian'', ''Barbarous'', ''Barbaric'' (see ''barbarian''); ruthless, brutal, fierce, bloody, savage, truculent.}}\n\n'''barbarously''' (bär′ba̤-rus-li), ''adv.'' In a barbarous manner; as a barbarian. {{smaller|(''a'') Imperfectly; without regard to purity of speech; with admixture of foreign or unclassical words and phrases.}}\n{{smaller block|How ''barbarously'' we yet speak and write, your lordship knows, and I am sufficiently sensible in my own English.\n{{right|''Dryden'', Ded. of Troilus and Cressida.}}}}\n{{smaller block|Modern French, the most polite of languages, is ''barbarously'' vulgar if compared with the Latin out of which it has been corrupted, or even with Italian.\n{{right|''Lowell'', Biglow Papers, 2d ser., Int.}}}}\n{{smaller|(''b'') As an uncivilized, illiterate, or uncultured person. (''c'') Savagely; cruelly; ferociously; inhumanly.}}\n{{smaller block|The English law touching forgery became, at a later period, ''barbarously'' severe.\n{{right|''Macaulay'', Hist. Eng., xxiii.}}}}\n\n'''barbarousness''' (bär′ba-rus-nes), ''n.'' The state or quality of being barbarous. {{smaller|(''a'') Rudeness or incivility of manners. (''b'') Impurity of language.}}\n{{smaller block|It is much degenerated, as touching the pureness of speech; being overgrown with ''barbarousness.''\n{{right|''Brerewood.''}}}}\n{{smaller|(''c'') Cruelty; inhumanity; barbarity.}}\n\n'''barbary†''' (bär′ba-ri), ''n.''   [< ME. ''barbary, barbery, barbarie,'' < OF. ''barbarie'' = Sp. It. ''barbarie,'' < L. ''barbaria, barbaries'' (MGr. βαρβαρία), a foreign country, barbarism, < ''barbarus,'' < Gr. βάρβαρος, foreign, barbarous. Hence, specifically, ''Barbary,'' a collective name for the countries on the north and northwest coasts of Africa, < F. ''Barbarie,'' < ML. ''Barbaria; G. Berberei;'' Ar. ''Barbarīyan,'' < ''Barbar, Berber,'' the Berbers, people of Barbary in northern Africa, ult. < Gr. βάρβαρος, foreigner.]   '''1.''' Foreign or barbarous nationality; paganism; heathenism.—'''2.''' Barbarity; barbarism.—'''3.''' Barbarous speech.—'''4.''' A Barbary horse; a barb. See ''barb''<sup>3</sup>, 1.\n{{smaller block|<poem>They are ill-built,\nPin-buttocked, like your dainty ''barbaries.''</poem>\n{{right|''Fletcher,'' Wildgoose Chase.}}}}\n\n'''Barbary ape, gum,''' etc. See the nouns.\n\n'''Barbary horse.''' Same as ''barb''<sup>3</sup>, 1.\n\n'''barbastel, barbastelle''' (bär′bas-tel or bär-bas-tel′), ''n.''   [< F. ''barbastelle'' = It. ''barbastello,'' < L. ''barba,'' beard.]   A common European species of long-eared bat, ''Barbastellus communis, B. daubentoni,'' or ''Plecotus barbastellus. 'barbate''' (bär′bāt), ''a.'' [< L. ''barbatus'', bearded, < ''barba'', beard: see ''barb''<sup>1</sup>.] '''1.''' Furnished with barbs.—'''2.''' In ''bot.'', bearded; furnished with long and weak hairs.—'''3.''' In ''zoöl.'', bearded; having a tuft of hair or feathers on the chin; in ''entom.'', bordered by long hairs.\n\n[[File:century v01 p0474 c3f1.png|center|302px]]\n{{c|{{smaller|Long-eared Bat (''Barbastellus communis'').}}}}\n\n'''barbated†''' (bär′bā-ted), ''a.'' Barbed or bearded; barbate: as, “a dart uncommonly ''barbated'',” ''T. Warton'', Hist. of Kiddington, p. 63.\n\n'''Barbatula''' (bär-bat′ụ̄-lä), ''n.''   [NL., fem. of L. ''barbatulus'', dim. of ''barbatus'', bearded: see ''barbate''.]   A genus of African scansorial barbets, the barbions, of the family ''Megalæmidæ'' or ''Capitonidæ''.\n\n'''barb-bolt''' (bärb′bōlt), ''n.'' A bolt whose edges are jagged to prevent it from being withdrawn from that into which it is driven; a rag-bolt.\n\n'''barbe<sup>1</sup>''', ''n.'' See ''barb<sup>1</sup>''.\n\n'''barbe<sup>2</sup>†''', ''n.'' Same as ''bard<sup>2</sup>''.\n\n'''barbe<sup>3</sup>''' (bärb), ''n.''   [F., It., and Rumonsch ''barba'', < ML. ''barba'', ''barbas'', ''barbanus'', uncle, lit. having a beard, < L. ''barba'', beard: see ''barb<sup>1</sup>''.]   A superior teacher or ecclesiastic among the Vaudois.\n\n'''barbecue''' (bär′bẹ̄-kū), ''n.''   [Also ''barbacue'', and formerly ''barbicue'', ''barbecu'', ''borbecu'' = Sp. ''barbacoa'', < Haytian ''barbacoa'', a framework of sticks set upon posts. In Cuba ''barbacoa'' designates a platform or floor in the top story of country houses where fruits and grain are kept.]   '''1.''' A wooden framework used for supporting over a fire meat or fish to be smoked or dried.—'''2.''' An iron frame on which large joints are placed for broiling, or on which whole animals are roasted; a large gridiron.—'''3.''' The carcass of an ox, hog, or other animal, roasted whole.\n{{smaller block|A kid that had been cooked in a hole in the ground, with embers upon it. . . . This is called a “barbacoa”—a ''barbecue.''\n{{right|''Tylor'', Anahuac, iv. 95. (''N. E. D.'')}}}}\n'''4.''' A large social or political entertainment in the open air, at which animals are roasted whole, and feasting on a generous scale is indulged in. [U. S.]—'''5.''' An open floor or terrace smoothly covered with plaster or asphalt, on which to dry coffee-beans, etc.\n\n'''barbecue''' (bär′bẹ̄-kū), ''v. t.''; pret. and pp. ''barbecued'', ppr. ''barbecuing''.   [< ''barbecue'', ''n.'']   '''1.''' To cure by smoking or drying on a barbecue (which see).—'''2.''' To dress and roast whole, as an ox or a hog, by splitting it to the backbone, and roasting it on a gridiron.\n<poem>Rich puddings and big, and a ''barbecued'' pig.</poem>\n{{smaller block|{{right|''Barham'', Ingoldsby Legends, I. 228.}}}}\n\n'''barbed<sup>1</sup>''' (bärbd), ''p. a.''   [< ''barb''<sup>1</sup>, ''v.'' or ''n.'', + ''-ed''<sup>2</sup>.]   '''1†.''' Shaved; trimmed; having the beard dressed.—'''2.''' Furnished with barbs, as an arrow, the point of a fish-hook, and the like: as, “arrows ''barbed'' with fire,” ''Milton'', P. L., vi. 546; “a ''barbed'' proboscis,” ''Sir E. Tennent'', Ceylon, ii. 7.\n{{smaller block|<poem>And, with the same strong hand\nThat flung the ''barbed'' spear, he tilled the land.</poem>\n{{right|''Bryant'', Christmas in 1875.}}}}\n'''3.''' In ''her.'': (''a'') Having barbs: said of the rose used as a bearing. The barbs are commonly colored green, and the blazon is a rose gules ''barbed'' proper. (''b'') Having gills or wattles, as a cock: as, a cock sable, ''barbed'' or (that is, a black cock having golden gills). Also called ''wattled.'' (''c'') Having the ends made with barbs like those of an arrow-head: said especially of a cross of this form. Also called ''bearded.''—{{smaller|'''Barbed bolt.''' See ''bolt''<sup>1</sup>.—'''Barbed shot,''' a shot having barbs or grapnels. It is fired from a mortar to carry a life-line to a wreck.—'''Barbed wire,''' two or more wires twisted together, with spikes, hooks, or points clinched or woven into the strands, or a single wire furnished with sharp points or barbs: used for fences, and so made for the restraint of animals.}}\n\n'''barbed<sup>2</sup>''' (bärbd), ''p. a.''   [< ''barb''<sup>2</sup>, ''v.'', + ''-ed''<sup>2</sup>. Prop. ''barded'', q. v.]   Same as ''barded''.\n\n'''barbel''' (bär′bel), ''n.''   [ME. ''barbelle'', ''barbylle'', < OF. ''barbel'' (F. ''barbeau''), < ML. ''barbellus'', dim. of ''barbus'', a barbel (fish), < ''barba'', beard: see ''barb''<sup>1</sup>. In the sense of an appendage, ''barbel'' is rather < NL. ''barbella'': see ''barbella'', and cf.<noinclude><references/></noinclude>"
+}

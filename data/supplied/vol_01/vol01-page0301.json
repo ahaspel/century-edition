@@ -1,0 +1,219 @@
+{
+ "volume": 1,
+ "page_number": 301,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n300.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n300.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 736,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     84,
+     134,
+     2286,
+     179
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     84,
+     179,
+     815,
+     1245
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     84,
+     1245,
+     815,
+     2293
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     84,
+     2293,
+     815,
+     3285
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     815,
+     179,
+     1557,
+     1164
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     921,
+     834,
+     1457,
+     1165
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     815,
+     1164,
+     1557,
+     2246
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     815,
+     2246,
+     1557,
+     3285
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1557,
+     179,
+     2286,
+     1272
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1557,
+     1272,
+     2286,
+     2360
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1557,
+     2360,
+     2286,
+     3285
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|applot|275|apportion}}",
+   "c1s1": "¶\n'''applot†''' (a-plot′), ''v. t.'' [< ''ap-''<sup>1</sup> + ''plot''<sup>1</sup>, ''v.'' Cf. ''allot.''] '''1.''' Literally, to divide into plots or plats; plot out.—'''2.''' To allot or apportion.\n\n'''applotment†''' (a-plot′mẹnt), ''n.'' [< ''applot'' + ''-ment.'' Cf. ''allotment.''] A division into plots; apportionment.\n\n'''applumbature†''' (a-plum′ba-tūr), ''n.'' [< ML. ''applumbatura,'' < L. ''applumbatus,'' pp. of ''applumbare,'' solder with lead, < ''ad,'' to, + ''plumbare'' (pp. ''plumbatus,'' > ''plumbatura,'' a soldering), < ''plumbum,'' lead: see ''plumb.''] A joining or soldering with lead. ''Blount.''\n\n'''apply''' (a̤-plī′), ''v.''; pret. and pp. ''applied,'' ppr. ''applying.'' [< ME. ''applyen, applien, aplyen, aplien,'' < OF. ''aplier,'' mod. F. ''appliquer'' = Pr. Sp. ''aplicar'' = Pg. ''applicar'' = It. ''applicare,'' < L. ''applicare,'' attach to, apply, < ''ad,'' to, + ''plicare,'' fold or lay together: see ''ply, plicate.''] '''I.''' ''trans.'' '''1.''' To lay on; bring into physical proximity or contact: as, to ''apply'' the hand to the breast; to ''apply'' medicaments to a diseased part of the body; to ''apply'' a match to powder.\n{{smaller block|<poem>’Beseech you, tenderly ''apply'' to her\nSome remedies for life.</poem>\n{{right|''Shak.,'' W. T., iii. 2.}}\nIn the gardens of the old Marques Spinola I saw huge citrons hanging on the trees, ''apply’d'' like our apricots to the walls.\n{{right|''Evelyn,'' Diary, Oct. 17, 1644.}}}}\n'''2.''' To bring into contact with particulars or with a particular case, as a principle, law, or rule; bring to bear upon; put into practical operation.\n{{smaller block|Quintilian ''applied'' to general literature the same principles by which he had been accustomed to judge of the declamations of his pupils. ''Macaulay,'' Athenian Orators.}}",
+   "c1s2": "'''3.''' To use or employ for a particular case, or devote to a particular purpose: as, to ''apply'' a sum of money to the payment of a debt.\n{{smaller block|<poem>Craft against vice I must ''apply''.</poem>\n{{right|''Shak.'', M. for M., iii. 2.}}}}\n'''4.''' To connect or associate with, or refer to, some person or thing as applicable or pertinent; use as suitable or relative to some person or thing: as, to ''apply'' the testimony to the case.\n{{smaller block|<poem>Great Agamemnon, Nestor shall ''apply''\nThy latest words. {{right|''Shak.'', T. and C., i. 3.}}</poem>\nI repeated the verses which I formerly ''applied'' to him.\n{{right|''Dryden'', Fables.}}}}\n'''5†.''' To attribute; refer; ascribe.—'''6.''' To give with earnestness or assiduity; employ with attention; devote: as, “''apply'' thine heart unto instruction,” Prov. xxiii. 12.\n{{smaller block|<poem>Like Isaac, with a mind ''applied''\nTo serious thought at ev’ningtide.</poem>\n{{right|''Cowper'', The Moralizer Corrected.}}\nEvery man is conscious to himself that he thinks, and that which his mind is ''applied'' about, whilst thinking, is the ideas that are there. {{right|''Locke''.}}}}\n'''7†.''' To address or direct.\n{{smaller block|<poem>Sacred vows and mystic song ''applied''\nTo grisly Pluto and his gloomy bride. {{right|''Pope''.}}</poem>}}\n'''8†.''' To be busy about; devote one’s self with diligent vigor to; ply (which see).\n{{smaller block|He is ever ''applying'' his business.\n{{right|''Latimer'', Sermon of the Plough.}}\n<poem>Whose flying feet so fast their way ''applyde'',\nThat round about a cloud of dust did fly.</poem>\n{{right|''Spenser'', F. Q., II. iv. 37.}}}}",
+   "c1s3": "¶\n'''9†.''' To bend (the mind); reflexively, to comply; conform; be subservient to.\n{{smaller block|<poem>                                        ''Apply''\nYourself to me and the consul, and be wise.</poem>\n{{right|''B. Jonson'', Catiline, iii. 2.}}}}\n\n'''10†.''' To visit.\n{{smaller block|He ''applied'' each place so fast.\n{{right|''Chapman'', Iliad, xi. 61.}}}}\n\n{{smaller|'''To apply one’s self.''' (''a'') To give the chief part of one’s time and attention; dedicate or devote one’s self (to a thing): as, to ''apply one’s self'' to the study of botany. (''b''†) To make an application or appeal; have recourse by request; address one’s self (to a person).}}\n{{smaller block|I ''applied myself'' to him for help.\n{{right|''Johnson.''}}}}\n{{smaller|='''Syn. 1.''' To place (on).—'''3.''' To appropriate (to).—'''4.''' To turn, bend, direct.—'''6.''' ''Addict, Devote, Apply.'' See ''addict.''}}\n\n'''II.''' ''intrans.'' '''1†.''' To be in close contiguity.—'''2.''' To have application; be applicable; have some connection, agreement, analogy, or reference: as, this argument ''applies'' well to the case; the remarks were not meant to ''apply'' to you.\n{{smaller block|Of the puzzles of the Academy, there is not one which does not ''apply'' as strongly to Deism as to Christianity, and to Atheism as to Deism.\n{{right|''Macaulay'', Sadler’s Ref. Refuted.}}}}\n'''3.''' To make application or request; ask; have recourse with a view to gain something: as, to ''apply'' for an office, information, etc.—'''4.''' To give attention; turn the mind.\n{{smaller block|I have been too ill and too dispirited to ''apply'' to anything for some weeks past.\n{{right|''Miss Carter'', Letters, II. 60.}}}}\n[In all senses used with ''to''.]",
+   "c2s1": "¶\n'''applyment†''' (a-plī′mẹnt), ''n.'' [< ''apply'' + ''-ment.''] Application. Also ''appliment.''\n{{smaller block|Yet there are a sort of discontented creatures that bear a stingless envy to great ones, and these will wrest the doings of any man to their base, malicious ''appliment.''\n{{right|''Webster'', Ind. to Malcontent.}}}}\n\n'''appoggiato''' (ȧp-po-jä′tō), ''a.'' [It., supported, pp. of ''appoggiare'' (= F. ''appuyer''), < ML. ''appodiare'', support, prop, < L. ''ad'', to, + ''podium'', a balcony (> It. ''poggio'' = F. ''pui'', ''puy''): see ''appui'', ''podium''.] In ''music'', literally, supported: marking notes which are to be performed so that they shall insensibly glide and melt into one another without any perceptible break.\n\n'''appoggiatura''' (ȧp-poj-ä-tö′rä), ''n.'' [It., < ''appoggiare'', prop, lean: see ''appoggiato''.] In ''music'', a small additional note of embellishment, preceding the note with which it is connected, and taking away from that note a portion of its time. {{smaller|It is of two kinds: (''a'') short, which is played as}}\n[[FIGURE]]",
+   "c2s2": "{{smaller block|quickly as possible, and (''b'') long, which is given its proper length, the principal note being shortened accordingly. The long appoggiatura was especially used by earlier pianoforte composers to avoid the display of passing notes and suspensions. See ''acciaccatura.'' Sometimes spelled ''apogiatura.''}}\n\n'''appoint''' (ạ-point′), ''v.'' [Early mod. E. also by apheresis ''point''; < ME. ''appointen'', ''apointen'', < OF. ''apointer'', prepare, settle, fix, F. ''appointer'', refer a cause, put on a salary (cf. OF. ''a point'', to the point), = Pr. ''apointar'', ''apontar'' = Sp. ''apuntar'' = It. ''appuntare'', < ML. ''appunctare'', repair, appoint, < L. ''ad'', to, + ML. ''punctare'', mark by a point, < L. ''puncta'', usually ''punctum'', a point: see ''point''.] '''I.''' ''trans.'' '''1†.''' To make fast or firm; found; establish; secure.\n{{smaller block|When he ''appointed'' the foundations of the earth.\n{{right|Prov. viii. 29.}}}}\n'''2.''' To constitute, ordain, or fix by decree, order, or decision; decree; command; prescribe.\n{{smaller block|Thy servants are ready to do whatsoever my lord the king shall ''appoint''. {{right|2 Sam. xv. 15.}}}}\n{{smaller block|Unto him thou gavest commandment to love thy way: which he transgressed, and immediately thou ''appointedst'' death in him and in his generations. {{right|2 Esd. iii. 7.}}}}\n{{smaller block|There be six wayes ''appointed'' by the best learned men, for the learning of tonges. {{right|''Ascham'', The Scholemaster, p. 92.}}}}\n'''3.''' To allot, set apart, or designate; nominate or authoritatively assign, as for a use, or to a post or office.\n{{smaller block|These were the cities ''appointed'' for all the children of Israel. {{right|Josh. xx. 9.}}}}\n{{smaller block|A ship was ''appointed'' them, which ship they began immediately to fit up, and supply plentifully with all manner of stores for a long stay. {{right|''Beverley'', Virginia, i. ¶ 6.}}}}\n{{smaller block|The ancient [Hindu] law allowed the father who had no}}",
+   "c2s3": "{{smaller block|prospect of having legitimate sons to ''appoint'' or nominate a daughter who should bear a son to himself and not to her own husband.\n{{right|''Maine'', Early Law and Custom, p. 91.}}}}\n'''4.''' To settle; fix, name, or determine by authority or upon agreement: as, they ''appointed'' a time and place for the meeting.—'''5.''' In ''law'', to fix the destination of (property) by designating a person or persons to take the use of an estate created by a preceding deed or will, conferring on the appointor the power so to do.\n{{smaller block|Thus, a testator may give a fund to a child for life, with power to ''appoint'' the fund to one or more grandchildren. The donee of the power is the appointor, and those designated by the appointor to enjoy the fund are termed the appointees.}}\n'''6†.''' To point at by way of censure; arraign: as, “''appoint'' not heavenly disposition,” ''Milton'', S. A., l. 373.—'''7.''' To provide with what is requisite; equip.\n{{smaller block|You may be armed and ''appointed'' well.\n{{right|''Shak.'', Tit. And., iv. 2.}}\nSix hundred cavalry, and three thousand musketeers, all perfectly ''appointed'', entered Antwerp at once.\n{{right|''Motley'', Dutch Republic, III. 566.}}}}\n'''8†.''' To agree upon; decide upon or settle definitely.\n{{smaller block|<poem>She sat allone and gan to caste\nWhereon she wolde ''apoynt'' hire at the laste.</poem>\n{{right|''Chaucer'', Troilus, ii. 691.}}}}\n{{smaller|='''Syn. 2.''' To prescribe, establish, direct.—'''3.''' To assign, destine, constitute, create.—'''7.''' To furnish, supply.}}\n\n'''II.''' ''intrans.'' '''1.''' To ordain; resolve; determine.\n{{smaller block|The Lord had ''appointed'' to defeat the good counsel of Ahithophel.\n{{right|2 Sam. xvii. 14.}}}}\n'''2.''' In ''law'', to exercise a power of appointment.",
+   "c3s1": "¶\n'''appointable''' (a-poin′tạ-bl), ''a.'' [< ''appoint'' + ''-able.''] Capable of being appointed or constituted; subject to appointment or decision.\n{{smaller block|That external ceremonies were but exercises of religion, ''appointable'' by superior powers.\n{{right|''R. W. Dixon'', Hist. Church of Eng., xvi.}}}}\n\n'''appointé''' (ạ-poin-tā′), ''a.'' [As if F., in lit. sense ‘pointed’: see ''appointee.''] In ''her.'', same as ''aiguisé.''\n\n'''appointee''' (ạ-poin-tē′), ''n.'' [< ''appoint'' + ''-ee''<sup>1</sup>, after F. ''appointé'', pp. of ''appointer'': see ''appoint.''] '''1.''' A person appointed.—'''2.''' In ''law'', the person who benefits by the execution of a power of appointment. See ''appoint'', 5.\n\n'''appointer''' (a-poin′tėr), ''n.'' One who nominates, appoints, ordains, or settles. See ''appointor.''\n\n'''appointive''' (a-poin′tiv), ''a.'' [< ''appoint'' + ''-ive.''] '''1.''' Of or pertaining to appointment; appointing: as, the ''appointive'' power of the President. —'''2.''' Dependent upon the exercise of the power or right to appoint; filled by appointment: opposed to ''elective'': as, ''appointive'' offices.\n{{smaller block|In 1873, the question whether the entire judiciary should be ''appointive'' or elective was again submitted to popular vote.\n{{right|''N. A. Rev.'', CXLIII. 203.}}}}\n\n'''appointment''' (a-point′mẹnt), ''n.'' [< ME. ''apoyntment'', and by apheresis ''poyntment'', < OF. ''apointement'', F. ''appointement'', decree, order, in pl. salary, < ''appointer'': see ''appoint.''] '''1.''' The act of appointing, designating, or placing in office: as, he erred by the ''appointment'' of unsuitable men.—'''2.''' An office held by a person appointed: as, a high ''appointment'' in the civil service.—'''3.''' Stipulation; engagement; assignation; the",
+   "c3s2": "act of fixing by mutual agreement: as, an ''appointment'' to meet at six o’clock.\n{{smaller block|I shall be with her . . . by her own ''appointment.''\n{{right|''Shak.'', M. W. of W., ii. 2.}}}}\n'''4.''' Anything fixed or established; established order or constitution; decree; ordinance; direction; order; command: as, it is our duty to submit to the divine ''appointments.''\n{{smaller block|Wheat, salt, wine, and oil, according to the ''appointment'' of the priests.\n{{right|Ezra vi. 9.}}\nDo you not think it was a merciful ''appointment'' that our fathers did not come to the possession of independence, . . . as to a great prize drawn in a lottery?\n{{right|''R. Choate'', Addresses, p. 67.}}}}\n'''5.''' Equipment, furniture, outfit, as for a ship, an army, a soldier, etc.; whatever is appointed for use and management; accoutrements: in this sense generally used in the plural.\n{{smaller block|<poem>We’ll set forth,\nIn best ''appointment'', all our regiments.</poem>\n{{right|''Shak.'', K. John, ii. 1.}}\nThe cavaliers emulated their chief in the richness of their ''appointments.''\n{{right|''Prescott.''}}}}\n'''6.''' The act of preparing; preparation. [Rare.]\n{{smaller block|<poem>Your best ''appointment'' make with speed;\nTo-morrow you set on.</poem>\n{{right|''Shak.'', M. for M., iii. 1.}}}}\n'''7†.''' An allowance to a person; a salary or pension, as of a public officer: properly used only in the plural.\n{{smaller block|An expense proportioned to his ''appointments'' and fortune is necessary.\n{{right|''Chesterfield'', Maxims.}}}}\n'''8.''' In ''law'', the act of appointing or designating the beneficiary who is to take the use of an estate created under a preceding deed or will. See ''appoint'', 5.—'''Council of Appointment''', {{smaller|in the}}",
+   "c3s3": "{{smaller|government of the State of New York, from 1777 to 1821, a council, consisting of the governor and four senators chosen by the Assembly, in whom was vested the right of appointment to State offices and of removal from them.—'''Midnight appointments,''' in ''U. S. politics'', appointments made during the last hours of an administration; specifically, those so made by President John Adams.}}\n\n'''appointor''' (ạ-poin′to̤r), ''n.'' [< ''appoint'' + ''-or''.] In ''law'', one who has official or legal power of appointment. See ''appoint'', 5.\n\n'''apport†''' (ạ-pōrt′), ''v. t.'' [< F. ''apporter'', < L. ''apportare'', bring to, < ''ad'', to, + ''portare'', carry: see ''port''<sup>3</sup>.] To bring; carry; produce.\n\n'''apporter†''' (ạ-pōr′tėr), ''n.'' A bringer in; one who imports anything into a country; an introducer or procurer.\n{{smaller block|This makes only the ''apporters'' themselves, their aiders, abettors, and assistants, traitors.\n{{right|''Sir M. Hale'', Hist. Plac. Cor., xx.}}}}\n\n'''apportion''' (ạ-pōr′shọn), ''v. t.'' [< F. ''apportionner'' (Cotgrave), < ML. ''apportionare'', < L. ''ad'', to, + ''portio(n-)'', portion, part: see ''portion''.] To divide and assign in just proportion or according to some rule; distribute proportionally; allot: as, to ''apportion'' undivided rights; to ''apportion'' time among various employments.\n{{smaller block|Money was raised by a forced loan, which was ''apportioned'' among the people according to the rate at which they had been respectively assessed to the last subsidy.\n{{right|''Macaulay'', Nugent’s Hampden.}}}}\n{{smaller|='''Syn.''' ''Dispense, Distribute'', etc. See ''dispense''.}}"
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0301 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     933,
+     846,
+     1445,
+     1153
+    ],
+    "caption": null,
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     924,
+     840,
+     1365,
+     972
+    ]
+   },
+   {
+    "box": [
+     933,
+     849,
+     1445,
+     1152
+    ],
+    "caption": null,
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     924,
+     1004,
+     1365,
+     1164
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 3,
+    "input_tokens": 4853,
+    "output_tokens": 276,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 10,
+    "input_tokens": 9566,
+    "output_tokens": 9756,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|applot|275|apportion}}</noinclude>{{nop}}'''applot†''' (a-plot′), ''v. t.''   [< ''ap-''<sup>1</sup> + ''plot''<sup>1</sup>, ''v.'' Cf. ''allot.'']   '''1.''' Literally, to divide into plots or plats; plot out.—'''2.''' To allot or apportion.\n\n'''applotment†''' (a-plot′mẹnt), ''n.''   [< ''applot'' + ''-ment.'' Cf. ''allotment.'']   A division into plots; apportionment.\n\n'''applumbature†''' (a-plum′ba-tūr), ''n.''   [< ML. ''applumbatura,'' < L. ''applumbatus,'' pp. of ''applumbare,'' solder with lead, < ''ad,'' to, + ''plumbare'' (pp. ''plumbatus,'' > ''plumbatura,'' a soldering), < ''plumbum,'' lead: see ''plumb.'']   A joining or soldering with lead.   ''Blount.''\n\n'''apply''' (a̤-plī′), ''v.''; pret. and pp. ''applied,'' ppr. ''applying.''   [< ME. ''applyen, applien, aplyen, aplien,'' < OF. ''aplier,'' mod. F. ''appliquer'' = Pr. Sp. ''aplicar'' = Pg. ''applicar'' = It. ''applicare,'' < L. ''applicare,'' attach to, apply, < ''ad,'' to, + ''plicare,'' fold or lay together: see ''ply, plicate.'']   '''I.''' ''trans.'' '''1.''' To lay on; bring into physical proximity or contact: as, to ''apply'' the hand to the breast; to ''apply'' medicaments to a diseased part of the body; to ''apply'' a match to powder.\n{{smaller block|<poem>’Beseech you, tenderly ''apply'' to her\nSome remedies for life.</poem>\n{{right|''Shak.,'' W. T., iii. 2.}}}}\n{{smaller block|In the gardens of the old Marques Spinola I saw huge citrons hanging on the trees, ''apply’d'' like our apricots to the walls.\n{{right|''Evelyn,'' Diary, Oct. 17, 1644.}}}}\n'''2.''' To bring into contact with particulars or with a particular case, as a principle, law, or rule; bring to bear upon; put into practical operation.\n{{smaller block|Quintilian ''applied'' to general literature the same principles by which he had been accustomed to judge of the declamations of his pupils.\n{{right|''Macaulay,'' Athenian Orators.}}}} '''3.''' To use or employ for a particular case, or devote to a particular purpose: as, to ''apply'' a sum of money to the payment of a debt.\n{{smaller block|<poem>Craft against vice I must ''apply''.</poem>\n{{right|''Shak.'', M. for M., iii. 2.}}}}\n'''4.''' To connect or associate with, or refer to, some person or thing as applicable or pertinent; use as suitable or relative to some person or thing: as, to ''apply'' the testimony to the case.\n{{smaller block|<poem>Great Agamemnon, Nestor shall ''apply''\nThy latest words. {{right|''Shak.'', T. and C., i. 3.}}</poem>\nI repeated the verses which I formerly ''applied'' to him.\n{{right|''Dryden'', Fables.}}}}\n'''5†.''' To attribute; refer; ascribe.—'''6.''' To give with earnestness or assiduity; employ with attention; devote: as, “''apply'' thine heart unto instruction,” Prov. xxiii. 12.\n{{smaller block|<poem>Like Isaac, with a mind ''applied''\nTo serious thought at ev’ningtide.</poem>\n{{right|''Cowper'', The Moralizer Corrected.}}}}\n{{smaller block|Every man is conscious to himself that he thinks, and that which his mind is ''applied'' about, whilst thinking, is the ideas that are there. {{right|''Locke''.}}}}\n'''7†.''' To address or direct.\n{{smaller block|<poem>Sacred vows and mystic song ''applied''\nTo grisly Pluto and his gloomy bride. {{right|''Pope''.}}</poem>}}\n'''8†.''' To be busy about; devote one’s self with diligent vigor to; ply (which see).\n{{smaller block|He is ever ''applying'' his business.\n{{right|''Latimer'', Sermon of the Plough.}}}}\n{{smaller block|<poem>Whose flying feet so fast their way ''applyde'',\nThat round about a cloud of dust did fly.</poem>\n{{right|''Spenser'', F. Q., II. iv. 37.}}}}\n\n'''9†.''' To bend (the mind); reflexively, to comply; conform; be subservient to.\n{{smaller block|<poem>                                        ''Apply''\nYourself to me and the consul, and be wise.</poem>\n{{right|''B. Jonson'', Catiline, iii. 2.}}}}\n\n'''10†.''' To visit.\n{{smaller block|He ''applied'' each place so fast.\n{{right|''Chapman'', Iliad, xi. 61.}}}}\n\n{{smaller|'''To apply one’s self.''' (''a'') To give the chief part of one’s time and attention; dedicate or devote one’s self (to a thing): as, to ''apply one’s self'' to the study of botany. (''b''†) To make an application or appeal; have recourse by request; address one’s self (to a person).}}\n{{smaller block|I ''applied myself'' to him for help.\n{{right|''Johnson.''}}}}\n{{smaller|='''Syn. 1.''' To place (on).—'''3.''' To appropriate (to).—'''4.''' To turn, bend, direct.—'''6.''' ''Addict, Devote, Apply.'' See ''addict.''}}\n\n'''II.''' ''intrans.'' '''1†.''' To be in close contiguity.—'''2.''' To have application; be applicable; have some connection, agreement, analogy, or reference: as, this argument ''applies'' well to the case; the remarks were not meant to ''apply'' to you.\n{{smaller block|Of the puzzles of the Academy, there is not one which does not ''apply'' as strongly to Deism as to Christianity, and to Atheism as to Deism.\n{{right|''Macaulay'', Sadler’s Ref. Refuted.}}}}\n'''3.''' To make application or request; ask; have recourse with a view to gain something: as, to ''apply'' for an office, information, etc.—'''4.''' To give attention; turn the mind.\n{{smaller block|I have been too ill and too dispirited to ''apply'' to anything for some weeks past.\n{{right|''Miss Carter'', Letters, II. 60.}}}}\n[In all senses used with ''to''.]\n\n'''applyment†''' (a-plī′mẹnt), ''n.''   [< ''apply'' + ''-ment.'']   Application. Also ''appliment.''\n{{smaller block|Yet there are a sort of discontented creatures that bear a stingless envy to great ones, and these will wrest the doings of any man to their base, malicious ''appliment.''\n{{right|''Webster'', Ind. to Malcontent.}}}}\n\n'''appoggiato''' (ȧp-po-jä′tō), ''a.''   [It., supported, pp. of ''appoggiare'' (= F. ''appuyer''), < ML. ''appodiare'', support, prop, < L. ''ad'', to, + ''podium'', a balcony (> It. ''poggio'' = F. ''pui'', ''puy''): see ''appui'', ''podium''.]   In ''music'', literally, supported: marking notes which are to be performed so that they shall insensibly glide and melt into one another without any perceptible break.\n\n'''appoggiatura''' (ȧp-poj-ä-tö′rä), ''n.''   [It., < ''appoggiare'', prop, lean: see ''appoggiato''.]   In ''music'', a small additional note of embellishment, preceding the note with which it is connected, and taking away from that note a portion of its time. {{smaller|It is of two kinds: (''a'') short, which is played as quickly as possible, and (''b'') long, which is given its proper length, the principal note being shortened accordingly. The long appoggiatura was especially used by earlier pianoforte composers to avoid the display of passing notes and suspensions. See ''acciaccatura.'' Sometimes spelled ''apogiatura.''}}\n\n[[File:century v01 p0301 c2f1.png|center|262px]]\n\n'''appoint''' (ạ-point′), ''v.''   [Early mod. E. also by apheresis ''point''; < ME. ''appointen'', ''apointen'', < OF. ''apointer'', prepare, settle, fix, F. ''appointer'', refer a cause, put on a salary (cf. OF. ''a point'', to the point), = Pr. ''apointar'', ''apontar'' = Sp. ''apuntar'' = It. ''appuntare'', < ML. ''appunctare'', repair, appoint, < L. ''ad'', to, + ML. ''punctare'', mark by a point, < L. ''puncta'', usually ''punctum'', a point: see ''point''.]   '''I.''' ''trans.'' '''1†.''' To make fast or firm; found; establish; secure.\n{{smaller block|When he ''appointed'' the foundations of the earth.\n{{right|Prov. viii. 29.}}}}\n'''2.''' To constitute, ordain, or fix by decree, order, or decision; decree; command; prescribe.\n{{smaller block|Thy servants are ready to do whatsoever my lord the king shall ''appoint''. {{right|2 Sam. xv. 15.}}}}\n{{smaller block|Unto him thou gavest commandment to love thy way: which he transgressed, and immediately thou ''appointedst'' death in him and in his generations. {{right|2 Esd. iii. 7.}}}}\n{{smaller block|There be six wayes ''appointed'' by the best learned men, for the learning of tonges. {{right|''Ascham'', The Scholemaster, p. 92.}}}}\n'''3.''' To allot, set apart, or designate; nominate or authoritatively assign, as for a use, or to a post or office.\n{{smaller block|These were the cities ''appointed'' for all the children of Israel. {{right|Josh. xx. 9.}}}}\n{{smaller block|A ship was ''appointed'' them, which ship they began immediately to fit up, and supply plentifully with all manner of stores for a long stay. {{right|''Beverley'', Virginia, i. ¶ 6.}}}}\n{{smaller block|The ancient [Hindu] law allowed the father who had no prospect of having legitimate sons to ''appoint'' or nominate a daughter who should bear a son to himself and not to her own husband.\n{{right|''Maine'', Early Law and Custom, p. 91.}}}}\n'''4.''' To settle; fix, name, or determine by authority or upon agreement: as, they ''appointed'' a time and place for the meeting.—'''5.''' In ''law'', to fix the destination of (property) by designating a person or persons to take the use of an estate created by a preceding deed or will, conferring on the appointor the power so to do.\n{{smaller block|Thus, a testator may give a fund to a child for life, with power to ''appoint'' the fund to one or more grandchildren. The donee of the power is the appointor, and those designated by the appointor to enjoy the fund are termed the appointees.}}\n'''6†.''' To point at by way of censure; arraign: as, “''appoint'' not heavenly disposition,” ''Milton'', S. A., l. 373.—'''7.''' To provide with what is requisite; equip.\n{{smaller block|You may be armed and ''appointed'' well.\n{{right|''Shak.'', Tit. And., iv. 2.}}}}\n{{smaller block|Six hundred cavalry, and three thousand musketeers, all perfectly ''appointed'', entered Antwerp at once.\n{{right|''Motley'', Dutch Republic, III. 566.}}}}\n'''8†.''' To agree upon; decide upon or settle definitely.\n{{smaller block|<poem>She sat allone and gan to caste\nWhereon she wolde ''apoynt'' hire at the laste.</poem>\n{{right|''Chaucer'', Troilus, ii. 691.}}}}\n{{smaller|='''Syn. 2.''' To prescribe, establish, direct.—'''3.''' To assign, destine, constitute, create.—'''7.''' To furnish, supply.}}\n\n'''II.''' ''intrans.'' '''1.''' To ordain; resolve; determine.\n{{smaller block|The Lord had ''appointed'' to defeat the good counsel of Ahithophel.\n{{right|2 Sam. xvii. 14.}}}}\n'''2.''' In ''law'', to exercise a power of appointment.\n\n'''appointable''' (a-poin′tạ-bl), ''a.''   [< ''appoint'' + ''-able.'']   Capable of being appointed or constituted; subject to appointment or decision.\n{{smaller block|That external ceremonies were but exercises of religion, ''appointable'' by superior powers.\n{{right|''R. W. Dixon'', Hist. Church of Eng., xvi.}}}}\n\n'''appointé''' (ạ-poin-tā′), ''a.''   [As if F., in lit. sense ‘pointed’: see ''appointee.'']   In ''her.'', same as ''aiguisé.''\n\n'''appointee''' (ạ-poin-tē′), ''n.''   [< ''appoint'' + ''-ee''<sup>1</sup>, after F. ''appointé'', pp. of ''appointer'': see ''appoint.'']   '''1.''' A person appointed.—'''2.''' In ''law'', the person who benefits by the execution of a power of appointment. See ''appoint'', 5.\n\n'''appointer''' (a-poin′tėr), ''n.'' One who nominates, appoints, ordains, or settles. See ''appointor.''\n\n'''appointive''' (a-poin′tiv), ''a.''   [< ''appoint'' + ''-ive.'']   '''1.''' Of or pertaining to appointment; appointing: as, the ''appointive'' power of the President. —'''2.''' Dependent upon the exercise of the power or right to appoint; filled by appointment: opposed to ''elective'': as, ''appointive'' offices.\n{{smaller block|In 1873, the question whether the entire judiciary should be ''appointive'' or elective was again submitted to popular vote.\n{{right|''N. A. Rev.'', CXLIII. 203.}}}}\n\n'''appointment''' (a-point′mẹnt), ''n.''   [< ME. ''apoyntment'', and by apheresis ''poyntment'', < OF. ''apointement'', F. ''appointement'', decree, order, in pl. salary, < ''appointer'': see ''appoint.'']   '''1.''' The act of appointing, designating, or placing in office: as, he erred by the ''appointment'' of unsuitable men.—'''2.''' An office held by a person appointed: as, a high ''appointment'' in the civil service.—'''3.''' Stipulation; engagement; assignation; the act of fixing by mutual agreement: as, an ''appointment'' to meet at six o’clock.\n{{smaller block|I shall be with her . . . by her own ''appointment.''\n{{right|''Shak.'', M. W. of W., ii. 2.}}}}\n'''4.''' Anything fixed or established; established order or constitution; decree; ordinance; direction; order; command: as, it is our duty to submit to the divine ''appointments.''\n{{smaller block|Wheat, salt, wine, and oil, according to the ''appointment'' of the priests.\n{{right|Ezra vi. 9.}}}}\n{{smaller block|Do you not think it was a merciful ''appointment'' that our fathers did not come to the possession of independence, . . . as to a great prize drawn in a lottery?\n{{right|''R. Choate'', Addresses, p. 67.}}}}\n'''5.''' Equipment, furniture, outfit, as for a ship, an army, a soldier, etc.; whatever is appointed for use and management; accoutrements: in this sense generally used in the plural.\n{{smaller block|<poem>We’ll set forth,\nIn best ''appointment'', all our regiments.</poem>\n{{right|''Shak.'', K. John, ii. 1.}}}}\n{{smaller block|The cavaliers emulated their chief in the richness of their ''appointments.''\n{{right|''Prescott.''}}}}\n'''6.''' The act of preparing; preparation. [Rare.]\n{{smaller block|<poem>Your best ''appointment'' make with speed;\nTo-morrow you set on.</poem>\n{{right|''Shak.'', M. for M., iii. 1.}}}}\n'''7†.''' An allowance to a person; a salary or pension, as of a public officer: properly used only in the plural.\n{{smaller block|An expense proportioned to his ''appointments'' and fortune is necessary.\n{{right|''Chesterfield'', Maxims.}}}}\n'''8.''' In ''law'', the act of appointing or designating the beneficiary who is to take the use of an estate created under a preceding deed or will. See ''appoint'', 5.—'''Council of Appointment''', {{smaller|in the government of the State of New York, from 1777 to 1821, a council, consisting of the governor and four senators chosen by the Assembly, in whom was vested the right of appointment to State offices and of removal from them.—'''Midnight appointments,''' in ''U. S. politics'', appointments made during the last hours of an administration; specifically, those so made by President John Adams.}}\n\n'''appointor''' (ạ-poin′to̤r), ''n.''   [< ''appoint'' + ''-or''.]   In ''law'', one who has official or legal power of appointment. See ''appoint'', 5.\n\n'''apport†''' (ạ-pōrt′), ''v. t.''   [< F. ''apporter'', < L. ''apportare'', bring to, < ''ad'', to, + ''portare'', carry: see ''port''<sup>3</sup>.]   To bring; carry; produce.\n\n'''apporter†''' (ạ-pōr′tėr), ''n.'' A bringer in; one who imports anything into a country; an introducer or procurer.\n{{smaller block|This makes only the ''apporters'' themselves, their aiders, abettors, and assistants, traitors.\n{{right|''Sir M. Hale'', Hist. Plac. Cor., xx.}}}}\n\n'''apportion''' (ạ-pōr′shọn), ''v. t.''   [< F. ''apportionner'' (Cotgrave), < ML. ''apportionare'', < L. ''ad'', to, + ''portio(n-)'', portion, part: see ''portion''.]   To divide and assign in just proportion or according to some rule; distribute proportionally; allot: as, to ''apportion'' undivided rights; to ''apportion'' time among various employments.\n{{smaller block|Money was raised by a forced loan, which was ''apportioned'' among the people according to the rate at which they had been respectively assessed to the last subsidy.\n{{right|''Macaulay'', Nugent’s Hampden.}}}}\n{{smaller|='''Syn.''' ''Dispense, Distribute'', etc. See ''dispense''.}}<noinclude><references/></noinclude>"
+}

@@ -1,0 +1,375 @@
+{
+ "volume": 1,
+ "page_number": 238,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n237.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n237.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 744,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     111,
+     155,
+     2331,
+     192
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     111,
+     192,
+     854,
+     1245
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     111,
+     1245,
+     854,
+     2300
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     111,
+     2300,
+     854,
+     3311
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     854,
+     192,
+     1598,
+     882
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     854,
+     882,
+     1598,
+     1909
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     854,
+     1909,
+     1598,
+     2966
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     923,
+     2337,
+     1505,
+     2928
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     854,
+     2966,
+     1598,
+     3311
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1598,
+     192,
+     2331,
+     984
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1604,
+     314,
+     1887,
+     561
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1598,
+     984,
+     2331,
+     1922
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1604,
+     1057,
+     1856,
+     1339
+    ]
+   },
+   {
+    "name": "c3f3",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     2129,
+     1319,
+     2331,
+     1585
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1598,
+     1922,
+     2331,
+     2654
+    ]
+   },
+   {
+    "name": "c3f4",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     2046,
+     2471,
+     2294,
+     2531
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1598,
+     2654,
+     2331,
+     3311
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|angiosis|212|angle}}",
+   "c1s1": "¶\n'''angiosis''' (an-ji-ō′sis), ''n.'' [NL., < Gr. ἀγγεῖον, a vessel, + ''-osis''.] Any disease of a blood-vessel.\n\n'''angiospasm''' (an′ji-ọ̄-spazm), ''n.'' [< Gr. ἀγγεῖον, a vessel, + σπάσμα, σπασμός, spasm.] Spasm of the muscular wall of a blood-vessel.\n\n'''angiosperm''' (an′ji-ọ̄-spėrm), ''n.'' [< NL. ''angiospermus'', < Gr. ἀγγεῖον, a vessel, + σπέρμα, seed. Cf. Gr. ἐναγγειόσπερμος, also ἐναγγειοσπέρματος, angiospermous (< ἐν, in, etc.).] A plant whose seeds are contained in a protecting seed-vessel. {{smaller|The term ''angiosperms'' is applied to the larger of the two divisions of exogens, in distinction from the ''gymnosperms'' (''Coniferæ'', ''Cycadaceæ'', etc.), the smaller division, in which the ovules and seeds are naked.}}\n\n'''angiospermal''' (an″ji-ọ̄-spėr′mạl), ''a.'' Same as ''angiospermous''.\n\n'''angiospermatous''' (an″ji-ọ̄-spėr′mạ-tus), ''a.'' Same as ''angiospermous''.\n\n'''Angiospermia''' (an″ji-ọ̄-spėr′mi-ä̤), ''n. pl.'' [NL., < ''angiospermus'': see ''angiosperm''.] In ''bot.'', the second order of the Linnean class ''Didynamia'', having numerous seeds inclosed in an obvious seed-vessel, as in ''Digitalis''. {{smaller|The corresponding ''Gymnospermia'' of the same class included genera with achenium-like divisions of the pericarp, as in the ''Labiatæ'', which were mistaken for naked seeds.}}\n\n'''angiospermous''' (an″ji-ọ̄-spėr′mus), ''a.'' [< NL. ''angiospermus'': see ''angiosperm''.] Having seeds inclosed in a seed-vessel, as the poppy, the rose, and most flowering plants: opposed to ''gymnospermous'', or naked-seeded. Equivalent forms are ''angiospermal'' and ''angiospermatous''.\n\n'''angiosporous''' (an″ji-os′pọ̄-rus), ''a.'' [< NL. ''angiosporus'', < Gr. ἀγγεῖον, a vessel, + σπόρος, a seed:",
+   "c1s2": "see ''spore''.] In ''bot.'', having the spores inclosed in a hollow receptacle: applied to such fungi as ''Lycoperdon''.\n\n'''Angiostomata''' (an″ji-ọ̄-stō′ma̤-tä̤), ''n. pl.'' [NL., neut. pl. of ''angiostomatus'': see ''angiostomatous''.] '''1.''' A suborder of ophidians, comprising serpents in which the mouth is not dilatable, and which are provided with anal spurs. There are two families, ''Cylindrophidæ'' and ''Uropeltidæ''.—'''2.''' In ''conch.'', an artificial group of univalve gastropods whose shell has a narrow or contracted aperture, as cassidids, strombids, conids, olivids, cypræids, and others. Also written, corruptly, ''Angystomata'', and originally ''Angyostomata'' by De Blainville, 1818.\n\n'''angiostomatous''' (an″ji-ọ̄-stō′ma̤-tus), ''a.'' [< NL. ''angiostomatus'', < Gr. ἀγγεῖον, a vessel, jar (but L. ''angere'', compress, is appar. intended), + στόμα(τ-), mouth.] '''1.''' Having a narrow, that is, not dilatable, mouth: said specifically of serpents of the suborder ''Angiostomata''.—'''2.''' In ''conch.'', having a narrow mouth or opening, as the shell in ''Oliva'' and ''Conus''.\n\n'''angiostomous''' (an″ji-os′tọ̄-mus), ''a.'' [< NL. ''angiostomus'', equiv. to ''angiostomatus'': see ''angiostomatous''.] Same as ''angiostomatous''.\n\n'''angiotomy''' (an-ji-ot′ọ̄-mi), ''n.'' [< Gr. ἀγγεῖον, a vessel, + τομή, a cutting, < τέμνειν, ταμεῖν, cut. Cf. ''anatomy''.] In ''anat.'', dissection of the lymphatics and blood-vessels.\n\n'''angle<sup>1</sup>''' (ang′gl), ''n.'' [< ME. ''angle'', ''angel'', ''angil'', < AS. ''angel'', ''angul'', ''ongul'', a hook, fish-hook (= OS. ''angul'' = OD. ''angel'', ''anghel'', a hook, fish-hook,",
+   "c1s3": "sting, awn, beard (of grain), D. ''angel'' = LG. ''angel'', a hook, = OHG. ''angul'', MHG. G. ''angel'', a hook, fish-hook, sting, point, hinge (cf. OD. ''hangel'', ''hanghel'', ''hengel'', a hook, a hinge, D. ''hengel'', an angling-rod, G. dial. ''hängel'', a hook, ear, joint, these forms and senses being in part those of a different word, cognate with E. ''hinge'': see ''hinge'', ''hang''), = Icel. ''öngull'', a hook, = Dan. Sw. ''angel'', a hook), with formative ''-el'', ''-ul'', < ''anga'', ''onga'' (rare, and only in glosses), a sting, = OHG. ''ango'', a sting, hinge, MHG. ''ange'', a fish-hook, hinge, = Icel. ''angi'', a sting, spine, prickle, = Norw. ''ange'', ''angje'', a prong, jag, tooth. The earliest notion seems to have been ‘pointed,’ but the word also involved the notion of ‘bent,’ perhaps from a different source; cf. Gr. ἀγκύλος, bent, crooked, curved, = L. ''angulus'' for *''anculus'', a corner, angle; Gr. ὄγκος, a hook, barb, angle, = L. ''uncus'', a hook; bent, curved: see ''Angle''<sup>2</sup>, ''angle''<sup>3</sup>, ''ankylosis'', ''uncous''.] '''1.''' A fishing-hook: often in later use extended to include the line or tackle, and even the rod. [Now rare.]\n{{smaller block|Give me mine ''angle'',—we’ll to the river.\n{{right|''Shak.'', A. and C., ii. 5.}}}}\n'''2†.''' One who or that which catches by stratagem or deceit.\n{{smaller block|A woman is bytterer than death, . . . for she is a very ''angle'', hir hert is a nett. ''Coverdale'', tr. of Eccles. vii. 26.}}\n'''3†.''' [From the verb.] The act of angling.\n\n'''angle<sup>1</sup>''' (ang′gl), ''v.''; pret. and pp. ''angled'', ppr. ''angling''. [< late ME. ''angle'', OD. ''angelen'', D. ''hen-''",
+   "c2s1": "''gelen'' = G. ''angeln'' = Dan. ''angle''; from the noun.] '''I.''' ''intrans.'' '''1.''' To fish with an angle, or with hook and line.\n{{smaller block|<poem>When the weather\nServes to ''angle'' in the brook,\nI will bring a silver hook.</poem>\n{{right|''Fletcher'', Faithful Shepherdess, iv. 2.}}\n<poem>The lawyer in the pauses of the storm\nWent ''angling'' down the Saco.</poem>\n{{right|''Whittier'', Bridal of Pennacook.}}}}\n'''2.''' To try by artful means to catch or win over a person or thing, or to elicit an opinion: commonly with ''for''.\n{{smaller block|<poem>By this face,\nThis seeming brow of justice, did he win\nThe hearts of all that he did ''angle for''.</poem>\n{{right|''Shak.'', 1 Hen. IV., iv. 3.}}}}\n\n'''II.''' ''trans.'' '''1.''' To fish (a stream).—'''2†.''' To fish for or try to catch, as with an angle or hook.\n{{smaller block|He ''angled'' the people’s hearts. {{right|''Sir P. Sidney.''}}}}\n'''3†.''' To lure or entice, as with bait.\n{{smaller block|You have ''angled'' me on with much pleasure to the thatch’d house. {{right|''I. Walton'', Complete Angler, i.}}}}",
+   "c2s2": "¶\n'''Angle<sup>2</sup>''' (ang′gl), ''n.'' [In mod. use only as a historical term; < L. ''Anglus'', usually in pl. ''Angli'' (first in Tacitus), repr. the OTeut. form found in AS. ''Angle'', ''Ongle'', ''Ængle'', reg. ''Engle'', pl. (in comp. ''Angel-'', ''Ongel-''), the people of ''Angel'', ''Angol'', ''Angul'', ''Ongul'' (= Icel. ''Öngull''), a district of what is now Schleswig-Holstein, said to be so named from ''angel'', ''angul'', ''ongul'', a hook, in ref. to its shape: see ''angle''<sup>1</sup>. Hence ''Anglo-'', ''Anglo-Saxon'', ''English'', q. v.] One of a Teutonic tribe which in the earliest period of its recorded history dwelt in the neighborhood of the district now called Angeln, in Schleswig-Holstein, and which in the fifth century and later, accompanied by kindred tribes, the Saxons, Jutes, and Frisians, crossed over to Britain and colonized the greater part of it. {{smaller|The Angles were the most numerous of these settlers, and founded the three kingdoms of East Anglia, Mercia, and Northumbria. From them the entire country derived its name ''England'', the “land of the Angles.” See ''Anglian'', ''Anglo-Saxon'', and ''English''.}}\n\n'''angle<sup>3</sup>''' (ang′gl), ''n.'' [< ME. ''angle'', ''aungel'', sometimes ''angule'', < OF. ''angle'' = Pr. ''angle'' = Sp. Pg. ''angulo'', It. ''angolo'', < L. ''angulus'', a corner, an angle, prob. orig. *''anculus'' (cf. ''ancus'', bent, crooked) = Gr. ἀγκύλος, bent, crooked, curved, connected with ἀγκών, the bend of the arm, the elbow (see ''ancon''), ἄγκος, a glen, dell (prop. a bend, hollow), ὄγκος, a hook, barb, angle, = L. ''uncus'', bent, curved, a hook (see ''uncous''); all appar. < √ *''ank'', bend (appearing also in Gr. ἄγκυρα, > L. ''ancora'', > E. ''anker''<sup>1</sup>, ''anchor''<sup>1</sup>),",
+   "c2s3": "Skt. √''anch'', bend, and prob. connected with the Teut. group represented by ''angle''<sup>1</sup>: see ''angle''<sup>1</sup>.] '''1.''' The difference in direction of two intersecting lines; the space included between two intersecting lines; the figure or projection formed by the meeting of two lines; a corner. {{smaller|In ''geom.'', a ''plane'' angle is one formed by two lines, straight or curved, which meet in a plane; a ''rectilinear'' angle, one formed by two straight lines. The point where the lines meet is called the ''vertex'' of the angle, or the ''angular point'', and the lines which contain the angle are called its ''sides'' or ''legs''. The magnitude of the angle does not depend upon the length of the lines which form it, but merely on their relative positions. It is measured by the length of a circular arc of unit radius having for its center the vertex of}}\n[[FIGURE]]\n{{c|{{smaller|Fig. 1.}}}}",
+   "c2s4": "the angle, or point of intersection of the sides. Thus, the angle FEA, fig. 1, is measured by 32 degrees of the circumference, or the arc AF. Angular magnitudes are also expressed in ''quadrants'' of four to the circumference, in ''hours'' of six to the quadrant, in ''sexagesimal degrees'' of 90 to the quadrant, (rarely) in ''centesimal degrees'' of 100 to the quadrant, etc. The arc whose length is equal to the radius subtends an angle of 57° 17′ 44″.8 nearly. Theoretically, the measure of an angle is the logarithm of the anharmonic ratio made by the two sides with the two tangents to the absolute intersecting at the vertex. Angles receive different names, according to their magnitude, their construction, their position, etc. When one straight line in-",
+   "c3s1": "tersects another so as to make the four angles so formed equal, these angles are called ''right'' angles, and each is measured by an arc equal to one fourth of a circumference, or 90 degrees. Thus, ACD, fig. 2, is a ''right'' angle.\n[[FIGURE]]\n{{c|{{smaller|Fig. 2.}}}}\nAn angle which is less than a right angle is ''acute'', as ACE. An ''obtuse'' angle is one which is greater than a right angle, as ECB. ''Acute'' and ''obtuse'' angles are both called ''oblique'', in opposition to ''right'' angles. A ''curvilinear'' angle is formed by the meeting of the tangents to two curved lines at their point of intersection. ''Adjacent'' or ''contiguous'' angles are such as have one leg common to both angles, both together being equal to two right angles. Thus, in fig. 2, ACE and ECB are ''adjacent'' angles. ''Conjugate'' angles are two angles having a common vertex and common legs, one being concave, the other convex. A ''straight'' angle is an angle of 180°. A ''reflex'' angle is the same as a convex angle. (See ''conjugate angles'', above.) ''Exterior'', ''external'', or ''outward'' angles are the angles of any rectilinear figure without it, made by producing one of the sides at each vertex, the angles formed within the figure being called ''interior'' angles. When one line intersects a pair of lines in a plane, of the eight angles so formed, those which are between the pair are called ''interior'', those without ''exterior''. Of the interior angles, a pair for different sides of the intersecting line, and at different intersected lines, are called ''alternate'' (which see). See ''radian''.",
+   "c3s2": "Hence —'''2.''' An angular projection; a projecting corner: as, the ''angles'' of a building.—'''3.''' In\n[[FIGURE]]\n{{c|{{smaller|Two Angles saltirewise interlaced, at each end an annulet. (From Berry’s “Dict. of Heraldry.”)}}}}\n''astrol.'', the 1st, 4th, 7th, or 10th house.—'''4.''' In ''anat.'', same as ''angulus.''—'''5.''' In ''her.'', a charge representing a narrow band or ribbon bent in an angle. [Rare.]{{smaller|—'''Angle of action''', in ''gearing'', the angle of revolution during which a tooth remains in contact.—'''Angle of commutation.''' See ''commutation.''}}\n[[FIGURE]]\n{{c|{{smaller|''A'', ''C'', ''B'', Angle of Crushing.}}}}\n{{smaller|—'''Angle of contact.''' See ''contact.''—'''Angle of the condyles.''' See ''craniometry.''—'''Angle of crushing''', in ''physics'', the angle which the fractured surface of a crushed pillar makes with the axis of the pillar. It is constant for any given material.—'''Angle of curvature''', the angle which measures the rate of divergence of a curve from a tangent to it at a given point. It is the angle included between the tangent and an infinitesimal portion of the curve.—'''Angle of defense''', in ''fort.'', the angle formed by the meeting of the line of defense with the line of the flank; the angle formed by producing the faces of the bastion.—'''Angle of departure''', in ''ordnance'', the angle which a line passing through the sights of a gun and the target makes with the tangent to the trajectory of the projectile as it leaves the gun. This angle differs from the angle of elevation in consequence of the muzzle being thrown up when the gun is discharged, and, when there is windage, because of the rebound of the shot from the sides of the bore near}}",
+   "c3s3": "",
+   "c3s4": "border.—'''Angle of weather,''' the angle at which the sail of a windmill is set.—'''Basilar angle.''' See ''craniometry.''—'''Carpal angle.''' See ''carpal.''—'''Characteristic angle of a curve.''' See ''characteristic.''—'''Chord of an angle.''' See ''chord.''—'''Clearance angle,''' in ''ordnance,'' the angle which a straight line, passing through the tops of the tangent-scale, dispart-sight, and muzzle-notch, makes with a line parallel to the axis of the piece. It varies with the position of the dispart-sight and the taper of the gun.—'''Coracoscapular angle.''' See ''coracoscapular.''—'''Coronofacial angle of Gratiolet.''' See ''craniometry.''—'''Cranial angle.''' See ''craniometry.''—'''Critical angle,''' in ''optics,'' the limiting angle of incidence which separates the totally reflected rays from those which (at least partially) escape into air. ''Tait,'' Light, § 117.—'''Dead angle,''' the space between a fortification and the nearest point which can be reached by the fire of its defenders. Within this space an assailant is safe, as the missiles from the fortification pass over his head. Also called ''dead space.''—'''Dihedral angle.''' See ''dihedral.''—'''Eccentric angle.''' See ''eccentric.''—'''Facial angle, frontal angle.''' See ''craniometry.''—'''Genal angle.''' See ''genal.''—'''Hour angle,''' in ''astron.,'' the angle between the meridian of a star and the meridian of the zenith, measured from the latter toward the west, and usually expressed in hours and fractions of an hour.—'''Metafacial angle, nasobasal angle, occipital angle, parietal angle.''' See"
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0238 c2f1.png",
+   "c3f1": "century v01 p0238 c3f1.png",
+   "c3f2": "century v01 p0238 c3f2.png",
+   "c3f3": "century v01 p0238 c3f3.png",
+   "c3f4": "century v01 p0238 c3f4.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1616,
+     326,
+     1875,
+     549
+    ],
+    "caption": [
+     1712,
+     561,
+     1781,
+     583
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1613,
+     383,
+     1803,
+     543
+    ]
+   },
+   {
+    "box": [
+     935,
+     2349,
+     1493,
+     2916
+    ],
+    "caption": [
+     1186,
+     2927,
+     1255,
+     2949
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     931,
+     2373,
+     1396,
+     2898
+    ]
+   },
+   {
+    "box": [
+     1616,
+     1069,
+     1844,
+     1327
+    ],
+    "caption": [
+     1616,
+     1343,
+     1844,
+     1445
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1609,
+     1079,
+     1814,
+     1323
+    ]
+   },
+   {
+    "box": [
+     2141,
+     1331,
+     2327,
+     1573
+    ],
+    "caption": [
+     2139,
+     1578,
+     2327,
+     1622
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     2076,
+     1333,
+     2282,
+     1574
+    ]
+   },
+   {
+    "box": [
+     2058,
+     2483,
+     2282,
+     2519
+    ],
+    "caption": null,
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     2058,
+     2483,
+     2282,
+     2519
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {
+   "c3s3": "0 figure mark(s) for 1 figure(s)"
+  },
+  "rejected": {
+   "c3s3": "{{smaller block|the muzzle.—'''Angle of depression.''' See ''depression.''—'''Angle of descent,''' in ''ordnance,'' the angle which a tangent to the trajectory of the projectile makes with the horizontal plane passing through the point of first graze or the point of impact.—'''Angle of direction,''' in ''mech.,'' an angle contained by the lines of direction of two conspiring forces.—'''Angle of divergence,''' in ''bot.,'' the angle between two successive leaves on the same stem. It is expressed as a fraction of the circumference of the stem, which is supposed to be a circle.—'''Angle of draft,''' for vehicles or heavy bodies, the angle which the line of direction of the pulling force makes with the plane over which the body is drawn.—'''Angle of elevation, incidence, inclination, polarization, position, reflection,''' and '''refraction.''' See ''elevation,'' etc.—'''Angle of repose,''' the greatest angle of obliquity of pressure between two planes which is consistent with stability, as of a weight upon an inclined plane: its tangent is the coefficient of friction. Sometimes called the ''angle of friction.'' Specifically, in ''arch.,'' the angle at which the voussoirs of an arch cease to have any tendency to slip, or to exert any thrust on the abutment. Rondelet’s experiments with well-wrought surfaces give angles ranging from 28° to 36°.—'''Angles of Segond.''' See ''craniometry.''—'''Angle of sight,''' in ''ordnance,'' the angle between a line drawn through the axis of the bore and a line drawn from the rear of the base-ring to the swell of the muzzle or to the top of the sight.—'''Angle of the jaw,''' in ''anat.,'' the point at which the vertical hinder edge of the ramus meets the horizontal inferior}}"
+  },
+  "disagreements": {
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    4,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 6,
+    "input_tokens": 8839,
+    "output_tokens": 1263,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 13,
+    "input_tokens": 10399,
+    "output_tokens": 9132,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 51558
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f1": "left",
+   "c3f2": "left",
+   "c3f3": "right",
+   "c3f4": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"2\" user=\"transcriber\" />{{RunningHeader|angiosis|212|angle}}</noinclude>{{nop}}'''angiosis''' (an-ji-ō′sis), ''n.''   [NL., < Gr. ἀγγεῖον, a vessel, + ''-osis''.]   Any disease of a blood-vessel.\n\n'''angiospasm''' (an′ji-ọ̄-spazm), ''n.''   [< Gr. ἀγγεῖον, a vessel, + σπάσμα, σπασμός, spasm.]   Spasm of the muscular wall of a blood-vessel.\n\n'''angiosperm''' (an′ji-ọ̄-spėrm), ''n.''   [< NL. ''angiospermus'', < Gr. ἀγγεῖον, a vessel, + σπέρμα, seed. Cf. Gr. ἐναγγειόσπερμος, also ἐναγγειοσπέρματος, angiospermous (< ἐν, in, etc.).]   A plant whose seeds are contained in a protecting seed-vessel. {{smaller|The term ''angiosperms'' is applied to the larger of the two divisions of exogens, in distinction from the ''gymnosperms'' (''Coniferæ'', ''Cycadaceæ'', etc.), the smaller division, in which the ovules and seeds are naked.}}\n\n'''angiospermal''' (an″ji-ọ̄-spėr′mạl), ''a.'' Same as ''angiospermous''.\n\n'''angiospermatous''' (an″ji-ọ̄-spėr′mạ-tus), ''a.'' Same as ''angiospermous''.\n\n'''Angiospermia''' (an″ji-ọ̄-spėr′mi-ä̤), ''n. pl.''   [NL., < ''angiospermus'': see ''angiosperm''.]   In ''bot.'', the second order of the Linnean class ''Didynamia'', having numerous seeds inclosed in an obvious seed-vessel, as in ''Digitalis''. {{smaller|The corresponding ''Gymnospermia'' of the same class included genera with achenium-like divisions of the pericarp, as in the ''Labiatæ'', which were mistaken for naked seeds.}}\n\n'''angiospermous''' (an″ji-ọ̄-spėr′mus), ''a.''   [< NL. ''angiospermus'': see ''angiosperm''.]   Having seeds inclosed in a seed-vessel, as the poppy, the rose, and most flowering plants: opposed to ''gymnospermous'', or naked-seeded. Equivalent forms are ''angiospermal'' and ''angiospermatous''.\n\n'''angiosporous''' (an″ji-os′pọ̄-rus), ''a.''   [< NL. ''angiosporus'', < Gr. ἀγγεῖον, a vessel, + σπόρος, a seed: see ''spore''.]   In ''bot.'', having the spores inclosed in a hollow receptacle: applied to such fungi as ''Lycoperdon''.\n\n'''Angiostomata''' (an″ji-ọ̄-stō′ma̤-tä̤), ''n. pl.''   [NL., neut. pl. of ''angiostomatus'': see ''angiostomatous''.]   '''1.''' A suborder of ophidians, comprising serpents in which the mouth is not dilatable, and which are provided with anal spurs. There are two families, ''Cylindrophidæ'' and ''Uropeltidæ''.—'''2.''' In ''conch.'', an artificial group of univalve gastropods whose shell has a narrow or contracted aperture, as cassidids, strombids, conids, olivids, cypræids, and others. Also written, corruptly, ''Angystomata'', and originally ''Angyostomata'' by De Blainville, 1818.\n\n'''angiostomatous''' (an″ji-ọ̄-stō′ma̤-tus), ''a.''   [< NL. ''angiostomatus'', < Gr. ἀγγεῖον, a vessel, jar (but L. ''angere'', compress, is appar. intended), + στόμα(τ-), mouth.]   '''1.''' Having a narrow, that is, not dilatable, mouth: said specifically of serpents of the suborder ''Angiostomata''.—'''2.''' In ''conch.'', having a narrow mouth or opening, as the shell in ''Oliva'' and ''Conus''.\n\n'''angiostomous''' (an″ji-os′tọ̄-mus), ''a.''   [< NL. ''angiostomus'', equiv. to ''angiostomatus'': see ''angiostomatous''.]   Same as ''angiostomatous''.\n\n'''angiotomy''' (an-ji-ot′ọ̄-mi), ''n.''   [< Gr. ἀγγεῖον, a vessel, + τομή, a cutting, < τέμνειν, ταμεῖν, cut. Cf. ''anatomy''.]   In ''anat.'', dissection of the lymphatics and blood-vessels.\n\n'''angle<sup>1</sup>''' (ang′gl), ''n.''   [< ME. ''angle'', ''angel'', ''angil'', < AS. ''angel'', ''angul'', ''ongul'', a hook, fish-hook (= OS. ''angul'' = OD. ''angel'', ''anghel'', a hook, fish-hook, sting, awn, beard (of grain), D. ''angel'' = LG. ''angel'', a hook, = OHG. ''angul'', MHG. G. ''angel'', a hook, fish-hook, sting, point, hinge (cf. OD. ''hangel'', ''hanghel'', ''hengel'', a hook, a hinge, D. ''hengel'', an angling-rod, G. dial. ''hängel'', a hook, ear, joint, these forms and senses being in part those of a different word, cognate with E. ''hinge'': see ''hinge'', ''hang''), = Icel. ''öngull'', a hook, = Dan. Sw. ''angel'', a hook), with formative ''-el'', ''-ul'', < ''anga'', ''onga'' (rare, and only in glosses), a sting, = OHG. ''ango'', a sting, hinge, MHG. ''ange'', a fish-hook, hinge, = Icel. ''angi'', a sting, spine, prickle, = Norw. ''ange'', ''angje'', a prong, jag, tooth. The earliest notion seems to have been ‘pointed,’ but the word also involved the notion of ‘bent,’ perhaps from a different source; cf. Gr. ἀγκύλος, bent, crooked, curved, = L. ''angulus'' for *''anculus'', a corner, angle; Gr. ὄγκος, a hook, barb, angle, = L. ''uncus'', a hook; bent, curved: see ''Angle''<sup>2</sup>, ''angle''<sup>3</sup>, ''ankylosis'', ''uncous''.]   '''1.''' A fishing-hook: often in later use extended to include the line or tackle, and even the rod. [Now rare.]\n{{smaller block|Give me mine ''angle'',—we’ll to the river.\n{{right|''Shak.'', A. and C., ii. 5.}}}}\n'''2†.''' One who or that which catches by stratagem or deceit.\n{{smaller block|A woman is bytterer than death, . . . for she is a very ''angle'', hir hert is a nett.\n{{right|''Coverdale'', tr. of Eccles. vii. 26.}}}}\n'''3†.''' [From the verb.] The act of angling.\n\n'''angle<sup>1</sup>''' (ang′gl), ''v.''; pret. and pp. ''angled'', ppr. ''angling''.   [< late ME. ''angle'', OD. ''angelen'', D. ''hengelen'' = G. ''angeln'' = Dan. ''angle''; from the noun.]   '''I.''' ''intrans.'' '''1.''' To fish with an angle, or with hook and line.\n{{smaller block|<poem>When the weather\nServes to ''angle'' in the brook,\nI will bring a silver hook.</poem>\n{{right|''Fletcher'', Faithful Shepherdess, iv. 2.}}}}\n{{smaller block|<poem>The lawyer in the pauses of the storm\nWent ''angling'' down the Saco.</poem>\n{{right|''Whittier'', Bridal of Pennacook.}}}}\n'''2.''' To try by artful means to catch or win over a person or thing, or to elicit an opinion: commonly with ''for''.\n{{smaller block|<poem>By this face,\nThis seeming brow of justice, did he win\nThe hearts of all that he did ''angle for''.</poem>\n{{right|''Shak.'', 1 Hen. IV., iv. 3.}}}}\n\n'''II.''' ''trans.'' '''1.''' To fish (a stream).—'''2†.''' To fish for or try to catch, as with an angle or hook.\n{{smaller block|He ''angled'' the people’s hearts. {{right|''Sir P. Sidney.''}}}}\n'''3†.''' To lure or entice, as with bait.\n{{smaller block|You have ''angled'' me on with much pleasure to the thatch’d house. {{right|''I. Walton'', Complete Angler, i.}}}}\n\n'''Angle<sup>2</sup>''' (ang′gl), ''n.''   [In mod. use only as a historical term; < L. ''Anglus'', usually in pl. ''Angli'' (first in Tacitus), repr. the OTeut. form found in AS. ''Angle'', ''Ongle'', ''Ængle'', reg. ''Engle'', pl. (in comp. ''Angel-'', ''Ongel-''), the people of ''Angel'', ''Angol'', ''Angul'', ''Ongul'' (= Icel. ''Öngull''), a district of what is now Schleswig-Holstein, said to be so named from ''angel'', ''angul'', ''ongul'', a hook, in ref. to its shape: see ''angle''<sup>1</sup>. Hence ''Anglo-'', ''Anglo-Saxon'', ''English'', q. v.]   One of a Teutonic tribe which in the earliest period of its recorded history dwelt in the neighborhood of the district now called Angeln, in Schleswig-Holstein, and which in the fifth century and later, accompanied by kindred tribes, the Saxons, Jutes, and Frisians, crossed over to Britain and colonized the greater part of it. {{smaller|The Angles were the most numerous of these settlers, and founded the three kingdoms of East Anglia, Mercia, and Northumbria. From them the entire country derived its name ''England'', the “land of the Angles.” See ''Anglian'', ''Anglo-Saxon'', and ''English''.}}\n\n'''angle<sup>3</sup>''' (ang′gl), ''n.''   [< ME. ''angle'', ''aungel'', sometimes ''angule'', < OF. ''angle'' = Pr. ''angle'' = Sp. Pg. ''angulo'', It. ''angolo'', < L. ''angulus'', a corner, an angle, prob. orig. *''anculus'' (cf. ''ancus'', bent, crooked) = Gr. ἀγκύλος, bent, crooked, curved, connected with ἀγκών, the bend of the arm, the elbow (see ''ancon''), ἄγκος, a glen, dell (prop. a bend, hollow), ὄγκος, a hook, barb, angle, = L. ''uncus'', bent, curved, a hook (see ''uncous''); all appar. < √ *''ank'', bend (appearing also in Gr. ἄγκυρα, > L. ''ancora'', > E. ''anker''<sup>1</sup>, ''anchor''<sup>1</sup>), Skt. √''anch'', bend, and prob. connected with the Teut. group represented by ''angle''<sup>1</sup>: see ''angle''<sup>1</sup>.]   '''1.''' The difference in direction of two intersecting lines; the space included between two intersecting lines; the figure or projection formed by the meeting of two lines; a corner. {{smaller|In ''geom.'', a ''plane'' angle is one formed by two lines, straight or curved, which meet in a plane; a ''rectilinear'' angle, one formed by two straight lines. The point where the lines meet is called the ''vertex'' of the angle, or the ''angular point'', and the lines which contain the angle are called its ''sides'' or ''legs''. The magnitude of the angle does not depend upon the length of the lines which form it, but merely on their relative positions. It is measured by the length of a circular arc of unit radius having for its center the vertex of}} the angle, or point of intersection of the sides. Thus, the angle FEA, fig. 1, is measured by 32 degrees of the circumference, or the arc AF. Angular magnitudes are also expressed in ''quadrants'' of four to the circumference, in ''hours'' of six to the quadrant, in ''sexagesimal degrees'' of 90 to the quadrant, (rarely) in ''centesimal degrees'' of 100 to the quadrant, etc. The arc whose length is equal to the radius subtends an angle of 57° 17′ 44″.8 nearly. Theoretically, the measure of an angle is the logarithm of the anharmonic ratio made by the two sides with the two tangents to the absolute intersecting at the vertex. Angles receive different names, according to their magnitude, their construction, their position, etc. When one straight line intersects another so as to make the four angles so formed equal, these angles are called ''right'' angles, and each is measured by an arc equal to one fourth of a circumference, or 90 degrees. Thus, ACD, fig. 2, is a ''right'' angle. {{img float|file=century v01 p0238 c3f1.png|width=137px|align=left|cap={{smaller|Fig. 2.}}}} An angle which is less than a right angle is ''acute'', as ACE. An ''obtuse'' angle is one which is greater than a right angle, as ECB. ''Acute'' and ''obtuse'' angles are both called ''oblique'', in opposition to ''right'' angles. A ''curvilinear'' angle is formed by the meeting of the tangents to two curved lines at their point of intersection. ''Adjacent'' or ''contiguous'' angles are such as have one leg common to both angles, both together being equal to two right angles. Thus, in fig. 2, ACE and ECB are ''adjacent'' angles. ''Conjugate'' angles are two angles having a common vertex and common legs, one being concave, the other convex. A ''straight'' angle is an angle of 180°. A ''reflex'' angle is the same as a convex angle. (See ''conjugate angles'', above.) ''Exterior'', ''external'', or ''outward'' angles are the angles of any rectilinear figure without it, made by producing one of the sides at each vertex, the angles formed within the figure being called ''interior'' angles. When one line intersects a pair of lines in a plane, of the eight angles so formed, those which are between the pair are called ''interior'', those without ''exterior''. Of the interior angles, a pair for different sides of the intersecting line, and at different intersected lines, are called ''alternate'' (which see). See ''radian''. Hence —'''2.''' An angular projection; a projecting corner: as, the ''angles'' of a building.—'''3.''' In {{img float|file=century v01 p0238 c3f2.png|width=122px|align=left|cap={{smaller|Two Angles saltirewise interlaced, at each end an annulet. (From Berry’s “Dict. of Heraldry.”)}}}} ''astrol.'', the 1st, 4th, 7th, or 10th house.—'''4.''' In ''anat.'', same as ''angulus.''—'''5.''' In ''her.'', a charge representing a narrow band or ribbon bent in an angle. [Rare.]{{smaller|—'''Angle of action''', in ''gearing'', the angle of revolution during which a tooth remains in contact.—'''Angle of commutation.''' See ''commutation.''}} {{img float|file=century v01 p0238 c3f3.png|width=98px|align=right|cap={{smaller|''A'', ''C'', ''B'', Angle of Crushing.}}<br />{{smaller|—'''Angle of contact.''' See ''contact.''—'''Angle of the condyles.''' See ''craniometry.''—'''Angle of crushing''', in ''physics'', the angle which the fractured surface of a crushed pillar makes with the axis of the pillar. It is constant for any given material.—'''Angle of curvature''', the angle which measures the rate of divergence of a curve from a tangent to it at a given point. It is the angle included between the tangent and an infinitesimal portion of the curve.—'''Angle of defense''', in ''fort.'', the angle formed by the meeting of the line of defense with the line of the flank; the angle formed by producing the faces of the bastion.—'''Angle of departure''', in ''ordnance'', the angle which a line passing through the sights of a gun and the target makes with the tangent to the trajectory of the projectile as it leaves the gun. This angle differs from the angle of elevation in consequence of the muzzle being thrown up when the gun is discharged, and, when there is windage, because of the rebound of the shot from the sides of the bore near}}}} {{img float|file=century v01 p0238 c3f4.png|width=120px|align=right|cap=}} border.—'''Angle of weather,''' the angle at which the sail of a windmill is set.—'''Basilar angle.''' See ''craniometry.''—'''Carpal angle.''' See ''carpal.''—'''Characteristic angle of a curve.''' See ''characteristic.''—'''Chord of an angle.''' See ''chord.''—'''Clearance angle,''' in ''ordnance,'' the angle which a straight line, passing through the tops of the tangent-scale, dispart-sight, and muzzle-notch, makes with a line parallel to the axis of the piece. It varies with the position of the dispart-sight and the taper of the gun.—'''Coracoscapular angle.''' See ''coracoscapular.''—'''Coronofacial angle of Gratiolet.''' See ''craniometry.''—'''Cranial angle.''' See ''craniometry.''—'''Critical angle,''' in ''optics,'' the limiting angle of incidence which separates the totally reflected rays from those which (at least partially) escape into air.   ''Tait,'' Light, § 117.—'''Dead angle,''' the space between a fortification and the nearest point which can be reached by the fire of its defenders. Within this space an assailant is safe, as the missiles from the fortification pass over his head. Also called ''dead space.''—'''Dihedral angle.''' See ''dihedral.''—'''Eccentric angle.''' See ''eccentric.''—'''Facial angle, frontal angle.''' See ''craniometry.''—'''Genal angle.''' See ''genal.''—'''Hour angle,''' in ''astron.,'' the angle between the meridian of a star and the meridian of the zenith, measured from the latter toward the west, and usually expressed in hours and fractions of an hour.—'''Metafacial angle, nasobasal angle, occipital angle, parietal angle.''' See\n\n[[File:century v01 p0238 c2f1.png|center|282px]]\n{{c|{{smaller|Fig. 1.}}}}<noinclude><references/></noinclude>"
+}

@@ -233,7 +233,7 @@ def run(a) -> int:
         batch.add_pages([(a.volume, p, scan_url(a.volume, p)) for p in picked[0]], scan)
     before = {pid for pid, p in batch.load()["pages"].items() if p["stage"] == "done"}
     if a.wait:
-        batch.run_until_done(scan, log=lambda s: print(json.dumps({k: v for k, v in s.items() if v}, default=str)))
+        batch.run_until_done(scan, log=lambda s: print(s, flush=True))
     else:
         print(json.dumps(batch.advance(scan), default=str, indent=1))
     state = batch.load()

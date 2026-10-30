@@ -1,0 +1,256 @@
+{
+ "volume": 1,
+ "page_number": 448,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n447.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n447.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 747,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     80,
+     142,
+     2308,
+     265
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     80,
+     265,
+     826,
+     1345
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     80,
+     1345,
+     826,
+     2385
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     80,
+     2385,
+     826,
+     3288
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     826,
+     265,
+     1574,
+     1215
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     826,
+     1215,
+     1574,
+     2080
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     826,
+     2080,
+     1574,
+     3124
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     826,
+     3124,
+     1574,
+     3288
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1574,
+     265,
+     2308,
+     1282
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1574,
+     1282,
+     2308,
+     2367
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     2076,
+     1464,
+     2290,
+     1944
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1574,
+     2367,
+     2308,
+     3288
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1583,
+     2442,
+     2101,
+     2693
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|bailee|422|bairman}}",
+   "c1s1": "bailment. He has a temporary possession of them and a qualified property in them for such purpose only.\n\n'''bailer'''<sup>1</sup>, ''n.'' [< ''bail''<sup>2</sup> + ''-er''<sup>1</sup>.] See ''bailor.''\n\n'''bailer'''<sup>2</sup> (bā′lėr), ''n.'' [< ''bail''<sup>4</sup> + ''-er''<sup>1</sup>.] '''1.''' One who bails out water, or frees a boat from water. —'''2.''' A vessel used for bailing water.\n{{smaller block|For river or lake work a sponge and ''baler'' may be sufficient, but for sea cruising an effective pump should be fitted.\n{{right|''Qualtrough'', Boat Sailer’s Manual, p. 194.}}}}\nAlso ''baler.''\n\n'''bailey'''<sup>1</sup> (bā′li), ''n.'' [Early mod. E. also ''baily, bailie,'' < ME. ''baily, bailie, baillie, bailly, baili,'' etc., an extended form (prob. after the ML. ''balium, ballium,'' a reflex of the OF. ''bail'') of ''bayle, bail,'' mod. E. ''bail,'' a barrier, etc.: see ''bail''<sup>3</sup>.] '''1.''' The external wall of defense about a feudal castle (see ''bail''<sup>3</sup>); by extension, any of the circuits of wall other than a keep or donjon, that is, any line of defense other than the innermost one. —'''2.''' As used by later writers, the outer court or base-court of a castle; by extension, any court of a defensive post used with a distinctive epithet. {{smaller|The ''inner bailey'' contained the stables and often the chapel, etc., and communicated directly with the keep; the ''outer bailey,'' when there were only two, more commonly contained the chapel and sometimes a tilt-yard, exercise-ground, or the like. The entranceway to a castle, after passing the defenses of the barbican, led first into the outer bailey and thence into the inner bailey; but it was usual for the keep to have also a separate communication with the exterior. [The word is still retained in some proper names, as in the ''Old Bailey,'' the seat of the central criminal court of London, so called from the ancient ''bailey'' of the city wall between Lud Gate and New Gate, within which it was situated.]}}\nAlso ''ballium.''",
+   "c1s2": "¶\n'''bailey<sup>2</sup>†''', ''n.'' See ''bailie''<sup>2</sup>.\n\n'''bailiage<sup>1</sup>''', ''n.'' See ''bailage.''\n\n'''bailiage<sup>2</sup>''', '''bailliage''' (bā′li-āj), ''n.'' [Formerly also ''baillage, baliage,'' and ''balliage'' (cf. ML. ''balliagium, baillagium, baliaticum''), < F. ''bailliage'' (= Pr. ''bailiatge'' = Sp. ''bailiage''), < ''bailli,'' a bailiff, bailie, + ''-age.''] The jurisdiction or district of a bailiff or bailli; a bailiwick: now used chiefly (in the form ''bailliage'') with reference to old French or to Swiss bailiwicks.\n{{smaller block|At first four ''bailliages'' were created. {{right|''Brougham.''}}\nThe several orders [in France] met in their ''bailliages'' in 1789, to choose their representatives [in the Assembly] and draw up their grievances and instructions.\n{{right|''John Morley,'' Burke, p. 161.}}}}\n\n'''bailiary''', ''n.'' See ''bailiery.''\n\n'''bailie<sup>1</sup>†''', ''n.'' An obsolete spelling of ''bailey''<sup>1</sup>.\n\n'''bailie<sup>2</sup>''' (bā′li), ''n.'' [Now only as Sc., also spelled ''baillie, baily,'' early mod. E. also ''baily, bailey, bayley,'' etc., < ME. ''baylie, bayly, baillie, baili, bailli,'' < OF. ''bailli,'' earlier ''baillif,'' > E. ''bailiff,'' of which ''bailie''<sup>2</sup> is thus a doublet: see ''bailiff.''] '''1†.''' A bailiff.—'''2.''' In Scotland: (''a''†) The chief magistrate of a barony or part of a county, having functions equivalent to those of a sheriff. (''b'') A municipal officer or magistrate, corresponding to an alderman in England. {{smaller|He possesses a certain jurisdiction by common law as well as by statute. The criminal jurisdiction of the provost and bailies of royal burghs extends to breaches of the peace, drunkenness, adulteration of articles of diet, thefts not of an aggravated character, and other offenses of a less serious nature. Formerly, a person appointed by precept of sasine to give infeftment in land (a legal formality now abolished) was also called a ''bailie.''}}",
+   "c1s3": "¶\n'''bailie'''<sup>3</sup>†, ''n.'' See ''baily''<sup>3</sup>.\n\n'''bailiery, bailiary''' (bā′li-e̤-ri, -ā-ri), ''n.'' [Early mod. E. also ''baillierie'', etc., < F. as if *''baillerie'', < ''bailli'': see ''bailie''<sup>2</sup> and ''-ery''.] In ''Scots law'', a bailie’s jurisdiction. Also ''bailliery'', ''bailliary''.—{{smaller|'''Letter of bailiery''', a commission by which a heritable proprietor, entitled to grant such a commission, appoints a baron bailie, with the usual powers, to hold courts, appoint officers under him, etc.}}\n\n'''bailiff''' (bā′lif), ''n.'' [Early mod. E. also ''bayliff'', ''baliffe'', ''bailive'', etc., < ME. ''bailif'', ''baillif'', ''balyf'', etc. (ML. ''ballivus''), < OF. ''baillif'' (later ''bailli'', E. ''bailie''<sup>2</sup>, q. v.), < ML. *''bajulivus'', prop. adj., < ''bajulus'', an administrator, manager, guardian, tutor, etc., in L. a carrier, porter: see ''bail''<sup>2</sup>, ''v.''] '''1.''' A subordinate civil officer or functionary.\n{{smaller block|There are in England several kinds of bailiffs, whose offices differ widely, but all agree in this, that the keeping or protection of something belongs to them. The sheriff is the sovereign’s bailiff, and his county is a bailiwick. The name is also applied to the chief magistrates of some towns, to keepers of royal castles, as of Dover, to persons having the conservation of the peace in hundreds and in some special jurisdictions, as Westminster, and to the returning-officers in the same. But the officials commonly designated by this name are the ''bailiffs'' of sheriffs, or sheriffs’ officers, who execute processes, etc., and ''bailiffs'' of liberties, appointed by the lords in their respective jurisdictions to perform similar functions.}}\n'''2.''' An overseer or under-steward on an estate, appointed to manage forests, direct husbandry operations, collect rents, etc. Also called a",
+   "c2s1": "{{smaller|—Bailiff of forests, or bailiff in husbandry. See above, 2.—'''High bailiff''', in England: (''a'') The chief officer of certain corporations. (''b'') The officer of a county court. (''c'') The officer who serves writs and the like in certain franchises not subject to the ordinary jurisdiction of the sheriff.—'''Special bailiff''', a person named by a party in a civil suit for the purpose of executing some particular process therein, and appointed by the sheriff on the application of such party.—'''Water-bailiff''', in England, an officer employed in protecting a river from poachers and from being fished at other times or in other ways than those permitted by law.}}\n\n'''bailiffry†''' (bā′lif-ri), ''n.'' [Early mod. E. also ''bailivery''; < ''bailiff'' + ''-ry''.] The office or jurisdiction of a bailiff.\n\n'''bailiffship''' (bā′lif-ship), ''n.'' [< ''bailiff'' + ''-ship''.] The office of bailiff.\n\n'''bailiffwick†''' (bā′lif-wik), ''n.'' [< ''bailiff'' + ''-wick''. Cf. ''bailiwick''.] The office of a bailiff or a sheriff, or the district under his jurisdiction; a bailiwick.\n\n'''bailing-machine''' (bā′ling-mạ-shēn″), ''n.'' A form of bail-scoop (which see).\n\n'''bailiwick''' (bā′li-wik), ''n.'' [< ME. ''bailie-'', ''bayly-'', etc., + ''-wike'', etc.; < ''bailie''<sup>2</sup> + ''-wick''.] The county within which a sheriff exercises his office; the precincts in which a bailiff has jurisdiction; the limits of a bailiff’s authority, as (in England) a hundred, a liberty, or a forest over which a bailiff is appointed.\n{{smaller block|There is a proper officer allreadye appoynted for these turnes, to witt the sheriff of the shire, whose peculiar office it is to walke continuallye up and downe his ''balywick'', as ye would have a marshall.\n{{right|''Spenser'', State of Ireland.}}}}",
+   "c2s2": "¶\n'''bailliage,''' ''n.'' [F.] See ''bailiage''<sup>2</sup>.\n\n'''baillie<sup>1</sup>†,''' ''n.'' See ''bailey''<sup>1</sup>.\n\n'''baillie<sup>2</sup>†,''' ''n.'' See ''bailie''<sup>2</sup>.\n\n'''baillie<sup>3</sup>†,''' ''n.'' See ''baily''<sup>3</sup>.\n\n'''baillie-brushkie''' (bā″li-brush′ki), ''n.'' [Native name in Alaska.] The parrakeet-auklet, ''Phaleris'' or ''Ombria psittacula. H. W. Elliott.''\n\n'''bailliery, bailliary,''' ''n.'' See ''bailiery.''\n\n'''baillon''' (F. pron. ba-lyôṅ′), ''n.'' [< F. ''baillon,'' a gag, of uncertain origin; either (1) dim. (as if < L. *''baculo,'' *''baculon-'') of OF. ''baille, bail,'' a bar, barrier (see ''bail''<sup>3</sup>); or (2), written ''bâillon,'' < ''bâiller,'' OF. ''baailler, baailer'' = Pr. ''badaillar'' = Cat. ''badallar'' = It. ''sbadigliare,'' gape (cf. ML. ''badallum,'' a gag), < ML. ''badare,'' gape, open the mouth: see ''bay''<sup>4</sup>.] A gag; specifically, a piece of cork or other material used to keep the mouth open during operations, dental or surgical, in the mouth.\n\n'''bailloné''' (ba-lyo-nā′), ''a.'' [< F. ''bâillonné,'' pp. of ''bâillonner,'' gag, < ''bâillon,'' a gag: see ''baillon.''] In ''her.,'' holding a stick between the teeth: said of an animal used as a bearing.\n\n'''bailment''' (bāl′ment), ''n.'' [Early mod. E. also ''bailement,'' < OF. ''baillement,'' < ''bailler,'' deliver, bail: see ''bail''<sup>2</sup>, ''v.,'' and ''-ment.''] '''1.''' The contract or legal relation which is constituted by the",
+   "c2s3": "delivery of goods without transference of ownership, on an agreement expressed or implied that they be returned or accounted for, as a loan, a consignment, a delivery to a carrier, a pledge, a deposit for safe keeping, or a letting on hire.—'''2.''' The act of bailing a prisoner or an accused person; also, the record of or documents relating to such a bailing.\n\n'''bailo''' (bä′i-lō), ''n.'' [It., < ML. ''bajulus'', a manager, administrator, guardian, etc.: see ''bail''<sup>2</sup>, ''v.''] The title of the Venetian Resident at the Ottoman Porte. ''N. E. D.''\n\n'''bailor, bailer'''<sup>1</sup> (bā′lo̤r, -lėr), ''n.'' [< ''bail''<sup>2</sup>, ''v.'', + ''-or'', ''-er''<sup>1</sup>.] In ''law'', one who delivers goods to another in bailment. See ''bailment'', 1.\n\n'''bail-piece''' (bāl′pēs), ''n.'' In ''law'', a certificate issued to a person by a court attesting his acceptance as a surety in a case before it.\n\n'''bail-scoop''' (bāl′sköp), ''n.'' [< ''bail''<sup>4</sup> + ''scoop''.] A scoop pivoted at one end, fitted with valves, and so arranged that a large quantity of water may be raised by it through a short distance: used in draining and irrigating.\n\n'''bailsman''' (bālz′man), ''n.''; pl. ''bailsmen'' (-men). [< ''bail’s'', poss. of ''bail''<sup>2</sup>, ''n.'', + ''man''.] One who gives bail for another; a surety or bail.\n\n'''baily'''<sup>1</sup>'''†''' (bā′li), ''n.'' Obsolete spelling of ''bailey''<sup>1</sup>.\n\n'''baily'''<sup>2</sup>'''†''' (bā′li), ''n.'' The regular English spelling of the word now used only in the Scotch spelling ''bailie''. See ''bailie''<sup>2</sup>.\n{{smaller block|Lausanne is under the canton of Berne, governed by a ''baily'', sent every three years from the senate of Berne.\n{{right|''Addison'', Travels in Italy.}}}}",
+   "c2s4": "¶\n'''baily<sup>3</sup>†''' (bā′li), ''n.'' [Also ''bailie'', < ME. ''bailie'', ''bayly'', ''baly'', ''bailly'', ''baillye'', ''baillie'', ''baili'', < OF. ''bailie'', ''baillie'' = Pr. ''bailia'' = Sp. ''bailia'' = It. ''balia'' (ML. ''balia'', ''ballia'', ''bailia'', ''baillia'', ''baylia'', ''bayllia''), < ML. ''bajulia'', the jurisdiction or office of a bai-",
+   "c3s1": "tion, authority, or office of a bailiff or bailie; hence, jurisdiction or authority, especially as delegated; stewardship.—'''2.''' The district of a bailiff or bailie; a bailiwick.\n\n'''Baily’s beads.''' See ''bead.''\n\n'''bain<sup>1</sup>''' (bān), ''a.'' [Now only E. dial., also written ''bane'', < ME. ''bayne'', ''bayn'', ''beyn'', < Icel. ''beinn'', straight, direct, hospitable, = Norw. ''bein'', straight, direct, easy to deal with.] '''1.''' Direct; near; short: as, that way’s the ''bainest'' (''banest''). [Prov. Eng.]—'''2†.''' Ready; willing.\n{{smaller block|{{c|Be thou buxom and right ''bayn.''}}\n{{right|''Towneley Mysteries'', p. 168.}}}}\n'''3†.''' Limber; pliant; flexible.\n\n'''bain<sup>1</sup>''' (bān), ''adv.'' [E. dial., also ''bane'', < ME. ''bayn'', bain; from the adj.] '''1.''' Near by; at hand. [Prov. Eng.]—'''2†.''' Readily; willingly.\n{{smaller block|{{c|The berne besily and ''bane'' blenkit hem about.}}\n{{right|''Gawan and Gologras'', i. 6 (in Pinkerton’s Scottish Poems).}}}}\n\n'''bain<sup>2</sup>†''' (bān), ''n.'' [Early mod. E. also ''bane'', < ME. ''bayne'', ''baine'', < OF. and F. ''bain'' = Pr. ''banh'' = Sp. ''baño'' = Pg. ''banho'' = It. ''bagno'' (> F. ''bagne'', E. ''bagnio'', q. v.), < L. ''balneum'', a bath, bath-house: see ''balneum''.] '''1.''' A bath, in any of the senses of that word.—'''2.''' A bagnio or brothel.\n\n'''bain<sup>2</sup>†''' (bān), ''v.'' [< ME. ''baynen'', < OF. ''baigner'' = Pr. Pg. ''banhar'' = Sp. ''bañar'' = It. ''bagnare'', < ML. ''balneare'', bathe, < L. ''balneum'', a bath: see ''bain''<sup>2</sup>, ''n.''] '''I.''' ''trans.'' To bathe; wash.\n{{smaller block|<poem>He that in Eurotas’ silver glide\nDoth ''bain'' his tress.</poem>\n{{right|''Greene'', Palmer’s Verses.}}}}\n'''II.''' ''intrans.'' To bathe one’s self; take a bath.",
+   "c3s2": "¶\n'''bain<sup>3</sup>†''', etc. Obsolete spelling of ''bane'', ''bone'', etc.\n\n'''bainberg†''' (bān′bėrg), ''n.'' [Appar. F., < G. *''beinberg'' (not found) = AS. ''bānbeorg'', ''bānberge'', ''bāngebeorg'', also called ''scancgebeorg'', lit. ‘bone- or leg-guard’ (cf. ''cinberge'', ‘chin-guard’; ''healsbeorh'', ‘neck-guard,’ hauberk:\n[[FIGURE]]\n{{c|{{smaller|Bainberg worn over chausses of chain-mail. (From Viollet-le-Duc’s “Dict. du Mobilier français.”)}}}}\nsee ''hauberk''), < ''bān'', bone (= G. ''bein'', leg), or ''scanca'', shank, leg, + ''beorgan'', protect.] A name given to the plate-armor of the leg below the knee, when first introduced. It was worn over the chain-mail, to protect the shin.\n\n'''Baines’s act.''' See ''act''.\n\n'''bainie''' (bā′ni), ''a.'' Scotch form of ''bony''.\n\n'''bain-marie''' (F. pron. baṅ-ma-rē′), ''n.'' [F., formerly ''bain de Marie'', < ML. ''balneum Mariæ'', lit. bath of Mary; a fanciful name, perhaps in allusion to the ‘gentle’ heat. The second element is sometimes erroneously referred to L. ''mare'', sea.] A vessel of any kind containing heated water, in which another vessel is placed in order to heat its contents gently, or with more regularity and evenness than if the heat were applied directly to the second vessel: used in some operations of cooking, manufacture, chemistry, etc. Also called ''water-bath.''\n\n'''bains†''', ''n. pl.'' Another spelling of ''banes'', obsolete form of ''banns''. ''Spenser.''",
+   "c3s3": "¶\n'''baiocco, bajocco''' (bä-yok′kọ̄), ''n.''; pl. ''baiocchi'', ''bajocchi'' (-kē). [Formerly in E. ''baiock'', ''byok''\n[[FIGURE]]\n{{c|{{smaller|Obverse. Reverse.<br>Baiocco of Pope Pius VI., British Museum.<br>(Size of the original.)}}}}\n(after F. ''baïocque'', ''baïoque''), < It. ''baiocco'', ''bajocco'', a small coin, so called from its color, < ''baio'', ''bajo'', brown bay: see ''bay''<sup>6</sup>.] A small coin of the former Papal States, struck in both silver and copper, worth about a cent.\n\n'''Bairam''' (bī-räm′, bī′räm), ''n.'' [Formerly ''bayram'', ''beyram'', < Turk. ''bairām'', ''bayrām'', ''beiram'', < Pers. ''bairām''.] The name of two festivals in the Mohammedan year, distinguished as the ''lesser'' and the ''greater''. {{smaller|The ''lesser Bairam'' follows immediately after the fast strictly kept during the ninth month Ramadan, in the first three days of the tenth month, and is devoted to feasting, rejoicing, visiting, and gifts, very much as our Christmas holiday season is spent. The ''greater Bairam'' occurs on the tenth day of the twelfth month, and is everywhere observed with the slaughter of sheep and general festivity by those at home, simultaneously with the great sacrificial feast at Mecca concluding the ceremonies of the annual pilgrimage by the hadjis. Also spelled ''Beiram''.}}\n\n'''bairman†''', ''n.'' See ''bareman''."
+  },
+  "figure_files": {
+   "c3f1": "century v01 p0448 c3f1.png",
+   "c3f2": "century v01 p0448 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     2088,
+     1476,
+     2278,
+     1932
+    ],
+    "caption": [
+     2060,
+     1950,
+     2309,
+     2051
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     2092,
+     1433,
+     2323,
+     1944
+    ]
+   },
+   {
+    "box": [
+     1595,
+     2454,
+     2089,
+     2681
+    ],
+    "caption": [
+     1617,
+     2686,
+     2065,
+     2755
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1600,
+     2391,
+     2054,
+     2674
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 3,
+    "input_tokens": 5527,
+    "output_tokens": 179,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9536,
+    "output_tokens": 9896,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f1": "right",
+   "c3f2": "left"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|bailee|422|bairman}}</noinclude>bailment. He has a temporary possession of them and a qualified property in them for such purpose only.\n\n'''bailer'''<sup>1</sup>, ''n.''   [< ''bail''<sup>2</sup> + ''-er''<sup>1</sup>.]   See ''bailor.''\n\n'''bailer'''<sup>2</sup> (bā′lėr), ''n.''   [< ''bail''<sup>4</sup> + ''-er''<sup>1</sup>.]   '''1.''' One who bails out water, or frees a boat from water. —'''2.''' A vessel used for bailing water.\n{{smaller block|For river or lake work a sponge and ''baler'' may be sufficient, but for sea cruising an effective pump should be fitted.\n{{right|''Qualtrough'', Boat Sailer’s Manual, p. 194.}}}}\nAlso ''baler.''\n\n'''bailey'''<sup>1</sup> (bā′li), ''n.''   [Early mod. E. also ''baily, bailie,'' < ME. ''baily, bailie, baillie, bailly, baili,'' etc., an extended form (prob. after the ML. ''balium, ballium,'' a reflex of the OF. ''bail'') of ''bayle, bail,'' mod. E. ''bail,'' a barrier, etc.: see ''bail''<sup>3</sup>.]   '''1.''' The external wall of defense about a feudal castle (see ''bail''<sup>3</sup>); by extension, any of the circuits of wall other than a keep or donjon, that is, any line of defense other than the innermost one. —'''2.''' As used by later writers, the outer court or base-court of a castle; by extension, any court of a defensive post used with a distinctive epithet. {{smaller|The ''inner bailey'' contained the stables and often the chapel, etc., and communicated directly with the keep; the ''outer bailey,'' when there were only two, more commonly contained the chapel and sometimes a tilt-yard, exercise-ground, or the like. The entranceway to a castle, after passing the defenses of the barbican, led first into the outer bailey and thence into the inner bailey; but it was usual for the keep to have also a separate communication with the exterior. [The word is still retained in some proper names, as in the ''Old Bailey,'' the seat of the central criminal court of London, so called from the ancient ''bailey'' of the city wall between Lud Gate and New Gate, within which it was situated.]}}\nAlso ''ballium.''\n\n'''bailey<sup>2</sup>†''', ''n.'' See ''bailie''<sup>2</sup>.\n\n'''bailiage<sup>1</sup>''', ''n.'' See ''bailage.''\n\n'''bailiage<sup>2</sup>''', '''bailliage''' (bā′li-āj), ''n.''   [Formerly also ''baillage, baliage,'' and ''balliage'' (cf. ML. ''balliagium, baillagium, baliaticum''), < F. ''bailliage'' (= Pr. ''bailiatge'' = Sp. ''bailiage''), < ''bailli,'' a bailiff, bailie, + ''-age.'']   The jurisdiction or district of a bailiff or bailli; a bailiwick: now used chiefly (in the form ''bailliage'') with reference to old French or to Swiss bailiwicks.\n{{smaller block|At first four ''bailliages'' were created. {{right|''Brougham.''}}}}\n{{smaller block|The several orders [in France] met in their ''bailliages'' in 1789, to choose their representatives [in the Assembly] and draw up their grievances and instructions.\n{{right|''John Morley,'' Burke, p. 161.}}}}\n\n'''bailiary''', ''n.'' See ''bailiery.''\n\n'''bailie<sup>1</sup>†''', ''n.'' An obsolete spelling of ''bailey''<sup>1</sup>.\n\n'''bailie<sup>2</sup>''' (bā′li), ''n.''   [Now only as Sc., also spelled ''baillie, baily,'' early mod. E. also ''baily, bailey, bayley,'' etc., < ME. ''baylie, bayly, baillie, baili, bailli,'' < OF. ''bailli,'' earlier ''baillif,'' > E. ''bailiff,'' of which ''bailie''<sup>2</sup> is thus a doublet: see ''bailiff.'']   '''1†.''' A bailiff.—'''2.''' In Scotland: (''a''†) The chief magistrate of a barony or part of a county, having functions equivalent to those of a sheriff. (''b'') A municipal officer or magistrate, corresponding to an alderman in England. {{smaller|He possesses a certain jurisdiction by common law as well as by statute. The criminal jurisdiction of the provost and bailies of royal burghs extends to breaches of the peace, drunkenness, adulteration of articles of diet, thefts not of an aggravated character, and other offenses of a less serious nature. Formerly, a person appointed by precept of sasine to give infeftment in land (a legal formality now abolished) was also called a ''bailie.''}}\n\n'''bailie'''<sup>3</sup>†, ''n.'' See ''baily''<sup>3</sup>.\n\n'''bailiery, bailiary''' (bā′li-e̤-ri, -ā-ri), ''n.''   [Early mod. E. also ''baillierie'', etc., < F. as if *''baillerie'', < ''bailli'': see ''bailie''<sup>2</sup> and ''-ery''.]   In ''Scots law'', a bailie’s jurisdiction. Also ''bailliery'', ''bailliary''.—{{smaller|'''Letter of bailiery''', a commission by which a heritable proprietor, entitled to grant such a commission, appoints a baron bailie, with the usual powers, to hold courts, appoint officers under him, etc.}}\n\n'''bailiff''' (bā′lif), ''n.''   [Early mod. E. also ''bayliff'', ''baliffe'', ''bailive'', etc., < ME. ''bailif'', ''baillif'', ''balyf'', etc. (ML. ''ballivus''), < OF. ''baillif'' (later ''bailli'', E. ''bailie''<sup>2</sup>, q. v.), < ML. *''bajulivus'', prop. adj., < ''bajulus'', an administrator, manager, guardian, tutor, etc., in L. a carrier, porter: see ''bail''<sup>2</sup>, ''v.'']   '''1.''' A subordinate civil officer or functionary.\n{{smaller block|There are in England several kinds of bailiffs, whose offices differ widely, but all agree in this, that the keeping or protection of something belongs to them. The sheriff is the sovereign’s bailiff, and his county is a bailiwick. The name is also applied to the chief magistrates of some towns, to keepers of royal castles, as of Dover, to persons having the conservation of the peace in hundreds and in some special jurisdictions, as Westminster, and to the returning-officers in the same. But the officials commonly designated by this name are the ''bailiffs'' of sheriffs, or sheriffs’ officers, who execute processes, etc., and ''bailiffs'' of liberties, appointed by the lords in their respective jurisdictions to perform similar functions.}}\n'''2.''' An overseer or under-steward on an estate, appointed to manage forests, direct husbandry operations, collect rents, etc. Also called a {{smaller|—Bailiff of forests, or bailiff in husbandry. See above, 2.—'''High bailiff''', in England: (''a'') The chief officer of certain corporations. (''b'') The officer of a county court. (''c'') The officer who serves writs and the like in certain franchises not subject to the ordinary jurisdiction of the sheriff.—'''Special bailiff''', a person named by a party in a civil suit for the purpose of executing some particular process therein, and appointed by the sheriff on the application of such party.—'''Water-bailiff''', in England, an officer employed in protecting a river from poachers and from being fished at other times or in other ways than those permitted by law.}}\n\n'''bailiffry†''' (bā′lif-ri), ''n.''   [Early mod. E. also ''bailivery''; < ''bailiff'' + ''-ry''.]   The office or jurisdiction of a bailiff.\n\n'''bailiffship''' (bā′lif-ship), ''n.''   [< ''bailiff'' + ''-ship''.]   The office of bailiff.\n\n'''bailiffwick†''' (bā′lif-wik), ''n.''   [< ''bailiff'' + ''-wick''. Cf. ''bailiwick''.]   The office of a bailiff or a sheriff, or the district under his jurisdiction; a bailiwick.\n\n'''bailing-machine''' (bā′ling-mạ-shēn″), ''n.'' A form of bail-scoop (which see).\n\n'''bailiwick''' (bā′li-wik), ''n.''   [< ME. ''bailie-'', ''bayly-'', etc., + ''-wike'', etc.; < ''bailie''<sup>2</sup> + ''-wick''.]   The county within which a sheriff exercises his office; the precincts in which a bailiff has jurisdiction; the limits of a bailiff’s authority, as (in England) a hundred, a liberty, or a forest over which a bailiff is appointed.\n{{smaller block|There is a proper officer allreadye appoynted for these turnes, to witt the sheriff of the shire, whose peculiar office it is to walke continuallye up and downe his ''balywick'', as ye would have a marshall.\n{{right|''Spenser'', State of Ireland.}}}}\n\n'''bailliage,''' ''n.''   [F.]   See ''bailiage''<sup>2</sup>.\n\n'''baillie<sup>1</sup>†,''' ''n.'' See ''bailey''<sup>1</sup>.\n\n'''baillie<sup>2</sup>†,''' ''n.'' See ''bailie''<sup>2</sup>.\n\n'''baillie<sup>3</sup>†,''' ''n.'' See ''baily''<sup>3</sup>.\n\n'''baillie-brushkie''' (bā″li-brush′ki), ''n.''   [Native name in Alaska.]   The parrakeet-auklet, ''Phaleris'' or ''Ombria psittacula. H. W. Elliott.''\n\n'''bailliery, bailliary,''' ''n.'' See ''bailiery.''\n\n'''baillon''' (F. pron. ba-lyôṅ′), ''n.''   [< F. ''baillon,'' a gag, of uncertain origin; either (1) dim. (as if < L. *''baculo,'' *''baculon-'') of OF. ''baille, bail,'' a bar, barrier (see ''bail''<sup>3</sup>); or (2), written ''bâillon,'' < ''bâiller,'' OF. ''baailler, baailer'' = Pr. ''badaillar'' = Cat. ''badallar'' = It. ''sbadigliare,'' gape (cf. ML. ''badallum,'' a gag), < ML. ''badare,'' gape, open the mouth: see ''bay''<sup>4</sup>.]   A gag; specifically, a piece of cork or other material used to keep the mouth open during operations, dental or surgical, in the mouth.\n\n'''bailloné''' (ba-lyo-nā′), ''a.''   [< F. ''bâillonné,'' pp. of ''bâillonner,'' gag, < ''bâillon,'' a gag: see ''baillon.'']   In ''her.,'' holding a stick between the teeth: said of an animal used as a bearing.\n\n'''bailment''' (bāl′ment), ''n.''   [Early mod. E. also ''bailement,'' < OF. ''baillement,'' < ''bailler,'' deliver, bail: see ''bail''<sup>2</sup>, ''v.,'' and ''-ment.'']   '''1.''' The contract or legal relation which is constituted by the delivery of goods without transference of ownership, on an agreement expressed or implied that they be returned or accounted for, as a loan, a consignment, a delivery to a carrier, a pledge, a deposit for safe keeping, or a letting on hire.—'''2.''' The act of bailing a prisoner or an accused person; also, the record of or documents relating to such a bailing.\n\n'''bailo''' (bä′i-lō), ''n.''   [It., < ML. ''bajulus'', a manager, administrator, guardian, etc.: see ''bail''<sup>2</sup>, ''v.'']   The title of the Venetian Resident at the Ottoman Porte.   ''N. E. D.''\n\n'''bailor, bailer'''<sup>1</sup> (bā′lo̤r, -lėr), ''n.''   [< ''bail''<sup>2</sup>, ''v.'', + ''-or'', ''-er''<sup>1</sup>.]   In ''law'', one who delivers goods to another in bailment. See ''bailment'', 1.\n\n'''bail-piece''' (bāl′pēs), ''n.'' In ''law'', a certificate issued to a person by a court attesting his acceptance as a surety in a case before it.\n\n'''bail-scoop''' (bāl′sköp), ''n.''   [< ''bail''<sup>4</sup> + ''scoop''.]   A scoop pivoted at one end, fitted with valves, and so arranged that a large quantity of water may be raised by it through a short distance: used in draining and irrigating.\n\n'''bailsman''' (bālz′man), ''n.''; pl. ''bailsmen'' (-men).   [< ''bail’s'', poss. of ''bail''<sup>2</sup>, ''n.'', + ''man''.]   One who gives bail for another; a surety or bail.\n\n'''baily'''<sup>1</sup>'''†''' (bā′li), ''n.'' Obsolete spelling of ''bailey''<sup>1</sup>.\n\n'''baily'''<sup>2</sup>'''†''' (bā′li), ''n.'' The regular English spelling of the word now used only in the Scotch spelling ''bailie''. See ''bailie''<sup>2</sup>.\n{{smaller block|Lausanne is under the canton of Berne, governed by a ''baily'', sent every three years from the senate of Berne.\n{{right|''Addison'', Travels in Italy.}}}}\n\n'''baily<sup>3</sup>†''' (bā′li), ''n.''   [Also ''bailie'', < ME. ''bailie'', ''bayly'', ''baly'', ''bailly'', ''baillye'', ''baillie'', ''baili'', < OF. ''bailie'', ''baillie'' = Pr. ''bailia'' = Sp. ''bailia'' = It. ''balia'' (ML. ''balia'', ''ballia'', ''bailia'', ''baillia'', ''baylia'', ''bayllia''), < ML. ''bajulia'', the jurisdiction or office of a baition, authority, or office of a bailiff or bailie; hence, jurisdiction or authority, especially as delegated; stewardship.—'''2.''' The district of a bailiff or bailie; a bailiwick.\n\n'''Baily’s beads.''' See ''bead.''\n\n'''bain<sup>1</sup>''' (bān), ''a.''   [Now only E. dial., also written ''bane'', < ME. ''bayne'', ''bayn'', ''beyn'', < Icel. ''beinn'', straight, direct, hospitable, = Norw. ''bein'', straight, direct, easy to deal with.]   '''1.''' Direct; near; short: as, that way’s the ''bainest'' (''banest''). [Prov. Eng.]—'''2†.''' Ready; willing.\n{{smaller block|{{c|Be thou buxom and right ''bayn.''}}\n{{right|''Towneley Mysteries'', p. 168.}}}}\n'''3†.''' Limber; pliant; flexible.\n\n'''bain<sup>1</sup>''' (bān), ''adv.''   [E. dial., also ''bane'', < ME. ''bayn'', bain; from the adj.]   '''1.''' Near by; at hand. [Prov. Eng.]—'''2†.''' Readily; willingly.\n{{smaller block|{{c|The berne besily and ''bane'' blenkit hem about.}}\n{{right|''Gawan and Gologras'', i. 6 (in Pinkerton’s Scottish Poems).}}}}\n\n'''bain<sup>2</sup>†''' (bān), ''n.''   [Early mod. E. also ''bane'', < ME. ''bayne'', ''baine'', < OF. and F. ''bain'' = Pr. ''banh'' = Sp. ''baño'' = Pg. ''banho'' = It. ''bagno'' (> F. ''bagne'', E. ''bagnio'', q. v.), < L. ''balneum'', a bath, bath-house: see ''balneum''.]   '''1.''' A bath, in any of the senses of that word.—'''2.''' A bagnio or brothel.\n\n'''bain<sup>2</sup>†''' (bān), ''v.''   [< ME. ''baynen'', < OF. ''baigner'' = Pr. Pg. ''banhar'' = Sp. ''bañar'' = It. ''bagnare'', < ML. ''balneare'', bathe, < L. ''balneum'', a bath: see ''bain''<sup>2</sup>, ''n.'']   '''I.''' ''trans.'' To bathe; wash.\n{{smaller block|<poem>He that in Eurotas’ silver glide\nDoth ''bain'' his tress.</poem>\n{{right|''Greene'', Palmer’s Verses.}}}}\n'''II.''' ''intrans.'' To bathe one’s self; take a bath.\n\n'''bain<sup>3</sup>†''', etc. Obsolete spelling of ''bane'', ''bone'', etc.\n\n'''bainberg†''' (bān′bėrg), ''n.''   [Appar. F., < G. *''beinberg'' (not found) = AS. ''bānbeorg'', ''bānberge'', ''bāngebeorg'', also called ''scancgebeorg'', lit. ‘bone- or leg-guard’ (cf. ''cinberge'', ‘chin-guard’; ''healsbeorh'', ‘neck-guard,’ hauberk: {{img float|file=century v01 p0448 c3f1.png|width=103px|align=right|cap={{smaller|Bainberg worn over chausses of chain-mail. (From Viollet-le-Duc’s “Dict. du Mobilier français.”)}}}} see ''hauberk''), < ''bān'', bone (= G. ''bein'', leg), or ''scanca'', shank, leg, + ''beorgan'', protect.]   A name given to the plate-armor of the leg below the knee, when first introduced. It was worn over the chain-mail, to protect the shin.\n\n'''Baines’s act.''' See ''act''.\n\n'''bainie''' (bā′ni), ''a.'' Scotch form of ''bony''.\n\n'''bain-marie''' (F. pron. baṅ-ma-rē′), ''n.''   [F., formerly ''bain de Marie'', < ML. ''balneum Mariæ'', lit. bath of Mary; a fanciful name, perhaps in allusion to the ‘gentle’ heat. The second element is sometimes erroneously referred to L. ''mare'', sea.]   A vessel of any kind containing heated water, in which another vessel is placed in order to heat its contents gently, or with more regularity and evenness than if the heat were applied directly to the second vessel: used in some operations of cooking, manufacture, chemistry, etc. Also called ''water-bath.''\n\n'''bains†''', ''n. pl.'' Another spelling of ''banes'', obsolete form of ''banns''. ''Spenser.''\n\n'''baiocco, bajocco''' (bä-yok′kọ̄), ''n.''; pl. ''baiocchi'', ''bajocchi'' (-kē).   [Formerly in E. ''baiock'', ''byok'' {{img float|file=century v01 p0448 c3f2.png|width=250px|align=left|cap={{smaller|Obverse. Reverse.<br>Baiocco of Pope Pius VI., British Museum.<br>(Size of the original.)}}}} (after F. ''baïocque'', ''baïoque''), < It. ''baiocco'', ''bajocco'', a small coin, so called from its color, < ''baio'', ''bajo'', brown bay: see ''bay''<sup>6</sup>.]   A small coin of the former Papal States, struck in both silver and copper, worth about a cent.\n\n'''Bairam''' (bī-räm′, bī′räm), ''n.''   [Formerly ''bayram'', ''beyram'', < Turk. ''bairām'', ''bayrām'', ''beiram'', < Pers. ''bairām''.]   The name of two festivals in the Mohammedan year, distinguished as the ''lesser'' and the ''greater''. {{smaller|The ''lesser Bairam'' follows immediately after the fast strictly kept during the ninth month Ramadan, in the first three days of the tenth month, and is devoted to feasting, rejoicing, visiting, and gifts, very much as our Christmas holiday season is spent. The ''greater Bairam'' occurs on the tenth day of the twelfth month, and is everywhere observed with the slaughter of sheep and general festivity by those at home, simultaneously with the great sacrificial feast at Mecca concluding the ceremonies of the annual pilgrimage by the hadjis. Also spelled ''Beiram''.}}\n\n'''bairman†''', ''n.'' See ''bareman''.<noinclude><references/></noinclude>"
+}

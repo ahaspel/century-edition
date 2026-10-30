@@ -1,0 +1,190 @@
+{
+ "volume": 1,
+ "page_number": 266,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n265.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n265.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 744,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     86,
+     133,
+     2304,
+     176
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     86,
+     176,
+     820,
+     1053
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     86,
+     1053,
+     820,
+     2125
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     86,
+     2125,
+     820,
+     3192
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     86,
+     3192,
+     820,
+     3292
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     820,
+     176,
+     1563,
+     1216
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     820,
+     1216,
+     1563,
+     2234
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     820,
+     2234,
+     1563,
+     3292
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1563,
+     176,
+     2304,
+     1003
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1563,
+     1003,
+     2304,
+     1964
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1563,
+     1964,
+     2304,
+     2942
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1563,
+     2942,
+     2304,
+     3292
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|anthropogenist|240|anthropomorphous}}",
+   "c1s1": "¶\n'''anthropogenist''' (an-thrọ̄-poj′e-nist), ''n.'' [< ''anthropogeny'' + ''-ist.''] An adherent of modern biological doctrines respecting anthropogeny.\n\n'''anthropogeny''' (an-thrọ̄-poj′e-ni), ''n.'' [As if < Gr. *ἀνθρωπογένεια, < ἀνθρωπογενής, born of man, < ἄνθρωπος, man, + γένος, birth.] '''1.''' Same as ''anthropogenesis.''—'''2.''' The sum of human knowledge concerning the development of man. Also called ''anthropogony.''\n{{smaller block|In this mighty “war of culture,” affecting as it does the whole history of the World, and in which we may well deem it an honour to take part, no better ally than ''Anthropogeny'' can, it seems to me, be brought to the assistance of struggling truth.\n{{right|''Haeckel'', Evol. of Man (trans.), Pref., p. xxiii.}}}}\n\n'''anthropoglot''' (an′thrọ̄-pọ̄-glot), ''n.'' [< Gr. ἀνθρωπόγλωττος, ἀνθρωπόγλωσσος, having man’s tongue, < ἄνθρωπος, man, + γλῶσσα = Attic γλῶττα, the tongue: see ''gloss, glottis.''] An animal which has a tongue resembling that of man, as the parrot.\n\n'''anthropogony''' (an-thrọ̄-pog′ọ̄-ni), ''n.'' [< Gr. ἀνθρωπογονία, the begetting of men, the origin of men, < ἄνθρωπος, man, + -γονος, < √ *γεν, produce. Cf. ''theogony.''] '''1.''' Same as ''anthropogenesis.''\n{{smaller block|The word ''anthropogony'', used first by Josephus, means . . . only “the generation of man.”\n{{right|''Haeckel'', Evol. of Man (trans.), II. 459.}}}}",
+   "c1s2": "2. Same as ''anthropogeny'', 2.\n\n'''anthropography''' (an-thrō-pog′ra-fi), ''n.'' [= F. ''anthropographie'', < Gr. ἄνθρωπος + -γραφία, < γράφειν, write, describe. Cf. Gr. ἀνθρωπογράφος, a painter of men, a portrait-painter.] A description of man or of the human race; more particularly, that branch of anthropology which treats of the actual distribution of the varieties of the human race, as distinguished by physical character, institutions, and customs, including language. See ''ethnography''.\n\n'''anthropoid''' (an′thrọ̄-poid), ''a.'' and ''n.'' [< Gr. ἀνθρωποειδής, like a man, in human shape, < ἄνθρωπος, a man, + εἶδος, form, shape.] '''I.''' ''a.'' '''1.''' Of or pertaining to the superfamily ''Anthropoidea;'' man-like; human or simian in a zoölogical sense: applied to all monkeys as well as to man, as distinguished from the lemuroid or prosimian ''Primates.''—'''2.''' More specifically, resembling man, or man-like, as one of the higher monkeys or apes, as distinguished from lower monkeys: applied to the apes of the family ''Simiidæ'', as restricted to include only the gorilla, chimpanzee, orang, and gibbon, these being commonly known as the ''anthropoid'' apes.\n{{smaller block|The gorilla is now generally regarded as the most human of the ''anthropoid'' apes.\n{{right|''H. A. Nicholson.''}}}}\n\n'''II.''' ''n.'' An anthropoid animal; one of the higher monkeys; an ape.\n{{smaller block|Chronologically this [called by French archæologists the Epoch of Robenhausen] is regarded as the first epoch of the appearance of man on the globe, the previous implement-using animals being probably ''anthropoids.''\n{{right|''Science'', IV. 438.}}}}",
+   "c1s3": "¶\n'''anthropoidal''' (an-thrọ̄-poi′dal), ''a.'' Of anthropoid nature or structure. ''N. E. D.''\n\n'''Anthropoidea''' (an-thrọ̄-poi′dē-ä̤), ''n. pl.'' [NL.: see ''anthropoid.''] In ''zoöl.'', one of two suborders, the other being ''Lemuroidea'', into which the order ''Primates'' has been divided. {{smaller|The group contains man and monkeys, as distinguished from the lemurs. Their zoölogical characters are: a cerebrum with its posterior lobe much developed and wholly or mostly covering the cerebellum; a lacrymal foramen within the orbit; an orbit completed by suture of the malar and alisphenoid bones; ears rounded, with a distinct lobule; and, in the female, strictly pectoral teats, undivided uterus, and an imperforate clitoris. Also written ''Anthropida.''}}\n\n'''Anthropoides''' (an-thrọ̄-poi′dēz), ''n.'' [NL., < Gr. ἀνθρωποειδής, like a man: see ''anthropoid.''] '''1.''' In ''ornith.'', a genus of cranes, of the family ''Gruidæ'', based by Vieillot in 1816 upon the Numidian crane or demoiselle, ''A. virgo.'' {{smaller|It is sometimes restricted to this species; sometimes extended to the Stanley crane, ''A.'' (''Tetrapteryx'') ''paradiseus'' or ''stanleyanus;'' and sometimes made to cover the crown-cranes of the genus ''Balearica'' (which see). The synonyms of ''Anthropoides'' proper are: ''Otus'' (Barrère, 1745), ''Scops'' (Moehring, 1752), ''Bibia'' (Leach, about 1818), and ''Philorchemon'' (Gloger, 1842).}}\n\n'''2.''' [Used as a plural.] In ''zoöl.'', a name given by Haeckel to the anthropoid apes: synonymous with ''Anthropoidea.''\n\n'''anthropolatry''' (an-thrọ̄-pol′a̤-tri), ''n.'' [= F. ''anthropolâtrie'', < Gr. ἀνθρωπολατρεία, man-worship, < ἄνθρωπος, man, + λατρεία, worship, service: see ''latria.'' Cf. ''idolatry.''] The worship of man; the paying of divine honors to a human being. {{smaller|It was charged by the early Christians upon the pagans, and by them, in return, charged upon the Christians, because of their worship of Christ. The word, how-}}",
+   "c1s4": "ever, is better known from its employment by the Apollinarians against the orthodox Christians of the fourth and fifth centuries, who held the doctrine of the perfect human nature of Christ.",
+   "c2s1": "¶\n'''anthropolite''' (an-throp′ọ̄-līt), ''n.'' [= F. ''anthropolithe'', < Gr. ἄνθρωπος, man, + λίθος, a stone.] A petrifaction of the human body or skeleton, or of parts of the body, produced by the incrusting action of calcareous waters, and therefore not a true fossil.\n\n'''anthropolithic''' (an″thrọ̄-pọ̄-lith′ik), ''a.'' Of or pertaining to anthropolites; characterized by the presence of petrified human remains.\n{{smaller block|This much, however, is certain, that the true development of human culture dates only from the ''Anthropolithic'' Epoch.\n{{right|''Haeckel'', Evol. of Man (trans.), II. 16.}}}}\n\n'''anthropologic''' (an″thrọ̄-pọ̄-loj′ik), ''a.'' [< ''anthropology'' + ''-ic''; = F. ''anthropologique''.] Of or pertaining to anthropology; of the nature of anthropology.\n{{smaller block|Such subtle ''anthropologic'' wisdom as the Ode on the Intimations of Immortality.\n{{right|''Kingsley'', Misc., I. 219.}}}}\n\n'''anthropological''' (an″thrọ̄-pọ̄-loj′i-ka̤l), ''a.'' Pertaining or relating to anthropology, or the natural history of man: as, ''anthropological'' facts; the ''Anthropological'' Society.\n\n'''anthropologist''' (an-thrọ̄-pol′ọ̄-jist), ''n.'' [< ''anthropology'' + ''-ist''.] One who studies or is versed in anthropology.\n\n'''anthropology''' (an-thrọ̄-pol′ọ̄-ji), ''n.'' [= F. ''anthropologie'', < Gr. as if *ἀνθρωπολογία, a speaking of man, < ἀνθρωπολόγος, speaking of man, < ἄνθρωπος, man, + λέγειν, speak: see ''-ology''.] '''1.''' The science of man or of mankind. {{smaller|It includes the study of man’s agreement with and divergence from other animals; of his physical structure and intellectual nature; of the various tribes of men with reference to their origin,}}",
+   "c2s2": "{{smaller|customs, etc.; and of the general physical and mental development of the human race. Anthropology thus includes physiology, psychology, sociology, ethnology, etc., putting under contribution all sciences which have man for their object. By some it has been divided into—(''a'') ''zoölogical anthropology'', which investigates man’s relations to the brute creation; (''b'') ''descriptive anthropology'', or ''ethnology'', which describes the divisions and groups of mankind; (''c'') ''general anthropology'', or, as M. Broca calls it, “the biology of the human race.” As a department of systematic theology, anthropology deals with questions relating to the origin, nature, original condition, and fall of man, and especially to the doctrines of sin and free agency.}} '''2.''' A treatise on the science of man.—'''3†.''' Anthropomorphism (which see).\n\n¶\n'''anthropomancy''' (an′thrọ̄-pọ̄-man″si), ''n.'' [= F. ''anthropomancie'', < Gr. ἄνθρωπος, man, + μαντεία, divination. Cf. ''necromancy''.] Divination by inspecting the entrails of a human being.\n\n'''anthropometer''' (an-thrọ̄-pom′e-tėr), ''n.'' [< ''anthropometry''. Cf. ''geometer''.] One who studies or practises anthropometry.\n{{smaller block|As he stands before us now, man is an animal . . . exhibiting in his adult form those characteristics which engage the attention of the anatomist, the physiologist, and the ''anthropometer''.\n{{right|''Smithsonian Rep.'', 1881, p. 499.}}}}\n\n'''anthropometric''' (an″thrọ̄-pọ̄-met′rik), ''a.'' [< ''anthropometry'' + ''-ic''.] Pertaining or relating to the proportions of the human body; relating to anthropometry.\n{{smaller block|Over a hundred ''anthropometric'' observations were taken on individuals of all ages and both sexes. ''Science'', III. 168.}}\n\n'''anthropometrical''' (an″thrọ̄-pọ̄-met′ri-kal), ''a.'' [< ''anthropometric'' + ''-al''.] Same as ''anthropometric''.",
+   "c2s3": "¶\n'''anthropometrically''' (an″thrọ̄-pọ̄-met′ri-kal-i), ''adv.'' In an anthropometric manner; by means of anthropometry.\n\n'''anthropometry''' (an-thrọ̄-pom′e-tri), ''n.'' [= F. ''anthropométrie'', < Gr. ἄνθρωπος, man, + -μετρία, < μέτρον, measure.] The measurement of the human body; the department of the science of anthropology which relates to the proportions of the human body, either in individuals or in tribes and races.\n\n'''Anthropomorpha''' (an″thrọ̄-pọ̄-môr′fä̤), ''n. pl.'' [NL., neut. pl. of ''anthropomorphus'': see ''anthropomorphous''.] A group of anthropoid apes, the simians, equivalent to the family ''Simiidæ''. See ''ape'', 3.\n\n'''anthropomorphic''' (an″thrọ̄-pọ̄-môr′fik), ''a.'' [As ''anthropomorphous'' + ''-ic''.] '''1.''' Relating to or characterized by anthropomorphism: as, ''anthropomorphic'' conceptions of Deity.\n{{smaller block|We everywhere see fading away the ''anthropomorphic'' conception of the Unknown Cause.\n{{right|''H. Spencer'', Prin. of Biol., § 111.}}\nThe curiously ''anthropomorphic'' idea of stones being husbands and wives, and even having children, is familiar to the Fijians as it is to the Peruvians and the Lapps.\n{{right|''E. B. Tylor'', Prim. Culture, II. 149.}}}}\n'''2.''' Resembling man; approaching man in type; anthropoid: as, ''anthropomorphic'' apes.\n\n'''anthropomorphical''' (an″thrọ̄-pọ̄-môr′fi-kal), ''a.'' Of anthropomorphic character or tendency. [Rare.]\n\n'''anthropomorphically''' (an″thrọ̄-pọ̄-môr′fi-kal-i), ''adv.'' In an anthropomorphic manner; in or as of the human form.",
+   "c3s1": "¶\n{{smaller block|The treatment he has received — either from his fellow-beings or from a power which he is prone to think of ''anthropomorphically''.\n{{right|''H. Spencer'', Prin. of Psychol., § 518.}}}}\n\n'''anthropomorphism''' (an″thrọ̄-pọ̄-môr′fizm), ''n.'' [As ''anthropomorphous'' + ''-ism''.] '''1.''' The ascription of human attributes to supernatural or divine beings; in ''theol.'', the conception or representation of God with human qualities and affections, or in a human shape. {{smaller|Anthropomorphism is founded in man’s inability to conceive beings above himself otherwise than in his own likeness. It determines the growth and form of all human religions, from the lowest up to the highest: as where the Scriptures speak of the eye, the ear, and the hand of God, of his seeing and hearing, of his remembering and forgetting, of his making man in his own image, etc.}}\n{{smaller block|Although Milton was undoubtedly a high Arian in his mature life, he does, in the necessity of poetry, give a greater objectivity to the Father and the Son than he would have justified in argument. He was wise in adopting the strong ''anthropomorphism'' of the Hebrew Scriptures at once.\n{{right|''Coleridge'', Table-Talk, p. 293.}}}}\n'''2.''' The conception of animals, plants, or nature in general, by analogy with man: commonly implying an unscientific use of such analogy.\n{{smaller block|Descartes . . . deserted the old moderate view which affirmed that between the highest psychical powers of man and brutes there is a certain natural likeness and analogy,}}",
+   "c3s2": "{{smaller block|and gave rise to the notion that animals are nothing but wonderfully complex machines — an error naturally resulting in the opposite one now so prevalent — the error, namely, that there is a substantial identity between the brute soul and the soul of man — biological ''anthropomorphism.''\n{{right|''Mivart.''}}}}\n\n¶\n'''anthropomorphist''' (an″thrọ̄-pọ̄-môr′fist), ''n.'' [As ''anthropomorphous'' + ''-ist.''] One who attributes human form or qualities to beings other than man; especially, one who in thought or speech invests the Deity with human form and attributes; an anthropomorphite.\n\n{{smaller block|What ''anthropomorphists'' we are in this, that we cannot let moral distinctions be, but must mould them into human shape!\n{{right|''Emerson'', N. A. Rev., CXXVI. 414.}}}}\n\n'''anthropomorphite''' (an″thrọ̄-pọ̄-môr′fīt), ''n.'' and ''a.'' [< LL. ''anthropomorphitæ'', pl., < Gr. *ἀνθρωπομορφῖται, pl., heretics who believed in a God of human form, < ἀνθρωπόμορφος, anthropomorphous: see ''anthropomorphous.''] '''I.''' ''n.'' One who believes that the Supreme Being exists in human form, with human attributes and passions; an anthropomorphist; specifically, one of an ancient religious sect who held such views. See ''Audian.''\n\n{{smaller block|Though few profess themselves ''anthropomorphites'', yet we may find many amongst the ignorant of that opinion.\n{{right|''Locke.''}}}}\n\n{{smaller block|='''Syn.''' ''Anthropomorphite, Anthropomorphist.'' The former is properly one who attributes a human body to God, the latter one who attributes to him human passions.}}",
+   "c3s3": "¶\n\n'''II.''' ''a.'' Anthropomorphitic.\n\n'''anthropomorphitic, anthropomorphitical''' (an″thrọ̄-pọ̄-môr-fit′ik, -i-kạl), ''a.'' [< LL. ''anthropomorphiticus'', < ''anthropomorphitæ'', anthropomorphites: see ''anthropomorphite''.] Pertaining to or characterized by anthropomorphism.\n\n'''anthropomorphitism''' (an″thrọ̄-pọ̄-môr′fi-tizm), ''n.'' [< ''anthropomorphite'' + ''-ism''.] The doctrines of anthropomorphites; anthropomorphism.\n\n'''anthropomorphize''' (an″thrọ̄-pọ̄-môr′fīz), ''v. t.''; pret. and pp. ''anthropomorphized'', ppr. ''anthropomorphizing''. [As ''anthropomorphous'' + ''-ize''.] To invest with human qualities.\n{{smaller block|The Pelasgian Zeus became the head of the new Olympus, and a completely ''anthropomorphized'' god.\n{{right|''The Nation'', Sept. 23, 1869, p. 255.}}\nEven with Homer the age of Creation has ceased, the age of criticism and scepticism has begun. At any rate, the gods have strayed far away from the region to which by nature they belong. They have become ''anthropomorphized.''\n{{right|''Keary'', Prim. Belief, p. 155.}}}}\n\n'''anthropomorphology''' (an″thrọ̄-pọ̄-môr-fol′ọ̄-ji), ''n.'' [< Gr. ἀνθρωπόμορφος, of human form (see ''anthropomorphous''), + -λογία, < λέγειν, speak: see ''-ology''.] The use of anthropomorphic language. ''N. E. D.''\n\n'''anthropomorphosis''' (an″thrọ̄-pọ̄-môr-fō′sis or -môr′fọ̄-sis), ''n.''; pl. ''anthropomorphoses'' (-sēz). [< Gr. as if *ἀνθρωπομόρφωσις, < ἀνθρωπομορφόειν, clothe in human form, < ἀνθρωπόμορφος, in human",
+   "c3s4": "form: see ''anthropomorphous.''] Transformation into human shape. ''Baring-Gould.''\n\n¶\n'''anthropomorphotheist''' (an″thrọ̄-pọ̄-môr-fọ̄-thē′ist), ''n.'' [< Gr. ἀνθροπόμορφος, of human form, + θεός, God, + ''-ist'': see ''anthropomorphous'' and ''theist.''] One who conceives God as having human attributes. ''Coues'', Buddhist Catechism, p. 56.\n\n'''anthropomorphous''' (an″thrọ̄-pọ̄-môr′fus), ''a.'' [< NL. ''anthropomorphus'', < Gr. ἀνθρωπόμορφος, of human form, < ἄνθρωπος, man, + μορφή, form.]"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 1,
+    "input_tokens": 2673,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9645,
+    "output_tokens": 10660,
+    "cache_creation_input_tokens": 35694,
+    "cache_read_input_tokens": 11898
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|anthropogenist|240|anthropomorphous}}</noinclude>{{nop}}'''anthropogenist''' (an-thrọ̄-poj′e-nist), ''n.''   [< ''anthropogeny'' + ''-ist.'']   An adherent of modern biological doctrines respecting anthropogeny.\n\n'''anthropogeny''' (an-thrọ̄-poj′e-ni), ''n.''   [As if < Gr. *ἀνθρωπογένεια, < ἀνθρωπογενής, born of man, < ἄνθρωπος, man, + γένος, birth.]   '''1.''' Same as ''anthropogenesis.''—'''2.''' The sum of human knowledge concerning the development of man. Also called ''anthropogony.''\n{{smaller block|In this mighty “war of culture,” affecting as it does the whole history of the World, and in which we may well deem it an honour to take part, no better ally than ''Anthropogeny'' can, it seems to me, be brought to the assistance of struggling truth.\n{{right|''Haeckel'', Evol. of Man (trans.), Pref., p. xxiii.}}}}\n\n'''anthropoglot''' (an′thrọ̄-pọ̄-glot), ''n.''   [< Gr. ἀνθρωπόγλωττος, ἀνθρωπόγλωσσος, having man’s tongue, < ἄνθρωπος, man, + γλῶσσα = Attic γλῶττα, the tongue: see ''gloss, glottis.'']   An animal which has a tongue resembling that of man, as the parrot.\n\n'''anthropogony''' (an-thrọ̄-pog′ọ̄-ni), ''n.''   [< Gr. ἀνθρωπογονία, the begetting of men, the origin of men, < ἄνθρωπος, man, + -γονος, < √ *γεν, produce. Cf. ''theogony.'']   '''1.''' Same as ''anthropogenesis.''\n{{smaller block|The word ''anthropogony'', used first by Josephus, means . . . only “the generation of man.”\n{{right|''Haeckel'', Evol. of Man (trans.), II. 459.}}}} 2. Same as ''anthropogeny'', 2.\n\n'''anthropography''' (an-thrō-pog′ra-fi), ''n.''   [= F. ''anthropographie'', < Gr. ἄνθρωπος + -γραφία, < γράφειν, write, describe. Cf. Gr. ἀνθρωπογράφος, a painter of men, a portrait-painter.]   A description of man or of the human race; more particularly, that branch of anthropology which treats of the actual distribution of the varieties of the human race, as distinguished by physical character, institutions, and customs, including language. See ''ethnography''.\n\n'''anthropoid''' (an′thrọ̄-poid), ''a.'' and ''n.''   [< Gr. ἀνθρωποειδής, like a man, in human shape, < ἄνθρωπος, a man, + εἶδος, form, shape.]   '''I.''' ''a.'' '''1.''' Of or pertaining to the superfamily ''Anthropoidea;'' man-like; human or simian in a zoölogical sense: applied to all monkeys as well as to man, as distinguished from the lemuroid or prosimian ''Primates.''—'''2.''' More specifically, resembling man, or man-like, as one of the higher monkeys or apes, as distinguished from lower monkeys: applied to the apes of the family ''Simiidæ'', as restricted to include only the gorilla, chimpanzee, orang, and gibbon, these being commonly known as the ''anthropoid'' apes.\n{{smaller block|The gorilla is now generally regarded as the most human of the ''anthropoid'' apes.\n{{right|''H. A. Nicholson.''}}}}\n\n'''II.''' ''n.'' An anthropoid animal; one of the higher monkeys; an ape.\n{{smaller block|Chronologically this [called by French archæologists the Epoch of Robenhausen] is regarded as the first epoch of the appearance of man on the globe, the previous implement-using animals being probably ''anthropoids.''\n{{right|''Science'', IV. 438.}}}}\n\n'''anthropoidal''' (an-thrọ̄-poi′dal), ''a.'' Of anthropoid nature or structure.   ''N. E. D.''\n\n'''Anthropoidea''' (an-thrọ̄-poi′dē-ä̤), ''n. pl.''   [NL.: see ''anthropoid.'']   In ''zoöl.'', one of two suborders, the other being ''Lemuroidea'', into which the order ''Primates'' has been divided. {{smaller|The group contains man and monkeys, as distinguished from the lemurs. Their zoölogical characters are: a cerebrum with its posterior lobe much developed and wholly or mostly covering the cerebellum; a lacrymal foramen within the orbit; an orbit completed by suture of the malar and alisphenoid bones; ears rounded, with a distinct lobule; and, in the female, strictly pectoral teats, undivided uterus, and an imperforate clitoris. Also written ''Anthropida.''}}\n\n'''Anthropoides''' (an-thrọ̄-poi′dēz), ''n.''   [NL., < Gr. ἀνθρωποειδής, like a man: see ''anthropoid.'']   '''1.''' In ''ornith.'', a genus of cranes, of the family ''Gruidæ'', based by Vieillot in 1816 upon the Numidian crane or demoiselle, ''A. virgo.'' {{smaller|It is sometimes restricted to this species; sometimes extended to the Stanley crane, ''A.'' (''Tetrapteryx'') ''paradiseus'' or ''stanleyanus;'' and sometimes made to cover the crown-cranes of the genus ''Balearica'' (which see). The synonyms of ''Anthropoides'' proper are: ''Otus'' (Barrère, 1745), ''Scops'' (Moehring, 1752), ''Bibia'' (Leach, about 1818), and ''Philorchemon'' (Gloger, 1842).}}\n\n'''2.''' [Used as a plural.] In ''zoöl.'', a name given by Haeckel to the anthropoid apes: synonymous with ''Anthropoidea.''\n\n'''anthropolatry''' (an-thrọ̄-pol′a̤-tri), ''n.''   [= F. ''anthropolâtrie'', < Gr. ἀνθρωπολατρεία, man-worship, < ἄνθρωπος, man, + λατρεία, worship, service: see ''latria.'' Cf. ''idolatry.'']   The worship of man; the paying of divine honors to a human being. {{smaller|It was charged by the early Christians upon the pagans, and by them, in return, charged upon the Christians, because of their worship of Christ. The word, however}}, is better known from its employment by the Apollinarians against the orthodox Christians of the fourth and fifth centuries, who held the doctrine of the perfect human nature of Christ.\n\n'''anthropolite''' (an-throp′ọ̄-līt), ''n.''   [= F. ''anthropolithe'', < Gr. ἄνθρωπος, man, + λίθος, a stone.]   A petrifaction of the human body or skeleton, or of parts of the body, produced by the incrusting action of calcareous waters, and therefore not a true fossil.\n\n'''anthropolithic''' (an″thrọ̄-pọ̄-lith′ik), ''a.'' Of or pertaining to anthropolites; characterized by the presence of petrified human remains.\n{{smaller block|This much, however, is certain, that the true development of human culture dates only from the ''Anthropolithic'' Epoch.\n{{right|''Haeckel'', Evol. of Man (trans.), II. 16.}}}}\n\n'''anthropologic''' (an″thrọ̄-pọ̄-loj′ik), ''a.''   [< ''anthropology'' + ''-ic''; = F. ''anthropologique''.]   Of or pertaining to anthropology; of the nature of anthropology.\n{{smaller block|Such subtle ''anthropologic'' wisdom as the Ode on the Intimations of Immortality.\n{{right|''Kingsley'', Misc., I. 219.}}}}\n\n'''anthropological''' (an″thrọ̄-pọ̄-loj′i-ka̤l), ''a.'' Pertaining or relating to anthropology, or the natural history of man: as, ''anthropological'' facts; the ''Anthropological'' Society.\n\n'''anthropologist''' (an-thrọ̄-pol′ọ̄-jist), ''n.''   [< ''anthropology'' + ''-ist''.]   One who studies or is versed in anthropology.\n\n'''anthropology''' (an-thrọ̄-pol′ọ̄-ji), ''n.''   [= F. ''anthropologie'', < Gr. as if *ἀνθρωπολογία, a speaking of man, < ἀνθρωπολόγος, speaking of man, < ἄνθρωπος, man, + λέγειν, speak: see ''-ology''.]   '''1.''' The science of man or of mankind. {{smaller|It includes the study of man’s agreement with and divergence from other animals; of his physical structure and intellectual nature; of the various tribes of men with reference to their origin, customs, etc.; and of the general physical and mental development of the human race. Anthropology thus includes physiology, psychology, sociology, ethnology, etc., putting under contribution all sciences which have man for their object. By some it has been divided into—(''a'') ''zoölogical anthropology'', which investigates man’s relations to the brute creation; (''b'') ''descriptive anthropology'', or ''ethnology'', which describes the divisions and groups of mankind; (''c'') ''general anthropology'', or, as M. Broca calls it, “the biology of the human race.” As a department of systematic theology, anthropology deals with questions relating to the origin, nature, original condition, and fall of man, and especially to the doctrines of sin and free agency.}} '''2.''' A treatise on the science of man.—'''3†.''' Anthropomorphism (which see).\n\n'''anthropomancy''' (an′thrọ̄-pọ̄-man″si), ''n.''   [= F. ''anthropomancie'', < Gr. ἄνθρωπος, man, + μαντεία, divination. Cf. ''necromancy''.]   Divination by inspecting the entrails of a human being.\n\n'''anthropometer''' (an-thrọ̄-pom′e-tėr), ''n.''   [< ''anthropometry''. Cf. ''geometer''.]   One who studies or practises anthropometry.\n{{smaller block|As he stands before us now, man is an animal . . . exhibiting in his adult form those characteristics which engage the attention of the anatomist, the physiologist, and the ''anthropometer''.\n{{right|''Smithsonian Rep.'', 1881, p. 499.}}}}\n\n'''anthropometric''' (an″thrọ̄-pọ̄-met′rik), ''a.''   [< ''anthropometry'' + ''-ic''.]   Pertaining or relating to the proportions of the human body; relating to anthropometry.\n{{smaller block|Over a hundred ''anthropometric'' observations were taken on individuals of all ages and both sexes.\n{{right|''Science'', III. 168.}}}}\n\n'''anthropometrical''' (an″thrọ̄-pọ̄-met′ri-kal), ''a.''   [< ''anthropometric'' + ''-al''.]   Same as ''anthropometric''.\n\n'''anthropometrically''' (an″thrọ̄-pọ̄-met′ri-kal-i), ''adv.'' In an anthropometric manner; by means of anthropometry.\n\n'''anthropometry''' (an-thrọ̄-pom′e-tri), ''n.''   [= F. ''anthropométrie'', < Gr. ἄνθρωπος, man, + -μετρία, < μέτρον, measure.]   The measurement of the human body; the department of the science of anthropology which relates to the proportions of the human body, either in individuals or in tribes and races.\n\n'''Anthropomorpha''' (an″thrọ̄-pọ̄-môr′fä̤), ''n. pl.''   [NL., neut. pl. of ''anthropomorphus'': see ''anthropomorphous''.]   A group of anthropoid apes, the simians, equivalent to the family ''Simiidæ''. See ''ape'', 3.\n\n'''anthropomorphic''' (an″thrọ̄-pọ̄-môr′fik), ''a.''   [As ''anthropomorphous'' + ''-ic''.]   '''1.''' Relating to or characterized by anthropomorphism: as, ''anthropomorphic'' conceptions of Deity.\n{{smaller block|We everywhere see fading away the ''anthropomorphic'' conception of the Unknown Cause.\n{{right|''H. Spencer'', Prin. of Biol., § 111.}}}}\n{{smaller block|The curiously ''anthropomorphic'' idea of stones being husbands and wives, and even having children, is familiar to the Fijians as it is to the Peruvians and the Lapps.\n{{right|''E. B. Tylor'', Prim. Culture, II. 149.}}}}\n'''2.''' Resembling man; approaching man in type; anthropoid: as, ''anthropomorphic'' apes.\n\n'''anthropomorphical''' (an″thrọ̄-pọ̄-môr′fi-kal), ''a.'' Of anthropomorphic character or tendency. [Rare.]\n\n'''anthropomorphically''' (an″thrọ̄-pọ̄-môr′fi-kal-i), ''adv.'' In an anthropomorphic manner; in or as of the human form.\n\n{{smaller block|The treatment he has received — either from his fellow-beings or from a power which he is prone to think of ''anthropomorphically''.\n{{right|''H. Spencer'', Prin. of Psychol., § 518.}}}}\n\n'''anthropomorphism''' (an″thrọ̄-pọ̄-môr′fizm), ''n.''   [As ''anthropomorphous'' + ''-ism''.]   '''1.''' The ascription of human attributes to supernatural or divine beings; in ''theol.'', the conception or representation of God with human qualities and affections, or in a human shape. {{smaller|Anthropomorphism is founded in man’s inability to conceive beings above himself otherwise than in his own likeness. It determines the growth and form of all human religions, from the lowest up to the highest: as where the Scriptures speak of the eye, the ear, and the hand of God, of his seeing and hearing, of his remembering and forgetting, of his making man in his own image, etc.}}\n{{smaller block|Although Milton was undoubtedly a high Arian in his mature life, he does, in the necessity of poetry, give a greater objectivity to the Father and the Son than he would have justified in argument. He was wise in adopting the strong ''anthropomorphism'' of the Hebrew Scriptures at once.\n{{right|''Coleridge'', Table-Talk, p. 293.}}}}\n'''2.''' The conception of animals, plants, or nature in general, by analogy with man: commonly implying an unscientific use of such analogy.\n{{smaller block|Descartes . . . deserted the old moderate view which affirmed that between the highest psychical powers of man and brutes there is a certain natural likeness and analogy, and gave rise to the notion that animals are nothing but wonderfully complex machines — an error naturally resulting in the opposite one now so prevalent — the error, namely, that there is a substantial identity between the brute soul and the soul of man — biological ''anthropomorphism.''\n{{right|''Mivart.''}}}}\n\n'''anthropomorphist''' (an″thrọ̄-pọ̄-môr′fist), ''n.''   [As ''anthropomorphous'' + ''-ist.'']   One who attributes human form or qualities to beings other than man; especially, one who in thought or speech invests the Deity with human form and attributes; an anthropomorphite.\n\n{{smaller block|What ''anthropomorphists'' we are in this, that we cannot let moral distinctions be, but must mould them into human shape!\n{{right|''Emerson'', N. A. Rev., CXXVI. 414.}}}}\n\n'''anthropomorphite''' (an″thrọ̄-pọ̄-môr′fīt), ''n.'' and ''a.''   [< LL. ''anthropomorphitæ'', pl., < Gr. *ἀνθρωπομορφῖται, pl., heretics who believed in a God of human form, < ἀνθρωπόμορφος, anthropomorphous: see ''anthropomorphous.'']   '''I.''' ''n.'' One who believes that the Supreme Being exists in human form, with human attributes and passions; an anthropomorphist; specifically, one of an ancient religious sect who held such views. See ''Audian.''\n\n{{smaller block|Though few profess themselves ''anthropomorphites'', yet we may find many amongst the ignorant of that opinion.\n{{right|''Locke.''}}}}\n\n{{smaller block|='''Syn.''' ''Anthropomorphite, Anthropomorphist.'' The former is properly one who attributes a human body to God, the latter one who attributes to him human passions.}}\n\n'''II.''' ''a.'' Anthropomorphitic.\n\n'''anthropomorphitic, anthropomorphitical''' (an″thrọ̄-pọ̄-môr-fit′ik, -i-kạl), ''a.''   [< LL. ''anthropomorphiticus'', < ''anthropomorphitæ'', anthropomorphites: see ''anthropomorphite''.]   Pertaining to or characterized by anthropomorphism.\n\n'''anthropomorphitism''' (an″thrọ̄-pọ̄-môr′fi-tizm), ''n.''   [< ''anthropomorphite'' + ''-ism''.]   The doctrines of anthropomorphites; anthropomorphism.\n\n'''anthropomorphize''' (an″thrọ̄-pọ̄-môr′fīz), ''v. t.''; pret. and pp. ''anthropomorphized'', ppr. ''anthropomorphizing''.   [As ''anthropomorphous'' + ''-ize''.]   To invest with human qualities.\n{{smaller block|The Pelasgian Zeus became the head of the new Olympus, and a completely ''anthropomorphized'' god.\n{{right|''The Nation'', Sept. 23, 1869, p. 255.}}}}\n{{smaller block|Even with Homer the age of Creation has ceased, the age of criticism and scepticism has begun. At any rate, the gods have strayed far away from the region to which by nature they belong. They have become ''anthropomorphized.''\n{{right|''Keary'', Prim. Belief, p. 155.}}}}\n\n'''anthropomorphology''' (an″thrọ̄-pọ̄-môr-fol′ọ̄-ji), ''n.''   [< Gr. ἀνθρωπόμορφος, of human form (see ''anthropomorphous''), + -λογία, < λέγειν, speak: see ''-ology''.]   The use of anthropomorphic language.   ''N. E. D.''\n\n'''anthropomorphosis''' (an″thrọ̄-pọ̄-môr-fō′sis or -môr′fọ̄-sis), ''n.''; pl. ''anthropomorphoses'' (-sēz).   [< Gr. as if *ἀνθρωπομόρφωσις, < ἀνθρωπομορφόειν, clothe in human form, < ἀνθρωπόμορφος, in human form: see ''anthropomorphous.'']   Transformation into human shape.   ''Baring-Gould.''\n\n'''anthropomorphotheist''' (an″thrọ̄-pọ̄-môr-fọ̄-thē′ist), ''n.''   [< Gr. ἀνθροπόμορφος, of human form, + θεός, God, + ''-ist'': see ''anthropomorphous'' and ''theist.'']   One who conceives God as having human attributes.   ''Coues'', Buddhist Catechism, p. 56.\n\n'''anthropomorphous''' (an″thrọ̄-pọ̄-môr′fus), ''a.''   [< NL. ''anthropomorphus'', < Gr. ἀνθρωπόμορφος, of human form, < ἄνθρωπος, man, + μορφή, form.]<noinclude><references/></noinclude>"
+}

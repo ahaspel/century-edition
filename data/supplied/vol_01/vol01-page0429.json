@@ -1,0 +1,306 @@
+{
+ "volume": 1,
+ "page_number": 429,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n428.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n428.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 741,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     98,
+     147,
+     2300,
+     182
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     98,
+     182,
+     830,
+     1250
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     142,
+     368,
+     752,
+     634
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     98,
+     1250,
+     830,
+     2111
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     98,
+     2111,
+     830,
+     3196
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     98,
+     3196,
+     830,
+     3294
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     830,
+     182,
+     1569,
+     1276
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     830,
+     1276,
+     1569,
+     2355
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     830,
+     2355,
+     1569,
+     3294
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     182,
+     2300,
+     1006
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     1006,
+     2300,
+     2090
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1973,
+     1045,
+     2300,
+     1280
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1840,
+     1469,
+     2300,
+     1790
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     2090,
+     2300,
+     3164
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     3164,
+     2300,
+     3294
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|axis|403|axle-tooth}}",
+   "c1s1": "¶\n'''9.''' In ''geog.'' and ''geol.'', the central or dominating region of a mountain-chain, or the line which follows the crest of a range and thus indicates the position of the most conspicuous portion of the uplift. {{smaller|In a folded region, or one in}}\n[[FIGURE]]\n{{c|{{smaller|Section of mountain showing position of axis of synclinally folded strata.}}}}\n{{smaller|which the strata have been bent into anticlinals and synclinals, the axis of each fold is the plane indicating the direction parallel to which the folding has taken place, or toward which the strata incline.}}\n\n'''10.''' In ''analytical geom.'', any fixed line of reference used to determine the position of a point or series of points (line, surface) in space.{{smaller|—'''Anticlinal axis,''' in ''geol.'' See ''anticlinal.''—'''Axes of an ellipsoid,''' its maximum and minimum diameters and the diameter perpendicular to these.—'''Axes of coördinates,''' or '''coördinate axes,''' in ''analytical geom.'', fixed lines on which or parallel to which an element (abscissa or ordinate) of the position of a point is measured.—'''Axes of light-elasticity,''' the three directions at right angles to one another in a biaxial crystal in which the elasticity of the light-ether has its maximum, minimum, and mean value. In a trimetric (orthorhombic) crystal they coincide with the crystallographic axes; in a monoclinic crystal one coincides with the orthodiagonal axis, the others lie in the plane of symmetry. In a triclinic crystal there is no necessary relation between the two sets of axes.—}}",
+   "c1s2": "{{smaller|'''Axis of a beam of light,''' the middle ray of the beam.—'''Axis of a cone,''' a straight line drawn from the vertex to the center of the base.—'''Axis of a conic,''' a diameter perpendicular to the chords it bisects.—'''Axis of a crystal,''' in ''crystal.'', one of three or four imaginary lines assumed for convenience to define the position of the planes of the crystal, and to exhibit its symmetry. See ''crystallography''.—'''Axis of a curve,''' a right line dividing it into two symmetrical parts, so as to bisect every chord perpendicular to it, as in a parabola, ellipse, or hyperbola.—'''Axis of a cylinder,''' a straight line drawn from the center of the one end to that of the other.—'''Axis of affinity,''' the axis of homology of figures homological by affinity.—'''Axis of a gun''' or '''piece,''' the middle line of the bore of the gun.—'''Axis of a lens,''' a straight line drawn through the optical center of the lens, and perpendicular to both its surfaces.—'''Axis of a magnet,''' the imaginary line which connects the north and south poles of the magnet.—'''Axis of a sphere,''' any straight line drawn through the center and terminated both ways by the surface of the sphere.—'''Axis of a spherical, concave,''' or '''convex mirror,''' a straight line which passes through the geometrical and optical centers of the mirror.—'''Axis of a telescope,''' a straight line passing through the centers of all the glasses in the tube.—'''Axis of collineation,''' in ''math.'', a line which corresponds to itself in a projective transformation.—'''Axis of direct elasticity,''' a direction in a solid body such that a longitudinal strain in that direction produces a stress precisely opposed to the strain.—'''Axis of elasticity,''' a direction in a solid body with respect to which some kind of symmetry exists in the relation of strains and stresses.—'''Axis of homology,''' the line upon which corresponding lines of two figures in homology intersect each other.—'''Axis of oscillation of'''}}",
+   "c1s3": "{{smaller|'''a pendulum,''' a right line passing through the center about which it vibrates, and perpendicular to the plane of vibration.—'''Axis of perspective,''' the line in which the plane of a perspective representation cuts any plane represented.—'''Axis of reflection,''' in the method of inversion in geometry, any line considered as perpendicular to and bisecting the distance between two inverse points.—'''Axis of refraction,''' a straight line drawn perpendicular to the surface of the refracting medium, through the point of incidence of the refracted ray. Some crystals have two axes of refraction.—'''Axis of rotation,''' the imaginary line about which all the parts of a rotating body turn.—'''Axis of similitude of three circles,''' a line passing through two intersections of corresponding pairs of common tangents of two pairs out of the three circles. The axis of similitude also necessarily passes through a third such point, but this fact is not essential to its definition.—'''Axis of symmetry,''' a line on both or all sides of which the parts of a body or magnitude are symmetrically disposed.—'''Axis of the earth,''' the straight line connecting its two poles, and about which it performs its diurnal rotation.—'''Axis of the eye,''' a straight line passing through the centers of the pupil and crystalline lens; the optic axis.—'''Axis of the Ionic capital,''' a line passing perpendicularly through the middle of the eye of the volute.—'''Axis of the world,''' the imaginary axis passing through the celestial poles.—'''Axis of vision.''' See ''visual axis'', below.—'''Basicranial axis,''' a straight line drawn from a point midway between the occipital condyles, through the median plane of the skull, to the junction of the ethmoid and presphenoid, in the floor of the cerebral cavity. ''Huxley.'' See cut under ''craniofacial''.—'''Basifacial axis,''' or '''facial axis,''' a straight line drawn from the anterior extremity of the premaxilla to the anterior extremity of the basicranial axis (which see, above): not to be confounded with ''facial line''. See ''craniometry'', and cut under ''craniofacial''.—'''Celiac axis.''' (''a'') A short, thick branch of the abdominal aorta, given off just below the diaphragm, and immediately dividing into the gastric, hepatic, and splenic arteries. (''b'') The sympathetic plexus which surrounds this artery.—'''Cerebrospinal axis.''' See ''cerebrospinal''.—'''Conjugate''' or '''minor axis,''' in ''geom.'', an axis, especially of a hyperbola, perpendicular to the transverse}}",
+   "c1s4": "axis. The term was originally used in the plural for a pair of conjugate diameters at right angles to each other. As now used, it is an abbreviated expression for ''axis conjugate to the transverse axis.''—'''Facial axis.''' See ''basifacial''",
+   "c2s1": "{{smaller|''axis'', above.—'''Harmonic axis.''' See ''harmonic''.—'''Instantaneous axis,''' the axis about which a body is rotating at any instant: an expression applicable when motion is considered in only two dimensions or when a point of the body is fixed; in other cases it would be an inaccurate abbreviation of the following: '''Instantaneous sliding axis,''' that line about which a body is rotating and along which it is simultaneously sliding at any instant. Every rigid body at every instant of its motion has such an instantaneous sliding axis.—'''Macrodiagonal axis, magnetic axis.''' See the adjectives.—'''Neural axis,''' in ''anat.'', the cerebrospinal axis; the axis or central trunk of the cerebrospinal system.—'''Neutral axis,''' in ''mech.'': (''a'') Of a beam, the plane in which the tensile and compressing forces terminate, and in which the stress is therefore nothing. (''b'') Of a deflected bar, the line along which there is neither extension nor compression.—'''Optic axis,''' the axis of the eye (which see, above).—'''Orthogonal''' or '''principal metatatic axes,''' three axes in a body such that, if a cube be cut out having its faces normal to these axes, and if there be a linear elongation along one of them and an equal linear compression along a second, no tangential stress will result round the third axis on planes normal to the first two.—'''Radical axis of two circles,''' the line joining their points of intersection. This line is real even when the circles do not really intersect, the difference of its distance from the two centers being proportional to the difference of the areas of the two circles.—'''Spiral axis,''' in ''arch.'', the axis of a twisted column spirally drawn in order to trace the circumvolutions without.—'''Synclinal axis,''' in ''geol.'' See ''synclinal''.—'''Tectonic axes,''' in ''crystal.'', the lines along which the minute crystals are arranged in the formation of a complex crystalline growth. Thus, dendritic crystallizations of gold and copper often branch at angles of 60°, their directions being parallel to the sides of an octahedral face.—'''The principal axes of inertia''' of a body, those lines passing through its center of mass about which its moments of inertia are a maximum and a minimum, together with the third line perpendicular to these at their intersection.—'''The principal axes of stress''' in a body, the directions of the three conjugate normal stresses.—'''Thyroid axis,''' a short, thick branch from the subclavian artery, dividing almost im-}}",
+   "c2s2": "{{smaller|mediately into the inferior thyroid, suprascapular, and transversalis colli.—'''Transverse''' or '''major axis''', in ''conic sections'', the diameter which passes through the foci. In the ellipse it is the longest diameter; in the hyperbola it is the shortest; and in the parabola it is, like all the other diameters, infinite in length.—'''Visual axis''', in ''physiol.'', the straight line passing through the center of the pupil and the middle of the macula lutea. It does not coincide with the optic axis. Also called ''visual line'', or ''axis of vision''.—'''Zone axis.''' See ''zone''.}}\n\n'''axis'''<sup>2</sup> (ak′sis), ''n.'' [L. ''axis'' (Pliny); perhaps of E. Ind. origin.] '''1.''' A kind of East Indian deer, ''Cervus axis'', of which there are several varieties, perhaps species. The body is spotted with white. Also called ''axis-deer'', ''spotted deer'', and ''hog-deer''.—'''2.''' [''cap.''] [NL.] A genus of such deer. ''Ham. Smith'', 1827.\n\n'''axis-cylinder''' (ak′sis-sil″in-dėr), ''n.'' In ''anat.'', the central part of a nerve-fiber; the core of white nerve-tissue in a nerve-fiber. {{smaller|It is the essential part of the nerve, and is the only part found at its origin and termination. In cross-section, a bundle of nerve-fibers appears like a bunch of lead pencils, the axis-cylinder corresponding to the lead. Also called ''band-axis'' and ''axis-band''.}}\n\n'''axis-deer''' (ak′sis-dēr), ''n.'' Same as ''axis''<sup>2</sup>, 1.\n\n'''axisymmetric''' (ak″si-si-met′rik), ''a.'' Symmetrical with reference to an axis.\n\n'''axle''' (ak′sl), ''n.'' [Early mod. E. also ''axel'', ''axell'', ''axile'', < ME. ''axel'', ''axil'' (chiefly in comp. ''axel-tree'', q. v.; not in AS., where only the primitive ''æx'', ''eax'' occurs: see ''ax''<sup>2</sup>) = Icel. ''öxull'', m., = Sw. Dan. ''axel'', axle; not found in this sense in the other languages, where its place is supplied by the primitive ''ax''<sup>2</sup>, but ult. = ME. ''æxl'', ''exl'', < AS. ''eaxl'', ''exel'' = OHG. ''ahsala'', MHG. ''ahsel'', G. ''achsel'' = Icel. ''öxl'', f., = Sw. Dan. ''axel'' = Norw.",
+   "c2s3": "''oksl'', ''aksl'', ''axel'', the shoulder, = L. ''āla'' (for *''axla''), shoulder-joint, wing (see ''ala'', ''aisle'', and cf. ''axilla''); with formative -''l'', < ''ax''<sup>2</sup> (L. ''axis'', etc.), axle (the shoulder-joint being the axle or axis on which the arm turns): see ''ax''<sup>2</sup>.] '''1.''' The pin or spindle on which a wheel revolves, or which forms the axis of the wheel and revolves with it.\n{{smaller block|Properly, the axle of a carriage-, cart-, or wagon-wheel is the round arm of the axletree or axle-bar which is inserted in the hub or nave, but the name is sometimes extended to the whole axletree.}}\n'''2†.''' An axis, as of the earth.\n{{smaller block|<poem>Whether . . .\nHe [the sun] from the east his flaming road begin,\nOr she [the earth] from west her silent course advance,\nWith inoffensive pace that spinning sleeps\nOn her soft ''axle''.</poem>\n{{right|''Milton'', P. L., viii. 165.}}}}\n\n{{smaller|'''Axle stop-key''', a plate upon the end of the axle of a railroad-car, intended to prevent excessive lateral motion and to take the wear.—'''Blind axle''', an axle that does not communicate power; a dead axle.—'''Collinge axle''', in ''coach-building'', an axle the box of which is secured upon the arm by two nuts screwed right and left.—'''Compound axle''', an axle having two parts connected by a sleeve or some other locking arrangement.—'''Dead axle''', one which does not impart motion; a blind axle: opposed to a ''live axle'' or ''driving-axle''.—'''Dipping the axle''', in ''coach-building'', bending the end of the axle so that the wheel shall strike squarely upon the ground.—'''Driving-axle''', in locomotive engines, the axle which receives the power from the steam-piston transmitted through the piston-rod and connecting-rod. The rear end of the latter is connected either with cranks formed in this axle, or more generally with crank-pins upon the driving-wheels at its ends.—}}",
+   "c3s1": "¶\n{{smaller|'''Leading axle''', in British locomotives, an axle of a wheel in front of the driving-wheels.—'''Mail axle''', in ''coach-building'', an axle which is secured by a plate at its back instead of a nut on the end.}}\n{{smaller block|The commonest kind of oil ''axle'' is called the ''mail'', because the peculiar mode of fastening was first used in the mail coaches. {{right|''J. W. Burgess'', Coach-Building, p. 72.}}}}\n{{smaller|'''Telescopic axle''', an extension-axle which permits the running-wheels of a railroad-car to be slipped in or out, thus making them adaptable to tracks of different gage.—'''Trailing axle''', the rear axle of a locomotive. In English engines it is usually placed under the foot-plate.}}\n\n'''axle-adjuster''' (ak′sl-a̤-jus″tėr), ''n.'' A machine for straightening axles; a machine used in giving to the spindle its proper line of direction relatively to the axletree.\n\n'''axle-arm''' (ak′sl-ärm), ''n.'' The spindle on the end of an axle on which the box of the wheel slips, or one of the two pivots on which the axle itself turns. See second cut under ''axle-box''.\n\n'''axle-bar''' (ak′sl-bär), ''n.'' The bar of an axletree.\n\n'''axle-block''' (ak′sl-blok), ''n.'' The block placed upon the axle of a vehicle to form a seat for the spring when it is depressed.\n\n'''axle-box''' (ak′sl-boks), ''n.'' The box which con-",
+   "c3s2": "tains the bearings for the spindle of an axle, or\n[[FIGURE]]\n{{c|{{smaller|Railroad-car Axle-box.}}}}\n{{c|{{smaller|''a'', axle; ''b'', journal; ''c'', saddle, by means of which the weight of the car rests on the journal; ''d'', chamber for a lubricating substance, having its lid at ''e''.}}}}\nthe journal of an axle, as of a carriage-wheel, a railroad-car wheel, etc.; the bushing or metal lining of the hub which forms the rotatory bearing of the axle of a vehicle.—{{smaller|'''Axle-box guides,''' the guides for the brasses of an axle-box.—'''Radial axle-box,''' in a railroad-car, a sliding axle-box, so arranged that, with its fellow, it maintains the axle in a position radial to the curve of the track, however its direction may change.}}\n\n'''axle-clip''' (ak′sl-klip), ''n.'' A clevis or bow which unites some other part of a vehicle to the axle.—{{smaller|'''Axle-clip tie,''' the cross-bar which joins and secures the ends of the bow-clip (which see).}}\n[[FIGURE]]\n{{c|{{smaller|Miller’s Rubber-cushioned Axle-box.}}}}\n{{c|{{smaller|''A'', hub; ''B'', axle-box; ''C'', axle-arm; ''D'', rubber cushions; ''E'', compression-nut; ''F'', cavities in compression-nut admitting points of the wrench when compressing cushions; ''G'', slotted retaining-sleeve; ''H'', spur on axle-box; ''J'', space between axle-box and hub.}}}}\n\n'''axle-collar''' (ak′sl-kol″är), ''n.'' The collar on an axle which receives the lateral pressure from the wheel or bearing.\n\n'''axled''' (ak′sld), ''a.'' Furnished with an axle or with axles.",
+   "c3s3": "¶\n'''axle-gage''' (ak′sl-gāj), ''n.'' A wheelwright’s instrument for giving to the spindle of an axle its proper swing and gather.\n\n'''axle-guard''' (ak′sl-gärd), ''n.'' Those parts of a railroad-car in which the axle-box plays vertically under the yield and reaction of the car-springs.—{{smaller|'''Axle-guard stays''', the iron rods or straps which are bolted to the frame and to all the ends of the axle-guards, to strengthen them.}}\n\n'''axle-hook''' (ak′sl-hu̇k), ''n.'' A hook in front of the axle of a carriage, to which is attached the stay-chain connecting the axle and the double-tree.\n\n'''axle-nut''' (ak′sl-nut), ''n.'' A screw-nut fitted to the end of the arm of an axle to keep the wheel in place.\n\n'''axle-packing''' (ak′sl-pak″ing), ''n.'' The guard or material placed about an axle to exclude dust.\n\n'''axle-pin''' (ak′sl-pin), ''n.'' Same as ''linch-pin.''\n\n'''axle-saddle''' (ak′sl-sad″l), ''n.'' A saddle-shaped clip, used in securing a spring to an axle.\n\n'''axle-seat''' (ak′sl-sēt), ''n.'' The hole in a railroad-car wheel which receives the arm of the axle.\n\n'''axle-skein''' (ak′sl-skān), ''n.'' A band, strip, or thimble of metal placed on a wooden axle-arm to prevent the wood from wearing rapidly.\n\n'''axle-sleeve''' (ak′sl-slēv), ''n.'' A sleeve placed round a railroad-car axle in order to hold up the ends should the axle be broken.\n\n'''axle-tooth''' (ak′sl-töth), ''n.'' [E. dial., also ''assle-'', ''azzle-'', ''assal-tooth'', early mod. E. ''axel-'', ''axill-tooth'', < late ME. ''axyltothe'' (= Dan. ''axel-tand'');",
+   "c3s4": "< *''axel'' (Shetland ''yackle'') (< Icel. ''jaxl'' = Norw. ''jaksle'', ''jakle'' = Sw. dial. ''jäkkel'', ''jäksl'' = Dan. ''axel''), a jaw-tooth, grinder, + ''tooth''.] A grinder; a molar. [Prov. Eng.]"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0429 c1f1.png",
+   "c3f1": "century v01 p0429 c3f1.png",
+   "c3f2": "century v01 p0429 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     154,
+     380,
+     740,
+     622
+    ],
+    "caption": [
+     158,
+     629,
+     752,
+     671
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     146,
+     388,
+     817,
+     621
+    ]
+   },
+   {
+    "box": [
+     1985,
+     1057,
+     2299,
+     1268
+    ],
+    "caption": [
+     1983,
+     1307,
+     2299,
+     1453
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1981,
+     1095,
+     2309,
+     1323
+    ]
+   },
+   {
+    "box": [
+     1852,
+     1481,
+     2297,
+     1778
+    ],
+    "caption": [
+     1845,
+     1790,
+     2299,
+     1941
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1844,
+     1488,
+     2309,
+     1814
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "3": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 4,
+    "input_tokens": 6575,
+    "output_tokens": 460,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9616,
+    "output_tokens": 10497,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f1": "right",
+   "c3f2": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|axis|403|axle-tooth}}</noinclude>{{nop}}'''9.''' In ''geog.'' and ''geol.'', the central or dominating region of a mountain-chain, or the line which follows the crest of a range and thus indicates the position of the most conspicuous portion of the uplift. {{smaller|In a folded region, or one in}}\n{{smaller|which the strata have been bent into anticlinals and synclinals, the axis of each fold is the plane indicating the direction parallel to which the folding has taken place, or toward which the strata incline.}}\n\n[[File:century v01 p0429 c1f1.png|center|296px]]\n{{c|{{smaller|Section of mountain showing position of axis of synclinally folded strata.}}}}\n\n'''10.''' In ''analytical geom.'', any fixed line of reference used to determine the position of a point or series of points (line, surface) in space.{{smaller|—'''Anticlinal axis,''' in ''geol.'' See ''anticlinal.''—'''Axes of an ellipsoid,''' its maximum and minimum diameters and the diameter perpendicular to these.—'''Axes of coördinates,''' or '''coördinate axes,''' in ''analytical geom.'', fixed lines on which or parallel to which an element (abscissa or ordinate) of the position of a point is measured.—'''Axes of light-elasticity,''' the three directions at right angles to one another in a biaxial crystal in which the elasticity of the light-ether has its maximum, minimum, and mean value. In a trimetric (orthorhombic) crystal they coincide with the crystallographic axes; in a monoclinic crystal one coincides with the orthodiagonal axis, the others lie in the plane of symmetry. In a triclinic crystal there is no necessary relation between the two sets of axes.— '''Axis of a beam of light,''' the middle ray of the beam.—'''Axis of a cone,''' a straight line drawn from the vertex to the center of the base.—'''Axis of a conic,''' a diameter perpendicular to the chords it bisects.—'''Axis of a crystal,''' in ''crystal.'', one of three or four imaginary lines assumed for convenience to define the position of the planes of the crystal, and to exhibit its symmetry. See ''crystallography''.—'''Axis of a curve,''' a right line dividing it into two symmetrical parts, so as to bisect every chord perpendicular to it, as in a parabola, ellipse, or hyperbola.—'''Axis of a cylinder,''' a straight line drawn from the center of the one end to that of the other.—'''Axis of affinity,''' the axis of homology of figures homological by affinity.—'''Axis of a gun''' or '''piece,''' the middle line of the bore of the gun.—'''Axis of a lens,''' a straight line drawn through the optical center of the lens, and perpendicular to both its surfaces.—'''Axis of a magnet,''' the imaginary line which connects the north and south poles of the magnet.—'''Axis of a sphere,''' any straight line drawn through the center and terminated both ways by the surface of the sphere.—'''Axis of a spherical, concave,''' or '''convex mirror,''' a straight line which passes through the geometrical and optical centers of the mirror.—'''Axis of a telescope,''' a straight line passing through the centers of all the glasses in the tube.—'''Axis of collineation,''' in ''math.'', a line which corresponds to itself in a projective transformation.—'''Axis of direct elasticity,''' a direction in a solid body such that a longitudinal strain in that direction produces a stress precisely opposed to the strain.—'''Axis of elasticity,''' a direction in a solid body with respect to which some kind of symmetry exists in the relation of strains and stresses.—'''Axis of homology,''' the line upon which corresponding lines of two figures in homology intersect each other.—'''Axis of oscillation of a pendulum,''' a right line passing through the center about which it vibrates, and perpendicular to the plane of vibration.—'''Axis of perspective,''' the line in which the plane of a perspective representation cuts any plane represented.—'''Axis of reflection,''' in the method of inversion in geometry, any line considered as perpendicular to and bisecting the distance between two inverse points.—'''Axis of refraction,''' a straight line drawn perpendicular to the surface of the refracting medium, through the point of incidence of the refracted ray. Some crystals have two axes of refraction.—'''Axis of rotation,''' the imaginary line about which all the parts of a rotating body turn.—'''Axis of similitude of three circles,''' a line passing through two intersections of corresponding pairs of common tangents of two pairs out of the three circles. The axis of similitude also necessarily passes through a third such point, but this fact is not essential to its definition.—'''Axis of symmetry,''' a line on both or all sides of which the parts of a body or magnitude are symmetrically disposed.—'''Axis of the earth,''' the straight line connecting its two poles, and about which it performs its diurnal rotation.—'''Axis of the eye,''' a straight line passing through the centers of the pupil and crystalline lens; the optic axis.—'''Axis of the Ionic capital,''' a line passing perpendicularly through the middle of the eye of the volute.—'''Axis of the world,''' the imaginary axis passing through the celestial poles.—'''Axis of vision.''' See ''visual axis'', below.—'''Basicranial axis,''' a straight line drawn from a point midway between the occipital condyles, through the median plane of the skull, to the junction of the ethmoid and presphenoid, in the floor of the cerebral cavity.   ''Huxley.'' See cut under ''craniofacial''.—'''Basifacial axis,''' or '''facial axis,''' a straight line drawn from the anterior extremity of the premaxilla to the anterior extremity of the basicranial axis (which see, above): not to be confounded with ''facial line''. See ''craniometry'', and cut under ''craniofacial''.—'''Celiac axis.''' (''a'') A short, thick branch of the abdominal aorta, given off just below the diaphragm, and immediately dividing into the gastric, hepatic, and splenic arteries. (''b'') The sympathetic plexus which surrounds this artery.—'''Cerebrospinal axis.''' See ''cerebrospinal''.—'''Conjugate''' or '''minor axis,''' in ''geom.'', an axis, especially of a hyperbola, perpendicular to the transverse}} axis. The term was originally used in the plural for a pair of conjugate diameters at right angles to each other. As now used, it is an abbreviated expression for ''axis conjugate to the transverse axis.''—'''Facial axis.''' See ''basifacial'' {{smaller|''axis'', above.—'''Harmonic axis.''' See ''harmonic''.—'''Instantaneous axis,''' the axis about which a body is rotating at any instant: an expression applicable when motion is considered in only two dimensions or when a point of the body is fixed; in other cases it would be an inaccurate abbreviation of the following: '''Instantaneous sliding axis,''' that line about which a body is rotating and along which it is simultaneously sliding at any instant. Every rigid body at every instant of its motion has such an instantaneous sliding axis.—'''Macrodiagonal axis, magnetic axis.''' See the adjectives.—'''Neural axis,''' in ''anat.'', the cerebrospinal axis; the axis or central trunk of the cerebrospinal system.—'''Neutral axis,''' in ''mech.'': (''a'') Of a beam, the plane in which the tensile and compressing forces terminate, and in which the stress is therefore nothing. (''b'') Of a deflected bar, the line along which there is neither extension nor compression.—'''Optic axis,''' the axis of the eye (which see, above).—'''Orthogonal''' or '''principal metatatic axes,''' three axes in a body such that, if a cube be cut out having its faces normal to these axes, and if there be a linear elongation along one of them and an equal linear compression along a second, no tangential stress will result round the third axis on planes normal to the first two.—'''Radical axis of two circles,''' the line joining their points of intersection. This line is real even when the circles do not really intersect, the difference of its distance from the two centers being proportional to the difference of the areas of the two circles.—'''Spiral axis,''' in ''arch.'', the axis of a twisted column spirally drawn in order to trace the circumvolutions without.—'''Synclinal axis,''' in ''geol.'' See ''synclinal''.—'''Tectonic axes,''' in ''crystal.'', the lines along which the minute crystals are arranged in the formation of a complex crystalline growth. Thus, dendritic crystallizations of gold and copper often branch at angles of 60°, their directions being parallel to the sides of an octahedral face.—'''The principal axes of inertia''' of a body, those lines passing through its center of mass about which its moments of inertia are a maximum and a minimum, together with the third line perpendicular to these at their intersection.—'''The principal axes of stress''' in a body, the directions of the three conjugate normal stresses.—'''Thyroid axis,''' a short, thick branch from the subclavian artery, dividing almost immediately into the inferior thyroid, suprascapular, and transversalis colli.—'''Transverse''' or '''major axis''', in ''conic sections'', the diameter which passes through the foci. In the ellipse it is the longest diameter; in the hyperbola it is the shortest; and in the parabola it is, like all the other diameters, infinite in length.—'''Visual axis''', in ''physiol.'', the straight line passing through the center of the pupil and the middle of the macula lutea. It does not coincide with the optic axis. Also called ''visual line'', or ''axis of vision''.—'''Zone axis.''' See ''zone''.}}\n\n'''axis'''<sup>2</sup> (ak′sis), ''n.''   [L. ''axis'' (Pliny); perhaps of E. Ind. origin.]   '''1.''' A kind of East Indian deer, ''Cervus axis'', of which there are several varieties, perhaps species. The body is spotted with white. Also called ''axis-deer'', ''spotted deer'', and ''hog-deer''.—'''2.''' [''cap.''] [NL.] A genus of such deer.   ''Ham. Smith'', 1827.\n\n'''axis-cylinder''' (ak′sis-sil″in-dėr), ''n.'' In ''anat.'', the central part of a nerve-fiber; the core of white nerve-tissue in a nerve-fiber. {{smaller|It is the essential part of the nerve, and is the only part found at its origin and termination. In cross-section, a bundle of nerve-fibers appears like a bunch of lead pencils, the axis-cylinder corresponding to the lead. Also called ''band-axis'' and ''axis-band''.}}\n\n'''axis-deer''' (ak′sis-dēr), ''n.'' Same as ''axis''<sup>2</sup>, 1.\n\n'''axisymmetric''' (ak″si-si-met′rik), ''a.'' Symmetrical with reference to an axis.\n\n'''axle''' (ak′sl), ''n.''   [Early mod. E. also ''axel'', ''axell'', ''axile'', < ME. ''axel'', ''axil'' (chiefly in comp. ''axel-tree'', q. v.; not in AS., where only the primitive ''æx'', ''eax'' occurs: see ''ax''<sup>2</sup>) = Icel. ''öxull'', m., = Sw. Dan. ''axel'', axle; not found in this sense in the other languages, where its place is supplied by the primitive ''ax''<sup>2</sup>, but ult. = ME. ''æxl'', ''exl'', < AS. ''eaxl'', ''exel'' = OHG. ''ahsala'', MHG. ''ahsel'', G. ''achsel'' = Icel. ''öxl'', f., = Sw. Dan. ''axel'' = Norw. ''oksl'', ''aksl'', ''axel'', the shoulder, = L. ''āla'' (for *''axla''), shoulder-joint, wing (see ''ala'', ''aisle'', and cf. ''axilla''); with formative -''l'', < ''ax''<sup>2</sup> (L. ''axis'', etc.), axle (the shoulder-joint being the axle or axis on which the arm turns): see ''ax''<sup>2</sup>.]   '''1.''' The pin or spindle on which a wheel revolves, or which forms the axis of the wheel and revolves with it.\n{{smaller block|Properly, the axle of a carriage-, cart-, or wagon-wheel is the round arm of the axletree or axle-bar which is inserted in the hub or nave, but the name is sometimes extended to the whole axletree.}}\n'''2†.''' An axis, as of the earth.\n{{smaller block|<poem>Whether . . .\nHe [the sun] from the east his flaming road begin,\nOr she [the earth] from west her silent course advance,\nWith inoffensive pace that spinning sleeps\nOn her soft ''axle''.</poem>\n{{right|''Milton'', P. L., viii. 165.}}}}\n\n{{smaller|'''Axle stop-key''', a plate upon the end of the axle of a railroad-car, intended to prevent excessive lateral motion and to take the wear.—'''Blind axle''', an axle that does not communicate power; a dead axle.—'''Collinge axle''', in ''coach-building'', an axle the box of which is secured upon the arm by two nuts screwed right and left.—'''Compound axle''', an axle having two parts connected by a sleeve or some other locking arrangement.—'''Dead axle''', one which does not impart motion; a blind axle: opposed to a ''live axle'' or ''driving-axle''.—'''Dipping the axle''', in ''coach-building'', bending the end of the axle so that the wheel shall strike squarely upon the ground.—'''Driving-axle''', in locomotive engines, the axle which receives the power from the steam-piston transmitted through the piston-rod and connecting-rod. The rear end of the latter is connected either with cranks formed in this axle, or more generally with crank-pins upon the driving-wheels at its ends.—}}\n\n{{smaller|'''Leading axle''', in British locomotives, an axle of a wheel in front of the driving-wheels.—'''Mail axle''', in ''coach-building'', an axle which is secured by a plate at its back instead of a nut on the end.}}\n{{smaller block|The commonest kind of oil ''axle'' is called the ''mail'', because the peculiar mode of fastening was first used in the mail coaches. {{right|''J. W. Burgess'', Coach-Building, p. 72.}}}}\n{{smaller|'''Telescopic axle''', an extension-axle which permits the running-wheels of a railroad-car to be slipped in or out, thus making them adaptable to tracks of different gage.—'''Trailing axle''', the rear axle of a locomotive. In English engines it is usually placed under the foot-plate.}}\n\n'''axle-adjuster''' (ak′sl-a̤-jus″tėr), ''n.'' A machine for straightening axles; a machine used in giving to the spindle its proper line of direction relatively to the axletree.\n\n'''axle-arm''' (ak′sl-ärm), ''n.'' The spindle on the end of an axle on which the box of the wheel slips, or one of the two pivots on which the axle itself turns. See second cut under ''axle-box''.\n\n'''axle-bar''' (ak′sl-bär), ''n.'' The bar of an axletree.\n\n'''axle-block''' (ak′sl-blok), ''n.'' The block placed upon the axle of a vehicle to form a seat for the spring when it is depressed.\n\n'''axle-box''' (ak′sl-boks), ''n.'' The box which contains the bearings for the spindle of an axle, or {{img float|file=century v01 p0429 c3f1.png|width=159px|align=right|cap={{smaller|Railroad-car Axle-box.}}<br />{{smaller|''a'', axle; ''b'', journal; ''c'', saddle, by means of which the weight of the car rests on the journal; ''d'', chamber for a lubricating substance, having its lid at ''e''.}}}} the journal of an axle, as of a carriage-wheel, a railroad-car wheel, etc.; the bushing or metal lining of the hub which forms the rotatory bearing of the axle of a vehicle.—{{smaller|'''Axle-box guides,''' the guides for the brasses of an axle-box.—'''Radial axle-box,''' in a railroad-car, a sliding axle-box, so arranged that, with its fellow, it maintains the axle in a position radial to the curve of the track, however its direction may change.}}\n\n'''axle-clip''' (ak′sl-klip), ''n.'' A clevis or bow which unites some other part of a vehicle to the axle.—{{smaller|'''Axle-clip tie,''' the cross-bar which joins and secures the ends of the bow-clip (which see).}} {{img float|file=century v01 p0429 c3f2.png|width=223px|align=right|cap={{smaller|Miller’s Rubber-cushioned Axle-box.}}<br />{{smaller|''A'', hub; ''B'', axle-box; ''C'', axle-arm; ''D'', rubber cushions; ''E'', compression-nut; ''F'', cavities in compression-nut admitting points of the wrench when compressing cushions; ''G'', slotted retaining-sleeve; ''H'', spur on axle-box; ''J'', space between axle-box and hub.}}}}\n\n'''axle-collar''' (ak′sl-kol″är), ''n.'' The collar on an axle which receives the lateral pressure from the wheel or bearing.\n\n'''axled''' (ak′sld), ''a.'' Furnished with an axle or with axles.\n\n'''axle-gage''' (ak′sl-gāj), ''n.'' A wheelwright’s instrument for giving to the spindle of an axle its proper swing and gather.\n\n'''axle-guard''' (ak′sl-gärd), ''n.'' Those parts of a railroad-car in which the axle-box plays vertically under the yield and reaction of the car-springs.—{{smaller|'''Axle-guard stays''', the iron rods or straps which are bolted to the frame and to all the ends of the axle-guards, to strengthen them.}}\n\n'''axle-hook''' (ak′sl-hu̇k), ''n.'' A hook in front of the axle of a carriage, to which is attached the stay-chain connecting the axle and the double-tree.\n\n'''axle-nut''' (ak′sl-nut), ''n.'' A screw-nut fitted to the end of the arm of an axle to keep the wheel in place.\n\n'''axle-packing''' (ak′sl-pak″ing), ''n.'' The guard or material placed about an axle to exclude dust.\n\n'''axle-pin''' (ak′sl-pin), ''n.'' Same as ''linch-pin.''\n\n'''axle-saddle''' (ak′sl-sad″l), ''n.'' A saddle-shaped clip, used in securing a spring to an axle.\n\n'''axle-seat''' (ak′sl-sēt), ''n.'' The hole in a railroad-car wheel which receives the arm of the axle.\n\n'''axle-skein''' (ak′sl-skān), ''n.'' A band, strip, or thimble of metal placed on a wooden axle-arm to prevent the wood from wearing rapidly.\n\n'''axle-sleeve''' (ak′sl-slēv), ''n.'' A sleeve placed round a railroad-car axle in order to hold up the ends should the axle be broken.\n\n'''axle-tooth''' (ak′sl-töth), ''n.''   [E. dial., also ''assle-'', ''azzle-'', ''assal-tooth'', early mod. E. ''axel-'', ''axill-tooth'', < late ME. ''axyltothe'' (= Dan. ''axel-tand''); < *''axel'' (Shetland ''yackle'') (< Icel. ''jaxl'' = Norw. ''jaksle'', ''jakle'' = Sw. dial. ''jäkkel'', ''jäksl'' = Dan. ''axel''), a jaw-tooth, grinder, + ''tooth''.]   A grinder; a molar. [Prov. Eng.]<noinclude><references/></noinclude>"
+}

@@ -1,0 +1,293 @@
+{
+ "volume": 1,
+ "page_number": 222,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n221.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n221.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 747,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     102,
+     141,
+     2331,
+     180
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     102,
+     180,
+     854,
+     1218
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     102,
+     1218,
+     854,
+     2272
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     102,
+     2272,
+     854,
+     3287
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     854,
+     180,
+     1591,
+     1176
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     854,
+     1176,
+     1591,
+     2220
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     905,
+     1695,
+     1515,
+     2124
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     854,
+     2220,
+     1591,
+     3287
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1591,
+     184,
+     2331,
+     1378
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1673,
+     180,
+     2247,
+     1016
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1591,
+     1378,
+     2331,
+     2013
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1591,
+     2013,
+     2331,
+     3091
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1866,
+     2345,
+     2331,
+     2589
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1591,
+     3091,
+     2331,
+     3287
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|analytic|196|ananthous}}",
+   "c1s1": "{{smaller|Austin.—'''Analytical key''', in ''bot.'', an arrangement of the prominent characters of a group of orders, or of genera, etc., in such a manner as to facilitate the determination of plants.—'''Analytical mechanics''', the science of mechanics treated by the infinitesimal calculus.—'''Analytic function.''' See ''function.''—'''Analytic method''', in ''logic'', a method which proceeds regressively or inductively from known particulars to the recognition of general principles, in opposition to the ''synthetic method'', which advances from principles to particulars.}}\n\n'''II.''' ''n.'' (only in the first form). '''1.''' One of the main divisions of logic, which treats of the criteria for distinguishing good and bad arguments.—'''2.''' Analysis in the mathematical sense. [Rare.]—{{smaller|'''The new analytic of logical forms''', a logical scheme of syllogism by Sir W. Hamilton, based upon the doctrine of the quantification of the predicate. See ''quantification.''}}\n\n'''analytically''' (an-a-lit′i-kal-i), ''adv.'' '''1.''' In an analytical manner; by an analytic method; by means of analysis.—'''2.''' To or toward analytic methods: as, “persons ''analytically'' inclined,” ''H. Spencer.''\n\n'''analytics''' (an-a-lit′iks), ''n. pl.'' [The pl. form with ref. to Aristotle’s treatises on logic, called τὰ ἀναλυτικά, neut. pl. of ἀναλυτικός, analytic: see ''analytic.''] '''1.''' The name given by Aristotle to the whole of his logical investigations viewed as the analysis of thought; specifically, the name of two of his logical treatises, the ''Prior'' and the ''Posterior Analytics'', the former of which deals with the doctrine of the syllogism, and the latter with proof, definition, division, and the knowledge of principles.—'''2.''' Same as ''analytic'', 2.",
+   "c1s2": "¶\n'''analyzable, analysable''' (an′ạ-lī-za-bl), ''a.'' [< ''analyze, analyse,'' + ''-able.''] Capable of being analyzed.\n\n'''analyzableness, analysableness''' (an′ạ-lī-za̤-bl-nes), ''n.'' The state or quality of being analyzable.\n\n'''analyzation, analysation''' (an-ạ-li-zā′shọn), ''n.'' [< ''analyze, analyse,'' + ''-ation.''] The act of analyzing.\n\n'''analyze, analyse''' (an′ạ-līz), ''v. t.''; pret. and pp. ''analyzed, analysed,'' ppr. ''analyzing, analysing.'' [Now usually spelled ''analyse'' in England, but formerly there, as still in the United States, spelled regularly ''analyze'' (as in Johnson’s Dictionary), in the 17th century also ''analize,'' < F. ''analyser'' = Pr. Pg. ''analysar'' = Sp. ''analizar'' = It. ''analizzare,'' analyze; from the noun, F. ''analyse,'' E. obs. ''analyse,'' analysis, the term. conforming to ''-ize,'' as also in ''paralyze,'' q. v.: see ''analysis'' and ''-ize.''] '''1.''' To take to pieces; resolve into elements; separate, as a compound into its parts; ascertain the constituents or causes of; ascertain the characters or structure of, as a plant: as, to ''analyze'' a mineral, a sentence, or an argument; to ''analyze'' light by separating it into its prismatic constituents.\n{{smaller block|But do what we will, there remains in all deeply agreeable impressions a charming something we cannot ''analyze.''\n{{right|''H. James, Jr.'', Trans. Sketches, p. 244.}}\nThe ''analyzing'' prism is fitted into the body [of the microscope] above the Wenham prism, in such a manner that, when its fitting is drawn out, . . . it is completely out of the way of the light-rays.\n{{right|''W. B. Carpenter'', Micros., § 68.}}}}",
+   "c1s3": "Hence—'''2.''' To examine critically, so as to bring out the essential elements or give the essence of: as, to ''analyze'' a poem.—'''3.''' In ''math.'', to submit (a problem) to treatment by algebra, and especially by the calculus.\n\n'''analyzer, analyser''' (an′a̤-lī-zėr), ''n.'' '''1.''' One who or that which analyzes, or has the power of analyzing.\n{{smaller block|Fire is the great ''analyzer'' in the world, and the product ashes.\n{{right|''Bushnell'', Sermons on Living Subjects.}}\nBy this title [man of science] we do not mean the mere calculator of distances, or ''analyzer'' of compounds, or labeller of species.\n{{right|''H. Spencer'', Education, p. 93.}}}}\nSpecifically—'''2.''' In ''optics'', the part of a polariscope which receives the light after polarization and exhibits its properties: usually a section or prism cut from a doubly refracting crystal.\n{{smaller block|When two instruments, whether of the same or of different kinds, are used, they are called respectively the “polariser” and the “''analyser''”; and the two together are included under the general name of “polariscope.”\n{{right|''Spottiswoode'', Polarisation, p. 2.}}}}\n\n'''Anamese''', ''a.'' and ''n.'' See ''Annamese.''\n\n'''anamesite''' (a-nam′e-sīt), ''n.'' [< Gr. ἀνάμεσος, intermediate (< ἀνά, upon, + μέσον, middle), + ''-ite''<sup>2</sup>.] The name given by lithologists to those varieties of basalt which are of so fine a texture that the separate crystals cannot be distinguished by the naked eye. See ''basalt.''\n\n'''Anamite''' (an′a-mīt), ''n.'' Same as ''Annamese.''\n\n'''anamnesis''' (an-am-nē′sis), ''n.'' [NL., < Gr. ἀνάμνησις, a recalling to mind, < ἀναμιμνήσκειν, recall",
+   "c2s1": "to mind, < ἀνά, again, + μιμνήσκειν, call to mind: see ''mnemonic.'' Cf. ''amnesia.''] '''1.''' In ''psychol.'', the act or process of reproduction in memory; reminiscence.—'''2.''' In ''rhet.'', a figure which consists in calling to remembrance something overlooked.—'''3.''' In ''Platonic philos.'', the vague recollection of a state of existence preceding the present life. ''Is. Taylor.''—'''4.''' In ''med.'', the account given by a patient or his friends of the history of his case up to the time when he is placed under the care of a physician.\n\n'''anamnestic''' (an-am-nes′tik), ''a.'' and ''n.'' [< Gr. ἀναμνηστικός, able to recall to mind, < ἀναμνηστός, that may be recalled, < ἀναμιμνήσκειν: see ''anamnesis.''] '''I.''' ''a.'' Aiding the memory.\n\n'''II.''' ''n.'' The art of recollection or reminiscence. ''Sir W. Hamilton.''\n\n'''Anamnia''' (an-am′ni-ä̤), ''n. pl.'' [NL., neut. pl. of ''anamnius'', < Gr. ἀν- priv. + ἀμνίον, amnion.] In ''zoöl.'', those vertebrates, as fishes and amphibians, which are destitute of an amniotic sac: opposed to ''Amnionata'' (which see).\n\n'''Anamniata''' (an-am-ni-ā′tä̤), ''n. pl.'' [NL., as ''Anamnia'' + ''-ata.''] The more correct form of ''Anamnionata.''\n\n'''Anamnionata''' (an-am″ni-ọ̄-nā′tä̤), ''n. pl.'' [NL., < Gr. ἀν- priv. + ἀμνίον, amnion, + ''-ata''; more correctly ''Anamniata.''] Vertebrates which have no amnion, as the ''Ichthyopsida'': synonymous with ''Anallantoidea'', and opposed to ''Amnionata.'' Also written ''Anamniota.''",
+   "c2s2": "¶\n'''anamnionic''' (an-am-ni-on′ik), ''a.'' [< Gr. ἀν- priv. + ἀμνίον, amnion, + ''-ic''; the more correct form would be *''anamniac.''] Same as ''anamniotic.''\n\n'''Anamniota''' (an-am-ni-ō′tä̤), ''n. pl.'' [NL., < Gr. ἀν- priv. + ἀμνίον, amnion, + -ωτός: see ''-ote.''] Same as ''Anamnionata.''\n\n'''anamniotic''' (an-am-ni-ot′ik), ''a.'' [As ''Anamniota'' + ''-ic.''] Without amnion: as, fishes and amphibians are ''anamniotic'' vertebrates. An equivalent form is ''anamnionic.''\n\n'''anamorphism''' (an-ạ-môr′fizm), ''n.'' [< ''anamorphosis'' + ''-ism.''] Same as ''anamorphosis'', 2 and 3.\n\n'''anamorphoscope''' (an-ạ-môr′fọ-skōp), ''n.'' [< Gr. ἀναμόρφωσις (see ''anamorphosis'') + σκοπεῖν, view.] An optical toy consisting of a vertical cylindri-\n[[FIGURE]]\n{{c|{{smaller|Anamorphoscope.}}}}\ncal mirror which gives a correct image of a",
+   "c2s3": "distorted picture drawn at the base on a plane at right angles to the axis of the mirror. See ''anamorphosis.''\n\n'''anamorphose''' (an-ạ-môr′fōs), ''v. t.''; pret. and pp. ''anamorphosed'', ppr. ''anamorphosing.'' [< ''anamorphosis.''] To represent by anamorphosis; distort into a monstrous projection. ''N. E. D.''\n\n'''anamorphosis''' (an-a-môr′fọ̄-sis or an″a-môr-fō′sis), ''n.'' [NL., < Gr. ἀναμόρφωσις, a forming anew, < ἀναμορφόειν, form anew, transform, < ἀνά, again, + μορφόειν, form, < μορφή, a form: see ''morphology.''] '''1.''' In ''perspec.'', a method of drawing which gives a distorted image of the object represented when it is viewed directly or nearly so, but a natural image when it is viewed from a certain point, is reflected by a curved mirror, or is seen through a polyhedron.—'''2.''' In ''bot.'', an anomalous or monstrous development of any part of a plant, owing to some unusual condition affecting growth, so that it presents an appearance altogether unlike the typical form, as when the calyx of a rose assumes the form of a leaf. {{smaller|Lichens are so liable to this change of form from modifications of climate, soil, etc., that some varieties have been placed in three or four different genera.}} '''3.''' In ''zoöl.'' and ''bot.'', the gradual change of form, generally ascending, traced in a group of animals or plants the members of which succeed each other in point of time. {{smaller|Thus, the earlier members of any group observed in the lower geological formations are by some said to be of a lower type than, and in point of development inferior to, their analogues in more recent strata or among living forms; but this has been controverted, especially by opponents of Darwinism.}}\n\nIn senses 2 and 3 also called ''anamorphism.''",
+   "c3s1": "[[FIGURE]]\n{{c|{{smaller|Anamorphosis.}}}}\n\n'''anamorphosy''' (an-ạ-môr′fọ̄-si), ''n.'' Same as ''anamorphosis.'' ''Imp. Dict.''\n\n'''anamorphous''' (an-ạ-môr′fus), ''a.'' [As ''anamorphosis'' + ''-ous,'' after ''amorphous.''] Distorted; out of shape. ''N. E. D.''\n\n'''anan''' (ạ-nan′), ''adv.'' and ''interj.'', orig. ''prep. phr.'' [< ME. ''anan, anœn,'' originally with long ''a'' (ä), ''anān;'' also ''anon, anoon, anone:'' see ''anon.''] '''I.†''' ''adv.'' At once; immediately; anon.",
+   "c3s2": "{{smaller block|<poem>Go to, little blushet, for this, ''anan'',\nYou’ll steal forth a laugh in the shade of your fan.</poem>\n{{right|''B. Jonson'', Entertainments.}}}}\n\n'''II.''' ''interj.'' An interrogative particle signifying that one has not heard or comprehended what has been said. [Eng.]\n\n{{smaller block|''Hast.'' Well, what say you to a friend who would take the bitter bargain off your hand?\n''Tony.'' ''Anan!'' {{right|''Goldsmith'', She Stoops to Conquer, ii.}}}}\n\n{{smaller block|[In this sense formerly, and still dialectally, much used in replying to questions or commands, to gain a slight delay, though originally implying “I will attend to you at once”; hence, with an interrogative tone, it came to imply that the question or command was not understood. It is the same word as ''anon''.]}}\n\n'''anana†''' (an-an′ä̤), ''n.'' [See ''ananas''.] A pineapple.\n\n'''ananas''' (an-an′as), ''n.'' [Formerly also ''anana'' = F. and It. ''ananas'', < Sp. ''ananas'', also ''anana'', Pg. ''ananaz'', the pineapple, < Braz. (Tupi) ''ananas'', ''anassa'', or ''nanas'', first mentioned as Peruv.,",
+   "c3s3": "''nanas.''] '''1.''' A native name in tropical America of the pineapple, and of other plants resembling it. The wild ananas of the West Indies is ''Bromelia Pinguin.''—'''2.''' [''cap.''] [NL.] A small genus of tropical plants, belonging to the natural order ''Bromeliaceæ.'' ''A. sativa'' produces the pineapple. Also called ''Ananassa.''\n\n¶\n'''Ananchytes''' (an-ang-kī′tēz), ''n.'' [NL.; formation appar. irreg. and not obvious.] A genus of fossil petalostichous sea-urchins, of the family ''Spatangidæ'', found in the Cretaceous formation. {{smaller|They are called in the south of England “shepherds’ crowns” and “fairy loaves,” and are especially characteristic of the Upper Chalk. They have a raised helmet-}}\n[[FIGURE]]\n{{c|{{smaller|''Ananchytes.''<br>1, ''A. ovatus.'' 2, ''A. tuberculatus.''}}}}\n{{smaller|like form, simple ambulacra, transversed mouth, an oblong outlet.}}\n\n'''Ananchytinæ''' (an-ang-ki-tī′nē), ''n. pl.'' [NL., < ''Ananchytes'' + ''-inæ''.] A subfamily of sea-urchins, of the family ''Spatangidæ'', typified by the genus ''Ananchytes'', containing many fossil and a few surviving forms.\n\n'''anandrous''' (an-an′drus), ''a.'' [< NL. ''anandrus'', < Gr. ἄνανδρος, without a man, < ἀν- priv. + ἀνήρ (ἀνδρ-), a man, a male, in mod. bot. a stamen.] In ''bot.'', without stamens: applied to female flowers. Also formerly applied to cryptogamic plants, because they were supposed to have no male organs.",
+   "c3s4": "¶\n'''anantherous''' (an-an′thėr-us), ''a.'' [< NL. ''anantherus'', < Gr. ἀν- priv. + NL. ''anthera'', anther.] In ''bot.'', destitute of anthers.\n\n'''ananthous''' (an-an′thus), ''a.'' [< Gr. ἀνανθής, < ἀν- priv. + ἄνθος, a flower, + ''-ous''.] Destitute of flowers."
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0222 c2f1.png",
+   "c3f1": "century v01 p0222 c3f1.png",
+   "c3f2": "century v01 p0222 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1685,
+     188,
+     2235,
+     1004
+    ],
+    "caption": [
+     1882,
+     1026,
+     2039,
+     1047
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1661,
+     194,
+     2332,
+     1022
+    ]
+   },
+   {
+    "box": [
+     917,
+     1707,
+     1503,
+     2112
+    ],
+    "caption": [
+     1124,
+     2138,
+     1311,
+     2160
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     933,
+     1707,
+     1581,
+     2127
+    ]
+   },
+   {
+    "box": [
+     1878,
+     2357,
+     2329,
+     2577
+    ],
+    "caption": [
+     1935,
+     2583,
+     2283,
+     2635
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1878,
+     2355,
+     2332,
+     2546
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 4,
+    "input_tokens": 6911,
+    "output_tokens": 263,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9566,
+    "output_tokens": 8404,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f2": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|analytic|196|ananthous}}</noinclude>{{smaller|Austin.—'''Analytical key''', in ''bot.'', an arrangement of the prominent characters of a group of orders, or of genera, etc., in such a manner as to facilitate the determination of plants.—'''Analytical mechanics''', the science of mechanics treated by the infinitesimal calculus.—'''Analytic function.''' See ''function.''—'''Analytic method''', in ''logic'', a method which proceeds regressively or inductively from known particulars to the recognition of general principles, in opposition to the ''synthetic method'', which advances from principles to particulars.}}\n\n'''II.''' ''n.'' (only in the first form). '''1.''' One of the main divisions of logic, which treats of the criteria for distinguishing good and bad arguments.—'''2.''' Analysis in the mathematical sense. [Rare.]—{{smaller|'''The new analytic of logical forms''', a logical scheme of syllogism by Sir W. Hamilton, based upon the doctrine of the quantification of the predicate. See ''quantification.''}}\n\n'''analytically''' (an-a-lit′i-kal-i), ''adv.'' '''1.''' In an analytical manner; by an analytic method; by means of analysis.—'''2.''' To or toward analytic methods: as, “persons ''analytically'' inclined,” ''H. Spencer.''\n\n'''analytics''' (an-a-lit′iks), ''n. pl.''   [The pl. form with ref. to Aristotle’s treatises on logic, called τὰ ἀναλυτικά, neut. pl. of ἀναλυτικός, analytic: see ''analytic.'']   '''1.''' The name given by Aristotle to the whole of his logical investigations viewed as the analysis of thought; specifically, the name of two of his logical treatises, the ''Prior'' and the ''Posterior Analytics'', the former of which deals with the doctrine of the syllogism, and the latter with proof, definition, division, and the knowledge of principles.—'''2.''' Same as ''analytic'', 2.\n\n'''analyzable, analysable''' (an′ạ-lī-za-bl), ''a.''   [< ''analyze, analyse,'' + ''-able.'']   Capable of being analyzed.\n\n'''analyzableness, analysableness''' (an′ạ-lī-za̤-bl-nes), ''n.'' The state or quality of being analyzable.\n\n'''analyzation, analysation''' (an-ạ-li-zā′shọn), ''n.''   [< ''analyze, analyse,'' + ''-ation.'']   The act of analyzing.\n\n'''analyze, analyse''' (an′ạ-līz), ''v. t.''; pret. and pp. ''analyzed, analysed,'' ppr. ''analyzing, analysing.''   [Now usually spelled ''analyse'' in England, but formerly there, as still in the United States, spelled regularly ''analyze'' (as in Johnson’s Dictionary), in the 17th century also ''analize,'' < F. ''analyser'' = Pr. Pg. ''analysar'' = Sp. ''analizar'' = It. ''analizzare,'' analyze; from the noun, F. ''analyse,'' E. obs. ''analyse,'' analysis, the term. conforming to ''-ize,'' as also in ''paralyze,'' q. v.: see ''analysis'' and ''-ize.'']   '''1.''' To take to pieces; resolve into elements; separate, as a compound into its parts; ascertain the constituents or causes of; ascertain the characters or structure of, as a plant: as, to ''analyze'' a mineral, a sentence, or an argument; to ''analyze'' light by separating it into its prismatic constituents.\n{{smaller block|But do what we will, there remains in all deeply agreeable impressions a charming something we cannot ''analyze.''\n{{right|''H. James, Jr.'', Trans. Sketches, p. 244.}}}}\n{{smaller block|The ''analyzing'' prism is fitted into the body [of the microscope] above the Wenham prism, in such a manner that, when its fitting is drawn out, . . . it is completely out of the way of the light-rays.\n{{right|''W. B. Carpenter'', Micros., § 68.}}}} Hence—'''2.''' To examine critically, so as to bring out the essential elements or give the essence of: as, to ''analyze'' a poem.—'''3.''' In ''math.'', to submit (a problem) to treatment by algebra, and especially by the calculus.\n\n'''analyzer, analyser''' (an′a̤-lī-zėr), ''n.'' '''1.''' One who or that which analyzes, or has the power of analyzing.\n{{smaller block|Fire is the great ''analyzer'' in the world, and the product ashes.\n{{right|''Bushnell'', Sermons on Living Subjects.}}}}\n{{smaller block|By this title [man of science] we do not mean the mere calculator of distances, or ''analyzer'' of compounds, or labeller of species.\n{{right|''H. Spencer'', Education, p. 93.}}}}\nSpecifically—'''2.''' In ''optics'', the part of a polariscope which receives the light after polarization and exhibits its properties: usually a section or prism cut from a doubly refracting crystal.\n{{smaller block|When two instruments, whether of the same or of different kinds, are used, they are called respectively the “polariser” and the “''analyser''”; and the two together are included under the general name of “polariscope.”\n{{right|''Spottiswoode'', Polarisation, p. 2.}}}}\n\n'''Anamese''', ''a.'' and ''n.'' See ''Annamese.''\n\n'''anamesite''' (a-nam′e-sīt), ''n.''   [< Gr. ἀνάμεσος, intermediate (< ἀνά, upon, + μέσον, middle), + ''-ite''<sup>2</sup>.]   The name given by lithologists to those varieties of basalt which are of so fine a texture that the separate crystals cannot be distinguished by the naked eye. See ''basalt.''\n\n'''Anamite''' (an′a-mīt), ''n.'' Same as ''Annamese.''\n\n'''anamnesis''' (an-am-nē′sis), ''n.''   [NL., < Gr. ἀνάμνησις, a recalling to mind, < ἀναμιμνήσκειν, recall to mind, < ἀνά, again, + μιμνήσκειν, call to mind: see ''mnemonic.'' Cf. ''amnesia.'']   '''1.''' In ''psychol.'', the act or process of reproduction in memory; reminiscence.—'''2.''' In ''rhet.'', a figure which consists in calling to remembrance something overlooked.—'''3.''' In ''Platonic philos.'', the vague recollection of a state of existence preceding the present life.   ''Is. Taylor.''—'''4.''' In ''med.'', the account given by a patient or his friends of the history of his case up to the time when he is placed under the care of a physician.\n\n'''anamnestic''' (an-am-nes′tik), ''a.'' and ''n.''   [< Gr. ἀναμνηστικός, able to recall to mind, < ἀναμνηστός, that may be recalled, < ἀναμιμνήσκειν: see ''anamnesis.'']   '''I.''' ''a.'' Aiding the memory.\n\n'''II.''' ''n.'' The art of recollection or reminiscence.   ''Sir W. Hamilton.''\n\n'''Anamnia''' (an-am′ni-ä̤), ''n. pl.''   [NL., neut. pl. of ''anamnius'', < Gr. ἀν- priv. + ἀμνίον, amnion.]   In ''zoöl.'', those vertebrates, as fishes and amphibians, which are destitute of an amniotic sac: opposed to ''Amnionata'' (which see).\n\n'''Anamniata''' (an-am-ni-ā′tä̤), ''n. pl.''   [NL., as ''Anamnia'' + ''-ata.'']   The more correct form of ''Anamnionata.''\n\n'''Anamnionata''' (an-am″ni-ọ̄-nā′tä̤), ''n. pl.''   [NL., < Gr. ἀν- priv. + ἀμνίον, amnion, + ''-ata''; more correctly ''Anamniata.'']   Vertebrates which have no amnion, as the ''Ichthyopsida'': synonymous with ''Anallantoidea'', and opposed to ''Amnionata.'' Also written ''Anamniota.''\n\n'''anamnionic''' (an-am-ni-on′ik), ''a.''   [< Gr. ἀν- priv. + ἀμνίον, amnion, + ''-ic''; the more correct form would be *''anamniac.'']   Same as ''anamniotic.''\n\n'''Anamniota''' (an-am-ni-ō′tä̤), ''n. pl.''   [NL., < Gr. ἀν- priv. + ἀμνίον, amnion, + -ωτός: see ''-ote.'']   Same as ''Anamnionata.''\n\n'''anamniotic''' (an-am-ni-ot′ik), ''a.''   [As ''Anamniota'' + ''-ic.'']   Without amnion: as, fishes and amphibians are ''anamniotic'' vertebrates. An equivalent form is ''anamnionic.''\n\n'''anamorphism''' (an-ạ-môr′fizm), ''n.''   [< ''anamorphosis'' + ''-ism.'']   Same as ''anamorphosis'', 2 and 3.\n\n'''anamorphoscope''' (an-ạ-môr′fọ-skōp), ''n.''   [< Gr. ἀναμόρφωσις (see ''anamorphosis'') + σκοπεῖν, view.]   An optical toy consisting of a vertical cylindrical mirror which gives a correct image of a distorted picture drawn at the base on a plane at right angles to the axis of the mirror. See ''anamorphosis.''\n\n[[File:century v01 p0222 c2f1.png|center|294px]]\n{{c|{{smaller|Anamorphoscope.}}}}\n\n'''anamorphose''' (an-ạ-môr′fōs), ''v. t.''; pret. and pp. ''anamorphosed'', ppr. ''anamorphosing.''   [< ''anamorphosis.'']   To represent by anamorphosis; distort into a monstrous projection.   ''N. E. D.''\n\n'''anamorphosis''' (an-a-môr′fọ̄-sis or an″a-môr-fō′sis), ''n.''   [NL., < Gr. ἀναμόρφωσις, a forming anew, < ἀναμορφόειν, form anew, transform, < ἀνά, again, + μορφόειν, form, < μορφή, a form: see ''morphology.'']   '''1.''' In ''perspec.'', a method of drawing which gives a distorted image of the object represented when it is viewed directly or nearly so, but a natural image when it is viewed from a certain point, is reflected by a curved mirror, or is seen through a polyhedron.—'''2.''' In ''bot.'', an anomalous or monstrous development of any part of a plant, owing to some unusual condition affecting growth, so that it presents an appearance altogether unlike the typical form, as when the calyx of a rose assumes the form of a leaf. {{smaller|Lichens are so liable to this change of form from modifications of climate, soil, etc., that some varieties have been placed in three or four different genera.}} '''3.''' In ''zoöl.'' and ''bot.'', the gradual change of form, generally ascending, traced in a group of animals or plants the members of which succeed each other in point of time. {{smaller|Thus, the earlier members of any group observed in the lower geological formations are by some said to be of a lower type than, and in point of development inferior to, their analogues in more recent strata or among living forms; but this has been controverted, especially by opponents of Darwinism.}}\n\nIn senses 2 and 3 also called ''anamorphism. 'anamorphosy''' (an-ạ-môr′fọ̄-si), ''n.'' Same as ''anamorphosis.''   ''Imp. Dict.''\n\n[[File:century v01 p0222 c3f1.png|center|277px]]\n{{c|{{smaller|Anamorphosis.}}}}\n\n'''anamorphous''' (an-ạ-môr′fus), ''a.''   [As ''anamorphosis'' + ''-ous,'' after ''amorphous.'']   Distorted; out of shape.   ''N. E. D.''\n\n'''anan''' (ạ-nan′), ''adv.'' and ''interj.'', orig. ''prep. phr.''   [< ME. ''anan, anœn,'' originally with long ''a'' (ä), ''anān;'' also ''anon, anoon, anone:'' see ''anon.'']   '''I.†''' ''adv.'' At once; immediately; anon.\n<poem>Go to, little blushet, for this, ''anan'',\nYou’ll steal forth a laugh in the shade of your fan.</poem>\n{{smaller block|{{right|''B. Jonson'', Entertainments.}}}}\n\n'''II.''' ''interj.'' An interrogative particle signifying that one has not heard or comprehended what has been said. [Eng.]\n\n{{smaller block|''Hast.'' Well, what say you to a friend who would take the bitter bargain off your hand?\n''Tony.'' ''Anan!'' {{right|''Goldsmith'', She Stoops to Conquer, ii.}}}}\n\n{{smaller block|[In this sense formerly, and still dialectally, much used in replying to questions or commands, to gain a slight delay, though originally implying “I will attend to you at once”; hence, with an interrogative tone, it came to imply that the question or command was not understood. It is the same word as ''anon''.]}}\n\n'''anana†''' (an-an′ä̤), ''n.''   [See ''ananas''.]   A pineapple.\n\n'''ananas''' (an-an′as), ''n.''   [Formerly also ''anana'' = F. and It. ''ananas'', < Sp. ''ananas'', also ''anana'', Pg. ''ananaz'', the pineapple, < Braz. (Tupi) ''ananas'', ''anassa'', or ''nanas'', first mentioned as Peruv., ''nanas.'']   '''1.''' A native name in tropical America of the pineapple, and of other plants resembling it. The wild ananas of the West Indies is ''Bromelia Pinguin.''—'''2.''' [''cap.''] [NL.] A small genus of tropical plants, belonging to the natural order ''Bromeliaceæ.'' ''A. sativa'' produces the pineapple. Also called ''Ananassa.''\n\n'''Ananchytes''' (an-ang-kī′tēz), ''n.''   [NL.; formation appar. irreg. and not obvious.]   A genus of fossil petalostichous sea-urchins, of the family ''Spatangidæ'', found in the Cretaceous formation. {{smaller|They are called in the south of England “shepherds’ crowns” and “fairy loaves,” and are especially characteristic of the Upper Chalk. They have a raised helmet-}} {{img float|file=century v01 p0222 c3f2.png|width=224px|align=right|cap={{smaller|''Ananchytes.''<br>1, ''A. ovatus.'' 2, ''A. tuberculatus.''}}}}\n{{smaller|like form, simple ambulacra, transversed mouth, an oblong outlet.}}\n\n'''Ananchytinæ''' (an-ang-ki-tī′nē), ''n. pl.''   [NL., < ''Ananchytes'' + ''-inæ''.]   A subfamily of sea-urchins, of the family ''Spatangidæ'', typified by the genus ''Ananchytes'', containing many fossil and a few surviving forms.\n\n'''anandrous''' (an-an′drus), ''a.''   [< NL. ''anandrus'', < Gr. ἄνανδρος, without a man, < ἀν- priv. + ἀνήρ (ἀνδρ-), a man, a male, in mod. bot. a stamen.]   In ''bot.'', without stamens: applied to female flowers. Also formerly applied to cryptogamic plants, because they were supposed to have no male organs.\n\n'''anantherous''' (an-an′thėr-us), ''a.''   [< NL. ''anantherus'', < Gr. ἀν- priv. + NL. ''anthera'', anther.]   In ''bot.'', destitute of anthers.\n\n'''ananthous''' (an-an′thus), ''a.''   [< Gr. ἀνανθής, < ἀν- priv. + ἄνθος, a flower, + ''-ous''.]   Destitute of flowers.<noinclude><references/></noinclude>"
+}

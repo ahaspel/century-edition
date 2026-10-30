@@ -1,0 +1,265 @@
+{
+ "volume": 1,
+ "page_number": 355,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n354.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n354.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 739,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     89,
+     147,
+     2300,
+     183
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     89,
+     183,
+     816,
+     1211
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     89,
+     1211,
+     816,
+     2062
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     89,
+     2062,
+     816,
+     3160
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     89,
+     3160,
+     816,
+     3295
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     816,
+     183,
+     1567,
+     736
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     816,
+     736,
+     1567,
+     1810
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     840,
+     793,
+     1286,
+     1293
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     816,
+     1810,
+     1567,
+     2887
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     816,
+     2887,
+     1567,
+     3295
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1567,
+     183,
+     2300,
+     1169
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1567,
+     1169,
+     2300,
+     2246
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1643,
+     1219,
+     2232,
+     1788
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1567,
+     2246,
+     2300,
+     3295
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|artless|329|ary}}",
+   "c1s1": "'''2.''' Without knowledge of art; ignorant of the fine arts. [Rare.]\n{{smaller block|And as for Mr. Ruskin’s world of art being a place where he may take life easily, woe to the luckless mortal who enters it with any such disposition. . . . The poor wanderer soon begins to look back with infinite longing to the lost paradise of the ''artless''.\n{{right|''H. James, Jr.'', Portraits of Places, p. 68.}}}}\n'''3.''' Showing no artistic skill; inartistic; rude. [Rare.]\n{{smaller block|Had it been a practice of the Saxons to set up these assemblages of ''artless'' and massy pillars, more specimens would have remained. {{right|''T. Warton'', Hist. of Kiddington.}}}}\n'''4.''' Free from guile, craft, or stratagem; simple; sincere; unaffected; undesigning; unsophisticated: as, an ''artless'' mind.\n{{smaller block|The little ''artless'' Rosey warbled on her pretty ditties.\n{{right|''Thackeray'', The Newcomes, II. 58.}}}}\n='''Syn. 4.''' {{smaller|Guileless, open, candid, frank, natural, unaffected, ingenuous, simple-minded, naïve, honest.}}\n\n'''artlessly''' (ärt′les-li), ''adv.'' In an artless manner. (''a'') Without art or skill. [Rare.] (''b'') Without guile; naturally; sincerely; unaffectedly.\n{{smaller block|<poem>Some buds she arranged with a vast deal of care,\nTo look as if ''artlessly'' twined in her hair.</poem>\n{{right|''Lowell'', Fable for Critics.}}}}\n\n'''artlessness''' (ärt′les-nes), ''n.'' The quality of being artless; simplicity; sincerity; unaffectedness.\n\n'''artly†''' (ärt′li), ''a.'' [< ''art''<sup>2</sup> + ''-ly''<sup>1</sup>.] Artistic; skilful; artful. [Rare.]\n{{smaller block|Their ''artly'' and pleasing relation.\n{{right|''Chapman'', Odyssey, ix. 212.}}}}",
+   "c1s2": "¶\n'''artocarpad''' (är-tọ̄-kär′pad), ''n.'' A member of the tribe ''Artocarpeæ.'' ''Lindley.''\n\n'''Artocarpeæ''' (är-tọ̄-kär′pē-ē), ''n. pl.'' [NL., < ''Artocarpus'', q. v.] A tribe of trees or shrubs under the natural order ''Urticaceæ'', but by some botanists retained as a distinct order, characterized generally by a milky juice, small unisexual flowers numerous upon a fleshy receptacle, erect anthers, and pendulous ovules. {{smaller|There are about 25 genera, including the fig (''Ficus''), the cow-tree (''Brosimum''), the upas (''Antiaris''), the india-rubber tree of Central America (''Castilloa''), and the breadfruit (''Artocarpus''). The tribe is mostly tropical, and is represented in the United States only by a few species of ''Ficus'' in southern Florida.}}\n\n'''artocarpous, artocarpeous''' (är-tọ̄-kär′pus, -pē-us), ''a.'' [< NL. ''Artocarpus'' + ''-ous'', ''-eous'', q. v.] Relating to the ''Artocarpeæ'', or to the breadfruit-tree.\n\n'''Artocarpus''' (är-tọ̄-kär′pus), ''n.'' [NL., < Gr. ἄρτος, bread (of unknown origin), + καρπός, fruit.] A genus of tropical trees, natural order ''Urticaceæ'', tribe ''Artocarpeæ.'' {{smaller|Many species are known, some of which in the forests of Bengal and Malabar yield valuable timber, called ''angili-wood.'' The most important species is ''A. incisa'', the breadfruit-tree of the South Sea islands. See ''breadfruit-tree.'' The jaca-tree or jack-tree, ''A. integrifolia'', is the breadfruit of tropical Asia, where it is extensively used for food. See ''jackfruit.''}}",
+   "c1s3": "¶\n'''artolater†''', ''n.'' [&lt; Gr. ἄρτος, bread, + -λάτρης, worship. See ''artolatry''.] A worshiper of bread.\n\n'''artolatry†''' (är-tol′a̤-tri), ''n.'' [&lt; Gr. ἄρτος, bread, + λατρεία, worship.] The worship of bread, especially in the mass or eucharist.\n\n'''artole''' (är′tọ-lē), ''n.'' An East Indian weight, equal to 90 grains troy.\n\n'''artophorion''' (är-tọ-fō′ri-on), ''n.''; pl. ''artophoria'' (-ä). [Gr. ἀρτοφόριον, a pyx, a bread-basket (cf. ἀρτοφόρος, holding bread), &lt; ἄρτος, bread, + -φόρος, &lt; φέρειν = E. ''bear''<sup>1</sup>.] In the ''Gr. Ch.'', a pyx. ''J. M. Neale'', Eastern Church, i.\n\n'''artotype''' (är′tọ-tīp), ''n.'' [Irreg. &lt; ''art''<sup>2</sup> + ''type''.] A form of photolithograph printed in ink from a photographic plate in bichromated gelatin.\n\n'''artotypy''' (är′tọ-tī-pi), ''n.'' The art or process of making artotypes.\n\n'''Artotyrite''' (är-tọ-tī′rīt), ''n.'' [&lt; LL. ''Artotyritæ'', pl., &lt; Gr. ἀρτότυρος, bread and cheese, &lt; ἄρτος, bread, + τυρός, cheese. Cf. ''butter''.] One of a sect in the primitive church who used bread and cheese in the eucharist, alleging that the first oblations of man were the fruits of the earth and the produce of their flocks. They admitted women to the priesthood and to the episcopate.\n\n'''artsman''' (ärts′man), ''n.''; pl. ''artsmen'' (-men). [&lt; ''art’s'', poss. of ''art''<sup>2</sup>, + ''man''. Cf. ''craftsman''.] A man skilled in an art or in the arts; especially, a learned man; a scholar. [Archaic.]\n{{smaller block|The pith of all sciences which maketh the ''artsman'' differ from the inexpert is in the middle proposition.\n{{right|''Bacon'', Advancement of Learning, II. xiii. § 2.}}}}\n{{smaller block|<poem>The triumphs of an ''artsman''\nO’er all infirmities.</poem>}}",
+   "c1s4": "{{smaller block|{{right|''Massinger'', Emperor of the East, iv. 4}}}}\n\n{{smaller block|No ''artsman'' is literally without conscious and systematized, selected knowledge, which is science; and no scientific man can remain absolutely inoperative.\n{{right|''Dr. J. Brown'', Spare Hours, 3d ser., p. 195}}}}",
+   "c2s1": "¶\n'''art-union''' (ärt′ū-nyo̤n), ''n.'' An association or society the object of which is to cultivate art, to aid in extending the knowledge of and love for the arts of design, or to give encouragement and aid to artists. {{smaller|The method employed by associations called art-unions has been usually the distribution of works of art by lot among subscribers to their funds, this distribution being the chief inducement for subscription. Such art-unions were at one time numerous in the United States, but they were generally declared by the courts to be of the nature of lotteries, and therefore illegal.}}\n\n'''artus''' (är′tus), ''n.''; pl. ''artus.'' [L., a joint, a limb: see ''article.''] In ''anat.'', a limb; a member; an extremity.—'''Artus abdominalis, artus pelvicus, artus posticus,''' {{smaller|the abdominal, pelvic, or hind limb.}}—'''Artus anticus, artus pectoralis,''' {{smaller|the fore limb, or pectoral limb.}}\n\n'''art-worm†''', ''n.'' [As ''art''(''er'') + ''worm.''] Same as ''arter.''",
+   "c2s2": "¶\n'''Arum''' (ā′rum), ''n.'' [L., also ''aron'', < Gr. ἄρον, the wake-robin.] '''1.''' A genus of plants, natural\n[[FIGURE]]\n{{c|{{smaller|Wake-robin (''Arum maculatum'').}}}}\norder ''Araceæ'', natives of Europe and of regions bordering on the Mediterranean. {{smaller|The only British species is ''A. maculatum'' (wake-robin, cuckoopint, or lords-and-ladies), the root of which yields a starch known as Portland sago or arrowroot. See also cut under ''Araceæ''.}} '''2.''' [''l. c.''] A name given in the United States to plants belonging to the order ''Araceæ'', but not to the genus ''Arum'' (although some of them were formerly so classed), as the arrow-arum (''Peltandra Virginica''), the dragon-arum (''Arisæma Dracontium''), and the water-arum (''Calla palustris'').\n\n'''Arundelian''' (ar-un-dē′lya̤n), ''a.'' Pertaining to an Earl of Arundel, particularly to Thomas Howard, Earl of Arundel and of Norfolk (1592–1646).—'''Arundelian''' or '''Arundel marbles.''' {{smaller|See ''marble''.}}\n\n'''arundiferous''' (ar-un-dif′e̤-rus), ''a.'' [< L. ''arundifer'', ''harundifer'', cane-bearing, < ''harundo'', reed, cane, + ''ferre'' = E. ''bear''<sup>1</sup>.] Producing reeds or canes.\n\n'''arundinaceous''' (a-run-di-nā′shius), ''a.'' [< L. ''arundinaceus'', ''harundinaceus'', like a reed, < ''ha-''",
+   "c2s3": "''rundo'' (''-din-''), a reed, cane.] Pertaining to a reed; resembling a reed or cane.\n\n'''Arundinaria''' (a-run-di-nā′ri-ä), ''n.'' [NL., < ''Arundo'' (''Arundin-'') + ''-aria.''] A genus of tall woody grasses, allied to the bamboo, including about 25 species of America and Asia. {{smaller|''A. macrosperma'', the cane of the southern United States, and ''A. tecta'', the small or switch cane, are the only bambusaceous species that are found in North America north of Mexico. The cane ranges from Texas to Kentucky and Virginia, occupying rich river-bottoms and forming dense cane-brakes. It grows to a height of from 10 to 40 feet, rarely producing seed. It is used for fishing-rods and various other purposes, and cattle and hogs are fond of the young plants and the seeds.}}\n\n'''arundineous''' (ar-un-din′ē-us), ''a.'' [< L. ''arundineus'', ''harundineus'', reedy, like a reed, < ''harundo'' (''-din-''), a reed.] Resembling a reed; reedy.\n\n'''Arundinicola''' (a-run-di-nik′ọ-lä), ''n.'' [NL., < L. ''arundo'', ''harundo'' (''-din-''), reed, + ''colere'', inhabit.] A genus of South American clamatorial passerine birds, of the family ''Tyrannidæ''. ''A. leucocephala'' and ''A. dominicana'' are two Brazilian species. ''Lafresnaye'', 1839.\n\n'''arundinose''' (a-run′di-nōs), ''a.'' [< L. ''arundinosus'', better ''harundinosus'', abounding in reeds, < ''harundo'' (''-din-''), a reed.] Abounding in reeds.\n\n'''Arundo''' (a-run′dō), ''n.'' [L. ''arundo'', better ''harundo'', a reed.] A genus of tall reedy grasses, with large, dense flowering panicles. {{smaller|There are 6 or 7 species, widely distributed over the globe, of which ''A. Donax'' is the most common, a native of the south of Europe, Egypt, and the East, and also found in the warmer parts of America. It is sometimes cultivated, and attains a height of 9 or 10 feet, or even more, with broad and long leaves. Its canes or stems are imported from Spain and Portugal for the use of weavers and for}}",
+   "c2s4": "fishing-rods.\n\n'''arura''' (a-rö′rä̤), ''n.'' [< Gr. ἄρουρα, tilled or arable land, ground, a measure of land in Egypt, < ἀρόειν, plow, = L. ''arare'', plow: see ''arable''.] An ancient Egyptian measure of surface, according to Herodotus the square of 100 cubits, which would be 27.35 ares, or 0.676 of an English acre. {{smaller|Under Roman rule in Egypt another arura was established, equal to 2 jugera, which was <math>\\tfrac{16}{9}</math> of the old arura. Also spelled ''aroura''.}}\n\n'''aruspex, aruspice''' (a-rus′peks, -pis), ''n.''; pl. ''aruspices'' (-pi-sēz). See ''haruspex''.\n\n'''aruspicy''' (a-rus′pi-si), ''n.'' See ''haruspicy''.",
+   "c3s1": "¶\n'''arval<sup>1</sup>, arvel''' (är′val, -vel), ''n.'' and ''a.'' [Now only dial., also ''arvil'' and ''averill'', formerly ''arvall'', ''arvell'', < ME. ''arvell'' (cf. equiv. W. ''arwyl'', appar. adapted from the E.), appar. < Icel. ''erfiöl'' = OSw. ''arvöl'' = Dan. ''arveöl'', a wake, a funeral feast (cf. Icel. ''erfi'' and ''erfdha-öldr'', the same), < Icel. ''arfr'' (= Sw. ''arf'' = Dan. ''arv'' = AS. ''erfe'', ''yrfe''), inheritance, + ''öl'', an ale, a feast: see ''ale'', and cf. ''bridal''.] '''I.''' ''n.'' A funeral feast; a wake.\n\n'''II.''' ''a.'' Connected with or relating to funeral celebrations.\n{{smaller block|The marriage and ''arval'' gatherings after the summer.\n{{right|''Encyc. Brit.'', XII. 620.}}}}\n\n'''arval<sup>2</sup>''' (är′vạl), ''a.'' [< L. ''arvalis'', < ''arvum'', a field, prop. neut. of ''arvus'', that has been plowed, < ''arare'', plow: see ''arable''.] Pertaining or relating to arable or plowed land.—'''Arval Brethren''' or '''Brothers''' {{smaller|(Latin, ''Fratres Arvales''), a college nominally of twelve priests in ancient Rome, who offered sacrifices, with a fixed ceremonial, to the rural goddess Dia. The lists of them never give more than nine names, but the college was supposed to have been instituted by Romulus with twelve members, consisting of himself and his eleven foster-brothers, sons of his nurse Acca Laurentia. One of their principal duties was the annual performance of the public ambarvalia on the borders of the country, at the same time with the private ones. See ''ambarvalia''. The college existed till about {{sc|a. d.}} 400.}}\n\n'''arvel''', ''n.'' and ''a.'' See ''arval<sup>1</sup>''.\n\n'''Arvicola''' (är-vik′ọ̄-lạ̈), ''n.'' [NL., < L. ''arvum'', a field, arable land (see ''arval<sup>2</sup>''), + ''colere'', inhabit.] The central and typical genus of the subfamily ''Arvicolinæ'', containing the great bulk of the",
+   "c3s2": "species which have perennial prismatic molars,\n[[FIGURE]]\n{{c|{{smaller|Meadow-mouse (''Arvicola riparius'').}}}}\nungrooved incisors, and no special peculiarity of the tail or claws. {{smaller|The best-known species are the water-vole and field-vole of Europe, ''A. amphibius'' and ''A. agrestis'', and several meadow-mice of North America, as ''A. riparius'', ''A. austerus'', and ''A. pinetorum''.}}\n\n¶\n'''arvicolid''' (är-vik′ọ̄-lid), ''n.'' Same as ''arvicoline.''\n\n'''Arvicolidæ''' (är-vi-kol′i-dē), ''n. pl.'' [NL., < ''Arvicola'' + ''-idæ.''] The ''Arvicolinæ'', rated as a family. ''Waterhouse'', 1840.\n\n'''Arvicolinæ''' (är-vik-ọ̄-lī′nē), ''n. pl.'' [NL., < ''Arvicola'' + ''-inæ.''] One of several subfamilies into which the family ''Muridæ'' is divided. {{smaller|It contains those murine rodents which (except ''Evotomys'')}}",
+   "c3s3": "{{smaller block|have the following characters: perennially growing, prismatic, rootless molars, with flat crowns and serrate periphery; incisors usually broader transversely than in the opposite direction; the root of the under incisor sometimes causing a protuberance on the inner side of the mandibular ramus between the condyloid process and the strong hamulate angle of the mandible, which latter attains the level of the molar crowns; the zygomata high and wide, not dipping to the level of the arched palate, and the nasal bones not produced beyond the premaxillaries; and the dental formula of 16 teeth, there being 1 incisor and 3 molars on each side of each jaw, without any canines or premolars. The ''Arvicolinæ'' are specially characteristic of the northern hemisphere, and are very abundant in high latitudes. They include all kinds of voles or field-mice properly so called, the water-rat of Europe, the meadow-mice of America, the lemmings, the muskrat, etc. The leading genera are: ''Evotomys'' (Coues), ''Arvicola'' (Lacépède) with its several subdivisions, ''Synaptomys'' (Baird), ''Myodes'' (Pallas), ''Cuniculus'' (Wagler), and ''Fiber'' (Cuvier). The species are very numerous.}}\n\n'''arvicoline''' (är-vik′ō-lin), ''a.'' and ''n.'' [< NL. ''arvicolinus'': see ''Arvicolinæ''.] '''I.''' ''a.'' '''1.''' Inhabiting fields.—'''2.''' In ''zoöl.'', having the characters of the ''Arvicolinæ''.\n\n'''II.''' ''n.'' A rodent of the subfamily ''Arvicolinæ''. Also called ''arvicolid''.\n\n'''arvicolous''' (är-vik′ọ̄-lus), ''a.'' Same as ''arvicoline'', 1.\n\n'''arwe†''', ''n.'' A Middle English form of ''arrow''. ''Chaucer.''\n\n'''ary''' (ãr′i or er′i), ''a.'' [Formerly also ''ery'', a modification of ''e’er a'' for ''ever a'' (with ''ever'' in a generalizing sense) toward ''any'', of which ''ary'' is now regarded as a dial. form. Cf. the negative ''nary''.] Any: as, I haven’t seen ''ary'' one of them. [Prov. Eng. and U. S.]"
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0355 c2f1.png",
+   "c3f1": "century v01 p0355 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     852,
+     805,
+     1274,
+     1281
+    ],
+    "caption": [
+     882,
+     1291,
+     1245,
+     1317
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     849,
+     833,
+     1355,
+     1285
+    ]
+   },
+   {
+    "box": [
+     1655,
+     1231,
+     2220,
+     1776
+    ],
+    "caption": [
+     1739,
+     1808,
+     2129,
+     1832
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1597,
+     1221,
+     2289,
+     1807
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 3,
+    "input_tokens": 5667,
+    "output_tokens": 160,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9503,
+    "output_tokens": 8326,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|artless|329|ary}}</noinclude>'''2.''' Without knowledge of art; ignorant of the fine arts. [Rare.]\n{{smaller block|And as for Mr. Ruskin’s world of art being a place where he may take life easily, woe to the luckless mortal who enters it with any such disposition. . . . The poor wanderer soon begins to look back with infinite longing to the lost paradise of the ''artless''.\n{{right|''H. James, Jr.'', Portraits of Places, p. 68.}}}}\n'''3.''' Showing no artistic skill; inartistic; rude. [Rare.]\n{{smaller block|Had it been a practice of the Saxons to set up these assemblages of ''artless'' and massy pillars, more specimens would have remained. {{right|''T. Warton'', Hist. of Kiddington.}}}}\n'''4.''' Free from guile, craft, or stratagem; simple; sincere; unaffected; undesigning; unsophisticated: as, an ''artless'' mind.\n{{smaller block|The little ''artless'' Rosey warbled on her pretty ditties.\n{{right|''Thackeray'', The Newcomes, II. 58.}}}}\n='''Syn. 4.''' {{smaller|Guileless, open, candid, frank, natural, unaffected, ingenuous, simple-minded, naïve, honest.}}\n\n'''artlessly''' (ärt′les-li), ''adv.'' In an artless manner. (''a'') Without art or skill. [Rare.] (''b'') Without guile; naturally; sincerely; unaffectedly.\n{{smaller block|<poem>Some buds she arranged with a vast deal of care,\nTo look as if ''artlessly'' twined in her hair.</poem>\n{{right|''Lowell'', Fable for Critics.}}}}\n\n'''artlessness''' (ärt′les-nes), ''n.'' The quality of being artless; simplicity; sincerity; unaffectedness.\n\n'''artly†''' (ärt′li), ''a.''   [< ''art''<sup>2</sup> + ''-ly''<sup>1</sup>.]   Artistic; skilful; artful. [Rare.]\n{{smaller block|Their ''artly'' and pleasing relation.\n{{right|''Chapman'', Odyssey, ix. 212.}}}}\n\n'''artocarpad''' (är-tọ̄-kär′pad), ''n.'' A member of the tribe ''Artocarpeæ.''   ''Lindley.''\n\n'''Artocarpeæ''' (är-tọ̄-kär′pē-ē), ''n. pl.''   [NL., < ''Artocarpus'', q. v.]   A tribe of trees or shrubs under the natural order ''Urticaceæ'', but by some botanists retained as a distinct order, characterized generally by a milky juice, small unisexual flowers numerous upon a fleshy receptacle, erect anthers, and pendulous ovules. {{smaller|There are about 25 genera, including the fig (''Ficus''), the cow-tree (''Brosimum''), the upas (''Antiaris''), the india-rubber tree of Central America (''Castilloa''), and the breadfruit (''Artocarpus''). The tribe is mostly tropical, and is represented in the United States only by a few species of ''Ficus'' in southern Florida.}}\n\n'''artocarpous, artocarpeous''' (är-tọ̄-kär′pus, -pē-us), ''a.''   [< NL. ''Artocarpus'' + ''-ous'', ''-eous'', q. v.]   Relating to the ''Artocarpeæ'', or to the breadfruit-tree.\n\n'''Artocarpus''' (är-tọ̄-kär′pus), ''n.''   [NL., < Gr. ἄρτος, bread (of unknown origin), + καρπός, fruit.]   A genus of tropical trees, natural order ''Urticaceæ'', tribe ''Artocarpeæ.'' {{smaller|Many species are known, some of which in the forests of Bengal and Malabar yield valuable timber, called ''angili-wood.'' The most important species is ''A. incisa'', the breadfruit-tree of the South Sea islands. See ''breadfruit-tree.'' The jaca-tree or jack-tree, ''A. integrifolia'', is the breadfruit of tropical Asia, where it is extensively used for food. See ''jackfruit.''}}\n\n'''artolater†''', ''n.''   [&lt; Gr. ἄρτος, bread, + -λάτρης, worship. See ''artolatry''.]   A worshiper of bread.\n\n'''artolatry†''' (är-tol′a̤-tri), ''n.''   [&lt; Gr. ἄρτος, bread, + λατρεία, worship.]   The worship of bread, especially in the mass or eucharist.\n\n'''artole''' (är′tọ-lē), ''n.'' An East Indian weight, equal to 90 grains troy.\n\n'''artophorion''' (är-tọ-fō′ri-on), ''n.''; pl. ''artophoria'' (-ä).   [Gr. ἀρτοφόριον, a pyx, a bread-basket (cf. ἀρτοφόρος, holding bread), &lt; ἄρτος, bread, + -φόρος, &lt; φέρειν = E. ''bear''<sup>1</sup>.]   In the ''Gr. Ch.'', a pyx.   ''J. M. Neale'', Eastern Church, i.\n\n'''artotype''' (är′tọ-tīp), ''n.''   [Irreg. &lt; ''art''<sup>2</sup> + ''type''.]   A form of photolithograph printed in ink from a photographic plate in bichromated gelatin.\n\n'''artotypy''' (är′tọ-tī-pi), ''n.'' The art or process of making artotypes.\n\n'''Artotyrite''' (är-tọ-tī′rīt), ''n.''   [&lt; LL. ''Artotyritæ'', pl., &lt; Gr. ἀρτότυρος, bread and cheese, &lt; ἄρτος, bread, + τυρός, cheese. Cf. ''butter''.]   One of a sect in the primitive church who used bread and cheese in the eucharist, alleging that the first oblations of man were the fruits of the earth and the produce of their flocks. They admitted women to the priesthood and to the episcopate.\n\n'''artsman''' (ärts′man), ''n.''; pl. ''artsmen'' (-men).   [&lt; ''art’s'', poss. of ''art''<sup>2</sup>, + ''man''. Cf. ''craftsman''.]   A man skilled in an art or in the arts; especially, a learned man; a scholar. [Archaic.]\n{{smaller block|The pith of all sciences which maketh the ''artsman'' differ from the inexpert is in the middle proposition.\n{{right|''Bacon'', Advancement of Learning, II. xiii. § 2.}}}}\n{{smaller block|<poem>The triumphs of an ''artsman''\nO’er all infirmities.</poem> {{right|''Massinger'', Emperor of the East, iv. 4}}}}\n\n{{smaller block|No ''artsman'' is literally without conscious and systematized, selected knowledge, which is science; and no scientific man can remain absolutely inoperative.\n{{right|''Dr. J. Brown'', Spare Hours, 3d ser., p. 195}}}}\n\n'''art-union''' (ärt′ū-nyo̤n), ''n.'' An association or society the object of which is to cultivate art, to aid in extending the knowledge of and love for the arts of design, or to give encouragement and aid to artists. {{smaller|The method employed by associations called art-unions has been usually the distribution of works of art by lot among subscribers to their funds, this distribution being the chief inducement for subscription. Such art-unions were at one time numerous in the United States, but they were generally declared by the courts to be of the nature of lotteries, and therefore illegal.}}\n\n'''artus''' (är′tus), ''n.''; pl. ''artus.''   [L., a joint, a limb: see ''article.'']   In ''anat.'', a limb; a member; an extremity.—'''Artus abdominalis, artus pelvicus, artus posticus,''' {{smaller|the abdominal, pelvic, or hind limb.}}—'''Artus anticus, artus pectoralis,''' {{smaller|the fore limb, or pectoral limb.}}\n\n'''art-worm†''', ''n.''   [As ''art''(''er'') + ''worm.'']   Same as ''arter.''\n\n'''Arum''' (ā′rum), ''n.''   [L., also ''aron'', < Gr. ἄρον, the wake-robin.]   '''1.''' A genus of plants, natural\norder ''Araceæ'', natives of Europe and of regions bordering on the Mediterranean. {{smaller|The only British species is ''A. maculatum'' (wake-robin, cuckoopint, or lords-and-ladies), the root of which yields a starch known as Portland sago or arrowroot. See also cut under ''Araceæ''.}} '''2.''' [''l. c.''] A name given in the United States to plants belonging to the order ''Araceæ'', but not to the genus ''Arum'' (although some of them were formerly so classed), as the arrow-arum (''Peltandra Virginica''), the dragon-arum (''Arisæma Dracontium''), and the water-arum (''Calla palustris'').\n\n[[File:century v01 p0355 c2f1.png|center|217px]]\n{{c|{{smaller|Wake-robin (''Arum maculatum'').}}}}\n\n'''Arundelian''' (ar-un-dē′lya̤n), ''a.'' Pertaining to an Earl of Arundel, particularly to Thomas Howard, Earl of Arundel and of Norfolk (1592–1646).—'''Arundelian''' or '''Arundel marbles.''' {{smaller|See ''marble''.}}\n\n'''arundiferous''' (ar-un-dif′e̤-rus), ''a.''   [< L. ''arundifer'', ''harundifer'', cane-bearing, < ''harundo'', reed, cane, + ''ferre'' = E. ''bear''<sup>1</sup>.]   Producing reeds or canes.\n\n'''arundinaceous''' (a-run-di-nā′shius), ''a.''   [< L. ''arundinaceus'', ''harundinaceus'', like a reed, < ''harundo'' (''-din-''), a reed, cane.]   Pertaining to a reed; resembling a reed or cane.\n\n'''Arundinaria''' (a-run-di-nā′ri-ä), ''n.''   [NL., < ''Arundo'' (''Arundin-'') + ''-aria.'']   A genus of tall woody grasses, allied to the bamboo, including about 25 species of America and Asia. {{smaller|''A. macrosperma'', the cane of the southern United States, and ''A. tecta'', the small or switch cane, are the only bambusaceous species that are found in North America north of Mexico. The cane ranges from Texas to Kentucky and Virginia, occupying rich river-bottoms and forming dense cane-brakes. It grows to a height of from 10 to 40 feet, rarely producing seed. It is used for fishing-rods and various other purposes, and cattle and hogs are fond of the young plants and the seeds.}}\n\n'''arundineous''' (ar-un-din′ē-us), ''a.''   [< L. ''arundineus'', ''harundineus'', reedy, like a reed, < ''harundo'' (''-din-''), a reed.]   Resembling a reed; reedy.\n\n'''Arundinicola''' (a-run-di-nik′ọ-lä), ''n.''   [NL., < L. ''arundo'', ''harundo'' (''-din-''), reed, + ''colere'', inhabit.]   A genus of South American clamatorial passerine birds, of the family ''Tyrannidæ''. ''A. leucocephala'' and ''A. dominicana'' are two Brazilian species.   ''Lafresnaye'', 1839.\n\n'''arundinose''' (a-run′di-nōs), ''a.''   [< L. ''arundinosus'', better ''harundinosus'', abounding in reeds, < ''harundo'' (''-din-''), a reed.]   Abounding in reeds.\n\n'''Arundo''' (a-run′dō), ''n.''   [L. ''arundo'', better ''harundo'', a reed.]   A genus of tall reedy grasses, with large, dense flowering panicles. {{smaller|There are 6 or 7 species, widely distributed over the globe, of which ''A. Donax'' is the most common, a native of the south of Europe, Egypt, and the East, and also found in the warmer parts of America. It is sometimes cultivated, and attains a height of 9 or 10 feet, or even more, with broad and long leaves. Its canes or stems are imported from Spain and Portugal for the use of weavers and for}} fishing-rods.\n\n'''arura''' (a-rö′rä̤), ''n.''   [< Gr. ἄρουρα, tilled or arable land, ground, a measure of land in Egypt, < ἀρόειν, plow, = L. ''arare'', plow: see ''arable''.]   An ancient Egyptian measure of surface, according to Herodotus the square of 100 cubits, which would be 27.35 ares, or 0.676 of an English acre. {{smaller|Under Roman rule in Egypt another arura was established, equal to 2 jugera, which was <math>\\tfrac{16}{9}</math> of the old arura. Also spelled ''aroura''.}}\n\n'''aruspex, aruspice''' (a-rus′peks, -pis), ''n.''; pl. ''aruspices'' (-pi-sēz). See ''haruspex''.\n\n'''aruspicy''' (a-rus′pi-si), ''n.'' See ''haruspicy''.\n\n'''arval<sup>1</sup>, arvel''' (är′val, -vel), ''n.'' and ''a.''   [Now only dial., also ''arvil'' and ''averill'', formerly ''arvall'', ''arvell'', < ME. ''arvell'' (cf. equiv. W. ''arwyl'', appar. adapted from the E.), appar. < Icel. ''erfiöl'' = OSw. ''arvöl'' = Dan. ''arveöl'', a wake, a funeral feast (cf. Icel. ''erfi'' and ''erfdha-öldr'', the same), < Icel. ''arfr'' (= Sw. ''arf'' = Dan. ''arv'' = AS. ''erfe'', ''yrfe''), inheritance, + ''öl'', an ale, a feast: see ''ale'', and cf. ''bridal''.]   '''I.''' ''n.'' A funeral feast; a wake.\n\n'''II.''' ''a.'' Connected with or relating to funeral celebrations.\n{{smaller block|The marriage and ''arval'' gatherings after the summer.\n{{right|''Encyc. Brit.'', XII. 620.}}}}\n\n'''arval<sup>2</sup>''' (är′vạl), ''a.''   [< L. ''arvalis'', < ''arvum'', a field, prop. neut. of ''arvus'', that has been plowed, < ''arare'', plow: see ''arable''.]   Pertaining or relating to arable or plowed land.—'''Arval Brethren''' or '''Brothers''' {{smaller|(Latin, ''Fratres Arvales''), a college nominally of twelve priests in ancient Rome, who offered sacrifices, with a fixed ceremonial, to the rural goddess Dia. The lists of them never give more than nine names, but the college was supposed to have been instituted by Romulus with twelve members, consisting of himself and his eleven foster-brothers, sons of his nurse Acca Laurentia. One of their principal duties was the annual performance of the public ambarvalia on the borders of the country, at the same time with the private ones. See ''ambarvalia''. The college existed till about {{sc|a. d.}} 400.}}\n\n'''arvel''', ''n.'' and ''a.'' See ''arval<sup>1</sup>''.\n\n'''Arvicola''' (är-vik′ọ̄-lạ̈), ''n.''   [NL., < L. ''arvum'', a field, arable land (see ''arval<sup>2</sup>''), + ''colere'', inhabit.]   The central and typical genus of the subfamily ''Arvicolinæ'', containing the great bulk of the species which have perennial prismatic molars,\nungrooved incisors, and no special peculiarity of the tail or claws. {{smaller|The best-known species are the water-vole and field-vole of Europe, ''A. amphibius'' and ''A. agrestis'', and several meadow-mice of North America, as ''A. riparius'', ''A. austerus'', and ''A. pinetorum''.}}\n\n[[File:century v01 p0355 c3f1.png|center|287px]]\n{{c|{{smaller|Meadow-mouse (''Arvicola riparius'').}}}}\n\n'''arvicolid''' (är-vik′ọ̄-lid), ''n.'' Same as ''arvicoline.''\n\n'''Arvicolidæ''' (är-vi-kol′i-dē), ''n. pl.''   [NL., < ''Arvicola'' + ''-idæ.'']   The ''Arvicolinæ'', rated as a family.   ''Waterhouse'', 1840.\n\n'''Arvicolinæ''' (är-vik-ọ̄-lī′nē), ''n. pl.''   [NL., < ''Arvicola'' + ''-inæ.'']   One of several subfamilies into which the family ''Muridæ'' is divided. {{smaller|It contains those murine rodents which (except ''Evotomys'') have the following characters: perennially growing, prismatic, rootless molars, with flat crowns and serrate periphery; incisors usually broader transversely than in the opposite direction; the root of the under incisor sometimes causing a protuberance on the inner side of the mandibular ramus between the condyloid process and the strong hamulate angle of the mandible, which latter attains the level of the molar crowns; the zygomata high and wide, not dipping to the level of the arched palate, and the nasal bones not produced beyond the premaxillaries; and the dental formula of 16 teeth, there being 1 incisor and 3 molars on each side of each jaw, without any canines or premolars. The ''Arvicolinæ'' are specially characteristic of the northern hemisphere, and are very abundant in high latitudes. They include all kinds of voles or field-mice properly so called, the water-rat of Europe, the meadow-mice of America, the lemmings, the muskrat, etc. The leading genera are: ''Evotomys'' (Coues), ''Arvicola'' (Lacépède) with its several subdivisions, ''Synaptomys'' (Baird), ''Myodes'' (Pallas), ''Cuniculus'' (Wagler), and ''Fiber'' (Cuvier). The species are very numerous.}}\n\n'''arvicoline''' (är-vik′ō-lin), ''a.'' and ''n.''   [< NL. ''arvicolinus'': see ''Arvicolinæ''.]   '''I.''' ''a.'' '''1.''' Inhabiting fields.—'''2.''' In ''zoöl.'', having the characters of the ''Arvicolinæ''.\n\n'''II.''' ''n.'' A rodent of the subfamily ''Arvicolinæ''. Also called ''arvicolid''.\n\n'''arvicolous''' (är-vik′ọ̄-lus), ''a.'' Same as ''arvicoline'', 1.\n\n'''arwe†''', ''n.'' A Middle English form of ''arrow''.   ''Chaucer.''\n\n'''ary''' (ãr′i or er′i), ''a.''   [Formerly also ''ery'', a modification of ''e’er a'' for ''ever a'' (with ''ever'' in a generalizing sense) toward ''any'', of which ''ary'' is now regarded as a dial. form. Cf. the negative ''nary''.]   Any: as, I haven’t seen ''ary'' one of them. [Prov. Eng. and U. S.]<noinclude><references/></noinclude>"
+}

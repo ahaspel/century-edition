@@ -1,0 +1,219 @@
+{
+ "volume": 1,
+ "page_number": 479,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n478.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n478.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 742,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     70,
+     139,
+     2281,
+     177
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     70,
+     177,
+     812,
+     1151
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     70,
+     1151,
+     812,
+     2233
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     70,
+     2233,
+     812,
+     3290
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     812,
+     177,
+     1547,
+     1222
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     812,
+     1222,
+     1547,
+     2254
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     812,
+     2254,
+     1547,
+     3290
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1547,
+     177,
+     2281,
+     1270
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1648,
+     178,
+     2187,
+     825
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1547,
+     1270,
+     2281,
+     2158
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1547,
+     2158,
+     2281,
+     3253
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1547,
+     3253,
+     2281,
+     3290
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|bark|453|bark-mill}}",
+   "c1s1": "{{smaller|by barking brings the hunter to a tree other than that in which the game has really taken refuge. [Colloq., U. S.]}}\n\n'''II.'''† ''trans.'' '''1.''' To utter or give forth with a bark.—'''2.''' To break out with: as, to ''bark'' out flame.\n\n'''bark<sup>1</sup>''' (bärk), ''n.'' [< ''bark''<sup>1</sup>, ''v.''] The abrupt explosive cry of a dog; hence, a cry resembling that of the dog, uttered by some other animals. {{smaller|—'''His bark is worse than his bite,''' little harm is portended by his angry threats, faultfinding, etc., as by the threatening bark of a dog which rarely or never bites.}}\n\n'''bark<sup>2</sup>''' (bärk), ''n.'' [< ME. ''barke'', ''bark'', ''barc'', < late AS. ''barc'', < Icel. ''börkr'' (gen. ''barkar'') = Sw. ''bark'' = Dan. ''bark'' = MLG. LG. ''borke'' (> G. ''borke''), bark. Possibly connected with Icel. ''bjarga'' = AS. ''beorgan'' = G. ''bergen'', etc., cover, protect: see ''bury''<sup>3</sup>. The older E. word for ‘bark’ is ''rind.''] '''1.''' Generally, the covering of the woody stems, branches, and roots of plants, as distinct and separable from the wood itself. {{smaller|In its strictest scientific sense it is limited to the dry and dead portion of this covering, as found on exogenous plants, which usually consists of parenchyma or soft cellular tissue, cork, and bast, in varying proportions. See ''bast''<sup>1</sup>, ''cork''<sup>1</sup>, and ''epidermis.'' It is very diverse and often complicated in structure, varying in these respects with the species upon which it is found; but it is usually arranged in annular concentric layers. As these become distended by the thickening of the stem, the outer layers often crack and are gradually cast off. In the bark the medicinal and other peculiar properties of the plant are usually abundant, especially tannin and many alkaloids. The younger and softer layer lying next to the young wood is called ''inner bark'', ''liber'', or ''bast.'' See cut under ''bast.''}}",
+   "c1s2": "'''2.''' Specifically—(''a'') In ''phar.'', Peruvian or Jesuits’ bark (see ''Cinchona''). (''b'') In ''tanning'', oak and hemlock barks.—{{smaller|'''Alstonia bark''', a bitter bark obtained from the ''Alstonia scholaris'', an apocynaceous forest-tree of the tropics of the old world. It is used in India as a tonic and antiperiodic. The Alstonia or Queensland fever-bark of Australia is the product of ''Alstonia constricta''.—'''Angostura''' or '''Cusparia bark''', the product of a rutaceous shrub, ''Galipea Cusparia'', of the mountains of Venezuela, a valuable tonic in dyspepsia, dysentery, and chronic diarrhea. It was formerly prized as a febrifuge, and is now much used in making a kind of bitters. Its use in medicine was discontinued for a time, because of the introduction into the markets of a false Angostura bark, obtained from the nux-vomica tree, which produced fatal effects. Also ''Angustura bark''.—'''Arica bark.''' Same as ''Cusco bark''.—'''Ashy crown bark''', the bark of ''Cinchona macrocalyx''.—'''Bebeeru''' or '''bibiru bark.''' See ''bebeeru''.—'''Bitter bark.''' See ''Georgia bark''.—'''Bogotá bark''', the bark of ''Cinchona lancifolia''.—'''Boldo bark.''' See ''boldo''.—'''Bolivian''' or '''calisaya bark''', the bark of ''Cinchona Calisaya''.—'''Canella bark.''' See ''Canella''<sup>1</sup>.—'''Carabaya bark''', the bark of ''Cinchona elliptica''.—'''Caribbean''' or '''West Indian bark''', the bark of a rubiaceous tree, ''Exostemma Caribbœum'', nearly allied to the genus ''Cinchona'', used in making tonic bitters and in medicine as a substitute for cinchona bark.—'''Carolina bark.''' See ''Georgia bark''.—'''Carthagena bark''', a general name for varieties of cinchona bark brought from the northern ports of South America, generally of inferior quality.—'''Cascara amarga''' or '''Honduras bark''', a bitter bark, said to be obtained from ''Picramnia antidesma'', a simarubaceous tree of tropical America.—'''Cascara sagrada bark''', the bark of ''Rhamnus Purshianus'' of California, used as a tonic aperient.—'''Cascarilla, sweetwood,''' or '''Eleuthera bark''', the bark of ''Croton Eleuteria'', a euphorbiaceous shrub of the Bahamas. It is an aromatic, bitter tonic.—'''Cassia bark.''' See ''Cassia''.—'''China bark, Peruvian bark.''' (''a'') See ''Cinchona''. (''b'') The bark of ''Cascarilla'' (''Buena'') ''hexandra'', a rubiaceous tree of the western coast of South America, which is used as a substitute for cinchona.—'''Clove-bark.''' Same as ''clove-cassia'' (which see, under ''cassia'').—'''Colom-'''}}",
+   "c1s3": "'''bian bark,''' the bark of ''Cinchona pitayensis, C. lancifolia,'' and ''C. cordifolia.''—'''Conessi bark,''' a bark obtained from ''Holarrhena antidysenterica,'' an apocynaceous tree of India, where it is of considerable repute as a remedy for dysentery and as a tonic febrifuge. Sometimes called ''Tellicherry bark.''—'''Coquetta bark,''' the bark of ''Cinchona lancifolia.''—'''Crown bark.''' Same as ''loxa bark.''—'''Culilawan bark,''' a valuable aromatic, pungent bark, the produce of ''Cinnamomum'' or ''Laurus Culilawan,'' a tree of the Moluccas, useful in indigestion, diarrhea, etc. Sometimes written ''culilawang.''—'''Cuprea bark,''' a bark obtained from several species of the rubiaceous genus ''Remijia,'' of tropical South America, largely imported into England for the manufacture of quinine.—'''Cusco bark,''' the bark of ''Cinchona pubescens,'' variant ''Pelleteriana.'' Also called ''Arica bark.''—'''Cusparia bark.''' See ''Angostura bark.''—'''Doom bark,''' the bark of ''Erythrophlœum Guineense.''—'''Doundaké bark,''' the name of several barks obtained from the west coast of Africa, possessing tonic, febrifugal, and other medicinal properties. The best-known kind is the product of a rubiaceous plant, ''Sarcocephalus esculentus.''—'''Eleuthera bark.''' See ''cascarilla bark.''—'''Elk bark,''' the bark of ''Magnolia glauca.'' Also called ''Indian bark.''—'''Essential salt of bark,''' an aqueous extract of cinchona bark.—'''False loxa bark,''' the bark of ''Cinchona Humboldtiana.''—'''Florida bark.''' See ''Georgia bark.''—'''French Guiana bark,''' a bark obtained from ''Coutarea speciosa,'' a rubiaceous tree of tropical South America, having febrifugal properties.—'''Fusagasuga bark,''' a variety of Carthagena bark.—'''Georgia, bitter, Carolina,''' or '''Florida bark,''' the bark of the ''Pinckneya pubens,'' a small rubiaceous tree of the southern United States, having the same properties as French Guiana bark.—'''Honduras bark.''' See ''cascara amarga bark.''—'''Huamilies bark,''' the bark of ''Cinchona purpurea.''—'''Indian barberry bark,''' the root-bark of several East Indian species of ''Berberis,'' used as a tonic and in the treatment of fevers, diarrhea, etc.—'''Indian bark,''' the bark of ''Magnolia glauca.'' Also called ''elk bark.''—'''Iron bark,''' the bark of ''Eucalyptus resinifera.''—'''Jaen bark,''' the bark of ''Cinchona Humboldtiana.''—'''Jamaica bark,''' the bark of ''Cinchona Caribbæa.''—'''Jesuits’ bark,''' Peruvian bark.—'''Jesuits’ Bark Act,''' an",
+   "c2s1": "English statute of 1808 forbidding the exportation of Jesuits’ (Peruvian) bark, except to Ireland.—'''Lima bark,''' the bark of ''Cinchona Peruviana, C. nitida,'' and ''C. micrantha.''—'''Loxa bark,''' the bark of ''Cinchona officinalis.'' Also called ''crown bark.''—'''Malambo bark,''' an aromatic bark obtained from the ''Croton Malambo,'' a euphorbiaceous shrub of Venezuela and New Granada. It is employed as a remedy for diarrhea and as a vermifuge, and is said to be largely used in the United States for the adulteration of spices.—'''Mancona bark,''' the bark of ''Erythrophlœum Guineense.''—'''Maracaibo bark,''' the bark of ''Cinchona tucujensis.''—'''Margosa''' or '''Nim bark,''' the bark of ''Melia Indica,'' used in India as a tonic and antiperiodic.——'''Mezereon bark,''' the bark of ''Daphne Mezereum.'' It is acrid and irritant, and is used in liniments and as a remedy in venereal, rheumatic, and scrofulous complaints.—'''Neem bark,''' the bark of ''Azadirachta Indica.''—'''New bark,''' the bark of ''Cascarilla oblongifolia.''—'''Nim bark,''' See ''Margosa bark.''—'''Oak bark.''' See ''Quercus alba,'' under ''Quercus.''—'''Ordeal bark,''' the bark of ''Erythrophlœum Guineense.''—'''Pale bark,''' a name applied to the barks of ''Cinchona officinalis, C. nitida, C. micrantha, C. purpurea,'' and ''C. Humboldtiana.''—'''Palton bark,''' the bark of ''Cinchona macrocalyx,'' variant ''Palton.''—'''Peruvian bark.''' See ''china bark.''—'''Pitaya bark,''' the bark of ''Cinchona pitayensis.''—'''Quebracho bark,''' the bark of ''Aspidosperma Quebracho,'' an apocynaceous tree of Brazil. It contains several peculiar alkaloids, and is said to be efficacious in the cure of dyspnœa.—'''Red bark,''' the bark of ''Cinchona succirubra.''—'''Red Cusco bark,''' the bark of ''Cinchona scrobiculata.''—'''Rohun bark,''' a bitter astringent bark, from ''Soymida febrifuga,'' a meliaceous tree of India, where it is used as an astringent, tonic, and antiperiodic.—'''Royal bark,''' the bark of ''Cinchona cordifolia.''—'''St. Lucia bark,''' the bark of ''Exostemma floribunda.''—'''Samadera bark,''' the inner bark of a tree belonging to the ''Simarubaceæ,'' growing in Ceylon. It is intensely bitter.—'''Santa Ana bark,''' the bark of ''Cinchona scrobiculata.''—'''Santa Martha bark,''' a cinchona bark shipped from Santa Martha.—'''Sassy bark,''' the bark of ''Erythrophlœum Guineense.''—'''Sweetwood bark.''' See ''cascarilla bark.''—'''West Indian bark.''' See ''Caribbean''",
+   "c2s2": "{{smaller|''bark''.—'''Wild-cherry bark''', the bark of ''Prunus serotina''.—'''Winter’s bark''', an astringent pungent bark obtained from a magnoliaceous tree, ''Drimys Winteri'', native of the mountains of western America from Mexico to Cape Horn. It is a stimulating tonic and antiscorbutic. Paratudo bark is a variety of it. Most of the so-called Winter’s bark of commerce is the product of ''Cinnamodendron corticosum'' and ''Canella alba'' of the West Indies.}}\n\n'''bark'''<sup>2</sup> (bärk), ''v. t.'' [= Sw. ''barka'' = Dan. ''barke'', tan; from the noun.] '''1.''' To strip off the bark of, or remove a circle of bark from, as a tree; peel; specifically, to scrape off the outer or dead bark of. See ''barking''<sup>2</sup>, 1.\n{{smaller block|<poem>This pine is ''bark’d''\nThat overtopp’d them all.</poem>\n{{right|''Shak.'', A. and C., iv. 10.}}}}\nHence—'''2.''' To strip or rub off the outer covering of (anything, as the skin): as, to ''bark'' one’s shins.\n{{smaller block|So after getting up [the tree] three or four feet, down they came slithering to the ground, ''barking'' their arms and faces. {{right|''T. Hughes'', Tom Brown at Rugby, ii. 4.}}}}\n'''3.''' To cover or inclose with bark: as, to ''bark'' a house.—'''4†.''' To cover, as the bark does a tree; incrust.\n{{smaller block|<poem>A most instant tetter ''bark’d'' about,\nMost lazar-like, with vile and loathsome crust,\nAll my smooth body.</poem>\n{{right|''Shak.'', Hamlet, i. 5.}}}}\n'''5.''' To apply bark to, as in the process of tanning; tan.—'''6.''' To color with an infusion or a decoction of bark: as, to ''bark'' sails or cordage. —'''7.''' To kill (game) by the concussion of a bullet which strikes the bark of a limb at the spot on which the animal is crouched, or by the flying bark.",
+   "c2s3": "¶\n{{smaller block|''Barking'' off squirrels is a delightful sport, and in my opinion requires a greater degree of accuracy than any other. I first witnessed this near Frankfort. The performer was the celebrated Daniel Boone.\n{{right|''J. J. Audubon'', Ornith. Biog., I. 293.}}}}\n\n'''bark<sup>3</sup>''' (bärk), ''n.'' [Also ''barque'', after F.; < late ME. ''barke'', ''barque'', < F. ''barque'' = Pr. Sp. Pg. It. ''barca'' = D. ''bark'' = MHG. G. ''barke'' = Dan. ''bark'' = Icel. ''barki'', < LL. ''barca'' (ML. also ''barga'', > OF. ''barge'', > E. ''barge''<sup>1</sup>, q. v.), regarded by some as a syncopated form of an assumed LL. *''barica'', a quasi-adj. formation, < L. ''baris'', < Gr. βᾶρις, < Egypt. (Coptic) ''bari'', a flat-bottomed boat used in Egypt; but more prob. of Celtic or even of Teut. origin.] '''1.''' ''Naut.'', a three-masted vessel, fore-and-aft rigged on the mizzenmast, the other two masts being square-rigged.—'''2.''' A vessel of any kind, especially a sailing vessel of small size.\n{{smaller block|<poem>O steer my ''bark'' to Erin’s isle,\nFor Erin is my home.</poem>\n{{right|''Moore.''}}}}\n\n'''barkantine, barkentine''' (bär′kan-tēn, -ken-tēn), ''n.'' [< ''bark''<sup>3</sup>, on type of ''brigantine''<sup>1</sup>.] A three-masted vessel, with the foremast square-rigged, and the mainmast and mizzenmast fore-and-aft rigged. Also ''barquantine'', ''barquentine''.\n\n'''bark-bed''' (bärk′bed), ''n.'' In ''hort.'', a bed formed of the spent bark that has been used by tanners. {{smaller|The bark is placed in a brick pit in a glazed house constructed for forcing or for the growth of tender plants. Artificial warmth and dampness are produced by the fermentation of the bark. Also called ''bark-stove''.}}\n\n'''bark-bound''' (bärk′bound), ''a.'' Hindered in growth by having the bark too firm or close.",
+   "c3s1": "[[FIGURE]]\n{{c|{{smaller|Barkantine.}}}}\n\n'''barkeeper''' (bär′kē″pėr), ''n.'' One who has charge of the bar of an inn or other place of public entertainment; a bartender.\n\n'''barken<sup>1</sup>''' (bär′kẹn or -kn), ''v.'' [Sc.; < ''bark''<sup>2</sup> + ''-en''<sup>1</sup>, as in ''harden'', ''stiffen'', etc.] '''I.''' ''intrans.'' To become hard; form a crust.\n{{smaller block|The best way’s to let the blood ''barken'' on the cut—that saves plaisters.\n{{right|''Scott'', Guy Mannering, I. 171.}}}}\n'''II.''' ''trans.'' To tan (or dye) with bark.\n{{smaller block|Effie used to help me tumble the bundles o’ ''barkened'' leather up and down.\n{{right|''Scott'', Heart of Midlothian, v.}}}}\n\n'''barken<sup>2</sup>''' (bär′kẹn or -kn), ''a.'' [< ''bark''<sup>2</sup> + ''-en''<sup>2</sup>.] Consisting or made of bark: as, “''barken'' knots,”",
+   "c3s2": "''Whittier.'' [Rare.]\n\n'''barkentine,''' ''n.'' See ''barkantine.''\n\n'''barker<sup>1</sup>''' (bär′kėr), ''n.'' [< ''bark''<sup>1</sup>, ''v.'', + ''-er''<sup>1</sup>.] '''1.''' An animal that barks; a person who clamors unreasonably.\n{{smaller block|They are rather enemies of my fame than me, these ''barkers.''\n{{right|''B. Jonson,'' Discoveries.}}}}\n'''2.''' The spotted redshank, ''Totanus fuscus. Albin; Montagu.'' [Prov. Eng.]—'''3.''' A person stationed at the door of a house where auctions of inferior goods are held, to invite strangers to enter; a touter; a tout. [Cant.]—'''4.''' A pistol. [Slang.]—'''5.''' A lower-deck gun in a ship.\n\n'''barker<sup>2</sup>''' (bär′kėr), ''n.'' [< ''bark''<sup>2</sup>, ''v.'', + ''-er''<sup>1</sup>.] '''1.''' One who strips trees of their bark.—'''2†.''' A tanner.\n\n'''Barker’s mill.''' See ''mill''<sup>1</sup>.\n\n'''barkery''' (bär′kėr-i), ''n.''; pl. ''barkeries'' (-iz). [< ''bark''<sup>2</sup> + ''-ery.''] A tan-house, or a place where bark is kept.\n\n'''bark-feeder''' (bärk′fē″dėr), ''n.'' A bark-eating insect or animal.\n\n'''barking<sup>1</sup>''' (bär′king), ''n.'' [Verbal n. of ''bark''<sup>1</sup>, ''v.''] The uttering of an abrupt explosive cry, as that of a dog.\n\n'''barking<sup>2</sup>''' (bär′king), ''n.'' [Verbal n. of ''bark''<sup>2</sup>, ''v.''] '''1.''' The process of stripping bark from trees, of removing a ring of bark from a tree so as to",
+   "c3s3": "kill it, or of scraping dead bark from fruit-trees to promote their growth.—'''2.''' The operation of tanning leather with bark; also, the operation of dyeing fabrics with an infusion of bark.\n\n'''barking-ax''' (bär′king-aks), ''n.'' An ax used in scraping bark from trees.\n\n'''barking-bill''' (bär′king-bil), ''n.'' A sharp-pointed instrument used to make transverse cuts through the bark of trees, preparatory to the process of stripping them.\n\n'''barking-bird''' (bär′king-bėrd), ''n.'' [< ''barking'', ppr. of ''bark''<sup>1</sup>, + ''bird''<sup>1</sup>.] The name of a rock-wren, ''Pteroptochus'' or ''Hylactes tarni'', of the island of Chiloë: also said to be applied to another and smaller species, ''P. rubecula''. {{smaller|The name is due, in either case, to the similarity of the cry of the birds to the yelping of a puppy. ''Darwin.'' Also called ''guid-guid''.}}\n\n'''barking-iron'''<sup>1</sup> (bär′king-ī″ėrn), ''n.'' [< ''barking'', ppr. of ''bark''<sup>1</sup>, ''v.'', + ''iron''.] A pistol. ''Marryat.'' [Slang.]\n\n'''barking-iron'''<sup>2</sup> (bär′king-ī″ėrn), ''n.'' [< ''barking''<sup>2</sup> + ''iron''.] An instrument for removing the bark of oak and other trees, for use in tanning.\n\n'''barking-mallet''' (bär′king-mal″et), ''n.'' A hammer with a wedge-shaped edge, used in barking trees.\n\n'''barklak''' (bär′klak), ''n.'' A myrtaceous tree of Venezuela.\n\n'''barkless''' (bärk′les), ''a.'' [< ''bark''<sup>2</sup> + ''-less''.] Destitute of bark.\n\n'''bark-louse''' (bärk′lous), ''n.'' A minute insect of the genus ''Aphis'' that infests trees; an aphid.\n\n'''bark-mill''' (bärk′mil), ''n.'' A mill for grinding bark for tanners’ and dyers’ uses, or for medi-",
+   "c3s4": "cinal purposes."
+  },
+  "figure_files": {
+   "c3f1": "century v01 p0479 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1660,
+     190,
+     2175,
+     813
+    ],
+    "caption": [
+     1853,
+     822,
+     1976,
+     841
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1670,
+     187,
+     2186,
+     801
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    1,
+    2
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4114,
+    "output_tokens": 93,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9564,
+    "output_tokens": 9635,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|bark|453|bark-mill}}</noinclude>{{smaller|by barking brings the hunter to a tree other than that in which the game has really taken refuge. [Colloq., U. S.]}}\n\n'''II.'''† ''trans.'' '''1.''' To utter or give forth with a bark.—'''2.''' To break out with: as, to ''bark'' out flame.\n\n'''bark<sup>1</sup>''' (bärk), ''n.''   [< ''bark''<sup>1</sup>, ''v.'']   The abrupt explosive cry of a dog; hence, a cry resembling that of the dog, uttered by some other animals. {{smaller|—'''His bark is worse than his bite,''' little harm is portended by his angry threats, faultfinding, etc., as by the threatening bark of a dog which rarely or never bites.}}\n\n'''bark<sup>2</sup>''' (bärk), ''n.''   [< ME. ''barke'', ''bark'', ''barc'', < late AS. ''barc'', < Icel. ''börkr'' (gen. ''barkar'') = Sw. ''bark'' = Dan. ''bark'' = MLG. LG. ''borke'' (> G. ''borke''), bark. Possibly connected with Icel. ''bjarga'' = AS. ''beorgan'' = G. ''bergen'', etc., cover, protect: see ''bury''<sup>3</sup>. The older E. word for ‘bark’ is ''rind.'']   '''1.''' Generally, the covering of the woody stems, branches, and roots of plants, as distinct and separable from the wood itself. {{smaller|In its strictest scientific sense it is limited to the dry and dead portion of this covering, as found on exogenous plants, which usually consists of parenchyma or soft cellular tissue, cork, and bast, in varying proportions. See ''bast''<sup>1</sup>, ''cork''<sup>1</sup>, and ''epidermis.'' It is very diverse and often complicated in structure, varying in these respects with the species upon which it is found; but it is usually arranged in annular concentric layers. As these become distended by the thickening of the stem, the outer layers often crack and are gradually cast off. In the bark the medicinal and other peculiar properties of the plant are usually abundant, especially tannin and many alkaloids. The younger and softer layer lying next to the young wood is called ''inner bark'', ''liber'', or ''bast.'' See cut under ''bast.''}} '''2.''' Specifically—(''a'') In ''phar.'', Peruvian or Jesuits’ bark (see ''Cinchona''). (''b'') In ''tanning'', oak and hemlock barks.—{{smaller|'''Alstonia bark''', a bitter bark obtained from the ''Alstonia scholaris'', an apocynaceous forest-tree of the tropics of the old world. It is used in India as a tonic and antiperiodic. The Alstonia or Queensland fever-bark of Australia is the product of ''Alstonia constricta''.—'''Angostura''' or '''Cusparia bark''', the product of a rutaceous shrub, ''Galipea Cusparia'', of the mountains of Venezuela, a valuable tonic in dyspepsia, dysentery, and chronic diarrhea. It was formerly prized as a febrifuge, and is now much used in making a kind of bitters. Its use in medicine was discontinued for a time, because of the introduction into the markets of a false Angostura bark, obtained from the nux-vomica tree, which produced fatal effects. Also ''Angustura bark''.—'''Arica bark.''' Same as ''Cusco bark''.—'''Ashy crown bark''', the bark of ''Cinchona macrocalyx''.—'''Bebeeru''' or '''bibiru bark.''' See ''bebeeru''.—'''Bitter bark.''' See ''Georgia bark''.—'''Bogotá bark''', the bark of ''Cinchona lancifolia''.—'''Boldo bark.''' See ''boldo''.—'''Bolivian''' or '''calisaya bark''', the bark of ''Cinchona Calisaya''.—'''Canella bark.''' See ''Canella''<sup>1</sup>.—'''Carabaya bark''', the bark of ''Cinchona elliptica''.—'''Caribbean''' or '''West Indian bark''', the bark of a rubiaceous tree, ''Exostemma Caribbœum'', nearly allied to the genus ''Cinchona'', used in making tonic bitters and in medicine as a substitute for cinchona bark.—'''Carolina bark.''' See ''Georgia bark''.—'''Carthagena bark''', a general name for varieties of cinchona bark brought from the northern ports of South America, generally of inferior quality.—'''Cascara amarga''' or '''Honduras bark''', a bitter bark, said to be obtained from ''Picramnia antidesma'', a simarubaceous tree of tropical America.—'''Cascara sagrada bark''', the bark of ''Rhamnus Purshianus'' of California, used as a tonic aperient.—'''Cascarilla, sweetwood,''' or '''Eleuthera bark''', the bark of ''Croton Eleuteria'', a euphorbiaceous shrub of the Bahamas. It is an aromatic, bitter tonic.—'''Cassia bark.''' See ''Cassia''.—'''China bark, Peruvian bark.''' (''a'') See ''Cinchona''. (''b'') The bark of ''Cascarilla'' (''Buena'') ''hexandra'', a rubiaceous tree of the western coast of South America, which is used as a substitute for cinchona.—'''Clove-bark.''' Same as ''clove-cassia'' (which see, under ''cassia'').—'''Colom'''bian'''}} bark,''' the bark of ''Cinchona pitayensis, C. lancifolia,'' and ''C. cordifolia.''—'''Conessi bark,''' a bark obtained from ''Holarrhena antidysenterica,'' an apocynaceous tree of India, where it is of considerable repute as a remedy for dysentery and as a tonic febrifuge. Sometimes called ''Tellicherry bark.''—'''Coquetta bark,''' the bark of ''Cinchona lancifolia.''—'''Crown bark.''' Same as ''loxa bark.''—'''Culilawan bark,''' a valuable aromatic, pungent bark, the produce of ''Cinnamomum'' or ''Laurus Culilawan,'' a tree of the Moluccas, useful in indigestion, diarrhea, etc. Sometimes written ''culilawang.''—'''Cuprea bark,''' a bark obtained from several species of the rubiaceous genus ''Remijia,'' of tropical South America, largely imported into England for the manufacture of quinine.—'''Cusco bark,''' the bark of ''Cinchona pubescens,'' variant ''Pelleteriana.'' Also called ''Arica bark.''—'''Cusparia bark.''' See ''Angostura bark.''—'''Doom bark,''' the bark of ''Erythrophlœum Guineense.''—'''Doundaké bark,''' the name of several barks obtained from the west coast of Africa, possessing tonic, febrifugal, and other medicinal properties. The best-known kind is the product of a rubiaceous plant, ''Sarcocephalus esculentus.''—'''Eleuthera bark.''' See ''cascarilla bark.''—'''Elk bark,''' the bark of ''Magnolia glauca.'' Also called ''Indian bark.''—'''Essential salt of bark,''' an aqueous extract of cinchona bark.—'''False loxa bark,''' the bark of ''Cinchona Humboldtiana.''—'''Florida bark.''' See ''Georgia bark.''—'''French Guiana bark,''' a bark obtained from ''Coutarea speciosa,'' a rubiaceous tree of tropical South America, having febrifugal properties.—'''Fusagasuga bark,''' a variety of Carthagena bark.—'''Georgia, bitter, Carolina,''' or '''Florida bark,''' the bark of the ''Pinckneya pubens,'' a small rubiaceous tree of the southern United States, having the same properties as French Guiana bark.—'''Honduras bark.''' See ''cascara amarga bark.''—'''Huamilies bark,''' the bark of ''Cinchona purpurea.''—'''Indian barberry bark,''' the root-bark of several East Indian species of ''Berberis,'' used as a tonic and in the treatment of fevers, diarrhea, etc.—'''Indian bark,''' the bark of ''Magnolia glauca.'' Also called ''elk bark.''—'''Iron bark,''' the bark of ''Eucalyptus resinifera.''—'''Jaen bark,''' the bark of ''Cinchona Humboldtiana.''—'''Jamaica bark,''' the bark of ''Cinchona Caribbæa.''—'''Jesuits’ bark,''' Peruvian bark.—'''Jesuits’ Bark Act,''' an English statute of 1808 forbidding the exportation of Jesuits’ (Peruvian) bark, except to Ireland.—'''Lima bark,''' the bark of ''Cinchona Peruviana, C. nitida,'' and ''C. micrantha.''—'''Loxa bark,''' the bark of ''Cinchona officinalis.'' Also called ''crown bark.''—'''Malambo bark,''' an aromatic bark obtained from the ''Croton Malambo,'' a euphorbiaceous shrub of Venezuela and New Granada. It is employed as a remedy for diarrhea and as a vermifuge, and is said to be largely used in the United States for the adulteration of spices.—'''Mancona bark,''' the bark of ''Erythrophlœum Guineense.''—'''Maracaibo bark,''' the bark of ''Cinchona tucujensis.''—'''Margosa''' or '''Nim bark,''' the bark of ''Melia Indica,'' used in India as a tonic and antiperiodic.——'''Mezereon bark,''' the bark of ''Daphne Mezereum.'' It is acrid and irritant, and is used in liniments and as a remedy in venereal, rheumatic, and scrofulous complaints.—'''Neem bark,''' the bark of ''Azadirachta Indica.''—'''New bark,''' the bark of ''Cascarilla oblongifolia.''—'''Nim bark,''' See ''Margosa bark.''—'''Oak bark.''' See ''Quercus alba,'' under ''Quercus.''—'''Ordeal bark,''' the bark of ''Erythrophlœum Guineense.''—'''Pale bark,''' a name applied to the barks of ''Cinchona officinalis, C. nitida, C. micrantha, C. purpurea,'' and ''C. Humboldtiana.''—'''Palton bark,''' the bark of ''Cinchona macrocalyx,'' variant ''Palton.''—'''Peruvian bark.''' See ''china bark.''—'''Pitaya bark,''' the bark of ''Cinchona pitayensis.''—'''Quebracho bark,''' the bark of ''Aspidosperma Quebracho,'' an apocynaceous tree of Brazil. It contains several peculiar alkaloids, and is said to be efficacious in the cure of dyspnœa.—'''Red bark,''' the bark of ''Cinchona succirubra.''—'''Red Cusco bark,''' the bark of ''Cinchona scrobiculata.''—'''Rohun bark,''' a bitter astringent bark, from ''Soymida febrifuga,'' a meliaceous tree of India, where it is used as an astringent, tonic, and antiperiodic.—'''Royal bark,''' the bark of ''Cinchona cordifolia.''—'''St. Lucia bark,''' the bark of ''Exostemma floribunda.''—'''Samadera bark,''' the inner bark of a tree belonging to the ''Simarubaceæ,'' growing in Ceylon. It is intensely bitter.—'''Santa Ana bark,''' the bark of ''Cinchona scrobiculata.''—'''Santa Martha bark,''' a cinchona bark shipped from Santa Martha.—'''Sassy bark,''' the bark of ''Erythrophlœum Guineense.''—'''Sweetwood bark.''' See ''cascarilla bark.''—'''West Indian bark.''' See ''Caribbean'' {{smaller|''bark''.—'''Wild-cherry bark''', the bark of ''Prunus serotina''.—'''Winter’s bark''', an astringent pungent bark obtained from a magnoliaceous tree, ''Drimys Winteri'', native of the mountains of western America from Mexico to Cape Horn. It is a stimulating tonic and antiscorbutic. Paratudo bark is a variety of it. Most of the so-called Winter’s bark of commerce is the product of ''Cinnamodendron corticosum'' and ''Canella alba'' of the West Indies.}}\n\n'''bark'''<sup>2</sup> (bärk), ''v. t.''   [= Sw. ''barka'' = Dan. ''barke'', tan; from the noun.]   '''1.''' To strip off the bark of, or remove a circle of bark from, as a tree; peel; specifically, to scrape off the outer or dead bark of. See ''barking''<sup>2</sup>, 1.\n{{smaller block|<poem>This pine is ''bark’d''\nThat overtopp’d them all.</poem>\n{{right|''Shak.'', A. and C., iv. 10.}}}}\nHence—'''2.''' To strip or rub off the outer covering of (anything, as the skin): as, to ''bark'' one’s shins.\n{{smaller block|So after getting up [the tree] three or four feet, down they came slithering to the ground, ''barking'' their arms and faces. {{right|''T. Hughes'', Tom Brown at Rugby, ii. 4.}}}}\n'''3.''' To cover or inclose with bark: as, to ''bark'' a house.—'''4†.''' To cover, as the bark does a tree; incrust.\n{{smaller block|<poem>A most instant tetter ''bark’d'' about,\nMost lazar-like, with vile and loathsome crust,\nAll my smooth body.</poem>\n{{right|''Shak.'', Hamlet, i. 5.}}}}\n'''5.''' To apply bark to, as in the process of tanning; tan.—'''6.''' To color with an infusion or a decoction of bark: as, to ''bark'' sails or cordage. —'''7.''' To kill (game) by the concussion of a bullet which strikes the bark of a limb at the spot on which the animal is crouched, or by the flying bark.\n\n{{smaller block|''Barking'' off squirrels is a delightful sport, and in my opinion requires a greater degree of accuracy than any other. I first witnessed this near Frankfort. The performer was the celebrated Daniel Boone.\n{{right|''J. J. Audubon'', Ornith. Biog., I. 293.}}}}\n\n'''bark<sup>3</sup>''' (bärk), ''n.''   [Also ''barque'', after F.; < late ME. ''barke'', ''barque'', < F. ''barque'' = Pr. Sp. Pg. It. ''barca'' = D. ''bark'' = MHG. G. ''barke'' = Dan. ''bark'' = Icel. ''barki'', < LL. ''barca'' (ML. also ''barga'', > OF. ''barge'', > E. ''barge''<sup>1</sup>, q. v.), regarded by some as a syncopated form of an assumed LL. *''barica'', a quasi-adj. formation, < L. ''baris'', < Gr. βᾶρις, < Egypt. (Coptic) ''bari'', a flat-bottomed boat used in Egypt; but more prob. of Celtic or even of Teut. origin.]   '''1.''' ''Naut.'', a three-masted vessel, fore-and-aft rigged on the mizzenmast, the other two masts being square-rigged.—'''2.''' A vessel of any kind, especially a sailing vessel of small size.\n{{smaller block|<poem>O steer my ''bark'' to Erin’s isle,\nFor Erin is my home.</poem>\n{{right|''Moore.''}}}}\n\n'''barkantine, barkentine''' (bär′kan-tēn, -ken-tēn), ''n.''   [< ''bark''<sup>3</sup>, on type of ''brigantine''<sup>1</sup>.]   A three-masted vessel, with the foremast square-rigged, and the mainmast and mizzenmast fore-and-aft rigged. Also ''barquantine'', ''barquentine''.\n\n'''bark-bed''' (bärk′bed), ''n.'' In ''hort.'', a bed formed of the spent bark that has been used by tanners. {{smaller|The bark is placed in a brick pit in a glazed house constructed for forcing or for the growth of tender plants. Artificial warmth and dampness are produced by the fermentation of the bark. Also called ''bark-stove''.}}\n\n'''bark-bound''' (bärk′bound), ''a.'' Hindered in growth by having the bark too firm or close. '''barkeeper''' (bär′kē″pėr), ''n.'' One who has charge of the bar of an inn or other place of public entertainment; a bartender.\n\n[[File:century v01 p0479 c3f1.png|center|262px]]\n{{c|{{smaller|Barkantine.}}}}\n\n'''barken<sup>1</sup>''' (bär′kẹn or -kn), ''v.''   [Sc.; < ''bark''<sup>2</sup> + ''-en''<sup>1</sup>, as in ''harden'', ''stiffen'', etc.]   '''I.''' ''intrans.'' To become hard; form a crust.\n{{smaller block|The best way’s to let the blood ''barken'' on the cut—that saves plaisters.\n{{right|''Scott'', Guy Mannering, I. 171.}}}}\n'''II.''' ''trans.'' To tan (or dye) with bark.\n{{smaller block|Effie used to help me tumble the bundles o’ ''barkened'' leather up and down.\n{{right|''Scott'', Heart of Midlothian, v.}}}}\n\n'''barken<sup>2</sup>''' (bär′kẹn or -kn), ''a.''   [< ''bark''<sup>2</sup> + ''-en''<sup>2</sup>.]   Consisting or made of bark: as, “''barken'' knots,” ''Whittier.'' [Rare.]\n\n'''barkentine,''' ''n.'' See ''barkantine.''\n\n'''barker<sup>1</sup>''' (bär′kėr), ''n.''   [< ''bark''<sup>1</sup>, ''v.'', + ''-er''<sup>1</sup>.]   '''1.''' An animal that barks; a person who clamors unreasonably.\n{{smaller block|They are rather enemies of my fame than me, these ''barkers.''\n{{right|''B. Jonson,'' Discoveries.}}}}\n'''2.''' The spotted redshank, ''Totanus fuscus. Albin; Montagu.'' [Prov. Eng.]—'''3.''' A person stationed at the door of a house where auctions of inferior goods are held, to invite strangers to enter; a touter; a tout. [Cant.]—'''4.''' A pistol. [Slang.]—'''5.''' A lower-deck gun in a ship.\n\n'''barker<sup>2</sup>''' (bär′kėr), ''n.''   [< ''bark''<sup>2</sup>, ''v.'', + ''-er''<sup>1</sup>.]   '''1.''' One who strips trees of their bark.—'''2†.''' A tanner.\n\n'''Barker’s mill.''' See ''mill''<sup>1</sup>.\n\n'''barkery''' (bär′kėr-i), ''n.''; pl. ''barkeries'' (-iz).   [< ''bark''<sup>2</sup> + ''-ery.'']   A tan-house, or a place where bark is kept.\n\n'''bark-feeder''' (bärk′fē″dėr), ''n.'' A bark-eating insect or animal.\n\n'''barking<sup>1</sup>''' (bär′king), ''n.''   [Verbal n. of ''bark''<sup>1</sup>, ''v.'']   The uttering of an abrupt explosive cry, as that of a dog.\n\n'''barking<sup>2</sup>''' (bär′king), ''n.''   [Verbal n. of ''bark''<sup>2</sup>, ''v.'']   '''1.''' The process of stripping bark from trees, of removing a ring of bark from a tree so as to kill it, or of scraping dead bark from fruit-trees to promote their growth.—'''2.''' The operation of tanning leather with bark; also, the operation of dyeing fabrics with an infusion of bark.\n\n'''barking-ax''' (bär′king-aks), ''n.'' An ax used in scraping bark from trees.\n\n'''barking-bill''' (bär′king-bil), ''n.'' A sharp-pointed instrument used to make transverse cuts through the bark of trees, preparatory to the process of stripping them.\n\n'''barking-bird''' (bär′king-bėrd), ''n.''   [< ''barking'', ppr. of ''bark''<sup>1</sup>, + ''bird''<sup>1</sup>.]   The name of a rock-wren, ''Pteroptochus'' or ''Hylactes tarni'', of the island of Chiloë: also said to be applied to another and smaller species, ''P. rubecula''. {{smaller|The name is due, in either case, to the similarity of the cry of the birds to the yelping of a puppy.   ''Darwin.'' Also called ''guid-guid''.}}\n\n'''barking-iron'''<sup>1</sup> (bär′king-ī″ėrn), ''n.''   [< ''barking'', ppr. of ''bark''<sup>1</sup>, ''v.'', + ''iron''.]   A pistol.   ''Marryat.'' [Slang.]\n\n'''barking-iron'''<sup>2</sup> (bär′king-ī″ėrn), ''n.''   [< ''barking''<sup>2</sup> + ''iron''.]   An instrument for removing the bark of oak and other trees, for use in tanning.\n\n'''barking-mallet''' (bär′king-mal″et), ''n.'' A hammer with a wedge-shaped edge, used in barking trees.\n\n'''barklak''' (bär′klak), ''n.'' A myrtaceous tree of Venezuela.\n\n'''barkless''' (bärk′les), ''a.''   [< ''bark''<sup>2</sup> + ''-less''.]   Destitute of bark.\n\n'''bark-louse''' (bärk′lous), ''n.'' A minute insect of the genus ''Aphis'' that infests trees; an aphid.\n\n'''bark-mill''' (bärk′mil), ''n.'' A mill for grinding bark for tanners’ and dyers’ uses, or for medicinal purposes.<noinclude><references/></noinclude>"
+}

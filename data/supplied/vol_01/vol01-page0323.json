@@ -1,0 +1,294 @@
+{
+ "volume": 1,
+ "page_number": 323,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n322.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n322.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 741,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     99,
+     135,
+     2305,
+     175
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     99,
+     175,
+     840,
+     1232
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     516,
+     266,
+     837,
+     854
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     99,
+     1232,
+     840,
+     2304
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     194,
+     1760,
+     732,
+     2109
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     99,
+     2304,
+     840,
+     3285
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     840,
+     175,
+     1579,
+     1078
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     840,
+     1078,
+     1579,
+     2063
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     840,
+     2063,
+     1579,
+     3154
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1365,
+     2447,
+     1547,
+     2991
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     840,
+     3154,
+     1579,
+     3285
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1579,
+     175,
+     2305,
+     1209
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1579,
+     1209,
+     2305,
+     2284
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1579,
+     2284,
+     2305,
+     3285
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|archimandrite|297|architecture}}",
+   "c1s1": "¶\n'''archimandrite''' (är-ki-man′drīt), ''n.'' [< ML. ''archimandrita'', < LGr. ἀρχιμανδρίτης (Epiphanius),\n[[FIGURE]]\n{{c|{{smaller|Greek Archimandrite.}}}}\nchief of a monastery, < Gr. ἀρχι-, chief, + μάνδρα, a fold, inclosure, eccles. a monastery.] In the ''Eastern Church'', an abbot-general, having other abbots (''hegoumenoi'') with their monasteries under his superintendence; also sometimes, especially among the Greeks, the abbot of a single large monastery.\n{{smaller block|In Russia the bishops are selected from among the archimandrites. The title has been retained among those who separated from the Eastern Church and submitted to the pope while still observing the Greek rite (the so-called United Greeks), and their monasteries are now subject to one proto-archimandrite. A congregation of Basilian monks existing in Sicily before the eleventh century has been under the care of an archimandrite apparently from that time. Its head abbey is that of San Salvatore in Messina, and it forms an exempt archimandritate immediately dependent on the pope. In the early church, and sometimes during the middle ages in the Western Church, the word was used vaguely as equivalent to ''prelate''.}}\n\n'''Archimedean''' (är″ki-mē′dē-an or -mē-dē′an), ''a.'' [< L. ''Archimedēus'', < Gr. Ἀρχιμήδειος, < Ἀρχιμήδης, L. ''Archimedes''.] Pertaining to Archimedes, a celebrated mathematician, born at",
+   "c1s2": "Syracuse in the third century {{sc|b. c.}}, or to his mechanical inventions.{{smaller|—'''Archimedean drill.''' See ''drill.''—'''Archimedean principle,''' or '''principle of Archimedes.''' (''a'') The principle of the equilibrium of the lever; namely, that a lever loaded with two weights, on opposite sides of the fulcrum, is in equilibrium when the weights are inversely proportional to the length of the arms at whose ends they hang, and that the pressure on the fulcrum of the lever is then exactly equal to the sum of the two weights. (''b'') The hydrostatical principle, also discovered by Archimedes, that a body immersed in a fluid loses an amount of weight equal to that of the fluid it displaces.—'''Archimedean propeller,''' a propeller consisting of a continuous spiral vane on a hollow core running lengthwise of the vessel. It is an amplification and extension of the screw.—'''Archimedean railway,''' a form of railway in which a continuous shaft rotates on pillars between the lines of rails, and propels the car by means of a screw which engages in a pedestal attached to the car.—'''Archimedean screw,''' a device for raising water, said to}}\n[[FIGURE]]\n{{c|{{smaller|Archimedean Screw.}}}}\n{{smaller|have been invented by Archimedes. It is made by forming a spiral tube within, or by winding a flexible tube spirally about, a cylinder. When the cylinder is placed in an inclined position, and the lower end is immersed in water, its revolution will cause the water to move upward through the spiral chambers. Whatever quantity of water first en-}}",
+   "c1s3": "{{smaller|ters the screw immediately descends by its own weight to the lowest point of the spiral; but this point being always shifted higher up by the revolution of the screw, the water may thus be raised to a considerable height. Also called ''water-screw'' and ''spiral pump.''—'''Archimedean solid''', one of the thirteen solids described by Archimedes, which, without being regular, have all their solid angles alike, all their faces regular, and not less than four faces of any one kind: sometimes incorrectly called ''semi-regular solids.'' They are the ''truncated tetrahedron'', the ''cuboctahedron'', the ''truncated octahedron'', the ''truncated cube'', the ''rhombicuboctahedron'', the ''truncated cuboctahedron'', the ''icosidodecahedron'', the ''truncated icosahedron'', the ''truncated dodecahedron'', the ''snub-cube'', the ''rhombicosidodecahedron'', the ''truncated icosidodecahedron'', and the ''snub-dodecahedron.'' See these terms.}}\n\n'''archimonerula''' (är″ki-mō-ner′ọ̈-lä̤), ''n.''; pl. ''archimonerulæ'' (-lē). [NL., < Gr. ἀρχι-, first, + NL. ''monerula.''] In ''embryol.'', a term invented by Haeckel and defined by him as a cytod in which the formative and the nutritive yolk are not distinct. {{smaller|It is a special name for the monerula stage of a holoblastic egg which undergoes palingenetic or primitive as well as total cleavage, and the several succeeding stages of which are an archicytula, archimorula, archiblastula, and archigastrula.}}\n\n'''archimorula''' (är-ki-mor′ọ̈-lä̤), ''n.''; pl. ''archimorulæ'' (-lē). [NL., < Gr. ἀρχι-, first, + NL. ''morula.''] In ''embryol.'', the morula or mulberry-mass which results from the total and equal segmentation of the vitellus or yolk of an archicytula; a solid, generally globular, mass of cleavage-cells which proceed to develop an archiblastula and archigastrula.\n\n'''archinephra''', ''n.'' Plural of ''archinephron.''",
+   "c2s1": "¶\n'''archinephric''' (är-ki-nef′rik), ''a.'' [< ''archinephron'' + ''-ic.''] Pertaining to an archinephron or primitive kidney: as, the ''archinephric'' duct.\n\n'''archinephron''' (är-ki-nef′ron), ''n.''; pl. ''archinephra'' (-rä). [NL., < Gr. ἀρχι-, first, + νεφρός, kidney.] In ''embryol.'', the primitive or rudimentary, as distinguished from the final definitive, renal excretory organ of an animal; the primitive kidney.\n\n'''arching''' (är′ching), ''n.'' [Verbal n. of ''arch''<sup>1</sup>.] Arched work or formation; the arched portion of a structure.\n\n'''archipelagian''' (är″ki-pẹ̄-lā′ji-a̤n), ''a.'' Same as ''archipelagic.''\n\n'''archipelagic''' (är″ki-pẹ̄-laj′ik), ''a.'' [< ''archipelago'' + ''-ic.''] Of or pertaining to an archipelago.\n{{smaller block|The ''archipelagic'' fringe of coast line.\n{{right|''Fortnightly Rev.'', XXXIX. 57.}}}}\n\n'''archipelago''' (är-ki-pel′a̤-gō), ''n.'' [Early mod. E. ''archpelago'', also ''archipelage'' and ''archipelagus'' (and abbr. ''archipel'' = D. G. ''archipel'', < F. ''archipel'' = Pr. ''archipel''; cf. early mod. F. ''archipelague'') = OSp. ''arcipielago'', Sp. ''archipielago'' = OPg. ''arcepelago'', Pg. ''archipelago'' (cf. Dan. ''arkipelag'', ''arkipelagus'', Russ. ''arkhipelagŭ'', NGr. ἀρχιπέλαγος, ML. ''archipelagus''), < It. ''arcipelago'', orig. the Ægean sea, lit. the chief gulf or sea (in distinction from minor bodies of water to which",
+   "c2s2": "the term ''pelago'', ML. ''pelagus'', was applied), < ''arci-'' (L., etc., ''archi-''), chief, principal, + ''pelago'' (= Sp. ''piélago'' = Pg. ''pelago'', ''pego'' = Pr. ''peleg''), gulf, abyss, pool, sea, < ML. L. ''pelagus'', < Gr. πέλαγος, sea: see ''pelagic''.] '''1.''' [''cap.''] Originally and specifically, the sea which separates Greece from Asia Minor, otherwise called the Ægean sea, studded with a number of small islands. Hence, generally—'''2.''' Any body of water abounding with islands, or the islands themselves collectively.\n\n'''Archipolypoda''' (är″ki-po-lip′ọ̄-dä̤), ''n. pl.'' [NL., < Gr. ἀρχι-, first, + ''Polypoda'', pl. of ''Polypus'', q. v.] A group of fossil myriapods from the Carboniferous formation of Illinois and Great Britain, related to the ''Chilognatha'', but having the tergites small and armed with large spines, the sternites proportionally large and bearing crateriform cups, supposed to be possibly gill-supports. {{smaller|The ''Archipolypoda'' had two legs to each segment, as in the extant ''Diplopoda'', and appear to have become extinct in the Paleozoic epoch. Three families have been recognized, ''Archidesmidæ'', ''Euphorberiidæ'', and ''Archiulidæ''.}}\n{{smaller block|Mr. Scudder has proposed the name ''Archipolypoda'' for a group of fossil myriapods which, while closely related to the ''Chilognatha'', show several important points of difference.\n{{right|''Stand. Nat. Hist.'', II. 128.}}}}\n\n'''archipolypodan''' (är″ki-po-lip′ọ̄-da̤n), ''n.'' One of the ''Archipolypoda''.\n\n'''archipolypodous''' (är″ki-po-lip′ọ̄-dus), ''a.'' Pertaining to or having the characters of the ''Archi-''",
+   "c2s3": "''polypoda.''\n\n¶\n'''archippus''' (är-kip′us), ''n.'' [NL., in form as Gr. Ἄρχιππος, a proper name.] A butterfly, ''Danaus archippus'': the technical specific name used as an English word.\n\n'''Archiptera''' (är-kip′tẹ-rä), ''n. pl.'' [NL., < Gr. ἀρχι-, first, + πτερόν, wing.] In Haeckel’s system of classification, an order of hexapodous metabolous winged insects, equivalent to the ''Pseudoneuroptera'' of other authors.\n\n'''archipterygium''' (är″kip-te-rij′i-um), ''n.''; pl. ''archipterygia'' (-ä). [NL., < Gr. ἀρχι-, first, chief,\n[[FIGURE]]\n{{c|{{smaller|Cartilaginous skeleton of a limb (archipterygium) of ''Ceratodus forsteri'', the large upper piece articulating with the limb-root.}}}}\n+ πτερύγιον, dim. of πτέρυξ, a wing, < πτερόν, a wing, = E. ''feather''.] The archetypal form or primitive type of the skeleton of the limbs of vertebrates. {{smaller|It was supposed by Gegenbaur to be most nearly approximated in nature by the pectoral member or fin of the ceratodontids, but this view has not been generally accepted; by others the pectoral member of a primitive selachian is believed to approximately realize the idea.}}\n{{smaller block|I have given the name of ''Archipterygium'' to the ground-form of the skeleton, which extends from the limb-bearing girdle into the free appendage.\n{{right|''Gegenbaur'', Comp. Anat. (tr.), p. 473.}}}}\n\n'''archistome''' (är′ki-stōm), ''n.'' [< Gr. ἀρχι-, first, + στόμα, mouth.] In ''zoöl.'', the primitive elongated blastopore of ''Bilateralia''.\n{{smaller block|The primitively elongated mouth of the larvæ of Bilateralia, with an extended body-axis, or any derived form}}",
+   "c2s4": "{{smaller block|of the latter, or wherever there is formed a well-defined, unpaired median neural plate, or where a pair of parallel neural plates or cords are developed, I would call the whole area thus embraced an ''archistome.''\n{{right|''J. A. Ryder'', Amer. Naturalist, 1885, p. 1117.}}}}",
+   "c3s1": "¶\n'''architect''' (är′ki-tekt), ''n.'' [= F. ''architecte'' = It. ''architetto'', < L. ''architectus'', also ''architecton'', < Gr. ἀρχιτέκτων, chief builder, chief artificer, < ἀρχι-, chief, + τέκτων, a worker, esp. in wood, a carpenter, joiner, builder: see ''tectonic''.] '''1.''' A person skilled in the art of building; one who understands architecture, or whose profession it is to form plans and designs of buildings and superintend the execution of them. Hence—'''2.''' One who plans, designs, or consummates any complex thing: as, the supreme ''Architect'' of the universe; he is the ''architect'' of his own fortunes.—'''3.''' One who contrives, devises, or plots.\n{{smaller block|Chief ''architect'' and plotter of these woes.\n{{right|''Shak.'', Tit. And., v. 3.}}}}\n\n'''architective''' (är′ki-tek-tiv), ''a.'' [< ''architect'' + ''-ive''.] Used in building; proper for building.\n\n'''architectonic''' (är″ki-tek-ton′ik), ''a.'' and ''n.'' [= F. ''architectonique'', < L. ''architectonicus'', < Gr. ἀρχιτεκτονικός, pertaining to architecture, fem. ἀρχιτεκτονική, n., architecture, < ἀρχιτέκτων, chief workman: see ''architect''.] '''I.''' ''a.'' '''1.''' Pertaining to architecture; hence, pertaining or relating to construction or design of any kind.\n{{smaller block|The Archæologist cannot fail to remark how severe, in a true age of art, is the observance of this great ''Architectonic'' law—how its influence pervades all design—how the pictures on Greek vases, or the richly embossed and chased work of the mediæval goldsmiths, are all adjusted to the form and surface allotted to them by an external necessity.\n{{right|''C. T. Newton'', Art and Archæol., p. 34.}}}}\n'''2.''' Skilled in architecture; expert in designing or constructing.—'''3.''' Relating to the construc-",
+   "c3s2": "tion of a complete and scientifically arranged theory or system of doctrine.—'''4.''' Having the same relation to something as that of an architect to his work; designing; controlling; governing; directive.\n{{smaller block|In the language of Aristotle, which of these two [Culture and Religion] is the ''architectonic'' or master-art which prescribes to all the other arts and occupations of life their functions, as the master-builder prescribes their duties to his workmen? ''J. C. Shairp'', Culture and Religion, p. 28.}}\n{{smaller|'''Architectonic idea.''' See ''idea.''—'''Architectonic unity,''' the unity or union of the parts of a theory or system which springs from the principles upon which the theory or system depends.}}\n\n'''II.''' ''n.'' '''1.''' The science of architecture. Also ''architectonics.''—'''2.''' In ''logic'', the art of constructing systems.\n{{smaller block|By ''architectonic'' I understand the art of constructing systems. ''Kant'', Critique of Pure Reason (tr. by Max Müller).}}\n{{smaller block|Of these two sciences, . . . that which treats of those conditions of knowledge which lie in the nature, not of thought itself, but of that which we think about, . . . has been called . . . ''architectonic'', in so far as it treats of the method of building up our observations into system.\n{{right|''Sir W. Hamilton'', Logic, App. No. I. (1866), II. 230.}}}}\n\n'''architectonical''' (är″ki-tek-ton′i-ka̤l), ''a.'' Same as ''architectonic.''\n{{smaller block|Geometrical and ''architectonical'' artists.\n{{right|''Sir T. Browne'', Misc. Tracts, p. 6.}}}}\n\n'''architectonically''' (är″ki-tek-ton′i-ka̤l-i), ''adv.'' In an architectonic manner; according to true structural principles or fitness.\n\n'''architectonics''' (är″ki-tek-ton′iks), ''n. pl.'' Same as ''architectonic'', ''n.'', 1.\n\n'''architector†''' (är′ki-tek-tọr), ''n.'' [ML., for L. ''architectus'', ''architecton'': see ''architect.''] '''1.''' An",
+   "c3s3": "architect.—'''2.''' A superintendent.\n\n'''architectress''' (är′ki-tek-tres), ''n.'' [< ''architector'' + ''-ess.''] A female architect. ''Sir H. Wotton'', Reliquiæ. [Rare.]\n\n'''architectural''' (är-ki-tek′t̮ūr-al), ''a.'' [= F. ''architectural''; < ''architecture'' + ''-al.''] Pertaining or relating to architecture or the art of building; according to the principles of architecture.—{{smaller|'''Architectural notation.''' See ''notation.''}}\n\n'''architecturalist''' (är-ki-tek′t̮ūr-al-ist), ''n.'' [< ''architectural'' + ''-ist.''] A professed student of, or connoisseur in, architecture. ''N. E. D.''\n\n'''architecturally''' (är-ki-tek′t̮ūr-al-i), ''adv.'' In an architectural manner; with regard to architectural principles; from an architectural point of view.\n\n'''architecture''' (är′ki-tek-t̮ūr), ''n.'' [= F. ''architecture'' = It. ''architettura'', < L. ''architectura'', < ''architectus'', architect: see ''architect.'' The Gr. word is ἀρχιτεκτονία, < ἀρχιτέκτων; also ἀρχιτεκτονική: see ''architectonic.''] '''1.''' The art of building, specifically of fine or beautiful building. {{smaller|Architecture includes, in the widest sense, (1) the principles of design and of ornament as applied to building; (2) the science of construction, including the properties of materials and the methods of combining them; and (3) the practice of construction, including estimates of cost and the directing of builders and workmen. The practice of this art requires skill in design, which is the special province of the architect, and skill in execution, which is the special province of the workmen whom the architect employs and directs. It is the function of skill in architectural design to combine in a harmonious scheme the independent and often hostile requirements (1) of use}}"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0323 c1f1.png",
+   "c1f2": "century v01 p0323 c1f2.png",
+   "c2f1": "century v01 p0323 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     528,
+     278,
+     825,
+     842
+    ],
+    "caption": [
+     556,
+     857,
+     793,
+     881
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     516,
+     205,
+     826,
+     837
+    ]
+   },
+   {
+    "box": [
+     206,
+     1772,
+     720,
+     2097
+    ],
+    "caption": [
+     354,
+     2110,
+     571,
+     2131
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     100,
+     1784,
+     817,
+     2099
+    ]
+   },
+   {
+    "box": [
+     1377,
+     2459,
+     1535,
+     2979
+    ],
+    "caption": [
+     1343,
+     2988,
+     1567,
+     3127
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1371,
+     2526,
+     1574,
+     2975
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    2,
+    1
+   ],
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 4,
+    "input_tokens": 6940,
+    "output_tokens": 235,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9452,
+    "output_tokens": 9103,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c1f1": "right",
+   "c2f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|archimandrite|297|architecture}}</noinclude>{{nop}}'''archimandrite''' (är-ki-man′drīt), ''n.''   [< ML. ''archimandrita'', < LGr. ἀρχιμανδρίτης (Epiphanius), {{img float|file=century v01 p0323 c1f1.png|width=156px|align=right|cap={{smaller|Greek Archimandrite.}}}} chief of a monastery, < Gr. ἀρχι-, chief, + μάνδρα, a fold, inclosure, eccles. a monastery.]   In the ''Eastern Church'', an abbot-general, having other abbots (''hegoumenoi'') with their monasteries under his superintendence; also sometimes, especially among the Greeks, the abbot of a single large monastery.\n{{smaller block|In Russia the bishops are selected from among the archimandrites. The title has been retained among those who separated from the Eastern Church and submitted to the pope while still observing the Greek rite (the so-called United Greeks), and their monasteries are now subject to one proto-archimandrite. A congregation of Basilian monks existing in Sicily before the eleventh century has been under the care of an archimandrite apparently from that time. Its head abbey is that of San Salvatore in Messina, and it forms an exempt archimandritate immediately dependent on the pope. In the early church, and sometimes during the middle ages in the Western Church, the word was used vaguely as equivalent to ''prelate''.}}\n\n'''Archimedean''' (är″ki-mē′dē-an or -mē-dē′an), ''a.''   [< L. ''Archimedēus'', < Gr. Ἀρχιμήδειος, < Ἀρχιμήδης, L. ''Archimedes''.]   Pertaining to Archimedes, a celebrated mathematician, born at Syracuse in the third century {{sc|b. c.}}, or to his mechanical inventions.{{smaller|—'''Archimedean drill.''' See ''drill.''—'''Archimedean principle,''' or '''principle of Archimedes.''' (''a'') The principle of the equilibrium of the lever; namely, that a lever loaded with two weights, on opposite sides of the fulcrum, is in equilibrium when the weights are inversely proportional to the length of the arms at whose ends they hang, and that the pressure on the fulcrum of the lever is then exactly equal to the sum of the two weights. (''b'') The hydrostatical principle, also discovered by Archimedes, that a body immersed in a fluid loses an amount of weight equal to that of the fluid it displaces.—'''Archimedean propeller,''' a propeller consisting of a continuous spiral vane on a hollow core running lengthwise of the vessel. It is an amplification and extension of the screw.—'''Archimedean railway,''' a form of railway in which a continuous shaft rotates on pillars between the lines of rails, and propels the car by means of a screw which engages in a pedestal attached to the car.—'''Archimedean screw,''' a device for raising water, said to}}\n{{smaller|have been invented by Archimedes. It is made by forming a spiral tube within, or by winding a flexible tube spirally about, a cylinder. When the cylinder is placed in an inclined position, and the lower end is immersed in water, its revolution will cause the water to move upward through the spiral chambers. Whatever quantity of water first enters the screw immediately descends by its own weight to the lowest point of the spiral; but this point being always shifted higher up by the revolution of the screw, the water may thus be raised to a considerable height. Also called ''water-screw'' and ''spiral pump.''—'''Archimedean solid''', one of the thirteen solids described by Archimedes, which, without being regular, have all their solid angles alike, all their faces regular, and not less than four faces of any one kind: sometimes incorrectly called ''semi-regular solids.'' They are the ''truncated tetrahedron'', the ''cuboctahedron'', the ''truncated octahedron'', the ''truncated cube'', the ''rhombicuboctahedron'', the ''truncated cuboctahedron'', the ''icosidodecahedron'', the ''truncated icosahedron'', the ''truncated dodecahedron'', the ''snub-cube'', the ''rhombicosidodecahedron'', the ''truncated icosidodecahedron'', and the ''snub-dodecahedron.'' See these terms.}}\n\n[[File:century v01 p0323 c1f2.png|center|261px]]\n{{c|{{smaller|Archimedean Screw.}}}}\n\n'''archimonerula''' (är″ki-mō-ner′ọ̈-lä̤), ''n.''; pl. ''archimonerulæ'' (-lē).   [NL., < Gr. ἀρχι-, first, + NL. ''monerula.'']   In ''embryol.'', a term invented by Haeckel and defined by him as a cytod in which the formative and the nutritive yolk are not distinct. {{smaller|It is a special name for the monerula stage of a holoblastic egg which undergoes palingenetic or primitive as well as total cleavage, and the several succeeding stages of which are an archicytula, archimorula, archiblastula, and archigastrula.}}\n\n'''archimorula''' (är-ki-mor′ọ̈-lä̤), ''n.''; pl. ''archimorulæ'' (-lē).   [NL., < Gr. ἀρχι-, first, + NL. ''morula.'']   In ''embryol.'', the morula or mulberry-mass which results from the total and equal segmentation of the vitellus or yolk of an archicytula; a solid, generally globular, mass of cleavage-cells which proceed to develop an archiblastula and archigastrula.\n\n'''archinephra''', ''n.'' Plural of ''archinephron.''\n\n'''archinephric''' (är-ki-nef′rik), ''a.''   [< ''archinephron'' + ''-ic.'']   Pertaining to an archinephron or primitive kidney: as, the ''archinephric'' duct.\n\n'''archinephron''' (är-ki-nef′ron), ''n.''; pl. ''archinephra'' (-rä).   [NL., < Gr. ἀρχι-, first, + νεφρός, kidney.]   In ''embryol.'', the primitive or rudimentary, as distinguished from the final definitive, renal excretory organ of an animal; the primitive kidney.\n\n'''arching''' (är′ching), ''n.''   [Verbal n. of ''arch''<sup>1</sup>.]   Arched work or formation; the arched portion of a structure.\n\n'''archipelagian''' (är″ki-pẹ̄-lā′ji-a̤n), ''a.'' Same as ''archipelagic.''\n\n'''archipelagic''' (är″ki-pẹ̄-laj′ik), ''a.''   [< ''archipelago'' + ''-ic.'']   Of or pertaining to an archipelago.\n{{smaller block|The ''archipelagic'' fringe of coast line.\n{{right|''Fortnightly Rev.'', XXXIX. 57.}}}}\n\n'''archipelago''' (är-ki-pel′a̤-gō), ''n.''   [Early mod. E. ''archpelago'', also ''archipelage'' and ''archipelagus'' (and abbr. ''archipel'' = D. G. ''archipel'', < F. ''archipel'' = Pr. ''archipel''; cf. early mod. F. ''archipelague'') = OSp. ''arcipielago'', Sp. ''archipielago'' = OPg. ''arcepelago'', Pg. ''archipelago'' (cf. Dan. ''arkipelag'', ''arkipelagus'', Russ. ''arkhipelagŭ'', NGr. ἀρχιπέλαγος, ML. ''archipelagus''), < It. ''arcipelago'', orig. the Ægean sea, lit. the chief gulf or sea (in distinction from minor bodies of water to which the term ''pelago'', ML. ''pelagus'', was applied), < ''arci-'' (L., etc., ''archi-''), chief, principal, + ''pelago'' (= Sp. ''piélago'' = Pg. ''pelago'', ''pego'' = Pr. ''peleg''), gulf, abyss, pool, sea, < ML. L. ''pelagus'', < Gr. πέλαγος, sea: see ''pelagic''.]   '''1.''' [''cap.''] Originally and specifically, the sea which separates Greece from Asia Minor, otherwise called the Ægean sea, studded with a number of small islands. Hence, generally—'''2.''' Any body of water abounding with islands, or the islands themselves collectively.\n\n'''Archipolypoda''' (är″ki-po-lip′ọ̄-dä̤), ''n. pl.''   [NL., < Gr. ἀρχι-, first, + ''Polypoda'', pl. of ''Polypus'', q. v.]   A group of fossil myriapods from the Carboniferous formation of Illinois and Great Britain, related to the ''Chilognatha'', but having the tergites small and armed with large spines, the sternites proportionally large and bearing crateriform cups, supposed to be possibly gill-supports. {{smaller|The ''Archipolypoda'' had two legs to each segment, as in the extant ''Diplopoda'', and appear to have become extinct in the Paleozoic epoch. Three families have been recognized, ''Archidesmidæ'', ''Euphorberiidæ'', and ''Archiulidæ''.}}\n{{smaller block|Mr. Scudder has proposed the name ''Archipolypoda'' for a group of fossil myriapods which, while closely related to the ''Chilognatha'', show several important points of difference.\n{{right|''Stand. Nat. Hist.'', II. 128.}}}}\n\n'''archipolypodan''' (är″ki-po-lip′ọ̄-da̤n), ''n.'' One of the ''Archipolypoda''.\n\n'''archipolypodous''' (är″ki-po-lip′ọ̄-dus), ''a.'' Pertaining to or having the characters of the ''Archipolypoda.''\n\n'''archippus''' (är-kip′us), ''n.''   [NL., in form as Gr. Ἄρχιππος, a proper name.]   A butterfly, ''Danaus archippus'': the technical specific name used as an English word.\n\n'''Archiptera''' (är-kip′tẹ-rä), ''n. pl.''   [NL., < Gr. ἀρχι-, first, + πτερόν, wing.]   In Haeckel’s system of classification, an order of hexapodous metabolous winged insects, equivalent to the ''Pseudoneuroptera'' of other authors.\n\n'''archipterygium''' (är″kip-te-rij′i-um), ''n.''; pl. ''archipterygia'' (-ä).   [NL., < Gr. ἀρχι-, first, chief, {{img float|file=century v01 p0323 c2f1.png|width=88px|align=right|cap={{smaller|Cartilaginous skeleton of a limb (archipterygium) of ''Ceratodus forsteri'', the large upper piece articulating with the limb-root.}}}} + πτερύγιον, dim. of πτέρυξ, a wing, < πτερόν, a wing, = E. ''feather''.]   The archetypal form or primitive type of the skeleton of the limbs of vertebrates. {{smaller|It was supposed by Gegenbaur to be most nearly approximated in nature by the pectoral member or fin of the ceratodontids, but this view has not been generally accepted; by others the pectoral member of a primitive selachian is believed to approximately realize the idea.}}\n{{smaller block|I have given the name of ''Archipterygium'' to the ground-form of the skeleton, which extends from the limb-bearing girdle into the free appendage.\n{{right|''Gegenbaur'', Comp. Anat. (tr.), p. 473.}}}}\n\n'''archistome''' (är′ki-stōm), ''n.''   [< Gr. ἀρχι-, first, + στόμα, mouth.]   In ''zoöl.'', the primitive elongated blastopore of ''Bilateralia''.\n{{smaller block|The primitively elongated mouth of the larvæ of Bilateralia, with an extended body-axis, or any derived form of the latter, or wherever there is formed a well-defined, unpaired median neural plate, or where a pair of parallel neural plates or cords are developed, I would call the whole area thus embraced an ''archistome.''\n{{right|''J. A. Ryder'', Amer. Naturalist, 1885, p. 1117.}}}}\n\n'''architect''' (är′ki-tekt), ''n.''   [= F. ''architecte'' = It. ''architetto'', < L. ''architectus'', also ''architecton'', < Gr. ἀρχιτέκτων, chief builder, chief artificer, < ἀρχι-, chief, + τέκτων, a worker, esp. in wood, a carpenter, joiner, builder: see ''tectonic''.]   '''1.''' A person skilled in the art of building; one who understands architecture, or whose profession it is to form plans and designs of buildings and superintend the execution of them. Hence—'''2.''' One who plans, designs, or consummates any complex thing: as, the supreme ''Architect'' of the universe; he is the ''architect'' of his own fortunes.—'''3.''' One who contrives, devises, or plots.\n{{smaller block|Chief ''architect'' and plotter of these woes.\n{{right|''Shak.'', Tit. And., v. 3.}}}}\n\n'''architective''' (är′ki-tek-tiv), ''a.''   [< ''architect'' + ''-ive''.]   Used in building; proper for building.\n\n'''architectonic''' (är″ki-tek-ton′ik), ''a.'' and ''n.''   [= F. ''architectonique'', < L. ''architectonicus'', < Gr. ἀρχιτεκτονικός, pertaining to architecture, fem. ἀρχιτεκτονική, n., architecture, < ἀρχιτέκτων, chief workman: see ''architect''.]   '''I.''' ''a.'' '''1.''' Pertaining to architecture; hence, pertaining or relating to construction or design of any kind.\n{{smaller block|The Archæologist cannot fail to remark how severe, in a true age of art, is the observance of this great ''Architectonic'' law—how its influence pervades all design—how the pictures on Greek vases, or the richly embossed and chased work of the mediæval goldsmiths, are all adjusted to the form and surface allotted to them by an external necessity.\n{{right|''C. T. Newton'', Art and Archæol., p. 34.}}}}\n'''2.''' Skilled in architecture; expert in designing or constructing.—'''3.''' Relating to the construction of a complete and scientifically arranged theory or system of doctrine.—'''4.''' Having the same relation to something as that of an architect to his work; designing; controlling; governing; directive.\n{{smaller block|In the language of Aristotle, which of these two [Culture and Religion] is the ''architectonic'' or master-art which prescribes to all the other arts and occupations of life their functions, as the master-builder prescribes their duties to his workmen?\n{{right|''J. C. Shairp'', Culture and Religion, p. 28.}}}}\n{{smaller|'''Architectonic idea.''' See ''idea.''—'''Architectonic unity,''' the unity or union of the parts of a theory or system which springs from the principles upon which the theory or system depends.}}\n\n'''II.''' ''n.'' '''1.''' The science of architecture. Also ''architectonics.''—'''2.''' In ''logic'', the art of constructing systems.\n{{smaller block|By ''architectonic'' I understand the art of constructing systems.\n{{right|''Kant'', Critique of Pure Reason (tr. by Max Müller).}}}}\n{{smaller block|Of these two sciences, . . . that which treats of those conditions of knowledge which lie in the nature, not of thought itself, but of that which we think about, . . . has been called . . . ''architectonic'', in so far as it treats of the method of building up our observations into system.\n{{right|''Sir W. Hamilton'', Logic, App. No. I. (1866), II. 230.}}}}\n\n'''architectonical''' (är″ki-tek-ton′i-ka̤l), ''a.'' Same as ''architectonic.''\n{{smaller block|Geometrical and ''architectonical'' artists.\n{{right|''Sir T. Browne'', Misc. Tracts, p. 6.}}}}\n\n'''architectonically''' (är″ki-tek-ton′i-ka̤l-i), ''adv.'' In an architectonic manner; according to true structural principles or fitness.\n\n'''architectonics''' (är″ki-tek-ton′iks), ''n. pl.'' Same as ''architectonic'', ''n.'', 1.\n\n'''architector†''' (är′ki-tek-tọr), ''n.''   [ML., for L. ''architectus'', ''architecton'': see ''architect.'']   '''1.''' An architect.—'''2.''' A superintendent.\n\n'''architectress''' (är′ki-tek-tres), ''n.''   [< ''architector'' + ''-ess.'']   A female architect.   ''Sir H. Wotton'', Reliquiæ. [Rare.]\n\n'''architectural''' (är-ki-tek′t̮ūr-al), ''a.''   [= F. ''architectural''; < ''architecture'' + ''-al.'']   Pertaining or relating to architecture or the art of building; according to the principles of architecture.—{{smaller|'''Architectural notation.''' See ''notation.''}}\n\n'''architecturalist''' (är-ki-tek′t̮ūr-al-ist), ''n.''   [< ''architectural'' + ''-ist.'']   A professed student of, or connoisseur in, architecture.   ''N. E. D.''\n\n'''architecturally''' (är-ki-tek′t̮ūr-al-i), ''adv.'' In an architectural manner; with regard to architectural principles; from an architectural point of view.\n\n'''architecture''' (är′ki-tek-t̮ūr), ''n.''   [= F. ''architecture'' = It. ''architettura'', < L. ''architectura'', < ''architectus'', architect: see ''architect.'' The Gr. word is ἀρχιτεκτονία, < ἀρχιτέκτων; also ἀρχιτεκτονική: see ''architectonic.'']   '''1.''' The art of building, specifically of fine or beautiful building. {{smaller|Architecture includes, in the widest sense, (1) the principles of design and of ornament as applied to building; (2) the science of construction, including the properties of materials and the methods of combining them; and (3) the practice of construction, including estimates of cost and the directing of builders and workmen. The practice of this art requires skill in design, which is the special province of the architect, and skill in execution, which is the special province of the workmen whom the architect employs and directs. It is the function of skill in architectural design to combine in a harmonious scheme the independent and often hostile requirements (1) of use}}<noinclude><references/></noinclude>"
+}

@@ -1,0 +1,225 @@
+{
+ "volume": 1,
+ "page_number": 358,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n357.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n357.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 743,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     76,
+     128,
+     2294,
+     169
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     76,
+     169,
+     820,
+     1255
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     473,
+     278,
+     815,
+     758
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     76,
+     1255,
+     820,
+     2345
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     76,
+     2345,
+     820,
+     3286
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     820,
+     169,
+     1563,
+     1212
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     820,
+     1212,
+     1563,
+     2263
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     820,
+     2263,
+     1563,
+     3286
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1563,
+     169,
+     2294,
+     1127
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1563,
+     1127,
+     2294,
+     2175
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1563,
+     2175,
+     2294,
+     2956
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1563,
+     2956,
+     2294,
+     3286
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|Asarum|332|ascending}}",
+   "c1s1": "¶\n'''Asarum''' (as′ạ-rum), ''n.'' [L., < Gr. ἄσαρον, asarabacca.] A genus of apetalous exogenous plants, natural order ''Aristolochiaceæ'', low, stemless herbs, with dull-brownish flowers and aromatic root-stock. {{smaller|The few species are natives of the northern temperate zone. The asarabacca, ''A. Europæum'', was formerly used as a purgative and an emetic. The common American species, ''A. Canadense'', is known as wild ginger or snakeroot. Five other species are found in the Alleghanies and Sierra Nevada, and four or five in Asia.}}\n[[FIGURE]]\n{{c|{{smaller|''Asarum Europæum.''}}}}\n\n'''asbestic''' (as-bes′tik), ''a.'' [< ''asbestos'' + ''-ic.''] Relating to or containing asbestos. Also ''asbestous''.\n\n'''asbestiform''' (as-bes′ti-fôrm), ''a.'' [< L. ''asbestos'' + ''forma'', shape.] Having the form or appearance of asbestos.\n\n'''asbestine''' (as-bes′tin), ''a.'' [< Gr. ἀσβέστινος, < ἄσβεστος, asbestos.] Pertaining to asbestos, or partaking of its nature and qualities; incombustible.\n\n'''asbestinite''' (as-bes′tin-īt), ''n.'' [< ''asbestine'' + ''-ite''<sup>2</sup>.] Actinolite or strahlstein.—{{smaller|'''Calciferous asbestinite''', a variety of steatite.}}\n\n'''asbestoid''' (as-bes′toid), ''a.'' [< ''asbestos'' + ''-oid.''] Resembling asbestos.\n\n'''asbestos, asbestus''' (as-bes′tọs, -tus), ''n.'' [Also ''asbest'' (< F. ''asbeste''), ''abbest'', ''abest'' (< OF. ''abeste''),",
+   "c1s2": "also, and in ME., ''asbeston'', ''abeston'', ''abiston'', ''albeston'', etc., and in other corrupt forms (in earlier use only in sense 1), < L. ''asbestos'', used by Pliny in ref. to the mineral asbestos, which he believed to be vegetable (see def. 2), < Gr. ἀσβεστος, applied by Dioscorides to unslaked lime, lit. inextinguishable, unquenchable, < ἀ- priv. + σβεστός, verbal adj. of σβεννύναι, extinguish, quench.] '''1†.''' A fabulous stone, which, once set on fire, could not be quenched: a notion due to observation of the effect of cold water in heating quicklime.\n{{smaller block|<poem>My mind is like to the ''Asbeston'' stone,\nWhich, if it once be heat in flames of fire,\nDenieth to becommen cold again.</poem>\n{{right|''Greene'', Alphonsus, ii.}}}}\n\n'''2.''' A supposed kind of flax, alleged to be incombustible. [An erroneous notion of the mineral. See 3.] —'''3.''' A fibrous variety of amphibole or hornblende, composed of separable filaments, with a silky luster; also, in popular use, a similar variety of serpentine called ''chrysotile''. {{smaller|Its fibers are sometimes delicate, flexible, and elastic, sometimes stiff and brittle, and when reduced to a powder are soft to the touch. Its colors are various shades of white, gray, or green, passing into brown, red, or black. It is incombustible, and is therefore used for making lamp-wicks, paper, firemen’s clothing, building materials, twine, and rope for packing steam-joints and pistons; it is also prepared as a cement for protecting heated surfaces, roofs, and floors, and for various fire-proofing purposes. It is mined in Canada, Vermont, Virginia, South Carolina, and in Staten Island, New York. Some varieties are compact, and take a fine polish; others are loose, like flax or silky wool. ''Ligniform asbestos'', or ''mountain-wood'', is a variety presenting an irregular filamentous structure, like wood. Other varieties of horn-}}",
+   "c1s3": "{{smaller|blende asbestos are ''rock-cork'', ''mountain-leather'', ''fossil paper'', and ''fossil flax''. A fine variety is called ''amiantus'' (which see).—'''Blue asbestos''', the mineral crocidolite (which see).}}\n\n'''asbestos-stove''' (as-bes′tos-stōv), ''n.'' A gas-stove with asbestos spread over the burners, so as to form an incandescent radiator.\n\n'''asbestous''' (as-bes′tus), ''a.'' [< ''asbestos'' + ''-ous.''] Same as ''asbestic.''\n\n'''asbestus''', ''n.'' See ''asbestos.''\n\n'''asbolan, asbolane''' (as′bọ̄-lan, -lān), ''n.'' [< Gr. ἀσβολος, also ἀσβόλη, soot (cf. ψόλος, soot, smoke), + ''-an.''] Earthy cobalt; wad containing oxid of cobalt. It is used in the manufacture of smalt. Also called ''asbolite.''\n\n'''asbolin, asboline''' (as′bọ̄-lin), ''n.'' [As ''asbol-an'' + ''-in''<sup>2</sup>.] An oil-like, nitrogenous matter, acrid and bitter, obtained from the soot of wood.\n\n'''asbolite''' (as′bọ̄-lit), ''n.'' [As ''asbol-an'' + ''-ite''<sup>2</sup>.] Same as ''asbolan.''\n\n'''Ascalabota''' (as″kạ-lạ-bō′tä̤), ''n. pl.'' [NL.: see ''Ascalabotes.''] One of the major groups of the ''Lacertilia'', consisting of the geckos alone. See ''Gecco'' and ''Gecconidæ.'' Also called ''Nyctisauria.''\n\n'''Ascalabotes''' (as″kạ-lạ-bō′tēz), ''n.'' [NL., < Gr. ἀσκαλαβώτης, the spotted lizard, prob. ''Lacerta gecko.''] A genus of nyctisaurian lizards, of the family ''Geccotidæ'' or ''Gecconidæ.'' {{smaller|''A. fascicularis'' is sometimes known by the name ''tarentola.'' The genus was originally, as used by Cuvier, coextensive with the family, or with the modern superfamily ''Ascalabota.''}}",
+   "c2s1": "¶\n'''Ascalaphidæ''' (as-ka-laf′i-dē), ''n. pl.'' [NL., < ''Ascalaphus'' + ''-idæ''.] A family of planipennine neuropterous insects, related to the ant-lions (''Myrmeleontidæ''), and characterized by long clavate antennæ and a comparatively short body. It corresponds to the genus ''Ascalaphus'' of Fabricius.\n\n'''Ascalaphus''' (as-kal′a-fus), ''n.'' [NL., < Gr. ἀσκάλαφος, an unknown bird, supposed to be a kind of owl.] '''1.''' The typical genus of the family ''Ascalaphidæ.''—'''2.''' [''l. c.''] The specific name of a horned owl, ''Bubo ascalaphus'', of Europe and Africa.\n\n'''Ascalopax''' (as-kal′ō-paks), ''n.'' [NL. Cf. Gr. ἀσκαλώπας (sic), a bird, supposed to be the same as σκολόπαξ: see ''Scolopax.''] In ''ornith.'': (''a'') An old form of ''Scolopax.'' (''b'') A synonym of ''Gallinago.''\n\n'''ascan''' (as′kạn), ''a.'' [< ''ascus'' + ''-an.''] Of or pertaining to an ascus. ''N. E. D.''\n\n'''ascance<sup>1</sup>†''', ''adv.'' See ''askance''<sup>1</sup>.\n\n'''ascance<sup>2</sup>†''', '''ascances†''', ''conj.'' See ''askance''<sup>2</sup>.\n\n'''ascant†''', ''adv.'' See ''askant.''\n\n'''ascarid''' (as′ka-rid), ''n.'' One of the ''Ascaridæ.''\n\n'''Ascaridæ''' (as-kar′i-dē), ''n. pl.'' [NL., < ''Ascaris'' + ''-idæ.''] A family of worms, of the order ''Nematoda'' and class ''Nemathelmintha'', containing several genera of round-worms, or thread-worms, which are intestinal parasites of man and other animals. {{smaller|They have a cylindrical elastic body, tapering toward each end, and a trivalved head. The leading genera are ''Ascaris'' and ''Oxyuris.'' See cut under ''Oxyuris.''}}",
+   "c2s2": "¶\n\n'''Ascaris''' (as′ka̤-ris), ''n.'' [NL., < Gr. ἀσκαρίς, a worm in the intestines.] '''1.''' A genus of roundworms, typical of the family ''Ascaridæ'', infesting the small intestines. {{smaller|The best-known species, ''A. lumbricoides'', is so called from its resemblance to an earthworm in size, shape, and general appearance. It has a cylindrical body, with ends of equal size, a somewhat conoidal head, with trilabiate terminal mouth, and a filiform penis; the genital pore of the female is in the anterior part of the body. The female attains a length of from 12 to 14 inches; the male is less than half as long.}} '''2.''' [''l. c.''; pl. ''ascarides'' (as-kar′i-dēz).] A threadworm or pinworm of the rectum, formerly placed in this genus, now referred to a different genus, ''Oxyuris'' (which see).\n\n'''ascaunce<sup>1</sup>†''', ''adv.'' See ''askance''<sup>1</sup>.\n\n'''ascaunce<sup>2</sup>†''', '''ascaunces†''', ''conj.'' See ''askance''<sup>2</sup>.\n\n'''ascend''' (ạ-send′), ''v.'' [< ME. ''ascenden'', ''assenden'', < L. ''ascendere'', ''adscendere'', go up, climb up to, < ''ad'', to, + ''scandere'', climb: see ''scan'', and cf. ''descend'', ''transcend''.] '''I.''' ''intrans.'' '''1.''' To move upward; mount; go up; rise, whether in air or water, or upon a material object.\n{{smaller block|<poem>In our proper motion we ''ascend''\nUp to our native seat: descent and fall\nTo us is adverse.</poem>\n{{right|''Milton'', P. L., ii. 75.}}}}\n'''2.''' To rise, in a figurative sense; proceed from an inferior to a superior degree, from mean to noble objects, from particulars to generals, etc.\n{{smaller block|By these steps we shall ''ascend'' to more just ideas of the glory of Jesus Christ. {{right|''Watts'', Improvement of Mind.}}}}\n{{smaller block|’Tis sometimes questioned whether morals have not declined as the arts have ''ascended''.\n{{right|''Emerson'', Works and Days.}}}}",
+   "c2s3": "3. To slope upward.—'''4.''' To go backward in the order of time; proceed from modern to ancient times: as, our inquiries ''ascend'' to the remotest antiquity.—'''5.''' To rise, as a star; appear above the horizon.\n{{smaller block|Higher yet that star ''ascends.''\n{{right|''Sir J. Bowring,'' Watchman, Tell us of the Night.}}}}\n'''6.''' In ''music,'' to rise in pitch; pass from any tone to one more acute. ='''Syn.''' {{smaller|To mount, soar, climb.}}\n\n'''II.''' ''trans.'' '''1.''' To go or move upward upon; climb: as, to ''ascend'' a hill or ladder; to ''ascend'' a tree.\n{{smaller block|We returned to the great tower, and ''ascended'' the steep flight of steps which led to its door of entrance.\n{{right|''R. Curzon,'' Monast. in the Levant, p. 77.}}}}\n'''2.''' To move upward along; go toward the source of: as, to ''ascend'' a river. ='''Syn.''' {{smaller|To mount, climb, scale.}}\n\n'''ascendable''' (a̤-sen′da̤-bl), ''a.'' [< ''ascend'' + ''-able.''] Capable of being ascended. Also written ''ascendible.''\n\n'''ascendance, ascendence''' (a̤-sen′da̤ns, -de̤ns), ''n.'' Same as ''ascendancy.'' [Rare.]\n{{smaller block|Fear had too much ''ascendance'' on the mind.\n{{right|''Fielding,'' Joseph Andrews, ix.}}}}\n\n'''ascendancy, ascendency''' (a̤-sen′da̤n-si, -de̤n-si), ''n.'' [< ''ascendant, -ent,'' + ''-ancy, -ency.''] The state of being in the ascendant; governing or controlling influence; domination.\n{{smaller block|The great Latin war, the war in which the first Decius gave himself for Rome, marks the last struggle of Rome’s immediate kinsfolk against her ''ascendency.''\n{{right|''E. A. Freeman,'' Amer. Lects., p. 317.}}}}",
+   "c3s1": "¶\n{{smaller|='''Syn.''' ''Influence, Authority, Ascendancy'', etc. (see ''authority''), mastery, dominion, superiority, advantage, upper hand.}}\n\n'''ascendant, ascendent''' (a-sen′dant, -dent), ''a.'' and ''n.'' [< ME. ''ascendent, assendent'', n. (the form ''ascendant'' being later, after F. ''ascendant''), < L. ''ascenden(t-)s'', ppr. of ''ascendere'', go up, rise, ascend: see ''ascend''.] '''I.''' ''a.'' '''1.''' Proceeding upward; rising; mounting.—'''2.''' Superior; predominant; surpassing: as, “an ''ascendant'' spirit over him,” ''South''.—'''3.''' In ''astrol.'', rising over the horizon, or nearly so.\n{{smaller block|The constellation of Pegasus . . . is about that time ''ascendant.''\n{{right|''Sir T. Browne'', Vulg. Err.}}}}\n'''4.''' In ''bot.'', same as ''ascending''.—'''5.''' In ''her.'', rising or issuing upward (the reverse of ''issuant''): as, rays of the sun ''ascendant'' from the bottom of the shield, from a fesse, etc.\n\n'''II.''' ''n.'' '''1.''' In ''astrol.'', the point of the ecliptic or the sign of the zodiac that is situated on the eastern horizon at any particular moment, as at the moment of birth or of the propounding of any question; the horoscope. {{smaller|The ''house of the ascendant'' includes that part of the zodiac which extends from 5° above the horizon to 25° below it. The ''lord of the ascendant'' is the planet that rules the ascendant. This planet is generally the significator of the querent, and the decision of the question depends upon its aspects. Hence, ''to be in the ascendant'' signifies to have commanding power or influence, to occupy a ruling position; and ''lord of the ascendant'', one who has possession of such power or influence: as, to rule, for a while, ''lord of the ascendant.''}}",
+   "c3s2": "¶\n{{smaller block|The ''assendent'' sothly, as wel in alle natiuitez as in questiouns and elecciouns of tymes, is a thing which that thise Astrologiens gretly obseruen; wher-fore me semeth conuenient sin that I speke of the ''assendent'', to make of it special declaratioun. The ''assendent'' sothly, to take it at the largest, is thilke degree that assendeth at any of thise forseide tymes upon the est Orisonte; and there-fore, gif that any planet assende at that same tyme in thilke forseide degre of his longitude, Men seyn thilke planete is in horoscope.\n{{right|''Chaucer.''}}}}\n{{smaller block|Sciences that were then in their highest ''ascendant.''\n{{right|''Sir W. Temple.''}}}}\n{{smaller block|Marlborough had not, when Popery was ''in the ascendant'', crossed himself, shrived himself, done penance, taken the communion in one kind, and, as soon as a turn of fortune came, apostatized back again.\n{{right|''Macaulay'', Hist. Eng., xx.}}}}\n\n'''2.''' Superiority or commanding influence; predominance: especially in the phrase ''to gain the ascendant over'' one.\n{{smaller block|<poem>What star I know not, but some star, I find,\nHas given thee an ''ascendant'' o’er my mind.</poem>\n{{right|''Dryden'', tr. of Persius, Satires, v. 66.}}}}\n{{smaller block|She had art enough to gain an entire ''ascendant'' over the king.\n{{right|''Goldsmith'', Voltaire.}}}}\n{{smaller block|The secular authority, long unduly depressed, regained the ''ascendant'' with startling rapidity.\n{{right|''Macaulay'', Von Ranke.}}}}\n\n'''3.''' An ancestor, or one who precedes in genealogy or degrees of kindred: opposed to ''descendant.''\n{{smaller block|The succession of ''ascendants'' of the deceased, of his male paternal ancestors, if any survived him.\n{{right|''Maine'', Early Law and Custom, p. 111.}}}}\n\n'''4.''' In ''arch.'', one of the two sides or vertical members of the chambranle of a door or window.",
+   "c3s3": "¶\n'''ascendence, ascendency, ascendent.''' See ''ascendance'', etc.\n\n'''ascender''' (a̤-sen′dėr), ''n.'' '''1.''' One who ascends. —'''2.''' An ascending letter. See ''ascending.''\n\n'''ascendible''' (a̤-sen′di-bl), ''a.'' [< L. ''ascendibilis'' (also, from pp. ''ascensus'', LL. ''ascensibilis''), < ''ascendere'', ascend: see ''ascend'' and ''-ible'', and cf. ''ascendable.''] Same as ''ascendable.''\n\n'''ascending''' (a̤-sen′ding), ''p. a.'' '''1.''' Proceeding from a lower position to a higher; rising; moving upward; figuratively, proceeding from the less to the greater; proceeding from a later to an earlier time; rising from grave to acute. —'''2.''' In ''bot.'', growing upward, as the stem of a plant, which is called the ''ascending axis.'' {{smaller|Commonly restricted to the sense of growing up obliquely or in a curve from the base, in distinction from ''erect'', and from ''decumbent'' or ''horizontal.''—'''Acute ascending paralysis.''' See ''paralysis.''—'''Ascending latitude,''' the latitude of a planet when moving toward the north pole.—'''Ascending letter,''' in ''type-founding'', a letter which reaches to the extreme upper part of the body of the type. In Roman types of the minuscule or “lower-case” form the ascending letters are b, d, f, h, i, j, k, l, t. All capitals are ascending letters.—'''Ascending node,''' that point of a planet’s orbit at which it passes the ecliptic to proceed northward. It is also called the ''northern node.''—'''Ascend-'''}}",
+   "c3s4": "{{smaller|'''ing ovule,''' in ''bot.'', an ovule that is attached above the base of the ovary and directed upward.—'''Ascending rhythm,''' in ''pros.'', a rhythm or movement composed of feet in which the metrically accented part (commonly called the ''arsis'') follows the metrically unaccented part (commonly called the ''thesis''), as an iambic or anapestic rhythm: opposed to ''descending rhythm'', such as the trochaic or dactylic.—'''Ascending signs,''' the signs Capricornus, Aquarius, Pisces, Aries, Taurus, and Gemini: so called because the sun, while in them, is approaching the north celestial pole, which is to our view elevated.—'''Ascending vessels,''' in ''anat.'', those vessels which carry the blood upward or toward the superior parts of the body.}}"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0358 c1f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     485,
+     290,
+     803,
+     746
+    ],
+    "caption": [
+     530,
+     751,
+     756,
+     775
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     475,
+     224,
+     803,
+     726
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4070,
+    "output_tokens": 87,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9566,
+    "output_tokens": 9677,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c1f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|Asarum|332|ascending}}</noinclude>{{nop}}'''Asarum''' (as′ạ-rum), ''n.''   [L., < Gr. ἄσαρον, asarabacca.]   A genus of apetalous exogenous plants, natural order ''Aristolochiaceæ'', low, stemless herbs, with dull-brownish flowers and aromatic root-stock. {{smaller|The few species are natives of the northern temperate zone. The asarabacca, ''A. Europæum'', was formerly used as a purgative and an emetic. The common American species, ''A. Canadense'', is known as wild ginger or snakeroot. Five other species are found in the Alleghanies and Sierra Nevada, and four or five in Asia.}} {{img float|file=century v01 p0358 c1f1.png|width=166px|align=right|cap={{smaller|''Asarum Europæum.''}}}}\n\n'''asbestic''' (as-bes′tik), ''a.''   [< ''asbestos'' + ''-ic.'']   Relating to or containing asbestos. Also ''asbestous''.\n\n'''asbestiform''' (as-bes′ti-fôrm), ''a.''   [< L. ''asbestos'' + ''forma'', shape.]   Having the form or appearance of asbestos.\n\n'''asbestine''' (as-bes′tin), ''a.''   [< Gr. ἀσβέστινος, < ἄσβεστος, asbestos.]   Pertaining to asbestos, or partaking of its nature and qualities; incombustible.\n\n'''asbestinite''' (as-bes′tin-īt), ''n.''   [< ''asbestine'' + ''-ite''<sup>2</sup>.]   Actinolite or strahlstein.—{{smaller|'''Calciferous asbestinite''', a variety of steatite.}}\n\n'''asbestoid''' (as-bes′toid), ''a.''   [< ''asbestos'' + ''-oid.'']   Resembling asbestos.\n\n'''asbestos, asbestus''' (as-bes′tọs, -tus), ''n.''   [Also ''asbest'' (< F. ''asbeste''), ''abbest'', ''abest'' (< OF. ''abeste''), also, and in ME., ''asbeston'', ''abeston'', ''abiston'', ''albeston'', etc., and in other corrupt forms (in earlier use only in sense 1), < L. ''asbestos'', used by Pliny in ref. to the mineral asbestos, which he believed to be vegetable (see def. 2), < Gr. ἀσβεστος, applied by Dioscorides to unslaked lime, lit. inextinguishable, unquenchable, < ἀ- priv. + σβεστός, verbal adj. of σβεννύναι, extinguish, quench.]   '''1†.''' A fabulous stone, which, once set on fire, could not be quenched: a notion due to observation of the effect of cold water in heating quicklime.\n{{smaller block|<poem>My mind is like to the ''Asbeston'' stone,\nWhich, if it once be heat in flames of fire,\nDenieth to becommen cold again.</poem>\n{{right|''Greene'', Alphonsus, ii.}}}}\n\n'''2.''' A supposed kind of flax, alleged to be incombustible. [An erroneous notion of the mineral. See 3.] —'''3.''' A fibrous variety of amphibole or hornblende, composed of separable filaments, with a silky luster; also, in popular use, a similar variety of serpentine called ''chrysotile''. {{smaller|Its fibers are sometimes delicate, flexible, and elastic, sometimes stiff and brittle, and when reduced to a powder are soft to the touch. Its colors are various shades of white, gray, or green, passing into brown, red, or black. It is incombustible, and is therefore used for making lamp-wicks, paper, firemen’s clothing, building materials, twine, and rope for packing steam-joints and pistons; it is also prepared as a cement for protecting heated surfaces, roofs, and floors, and for various fire-proofing purposes. It is mined in Canada, Vermont, Virginia, South Carolina, and in Staten Island, New York. Some varieties are compact, and take a fine polish; others are loose, like flax or silky wool. ''Ligniform asbestos'', or ''mountain-wood'', is a variety presenting an irregular filamentous structure, like wood. Other varieties of hornblende asbestos are ''rock-cork'', ''mountain-leather'', ''fossil paper'', and ''fossil flax''. A fine variety is called ''amiantus'' (which see).—'''Blue asbestos''', the mineral crocidolite (which see).}}\n\n'''asbestos-stove''' (as-bes′tos-stōv), ''n.'' A gas-stove with asbestos spread over the burners, so as to form an incandescent radiator.\n\n'''asbestous''' (as-bes′tus), ''a.''   [< ''asbestos'' + ''-ous.'']   Same as ''asbestic.''\n\n'''asbestus''', ''n.'' See ''asbestos.''\n\n'''asbolan, asbolane''' (as′bọ̄-lan, -lān), ''n.''   [< Gr. ἀσβολος, also ἀσβόλη, soot (cf. ψόλος, soot, smoke), + ''-an.'']   Earthy cobalt; wad containing oxid of cobalt. It is used in the manufacture of smalt. Also called ''asbolite.''\n\n'''asbolin, asboline''' (as′bọ̄-lin), ''n.''   [As ''asbol-an'' + ''-in''<sup>2</sup>.]   An oil-like, nitrogenous matter, acrid and bitter, obtained from the soot of wood.\n\n'''asbolite''' (as′bọ̄-lit), ''n.''   [As ''asbol-an'' + ''-ite''<sup>2</sup>.]   Same as ''asbolan.''\n\n'''Ascalabota''' (as″kạ-lạ-bō′tä̤), ''n. pl.''   [NL.: see ''Ascalabotes.'']   One of the major groups of the ''Lacertilia'', consisting of the geckos alone. See ''Gecco'' and ''Gecconidæ.'' Also called ''Nyctisauria.''\n\n'''Ascalabotes''' (as″kạ-lạ-bō′tēz), ''n.''   [NL., < Gr. ἀσκαλαβώτης, the spotted lizard, prob. ''Lacerta gecko.'']   A genus of nyctisaurian lizards, of the family ''Geccotidæ'' or ''Gecconidæ.'' {{smaller|''A. fascicularis'' is sometimes known by the name ''tarentola.'' The genus was originally, as used by Cuvier, coextensive with the family, or with the modern superfamily ''Ascalabota.''}}\n\n'''Ascalaphidæ''' (as-ka-laf′i-dē), ''n. pl.''   [NL., < ''Ascalaphus'' + ''-idæ''.]   A family of planipennine neuropterous insects, related to the ant-lions (''Myrmeleontidæ''), and characterized by long clavate antennæ and a comparatively short body. It corresponds to the genus ''Ascalaphus'' of Fabricius.\n\n'''Ascalaphus''' (as-kal′a-fus), ''n.''   [NL., < Gr. ἀσκάλαφος, an unknown bird, supposed to be a kind of owl.]   '''1.''' The typical genus of the family ''Ascalaphidæ.''—'''2.''' [''l. c.''] The specific name of a horned owl, ''Bubo ascalaphus'', of Europe and Africa.\n\n'''Ascalopax''' (as-kal′ō-paks), ''n.''   [NL. Cf. Gr. ἀσκαλώπας (sic), a bird, supposed to be the same as σκολόπαξ: see ''Scolopax.'']   In ''ornith.'': (''a'') An old form of ''Scolopax.'' (''b'') A synonym of ''Gallinago.''\n\n'''ascan''' (as′kạn), ''a.''   [< ''ascus'' + ''-an.'']   Of or pertaining to an ascus.   ''N. E. D.''\n\n'''ascance<sup>1</sup>†''', ''adv.'' See ''askance''<sup>1</sup>.\n\n'''ascance<sup>2</sup>†''', '''ascances†''', ''conj.'' See ''askance''<sup>2</sup>.\n\n'''ascant†''', ''adv.'' See ''askant.''\n\n'''ascarid''' (as′ka-rid), ''n.'' One of the ''Ascaridæ.''\n\n'''Ascaridæ''' (as-kar′i-dē), ''n. pl.''   [NL., < ''Ascaris'' + ''-idæ.'']   A family of worms, of the order ''Nematoda'' and class ''Nemathelmintha'', containing several genera of round-worms, or thread-worms, which are intestinal parasites of man and other animals. {{smaller|They have a cylindrical elastic body, tapering toward each end, and a trivalved head. The leading genera are ''Ascaris'' and ''Oxyuris.'' See cut under ''Oxyuris.''}}\n\n'''Ascaris''' (as′ka̤-ris), ''n.''   [NL., < Gr. ἀσκαρίς, a worm in the intestines.]   '''1.''' A genus of roundworms, typical of the family ''Ascaridæ'', infesting the small intestines. {{smaller|The best-known species, ''A. lumbricoides'', is so called from its resemblance to an earthworm in size, shape, and general appearance. It has a cylindrical body, with ends of equal size, a somewhat conoidal head, with trilabiate terminal mouth, and a filiform penis; the genital pore of the female is in the anterior part of the body. The female attains a length of from 12 to 14 inches; the male is less than half as long.}} '''2.''' [''l. c.''; pl. ''ascarides'' (as-kar′i-dēz).] A threadworm or pinworm of the rectum, formerly placed in this genus, now referred to a different genus, ''Oxyuris'' (which see).\n\n'''ascaunce<sup>1</sup>†''', ''adv.'' See ''askance''<sup>1</sup>.\n\n'''ascaunce<sup>2</sup>†''', '''ascaunces†''', ''conj.'' See ''askance''<sup>2</sup>.\n\n'''ascend''' (ạ-send′), ''v.''   [< ME. ''ascenden'', ''assenden'', < L. ''ascendere'', ''adscendere'', go up, climb up to, < ''ad'', to, + ''scandere'', climb: see ''scan'', and cf. ''descend'', ''transcend''.]   '''I.''' ''intrans.'' '''1.''' To move upward; mount; go up; rise, whether in air or water, or upon a material object.\n{{smaller block|<poem>In our proper motion we ''ascend''\nUp to our native seat: descent and fall\nTo us is adverse.</poem>\n{{right|''Milton'', P. L., ii. 75.}}}}\n'''2.''' To rise, in a figurative sense; proceed from an inferior to a superior degree, from mean to noble objects, from particulars to generals, etc.\n{{smaller block|By these steps we shall ''ascend'' to more just ideas of the glory of Jesus Christ. {{right|''Watts'', Improvement of Mind.}}}}\n{{smaller block|’Tis sometimes questioned whether morals have not declined as the arts have ''ascended''.\n{{right|''Emerson'', Works and Days.}}}} 3. To slope upward.—'''4.''' To go backward in the order of time; proceed from modern to ancient times: as, our inquiries ''ascend'' to the remotest antiquity.—'''5.''' To rise, as a star; appear above the horizon.\n{{smaller block|Higher yet that star ''ascends.''\n{{right|''Sir J. Bowring,'' Watchman, Tell us of the Night.}}}}\n'''6.''' In ''music,'' to rise in pitch; pass from any tone to one more acute. ='''Syn.''' {{smaller|To mount, soar, climb.}}\n\n'''II.''' ''trans.'' '''1.''' To go or move upward upon; climb: as, to ''ascend'' a hill or ladder; to ''ascend'' a tree.\n{{smaller block|We returned to the great tower, and ''ascended'' the steep flight of steps which led to its door of entrance.\n{{right|''R. Curzon,'' Monast. in the Levant, p. 77.}}}}\n'''2.''' To move upward along; go toward the source of: as, to ''ascend'' a river. ='''Syn.''' {{smaller|To mount, climb, scale.}}\n\n'''ascendable''' (a̤-sen′da̤-bl), ''a.''   [< ''ascend'' + ''-able.'']   Capable of being ascended. Also written ''ascendible.''\n\n'''ascendance, ascendence''' (a̤-sen′da̤ns, -de̤ns), ''n.'' Same as ''ascendancy.''   [Rare.]\n{{smaller block|Fear had too much ''ascendance'' on the mind.\n{{right|''Fielding,'' Joseph Andrews, ix.}}}}\n\n'''ascendancy, ascendency''' (a̤-sen′da̤n-si, -de̤n-si), ''n.''   [< ''ascendant, -ent,'' + ''-ancy, -ency.'']   The state of being in the ascendant; governing or controlling influence; domination.\n{{smaller block|The great Latin war, the war in which the first Decius gave himself for Rome, marks the last struggle of Rome’s immediate kinsfolk against her ''ascendency.''\n{{right|''E. A. Freeman,'' Amer. Lects., p. 317.}}}}\n\n{{smaller|='''Syn.''' ''Influence, Authority, Ascendancy'', etc. (see ''authority''), mastery, dominion, superiority, advantage, upper hand.}}\n\n'''ascendant, ascendent''' (a-sen′dant, -dent), ''a.'' and ''n.''   [< ME. ''ascendent, assendent'', n. (the form ''ascendant'' being later, after F. ''ascendant''), < L. ''ascenden(t-)s'', ppr. of ''ascendere'', go up, rise, ascend: see ''ascend''.]   '''I.''' ''a.'' '''1.''' Proceeding upward; rising; mounting.—'''2.''' Superior; predominant; surpassing: as, “an ''ascendant'' spirit over him,” ''South''.—'''3.''' In ''astrol.'', rising over the horizon, or nearly so.\n{{smaller block|The constellation of Pegasus . . . is about that time ''ascendant.''\n{{right|''Sir T. Browne'', Vulg. Err.}}}}\n'''4.''' In ''bot.'', same as ''ascending''.—'''5.''' In ''her.'', rising or issuing upward (the reverse of ''issuant''): as, rays of the sun ''ascendant'' from the bottom of the shield, from a fesse, etc.\n\n'''II.''' ''n.'' '''1.''' In ''astrol.'', the point of the ecliptic or the sign of the zodiac that is situated on the eastern horizon at any particular moment, as at the moment of birth or of the propounding of any question; the horoscope. {{smaller|The ''house of the ascendant'' includes that part of the zodiac which extends from 5° above the horizon to 25° below it. The ''lord of the ascendant'' is the planet that rules the ascendant. This planet is generally the significator of the querent, and the decision of the question depends upon its aspects. Hence, ''to be in the ascendant'' signifies to have commanding power or influence, to occupy a ruling position; and ''lord of the ascendant'', one who has possession of such power or influence: as, to rule, for a while, ''lord of the ascendant.''}}\n\n{{smaller block|The ''assendent'' sothly, as wel in alle natiuitez as in questiouns and elecciouns of tymes, is a thing which that thise Astrologiens gretly obseruen; wher-fore me semeth conuenient sin that I speke of the ''assendent'', to make of it special declaratioun. The ''assendent'' sothly, to take it at the largest, is thilke degree that assendeth at any of thise forseide tymes upon the est Orisonte; and there-fore, gif that any planet assende at that same tyme in thilke forseide degre of his longitude, Men seyn thilke planete is in horoscope.\n{{right|''Chaucer.''}}}}\n{{smaller block|Sciences that were then in their highest ''ascendant.''\n{{right|''Sir W. Temple.''}}}}\n{{smaller block|Marlborough had not, when Popery was ''in the ascendant'', crossed himself, shrived himself, done penance, taken the communion in one kind, and, as soon as a turn of fortune came, apostatized back again.\n{{right|''Macaulay'', Hist. Eng., xx.}}}}\n\n'''2.''' Superiority or commanding influence; predominance: especially in the phrase ''to gain the ascendant over'' one.\n{{smaller block|<poem>What star I know not, but some star, I find,\nHas given thee an ''ascendant'' o’er my mind.</poem>\n{{right|''Dryden'', tr. of Persius, Satires, v. 66.}}}}\n{{smaller block|She had art enough to gain an entire ''ascendant'' over the king.\n{{right|''Goldsmith'', Voltaire.}}}}\n{{smaller block|The secular authority, long unduly depressed, regained the ''ascendant'' with startling rapidity.\n{{right|''Macaulay'', Von Ranke.}}}}\n\n'''3.''' An ancestor, or one who precedes in genealogy or degrees of kindred: opposed to ''descendant.''\n{{smaller block|The succession of ''ascendants'' of the deceased, of his male paternal ancestors, if any survived him.\n{{right|''Maine'', Early Law and Custom, p. 111.}}}}\n\n'''4.''' In ''arch.'', one of the two sides or vertical members of the chambranle of a door or window.\n\n'''ascendence, ascendency, ascendent.''' See ''ascendance'', etc.\n\n'''ascender''' (a̤-sen′dėr), ''n.'' '''1.''' One who ascends. —'''2.''' An ascending letter. See ''ascending.''\n\n'''ascendible''' (a̤-sen′di-bl), ''a.''   [< L. ''ascendibilis'' (also, from pp. ''ascensus'', LL. ''ascensibilis''), < ''ascendere'', ascend: see ''ascend'' and ''-ible'', and cf. ''ascendable.'']   Same as ''ascendable.''\n\n'''ascending''' (a̤-sen′ding), ''p. a.'' '''1.''' Proceeding from a lower position to a higher; rising; moving upward; figuratively, proceeding from the less to the greater; proceeding from a later to an earlier time; rising from grave to acute. —'''2.''' In ''bot.'', growing upward, as the stem of a plant, which is called the ''ascending axis.'' {{smaller|Commonly restricted to the sense of growing up obliquely or in a curve from the base, in distinction from ''erect'', and from ''decumbent'' or ''horizontal.''—'''Acute ascending paralysis.''' See ''paralysis.''—'''Ascending latitude,''' the latitude of a planet when moving toward the north pole.—'''Ascending letter,''' in ''type-founding'', a letter which reaches to the extreme upper part of the body of the type. In Roman types of the minuscule or “lower-case” form the ascending letters are b, d, f, h, i, j, k, l, t. All capitals are ascending letters.—'''Ascending node,''' that point of a planet’s orbit at which it passes the ecliptic to proceed northward. It is also called the ''northern node.''—'''Ascending ovule,''' in ''bot.'', an ovule that is attached above the base of the ovary and directed upward.—'''Ascending rhythm,''' in ''pros.'', a rhythm or movement composed of feet in which the metrically accented part (commonly called the ''arsis'') follows the metrically unaccented part (commonly called the ''thesis''), as an iambic or anapestic rhythm: opposed to ''descending rhythm'', such as the trochaic or dactylic.—'''Ascending signs,''' the signs Capricornus, Aquarius, Pisces, Aries, Taurus, and Gemini: so called because the sun, while in them, is approaching the north celestial pole, which is to our view elevated.—'''Ascending vessels,''' in ''anat.'', those vessels which carry the blood upward or toward the superior parts of the body.}}<noinclude><references/></noinclude>"
+}

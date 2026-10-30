@@ -1,0 +1,237 @@
+{
+ "volume": 1,
+ "page_number": 480,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n479.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n479.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 743,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     101,
+     139,
+     2316,
+     178
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     101,
+     178,
+     841,
+     960
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     101,
+     960,
+     841,
+     2048
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     561,
+     1219,
+     836,
+     1961
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     101,
+     2048,
+     841,
+     3131
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     101,
+     3131,
+     841,
+     3297
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     841,
+     178,
+     1585,
+     1151
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     841,
+     1151,
+     1585,
+     2239
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     841,
+     2239,
+     1585,
+     3297
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1585,
+     178,
+     2316,
+     1052
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1585,
+     1052,
+     2316,
+     2144
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1585,
+     2144,
+     2316,
+     3202
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1585,
+     3202,
+     2316,
+     3297
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|barkometer|454|barnaby}}",
+   "c1s1": "¶\n'''barkometer''' (bär-kom′e-tėr), ''n.'' [Irreg. < ''bark''<sup>2</sup> + ''-o-meter'', < Gr. μέτρον, a measure.] A hydrometer used by tanners in ascertaining the strength of infusions of bark, or ooze.\n\n'''bark-paper''' (bärk′pā″pėr), ''n.'' Paper made from bark; specifically, paper made from the bark of ''Broussonetia papyrifera'', a tree common in southeastern Asia and Oceanica. Most of the paper used in Japan is of this kind.\n\n'''bark-pit''' (bärk′pit), ''n.'' A tan-pit, or pit for tanning or steeping leather.\n\n'''barkstone''' (bärk′stōn), ''n.'' The concrete musky secretion taken from the castor-glands of the beaver; castor; castoreum.\n\n'''bark-stove''' (bärk′stōv), ''n.'' Same as ''bark-bed''.\n\n'''bark-tanned''' (bärk′tand), ''a.'' Tanned by the slow action of oak, hemlock, or other barks, as leather, in contradistinction to that tanned wholly or in part by chemicals.\n\n'''barky''' (bär′ki), ''a.'' [< ''bark''<sup>2</sup> + ''-y''<sup>1</sup>.] Consisting of bark; containing bark; covered with bark.\n{{smaller block|The ''barky'' fingers of the elm. {{right|''Shak.'', M. N. D., iv. 1.}}}}\n\n'''bar-lathe''' (bär′lāᴛ̵ʜ), ''n.'' A lathe with a single",
+   "c1s2": "beam, usually having a triangular section, on which the heads or puppets slide.\n\n'''barley'''<sup>1</sup> (bär′li), ''n.'' [Early mod. E. also ''barly'', ''barlye'', Sc. ''barlick''; < ME. ''barly'', ''berley'', ''barlich'', < late AS. ''bærlic'', barley, appar. < ''bere'', E. ''bear''<sup>3</sup>, barley, + ''-līc'', E. ''-ly''<sup>1</sup>; the word appears first as an attrib., being formally an adj. The\n[[FIGURE]]\n{{c|{{smaller|Barley.<br>Spike of ''Hordeum vulgare.''}}}}\nIcel. ''barlak'', and W. ''barlys'', barley (as if < ''bara'', bread, + ''llysiau'', ''llysau'', plants, herbs), Corn. ''barliz'', are from E.] The name of a grain, and of the plant yielding it, belonging to the genus ''Hordeum'', natural order ''Gramineæ''. {{smaller|This grain has been cultivated from the very earliest times, when it formed an important article of food, as it still does where other cereals cannot be raised. It is largely employed for feeding animals, but its chief use is in the manufacture of fermented liquors, as beer, ale, and porter, and of whisky. No other grain can be cultivated through so great a range of climate, for it matures in Lapland, Norway, and Iceland, in 65° and 70° north latitude, and at an altitude of 11,000 feet in the Andes and Himalaya. The only cultivated species that has been found wild is the two-rowed or long-eared barley, ''H. distichon'', a native of western Asia, but in cultivation in prehistoric times, as was also the six-rowed species, or winter barley, ''H. hexastichon''. Of later origin is the common four-rowed species,}}",
+   "c1s3": "{{smaller block|spring or summer barley, ''H. vulgare.'' Fan-shaped barley, also called battledore- or sprat-barley, ''H. zeocriton,'' is perhaps only a cultivated form of the two-rowed species. Several varieties of these species are found in cultivation. The grain differs generally from wheat in retaining closely its husks; it is also somewhat less nutritious and palatable as an article of food. See ''Hordeum.''—'''Caustic barley,''' an early name for the seeds of ''Schœnocaulon officinale,'' called in medicine ''sabadilla,'' and used as a source of veratrin.—'''Mouse, wall, way,''' or '''wild barley,''' ''Hordeum murinum,'' a grass of little value.—'''Patent barley,''' the farina obtained by grinding pearl-barley.—'''Pearl-barley,''' the grain deprived of husk and pellicle and completely rounded by grinding. It is used in making broths and in soups.—'''Scotch, pot,''' or '''hulled barley,''' the grain deprived of the husk in a mill.}}\n\n'''barley<sup>2</sup>''' (bär′li), ''n.'' [A corruption of ''parley,'' q. v.] A cry used by children in certain games when a truce or temporary stop is desired. [Scotch.]\n\n'''barley-bigg''' (bär′li-big), ''n.'' Same as ''bigg.''\n\n'''barley-bird''' (bär′li-bėrd), ''n.'' [< ''barley''<sup>1</sup> + ''bird;'' applied to various birds which appear about the time of sowing barley.] '''1.''' A name of the European wryneck, ''Yunx torquilla.''—'''2.''' A name of some small bird: said to be either the siskin (''Chrysomitris spinus'') or the nightingale (''Daulias philomela''). [Eng.]\n\n'''barley-brake, barley-break''' (bär′li-brāk), ''n.'' [Sc. ''barley-bracks, barla-breikis;'' < ''barley'' (uncertain whether ''barley''<sup>1</sup> or ''barley''<sup>2</sup>, or from some other source) + ''break.''] An old game played by six persons, three of each sex, formed into couples. {{smaller|Three contiguous plots of ground were chosen, and one couple, placed in the middle plot, attempted to catch the others as they passed through. The middle plot was called ''hell,'' whence the allusions in old plays to “the last couple in hell.”}}",
+   "c1s4": "¶\n{{smaller block|<poem>She went abroad thereby\nAt ''barley-brake'' her sweet swift feet to try.</poem>\n{{right|''Sir P. Sidney'', Arcadia, i.}}}}\n{{smaller block|<poem>A thousand agues\nPlay at ''barley-break'' in my bones.</poem>\n{{right|''Massinger'', Parliament of Love, iv. 5.}}}}",
+   "c2s1": "¶\n'''barley-bree, barley-broo''' (bär′li-brē, -brö), ''n.'' Liquor made from malt, whether by brewing or distillation; ale or whisky. [Scotch.]\n\n'''barley-broth''' (bär′li-brôth), ''n.'' '''1.''' Broth made by boiling barley and meat with vegetables. [Scotch.] —'''2.''' Ale or beer: used jocosely, and also in contempt, as in the extract.\n{{smaller block|<poem>Can sodden water,\nA drench for sur-rein’d jades, their ''barley broth'',\nDecoct their cold blood to such valiant heat?</poem>\n{{right|''Shak.'', Hen. V., iii. 5.}}}}\n\n'''barleycorn''' (bär′li-kôrn), ''n.'' '''1.''' A grain of barley.—'''2.''' A measure equal to the third part of an inch; originally, the length of a grain of barley. {{smaller|A statute of Edward II. ({{sc|a. d.}} 1324) makes “three barley-corns round and dry” the definition of an inch.}}\n'''3.''' A measure equal to the breadth of a fine grain of barley, about 0.155 inch.—'''John''' or '''Sir John Barleycorn''', {{smaller|a humorous personification of the spirit of barley, or malt liquor: a usage of considerable antiquity.}}\n{{smaller block|<poem>''John Barleycorn'' was a hero bold\nOf noble enterprise,\nFor, if you do but taste his blood,\n’Twill make your courage rise.</poem>\n{{right|''Burns'', John Barleycorn.}}}}\n\n'''barley-fever''' (bär′li-fē″vėr), ''n.'' [< ''barley''<sup>1</sup> (as a source of strong drink) + ''fever''.] Illness caused by intemperance. [North. Eng.]\n\n'''barley-fork''' (bär′li-fôrk), ''n.'' A hand-fork with a guard at the root of the tines, used for gath-",
+   "c2s2": "ering up stalks of barley.\n\n'''barleyhood''' (bär′li-hu̇d), ''n.'' A fit of drunkenness, or of ill humor brought on by drinking. [Chiefly Scotch.]\n\n'''barley-island†''' (bär′li-ī″lạnd), ''n.'' An alehouse.\n\n'''barley-meal''' (bär′li-mēl), ''n.'' Meal or flour made from barley.\n\n'''barley-milk†''' (bär′li-milk), ''n.'' Gruel made with barley or barley-meal.\n\n'''barley-sick''' (bär′li-sik), ''a.'' [< ''barley''<sup>1</sup> (see ''barley-fever'') + ''sick.''] Intoxicated. [Scotch.]\n\n'''barley-sugar''' (bär′li-shu̇g″ėr), ''n.'' Sugar boiled (formerly in a decoction of barley) till it becomes brittle and candied.\n\n'''barley-water''' (bär′li-wâ″tėr), ''n.'' A decoction of barley used as a demulcent nutritious drink in fevers, and in inflammations of the air-passages and of the alimentary canal.\n\n'''barley-wine''' (bär′li-wīn), ''n.'' Ale or beer.\n\n'''bar-lift''' (bär′lift), ''n.'' A short metal bar fastened to a heavy window as a convenience in lifting it.\n\n'''barling†''', ''n.'' [North. E. and Sc., < Sw. ''bärling'', a pole, < ''bära'' = E. ''bear''<sup>1</sup>, q. v.] A pole.\n\n'''bar-loom''' (bär′löm), ''n.'' A ribbon-loom.\n\n'''barm<sup>1</sup>†''', ''n.'' [ME. ''barme'', ''barm'', ''berm'', < AS. ''bearm'' (ONorth. ''barm'' = OS. OFries. OHG. ''barm'' = Icel. ''barmr'' = Sw. Dan. ''barm'' = Goth. ''barms''), the bosom, with formative ''-m'', < ''beran'', E. ''bear''<sup>1</sup>, q. v.] The bosom; the lap.\n\n'''barm<sup>2</sup>''' (bärm), ''n.'' [< ME. ''barme'', ''berme'', < AS. ''beorma'' = Fries. ''berme'', ''barm'' = MLG. ''berm'', ''barm'', LG. ''borme'', ''barme'', ''barm'' (> G. ''bärme'') =",
+   "c2s3": "Sw. ''bärma'' = Dan. ''bærme;'' prob. akin to L. ''fermentum'', yeast, < ''fervere'', boil: see ''ferment'', ''n.''] The scum or foam rising upon beer or other malt liquors when fermenting; yeast. {{smaller|It is used as leaven in bread to make it swell, causing it to become softer, lighter, and more delicate. It may be used in liquors to make them ferment or work. It is a fungus, ''Saccharomyces cerevisiæ''. See ''yeast'' and ''fermentation''.}}\n\n'''barm<sup>3</sup>''' (bärm), ''n.'' Same as ''berm''.\n\n'''Barmacide''', ''n.'' and ''a.'' See ''Barmecide''.\n\n'''bar-magnet''' (bär′mag″net), ''n.'' An artificial steel magnet made in the form of a straight and rather slender bar.\n\n'''barmaid''' (bär′mād), ''n.'' A maid or woman who attends the bar of an inn or other place of refreshment.\n\n'''barman''' (bär′man), ''n.''; pl. ''barmen'' (-men). '''1†.''' A barrister.—'''2.''' A barkeeper or bartender.\n\n'''barmaster''' (bär′mȧs″tėr), ''n.'' [Reduced from earlier ''barghmaster'', ''barge master'', prob. < G. ''bergmeister'', a surveyor of mines, < ''berg'', a hill, a mine (= E. ''barrow:'' see ''barrow''<sup>1</sup> and ''bargh''), + ''meister'' = E. ''master''. A number of E. mining terms are of G. origin. Cf. ''barmote''.] In ''mining'', the title of an officer who acts as manager, agent, and surveyor, representing the interests of the proprietor or ‘lord,’ and at the same time looking after those of the miner. Also called ''bailiff'', ''bergmaster'', and ''burghmaster''. [Derbyshire, Eng.]\n\n'''barmbrack''' (bärm′brak), ''n.'' [A corruption of Ir. ''bairigen breac'', speckled cake: ''bairigen'', ''bairghean'', ''bairīn'', a cake; ''breac'', speckled, spotted.] A currant-bun. [Anglo-Irish.]",
+   "c3s1": "¶\n'''barm-cloth†''', ''n.'' An apron. ''Chaucer.''\n\n'''Barmecidal''' (bär′mẹ̄-sī-da̤l), ''a.'' Same as ''Barmecide.''\n\n'''Barmecide, Barmacide''' (bär′mẹ̄-sīd, -mạ-sīd), ''n.'' and ''a.'' [< one of the ''Barmecidæ'' (a Latinized form, with patronymic suffix ''-idæ'') or ''Barmecides'', a noble Persian family founded by ''Barmek'' or ''Barmak'', and having great power under the Abbasside califs.] '''I.''' ''n.'' One who offers imaginary food or illusory benefits: in allusion to the story, told in the Arabian Nights, of a member of the Barmecide family of Bagdad, who on one occasion placed a succession of empty dishes before a beggar, pretending that they contained a sumptuous repast, a fiction which the beggar humorously accepted.\n\n'''II.''' ''a.'' Like, or like the entertainment of, the Barmecide of the story; hence, unreal, sham, illusory, etc.: as, “my ''Barmecide'' friend,” ''Thackeray;'' a ''Barmecide'' feast or repast.\n{{smaller block|It is a ''Barmecide'' Feast; a pleasant field for the imagination to rove in.\n{{right|''Dickens'', Amer. Notes.}}}}\n\n'''barmilian''' (bär-mil′ya̤n), ''n.'' [Origin unknown.] An old name for a kind of fustian goods largely exported from England. ''E. H. Knight.''\n\n'''bar-mining''' (bär′mī″ning), ''n.'' In ''placer-mining'', the washing of the sand or gravel in the bed",
+   "c3s2": "of a stream, when laid bare by the diminution of the stream at low water, or by building a flume, and thus carrying the water to one side of the channel. The latter method is more commonly called ''fluming''. [California.]\n\n'''barmkin''' (bärm′kin), ''n.'' [Also spelled ''barmkyn, barnekin, barnkyn''; < ME. ''barmeken, barnekynch''; origin uncertain; possibly < ''barm''<sup>3</sup> = ''berm'', brim, border, edge (the forms in ''barn-'' being then corruptions), + ''-kin''; but more prob. all corruptions of ''barbican''.] The rampart or outer fortification of a castle. [Lowland Scotch and North. Eng.]\n{{smaller block|<poem>And broad and bloody rose the sun,\nAnd on the ''barmkyn'' shone.</poem>\n{{right|''Old ballad'', in Boucher’s Border Minstrelsy, ii. 341.}}\n<poem>Lord Soulis he sat in Hermitage Castle,\nAnd Redcap was not by;\nAnd he called on a page, who was witty and sage,\nTo go to the ''barmkin'' high.</poem>\n{{right|''J. Leyden'', Lord Soulis, in N. and Q., 6th ser., XI. 386.}}\nBattlements and ''barmkins'' and all the other appurtenances of Strength, as such places were called. {{right|''Lever.''}}}}\n\n'''barmote''' (bär′mōt), ''n.'' [A reduction of earlier ''bargemote'', also ''barghmote'' and ''berghmote'', < G. ''berg'', a hill, mine, + E. ''mote'', meeting. Cf. ''barmaster''.] A court established in the reign of Edward III. and held twice a year in Derbyshire, England, in which matters connected with mining are considered. Also written ''bergmote''.\n\n'''barmy''' (bär′mi), ''a.'' [< ''barm''<sup>2</sup> + ''-y''<sup>1</sup>.] Containing or resembling barm or yeast; frothy.\n{{smaller block|<poem>Of windy cider and of ''barmy'' beer.</poem>\n{{right|''Dryden'', tr. of Virgil’s Georgics, iii.}}\n<poem>Why, thou bottle-ale,\nThou ''barmie'' froth!</poem>}}",
+   "c3s3": "{{smaller block|{{right|''Marston'', Scourge of Villanie, vi.}}}}\n\n'''barmy-brained''' (bär′mi-brānd), ''a.'' Light-headed; giddy.\n\n'''barn'''<sup>1</sup> (bärn), ''n.'' [< ME. ''barn, bern,'' < AS. ''bern,'' a contr. of ''berern, bere-ern,'' as in ONorth., < ''bere,'' barley (E. ''bear''<sup>3</sup>), + ''ern,'' a place.] A covered building designed for the storage of grain, hay, flax, or other farm-produce. In America barns also usually contain stabling for horses and cattle.\n\n'''barn'''<sup>1</sup> (bärn), ''v. t.'' [< ''barn''<sup>1</sup>, ''n.''] To store up in a barn. ''Shak.'', Lucrece, l. 859.\n{{smaller block|Men . . . often ''barn'' up the chaff, and burn up the grain.\n{{right|''Fuller'', Good Thoughts, p. 110.}}}}\n\n'''barn'''<sup>2</sup>'''†''', ''n.'' [Early mod. and dial. E., < Sc. ''bairn,'' q. v., < ME. ''beern, bern,'' < AS. ''bearn,'' a child. See ''bairn.''] A child.\n{{smaller block|Mercy on ’s, a ''barn''; a very pretty ''barn!'' A boy or a child, I wonder?\n{{right|''Shak.'', W. T., iii. 3.}}}}\n\n'''barnabee''' (bär′na̤-bē), ''n.'' [E. dial. (Suffolk); prob. in allusion to Barnaby day. See ''Barnaby-bright.''] The lady-bird.\n\n'''Barnabite''' (bär′na̤-bīt), ''n.'' [= F. ''Barnabite,'' < LL. ''Barnabas,'' < Gr. Βαρνάβας, a Hebrew name translated “son of consolation” (Acts iv. 36), more accurately “son of exhortation” or “son of prophecy.”] In the ''Rom. Cath. Ch.'', a member of a religious congregation properly styled “Regular Clerks of the Congregation of St. Paul,” but having their popular designation from the church of St. Barnabas in Milan, which was granted to them in 1545, soon after the foundation of the congregation. Their princi-",
+   "c3s4": "pal house is now in Rome.\n\n'''barnaby†''' (bär′na̤-bi), ''n.'' [Prob. connected with the celebration of Barnaby day, < ''Barna-''"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0480 c1f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     573,
+     1231,
+     824,
+     1949
+    ],
+    "caption": [
+     573,
+     1955,
+     791,
+     2024
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     570,
+     1175,
+     799,
+     1958
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4422,
+    "output_tokens": 90,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9564,
+    "output_tokens": 9330,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c1f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|barkometer|454|barnaby}}</noinclude>{{nop}}'''barkometer''' (bär-kom′e-tėr), ''n.''   [Irreg. < ''bark''<sup>2</sup> + ''-o-meter'', < Gr. μέτρον, a measure.]   A hydrometer used by tanners in ascertaining the strength of infusions of bark, or ooze.\n\n'''bark-paper''' (bärk′pā″pėr), ''n.'' Paper made from bark; specifically, paper made from the bark of ''Broussonetia papyrifera'', a tree common in southeastern Asia and Oceanica. Most of the paper used in Japan is of this kind.\n\n'''bark-pit''' (bärk′pit), ''n.'' A tan-pit, or pit for tanning or steeping leather.\n\n'''barkstone''' (bärk′stōn), ''n.'' The concrete musky secretion taken from the castor-glands of the beaver; castor; castoreum.\n\n'''bark-stove''' (bärk′stōv), ''n.'' Same as ''bark-bed''.\n\n'''bark-tanned''' (bärk′tand), ''a.'' Tanned by the slow action of oak, hemlock, or other barks, as leather, in contradistinction to that tanned wholly or in part by chemicals.\n\n'''barky''' (bär′ki), ''a.''   [< ''bark''<sup>2</sup> + ''-y''<sup>1</sup>.]   Consisting of bark; containing bark; covered with bark.\n{{smaller block|The ''barky'' fingers of the elm. {{right|''Shak.'', M. N. D., iv. 1.}}}}\n\n'''bar-lathe''' (bär′lāᴛ̵ʜ), ''n.'' A lathe with a single beam, usually having a triangular section, on which the heads or puppets slide.\n\n'''barley'''<sup>1</sup> (bär′li), ''n.''   [Early mod. E. also ''barly'', ''barlye'', Sc. ''barlick''; < ME. ''barly'', ''berley'', ''barlich'', < late AS. ''bærlic'', barley, appar. < ''bere'', E. ''bear''<sup>3</sup>, barley, + ''-līc'', E. ''-ly''<sup>1</sup>; the word appears first as an attrib., being formally an adj. The {{img float|file=century v01 p0480 c1f1.png|width=133px|align=right|cap={{smaller|Barley.<br>Spike of ''Hordeum vulgare.''}}}} Icel. ''barlak'', and W. ''barlys'', barley (as if < ''bara'', bread, + ''llysiau'', ''llysau'', plants, herbs), Corn. ''barliz'', are from E.]   The name of a grain, and of the plant yielding it, belonging to the genus ''Hordeum'', natural order ''Gramineæ''. {{smaller|This grain has been cultivated from the very earliest times, when it formed an important article of food, as it still does where other cereals cannot be raised. It is largely employed for feeding animals, but its chief use is in the manufacture of fermented liquors, as beer, ale, and porter, and of whisky. No other grain can be cultivated through so great a range of climate, for it matures in Lapland, Norway, and Iceland, in 65° and 70° north latitude, and at an altitude of 11,000 feet in the Andes and Himalaya. The only cultivated species that has been found wild is the two-rowed or long-eared barley, ''H. distichon'', a native of western Asia, but in cultivation in prehistoric times, as was also the six-rowed species, or winter barley, ''H. hexastichon''. Of later origin is the common four-rowed species, spring or summer barley, ''H. vulgare.'' Fan-shaped barley, also called battledore- or sprat-barley, ''H. zeocriton,'' is perhaps only a cultivated form of the two-rowed species. Several varieties of these species are found in cultivation. The grain differs generally from wheat in retaining closely its husks; it is also somewhat less nutritious and palatable as an article of food. See ''Hordeum.''—'''Caustic barley,''' an early name for the seeds of ''Schœnocaulon officinale,'' called in medicine ''sabadilla,'' and used as a source of veratrin.—'''Mouse, wall, way,''' or '''wild barley,''' ''Hordeum murinum,'' a grass of little value.—'''Patent barley,''' the farina obtained by grinding pearl-barley.—'''Pearl-barley,''' the grain deprived of husk and pellicle and completely rounded by grinding. It is used in making broths and in soups.—'''Scotch, pot,''' or '''hulled barley,''' the grain deprived of the husk in a mill.}}\n\n'''barley<sup>2</sup>''' (bär′li), ''n.''   [A corruption of ''parley,'' q. v.]   A cry used by children in certain games when a truce or temporary stop is desired. [Scotch.]\n\n'''barley-bigg''' (bär′li-big), ''n.'' Same as ''bigg.''\n\n'''barley-bird''' (bär′li-bėrd), ''n.''   [< ''barley''<sup>1</sup> + ''bird;'' applied to various birds which appear about the time of sowing barley.]   '''1.''' A name of the European wryneck, ''Yunx torquilla.''—'''2.''' A name of some small bird: said to be either the siskin (''Chrysomitris spinus'') or the nightingale (''Daulias philomela''). [Eng.]\n\n'''barley-brake, barley-break''' (bär′li-brāk), ''n.''   [Sc. ''barley-bracks, barla-breikis;'' < ''barley'' (uncertain whether ''barley''<sup>1</sup> or ''barley''<sup>2</sup>, or from some other source) + ''break.'']   An old game played by six persons, three of each sex, formed into couples. {{smaller|Three contiguous plots of ground were chosen, and one couple, placed in the middle plot, attempted to catch the others as they passed through. The middle plot was called ''hell,'' whence the allusions in old plays to “the last couple in hell.”}}\n\n{{smaller block|<poem>She went abroad thereby\nAt ''barley-brake'' her sweet swift feet to try.</poem>\n{{right|''Sir P. Sidney'', Arcadia, i.}}}}\n{{smaller block|<poem>A thousand agues\nPlay at ''barley-break'' in my bones.</poem>\n{{right|''Massinger'', Parliament of Love, iv. 5.}}}}\n\n'''barley-bree, barley-broo''' (bär′li-brē, -brö), ''n.'' Liquor made from malt, whether by brewing or distillation; ale or whisky. [Scotch.]\n\n'''barley-broth''' (bär′li-brôth), ''n.'' '''1.''' Broth made by boiling barley and meat with vegetables. [Scotch.] —'''2.''' Ale or beer: used jocosely, and also in contempt, as in the extract.\n{{smaller block|<poem>Can sodden water,\nA drench for sur-rein’d jades, their ''barley broth'',\nDecoct their cold blood to such valiant heat?</poem>\n{{right|''Shak.'', Hen. V., iii. 5.}}}}\n\n'''barleycorn''' (bär′li-kôrn), ''n.'' '''1.''' A grain of barley.—'''2.''' A measure equal to the third part of an inch; originally, the length of a grain of barley. {{smaller|A statute of Edward II. ({{sc|a. d.}} 1324) makes “three barley-corns round and dry” the definition of an inch.}}\n'''3.''' A measure equal to the breadth of a fine grain of barley, about 0.155 inch.—'''John''' or '''Sir John Barleycorn''', {{smaller|a humorous personification of the spirit of barley, or malt liquor: a usage of considerable antiquity.}}\n{{smaller block|<poem>''John Barleycorn'' was a hero bold\nOf noble enterprise,\nFor, if you do but taste his blood,\n’Twill make your courage rise.</poem>\n{{right|''Burns'', John Barleycorn.}}}}\n\n'''barley-fever''' (bär′li-fē″vėr), ''n.''   [< ''barley''<sup>1</sup> (as a source of strong drink) + ''fever''.]   Illness caused by intemperance. [North. Eng.]\n\n'''barley-fork''' (bär′li-fôrk), ''n.'' A hand-fork with a guard at the root of the tines, used for gathering up stalks of barley.\n\n'''barleyhood''' (bär′li-hu̇d), ''n.'' A fit of drunkenness, or of ill humor brought on by drinking. [Chiefly Scotch.]\n\n'''barley-island†''' (bär′li-ī″lạnd), ''n.'' An alehouse.\n\n'''barley-meal''' (bär′li-mēl), ''n.'' Meal or flour made from barley.\n\n'''barley-milk†''' (bär′li-milk), ''n.'' Gruel made with barley or barley-meal.\n\n'''barley-sick''' (bär′li-sik), ''a.''   [< ''barley''<sup>1</sup> (see ''barley-fever'') + ''sick.'']   Intoxicated. [Scotch.]\n\n'''barley-sugar''' (bär′li-shu̇g″ėr), ''n.'' Sugar boiled (formerly in a decoction of barley) till it becomes brittle and candied.\n\n'''barley-water''' (bär′li-wâ″tėr), ''n.'' A decoction of barley used as a demulcent nutritious drink in fevers, and in inflammations of the air-passages and of the alimentary canal.\n\n'''barley-wine''' (bär′li-wīn), ''n.'' Ale or beer.\n\n'''bar-lift''' (bär′lift), ''n.'' A short metal bar fastened to a heavy window as a convenience in lifting it.\n\n'''barling†''', ''n.''   [North. E. and Sc., < Sw. ''bärling'', a pole, < ''bära'' = E. ''bear''<sup>1</sup>, q. v.]   A pole.\n\n'''bar-loom''' (bär′löm), ''n.'' A ribbon-loom.\n\n'''barm<sup>1</sup>†''', ''n.''   [ME. ''barme'', ''barm'', ''berm'', < AS. ''bearm'' (ONorth. ''barm'' = OS. OFries. OHG. ''barm'' = Icel. ''barmr'' = Sw. Dan. ''barm'' = Goth. ''barms''), the bosom, with formative ''-m'', < ''beran'', E. ''bear''<sup>1</sup>, q. v.]   The bosom; the lap.\n\n'''barm<sup>2</sup>''' (bärm), ''n.''   [< ME. ''barme'', ''berme'', < AS. ''beorma'' = Fries. ''berme'', ''barm'' = MLG. ''berm'', ''barm'', LG. ''borme'', ''barme'', ''barm'' (> G. ''bärme'') = Sw. ''bärma'' = Dan. ''bærme;'' prob. akin to L. ''fermentum'', yeast, < ''fervere'', boil: see ''ferment'', ''n.'']   The scum or foam rising upon beer or other malt liquors when fermenting; yeast. {{smaller|It is used as leaven in bread to make it swell, causing it to become softer, lighter, and more delicate. It may be used in liquors to make them ferment or work. It is a fungus, ''Saccharomyces cerevisiæ''. See ''yeast'' and ''fermentation''.}}\n\n'''barm<sup>3</sup>''' (bärm), ''n.'' Same as ''berm''.\n\n'''Barmacide''', ''n.'' and ''a.'' See ''Barmecide''.\n\n'''bar-magnet''' (bär′mag″net), ''n.'' An artificial steel magnet made in the form of a straight and rather slender bar.\n\n'''barmaid''' (bär′mād), ''n.'' A maid or woman who attends the bar of an inn or other place of refreshment.\n\n'''barman''' (bär′man), ''n.''; pl. ''barmen'' (-men). '''1†.''' A barrister.—'''2.''' A barkeeper or bartender.\n\n'''barmaster''' (bär′mȧs″tėr), ''n.''   [Reduced from earlier ''barghmaster'', ''barge master'', prob. < G. ''bergmeister'', a surveyor of mines, < ''berg'', a hill, a mine (= E. ''barrow:'' see ''barrow''<sup>1</sup> and ''bargh''), + ''meister'' = E. ''master''. A number of E. mining terms are of G. origin. Cf. ''barmote''.]   In ''mining'', the title of an officer who acts as manager, agent, and surveyor, representing the interests of the proprietor or ‘lord,’ and at the same time looking after those of the miner. Also called ''bailiff'', ''bergmaster'', and ''burghmaster''. [Derbyshire, Eng.]\n\n'''barmbrack''' (bärm′brak), ''n.''   [A corruption of Ir. ''bairigen breac'', speckled cake: ''bairigen'', ''bairghean'', ''bairīn'', a cake; ''breac'', speckled, spotted.]   A currant-bun. [Anglo-Irish.]\n\n'''barm-cloth†''', ''n.'' An apron.   ''Chaucer.''\n\n'''Barmecidal''' (bär′mẹ̄-sī-da̤l), ''a.'' Same as ''Barmecide.''\n\n'''Barmecide, Barmacide''' (bär′mẹ̄-sīd, -mạ-sīd), ''n.'' and ''a.''   [< one of the ''Barmecidæ'' (a Latinized form, with patronymic suffix ''-idæ'') or ''Barmecides'', a noble Persian family founded by ''Barmek'' or ''Barmak'', and having great power under the Abbasside califs.]   '''I.''' ''n.'' One who offers imaginary food or illusory benefits: in allusion to the story, told in the Arabian Nights, of a member of the Barmecide family of Bagdad, who on one occasion placed a succession of empty dishes before a beggar, pretending that they contained a sumptuous repast, a fiction which the beggar humorously accepted.\n\n'''II.''' ''a.'' Like, or like the entertainment of, the Barmecide of the story; hence, unreal, sham, illusory, etc.: as, “my ''Barmecide'' friend,” ''Thackeray;'' a ''Barmecide'' feast or repast.\n{{smaller block|It is a ''Barmecide'' Feast; a pleasant field for the imagination to rove in.\n{{right|''Dickens'', Amer. Notes.}}}}\n\n'''barmilian''' (bär-mil′ya̤n), ''n.''   [Origin unknown.]   An old name for a kind of fustian goods largely exported from England.   ''E. H. Knight.''\n\n'''bar-mining''' (bär′mī″ning), ''n.'' In ''placer-mining'', the washing of the sand or gravel in the bed of a stream, when laid bare by the diminution of the stream at low water, or by building a flume, and thus carrying the water to one side of the channel. The latter method is more commonly called ''fluming''. [California.]\n\n'''barmkin''' (bärm′kin), ''n.''   [Also spelled ''barmkyn, barnekin, barnkyn''; < ME. ''barmeken, barnekynch''; origin uncertain; possibly < ''barm''<sup>3</sup> = ''berm'', brim, border, edge (the forms in ''barn-'' being then corruptions), + ''-kin''; but more prob. all corruptions of ''barbican''.]   The rampart or outer fortification of a castle. [Lowland Scotch and North. Eng.]\n{{smaller block|<poem>And broad and bloody rose the sun,\nAnd on the ''barmkyn'' shone.</poem>\n{{right|''Old ballad'', in Boucher’s Border Minstrelsy, ii. 341.}}}}\n{{smaller block|<poem>Lord Soulis he sat in Hermitage Castle,\nAnd Redcap was not by;\nAnd he called on a page, who was witty and sage,\nTo go to the ''barmkin'' high.</poem>\n{{right|''J. Leyden'', Lord Soulis, in N. and Q., 6th ser., XI. 386.}}}}\n{{smaller block|Battlements and ''barmkins'' and all the other appurtenances of Strength, as such places were called. {{right|''Lever.''}}}}\n\n'''barmote''' (bär′mōt), ''n.''   [A reduction of earlier ''bargemote'', also ''barghmote'' and ''berghmote'', < G. ''berg'', a hill, mine, + E. ''mote'', meeting. Cf. ''barmaster''.]   A court established in the reign of Edward III. and held twice a year in Derbyshire, England, in which matters connected with mining are considered. Also written ''bergmote''.\n\n'''barmy''' (bär′mi), ''a.''   [< ''barm''<sup>2</sup> + ''-y''<sup>1</sup>.]   Containing or resembling barm or yeast; frothy.\n{{smaller block|<poem>Of windy cider and of ''barmy'' beer.</poem>\n{{right|''Dryden'', tr. of Virgil’s Georgics, iii.}}}}\n{{smaller block|<poem>Why, thou bottle-ale,\nThou ''barmie'' froth!</poem>}}\n{{smaller block|{{right|''Marston'', Scourge of Villanie, vi.}}}}\n\n'''barmy-brained''' (bär′mi-brānd), ''a.'' Light-headed; giddy.\n\n'''barn'''<sup>1</sup> (bärn), ''n.''   [< ME. ''barn, bern,'' < AS. ''bern,'' a contr. of ''berern, bere-ern,'' as in ONorth., < ''bere,'' barley (E. ''bear''<sup>3</sup>), + ''ern,'' a place.]   A covered building designed for the storage of grain, hay, flax, or other farm-produce. In America barns also usually contain stabling for horses and cattle.\n\n'''barn'''<sup>1</sup> (bärn), ''v. t.''   [< ''barn''<sup>1</sup>, ''n.'']   To store up in a barn.   ''Shak.'', Lucrece, l. 859.\n{{smaller block|Men . . . often ''barn'' up the chaff, and burn up the grain.\n{{right|''Fuller'', Good Thoughts, p. 110.}}}}\n\n'''barn'''<sup>2</sup>'''†''', ''n.''   [Early mod. and dial. E., < Sc. ''bairn,'' q. v., < ME. ''beern, bern,'' < AS. ''bearn,'' a child. See ''bairn.'']   A child.\n{{smaller block|Mercy on ’s, a ''barn''; a very pretty ''barn!'' A boy or a child, I wonder?\n{{right|''Shak.'', W. T., iii. 3.}}}}\n\n'''barnabee''' (bär′na̤-bē), ''n.''   [E. dial. (Suffolk); prob. in allusion to Barnaby day. See ''Barnaby-bright.'']   The lady-bird.\n\n'''Barnabite''' (bär′na̤-bīt), ''n.''   [= F. ''Barnabite,'' < LL. ''Barnabas,'' < Gr. Βαρνάβας, a Hebrew name translated “son of consolation” (Acts iv. 36), more accurately “son of exhortation” or “son of prophecy.”]   In the ''Rom. Cath. Ch.'', a member of a religious congregation properly styled “Regular Clerks of the Congregation of St. Paul,” but having their popular designation from the church of St. Barnabas in Milan, which was granted to them in 1545, soon after the foundation of the congregation. Their principal house is now in Rome.\n\n'''barnaby†''' (bär′na̤-bi), ''n.''   [Prob. connected with the celebration of Barnaby day, < ''Barna-''<noinclude><references/></noinclude>"
+}

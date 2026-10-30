@@ -1,0 +1,271 @@
+{
+ "volume": 1,
+ "page_number": 224,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n223.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n223.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 746,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     96,
+     138,
+     2319,
+     178
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     96,
+     178,
+     839,
+     1163
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     96,
+     1163,
+     839,
+     2234
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     114,
+     1161,
+     809,
+     1366
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     96,
+     2234,
+     839,
+     3286
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     839,
+     178,
+     1584,
+     1210
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     839,
+     1210,
+     1584,
+     1556
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     839,
+     1556,
+     1584,
+     2539
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     845,
+     1875,
+     1353,
+     2367
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     839,
+     2539,
+     1584,
+     3286
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1584,
+     178,
+     2319,
+     1023
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1584,
+     1023,
+     2319,
+     2102
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1584,
+     2102,
+     2319,
+     3128
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1584,
+     3128,
+     2319,
+     3286
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|Anarnacinæ|198|anathema}}",
+   "c1s1": "¶\n'''Anarnacinæ''' (an-är-nạ̄-sī′nē), ''n. pl.'' [NL., < ''Anarnacus'' + ''-inæ.''] A subfamily of toothed cetaceans, of the family ''Ziphiidæ.'' {{smaller|It is distinguished from ''Ziphiinæ'' by the greatly developed incurved lateral crests of the maxillary bone. It contains the species commonly referred to the genus ''Hyperoödon'', which is a synonym of ''Anarnacus.''}}\n\n'''Anarnacus''' (an-är′nạ̄-kus), ''n.'' [NL., < ''anarnak'', given as a native name of a kind of porpoise.] A genus of toothed cetaceans, giving name to the subfamily ''Anarnacinæ:'' synonymous with ''Hyperoödon.''\n\n'''anarrhexis''' (an-ạ-rek′sis), ''n.'' [NL., < Gr. ἀνάρρηξις, a breaking up, < ἀναρρηγνύναι, break up, break through, < ἀνά, up, + ῥηγνύναι, break, akin to E. ''break'', q. v.] In ''surg.'', the rebreaking of a united fracture.\n\n'''anarrhichadid''' (an-ạ-rik′ạ-did), ''n.'' A fish of the family ''Anarrhichadidæ.''\n\n'''Anarrhichadidæ''' (an″a-ri-kad′i-dē), ''n. pl.'' [NL., < ''Anarrhichas'' (''-chad-'') + ''-idæ.''] A family of blennioid fishes, typified by the genus ''Anarrhichas.''\n\n'''Anarrhichadini''' (an-ạ-rik-ạ-dī′nī), ''n. pl.'' [NL., < ''Anarrhichas'' (''-chad-'') + ''-ini.''] A subfamily of blennioid fishes, same as the family ''Anarrhichadidæ.'' ''Bonaparte.''\n\n'''Anarrhichas''' (an-ar′i-kas), ''n.'' [NL., < Gr. ἀναρριχᾶσθαι, clamber up with hands and feet, < ἀνά, up, + ἀρριχᾶσθαι (only in comp.), clamber.] A genus of blennioid fishes, typical of the family",
+   "c1s2": "[[FIGURE]]\n{{c|{{smaller|Wolf-fish (''Anarrhichas lupus'').}}}}\n''Anarrhichadidæ'', containing ''A. lupus'', the common wolf-fish (which see), and several closely related species. Also written ''Anarhichas'', ''Anarrhicas'', ''Anarhicas''.\n\n'''Anarrhynchus''', ''n.'' See ''Anarhynchus''.\n\n'''anarthria''' (an-är′thri-ä̤), ''n.'' [NL., < Gr. ἀναρθρία, lit. absence of joints, used only in fig. sense want of strength, < Gr. ἄναρθρος, without joints, not articulated, inarticulate: see ''anarthrous''.] '''1.''' Absence of joints or of jointed limbs.—'''2.''' Inability to articulate distinctly in speaking, dependent on a central nervous defect, but not involving paralysis of the muscles of articulation.\n\n'''anarthric''' (an-är′thrik), ''a.'' [< ''anarthria'' + ''-ic''.] Pertaining to anarthria; suffering from anarthria.\n\n'''Anarthropoda''' (an-är-throp′ọ̄-dä̤), ''n. pl.'' [NL., < Gr. ἀν- priv. + ἄρθρον, a joint, + πούς (ποδ-) = E. ''foot''. See ''Arthropoda''.] In ''zoöl.'', in some systems of classification, one of two prime divisions (''Arthropoda'' being the other) of the ''Annulosa'' or ringed animals, namely, those which have no articulated appendages or jointed limbs, such as the ''Annelida'' and the ''Gephyrea''. {{smaller|It is conterminous with these two classes, together with the ''Chætognatha'' (''Sagitta''). The term is not now current, ''Ar-''}}",
+   "c1s3": "{{smaller|''thropoda'' being ranked as a subkingdom, including crustaceans, myriapods, arachnids, and insects, and all anarthropodous ringed animals being contrasted with them under the name ''Vermes''.}}\n\n'''anarthropodous''' (an-är-throp′ọ̄-dus), ''a.'' Of or pertaining to the ''Anarthropoda;'' hence, without articulated limbs.\n\n'''anarthrous''' (an-är′thrus), ''a.'' [< NL. ''anarthrus'', < Gr. ἄναρθρος, without joints, without articulation, without the article, < ἀν- priv. + ἄρθρον, a joint, in gram. the article: see ''arthritis'', etc.] '''1.''' In ''zoöl.'': (''a'') Without joints; not jointed; inarticulated. (''b'') Having no articulated limbs; anarthropodous.—'''2.''' In ''gram.'', without the article: applied especially to Greek nouns so used exceptionally.\n\n'''Anas''' (ā′nas), ''n.'' [L. ''anas'' (''anat-'') = Gr. νῆττα, Epic and Ionic νῆσσα, Dor. νᾶσσα, = Lith. ''antis'' = OHG. ''anut'', ''enit'', MHG. ''ant'' (pl. ''ente''), ''ent'', G. ''ente'' = AS. ''ened'', ME. ''ened'', ''ende'', a duck, ME. deriv. *''endrake'', by apheresis ''drake'', E. ''drake'': see ''drake''<sup>1</sup>.] A genus of palmiped lamellirostral swimming birds, typical of the family ''Anatidæ''. {{smaller|It was nearly conterminous with ''Anatidæ'' in the early systems, as the Linnean, but has been successively restricted by different authors, till it has come to be applied only to the mallard, ''Anas boscas'', and its immediate conspecies, as the dusky duck, ''A. obscura'', of North America. It was for some time coextensive with the subfamily ''Anatinæ'', including the fresh-water ducks as distinguished from the ''Fuligulinæ''. With Linnæus it was synonymous with ''Anseres'', exclusive of ''Mergus'', and contained the swans, geese, etc., as well as the ducks. A form ''Anassus'' is also found. See cut under ''mallard''.}}\n\n'''Anasa''' (an′a̤-sä), ''n.'' [NL.] A genus of hemipterous insects, of the group ''Coreinæ'', containing",
+   "c2s1": "such species as the common squash-bug, ''A. tristis.''\n\n'''anasarca''' (an-ạ-sär′kä̤), ''n.'' [ML. and NL., < Gr. ἀνά, up, through (see ''ana-''), + σάρκα, acc. of σάρξ, flesh.] '''1.''' In ''pathol.'', a wide-spread edema or dropsical affection of the skin and subcutaneous connective tissue.—'''2.''' In ''bot.'', the condition of plants when the tissues become gorged with fluid in very wet weather.\n\n'''anasarcous''' (an-ạ-sär′kus), ''a.'' [< ''anasarca'' + ''-ous.''] Belonging to or affected by anasarca or dropsy; dropsical.\n\n'''anaseismic''' (an-ạ-sīs′mik), ''a.'' [< Gr. ἀνάσεισμα, ἀνασεισμός, a shaking up and down, < ἀνασείειν, shake up and down, < ἀνά, up, + σείειν, shake, > σεισμός, a shaking: see ''ana-'' and ''seismic.''] Characterized by upward movement: applied to earthquakes, or to earthquake-shocks. ''Milne'', Earthquakes, p. 11.\n\n'''Anaspidea''' (an-as-pid′ẹ̄-ä̤), ''n. pl.'' [NL., < Gr. ἀν- priv. + ἀσπίς (ἀσπιδ-), a shield.] One of three divisions of the tectibranchiate gastropods, correlated with ''Cephalaspidea'' and ''Notaspidea.'' It includes the families ''Aplysiidæ'' and ''Oxynoidæ.''\n\n'''anastaltic†''' (an-ạ-stal′tik), ''a.'' [< Gr. ἀνασταλτικός, fitted for checking, < ἀναστέλλειν, check, keep back, send back, < ἀνά, back, + στέλλειν, send.] In ''med.'', astringent; styptic.\n\n'''anastate''' (an′ạ-stāt), ''n.'' [< Gr. ἀνάστατος, made to rise up, verbal adj. of ἀνίστασθαι, rise up, < ἀνά, up, + ἵστασθαι, stand.] The material result of anabolism; a substance resulting from or",
+   "c2s2": "characterized by anabolic processes; any substance which is evolved from one simpler than itself, with absorption of energy. See ''anabolism.''\n{{smaller block|The substances or mesostates appearing in the former [series of anabolic processes] we may speak of as ''anastates'', those of the latter we may call katastates.\n{{right|''M. Foster'', Encyc. Brit., XIX. 19.}}}}\n\n¶\n'''anastatic''' (an-ạ-stat′ik), ''a.'' [< Gr. ἀνάστατος, made to rise up, verbal adj. of ἀνίστασθαι, rise up (see ''anastate''), + ''-ic''; cf. ''static.''] Raised; consist-",
+   "c2s3": "ing of or furnished with raised characters: as, ''anastatic'' plates.—{{smaller|'''Anastatic printing''' or '''engraving''', a mode of obtaining a facsimile of any printed page or engraving by moistening the print with dilute phosphoric acid and transferring the ink from the impression to a plate of zinc. The plate is then subjected to the action of an acid, which etches or eats away the surface in all portions not protected by the ink, so that the portions thus protected are left in relief and prints can readily be taken from them. Also called ''zincography''.}}\n\n'''Anastatica''' (an-a̤-stat′i-kä), ''n.'' [NL., < Gr. ἀνάστατος, made to rise up; cf. ἀνάστασις, a making to\n[[FIGURE]]\n{{c|{{smaller|Rose of Jericho (''Anastatica Hierochuntina'').<br>1, the living plant; 2, the plant withered; 3, the same expanded by moisture.}}}}\nrise up, resurrection: see ''anastatic''.] A genus of plants, of the natural order ''Cruciferæ''. {{smaller|''A. Hierochuntina'', the rose of Jericho, is found near the Dead Sea and in the deserts of Arabia Petræa, Egypt, and southern Persia. It is remarkable for the power the dried plant has of absorbing water and appearing to revive when placed in it, whence the common name of ''resurrection-plant''. This name has reference also to the popular belief that the plant blooms at Christmas and}}",
+   "c2s4": "{{smaller block|remains expanded till Easter. The plants are gathered to be sent to Jerusalem, where they are sold to pilgrims.}}\n\n'''Anastomatinæ''' (a-nas″tọ̄-mạ-tī′nē), ''n. pl.'' [NL., < ''Anastomus'' (''-mat-'') + ''-inæ.''] A subfamily of birds, of the family ''Ciconiidæ'', or storks, formed for the reception of the genus ''Anastomus.'' ''Bonaparte'', 1850.\n\n'''anastome''' (an′ạ-stōm), ''n.'' A bird of the genus ''Anastomus.''\n\n'''Anastominæ''' (a-nas-tọ̄-mī′nē), ''n. pl.'' [NL., < ''Anastomus'' + ''-inæ.''] Same as ''Anastomatinæ.'' ''Bonaparte'', 1849.\n\n'''anastomize''' (a-nas′tọ̄-mīz), ''v. i.''; pret. and pp. ''anastomized'', ppr. ''anastomizing.'' [As ''anastomose'' + ''-ize.''] Same as ''anastomose.'' [Rare.]\n\n'''anastomosant''' (a-nas-tọ̄-mō′zạnt), ''a.'' [F., ppr. of ''anastomoser'', anastomose: see below.] Anastomosing; anastomotic. ''Syd. Soc. Lex.'', 1879. [Rare.]\n\n'''anastomose''' (a-nas′tọ̄-mōz), ''v.''; pret. and pp. ''anastomosed'', ppr. ''anastomosing.'' [< F. ''anastomoser'', < ''anastomose'', anastomosis: see ''anastomosis.''] '''I.''' ''intrans.'' To communicate or unite by anastomosis; intercommunicate, inosculate,",
+   "c3s1": "or run into one another: said chiefly of vessels conveying fluid, as blood or lymph, as when arteries unite with one another or with veins.\n{{smaller block|The ribbing of the leaf, and the ''anastomosing'' net-work of its vessels.\n{{right|''Is. Taylor.''}}}}\n{{smaller block|In some species they branch and ''anastomose.''\n{{right|''W. B. Carpenter'', Micros., § 500.}}}}\n\n'''II.''' ''trans.'' To connect by anastomosis. ''N. E. D.''\n\n'''anastomosis''' (a-nas-tọ̄-mō′sis), ''n.'' [NL. (> F. ''anastomose''), < Gr. ἀναστόμωσις, an opening, outlet, discharge, sharpening of the appetite, < ἀναστομόειν, open, discharge, as one sea into another, furnish with a mouth, sharpen the appetite, < ἀνά, again, + στομόειν, furnish with a mouth, < στόμα, mouth: see ''stoma.''] '''1.''' In ''zoöl.'' and ''anat.'', the union, intercommunication, or inosculation of vessels of any system with one another, or with vessels of another system, as the arteries, veins, and lymphatics. In surgery, after ligation of an artery, collateral circulation is established by arterial ''anastomosis.'' Hence—'''2.''' The interlacing or network of any branched system, as the veins of leaves or the nervures of insects’ wings. See cut under ''venation.''",
+   "c3s2": "¶\n'''anastomotic''' (a-nas-tọ̄-mot′ik), ''a.'' and ''n.'' [< NL. ''anastomoticus'', < Gr. ἀναστομωτικός, lit. pertaining to opening, fit for sharpening, < ἀναστομόειν, open: see ''anastomosis.'' In the first sense formerly also ''anastomatic'', after Gr. στοματικός, pertaining to the mouth.] '''I.''' ''a.'' '''1†.''' In ''med.'', having the quality of removing obstructions, as from the blood-vessels.—'''2.''' Pertaining to or exhibiting anastomosis.\n{{smaller block|In the former [''Spatangus''], a distinct ''anastomotic'' trunk connects the intestinal vessels with the circular ambulacral vessel.\n{{right|''Huxley'', Anat. Invert., p. 495.}}}}\n\n'''II.†''' ''n.'' One of a class of medicines formerly supposed to have the power of opening the mouths of blood-vessels and promoting circulation, such as cathartics, deobstruents, and sudorifics.\n\n'''Anastomus''' (a-nas′tọ̄-mus), ''n.'' [NL., < Gr. ἀνά + στόμα, mouth: see ''anastomosis.''] '''1.''' In ''ornith.'', a genus of storks, of the family ''Ciconiidæ'' and subfamily ''Anastomatinæ.'' {{smaller|The name is derived from the form of the beak, the mandibles separating so as to leave an interval beween them, and coming together again or anastomosing at the tip. There are two very distinct species, the East Indian ''A. osculans'' and the African ''A. lamelligerus.'' The former is white with black wings and tail, the latter black. Also called ''Apertirostra'', ''Chenorhamphus'', ''Hians'', ''Hiator'', and ''Rhynchochasma.''}} '''2.''' In ''ichth.'', a genus of ''Salmonidæ.'' ''G. Cuvier'', 1817. [Not in use.]\n\n'''anastrophe''' (a-nas′trọ̄-fē), ''n.'' [NL., < Gr. ἀναστροφή, a turning back, < ἀναστρέφειν, turn back, < ἀνά, back, + στρέφειν, turn. Cf. ''strophe.''] In ''rhet.'' and ''gram.'', an inversion of the usual order of words: as, “echoed the hills” for “the",
+   "c3s3": "hills echoed.”\n\n'''anastrous''' (a-nas′trus), ''a.'' [< Gr. ἄναστρος, without stars, < ἀν- priv. + ἄστρον, star.] Not constituting a constellation.—'''Anastrous sign''', {{smaller|a sign of the zodiac, not a constellation corresponding to such a sign.}}\n\n'''anatase''' (an′a-tās), ''n.'' [So named from the length of its crystals; < Gr. ἀνάτασις, extension, < ἀνατείνειν, extend, < ἀνά, back, + τείνειν, stretch (> τάσις, tension): see ''tend'', ''tension''.] One of the three forms of native titanium dioxid; octahedrite. {{smaller|In color it is indigo-blue, reddish-brown, and yellow; it is usually crystallized in acute, elongated, pyramidal octahedrons.}}\n\n'''anathem†''', ''n.'' Obsolete form of ''anathema''.\n\n'''anathema''' (a-nath′ē-mä), ''n.''; pl. ''anathemas'', ''anathemata'' (-mäz, an-a-them′a-tä). [LL. ''anathĕma'', < Gr. ἀνάθεμα (in the Septuagint and the New Testament and hence in eccles. Gr. and L.), anything devoted to evil, an accursed thing, a curse; esp. of excommunication, an accursed or excommunicated person; in classical Greek simply ‘anything offered up or dedicated,’ being another form of the regular ἀνάθημα, a votive offering set up in a temple, esp. as an ornament, hence also an ornament, a delight (> LL. ''anathēma'', an offering, a gift), lit. ‘that which is set up’; < ἀνατιθέναι, set up, dedicate, offer, < ἀνά, up, + τιθέναι, put, place, set: see ''ana-'' and ''theme''. The forms of ''anathema'' are thus distinguished: ''anathēma'', when the dedication is carried out by the preservation of the object as a pious offering (Luke xxi. 5); ''anathĕma'', when it has in",
+   "c3s4": "view the destruction of the object as accursed (Josh. vii. 12). A relic of the former and original sense of the word is found in the ''anathēmata'' of the middle ages, which were gifts and ornaments bestowed upon the church and con-"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0224 c1f1.png",
+   "c2f1": "century v01 p0224 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     126,
+     1173,
+     797,
+     1354
+    ],
+    "caption": [
+     288,
+     1366,
+     632,
+     1388
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     119,
+     1152,
+     821,
+     1362
+    ]
+   },
+   {
+    "box": [
+     857,
+     1887,
+     1341,
+     2355
+    ],
+    "caption": [
+     923,
+     2365,
+     1295,
+     2455
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     851,
+     1825,
+     1346,
+     2357
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 3,
+    "input_tokens": 5490,
+    "output_tokens": 176,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9618,
+    "output_tokens": 9744,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c2f1": "left"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|Anarnacinæ|198|anathema}}</noinclude>{{nop}}'''Anarnacinæ''' (an-är-nạ̄-sī′nē), ''n. pl.''   [NL., < ''Anarnacus'' + ''-inæ.'']   A subfamily of toothed cetaceans, of the family ''Ziphiidæ.'' {{smaller|It is distinguished from ''Ziphiinæ'' by the greatly developed incurved lateral crests of the maxillary bone. It contains the species commonly referred to the genus ''Hyperoödon'', which is a synonym of ''Anarnacus.''}}\n\n'''Anarnacus''' (an-är′nạ̄-kus), ''n.''   [NL., < ''anarnak'', given as a native name of a kind of porpoise.]   A genus of toothed cetaceans, giving name to the subfamily ''Anarnacinæ:'' synonymous with ''Hyperoödon.''\n\n'''anarrhexis''' (an-ạ-rek′sis), ''n.''   [NL., < Gr. ἀνάρρηξις, a breaking up, < ἀναρρηγνύναι, break up, break through, < ἀνά, up, + ῥηγνύναι, break, akin to E. ''break'', q. v.]   In ''surg.'', the rebreaking of a united fracture.\n\n'''anarrhichadid''' (an-ạ-rik′ạ-did), ''n.'' A fish of the family ''Anarrhichadidæ.''\n\n'''Anarrhichadidæ''' (an″a-ri-kad′i-dē), ''n. pl.''   [NL., < ''Anarrhichas'' (''-chad-'') + ''-idæ.'']   A family of blennioid fishes, typified by the genus ''Anarrhichas.''\n\n'''Anarrhichadini''' (an-ạ-rik-ạ-dī′nī), ''n. pl.''   [NL., < ''Anarrhichas'' (''-chad-'') + ''-ini.'']   A subfamily of blennioid fishes, same as the family ''Anarrhichadidæ.''   ''Bonaparte.''\n\n'''Anarrhichas''' (an-ar′i-kas), ''n.''   [NL., < Gr. ἀναρριχᾶσθαι, clamber up with hands and feet, < ἀνά, up, + ἀρριχᾶσθαι (only in comp.), clamber.]   A genus of blennioid fishes, typical of the family ''Anarrhichadidæ'', containing ''A. lupus'', the common wolf-fish (which see), and several closely related species. Also written ''Anarhichas'', ''Anarrhicas'', ''Anarhicas''.\n\n[[File:century v01 p0224 c1f1.png|center|335px]]\n{{c|{{smaller|Wolf-fish (''Anarrhichas lupus'').}}}}\n\n'''Anarrhynchus''', ''n.'' See ''Anarhynchus''.\n\n'''anarthria''' (an-är′thri-ä̤), ''n.''   [NL., < Gr. ἀναρθρία, lit. absence of joints, used only in fig. sense want of strength, < Gr. ἄναρθρος, without joints, not articulated, inarticulate: see ''anarthrous''.]   '''1.''' Absence of joints or of jointed limbs.—'''2.''' Inability to articulate distinctly in speaking, dependent on a central nervous defect, but not involving paralysis of the muscles of articulation.\n\n'''anarthric''' (an-är′thrik), ''a.''   [< ''anarthria'' + ''-ic''.]   Pertaining to anarthria; suffering from anarthria.\n\n'''Anarthropoda''' (an-är-throp′ọ̄-dä̤), ''n. pl.''   [NL., < Gr. ἀν- priv. + ἄρθρον, a joint, + πούς (ποδ-) = E. ''foot''. See ''Arthropoda''.]   In ''zoöl.'', in some systems of classification, one of two prime divisions (''Arthropoda'' being the other) of the ''Annulosa'' or ringed animals, namely, those which have no articulated appendages or jointed limbs, such as the ''Annelida'' and the ''Gephyrea''. {{smaller|It is conterminous with these two classes, together with the ''Chætognatha'' (''Sagitta''). The term is not now current, ''Arthropoda'' being ranked as a subkingdom, including crustaceans, myriapods, arachnids, and insects, and all anarthropodous ringed animals being contrasted with them under the name ''Vermes''.}}\n\n'''anarthropodous''' (an-är-throp′ọ̄-dus), ''a.'' Of or pertaining to the ''Anarthropoda;'' hence, without articulated limbs.\n\n'''anarthrous''' (an-är′thrus), ''a.''   [< NL. ''anarthrus'', < Gr. ἄναρθρος, without joints, without articulation, without the article, < ἀν- priv. + ἄρθρον, a joint, in gram. the article: see ''arthritis'', etc.]   '''1.''' In ''zoöl.'': (''a'') Without joints; not jointed; inarticulated. (''b'') Having no articulated limbs; anarthropodous.—'''2.''' In ''gram.'', without the article: applied especially to Greek nouns so used exceptionally.\n\n'''Anas''' (ā′nas), ''n.''   [L. ''anas'' (''anat-'') = Gr. νῆττα, Epic and Ionic νῆσσα, Dor. νᾶσσα, = Lith. ''antis'' = OHG. ''anut'', ''enit'', MHG. ''ant'' (pl. ''ente''), ''ent'', G. ''ente'' = AS. ''ened'', ME. ''ened'', ''ende'', a duck, ME. deriv. *''endrake'', by apheresis ''drake'', E. ''drake'': see ''drake''<sup>1</sup>.]   A genus of palmiped lamellirostral swimming birds, typical of the family ''Anatidæ''. {{smaller|It was nearly conterminous with ''Anatidæ'' in the early systems, as the Linnean, but has been successively restricted by different authors, till it has come to be applied only to the mallard, ''Anas boscas'', and its immediate conspecies, as the dusky duck, ''A. obscura'', of North America. It was for some time coextensive with the subfamily ''Anatinæ'', including the fresh-water ducks as distinguished from the ''Fuligulinæ''. With Linnæus it was synonymous with ''Anseres'', exclusive of ''Mergus'', and contained the swans, geese, etc., as well as the ducks. A form ''Anassus'' is also found. See cut under ''mallard''.}}\n\n'''Anasa''' (an′a̤-sä), ''n.''   [NL.]   A genus of hemipterous insects, of the group ''Coreinæ'', containing such species as the common squash-bug, ''A. tristis.''\n\n'''anasarca''' (an-ạ-sär′kä̤), ''n.''   [ML. and NL., < Gr. ἀνά, up, through (see ''ana-''), + σάρκα, acc. of σάρξ, flesh.]   '''1.''' In ''pathol.'', a wide-spread edema or dropsical affection of the skin and subcutaneous connective tissue.—'''2.''' In ''bot.'', the condition of plants when the tissues become gorged with fluid in very wet weather.\n\n'''anasarcous''' (an-ạ-sär′kus), ''a.''   [< ''anasarca'' + ''-ous.'']   Belonging to or affected by anasarca or dropsy; dropsical.\n\n'''anaseismic''' (an-ạ-sīs′mik), ''a.''   [< Gr. ἀνάσεισμα, ἀνασεισμός, a shaking up and down, < ἀνασείειν, shake up and down, < ἀνά, up, + σείειν, shake, > σεισμός, a shaking: see ''ana-'' and ''seismic.'']   Characterized by upward movement: applied to earthquakes, or to earthquake-shocks.   ''Milne'', Earthquakes, p. 11.\n\n'''Anaspidea''' (an-as-pid′ẹ̄-ä̤), ''n. pl.''   [NL., < Gr. ἀν- priv. + ἀσπίς (ἀσπιδ-), a shield.]   One of three divisions of the tectibranchiate gastropods, correlated with ''Cephalaspidea'' and ''Notaspidea.'' It includes the families ''Aplysiidæ'' and ''Oxynoidæ.''\n\n'''anastaltic†''' (an-ạ-stal′tik), ''a.''   [< Gr. ἀνασταλτικός, fitted for checking, < ἀναστέλλειν, check, keep back, send back, < ἀνά, back, + στέλλειν, send.]   In ''med.'', astringent; styptic.\n\n'''anastate''' (an′ạ-stāt), ''n.''   [< Gr. ἀνάστατος, made to rise up, verbal adj. of ἀνίστασθαι, rise up, < ἀνά, up, + ἵστασθαι, stand.]   The material result of anabolism; a substance resulting from or characterized by anabolic processes; any substance which is evolved from one simpler than itself, with absorption of energy. See ''anabolism.''\n{{smaller block|The substances or mesostates appearing in the former [series of anabolic processes] we may speak of as ''anastates'', those of the latter we may call katastates.\n{{right|''M. Foster'', Encyc. Brit., XIX. 19.}}}}\n\n'''anastatic''' (an-ạ-stat′ik), ''a.''   [< Gr. ἀνάστατος, made to rise up, verbal adj. of ἀνίστασθαι, rise up (see ''anastate''), + ''-ic''; cf. ''static.'']   Raised; consisting of or furnished with raised characters: as, ''anastatic'' plates.—{{smaller|'''Anastatic printing''' or '''engraving''', a mode of obtaining a facsimile of any printed page or engraving by moistening the print with dilute phosphoric acid and transferring the ink from the impression to a plate of zinc. The plate is then subjected to the action of an acid, which etches or eats away the surface in all portions not protected by the ink, so that the portions thus protected are left in relief and prints can readily be taken from them. Also called ''zincography''.}}\n\n'''Anastatica''' (an-a̤-stat′i-kä), ''n.''   [NL., < Gr. ἀνάστατος, made to rise up; cf. ἀνάστασις, a making to {{img float|file=century v01 p0224 c2f1.png|width=245px|align=left|cap={{smaller|Rose of Jericho (''Anastatica Hierochuntina'').<br>1, the living plant; 2, the plant withered; 3, the same expanded by moisture.}}}} rise up, resurrection: see ''anastatic''.]   A genus of plants, of the natural order ''Cruciferæ''. {{smaller|''A. Hierochuntina'', the rose of Jericho, is found near the Dead Sea and in the deserts of Arabia Petræa, Egypt, and southern Persia. It is remarkable for the power the dried plant has of absorbing water and appearing to revive when placed in it, whence the common name of ''resurrection-plant''. This name has reference also to the popular belief that the plant blooms at Christmas and remains expanded till Easter. The plants are gathered to be sent to Jerusalem, where they are sold to pilgrims.}}\n\n'''Anastomatinæ''' (a-nas″tọ̄-mạ-tī′nē), ''n. pl.''   [NL., < ''Anastomus'' (''-mat-'') + ''-inæ.'']   A subfamily of birds, of the family ''Ciconiidæ'', or storks, formed for the reception of the genus ''Anastomus.''   ''Bonaparte'', 1850.\n\n'''anastome''' (an′ạ-stōm), ''n.'' A bird of the genus ''Anastomus.''\n\n'''Anastominæ''' (a-nas-tọ̄-mī′nē), ''n. pl.''   [NL., < ''Anastomus'' + ''-inæ.'']   Same as ''Anastomatinæ.''   ''Bonaparte'', 1849.\n\n'''anastomize''' (a-nas′tọ̄-mīz), ''v. i.''; pret. and pp. ''anastomized'', ppr. ''anastomizing.''   [As ''anastomose'' + ''-ize.'']   Same as ''anastomose.'' [Rare.]\n\n'''anastomosant''' (a-nas-tọ̄-mō′zạnt), ''a.''   [F., ppr. of ''anastomoser'', anastomose: see below.]   Anastomosing; anastomotic.   ''Syd. Soc. Lex.'', 1879. [Rare.]\n\n'''anastomose''' (a-nas′tọ̄-mōz), ''v.''; pret. and pp. ''anastomosed'', ppr. ''anastomosing.''   [< F. ''anastomoser'', < ''anastomose'', anastomosis: see ''anastomosis.'']   '''I.''' ''intrans.'' To communicate or unite by anastomosis; intercommunicate, inosculate, or run into one another: said chiefly of vessels conveying fluid, as blood or lymph, as when arteries unite with one another or with veins.\n{{smaller block|The ribbing of the leaf, and the ''anastomosing'' net-work of its vessels.\n{{right|''Is. Taylor.''}}}}\n{{smaller block|In some species they branch and ''anastomose.''\n{{right|''W. B. Carpenter'', Micros., § 500.}}}}\n\n'''II.''' ''trans.'' To connect by anastomosis.   ''N. E. D.''\n\n'''anastomosis''' (a-nas-tọ̄-mō′sis), ''n.''   [NL. (> F. ''anastomose''), < Gr. ἀναστόμωσις, an opening, outlet, discharge, sharpening of the appetite, < ἀναστομόειν, open, discharge, as one sea into another, furnish with a mouth, sharpen the appetite, < ἀνά, again, + στομόειν, furnish with a mouth, < στόμα, mouth: see ''stoma.'']   '''1.''' In ''zoöl.'' and ''anat.'', the union, intercommunication, or inosculation of vessels of any system with one another, or with vessels of another system, as the arteries, veins, and lymphatics. In surgery, after ligation of an artery, collateral circulation is established by arterial ''anastomosis.'' Hence—'''2.''' The interlacing or network of any branched system, as the veins of leaves or the nervures of insects’ wings. See cut under ''venation.''\n\n'''anastomotic''' (a-nas-tọ̄-mot′ik), ''a.'' and ''n.''   [< NL. ''anastomoticus'', < Gr. ἀναστομωτικός, lit. pertaining to opening, fit for sharpening, < ἀναστομόειν, open: see ''anastomosis.'' In the first sense formerly also ''anastomatic'', after Gr. στοματικός, pertaining to the mouth.]   '''I.''' ''a.'' '''1†.''' In ''med.'', having the quality of removing obstructions, as from the blood-vessels.—'''2.''' Pertaining to or exhibiting anastomosis.\n{{smaller block|In the former [''Spatangus''], a distinct ''anastomotic'' trunk connects the intestinal vessels with the circular ambulacral vessel.\n{{right|''Huxley'', Anat. Invert., p. 495.}}}}\n\n'''II.†''' ''n.'' One of a class of medicines formerly supposed to have the power of opening the mouths of blood-vessels and promoting circulation, such as cathartics, deobstruents, and sudorifics.\n\n'''Anastomus''' (a-nas′tọ̄-mus), ''n.''   [NL., < Gr. ἀνά + στόμα, mouth: see ''anastomosis.'']   '''1.''' In ''ornith.'', a genus of storks, of the family ''Ciconiidæ'' and subfamily ''Anastomatinæ.'' {{smaller|The name is derived from the form of the beak, the mandibles separating so as to leave an interval beween them, and coming together again or anastomosing at the tip. There are two very distinct species, the East Indian ''A. osculans'' and the African ''A. lamelligerus.'' The former is white with black wings and tail, the latter black. Also called ''Apertirostra'', ''Chenorhamphus'', ''Hians'', ''Hiator'', and ''Rhynchochasma.''}} '''2.''' In ''ichth.'', a genus of ''Salmonidæ.''   ''G. Cuvier'', 1817. [Not in use.]\n\n'''anastrophe''' (a-nas′trọ̄-fē), ''n.''   [NL., < Gr. ἀναστροφή, a turning back, < ἀναστρέφειν, turn back, < ἀνά, back, + στρέφειν, turn. Cf. ''strophe.'']   In ''rhet.'' and ''gram.'', an inversion of the usual order of words: as, “echoed the hills” for “the hills echoed.”\n\n'''anastrous''' (a-nas′trus), ''a.''   [< Gr. ἄναστρος, without stars, < ἀν- priv. + ἄστρον, star.]   Not constituting a constellation.—'''Anastrous sign''', {{smaller|a sign of the zodiac, not a constellation corresponding to such a sign.}}\n\n'''anatase''' (an′a-tās), ''n.''   [So named from the length of its crystals; < Gr. ἀνάτασις, extension, < ἀνατείνειν, extend, < ἀνά, back, + τείνειν, stretch (> τάσις, tension): see ''tend'', ''tension''.]   One of the three forms of native titanium dioxid; octahedrite. {{smaller|In color it is indigo-blue, reddish-brown, and yellow; it is usually crystallized in acute, elongated, pyramidal octahedrons.}}\n\n'''anathem†''', ''n.'' Obsolete form of ''anathema''.\n\n'''anathema''' (a-nath′ē-mä), ''n.''; pl. ''anathemas'', ''anathemata'' (-mäz, an-a-them′a-tä).   [LL. ''anathĕma'', < Gr. ἀνάθεμα (in the Septuagint and the New Testament and hence in eccles. Gr. and L.), anything devoted to evil, an accursed thing, a curse; esp. of excommunication, an accursed or excommunicated person; in classical Greek simply ‘anything offered up or dedicated,’ being another form of the regular ἀνάθημα, a votive offering set up in a temple, esp. as an ornament, hence also an ornament, a delight (> LL. ''anathēma'', an offering, a gift), lit. ‘that which is set up’; < ἀνατιθέναι, set up, dedicate, offer, < ἀνά, up, + τιθέναι, put, place, set: see ''ana-'' and ''theme''. The forms of ''anathema'' are thus distinguished: ''anathēma'', when the dedication is carried out by the preservation of the object as a pious offering (Luke xxi. 5); ''anathĕma'', when it has in view the destruction of the object as accursed (Josh. vii. 12). A relic of the former and original sense of the word is found in the ''anathēmata'' of the middle ages, which were gifts and ornaments bestowed upon the church and con-<noinclude><references/></noinclude>"
+}
