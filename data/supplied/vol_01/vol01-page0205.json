@@ -1,0 +1,221 @@
+{
+ "volume": 1,
+ "page_number": 205,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n204.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n204.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 740,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     85,
+     141,
+     2294,
+     176
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     85,
+     176,
+     819,
+     1229
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     85,
+     1229,
+     819,
+     2138
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     85,
+     2138,
+     819,
+     3196
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     408,
+     2655,
+     819,
+     2935
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     85,
+     3196,
+     819,
+     3293
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     819,
+     176,
+     1564,
+     1219
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     819,
+     1219,
+     1564,
+     2264
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     819,
+     2264,
+     1564,
+     3293
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1564,
+     176,
+     2294,
+     1272
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1564,
+     1272,
+     2294,
+     2355
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1564,
+     2355,
+     2294,
+     3293
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|amnion|179|among}}",
+   "c1s1": "{{smaller|brates which possess an amnion are termed ''Amnionata;'' those which do not, ''Anamnionata:'' terms coincident respectively with ''Allantoidea'' and ''Anallantoidea.''}}\n'''2.''' In ''entom.'', a membrane which surrounds the larva of many insects, as the millepeds (''Iulidæ''), for some time after they are hatched from the egg. It is regarded by some as the analogue of the amnion of a vertebrate.\n{{smaller block|In many insects and in the higher vertebrates, the embryo acquires a special protective envelope, the ''amnion'', which is thrown off at birth. {{right|''Huxley'', Anat. Invert., p. 67.}}}}\n'''3.''' A reflected portion of a membrane, in ascidians, which lines the inner wall of the ovisac, and forms a kind of amniotic investment of the embryo.\n{{smaller block|It is the cavity left between this ''amnion'' and the inner hemisphere of the blastoderm which becomes the parental blood-sinus. {{right|''Huxley'', Anat. Invert., p. 533.}}}}\n'''4.''' In ''bot.'', a name formerly given to the fluid contents of the embryo sac.\n\nSometimes erroneously written ''amnios.''\n\n{{smaller|'''False amnion,''' the part of the original amnionic membrane left lining the chorion after the amnionic sac proper is formed by a duplication and inversion of a part of the original membrane. It disappears either by absorption or by taking part in the development of the chorion. Also called ''vesicula serosa.''}}\n\n'''Amnionata''' (am″ni-ō-nā′tä̤), ''n. pl.'' [NL.; prop. *''Amniata'' or ''Amniota''; < ''amnion'' + ''-ata.''] A name given by Haeckel to those vertebrates which have an amnion. {{smaller|It corresponds to ''Allantoidea'', and is coextensive with ''Mammalia'' and ''Sauropsida'' of Huxley, or mammals, birds, and reptiles, the amphibians and fishes being termed ''Anamnionata'' (which see). Also called ''Amniota.''}}",
+   "c1s2": "¶\n'''amnionic''' (am-ni-on′ik), ''a.'' [The proper form would be *''amniac''; < ''amnion'' (''amni-on'') + ''-ic'' (''-ac'').] Of, pertaining to, or of the nature of an amnion; amniotic.\n{{smaller block|In a number of Insects belonging to different orders of the class, an ''amnionic'' investment is developed from the extra-neural part of the blastoderm.\n{{right|''Huxley'', Anat. Invert., p. 220.}}}}\n\n'''amnionless''' (am′ni-on-les), ''a.'' [< ''amnion'' + ''-less.''] Having no amnion; anamniotic.\n\n'''amnios''' (am′ni-os), ''n.'' [= F. ''amnios.''] An erroneous form for ''amnion.''\n\n'''Amniota''' (am-ni-ō′tä̤), ''n. pl.'' [NL., neut. pl. of *''amniotus'', < Gr. as if *ἀμνιωτός, < ἀμνίον, amnion.] Same as ''Amnionata.''\n\n'''amniotic''' (am-ni-ot′ik), ''a.'' [As ''Amniota'' + ''-ic''; = F. ''amniotique.''] '''1.''' Pertaining to the amnion; contained in the amnion: as, the ''amniotic'' fluid. —'''2.''' Possessing an amnion; belonging to the ''Amnionata'', as a mammal, bird, or reptile. See ''Amnionata.''\n\nAlso ''amnic.''\n\n{{smaller|'''Amniotic cavity''', the hollow of the amnion, containing the amniotic liquid and the fetus.—'''Amniotic folds.''' See ''amnion.''—'''Amniotic liquid, amniotic fluid''', or '''liquor amnii''', the liquid in which the fetus is suspended by the umbilical cord. See ''amnion.''—'''Amniotic sac.''' (''a'') The amnion, invested externally by the chorion; the lining of the “bag of waters.” (''b'') In ''bot.'', the embryo-sac. [No longer used.]}}",
+   "c1s3": "¶\n'''amock''', ''a.'' or ''adv.'' See ''amuck.''\n\n'''amœba''' (a-mē′bä), ''n.''; pl. ''amœbas, amœbæ'' (-bäz, -bē). [NL., < Gr. ἀμοιβή, change, exchange, < ἀμείβειν, change, exchange, akin to L. ''movere'', > E. ''move'', q. v.] '''1.''' [''cap.''] A genus of microscopic rhizopodous ''Protozoa'', of which ''A. diffluens'', common in all fresh-water ponds and ditches, is the type. {{smaller|It exists as a mass of protoplasm, and moves about and grasps particles of food, etc., by means of pseudopodia, or finger-like processes, which it forms by protruding portions of its body. From thus continually altering its shape it received its former name of ''proteus animalcule.'' Within the body are usually found a nucleus and nucleolus, and certain clear spaces, termed ''contractile vesicles'', from their exhibiting rhythmical movements of contraction and dilatation. There is no distinct mouth, and food seized by means of the pseudopodia is engulfed within the soft sarcode-body}}\n[[FIGURE]]\n{{c|{{smaller|Amœbæ (much magnified).}}}}\n{{smaller|and by any portion of its surface, the apertures by which the food is taken in closing up immediately after its reception. Reproduction takes place in several ways, but chiefly by fission, whereby an amœba simply divides into two portions, each of which becomes a distinct animalcule. Several other species have been described; but there is reason to think that some of these, at least, may be early forms of other and more complex animals, or even of plants. The term appears to have been first used by Ehrenberg in 1830, as the name of a genus of his ''Polygastrica.''}} '''2.''' An animal of the genus ''Amœba.''—'''3.''' Any single cell or corpuscle of one of the higher animals; a cell regarded as itself an animal,",
+   "c1s4": "and an individual of the morphological grade of development of an amœboid organism. [Rare.]",
+   "c2s1": "¶\n\n'''Amœbæ''' (a-mē′bē), ''n. pl.'' [NL., pl. of ''Amœba.''] In ''zoöl.'', the order to which the genus ''Amœba'' belongs.\n\n'''Amœbæa''' (am-ẹ-bē′ä), ''n. pl.'' [NL., neut. pl. of L. ''amœbæus'', alternate: see ''amœbean''<sup>1</sup>.] The name given by Ehrenberg to the amœbiform organisms which he placed in his ''Polygastrica.''\n\n'''amœbæum''' (am-ē-bē′um), ''n.''; pl. ''amœbæa'' (-ä). [L., neut. of ''amœbæus'', < Gr. ἀμοιβαῖος, reciprocal, alternate, < ἀμοιβή, change, alternation: see ''amœba.''] A poem in which persons are represented as speaking alternately, as in the third and seventh eclogues of Virgil.\n\n'''amœba-movement''' (a-mē′bä-möv″ment), ''n.'' A movement of naked membraneless protoplasmic bodies, consisting of rapid changes in external contour, extension and contraction, and a creeping about as if flowing. See ''amœboid movements'', under ''amœboid'', ''a.''\n\n'''amœban''' (a-mē′ban), ''a.'' Of or pertaining to the amœbas; amœbous.\n\n'''Amœbea''' (am-ē-bē′ä), ''n. pl.'' [NL., < ''Amœba'', q. v.] An order of ''Rhizopoda'', of which the genus ''Amœba'' is the type. See ''Amœba.''\n\n'''amœbean<sup>1</sup>''' (am-ē-bē′an), ''a.'' [< L. ''amœbæus'', < Gr. ἀμοιβαῖος: see ''amœbæum.''] Alternately answering or responsive; of the nature of an amœbæum (which see). Also spelled ''amebean.''\n{{smaller block|''Amœbean'' verses and the custom of vying . . . by turns.\n{{right|''J. Warton.''}}}}\n{{smaller block|Erelong the pastoral and town idyls of Theocritus, with their ''amœbean'' dialogue and elegant occasional songs, won the ear of both the fashionable and critical worlds.}}",
+   "c2s2": "{{smaller block|{{right|''Stedman'', Vict. Poets, p. 207.}}}}\n\n'''amœbean'''<sup>2</sup> (am-ẹ̄-bē′an), ''a.'' [< ''Amœbea'' + ''-an.''] Of or relating to the ''Amœbea.''\n\n'''Amœbidæ''' (a-mē′bi-dē), ''n. pl.'' [NL., < ''Amœba'' + ''-idæ.''] The typical family of the ''Amœbæ'', ''Amœbina'', or ''Amœboidea'', mainly represented by the genus ''Amœba'', as distinguished from such amœboids as are members of ''Difflugia'' and ''Arcella'', or such other rhizopods as the sun-animalcules, as ''Actinophrys sol'', etc.\n\n'''amœbiform''' (a-mē′bi-fôrm), ''a.'' and ''n.'' [< ''amœba'' + ''-form.''] '''I.''' ''a.'' Amœba-like; undergoing frequent changes of shape, like an amœba; related to the amœbas.\n{{smaller block|The corpuscle, in fact, has an inherent contractility, like one of those low organisms, known as an Amœba, whence its motions are frequently called ''amœbiform.''\n{{right|''Huxley'', Crayfish, p. 177.}}}}\n\n'''II.''' ''n.'' An amœba, or an animal or corpuscle of amœban character. See ''amœba'', 3.\n{{smaller block|Other genera of the ''amœbiforms.''\n{{right|''Coues'', Key to N. A. Birds, p. 192.}}}}\n\n'''Amœbina''' (am-ẹ̄-bī′nä̤), ''n. pl.'' [NL., < ''Amœba'' + ''-ina.''] See ''Amœboidea.''\n\n'''amœbodont''' (a-mē′bọ̄-dont), ''a.'' [< Gr. ἀμοιβή, change, alternation, + ὀδούς (ὀδοντ-) = E. ''tooth.''] A term descriptive of a form of lophodont dentition in which the crests or folds of the crowns of the molar teeth are alternate: opposed to ''antiodont.''\n\n'''amœboid''' (a-mē′boid), ''a.'' and ''n.'' [< ''amœba'' + ''-oid.''] '''I.''' ''a.'' Of, pertaining to, or resembling an amœba: as, ''amœboid'' masses.",
+   "c2s3": "¶\n{{smaller block|It is not uncommon for portions of the protoplasmic substance to pass into an ''amœboid'' condition.\n{{right|''W. B. Carpenter'', Micros., § 335.}}}}\n{{smaller block|The blood-corpuscles of Solen legumen, . . . besides colorless ''amœboid'' forms, comprise a vast number of oval ones, deeply stained by hæmoglobin.\n{{right|''E. R. Lankester'', Pref. to Gegenbaur’s Comp. Anat., p. 10.}}}}\n{{smaller|'''Amœboid cell.''' See ''cell.''—'''Amœboid movements,''' constant changes of shape of an amœba or other single-celled organism, as an ovum, a cytode, or a formative cell of any of the higher animals; especially, such movements as are exhibited, for example, by the white corpuscles of the blood of man, the resemblance of such objects to an amœba being striking, and their morphological characters being nearly identical.}}\n\n'''II.''' ''n.'' An amœbiform organism; one of the ''Amœbidæ''.\n\n'''Amœboidea''' (am-ẹ̄-boi′dẹ̄-ä̤), ''n. pl.'' [NL., < ''Amœba'' + ''-oidea.''] An order of amœbiform rhizopodous ''Protozoa'', of which the genus ''Amœba'', of the family ''Amœbidæ'', is the type. {{smaller|This order is practically distinguished from ''Monera'' by the presence of a nucleus, and from the ''Foraminifera'' and ''Radiolaria'' by the absence of a complete calcareous or silicious shell. The terms ''Amœboidea'', ''Amœbina'', ''Amœbœa'', and ''Amœbœ'' (see ''Amœbœ'') are more or less nearly synonymous; but the definition of the groups of amœbiform animals varies with almost every leading writer. See ''amœba''.}}\n\n'''amœbous''' (a-mē′bus), ''a.'' [< ''amœba'' + ''-ous.''] Of or pertaining to the genus ''Amœba''; resembling an amœba in structure. Also ''amœban''.\n\n'''amœbula''' (a-mē′bū-lä̤), ''n.''; pl. ''amœbulæ'' (-lē). [NL., dim. of ''amœba.''] A little amœba. ''E. R. Lankester'', Encyc. Brit., XIX. 840.\n\n'''amœnomania''' (a-mē-nọ̄-mā′ni-ä̤), ''n.'' [NL., < L. ''amœnus'', pleasant (see ''amene''), + ''mania'', < Gr.",
+   "c3s1": "μανία, mania.] A form of mania in which the hallucinations are of an agreeable nature.\n\n'''amoinder†''', ''v. t.'' [< F. ''amoindrir'', lessen, < ''à'', to, + ''moindre'', < L. ''minor'', less.] To lessen or diminish. ''Donne.''\n\n'''amok''' (ä-mok′), ''a.'' or ''adv.'' See ''amuck.''\n\n'''amole''' (ä-mō′le), ''n.'' [Mex.] '''1.''' A Mexican name for the roots of various species of plants which have detergent properties and are used as a substitute for soap.—'''2.''' The name of several plants which furnish these roots. {{smaller|In New Mexico and adjacent parts of Mexico the most common species is the lechuguilla, ''Agave heteracantha.'' In California the name is given especially to ''Chlorogalum pomeridianum'', a liliaceous plant having large bulbs coated with coarse brown fibers, of which mattresses are made. See ''soap-plant.''}}\n\n'''amolish†''', ''v. t.'' [< OF. ''amoliss-'', stem of certain parts of ''amolir'', < L. ''amoliri'', remove with an effort, < ''a'' for ''ab'', away, + ''moliri'', exert one’s self upon, move, < ''moles'', a heavy mass: see ''mole''<sup>3</sup>. Cf. ''demolish.''] To remove forcibly; put away with an effort. [Rare.]\n\n'''amolition†''', ''n.'' [< L. ''amolitio(n-)'', < ''amoliri'', pp. ''amolitus'', remove: see ''amolish.''] A putting away; removal. [Rare.]\n\n'''amollish†''', ''v. t.'' [< ME. ''amolisshen'', < OF. ''amoliss-'', stem of certain parts of ''amolir'', F. ''amollir'', soften, < ''a-'' (< L. ''ad'', to) + ''molir'', < L. ''mollire'', soften, < ''mollis'', soft: see ''moll'', ''mollify.''] To soften; mollify; mitigate.\n\n'''amollishment†''' (a-mol′ish-mẹnt), ''n.'' [Also written ''amolishment'', < F. ''amollissement'': see ''amollish'' and ''-ment.''] Softening; mitigation. ''Donne.'' (''N. E. D.'')\n\n'''Amomum''' (a-mō′mum), ''n.'' [L., also ''amomon'', <",
+   "c3s2": "Gr. ἄμωμον, applied to an Eastern spice-plant; origin uncertain.] A genus of plants, natural order ''Scitamineæ'', belonging to tropical regions of the old world, and allied to the ginger-plant. {{smaller|They are herbaceous, with creeping rootstocks and large sheathing leaves, and are remarkable for the pungency and aromatic properties of their seeds. Several species yield the cardamoms and grains of paradise of commerce.}}\n\n'''amonest†''', ''v. t.'' An old form of ''admonish''.\n\n'''among''' (a̤-mung′), ''prep.'' and ''adv.'', orig. ''prep. phr.'' [In early mod. E. in two mixed forms: (1) ''among'', < ME. ''among'', ''amonge'', ''amang'', ''amange'', < AS. ''āmang'' (rare and late), contr. of usual ''onmang'', prep.; (2) ''emong'', < ME. ''emong'', ''emonge'', ''emang'', ''imong'', ''ymong'' (''enmong'', ''inmong''), < AS ''gemang'' (= OFries. ''mong''), prep.; both ''onmang'' and ''gemang'' are contractions of the full form ''ongemang'', prep., originally separated, ''on gemang'' (orig. followed by gen.), lit. in (the) crowd or company (of): ''on'', prep., on, in (see ''a-''<sup>3</sup>); ''gemang'', a crowd, assembly: see ''meng'' and ''mingle''. Cf. the extended form ''amongst''.] '''I.''' ''prep.'' '''1.''' In or into the midst of; in association or connection with: as, he fell ''among'' thieves; one ''among'' this people.\n{{smaller block|A practice there is ''among'' us to determine doubtful matters by the opening of a book.\n{{right|''Sir T. Browne'', Vulg. Err.}}\n<poem>\nI stood\n''Among'' them, but not of them.\n</poem>\n{{right|''Byron'', Childe Harold, iii. 113.}}\n<poem>\nShe dwelt ''among'' the untrodden ways\nBeside the springs of Dove.\n</poem>\n{{right|''Wordsworth'', Lucy.}}}}\n'''2.''' In the number of; of or out of.\n{{smaller block|My beloved is . . . the chiefest ''among'' ten thousand.\n{{right|Cant. v. 10.}}}}",
+   "c3s3": "¶\n{{smaller block|Blessed art thou ''among'' women. {{right|Luke i. 28.}}}}\n{{smaller block|The years during which Bacon held the Great Seal were ''among'' . . . the most shameful in English history. Everything at home and abroad was mismanaged.\n{{right|''Macaulay'', Lord Bacon.}}}}\n'''3.''' By the joint action or consent of; with the common aid or knowledge of: as, settle it ''among'' yourselves; the mischief was done ''among'' you.\n{{smaller block|You have, ''among'' you, killed a sweet and innocent lady.\n{{right|''Shak.'', Much Ado, v. i.}}}}\n'''4.''' To each of; by or for distribution to: as, he gave five dollars to be divided ''among'' them.\n{{smaller block|What are they [five loaves and two fishes] ''among'' so many? {{right|John vi. 9.}}}}\n'''5†.''' In the circumstances of; during the time or term of; in the course of.\n{{smaller block|I never went to any place ''among'' all my life . . . which I had before . . . thought of.\n{{right|''Baxter'', in Tulloch’s Eng. Puritanism, p. 306. (''N. E. D.'')}}}}\n'''II.†''' ''adv.'' '''1.''' Together (with something).\n{{smaller block|<poem>Doȝttur, temper well thi tonge,\n& vse not monny tallis [many tales];\nFor lessynggis [leasings] wyll lepe out ''amonge'',\nThat oftyn brewis ballys [bales, mischiefs].</poem>\n{{right|''The Good Wyfe wold a Pylgremage'', l. 85. (E. E. T. S., [extra ser. VIII., i. 41.)}}}}\n'''2.''' At intervals; here and there.\n{{smaller block|<poem>They [the fowles] sate ''amonge''\nUpon my chambre roofe withoute,\nUpon the tyles over al aboute.</poem>\n{{right|''Chaucer'', Death of Blanche, l. 298.}}}}"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0205 c1f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     420,
+     2667,
+     813,
+     2923
+    ],
+    "caption": [
+     476,
+     2929,
+     764,
+     2953
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     459,
+     2647,
+     817,
+     2966
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 3974,
+    "output_tokens": 91,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9591,
+    "output_tokens": 10729,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c1f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|amnion|179|among}}</noinclude>{{smaller|brates which possess an amnion are termed ''Amnionata;'' those which do not, ''Anamnionata:'' terms coincident respectively with ''Allantoidea'' and ''Anallantoidea.''}}\n'''2.''' In ''entom.'', a membrane which surrounds the larva of many insects, as the millepeds (''Iulidæ''), for some time after they are hatched from the egg. It is regarded by some as the analogue of the amnion of a vertebrate.\n{{smaller block|In many insects and in the higher vertebrates, the embryo acquires a special protective envelope, the ''amnion'', which is thrown off at birth. {{right|''Huxley'', Anat. Invert., p. 67.}}}}\n'''3.''' A reflected portion of a membrane, in ascidians, which lines the inner wall of the ovisac, and forms a kind of amniotic investment of the embryo.\n{{smaller block|It is the cavity left between this ''amnion'' and the inner hemisphere of the blastoderm which becomes the parental blood-sinus. {{right|''Huxley'', Anat. Invert., p. 533.}}}}\n'''4.''' In ''bot.'', a name formerly given to the fluid contents of the embryo sac.\n\nSometimes erroneously written ''amnios.''\n\n{{smaller|'''False amnion,''' the part of the original amnionic membrane left lining the chorion after the amnionic sac proper is formed by a duplication and inversion of a part of the original membrane. It disappears either by absorption or by taking part in the development of the chorion. Also called ''vesicula serosa.''}}\n\n'''Amnionata''' (am″ni-ō-nā′tä̤), ''n. pl.''   [NL.; prop. *''Amniata'' or ''Amniota''; < ''amnion'' + ''-ata.'']   A name given by Haeckel to those vertebrates which have an amnion. {{smaller|It corresponds to ''Allantoidea'', and is coextensive with ''Mammalia'' and ''Sauropsida'' of Huxley, or mammals, birds, and reptiles, the amphibians and fishes being termed ''Anamnionata'' (which see). Also called ''Amniota.''}}\n\n'''amnionic''' (am-ni-on′ik), ''a.''   [The proper form would be *''amniac''; < ''amnion'' (''amni-on'') + ''-ic'' (''-ac'').]   Of, pertaining to, or of the nature of an amnion; amniotic.\n{{smaller block|In a number of Insects belonging to different orders of the class, an ''amnionic'' investment is developed from the extra-neural part of the blastoderm.\n{{right|''Huxley'', Anat. Invert., p. 220.}}}}\n\n'''amnionless''' (am′ni-on-les), ''a.''   [< ''amnion'' + ''-less.'']   Having no amnion; anamniotic.\n\n'''amnios''' (am′ni-os), ''n.''   [= F. ''amnios.'']   An erroneous form for ''amnion.''\n\n'''Amniota''' (am-ni-ō′tä̤), ''n. pl.''   [NL., neut. pl. of *''amniotus'', < Gr. as if *ἀμνιωτός, < ἀμνίον, amnion.]   Same as ''Amnionata.''\n\n'''amniotic''' (am-ni-ot′ik), ''a.''   [As ''Amniota'' + ''-ic''; = F. ''amniotique.'']   '''1.''' Pertaining to the amnion; contained in the amnion: as, the ''amniotic'' fluid. —'''2.''' Possessing an amnion; belonging to the ''Amnionata'', as a mammal, bird, or reptile. See ''Amnionata.''\n\nAlso ''amnic.''\n\n{{smaller|'''Amniotic cavity''', the hollow of the amnion, containing the amniotic liquid and the fetus.—'''Amniotic folds.''' See ''amnion.''—'''Amniotic liquid, amniotic fluid''', or '''liquor amnii''', the liquid in which the fetus is suspended by the umbilical cord. See ''amnion.''—'''Amniotic sac.''' (''a'') The amnion, invested externally by the chorion; the lining of the “bag of waters.” (''b'') In ''bot.'', the embryo-sac. [No longer used.]}}\n\n'''amock''', ''a.'' or ''adv.'' See ''amuck.''\n\n'''amœba''' (a-mē′bä), ''n.''; pl. ''amœbas, amœbæ'' (-bäz, -bē).   [NL., < Gr. ἀμοιβή, change, exchange, < ἀμείβειν, change, exchange, akin to L. ''movere'', > E. ''move'', q. v.]   '''1.''' [''cap.''] A genus of microscopic rhizopodous ''Protozoa'', of which ''A. diffluens'', common in all fresh-water ponds and ditches, is the type. {{smaller|It exists as a mass of protoplasm, and moves about and grasps particles of food, etc., by means of pseudopodia, or finger-like processes, which it forms by protruding portions of its body. From thus continually altering its shape it received its former name of ''proteus animalcule.'' Within the body are usually found a nucleus and nucleolus, and certain clear spaces, termed ''contractile vesicles'', from their exhibiting rhythmical movements of contraction and dilatation. There is no distinct mouth, and food seized by means of the pseudopodia is engulfed within the soft sarcode-body}} {{img float|file=century v01 p0205 c1f1.png|width=200px|align=right|cap={{smaller|Amœbæ (much magnified).}}}} {{smaller|and by any portion of its surface, the apertures by which the food is taken in closing up immediately after its reception. Reproduction takes place in several ways, but chiefly by fission, whereby an amœba simply divides into two portions, each of which becomes a distinct animalcule. Several other species have been described; but there is reason to think that some of these, at least, may be early forms of other and more complex animals, or even of plants. The term appears to have been first used by Ehrenberg in 1830, as the name of a genus of his ''Polygastrica.''}} '''2.''' An animal of the genus ''Amœba.''—'''3.''' Any single cell or corpuscle of one of the higher animals; a cell regarded as itself an animal, and an individual of the morphological grade of development of an amœboid organism. [Rare.]\n\n'''Amœbæ''' (a-mē′bē), ''n. pl.''   [NL., pl. of ''Amœba.'']   In ''zoöl.'', the order to which the genus ''Amœba'' belongs.\n\n'''Amœbæa''' (am-ẹ-bē′ä), ''n. pl.''   [NL., neut. pl. of L. ''amœbæus'', alternate: see ''amœbean''<sup>1</sup>.]   The name given by Ehrenberg to the amœbiform organisms which he placed in his ''Polygastrica.''\n\n'''amœbæum''' (am-ē-bē′um), ''n.''; pl. ''amœbæa'' (-ä).   [L., neut. of ''amœbæus'', < Gr. ἀμοιβαῖος, reciprocal, alternate, < ἀμοιβή, change, alternation: see ''amœba.'']   A poem in which persons are represented as speaking alternately, as in the third and seventh eclogues of Virgil.\n\n'''amœba-movement''' (a-mē′bä-möv″ment), ''n.'' A movement of naked membraneless protoplasmic bodies, consisting of rapid changes in external contour, extension and contraction, and a creeping about as if flowing. See ''amœboid movements'', under ''amœboid'', ''a.''\n\n'''amœban''' (a-mē′ban), ''a.'' Of or pertaining to the amœbas; amœbous.\n\n'''Amœbea''' (am-ē-bē′ä), ''n. pl.''   [NL., < ''Amœba'', q. v.]   An order of ''Rhizopoda'', of which the genus ''Amœba'' is the type. See ''Amœba.''\n\n'''amœbean<sup>1</sup>''' (am-ē-bē′an), ''a.''   [< L. ''amœbæus'', < Gr. ἀμοιβαῖος: see ''amœbæum.'']   Alternately answering or responsive; of the nature of an amœbæum (which see). Also spelled ''amebean.''\n{{smaller block|''Amœbean'' verses and the custom of vying . . . by turns.\n{{right|''J. Warton.''}}}}\n{{smaller block|Erelong the pastoral and town idyls of Theocritus, with their ''amœbean'' dialogue and elegant occasional songs, won the ear of both the fashionable and critical worlds. {{right|''Stedman'', Vict. Poets, p. 207.}}}}\n\n'''amœbean'''<sup>2</sup> (am-ẹ̄-bē′an), ''a.''   [< ''Amœbea'' + ''-an.'']   Of or relating to the ''Amœbea.''\n\n'''Amœbidæ''' (a-mē′bi-dē), ''n. pl.''   [NL., < ''Amœba'' + ''-idæ.'']   The typical family of the ''Amœbæ'', ''Amœbina'', or ''Amœboidea'', mainly represented by the genus ''Amœba'', as distinguished from such amœboids as are members of ''Difflugia'' and ''Arcella'', or such other rhizopods as the sun-animalcules, as ''Actinophrys sol'', etc.\n\n'''amœbiform''' (a-mē′bi-fôrm), ''a.'' and ''n.''   [< ''amœba'' + ''-form.'']   '''I.''' ''a.'' Amœba-like; undergoing frequent changes of shape, like an amœba; related to the amœbas.\n{{smaller block|The corpuscle, in fact, has an inherent contractility, like one of those low organisms, known as an Amœba, whence its motions are frequently called ''amœbiform.''\n{{right|''Huxley'', Crayfish, p. 177.}}}}\n\n'''II.''' ''n.'' An amœba, or an animal or corpuscle of amœban character. See ''amœba'', 3.\n{{smaller block|Other genera of the ''amœbiforms.''\n{{right|''Coues'', Key to N. A. Birds, p. 192.}}}}\n\n'''Amœbina''' (am-ẹ̄-bī′nä̤), ''n. pl.''   [NL., < ''Amœba'' + ''-ina.'']   See ''Amœboidea.''\n\n'''amœbodont''' (a-mē′bọ̄-dont), ''a.''   [< Gr. ἀμοιβή, change, alternation, + ὀδούς (ὀδοντ-) = E. ''tooth.'']   A term descriptive of a form of lophodont dentition in which the crests or folds of the crowns of the molar teeth are alternate: opposed to ''antiodont.''\n\n'''amœboid''' (a-mē′boid), ''a.'' and ''n.''   [< ''amœba'' + ''-oid.'']   '''I.''' ''a.'' Of, pertaining to, or resembling an amœba: as, ''amœboid'' masses.\n\n{{smaller block|It is not uncommon for portions of the protoplasmic substance to pass into an ''amœboid'' condition.\n{{right|''W. B. Carpenter'', Micros., § 335.}}}}\n{{smaller block|The blood-corpuscles of Solen legumen, . . . besides colorless ''amœboid'' forms, comprise a vast number of oval ones, deeply stained by hæmoglobin.\n{{right|''E. R. Lankester'', Pref. to Gegenbaur’s Comp. Anat., p. 10.}}}}\n{{smaller|'''Amœboid cell.''' See ''cell.''—'''Amœboid movements,''' constant changes of shape of an amœba or other single-celled organism, as an ovum, a cytode, or a formative cell of any of the higher animals; especially, such movements as are exhibited, for example, by the white corpuscles of the blood of man, the resemblance of such objects to an amœba being striking, and their morphological characters being nearly identical.}}\n\n'''II.''' ''n.'' An amœbiform organism; one of the ''Amœbidæ''.\n\n'''Amœboidea''' (am-ẹ̄-boi′dẹ̄-ä̤), ''n. pl.''   [NL., < ''Amœba'' + ''-oidea.'']   An order of amœbiform rhizopodous ''Protozoa'', of which the genus ''Amœba'', of the family ''Amœbidæ'', is the type. {{smaller|This order is practically distinguished from ''Monera'' by the presence of a nucleus, and from the ''Foraminifera'' and ''Radiolaria'' by the absence of a complete calcareous or silicious shell. The terms ''Amœboidea'', ''Amœbina'', ''Amœbœa'', and ''Amœbœ'' (see ''Amœbœ'') are more or less nearly synonymous; but the definition of the groups of amœbiform animals varies with almost every leading writer. See ''amœba''.}}\n\n'''amœbous''' (a-mē′bus), ''a.''   [< ''amœba'' + ''-ous.'']   Of or pertaining to the genus ''Amœba''; resembling an amœba in structure. Also ''amœban''.\n\n'''amœbula''' (a-mē′bū-lä̤), ''n.''; pl. ''amœbulæ'' (-lē).   [NL., dim. of ''amœba.'']   A little amœba.   ''E. R. Lankester'', Encyc. Brit., XIX. 840.\n\n'''amœnomania''' (a-mē-nọ̄-mā′ni-ä̤), ''n.''   [NL., < L. ''amœnus'', pleasant (see ''amene''), + ''mania'', < Gr. μανία, mania.]   A form of mania in which the hallucinations are of an agreeable nature.\n\n'''amoinder†''', ''v. t.''   [< F. ''amoindrir'', lessen, < ''à'', to, + ''moindre'', < L. ''minor'', less.]   To lessen or diminish.   ''Donne.''\n\n'''amok''' (ä-mok′), ''a.'' or ''adv.'' See ''amuck.''\n\n'''amole''' (ä-mō′le), ''n.''   [Mex.]   '''1.''' A Mexican name for the roots of various species of plants which have detergent properties and are used as a substitute for soap.—'''2.''' The name of several plants which furnish these roots. {{smaller|In New Mexico and adjacent parts of Mexico the most common species is the lechuguilla, ''Agave heteracantha.'' In California the name is given especially to ''Chlorogalum pomeridianum'', a liliaceous plant having large bulbs coated with coarse brown fibers, of which mattresses are made. See ''soap-plant.''}}\n\n'''amolish†''', ''v. t.''   [< OF. ''amoliss-'', stem of certain parts of ''amolir'', < L. ''amoliri'', remove with an effort, < ''a'' for ''ab'', away, + ''moliri'', exert one’s self upon, move, < ''moles'', a heavy mass: see ''mole''<sup>3</sup>. Cf. ''demolish.'']   To remove forcibly; put away with an effort. [Rare.]\n\n'''amolition†''', ''n.''   [< L. ''amolitio(n-)'', < ''amoliri'', pp. ''amolitus'', remove: see ''amolish.'']   A putting away; removal. [Rare.]\n\n'''amollish†''', ''v. t.''   [< ME. ''amolisshen'', < OF. ''amoliss-'', stem of certain parts of ''amolir'', F. ''amollir'', soften, < ''a-'' (< L. ''ad'', to) + ''molir'', < L. ''mollire'', soften, < ''mollis'', soft: see ''moll'', ''mollify.'']   To soften; mollify; mitigate.\n\n'''amollishment†''' (a-mol′ish-mẹnt), ''n.''   [Also written ''amolishment'', < F. ''amollissement'': see ''amollish'' and ''-ment.'']   Softening; mitigation.   ''Donne.'' (''N. E. D.'')\n\n'''Amomum''' (a-mō′mum), ''n.''   [L., also ''amomon'', < Gr. ἄμωμον, applied to an Eastern spice-plant; origin uncertain.]   A genus of plants, natural order ''Scitamineæ'', belonging to tropical regions of the old world, and allied to the ginger-plant. {{smaller|They are herbaceous, with creeping rootstocks and large sheathing leaves, and are remarkable for the pungency and aromatic properties of their seeds. Several species yield the cardamoms and grains of paradise of commerce.}}\n\n'''amonest†''', ''v. t.'' An old form of ''admonish''.\n\n'''among''' (a̤-mung′), ''prep.'' and ''adv.'', orig. ''prep. phr.''   [In early mod. E. in two mixed forms: (1) ''among'', < ME. ''among'', ''amonge'', ''amang'', ''amange'', < AS. ''āmang'' (rare and late), contr. of usual ''onmang'', prep.; (2) ''emong'', < ME. ''emong'', ''emonge'', ''emang'', ''imong'', ''ymong'' (''enmong'', ''inmong''), < AS ''gemang'' (= OFries. ''mong''), prep.; both ''onmang'' and ''gemang'' are contractions of the full form ''ongemang'', prep., originally separated, ''on gemang'' (orig. followed by gen.), lit. in (the) crowd or company (of): ''on'', prep., on, in (see ''a-''<sup>3</sup>); ''gemang'', a crowd, assembly: see ''meng'' and ''mingle''. Cf. the extended form ''amongst''.]   '''I.''' ''prep.'' '''1.''' In or into the midst of; in association or connection with: as, he fell ''among'' thieves; one ''among'' this people.\n{{smaller block|A practice there is ''among'' us to determine doubtful matters by the opening of a book.\n{{right|''Sir T. Browne'', Vulg. Err.}}}}\n{{smaller block|<poem>\nI stood\n''Among'' them, but not of them.\n</poem>\n{{right|''Byron'', Childe Harold, iii. 113.}}}}\n{{smaller block|<poem>\nShe dwelt ''among'' the untrodden ways\nBeside the springs of Dove.\n</poem>\n{{right|''Wordsworth'', Lucy.}}}}\n'''2.''' In the number of; of or out of.\n{{smaller block|My beloved is . . . the chiefest ''among'' ten thousand.\n{{right|Cant. v. 10.}}}}\n\n{{smaller block|Blessed art thou ''among'' women. {{right|Luke i. 28.}}}}\n{{smaller block|The years during which Bacon held the Great Seal were ''among'' . . . the most shameful in English history. Everything at home and abroad was mismanaged.\n{{right|''Macaulay'', Lord Bacon.}}}}\n'''3.''' By the joint action or consent of; with the common aid or knowledge of: as, settle it ''among'' yourselves; the mischief was done ''among'' you.\n{{smaller block|You have, ''among'' you, killed a sweet and innocent lady.\n{{right|''Shak.'', Much Ado, v. i.}}}}\n'''4.''' To each of; by or for distribution to: as, he gave five dollars to be divided ''among'' them.\n{{smaller block|What are they [five loaves and two fishes] ''among'' so many? {{right|John vi. 9.}}}}\n'''5†.''' In the circumstances of; during the time or term of; in the course of.\n{{smaller block|I never went to any place ''among'' all my life . . . which I had before . . . thought of.\n{{right|''Baxter'', in Tulloch’s Eng. Puritanism, p. 306. (''N. E. D.'')}}}}\n'''II.†''' ''adv.'' '''1.''' Together (with something).\n{{smaller block|<poem>Doȝttur, temper well thi tonge,\n& vse not monny tallis [many tales];\nFor lessynggis [leasings] wyll lepe out ''amonge'',\nThat oftyn brewis ballys [bales, mischiefs].</poem>\n{{right|''The Good Wyfe wold a Pylgremage'', l. 85. (E. E. T. S., [extra ser. VIII., i. 41.)}}}}\n'''2.''' At intervals; here and there.\n{{smaller block|<poem>They [the fowles] sate ''amonge''\nUpon my chambre roofe withoute,\nUpon the tyles over al aboute.</poem>\n{{right|''Chaucer'', Death of Blanche, l. 298.}}}}<noinclude><references/></noinclude>"
+}

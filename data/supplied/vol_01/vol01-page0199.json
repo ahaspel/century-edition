@@ -1,0 +1,209 @@
+{
+ "volume": 1,
+ "page_number": 199,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n198.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n198.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 741,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     77,
+     135,
+     2288,
+     171
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     77,
+     171,
+     823,
+     1158
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     77,
+     1158,
+     823,
+     2257
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     77,
+     2257,
+     823,
+     3279
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     823,
+     171,
+     1564,
+     1245
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     823,
+     1245,
+     1564,
+     2306
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     823,
+     2306,
+     1564,
+     3279
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1564,
+     171,
+     2288,
+     1257
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1564,
+     1257,
+     2288,
+     2288
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1564,
+     2288,
+     2288,
+     3279
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1983,
+     2676,
+     2288,
+     3086
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|amen|173|ament}}",
+   "c1s1": "'''2.''' To say the last word to; end; finish.\n{{smaller block|This very evening have I ''amen’d'' the volume.\n{{right|''Southey'', Letters (1812), II. 281.}}}}\n[Rare in both uses.]\n\n'''amenability''' (a-mē-nạ-bil′ị-ti), ''n.'' [< ''amenable: see -bility.''] Amenableness.\n{{smaller block|There was about him a high spirit and ''amenability'' to the point of honor which years of a dog’s life had not broken. {{right|''R. H. Dana, Jr.'', Before the Mast, p. 237.}}}}\n\n'''amenable''' (a-mē′nạ-bl), ''a.'' [Early mod. E. also ''ameanable'', ''amainable'', and corruptly ''amesnable'', < F. as if *''amenable'', < ''amener'', bring or lead, fetch in or to: see ''amain''<sup>2</sup> and ''-able''.] '''1.''' Liable to make answer or defense; answerable; accountable; responsible: said of persons.\n{{smaller block|The sovereign of this country is not ''amenable'' to any form of trial known to the laws. {{right|''Junius'', Pref. to Letters.}}\nWe must hold a man ''amenable'' to reason for the choice of his daily craft or profession. {{right|''Emerson'', Spiritual Laws.}}}}\n'''2.''' Under subjection or subordination; liable or exposed, as to authority, control, claim, or application: said of persons or things: as, persons or offenses ''amenable'' to the law; ''amenable'' to criticism.\n{{smaller block|The same witness . . . is ''amenable'' to the same imputation of uncandid . . . quotation.\n{{right|''E. Mellor'', Priesthood, p. 312. (''N. E. D.'')}}}}\n'''3.''' Disposed or ready to answer, yield, or submit, as to influence or advice; submissive.\n{{smaller block|Sterling . . . always was ''amenable'' enough to counsel.\n{{right|''Carlyle''.}}}}",
+   "c1s2": "¶\n'''amenableness''' (a̤-mē′na̤-bl-nes), ''n.'' The state of being amenable; liability to answer; disposition to respond to; tractableness.\n\n'''amenably''' (a̤-mē′na̤-bli), ''adv.'' In an amenable manner.\n\n'''amenage†''', ''v. t.'' [< OF. ''amenager'', earlier ''amesnagier'', govern, rule, order, < ''a'' (L. ''ad'', to) + ''menage'', ''mesnage'', F. ''ménage'', household: see ''manage''.] To bring into a state of subordination; manage.\n{{smaller block|With her, whoso will raging Furor tame,<br>Must first begin, and well her ''amenage''.\n{{right|''Spenser'', F. Q., II. iv. 11.}}}}\n\n'''amenance†''', ''n.'' [< OF. ''amenance'', conducting, < ''amener'', bring or lead to, conduct: see ''amenable'' and ''amain''<sup>2</sup>.] Mien or carriage; conduct; behavior.\n{{smaller block|With grave speech and comely ''amenance''.\n{{right|''P. Fletcher'', Purple Island, xi. 9.}}}}\n\n'''amend''' (a̤-mend′), ''v.'' [< ME. ''amenden'', < OF. ''amender'', correct, amend, better, recompense, make amends for, mod. F. ''amender'' = Pr. ''emendar'' = It. ''ammendare'', < L. ''ēmendāre'', free from fault, correct, < ''ē'' for ''ex'', out of, + ''menda'' or ''mendum'', a fault, defect, blemish (in the body), a fault, mistake, error (in writing, etc.), = Skt. ''mindā'', a personal defect, prob. connected with L. ''minor'', less: see ''minor'', ''minish'', etc. Abbr. ''mend''; doublet, ''emend'', directly from the L.: see ''mend'', ''emend''.] '''I.''' ''trans.'' '''1.''' To free from faults; make better, or more correct or proper; change for the better; correct; improve; reform.\n{{smaller block|''Amend'' your ways and your doings, and I will cause you to dwell in this place.\n{{right|Jer. vii. 3.}}}}",
+   "c1s3": "¶\n{{smaller block|Thou hearest thy faults told thee, ''amend'' them, ''amend'' them.\n{{right|''Latimer'', Sermon of the Plough.}}}}\n{{smaller block|It does not require much prescience to see that, whether England does so or not, the Americans will ere long adopt an ''amended'' spelling.\n{{right|''J. A. H. Murray'', 9th Ann. Addr. to Philol. Soc.}}}}\n'''2.''' To make a change or changes in the form of, as a bill or motion, or a constitution; properly, to improve in expression or detail, but by usage to alter either in construction, purport, or principle.—'''3.''' To repair; mend. [Now rare.]—'''4†.''' To heal or recover (the sick); cure (a disease). ='''Syn.''' {{smaller|''Amend, Improve, Better, Emend, Mend, Correct, Rectify, Reform, Ameliorate. Amend'' is generally to bring into a more perfect state by the removal of defects: as, to ''amend'' a record or one’s manner of life. ''Improve'' and ''better'' are the only words in the list that do not necessarily imply something previously wrong; they may mean the heightening of excellence: as, to ''improve'' land or one’s penmanship. ''Better'' is also used in the sense of surpass. ''Correct'' and ''rectify'' are, by derivation, to make right; they are the most absolute, as denoting the bringing of a thing from an imperfect state into conformity with some standard or rule: as, to ''correct'' proof; to ''rectify'' an error in accounts. To ''mend'' is to repair or restore that which has become impaired: as, to ''mend'' a shoe, a bridge, etc. Applied to things other than physical, it may be equivalent to ''amend:'' as, to ''mend'' one’s manners. ''Emend'' has especially the limited meaning of restoring or attempting to restore the text of books. ''Reform'' is to form over again for the better, either by returning the thing to its previous state or by bringing it up to a new one; or it may be to remove by reform: as, to ''reform'' the laws; to ''reform'' abuses. ''Ameliorate'' is not commonly applied to persons and things, but to condition and kindred abstractions; it expresses painstaking effort followed by some measure of success: as, to ''ameliorate'' the condition of the poor.}}",
+   "c2s1": "{{smaller block|She begged him forthwith to ''amend'' his ways, for the sake of his name and fame.\n{{right|''Motley'', Dutch Republic, III. 386.}}}}\n\n{{smaller block|The weeds of a field, which if destroyed and consumed upon the place where they grow, enrich and ''improve'' it more than if none had ever sprung there.\n{{right|''Swift.''}}}}\n\n{{smaller block|<poem>Striving to ''better'', oft we mar what’s well.</poem>\n{{right|''Shak.'', Lear, i. 4.}}}}\n\n{{smaller block|The villainy you teach me I will execute, and it shall go hard but I will ''better'' the instructions.\n{{right|''Shak.'', M. of V., iii. 1.}}}}\n\n{{smaller block|The text should be ''emended'' so as to read “tetragonus sine vituperio,” a square without a fault, which I have no doubt may be found in some Latin Aristotle.\n{{right|''N. and Q.'', 7th ser., I. 65.}}}}\n\n{{smaller block|<poem>He that lacks time to mourn lacks time to ''mend'';\nEternity mourns that.</poem>\n{{right|''Sir H. Taylor'', Philip Van Artevelde, I., i. 4.}}}}\n\n{{smaller block|There are certain defects of taste which ''correct'' themselves by their own extravagance.\n{{right|''Lowell'', Study Windows, p. 401.}}}}\n\n{{smaller block|<poem>''Reform’d'' my will, and ''rectify’d'' my thought.</poem>\n{{right|''Sir J. Davies'', Introd. to Immortal. of Soul.}}}}\n\n{{smaller block|Some men, from a false persuasion that they cannot ''reform'' their lives and root out their old vicious habits, never so much as attempt, endeavour, or go about it.\n{{right|''South.''}}}}\n\n{{smaller block|It is a cheering thought throughout life, that something can be done to ''ameliorate'' the condition of those who have been subject to the hard usages of the world.\n{{right|''Lincoln'', in Raymond, p. 470.}}}}\n\n'''II.''' ''intrans.'' '''1.''' To grow or become better by reformation, or by rectifying something wrong in manners or morals.\n\n{{smaller block|Anything that’s mended is but patched: virtue that transgresses is but patched with sin; and sin that ''amends'' is but patched with virtue.\n{{right|''Shak.'', T. N., i. 5.}}}}\n\n'''2.''' To become better (in health); recover from",
+   "c2s2": "illness.\n{{smaller block|Then enquired he of them the hour when he began to ''amend''. And they said unto him, Yesterday at the seventh hour the fever left him.\n{{right|John iv. 52.}}}}\n\n'''amend''' (ạ-mend′), ''n.'' [Sing. of ''amends'', q. v.] Compensation: generally used in the plural. See ''amends.''\n{{smaller block|<poem>And so to Finland’s sorrow\nThe sweet ''amend'' is made.</poem>\n{{right|''Whittier'', Conquest of Finland.}}}}\n\n'''amendable''' (ạ-men′dạ-bl), ''a.'' [< ME. ''amendable'', < OF. ''amendable'', < L. ''ēmendābilis'', < ''emendare'', correct: see ''amend'', ''v.'', and cf. ''emendable.''] Capable of being amended or corrected: as, an ''amendable'' writ or error.\n\n'''amendatory''' (ạ-men′dạ-tọ̄-ri), ''a.'' [< ''amend'' + ''-at-ory'', like ''emendatory'', < LL. ''emendatorius'', corrective.] Supplying or containing amendment; corrective.\n{{smaller block|I presume this is an omission by mere oversight, and I recommend that it be supplied by an ''amendatory'' or supplemental act.\n{{right|''Lincoln'', in Raymond, p. 184.}}}}\n\n'''amende''' (ạ-mend′; F. pron. a-moṅd′), ''n.'' [F., a fine, a penalty, amends: see ''amends.''] '''1.''' A pecuniary punishment or fine.—'''2.''' A recantation or reparation.—'''Amende honorable,''' {{smaller|in ''anc. French law'', a public confession and apology made, under certain humiliating conditions, by persons convicted of offenses against law, morality, or religion. It is thus defined by Cotgrave: “A most ignominious punishment inflicted upon an extream offender, who must go through the streets barefoot and bareheaded (with a burning link in his hand) unto the seat of justice, or some such publick place, and there confess his offence, and ask forgiveness of the party he hath wronged.” It was abolished in 1791, reintroduced in cases of sacrilege in 1826, and finally abro-}}",
+   "c2s3": "{{smaller|gated in 1830. The phrase now signifies any open apology and reparation to an injured person for improper language or treatment.}}\n\n{{smaller block|She was condemned to make the ''amende honorable'', that is, to confess her delinquency, at the end of a public religious procession, with a lighted taper in her hand, and to be imprisoned during the pleasure of the King of France.\n{{right|''Miss Strickland'', Queens of Eng., Henrietta Maria.}}}}\n\n'''amender''' (a̤-men′dėr), ''n.'' One who amends.\n\n{{smaller block|We find this digester of codes, ''amender'' of laws, . . . permitting . . . one of the most atrocious acts of oppression.\n{{right|''Brougham.''}}}}\n\n'''amendful†''' (a̤-mend′fu̇l), ''a.'' [< ''amend'' + ''-ful.''] Full of amendment or improvement.\n\n{{smaller block|Your most ''amendful'' and unmatched fortunes.\n{{right|''Fletcher'' (''and others''), Bloody Brother, iii. 1.}}}}\n\n'''amendment''' (a̤-mend′ment), ''n.'' [< ME. ''amendement'', < OF. ''amendement'', < ''amender'': see ''amend'', ''v.'', and ''-ment.''] '''1.''' The act of freeing from faults; the act of making better, or of changing for the better; correction; improvement; reformation: as, “''amendment'' of life,” ''Hooker.''\n{{smaller block|Her works are so perfect that there is no place for ''amendments.''\n{{right|''Ray'', Creation.}}}}\n'''2.''' The act of becoming better, or the state of having become better; specifically, recovery of health.\n{{smaller block|<poem>Your honour’s players, hearing your ''amendment'',\nAre come to play a pleasant comedy.</poem>\n{{right|''Shak.'', T. of the S., Ind. 2.}}}}\n'''3.''' In ''deliberative assemblies'', an alteration proposed to be made in the draft of a bill, or in the",
+   "c3s1": "{{smaller|terms of a motion under discussion.}} {{smaller|Any such alteration is termed an ''amendment'', even when its effect is entirely to reverse the sense of the original bill or motion.}}\n\n'''4.''' An alteration of a legislative or deliberative act or in a constitution; a change made in a law, either by way of correction or addition. {{smaller|Amendments to the Constitution of the United States may be proposed by a majority of two thirds of both houses of Congress, or by a convention summoned by Congress on the application of the legislatures of two thirds of the States, and enacted by their ratification by the legislatures of three fourths of the States, or by conventions in three fourths of them, as Congress may determine.}}\n\n'''5.''' In ''law'', the correction of an error in a writ, record, or other judicial document.—'''6†.''' Compensation; reparation. ''Chaucer'', Reeve’s Tale.\n\n{{smaller|='''Syn. 1.''' Emendation, betterment.—'''2.''' ''Reform'', etc. See ''reformation''.}}\n\n'''amendment-monger''' (a̤-mend′ment-mung″-gėr), ''n.'' One who makes a business of suggesting and urging constitutional amendments: a term especially applied in United States history to the Anti-Federalists.\n\n'''amends''' (a̤-mendz′), ''n. pl.'' [< ME. ''amendes'', ''amendis'', always in plural, < OF. ''amendes'', pl. of ''amende'', a penalty, a fine, mulct, mod. F. ''amende'' (ML. ''amenda''), < ''amender'': see ''amend'', ''v.''] '''1.''' Compensation for a loss or injury; recompense; satisfaction; equivalent.\n{{smaller block|Yet thus far fortune maketh us ''amends''.\n{{right|''Shak.'', 3 Hen. VI., iv. 7.}}\nFinding ''amends'' for want and obscurity in books and thoughts.\n{{right|''Emerson'', Burns.}}}}\n'''2†.''' Recovery of health; amendment.\n{{smaller block|Now, Lord be thanked for my good ''amends''!}}",
+   "c3s2": "{{smaller block|{{right|''Shak.'', T. of the S., Ind., 2.}}}}\n\n'''amendsful†''' (a̤-mendz′fu̇l), ''a.'' [< ''amends'' + ''-ful.''] Making amends; giving satisfaction. ''Chapman.''\n\n'''amene''' (a̤-mēn′), ''a.'' [< ME. ''amene'', < OF. *''amene'' (in adv. ''amenement''), < L. ''amœnus'', pleasant, connected with ''amare'', love: see ''amiable'', ''amor'', ''amour''.] Pleasant; agreeable. [Rare.]\n\n{{smaller block|The ''amene'' delta of the lovely Niger.\n{{right|''R. F. Burton'', Abbeokuta, I. i.}}}}\n\n'''amenity''' (a̤-men′i̤-ti), ''n.''; pl. ''amenities'' (-tiz). [< F. ''aménité'', < L. ''amœnita(t-)s'', < ''amœnus'', pleasant: see ''amene''.] '''1.''' The quality of being pleasant or agreeable in situation, prospect, climate, temper, disposition, manners, etc.; pleasantness; pleasingness; an affable manner.\n\n{{smaller block|After . . . discovering places which were so full of ''amenity'' that melancholy itself could not but change its humor as it gazed, the followers of Calvin planted themselves on the banks of the river May.\n{{right|''Bancroft'', Hist. U. S., I. 55.}}\nRoman childishness seems to me so intuitively connected with Roman ''amenity'', urbanity, and general gracefulness, that, for myself, I should be sorry to lay a tax on it, lest these other commodities should also cease to come to market. {{right|''H. James, Jr.'', Trans. Sketches, p. 115.}}}}\n\n'''2.''' That which is agreeable or pleasing.\n\n{{smaller block|The suburbs are large, the prospects sweete, with other ''amenities'', not omitting the flower gardens.\n{{right|''Evelyn'', Diary, Oct. 17, 1671.}}}}\n\n{{smaller|'''Amenity damages''', in Great Britain, damages given for the defacement of grounds, especially around dwelling-houses, or for annoyance or loss of amenity, caused by the building of a railway, construction of public works, etc.}}",
+   "c3s3": "¶\n'''amenorrhea, amenorrhœa''' (a-men-ọ̄-rē′ä̤), ''n.'' [NL. ''amenorrhœa'', < Gr. ἀ- priv. + μήν, month (pl. μῆνες, menses), + ῥοία, a flow, < ῥεῖν, flow.] A suppression of menses, especially from other causes than age or pregnancy.\n\n'''amenorrheal, amenorrhœal''' (a-men-ọ̄-rē′a̤l), ''a.'' Pertaining to or produced by amenorrhea: as, ''amenorrheal'' insanity.\n\n'''amenorrheic, amenorrhœic''' (a-men-ọ̄-rē′ik), ''a.'' [< ''amenorrhea''.] Same as ''amenorrheal''.\n\n'''a mensa et thoro''' (ā men′sä̤ et thō′rō). [L.: ''ā'' for ''ab'', from; ''mensa'', abl. of ''mensa'', table; ''et'', and;\n[[FIGURE]]\n{{c|{{smaller|Aments.}}}}\n{{c|{{smaller|Willow (''Salix fragilis''), with separate flowers, male (upper figure) and female (lower figure).}}}}\n''thoro'', abl. of ''thorus'' (prop. ''torus''), bed: see ''torus''.] From board and bed: in ''law'', a phrase descriptive of a kind of divorce in which the husband continues to maintain the wife, and the marriage-bond is not dissolved: now superseded by a decree of judicial separation.\n\n'''ament''' (am′ent), ''n.'' [< L. ''amentum'', a strap or thong, esp. on missile weapons; also, rarely, a shoe-string; < OL. ''apere'', bind, fasten, > L. ''aptus'', apt: see ''apt''.] In ''bot.'', a kind of inflorescence consisting of unisexual apetalous flowers growing in the"
+  },
+  "figure_files": {
+   "c3f1": "century v01 p0199 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1995,
+     2688,
+     2288,
+     3074
+    ],
+    "caption": [
+     1993,
+     3076,
+     2287,
+     3188
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1997,
+     2642,
+     2289,
+     3074
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4058,
+    "output_tokens": 93,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 10,
+    "input_tokens": 9400,
+    "output_tokens": 10408,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|amen|173|ament}}</noinclude>'''2.''' To say the last word to; end; finish.\n{{smaller block|This very evening have I ''amen’d'' the volume.\n{{right|''Southey'', Letters (1812), II. 281.}}}}\n[Rare in both uses.]\n\n'''amenability''' (a-mē-nạ-bil′ị-ti), ''n.''   [< ''amenable: see -bility.'']   Amenableness.\n{{smaller block|There was about him a high spirit and ''amenability'' to the point of honor which years of a dog’s life had not broken. {{right|''R. H. Dana, Jr.'', Before the Mast, p. 237.}}}}\n\n'''amenable''' (a-mē′nạ-bl), ''a.''   [Early mod. E. also ''ameanable'', ''amainable'', and corruptly ''amesnable'', < F. as if *''amenable'', < ''amener'', bring or lead, fetch in or to: see ''amain''<sup>2</sup> and ''-able''.]   '''1.''' Liable to make answer or defense; answerable; accountable; responsible: said of persons.\n{{smaller block|The sovereign of this country is not ''amenable'' to any form of trial known to the laws. {{right|''Junius'', Pref. to Letters.}}}}\n{{smaller block|We must hold a man ''amenable'' to reason for the choice of his daily craft or profession. {{right|''Emerson'', Spiritual Laws.}}}}\n'''2.''' Under subjection or subordination; liable or exposed, as to authority, control, claim, or application: said of persons or things: as, persons or offenses ''amenable'' to the law; ''amenable'' to criticism.\n{{smaller block|The same witness . . . is ''amenable'' to the same imputation of uncandid . . . quotation.\n{{right|''E. Mellor'', Priesthood, p. 312. (''N. E. D.'')}}}}\n'''3.''' Disposed or ready to answer, yield, or submit, as to influence or advice; submissive.\n{{smaller block|Sterling . . . always was ''amenable'' enough to counsel.\n{{right|''Carlyle''.}}}}\n\n'''amenableness''' (a̤-mē′na̤-bl-nes), ''n.'' The state of being amenable; liability to answer; disposition to respond to; tractableness.\n\n'''amenably''' (a̤-mē′na̤-bli), ''adv.'' In an amenable manner.\n\n'''amenage†''', ''v. t.''   [< OF. ''amenager'', earlier ''amesnagier'', govern, rule, order, < ''a'' (L. ''ad'', to) + ''menage'', ''mesnage'', F. ''ménage'', household: see ''manage''.]   To bring into a state of subordination; manage.\n{{smaller block|With her, whoso will raging Furor tame,<br>Must first begin, and well her ''amenage''.\n{{right|''Spenser'', F. Q., II. iv. 11.}}}}\n\n'''amenance†''', ''n.''   [< OF. ''amenance'', conducting, < ''amener'', bring or lead to, conduct: see ''amenable'' and ''amain''<sup>2</sup>.]   Mien or carriage; conduct; behavior.\n{{smaller block|With grave speech and comely ''amenance''.\n{{right|''P. Fletcher'', Purple Island, xi. 9.}}}}\n\n'''amend''' (a̤-mend′), ''v.''   [< ME. ''amenden'', < OF. ''amender'', correct, amend, better, recompense, make amends for, mod. F. ''amender'' = Pr. ''emendar'' = It. ''ammendare'', < L. ''ēmendāre'', free from fault, correct, < ''ē'' for ''ex'', out of, + ''menda'' or ''mendum'', a fault, defect, blemish (in the body), a fault, mistake, error (in writing, etc.), = Skt. ''mindā'', a personal defect, prob. connected with L. ''minor'', less: see ''minor'', ''minish'', etc. Abbr. ''mend''; doublet, ''emend'', directly from the L.: see ''mend'', ''emend''.]   '''I.''' ''trans.'' '''1.''' To free from faults; make better, or more correct or proper; change for the better; correct; improve; reform.\n{{smaller block|''Amend'' your ways and your doings, and I will cause you to dwell in this place.\n{{right|Jer. vii. 3.}}}}\n\n{{smaller block|Thou hearest thy faults told thee, ''amend'' them, ''amend'' them.\n{{right|''Latimer'', Sermon of the Plough.}}}}\n{{smaller block|It does not require much prescience to see that, whether England does so or not, the Americans will ere long adopt an ''amended'' spelling.\n{{right|''J. A. H. Murray'', 9th Ann. Addr. to Philol. Soc.}}}}\n'''2.''' To make a change or changes in the form of, as a bill or motion, or a constitution; properly, to improve in expression or detail, but by usage to alter either in construction, purport, or principle.—'''3.''' To repair; mend. [Now rare.]—'''4†.''' To heal or recover (the sick); cure (a disease). ='''Syn.''' {{smaller|''Amend, Improve, Better, Emend, Mend, Correct, Rectify, Reform, Ameliorate. Amend'' is generally to bring into a more perfect state by the removal of defects: as, to ''amend'' a record or one’s manner of life. ''Improve'' and ''better'' are the only words in the list that do not necessarily imply something previously wrong; they may mean the heightening of excellence: as, to ''improve'' land or one’s penmanship. ''Better'' is also used in the sense of surpass. ''Correct'' and ''rectify'' are, by derivation, to make right; they are the most absolute, as denoting the bringing of a thing from an imperfect state into conformity with some standard or rule: as, to ''correct'' proof; to ''rectify'' an error in accounts. To ''mend'' is to repair or restore that which has become impaired: as, to ''mend'' a shoe, a bridge, etc. Applied to things other than physical, it may be equivalent to ''amend:'' as, to ''mend'' one’s manners. ''Emend'' has especially the limited meaning of restoring or attempting to restore the text of books. ''Reform'' is to form over again for the better, either by returning the thing to its previous state or by bringing it up to a new one; or it may be to remove by reform: as, to ''reform'' the laws; to ''reform'' abuses. ''Ameliorate'' is not commonly applied to persons and things, but to condition and kindred abstractions; it expresses painstaking effort followed by some measure of success: as, to ''ameliorate'' the condition of the poor. She begged him forthwith to ''amend'' his ways, for the sake of his name and fame.\n{{right|''Motley'', Dutch Republic, III. 386.}}}}\n\n{{smaller block|The weeds of a field, which if destroyed and consumed upon the place where they grow, enrich and ''improve'' it more than if none had ever sprung there.\n{{right|''Swift.''}}}}\n\n<poem>Striving to ''better'', oft we mar what’s well.</poem>\n{{smaller block|{{right|''Shak.'', Lear, i. 4.}}}}\n\n{{smaller block|The villainy you teach me I will execute, and it shall go hard but I will ''better'' the instructions.\n{{right|''Shak.'', M. of V., iii. 1.}}}}\n\n{{smaller block|The text should be ''emended'' so as to read “tetragonus sine vituperio,” a square without a fault, which I have no doubt may be found in some Latin Aristotle.\n{{right|''N. and Q.'', 7th ser., I. 65.}}}}\n\n<poem>He that lacks time to mourn lacks time to ''mend'';\nEternity mourns that.</poem>\n{{smaller block|{{right|''Sir H. Taylor'', Philip Van Artevelde, I., i. 4.}}}}\n\n{{smaller block|There are certain defects of taste which ''correct'' themselves by their own extravagance.\n{{right|''Lowell'', Study Windows, p. 401.}}}}\n\n<poem>''Reform’d'' my will, and ''rectify’d'' my thought.</poem>\n{{smaller block|{{right|''Sir J. Davies'', Introd. to Immortal. of Soul.}}}}\n\n{{smaller block|Some men, from a false persuasion that they cannot ''reform'' their lives and root out their old vicious habits, never so much as attempt, endeavour, or go about it.\n{{right|''South.''}}}}\n\n{{smaller block|It is a cheering thought throughout life, that something can be done to ''ameliorate'' the condition of those who have been subject to the hard usages of the world.\n{{right|''Lincoln'', in Raymond, p. 470.}}}}\n\n'''II.''' ''intrans.'' '''1.''' To grow or become better by reformation, or by rectifying something wrong in manners or morals.\n\n{{smaller block|Anything that’s mended is but patched: virtue that transgresses is but patched with sin; and sin that ''amends'' is but patched with virtue.\n{{right|''Shak.'', T. N., i. 5.}}}}\n\n'''2.''' To become better (in health); recover from illness.\n{{smaller block|Then enquired he of them the hour when he began to ''amend''. And they said unto him, Yesterday at the seventh hour the fever left him.\n{{right|John iv. 52.}}}}\n\n'''amend''' (ạ-mend′), ''n.''   [Sing. of ''amends'', q. v.]   Compensation: generally used in the plural. See ''amends.''\n{{smaller block|<poem>And so to Finland’s sorrow\nThe sweet ''amend'' is made.</poem>\n{{right|''Whittier'', Conquest of Finland.}}}}\n\n'''amendable''' (ạ-men′dạ-bl), ''a.''   [< ME. ''amendable'', < OF. ''amendable'', < L. ''ēmendābilis'', < ''emendare'', correct: see ''amend'', ''v.'', and cf. ''emendable.'']   Capable of being amended or corrected: as, an ''amendable'' writ or error.\n\n'''amendatory''' (ạ-men′dạ-tọ̄-ri), ''a.''   [< ''amend'' + ''-at-ory'', like ''emendatory'', < LL. ''emendatorius'', corrective.]   Supplying or containing amendment; corrective.\n{{smaller block|I presume this is an omission by mere oversight, and I recommend that it be supplied by an ''amendatory'' or supplemental act.\n{{right|''Lincoln'', in Raymond, p. 184.}}}}\n\n'''amende''' (ạ-mend′; F. pron. a-moṅd′), ''n.''   [F., a fine, a penalty, amends: see ''amends.'']   '''1.''' A pecuniary punishment or fine.—'''2.''' A recantation or reparation.—'''Amende honorable,''' {{smaller|in ''anc. French law'', a public confession and apology made, under certain humiliating conditions, by persons convicted of offenses against law, morality, or religion. It is thus defined by Cotgrave: “A most ignominious punishment inflicted upon an extream offender, who must go through the streets barefoot and bareheaded (with a burning link in his hand) unto the seat of justice, or some such publick place, and there confess his offence, and ask forgiveness of the party he hath wronged.” It was abolished in 1791, reintroduced in cases of sacrilege in 1826, and finally abrogated in 1830. The phrase now signifies any open apology and reparation to an injured person for improper language or treatment.}}\n\n{{smaller block|She was condemned to make the ''amende honorable'', that is, to confess her delinquency, at the end of a public religious procession, with a lighted taper in her hand, and to be imprisoned during the pleasure of the King of France.\n{{right|''Miss Strickland'', Queens of Eng., Henrietta Maria.}}}}\n\n'''amender''' (a̤-men′dėr), ''n.'' One who amends.\n\n{{smaller block|We find this digester of codes, ''amender'' of laws, . . . permitting . . . one of the most atrocious acts of oppression.\n{{right|''Brougham.''}}}}\n\n'''amendful†''' (a̤-mend′fu̇l), ''a.''   [< ''amend'' + ''-ful.'']   Full of amendment or improvement.\n\n{{smaller block|Your most ''amendful'' and unmatched fortunes.\n{{right|''Fletcher'' (''and others''), Bloody Brother, iii. 1.}}}}\n\n'''amendment''' (a̤-mend′ment), ''n.''   [< ME. ''amendement'', < OF. ''amendement'', < ''amender'': see ''amend'', ''v.'', and ''-ment.'']   '''1.''' The act of freeing from faults; the act of making better, or of changing for the better; correction; improvement; reformation: as, “''amendment'' of life,” ''Hooker.''\n{{smaller block|Her works are so perfect that there is no place for ''amendments.''\n{{right|''Ray'', Creation.}}}}\n'''2.''' The act of becoming better, or the state of having become better; specifically, recovery of health.\n{{smaller block|<poem>Your honour’s players, hearing your ''amendment'',\nAre come to play a pleasant comedy.</poem>\n{{right|''Shak.'', T. of the S., Ind. 2.}}}}\n'''3.''' In ''deliberative assemblies'', an alteration proposed to be made in the draft of a bill, or in the {{smaller|terms of a motion under discussion.}} {{smaller|Any such alteration is termed an ''amendment'', even when its effect is entirely to reverse the sense of the original bill or motion.}}\n\n'''4.''' An alteration of a legislative or deliberative act or in a constitution; a change made in a law, either by way of correction or addition. {{smaller|Amendments to the Constitution of the United States may be proposed by a majority of two thirds of both houses of Congress, or by a convention summoned by Congress on the application of the legislatures of two thirds of the States, and enacted by their ratification by the legislatures of three fourths of the States, or by conventions in three fourths of them, as Congress may determine.}}\n\n'''5.''' In ''law'', the correction of an error in a writ, record, or other judicial document.—'''6†.''' Compensation; reparation.   ''Chaucer'', Reeve’s Tale.\n\n{{smaller|='''Syn. 1.''' Emendation, betterment.—'''2.''' ''Reform'', etc. See ''reformation''.}}\n\n'''amendment-monger''' (a̤-mend′ment-mung″-gėr), ''n.'' One who makes a business of suggesting and urging constitutional amendments: a term especially applied in United States history to the Anti-Federalists.\n\n'''amends''' (a̤-mendz′), ''n. pl.''   [< ME. ''amendes'', ''amendis'', always in plural, < OF. ''amendes'', pl. of ''amende'', a penalty, a fine, mulct, mod. F. ''amende'' (ML. ''amenda''), < ''amender'': see ''amend'', ''v.'']   '''1.''' Compensation for a loss or injury; recompense; satisfaction; equivalent.\n{{smaller block|Yet thus far fortune maketh us ''amends''.\n{{right|''Shak.'', 3 Hen. VI., iv. 7.}}}}\n{{smaller block|Finding ''amends'' for want and obscurity in books and thoughts.\n{{right|''Emerson'', Burns.}}}}\n'''2†.''' Recovery of health; amendment.\n{{smaller block|Now, Lord be thanked for my good ''amends''! {{right|''Shak.'', T. of the S., Ind., 2.}}}}\n\n'''amendsful†''' (a̤-mendz′fu̇l), ''a.''   [< ''amends'' + ''-ful.'']   Making amends; giving satisfaction.   ''Chapman.''\n\n'''amene''' (a̤-mēn′), ''a.''   [< ME. ''amene'', < OF. *''amene'' (in adv. ''amenement''), < L. ''amœnus'', pleasant, connected with ''amare'', love: see ''amiable'', ''amor'', ''amour''.]   Pleasant; agreeable. [Rare.]\n\n{{smaller block|The ''amene'' delta of the lovely Niger.\n{{right|''R. F. Burton'', Abbeokuta, I. i.}}}}\n\n'''amenity''' (a̤-men′i̤-ti), ''n.''; pl. ''amenities'' (-tiz).   [< F. ''aménité'', < L. ''amœnita(t-)s'', < ''amœnus'', pleasant: see ''amene''.]   '''1.''' The quality of being pleasant or agreeable in situation, prospect, climate, temper, disposition, manners, etc.; pleasantness; pleasingness; an affable manner.\n\n{{smaller block|After . . . discovering places which were so full of ''amenity'' that melancholy itself could not but change its humor as it gazed, the followers of Calvin planted themselves on the banks of the river May.\n{{right|''Bancroft'', Hist. U. S., I. 55.}}}}\n{{smaller block|Roman childishness seems to me so intuitively connected with Roman ''amenity'', urbanity, and general gracefulness, that, for myself, I should be sorry to lay a tax on it, lest these other commodities should also cease to come to market. {{right|''H. James, Jr.'', Trans. Sketches, p. 115.}}}}\n\n'''2.''' That which is agreeable or pleasing.\n\n{{smaller block|The suburbs are large, the prospects sweete, with other ''amenities'', not omitting the flower gardens.\n{{right|''Evelyn'', Diary, Oct. 17, 1671.}}}}\n\n{{smaller|'''Amenity damages''', in Great Britain, damages given for the defacement of grounds, especially around dwelling-houses, or for annoyance or loss of amenity, caused by the building of a railway, construction of public works, etc.}}\n\n'''amenorrhea, amenorrhœa''' (a-men-ọ̄-rē′ä̤), ''n.''   [NL. ''amenorrhœa'', < Gr. ἀ- priv. + μήν, month (pl. μῆνες, menses), + ῥοία, a flow, < ῥεῖν, flow.]   A suppression of menses, especially from other causes than age or pregnancy.\n\n'''amenorrheal, amenorrhœal''' (a-men-ọ̄-rē′a̤l), ''a.'' Pertaining to or produced by amenorrhea: as, ''amenorrheal'' insanity.\n\n'''amenorrheic, amenorrhœic''' (a-men-ọ̄-rē′ik), ''a.''   [< ''amenorrhea''.]   Same as ''amenorrheal''.\n\n'''a mensa et thoro''' (ā men′sä̤ et thō′rō).   [L.: ''ā'' for ''ab'', from; ''mensa'', abl. of ''mensa'', table; ''et'', and; {{img float|file=century v01 p0199 c3f1.png|width=148px|align=right|cap={{smaller|Aments.}}<br />{{smaller|Willow (''Salix fragilis''), with separate flowers, male (upper figure) and female (lower figure).}}}} ''thoro'', abl. of ''thorus'' (prop. ''torus''), bed: see ''torus''.]   From board and bed: in ''law'', a phrase descriptive of a kind of divorce in which the husband continues to maintain the wife, and the marriage-bond is not dissolved: now superseded by a decree of judicial separation.\n\n'''ament''' (am′ent), ''n.''   [< L. ''amentum'', a strap or thong, esp. on missile weapons; also, rarely, a shoe-string; < OL. ''apere'', bind, fasten, > L. ''aptus'', apt: see ''apt''.]   In ''bot.'', a kind of inflorescence consisting of unisexual apetalous flowers growing in the<noinclude><references/></noinclude>"
+}

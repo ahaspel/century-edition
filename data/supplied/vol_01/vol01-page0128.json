@@ -1,0 +1,237 @@
+{
+ "volume": 1,
+ "page_number": 128,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n127.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n127.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 749,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     116,
+     130,
+     2348,
+     173
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     116,
+     173,
+     862,
+     979
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     116,
+     979,
+     862,
+     2077
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     116,
+     2077,
+     862,
+     3065
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     116,
+     3065,
+     862,
+     3276
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     862,
+     173,
+     1607,
+     1118
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     862,
+     1118,
+     1607,
+     2184
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     862,
+     2184,
+     1607,
+     3276
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1607,
+     173,
+     2348,
+     1090
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1607,
+     1090,
+     2348,
+     2152
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     2185,
+     1191,
+     2348,
+     1350
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1607,
+     2152,
+     2348,
+     2962
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1607,
+     2962,
+     2348,
+     3276
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|afform|102|affy}}",
+   "c1s1": "¶\n'''afform†''' (a-fôrm′), ''v. t.'' [< OF. ''aformer'', < ''a''- (L. ''ad'', to) + ''former'', form.] To form; model; cause to conform.\n\n'''afformative''' (a-fôr′ma-tiv), ''n.'' [< ''af''- (L. ''ad'', to) + ''formative''.] In ''philol.'', an affix; a formative addition to a word or stem.\n\n'''affranchise''' (a-fran′chiz or -chīz), ''v. t.''; pret. and pp. ''affranchised'', ppr. ''affranchising''. [< late ME. ''affranchyse'', ''afranchise'', < OF. ''afranchiss''-, F. ''affranchiss''-, stem of certain parts of OF. ''afranchir'', F. ''affranchir'', make free, < ''a'' (L. ''ad''), to, + ''franc'', free: see ''frank'' and ''franchise''.] To make free; enfranchise.\n\n'''affranchisement''' (a-fran′chiz-ment), ''n.'' [< F. ''affranchissement''.] The act of setting free, or of liberating from a state of dependence, servitude, or obligation; enfranchisement.\n{{smaller block|It is deliverance from all evil, it is supreme ''affranchisement.''\n{{right|''J. F. Clarke'', Ten Great Religions, iv. 7.}}}}\n\n'''affrap†''' (a-frap′), ''v. t.'' and ''i.'' [= It. ''affrappare'', < ''af''- (L. ''ad'', to) + ''frappare'' = F. ''frapper'', strike, of uncertain origin: see ''frap''.] To strike; come to blows.\n{{smaller block|They bene ymett, both ready to ''affrap.''\n{{right|''Spenser'', F. Q., II. i. 26.}}}}",
+   "c1s2": "¶\n'''affray''' (ạ-frā′), ''v. t.'' [< ME. ''affrayen'', ''afrayen'', ''affraien'', ''afraien'' (pp. ''affrayed'', ''afrayed'', ''affraied'', ''afraied'', > E. ''afraid'', q. v.), terrify, frighten, < OF. ''afrayer'', ''affrayer'', ''affraier'', usually with initial ''e'', ''effrayer'' (> mod. F. ''effrayer''), ''effraer'', ''effreer'', ''effroier'', ''efferer'', ''esfrayer'', ''esfraier'', ''esfreer'', ''esfroier'', ''ezfroier'', etc., earlier ''esfreder'' = Pr. ''esfredar'', terrify, frighten, disturb, disquiet (the OF. forms in ''aff-'', and the prevailing sense of ‘terrify’ rather than ‘disturb,’ may be due to the influence of ''affre'', ''afre'', terror, fright, ''afre'', ''afrou'', horrible, frightful, > F. ''affreux'', horrible, frightful), prob. < ML. *''exfridare'', disturb, disquiet, < L. ''ex'', out of, + ML. ''fridus'', ''fridum'', < OHG. ''fridu'', ''frido'' (MHG. ''vride'', G. ''friede''), peace, = AS. ''frithu'', peace: see ''frith''<sup>1</sup>. To ''affray'', then, is to ‘break the peace.’] To frighten; terrify; give a shock to; arouse; disturb.\n{{smaller block|<poem>Smale foules a grete hepe\nThat had ''afrayed'' me out of my slepe.</poem>\n{{right|''Chaucer'', Death of Blanche, l. 296.}}\n<poem>The kettle-drum and far-heard clarionet\n''Affray'' his ears. ''Keats'', Eve of St. Agnes, xxix.</poem>}}\n\n'''affray''' (ạ-frā′), ''n.'' [< ME. ''affray'', ''afray'', terror, disturbance, brawl, < OF. ''affray'', ''affrai'', usually, with initial ''e'', ''effrei'', ''effroi'', ''effroy'', ''esfrai'', ''esfrei'', ''esfroi'' (F. ''effroi'') = Pr. ''esfrei''; from the verb: see ''affray'', ''v.''; see also ''fray''<sup>1</sup>, a short form of ''affray''.] '''1†.''' Fear; terror.\n{{smaller block|Some maner ''afray''. ''Chaucer'', Man of Law’s Tale, l. 1039.\n<poem>Full of ghastly fright, and cold ''affray''.</poem>\n{{right|''Spenser'', F. Q., I. iii. 12.}}}}\n'''2†.''' Disturbance involving terror.\n{{smaller block|<poem>Atte laste he made a foul ''affray''.</poem>\n{{right|''Chaucer'', Monk’s Tale, l. 93.}}}}",
+   "c1s3": "'''3.''' A public fight; a noisy quarrel; a brawl; a tumult; disturbance. {{smaller|Specifically, in ''law'', the fighting of two or more persons in a public place to the terror of others. It usually implies a casual meeting, not by previous agreement to fight. [A private quarrel is not in a legal sense an affray.]}}='''Syn. 3.''' {{smaller|''Broil'', ''Scuffle'', etc. See ''quarrel'', ''n.''}}\n\n'''affrayer''' (a-frā′ėr), ''n.'' One who raises or is engaged in affrays or riots; a disturber of the peace. [Rare.]\n{{smaller block|Felons, night-walkers, ''affrayers.''\n{{right|''M. Dalton'', Country Justice (1620).}}}}\n\n'''affrayment†''' (a-frā′mẹnt), ''n.'' [< OF. ''affraiement'', ''affraiment'' (> ML. ''affraimentum''), < ''affraier'': see ''affray'', ''v.''] Same as ''affray''.\n\n'''affreight''' (a-frāt′), ''v. t.'' [< F. ''affréter'', < ''a-'' + ''fréter'', freight, charter: see ''freight''.] To hire, as a ship, for the transportation of goods or freight. ''Craig.'' [Rare.]\n\n'''affreighter''' (a-frā′tėr), ''n.'' The person who hires or charters a ship or other vessel to convey goods. ''Craig.''\n\n'''affreightment''' (a-frāt′mẹnt), ''n.'' [< ''affreight'' + ''-ment'', after F. ''affrétement''.] '''1.''' The act of hiring a ship for the transportation of goods.—'''2.''' The freight carried by a ship.\n\n'''affrended†''', ''a.'' See ''affriended''.\n\n'''affret†''' (a-fret′), ''n.'' [< It. ''affrettare'', hasten, hurry (cf. ''affretto'', hurried, ''affrettamento'', haste, precipitation, ''fretta'', haste, hurry), < ''frettare'', sweep, prop. rub, < LL. *''frictare'', < L. ''frictus'', pp. of ''fricare'', rub: see ''fret''<sup>1</sup>, ''v.''] A furious onset or attack.",
+   "c1s4": "{{smaller block|<poem>With the terrour of their fierce ''affret''\nThey rudely drove to ground both man and horse.</poem>\n{{right|''Spenser'', F. Q., III. ix. 16.}}}}\n\n'''affriction†''' (a-frik′shon), ''n.'' [< L. as if *''affrictio(n-)''; cf. ''affricatio(n-)'', < ''affricare'', rub on or against, < ''ad'', to, + ''fricare'', rub, > E. ''friction''.] The act of rubbing; friction. ''Boyle.''",
+   "c2s1": "¶\n'''affriended†, affrended†''' (a-fren′ded), ''a.'' [< ''af-'' (L. ''ad'') + ''friend'', formerly spelled ''frend.''] Made friends; reconciled.\n{{smaller block|<poem>She saw that cruell war so ended,\nAnd deadly foes so faithfully ''affrended.''</poem>\n{{right|''Spenser'', F. Q., IV. iii. 50.}}}}\n\n'''affright''' (a̤-frīt′), ''v. t.'' [Spelled ''aff-'', as if of L. origin, but prop. with one ''f''; < ME. ''afrighten'', ''afriȝten'' (pp. ''afright'', ''afriȝt''), < AS. ''āfyrhtan'', terrify, < ''ā-'' + ''fyrhtan'', terrify, < ''forht'', fearful: see ''a-''<sup>1</sup> and ''fright''. Not connected with ''afraid'' or ''afeard.''] To impress with sudden fear; frighten; terrify or alarm. [Archaic.]\n{{smaller block|<poem>Thrice did her trembling feet for flight prepare,\nAnd thrice ''affrighted'' did her flight forbear.</poem>\n{{right|''Dryden'', Ovid’s Art of Love, l. 620.}}}}\n{{smaller block|<poem>Not to ''affright'' your tender soul with horror,\nWe may descend to tales of peace and love.</poem>\n{{right|''Ford'', Lady’s Trial, ii. 1.}}}}\n='''Syn.''' {{smaller|To scare, alarm, dismay, appal, daunt, intimidate, startle, shock, overawe.}}\n\n'''affright†.''' Past participle of ''affright''. ''Chaucer.''\n\n'''affright''' (a̤-frīt′), ''n.'' '''1.''' Sudden or great fear; terror; fright.\n{{smaller block|We have heard of these midnight scenes of desolation, . . . the ominous din of the alarm-bell, striking with ''affright'' on the broken visions of the sleepers.\n{{right|''Everett'', Orations, I. 116.}}}}\n'''2†.''' The cause of terror; a frightful object.\n{{smaller block|<poem>The gods upbraid our suff’rings . . .\nBy sending these ''affrights''. {{right|''B. Jonson'', Catiline.}}</poem>}}",
+   "c2s2": "¶\n'''affrightedly''' (a-frī′ted-li), ''adv.'' In an affrighted manner; with fright.\n\n'''affrighten''' (a-frī′tn), ''v. t.'' [< ''affright'' + ''-en''<sup>1</sup>, after ''frighten.''] To terrify; frighten.\n\n'''affrighter''' (a-frī′tėr), ''n.'' One who frightens.\n\n'''affrightful''' (a-frīt′fu̇l), ''a.'' [< ''affright'', ''n.'', + ''-ful.''] Terrifying; terrible; frightful: as, “''affrightful'' accidents,” ''Bp. Hall'', Sermons, xxxiii.\n\n'''affrightment''' (a-frīt′ment), ''n.'' [< ''affright'' + ''-ment.''] '''1†.''' The act of frightening.\n{{smaller block|Since your ''affrightment'' could not make her open [her purse] unto you, you thought to make her innocency smart for it.\n{{right|''R. Brome'', Northern Lass.}}}}\n'''2.''' The state of being frightened; fright.\n{{smaller block|With as much ''affrightment'' as if an enemy were near.\n{{right|''Jer. Taylor'', Sermons, II. iii.}}\nWith much terror and ''affrightment'' they turned the ship about, expecting every moment to be dashed in pieces against the rocks.\n{{right|''E. Johnson'', Wonderworking Providence (1654).}}}}\n\n'''affront''' (a-frunt′), ''v. t.'' [< ME. ''afronten'', ''afrounten'', < OF. ''afronter'', ''afrunter'', later and mod. F. ''affronter'' = Pr. Sp. ''afrontar'' = Pg. ''affrontar'' = It. ''affrontare'', confront, oppose face to face, attack, < ML. ''affrontare'', ''adfrontare'', border on, as land, confront, attack, < L. ''ad frontem'', to the face, in front: ''ad'', to; ''frontem'', acc. of ''frons'', forehead, front; cf. L. ''ā fronte'', before, in front: ''ā'' for ''ab'', from; ''fronte'', abl. of ''frons'', forehead, front. Cf. ''afront'', ''prep. phr.'' as ''adv.''] '''1.''' To meet or encounter face to face; confront; front; face.\n{{smaller block|<poem>That he, as ’t were by accident, may here\n''Affront'' Ophelia. {{right|''Shak.'', Hamlet, iii. 1.}}</poem>}}",
+   "c2s3": "{{smaller block|<poem>Earnestly for her he raised\nHis voice in council, and ''affronted'' death\nIn battle-field.</poem>{{right|''Bryant'', Knight’s Epitaph.}}}}\n'''2.''' To offend by an open manifestation of disrespect; put a slight upon; offend by effrontery or insolence: as, to ''affront'' one by doubting his word; an ''affronting'' speech.\n{{smaller block|<poem>Only our foe,\nTempting, ''affronts'' us with his foul esteem\nOf our integrity.</poem>{{right|''Milton'', P. L., ix. 328.}}\nLet me tell you, Mr. Dangle, ’tis damn’d ''affronting'' in you to suppose that I am hurt, when I tell you I am not.\n{{right|''Sheridan'', The Critic, i. 1.}}}}\n'''3.''' To put out of countenance; make ashamed or confused; give a shock to.\n{{smaller block|Without ''affronting'' their modesty.\n{{right|''Cave'', Prim. Christianity, ii. 33. (''N. E. D.'')}}}}\n\n¶\n'''affront''' (a-frunt′), ''n.'' [= F. ''affront'' = It. ''affronto''; from the verb.] '''1†.''' The act of opposing face to face; open defiance; encounter.\n{{smaller block|This day thou shalt have ingots; and, to-morrow, give lords th’ ''affront''.\n{{right|''B. Jonson'', Alchemist, ii. 2.}}\n<poem>I walk’d about, admired of all, and dreaded\nOn hostile ground, none daring my ''affront''.</poem>{{right|''Milton'', S. A., l. 531.}}}}\n'''2.''' A personally offensive act or word; an intentional or supercilious slight; an open manifestation of disrespect or contumely; an insult to the face.\n{{smaller block|<poem>Oft have they violated\nThe temple, oft the law, with foul ''affronts''.</poem>{{right|''Milton'', P. R., iii. 161.}}\nMen of my condition may be as incapable of ''affronts'', as hopeless of their reparations.\n{{right|''Sir T. Browne'', Religio Medici, Pref.}}\nAn ''affront'' to our understanding.\n{{right|''Addison'', Spectator, No. 512.}}}}",
+   "c3s1": "¶\n'''3†.''' Shame; disgrace; anything producing a feeling of shame or disgrace.\n\n{{smaller block|Antonius . . . was defeated, upon the sense of which ''affront'' he died of grief. {{right|''Arbuthnot'', Anc. Coins.}}}}\n\n{{smaller block|='''Syn. 2.''' ''Affront, Insult, Indignity, Outrage'', provocation, impertinence, offense, rudeness. These words express disrespect shown in a way that is, or is meant to be, galling. An ''affront'' is generally open and to the face. An ''insult'' is stronger, perhaps accompanied by more insolence of manner; it is a deeper disgrace and a greater injury to the feelings of its object. An ''indignity'' is, specifically, treatment that is unworthy—an affront, insult, injury, or outrage from which one’s condition or character should have saved one: as, Zenobia was subjected to the ''indignity'' of being led in chains at Aurelian’s triumph. An ''outrage'', primarily involving the idea of violence to the person, is a wanton transgression of law or propriety in any way, the perpetration of that which is shamefully contrary to the dictates of humanity or even decency; toward a person it is a combination of insult with indignity; hence it often stands for extreme abusiveness of language. It has freedom of use sufficient to make proper such expressions as, an ''outrage'' to his feelings, an ''outrage'' to all decency.}}\n\n{{smaller block|To call God to witness truth, or a lie perhaps; or to appeal to him on every trivial occasion, in common discourse, . . . is one of the highest ''indignities'' and ''affronts'' that can be offered him. {{right|''Ray.''}}\n<poem>\nI will avenge this ''insult'', noble Queen,\nDone in your maiden’s person to yourself.\n</poem>\n{{right|''Tennyson'', Geraint.}}\n<poem>\nThe enmity and discord, which of late\nSprung from the rancorous ''outrage'' of your duke\nTo merchants.\n</poem>\n{{right|''Shak.'', C. of E., i. 1.}}}}",
+   "c3s2": "¶\n'''affronté''' (a-frôṅ-tā′), ''a.'' [F., pp. of ''affronter'': see ''affront'', ''v.''] '''1.''' In ''art'', facing each other; front to front: said of two figures. {{smaller|This was a frequent mode of representing animal and other figures in Oriental and early Greek art, as, for example, in Assyrian and Hittite sculptures, the so-called lions of Mycenæ, and the sphinxes of the temple epistyle of Assos.}}\n[[FIGURE]]\n{{c|{{smaller|Two Lions Rampant, Affronté.}}}}\n'''2.''' Specifically, in ''her.'', applied to animals represented (''a'') front to front, or aspectant: opposed to ''adorsed''; (''b'') facing the spectator directly, as the lion in the royal crest of Scotland, not with merely the head turned outward. See ''gardant'' and cut under ''crest''.\n\nEquivalent forms are ''affrontée'' (feminine) and ''confronté''.\n\n{{smaller block|'''Têtes affrontées''', or '''affronté heads''', in ''decorative art'', profile heads in relief shown facing each other, as often in cameos, etc., but rarely on coins.}}\n\n'''affrontedly''' (a-frun′ted-li), ''adv.'' In a manner to affront; with effrontery. ''Bacon.''\n\n'''affrontee''' (a-frun-tē′), ''n.'' [< ''affront'' + ''-ee''<sup>1</sup>.] One who receives an affront. ''N. E. D.''\n\n'''affronter''' (ạ-frun′tėr), ''n.'' '''1.''' One who affronts or insults another openly and of set purpose.—'''2†.''' A deceiver or pretender.\n{{smaller block|<poem>Must I, because you say so,\nBelieve that this most miserable king is\nA false ''affronter''?</poem>\n{{right|''Massinger'', Believe as you List, iii. 3.}}}}\n\n'''affrontingly''' (ạ-frun′ting-li), ''adv.'' In an affronting manner.\n\n'''affrontive''' (ạ-frun′tiv), ''a.'' [< ''affront'' + ''-ive.''] Giving offense; tending to offend; abusive.",
+   "c3s3": "{{smaller block|How much more ''affrontive'' it is to despise mercy.\n{{right|''South'', Sermon on the Restoration.}}\nWill not this measure be regarded as ''affrontive'' to the pride . . . of portions of the people of America?\n{{right|''R. Choate'', Addresses, p. 348.}}}}\n\n¶\n'''affuse''' (a-fūz′), ''v. t.'' [< L. ''affusus'', pp. of ''affundere'', ''adfundere'', pour upon, < ''ad'', to, + ''fundere'', pour: see ''fuse''<sup>1</sup>.] To pour. [Rare.]\n{{smaller block|I first ''affused'' water upon the compressed beans.\n{{right|''Boyle'', Works, IV. 568.}}}}\n\n'''affusion''' (a-fū′zhọn), ''n.'' [< ML. ''affusio(n-)'', < L. ''affundere'', pour upon: see ''affuse''.] '''1.''' The act of pouring upon; the act of pouring water or other liquid, as upon a child in baptism.\n{{smaller block|When the Jews baptized their children, in order to circumcision, it seems to have been indifferent whether it was done by immersion or ''affusion''.\n{{right|''Wheatly'', Ill. of Book of Com. Prayer, p. 362.}}}}\n'''2.''' In ''med.'', the act of pouring water on the body as a curative means, as from a vessel, by a shower-bath, etc.\n{{smaller block|When I travell’d in Italy, and the Southern parts, I did sometimes frequent the publiq bathes, . . . but seldome without peril of my life ’till I us’d this frigid ''affusion'', or rather profusion of cold water before I put on my garments.\n{{right|''Evelyn'', To Doctor Beale.}}\nSome of these [remedies] are ''affusion'', half-baths, . . .}}",
+   "c3s4": "{{smaller block|fomentations, injections, wrapping up in the wet sheet.\n{{right|''Encyc. Brit.'', III. 439.}}}}\n\n'''affy†''' (a-fī′), ''v.'' [< ME. ''affyen'', ''affien'', ''afyen'', < OF. ''afier'', later and mod. F. ''affier'', < ML. ''affidare'', trust, pledge, make oath, < L. ''ad'', to, + ML. ''fidare'', trust, < L. ''fidus'', faithful, < ''fides'', faith: see ''faith'', ''fidelity''. Deriv. ''affiance'' and ''affidavit'', q. v.] '''I.''' ''trans.'' '''1.''' To trust, confide (a thing to a person); reflexively, to confide one’s self.—'''2.''' To confide in; trust.—'''3.''' To affirm on one’s"
+  },
+  "figure_files": {
+   "c3f1": "century v01 p0128 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     2197,
+     1203,
+     2338,
+     1338
+    ],
+    "caption": [
+     2193,
+     1358,
+     2346,
+     1418
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     2209,
+     1202,
+     2350,
+     1369
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 3833,
+    "output_tokens": 95,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9564,
+    "output_tokens": 11773,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|afform|102|affy}}</noinclude>{{nop}}'''afform†''' (a-fôrm′), ''v. t.''   [< OF. ''aformer'', < ''a''- (L. ''ad'', to) + ''former'', form.]   To form; model; cause to conform.\n\n'''afformative''' (a-fôr′ma-tiv), ''n.''   [< ''af''- (L. ''ad'', to) + ''formative''.]   In ''philol.'', an affix; a formative addition to a word or stem.\n\n'''affranchise''' (a-fran′chiz or -chīz), ''v. t.''; pret. and pp. ''affranchised'', ppr. ''affranchising''.   [< late ME. ''affranchyse'', ''afranchise'', < OF. ''afranchiss''-, F. ''affranchiss''-, stem of certain parts of OF. ''afranchir'', F. ''affranchir'', make free, < ''a'' (L. ''ad''), to, + ''franc'', free: see ''frank'' and ''franchise''.]   To make free; enfranchise.\n\n'''affranchisement''' (a-fran′chiz-ment), ''n.''   [< F. ''affranchissement''.]   The act of setting free, or of liberating from a state of dependence, servitude, or obligation; enfranchisement.\n{{smaller block|It is deliverance from all evil, it is supreme ''affranchisement.''\n{{right|''J. F. Clarke'', Ten Great Religions, iv. 7.}}}}\n\n'''affrap†''' (a-frap′), ''v. t.'' and ''i.''   [= It. ''affrappare'', < ''af''- (L. ''ad'', to) + ''frappare'' = F. ''frapper'', strike, of uncertain origin: see ''frap''.]   To strike; come to blows.\n{{smaller block|They bene ymett, both ready to ''affrap.''\n{{right|''Spenser'', F. Q., II. i. 26.}}}}\n\n'''affray''' (ạ-frā′), ''v. t.''   [< ME. ''affrayen'', ''afrayen'', ''affraien'', ''afraien'' (pp. ''affrayed'', ''afrayed'', ''affraied'', ''afraied'', > E. ''afraid'', q. v.), terrify, frighten, < OF. ''afrayer'', ''affrayer'', ''affraier'', usually with initial ''e'', ''effrayer'' (> mod. F. ''effrayer''), ''effraer'', ''effreer'', ''effroier'', ''efferer'', ''esfrayer'', ''esfraier'', ''esfreer'', ''esfroier'', ''ezfroier'', etc., earlier ''esfreder'' = Pr. ''esfredar'', terrify, frighten, disturb, disquiet (the OF. forms in ''aff-'', and the prevailing sense of ‘terrify’ rather than ‘disturb,’ may be due to the influence of ''affre'', ''afre'', terror, fright, ''afre'', ''afrou'', horrible, frightful, > F. ''affreux'', horrible, frightful), prob. < ML. *''exfridare'', disturb, disquiet, < L. ''ex'', out of, + ML. ''fridus'', ''fridum'', < OHG. ''fridu'', ''frido'' (MHG. ''vride'', G. ''friede''), peace, = AS. ''frithu'', peace: see ''frith''<sup>1</sup>. To ''affray'', then, is to ‘break the peace.’]   To frighten; terrify; give a shock to; arouse; disturb.\n{{smaller block|<poem>Smale foules a grete hepe\nThat had ''afrayed'' me out of my slepe.</poem>\n{{right|''Chaucer'', Death of Blanche, l. 296.}}}}\n{{smaller block|<poem>The kettle-drum and far-heard clarionet\n''Affray'' his ears. ''Keats'', Eve of St. Agnes, xxix.</poem>}}\n\n'''affray''' (ạ-frā′), ''n.''   [< ME. ''affray'', ''afray'', terror, disturbance, brawl, < OF. ''affray'', ''affrai'', usually, with initial ''e'', ''effrei'', ''effroi'', ''effroy'', ''esfrai'', ''esfrei'', ''esfroi'' (F. ''effroi'') = Pr. ''esfrei''; from the verb: see ''affray'', ''v.''; see also ''fray''<sup>1</sup>, a short form of ''affray''.]   '''1†.''' Fear; terror.\n{{smaller block|Some maner ''afray''. ''Chaucer'', Man of Law’s Tale, l. 1039.\n<poem>Full of ghastly fright, and cold ''affray''.</poem>\n{{right|''Spenser'', F. Q., I. iii. 12.}}}}\n'''2†.''' Disturbance involving terror.\n{{smaller block|<poem>Atte laste he made a foul ''affray''.</poem>\n{{right|''Chaucer'', Monk’s Tale, l. 93.}}}} '''3.''' A public fight; a noisy quarrel; a brawl; a tumult; disturbance. {{smaller|Specifically, in ''law'', the fighting of two or more persons in a public place to the terror of others. It usually implies a casual meeting, not by previous agreement to fight. [A private quarrel is not in a legal sense an affray.]}}='''Syn. 3.''' {{smaller|''Broil'', ''Scuffle'', etc. See ''quarrel'', ''n.''}}\n\n'''affrayer''' (a-frā′ėr), ''n.'' One who raises or is engaged in affrays or riots; a disturber of the peace. [Rare.]\n{{smaller block|Felons, night-walkers, ''affrayers.''\n{{right|''M. Dalton'', Country Justice (1620).}}}}\n\n'''affrayment†''' (a-frā′mẹnt), ''n.''   [< OF. ''affraiement'', ''affraiment'' (> ML. ''affraimentum''), < ''affraier'': see ''affray'', ''v.'']   Same as ''affray''.\n\n'''affreight''' (a-frāt′), ''v. t.''   [< F. ''affréter'', < ''a-'' + ''fréter'', freight, charter: see ''freight''.]   To hire, as a ship, for the transportation of goods or freight.   ''Craig.'' [Rare.]\n\n'''affreighter''' (a-frā′tėr), ''n.'' The person who hires or charters a ship or other vessel to convey goods.   ''Craig.''\n\n'''affreightment''' (a-frāt′mẹnt), ''n.''   [< ''affreight'' + ''-ment'', after F. ''affrétement''.]   '''1.''' The act of hiring a ship for the transportation of goods.—'''2.''' The freight carried by a ship.\n\n'''affrended†''', ''a.'' See ''affriended''.\n\n'''affret†''' (a-fret′), ''n.''   [< It. ''affrettare'', hasten, hurry (cf. ''affretto'', hurried, ''affrettamento'', haste, precipitation, ''fretta'', haste, hurry), < ''frettare'', sweep, prop. rub, < LL. *''frictare'', < L. ''frictus'', pp. of ''fricare'', rub: see ''fret''<sup>1</sup>, ''v.'']   A furious onset or attack.\n<poem>With the terrour of their fierce ''affret''\nThey rudely drove to ground both man and horse.</poem>\n{{smaller block|{{right|''Spenser'', F. Q., III. ix. 16.}}}}\n\n'''affriction†''' (a-frik′shon), ''n.''   [< L. as if *''affrictio(n-)''; cf. ''affricatio(n-)'', < ''affricare'', rub on or against, < ''ad'', to, + ''fricare'', rub, > E. ''friction''.]   The act of rubbing; friction.   ''Boyle.''\n\n'''affriended†, affrended†''' (a-fren′ded), ''a.''   [< ''af-'' (L. ''ad'') + ''friend'', formerly spelled ''frend.'']   Made friends; reconciled.\n{{smaller block|<poem>She saw that cruell war so ended,\nAnd deadly foes so faithfully ''affrended.''</poem>\n{{right|''Spenser'', F. Q., IV. iii. 50.}}}}\n\n'''affright''' (a̤-frīt′), ''v. t.''   [Spelled ''aff-'', as if of L. origin, but prop. with one ''f''; < ME. ''afrighten'', ''afriȝten'' (pp. ''afright'', ''afriȝt''), < AS. ''āfyrhtan'', terrify, < ''ā-'' + ''fyrhtan'', terrify, < ''forht'', fearful: see ''a-''<sup>1</sup> and ''fright''. Not connected with ''afraid'' or ''afeard.'']   To impress with sudden fear; frighten; terrify or alarm. [Archaic.]\n{{smaller block|<poem>Thrice did her trembling feet for flight prepare,\nAnd thrice ''affrighted'' did her flight forbear.</poem>\n{{right|''Dryden'', Ovid’s Art of Love, l. 620.}}}}\n{{smaller block|<poem>Not to ''affright'' your tender soul with horror,\nWe may descend to tales of peace and love.</poem>\n{{right|''Ford'', Lady’s Trial, ii. 1.}}}}\n='''Syn.''' {{smaller|To scare, alarm, dismay, appal, daunt, intimidate, startle, shock, overawe.}}\n\n'''affright†.''' Past participle of ''affright''.   ''Chaucer.''\n\n'''affright''' (a̤-frīt′), ''n.'' '''1.''' Sudden or great fear; terror; fright.\n{{smaller block|We have heard of these midnight scenes of desolation, . . . the ominous din of the alarm-bell, striking with ''affright'' on the broken visions of the sleepers.\n{{right|''Everett'', Orations, I. 116.}}}}\n'''2†.''' The cause of terror; a frightful object.\n{{smaller block|<poem>The gods upbraid our suff’rings . . .\nBy sending these ''affrights''. {{right|''B. Jonson'', Catiline.}}</poem>}}\n\n'''affrightedly''' (a-frī′ted-li), ''adv.'' In an affrighted manner; with fright.\n\n'''affrighten''' (a-frī′tn), ''v. t.''   [< ''affright'' + ''-en''<sup>1</sup>, after ''frighten.'']   To terrify; frighten.\n\n'''affrighter''' (a-frī′tėr), ''n.'' One who frightens.\n\n'''affrightful''' (a-frīt′fu̇l), ''a.''   [< ''affright'', ''n.'', + ''-ful.'']   Terrifying; terrible; frightful: as, “''affrightful'' accidents,” ''Bp. Hall'', Sermons, xxxiii.\n\n'''affrightment''' (a-frīt′ment), ''n.''   [< ''affright'' + ''-ment.'']   '''1†.''' The act of frightening.\n{{smaller block|Since your ''affrightment'' could not make her open [her purse] unto you, you thought to make her innocency smart for it.\n{{right|''R. Brome'', Northern Lass.}}}}\n'''2.''' The state of being frightened; fright.\n{{smaller block|With as much ''affrightment'' as if an enemy were near.\n{{right|''Jer. Taylor'', Sermons, II. iii.}}}}\n{{smaller block|With much terror and ''affrightment'' they turned the ship about, expecting every moment to be dashed in pieces against the rocks.\n{{right|''E. Johnson'', Wonderworking Providence (1654).}}}}\n\n'''affront''' (a-frunt′), ''v. t.''   [< ME. ''afronten'', ''afrounten'', < OF. ''afronter'', ''afrunter'', later and mod. F. ''affronter'' = Pr. Sp. ''afrontar'' = Pg. ''affrontar'' = It. ''affrontare'', confront, oppose face to face, attack, < ML. ''affrontare'', ''adfrontare'', border on, as land, confront, attack, < L. ''ad frontem'', to the face, in front: ''ad'', to; ''frontem'', acc. of ''frons'', forehead, front; cf. L. ''ā fronte'', before, in front: ''ā'' for ''ab'', from; ''fronte'', abl. of ''frons'', forehead, front. Cf. ''afront'', ''prep. phr.'' as ''adv.'']   '''1.''' To meet or encounter face to face; confront; front; face.\n{{smaller block|<poem>That he, as ’t were by accident, may here\n''Affront'' Ophelia. {{right|''Shak.'', Hamlet, iii. 1.}} Earnestly for her he raised\nHis voice in council, and ''affronted'' death\nIn battle-field.</poem>{{right|''Bryant'', Knight’s Epitaph.}}}}\n'''2.''' To offend by an open manifestation of disrespect; put a slight upon; offend by effrontery or insolence: as, to ''affront'' one by doubting his word; an ''affronting'' speech.\n{{smaller block|<poem>Only our foe,\nTempting, ''affronts'' us with his foul esteem\nOf our integrity.</poem>{{right|''Milton'', P. L., ix. 328.}}}}\n{{smaller block|Let me tell you, Mr. Dangle, ’tis damn’d ''affronting'' in you to suppose that I am hurt, when I tell you I am not.\n{{right|''Sheridan'', The Critic, i. 1.}}}}\n'''3.''' To put out of countenance; make ashamed or confused; give a shock to.\n{{smaller block|Without ''affronting'' their modesty.\n{{right|''Cave'', Prim. Christianity, ii. 33. (''N. E. D.'')}}}}\n\n'''affront''' (a-frunt′), ''n.''   [= F. ''affront'' = It. ''affronto''; from the verb.]   '''1†.''' The act of opposing face to face; open defiance; encounter.\n{{smaller block|This day thou shalt have ingots; and, to-morrow, give lords th’ ''affront''.\n{{right|''B. Jonson'', Alchemist, ii. 2.}}}}\n{{smaller block|<poem>I walk’d about, admired of all, and dreaded\nOn hostile ground, none daring my ''affront''.</poem>{{right|''Milton'', S. A., l. 531.}}}}\n'''2.''' A personally offensive act or word; an intentional or supercilious slight; an open manifestation of disrespect or contumely; an insult to the face.\n{{smaller block|<poem>Oft have they violated\nThe temple, oft the law, with foul ''affronts''.</poem>{{right|''Milton'', P. R., iii. 161.}}}}\n{{smaller block|Men of my condition may be as incapable of ''affronts'', as hopeless of their reparations.\n{{right|''Sir T. Browne'', Religio Medici, Pref.}}}}\n{{smaller block|An ''affront'' to our understanding.\n{{right|''Addison'', Spectator, No. 512.}}}}\n\n'''3†.''' Shame; disgrace; anything producing a feeling of shame or disgrace.\n\n{{smaller block|Antonius . . . was defeated, upon the sense of which ''affront'' he died of grief. {{right|''Arbuthnot'', Anc. Coins.}}}}\n\n{{smaller block|='''Syn. 2.''' ''Affront, Insult, Indignity, Outrage'', provocation, impertinence, offense, rudeness. These words express disrespect shown in a way that is, or is meant to be, galling. An ''affront'' is generally open and to the face. An ''insult'' is stronger, perhaps accompanied by more insolence of manner; it is a deeper disgrace and a greater injury to the feelings of its object. An ''indignity'' is, specifically, treatment that is unworthy—an affront, insult, injury, or outrage from which one’s condition or character should have saved one: as, Zenobia was subjected to the ''indignity'' of being led in chains at Aurelian’s triumph. An ''outrage'', primarily involving the idea of violence to the person, is a wanton transgression of law or propriety in any way, the perpetration of that which is shamefully contrary to the dictates of humanity or even decency; toward a person it is a combination of insult with indignity; hence it often stands for extreme abusiveness of language. It has freedom of use sufficient to make proper such expressions as, an ''outrage'' to his feelings, an ''outrage'' to all decency.}}\n\n{{smaller block|To call God to witness truth, or a lie perhaps; or to appeal to him on every trivial occasion, in common discourse, . . . is one of the highest ''indignities'' and ''affronts'' that can be offered him. {{right|''Ray.''}}}}\n<poem>\nI will avenge this ''insult'', noble Queen,\nDone in your maiden’s person to yourself.\n</poem>\n{{smaller block|{{right|''Tennyson'', Geraint.}}}}\n<poem>\nThe enmity and discord, which of late\nSprung from the rancorous ''outrage'' of your duke\nTo merchants.\n</poem>\n{{smaller block|{{right|''Shak.'', C. of E., i. 1.}}}}\n\n'''affronté''' (a-frôṅ-tā′), ''a.''   [F., pp. of ''affronter'': see ''affront'', ''v.'']   '''1.''' In ''art'', facing each other; front to front: said of two figures. {{smaller|This was a frequent mode of representing animal and other figures in Oriental and early Greek art, as, for example, in Assyrian and Hittite sculptures, the so-called lions of Mycenæ, and the sphinxes of the temple epistyle of Assos.}} {{img float|file=century v01 p0128 c3f1.png|width=78px|align=right|cap={{smaller|Two Lions Rampant, Affronté.}}}} '''2.''' Specifically, in ''her.'', applied to animals represented (''a'') front to front, or aspectant: opposed to ''adorsed''; (''b'') facing the spectator directly, as the lion in the royal crest of Scotland, not with merely the head turned outward. See ''gardant'' and cut under ''crest''.\n\nEquivalent forms are ''affrontée'' (feminine) and ''confronté''.\n\n{{smaller block|'''Têtes affrontées''', or '''affronté heads''', in ''decorative art'', profile heads in relief shown facing each other, as often in cameos, etc., but rarely on coins.}}\n\n'''affrontedly''' (a-frun′ted-li), ''adv.'' In a manner to affront; with effrontery.   ''Bacon.''\n\n'''affrontee''' (a-frun-tē′), ''n.''   [< ''affront'' + ''-ee''<sup>1</sup>.]   One who receives an affront.   ''N. E. D.''\n\n'''affronter''' (ạ-frun′tėr), ''n.'' '''1.''' One who affronts or insults another openly and of set purpose.—'''2†.''' A deceiver or pretender.\n{{smaller block|<poem>Must I, because you say so,\nBelieve that this most miserable king is\nA false ''affronter''?</poem>\n{{right|''Massinger'', Believe as you List, iii. 3.}}}}\n\n'''affrontingly''' (ạ-frun′ting-li), ''adv.'' In an affronting manner.\n\n'''affrontive''' (ạ-frun′tiv), ''a.''   [< ''affront'' + ''-ive.'']   Giving offense; tending to offend; abusive. {{smaller block|How much more ''affrontive'' it is to despise mercy.\n{{right|''South'', Sermon on the Restoration.}}}}\n{{smaller block|Will not this measure be regarded as ''affrontive'' to the pride . . . of portions of the people of America?\n{{right|''R. Choate'', Addresses, p. 348.}}}}\n\n'''affuse''' (a-fūz′), ''v. t.''   [< L. ''affusus'', pp. of ''affundere'', ''adfundere'', pour upon, < ''ad'', to, + ''fundere'', pour: see ''fuse''<sup>1</sup>.]   To pour. [Rare.]\n{{smaller block|I first ''affused'' water upon the compressed beans.\n{{right|''Boyle'', Works, IV. 568.}}}}\n\n'''affusion''' (a-fū′zhọn), ''n.''   [< ML. ''affusio(n-)'', < L. ''affundere'', pour upon: see ''affuse''.]   '''1.''' The act of pouring upon; the act of pouring water or other liquid, as upon a child in baptism.\n{{smaller block|When the Jews baptized their children, in order to circumcision, it seems to have been indifferent whether it was done by immersion or ''affusion''.\n{{right|''Wheatly'', Ill. of Book of Com. Prayer, p. 362.}}}}\n'''2.''' In ''med.'', the act of pouring water on the body as a curative means, as from a vessel, by a shower-bath, etc.\n{{smaller block|When I travell’d in Italy, and the Southern parts, I did sometimes frequent the publiq bathes, . . . but seldome without peril of my life ’till I us’d this frigid ''affusion'', or rather profusion of cold water before I put on my garments.\n{{right|''Evelyn'', To Doctor Beale.}}}}\n{{smaller block|Some of these [remedies] are ''affusion'', half-baths, . . . fomentations, injections, wrapping up in the wet sheet.\n{{right|''Encyc. Brit.'', III. 439.}}}}\n\n'''affy†''' (a-fī′), ''v.''   [< ME. ''affyen'', ''affien'', ''afyen'', < OF. ''afier'', later and mod. F. ''affier'', < ML. ''affidare'', trust, pledge, make oath, < L. ''ad'', to, + ML. ''fidare'', trust, < L. ''fidus'', faithful, < ''fides'', faith: see ''faith'', ''fidelity''. Deriv. ''affiance'' and ''affidavit'', q. v.]   '''I.''' ''trans.'' '''1.''' To trust, confide (a thing to a person); reflexively, to confide one’s self.—'''2.''' To confide in; trust.—'''3.''' To affirm on one’s<noinclude><references/></noinclude>"
+}

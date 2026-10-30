@@ -1,0 +1,368 @@
+{
+ "volume": 1,
+ "page_number": 214,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n213.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n213.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 745,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     102,
+     131,
+     2320,
+     171
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     102,
+     171,
+     835,
+     661
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     102,
+     661,
+     835,
+     1745
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     102,
+     1745,
+     835,
+     2001
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     102,
+     2001,
+     835,
+     3089
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     122,
+     1994,
+     814,
+     2381
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     450,
+     2593,
+     835,
+     2937
+    ]
+   },
+   {
+    "name": "c1s5",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     102,
+     3089,
+     835,
+     3292
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     835,
+     171,
+     1586,
+     884
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     835,
+     884,
+     1586,
+     1867
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     856,
+     1312,
+     1340,
+     1592
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     835,
+     1867,
+     1586,
+     2813
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     835,
+     2813,
+     1586,
+     3292
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1586,
+     171,
+     2320,
+     1152
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1586,
+     1152,
+     2320,
+     2171
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1646,
+     1148,
+     2274,
+     1454
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1586,
+     2171,
+     2320,
+     2920
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1586,
+     2920,
+     2320,
+     3292
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|amplitude|188|amuck}}",
+   "c1s1": "{{smaller|as determined by the compass. The difference between this and the true amplitude is the declination of the compass.}}\n\n'''amply''' (am′pli), ''adv.'' In an ample manner; largely; liberally; fully; sufficiently; copiously; abundantly.\n{{smaller block|The details of the rapid propagation of Western monachism have been ''amply'' treated by many historians, and the causes of its success are sufficiently manifest.\n{{right|''Lecky'', Europ. Morals, II. 194.}}}}\n\n'''ampollosity''', ''n.'' See ''ampullosity''.\n\n'''ampongue''' (am-pong′), ''n.'' [F. spelling of native name.] A native name of the avahi or woolly lemur of Madagascar.\n\n'''ampul†''' (am′pul), ''n.'' [Early mod. E. also ''ampulle'', ''ampoule'', ''ampell'', ''ample'', < ME. ''ampulle'',",
+   "c1s2": "''ampoule, ampolle, ampole'', partly < AS. ''ampulla, ampolla, ampella'', a bottle, flask, vial (= OHG. ''ampulla'', MHG. ''ampulle, ampel'', G. ''ampel'', a lamp, = Icel. ''ampli, hömpull'', a jug, = Dan. ''ampel'', a hanging flower-pot), and partly < OF. ''ampole, ampoule'', F. ''ampoule'' = Sp. ''ampolla'', a bottle, bubble, blister, = Pg. ''ampulla'', ampulla, ''ampolla'', *''ampolha'', a bubble, blister, = It. ''ampolla'', < L. ''ampulla'', a bottle, flask, etc.: see ''ampulla'', which has superseded the older form.] Same as ''ampulla'', 2 (''b'').\n\n'''Ampulex''' (am′pū-leks), ''n.'' [NL., < L. ''am-'' for ''ambi-'' (?) + ''pulex'', a flea.] A genus of digger-wasps, of the family ''Sphegidæ'', giving name to the ''Ampulicidæ''. ''A. sibirica'' is an example.\n\n'''Ampulicidæ''' (am-pū-lis′i-dē), ''n. pl.'' [NL., < ''Ampulex'' (''-ic-'') + ''-idæ''.] A family of fossorial hymenopterous insects, named from the genus ''Ampulex''.\n\n'''ampulla''' (am-pul′ä̤), ''n.''; pl. ''ampullæ'' (-ē). [L., a swelling vessel with two handles, prob. an accom. form of *''amphoila'', dim. of ''amphora'': see ''amphora''.] '''1.''' In ''Rom. antiq.'', a bottle with a narrow neck and a body more or less nearly globular in shape, usually made of glass or earthenware, rarely of more valuable materials, and used, like the Greek aryballos, bombylios, etc., for carrying oil for anointing the body and for many other purposes.—'''2.''' ''Eccles.'': (''a'') In the ''Rom. Cath. Ch.'', a cruet, regularly made of transparent glass, for holding the wine and water used at the altar. See ''ama''. Also written ''amula''. (''b'') A vessel for holding the consecrated oil or chrism used in various church",
+   "c1s3": "rites and at the coronation of kings. {{smaller|The ampulla used at coronations in England is in the form of an eagle, of pure gold, richly chased. The famous ampulla formerly used in France, kept at Rheims, and reputed to have been brought from heaven by a dove for the baptism of Clovis I., was broken at the Revolution; but a portion of its oil is said to have been preserved and to have been used at the coronation of Charles X. Formerly ''ampul''.}} '''3.''' In the middle ages, a small bottle-shaped",
+   "c1s4": "[[FIGURE]]\n{{c|{{smaller|Leaden Ampulla in the Museum at York, England. (From the “Journal of the British Archæological Association.”)}}}}\nflask, often of glass, sometimes of lead, used by travelers, and especially by pilgrims. Sometimes these were used as pilgrims’ signs (which see, under ''pilgrim'').—'''4.''' In ''anat.'': (''a'') The dilated part of the membranous semicircular canals in the ear. (''b'') The enlargement of a galactophorous duct beneath the areola in the human mammary gland. Also called ''sinus''.—'''5.''' In ''bot.'', a small bladder or flask-shaped organ attached to the roots or immersed leaves\n[[FIGURE]]\n{{c|{{smaller|Ends of two semicircular Canals, with their respective Ampullæ.}}}}\nof some aquatic plants, as in ''Utricularia'' (which see).—'''6.''' In ''zoöl.'': (''a'') In ''Vermes'', a terminal dilatation of the efferent seminal ducts. (''b'')",
+   "c1s5": "In ''Brachiopoda'', one of the contractile mammillary processes of the sinuses of the pallial lobes, as in ''Lingula''. (''c'') In certain ducks, one of the chambers or dilatations of the tracheal tympanum or labyrinth. See ''tympanum''. There may be but one ampulla, or there may be one",
+   "c2s1": "on each side. [Little used in this sense.] (''d'') In hydroid polyps, the cavity of a vesicular marginal body connected by a canal with the gastrovascular system. (''e'') In echinoderms, one of the diverticula of the branched ambulacral canals; a sort of Polian vesicle of the ambulacral suckers.—{{smaller|'''Ampulla of Vater''', in ''anat.'', the sac-like space in the wall of the duodenum, into which open the common bile-duct and the pancreatic duct.}}\n\n'''ampullaceous''' (am-pu-lā′shius), ''a.'' [< L. ''ampullaceus'', < ''ampulla'': see ''ampulla''.] Of, pertaining to, or like an ampulla; bottle-shaped; inflated.—{{smaller|'''Ampullaceous sac''', one of the hollow ciliated or monad-lined chambers of many sponges. See cuts under ''ciliate'' and ''Porifera''.}}\n{{smaller block|Thus is formed one of the characteristic ''ampullaceous sacs.''\n{{right|''W. B. Carpenter'', Micros., § 509.}}}}\n\n'''Ampullacera''' (am-pu-las′e̤-rä), ''n.'' [NL., < L. ''ampulla'' (see ''ampulla'') + Gr. κέρας, horn.] Same as ''Amphibola''. ''Quoy and Gaimard'', 1832.\n\n'''Ampullaceridæ''' (am-pul-a̤-ser′i-dē), ''n. pl.'' [NL., < ''Ampullacera'' + ''-idæ''.] Same as ''Amphibolidæ''. ''Troschel'', 1845.",
+   "c2s2": "¶\n'''ampullæ''', ''n.'' Plural of ''ampulla''.\n\n'''ampullar''' (am-pul′är), ''a.'' Same as ''ampullary''.\n\n'''Ampullaria''' (am-pu-lā′ri-ä̤), ''n.'' [NL., < ''ampullarius'', fem. of L. adj.: see ''ampullary''.] A genus of shell-bearing gastropods, typical of the family ''Ampullariidæ''. ''Lamarck'', 1801.\n\n'''Ampullariacea''' (am-pu-lā-ri-ā′sẹ̄-ä̤), ''n. pl.'' [NL., < ''Ampullaria'' + ''-acea''.] A family of gastropods: synonymous with ''Ampullariidæ''.\n\n'''ampullariid''' (am-pu-lar′i-id), ''n.'' A gastropod of the family ''Ampullariidæ''.\n\n'''Ampullariidæ''' (am-pul-ạ-rī′i-dē), ''n. pl.'' [NL., < ''Ampullaria'' + ''-idæ''.] A family of tænioglossate\n[[FIGURE]]\n{{c|{{smaller|Apple- or Idol-shell (''Ampullaria canaliculata''), South America. ''o'', operculum; ''s'', siphon.}}}}\ngastropods having a lung-like sac in addition to the gills, the muzzle produced into two long attenuate or tentacle-like processes, the true tentacles elongated, and the eyes pedunculated. {{smaller|The shells are subglobular, conic, or discoidal in form, and have entire apertures which are closed by concentric opercula. The species are numerous, and are chiefly found in the fresh waters of tropical and subtropical countries, many of them being known as apple-shells and idol-shells. Also ''Ampullariadæ'', ''Ampullariacea'', and ''Ampullaridæ''.}}",
+   "c2s3": "¶\n'''Ampullariinæ''' (am-pu-lā-ri-ī′nē), ''n. pl.'' [NL., < ''Ampullaria'' + ''-inæ.''] The ''Ampullariidæ'' rated as a subfamily. Also written ''Ampullarinæ. Swainson'', 1840.\n\n'''ampullary''' (am′pul-ạ̄-ri), ''a.'' [< L. ''ampullarius'', n., a flask-maker, prop. adj., < ''ampulla'', a flask: see ''ampulla.''] Resembling an ampulla; globular. Also ''ampullar.''\n\n'''ampullate''' (am-pul′āt), ''a.'' [< ML. ''ampullatus'', < L. ''ampulla:'' see ''ampulla.''] '''1.''' Having the character of an ampulla; ampullary.—'''2.''' Furnished with an ampulla.\n\n'''ampulliform''' (am-pul′i-fôrm), ''a.'' [< L. ''ampulla'' + ''-i-form.''] Shaped like an ampulla; flask-shaped; bulging; dilated.\n\n'''ampulling-cloth''' (am-pul′ing-klôth), ''n.'' [So called because in England the oil was anciently kept in an ampulla; < ''ampul'' + ''-ing''<sup>1</sup> + ''cloth.''] In the ''Rom. Cath. Ch.'', a cloth with which to wipe away the oil used in administering the sacrament of extreme unction.\n\n'''ampullinula''' (am-pu-lin′ū-lä), ''n.''; pl. ''ampullinulæ'' (-lē). [NL., < L. ''ampulla'' + ''-in-a'' + dim. ''-ula.''] A stage in the evolution of the ''Carneospongiæ'' when the lateral ampullæ are first formed.\n{{smaller block|This stage . . . we propose to call the ''Ampullinula'', because the name protospongiæ, as defined by Haeckel, . . . is not applicable to such an advanced form as this.\n{{right|''Hyatt'', Proc. Bost. Soc. Nat. Hist., XXIII. 88.}}}}",
+   "c2s4": "¶\n'''ampullosity''' (am-pu-los′i-ti), ''n.'' [< It. ''ampollosità'', < ML. *''ampullositä''(''t''-)''s'', turgidity, bombast, < ''ampullosus'': see ''ampullous''.] Inflated language; bombast; turgidity. Sometimes written ''ampollosity''.\n{{smaller block|Didst ever touch such ''ampollosity''<br>As the man’s own bubble [his speech], let alone its spite?\n{{right|''Browning'', Ring and Book, II. 326.}}}}\n\n'''ampullous†''' (am-pul′us), ''a.'' [= It. ''ampolloso'', < ML. ''ampullosus'', turgid, inflated, < L. ''ampulla'', a flask, fig. swelling words, bombast.] Boastful; vainglorious; inflated or turgid in language. ''N. E. D.''\n\n'''amputate''' (am′pū-tāt), ''v. t.''; pret. and pp. ''amputated'', ppr. ''amputating''. [< L. ''amputatus'', pp.",
+   "c3s1": "of ''amputare'', cut off around, lop off, esp. plants, prune, < ''am-'' for ''ambi-'', around, + ''putare'', lop, prune, cleanse, < ''putus'', pure, clean, akin to ''purus'', pure: see ''pute'' and ''pure''.] '''1†.''' To prune, as branches or twigs of trees or vines.—'''2.''' To cut off, as a limb or other part of an animal body; cut away the whole or a part of (more commonly the latter): as, to ''amputate'' the leg below the knee.\n\n'''amputation''' (am-pū-tā′shọn), ''n.'' [< L. ''amputatio(n-)'', < ''amputare'', amputate: see ''amputate''.] The act of amputating; especially, the operation of cutting off a limb or other part of the body, or a portion of it.\n\n'''amputational''' (am-pū-tā′shọn-al), ''a.'' Pertaining to or caused by amputation.\n\n'''amputator''' (am′pū-tā-tọr), ''n.'' [< L. as if *''amputator'', < ''amputare'': see ''amputate''.] One who amputates.\n\n'''ampyx''' (am′piks), ''n.''; pl. ''ampyxes'', ''ampyces'' (-ez, -pi-sēz). [< Gr. ἄμπυξ (ἀμπυκ-), prob. connected with ἀνάπτυκτος, ἀνάπτυχος, that may be opened (folded back), < ἀναπτύσσειν, fold back, unfold, open, < ἀνά, up, back, + πτύσσειν (√ *πυκ or *πτυχ, found in πυκάζειν, wrap up, cover, πτυχή, a fold), fold, wrap; the same element occurs in ''diptych'' and ''policy''<sup>2</sup>.] '''1.''' In ''Gr. antiq.'': (''a'') A general term for a band or fillet or other female head-dress worn encircling the head, particularly when made of metal, or bearing in",
+   "c3s2": "[[FIGURE]]\n{{c|{{smaller|Examples of Greek Head-dresses (Ampyxes).}}}}\nfront an ornament of metal. (''b'') A head-band for horses; also, an ornamental plate of metal covering the front of a horse’s head.—'''2.''' [NL.] A species of trilobite or fossil crustacean, found chiefly in Lower Silurian strata.\n\n'''amrita''' (am-rit′ä̤), ''n.'' [Also Anglicized ''amreeta''; Skt. ''amṛita'' (vowel ''ri'') (= Gr. ἄμβροτος = L. ''immort-alis'': see ''ambrosia'' and ''immortal''), < ''a-'' priv. + ''mrita'', dead, < √ ''mar'', die.] In ''Hindu myth.'', the ambrosia of the gods; the beverage of immortality, that resulted from the churning of the ocean by the gods and demons.\n\n'''amry†''', ''n.'' A variant of ''ambry''.\n\n'''amsel''', ''n.'' See ''amzel''.\n\n'''amshaspand''' (am-shas′pand), ''n.'' [Pers., immortal holy one.] In ''Zoroastrianism'', one of six exalted angelic beings forming the train of Ahura-mazda, or Ormuzd, the good divinity of the Persians. Against them stand arrayed in deadly strife six devs or malignant spirits, followers of Ahriman, the spirit of evil.",
+   "c3s3": "{{smaller block|It was easy to foresee that the ''amshaspands'' of the Persian system would be quoted as the nearest parallel to the archangels of the Holy Scriptures.\n{{right|''Hardwick'', Christ and Other Masters, p. 562.}}}}\n\n¶\n'''Amstel porcelain, pottery.''' See ''porcelain'', ''pottery''.\n\n'''amt''' (amt), ''n.'' [Dan. Norw. ''amt'', an administrative district, < G. ''amt'', a district, county, jurisdiction, special senses derived from the orig. one of ‘service, office,’ = Dan. ''embede'', Sw. ''embete'' = Norw. dial. ''embætte'' = Icel. ''embætti'', service, office, = Goth. ''andbahti'' = AS. ''ambiht'', ''ambeht'', service: see ''ambassade'', etc., and ''embassy''.] The largest territorial administrative division of Denmark and Norway: as, the ''amt'' of Akershus. Each of these two countries is divided into 18 ''amts''.\n\n'''amt.''' A contraction of ''amount''.\n\n'''amtman''' (amt′man), ''n.''; pl. ''amtmen'' (-men). [< Dan. Norw. ''amtmand'', < ''amt'' (see above) + ''mand'' = Sw. ''man'' = E. ''man''.] The chief executive officer of an amt.\n\n'''amuck''' (ạ-muk′), ''a.'' or ''adv.'' [First used in Pg. form, ''amouco'', ''amuco'', as a noun, a frenzied Ma-",
+   "c3s4": "lay; afterward ''amuck'', ''amock'', ''amok'', almost exclusively in the phrase ''run amuck''; < Malay ''amoq'', adj., “engaging furiously in battle, attacking with desperate resolution, rushing in a state of frenzy to the commission of indiscriminate murder: applied to any animal in a state of vicious rage” (Marsden, Malay Dict.).] Literally, in a state of murderous frenzy; indiscriminately slaughtering or killing: a term used in the Eastern Archipelago. {{smaller|In English formerly as a noun, but now only as an adjective or quasi-adverb in the phrase ''to run amuck''. Also written ''amock'', ''amok''.}}—'''To run"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0214 c1f1.png",
+   "c1f2": "century v01 p0214 c1f2.png",
+   "c2f1": "century v01 p0214 c2f1.png",
+   "c3f1": "century v01 p0214 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     134,
+     2006,
+     802,
+     2369
+    ],
+    "caption": [
+     134,
+     2384,
+     798,
+     2438
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     119,
+     2038,
+     703,
+     2378
+    ]
+   },
+   {
+    "box": [
+     462,
+     2605,
+     825,
+     2925
+    ],
+    "caption": [
+     465,
+     2933,
+     818,
+     2975
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     459,
+     2635,
+     780,
+     2948
+    ]
+   },
+   {
+    "box": [
+     868,
+     1324,
+     1328,
+     1580
+    ],
+    "caption": [
+     884,
+     1592,
+     1312,
+     1660
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     863,
+     1202,
+     1323,
+     1597
+    ]
+   },
+   {
+    "box": [
+     1658,
+     1160,
+     2262,
+     1442
+    ],
+    "caption": [
+     1714,
+     1452,
+     2193,
+     1476
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1620,
+     1152,
+     2318,
+     1453
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    2,
+    0
+   ],
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 5,
+    "input_tokens": 7989,
+    "output_tokens": 311,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 14,
+    "input_tokens": 9749,
+    "output_tokens": 8003,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 55524
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c1f2": "right",
+   "c2f1": "left"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|amplitude|188|amuck}}</noinclude>{{smaller|as determined by the compass. The difference between this and the true amplitude is the declination of the compass.}}\n\n'''amply''' (am′pli), ''adv.'' In an ample manner; largely; liberally; fully; sufficiently; copiously; abundantly.\n{{smaller block|The details of the rapid propagation of Western monachism have been ''amply'' treated by many historians, and the causes of its success are sufficiently manifest.\n{{right|''Lecky'', Europ. Morals, II. 194.}}}}\n\n'''ampollosity''', ''n.'' See ''ampullosity''.\n\n'''ampongue''' (am-pong′), ''n.''   [F. spelling of native name.]   A native name of the avahi or woolly lemur of Madagascar.\n\n'''ampul†''' (am′pul), ''n.''   [Early mod. E. also ''ampulle'', ''ampoule'', ''ampell'', ''ample'', < ME. ''ampulle'', ''ampoule, ampolle, ampole'', partly < AS. ''ampulla, ampolla, ampella'', a bottle, flask, vial (= OHG. ''ampulla'', MHG. ''ampulle, ampel'', G. ''ampel'', a lamp, = Icel. ''ampli, hömpull'', a jug, = Dan. ''ampel'', a hanging flower-pot), and partly < OF. ''ampole, ampoule'', F. ''ampoule'' = Sp. ''ampolla'', a bottle, bubble, blister, = Pg. ''ampulla'', ampulla, ''ampolla'', *''ampolha'', a bubble, blister, = It. ''ampolla'', < L. ''ampulla'', a bottle, flask, etc.: see ''ampulla'', which has superseded the older form.]   Same as ''ampulla'', 2 (''b'').\n\n'''Ampulex''' (am′pū-leks), ''n.''   [NL., < L. ''am-'' for ''ambi-'' (?) + ''pulex'', a flea.]   A genus of digger-wasps, of the family ''Sphegidæ'', giving name to the ''Ampulicidæ''. ''A. sibirica'' is an example.\n\n'''Ampulicidæ''' (am-pū-lis′i-dē), ''n. pl.''   [NL., < ''Ampulex'' (''-ic-'') + ''-idæ''.]   A family of fossorial hymenopterous insects, named from the genus ''Ampulex''.\n\n'''ampulla''' (am-pul′ä̤), ''n.''; pl. ''ampullæ'' (-ē).   [L., a swelling vessel with two handles, prob. an accom. form of *''amphoila'', dim. of ''amphora'': see ''amphora''.]   '''1.''' In ''Rom. antiq.'', a bottle with a narrow neck and a body more or less nearly globular in shape, usually made of glass or earthenware, rarely of more valuable materials, and used, like the Greek aryballos, bombylios, etc., for carrying oil for anointing the body and for many other purposes.—'''2.''' ''Eccles.'': (''a'') In the ''Rom. Cath. Ch.'', a cruet, regularly made of transparent glass, for holding the wine and water used at the altar. See ''ama''. Also written ''amula''. (''b'') A vessel for holding the consecrated oil or chrism used in various church rites and at the coronation of kings. {{smaller|The ampulla used at coronations in England is in the form of an eagle, of pure gold, richly chased. The famous ampulla formerly used in France, kept at Rheims, and reputed to have been brought from heaven by a dove for the baptism of Clovis I., was broken at the Revolution; but a portion of its oil is said to have been preserved and to have been used at the coronation of Charles X. Formerly ''ampul''.}} '''3.''' In the middle ages, a small bottle-shaped flask, often of glass, sometimes of lead, used by travelers, and especially by pilgrims. Sometimes these were used as pilgrims’ signs (which see, under ''pilgrim'').—'''4.''' In ''anat.'': (''a'') The dilated part of the membranous semicircular canals in the ear. (''b'') The enlargement of a galactophorous duct beneath the areola in the human mammary gland. Also called ''sinus''.—'''5.''' In ''bot.'', a small bladder or flask-shaped organ attached to the roots or immersed leaves {{img float|file=century v01 p0214 c1f2.png|width=186px|align=right|cap={{smaller|Ends of two semicircular Canals, with their respective Ampullæ.}}}} of some aquatic plants, as in ''Utricularia'' (which see).—'''6.''' In ''zoöl.'': (''a'') In ''Vermes'', a terminal dilatation of the efferent seminal ducts. (''b'') In ''Brachiopoda'', one of the contractile mammillary processes of the sinuses of the pallial lobes, as in ''Lingula''. (''c'') In certain ducks, one of the chambers or dilatations of the tracheal tympanum or labyrinth. See ''tympanum''. There may be but one ampulla, or there may be one on each side. [Little used in this sense.] (''d'') In hydroid polyps, the cavity of a vesicular marginal body connected by a canal with the gastrovascular system. (''e'') In echinoderms, one of the diverticula of the branched ambulacral canals; a sort of Polian vesicle of the ambulacral suckers.—{{smaller|'''Ampulla of Vater''', in ''anat.'', the sac-like space in the wall of the duodenum, into which open the common bile-duct and the pancreatic duct.}}\n\n[[File:century v01 p0214 c1f1.png|center|334px]]\n{{c|{{smaller|Leaden Ampulla in the Museum at York, England. (From the “Journal of the British Archæological Association.”)}}}}\n\n'''ampullaceous''' (am-pu-lā′shius), ''a.''   [< L. ''ampullaceus'', < ''ampulla'': see ''ampulla''.]   Of, pertaining to, or like an ampulla; bottle-shaped; inflated.—{{smaller|'''Ampullaceous sac''', one of the hollow ciliated or monad-lined chambers of many sponges. See cuts under ''ciliate'' and ''Porifera''.}}\n{{smaller block|Thus is formed one of the characteristic ''ampullaceous sacs.''\n{{right|''W. B. Carpenter'', Micros., § 509.}}}}\n\n'''Ampullacera''' (am-pu-las′e̤-rä), ''n.''   [NL., < L. ''ampulla'' (see ''ampulla'') + Gr. κέρας, horn.]   Same as ''Amphibola''.   ''Quoy and Gaimard'', 1832.\n\n'''Ampullaceridæ''' (am-pul-a̤-ser′i-dē), ''n. pl.''   [NL., < ''Ampullacera'' + ''-idæ''.]   Same as ''Amphibolidæ''.   ''Troschel'', 1845.\n\n'''ampullæ''', ''n.'' Plural of ''ampulla''.\n\n'''ampullar''' (am-pul′är), ''a.'' Same as ''ampullary''.\n\n'''Ampullaria''' (am-pu-lā′ri-ä̤), ''n.''   [NL., < ''ampullarius'', fem. of L. adj.: see ''ampullary''.]   A genus of shell-bearing gastropods, typical of the family ''Ampullariidæ''.   ''Lamarck'', 1801.\n\n'''Ampullariacea''' (am-pu-lā-ri-ā′sẹ̄-ä̤), ''n. pl.''   [NL., < ''Ampullaria'' + ''-acea''.]   A family of gastropods: synonymous with ''Ampullariidæ''.\n\n'''ampullariid''' (am-pu-lar′i-id), ''n.'' A gastropod of the family ''Ampullariidæ''.\n\n'''Ampullariidæ''' (am-pul-ạ-rī′i-dē), ''n. pl.''   [NL., < ''Ampullaria'' + ''-idæ''.]   A family of tænioglossate {{img float|file=century v01 p0214 c2f1.png|width=234px|align=left|cap={{smaller|Apple- or Idol-shell (''Ampullaria canaliculata''), South America. ''o'', operculum; ''s'', siphon.}}}} gastropods having a lung-like sac in addition to the gills, the muzzle produced into two long attenuate or tentacle-like processes, the true tentacles elongated, and the eyes pedunculated. {{smaller|The shells are subglobular, conic, or discoidal in form, and have entire apertures which are closed by concentric opercula. The species are numerous, and are chiefly found in the fresh waters of tropical and subtropical countries, many of them being known as apple-shells and idol-shells. Also ''Ampullariadæ'', ''Ampullariacea'', and ''Ampullaridæ''.}}\n\n'''Ampullariinæ''' (am-pu-lā-ri-ī′nē), ''n. pl.''   [NL., < ''Ampullaria'' + ''-inæ.'']   The ''Ampullariidæ'' rated as a subfamily. Also written ''Ampullarinæ. Swainson'', 1840.\n\n'''ampullary''' (am′pul-ạ̄-ri), ''a.''   [< L. ''ampullarius'', n., a flask-maker, prop. adj., < ''ampulla'', a flask: see ''ampulla.'']   Resembling an ampulla; globular. Also ''ampullar.''\n\n'''ampullate''' (am-pul′āt), ''a.''   [< ML. ''ampullatus'', < L. ''ampulla:'' see ''ampulla.'']   '''1.''' Having the character of an ampulla; ampullary.—'''2.''' Furnished with an ampulla.\n\n'''ampulliform''' (am-pul′i-fôrm), ''a.''   [< L. ''ampulla'' + ''-i-form.'']   Shaped like an ampulla; flask-shaped; bulging; dilated.\n\n'''ampulling-cloth''' (am-pul′ing-klôth), ''n.''   [So called because in England the oil was anciently kept in an ampulla; < ''ampul'' + ''-ing''<sup>1</sup> + ''cloth.'']   In the ''Rom. Cath. Ch.'', a cloth with which to wipe away the oil used in administering the sacrament of extreme unction.\n\n'''ampullinula''' (am-pu-lin′ū-lä), ''n.''; pl. ''ampullinulæ'' (-lē).   [NL., < L. ''ampulla'' + ''-in-a'' + dim. ''-ula.'']   A stage in the evolution of the ''Carneospongiæ'' when the lateral ampullæ are first formed.\n{{smaller block|This stage . . . we propose to call the ''Ampullinula'', because the name protospongiæ, as defined by Haeckel, . . . is not applicable to such an advanced form as this.\n{{right|''Hyatt'', Proc. Bost. Soc. Nat. Hist., XXIII. 88.}}}}\n\n'''ampullosity''' (am-pu-los′i-ti), ''n.''   [< It. ''ampollosità'', < ML. *''ampullositä''(''t''-)''s'', turgidity, bombast, < ''ampullosus'': see ''ampullous''.]   Inflated language; bombast; turgidity. Sometimes written ''ampollosity''.\n{{smaller block|Didst ever touch such ''ampollosity''<br>As the man’s own bubble [his speech], let alone its spite?\n{{right|''Browning'', Ring and Book, II. 326.}}}}\n\n'''ampullous†''' (am-pul′us), ''a.''   [= It. ''ampolloso'', < ML. ''ampullosus'', turgid, inflated, < L. ''ampulla'', a flask, fig. swelling words, bombast.]   Boastful; vainglorious; inflated or turgid in language.   ''N. E. D.''\n\n'''amputate''' (am′pū-tāt), ''v. t.''; pret. and pp. ''amputated'', ppr. ''amputating''.   [< L. ''amputatus'', pp. of ''amputare'', cut off around, lop off, esp. plants, prune, < ''am-'' for ''ambi-'', around, + ''putare'', lop, prune, cleanse, < ''putus'', pure, clean, akin to ''purus'', pure: see ''pute'' and ''pure''.]   '''1†.''' To prune, as branches or twigs of trees or vines.—'''2.''' To cut off, as a limb or other part of an animal body; cut away the whole or a part of (more commonly the latter): as, to ''amputate'' the leg below the knee.\n\n'''amputation''' (am-pū-tā′shọn), ''n.''   [< L. ''amputatio(n-)'', < ''amputare'', amputate: see ''amputate''.]   The act of amputating; especially, the operation of cutting off a limb or other part of the body, or a portion of it.\n\n'''amputational''' (am-pū-tā′shọn-al), ''a.'' Pertaining to or caused by amputation.\n\n'''amputator''' (am′pū-tā-tọr), ''n.''   [< L. as if *''amputator'', < ''amputare'': see ''amputate''.]   One who amputates.\n\n'''ampyx''' (am′piks), ''n.''; pl. ''ampyxes'', ''ampyces'' (-ez, -pi-sēz).   [< Gr. ἄμπυξ (ἀμπυκ-), prob. connected with ἀνάπτυκτος, ἀνάπτυχος, that may be opened (folded back), < ἀναπτύσσειν, fold back, unfold, open, < ἀνά, up, back, + πτύσσειν (√ *πυκ or *πτυχ, found in πυκάζειν, wrap up, cover, πτυχή, a fold), fold, wrap; the same element occurs in ''diptych'' and ''policy''<sup>2</sup>.]   '''1.''' In ''Gr. antiq.'': (''a'') A general term for a band or fillet or other female head-dress worn encircling the head, particularly when made of metal, or bearing in front an ornament of metal. (''b'') A head-band for horses; also, an ornamental plate of metal covering the front of a horse’s head.—'''2.''' [NL.] A species of trilobite or fossil crustacean, found chiefly in Lower Silurian strata.\n\n[[File:century v01 p0214 c3f1.png|center|303px]]\n{{c|{{smaller|Examples of Greek Head-dresses (Ampyxes).}}}}\n\n'''amrita''' (am-rit′ä̤), ''n.''   [Also Anglicized ''amreeta''; Skt. ''amṛita'' (vowel ''ri'') (= Gr. ἄμβροτος = L. ''immort-alis'': see ''ambrosia'' and ''immortal''), < ''a-'' priv. + ''mrita'', dead, < √ ''mar'', die.]   In ''Hindu myth.'', the ambrosia of the gods; the beverage of immortality, that resulted from the churning of the ocean by the gods and demons.\n\n'''amry†''', ''n.'' A variant of ''ambry''.\n\n'''amsel''', ''n.'' See ''amzel''.\n\n'''amshaspand''' (am-shas′pand), ''n.''   [Pers., immortal holy one.]   In ''Zoroastrianism'', one of six exalted angelic beings forming the train of Ahura-mazda, or Ormuzd, the good divinity of the Persians. Against them stand arrayed in deadly strife six devs or malignant spirits, followers of Ahriman, the spirit of evil. {{smaller block|It was easy to foresee that the ''amshaspands'' of the Persian system would be quoted as the nearest parallel to the archangels of the Holy Scriptures.\n{{right|''Hardwick'', Christ and Other Masters, p. 562.}}}}\n\n'''Amstel porcelain, pottery.''' See ''porcelain'', ''pottery''.\n\n'''amt''' (amt), ''n.''   [Dan. Norw. ''amt'', an administrative district, < G. ''amt'', a district, county, jurisdiction, special senses derived from the orig. one of ‘service, office,’ = Dan. ''embede'', Sw. ''embete'' = Norw. dial. ''embætte'' = Icel. ''embætti'', service, office, = Goth. ''andbahti'' = AS. ''ambiht'', ''ambeht'', service: see ''ambassade'', etc., and ''embassy''.]   The largest territorial administrative division of Denmark and Norway: as, the ''amt'' of Akershus. Each of these two countries is divided into 18 ''amts''.\n\n'''amt.''' A contraction of ''amount''.\n\n'''amtman''' (amt′man), ''n.''; pl. ''amtmen'' (-men).   [< Dan. Norw. ''amtmand'', < ''amt'' (see above) + ''mand'' = Sw. ''man'' = E. ''man''.]   The chief executive officer of an amt.\n\n'''amuck''' (ạ-muk′), ''a.'' or ''adv.''   [First used in Pg. form, ''amouco'', ''amuco'', as a noun, a frenzied Malay; afterward ''amuck'', ''amock'', ''amok'', almost exclusively in the phrase ''run amuck''; < Malay ''amoq'', adj., “engaging furiously in battle, attacking with desperate resolution, rushing in a state of frenzy to the commission of indiscriminate murder: applied to any animal in a state of vicious rage” (Marsden, Malay Dict.).]   Literally, in a state of murderous frenzy; indiscriminately slaughtering or killing: a term used in the Eastern Archipelago. {{smaller|In English formerly as a noun, but now only as an adjective or quasi-adverb in the phrase ''to run amuck''. Also written ''amock'', ''amok''.}}—'''To run<noinclude><references/></noinclude>"
+}

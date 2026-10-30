@@ -1,0 +1,183 @@
+{
+ "volume": 1,
+ "page_number": 178,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n177.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n177.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 745,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     70,
+     124,
+     2293,
+     163
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     70,
+     163,
+     818,
+     1259
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     70,
+     1259,
+     818,
+     2285
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     70,
+     2285,
+     818,
+     3287
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     818,
+     163,
+     1555,
+     1142
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     818,
+     1142,
+     1555,
+     2155
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     818,
+     2155,
+     1555,
+     3205
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     818,
+     3205,
+     1555,
+     3287
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1555,
+     163,
+     2293,
+     1158
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1555,
+     1158,
+     2293,
+     2240
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1555,
+     2240,
+     2293,
+     3287
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|alloy|152|alluvion}}",
+   "c1s1": "admixture; impair by the intrusion of a base or alien element; contaminate; modify: as, external prosperity ''alloyed'' by domestic trials.\n{{smaller block|But to ''alloy'' much of this [rejoicing], the French fleete rides in our Channell, ours not daring to interpose.\n{{right|''Evelyn'', Diary, June 24, 1690.}}}}\n'''II.''' ''intrans.'' To enter into combination, as one metal with another.\n{{smaller block|One metal does not ''alloy'' indifferently with every other metal, but is governed in this respect by peculiar affinities.\n{{right|''Ure'', Dict., I. 91.}}}}\nFormerly written ''allay.''\n\n'''alloy''' (a-loi′), ''n.'' [< F. ''aloi'', earlier ''aloy'', < OF. ''alei'', AF. ''aley'', ''alay'', > E. ''allay''<sup>2</sup>, ''n.'' The sense has been influenced by the erroneous etymology from F. ''à loi'', to law, as if ‘that which is brought to the legal standard.’] '''1.''' An artificial compound of two or more metals combined while in a state of fusion, as of copper and tin, which form bronze, or of lead and antimony, which form type-metal. {{smaller|The alloys are numerous, as the brasses, bronzes, solders, type-, gun-, and bell-metals, etc., and are of great importance in the practical arts. There are many varieties of these alloys, the character of each being determined by the proportions of its constituents. An artificial metallic mixture containing quicksilver is termed an ''amalgam'' (which see).}}\n'''2.''' An inferior metal mixed with one of greater value. {{smaller|The gold and silver coins of the United States are of the standard fineness of 900 parts of fine metal and 100 parts of copper alloy, of which in the case of gold not more than one tenth may be silver. In the case of silver coins the alloy is wholly of copper. Hence these coins are said to be 900 fine. See ''alloyage.''}}\n{{smaller block|The British standard for gold coin is 22 parts pure gold and 2 parts ''alloy'', and for silver, 222 parts pure silver to 18 parts of ''alloy''.\n{{right|''Ure'', Dict., I. 96.}}}}",
+   "c1s2": "¶\n'''3†.''' Standard; quality; fineness.\n{{smaller block|My Lord of Northumberland, . . . whose education of his sonne, I heare, has ben of another streine and ''alloy'' then that we have mentioned.\n{{right|''Evelyn'', Letter to Edward Thurland.}}}}\n\n'''4.''' Figuratively, admixture, as of good with evil; a deleterious mixture or element; taint: as, no earthly happiness is without ''alloy''.\n{{smaller block|The friendship of high and sanctified spirits loses nothing by death but its ''alloy''.\n{{right|''R. Hall.''}}}}\n\nFormerly written ''allay''.\n{{smaller block|'''D’Arcetz’s, Newton’s, Rose’s fusible alloy of bismuth.''' See ''metal''.—'''Wood’s fusible alloy,''' an alloy composed of 15 parts of bismuth, 8 of lead, 4 of tin, 3 of cadmium. It has a brilliant luster, which does not tarnish readily, and melts between 150° and 160° F. ''Workshop Receipts.''}}\n\n'''alloyage''' (a-loi′āj), ''n.'' [< ''alloy'' + ''-age''.] The practice or process of alloying metals; specifically, in ''minting'', the practice of adding to the precious metals a small proportion of a baser one, to harden them, with the object of producing a clear impression when the coins are struck, and of preventing or lessening abrasion while they are in circulation. See ''alloy'', ''n.'', 2.\n\n'''alloy-balance''' (a-loi′bal″ans), ''n.'' A balance for weighing metals which are to be combined in decimal proportions. {{smaller|In Robert’s alloy-balance the point of suspension is movable, and is adjusted to the point at which the arms of the balance bear to one another the proportion of the metals to be weighed, as for example 17 per cent. of tin to 83 of copper. The beam of the balance is then brought to the position of equilibrium by means of a weight suspended from a continuation of the short arm of the balance; and when the balance is so}}",
+   "c1s3": "{{smaller|adjusted any quantity of copper put in the short-arm scale will be balanced by the requisite proportion of tin in the other scale, that is, in the supposed case, 17 per cent. of the total weight of the two.}}\n\n'''allozoöid''' (al-ọ̄-zō′oid), ''n.'' [< Gr. ἄλλος, other, + ζῳοειδής, like an animal: see ''zoöid.''] In ''zoöl.'', an animal bud or zoöid separated by gemmation from the organism by which it is produced, and differing from it in character: the opposite of ''isozoöid.''\n\n'''all-round''' (âl′round), ''a.'' [< ''all'', ''adv.'', + ''round'', ''adv.''] Able to do many things well; many-sided; capable of doing anything; versatile; not narrow; not too specialized.\n{{smaller block|Let our aim be as hitherto to give a good ''all-round'' education fitted to cope with as many exigencies of the day as possible. {{right|''Lowell'', Oration, Harvard, Nov. 8, 1886.}}\nOne of the usual ''all-round'' men, who considered that he could do most things, and vaunted his precise knowledge of the trails throughout the territories. {{right|''W. Shepherd'', Prairie Experiences, p. 192.}}}}\n\n'''All-saints''' (âl′sānts), ''n.'' Same as ''All Saints’ day'' (which see, under ''saint'').\n\n'''allseed''' (âl′sēd), ''n.'' A name given in Great Britain to several very different plants: (''a'') ''Polycarpon tetraphyllum'', a small plant found in the southwest of England; (''b'') the knot-grass, ''Polygonum aviculare;'' (''c'') ''Chenopodium polyspermum'', found in waste places; (''d'') ''Radiola Millegrana.''\n\n'''all-sorts''' (âl′sôrts), ''n.'' A term used in taverns or beer-shops to denote a beverage composed of remnants of various liquors mixed together.",
+   "c2s1": "¶\n'''All-souls''' (âl′sōlz), ''n.'' Same as ''All Souls’ day'' (which see, under ''soul'').\n\n'''allspice''' (âl′spīs), ''n.'' [< ''all'' + ''spice:'' so called because supposed to combine the flavor of cinnamon, nutmeg, and cloves.] The fruit of ''Eugenia Pimenta,'' a tree of the West Indies. See ''pimento.'' {{smaller|''Carolina allspice'' is the sweet-shrub, ''Calycanthus floridus.'' ''Japan allspice'' is a common name for the allied shrub of Japan, ''Chimonanthus fragrans.'' ''Wild allspice'' is a name sometimes given to the aromatic ''Lindera Benzoin'' of the United States.}}\n\n'''allubescence†, allubescency†''' (al-ū-bes′ens, -en-si), ''n.'' [Also ''adlubescence;'' < L. ''adlubescen(t-)s, allubescen(t-)s,'' ppr. of ''adlubescere, allubescere,'' be pleasing to, < ''ad,'' to, + ''lubere, libere,'' please. Cf. ''ad libitum.''] '''1.''' Pleasantness.—'''2.''' Willingness; compliance.\n\n'''allude''' (a-lūd′), ''v.''; pret. and pp. ''alluded,'' ppr. ''alluding.'' [< L. ''alludere, adludere,'' play with, jest, speak sportively, < ''ad,'' to, + ''ludere,'' play.] '''I.'''† ''trans.'' '''1.''' To play with or make game of.—'''2.''' To compare.\n{{smaller block|To free myselfe from the imputation of partiality, Ile at last ''allude'' her to a waterman.\n{{right|''John Taylor.''}}}}\n\n'''II.''' ''intrans.'' '''1.''' To make an allusion; refer casually or indirectly: with ''to'' (formerly also ''unto'').\n{{smaller block|These speeches . . . do seem to ''allude unto'' such ministerial garments as were then in use.\n{{right|''Hooker.''}}\nHe ''alludes to'' enterprizes which he cannot reveal but with the hazard of his life.\n{{right|''Steele,'' Spectator, No. 510.}}}}",
+   "c2s2": "'''2†.''' To pun; have a punning reference. ='''Syn. 1.''' {{smaller|''Advert'', ''Refer'', ''Allude'', etc. See ''advert''.}}\n\n'''allum†''', ''n.'' An old spelling of ''alum''.\n\n'''allumette''' (al-ū-met′), ''n.'' [F., a match, < ''allumer'', light, kindle: see ''allumine''.] A match for lighting.\n\n'''alluminate†''' (a-lū′mi-nāt), ''v. t.'' [< ML. *''alluminatus'', pp. of *''alluminare'': see ''allumine''.] To illuminate, as manuscripts. ''Bailey.''\n\n'''allumine†''' (a-lū′min), ''v. t.'' [< OF. ''alluminer'' for ''alumer'', later ''allumer'', lighten, kindle, = Pr. ''alumnar'', ''alumenar'' = Sp. ''alumbrar'' = Pg. ''alumiar'', ''allumiar'' = It. ''allumare'', ''alluminare'', < ML. *''alluminare'', set light to, < L. ''ad'', to, + ''luminare'', light, < ''lumen'' (''lumin-''), light: see ''luminous'', ''limn'', and cf. ''illumine'', ''illuminate''.] To illuminate; enlighten.\n\n'''alluminor†''' (a-lū′mi-nor), ''n.'' [ME. ''lymnour'', etc. (see ''limner''), < AF. ''alluminour'', OF. ''alumineor'', later ''allumineur'', < ML. as if *''alluminator'', equiv. to ''illuminator'', < *''alluminare'', equiv. to ''illuminare'': see ''allumine'', ''illumine''.] An illuminator of manuscripts.\n{{smaller block|Before the invention of printing, certain persons called ''Alluminors'' made it a trade to paint the initial letters of manuscripts in all sorts of colours, and to gild them with silver and gold.\n{{right|''Barclay'', Dict. (1823).}}}}\n\n'''all-ups''' (âl′ups), ''n.'' A mixture of all qualities of coal, excepting fine slack, raised from one seam. ''Gresley.'' [Leicestershire, Eng.]\n\n'''allurance†''' (a̤-lūr′a̤ns), ''n.'' [< ''allure''<sup>1</sup> + ''-ance''.] Allurement.",
+   "c2s3": "¶\n'''allurant†''' (a̤-lūr′ant), ''a.'' [< ''allure''<sup>1</sup> + ''-ant''<sup>1</sup>.] Alluring; enticing. ''B. Jonson.''\n\n'''allure<sup>1</sup>''' (a̤-lūr′), ''v. t.''; pret. and pp. ''allured'', ppr. ''alluring.'' [Early mod. E. ''alure'', ''alewre'', < ME. ''aluren'', < AF. ''alurer'', OF. ''alurer'', ''aleurrer'', ''alerrer'', attract, allure, < ''a'', to, + ''lurer'', lure: see ''lure.''] '''1.''' To tempt by the offer of some good, real or apparent; invite by something flattering or acceptable; draw or try to draw by some proposed pleasure or advantage: as, rewards ''allure'' men to brave danger.\n{{smaller block|''Allur’d'' to brighter worlds, and led the way.\n{{right|''Goldsmith'', Des. Vil., l. 170.}}}}\n'''2.''' To attract; fascinate; charm.\n{{smaller block|She show’d him favours to ''allure'' his eye.\n{{right|''Shak.'', Pass. Pilg., iv.}}\nSleeking her soft ''alluring'' locks.\n{{right|''Milton'', Comus, l. 882.}}}}\n{{smaller block|='''Syn.''' ''Allure'', ''Lure'', ''Entice'', ''Decoy'', ''Seduce'', attract, invite, coax, engage, prevail on. The first five words imply the exercise of strong but subtle influences over the mind or senses. ''Allure'', ''lure'', to attract by a lure or bait, to draw by appealing to the hope of gain or the love of pleasure, differ but little; the former, however, seems to imply a more definite object than ''lure'', which retains perhaps a little more of the original meaning, though it is less often used. ''Entice'' expresses most of skill, subtlety, flattery, or fair speech. ''Decoy'' is to lead into a snare by false appearances; this word is the one most commonly used in a physical sense. ''Seduce'', to lead astray, generally from rectitude, but sometimes from interest or truth.}}\n{{smaller block|As danger could not daunt, so neither could ambition ''allure'' him.\n{{right|''Latimer'', Sermons, Int., p. xli.}}\nSo beauty ''lures'' the full-grown child.\n{{right|''Byron'', Giaour.}}}}",
+   "c2s4": "¶\n{{smaller block|He dooth not only show the way, but giueth so sweete a prospect into the way, as will ''intice'' any man to enter into it.\n{{right|''Sir P. Sidney'', Apol. for Poetrie.}}}}",
+   "c3s1": "¶\n{{smaller block|He sailed for England, taking with him five of the natives whom he had ''decoyed''. {{right|''Bancroft'', Hist. U. S., I. 91.}}}}\n\n{{smaller block|It is not the knavery of the leaders so much as the honesty of the followers they may ''seduce'', that gives them power for evil. {{right|''Lowell'', Study Windows, p. 169.}}}}\n\n'''allure<sup>1</sup>†''' (a-lūr′), ''n.'' [< ''allure''<sup>1</sup>, ''v.''] Allurement.\n\n'''allure<sup>2</sup>†''', ''n.'' Same as ''alure.''\n\n'''allurement''' (a-lūr′ment), ''n.'' [< ''allure''<sup>1</sup> + ''-ment.''] '''1.''' The act of alluring or attracting.\n{{smaller block|Adam by his wife’s ''allurement'' fell. {{right|''Milton'', P. R., ii. 134.}}}}\n'''2.''' That which allures; any real or apparent good held forth or operating as a motive to action; a temptation; an enticement: as, the ''allurements'' of pleasure or of honor.\n{{smaller block|Let your Scholer be neuer afraide, to aske you any dout, but vse discretlie the best ''allurements'' ye can, to encorage him to the same. {{right|''Ascham'', The Scholemaster, p. 28.}}}}\n'''3.''' Attractiveness; fascination; charm.\n\n'''allurer''' (ạ-lūr′ėr), ''n.'' One who or that which allures.\n{{smaller block|<poem>Money, the sweet ''allurer'' of our hopes,\nEbbs out in oceans, and comes in by drops.</poem>\n{{right|''Dryden'', Prol. to Prophetess, l. 11.}}}}\n\n'''alluringly''' (ạ-lūr′ing-li), ''adv.'' In an alluring manner; enticingly.\n\n'''alluringness''' (ạ-lūr′ing-nes), ''n.'' The quality of being alluring or fascinating.\n\n'''allusion''' (ạ-lū′zhọn), ''n.'' [< F. ''allusion'', < L. ''allusio(n-)'', ''adlusio(n-)'', playing or sporting with, < ''alludere'', pp. ''allusus:'' see ''allude.''] '''1†.''' A play upon words; a pun.",
+   "c3s2": "{{smaller block|The ''allusion'' holds in the exchange.\n{{right|''Shak.'', L. L. L., iv. 2.}}}}\n{{smaller block|[Said by Holofernes with reference to the jest about the moon’s being no more than a month old when Adam was fivescore.]}}\n'''2†.''' A symbolical reference or comparison; a metaphor.\n{{smaller block|Virtue, to borrow the Christian ''allusion'', is militant here, and various untoward accidents contribute to its being often overborne. {{right|''Butler'', Anal. Relig., i. 67.}}}}\n'''3.''' A passing or casual reference; a slight or incidental mention of something, either directly or by implication; a hint or reference used by way of illustration, suggestion, or insinuation: as, a classical ''allusion''; an ''allusion'' to a person’s misconduct.\n{{smaller block|We have here an elaborate treatise on Government, from which, but for two or three passing ''allusions'', it would not appear that the author was aware that any governments actually existed among men.\n{{right|''Macaulay'', Mill on Government.}}}}\n{{smaller block|The delicacy of touch, the circuitous ''allusion'', with which [Sydney] Smith refers to things commonly received as vulgar, is a study for all who wish to master the refinements of expression. {{right|''Whipple'', Ess. and Rev., I. 155.}}}}\n\n¶\n'''allusive''' (a̤-lū′siv), ''a.'' [< L. as if *''allusivus'', < ''allusus'', pp. of ''alludere'': see ''allude''.] '''1†.''' Punning.—'''2†.''' Metaphorical.\n{{smaller block|Poetry is triply divided into narrative, representative or dramatic, and ''allusive'' or parabolical.\n{{right|''Bacon'', Advancement of Learning, II. 4.}}}}\n'''3.''' Having reference to something not fully expressed; containing, full of, or characterized by allusions.\n{{smaller block|The ''allusive'' but not inappropriate pseudonym of Cassandra. {{right|''W. R. Greg'', Misc. Essays, 1st ser., p. 1.}}}}",
+   "c3s3": "{{smaller|Allusive arms, in ''her.'' See ''arm''<sup>2</sup>.}}\n\n'''allusively''' (a̤-lū′siv-li), ''adv.'' '''1†.''' Symbolically; by way of comparison or figure.—'''2.''' In an allusive manner; by way of allusion; by suggestion, implication, or insinuation.\n\n'''allusiveness''' (a̤-lū′siv-nes), ''n.'' The quality of being allusive.\n{{smaller block|The multifarious ''allusiveness'' of the prophetical style.\n{{right|''Dr. H. More'', Seven Churches, ix.}}}}\n\n'''allusory''' (a̤-lū′sọ̄-ri), ''a.'' [< L. as if *''allusorius'', < ''allusus'', pp. of ''alludere'': see ''allude''.] Allusive.\n{{smaller block|Expressions . . . figurative and ''allusory''.\n{{right|''Warburton'', Sermons, II. 100.}}}}\n\n'''alluvia''', ''n.'' Plural of ''alluvium''.\n\n'''alluvial''' (a̤-lū′vi-al), ''a.'' [< L. ''alluvius'', ''adluvius'', alluvial (see ''alluvium''), + ''-al''.] Of, pertaining to, or composed of alluvium: as, ''alluvial'' deposits; ''alluvial'' soil.—{{smaller|'''Alluvial formations''', in ''geol.'', recent deposits, in valleys or in plains, of the detritus of neighboring elevations, brought down chiefly by the action of water. Most river-plains, as those of the Mississippi, are alluvial, having been deposited from the waters of a river, a lake, or an arm of the sea. See ''alluvium''.}}\n{{smaller block|The windings of the stream in large ''alluvial'' flats are most numerous where the current is exceedingly slow.\n{{right|''Dana'', Geology, p. 641.}}}}\n\n'''alluvian''' (a̤-lū′vi-a̤n), ''a.'' Same as ''alluvial''. [Rare.]\n\n'''alluvio''' (a̤-lū′vi-ō), ''n.'' [L.] Same as ''alluvion''.\n\n'''alluvion''' (a̤-lū′vi-on), ''n.'' [< F. ''alluvion'', alluvion, accretion, < L. ''alluvio(n-)'', ''adluvio(n-)'', an overflowing, inundation, < ''alluere'', ''adluere'', flow to, wash upon, < ''ad'', to, + ''luere'', wash, = Gr. λούειν, wash: see ''lave''<sup>2</sup> and ''lotion''.] '''1.''' Formerly—(''a'')"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 1,
+    "input_tokens": 2673,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9593,
+    "output_tokens": 10313,
+    "cache_creation_input_tokens": 11898,
+    "cache_read_input_tokens": 31728
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|alloy|152|alluvion}}</noinclude>admixture; impair by the intrusion of a base or alien element; contaminate; modify: as, external prosperity ''alloyed'' by domestic trials.\n{{smaller block|But to ''alloy'' much of this [rejoicing], the French fleete rides in our Channell, ours not daring to interpose.\n{{right|''Evelyn'', Diary, June 24, 1690.}}}}\n'''II.''' ''intrans.'' To enter into combination, as one metal with another.\n{{smaller block|One metal does not ''alloy'' indifferently with every other metal, but is governed in this respect by peculiar affinities.\n{{right|''Ure'', Dict., I. 91.}}}}\nFormerly written ''allay.''\n\n'''alloy''' (a-loi′), ''n.''   [< F. ''aloi'', earlier ''aloy'', < OF. ''alei'', AF. ''aley'', ''alay'', > E. ''allay''<sup>2</sup>, ''n.'' The sense has been influenced by the erroneous etymology from F. ''à loi'', to law, as if ‘that which is brought to the legal standard.’]   '''1.''' An artificial compound of two or more metals combined while in a state of fusion, as of copper and tin, which form bronze, or of lead and antimony, which form type-metal. {{smaller|The alloys are numerous, as the brasses, bronzes, solders, type-, gun-, and bell-metals, etc., and are of great importance in the practical arts. There are many varieties of these alloys, the character of each being determined by the proportions of its constituents. An artificial metallic mixture containing quicksilver is termed an ''amalgam'' (which see).}}\n'''2.''' An inferior metal mixed with one of greater value. {{smaller|The gold and silver coins of the United States are of the standard fineness of 900 parts of fine metal and 100 parts of copper alloy, of which in the case of gold not more than one tenth may be silver. In the case of silver coins the alloy is wholly of copper. Hence these coins are said to be 900 fine. See ''alloyage.''}}\n{{smaller block|The British standard for gold coin is 22 parts pure gold and 2 parts ''alloy'', and for silver, 222 parts pure silver to 18 parts of ''alloy''.\n{{right|''Ure'', Dict., I. 96.}}}}\n\n'''3†.''' Standard; quality; fineness.\n{{smaller block|My Lord of Northumberland, . . . whose education of his sonne, I heare, has ben of another streine and ''alloy'' then that we have mentioned.\n{{right|''Evelyn'', Letter to Edward Thurland.}}}}\n\n'''4.''' Figuratively, admixture, as of good with evil; a deleterious mixture or element; taint: as, no earthly happiness is without ''alloy''.\n{{smaller block|The friendship of high and sanctified spirits loses nothing by death but its ''alloy''.\n{{right|''R. Hall.''}}}}\n\nFormerly written ''allay''.\n{{smaller block|'''D’Arcetz’s, Newton’s, Rose’s fusible alloy of bismuth.''' See ''metal''.—'''Wood’s fusible alloy,''' an alloy composed of 15 parts of bismuth, 8 of lead, 4 of tin, 3 of cadmium. It has a brilliant luster, which does not tarnish readily, and melts between 150° and 160° F. ''Workshop Receipts.''}}\n\n'''alloyage''' (a-loi′āj), ''n.''   [< ''alloy'' + ''-age''.]   The practice or process of alloying metals; specifically, in ''minting'', the practice of adding to the precious metals a small proportion of a baser one, to harden them, with the object of producing a clear impression when the coins are struck, and of preventing or lessening abrasion while they are in circulation. See ''alloy'', ''n.'', 2.\n\n'''alloy-balance''' (a-loi′bal″ans), ''n.'' A balance for weighing metals which are to be combined in decimal proportions. {{smaller|In Robert’s alloy-balance the point of suspension is movable, and is adjusted to the point at which the arms of the balance bear to one another the proportion of the metals to be weighed, as for example 17 per cent. of tin to 83 of copper. The beam of the balance is then brought to the position of equilibrium by means of a weight suspended from a continuation of the short arm of the balance; and when the balance is so adjusted any quantity of copper put in the short-arm scale will be balanced by the requisite proportion of tin in the other scale, that is, in the supposed case, 17 per cent. of the total weight of the two.}}\n\n'''allozoöid''' (al-ọ̄-zō′oid), ''n.''   [< Gr. ἄλλος, other, + ζῳοειδής, like an animal: see ''zoöid.'']   In ''zoöl.'', an animal bud or zoöid separated by gemmation from the organism by which it is produced, and differing from it in character: the opposite of ''isozoöid.''\n\n'''all-round''' (âl′round), ''a.''   [< ''all'', ''adv.'', + ''round'', ''adv.'']   Able to do many things well; many-sided; capable of doing anything; versatile; not narrow; not too specialized.\n{{smaller block|Let our aim be as hitherto to give a good ''all-round'' education fitted to cope with as many exigencies of the day as possible. {{right|''Lowell'', Oration, Harvard, Nov. 8, 1886.}}}}\n{{smaller block|One of the usual ''all-round'' men, who considered that he could do most things, and vaunted his precise knowledge of the trails throughout the territories. {{right|''W. Shepherd'', Prairie Experiences, p. 192.}}}}\n\n'''All-saints''' (âl′sānts), ''n.'' Same as ''All Saints’ day'' (which see, under ''saint'').\n\n'''allseed''' (âl′sēd), ''n.'' A name given in Great Britain to several very different plants: (''a'') ''Polycarpon tetraphyllum'', a small plant found in the southwest of England; (''b'') the knot-grass, ''Polygonum aviculare;'' (''c'')   ''Chenopodium polyspermum'', found in waste places; (''d'')   ''Radiola Millegrana.''\n\n'''all-sorts''' (âl′sôrts), ''n.'' A term used in taverns or beer-shops to denote a beverage composed of remnants of various liquors mixed together.\n\n'''All-souls''' (âl′sōlz), ''n.'' Same as ''All Souls’ day'' (which see, under ''soul'').\n\n'''allspice''' (âl′spīs), ''n.''   [< ''all'' + ''spice:'' so called because supposed to combine the flavor of cinnamon, nutmeg, and cloves.]   The fruit of ''Eugenia Pimenta,'' a tree of the West Indies. See ''pimento.'' {{smaller|''Carolina allspice'' is the sweet-shrub, ''Calycanthus floridus.'' ''Japan allspice'' is a common name for the allied shrub of Japan, ''Chimonanthus fragrans.'' ''Wild allspice'' is a name sometimes given to the aromatic ''Lindera Benzoin'' of the United States.}}\n\n'''allubescence†, allubescency†''' (al-ū-bes′ens, -en-si), ''n.''   [Also ''adlubescence;'' < L. ''adlubescen(t-)s, allubescen(t-)s,'' ppr. of ''adlubescere, allubescere,'' be pleasing to, < ''ad,'' to, + ''lubere, libere,'' please. Cf. ''ad libitum.'']   '''1.''' Pleasantness.—'''2.''' Willingness; compliance.\n\n'''allude''' (a-lūd′), ''v.''; pret. and pp. ''alluded,'' ppr. ''alluding.''   [< L. ''alludere, adludere,'' play with, jest, speak sportively, < ''ad,'' to, + ''ludere,'' play.]   '''I.'''† ''trans.'' '''1.''' To play with or make game of.—'''2.''' To compare.\n{{smaller block|To free myselfe from the imputation of partiality, Ile at last ''allude'' her to a waterman.\n{{right|''John Taylor.''}}}}\n\n'''II.''' ''intrans.'' '''1.''' To make an allusion; refer casually or indirectly: with ''to'' (formerly also ''unto'').\n{{smaller block|These speeches . . . do seem to ''allude unto'' such ministerial garments as were then in use.\n{{right|''Hooker.''}}}}\n{{smaller block|He ''alludes to'' enterprizes which he cannot reveal but with the hazard of his life.\n{{right|''Steele,'' Spectator, No. 510.}}}} '''2†.''' To pun; have a punning reference. ='''Syn. 1.''' {{smaller|''Advert'', ''Refer'', ''Allude'', etc. See ''advert''.}}\n\n'''allum†''', ''n.'' An old spelling of ''alum''.\n\n'''allumette''' (al-ū-met′), ''n.''   [F., a match, < ''allumer'', light, kindle: see ''allumine''.]   A match for lighting.\n\n'''alluminate†''' (a-lū′mi-nāt), ''v. t.''   [< ML. *''alluminatus'', pp. of *''alluminare'': see ''allumine''.]   To illuminate, as manuscripts.   ''Bailey.''\n\n'''allumine†''' (a-lū′min), ''v. t.''   [< OF. ''alluminer'' for ''alumer'', later ''allumer'', lighten, kindle, = Pr. ''alumnar'', ''alumenar'' = Sp. ''alumbrar'' = Pg. ''alumiar'', ''allumiar'' = It. ''allumare'', ''alluminare'', < ML. *''alluminare'', set light to, < L. ''ad'', to, + ''luminare'', light, < ''lumen'' (''lumin-''), light: see ''luminous'', ''limn'', and cf. ''illumine'', ''illuminate''.]   To illuminate; enlighten.\n\n'''alluminor†''' (a-lū′mi-nor), ''n.''   [ME. ''lymnour'', etc. (see ''limner''), < AF. ''alluminour'', OF. ''alumineor'', later ''allumineur'', < ML. as if *''alluminator'', equiv. to ''illuminator'', < *''alluminare'', equiv. to ''illuminare'': see ''allumine'', ''illumine''.]   An illuminator of manuscripts.\n{{smaller block|Before the invention of printing, certain persons called ''Alluminors'' made it a trade to paint the initial letters of manuscripts in all sorts of colours, and to gild them with silver and gold.\n{{right|''Barclay'', Dict. (1823).}}}}\n\n'''all-ups''' (âl′ups), ''n.'' A mixture of all qualities of coal, excepting fine slack, raised from one seam.   ''Gresley.'' [Leicestershire, Eng.]\n\n'''allurance†''' (a̤-lūr′a̤ns), ''n.''   [< ''allure''<sup>1</sup> + ''-ance''.]   Allurement.\n\n'''allurant†''' (a̤-lūr′ant), ''a.''   [< ''allure''<sup>1</sup> + ''-ant''<sup>1</sup>.]   Alluring; enticing.   ''B. Jonson.''\n\n'''allure<sup>1</sup>''' (a̤-lūr′), ''v. t.''; pret. and pp. ''allured'', ppr. ''alluring.''   [Early mod. E. ''alure'', ''alewre'', < ME. ''aluren'', < AF. ''alurer'', OF. ''alurer'', ''aleurrer'', ''alerrer'', attract, allure, < ''a'', to, + ''lurer'', lure: see ''lure.'']   '''1.''' To tempt by the offer of some good, real or apparent; invite by something flattering or acceptable; draw or try to draw by some proposed pleasure or advantage: as, rewards ''allure'' men to brave danger.\n{{smaller block|''Allur’d'' to brighter worlds, and led the way.\n{{right|''Goldsmith'', Des. Vil., l. 170.}}}}\n'''2.''' To attract; fascinate; charm.\n{{smaller block|She show’d him favours to ''allure'' his eye.\n{{right|''Shak.'', Pass. Pilg., iv.}}}}\n{{smaller block|Sleeking her soft ''alluring'' locks.\n{{right|''Milton'', Comus, l. 882.}}}}\n{{smaller block|='''Syn.''' ''Allure'', ''Lure'', ''Entice'', ''Decoy'', ''Seduce'', attract, invite, coax, engage, prevail on. The first five words imply the exercise of strong but subtle influences over the mind or senses. ''Allure'', ''lure'', to attract by a lure or bait, to draw by appealing to the hope of gain or the love of pleasure, differ but little; the former, however, seems to imply a more definite object than ''lure'', which retains perhaps a little more of the original meaning, though it is less often used. ''Entice'' expresses most of skill, subtlety, flattery, or fair speech. ''Decoy'' is to lead into a snare by false appearances; this word is the one most commonly used in a physical sense. ''Seduce'', to lead astray, generally from rectitude, but sometimes from interest or truth.}}\n{{smaller block|As danger could not daunt, so neither could ambition ''allure'' him.\n{{right|''Latimer'', Sermons, Int., p. xli.}}}}\n{{smaller block|So beauty ''lures'' the full-grown child.\n{{right|''Byron'', Giaour.}}}}\n\n{{smaller block|He dooth not only show the way, but giueth so sweete a prospect into the way, as will ''intice'' any man to enter into it.\n{{right|''Sir P. Sidney'', Apol. for Poetrie.}}}}\n\n{{smaller block|He sailed for England, taking with him five of the natives whom he had ''decoyed''. {{right|''Bancroft'', Hist. U. S., I. 91.}}}}\n\n{{smaller block|It is not the knavery of the leaders so much as the honesty of the followers they may ''seduce'', that gives them power for evil. {{right|''Lowell'', Study Windows, p. 169.}}}}\n\n'''allure<sup>1</sup>†''' (a-lūr′), ''n.''   [< ''allure''<sup>1</sup>, ''v.'']   Allurement.\n\n'''allure<sup>2</sup>†''', ''n.'' Same as ''alure.''\n\n'''allurement''' (a-lūr′ment), ''n.''   [< ''allure''<sup>1</sup> + ''-ment.'']   '''1.''' The act of alluring or attracting.\n{{smaller block|Adam by his wife’s ''allurement'' fell. {{right|''Milton'', P. R., ii. 134.}}}}\n'''2.''' That which allures; any real or apparent good held forth or operating as a motive to action; a temptation; an enticement: as, the ''allurements'' of pleasure or of honor.\n{{smaller block|Let your Scholer be neuer afraide, to aske you any dout, but vse discretlie the best ''allurements'' ye can, to encorage him to the same. {{right|''Ascham'', The Scholemaster, p. 28.}}}}\n'''3.''' Attractiveness; fascination; charm.\n\n'''allurer''' (ạ-lūr′ėr), ''n.'' One who or that which allures.\n{{smaller block|<poem>Money, the sweet ''allurer'' of our hopes,\nEbbs out in oceans, and comes in by drops.</poem>\n{{right|''Dryden'', Prol. to Prophetess, l. 11.}}}}\n\n'''alluringly''' (ạ-lūr′ing-li), ''adv.'' In an alluring manner; enticingly.\n\n'''alluringness''' (ạ-lūr′ing-nes), ''n.'' The quality of being alluring or fascinating.\n\n'''allusion''' (ạ-lū′zhọn), ''n.''   [< F. ''allusion'', < L. ''allusio(n-)'', ''adlusio(n-)'', playing or sporting with, < ''alludere'', pp. ''allusus:'' see ''allude.'']   '''1†.''' A play upon words; a pun. {{smaller block|The ''allusion'' holds in the exchange.\n{{right|''Shak.'', L. L. L., iv. 2.}}}}\n{{smaller block|[Said by Holofernes with reference to the jest about the moon’s being no more than a month old when Adam was fivescore.]}}\n'''2†.''' A symbolical reference or comparison; a metaphor.\n{{smaller block|Virtue, to borrow the Christian ''allusion'', is militant here, and various untoward accidents contribute to its being often overborne. {{right|''Butler'', Anal. Relig., i. 67.}}}}\n'''3.''' A passing or casual reference; a slight or incidental mention of something, either directly or by implication; a hint or reference used by way of illustration, suggestion, or insinuation: as, a classical ''allusion''; an ''allusion'' to a person’s misconduct.\n{{smaller block|We have here an elaborate treatise on Government, from which, but for two or three passing ''allusions'', it would not appear that the author was aware that any governments actually existed among men.\n{{right|''Macaulay'', Mill on Government.}}}}\n{{smaller block|The delicacy of touch, the circuitous ''allusion'', with which [Sydney] Smith refers to things commonly received as vulgar, is a study for all who wish to master the refinements of expression. {{right|''Whipple'', Ess. and Rev., I. 155.}}}}\n\n'''allusive''' (a̤-lū′siv), ''a.''   [< L. as if *''allusivus'', < ''allusus'', pp. of ''alludere'': see ''allude''.]   '''1†.''' Punning.—'''2†.''' Metaphorical.\n{{smaller block|Poetry is triply divided into narrative, representative or dramatic, and ''allusive'' or parabolical.\n{{right|''Bacon'', Advancement of Learning, II. 4.}}}}\n'''3.''' Having reference to something not fully expressed; containing, full of, or characterized by allusions.\n{{smaller block|The ''allusive'' but not inappropriate pseudonym of Cassandra. {{right|''W. R. Greg'', Misc. Essays, 1st ser., p. 1.}}}}\n{{smaller block|Allusive arms, in ''her.'' See ''arm''<sup>2</sup>.}}\n\n'''allusively''' (a̤-lū′siv-li), ''adv.'' '''1†.''' Symbolically; by way of comparison or figure.—'''2.''' In an allusive manner; by way of allusion; by suggestion, implication, or insinuation.\n\n'''allusiveness''' (a̤-lū′siv-nes), ''n.'' The quality of being allusive.\n{{smaller block|The multifarious ''allusiveness'' of the prophetical style.\n{{right|''Dr. H. More'', Seven Churches, ix.}}}}\n\n'''allusory''' (a̤-lū′sọ̄-ri), ''a.''   [< L. as if *''allusorius'', < ''allusus'', pp. of ''alludere'': see ''allude''.]   Allusive.\n{{smaller block|Expressions . . . figurative and ''allusory''.\n{{right|''Warburton'', Sermons, II. 100.}}}}\n\n'''alluvia''', ''n.'' Plural of ''alluvium''.\n\n'''alluvial''' (a̤-lū′vi-al), ''a.''   [< L. ''alluvius'', ''adluvius'', alluvial (see ''alluvium''), + ''-al''.]   Of, pertaining to, or composed of alluvium: as, ''alluvial'' deposits; ''alluvial'' soil.—{{smaller|'''Alluvial formations''', in ''geol.'', recent deposits, in valleys or in plains, of the detritus of neighboring elevations, brought down chiefly by the action of water. Most river-plains, as those of the Mississippi, are alluvial, having been deposited from the waters of a river, a lake, or an arm of the sea. See ''alluvium''.}}\n{{smaller block|The windings of the stream in large ''alluvial'' flats are most numerous where the current is exceedingly slow.\n{{right|''Dana'', Geology, p. 641.}}}}\n\n'''alluvian''' (a̤-lū′vi-a̤n), ''a.'' Same as ''alluvial''.   [Rare.]\n\n'''alluvio''' (a̤-lū′vi-ō), ''n.''   [L.]   Same as ''alluvion''.\n\n'''alluvion''' (a̤-lū′vi-on), ''n.''   [< F. ''alluvion'', alluvion, accretion, < L. ''alluvio(n-)'', ''adluvio(n-)'', an overflowing, inundation, < ''alluere'', ''adluere'', flow to, wash upon, < ''ad'', to, + ''luere'', wash, = Gr. λούειν, wash: see ''lave''<sup>2</sup> and ''lotion''.]   '''1.''' Formerly—(''a'')<noinclude><references/></noinclude>"
+}

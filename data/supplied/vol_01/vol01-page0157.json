@@ -1,0 +1,281 @@
+{
+ "volume": 1,
+ "page_number": 157,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n156.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n156.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 741,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     70,
+     138,
+     2289,
+     174
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     70,
+     174,
+     809,
+     1140
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     120,
+     321,
+     730,
+     902
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     70,
+     1140,
+     809,
+     2197
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     70,
+     2197,
+     809,
+     3277
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     809,
+     174,
+     1555,
+     1266
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     809,
+     1266,
+     1555,
+     2245
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     809,
+     2245,
+     1555,
+     3277
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1315,
+     2287,
+     1555,
+     2543
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1555,
+     174,
+     2289,
+     1261
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1613,
+     289,
+     2227,
+     1041
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1555,
+     1261,
+     2289,
+     2358
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1555,
+     2358,
+     2289,
+     3277
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|albumen|131|alcatras}}",
+   "c1s1": "natural form in the white of an egg: in the latter sense more correctly called ''albumin'' (which see).—'''2.''' In ''bot.'', any form of nutritive matter, whatever its chemical constitution,\n[[FIGURE]]\n{{c|{{smaller|Seeds cut vertically, showing their Embryos and Albumen.}}}}\nstored within the seed and about the embryo. {{smaller|It may be farinaceous, as in the cereals; oily and fleshy, as in many nuts; horny, as in the coffee-berry; or bony, as in the vegetable ivory. Also called ''endosperm''.—'''Albumen glue.''' See ''glue''.}}\n\n'''albumenize''' (al-bū′men-īz), ''v. t.'' See ''albuminize''.",
+   "c1s2": "¶\n'''albumenoid''', ''a.'' and ''n.'' See ''albuminoid.''\n\n'''album græcum''' (al′bum grē′kum). [L.; lit., Greek white.] The dung of dogs, etc., which, from exposure to the air, has become white like chalk. It was formerly used as a medicine, and is still used by tanners to soften leather.\n\n'''albumin''' (al-bū′min), ''n.'' [< L. ''album(en)'' + ''-in''<sup>2</sup>. See ''albumen.''] In ''chem.'', a substance named from the Latin for the white of an egg, in which it occurs in its purest natural state (see ''albumen''). {{smaller|It is a proximate principle composed of nitrogen, carbon, hydrogen, and oxygen, with a little sulphur, and enters generally into the composition of the animal and vegetable juices and solids. Animal albumin abounds in the serum of the blood, the vitreous and crystalline humors of the eye, the so-called coagulable lymph, the juices of flesh, etc. Vegetable albumin is found in most vegetable juices and in many seeds; in composition and properties it does not differ greatly from animal albumin. Albumin obtained from eggs or blood-serum is used for giving a lustrous coating to photographic paper, and rarely in some other photographic processes, for fixing colors in printing, and for clarifying syrupy liquids. When heated with such liquids it coagulates and sinks to the bottom, or else rises as a scum, carrying with it the fine suspended particles which had made the liquid turbid. When albumin in solution is digested with a weak acid, it passes into a modification distinguished by the following properties: it is insoluble in water and weak saline solutions, soluble in weak acids or alkalis, and not coagulated by heat. This modification is called ''acid albumin.'' Similar treatment with a weak or strong alkali produces a substance having nearly the same properties as acid albumin, but called ''alkali albumin.'' Syntonin is not distinguishable from acid albumin. When a solution of either acid or alkali albumin is neutralized, a neutralization precipitate is obtained. This, dissolved in acid, gives acid albumin; dissolved in alkali, it gives alkali albumin, though there is reason to believe that neither the acid nor the alkali combines}}",
+   "c1s3": "{{smaller|chemically with the albumin. Albumin is found in commerce in a dry state, being prepared both from the white of eggs and from the serum of blood; 84 dozen eggs produce about 1.2 gallons of white, which yields 14 per cent. of commercial albumin, while the blood of 5 oxen yields about 2 lbs. Pure albumin, entirely free from mineral matter, begins to coagulate at about 139°, and becomes completely solidified at 167°. Coagulated albumin is a white opaque substance, possessing the property of combining readily with a great many coloring materials, such as fuchsine, aniline violet, purpuramide, etc. It is employed extensively in the arts, as in calico-printing, in which it is used to fix pigments, especially ultramarine, chrome-yellows, etc., upon the fibers of cotton cloth, serving both as a vehicle for the color and as a varnish. With aniline colors, however, it forms a true mordant.—'''Albumin process,''' a little-used process of making photographic plates, in which albumin is used instead of collodion or gelatin.}}\n\n'''albuminate''' (al-bū′mi-nāt), ''n.'' [< ''albumen'' (''albumin-'') + ''-ate''<sup>1</sup>.] One of a class of bodies in which albumin appears to be in weak combination with a base. Alkali albuminate is regarded by some as identical with casein.\n\n'''albumin-beer''' (al-bū′min-bēr), ''n.'' A preserving bath which has been used for some early photographic emulsions, composed of albumin, ammonia, pyrogallic acid, beer, and water.\n\n'''albuminiferous''' (al-bū-mi-nif′e-rus), ''a.'' [< L. ''albumen'' (''-min-'') + ''ferre'', bear.] Producing albumin. ''W. L. Carpenter.''\n\n'''albuminiform''' (al-bū′mi-ni-fôrm), ''a.'' [< L. ''albumen'' (''-min-'') + ''-formis'', < ''forma'', form.] Formed like or resembling albumin.\n\n'''albuminimeter''' (al-bū-mi-nim′e-tėr), ''n.'' [< L. ''albumen'' (''-min-'') + ''metrum'', < Gr. μέτρον, measure.] An instrument for measuring the quantity of albumin contained in any liquid.",
+   "c2s1": "¶\n'''albuminin''' (al-bū′mi-nin), ''n.'' [< ''albumen'' (''-min-'') + ''-in''<sup>2</sup>.] The substance of the cells inclosing the white of birds’ eggs. It contains no nitrogen, and dissolves in caustic potash. Also called ''oönin.''\n\n'''albuminiparous''' (al-bū-mi-nip′ạ-rus), ''a.'' [< L. ''albumen'' (''-min-'') + ''-parus'', < ''părere'', produce.] Same as ''albuminiferous.''\n{{smaller block|At its upper end this latter [duct] has an ''albuminiparous'' gland attached to it.\n{{right|''Gegenbaur'', Comp. Anat. (trans.), p. 383.}}}}\n\n'''albuminize''' (al-bū′mi-nīz), ''v. t.''; pret. and pp. ''albuminized'', ppr. ''albuminizing.'' [< ''albumin'' + ''-ize.''] To convert into albumin; cover or impregnate with albumin, as paper for the silver-printing of photographs. Also written ''albumenize.''\n\n'''albuminoid''' (al-bū′mi-noid), ''a.'' and ''n.'' [< L. ''albumen'' (''-min-'') + ''-oid.''] '''I.''' ''a.'' Resembling albumen or albumin.\n{{smaller block|During hard work a larger supply than usual of ''albuminoid'' food is necessary.\n{{right|''W. L. Carpenter'', Energy in Nature, p. 192.}}}}\n{{smaller|'''Albuminoid disease''', lardaceous disease (which see, under ''lardaceous'').}}\n\n'''II.''' ''n.'' A substance resembling albumin; proteid (which see).\n\nAlso written ''albumenoid.''\n\n'''albuminoidal''' (al-bū-mi-noi′dal), ''a.'' Relating to or of the nature of an albuminoid.\n\n'''albuminone''' (al-bū′mi-nōn), ''n.'' Same as ''peptone.''\n\n'''albuminose''' (al-bū′mi-nōs), ''a.'' [= F. ''albumineux'' = It. ''albuminoso'', < NL. ''albuminosus'', < L. ''albumen'' (''-min-''): see ''albumen'', ''albumin.''] '''1.'''",
+   "c2s2": "Full of or containing albumen: applied to the seeds of certain plants, as grain, palms, etc.—'''2.''' Pertaining to or of the nature of albumin.\n\n¶\n'''albuminosis''' (al-bū-mi-nō′sis), ''n.'' [NL., < L. ''albumen'' (''-min-'') + ''-osis''.] A condition of the blood characterized by the presence of more than the usual amount of albumin.\n\n'''albuminous''' (al-bū′mi-nus), ''a.'' Same as ''albuminose''.—'''Albuminous infiltration.''' {{smaller|See ''cloudy swelling'', under ''cloudy''.}}\n\n'''albuminousness''' (al-bū′mi-nus-nes), ''n.'' The state of being albuminous.\n\n'''albumin-paper''' (al-bū′min-pā″pėr), ''n.'' Paper sized or coated with albumin, used for ordinary photographic printing.\n\n'''albuminuria''' (al-bū-mi-nū′ri-ạ̈), ''n.'' [NL., < L. ''albumen'' (''-min-'') + Gr. οὖρον, urine: see ''urine''.] In ''pathol.'', the presence of albumin in the urine, indicating changes in the blood or in the kidneys.\n\n'''albuminuric''' (al-bū-mi-nū′rik), ''a.'' [< ''albuminuria'' + ''-ic''.] Pertaining to or characterized by albuminuria.\n\n'''alburn''' (al′bėrn), ''a.'' and ''n.'' [< ML. ''alburnus'', whitish (see ''auburn''), first as a noun, LL. ''alburnus'', m., a white fish, prob. the bleak or blay, L. ''alburnum'', neut., sap-wood (see ''alburnum''), < ''albus'', white.] '''I.'''† ''a.'' An obsolete form of ''auburn''.\n\n'''II.''' ''n.'' '''1.''' Same as ''alburnum''.—'''2.''' A name sometimes given to the fish commonly called the bleak.",
+   "c2s3": "¶\n'''alburnous''' (al-bėr′nus), ''a.'' [< ''alburnum'', q. v., + ''-ous''.] Relating to or of the nature of alburnum.\n\n'''alburnum''' (al-bėr′num), ''n.'' [L., sap-wood, prop. neut. of ''alburnus'', which appears in ML. in the sense of ‘whitish’: see ''auburn''.] The lighter-colored and softer part of the wood of exogenous plants, between the inner bark and the heart-wood.\n[[FIGURE]]\n{{c|{{smaller|Alburnum.<br>{{smaller|''aa'', alburnum, or sap-wood; ''bb'', heart-wood; ''c'', pith; ''dd'', bark.}}}}}}\n{{smaller|It is frequently called ''sap-wood'', and is gradually transformed into heart-wood or duramen. Another form is ''alburn''.}}\n\n'''Alca''' (al′kä), ''n.'' [ML. and NL., < Icel. ''alka'', ''ālka'', auk: see ''auk''<sup>1</sup>.] The leading genus of the ''Alcidæ'', or auk family of birds. {{smaller|It has been made to cover nearly all the species of the family, but is now generally restricted to the great auk, ''Alca impennis'', alone or with the razor-billed auk, ''A. torda'' or ''Utamania torda''. See ''auk'', and cut in next column.}}\n\n'''alcabala''' (Sp. pron. äl-kä-bä′lä), ''n.'' Same as ''alcavala''.\n\n'''Alcadæ''' (al′ka-dē), ''n. pl.'' Same as ''Alcidæ''.\n\n'''alcahest, alcahestic,''' etc. See ''alkahest'', etc.\n\n'''Alcaic''' (al-kā′ik), ''a.'' and ''n.'' [< L. ''Alcaicus'', < Gr. Ἀλκαϊκός, < Ἀλκαῖος, Alcæus.] '''I.''' ''a.'' '''1.''' Pertaining to Alcæus, a lyric poet of Mytilene, in Lesbos, who flourished about 600 {{sc|b. c.}}—'''2.''' [''l. c.''] Pertaining to, of the nature of, or consisting of alcaics: as, an ''alcaic'' strophe. See II.—{{smaller|'''Alcaic verse.''' See II.}}\n\n'''II.''' ''n.'' [''l. c.''] A line written in one of the measures invented by Alcæus. {{smaller|The most important one}}",
+   "c3s1": "of these consists of an anacrusis, a trochee, a spondee, and two dactyls. A second consists of a catalectic iambic pentameter, of which the third foot is always a spondee, and the first may be. A third consists of two dactyls followed\n[[FIGURE]]\n{{c|{{smaller|Great Auk (''Alca impennis'').}}}}\n{{c|{{smaller|(From a drawing by R. W. Shufeldt after Audubon.)}}}}\nby two trochees. Two lines of the first, followed by one of the second and one of the third, constitute the alcaic strophe, the commonest arrangement of alcaics. The following is an example of an alcaic strophe:\n<poem>O mighty-mouth’d inventor of harmonies,\nO skill’d to sing of Time or Eternity,</poem>",
+   "c3s2": "{{smaller block|<poem>God-gifted organ-voice of England,\nMilton, a name to resound for ages.</poem>\n{{right|''Tennyson'', Exper. in Quantity, Alcaics.}}}}\n\n'''alcaid, alcayde''' (al-kād′; Sp. pron. äl-kä′ē-dạ̄), ''n.'' [< Sp. Pg. ''alcaide'', formerly ''alcayde'', a governor, jailer, warden, < Ar. ''al-qāīd'', < ''al'', the (see ''al-''<sup>2</sup>), + ''qāīd'', leader, governor, prefect, < ''qāda'', lead, govern.] In Spain, Portugal, etc., a commander of a fortress; a military officer; also a jailer.\n\n'''alcalde''' (al-kal′de; Sp. pron. äl-käl′dā), ''n.'' [Sp. ''alcalde'' (in Pg. ''alcaide'' by confusion with ''alcaide'', alcaid), < Ar. ''al-qādī'', < ''al'', the, + ''qādī'', judge (> Turk. ''kadi'', > E. ''cadi'', q. v.), < ''qaday'', judge, decide.] In Spain and Portugal, and in countries settled by Spaniards or governed by Spanish law, the mayor of a pueblo or town, who is the head of the municipal council, and is vested with judicial powers similar to those of a justice of the peace.\n\n'''alcaldeship''' (al-kal′de-ship), ''n.'' The office of alcalde.\n{{smaller block|The heart of the Spanish local system is the ''Alcaldeship.''\n{{right|''C. H. Shinn'', Mining Camps, p. 83.}}}}\n\n'''alcali, alcalimeter, alcalizable,''' etc. See ''alkali'', etc.\n\n'''alcamistre†, alcamy†,''' etc. See ''alchemist'', ''alchemy'', etc.\n\n'''Alcanæ''' (al-kā′nē), ''n. pl.'' Same as ''Alcinæ.''\n\n'''alcanna''' (al-kan′ä), ''n.'' [Also written ''alcana'', < Sp. ''alcana'', ''alcaña'' (= Pg. ''alcanna''), < Ar. ''al-hennā'', < ''al'', the, + ''hennā'', henna.] Same as ''henna.''\n\n'''Alcantarine''' (al-kan′ta̤-rin), ''n.'' [< Sp. ''Alcántara'', a city on the Tagus, lit. the Bridge, < Ar. ''al'', the, + ''qantarah'', a bridge. Cf. ''almucantar.'']",
+   "c3s3": "A member of a branch of the Franciscans founded in 1555 by St. Peter of Alcántara (whence the name). See ''Franciscan.''\n\n¶\n'''alcarraza''' (al-ka-rä′zä; Sp. pron. äl-kär-rä′thä), ''n.'' [Sp., < Ar. ''al-kurrāz'', < ''al'', the (see ''al-''<sup>2</sup>), + ''kurrāz'', an earthen vessel, pitcher.] A vessel made of porous unglazed pottery, used in hot climates for cooling water by the evaporation of the moisture oozing through the substance of the vessel. {{smaller|The effectiveness of the process is greatly increased by exposure to a current of air. In the southwestern United States commonly called ''olla''.}}\n\n'''alcarsin''', ''n.'' See ''alkarsin.''\n\n'''alcatote†''', ''n.'' [E. dial., also ''alkitotle'' (''Exmoor Courtship''); origin obscure.] A silly elf or foolish oaf. ''Gloss. Exmoor Scolding.''\n{{smaller block|Why, you know I [am] an ignorant, unable trifle in such business, an oaf, a simple ''alcatote'', an innocent.\n{{right|''Ford'', Fancies, iv. 1.}}}}\n\n'''alcatras''' (al′ka-tras), ''n.'' [< Sp. Pg. ''alcatraz'', a pelican, etc., prob. a modification of Pg. ''alcatruz'' = Sp. ''arcaduz'', ''alcaduz'', the bucket of a noria or water-raising wheel, < Ar. ''al'', the, + ''qādūs'', bucket, < Gr. κάδος, a water-vessel; the term “bucket” being applied to the pelican for the same reason that the Arabs call it ''saqqā'', water-carrier, because it carries water in its pouch (Devic).] A Spanish and Portuguese name loosely applied to sundry large sea-birds,"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0157 c1f1.png",
+   "c2f1": "century v01 p0157 c2f1.png",
+   "c3f1": "century v01 p0157 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     132,
+     333,
+     718,
+     890
+    ],
+    "caption": [
+     132,
+     898,
+     744,
+     919
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     119,
+     319,
+     746,
+     894
+    ]
+   },
+   {
+    "box": [
+     1625,
+     301,
+     2215,
+     1029
+    ],
+    "caption": [
+     1646,
+     1037,
+     2195,
+     1085
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1620,
+     301,
+     2282,
+     1034
+    ]
+   },
+   {
+    "box": [
+     1327,
+     2299,
+     1547,
+     2531
+    ],
+    "caption": [
+     1332,
+     2542,
+     1550,
+     2649
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1355,
+     2289,
+     1552,
+     2549
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 4,
+    "input_tokens": 7259,
+    "output_tokens": 239,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 10,
+    "input_tokens": 9460,
+    "output_tokens": 7838,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c2f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|albumen|131|alcatras}}</noinclude>natural form in the white of an egg: in the latter sense more correctly called ''albumin'' (which see).—'''2.''' In ''bot.'', any form of nutritive matter, whatever its chemical constitution,\nstored within the seed and about the embryo. {{smaller|It may be farinaceous, as in the cereals; oily and fleshy, as in many nuts; horny, as in the coffee-berry; or bony, as in the vegetable ivory. Also called ''endosperm''.—'''Albumen glue.''' See ''glue''.}}\n\n[[File:century v01 p0157 c1f1.png|center|296px]]\n{{c|{{smaller|Seeds cut vertically, showing their Embryos and Albumen.}}}}\n\n'''albumenize''' (al-bū′men-īz), ''v. t.'' See ''albuminize''.\n\n'''albumenoid''', ''a.'' and ''n.'' See ''albuminoid.''\n\n'''album græcum''' (al′bum grē′kum).   [L.; lit., Greek white.]   The dung of dogs, etc., which, from exposure to the air, has become white like chalk. It was formerly used as a medicine, and is still used by tanners to soften leather.\n\n'''albumin''' (al-bū′min), ''n.''   [< L. ''album(en)'' + ''-in''<sup>2</sup>. See ''albumen.'']   In ''chem.'', a substance named from the Latin for the white of an egg, in which it occurs in its purest natural state (see ''albumen''). {{smaller|It is a proximate principle composed of nitrogen, carbon, hydrogen, and oxygen, with a little sulphur, and enters generally into the composition of the animal and vegetable juices and solids. Animal albumin abounds in the serum of the blood, the vitreous and crystalline humors of the eye, the so-called coagulable lymph, the juices of flesh, etc. Vegetable albumin is found in most vegetable juices and in many seeds; in composition and properties it does not differ greatly from animal albumin. Albumin obtained from eggs or blood-serum is used for giving a lustrous coating to photographic paper, and rarely in some other photographic processes, for fixing colors in printing, and for clarifying syrupy liquids. When heated with such liquids it coagulates and sinks to the bottom, or else rises as a scum, carrying with it the fine suspended particles which had made the liquid turbid. When albumin in solution is digested with a weak acid, it passes into a modification distinguished by the following properties: it is insoluble in water and weak saline solutions, soluble in weak acids or alkalis, and not coagulated by heat. This modification is called ''acid albumin.'' Similar treatment with a weak or strong alkali produces a substance having nearly the same properties as acid albumin, but called ''alkali albumin.'' Syntonin is not distinguishable from acid albumin. When a solution of either acid or alkali albumin is neutralized, a neutralization precipitate is obtained. This, dissolved in acid, gives acid albumin; dissolved in alkali, it gives alkali albumin, though there is reason to believe that neither the acid nor the alkali combines chemically with the albumin. Albumin is found in commerce in a dry state, being prepared both from the white of eggs and from the serum of blood; 84 dozen eggs produce about 1.2 gallons of white, which yields 14 per cent. of commercial albumin, while the blood of 5 oxen yields about 2 lbs. Pure albumin, entirely free from mineral matter, begins to coagulate at about 139°, and becomes completely solidified at 167°. Coagulated albumin is a white opaque substance, possessing the property of combining readily with a great many coloring materials, such as fuchsine, aniline violet, purpuramide, etc. It is employed extensively in the arts, as in calico-printing, in which it is used to fix pigments, especially ultramarine, chrome-yellows, etc., upon the fibers of cotton cloth, serving both as a vehicle for the color and as a varnish. With aniline colors, however, it forms a true mordant.—'''Albumin process,''' a little-used process of making photographic plates, in which albumin is used instead of collodion or gelatin.}}\n\n'''albuminate''' (al-bū′mi-nāt), ''n.''   [< ''albumen'' (''albumin-'') + ''-ate''<sup>1</sup>.]   One of a class of bodies in which albumin appears to be in weak combination with a base. Alkali albuminate is regarded by some as identical with casein.\n\n'''albumin-beer''' (al-bū′min-bēr), ''n.'' A preserving bath which has been used for some early photographic emulsions, composed of albumin, ammonia, pyrogallic acid, beer, and water.\n\n'''albuminiferous''' (al-bū-mi-nif′e-rus), ''a.''   [< L. ''albumen'' (''-min-'') + ''ferre'', bear.]   Producing albumin.   ''W. L. Carpenter.''\n\n'''albuminiform''' (al-bū′mi-ni-fôrm), ''a.''   [< L. ''albumen'' (''-min-'') + ''-formis'', < ''forma'', form.]   Formed like or resembling albumin.\n\n'''albuminimeter''' (al-bū-mi-nim′e-tėr), ''n.''   [< L. ''albumen'' (''-min-'') + ''metrum'', < Gr. μέτρον, measure.]   An instrument for measuring the quantity of albumin contained in any liquid.\n\n'''albuminin''' (al-bū′mi-nin), ''n.''   [< ''albumen'' (''-min-'') + ''-in''<sup>2</sup>.]   The substance of the cells inclosing the white of birds’ eggs. It contains no nitrogen, and dissolves in caustic potash. Also called ''oönin.''\n\n'''albuminiparous''' (al-bū-mi-nip′ạ-rus), ''a.''   [< L. ''albumen'' (''-min-'') + ''-parus'', < ''părere'', produce.]   Same as ''albuminiferous.''\n{{smaller block|At its upper end this latter [duct] has an ''albuminiparous'' gland attached to it.\n{{right|''Gegenbaur'', Comp. Anat. (trans.), p. 383.}}}}\n\n'''albuminize''' (al-bū′mi-nīz), ''v. t.''; pret. and pp. ''albuminized'', ppr. ''albuminizing.''   [< ''albumin'' + ''-ize.'']   To convert into albumin; cover or impregnate with albumin, as paper for the silver-printing of photographs. Also written ''albumenize.''\n\n'''albuminoid''' (al-bū′mi-noid), ''a.'' and ''n.''   [< L. ''albumen'' (''-min-'') + ''-oid.'']   '''I.''' ''a.'' Resembling albumen or albumin.\n{{smaller block|During hard work a larger supply than usual of ''albuminoid'' food is necessary.\n{{right|''W. L. Carpenter'', Energy in Nature, p. 192.}}}}\n{{smaller|'''Albuminoid disease''', lardaceous disease (which see, under ''lardaceous'').}}\n\n'''II.''' ''n.'' A substance resembling albumin; proteid (which see).\n\nAlso written ''albumenoid.''\n\n'''albuminoidal''' (al-bū-mi-noi′dal), ''a.'' Relating to or of the nature of an albuminoid.\n\n'''albuminone''' (al-bū′mi-nōn), ''n.'' Same as ''peptone.''\n\n'''albuminose''' (al-bū′mi-nōs), ''a.''   [= F. ''albumineux'' = It. ''albuminoso'', < NL. ''albuminosus'', < L. ''albumen'' (''-min-''): see ''albumen'', ''albumin.'']   '''1.''' Full of or containing albumen: applied to the seeds of certain plants, as grain, palms, etc.—'''2.''' Pertaining to or of the nature of albumin.\n\n'''albuminosis''' (al-bū-mi-nō′sis), ''n.''   [NL., < L. ''albumen'' (''-min-'') + ''-osis''.]   A condition of the blood characterized by the presence of more than the usual amount of albumin.\n\n'''albuminous''' (al-bū′mi-nus), ''a.'' Same as ''albuminose''.—'''Albuminous infiltration.''' {{smaller|See ''cloudy swelling'', under ''cloudy''.}}\n\n'''albuminousness''' (al-bū′mi-nus-nes), ''n.'' The state of being albuminous.\n\n'''albumin-paper''' (al-bū′min-pā″pėr), ''n.'' Paper sized or coated with albumin, used for ordinary photographic printing.\n\n'''albuminuria''' (al-bū-mi-nū′ri-ạ̈), ''n.''   [NL., < L. ''albumen'' (''-min-'') + Gr. οὖρον, urine: see ''urine''.]   In ''pathol.'', the presence of albumin in the urine, indicating changes in the blood or in the kidneys.\n\n'''albuminuric''' (al-bū-mi-nū′rik), ''a.''   [< ''albuminuria'' + ''-ic''.]   Pertaining to or characterized by albuminuria.\n\n'''alburn''' (al′bėrn), ''a.'' and ''n.''   [< ML. ''alburnus'', whitish (see ''auburn''), first as a noun, LL. ''alburnus'', m., a white fish, prob. the bleak or blay, L. ''alburnum'', neut., sap-wood (see ''alburnum''), < ''albus'', white.]   '''I.'''† ''a.'' An obsolete form of ''auburn''.\n\n'''II.''' ''n.'' '''1.''' Same as ''alburnum''.—'''2.''' A name sometimes given to the fish commonly called the bleak.\n\n'''alburnous''' (al-bėr′nus), ''a.''   [< ''alburnum'', q. v., + ''-ous''.]   Relating to or of the nature of alburnum.\n\n'''alburnum''' (al-bėr′num), ''n.''   [L., sap-wood, prop. neut. of ''alburnus'', which appears in ML. in the sense of ‘whitish’: see ''auburn''.]   The lighter-colored and softer part of the wood of exogenous plants, between the inner bark and the heart-wood. {{img float|file=century v01 p0157 c2f1.png|width=117px|align=right|cap={{smaller|Alburnum.<br>{{smaller|''aa'', alburnum, or sap-wood; ''bb'', heart-wood; ''c'', pith; ''dd'', bark.}}}}<br />{{smaller|It is frequently called ''sap-wood'', and is gradually transformed into heart-wood or duramen. Another form is ''alburn''.}}}}\n\n'''Alca''' (al′kä), ''n.''   [ML. and NL., < Icel. ''alka'', ''ālka'', auk: see ''auk''<sup>1</sup>.]   The leading genus of the ''Alcidæ'', or auk family of birds. {{smaller|It has been made to cover nearly all the species of the family, but is now generally restricted to the great auk, ''Alca impennis'', alone or with the razor-billed auk, ''A. torda'' or ''Utamania torda''. See ''auk'', and cut in next column.}}\n\n'''alcabala''' (Sp. pron. äl-kä-bä′lä), ''n.'' Same as ''alcavala''.\n\n'''Alcadæ''' (al′ka-dē), ''n. pl.'' Same as ''Alcidæ''.\n\n'''alcahest, alcahestic,''' etc. See ''alkahest'', etc.\n\n'''Alcaic''' (al-kā′ik), ''a.'' and ''n.''   [< L. ''Alcaicus'', < Gr. Ἀλκαϊκός, < Ἀλκαῖος, Alcæus.]   '''I.''' ''a.'' '''1.''' Pertaining to Alcæus, a lyric poet of Mytilene, in Lesbos, who flourished about 600 {{sc|b. c.}}—'''2.''' [''l. c.''] Pertaining to, of the nature of, or consisting of alcaics: as, an ''alcaic'' strophe. See II.—{{smaller|'''Alcaic verse.''' See II.}}\n\n'''II.''' ''n.'' [''l. c.''] A line written in one of the measures invented by Alcæus. {{smaller|The most important one}} of these consists of an anacrusis, a trochee, a spondee, and two dactyls. A second consists of a catalectic iambic pentameter, of which the third foot is always a spondee, and the first may be. A third consists of two dactyls followed\nby two trochees. Two lines of the first, followed by one of the second and one of the third, constitute the alcaic strophe, the commonest arrangement of alcaics. The following is an example of an alcaic strophe:\n<poem>O mighty-mouth’d inventor of harmonies,\nO skill’d to sing of Time or Eternity,</poem>\n<poem>God-gifted organ-voice of England,\nMilton, a name to resound for ages.</poem>\n{{smaller block|{{right|''Tennyson'', Exper. in Quantity, Alcaics.}}}}\n\n[[File:century v01 p0157 c3f1.png|center|298px]]\n{{c|{{smaller|Great Auk (''Alca impennis'').}}}}\n{{c|{{smaller|(From a drawing by R. W. Shufeldt after Audubon.)}}}}\n\n'''alcaid, alcayde''' (al-kād′; Sp. pron. äl-kä′ē-dạ̄), ''n.''   [< Sp. Pg. ''alcaide'', formerly ''alcayde'', a governor, jailer, warden, < Ar. ''al-qāīd'', < ''al'', the (see ''al-''<sup>2</sup>), + ''qāīd'', leader, governor, prefect, < ''qāda'', lead, govern.]   In Spain, Portugal, etc., a commander of a fortress; a military officer; also a jailer.\n\n'''alcalde''' (al-kal′de; Sp. pron. äl-käl′dā), ''n.''   [Sp. ''alcalde'' (in Pg. ''alcaide'' by confusion with ''alcaide'', alcaid), < Ar. ''al-qādī'', < ''al'', the, + ''qādī'', judge (> Turk. ''kadi'', > E. ''cadi'', q. v.), < ''qaday'', judge, decide.]   In Spain and Portugal, and in countries settled by Spaniards or governed by Spanish law, the mayor of a pueblo or town, who is the head of the municipal council, and is vested with judicial powers similar to those of a justice of the peace.\n\n'''alcaldeship''' (al-kal′de-ship), ''n.'' The office of alcalde.\n{{smaller block|The heart of the Spanish local system is the ''Alcaldeship.''\n{{right|''C. H. Shinn'', Mining Camps, p. 83.}}}}\n\n'''alcali, alcalimeter, alcalizable,''' etc. See ''alkali'', etc.\n\n'''alcamistre†, alcamy†,''' etc. See ''alchemist'', ''alchemy'', etc.\n\n'''Alcanæ''' (al-kā′nē), ''n. pl.'' Same as ''Alcinæ.''\n\n'''alcanna''' (al-kan′ä), ''n.''   [Also written ''alcana'', < Sp. ''alcana'', ''alcaña'' (= Pg. ''alcanna''), < Ar. ''al-hennā'', < ''al'', the, + ''hennā'', henna.]   Same as ''henna.''\n\n'''Alcantarine''' (al-kan′ta̤-rin), ''n.''   [< Sp. ''Alcántara'', a city on the Tagus, lit. the Bridge, < Ar. ''al'', the, + ''qantarah'', a bridge. Cf. ''almucantar.'']   A member of a branch of the Franciscans founded in 1555 by St. Peter of Alcántara (whence the name). See ''Franciscan.''\n\n'''alcarraza''' (al-ka-rä′zä; Sp. pron. äl-kär-rä′thä), ''n.''   [Sp., < Ar. ''al-kurrāz'', < ''al'', the (see ''al-''<sup>2</sup>), + ''kurrāz'', an earthen vessel, pitcher.]   A vessel made of porous unglazed pottery, used in hot climates for cooling water by the evaporation of the moisture oozing through the substance of the vessel. {{smaller|The effectiveness of the process is greatly increased by exposure to a current of air. In the southwestern United States commonly called ''olla''.}}\n\n'''alcarsin''', ''n.'' See ''alkarsin.''\n\n'''alcatote†''', ''n.''   [E. dial., also ''alkitotle'' (''Exmoor Courtship''); origin obscure.]   A silly elf or foolish oaf.   ''Gloss. Exmoor Scolding.''\n{{smaller block|Why, you know I [am] an ignorant, unable trifle in such business, an oaf, a simple ''alcatote'', an innocent.\n{{right|''Ford'', Fancies, iv. 1.}}}}\n\n'''alcatras''' (al′ka-tras), ''n.''   [< Sp. Pg. ''alcatraz'', a pelican, etc., prob. a modification of Pg. ''alcatruz'' = Sp. ''arcaduz'', ''alcaduz'', the bucket of a noria or water-raising wheel, < Ar. ''al'', the, + ''qādūs'', bucket, < Gr. κάδος, a water-vessel; the term “bucket” being applied to the pelican for the same reason that the Arabs call it ''saqqā'', water-carrier, because it carries water in its pouch (Devic).]   A Spanish and Portuguese name loosely applied to sundry large sea-birds,<noinclude><references/></noinclude>"
+}
