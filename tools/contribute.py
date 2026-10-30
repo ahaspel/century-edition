@@ -72,6 +72,13 @@ def own_branch() -> str:
     return f"contrib/{slug}"
 
 
+def maintainer() -> bool:
+    """This checkout is the maintainer's (`git config century.maintainer true`,
+    local, never committed): their pages are read where they stand, on master,
+    never on a contributor's branch."""
+    return git("config", "--bool", "--default", "false", "century.maintainer") == "true"
+
+
 def on_own_branch() -> str:
     branch = own_branch()
     if git("branch", "--show-current") != branch:
@@ -159,7 +166,8 @@ def pick(a, batched: bool) -> tuple[list[int], float, float] | int:
     if a.volume is None or a.budget is None:
         print("Give --volume and --budget to start pages.")
         return 1
-    on_own_branch()
+    if not maintainer():
+        on_own_branch()
     git("fetch", "-q", "origin")
     git("merge", "-q", "--no-edit", "origin/master")             # see what others have sent
     spent = ledger().get(month(), 0.0)
