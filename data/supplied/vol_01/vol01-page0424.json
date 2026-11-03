@@ -1,0 +1,178 @@
+{
+ "volume": 1,
+ "page_number": 424,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n423.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n423.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 744,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     75,
+     135,
+     2295,
+     172
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     75,
+     172,
+     820,
+     1177
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     75,
+     1177,
+     820,
+     2168
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     75,
+     2168,
+     820,
+     3234
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     75,
+     3234,
+     820,
+     3287
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     820,
+     172,
+     1560,
+     1268
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     820,
+     1268,
+     1560,
+     2351
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     820,
+     2351,
+     1560,
+     3287
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1560,
+     172,
+     2295,
+     1272
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1560,
+     1272,
+     2295,
+     2361
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1560,
+     2361,
+     2295,
+     3287
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|avowance|398|awald}}",
+   "c1s1": "¶\n'''avowance''' (ạ-vou′ans), ''n.'' [< ''avow''<sup>1</sup> + ''-ance.''] '''1.''' The act of avowing; avowal.—'''2†.''' Justification; defense; vindication.\n{{smaller block|Can my ''avowance'' of king-murdering be collected from anything here written by me?\n{{right|''Fuller.''}}}}\n\n'''avowant''' (ạ-vou′ant), ''n.'' [< ''avow''<sup>1</sup> + ''-ant''<sup>1</sup>.] In ''law'', the defendant in replevin, who avows the distress of the goods, and justifies the taking.\n\n'''avowed''' (ạ-voud′), ''p. a.'' Declared; open.\n{{smaller block|I was thine open, thine ''avowed'' enemy.\n{{right|''Massinger.''}}}}\n\n'''avowedly''' (ạ-vou′ed-li), ''adv.'' In an avowed or open manner; with frank acknowledgment.\n\n'''avowee†''', ''n.'' [Also ''advowee'', q. v.; < ME. ''avowe'', < OF. ''avoue'' (see ''avoué''), earlier ''avoe'', < L. ''advocatus:'' see ''advowee, advocate.''] An advocate or patron; in ''law'', same as ''advowee.''\n\n'''avower'''<sup>1</sup> (ạ-vou′ėr), ''n.'' [< ''avow''<sup>1</sup> + ''-er''<sup>1</sup>.] One who avows, owns, or asserts.\n\n'''avower'''<sup>2</sup>'''†''', ''n.'' [Also ''advower, avoure;'' < OF. ''avouer'', inf. used as a noun: see ''avow''<sup>1</sup>.] Avowal.\n{{smaller block|<poem>He bad him stand t’ abide the bitter stoure\nOf his sore vengeaunce, or to make ''avoure.''</poem>\n{{right|''Spenser'', F. Q., VI. iii. 48.}}}}\n\n'''avowry''' (ạ-vou′ri), ''n.'' [< ME. ''avowerie, avouerie'', acknowledgment, authority, < OF. ''avouerie, avoerie'', < ''avouer, avoer'', avow: see ''avow''<sup>1</sup> and ''-ry.''] '''1.''' In ''old law'', the act of the distrainer of goods, who, in an action of replevin, avowed and justified the taking by maintaining that he took them in his own right: thus distinguished from ''cognizance'', which was the defense of one who",
+   "c1s2": "maintained that he took them in the right of another as his bailiff or servant.—'''2†.''' A patron saint chosen for one’s advocacy in heaven: often applied to a picture or representation of the patron saint, and hence the cognizance by which a knight was known, because the representation of his patron saint borne on his pennon became such a cognizance.\n{{smaller block|Therefore away with these ''avowries;'' let God alone be our ''avowry.''\n{{right|''Latimer'', Sermons before Edw. VI. (Arber), p. 193.}}\nWithin this circle and close to the corpse were carried the four banners—two before, two behind—of the dead person’s ''avowries'', which were small square vanes beaten out of gilt metal, painted with the figures of his patron saints and fastened flag-wise upon staves.\n{{right|''Rock'', Church of our Fathers, ii. 488.}}}}\n\n'''avowtry†''', etc. See ''advoutry'', etc.\n\n'''avoy†''', ''interj.'' [< OF. ''avoi'', ''avoy'', interj.] An exclamation of surprise or remonstrance.\n{{smaller block|''Avoy'', quod she, fy on yow herteless.\n{{right|''Chaucer'', Nun’s Priest’s Tale, l. 88.}}}}\n\n'''avoyer''' (a-voi′ėr), ''n.'' [Also ''advoyer;'' < F. ''avoyer'', prob. < ML. *''advocarius'', equiv. to ''advocatus'', protector, patron; cf. ML. ''advocaria'', tribute paid for protection, the protection itself: see ''advocate.''] In French Switzerland, the early title of the chief magistrates of the cantons. In Bern the title was used until 1794.\n\n'''avulse†''' (ạ-vuls′), ''v. t.'' [< L. ''avulsus'', pp. of ''avellere'', pluck off: see ''avell.''] To pluck or pull off. ''Shenstone.''",
+   "c1s3": "¶\n'''avulsion''' (ạ-vul′shọn), ''n.'' [< L. ''avulsio(n-)'', < ''avulsus'', pp. of ''avellere'', pluck off: see ''avell.''] '''1†.''' A pulling or tearing asunder or off; a rending or violent separation.\n{{smaller block|The thronging clusters thin<br>By kind ''avulsion.'' ''J. Philips'', Cyder, i. 24.\nOn condition of everlasting ''avulsion'' from Great Britain.\n{{right|''Jefferson'', Correspondence, I. 151.}}}}\n'''2†.''' A fragment torn off.—'''3.''' In ''law'', the sudden removal of soil from the land of one man and its deposit upon the land of another by the action of water.\n\n'''avuncular''' (a-vung′kụ̄-lär), ''a.'' [< L. ''avunculus'', uncle, dim. of ''avus'', grandfather: see ''uncle.''] Of or pertaining to an uncle.\n{{smaller block|In these rare instances the law of pedigree, whether direct or ''avuncular'', gives way. {{right|''Is. Taylor.''}}\nClive had passed the ''avuncular'' banking-house in the city, without caring to face his relations there.\n{{right|''Thackeray'', Newcomes, II. ii.}}}}\n\n'''aw<sup>1</sup>†''', ''n.'' and ''v.'' See ''awe''<sup>1</sup>.\n\n'''aw<sup>2</sup>''', ''interj.'' [Cf. ''augh, ah, oh.''] An exclamation of surprise, disgust, or remonstrance. [Colloq.]\n\n'''aw.''' [(1) < ME. ''aw, au, ag, aȝ'' (''awe'', etc.), < AS. ''ag'' (''aga, agu'', etc.), that is, ''a'' followed by the guttural ''g''; (2) < ME. ''aw, au'' (''awe'', etc.), < AS. ''aw'' (''awu'', etc.) (or ''ǣw, eáw''), that is, ''a'' (or ''ǣ, eá'') followed by the labial ''w''; (3) < ME. ''aw, au, av'', < AS. (etc.) ''af'' (''av''); (4) of other origin.] A common English digraph (pron. â), formerly interchangeable in most instances with ''au'' (which see), but now the regular form when final, and when medial before ''k'', ''l'', and ''n''. {{smaller|Historically it}}",
+   "c1s4": "represents, in older words, (1) ''a'' (ä) with an absorbed guttural, as in ''haw''<sup>1</sup>, ''law''<sup>1</sup>, ''maw''<sup>1</sup>, ''saw''<sup>1</sup>, ''saw''<sup>2</sup>, ''awn'', ''dawn'',",
+   "c2s1": "{{smaller|etc.; (2), (3), ''a'' (ä) with an absorbed labial (''w'' or ''v''), as in ''awl'', ''claw'', ''raw'', ''awk''<sup>1</sup>, ''hawk''<sup>1</sup>, ''crawl'', etc.; (4) ''a'', ''au'', or ''o'' in other positions and of various origin, as in ''yawn'', ''yawl'', ''lawn'', ''pawn'', ''pawl'', ''bawl'', etc. In later words often a mere accident of spelling.}}\n\n'''awa''' (a-wâ′), ''adv.'' A Scotch form of ''away''.\n\n'''awabi''' (a-wâ′bē), ''n.'' [Jap.] The Japanese abalone, or sea-ear, ''Haliotis gigantea'', a shellfish found in great quantity on the southern shores of Japan and much used as food. {{smaller|The shell is extensively used for inlaying in lacquer-work, and in other ornamentation. See ''abalone''.}}\n\n'''await<sup>1</sup>''' (a-wāt′), ''v.'' [< ME. ''awaiten'', ''awayten'', < OF. ''awaitier'', ''awaiter'', later ''aguaitier'', ''agaiter'', watch for, lie in wait, < ''a'', to, + ''waitier'', later ''guaitier'', ''gaitier'', ''gaiter'' (mod. F. ''guetter''), watch, wait: see ''a-''<sup>11</sup>, ''wait'', and ''watch''.] '''I.''' ''trans.'' '''1†.''' To watch for; lie in wait for.\n{{smaller block|<poem>Your ill-meaning politician lords,\nUnder pretence of bridal friends and guests,\nAppointed to ''await'' me thirty spies.</poem>\n{{right|''Milton'', S. A., l. 1196.}}}}\n'''2.''' To wait for; look for or expect.\n{{smaller block|<poem>Betwixt these rocky pillars Gabriel sat,\nChief of the angelic guards, ''awaiting'' night.</poem>\n{{right|''Milton'', P. L., iv. 550.}}}}\n{{smaller block|All through life I have ''awaited'' the fulfilment of a prophecy. {{right|''Hawthorne.''}}}}\n'''3.''' To be in store for; attend; be ready for: as, a glorious reward ''awaits'' the good.\n{{smaller block|<poem>Let all good things ''await''\nHim who cares not to be great.</poem>\n{{right|''Tennyson'', Duke of Wellington, viii.}}}}\n'''II.†''' ''intrans.'' To watch; give heed.\n{{smaller block|<poem>''Awaitynge'' on the reyn if he it heere.</poem>\n{{right|''Chaucer'', Miller’s Tale, l. 456.}}}}",
+   "c2s2": "{{smaller block|<poem>Ther is ful many an eye and many an ere\n''Awaityng'' on a lord, and he noot where.\n{{right|''Chaucer'', Summoner’s Tale, l. 352.}}</poem>}}\n\n'''await'''<sup>1</sup>† (a̤-wāt′), ''n.'' [< ME. ''await, awayt'', < OF. ''await'', later ''aguait, agait'', etc., mod. F. ''aguets'', watch, ambush; from the verb.] A state of waiting; watch; ambush.\n{{smaller block|<poem>The lyoun sit in his ''await'' alway\nTo slen the innocent, if that he may.\n{{right|''Chaucer'', Friar’s Tale, l. 359.}}\nThemselves they set\nThere in ''await'' with thicke woods overgrowne.\n{{right|''Spenser'', F. Q., III. v. 17.}}</poem>}}\n'''To have in await'''†, to keep a watch on.\n{{smaller block|<poem>Fortune was first frend and sithen foo,\nNo man ne truste vp-on hir fauour longe,\nBut ''haue'' hir ''in awayt'' for euer-moo.\n{{right|''Chaucer'', Monk’s Tale, l. 732.}}</poem>}}\n\n'''await'''<sup>2</sup>† (a̤-wāt′), ''prep. phr.'' as ''adv.'' [< ''a''<sup>3</sup> + ''wait'', ''n.''] In wait. ''Tyndale.''\n\n'''awaiter''' (a̤-wā′tėr), ''n.'' [< ME. ''awayter, awaitour'' (cf. OF. ''aguaiteor, aguetteur''): see ''await'' and ''-er''<sup>1</sup>.] '''1.''' One who awaits.—'''2†.''' One who lies in wait.\n{{smaller block|Yef he be a prive ''awaitour'' yhid, and reioyseth hym to rauysshe by wyles, thou shalt seyne him lyke to the fox whelpes.\n{{right|''Chaucer'', Boëthius.}}}}\n\n'''awake''' (a̤-wāk′), ''v.''; pret. ''awoke, awaked'', pp. ''awoke, awaked'', ppr. ''awaking''. [In this verb are merged two orig. different but closely related forms: (1) ME. ''awaken'' (strong verb; pret. ''awoke, awok'', pp. ''awaken, awake''), < AS. *''āwacan'', only in pret. ''āwōc'', pp. ''āwacen'', the pres. being supplied by ''āwæcnan'' with formative ''-n'' (whence prop. mod. E. ''awaken'', q. v.), earlier *''onwacan''",
+   "c2s3": "(pret. ''onwōc'', pres. ''onwæcnan'', etc.), < ''ā-'', orig. ''on-'', + *''wacan'', ''wæcnan'', wake; (2) ME. ''awaken'', ''awakien'' (weak verb; pret. ''awaked'', pp. ''awaked''), < AS. ''āwacian'' (pret. ''āwacode'', pp. ''āwacod'') (= OHG. ''arwachen'', MHG. G. ''erwachen''), < ''ā-'' + ''wacian'', wake, watch. The above were prop. intrans., the trans. form being ME. ''awecchen'', < AS. ''āweccan'' (= OS. ''awekkian'' = OHG. ''arwecchan'', ''irwecchen'', MHG. G. ''erwecken''), < ''ā-'' + ''weccan'', trans., wake, arouse. The forms vary as those of the simple verb: see ''a-''<sup>2</sup>, ''a-''<sup>1</sup>, and ''wake''.] '''I.''' ''intrans.'' '''1.''' To cease to sleep; come out of a state of natural sleep.\n{{smaller block|Jacob ''awaked'' out of his sleep.{{right|Gen. xxviii. 16.}}}}\n'''2.''' To come into being or action as if from sleep.\n{{smaller block|<poem>Now with his wakening senses, hunger too\nMust needs ''awake''.</poem>\n{{right|''William Morris'', Earthly Paradise, II. 178.}}}}\n'''3.''' To bestir or rouse one’s self from a state resembling sleep; emerge from a state of inaction; be invigorated with new life; become alive: as, to ''awake'' from sloth; to ''awake'' to the consciousness of a great loss.\n{{smaller block|''Awake'', O sword, against my shepherd.{{right|Zech. xiii. 7.}}\n''Awake'' to righteousness.{{right|1 Cor. xv. 34.}}\n<poem>And at his word the choral hymns ''awake''.</poem>\n{{right|''Scott'', Don Roderick, st. 32.}}}}\n'''4.''' To be or remain awake; watch. [Obsolete or poetical.]",
+   "c3s1": "{{smaller block|Such as you<br>Nourish the cause of his ''awaking.''\n{{right|''Shak.'', W. T., ii. 3.}}\nThe purple flowers droop: the golden bee<br>Is lily-cradled: I alone ''awake.''\n{{right|''Tennyson'', Œnone.}}}}\n'''II.''' ''trans.'' '''1.''' To arouse from sleep.\n{{smaller block|I go that I may ''awake'' him out of sleep. John xi. 11.}}\n'''2.''' To arouse from a state resembling sleep, as from death, stupor, or inaction; put into action or new life: as, to ''awake'' the dead; to ''awake'' the dormant faculties.\n{{smaller block|My master is ''awak’d'' by great occasion<br>To call upon his own. ''Shak.'', T. of A., ii. 2.\nThou dost ''awake'' something that troubles me,<br>And says, I lov’d thee once.\n{{right|''Beau. and Fl.'', Maid’s Tragedy, v. 4.}}}}\n{{smaller|='''Syn. 2.''' To wake, excite, stir up, call forth, stimulate, spur (up).}}\n\n'''awake''' (a̤-wāk′), ''a.'' [Formerly also ''awaken'', < ME. ''awake'', ''awaken'', < AS. ''āwacen'', pp.: see the verb.] Roused from sleep; not sleeping; in a state of vigilance or action.\n{{smaller block|It is my love that keeps mine eye ''awake.''\n{{right|''Shak.'', Sonnets, lxi.}}}}\n\n'''awakement''' (a̤-wāk′me̤nt), ''n.'' [< ''awake'', ''v.'', + ''-ment.''] The act of awakening, or the state of being awake; revival, especially revival of religion. [Rare.] ''Imp. Dict.''\n\n'''awaken''' (a̤-wā′kn), ''v.'' [< ME. ''awakenen'', ''awaknen'', < AS. ''āwæcnan'', pres. used with strong pret. ''āwōc'' (see ''awake'', ''v.''), also ''āwæcnian'' (pret. ''āwæcnede'', pp. ''āwæcned''), awake; orig. intrans., but in mod. use more commonly trans.: see ''awake'', ''v.''] '''I.''' ''intrans.'' '''1.''' To become awake;",
+   "c3s2": "cease to sleep; be roused from sleep or a state resembling sleep: as, to ''awaken'' early.\n\n{{smaller block|A music of preparation, of ''awakening'' suspense—a music like the opening of the coronation anthem.\n{{right|''De Quincey.''}}}}\n'''2.''' To come into being or action as if from sleep: as, hope ''awakened'' in his breast.\n\n'''II.''' ''trans.'' '''1.''' To rouse from sleep or a state resembling sleep; cause to revive from a state of inaction.\n{{smaller block|<poem>Satan . . . his next subordinate\n''Awakening'', thus to him in secret spake.</poem>\n{{right|''Milton'', P. L., v. 672.}}\n<poem>I offer’d to ''awaken'' his regard\nFor his private friends. {{right|''Shak.'', Cor., v. 1.}}</poem>}}\n'''2.''' To call into being or action.\n{{smaller block|Such a reverse in a man’s life ''awakens'' a better principle than curiosity. {{right|''Sterne'', Sentimental Journey, p. 77.}}\n[''Awaken'' is chiefly used in figurative or transferred applications, ''awake'' being preferred in the sense of arousing from actual sleep.]}}\n\n'''awakenable''' (a-wā′kn-a-bl), ''a.'' [< ''awaken'' + ''-able.''] Capable of being awakened. ''Carlyle.''\n\n'''awakener''' (ạ-wāk′nėr), ''n.'' One who or that which awakens or arouses from sleep or inaction.\n{{smaller block|Though not the safest of guides in politics or practical philosophy, his [Carlyle’s] value as an inspirer and ''awakener'' cannot be overestimated.\n{{right|''Lowell'', Study Windows, p. 149.}}}}\n\n'''awakening''' (ạ-wāk′ning), ''n.'' '''1.''' The act of awaking from sleep.\n{{smaller block|<poem>Some minute ere the time\nOf her ''awakening''.</poem>\n{{right|''Shak.'' (some editions), R. and J., v. 3.}}}}",
+   "c3s3": "'''2.''' An arousing from what is like sleep; a revival of interest in, or attention to, what has been neglected.\n{{smaller block|It was a sign of a great ''awakening'' of the human mind when theologians thought it both their duty and their privilege to philosophize.\n{{right|''Stillé'', Stud. Med. Hist., p. 384.}}}}\nEspecially—'''3.''' A revival of religion, either in an individual or in a community: a use of the word derived from the Scripture symbol of sin as death or sleep, and conversion as resurrection or awakening.—{{smaller|'''The great awakening''', the great revival of religion in New England brought about through the preaching of Whitefield in 1740.}}\n\n'''awakening''' (ạ-wāk′ning), ''p. a.'' Rousing; alarming: as, an ''awakening'' sermon.\n\n'''awakeningly''' (ạ-wāk′ning-li), ''adv.'' In a manner to awaken.\n\n'''awakenment''' (ạ-wā′kn-mẹnt), ''n.'' [< ''awaken'' + ''-ment.''] The act of awakening, or the state of being awakened; specifically, a religious revival. [Rare.]\n\n'''awald, awalt''' (ä′wald, ä′walt), ''a.'' and ''n.'' [Sc., also written ''awelled'', ''awart'' (and by simulation ''awkward''); origin uncertain. Cf. AS. ''wealtan'', ''wæltan'', roll, *''āwæltan'', pret. ''āwælte'', roll: see ''walter'', ''walty'', ''welter''.] '''I.''' ''a.'' Lying helplessly on the back: said of a sheep when unable, through sickness or fatness, to get up.\n\n'''II.''' ''n.'' A sheep so lying."
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 1,
+    "input_tokens": 2673,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9593,
+    "output_tokens": 9957,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|avowance|398|awald}}</noinclude>{{nop}}'''avowance''' (ạ-vou′ans), ''n.''   [< ''avow''<sup>1</sup> + ''-ance.'']   '''1.''' The act of avowing; avowal.—'''2†.''' Justification; defense; vindication.\n{{smaller block|Can my ''avowance'' of king-murdering be collected from anything here written by me?\n{{right|''Fuller.''}}}}\n\n'''avowant''' (ạ-vou′ant), ''n.''   [< ''avow''<sup>1</sup> + ''-ant''<sup>1</sup>.]   In ''law'', the defendant in replevin, who avows the distress of the goods, and justifies the taking.\n\n'''avowed''' (ạ-voud′), ''p. a.'' Declared; open.\n{{smaller block|I was thine open, thine ''avowed'' enemy.\n{{right|''Massinger.''}}}}\n\n'''avowedly''' (ạ-vou′ed-li), ''adv.'' In an avowed or open manner; with frank acknowledgment.\n\n'''avowee†''', ''n.''   [Also ''advowee'', q. v.; < ME. ''avowe'', < OF. ''avoue'' (see ''avoué''), earlier ''avoe'', < L. ''advocatus:'' see ''advowee, advocate.'']   An advocate or patron; in ''law'', same as ''advowee.''\n\n'''avower'''<sup>1</sup> (ạ-vou′ėr), ''n.''   [< ''avow''<sup>1</sup> + ''-er''<sup>1</sup>.]   One who avows, owns, or asserts.\n\n'''avower'''<sup>2</sup>'''†''', ''n.''   [Also ''advower, avoure;'' < OF. ''avouer'', inf. used as a noun: see ''avow''<sup>1</sup>.]   Avowal.\n{{smaller block|<poem>He bad him stand t’ abide the bitter stoure\nOf his sore vengeaunce, or to make ''avoure.''</poem>\n{{right|''Spenser'', F. Q., VI. iii. 48.}}}}\n\n'''avowry''' (ạ-vou′ri), ''n.''   [< ME. ''avowerie, avouerie'', acknowledgment, authority, < OF. ''avouerie, avoerie'', < ''avouer, avoer'', avow: see ''avow''<sup>1</sup> and ''-ry.'']   '''1.''' In ''old law'', the act of the distrainer of goods, who, in an action of replevin, avowed and justified the taking by maintaining that he took them in his own right: thus distinguished from ''cognizance'', which was the defense of one who maintained that he took them in the right of another as his bailiff or servant.—'''2†.''' A patron saint chosen for one’s advocacy in heaven: often applied to a picture or representation of the patron saint, and hence the cognizance by which a knight was known, because the representation of his patron saint borne on his pennon became such a cognizance.\n{{smaller block|Therefore away with these ''avowries;'' let God alone be our ''avowry.''\n{{right|''Latimer'', Sermons before Edw. VI. (Arber), p. 193.}}}}\n{{smaller block|Within this circle and close to the corpse were carried the four banners—two before, two behind—of the dead person’s ''avowries'', which were small square vanes beaten out of gilt metal, painted with the figures of his patron saints and fastened flag-wise upon staves.\n{{right|''Rock'', Church of our Fathers, ii. 488.}}}}\n\n'''avowtry†''', etc. See ''advoutry'', etc.\n\n'''avoy†''', ''interj.''   [< OF. ''avoi'', ''avoy'', interj.]   An exclamation of surprise or remonstrance.\n{{smaller block|''Avoy'', quod she, fy on yow herteless.\n{{right|''Chaucer'', Nun’s Priest’s Tale, l. 88.}}}}\n\n'''avoyer''' (a-voi′ėr), ''n.''   [Also ''advoyer;'' < F. ''avoyer'', prob. < ML. *''advocarius'', equiv. to ''advocatus'', protector, patron; cf. ML. ''advocaria'', tribute paid for protection, the protection itself: see ''advocate.'']   In French Switzerland, the early title of the chief magistrates of the cantons. In Bern the title was used until 1794.\n\n'''avulse†''' (ạ-vuls′), ''v. t.''   [< L. ''avulsus'', pp. of ''avellere'', pluck off: see ''avell.'']   To pluck or pull off.   ''Shenstone.''\n\n'''avulsion''' (ạ-vul′shọn), ''n.''   [< L. ''avulsio(n-)'', < ''avulsus'', pp. of ''avellere'', pluck off: see ''avell.'']   '''1†.''' A pulling or tearing asunder or off; a rending or violent separation.\n{{smaller block|The thronging clusters thin<br>By kind ''avulsion.'' ''J. Philips'', Cyder, i. 24.\nOn condition of everlasting ''avulsion'' from Great Britain.\n{{right|''Jefferson'', Correspondence, I. 151.}}}}\n'''2†.''' A fragment torn off.—'''3.''' In ''law'', the sudden removal of soil from the land of one man and its deposit upon the land of another by the action of water.\n\n'''avuncular''' (a-vung′kụ̄-lär), ''a.''   [< L. ''avunculus'', uncle, dim. of ''avus'', grandfather: see ''uncle.'']   Of or pertaining to an uncle.\n{{smaller block|In these rare instances the law of pedigree, whether direct or ''avuncular'', gives way. {{right|''Is. Taylor.''}}}}\n{{smaller block|Clive had passed the ''avuncular'' banking-house in the city, without caring to face his relations there.\n{{right|''Thackeray'', Newcomes, II. ii.}}}}\n\n'''aw<sup>1</sup>†''', ''n.'' and ''v.'' See ''awe''<sup>1</sup>.\n\n'''aw<sup>2</sup>''', ''interj.''   [Cf. ''augh, ah, oh.'']   An exclamation of surprise, disgust, or remonstrance. [Colloq.]\n\n'''aw.'''   [(1) < ME. ''aw, au, ag, aȝ'' (''awe'', etc.), < AS. ''ag'' (''aga, agu'', etc.), that is, ''a'' followed by the guttural ''g''; (2) < ME. ''aw, au'' (''awe'', etc.), < AS. ''aw'' (''awu'', etc.) (or ''ǣw, eáw''), that is, ''a'' (or ''ǣ, eá'') followed by the labial ''w''; (3) < ME. ''aw, au, av'', < AS. (etc.) ''af'' (''av''); (4) of other origin.]   A common English digraph (pron. â), formerly interchangeable in most instances with ''au'' (which see), but now the regular form when final, and when medial before ''k'', ''l'', and ''n''. {{smaller|Historically it}} represents, in older words, (1) ''a'' (ä) with an absorbed guttural, as in ''haw''<sup>1</sup>, ''law''<sup>1</sup>, ''maw''<sup>1</sup>, ''saw''<sup>1</sup>, ''saw''<sup>2</sup>, ''awn'', ''dawn'', {{smaller|etc.; (2), (3), ''a'' (ä) with an absorbed labial (''w'' or ''v''), as in ''awl'', ''claw'', ''raw'', ''awk''<sup>1</sup>, ''hawk''<sup>1</sup>, ''crawl'', etc.; (4) ''a'', ''au'', or ''o'' in other positions and of various origin, as in ''yawn'', ''yawl'', ''lawn'', ''pawn'', ''pawl'', ''bawl'', etc. In later words often a mere accident of spelling.}}\n\n'''awa''' (a-wâ′), ''adv.'' A Scotch form of ''away''.\n\n'''awabi''' (a-wâ′bē), ''n.''   [Jap.]   The Japanese abalone, or sea-ear, ''Haliotis gigantea'', a shellfish found in great quantity on the southern shores of Japan and much used as food. {{smaller|The shell is extensively used for inlaying in lacquer-work, and in other ornamentation. See ''abalone''.}}\n\n'''await<sup>1</sup>''' (a-wāt′), ''v.''   [< ME. ''awaiten'', ''awayten'', < OF. ''awaitier'', ''awaiter'', later ''aguaitier'', ''agaiter'', watch for, lie in wait, < ''a'', to, + ''waitier'', later ''guaitier'', ''gaitier'', ''gaiter'' (mod. F. ''guetter''), watch, wait: see ''a-''<sup>11</sup>, ''wait'', and ''watch''.]   '''I.''' ''trans.'' '''1†.''' To watch for; lie in wait for.\n{{smaller block|<poem>Your ill-meaning politician lords,\nUnder pretence of bridal friends and guests,\nAppointed to ''await'' me thirty spies.</poem>\n{{right|''Milton'', S. A., l. 1196.}}}}\n'''2.''' To wait for; look for or expect.\n{{smaller block|<poem>Betwixt these rocky pillars Gabriel sat,\nChief of the angelic guards, ''awaiting'' night.</poem>\n{{right|''Milton'', P. L., iv. 550.}}}}\n{{smaller block|All through life I have ''awaited'' the fulfilment of a prophecy. {{right|''Hawthorne.''}}}}\n'''3.''' To be in store for; attend; be ready for: as, a glorious reward ''awaits'' the good.\n{{smaller block|<poem>Let all good things ''await''\nHim who cares not to be great.</poem>\n{{right|''Tennyson'', Duke of Wellington, viii.}}}}\n'''II.†''' ''intrans.'' To watch; give heed.\n{{smaller block|<poem>''Awaitynge'' on the reyn if he it heere.</poem>\n{{right|''Chaucer'', Miller’s Tale, l. 456.}}}}\n<poem>Ther is ful many an eye and many an ere\n''Awaityng'' on a lord, and he noot where.\n{{right|''Chaucer'', Summoner’s Tale, l. 352.}}</poem>\n\n'''await'''<sup>1</sup>† (a̤-wāt′), ''n.''   [< ME. ''await, awayt'', < OF. ''await'', later ''aguait, agait'', etc., mod. F. ''aguets'', watch, ambush; from the verb.]   A state of waiting; watch; ambush.\n{{smaller block|<poem>The lyoun sit in his ''await'' alway\nTo slen the innocent, if that he may.\n{{right|''Chaucer'', Friar’s Tale, l. 359.}}\nThemselves they set\nThere in ''await'' with thicke woods overgrowne.\n{{right|''Spenser'', F. Q., III. v. 17.}}</poem>}}\n'''To have in await'''†, to keep a watch on.\n{{smaller block|<poem>Fortune was first frend and sithen foo,\nNo man ne truste vp-on hir fauour longe,\nBut ''haue'' hir ''in awayt'' for euer-moo.\n{{right|''Chaucer'', Monk’s Tale, l. 732.}}</poem>}}\n\n'''await'''<sup>2</sup>† (a̤-wāt′), ''prep. phr.'' as ''adv.''   [< ''a''<sup>3</sup> + ''wait'', ''n.'']   In wait.   ''Tyndale.''\n\n'''awaiter''' (a̤-wā′tėr), ''n.''   [< ME. ''awayter, awaitour'' (cf. OF. ''aguaiteor, aguetteur''): see ''await'' and ''-er''<sup>1</sup>.]   '''1.''' One who awaits.—'''2†.''' One who lies in wait.\n{{smaller block|Yef he be a prive ''awaitour'' yhid, and reioyseth hym to rauysshe by wyles, thou shalt seyne him lyke to the fox whelpes.\n{{right|''Chaucer'', Boëthius.}}}}\n\n'''awake''' (a̤-wāk′), ''v.''; pret. ''awoke, awaked'', pp. ''awoke, awaked'', ppr. ''awaking''.   [In this verb are merged two orig. different but closely related forms: (1) ME. ''awaken'' (strong verb; pret. ''awoke, awok'', pp. ''awaken, awake''), < AS. *''āwacan'', only in pret. ''āwōc'', pp. ''āwacen'', the pres. being supplied by ''āwæcnan'' with formative ''-n'' (whence prop. mod. E. ''awaken'', q. v.), earlier *''onwacan'' (pret. ''onwōc'', pres. ''onwæcnan'', etc.), < ''ā-'', orig. ''on-'', + *''wacan'', ''wæcnan'', wake; (2) ME. ''awaken'', ''awakien'' (weak verb; pret. ''awaked'', pp. ''awaked''), < AS. ''āwacian'' (pret. ''āwacode'', pp. ''āwacod'') (= OHG. ''arwachen'', MHG. G. ''erwachen''), < ''ā-'' + ''wacian'', wake, watch. The above were prop. intrans., the trans. form being ME. ''awecchen'', < AS. ''āweccan'' (= OS. ''awekkian'' = OHG. ''arwecchan'', ''irwecchen'', MHG. G. ''erwecken''), < ''ā-'' + ''weccan'', trans., wake, arouse. The forms vary as those of the simple verb: see ''a-''<sup>2</sup>, ''a-''<sup>1</sup>, and ''wake''.]   '''I.''' ''intrans.'' '''1.''' To cease to sleep; come out of a state of natural sleep.\n{{smaller block|Jacob ''awaked'' out of his sleep.{{right|Gen. xxviii. 16.}}}}\n'''2.''' To come into being or action as if from sleep.\n{{smaller block|<poem>Now with his wakening senses, hunger too\nMust needs ''awake''.</poem>\n{{right|''William Morris'', Earthly Paradise, II. 178.}}}}\n'''3.''' To bestir or rouse one’s self from a state resembling sleep; emerge from a state of inaction; be invigorated with new life; become alive: as, to ''awake'' from sloth; to ''awake'' to the consciousness of a great loss.\n{{smaller block|''Awake'', O sword, against my shepherd.{{right|Zech. xiii. 7.}}}}\n{{smaller block|''Awake'' to righteousness.{{right|1 Cor. xv. 34.}}}}\n{{smaller block|<poem>And at his word the choral hymns ''awake''.</poem>\n{{right|''Scott'', Don Roderick, st. 32.}}}}\n'''4.''' To be or remain awake; watch. [Obsolete or poetical.] {{smaller block|Such as you<br>Nourish the cause of his ''awaking.''\n{{right|''Shak.'', W. T., ii. 3.}}}}\n{{smaller block|The purple flowers droop: the golden bee<br>Is lily-cradled: I alone ''awake.''\n{{right|''Tennyson'', Œnone.}}}}\n'''II.''' ''trans.'' '''1.''' To arouse from sleep.\n{{smaller block|I go that I may ''awake'' him out of sleep. John xi. 11.}}\n'''2.''' To arouse from a state resembling sleep, as from death, stupor, or inaction; put into action or new life: as, to ''awake'' the dead; to ''awake'' the dormant faculties.\n{{smaller block|My master is ''awak’d'' by great occasion<br>To call upon his own. ''Shak.'', T. of A., ii. 2.\nThou dost ''awake'' something that troubles me,<br>And says, I lov’d thee once.\n{{right|''Beau. and Fl.'', Maid’s Tragedy, v. 4.}}}}\n{{smaller|='''Syn. 2.''' To wake, excite, stir up, call forth, stimulate, spur (up).}}\n\n'''awake''' (a̤-wāk′), ''a.''   [Formerly also ''awaken'', < ME. ''awake'', ''awaken'', < AS. ''āwacen'', pp.: see the verb.]   Roused from sleep; not sleeping; in a state of vigilance or action.\n{{smaller block|It is my love that keeps mine eye ''awake.''\n{{right|''Shak.'', Sonnets, lxi.}}}}\n\n'''awakement''' (a̤-wāk′me̤nt), ''n.''   [< ''awake'', ''v.'', + ''-ment.'']   The act of awakening, or the state of being awake; revival, especially revival of religion. [Rare.] ''Imp. Dict.''\n\n'''awaken''' (a̤-wā′kn), ''v.''   [< ME. ''awakenen'', ''awaknen'', < AS. ''āwæcnan'', pres. used with strong pret. ''āwōc'' (see ''awake'', ''v.''), also ''āwæcnian'' (pret. ''āwæcnede'', pp. ''āwæcned''), awake; orig. intrans., but in mod. use more commonly trans.: see ''awake'', ''v.'']   '''I.''' ''intrans.'' '''1.''' To become awake; cease to sleep; be roused from sleep or a state resembling sleep: as, to ''awaken'' early.\n\n{{smaller block|A music of preparation, of ''awakening'' suspense—a music like the opening of the coronation anthem.\n{{right|''De Quincey.''}}}}\n'''2.''' To come into being or action as if from sleep: as, hope ''awakened'' in his breast.\n\n'''II.''' ''trans.'' '''1.''' To rouse from sleep or a state resembling sleep; cause to revive from a state of inaction.\n{{smaller block|<poem>Satan . . . his next subordinate\n''Awakening'', thus to him in secret spake.</poem>\n{{right|''Milton'', P. L., v. 672.}}}}\n{{smaller block|<poem>I offer’d to ''awaken'' his regard\nFor his private friends. {{right|''Shak.'', Cor., v. 1.}}</poem>}}\n'''2.''' To call into being or action.\n{{smaller block|Such a reverse in a man’s life ''awakens'' a better principle than curiosity. {{right|''Sterne'', Sentimental Journey, p. 77.}}}}\n{{smaller block|[''Awaken'' is chiefly used in figurative or transferred applications, ''awake'' being preferred in the sense of arousing from actual sleep.]}}\n\n'''awakenable''' (a-wā′kn-a-bl), ''a.''   [< ''awaken'' + ''-able.'']   Capable of being awakened.   ''Carlyle.''\n\n'''awakener''' (ạ-wāk′nėr), ''n.'' One who or that which awakens or arouses from sleep or inaction.\n{{smaller block|Though not the safest of guides in politics or practical philosophy, his [Carlyle’s] value as an inspirer and ''awakener'' cannot be overestimated.\n{{right|''Lowell'', Study Windows, p. 149.}}}}\n\n'''awakening''' (ạ-wāk′ning), ''n.'' '''1.''' The act of awaking from sleep.\n{{smaller block|<poem>Some minute ere the time\nOf her ''awakening''.</poem>\n{{right|''Shak.'' (some editions), R. and J., v. 3.}}}} '''2.''' An arousing from what is like sleep; a revival of interest in, or attention to, what has been neglected.\n{{smaller block|It was a sign of a great ''awakening'' of the human mind when theologians thought it both their duty and their privilege to philosophize.\n{{right|''Stillé'', Stud. Med. Hist., p. 384.}}}}\nEspecially—'''3.''' A revival of religion, either in an individual or in a community: a use of the word derived from the Scripture symbol of sin as death or sleep, and conversion as resurrection or awakening.—{{smaller|'''The great awakening''', the great revival of religion in New England brought about through the preaching of Whitefield in 1740.}}\n\n'''awakening''' (ạ-wāk′ning), ''p. a.'' Rousing; alarming: as, an ''awakening'' sermon.\n\n'''awakeningly''' (ạ-wāk′ning-li), ''adv.'' In a manner to awaken.\n\n'''awakenment''' (ạ-wā′kn-mẹnt), ''n.''   [< ''awaken'' + ''-ment.'']   The act of awakening, or the state of being awakened; specifically, a religious revival. [Rare.]\n\n'''awald, awalt''' (ä′wald, ä′walt), ''a.'' and ''n.''   [Sc., also written ''awelled'', ''awart'' (and by simulation ''awkward''); origin uncertain. Cf. AS. ''wealtan'', ''wæltan'', roll, *''āwæltan'', pret. ''āwælte'', roll: see ''walter'', ''walty'', ''welter''.]   '''I.''' ''a.'' Lying helplessly on the back: said of a sheep when unable, through sickness or fatness, to get up.\n\n'''II.''' ''n.'' A sheep so lying.<noinclude><references/></noinclude>"
+}

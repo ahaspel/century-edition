@@ -1,0 +1,368 @@
+{
+ "volume": 1,
+ "page_number": 380,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n379.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n379.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 747,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     80,
+     137,
+     2315,
+     178
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     80,
+     178,
+     824,
+     1070
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     80,
+     1070,
+     824,
+     2145
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     420,
+     1178,
+     824,
+     1462
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     80,
+     2145,
+     824,
+     2839
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     80,
+     2839,
+     824,
+     3286
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     84,
+     2897,
+     363,
+     3156
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     824,
+     178,
+     1570,
+     1211
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     824,
+     1211,
+     1570,
+     2154
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     824,
+     2154,
+     1570,
+     3184
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     853,
+     2619,
+     1497,
+     2958
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     824,
+     3184,
+     1570,
+     3286
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1570,
+     178,
+     2315,
+     799
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1570,
+     799,
+     2315,
+     1296
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1830,
+     833,
+     2304,
+     1212
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1570,
+     1296,
+     2315,
+     2017
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1570,
+     2017,
+     2315,
+     3031
+    ]
+   },
+   {
+    "name": "c3s5",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1570,
+     3031,
+     2315,
+     3286
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|asteriated|354|asthma}}",
+   "c1s1": "starry, + -''ate''<sup>2</sup> + -''ed''<sup>2</sup>.] Exhibiting the property of asterism: as, ''asteriated'' sapphire. See ''asterism'', 4.\n\n'''asterid''' (as′tẹ-rid), ''n.'' [< ''Asteridæ.''] A starfish; a member of the genus ''Asterias'', or family ''Asteriidæ'', or some other division of the order ''Asteroidea''. Also called ''asteridan'' and ''asteridian''.\n\n'''Asterida''' (as-ter′i-dä), ''n. pl.'' [NL., < ''Asterias'', 1, + -''ida''.] In Gegenbaur’s system of classification, an order of the class ''Asteroida'', including the typical starfishes.\n\n'''Asteridæ''' (as-ter′i-dē), ''n. pl.'' [NL., < ''Asterias'', 1, + -''idæ''.] '''1.''' Same as ''Asteriidæ''.—'''2.''' Some superfamily group of starfishes, more or less exactly equivalent to ''Asteroidea'' (which see).\n\n'''asteridan''' (as-ter′i-dan), ''n.'' Same as ''asterid''.\n\n'''Asteridea''' (as-tẹ-rid′ẹ̄-ä̤), ''n. pl.'' [NL., < ''Asterias'', 1, + -''idea''.] A superfamily group of starfishes.\n{{smaller block|(''a'') More or less nearly the same as an order ''Asteroidea'', distinguishing the starfishes collectively from other echinoderms. (''b'') More or less nearly the same as a class ''Asteroidea'' or ''Stellerida'', distinguishing the starfishes and sand-stars (ophiurians) together from other echinoderms.}}\n\n'''asteridian''' (as-tẹ-rid′i-a̤n), ''n.'' and ''a.'' [< ''asterid'' + -''ian''.] '''I.''' ''n.'' Same as ''asterid''.\n\n'''II.''' ''a.'' Of or pertaining to the ''Asteriidæ''.\n{{smaller block|The ''asteridian'' affinities of the class [''Brachiopoda''] have been hinted at by King.\n{{right|''Encyc. Brit.'', IV. 188.}}}}\n\n'''asteriid''' (as-tē′ri-id), ''n.'' A starfish of the fam-",
+   "c1s2": "ily ''Asteriidæ.''\n\n'''Asteriidæ''' (as-tẹ-rī′i-dē), ''n. pl.'' [NL., < ''Asterias'', 1, + ''-idæ''.] A family of echinoderms, of\n[[FIGURE]]\n{{c|{{smaller|Cross-section of ray of ''Asterias aurantiacus.''}}}}\n{{c|{{smaller|''a, a,'' ambulacral or vertebral ossicles; ''b,'' adambulacral; ''c, c,'' marginal ossicles; ''d,'' paxillæ upon antambulacral surface.}}}}\nthe order ''Asteroidea'', the starfishes, class ''Asteroidea'' or ''Stellerida'', represented by such genera as ''Asterias'' or ''Astropecten'' and ''Luidia'', having four rows of pedicellate feet in each ray. Also ''Asteridæ'', and, less correctly, ''Asteriadæ.''\n\n'''Asterina''' (as-tẹ-rī′nä), ''n.'' [NL., < Gr. ἀστήρ, a star, + ''-ina''.] The typical genus of starfishes of the family ''Asterinidæ''. ''A. gibbosa'' is the gibbous starlet.\n{{smaller block|''Asterina'' is a large genus, almost world-wide in its distribution. The skeleton is formed of imbricated or overlapping and notched ossicula. {{right|''Stand. Nat. Hist.'', I. 159.}}}}\n\n'''asterinid''' (as-ter′i-nid), ''n.'' A starlet of the family ''Asterinidæ.''\n\n'''Asterinidæ''' (as-tẹ-rin′i-dē), ''n. pl.'' [NL., < ''Asterina'' + ''-idæ''.] A family of starfishes, containing the starlets of the genera ''Asterina'', ''Asteriscus'', ''Goniaster'', etc.\n\n'''asterion''' (as-tē′ri-on), ''n.'' [NL., < Gr. ἀστέριος, neut. ἀστέριον, starry, starlike, < ἀστήρ, a star.] In ''anat.'', the point where the lambdoid, parietomastoid, and occipitomastoid sutures of the skull meet.",
+   "c1s3": "¶\n'''Asteriscus''' (as-te̤-ris′kus), ''n.'' [NL., < Gr. ἀστερίσκος, a little star: see ''asterisk.''] '''1.''' A genus of starfishes, of the family ''Asterinidæ'': synonymous with ''Palmipes.'' The species are known as sea-stars.—'''2.''' [''l. c.''] An otolith lodged, in most fishes, in a diverticulum of the vestibule, beneath the ampulla of the posterior canal.\n\n'''asterisk''' (as′te̤-risk), ''n.'' [< LL. ''asteriscus,'' < Gr. ἀστερίσκος, a little star, an asterisk, used in manuscripts to mark passages, dim. of ἀστήρ, a star: see ''aster''<sup>1</sup>.] '''1.''' The figure of a star (*), used in printing and writing—(''a'') as a reference to a passage or note in the margin; (''b'') to distinguish words or phrases as conjectural, theoretical, unverified, obscure, or as having some other specified character; (''c'') to mark the omission of words or letters; and (''d'') arbitrarily, as a mark of classification.—'''2.''' Something in the shape of or resembling an asterisk.\n{{smaller block|The lanthorn is in the centre of an ''asterisk'' of glades, cut through the wood of all the country round, four or five in a quarter.\n{{right|''Roger North,'' Lord Guilford, I. 258.}}}}",
+   "c1s4": "¶\n'''3.''' In the ''Gr. Ch.'', a frame consisting of two arches of metal, crossing each other at right\n[[FIGURE]]\n{{c|{{smaller|Asterisk.}}}}\nangles, placed on the paten and over the prepared bread of the eucharist to prevent contact with the covering veil.\n{{smaller block|The ''asterisk'' . . . folds and unfolds for the purpose of being more conveniently put away. Its use is to prevent the veil of the disk from disarranging the order of the portions; its mystical meaning . . . is the star which led the Wise Men to the Infant Saviour.\n{{right|''J. M. Neale'', Eastern Church, i. 350, note.}}}}",
+   "c2s1": "¶\n'''asterism''' (as′te̤-rizm), ''n.'' [< Gr. ἀστερισμός, a marking with stars, a constellation, < ἀστερίζειν, mark with stars, < ἀστήρ, a star, = E. ''star''.] '''1.''' A group of stars: formerly equivalent to ''constellation'', but now appropriated to any small cluster of stars, whether a part of a constellation or not.\n{{smaller block|<poem>All set in number and in perfect form,\nEven like the ''Asterisms'' fix’d in heaven.</poem>\n{{right|''Chapman'', Blind Beggar.}}\nAny one who studies the heavens will recognize the fact that the larger constellations have been robbed of their just proportions to form the smaller ''asterisms''.\n{{right|''R. A. Proctor'', Light Science, p. 335.}}}}\n'''2.''' An asterisk, or mark of reference. [Rare.] —'''3.''' Three asterisks placed thus, *<sub>*</sub>*, or thus, <sub>*</sub>*<sub>*</sub>, before a passage, to direct attention to it. —'''4.''' An optical property exhibited by some crystallized minerals which show a star-shaped luminous figure when viewed by reflected light, as the asteriated sapphire, or by transmitted light, as some kinds of phlogopite. {{smaller|In the former case it is due to certain peculiarities of internal structure, in the latter to the inclusion of symmetrically arranged acicular crystals.}}\n\n'''astern''' (a̤-stėrn′), ''prep. phr.'' as ''adv.'' or ''a.'' [< ''a''<sup>3</sup> + ''stern''<sup>2</sup>.] '''1.''' At or toward the hinder part of a ship: as, to go ''astern''.—'''2.''' Behind, at any indefinite distance: as, the ship was far ''astern'' of us.\n{{smaller block|Captain Terry . . . put off in his boat at sunset for his ship, which was now six or eight miles ''astern''.\n{{right|''R. H. Dana, Jr.'', Before the Mast, p. 36.}}}}",
+   "c2s2": "'''3.''' In the direction of the stern; backward; back; to the rear: said of a ship: as, the current drove us far ''astern''.{{smaller|—'''To back astern''', to move stern foremost; go astern: said of a ship.—'''To be astern of the reckoning''', to be behind the position given for a vessel by the reckoning.—'''To fall astern.''' See ''fall''.}}\n\n'''asternal''' (a-stėr′nạl), ''a.'' [< Gr. ἀ- priv. + στέρνον, sternum.] '''1.''' Having no sternum or breast-bone, as a serpent. [Rare.]—'''2.''' Not reaching to or connected with the sternum: as, ''asternal'' ribs, that is, floating ribs, ribs which do not articulate with the breast-bone.\n\n'''Asterodactylidæ''' (as″te-rō-dak-til′i-dē), ''n. pl.'' [NL., < ''Asterodactylus'' + ''-idæ''.] A family of salient amphibians: synonymous with ''Pipidæ'' (which see). Also ''Asterodactyloidæ'' and ''Astrodactylidæ''.\n\n'''Asterodactylus''' (as″te-rō-dak′ti-lus), ''n.'' [NL., < Gr. ἀστήρ, a star, + δάκτυλος, finger.] A genus of salient amphibians: synonymous with ''Pipa'' (which see).\n\n'''asteroid''' (as′te-roid), ''a.'' and ''n.'' [< Gr. ἀστεροειδής, star-like, < ἀστήρ, a star, + εἶδος, form.] '''I.''' ''a.'' '''1.''' Star-like.—'''2.''' Having a flower like that of an aster.\n\n'''II.''' ''n.'' '''1.''' One of the small planets, 280 or more in number, between the orbits of Mars and Jupiter: more accurately called ''planetoids''. See ''planetoid''.—'''2.''' One of the ''Asteroidea''; a starfish, in a wide sense.",
+   "c2s3": "¶\n'''Asteroida''' (as-tẹ-roi′dä̤), ''n. pl.'' [NL., < Gr. ἀστεροειδής, star-like: see ''asteroid.''] '''1.''' In Gegenbaur’s system of classification, a class of echinoderms, the sea-stars or starfishes, consisting of the orders ''Asterida, Brisingida, Ophiurida,'' and ''Euryalida.''—'''2.''' Same as ''Alcyonaria.''\n\n'''asteroidal''' (as-tẹ-roi′dal), ''a.'' [< ''asteroid'' (or ''Asteroida'') + ''-al.''] '''1.''' Resembling a star.—'''2.''' Pertaining to the asteroids.—'''3.''' Pertaining to the starfishes.—'''4.''' Same as ''alcyonarian.''\n\n'''Asteroidea''' (as-tẹ-roi′dẹ̄-ä̤), ''n. pl.'' [NL., < Gr. ἀστεροειδής, star-like: see ''asteroid.''] '''1.''' An order of echinoderms, the starfishes: so called from their star-like form. {{smaller|They have a more or}}\n[[FIGURE]]\n{{c|{{smaller|Development of Asterid Larvæ.}}}}\n{{smaller block|''A'', echinopædium of the form called bipinnaria, ventral view; ''B'', lateral view; ''C'', the bipinnaria showing rudiment of the starfish. ''a'', mouth; ''b'', esophagus; ''c'', stomach; ''c′'', intestine; ''o'', anus; ''x y'', ventral and dorsal sides of anterior end of body; ''d'', ''d′'', ciliated bands; ''h'', cæcal diverticulum, forming rudiment of the ambulacral system, opening externally at ''g''.}}\n{{smaller|less lobed or pentagonal disk; lobes continuous with the}}",
+   "c2s4": "disk, receiving prolongations of the viscera, and bearing tube-feet with suckers, as locomotory organs; and an aboral madreporic body. The group includes several families, as ''Brisingidæ'', ''Pterasteridæ'', ''Astropectinidæ'', ''As-''",
+   "c3s1": "{{smaller block|''terinidæ'', ''Goniasteridæ'', ''Linckiidæ'', and ''Asteriidæ'', or the starfishes proper as distinguished from the sand-stars and other echinoderms of the class ''Stellerida'' (which see). They have a coriaceous skin, in which are implanted spines or tubercles. The body is expanded into arms, the under surface of which is marked with grooves, radiating from the center, and pierced with rows of holes, whence issue tentacular feet, by means of which the animals move. Most have 5 arms or rays, but some have more, varying from 8 to 30. They have the power of reproducing these arms if they are broken off; and if an entire arm, with a small portion of the body attached to it, is torn off, it forms a new and perfect animal. The mouth is in the inferior center of the rays, is not provided with teeth, and leads by a short gullet into a large stomach, from which a pair of lateral tubes are prolonged into each ray. A distinct intestine and anus may or may not be present. The animals feed chiefly on mollusks.}}\n'''2.''' A class of echinoderms, containing the sand-stars or ophiurians together with the starfishes, and more or less exactly equivalent to ''Stellerida'' (which see).—'''3.''' Same as ''Alcyonaria''.",
+   "c3s2": "¶\n'''Asterolepis''' (as-te̤-rol′e-pis), ''n.'' [NL., < Gr. ἀστήρ, a star, + λεπίς, a scale.] A genus of gigantic primitive fishes, now found only in a fossil state in the Old Red Sandstone. {{smaller|From their remains it would seem that these fishes must sometimes have attained the length of 18 or 20 feet.}}\n[[FIGURE]]\n{{c|{{smaller|1, hyoid plate of ''Asterolepis'', 1-9th natural size; 2, internal ridge of hyoid plate, 1-4th natural size.}}}}",
+   "c3s3": "¶\n'''asterophrydid''' (as″te̤-rof′ri-did), ''n.'' One of the ''Asterophrydidæ.''\n\n'''Asterophrydidæ''' (as″te̤-rō-frid′i-dē), ''n. pl.'' [NL., < ''Asterophrys'' + ''-idæ.''] A family of arciferous salient amphibians with maxillary teeth, dilated sacral diapophyses (the coccyx being connected with one or two condyles or sacral vertebræ), and opisthocœlian vertebræ. It is a small group of toad-like animals.\n\n'''Asterophrys''' (as-te̤-rof′ris), ''n.'' [NL., < Gr. ἀστήρ, a star, + ὀφρύς, eyebrow: see ''brow.''] A genus of arciferous amphibians of New Guinea, typical of the family ''Asterophrydidæ.''\n\n'''asterophyllite''' (as″te̤-rō-fil′īt), ''n.'' [< NL. ''Asterophyllites.''] A member of the genus ''Asterophyllites.''\n\n'''Asterophyllites''' (as″te̤-rō-fi-lī′tēz), ''n.'' [NL., < Gr. ἀστήρ, a star, + φύλλον, a leaf, + λίθος, a stone.] A genus of fossil plants; star-leaf: so called from the stellated disposition of the leaves around the branches. {{smaller|They abound in the coal-measures, and are believed to be the branches of the ''Calamites'' or ''Calamodendron.''}}",
+   "c3s4": "¶\n'''astert†''', ''v.'' See ''astart.''\n\n'''asthenia''' (as-the-nī′ä̤), ''n.'' [NL., < Gr. ἀσθένεια, weakness, < ἀσθενής, without strength, < ἀ- priv. + σθένος, strength.] '''1.''' In ''pathol.'', debility; want of strength. Also ''astheny.''—'''2.''' [''cap.''] In ''zoöl.'', a genus of insects.\n\n'''asthenic''' (as-then′ik), ''a.'' [< Gr. ἀσθενικός, weak, < ἀσθενής: see ''asthenia.''] Of the nature of asthenia; characterized by or suffering from asthenia or debility; weak.\n\n'''asthenology†''' (as-the-nol′ọ̄-ji), ''n.'' [< Gr. ἀσθενής, weak (see ''asthenia''), + -λογία, < λέγειν, speak: see ''-ology.''] The doctrine of diseases connected with debility.\n\n'''asthenopia''' (as-the-nō′pi-ä̤), ''n.'' [NL., < Gr. ἀσθενής, weak (see ''asthenia''), + ὤψ (ὠπ-), eye.] Weakness of the eyes. {{smaller|Two forms are especially important: (''a'') ''accommodative asthenopia'', which is the result of the exhaustion of the ciliary muscle, as in hypermetropia; and (''b'') ''muscular asthenopia'', which is the result of some exhaustion of the external muscles of the eye, usually the internal rectus.}}\n\n'''asthenopic''' (as-the-nop′ik), ''a.'' Pertaining to, resembling, or suffering from asthenopia.\n{{smaller block|For reading, the manifest hypermetropia should be corrected, the strength of the glasses being increased as often as ''asthenopic'' symptoms reappear.\n{{right|''Encyc. Brit.'', XVII. 785.}}}}\n\n'''Asthenurus''' (as-the-nū′rus), ''n.'' [NL., < Gr. ἀσθενής, weak (see ''asthenia''), + οὐρά, tail.] '''1.''' In ''ornith.'', a genus of woodpeckers: synonymous with ''Picumnus. Swainson'', 1827.—'''2.''' In ''ichth.'', a genus of fishes.",
+   "c3s5": "¶\n'''astheny''' (as′the-ni), ''n.'' Same as ''asthenia'', 1.\n\n'''asthma''' (ast′mä or as′mä), ''n.'' [Early mod. E. also ''astma'', ''asma'', < ME. ''asma'', ''asmy'', < ML. ''asma'', ''asthma'', < Gr. ἆσθμα, asthma, panting, < ἄζειν, also ἀάζειν, αἰάζειν, breathe hard, pant, < ἀῆναι (*''Fαῆναι''), breathe, blow, = Goth. ''waian'' = AS. ''wāwan'' = OHG. ''wājan'', MHG. ''wæjen'', G. ''wehen'' = Skt. √ ''vā'', blow. From the same root, in Gr., come"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0380 c1f1.png",
+   "c1f2": "century v01 p0380 c1f2.png",
+   "c2f1": "century v01 p0380 c2f1.png",
+   "c3f1": "century v01 p0380 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     432,
+     1190,
+     812,
+     1450
+    ],
+    "caption": [
+     443,
+     1459,
+     812,
+     1591
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     452,
+     1191,
+     821,
+     1453
+    ]
+   },
+   {
+    "box": [
+     96,
+     2909,
+     351,
+     3144
+    ],
+    "caption": [
+     172,
+     3149,
+     266,
+     3171
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     96,
+     2893,
+     361,
+     3144
+    ]
+   },
+   {
+    "box": [
+     865,
+     2631,
+     1485,
+     2946
+    ],
+    "caption": [
+     834,
+     2971,
+     1547,
+     3122
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     844,
+     2624,
+     1495,
+     2959
+    ]
+   },
+   {
+    "box": [
+     1842,
+     845,
+     2292,
+     1200
+    ],
+    "caption": [
+     1834,
+     1220,
+     2312,
+     1280
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1835,
+     867,
+     2318,
+     1216
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    2,
+    0
+   ],
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 5,
+    "input_tokens": 7974,
+    "output_tokens": 343,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 14,
+    "input_tokens": 9641,
+    "output_tokens": 10422,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 55524
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c1f1": "right",
+   "c3f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|asteriated|354|asthma}}</noinclude>starry, + -''ate''<sup>2</sup> + -''ed''<sup>2</sup>.] Exhibiting the property of asterism: as, ''asteriated'' sapphire. See ''asterism'', 4.\n\n'''asterid''' (as′tẹ-rid), ''n.''   [< ''Asteridæ.'']   A starfish; a member of the genus ''Asterias'', or family ''Asteriidæ'', or some other division of the order ''Asteroidea''. Also called ''asteridan'' and ''asteridian''.\n\n'''Asterida''' (as-ter′i-dä), ''n. pl.''   [NL., < ''Asterias'', 1, + -''ida''.]   In Gegenbaur’s system of classification, an order of the class ''Asteroida'', including the typical starfishes.\n\n'''Asteridæ''' (as-ter′i-dē), ''n. pl.''   [NL., < ''Asterias'', 1, + -''idæ''.]   '''1.''' Same as ''Asteriidæ''.—'''2.''' Some superfamily group of starfishes, more or less exactly equivalent to ''Asteroidea'' (which see).\n\n'''asteridan''' (as-ter′i-dan), ''n.'' Same as ''asterid''.\n\n'''Asteridea''' (as-tẹ-rid′ẹ̄-ä̤), ''n. pl.''   [NL., < ''Asterias'', 1, + -''idea''.]   A superfamily group of starfishes.\n{{smaller block|(''a'') More or less nearly the same as an order ''Asteroidea'', distinguishing the starfishes collectively from other echinoderms. (''b'') More or less nearly the same as a class ''Asteroidea'' or ''Stellerida'', distinguishing the starfishes and sand-stars (ophiurians) together from other echinoderms.}}\n\n'''asteridian''' (as-tẹ-rid′i-a̤n), ''n.'' and ''a.''   [< ''asterid'' + -''ian''.]   '''I.''' ''n.'' Same as ''asterid''.\n\n'''II.''' ''a.'' Of or pertaining to the ''Asteriidæ''.\n{{smaller block|The ''asteridian'' affinities of the class [''Brachiopoda''] have been hinted at by King.\n{{right|''Encyc. Brit.'', IV. 188.}}}}\n\n'''asteriid''' (as-tē′ri-id), ''n.'' A starfish of the family ''Asteriidæ.''\n\n'''Asteriidæ''' (as-tẹ-rī′i-dē), ''n. pl.''   [NL., < ''Asterias'', 1, + ''-idæ''.]   A family of echinoderms, of {{img float|file=century v01 p0380 c1f1.png|width=195px|align=right|cap={{smaller|Cross-section of ray of ''Asterias aurantiacus.''}}<br />{{smaller|''a, a,'' ambulacral or vertebral ossicles; ''b,'' adambulacral; ''c, c,'' marginal ossicles; ''d,'' paxillæ upon antambulacral surface.}}}} the order ''Asteroidea'', the starfishes, class ''Asteroidea'' or ''Stellerida'', represented by such genera as ''Asterias'' or ''Astropecten'' and ''Luidia'', having four rows of pedicellate feet in each ray. Also ''Asteridæ'', and, less correctly, ''Asteriadæ.''\n\n'''Asterina''' (as-tẹ-rī′nä), ''n.''   [NL., < Gr. ἀστήρ, a star, + ''-ina''.]   The typical genus of starfishes of the family ''Asterinidæ''. ''A. gibbosa'' is the gibbous starlet.\n{{smaller block|''Asterina'' is a large genus, almost world-wide in its distribution. The skeleton is formed of imbricated or overlapping and notched ossicula. {{right|''Stand. Nat. Hist.'', I. 159.}}}}\n\n'''asterinid''' (as-ter′i-nid), ''n.'' A starlet of the family ''Asterinidæ.''\n\n'''Asterinidæ''' (as-tẹ-rin′i-dē), ''n. pl.''   [NL., < ''Asterina'' + ''-idæ''.]   A family of starfishes, containing the starlets of the genera ''Asterina'', ''Asteriscus'', ''Goniaster'', etc.\n\n'''asterion''' (as-tē′ri-on), ''n.''   [NL., < Gr. ἀστέριος, neut. ἀστέριον, starry, starlike, < ἀστήρ, a star.]   In ''anat.'', the point where the lambdoid, parietomastoid, and occipitomastoid sutures of the skull meet.\n\n'''Asteriscus''' (as-te̤-ris′kus), ''n.''   [NL., < Gr. ἀστερίσκος, a little star: see ''asterisk.'']   '''1.''' A genus of starfishes, of the family ''Asterinidæ'': synonymous with ''Palmipes.'' The species are known as sea-stars.—'''2.''' [''l. c.''] An otolith lodged, in most fishes, in a diverticulum of the vestibule, beneath the ampulla of the posterior canal.\n\n'''asterisk''' (as′te̤-risk), ''n.''   [< LL. ''asteriscus,'' < Gr. ἀστερίσκος, a little star, an asterisk, used in manuscripts to mark passages, dim. of ἀστήρ, a star: see ''aster''<sup>1</sup>.]   '''1.''' The figure of a star (*), used in printing and writing—(''a'') as a reference to a passage or note in the margin; (''b'') to distinguish words or phrases as conjectural, theoretical, unverified, obscure, or as having some other specified character; (''c'') to mark the omission of words or letters; and (''d'') arbitrarily, as a mark of classification.—'''2.''' Something in the shape of or resembling an asterisk.\n{{smaller block|The lanthorn is in the centre of an ''asterisk'' of glades, cut through the wood of all the country round, four or five in a quarter.\n{{right|''Roger North,'' Lord Guilford, I. 258.}}}}\n\n'''3.''' In the ''Gr. Ch.'', a frame consisting of two arches of metal, crossing each other at right\nangles, placed on the paten and over the prepared bread of the eucharist to prevent contact with the covering veil.\n{{smaller block|The ''asterisk'' . . . folds and unfolds for the purpose of being more conveniently put away. Its use is to prevent the veil of the disk from disarranging the order of the portions; its mystical meaning . . . is the star which led the Wise Men to the Infant Saviour.\n{{right|''J. M. Neale'', Eastern Church, i. 350, note.}}}}\n\n[[File:century v01 p0380 c1f2.png|center|134px]]\n{{c|{{smaller|Asterisk.}}}}\n\n'''asterism''' (as′te̤-rizm), ''n.''   [< Gr. ἀστερισμός, a marking with stars, a constellation, < ἀστερίζειν, mark with stars, < ἀστήρ, a star, = E. ''star''.]   '''1.''' A group of stars: formerly equivalent to ''constellation'', but now appropriated to any small cluster of stars, whether a part of a constellation or not.\n{{smaller block|<poem>All set in number and in perfect form,\nEven like the ''Asterisms'' fix’d in heaven.</poem>\n{{right|''Chapman'', Blind Beggar.}}}}\n{{smaller block|Any one who studies the heavens will recognize the fact that the larger constellations have been robbed of their just proportions to form the smaller ''asterisms''.\n{{right|''R. A. Proctor'', Light Science, p. 335.}}}}\n'''2.''' An asterisk, or mark of reference. [Rare.] —'''3.''' Three asterisks placed thus, *<sub>*</sub>*, or thus, <sub>*</sub>*<sub>*</sub>, before a passage, to direct attention to it. —'''4.''' An optical property exhibited by some crystallized minerals which show a star-shaped luminous figure when viewed by reflected light, as the asteriated sapphire, or by transmitted light, as some kinds of phlogopite. {{smaller|In the former case it is due to certain peculiarities of internal structure, in the latter to the inclusion of symmetrically arranged acicular crystals.}}\n\n'''astern''' (a̤-stėrn′), ''prep. phr.'' as ''adv.'' or ''a.''   [< ''a''<sup>3</sup> + ''stern''<sup>2</sup>.]   '''1.''' At or toward the hinder part of a ship: as, to go ''astern''.—'''2.''' Behind, at any indefinite distance: as, the ship was far ''astern'' of us.\n{{smaller block|Captain Terry . . . put off in his boat at sunset for his ship, which was now six or eight miles ''astern''.\n{{right|''R. H. Dana, Jr.'', Before the Mast, p. 36.}}}} '''3.''' In the direction of the stern; backward; back; to the rear: said of a ship: as, the current drove us far ''astern''.{{smaller|—'''To back astern''', to move stern foremost; go astern: said of a ship.—'''To be astern of the reckoning''', to be behind the position given for a vessel by the reckoning.—'''To fall astern.''' See ''fall''.}}\n\n'''asternal''' (a-stėr′nạl), ''a.''   [< Gr. ἀ- priv. + στέρνον, sternum.]   '''1.''' Having no sternum or breast-bone, as a serpent. [Rare.]—'''2.''' Not reaching to or connected with the sternum: as, ''asternal'' ribs, that is, floating ribs, ribs which do not articulate with the breast-bone.\n\n'''Asterodactylidæ''' (as″te-rō-dak-til′i-dē), ''n. pl.''   [NL., < ''Asterodactylus'' + ''-idæ''.]   A family of salient amphibians: synonymous with ''Pipidæ'' (which see). Also ''Asterodactyloidæ'' and ''Astrodactylidæ''.\n\n'''Asterodactylus''' (as″te-rō-dak′ti-lus), ''n.''   [NL., < Gr. ἀστήρ, a star, + δάκτυλος, finger.]   A genus of salient amphibians: synonymous with ''Pipa'' (which see).\n\n'''asteroid''' (as′te-roid), ''a.'' and ''n.''   [< Gr. ἀστεροειδής, star-like, < ἀστήρ, a star, + εἶδος, form.]   '''I.''' ''a.'' '''1.''' Star-like.—'''2.''' Having a flower like that of an aster.\n\n'''II.''' ''n.'' '''1.''' One of the small planets, 280 or more in number, between the orbits of Mars and Jupiter: more accurately called ''planetoids''. See ''planetoid''.—'''2.''' One of the ''Asteroidea''; a starfish, in a wide sense.\n\n'''Asteroida''' (as-tẹ-roi′dä̤), ''n. pl.''   [NL., < Gr. ἀστεροειδής, star-like: see ''asteroid.'']   '''1.''' In Gegenbaur’s system of classification, a class of echinoderms, the sea-stars or starfishes, consisting of the orders ''Asterida, Brisingida, Ophiurida,'' and ''Euryalida.''—'''2.''' Same as ''Alcyonaria.''\n\n'''asteroidal''' (as-tẹ-roi′dal), ''a.''   [< ''asteroid'' (or ''Asteroida'') + ''-al.'']   '''1.''' Resembling a star.—'''2.''' Pertaining to the asteroids.—'''3.''' Pertaining to the starfishes.—'''4.''' Same as ''alcyonarian.''\n\n'''Asteroidea''' (as-tẹ-roi′dẹ̄-ä̤), ''n. pl.''   [NL., < Gr. ἀστεροειδής, star-like: see ''asteroid.'']   '''1.''' An order of echinoderms, the starfishes: so called from their star-like form. {{smaller|They have a more or}}\n{{smaller|less lobed or pentagonal disk; lobes continuous with the}} disk, receiving prolongations of the viscera, and bearing tube-feet with suckers, as locomotory organs; and an aboral madreporic body. The group includes several families, as ''Brisingidæ'', ''Pterasteridæ'', ''Astropectinidæ'', ''As''{{smaller block|''terinidæ'', ''Goniasteridæ'', ''Linckiidæ'', and ''Asteriidæ'', or the starfishes proper as distinguished from the sand-stars and other echinoderms of the class ''Stellerida'' (which see). They have a coriaceous skin, in which are implanted spines or tubercles. The body is expanded into arms, the under surface of which is marked with grooves, radiating from the center, and pierced with rows of holes, whence issue tentacular feet, by means of which the animals move. Most have 5 arms or rays, but some have more, varying from 8 to 30. They have the power of reproducing these arms if they are broken off; and if an entire arm, with a small portion of the body attached to it, is torn off, it forms a new and perfect animal. The mouth is in the inferior center of the rays, is not provided with teeth, and leads by a short gullet into a large stomach, from which a pair of lateral tubes are prolonged into each ray. A distinct intestine and anus may or may not be present. The animals feed chiefly on mollusks.}}\n'''2.''' A class of echinoderms, containing the sand-stars or ophiurians together with the starfishes, and more or less exactly equivalent to ''Stellerida'' (which see).—'''3.''' Same as ''Alcyonaria''.\n\n[[File:century v01 p0380 c2f1.png|center|310px]]\n{{c|{{smaller|Development of Asterid Larvæ.}}}}\n{{smaller block|''A'', echinopædium of the form called bipinnaria, ventral view; ''B'', lateral view; ''C'', the bipinnaria showing rudiment of the starfish. ''a'', mouth; ''b'', esophagus; ''c'', stomach; ''c′'', intestine; ''o'', anus; ''x y'', ventral and dorsal sides of anterior end of body; ''d'', ''d′'', ciliated bands; ''h'', cæcal diverticulum, forming rudiment of the ambulacral system, opening externally at ''g''.}}\n\n'''Asterolepis''' (as-te̤-rol′e-pis), ''n.''   [NL., < Gr. ἀστήρ, a star, + λεπίς, a scale.]   A genus of gigantic primitive fishes, now found only in a fossil state in the Old Red Sandstone. {{smaller|From their remains it would seem that these fishes must sometimes have attained the length of 18 or 20 feet.}} {{img float|file=century v01 p0380 c3f1.png|width=228px|align=right|cap={{smaller|1, hyoid plate of ''Asterolepis'', 1-9th natural size; 2, internal ridge of hyoid plate, 1-4th natural size.}}}}\n\n'''asterophrydid''' (as″te̤-rof′ri-did), ''n.'' One of the ''Asterophrydidæ.''\n\n'''Asterophrydidæ''' (as″te̤-rō-frid′i-dē), ''n. pl.''   [NL., < ''Asterophrys'' + ''-idæ.'']   A family of arciferous salient amphibians with maxillary teeth, dilated sacral diapophyses (the coccyx being connected with one or two condyles or sacral vertebræ), and opisthocœlian vertebræ. It is a small group of toad-like animals.\n\n'''Asterophrys''' (as-te̤-rof′ris), ''n.''   [NL., < Gr. ἀστήρ, a star, + ὀφρύς, eyebrow: see ''brow.'']   A genus of arciferous amphibians of New Guinea, typical of the family ''Asterophrydidæ.''\n\n'''asterophyllite''' (as″te̤-rō-fil′īt), ''n.''   [< NL. ''Asterophyllites.'']   A member of the genus ''Asterophyllites.''\n\n'''Asterophyllites''' (as″te̤-rō-fi-lī′tēz), ''n.''   [NL., < Gr. ἀστήρ, a star, + φύλλον, a leaf, + λίθος, a stone.]   A genus of fossil plants; star-leaf: so called from the stellated disposition of the leaves around the branches. {{smaller|They abound in the coal-measures, and are believed to be the branches of the ''Calamites'' or ''Calamodendron.''}}\n\n'''astert†''', ''v.'' See ''astart.''\n\n'''asthenia''' (as-the-nī′ä̤), ''n.''   [NL., < Gr. ἀσθένεια, weakness, < ἀσθενής, without strength, < ἀ- priv. + σθένος, strength.]   '''1.''' In ''pathol.'', debility; want of strength. Also ''astheny.''—'''2.''' [''cap.''] In ''zoöl.'', a genus of insects.\n\n'''asthenic''' (as-then′ik), ''a.''   [< Gr. ἀσθενικός, weak, < ἀσθενής: see ''asthenia.'']   Of the nature of asthenia; characterized by or suffering from asthenia or debility; weak.\n\n'''asthenology†''' (as-the-nol′ọ̄-ji), ''n.''   [< Gr. ἀσθενής, weak (see ''asthenia''), + -λογία, < λέγειν, speak: see ''-ology.'']   The doctrine of diseases connected with debility.\n\n'''asthenopia''' (as-the-nō′pi-ä̤), ''n.''   [NL., < Gr. ἀσθενής, weak (see ''asthenia''), + ὤψ (ὠπ-), eye.]   Weakness of the eyes. {{smaller|Two forms are especially important: (''a'') ''accommodative asthenopia'', which is the result of the exhaustion of the ciliary muscle, as in hypermetropia; and (''b'') ''muscular asthenopia'', which is the result of some exhaustion of the external muscles of the eye, usually the internal rectus.}}\n\n'''asthenopic''' (as-the-nop′ik), ''a.'' Pertaining to, resembling, or suffering from asthenopia.\n{{smaller block|For reading, the manifest hypermetropia should be corrected, the strength of the glasses being increased as often as ''asthenopic'' symptoms reappear.\n{{right|''Encyc. Brit.'', XVII. 785.}}}}\n\n'''Asthenurus''' (as-the-nū′rus), ''n.''   [NL., < Gr. ἀσθενής, weak (see ''asthenia''), + οὐρά, tail.]   '''1.''' In ''ornith.'', a genus of woodpeckers: synonymous with ''Picumnus. Swainson'', 1827.—'''2.''' In ''ichth.'', a genus of fishes.\n\n'''astheny''' (as′the-ni), ''n.'' Same as ''asthenia'', 1.\n\n'''asthma''' (ast′mä or as′mä), ''n.''   [Early mod. E. also ''astma'', ''asma'', < ME. ''asma'', ''asmy'', < ML. ''asma'', ''asthma'', < Gr. ἆσθμα, asthma, panting, < ἄζειν, also ἀάζειν, αἰάζειν, breathe hard, pant, < ἀῆναι (*''Fαῆναι''), breathe, blow, = Goth. ''waian'' = AS. ''wāwan'' = OHG. ''wājan'', MHG. ''wæjen'', G. ''wehen'' = Skt. √ ''vā'', blow. From the same root, in Gr., come<noinclude><references/></noinclude>"
+}

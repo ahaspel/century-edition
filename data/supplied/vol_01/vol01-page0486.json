@@ -1,0 +1,338 @@
+{
+ "volume": 1,
+ "page_number": 486,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n485.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n485.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 745,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     94,
+     138,
+     2315,
+     176
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     94,
+     176,
+     838,
+     1177
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     94,
+     1177,
+     838,
+     2274
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     94,
+     2274,
+     838,
+     3296
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     838,
+     176,
+     1576,
+     1251
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     917,
+     305,
+     1495,
+     548
+    ]
+   },
+   {
+    "name": "c2f2",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     855,
+     780,
+     1553,
+     985
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     838,
+     1251,
+     1576,
+     1769
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     838,
+     1769,
+     1576,
+     2854
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     838,
+     2854,
+     1576,
+     3296
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1576,
+     176,
+     2315,
+     1273
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1576,
+     1273,
+     2315,
+     1691
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1576,
+     1691,
+     2315,
+     2775
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1592,
+     2162,
+     1815,
+     2401
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1576,
+     2775,
+     2315,
+     3296
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     2099,
+     3044,
+     2315,
+     3285
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|barrier|460|bars-gemel}}",
+   "c1s1": "{{smaller block|lands, determining the relations of the Dutch and the Austrians in the strategic towns of the Low Countries.}}\n\n{{smaller block|='''Syn. 3.''' ''Bar, Barrier, Barricade.'' ''Bar'' is the most general, and takes almost all the many figurative meanings. ''Barrier'' is also full in figurative meaning. ''Barricade'' is confined strictly to obstructions set with the specific intention of stopping passage, as in streets and narrow passes.}}\n{{smaller block|<poem>My spirit beats her mortal ''bars''.</poem>\n{{right|''Tennyson'', Sir Galahad.}}}}\n{{smaller block|<poem>The ''barriers'' which they builded from the soil\nTo keep the foe at bay. {{right|''Bryant'', The Prairies.}}</poem>}}\n{{smaller block|The Milanese threw up ''barricades'' at their leisure, and still the Austrian government remained passive spectators of this defiance of the Imperial authority.\n{{right|''E. Dicey'', Victor Emmanuel, p. 77.}}}}\n\n'''barrier''' (bar′i-ėr), ''v. t.'' [< ''barrier'', ''n.''] To shut in or off with a barrier.\n\n'''barrier-gate''' (bar′i-ėr-gāt), ''n.'' A gate which closes the entrance through a stockade or barrier.\n\n'''barrigudo''' (bar-i-gö′dō), ''n.'' [Sp. Pg., big-bellied, < ''barriga'', belly; of uncertain origin.] The Brazilian name for several monkeys of the genus ''Lagothrix''. {{smaller|They are the largest of South American monkeys, one measuring 53 inches in length, of which the tail constituted 26.}}\n\n'''barring<sup>1</sup>''' (bär′ing), ''n.'' [Verbal n. of ''bar''<sup>1</sup>.] In ''mining'', timber used for supporting the roof or sides of shafts. [Eng.]\n\n'''barring<sup>2</sup>''' (bär′ing), ''ppr.'' as ''prep.'' [Prop. ppr. of ''bar''<sup>1</sup>.] Excepting; leaving out of the account; apart from: as, ''barring'' accidents, I shall be there. [Colloq.]\n\n{{smaller block|Little writing-desks, constructed after the fashion of}}",
+   "c1s2": "{{smaller block|those used by the judges of the land, ''barring'' the French polish.\n{{right|''Dickens.''}}}}\n\n'''barring-out''' (bär′ing-out′), ''n.'' Exclusion from a place by means of locks or bars; specifically, the act of excluding a schoolmaster from school by barricading the doors and windows: a boyish sport indulged in at Christmas in Great Britain, now nearly obsolete, and sometimes practised for mischief in parts of the United States.\n{{smaller block|<poem>Revolts, republics, revolutions, most\nNo graver than a schoolboys’ ''barring-out.''</poem>\n{{right|''Tennyson'', Princess, Conclusion.}}}}\n\n'''barris''' (bar′is), ''n.'' A name given on the Guinea coast to the chimpanzee, and also to the mandrill.\n\n'''barrister''' (bar′is-tėr), ''n.'' [First in the 16th century, written ''barrester, barester'', later ''barraster, barrister'' (NL. ''barrasterius''), < ''barre, bar'' (''bar''<sup>1</sup>, ''n.'') + ''-ster'', the term being appar. assimilated to that of ''sophister'', etc.] A counselor or an advocate learned in the law, admitted to plead at the bar in protection and defense of clients: called in full a ''barrister at law.'' {{smaller|The term is more especially used in England and Ireland, the corresponding term in Scotland being ''advocate'' and in the United States ''counselor at law.'' In England barristers alone are admitted to plead in the superior courts. They must previously have belonged to one of the inns of court, and are divided into ''utter'' or ''outer barristers'', who plead without the bar, and ''queen’s'' (or ''king’s'') ''counsel'' or ''serjeants at law'', who plead within the bar.}}\n{{smaller block|After applying himself to the study of the law Bacon was admitted in his twenty-second year (1582) as an ''Utter Barrister'' of Gray’s Inn.\n{{right|''E. A. Abbott'', Bacon, p. 15.}}}}\n'''Inner barrister.''' {{smaller|Same as ''bencher'', 1.}}\n\n'''bar-roll''' (bär′rōl), ''n.'' A bookbinders’ tool, of circular form, that makes a broad, flat line on",
+   "c1s3": "the sides or backs of books.\n\n'''bar-room''' (bär′röm), ''n.'' A room in a public house, hotel, restaurant, or other place of resort, containing a bar or counter where liquors or other refreshments are served.\n\n'''barrow<sup>1</sup>''' (bar′ō), ''n.'' [Early mod. E. also ''barow'', ''barrough'' (mod. dial. ''bargh'', ''barf'', q. v., also ''berry''<sup>2</sup>); < ME. ''berw'', ''beruȝ'', ''berȝ'', ''bergh'', ''beoruh'' (also, with vowel appar. affected by association with other words, ''borw'', ''borgh'', ''burgh'', etc., whence the mod. form with differentiated meaning ''burrow''<sup>2</sup>, q. v.), < AS. ''beorg'', ''beorh'' = OS. ''berg'' = OFries. ''berg'', ''berch'' = D. ''berg'' = OHG. ''berg'', MHG. ''berc'', G. ''berg'' (> E. ''berg'' in ''iceberg'') = Sw. ''berg'' = Dan. ''bjærg'' = Goth. *''bairgs'' (in deriv. ''bairgahei'', a mountainous district), a hill, mountain, = Icel. ''berg'', ''bjarg'', a rock, precipice, = OIr. ''brigh'', Ir. ''bri'' = W. ''bre'' = Bret. ''bre'', a mountain, hill (cf. W. ''bry'', high), = OBulg. ''brĕgŭ'' = Serv. ''brijeg'' = Bohem. ''breh'' = Pol. ''brzeg'' = Russ. ''beregŭ'', shore, bank; cf. Zend ''berezanh'', a height, ''berezant'', high, = Skt. ''brihant'', strong, mighty, lofty, ppr. of √ ''brih'', ''barh'', be thick, be strong. The orig. notion is that of a height, and there is no connection with AS. ''beorgan'', etc., cover: see ''bury''<sup>1</sup>.] '''1†.''' A hill or mountain: originally applied to hills or mountains of any height, even the greatest, but later restricted to lower elevations. In this sense the word survives only in provincial use or as a part of local names in England.—'''2.''' A mound; a heap. [Prov. Eng.] In particular—'''3.''' A",
+   "c2s1": "mound of earth or stones raised over a grave; a sepulchral mound; a tumulus. {{smaller|Barrows are among the most important monuments of primitive antiquity. They are found in Great Britain and other dis-}}\n[[FIGURE]]\n{{c|{{smaller|Bowl Barrow.}}}}\n{{smaller|tricts of Europe, and in North America and Asia. They are distinguished, according to their peculiarities of form and construction, as ''long, broad, bowl, bell, cone,'' etc., ''barrows.'' In the more ancient barrows the bodies are found lying extended on the ground, with implements and weapons of stone or bone beside them. In barrows of later date the implements are of bronze, and sometimes, though}}\n[[FIGURE]]\n{{c|{{smaller|Long Barrow.}}}}\n{{smaller|rarely, of iron, while the remains are often inclosed in a stone or earthenware cist and doubled up. Where the body was burned the ashes were usually deposited in an urn. Barrow-burial is supposed not to have been abandoned in Great Britain until the eighth century. In England, Wilts and Dorset are the counties in which barrows most abound. Stone barrows in Scotland are called ''cairns.'' The numerous barrows of North America are generally classed along with other ancient earthworks as ''mounds,''}}",
+   "c2s2": "or distinguished as ''burial-mounds.''\n{{smaller block|Whilst the term tumulus is almost exclusively used in speaking of the sepulchral mounds of the ancient Greeks, and the conical mounds formed by the Romans, adjoining their camps and stations, to serve as land-marks and watching-stations, it is used indifferently with the word ''barrow'' to designate the sepulchral mounds of the ancient inhabitants of this and other northern countries.\n{{right|''Audsley'', III. 18.}}}}\n{{smaller block|<poem>A long street climbs to one tall-tower’d mill;\nAnd high in heaven behind it a gray down\nWith Danish ''barrows.''</poem>\n{{right|''Tennyson'', Enoch Arden.}}}}\n'''4.''' A burrow or warren. See ''burrow''<sup>2</sup>, ''berry''<sup>2</sup>.\n{{smaller block|The coney-''barrow'' of Lincoln’s Inn is now covered by smooth lawns.\n{{right|''Blackwood’s Mag.'', XXII. 587.}}}}\n\n'''barrow'''<sup>2</sup> (bar′ō), ''n.'' [< ME. ''barrow'', ''barow'', ''barowe'', ''barewe'', ''barwe'', < AS. *''bearwe'' (a form *''berewe'' is cited but not authenticated), a bar-",
+   "c2s3": "row (cf. D. ''berrie'', MHG. ''bere'', a hand-barrow, MHG. ''rade-ber'', G. ''radberge'', ''radbürge'', dial. ''radeberre'', a wheelbarrow, Icel. ''barar'', mod. ''börur'', pl., a bier, Sw. ''bår'', barrow, bier, Dan. ''baare'', bier, AS. ''bǣr'', E. ''bier''; also L. ''feretrum'', < Gr. φέρετρον, a litter, bier, all from the same ult. source), < ''beran'', bear: see ''bear''<sup>1</sup> and ''bier''.] '''1.''' A frame used by two or more men in carrying a load; formerly, any such frame, as a stretcher or bier; specifically, a flat rectangular frame of bars or boards, with projecting shafts or handles (in England called ''trams'') at both ends, by which it is carried: usually called a ''hand-barrow''.—'''2.''' A similar frame, generally used in the form of a shallow box with either flaring or upright sides, and supported in front formerly by two wheels, now by a single small wheel inserted between the front shafts, and pushed by one man, who supports the end opposite to the wheel by means of the rear shafts: usually called a ''wheelbarrow''.—'''3.''' A frame or box of larger size, resting on an axle between two large wheels, and pushed or pulled by means of shafts at one end; a hand-cart: as, a costermonger’s ''barrow''. [Local Eng. (London) and Scotch.]—'''4.''' A barrowful; the load carried in or on a barrow.\n{{smaller block|Have I lived to be carried in a basket, like a ''barrow'' of butcher’s offal; and to be thrown in the Thames?\n{{right|''Shak.'', M. W. of W., iii. 5.}}}}\n'''5.''' In salt-works, a wicker case in which the salt is put to drain.—'''6.''' The egg-case of a skate or a ray: so called from its resemblance to a hand-barrow.",
+   "c2s4": "¶\n'''barrow<sup>2</sup>''' (bar′ō), ''v. t.'' [< ''barrow''<sup>2</sup>, ''n.''] To wheel or convey in a barrow: as, to ''barrow'' coal in a pit.\n\n'''barrow<sup>3</sup>''' (bar′ō), ''n.'' [< ME. ''barow'', ''barowe'', ''baru'', < AS. ''bearg'', ''bearh'' = Fries. ''baerg'' = D. ''barg'', ''berg'' = OHG. ''barg'', ''barug'', MHG. ''barc'', G. ''barch'' = Icel. ''börgr'', a castrated boar. Not connected, as sometimes suggested, with L. ''verres'', a boar, Skt. ''varâha'', a boar. Cf. ''hog'', of the same orig. sense.] A castrated boar. Also called ''barrow-pig'' or ''barrow-hog''. [Now chiefly prov. Eng.]\n{{smaller block|I say “gentle,” though this ''barrow'' grunt at the word.\n{{right|''Milton'', Colasterion.}}}}",
+   "c3s1": "¶\n'''barrow<sup>4</sup>''' (bar′ō), ''n.'' [< ME. ''berwe'', < AS. ''bearu'', a grove (= Icel. ''börr'', a kind of tree); perhaps orig. a fruit-bearing tree, < ''beran'' = Icel. ''bera'', bear.] A wood or grove: a word surviving only in English local names, as ''Barrow''-in-Furness, ''Barrow''field.\n\n'''barrow<sup>5</sup>''' (bar′ō), ''n.'' [E. dial., also ''barry'', ''barrie''. Origin obscure, perhaps ult. < AS. ''beorgan'', cover, protect.] Same as ''barrow-coat''.\n\n'''barrow-coat''' (bar′ō-kōt), ''n.'' [E. dial., also ''barricoat''; < ''barrow''<sup>5</sup> + ''coat''.] A square or oblong piece of flannel, wrapped round an infant’s body below the arms, the part extending beyond the feet being turned up and pinned. Also called ''barrow'' and ''barry''.\n\n'''barrowman''' (bar′ō-man), ''n.''; pl. ''barrowmen'' (-men). A man employed in wheeling a barrow; specifically, in ''coal-mining'', one who conveys the coal in a wheelbarrow from the point where it is mined to the trolleyway or tramway on which it is carried to the place where it is raised to the surface.\n\n'''barrow-pig''' (bar′ō-pig), ''n.'' Same as ''barrow''<sup>3</sup>.\n{{smaller block|A ''barrow-pig'', that is, one which has been gelded.\n{{right|''Dryden'', Plutarch, II. 397.}}}}\n\n'''barrow-pump''' (bar′ō-pump), ''n.'' A combined suction- and force-pump mounted on a two-wheeled barrow.\n\n'''barrow-tram''' (bar′ō-tram), ''n.'' The tram or shaft of a wheelbarrow; hence, jocularly, a raw-boned fellow.\n{{smaller block|Sit down there, and gather your wind and your senses, ye black ''barrow-tram'' o’ the kirk that ye are. Are ye fou or fasting?\n{{right|''Scott'', Guy Mannering, II. xiii.}}}}",
+   "c3s2": "¶\n'''barrow-truck''' (bar′ō-truk), ''n.'' A two-wheeled hand-truck; especially, such a truck for use in moving baggage or freight.\n\n'''barrowway''' (bar′ō-wā), ''n.'' In ''coal-mining'', an underground road on which coal is transported from the place where it is mined to the tramway. [Eng.]\n\n'''barrulée''' (bar-ö-lā′), ''a.'' In ''her.'', same as ''barruly.''\n\n'''barrulet''' (bar′ö-let), ''n.'' [Also ''barrulette'', dim. of AF. *''barrule'', dim. of OF. ''barre'', a bar: see ''bar''<sup>1</sup>.] In ''her.'', a diminutive of the bar, generally considered as being one fourth of its width. It is never used alone. Also written",
+   "c3s3": "barrelet.'' See ''barruletty.''\n\n'''barruletty''' (bar′ö-let-i), ''a.'' [< ''barrulet.''] In ''her.'', divided into barrulets: said of the heraldic field. See ''barry''<sup>2</sup> and ''barruly.''\n\n'''barruly''' (bar′ö-li), ''a.'' [< AF. ''barrulée'', < *''barrule'', dim. of OF. ''barre'', a bar: see ''bar''<sup>1</sup>.] In ''her.'', divided into bars or barrulets: said of the field when divided into not less than eight parts; if the number is much greater, it is called ''barruletty.'' Also ''barrulée.''\n\n'''barry<sup>1</sup>''' (bar′i), ''n.'' Same as ''barrow-coat.'' [Prov. Eng.]\n\n'''barry<sup>2</sup>''' (bä′ri), ''a.'' [< F. ''barré'', pp. of ''barrer'', bar: see ''bar''<sup>1</sup>, ''v.''] In ''her.'', divided into bars:\n[[FIGURE]]\n{{c|{{smaller|Barry of six.}}}}\nsaid of the heraldic field. {{smaller|The number of divisions is always even and is always mentioned, as ''barry of four pieces, barry of six'', etc.; if there are not less than eight divisions, the words ''barruly'' and ''barruletty'' may be employed. Also ''barred.''—'''Barry bendy''', divided into lozenges by the intersection of lines drawn barwise and bendwise. This is always supposed to be bendy dexter; when bendy sinister, it is written ''barry bendy sinister.'' Also ''bendy barry.''—'''Barry paly''', divided both barwise and palewise, and therefore either checky or billety. See these words.—'''Barry pily''', divided both barwise and diagonally, the division forming piles across the field. It is more properly blazoned as ''of piles barwise'', the number being mentioned.—'''Barry wavy''', divided into waving bands of generally horizontal direction: said of the field. This charge is used to represent water in cases where a ship or the like is to be depicted as afloat.}}\n\n'''Barsac''' (bär′sak), ''n.'' [F.] A general name for the white wines made in Barsac, department of Gironde, France. {{smaller|All the Barsac wines are sweet-}}",
+   "c3s4": "{{smaller block|ish; but they have a certain bitterness, and sometimes a tarry or resinous flavor, which prevents their being luscious.}}\n\n'''barse''' (bärs), ''n.'' [The original form of the word now corrupted to ''bass'' (see ''bass''<sup>1</sup>); < ME. ''barse'', < AS. ''bærs'', ''bears'', perch, = D. ''baars'' = MHG. ''bars'', G. ''barsch'', OHG. (with added formative) ''bersich'', a perch; prob. akin to ''birse'', ''bristle'', q. v. Cf. Sw. and Dan. ''aborre'', perch.] The common perch. [Local Eng. (Westmoreland).]\n\n'''bars-gemel''' (bärz′jem″el), ''n. pl.'' [< ''bars'' + ''gemel'', q. v.] In ''her.'', two bars placed very near together, having more of the field above and below them than between them.\n[[FIGURE]]\n{{c|{{smaller|Bars-gemel.}}}}"
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0486 c2f1.png",
+   "c2f2": "century v01 p0486 c2f2.png",
+   "c3f1": "century v01 p0486 c3f1.png",
+   "c3f2": "century v01 p0486 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     929,
+     317,
+     1483,
+     536
+    ],
+    "caption": [
+     1133,
+     557,
+     1274,
+     580
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     1004,
+     303,
+     1278,
+     486
+    ]
+   },
+   {
+    "box": [
+     867,
+     792,
+     1541,
+     973
+    ],
+    "caption": [
+     1131,
+     983,
+     1275,
+     1005
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     990,
+     780,
+     1291,
+     970
+    ]
+   },
+   {
+    "box": [
+     1604,
+     2174,
+     1803,
+     2389
+    ],
+    "caption": [
+     1638,
+     2399,
+     1770,
+     2422
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1625,
+     2117,
+     1807,
+     2380
+    ]
+   },
+   {
+    "box": [
+     2111,
+     3056,
+     2304,
+     3273
+    ],
+    "caption": [
+     2147,
+     3277,
+     2269,
+     3297
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     2113,
+     3117,
+     2273,
+     3268
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 5,
+    "input_tokens": 7089,
+    "output_tokens": 310,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9618,
+    "output_tokens": 8610,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c2f1": "left",
+   "c2f2": "left",
+   "c3f1": "left",
+   "c3f2": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|barrier|460|bars-gemel}}</noinclude>{{smaller block|lands, determining the relations of the Dutch and the Austrians in the strategic towns of the Low Countries.}}\n\n{{smaller block|='''Syn. 3.''' ''Bar, Barrier, Barricade.'' ''Bar'' is the most general, and takes almost all the many figurative meanings. ''Barrier'' is also full in figurative meaning. ''Barricade'' is confined strictly to obstructions set with the specific intention of stopping passage, as in streets and narrow passes.}}\n{{smaller block|<poem>My spirit beats her mortal ''bars''.</poem>\n{{right|''Tennyson'', Sir Galahad.}}}}\n{{smaller block|<poem>The ''barriers'' which they builded from the soil\nTo keep the foe at bay. {{right|''Bryant'', The Prairies.}}</poem>}}\n{{smaller block|The Milanese threw up ''barricades'' at their leisure, and still the Austrian government remained passive spectators of this defiance of the Imperial authority.\n{{right|''E. Dicey'', Victor Emmanuel, p. 77.}}}}\n\n'''barrier''' (bar′i-ėr), ''v. t.''   [< ''barrier'', ''n.'']   To shut in or off with a barrier.\n\n'''barrier-gate''' (bar′i-ėr-gāt), ''n.'' A gate which closes the entrance through a stockade or barrier.\n\n'''barrigudo''' (bar-i-gö′dō), ''n.''   [Sp. Pg., big-bellied, < ''barriga'', belly; of uncertain origin.]   The Brazilian name for several monkeys of the genus ''Lagothrix''. {{smaller|They are the largest of South American monkeys, one measuring 53 inches in length, of which the tail constituted 26.}}\n\n'''barring<sup>1</sup>''' (bär′ing), ''n.''   [Verbal n. of ''bar''<sup>1</sup>.]   In ''mining'', timber used for supporting the roof or sides of shafts. [Eng.]\n\n'''barring<sup>2</sup>''' (bär′ing), ''ppr.'' as ''prep.''   [Prop. ppr. of ''bar''<sup>1</sup>.]   Excepting; leaving out of the account; apart from: as, ''barring'' accidents, I shall be there. [Colloq.]\n\n{{smaller block|Little writing-desks, constructed after the fashion of those used by the judges of the land, ''barring'' the French polish.\n{{right|''Dickens.''}}}}\n\n'''barring-out''' (bär′ing-out′), ''n.'' Exclusion from a place by means of locks or bars; specifically, the act of excluding a schoolmaster from school by barricading the doors and windows: a boyish sport indulged in at Christmas in Great Britain, now nearly obsolete, and sometimes practised for mischief in parts of the United States.\n{{smaller block|<poem>Revolts, republics, revolutions, most\nNo graver than a schoolboys’ ''barring-out.''</poem>\n{{right|''Tennyson'', Princess, Conclusion.}}}}\n\n'''barris''' (bar′is), ''n.'' A name given on the Guinea coast to the chimpanzee, and also to the mandrill.\n\n'''barrister''' (bar′is-tėr), ''n.''   [First in the 16th century, written ''barrester, barester'', later ''barraster, barrister'' (NL. ''barrasterius''), < ''barre, bar'' (''bar''<sup>1</sup>, ''n.'') + ''-ster'', the term being appar. assimilated to that of ''sophister'', etc.]   A counselor or an advocate learned in the law, admitted to plead at the bar in protection and defense of clients: called in full a ''barrister at law.'' {{smaller|The term is more especially used in England and Ireland, the corresponding term in Scotland being ''advocate'' and in the United States ''counselor at law.'' In England barristers alone are admitted to plead in the superior courts. They must previously have belonged to one of the inns of court, and are divided into ''utter'' or ''outer barristers'', who plead without the bar, and ''queen’s'' (or ''king’s'') ''counsel'' or ''serjeants at law'', who plead within the bar.}}\n{{smaller block|After applying himself to the study of the law Bacon was admitted in his twenty-second year (1582) as an ''Utter Barrister'' of Gray’s Inn.\n{{right|''E. A. Abbott'', Bacon, p. 15.}}}}\n'''Inner barrister.''' {{smaller|Same as ''bencher'', 1.}}\n\n'''bar-roll''' (bär′rōl), ''n.'' A bookbinders’ tool, of circular form, that makes a broad, flat line on the sides or backs of books.\n\n'''bar-room''' (bär′röm), ''n.'' A room in a public house, hotel, restaurant, or other place of resort, containing a bar or counter where liquors or other refreshments are served.\n\n'''barrow<sup>1</sup>''' (bar′ō), ''n.''   [Early mod. E. also ''barow'', ''barrough'' (mod. dial. ''bargh'', ''barf'', q. v., also ''berry''<sup>2</sup>); < ME. ''berw'', ''beruȝ'', ''berȝ'', ''bergh'', ''beoruh'' (also, with vowel appar. affected by association with other words, ''borw'', ''borgh'', ''burgh'', etc., whence the mod. form with differentiated meaning ''burrow''<sup>2</sup>, q. v.), < AS. ''beorg'', ''beorh'' = OS. ''berg'' = OFries. ''berg'', ''berch'' = D. ''berg'' = OHG. ''berg'', MHG. ''berc'', G. ''berg'' (> E. ''berg'' in ''iceberg'') = Sw. ''berg'' = Dan. ''bjærg'' = Goth. *''bairgs'' (in deriv. ''bairgahei'', a mountainous district), a hill, mountain, = Icel. ''berg'', ''bjarg'', a rock, precipice, = OIr. ''brigh'', Ir. ''bri'' = W. ''bre'' = Bret. ''bre'', a mountain, hill (cf. W. ''bry'', high), = OBulg. ''brĕgŭ'' = Serv. ''brijeg'' = Bohem. ''breh'' = Pol. ''brzeg'' = Russ. ''beregŭ'', shore, bank; cf. Zend ''berezanh'', a height, ''berezant'', high, = Skt. ''brihant'', strong, mighty, lofty, ppr. of √ ''brih'', ''barh'', be thick, be strong. The orig. notion is that of a height, and there is no connection with AS. ''beorgan'', etc., cover: see ''bury''<sup>1</sup>.]   '''1†.''' A hill or mountain: originally applied to hills or mountains of any height, even the greatest, but later restricted to lower elevations. In this sense the word survives only in provincial use or as a part of local names in England.—'''2.''' A mound; a heap. [Prov. Eng.] In particular—'''3.''' A mound of earth or stones raised over a grave; a sepulchral mound; a tumulus. {{smaller|Barrows are among the most important monuments of primitive antiquity. They are found in Great Britain and other dis-}} {{img float|file=century v01 p0486 c2f1.png|width=279px|align=left|cap={{smaller|Bowl Barrow.}}}}\n{{smaller|tricts of Europe, and in North America and Asia. They are distinguished, according to their peculiarities of form and construction, as ''long, broad, bowl, bell, cone,'' etc., ''barrows.'' In the more ancient barrows the bodies are found lying extended on the ground, with implements and weapons of stone or bone beside them. In barrows of later date the implements are of bronze, and sometimes, though}}\n{{img float|file=century v01 p0486 c2f2.png|width=337px|align=left|cap={{smaller|Long Barrow.}}}}\n{{smaller|rarely, of iron, while the remains are often inclosed in a stone or earthenware cist and doubled up. Where the body was burned the ashes were usually deposited in an urn. Barrow-burial is supposed not to have been abandoned in Great Britain until the eighth century. In England, Wilts and Dorset are the counties in which barrows most abound. Stone barrows in Scotland are called ''cairns.'' The numerous barrows of North America are generally classed along with other ancient earthworks as ''mounds,''}} or distinguished as ''burial-mounds.''\n{{smaller block|Whilst the term tumulus is almost exclusively used in speaking of the sepulchral mounds of the ancient Greeks, and the conical mounds formed by the Romans, adjoining their camps and stations, to serve as land-marks and watching-stations, it is used indifferently with the word ''barrow'' to designate the sepulchral mounds of the ancient inhabitants of this and other northern countries.\n{{right|''Audsley'', III. 18.}}}}\n{{smaller block|<poem>A long street climbs to one tall-tower’d mill;\nAnd high in heaven behind it a gray down\nWith Danish ''barrows.''</poem>\n{{right|''Tennyson'', Enoch Arden.}}}}\n'''4.''' A burrow or warren. See ''burrow''<sup>2</sup>, ''berry''<sup>2</sup>.\n{{smaller block|The coney-''barrow'' of Lincoln’s Inn is now covered by smooth lawns.\n{{right|''Blackwood’s Mag.'', XXII. 587.}}}}\n\n'''barrow'''<sup>2</sup> (bar′ō), ''n.''   [< ME. ''barrow'', ''barow'', ''barowe'', ''barewe'', ''barwe'', < AS. *''bearwe'' (a form *''berewe'' is cited but not authenticated), a barrow (cf. D. ''berrie'', MHG. ''bere'', a hand-barrow, MHG. ''rade-ber'', G. ''radberge'', ''radbürge'', dial. ''radeberre'', a wheelbarrow, Icel. ''barar'', mod. ''börur'', pl., a bier, Sw. ''bår'', barrow, bier, Dan. ''baare'', bier, AS. ''bǣr'', E. ''bier''; also L. ''feretrum'', < Gr. φέρετρον, a litter, bier, all from the same ult. source), < ''beran'', bear: see ''bear''<sup>1</sup> and ''bier''.]   '''1.''' A frame used by two or more men in carrying a load; formerly, any such frame, as a stretcher or bier; specifically, a flat rectangular frame of bars or boards, with projecting shafts or handles (in England called ''trams'') at both ends, by which it is carried: usually called a ''hand-barrow''.—'''2.''' A similar frame, generally used in the form of a shallow box with either flaring or upright sides, and supported in front formerly by two wheels, now by a single small wheel inserted between the front shafts, and pushed by one man, who supports the end opposite to the wheel by means of the rear shafts: usually called a ''wheelbarrow''.—'''3.''' A frame or box of larger size, resting on an axle between two large wheels, and pushed or pulled by means of shafts at one end; a hand-cart: as, a costermonger’s ''barrow''. [Local Eng. (London) and Scotch.]—'''4.''' A barrowful; the load carried in or on a barrow.\n{{smaller block|Have I lived to be carried in a basket, like a ''barrow'' of butcher’s offal; and to be thrown in the Thames?\n{{right|''Shak.'', M. W. of W., iii. 5.}}}}\n'''5.''' In salt-works, a wicker case in which the salt is put to drain.—'''6.''' The egg-case of a skate or a ray: so called from its resemblance to a hand-barrow.\n\n'''barrow<sup>2</sup>''' (bar′ō), ''v. t.''   [< ''barrow''<sup>2</sup>, ''n.'']   To wheel or convey in a barrow: as, to ''barrow'' coal in a pit.\n\n'''barrow<sup>3</sup>''' (bar′ō), ''n.''   [< ME. ''barow'', ''barowe'', ''baru'', < AS. ''bearg'', ''bearh'' = Fries. ''baerg'' = D. ''barg'', ''berg'' = OHG. ''barg'', ''barug'', MHG. ''barc'', G. ''barch'' = Icel. ''börgr'', a castrated boar. Not connected, as sometimes suggested, with L. ''verres'', a boar, Skt. ''varâha'', a boar. Cf. ''hog'', of the same orig. sense.]   A castrated boar. Also called ''barrow-pig'' or ''barrow-hog''. [Now chiefly prov. Eng.]\n{{smaller block|I say “gentle,” though this ''barrow'' grunt at the word.\n{{right|''Milton'', Colasterion.}}}}\n\n'''barrow<sup>4</sup>''' (bar′ō), ''n.''   [< ME. ''berwe'', < AS. ''bearu'', a grove (= Icel. ''börr'', a kind of tree); perhaps orig. a fruit-bearing tree, < ''beran'' = Icel. ''bera'', bear.]   A wood or grove: a word surviving only in English local names, as ''Barrow''-in-Furness, ''Barrow''field.\n\n'''barrow<sup>5</sup>''' (bar′ō), ''n.''   [E. dial., also ''barry'', ''barrie''. Origin obscure, perhaps ult. < AS. ''beorgan'', cover, protect.]   Same as ''barrow-coat''.\n\n'''barrow-coat''' (bar′ō-kōt), ''n.''   [E. dial., also ''barricoat''; < ''barrow''<sup>5</sup> + ''coat''.]   A square or oblong piece of flannel, wrapped round an infant’s body below the arms, the part extending beyond the feet being turned up and pinned. Also called ''barrow'' and ''barry''.\n\n'''barrowman''' (bar′ō-man), ''n.''; pl. ''barrowmen'' (-men). A man employed in wheeling a barrow; specifically, in ''coal-mining'', one who conveys the coal in a wheelbarrow from the point where it is mined to the trolleyway or tramway on which it is carried to the place where it is raised to the surface.\n\n'''barrow-pig''' (bar′ō-pig), ''n.'' Same as ''barrow''<sup>3</sup>.\n{{smaller block|A ''barrow-pig'', that is, one which has been gelded.\n{{right|''Dryden'', Plutarch, II. 397.}}}}\n\n'''barrow-pump''' (bar′ō-pump), ''n.'' A combined suction- and force-pump mounted on a two-wheeled barrow.\n\n'''barrow-tram''' (bar′ō-tram), ''n.'' The tram or shaft of a wheelbarrow; hence, jocularly, a raw-boned fellow.\n{{smaller block|Sit down there, and gather your wind and your senses, ye black ''barrow-tram'' o’ the kirk that ye are. Are ye fou or fasting?\n{{right|''Scott'', Guy Mannering, II. xiii.}}}}\n\n'''barrow-truck''' (bar′ō-truk), ''n.'' A two-wheeled hand-truck; especially, such a truck for use in moving baggage or freight.\n\n'''barrowway''' (bar′ō-wā), ''n.'' In ''coal-mining'', an underground road on which coal is transported from the place where it is mined to the tramway. [Eng.]\n\n'''barrulée''' (bar-ö-lā′), ''a.'' In ''her.'', same as ''barruly.''\n\n'''barrulet''' (bar′ö-let), ''n.''   [Also ''barrulette'', dim. of AF. *''barrule'', dim. of OF. ''barre'', a bar: see ''bar''<sup>1</sup>.]   In ''her.'', a diminutive of the bar, generally considered as being one fourth of its width. It is never used alone. Also written barrelet.'' See ''barruletty.''\n\n'''barruletty''' (bar′ö-let-i), ''a.''   [< ''barrulet.'']   In ''her.'', divided into barrulets: said of the heraldic field. See ''barry''<sup>2</sup> and ''barruly.''\n\n'''barruly''' (bar′ö-li), ''a.''   [< AF. ''barrulée'', < *''barrule'', dim. of OF. ''barre'', a bar: see ''bar''<sup>1</sup>.]   In ''her.'', divided into bars or barrulets: said of the field when divided into not less than eight parts; if the number is much greater, it is called ''barruletty.'' Also ''barrulée.''\n\n'''barry<sup>1</sup>''' (bar′i), ''n.'' Same as ''barrow-coat.''   [Prov. Eng.]\n\n'''barry<sup>2</sup>''' (bä′ri), ''a.''   [< F. ''barré'', pp. of ''barrer'', bar: see ''bar''<sup>1</sup>, ''v.'']   In ''her.'', divided into bars: {{img float|file=century v01 p0486 c3f1.png|width=108px|align=left|cap={{smaller|Barry of six.}}}} said of the heraldic field. {{smaller|The number of divisions is always even and is always mentioned, as ''barry of four pieces, barry of six'', etc.; if there are not less than eight divisions, the words ''barruly'' and ''barruletty'' may be employed. Also ''barred.''—'''Barry bendy''', divided into lozenges by the intersection of lines drawn barwise and bendwise. This is always supposed to be bendy dexter; when bendy sinister, it is written ''barry bendy sinister.'' Also ''bendy barry.''—'''Barry paly''', divided both barwise and palewise, and therefore either checky or billety. See these words.—'''Barry pily''', divided both barwise and diagonally, the division forming piles across the field. It is more properly blazoned as ''of piles barwise'', the number being mentioned.—'''Barry wavy''', divided into waving bands of generally horizontal direction: said of the field. This charge is used to represent water in cases where a ship or the like is to be depicted as afloat.}}\n\n'''Barsac''' (bär′sak), ''n.''   [F.]   A general name for the white wines made in Barsac, department of Gironde, France. {{smaller|All the Barsac wines are sweetish; but they have a certain bitterness, and sometimes a tarry or resinous flavor, which prevents their being luscious.}}\n\n'''barse''' (bärs), ''n.''   [The original form of the word now corrupted to ''bass'' (see ''bass''<sup>1</sup>); < ME. ''barse'', < AS. ''bærs'', ''bears'', perch, = D. ''baars'' = MHG. ''bars'', G. ''barsch'', OHG. (with added formative) ''bersich'', a perch; prob. akin to ''birse'', ''bristle'', q. v. Cf. Sw. and Dan. ''aborre'', perch.]   The common perch. [Local Eng. (Westmoreland).]\n\n'''bars-gemel''' (bärz′jem″el), ''n. pl.''   [< ''bars'' + ''gemel'', q. v.]   In ''her.'', two bars placed very near together, having more of the field above and below them than between them. {{img float|file=century v01 p0486 c3f2.png|width=104px|align=right|cap={{smaller|Bars-gemel.}}}}<noinclude><references/></noinclude>"
+}

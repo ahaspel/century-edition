@@ -1,0 +1,256 @@
+{
+ "volume": 1,
+ "page_number": 231,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n230.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n230.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 743,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     66,
+     142,
+     2286,
+     356
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     66,
+     356,
+     800,
+     1449
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     66,
+     1449,
+     800,
+     2500
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     66,
+     2500,
+     800,
+     3272
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     800,
+     356,
+     1551,
+     1446
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     800,
+     1446,
+     1551,
+     2503
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     800,
+     2503,
+     1551,
+     3272
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1551,
+     356,
+     2286,
+     1021
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1551,
+     1021,
+     2286,
+     2047
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1565,
+     1032,
+     2042,
+     1480
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1551,
+     2047,
+     2286,
+     2604
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1551,
+     2604,
+     2286,
+     3272
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     2047,
+     2614,
+     2263,
+     3014
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|and|205|Andrea Ferrara}}",
+   "c1s1": "{{smaller block|{{right|''Gray'', Elegy, l. 110.}}}}\n{{smaller block|When many words, phrases, clauses, or sentences are connected, the connective is now generally omitted before all except the last, unless retained for rhetorical effect. The connected elements are sometimes identical, expressing continuous repetition, either definitely, as, to walk two ''and'' two; or indefinitely, as, for ever ''and'' ever, to wait years ''and'' years.}}\n{{smaller block|<poem>To-morrow, ''and'' to-morrow, ''and'' to-morrow,\nCreeps in this petty pace from day to day,\nTo the last syllable of recorded time.</poem>\n{{right|''Shak.'', Macbeth, v. 5.}}}}\n{{smaller block|The repetition often implies a difference of quality under the same name: as, there are deacons ''and'' deacons (that is, according to the proverb, “There’s odds in deacons”); there are novels ''and'' novels (that is, all sorts of novels). To make the connection distinctly inclusive, the term ''both'' precedes the first member: as, ''both'' in England ''and'' in France. For this, by a Latinism, ''and . . . and'' has been sometimes used in poetry (Latin and French ''et . . . et'').}}\n{{smaller block|<poem>Thrones ''and'' civil ''and'' divine.</poem>\n{{right|''Sylvester'', tr. of Du Bartas.}}}}\n'''2.''' Introductive: in continuation of a previous sentence expressed, implied, or understood.\n{{smaller block|''And'' the Lord spake unto Moses. {{right|Num. i. 1.}}}}\n{{smaller block|''And'' he said unto Moses. {{right|Ex. xxiv. 1.}}}}\n{{smaller block|In this use, especially in continuation of the statement implied by assent to a previous question. The continuation may mark surprise, incredulity, indignation, etc.: as, ''And'' shall I see him again? ''And'' you dare thus address me?}}\n{{smaller block|<poem>''And'' do you now put on your best attire,\n''And'' do you now cull out a holiday,\n''And'' do you now strew flowers in his way,\nThat comes in triumph over Pompey’s blood?</poem>\n{{right|''Shak.'', J. C., i. 1.}}}}\n{{smaller block|Alas! ''and'' did my Saviour bleed? {{right|''Watts.''}}}}\n'''3.''' Adverbial: Also; even. [Rare; in imitation of the Latin ''et'' in like use.]",
+   "c1s2": "{{smaller block|He that hatith me, hatith ''and'' [''also'', Purv.] my fadir.\n{{right|''Wyclif'', John xv. 23 (Oxf. ed.).}}}}\n{{smaller block|Not oonly he brak the saboth, but ''and'' [''but'', Purv.] he seide his fadir God.{{right|''Wyclif'', John v. 18.}}}}\nHence, ''but and'', and also: common in the old ballads.\n{{smaller block|<poem>And they hae chased in gude green-wood\nThe buck ''but and'' the rae.</poem>\n{{right|''Rose the Red, and White Lilly'',}}\n{{right|Child’s Ballads, III. 180.}}}}\n{{smaller block|<poem>She brought to him her beauty and truth,\n''But and'' broad earldoms three.</poem>\n{{right|''Lowell'', Singing Leaves.}}}}\n\n'''B.''' ''Conditional use.'' [In this use not found in AS., but very common in ME.; cf. Icel. ''enda'' and MHG. ''unde'' in similar use: a development of the coördinate use; cf. ''so'', adv. conj., marking continuation, with ''so'', conditional conj., if. This ''and'', though identical with the coördinate, has been looked upon as a different word, and in modern editions is often artificially discriminated by being printed ''an'': see ''an''<sup>2</sup>.] If; supposing that: as, ''and'' you please. [Common in the older literature, but in actual speech now only dialectal.]\n{{smaller block|<poem>For, ''and'' I sholde rekenen every vice\nWhich that she hath, ywis I were to nice.</poem>\n{{right|''Chaucer'', Prol. to Squire’s Tale, l. 15.}}}}\n{{smaller block|Disadvantage ys, that now childern of gramer-scole conneth no more Frensch than can here lift [their left] heele, & that is harm for ham [them] & a [if they] scholle passe the se, & trauayle in strange londes.\n{{right|''Trevisa'', tr. of Higden, Polychron., I. lxix.}}}}\n{{smaller block|<poem>''And'' I suffer this, may I go graze.</poem>\n{{right|''Fletcher'', Woman’s Prize, i. 3.}}}}",
+   "c1s3": "Often with added ''if'' (whence mod. dial. ''an if'', ''nif'', if). Hence, ''but and if'', but if.\n{{smaller block|''But and if'' that servant say.{{right|Luke xii. 45.}}}}\n\n'''and-'''. [< ME. ''and-'', ''ond-'', ''an-'', ''on-'', AS. ''and-'', ''ond-'', often reduced to ''an-'', ''on-'' = OS. ''ant-'' = OFries. ''and-'', ''ond-'', ''an-'', ''on-'' = D. ''ont-'' = OHG. MHG. ''ant-'', ''ent-'', G. ''ant-'', ''ent-'' (''emp-'' before ''f'') = Goth. ''and-'', ''anda-'' = L. ''ante-'' = Gr. ἀντι-, orig. meaning ‘before’ or ‘against,’ being the prep. ''and'' (AS. ''and'' = Goth. ''and'', etc.) as prefix: see ''and'', ''an-''<sup>2</sup>, ''ante-'', ''anti-''.] A prefix in Middle English and Anglo-Saxon, represented in modern English by ''an-'' in ''answer'', ''a-'' in ''along''<sup>1</sup>, and (mixed with original ''on-'') by ''on-'' in ''onset'', etc.\n\n'''andabata, andabate''' (an-dab′ạ-tä̤, an′da-bāt), ''n.''; pl. ''andabatæ'', ''andabates'' (-tē̤, -bāts). [L. ''andabata'' (see def.), appar. a corrupt form for *''anabata'', < Gr. ἀναβάτης, a rider, lit. one who mounts, < ἀναβαίνειν, go up, mount: see ''Anabas'', ''anabasis''.] In ''Rom. antiq.'', a gladiator who fought blindfolded by wearing a helmet without openings for the eyes; hence, in modern application, one who contends or acts as if blindfolded.",
+   "c2s1": "¶\n'''Andalusian''' (an-dạ-lū′zian), ''a.'' and ''n.'' [< ''Andalusia'', Sp. ''Andalucía'', < Sp. ''Andaluz'', an Andalusian, prob. ult. < L. ''Vandalii'', the Vandals: see ''Vandal''.] '''I.''' ''a.'' Belonging or pertaining to Andalusia, a large division of southern Spain, or to its inhabitants.\n\n'''II.''' ''n.'' '''1.''' An inhabitant of Andalusia in Spain.—'''2.''' A variety of fowl of the Spanish type, of medium size.\n\n'''andalusite''' (an-dạ-lū′sīt), ''n.'' [< ''Andalusia'' + ''-ite''<sup>2</sup>.] A mineral of a gray, green, bluish, flesh, or rose-red color, consisting of anhydrous silicate of aluminium, sometimes found crystallized in four-sided rhombic prisms. {{smaller|Its composition is the same as that of cyanite and fibrolite. It was first discovered in Andalusia. Chiastolite (which see), or macle, is an impure variety, showing a peculiar tessellated appearance in the cross-section.}}\n\n'''Andamanese''' (an″dạ-man-ēs′ or -ēz′), ''a.'' and ''n.'' [< ''Andaman'' + ''-ese''.] '''I.''' ''a.'' Pertaining to the Andaman islands, or to their inhabitants.\n\n'''II.''' ''n. sing.'' or ''pl.'' A native or the natives of the Andaman islands, situated in the eastern part of the bay of Bengal. {{smaller|The Andamanese are robust and vigorous, resembling negroes, but of small stature, and are still in a state of savagery.}}\n\n'''andante''' (än-dän′te), ''a.'' and ''n.'' [It., lit. walking, ppr. of ''andare'', walk, go: see ''alley''<sup>1</sup>.] '''I.''' ''a.'' In ''music'', moving with a moderate, even, graceful progression.\n\n'''II.''' ''n.'' A movement or piece composed in andante time: as, the ''andante'' in Beethoven’s fifth symphony.\n\n'''andantino''' (än-dän-tē′nọ), ''a.'' and ''n.'' [It., dim. of ''andante'', q. v.] '''I.''' ''a.'' In ''music'', somewhat slower than andante.",
+   "c2s2": "¶\n'''II.''' ''n.'' Properly, a movement somewhat slower than andante, but more frequently a movement not quite so slow as andante.\n\n'''andarac''' (an′da-rak), ''n.'' Same as ''sandarac.''\n\n'''andaze''' (an′dạ-ze), ''n.'' [Turk. ''andaze, endaze,'' < Ar. ''hindāze,'' an ell.] A Turkish cloth measure equal to 27 (or according to Redhouse 25) inches. ''Morgan,'' U. S. Tariff.\n\n'''Andean''' (an′dē-an), ''a.'' [< ''Andes:'' said to be named from Peruv. ''anti,'' copper, or metal in general.] Pertaining to the Andes, a great system of mountains extending along the Pacific coast of South America, and sometimes regarded as including the highlands of Central America and Mexico.\n\n'''Andersch’s ganglion.''' See ''ganglion.''\n\n'''Anderson battery.''' See ''battery.''\n\n'''andesin, andesine''' (an′dē-zin), ''n.'' [< ''Andes'' + ''-in''<sup>2</sup>.] A triclinic feldspar, intermediate between the soda feldspar albite and the lime feldspar anorthite, and consequently containing both soda and lime. {{smaller|It was originally obtained from the Andes, but has since been found in the Vosges and other localities. See ''feldspar.''}}\n\n'''andesite''' (an′dē-zīt), ''n.'' [< ''Andes'' + ''-ite''<sup>2</sup>.] A volcanic rock of wide-spread occurrence, especially in the Cordilleran region of North America. {{smaller|It consists essentially of a mixture of a triclinic feldspar with either hornblende or augite. Those varieties containing the former are called hornblende andesite, the latter augite andesite. There are also varieties of andesite which contain a considerable percentage of quartz. The line of separation between the basalts and rocks called by many lithologists andesite cannot be sharply drawn. See ''basalt.''}}",
+   "c2s3": "¶\n'''andesitic''' (an-dē-zit′ik), ''a.'' [< ''andesite'' + ''-ic.''] Pertaining to or containing andesite.\n\n'''Andigena''' (an-dij′e-nä̤), ''n.'' [NL., < ''Andes'' + L. ''-genus'', -born: see ''-gen, -genous.''] A genus of toucans, family ''Rhamphastidæ'', embracing several Andean species. ''J. Gould'', 1850.\n\n'''Andine''' (an′din or -dīn), ''a.'' [< NL. ''Andinus'', < ''Andes.''] Of or pertaining to the Andes; Andean.\n{{smaller block|''Andine'' plants are especially those of the high alpine regions of the Andes.}}\n\n'''Andira''' (an-dī′rä), ''n.'' [NL., from native name.] A genus of leguminous trees, of about 20 species, natives of tropical America. {{smaller|They have pinnate leaves, and bear a profusion of showy flowers, followed by fleshy one-seeded pods. The timber is used for building. ''A. inermis'', the angelin- or cabbage-tree of the West Indies, furnishes the worm-bark, which has strong narcotic properties and was formerly used in medicine as a vermifuge.}}\n\n'''andira-guaca''' (an-dē′rä̤-gwä′kä̤), ''n.'' [S. Amer.] The native name in South America of the vampire-bat, ''Vampyrus spectrum''. See ''Phyllostomidæ, Vampyrus.'' Also written ''andira-guacu.''\n\n'''andiron''' (and′ī-ėrn), ''n.'' [Early mod. E. ''andiron, andyron, aundyron, aundyern, andyar'' (also with aspirate ''handern, handiron, handyron,''",
+   "c3s1": "''iron, brondyre'', < AS. ''brand-īsen'', andiron, = D. ''brandijzer'', an andiron, also a branding-iron, lit. ‘brand-iron’; cf. also AS. ''brand-rōd'', andiron, lit. ‘brand-rod’), < OF. ''andier'', ''endier'', later, by inclusion of the art. ''le'', ''l’'', ''landier'', mod. F. ''landier'', dial. ''andier'', ''andain'', ''andi'', in ML. with fluctuating term. ''anderius'', ''anderia'', ''andera'', ''andrea'', ''andeda'', ''andedus'', ''andegula'', ''angedula'', more commonly ''andena'', ''andenus'', the fluctuation showing that the word was of unknown and hence prob. either of Celtic or Teut. origin, perhaps < Teut. *''andja-'', Goth. ''andeis'' = OHG. ''enti'', MHG. G. ''ende'' = AS. ''ende'', E. ''end'', the reason of the name being reflected in the mod. popular adaptation ''end-iron'', q. v. ''End'' is prob. connected in its origin with the conj. ''and'' and the prefix ''and-'', which would thus be brought into remote relation with the first syllable of ''andiron'': see ''and'', ''and-'', ''end''. But ''andiron'' has nothing to do, etymologically, with ''hand'' or ''brand'', or, except very remotely, if at",
+   "c3s2": "[[FIGURE]]\n{{c|{{smaller|Ancient Andirons, from Cobham, Kent, England.}}}}\nall, with ''end''.] One of a pair of metallic stands used to support wood burned on an open hearth. {{smaller|It consists of a horizontal iron bar raised on short legs, with an upright standard in front. Usually the standard is surmounted by a knob or other device, and it is sometimes elaborately ornamented and often sheathed with brass- or silver-work. The standards, before the general adoption of grate-fires, were often made very high; those for kitchen use had brackets for holding the roasting-spit and hooks upon which kettles could be hung, and sometimes flat or bracket-shaped tops for holding dishes; others were artistically forged in wrought-iron, or had the whole upright piece carved in bronze or some other costly material. Seldom used in the singular. Also called ''fire-dog''.}}\n{{smaller block|<poem>Her ''andirons''\n(I had forgot them) were two winking Cupids\nOf silver, each on one foot standing, nicely\nDepending on their brands. ''Shak.'', Cymbeline, ii. 4.</poem>}}\n{{smaller block|The brazen ''andirons'' well brightened, so that the cheerful fire may see its face in them.\n{{right|''Hawthorne'', Old Manse, I. 165.}}}}\n\n'''Andorran''' (an-dor′ran), ''a.'' and ''n.'' [< ''Andorra'' + ''-an''.] '''I.''' ''a.'' Pertaining to Andorra.\n\n'''II.''' ''n.'' A native or an inhabitant of Andorra,",
+   "c3s3": "a small republic, semi-independent since Charlemagne, situated in the eastern Pyrenees, between the French department of Ariège and the Spanish province of Lérida. {{smaller|It is under the joint protection of France and the Bishop of Urgel, in Catalonia, Spain.}}\n\n'''andr-.''' See ''andro-''.\n\n'''andra''' (an′drä̤), ''n.'' [Appar. a native name.] A species of gazel found in northern Africa, ''Gazella ruficollis'' (the ''Antilope ruficollis'' of Smith), related to the common Egyptian species, ''G. dorcas.''\n\n'''andradite''' (an′drạ-dīt), ''n.'' [After the Portuguese mineralogist ''d’Andrada.''] A variety of common garnet containing calcium and iron. See ''garnet''<sup>1</sup>.\n\n'''andranatomy''' (an-dra̤-nat′ọ̄-mi), ''n.'' [< Gr. ἀνήρ (ἀνδρ-), a man, + ἀνατομή, dissection: see",
+   "c3s4": "anatomy.] The dissection of the human body, particularly that of the male; human anatomy; anthropotomy; androtomy. ''Hooper'', Med. Dict., 1811. [Rare.]\n\n¶\n'''Andreæa''' (an-drē-ē′ä), ''n.'' [NL., named after G. R. ''Andreæ'', a German botanist. ''Andreæ'' was orig. gen. of LL. ''Andreas'', Andrew. See ''Andrew''.] A genus of mosses constituting the natural order ''Andreæaceæ'', intermediate between the ''Sphagnaceæ'' and the ''Bryaceæ'', or true mosses. {{smaller|It is distinguished by the longitudinal dehiscence of the capsule into four valves; otherwise it closely resembles the genus ''Grimmia''.}}\n[[FIGURE]]\n{{c|{{smaller|''Andreæa alpestris.''<br>Fructiferous branch and dehiscent capsule with its apophysis (''a''). (From Le Maout and Decaisne’s “Traité général de Botanique.”)}}}}\n\n'''Andrea Ferrara''' (an′drē-ä fe-rä′rä), ''n.'' A sword or sword-blade of a kind greatly es-"
+  },
+  "figure_files": {
+   "c3f1": "century v01 p0231 c3f1.png",
+   "c3f2": "century v01 p0231 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1577,
+     1044,
+     2030,
+     1468
+    ],
+    "caption": [
+     1597,
+     1474,
+     2009,
+     1517
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1597,
+     1136,
+     1837,
+     1453
+    ]
+   },
+   {
+    "box": [
+     2059,
+     2626,
+     2251,
+     3002
+    ],
+    "caption": [
+     2041,
+     3017,
+     2275,
+     3188
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     2049,
+     2624,
+     2259,
+     2966
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 3,
+    "input_tokens": 5415,
+    "output_tokens": 178,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9452,
+    "output_tokens": 9767,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f1": "left",
+   "c3f2": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|and|205|Andrea Ferrara}}</noinclude>{{smaller block|{{right|''Gray'', Elegy, l. 110.}}}}\n{{smaller block|When many words, phrases, clauses, or sentences are connected, the connective is now generally omitted before all except the last, unless retained for rhetorical effect. The connected elements are sometimes identical, expressing continuous repetition, either definitely, as, to walk two ''and'' two; or indefinitely, as, for ever ''and'' ever, to wait years ''and'' years.}}\n{{smaller block|<poem>To-morrow, ''and'' to-morrow, ''and'' to-morrow,\nCreeps in this petty pace from day to day,\nTo the last syllable of recorded time.</poem>\n{{right|''Shak.'', Macbeth, v. 5.}}}}\n{{smaller block|The repetition often implies a difference of quality under the same name: as, there are deacons ''and'' deacons (that is, according to the proverb, “There’s odds in deacons”); there are novels ''and'' novels (that is, all sorts of novels). To make the connection distinctly inclusive, the term ''both'' precedes the first member: as, ''both'' in England ''and'' in France. For this, by a Latinism, ''and . . . and'' has been sometimes used in poetry (Latin and French ''et . . . et'').}}\n{{smaller block|<poem>Thrones ''and'' civil ''and'' divine.</poem>\n{{right|''Sylvester'', tr. of Du Bartas.}}}}\n'''2.''' Introductive: in continuation of a previous sentence expressed, implied, or understood.\n{{smaller block|''And'' the Lord spake unto Moses. {{right|Num. i. 1.}}}}\n{{smaller block|''And'' he said unto Moses. {{right|Ex. xxiv. 1.}}}}\n{{smaller block|In this use, especially in continuation of the statement implied by assent to a previous question. The continuation may mark surprise, incredulity, indignation, etc.: as, ''And'' shall I see him again? ''And'' you dare thus address me?}}\n{{smaller block|<poem>''And'' do you now put on your best attire,\n''And'' do you now cull out a holiday,\n''And'' do you now strew flowers in his way,\nThat comes in triumph over Pompey’s blood?</poem>\n{{right|''Shak.'', J. C., i. 1.}}}}\n{{smaller block|Alas! ''and'' did my Saviour bleed? {{right|''Watts.''}}}}\n'''3.''' Adverbial: Also; even. [Rare; in imitation of the Latin ''et'' in like use.] {{smaller block|He that hatith me, hatith ''and'' [''also'', Purv.] my fadir.\n{{right|''Wyclif'', John xv. 23 (Oxf. ed.).}}}}\n{{smaller block|Not oonly he brak the saboth, but ''and'' [''but'', Purv.] he seide his fadir God.{{right|''Wyclif'', John v. 18.}}}}\nHence, ''but and'', and also: common in the old ballads.\n{{smaller block|<poem>And they hae chased in gude green-wood\nThe buck ''but and'' the rae.</poem>\n{{right|''Rose the Red, and White Lilly'',}}\n{{right|Child’s Ballads, III. 180.}}}}\n{{smaller block|<poem>She brought to him her beauty and truth,\n''But and'' broad earldoms three.</poem>\n{{right|''Lowell'', Singing Leaves.}}}}\n\n'''B.''' ''Conditional use.''   [In this use not found in AS., but very common in ME.; cf. Icel. ''enda'' and MHG. ''unde'' in similar use: a development of the coördinate use; cf. ''so'', adv. conj., marking continuation, with ''so'', conditional conj., if. This ''and'', though identical with the coördinate, has been looked upon as a different word, and in modern editions is often artificially discriminated by being printed ''an'': see ''an''<sup>2</sup>.]   If; supposing that: as, ''and'' you please. [Common in the older literature, but in actual speech now only dialectal.]\n{{smaller block|<poem>For, ''and'' I sholde rekenen every vice\nWhich that she hath, ywis I were to nice.</poem>\n{{right|''Chaucer'', Prol. to Squire’s Tale, l. 15.}}}}\n{{smaller block|Disadvantage ys, that now childern of gramer-scole conneth no more Frensch than can here lift [their left] heele, & that is harm for ham [them] & a [if they] scholle passe the se, & trauayle in strange londes.\n{{right|''Trevisa'', tr. of Higden, Polychron., I. lxix.}}}}\n{{smaller block|<poem>''And'' I suffer this, may I go graze.</poem>\n{{right|''Fletcher'', Woman’s Prize, i. 3.}}}} Often with added ''if'' (whence mod. dial. ''an if'', ''nif'', if). Hence, ''but and if'', but if.\n{{smaller block|''But and if'' that servant say.{{right|Luke xii. 45.}}}}\n\n'''and-'''.   [< ME. ''and-'', ''ond-'', ''an-'', ''on-'', AS. ''and-'', ''ond-'', often reduced to ''an-'', ''on-'' = OS. ''ant-'' = OFries. ''and-'', ''ond-'', ''an-'', ''on-'' = D. ''ont-'' = OHG. MHG. ''ant-'', ''ent-'', G. ''ant-'', ''ent-'' (''emp-'' before ''f'') = Goth. ''and-'', ''anda-'' = L. ''ante-'' = Gr. ἀντι-, orig. meaning ‘before’ or ‘against,’ being the prep. ''and'' (AS. ''and'' = Goth. ''and'', etc.) as prefix: see ''and'', ''an-''<sup>2</sup>, ''ante-'', ''anti-''.]   A prefix in Middle English and Anglo-Saxon, represented in modern English by ''an-'' in ''answer'', ''a-'' in ''along''<sup>1</sup>, and (mixed with original ''on-'') by ''on-'' in ''onset'', etc.\n\n'''andabata, andabate''' (an-dab′ạ-tä̤, an′da-bāt), ''n.''; pl. ''andabatæ'', ''andabates'' (-tē̤, -bāts).   [L. ''andabata'' (see def.), appar. a corrupt form for *''anabata'', < Gr. ἀναβάτης, a rider, lit. one who mounts, < ἀναβαίνειν, go up, mount: see ''Anabas'', ''anabasis''.]   In ''Rom. antiq.'', a gladiator who fought blindfolded by wearing a helmet without openings for the eyes; hence, in modern application, one who contends or acts as if blindfolded.\n\n'''Andalusian''' (an-dạ-lū′zian), ''a.'' and ''n.''   [< ''Andalusia'', Sp. ''Andalucía'', < Sp. ''Andaluz'', an Andalusian, prob. ult. < L. ''Vandalii'', the Vandals: see ''Vandal''.]   '''I.''' ''a.'' Belonging or pertaining to Andalusia, a large division of southern Spain, or to its inhabitants.\n\n'''II.''' ''n.'' '''1.''' An inhabitant of Andalusia in Spain.—'''2.''' A variety of fowl of the Spanish type, of medium size.\n\n'''andalusite''' (an-dạ-lū′sīt), ''n.''   [< ''Andalusia'' + ''-ite''<sup>2</sup>.]   A mineral of a gray, green, bluish, flesh, or rose-red color, consisting of anhydrous silicate of aluminium, sometimes found crystallized in four-sided rhombic prisms. {{smaller|Its composition is the same as that of cyanite and fibrolite. It was first discovered in Andalusia. Chiastolite (which see), or macle, is an impure variety, showing a peculiar tessellated appearance in the cross-section.}}\n\n'''Andamanese''' (an″dạ-man-ēs′ or -ēz′), ''a.'' and ''n.''   [< ''Andaman'' + ''-ese''.]   '''I.''' ''a.'' Pertaining to the Andaman islands, or to their inhabitants.\n\n'''II.''' ''n. sing.'' or ''pl.'' A native or the natives of the Andaman islands, situated in the eastern part of the bay of Bengal. {{smaller|The Andamanese are robust and vigorous, resembling negroes, but of small stature, and are still in a state of savagery.}}\n\n'''andante''' (än-dän′te), ''a.'' and ''n.''   [It., lit. walking, ppr. of ''andare'', walk, go: see ''alley''<sup>1</sup>.]   '''I.''' ''a.'' In ''music'', moving with a moderate, even, graceful progression.\n\n'''II.''' ''n.'' A movement or piece composed in andante time: as, the ''andante'' in Beethoven’s fifth symphony.\n\n'''andantino''' (än-dän-tē′nọ), ''a.'' and ''n.''   [It., dim. of ''andante'', q. v.]   '''I.''' ''a.'' In ''music'', somewhat slower than andante.\n\n'''II.''' ''n.'' Properly, a movement somewhat slower than andante, but more frequently a movement not quite so slow as andante.\n\n'''andarac''' (an′da-rak), ''n.'' Same as ''sandarac.''\n\n'''andaze''' (an′dạ-ze), ''n.''   [Turk. ''andaze, endaze,'' < Ar. ''hindāze,'' an ell.]   A Turkish cloth measure equal to 27 (or according to Redhouse 25) inches.   ''Morgan,'' U. S. Tariff.\n\n'''Andean''' (an′dē-an), ''a.''   [< ''Andes:'' said to be named from Peruv. ''anti,'' copper, or metal in general.]   Pertaining to the Andes, a great system of mountains extending along the Pacific coast of South America, and sometimes regarded as including the highlands of Central America and Mexico.\n\n'''Andersch’s ganglion.''' See ''ganglion.''\n\n'''Anderson battery.''' See ''battery.''\n\n'''andesin, andesine''' (an′dē-zin), ''n.''   [< ''Andes'' + ''-in''<sup>2</sup>.]   A triclinic feldspar, intermediate between the soda feldspar albite and the lime feldspar anorthite, and consequently containing both soda and lime. {{smaller|It was originally obtained from the Andes, but has since been found in the Vosges and other localities. See ''feldspar.''}}\n\n'''andesite''' (an′dē-zīt), ''n.''   [< ''Andes'' + ''-ite''<sup>2</sup>.]   A volcanic rock of wide-spread occurrence, especially in the Cordilleran region of North America. {{smaller|It consists essentially of a mixture of a triclinic feldspar with either hornblende or augite. Those varieties containing the former are called hornblende andesite, the latter augite andesite. There are also varieties of andesite which contain a considerable percentage of quartz. The line of separation between the basalts and rocks called by many lithologists andesite cannot be sharply drawn. See ''basalt.''}}\n\n'''andesitic''' (an-dē-zit′ik), ''a.''   [< ''andesite'' + ''-ic.'']   Pertaining to or containing andesite.\n\n'''Andigena''' (an-dij′e-nä̤), ''n.''   [NL., < ''Andes'' + L. ''-genus'', -born: see ''-gen, -genous.'']   A genus of toucans, family ''Rhamphastidæ'', embracing several Andean species.   ''J. Gould'', 1850.\n\n'''Andine''' (an′din or -dīn), ''a.''   [< NL. ''Andinus'', < ''Andes.'']   Of or pertaining to the Andes; Andean.\n{{smaller block|''Andine'' plants are especially those of the high alpine regions of the Andes.}}\n\n'''Andira''' (an-dī′rä), ''n.''   [NL., from native name.]   A genus of leguminous trees, of about 20 species, natives of tropical America. {{smaller|They have pinnate leaves, and bear a profusion of showy flowers, followed by fleshy one-seeded pods. The timber is used for building. ''A. inermis'', the angelin- or cabbage-tree of the West Indies, furnishes the worm-bark, which has strong narcotic properties and was formerly used in medicine as a vermifuge.}}\n\n'''andira-guaca''' (an-dē′rä̤-gwä′kä̤), ''n.''   [S. Amer.]   The native name in South America of the vampire-bat, ''Vampyrus spectrum''. See ''Phyllostomidæ, Vampyrus.'' Also written ''andira-guacu.''\n\n'''andiron''' (and′ī-ėrn), ''n.''   [Early mod. E. ''andiron, andyron, aundyron, aundyern, andyar'' (also with aspirate ''handern, handiron, handyron, iron, brondyre'', < AS. ''brand-īsen'', andiron, = D. ''brandijzer'', an andiron, also a branding-iron, lit. ‘brand-iron’; cf. also AS. ''brand-rōd'', andiron, lit. ‘brand-rod’), < OF. ''andier'', ''endier'', later, by inclusion of the art. ''le'', ''l’'', ''landier'', mod. F. ''landier'', dial. ''andier'', ''andain'', ''andi'', in ML. with fluctuating term. ''anderius'', ''anderia'', ''andera'', ''andrea'', ''andeda'', ''andedus'', ''andegula'', ''angedula'', more commonly ''andena'', ''andenus'', the fluctuation showing that the word was of unknown and hence prob. either of Celtic or Teut. origin, perhaps < Teut. *''andja-'', Goth. ''andeis'' = OHG. ''enti'', MHG. G. ''ende'' = AS. ''ende'', E. ''end'', the reason of the name being reflected in the mod. popular adaptation ''end-iron'', q. v. ''End'' is prob. connected in its origin with the conj. ''and'' and the prefix ''and-'', which would thus be brought into remote relation with the first syllable of ''andiron'': see ''and'', ''and-'', ''end''. But ''andiron'' has nothing to do, etymologically, with ''hand'' or ''brand'', or, except very remotely, if at {{img float|file=century v01 p0231 c3f1.png|width=231px|align=left|cap={{smaller|Ancient Andirons, from Cobham, Kent, England.}}}} all, with ''end''.]   One of a pair of metallic stands used to support wood burned on an open hearth. {{smaller|It consists of a horizontal iron bar raised on short legs, with an upright standard in front. Usually the standard is surmounted by a knob or other device, and it is sometimes elaborately ornamented and often sheathed with brass- or silver-work. The standards, before the general adoption of grate-fires, were often made very high; those for kitchen use had brackets for holding the roasting-spit and hooks upon which kettles could be hung, and sometimes flat or bracket-shaped tops for holding dishes; others were artistically forged in wrought-iron, or had the whole upright piece carved in bronze or some other costly material. Seldom used in the singular. Also called ''fire-dog''.}}\n{{smaller block|<poem>Her ''andirons''\n(I had forgot them) were two winking Cupids\nOf silver, each on one foot standing, nicely\nDepending on their brands. ''Shak.'', Cymbeline, ii. 4.</poem>}}\n{{smaller block|The brazen ''andirons'' well brightened, so that the cheerful fire may see its face in them.\n{{right|''Hawthorne'', Old Manse, I. 165.}}}}\n\n'''Andorran''' (an-dor′ran), ''a.'' and ''n.''   [< ''Andorra'' + ''-an''.]   '''I.''' ''a.'' Pertaining to Andorra.\n\n'''II.''' ''n.'' A native or an inhabitant of Andorra, a small republic, semi-independent since Charlemagne, situated in the eastern Pyrenees, between the French department of Ariège and the Spanish province of Lérida. {{smaller|It is under the joint protection of France and the Bishop of Urgel, in Catalonia, Spain.}}\n\n'''andr-.''' See ''andro-''.\n\n'''andra''' (an′drä̤), ''n.''   [Appar. a native name.]   A species of gazel found in northern Africa, ''Gazella ruficollis'' (the ''Antilope ruficollis'' of Smith), related to the common Egyptian species, ''G. dorcas.''\n\n'''andradite''' (an′drạ-dīt), ''n.''   [After the Portuguese mineralogist ''d’Andrada.'']   A variety of common garnet containing calcium and iron. See ''garnet''<sup>1</sup>.\n\n'''andranatomy''' (an-dra̤-nat′ọ̄-mi), ''n.''   [< Gr. ἀνήρ (ἀνδρ-), a man, + ἀνατομή, dissection: see anatomy.]   The dissection of the human body, particularly that of the male; human anatomy; anthropotomy; androtomy.   ''Hooper'', Med. Dict., 1811. [Rare.]\n\n'''Andreæa''' (an-drē-ē′ä), ''n.''   [NL., named after G. R. ''Andreæ'', a German botanist. ''Andreæ'' was orig. gen. of LL. ''Andreas'', Andrew. See ''Andrew''.]   A genus of mosses constituting the natural order ''Andreæaceæ'', intermediate between the ''Sphagnaceæ'' and the ''Bryaceæ'', or true mosses. {{smaller|It is distinguished by the longitudinal dehiscence of the capsule into four valves; otherwise it closely resembles the genus ''Grimmia''.}} {{img float|file=century v01 p0231 c3f2.png|width=105px|align=right|cap={{smaller|''Andreæa alpestris.''<br>Fructiferous branch and dehiscent capsule with its apophysis (''a''). (From Le Maout and Decaisne’s “Traité général de Botanique.”)}}}}\n\n'''Andrea Ferrara''' (an′drē-ä fe-rä′rä), ''n.'' A sword or sword-blade of a kind greatly es-<noinclude><references/></noinclude>"
+}

@@ -1,0 +1,298 @@
+{
+ "volume": 1,
+ "page_number": 228,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n227.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n227.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 745,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     82,
+     133,
+     2306,
+     170
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     82,
+     170,
+     819,
+     1237
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     82,
+     1237,
+     819,
+     1890
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     82,
+     1890,
+     819,
+     2967
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     146,
+     2001,
+     735,
+     2420
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     82,
+     2967,
+     819,
+     3281
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     819,
+     170,
+     1572,
+     1260
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     831,
+     793,
+     986,
+     979
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     819,
+     1260,
+     1572,
+     2340
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     819,
+     2340,
+     1572,
+     3281
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     170,
+     2306,
+     1231
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     1231,
+     2306,
+     2243
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1942,
+     1939,
+     2306,
+     2190
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1572,
+     2243,
+     2306,
+     3281
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|anchor|202|anchovy}}",
+   "c1s1": "{{smaller block|Let us ''anchor'' our hopes . . . upon his goodness.\n{{right|''South'', Sermons, VIII. 141.}}}}\n\n{{smaller block|<poem>The water-lily starts and slides\nUpon the level in little puffs of wind,\nTho’ ''anchor’d'' to the bottom.</poem>\n{{right|''Tennyson'', Princess, iv.}}}}\n\n'''II.''' ''intrans.'' '''1.''' To cast anchor; come to anchor; lie or ride at anchor: as, the ship ''anchored'' outside the bar.\n\n{{smaller block|Yon’ tall ''anchoring'' bark. ''Shak.'', Lear, iv. 6.}}\n\n'''2.''' Figuratively, to keep hold or be firmly fixed in any way.\n\n{{smaller block|Gladly we would ''anchor'', but the anchorage is quicksand.\n{{right|''Emerson'', Experience.}}}}\n\n'''anchor<sup>2</sup>†''' (ang′kọr), ''n.'' [The spelling has been changed to make it more like ''anchoret'', and orig. *''anchoreta'' (cf. ''anchor''<sup>1</sup>); prop. ''anker'', in early mod. E. reg. ''anker'', < ME. reg. ''anker'', ''ankre'', ''ancre'', an anchoret or anchoress, monk or nun, < AS. ''ancra'', also, rarely, ''ancer'', ''ancor'' (in comp. ''ancer-'', ''ancor-'', once ''anacor-''), m., an anchoret, also perhaps *''ancre'', f., an anchoress, = OS. ''ēnkoro'' = OHG. ''einchoro'', anchoret, spelled as if from OS. ''ēn'' = OHG. ''ein'', one (cf. ''monk'', ult. < Gr. μόνος, one), but all corruptions of ML. *''anchoreta'', ''anachorita'', LL. ''anachoreta'', whence the later E. forms ''anchoret'' and ''anchorite'', q. v.] An anchoret; a hermit.\n\n{{smaller block|An ''anchor’s'' cheer in prison be my scope!\n{{right|''Shak.'', Hamlet, iii. 2.}}}}\n\n'''anchor<sup>3</sup>†''', ''n.'' Erroneous spelling of ''anker''<sup>3</sup>.\n\n'''anchorable†''' (ang′kọr-a̤-bl), ''a.'' [< ''anchor''<sup>1</sup> + ''-able''.] Fit for anchorage. [Rare.]",
+   "c1s2": "¶\n{{smaller block|The sea everywhere twenty leagues from land ''anchorable.''\n{{right|''Sir T. Herbert'', Travels, p. 40.}}}}\n\n'''Anchoraceracea''' (ang″kọr-ạ-sē-rā′sē-ä), ''n. pl.'' [NL., < ''Anchoracera'' (< L. ''ancora'', improp. ''anchora'', anchor (see ''anchor''<sup>1</sup>, ''n.''), + Gr. κέρας, horn) + ''-acea.''] In Milne-Edwards’s system of classification, a tribe of parasitic entomostracous crustaceans, which anchor or fasten themselves to their host by means of hooked lateral appendages of the head. The name is approximately equivalent to one of the divisions of ''Lernæoidea'' (which see).\n\n'''anchorage'''<sup>1</sup> (ang′kọr-ạ̄j), ''n.'' [< ''anchor''<sup>1</sup> + ''-age''; suggested by F. ''ancrage'', < ''ancre.''] '''1.''' Anchoring-ground; a place where a ship anchors or can anchor; a customary place for anchoring.\n{{smaller block|The fleet returned to its former ''anchorage.''\n{{right|''Southey'', Life of Nelson, II. 102.}}\nEarly in the morning we weighed anchor and steamed up the bay to the man-of-war ''anchorage.''\n{{right|''Lady Brassey'', Voyage of Sunbeam, I. iv.}}}}",
+   "c1s3": "Hence —'''2.''' That to which anything is fastened: as, the ''anchorage'' of the cables of a suspension-bridge.\n[[FIGURE]]\n{{c|{{smaller|Anchorage of a Cable of the East River Bridge, New York. ''A'', suspension-cable; ''B'', anchor-plate.}}}}\n'''3.''' The anchor and all the necessary tackle for anchoring. [Rare.]\n{{smaller block|<poem>The bark, that hath discharg’d her fraught,\nReturns with precious lading to the bay\nFrom whence at first she weigh’d her ''anchorage.''</poem>\n{{right|''Shak.'', Tit. And., i. 2.}}}}\n{{smaller block|If that supposal should fail us, all our ''anchorage'' were loose, and we should but wander in a wild sea. {{right|''Wotton.''}}}}\n'''4.''' A duty imposed on ships for anchoring in a harbor; anchorage-dues.\n{{smaller block|This corporation, otherwise a poor one, holds also the ''anchorage'' in the harbour. {{right|''R. Carew'', Survey of Cornwall.}}}}\n\n'''anchorage<sup>2</sup>''' (ang′kọr-ạ̄j), ''n.'' [< ''anchor<sup>2</sup>'' + ''-age.''] The cell or retreat of an anchoret.\n\n'''Anchorastomacea''' (ang″kor-a-stō-mā′sē-ä), ''n.''",
+   "c1s4": "''pl.'' [NL., < L. ''ancora'', improp. ''anchora'', anchor, + Gr. στόμα, mouth, + ''-acea''.] In Milne-Edwards’s system of classification, a tribe of parasitic entomostracous crustaceans, or fish-lice, representing a division of the ''Lernæoidea'' which contains the ''Chondracanthidæ''. {{smaller|The species of this group, like the other lernæans, fasten on their host by stout hooked appendages like anchors.}}\n\n¶\n'''anchorate''' (ang′kọr-āt), ''a.'' In ''zoöl.'', fixed as if anchored.",
+   "c2s1": "¶\n'''anchor-ball''' (ang′kor-bâl), ''n.'' A pyrotechnical combustible attached to a grapnel for the purpose of setting fire to ships. ''Smyth'', Sailor’s Word-book.\n\n'''anchor-bolt''' (ang′kọr-bōlt), ''n.'' A bolt having the end of its shank bent or splayed, to prevent it from being drawn out.\n\n'''anchor-buoy''' (ang′kọr-boi), ''n.'' A buoy used to mark the position of an anchor when on the bottom.\n\n'''anchor-chock''' (ang′kọr-chok), ''n.'' '''1.''' A piece inserted into a wooden anchor-stock where it has become worn or defective.—'''2.''' A piece of wood or iron on which an anchor rests when it is stowed.\n\n'''anchor-drag''' (ang′kọr-drag), ''n.'' Same as ''drag-sheet''.\n\n'''anchored''' (ang′kọrd), ''p. a.'' [Early mod. E. reg. ''ankered'', ''ankored''; < ''anchor''<sup>1</sup>, ''anker''<sup>1</sup>, + ''-ed''<sup>2</sup>.]\n[[FIGURE]]\n{{c|{{smaller|Anchored Cross.}}}}\n'''1.''' Held by an anchor.—'''2.''' Shaped like an anchor; fluked; forked.\n{{smaller block|Shooting her ''anchored'' tongue,<br>Threatening her venomed teeth.\n{{right|''Dr. H. More'', Song of the Soul, II. ii. 29.}}}}\n'''3.''' In ''her.'', an epithet applied to a cross whose extremities are turned back like the flukes of an anchor. Equivalent forms are ''ancrée'', ''ancred'', ''anchry''.\n\n'''Anchorella''' (ang-kọ-rel′ä), ''n.'' [NL., dim. of L. ''ancora'', improp. ''anchora'', anchor: see ''anchor''<sup>1</sup>.] A genus of fish-lice, small parasitic crustaceans, of the family ''Lernæopodidæ'' and order ''Lernæoidea'': so called from the appendages by which, like other lernæans, the animal fastens itself on",
+   "c2s2": "its host. {{smaller|There are several species, parasitic upon fishes. The genus is sometimes made the type of a family ''Anchorellidæ''.}}\n\n'''Anchorellidæ''' (ang-kọ-rel′i-dē), ''n. pl.'' [NL., < ''Anchorella'' + ''-idæ''.] A family of lernæan crustaceans, or fish-lice, typified by the genus ''Anchorella''. Also spelled ''Anchorelladæ''.\n\n'''anchoress, anchoritess''' (ang′kọr-es, -ī-tes), ''n.'' [Early mod. E. reg. ''ankress, ancress'', < ME. ''ankresse, ankrisse, ankres'': see ''anchor''<sup>2</sup>, ''anker''<sup>2</sup>, and ''-ess''.] A female anchoret.\n{{smaller block|She is no ''anchoress'', she dwells not alone.\n{{right|''Latimer'', 4th Serm. bef. Edw. VI. (1549).}}\nPega, his sister, an ''Anchoritess'', led a solitary life.\n{{right|''Fuller'', Church Hist., ii. 96.}}}}\n\n'''anchoret, anchorite''' (ang′kọ-ret, -rīt), ''n.'' [Early mod. E. ''anchoret, -ete, -it'', usually ''-ite'', also ''anachoret'', etc., < ME. ''ancorite'', < OF. ''anachorete'', mod. F. ''anachorète'', < LL. ''anachorēta'', ML. also ''anachorita'', < Gr. ἀναχωρητής, a recluse, lit. one retired, < ἀναχωρεῖν, retire, < ἀνά, back, + χωρεῖν, withdraw, make room, < χῶρος, room, space. The form ''anchoret'' has taken the place of the earlier ''anchor''<sup>2</sup>, ''anker''<sup>2</sup>, q. v.] A hermit; a recluse; one who retires from society into a desert or solitary place, to avoid the temptations of the world and to devote himself to contemplation and religious exercises. Also ''anachoret''.\n{{smaller block|Macarius, the great Egyptian ''anchoret''.\n{{right|''Abp. Ussher'', Ans. to a Jesuit.}}\nTo an ordinary layman the life of the ''anchorite'' might appear in the highest degree opposed to that of the Teacher who began His mission in a marriage feast.\n{{right|''Lecky'', Europ. Morals, II. 111.}}}}",
+   "c2s3": "¶\n{{smaller block|='''Syn.''' ''Monk, Hermit, Anchoret.'' In the classification of religious ascetics, ''monks'' are those who adopt a secluded habit of life, but dwell more or less in communities; ''hermits'', or ''eremites'', those who withdraw to desert places, but do not deny themselves shelter or occupation; and ''anchorets'', those most excessive in their austerities, who choose the most absolute solitude, and subject themselves to the greatest privations.}}\n\n'''anchoretic''' (ang-ko̤-ret′ik), ''a.'' [< ''anchoret'' + ''-ic'', after ''anachoretical'', q. v.] Pertaining to an anchoret, or to his mode of life. Equivalent forms are ''anchoretical, anchoritic, anchoritical.''\n\n'''anchoretical''' (ang-ko̤-ret′i-kal), ''a.'' [< ''anchoretic.''] Same as ''anchoretic.''\n\n'''anchoretish''' (ang′ko̤-ret-ish), ''a.'' [< ''anchoret'' + ''-ish''<sup>1</sup>.] Of or pertaining to an anchoret, or to his mode of life; anchoretic. Also ''anchoritish.''\n{{smaller block|Sixty years of religious reverie and ''anchoritish'' self-denial.\n{{right|''De Quincey'', Autobiographical Sketches, I. 134.}}}}\n\n'''anchoretism''' (ang′ko̤-ret-izm), ''n.'' [< ''anchoret'' + ''-ism.''] The state of being secluded from the world; the condition of an anchoret. Also written ''anchoritism.''\n\n'''anchor-gate''' (ang′ko̤r-gāt), ''n.'' A kind of heavy gate used in the locks of canals, having for its upper bearing a collar anchored in the adjacent masonry.\n\n'''anchor-hold''' (ang′ko̤r-hōld), ''n.'' '''1.''' The hold of an anchor upon the ground.—'''2.''' Firm hold in a figurative sense; ground of expectation or trust; security.",
+   "c3s1": "¶\n{{smaller block|The one and only assurance and fast ''anchor-hold'' of our souls’ health.\n{{right|''Camden.''}}}}\n\n'''anchor-hoy''' (ang′kor-hoi), ''n.'' A small vessel or lighter fitted with capstans, etc., used for handling and transporting anchors and chains about a harbor. Also called ''chain-boat.''\n\n'''anchor-ice''' (ang′kọr-īs), ''n.'' Ice that is formed on and incrusts the bottom of a lake or river in-shore; ground-ice.\n\n'''anchorite,''' ''n.'' See ''anchoret.''\n\n'''anchoritess,''' ''n.'' [< ''anchorite'' + ''-ess.''] See ''anchoress.''\n\n'''anchoritic, anchoritical,''' etc. See ''anchoretic,'' etc.\n\n'''anchorless''' (ang′kọr-les), ''a.'' [< ''anchor''<sup>1</sup> + ''-less.''] Being without an anchor; hence, drifting; unstable.\n\n{{smaller block|My homeless, ''anchorless,'' unsupported mind.\n{{right|''Charlotte Brontë,'' Villette, vi.}}}}\n\n'''anchor-lift''' (ang′kọr-lift), ''n.'' A gripping device for lifting a pole or pile which has been driven into the mud to serve as an anchor for a dredge-boat.\n\n'''anchor-lining''' (ang′kọr-lī″ning), ''n.'' Sheathing fastened to the sides of a vessel, or to stanchions under the fore-channel, to prevent injury to the vessel by the bill of the anchor when it is fished or hauled up. See ''bill-board.''\n\n'''anchor-oven''' (ang′kọr-uv″n), ''n.'' A coke-oven, so named from a wrought-iron plate called an anchor which is placed at the rear of the oven before it is charged with coal. {{smaller|At the end of the heat the anchor is embedded in coke, and when withdrawn}}",
+   "c3s2": "{{smaller|by means of a winch takes all the coke with it.}}\n\n'''anchor-plate''' (ang′kọr-plāt), ''n.'' '''1.''' A heavy metal plate to which is secured the extremity of a cable of a suspension-bridge. See cut under ''anchorage''.—'''2.''' In ''zoöl.'', one of the calcareous plates to which the anchors or ancoræ are attached, as in members of the genus ''Synapta''. See ''ancora''<sup>1</sup>.\n\n'''anchor-ring''' (ang′kọr-ring), ''n.'' '''1.''' The ring or shackle of an anchor to which the cable is bent.—'''2.''' A geometrical surface generated by the revolution of a circle about an axis lying in its plane, but exterior to it.\n\n'''anchor-rocket''' (ang′kọr-rok″et), ''n.'' A rocket fitted with an anchor-head consisting of two or more flukes. {{smaller|With a line attached to the rocket-stick it is used for life-saving purposes, and may be fired either over a stranded vessel or beyond a bar on which the water is breaking. The best rocket of this class is the German rocket, which has an anchor-head of four palmate flukes placed at right angles to each other.}}\n\n'''anchor-shackle''' (ang′kọr-shak″l), ''n.'' ''Naut.'', the bow or clevis, with two eyes and a screw-bolt, or bolt and key, which is used for securing a cable to the ring of the anchor. Also used for coupling lengths of chain-cable. ''E. H. Knight.''\n[[FIGURE]]\n{{c|{{smaller|Anchor-shackles.}}}}\n\n'''anchor-shot''' (ang′kọr-shot), ''n.'' A projectile made with arms or",
+   "c3s3": "flukes and having a rope or chain attached, designed to be fired from a mortar in order to establish communication between the shore and a vessel or wreck, or between vessels. It is used principally in the life-saving service.\n\n'''anchor-stock''' (ang′kọr-stok), ''n.'' ''Naut.'', a beam of wood or iron placed at the upper end of the shank of an anchor transversely to the plane of the arms. (See cuts under ''anchor.'') {{smaller|Its use is to cause the anchor when let go to lie on the bottom in such a position that the peak or sharp point of the arm will penetrate the ground and take a firm hold.—'''Anchor-stock fashion,''' a peculiar way of planking the outside of a ship with planks that are widest in the middle and taper toward the ends, somewhat like an anchor-stock.—'''Anchor-stock planking.''' See ''planking.''}}\n\n'''anchor-tripper''' (ang′kọr-trip″ėr), ''n.'' A device for tripping or casting loose a ship’s anchor.\n\n'''anchor-watch''' (ang′kọr-woch), ''n.'' ''Naut.'', a subdivision of the watch kept constantly on deck during the time a ship lies at single anchor, to be in readiness to hoist jib- or staysails in order to keep the ship clear of her anchor, or to veer more cable, or to let go a second anchor in case she should drive or part from her first one. Also called ''harbor-watch.''\n\n'''anchor-well''' (ang′kọr-wel), ''n.'' ''Naut.'', a cylindrical recess in the forward end of the overhanging deck of the first monitor-built vessels, in which the anchors were carried to protect them and the chain from the enemy’s shot, as well as to cause the vessels to ride more easily at anchor.\n\n'''anchovy''' (an-chō′vi), ''n.''; pl. ''anchovies'' (-viz). [Formerly also ''anchovie'' and ''anchova'', earlier"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0228 c1f1.png",
+   "c2f1": "century v01 p0228 c2f1.png",
+   "c3f1": "century v01 p0228 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     158,
+     2013,
+     723,
+     2408
+    ],
+    "caption": [
+     152,
+     2422,
+     765,
+     2471
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     192,
+     1997,
+     694,
+     2410
+    ]
+   },
+   {
+    "box": [
+     843,
+     805,
+     974,
+     967
+    ],
+    "caption": [
+     871,
+     968,
+     973,
+     1009
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     865,
+     783,
+     1009,
+     965
+    ]
+   },
+   {
+    "box": [
+     1954,
+     1951,
+     2303,
+     2178
+    ],
+    "caption": [
+     2041,
+     2194,
+     2220,
+     2214
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1962,
+     1894,
+     2300,
+     2191
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 4,
+    "input_tokens": 6609,
+    "output_tokens": 235,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9593,
+    "output_tokens": 9903,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c2f1": "left",
+   "c3f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|anchor|202|anchovy}}</noinclude>{{smaller block|Let us ''anchor'' our hopes . . . upon his goodness.\n{{right|''South'', Sermons, VIII. 141.}}}}\n\n<poem>The water-lily starts and slides\nUpon the level in little puffs of wind,\nTho’ ''anchor’d'' to the bottom.</poem>\n{{smaller block|{{right|''Tennyson'', Princess, iv.}}}}\n\n'''II.''' ''intrans.'' '''1.''' To cast anchor; come to anchor; lie or ride at anchor: as, the ship ''anchored'' outside the bar.\n\n{{smaller block|Yon’ tall ''anchoring'' bark.\n{{right|''Shak.'', Lear, iv. 6.}}}}\n\n'''2.''' Figuratively, to keep hold or be firmly fixed in any way.\n\n{{smaller block|Gladly we would ''anchor'', but the anchorage is quicksand.\n{{right|''Emerson'', Experience.}}}}\n\n'''anchor<sup>2</sup>†''' (ang′kọr), ''n.''   [The spelling has been changed to make it more like ''anchoret'', and orig. *''anchoreta'' (cf. ''anchor''<sup>1</sup>); prop. ''anker'', in early mod. E. reg. ''anker'', < ME. reg. ''anker'', ''ankre'', ''ancre'', an anchoret or anchoress, monk or nun, < AS. ''ancra'', also, rarely, ''ancer'', ''ancor'' (in comp. ''ancer-'', ''ancor-'', once ''anacor-''), m., an anchoret, also perhaps *''ancre'', f., an anchoress, = OS. ''ēnkoro'' = OHG. ''einchoro'', anchoret, spelled as if from OS. ''ēn'' = OHG. ''ein'', one (cf. ''monk'', ult. < Gr. μόνος, one), but all corruptions of ML. *''anchoreta'', ''anachorita'', LL. ''anachoreta'', whence the later E. forms ''anchoret'' and ''anchorite'', q. v.]   An anchoret; a hermit.\n\n{{smaller block|An ''anchor’s'' cheer in prison be my scope!\n{{right|''Shak.'', Hamlet, iii. 2.}}}}\n\n'''anchor<sup>3</sup>†''', ''n.'' Erroneous spelling of ''anker''<sup>3</sup>.\n\n'''anchorable†''' (ang′kọr-a̤-bl), ''a.''   [< ''anchor''<sup>1</sup> + ''-able''.]   Fit for anchorage. [Rare.]\n\n{{smaller block|The sea everywhere twenty leagues from land ''anchorable.''\n{{right|''Sir T. Herbert'', Travels, p. 40.}}}}\n\n'''Anchoraceracea''' (ang″kọr-ạ-sē-rā′sē-ä), ''n. pl.''   [NL., < ''Anchoracera'' (< L. ''ancora'', improp. ''anchora'', anchor (see ''anchor''<sup>1</sup>, ''n.''), + Gr. κέρας, horn) + ''-acea.'']   In Milne-Edwards’s system of classification, a tribe of parasitic entomostracous crustaceans, which anchor or fasten themselves to their host by means of hooked lateral appendages of the head. The name is approximately equivalent to one of the divisions of ''Lernæoidea'' (which see).\n\n'''anchorage'''<sup>1</sup> (ang′kọr-ạ̄j), ''n.''   [< ''anchor''<sup>1</sup> + ''-age''; suggested by F. ''ancrage'', < ''ancre.'']   '''1.''' Anchoring-ground; a place where a ship anchors or can anchor; a customary place for anchoring.\n{{smaller block|The fleet returned to its former ''anchorage.''\n{{right|''Southey'', Life of Nelson, II. 102.}}}}\n{{smaller block|Early in the morning we weighed anchor and steamed up the bay to the man-of-war ''anchorage.''\n{{right|''Lady Brassey'', Voyage of Sunbeam, I. iv.}}}} Hence —'''2.''' That to which anything is fastened: as, the ''anchorage'' of the cables of a suspension-bridge.\n'''3.''' The anchor and all the necessary tackle for anchoring. [Rare.]\n{{smaller block|<poem>The bark, that hath discharg’d her fraught,\nReturns with precious lading to the bay\nFrom whence at first she weigh’d her ''anchorage.''</poem>\n{{right|''Shak.'', Tit. And., i. 2.}}}}\n{{smaller block|If that supposal should fail us, all our ''anchorage'' were loose, and we should but wander in a wild sea. {{right|''Wotton.''}}}}\n'''4.''' A duty imposed on ships for anchoring in a harbor; anchorage-dues.\n{{smaller block|This corporation, otherwise a poor one, holds also the ''anchorage'' in the harbour. {{right|''R. Carew'', Survey of Cornwall.}}}}\n\n[[File:century v01 p0228 c1f1.png|center|285px]]\n{{c|{{smaller|Anchorage of a Cable of the East River Bridge, New York. ''A'', suspension-cable; ''B'', anchor-plate.}}}}\n\n'''anchorage<sup>2</sup>''' (ang′kọr-ạ̄j), ''n.''   [< ''anchor<sup>2</sup>'' + ''-age.'']   The cell or retreat of an anchoret.\n\n'''Anchorastomacea''' (ang″kor-a-stō-mā′sē-ä), ''n. pl.''   [NL., < L. ''ancora'', improp. ''anchora'', anchor, + Gr. στόμα, mouth, + ''-acea''.]   In Milne-Edwards’s system of classification, a tribe of parasitic entomostracous crustaceans, or fish-lice, representing a division of the ''Lernæoidea'' which contains the ''Chondracanthidæ''. {{smaller|The species of this group, like the other lernæans, fasten on their host by stout hooked appendages like anchors.}}\n\n'''anchorate''' (ang′kọr-āt), ''a.'' In ''zoöl.'', fixed as if anchored.\n\n'''anchor-ball''' (ang′kor-bâl), ''n.'' A pyrotechnical combustible attached to a grapnel for the purpose of setting fire to ships.   ''Smyth'', Sailor’s Word-book.\n\n'''anchor-bolt''' (ang′kọr-bōlt), ''n.'' A bolt having the end of its shank bent or splayed, to prevent it from being drawn out.\n\n'''anchor-buoy''' (ang′kọr-boi), ''n.'' A buoy used to mark the position of an anchor when on the bottom.\n\n'''anchor-chock''' (ang′kọr-chok), ''n.'' '''1.''' A piece inserted into a wooden anchor-stock where it has become worn or defective.—'''2.''' A piece of wood or iron on which an anchor rests when it is stowed.\n\n'''anchor-drag''' (ang′kọr-drag), ''n.'' Same as ''drag-sheet''.\n\n'''anchored''' (ang′kọrd), ''p. a.''   [Early mod. E. reg. ''ankered'', ''ankored''; < ''anchor''<sup>1</sup>, ''anker''<sup>1</sup>, + ''-ed''<sup>2</sup>.]   {{img float|file=century v01 p0228 c2f1.png|width=75px|align=left|cap={{smaller|Anchored Cross.}}}} '''1.''' Held by an anchor.—'''2.''' Shaped like an anchor; fluked; forked.\n{{smaller block|Shooting her ''anchored'' tongue,<br>Threatening her venomed teeth.\n{{right|''Dr. H. More'', Song of the Soul, II. ii. 29.}}}}\n'''3.''' In ''her.'', an epithet applied to a cross whose extremities are turned back like the flukes of an anchor. Equivalent forms are ''ancrée'', ''ancred'', ''anchry''.\n\n'''Anchorella''' (ang-kọ-rel′ä), ''n.''   [NL., dim. of L. ''ancora'', improp. ''anchora'', anchor: see ''anchor''<sup>1</sup>.]   A genus of fish-lice, small parasitic crustaceans, of the family ''Lernæopodidæ'' and order ''Lernæoidea'': so called from the appendages by which, like other lernæans, the animal fastens itself on its host. {{smaller|There are several species, parasitic upon fishes. The genus is sometimes made the type of a family ''Anchorellidæ''.}}\n\n'''Anchorellidæ''' (ang-kọ-rel′i-dē), ''n. pl.''   [NL., < ''Anchorella'' + ''-idæ''.]   A family of lernæan crustaceans, or fish-lice, typified by the genus ''Anchorella''. Also spelled ''Anchorelladæ''.\n\n'''anchoress, anchoritess''' (ang′kọr-es, -ī-tes), ''n.''   [Early mod. E. reg. ''ankress, ancress'', < ME. ''ankresse, ankrisse, ankres'': see ''anchor''<sup>2</sup>, ''anker''<sup>2</sup>, and ''-ess''.]   A female anchoret.\n{{smaller block|She is no ''anchoress'', she dwells not alone.\n{{right|''Latimer'', 4th Serm. bef. Edw. VI. (1549).}}}}\n{{smaller block|Pega, his sister, an ''Anchoritess'', led a solitary life.\n{{right|''Fuller'', Church Hist., ii. 96.}}}}\n\n'''anchoret, anchorite''' (ang′kọ-ret, -rīt), ''n.''   [Early mod. E. ''anchoret, -ete, -it'', usually ''-ite'', also ''anachoret'', etc., < ME. ''ancorite'', < OF. ''anachorete'', mod. F. ''anachorète'', < LL. ''anachorēta'', ML. also ''anachorita'', < Gr. ἀναχωρητής, a recluse, lit. one retired, < ἀναχωρεῖν, retire, < ἀνά, back, + χωρεῖν, withdraw, make room, < χῶρος, room, space. The form ''anchoret'' has taken the place of the earlier ''anchor''<sup>2</sup>, ''anker''<sup>2</sup>, q. v.]   A hermit; a recluse; one who retires from society into a desert or solitary place, to avoid the temptations of the world and to devote himself to contemplation and religious exercises. Also ''anachoret''.\n{{smaller block|Macarius, the great Egyptian ''anchoret''.\n{{right|''Abp. Ussher'', Ans. to a Jesuit.}}}}\n{{smaller block|To an ordinary layman the life of the ''anchorite'' might appear in the highest degree opposed to that of the Teacher who began His mission in a marriage feast.\n{{right|''Lecky'', Europ. Morals, II. 111.}}}}\n\n{{smaller block|='''Syn.''' ''Monk, Hermit, Anchoret.'' In the classification of religious ascetics, ''monks'' are those who adopt a secluded habit of life, but dwell more or less in communities; ''hermits'', or ''eremites'', those who withdraw to desert places, but do not deny themselves shelter or occupation; and ''anchorets'', those most excessive in their austerities, who choose the most absolute solitude, and subject themselves to the greatest privations.}}\n\n'''anchoretic''' (ang-ko̤-ret′ik), ''a.''   [< ''anchoret'' + ''-ic'', after ''anachoretical'', q. v.]   Pertaining to an anchoret, or to his mode of life. Equivalent forms are ''anchoretical, anchoritic, anchoritical.''\n\n'''anchoretical''' (ang-ko̤-ret′i-kal), ''a.''   [< ''anchoretic.'']   Same as ''anchoretic.''\n\n'''anchoretish''' (ang′ko̤-ret-ish), ''a.''   [< ''anchoret'' + ''-ish''<sup>1</sup>.]   Of or pertaining to an anchoret, or to his mode of life; anchoretic. Also ''anchoritish.''\n{{smaller block|Sixty years of religious reverie and ''anchoritish'' self-denial.\n{{right|''De Quincey'', Autobiographical Sketches, I. 134.}}}}\n\n'''anchoretism''' (ang′ko̤-ret-izm), ''n.''   [< ''anchoret'' + ''-ism.'']   The state of being secluded from the world; the condition of an anchoret. Also written ''anchoritism.''\n\n'''anchor-gate''' (ang′ko̤r-gāt), ''n.'' A kind of heavy gate used in the locks of canals, having for its upper bearing a collar anchored in the adjacent masonry.\n\n'''anchor-hold''' (ang′ko̤r-hōld), ''n.'' '''1.''' The hold of an anchor upon the ground.—'''2.''' Firm hold in a figurative sense; ground of expectation or trust; security.\n\n{{smaller block|The one and only assurance and fast ''anchor-hold'' of our souls’ health.\n{{right|''Camden.''}}}}\n\n'''anchor-hoy''' (ang′kor-hoi), ''n.'' A small vessel or lighter fitted with capstans, etc., used for handling and transporting anchors and chains about a harbor. Also called ''chain-boat.''\n\n'''anchor-ice''' (ang′kọr-īs), ''n.'' Ice that is formed on and incrusts the bottom of a lake or river in-shore; ground-ice.\n\n'''anchorite,''' ''n.'' See ''anchoret.''\n\n'''anchoritess,''' ''n.''   [< ''anchorite'' + ''-ess.'']   See ''anchoress.''\n\n'''anchoritic, anchoritical,''' etc. See ''anchoretic,'' etc.\n\n'''anchorless''' (ang′kọr-les), ''a.''   [< ''anchor''<sup>1</sup> + ''-less.'']   Being without an anchor; hence, drifting; unstable.\n\n{{smaller block|My homeless, ''anchorless,'' unsupported mind.\n{{right|''Charlotte Brontë,'' Villette, vi.}}}}\n\n'''anchor-lift''' (ang′kọr-lift), ''n.'' A gripping device for lifting a pole or pile which has been driven into the mud to serve as an anchor for a dredge-boat.\n\n'''anchor-lining''' (ang′kọr-lī″ning), ''n.'' Sheathing fastened to the sides of a vessel, or to stanchions under the fore-channel, to prevent injury to the vessel by the bill of the anchor when it is fished or hauled up. See ''bill-board.''\n\n'''anchor-oven''' (ang′kọr-uv″n), ''n.'' A coke-oven, so named from a wrought-iron plate called an anchor which is placed at the rear of the oven before it is charged with coal. {{smaller|At the end of the heat the anchor is embedded in coke, and when withdrawn by means of a winch takes all the coke with it.}}\n\n'''anchor-plate''' (ang′kọr-plāt), ''n.'' '''1.''' A heavy metal plate to which is secured the extremity of a cable of a suspension-bridge. See cut under ''anchorage''.—'''2.''' In ''zoöl.'', one of the calcareous plates to which the anchors or ancoræ are attached, as in members of the genus ''Synapta''. See ''ancora''<sup>1</sup>.\n\n'''anchor-ring''' (ang′kọr-ring), ''n.'' '''1.''' The ring or shackle of an anchor to which the cable is bent.—'''2.''' A geometrical surface generated by the revolution of a circle about an axis lying in its plane, but exterior to it.\n\n'''anchor-rocket''' (ang′kọr-rok″et), ''n.'' A rocket fitted with an anchor-head consisting of two or more flukes. {{smaller|With a line attached to the rocket-stick it is used for life-saving purposes, and may be fired either over a stranded vessel or beyond a bar on which the water is breaking. The best rocket of this class is the German rocket, which has an anchor-head of four palmate flukes placed at right angles to each other.}}\n\n'''anchor-shackle''' (ang′kọr-shak″l), ''n.'' ''Naut.'', the bow or clevis, with two eyes and a screw-bolt, or bolt and key, which is used for securing a cable to the ring of the anchor. Also used for coupling lengths of chain-cable.   ''E. H. Knight.'' {{img float|file=century v01 p0228 c3f1.png|width=176px|align=right|cap={{smaller|Anchor-shackles.}}}}\n\n'''anchor-shot''' (ang′kọr-shot), ''n.'' A projectile made with arms or flukes and having a rope or chain attached, designed to be fired from a mortar in order to establish communication between the shore and a vessel or wreck, or between vessels. It is used principally in the life-saving service.\n\n'''anchor-stock''' (ang′kọr-stok), ''n.'' ''Naut.'', a beam of wood or iron placed at the upper end of the shank of an anchor transversely to the plane of the arms. (See cuts under ''anchor.'') {{smaller|Its use is to cause the anchor when let go to lie on the bottom in such a position that the peak or sharp point of the arm will penetrate the ground and take a firm hold.—'''Anchor-stock fashion,''' a peculiar way of planking the outside of a ship with planks that are widest in the middle and taper toward the ends, somewhat like an anchor-stock.—'''Anchor-stock planking.''' See ''planking.''}}\n\n'''anchor-tripper''' (ang′kọr-trip″ėr), ''n.'' A device for tripping or casting loose a ship’s anchor.\n\n'''anchor-watch''' (ang′kọr-woch), ''n.'' ''Naut.'', a subdivision of the watch kept constantly on deck during the time a ship lies at single anchor, to be in readiness to hoist jib- or staysails in order to keep the ship clear of her anchor, or to veer more cable, or to let go a second anchor in case she should drive or part from her first one. Also called ''harbor-watch.''\n\n'''anchor-well''' (ang′kọr-wel), ''n.'' ''Naut.'', a cylindrical recess in the forward end of the overhanging deck of the first monitor-built vessels, in which the anchors were carried to protect them and the chain from the enemy’s shot, as well as to cause the vessels to ride more easily at anchor.\n\n'''anchovy''' (an-chō′vi), ''n.''; pl. ''anchovies'' (-viz).   [Formerly also ''anchovie'' and ''anchova'', earlier<noinclude><references/></noinclude>"
+}

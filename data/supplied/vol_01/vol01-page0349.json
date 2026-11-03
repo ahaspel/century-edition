@@ -1,0 +1,214 @@
+{
+ "volume": 1,
+ "page_number": 349,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n348.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n348.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": -0.55,
+  "column_width": 739,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     84,
+     137,
+     2287,
+     177
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     84,
+     177,
+     820,
+     1146
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     84,
+     1146,
+     820,
+     2232
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     84,
+     2232,
+     820,
+     3273
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     820,
+     177,
+     1552,
+     1244
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     820,
+     1244,
+     1552,
+     2338
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     820,
+     2338,
+     1552,
+     3273
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1552,
+     177,
+     2287,
+     1268
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1552,
+     1268,
+     2287,
+     1991
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1552,
+     1991,
+     2287,
+     3088
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1642,
+     1991,
+     2190,
+     2736
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1552,
+     3088,
+     2287,
+     3273
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|arson|323|Artemisia}}",
+   "c1s1": "''arco''(''n''-), and corruptly ''arctio''(''n''-), a saddle-bow, < L. ''arcus'', a bow: see ''arc''<sup>1</sup>, ''arch''<sup>1</sup>.] A saddle-bow; sometimes, a saddle.\n\n'''arst†''', ''adv.'' A Middle English form of ''erst.'' ''Chaucer.''\n\n'''arsy-versy†''' (är′se-vėr-si), ''adv.'' [Also ''arse-versy'', ''arsie-versie'', ''arsy-varsy'', a humorous riming compound of E. ''arse'' + L. ''versus'', turned. Cf. ''topsy-turvy'', etc.] In a reverse manner or way; backward; in a preposterous position; upside down; topsy-turvy: as, “the world goes ''arsie-versie''.” ''Benvenuto'', Passengers’ Dialogues.\n{{smaller block|I took the pen first of the lawyer, and turning it ''arsy-versy'', like no instrument for a ploughman, our youngster and the rest of the faction burst into laughter at the simplicity of my fingering.\n{{right|''Middleton'', Father Hubbard’s Tales.}}}}\n\n'''art<sup>1</sup>''' (ärt), ''v.'' [< ME. ''art'', ''ert'', < AS. ''eart'' = ONorth. ''art'', ''arth'': see ''be''.] The second person singular, indicative mood, present tense, of the verb ''be'' (which see).\n\n'''art<sup>2</sup>''' (ärt), ''n.'' [< ME. ''art'', ''arte'', < OF. ''art'', F. ''art'' = Sp. Pg. It. ''arte'', < L. ''ar''(''t''-)''s'', acc. ''artem'', skill, prob. orig. skill in fitting or joining; akin to ''artus'', a joint, ''arma'', arms, ''armus'', shoulder-joint, etc., < √ *''ar'', join: see ''article'', ''arm''<sup>1</sup>, ''arm''<sup>2</sup>.] '''1.''' The combination or modification of things to adapt them to a given end; the employment of given means to effect a purpose.\n{{smaller block|With each gift of nature and of ''art''.\n{{right|''Pope'', Moral Essays, i. 192.}}}}",
+   "c1s2": "{{smaller block|Mr. Mill says, “''Art'' is but the employment of the powers of nature for an end.” Yes; but the employment is the ''art''. That use or employment of the natural elements is precisely the function of the intelligence and the will, which differs from nature, in its proper sense, as the active differs from the passive.\n{{right|''Edinburgh Rev.''}}}}\n'''2.''' Skill; dexterity; an especial facility in performing any operation, intellectual or physical, acquired by experience or study; knack.\n{{smaller block|There is ''art'' in roasting eggs.\n{{right|''Old adage.''}}\nRussell had the ''art'' of writing letters that exploded like bomb-shells in the midst of some controversy.\n{{right|''J. McCarthy'', Hist. Own Times, xx.}}}}\n'''3.''' Artfulness; cunning.\n{{smaller block|<poem>She hath no faults, who hath the ''art'' to hide them.\n{{right|''Webster'', White Devil, v. 2.}}\n''Queen.'' More matter, with less ''art''.\n''Pol.'' Madam, I swear, I use no ''art'' at all.\n{{right|''Shak.'', Hamlet, ii. 2.}}</poem>}}\n'''4.''' A system of rules and traditional methods for facilitating the performance of certain actions; acquaintance with such rules or skill in applying them, as in any manual trade or handicraft, technical profession, or physical accomplishment: as, the ''art'' of building or of engraving; the healing ''art;'' the ''art'' of music or of dancing; the practical or the elegant ''arts:'' in this sense opposed to ''science''.\n{{smaller block|The object of science is knowledge; the objects of ''art'' are works. In ''art'', truth is the means to an end; in science, it is only the end. Hence the practical ''arts'' are not to be classed among the sciences.\n{{right|''Whewell.''}}\n\nTheorists, by an observation of particulars and by generalizing on them, attempt to construct a system of scientific propositions with respect to a certain subject; upon which system a set of rules intended for the guidance of practice may be founded. These rules form an ''art''.}}",
+   "c1s3": "{{smaller block|{{right|''Sir G. C. Lewis'', Authority in Matters of Opinion, iii.}}}}\n\n'''5.''' [It. ''arte''.] An organized body of men practising a given trade, and carrying out an established system of rules and traditions; a guild.\n{{smaller block|The city [Florence] was first divided into ''arts'', in the time of Charles I. . . . These ''arts'' or companies . . . were at first but twelve, but afterwards they were increased to twenty-one, and arrived at such power and authority that in a few years they wholly engrossed the government of the city. . . . Seven of them were called the greater ''arts'', and fourteen the less.\n{{right|''J. Adams'', Works, V. 54.}}\nA portion of the taxes was assigned to the work [building the Duomo, 1331], and the charge of it was committed to the ''Art'' of Wool; that is, to the corporation of the dealers in wool, the richest and most powerful of the ''Arts'' of Florence.\n{{right|''C. E. Norton'', Church-building in Middle Ages, p. 211.}}}}\n\n'''6.''' A branch of learning regarded as an instrument of thought, or as something the knowledge of which is to be acquired in order to be applied or practised: chiefly in the plural, and in such phrases as master of ''arts'', faculty of ''arts'', etc.\n{{smaller block|Formerly in the universities the seven ''liberal arts'' were the Roman trivium, grammar, logic, and rhetoric, and the Pythagorean quadrivium, arithmetic, music, geometry, and astronomy. But by ''art'', in the middle ages, was usually meant logic, that being the principal study in the faculty of arts.}}\n\n'''7.''' Esthetics; the science and theory of beauty in perception and expression.\n{{smaller block|''Art'' is simply the harmonic expression of human emotion.\n{{right|''New Princeton Rev.'', II. 29.}}}}\n\n'''8.''' Artistic or esthetic quality; the exhibition of the power of perceiving the beautiful and of expressing it in artistic forms: as, a picture",
+   "c2s1": "skilfully painted, but devoid of ''art.''—'''9.''' The actual production or construction of objects beautiful in form, color, or sound; the practical application of esthetic principles, as in the departments of production specifically called the ''fine arts'' (which see, below); especially, painting and sculpture.\n{{smaller block|Nothing is better founded than the famous aphorism of rhetoricians, that the perfection of ''art'' consists in concealing ''art.''\n{{right|''Campbell.''}}}}\n\n'''Art and part''', in ''Scots law'', instigation; abetment.\n{{smaller block|By ''art'' is understood the mandate, instigation, or advice that may have been given towards committing the crime; ''part'' expresses the share that one takes to himself in it by the aid or assistance which he gives the criminal in the execution of it.\n{{right|''Erskine.''}}}}\n\n{{smaller|'''Bachelor of Arts.''' See ''bachelor.''—'''Black art''', necromancy; sorcery; the fancied power of performing wonderful feats by preternatural means, especially means derived from the assistance of the powers of evil: opposed to ''white art'' or ''white magic'', that is, innocent magic. [''Black art'' is a kind of translation of Middle Latin ''nigromantia'', magic, a corruption, due to confusion with Latin ''niger'', black (see ''negro''), of ''necromantia'', from the Greek νεκρομαντεία, necromancy. The confusion was assisted by the common practice of painting the devil black.]—'''Decorative art''', that branch of art which has for its primary object merely the pleasure of the eye, especially in decoration which is subservient to architectural features or to form, as in ceramics.—'''Faculty of arts''', the lowest and fundamental faculty of the four in the old universities; the faculty of philosophy, which had charge of students upon their first entrance and until they took the degree of master of arts. When a boy could read, write, and had mastered the elements of Latin grammar, he was considered ready to begin his studies in logic at the university. The instruction in the faculty of arts was sharply separated from the tests preliminary to the conferring of degrees. In the middle ages the subjects of the ordinary lectures were Priscian’s}}",
+   "c2s2": "grammar, the Isagoge of Porphyry, Aristotle’s Organon, and the De Divisione and three books of the Topics of Boëtius, while the extraordinary lectures related to rhetoric, ethics, and a little geometry and astronomy. Frequent disputations constituted the only exercises for the scholars; and the masters disputed in public once a week. The degrees conferred at the recommendation of the faculty of arts were those of bachelor and master. In Paris the degree of licentiate was a distinct one intermediate between the others. The baccalaureate or determinance was not originally a degree. Upon the reform of the universities in the sixteenth century logic gave place to the humanities, and during the present century natural science has had a more considerable place in the instruction.—'''Fine arts,''' those arts which seek expression through beautiful modes; specifically, architecture, sculpture, painting, and engraving.—'''Hermetic art.''' See ''hermetic.''—'''Master of Arts.''' See ''master.''—'''Military art.''' See ''military'', ''a.''—'''Plastic art''' or '''arts,''' sculpture, including all subordinate or related arts by which objects are represented in the round or in relief.—'''Work of art,''' anything in the formation or into the accomplishment of which art in any sense has entered; specifically, a production of any one of the fine arts, but especially of one of the imitative members of the group, as a statue or a painting.\n{{smaller block|<poem>That is best which lieth nearest;\nShape from that thy ''work of art.''</poem>\n{{right|''Longfellow'', Gaspar Becerra.}}}}\n='''Syn. 2.''' Aptitude, readiness, address, tact, adroitness, contrivance.—'''3.''' Shrewdness, subtlety, cunning, artifice, deceit, duplicity.—'''4.''' ''Art, Science.'' The essential difference between an ''art'' and a ''science'' is in aim. “''Science'' and ''art'' may be said to be investigations of truth, but ''science'' inquires for the sake of knowledge, ''art'' for the sake of production.” (''Karslake.'') Hence, they differ somewhat in that with which they are concerned. “An ''art'' directly and immediately concerns itself with a faculty. . . . It fastens upon that, and keeps it ever in its view as it teaches how that may be developed, trained, and guided. A ''science'', on the other hand, regards rather the product of [a] faculty, and, keeping its view directly upon that, proceeds to unfold its nature and proper characteristics.” (''H. N. Day'', Art of Discourse, § 1.) Incidental to this difference is a differ-",
+   "c2s3": "{{smaller block|ence in method, ''science'' being analytic and critical, while ''art'' is synthetic and constructive. In the matter which makes up the body of the two, an ''art'' involves the means of discipline in the use of the knowledge which may have been furnished by a corresponding ''science''. The same branch of knowledge may be regarded as either a ''science'' or an ''art''. It may be viewed theoretically, as seeking, coördinating, arranging, and systematizing knowledge, and by observation, comparison, abstraction, and generalization deducing laws; or as, with more or less reference to such preparatory work, framing rules which are the lessons of experience, and are designed to facilitate work or give it superior excellence. The more complete the scientific basis of an art, the more perfect the art. There is a secondary use of the word ''science'' by which it stands for an art that thus rests upon a science, as in the following:}}\n{{smaller block|The fundamental conception of the occupation of the architect embraces the two ideas of ''science'' and ''art''. Architecture as an ''art'' is the work of the skilled hand; as a ''science'', it is that of the informed and cultivated brain.\n{{right|''Edinburgh Rev.''}}}}\n\n'''art<sup>3</sup>†''', ''v. t.'' [ME. ''arten'', ''erten'', < OF. ''arter'' = Sp. ''artar'' (obs.) = Pg. ''arctar'' = It. ''artare'', < L. ''artare'', ML. often erroneously ''arctare'', compress, contract, draw close, < ''artus'', drawn close, prop. fitted; pp. of *''arere'', √ *''ar'', fit, join: see ''art''<sup>2</sup>, ''article'', ''arm''<sup>2</sup>, etc.] '''1.''' To force; compel; constrain.\n{{smaller block|<poem>Love ''arted'' me to do my observaunce\nTo his estate.</poem>\n{{right|''Court of Love'', l. 46.}}}}\n'''2.''' To induce; incite.\n{{smaller block|What to ''arten'' hire to love he sought.\n{{right|''Chaucer'', Troilus, i. 388.}}}}\n\nAlso written ''arct''.",
+   "c3s1": "¶\n'''-art.''' A suffix, another form of ''-ard'', as in ''braggart.''\n\n'''artaba''' (är′ta-bä), ''n.'' [LL., < Gr. ἀρτάβη.] A measure of capacity which appears to have originated in Egypt, where it had under the Pharaohs a capacity of 36.176 liters. {{smaller|A Persian measure of the same name had, according to Herodotus, about the same capacity. The Romans reduced its volume to 27.132 liters (according to some, to 29.23 or 29.36 liters). The Arabic and modern Persian measures have evidently been doubled, having respectively 66.096 and 65.238 liters.}}\n\n'''Artamia''' (är-tā′mi-ä̤), ''n.'' [NL.] Same as ''Artamus'', 1.\n\n'''Artamidæ''' (är-tam′i-dē), ''n. pl.'' [NL., < ''Artamus'' + ''-idæ.''] A family of oscine passerine birds, the swallow-shrikes or wood-swallows, closely related to the ''Dicruridæ'', and by some combined with that family. {{smaller|The species are chiefly East Indian and Polynesian. Leading forms, besides ''Artamus'', are ''Oriolia'', ''Pseudochelidon'', and ''Analcipus''.}}\n\n'''artamockes†''', ''n.'' The mocking-bird, ''Mimus polyglottus.''\n{{smaller block|''Artamockes'', the linguist, a bird that imitateth and useth the sounds and tones of almost all the birds in the countrie.\n{{right|''Harriott'', Virginia (1588).}}}}\n\n'''Artamus''' (är′tạ-mus), ''n.'' [NL., < Gr. ἄρταμος, a butcher, a cook.] '''1.''' The typical genus of the family ''Artamidæ'', and nearly conterminous therewith. ''Vieillot'', 1816. Also called ''Artamia.'' —'''2.''' A genus of arachnidans. ''Koch'', 1837.\n\n'''arted†''' (är′ted), ''a.'' [< ''art''<sup>2</sup> + ''-ed''<sup>2</sup>.] Skilled.\n{{smaller block|Those that are thoroughly ''arted'' in navigation.\n{{right|''Feltham'', Resolves (ed. 1670), I. xii.}}}}\n{{smaller block|It hath been counted ill for great ones to sing, or play, like an ''arted'' musician.}}",
+   "c3s2": "{{smaller block|{{right|''Feltham'', Resolves (ed. 1670), I. lxxxviii.}}}}\n\n'''artefact''', ''n.'' and ''a.'' See ''artifact.''\n\n'''artefactum''' (är-tẹ-fak′tum), ''n.'' Same as ''artifact.''\n\n'''artelrie†''', ''n.'' A Middle English form of ''artillery. Chaucer.''\n\n'''Artemia''' (är-tē′mi-ä̤), ''n.'' [NL., < Gr. ἀρτημα, that which hangs, as an ear-ring, etc., < ἀρτᾶν, hang upon, fasten to.] A genus of phyllopod or branchiopod entomostracous crustaceans, of the family ''Branchipodidæ.'' {{smaller|The animals are notable as inhabiting saline waters, the other forms of the group being found in fresh water. ''A. salina'', a common British species, is known as the ''brine-shrimp'' or ''brine-worm.''}}\n\n'''Artemis''' (är′tẹ-mis), ''n.'' [L., < Gr. Ἄρτεμις. The origin of the name is undetermined.] '''1.''' In ''Gr. myth.'', one of the great Olympian deities, daughter of Zeus (Jupiter) and Leto (Latona), and twin sister of Apollo. {{smaller|She may be regarded as a feminine form of Apollo. She chastised evil with her keen shafts and with deadly sickness, and also protected mortals from danger and pestilence. Unlike Apollo, she was not connected with poetry or divination, but, like him, she was a deity of light, and to her was attributed}}",
+   "c3s3": "[[FIGURE]]\n{{c|{{smaller|Artemis (Diana) the Huntress.—Louvre Museum.}}}}\n{{smaller|authority over the moon, which belonged more particularly to her kinswomen Hecate and Selene. In art, Artemis is represented as a virgin of noble and severe beauty, tall and majestic, and generally bearing bow and quiver as the huntress or mountain goddess. She was identified by the Romans with their Diana, an original Italian divinity.}} '''2.''' [NL.] In ''zoöl.'': (''a'') A genus of siphonate lamellibranch bivalves, of the family ''Veneridæ'', having the pallial margin sinuous. (''b'') A genus of coleopterous insects. ''Mulsant'', 1851.—'''Ephesian Artemis.''' {{smaller|See ''Diana''.}}",
+   "c3s4": "¶\n'''Artemisia''' (är-tē-miz′i-ä̤), ''n.'' [L., < Gr. ἀρτεμισία, an herb like wormwood; prob. < Ἀρτεμίσιος, pertaining to Ἄρτεμις: see ''Artemis.''] A very large genus of plants, of the natural order ''Compositæ'', abundant in dry regions, and mostly of the northern hemisphere. {{smaller|The genus is allied to}}"
+  },
+  "figure_files": {
+   "c3f1": "century v01 p0349 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1654,
+     2003,
+     2178,
+     2724
+    ],
+    "caption": [
+     1664,
+     2740,
+     2174,
+     2763
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1652,
+     1999,
+     2270,
+     2731
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4182,
+    "output_tokens": 93,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9537,
+    "output_tokens": 9017,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|arson|323|Artemisia}}</noinclude>''arco''(''n''-), and corruptly ''arctio''(''n''-), a saddle-bow, < L. ''arcus'', a bow: see ''arc''<sup>1</sup>, ''arch''<sup>1</sup>.] A saddle-bow; sometimes, a saddle.\n\n'''arst†''', ''adv.'' A Middle English form of ''erst.''   ''Chaucer.''\n\n'''arsy-versy†''' (är′se-vėr-si), ''adv.''   [Also ''arse-versy'', ''arsie-versie'', ''arsy-varsy'', a humorous riming compound of E. ''arse'' + L. ''versus'', turned. Cf. ''topsy-turvy'', etc.]   In a reverse manner or way; backward; in a preposterous position; upside down; topsy-turvy: as, “the world goes ''arsie-versie''.” ''Benvenuto'', Passengers’ Dialogues.\n{{smaller block|I took the pen first of the lawyer, and turning it ''arsy-versy'', like no instrument for a ploughman, our youngster and the rest of the faction burst into laughter at the simplicity of my fingering.\n{{right|''Middleton'', Father Hubbard’s Tales.}}}}\n\n'''art<sup>1</sup>''' (ärt), ''v.''   [< ME. ''art'', ''ert'', < AS. ''eart'' = ONorth. ''art'', ''arth'': see ''be''.]   The second person singular, indicative mood, present tense, of the verb ''be'' (which see).\n\n'''art<sup>2</sup>''' (ärt), ''n.''   [< ME. ''art'', ''arte'', < OF. ''art'', F. ''art'' = Sp. Pg. It. ''arte'', < L. ''ar''(''t''-)''s'', acc. ''artem'', skill, prob. orig. skill in fitting or joining; akin to ''artus'', a joint, ''arma'', arms, ''armus'', shoulder-joint, etc., < √ *''ar'', join: see ''article'', ''arm''<sup>1</sup>, ''arm''<sup>2</sup>.]   '''1.''' The combination or modification of things to adapt them to a given end; the employment of given means to effect a purpose.\n{{smaller block|With each gift of nature and of ''art''.\n{{right|''Pope'', Moral Essays, i. 192.}}}}\n{{smaller block|Mr. Mill says, “''Art'' is but the employment of the powers of nature for an end.” Yes; but the employment is the ''art''. That use or employment of the natural elements is precisely the function of the intelligence and the will, which differs from nature, in its proper sense, as the active differs from the passive.\n{{right|''Edinburgh Rev.''}}}}\n'''2.''' Skill; dexterity; an especial facility in performing any operation, intellectual or physical, acquired by experience or study; knack.\n{{smaller block|There is ''art'' in roasting eggs.\n{{right|''Old adage.''}}}}\n{{smaller block|Russell had the ''art'' of writing letters that exploded like bomb-shells in the midst of some controversy.\n{{right|''J. McCarthy'', Hist. Own Times, xx.}}}}\n'''3.''' Artfulness; cunning.\n{{smaller block|<poem>She hath no faults, who hath the ''art'' to hide them.\n{{right|''Webster'', White Devil, v. 2.}}\n''Queen.'' More matter, with less ''art''.\n''Pol.'' Madam, I swear, I use no ''art'' at all.\n{{right|''Shak.'', Hamlet, ii. 2.}}</poem>}}\n'''4.''' A system of rules and traditional methods for facilitating the performance of certain actions; acquaintance with such rules or skill in applying them, as in any manual trade or handicraft, technical profession, or physical accomplishment: as, the ''art'' of building or of engraving; the healing ''art;'' the ''art'' of music or of dancing; the practical or the elegant ''arts:'' in this sense opposed to ''science''.\n{{smaller block|The object of science is knowledge; the objects of ''art'' are works. In ''art'', truth is the means to an end; in science, it is only the end. Hence the practical ''arts'' are not to be classed among the sciences.\n{{right|''Whewell.''}}}}\n{{smaller block|Theorists, by an observation of particulars and by generalizing on them, attempt to construct a system of scientific propositions with respect to a certain subject; upon which system a set of rules intended for the guidance of practice may be founded. These rules form an ''art''. {{right|''Sir G. C. Lewis'', Authority in Matters of Opinion, iii.}}}}\n\n'''5.''' [It. ''arte''.] An organized body of men practising a given trade, and carrying out an established system of rules and traditions; a guild.\n{{smaller block|The city [Florence] was first divided into ''arts'', in the time of Charles I. . . . These ''arts'' or companies . . . were at first but twelve, but afterwards they were increased to twenty-one, and arrived at such power and authority that in a few years they wholly engrossed the government of the city. . . . Seven of them were called the greater ''arts'', and fourteen the less.\n{{right|''J. Adams'', Works, V. 54.}}}}\n{{smaller block|A portion of the taxes was assigned to the work [building the Duomo, 1331], and the charge of it was committed to the ''Art'' of Wool; that is, to the corporation of the dealers in wool, the richest and most powerful of the ''Arts'' of Florence.\n{{right|''C. E. Norton'', Church-building in Middle Ages, p. 211.}}}}\n\n'''6.''' A branch of learning regarded as an instrument of thought, or as something the knowledge of which is to be acquired in order to be applied or practised: chiefly in the plural, and in such phrases as master of ''arts'', faculty of ''arts'', etc.\n{{smaller block|Formerly in the universities the seven ''liberal arts'' were the Roman trivium, grammar, logic, and rhetoric, and the Pythagorean quadrivium, arithmetic, music, geometry, and astronomy. But by ''art'', in the middle ages, was usually meant logic, that being the principal study in the faculty of arts.}}\n\n'''7.''' Esthetics; the science and theory of beauty in perception and expression.\n{{smaller block|''Art'' is simply the harmonic expression of human emotion.\n{{right|''New Princeton Rev.'', II. 29.}}}}\n\n'''8.''' Artistic or esthetic quality; the exhibition of the power of perceiving the beautiful and of expressing it in artistic forms: as, a picture skilfully painted, but devoid of ''art.''—'''9.''' The actual production or construction of objects beautiful in form, color, or sound; the practical application of esthetic principles, as in the departments of production specifically called the ''fine arts'' (which see, below); especially, painting and sculpture.\n{{smaller block|Nothing is better founded than the famous aphorism of rhetoricians, that the perfection of ''art'' consists in concealing ''art.''\n{{right|''Campbell.''}}}}\n\n'''Art and part''', in ''Scots law'', instigation; abetment.\n{{smaller block|By ''art'' is understood the mandate, instigation, or advice that may have been given towards committing the crime; ''part'' expresses the share that one takes to himself in it by the aid or assistance which he gives the criminal in the execution of it.\n{{right|''Erskine.''}}}}\n\n{{smaller|'''Bachelor of Arts.''' See ''bachelor.''—'''Black art''', necromancy; sorcery; the fancied power of performing wonderful feats by preternatural means, especially means derived from the assistance of the powers of evil: opposed to ''white art'' or ''white magic'', that is, innocent magic. [''Black art'' is a kind of translation of Middle Latin ''nigromantia'', magic, a corruption, due to confusion with Latin ''niger'', black (see ''negro''), of ''necromantia'', from the Greek νεκρομαντεία, necromancy. The confusion was assisted by the common practice of painting the devil black.]—'''Decorative art''', that branch of art which has for its primary object merely the pleasure of the eye, especially in decoration which is subservient to architectural features or to form, as in ceramics.—'''Faculty of arts''', the lowest and fundamental faculty of the four in the old universities; the faculty of philosophy, which had charge of students upon their first entrance and until they took the degree of master of arts. When a boy could read, write, and had mastered the elements of Latin grammar, he was considered ready to begin his studies in logic at the university. The instruction in the faculty of arts was sharply separated from the tests preliminary to the conferring of degrees. In the middle ages the subjects of the ordinary lectures were Priscian’s}} grammar, the Isagoge of Porphyry, Aristotle’s Organon, and the De Divisione and three books of the Topics of Boëtius, while the extraordinary lectures related to rhetoric, ethics, and a little geometry and astronomy. Frequent disputations constituted the only exercises for the scholars; and the masters disputed in public once a week. The degrees conferred at the recommendation of the faculty of arts were those of bachelor and master. In Paris the degree of licentiate was a distinct one intermediate between the others. The baccalaureate or determinance was not originally a degree. Upon the reform of the universities in the sixteenth century logic gave place to the humanities, and during the present century natural science has had a more considerable place in the instruction.—'''Fine arts,''' those arts which seek expression through beautiful modes; specifically, architecture, sculpture, painting, and engraving.—'''Hermetic art.''' See ''hermetic.''—'''Master of Arts.''' See ''master.''—'''Military art.''' See ''military'', ''a.''—'''Plastic art''' or '''arts,''' sculpture, including all subordinate or related arts by which objects are represented in the round or in relief.—'''Work of art,''' anything in the formation or into the accomplishment of which art in any sense has entered; specifically, a production of any one of the fine arts, but especially of one of the imitative members of the group, as a statue or a painting.\n{{smaller block|<poem>That is best which lieth nearest;\nShape from that thy ''work of art.''</poem>\n{{right|''Longfellow'', Gaspar Becerra.}}}}\n='''Syn. 2.''' Aptitude, readiness, address, tact, adroitness, contrivance.—'''3.''' Shrewdness, subtlety, cunning, artifice, deceit, duplicity.—'''4.''' ''Art, Science.'' The essential difference between an ''art'' and a ''science'' is in aim. “''Science'' and ''art'' may be said to be investigations of truth, but ''science'' inquires for the sake of knowledge, ''art'' for the sake of production.” (''Karslake.'') Hence, they differ somewhat in that with which they are concerned. “An ''art'' directly and immediately concerns itself with a faculty. . . . It fastens upon that, and keeps it ever in its view as it teaches how that may be developed, trained, and guided. A ''science'', on the other hand, regards rather the product of [a] faculty, and, keeping its view directly upon that, proceeds to unfold its nature and proper characteristics.” (''H. N. Day'', Art of Discourse, § 1.) Incidental to this difference is a differ{{smaller block|ence in method, ''science'' being analytic and critical, while ''art'' is synthetic and constructive. In the matter which makes up the body of the two, an ''art'' involves the means of discipline in the use of the knowledge which may have been furnished by a corresponding ''science''. The same branch of knowledge may be regarded as either a ''science'' or an ''art''. It may be viewed theoretically, as seeking, coördinating, arranging, and systematizing knowledge, and by observation, comparison, abstraction, and generalization deducing laws; or as, with more or less reference to such preparatory work, framing rules which are the lessons of experience, and are designed to facilitate work or give it superior excellence. The more complete the scientific basis of an art, the more perfect the art. There is a secondary use of the word ''science'' by which it stands for an art that thus rests upon a science, as in the following:}}\n{{smaller block|The fundamental conception of the occupation of the architect embraces the two ideas of ''science'' and ''art''. Architecture as an ''art'' is the work of the skilled hand; as a ''science'', it is that of the informed and cultivated brain.\n{{right|''Edinburgh Rev.''}}}}\n\n'''art<sup>3</sup>†''', ''v. t.''   [ME. ''arten'', ''erten'', < OF. ''arter'' = Sp. ''artar'' (obs.) = Pg. ''arctar'' = It. ''artare'', < L. ''artare'', ML. often erroneously ''arctare'', compress, contract, draw close, < ''artus'', drawn close, prop. fitted; pp. of *''arere'', √ *''ar'', fit, join: see ''art''<sup>2</sup>, ''article'', ''arm''<sup>2</sup>, etc.]   '''1.''' To force; compel; constrain.\n{{smaller block|<poem>Love ''arted'' me to do my observaunce\nTo his estate.</poem>\n{{right|''Court of Love'', l. 46.}}}}\n'''2.''' To induce; incite.\n{{smaller block|What to ''arten'' hire to love he sought.\n{{right|''Chaucer'', Troilus, i. 388.}}}}\n\nAlso written ''arct''.\n\n'''-art.''' A suffix, another form of ''-ard'', as in ''braggart.''\n\n'''artaba''' (är′ta-bä), ''n.''   [LL., < Gr. ἀρτάβη.]   A measure of capacity which appears to have originated in Egypt, where it had under the Pharaohs a capacity of 36.176 liters. {{smaller|A Persian measure of the same name had, according to Herodotus, about the same capacity. The Romans reduced its volume to 27.132 liters (according to some, to 29.23 or 29.36 liters). The Arabic and modern Persian measures have evidently been doubled, having respectively 66.096 and 65.238 liters.}}\n\n'''Artamia''' (är-tā′mi-ä̤), ''n.''   [NL.]   Same as ''Artamus'', 1.\n\n'''Artamidæ''' (är-tam′i-dē), ''n. pl.''   [NL., < ''Artamus'' + ''-idæ.'']   A family of oscine passerine birds, the swallow-shrikes or wood-swallows, closely related to the ''Dicruridæ'', and by some combined with that family. {{smaller|The species are chiefly East Indian and Polynesian. Leading forms, besides ''Artamus'', are ''Oriolia'', ''Pseudochelidon'', and ''Analcipus''.}}\n\n'''artamockes†''', ''n.'' The mocking-bird, ''Mimus polyglottus.''\n{{smaller block|''Artamockes'', the linguist, a bird that imitateth and useth the sounds and tones of almost all the birds in the countrie.\n{{right|''Harriott'', Virginia (1588).}}}}\n\n'''Artamus''' (är′tạ-mus), ''n.''   [NL., < Gr. ἄρταμος, a butcher, a cook.]   '''1.''' The typical genus of the family ''Artamidæ'', and nearly conterminous therewith.   ''Vieillot'', 1816. Also called ''Artamia.'' —'''2.''' A genus of arachnidans.   ''Koch'', 1837.\n\n'''arted†''' (är′ted), ''a.''   [< ''art''<sup>2</sup> + ''-ed''<sup>2</sup>.]   Skilled.\n{{smaller block|Those that are thoroughly ''arted'' in navigation.\n{{right|''Feltham'', Resolves (ed. 1670), I. xii.}}}}\n{{smaller block|It hath been counted ill for great ones to sing, or play, like an ''arted'' musician. {{right|''Feltham'', Resolves (ed. 1670), I. lxxxviii.}}}}\n\n'''artefact''', ''n.'' and ''a.'' See ''artifact.''\n\n'''artefactum''' (är-tẹ-fak′tum), ''n.'' Same as ''artifact.''\n\n'''artelrie†''', ''n.'' A Middle English form of ''artillery. Chaucer.''\n\n'''Artemia''' (är-tē′mi-ä̤), ''n.''   [NL., < Gr. ἀρτημα, that which hangs, as an ear-ring, etc., < ἀρτᾶν, hang upon, fasten to.]   A genus of phyllopod or branchiopod entomostracous crustaceans, of the family ''Branchipodidæ.'' {{smaller|The animals are notable as inhabiting saline waters, the other forms of the group being found in fresh water. ''A. salina'', a common British species, is known as the ''brine-shrimp'' or ''brine-worm.''}}\n\n'''Artemis''' (är′tẹ-mis), ''n.''   [L., < Gr. Ἄρτεμις. The origin of the name is undetermined.]   '''1.''' In ''Gr. myth.'', one of the great Olympian deities, daughter of Zeus (Jupiter) and Leto (Latona), and twin sister of Apollo. {{smaller|She may be regarded as a feminine form of Apollo. She chastised evil with her keen shafts and with deadly sickness, and also protected mortals from danger and pestilence. Unlike Apollo, she was not connected with poetry or divination, but, like him, she was a deity of light, and to her was attributed authority over the moon, which belonged more particularly to her kinswomen Hecate and Selene. In art, Artemis is represented as a virgin of noble and severe beauty, tall and majestic, and generally bearing bow and quiver as the huntress or mountain goddess. She was identified by the Romans with their Diana, an original Italian divinity.}} '''2.''' [NL.] In ''zoöl.'': (''a'') A genus of siphonate lamellibranch bivalves, of the family ''Veneridæ'', having the pallial margin sinuous. (''b'') A genus of coleopterous insects.   ''Mulsant'', 1851.—'''Ephesian Artemis.''' {{smaller|See ''Diana''.}}\n\n[[File:century v01 p0349 c3f1.png|center|267px]]\n{{c|{{smaller|Artemis (Diana) the Huntress.—Louvre Museum.}}}}\n\n'''Artemisia''' (är-tē-miz′i-ä̤), ''n.''   [L., < Gr. ἀρτεμισία, an herb like wormwood; prob. < Ἀρτεμίσιος, pertaining to Ἄρτεμις: see ''Artemis.'']   A very large genus of plants, of the natural order ''Compositæ'', abundant in dry regions, and mostly of the northern hemisphere. {{smaller|The genus is allied to}}<noinclude><references/></noinclude>"
+}

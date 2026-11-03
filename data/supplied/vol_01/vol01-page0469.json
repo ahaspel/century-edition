@@ -1,0 +1,294 @@
+{
+ "volume": 1,
+ "page_number": 469,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n468.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n468.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 740,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     82,
+     144,
+     2299,
+     182
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     82,
+     182,
+     831,
+     1148
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     82,
+     1148,
+     831,
+     2190
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     82,
+     2190,
+     831,
+     3193
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     82,
+     3193,
+     831,
+     3291
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     831,
+     182,
+     1567,
+     1192
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     877,
+     183,
+     1496,
+     917
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     831,
+     1192,
+     1567,
+     2276
+    ]
+   },
+   {
+    "name": "c2f2",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     831,
+     1206,
+     1344,
+     1747
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     831,
+     2276,
+     1567,
+     3291
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1567,
+     182,
+     2299,
+     1233
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     2035,
+     596,
+     2299,
+     881
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1567,
+     1233,
+     2299,
+     2297
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1567,
+     2297,
+     2299,
+     3291
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|bankruptcy|443|banner-stone}}",
+   "c1s1": "{{smaller block|courts. Laws having similar objects, but less efficacious in respect of discharging the debtor, are maintained by many of the States, but can operate to give a discharge irrespective of creditors’ assent only when there is no federal bankruptcy law. These are termed ''insolvent laws.'' In England bankruptcy laws have existed from the time of Henry VIII. The principal acts are: 34 and 35 Hen. VIII., c. 4, directed against fraudulent debtors, and empowering the lord chancellor and other high officers to seize their estates and divide them among the creditors; 13 Eliz., c. 7, restricting bankruptcy to traders, and prescribing certain acts by committing which a trader became a bankrupt; 4 Anne, c. 17, and 10 Anne, c. 15, removing the criminal character borne by bankruptcy proceedings up to that time, and permitting a debtor to obtain a certificate of having conformed to the requirements of the bankrupt law; 6 Geo. IV., c. 16, allowing a debtor to procure his own bankruptcy, and introducing the principle of private settlements between debtors and creditors; 1 and 2 Wm. IV., c. 56, establishing a court of bankruptcy, consisting of six commissioners along with four judges, as a court of review, and making provision for official assignees. By the Bankrupt Consolidation Act of 1849, proceedings might be begun by petition to the Court of Bankruptcy, and the commissioners were authorized to award certificates according to the merit of the bankruptcy. The bankruptcy act of 1861 (24 and 25 Vict., c. 134) abolished special legislation relating to insolvent debtors, and permitted persons other than traders to avail themselves of the relief afforded by the bankruptcy court. In 1869 (32 and 33 Vict., c. 71) the commissionerships and official assignees were abolished, a new Court of Bankruptcy was established, and provision was made for the appointment of trustees who should be creditors. The Court of Bankruptcy was also stripped of its criminal jurisdiction, the criminal clauses being placed in another statute, the Debtors’ Act, which abolished imprisonment for debt except in certain cases. In 1883 (46 and 47 Vict., c. 52, taking effect Jan. 1, 1884) the}}",
+   "c1s2": "{{smaller|English bankruptcy acts were amended and consolidated. In the United States the subject has been, except during the periods of the operation of the United States bankruptcy acts, left to the imperfect regulation of diverse State laws. Such a law in any particular State may, when there is no United States act conflicting, provide for the distribution of an insolvent’s property, may discharge him from imprisonment for debt, and may discharge him, if a citizen of such State, from indebtedness to another citizen thereof contracted while such State law was in force, so far as to make the discharge a protection in the courts of the same State. The first United States bankrupt law, known as the act of 1800 (2 Stat. at L., p. 19), was based on a consolidation of then existing English statutes, and was in force from June 2, 1800, till Dec. 19, 1803. The second, the act of 1841 (5 Stat. at L., p. 440), was in force from Feb. 1, 1842, till March 3, 1843. The third, the act of 1867 (14 Stat. at L., p. 517), repeatedly amended, and finally revised in the United States Revised Statutes, tit. LXI., and reënacted with modifications in 1874 (18 Stat. at L., p. 178), was in force from June 1, 1867, till Sept. 1, 1878. In general, debts contracted by fraud, or in a fiduciary capacity, are not discharged by the bankruptcy laws.}}—'''Commission of bankruptcy,''' {{smaller|a commission formerly issued by the English lord chancellor, appointing and empowering certain persons to examine into the facts relative to an alleged bankruptcy, and to secure the bankrupt’s property for the creditors.}}—'''Discharge in bankruptcy.''' {{smaller|See ''discharge''.}}—'''Fiat in bankruptcy.''' {{smaller|See ''fiat''.}}—'''Fraudulent bankruptcy.''' {{smaller|See ''fraudulent''.}}—'''Involuntary bankruptcy,''' {{smaller|bankruptcy adjudged on the petition of creditors, showing cause why the bankrupt should not be allowed to continue in possession of his assets.}}—'''Voluntary bankruptcy,''' {{smaller|bankruptcy adjudged on the petition of the debtor, indicating his desire to surrender his assets and be discharged.}}='''Syn.''' ''Insolvency'', etc. See ''failure''.\n\n¶\n'''bankruptism†''' (bangk′rup-tizm), ''n.'' [< ''bankrupt'' + ''-ism.''] Bankruptcy.\n\n'''bankruptly†''' (bangk′rupt-li), ''adv.'' Like a bank-",
+   "c1s3": "rupt.\n\n'''bankruptship†''' (bangk′rupt-ship), ''n.'' [< ''bankrupt'' + ''-ship''.] Bankruptcy.\n\n'''bankrupture†''' (bangk′rup-t̮ūr), ''n.'' [< ''bankrupt'' + ''-ure''; after ''rupture''.] Bankruptcy.\n\n'''bankshall''' (bangk′shal), ''n.'' [Anglo-Ind., formerly also ''banksall'', ''-saul'', ''-soll'', repr. Malay ''bangsāl'', Beng. ''bankçāl'', ''bankaçālā'', lit. hall of trade, < Skt. ''vanij'' (> Beng. Hind., etc., ''banik'', a trader: see ''banian''<sup>1</sup>) + ''çāla'', a hut, house (= Gr. καλιά = E. ''hall'': see ''hall''); or perhaps < Skt. ''bhāndaçāla'', a storehouse, < ''bhānda'', wares, ware, a vessel, pot, + ''çāla'', as above.] '''1.''' In the East Indies: (''a'') A warehouse. (''b'') The office of harbor-master or other port authority.—'''2.''' In Java, a large hall of audience in a princely residence, without regular walls, but supported by wooden pillars. ''Yule and Burnell.''\n\n'''bank-shot''' (bangk′shot), ''n.'' In ''billiards'', a shot which makes the cue-ball touch the cushion before hitting any other ball.\n\n'''Banksia''' (bangk′si-ä), ''n.'' [NL., named after Sir Joseph ''Banks'' (1743–1820).] A genus of shrubs or trees, for the most part of small size, of the natural order ''Proteaceæ'', natives of western extra-tropical Australia and Tasmania, where with other shrubs of the same order they constitute most of the so-called “scrub.” {{smaller|The foliage is hard and dry, and extremely variable in form, and the flowers form close cylindrical heads resembling bottle-brushes. Many species have been cultivated in European conservatories and gardens.}}",
+   "c1s4": "¶\n'''banksman''' (bangks′man), ''n.''; pl. ''banksmen'' (-men). [< ''bank’s'', poss. of ''bank''<sup>1</sup>, + ''man''.] In ''coal-mining'', a man in attendance at the mouth",
+   "c2s1": "[[FIGURE]]\n{{c|{{smaller|Flowering branch of ''Banksia ericifolia.''}}}}\nof the shaft, who superintends the sorting and loading of the coal. [Eng.] ''Gresley.''\n\n'''bank-stock''' (bangk′stok), ''n.'' The capital of a bank. {{smaller|In England the term is applied chiefly to the stock of the Bank of England. The stock of other English joint-stock banks is divided into shares.}}\n\n'''bank-swallow''' (bangk′swol″ō), ''n.'' ''Hirundo'' or ''Cotile riparia'', a very common bird of Eu-",
+   "c2s2": "[[FIGURE]]\n{{c|{{smaller|Bank-swallow (''Cotile riparia'').}}}}\nrope, Asia, and America, of the family ''Hirundinidæ:'' so called from its habit of burrowing in banks to build its nest. {{smaller|It is a small swallow, mouse-gray above and white below, with a gray collar. In places where it is numerous, hundreds or thousands gather to breed in company, and a sand-bank may be riddled with their holes, which are excavated to the depth of a foot or more. Also called ''sand-swallow'' and ''bank-martin''. See ''Cotile''.}}\n\n'''bank-work''' (bangk′wėrk), ''n.'' In ''coal-mining'', a method of working coal in use in South Yorkshire, England, and in some of the North Welsh collieries, combining some of the peculiarities of the pillar system with those of the long-wall system.\n\n'''banky''' (bang′ki), ''a.'' [< ''bank''<sup>1</sup> + ''-y''.] Full of banks or ridges; ridgy; hilly. [Rare.]\n\n'''banlieue''' (ban′lū), ''n.'' [F. (in ML. ''banleuca'', ''bannum leucæ''), < ''ban'', command, jurisdiction, + ''lieue'', league, also an indefinite extent of territory. Cf. G. ''bann-meile'' in same sense: see ''ban''<sup>1</sup> and ''league''<sup>2</sup>.] The territory without the",
+   "c2s3": "walls, but within the legal limits, of a town or city. Sometimes erroneously spelled ''banlieu'', as if from French ''lieu'', a place.\n\n'''bannat'''<sup>1</sup> (ban′at), ''n.'' Scotch form of ''bonnet.''\n\n'''bannat'''<sup>2</sup>, ''n.'' See ''banat.''\n\n'''banner''' (ban′ėr), ''n.'' and ''a.'' [< ME. ''baner'', ''banere'', < OF. ''banere'', ''baniere'', F. ''bannière'', ''bandière'' = Pr. ''bandieira'', ''bannieira'' = Sp. ''bandera'' = Pg. ''bandeira'' = It. ''bandiera'', < ML. *''bandaria'' (''banderia'' after Rom.), < ''bandum'', a standard, < Goth. ''bandwa'', ''bandwo'', a sign, token, prob. akin to E. ''bind'' and ''band''<sup>1</sup>, q. v.] '''I.''' ''n.'' '''1.''' The piece of cloth, attached to the upper part of a pole or staff, which in former times served as the standard of a sovereign, lord, or knight, after which he and his followers marched to war, and which served as a rallying-point in battle; hence, the flag or standard of a country, army, troop, etc.; a standard or ensign.\n{{smaller block|Terrible as an army with ''banners.'' {{right|Cant. vi. 4.}}}}\n{{smaller block|<poem>Hang out our ''banners'' on the outward walls;\nThe cry is still, “They come!” Our castle’s strength\nWill laugh a siege to scorn.</poem>{{right|''Shak.'', Macbeth, v. 5.}}}}\n'''2.''' In ''her.'', a square flag which in the middle ages was the ensign of a knight banneret. {{smaller|Instances are related of a knight companion being made a knight banneret on the field of battle, the mark of his promotion being the tearing off of the points of his pennon, leaving the flag square. In modern usage, any square flag is termed a ''banner'' when it bears heraldic devices. The most familiar instance is the royal banner of England, commonly called the royal standard; but other heraldic banners are used in the funeral ceremonies of knights of the Garter and the higher nobility.}}",
+   "c3s1": "3. An ensign or flag bearing a badge or emblem, as of a society or order, and borne in processions. {{smaller|Banners were early used in the processions of the Christian church, usually of the form adopted by Constantine. It consisted of a square cloth suspended from a cross-bar near the top of a gilt pole, bearing or surmounted by the sacred symbol ☧. See ''labarum.''}} '''4.''' Figuratively, anything displayed as a profession of principles.\n{{smaller block|Thou hast given a ''banner'' to them that fear thee, that it may be displayed because of the truth.\n{{right|Ps. lx. 4.}}}}\nSee ''ensign'', ''flag'', ''pennon'', and ''standard''. '''5.''' In ''bot.'', the vexillum or upper petal of a\n[[FIGURE]]\n{{c|{{smaller|Pea-blossom with expanded Banner. ''a'', banner; ''b'', ala; ''c'', keel.}}}}\npapilionaceous flower. Also called the ''standard''.—'''6.''' One of eight divisions into which the Manchus are marshaled, each with distinguishing flag or banner. {{smaller|Four of the flags are plain (red, yellow, white, or blue), the other four having a margin of a different color. Hence, the Manchus are known collectively as the ''Eight Banners'' and as ''bannermen''.}}\n'''II.''' ''a.'' Leading or foremost in regard to some particular cause or matter, such as giving the largest majority to a political party, etc.\n{{smaller block|I am reminded that there is an Alleghany City as well as an Alleghany County, the former the ''banner'' town, and the latter the ''banner'' county, perhaps, of the world.\n{{right|''Lincoln'', in Raymond, p. 84.}}}}\n\n'''banneral†''', ''n.'' A corrupt form of ''bannerol'', 2.\n\n'''bannered''' (ban′ėrd), ''a.'' [< ''banner'' + ''-ed''<sup>2</sup>.] '''1.''' Furnished with or bearing a banner; display-",
+   "c3s2": "ing banners.\n{{smaller block|A ''banner’d'' host<br>Under spread ensigns marching.\n{{right|''Milton'', P. L., ii. 885.}}\nBothwell’s ''bannered'' hall. {{right|''Scott'', L. of the L., ii. 8.}}}}\n'''2.''' Borne or blazoned on a banner.\n\n'''bannerer''' (ban′ėr-ėr), ''n.'' A standard-bearer; one who carries a banner.\n\n'''banneret'''<sup>1</sup> (ban′ėr-et), ''n.'' [Also ''bannerette'', < ME. ''banneret'', ''banerett'', < OF. ''baneret'', ''banerette'', dim. of ''banere'', banner: see ''banner'' and ''-et''.] A little banner; a banderole.\n{{smaller block|The scarfs and the ''bannerets'' about thee did manifoldly dissuade me from believing thee a vessel of too great a burthen. {{right|''Shak.'', All’s Well, ii. 3.}}}}\n\n'''banneret'''<sup>2</sup> (ban′ėr-et), ''n.'' [< ME. ''baneret'', < OF. ''baneret'', ''banneret'', < ''banere'', a banner (see ''banner''), + ''-et'', < L. ''-atus'' (see ''-ate''<sup>1</sup>) = E. ''-ed''<sup>2</sup>; lit., one bannered: see ''banner'' and ''-ed''<sup>2</sup>.] '''1.''' One who is bannered or entitled to a banner; specifically, a knight of a certain grade in the military hierarchy of the middle ages. {{smaller|Originally the right to display a banner (as distinguished from a pennon) was limited to those who could bring a certain array of followers into the field, and who had also been dubbed or accoutred knight. As the military distinctions of earlier feudalism became confused by the employment of paid soldiers, the right of displaying a banner became more and more a reward for distinguished prowess in battle. After a victory or a notable achievement a banneret elect, carrying his pennon in his hand, was, it is said, conducted between two knights of note, and presented to the king or general, who cut off the point or ends of his pennon, making it square. He was then called a ''knight of the square flag''. Also called ''knight banneret''.}}\n{{smaller block|Sir Richard Croftes, who was made ''banneret'' at . . . Stoke, was a wise man. ''Camden'', Remains (ed. 1637), p. 271.}}",
+   "c3s3": "'''2.''' Formerly, the title of magistrates of the second rank in some Swiss cantons, and also of certain officers of some of the Italian republics.\n{{smaller block|Melchior Sturmthal, . . . ''Banneret'' of Berne.\n{{right|''Scott'', Anne of Geierstein, I. vii.}}\n[In Solothurn] on the death of an avoyer, the ''banneret'' succeeds to his place.\n{{right|''J. Adams'', Works, IV. 335.}}}}\n\n'''bannerless''' (ban′ėr-les), ''a.'' [< ''banner'' + ''-less.''] Having no banner. ''J. H. Jesse.''\n\n'''bannerman''' (ban′ėr-man), ''n.''; pl. ''bannermen'' (-men). '''1.''' A standard-bearer; a bannerer.—'''2.''' A person belonging to one of the eight banners into which the Manchus are marshaled. See ''banner'', 6.\n\n'''bannerol''' (ban′e-rōl), ''n.'' [See ''banderole.'' This is the usual spelling in sense 2.] '''1.''' Same as ''banderole.''—'''2.''' In England, a banner, about a yard square, borne at the funerals of prominent men, and placed over the tomb. It bears the arms of the ancestors and alliances of the deceased, painted on silk. Also erroneously written ''banner-roll'' and ''banneral.''\n\n'''banner-plant''' (ban′ėr-plant), ''n.'' A name given to some cultivated species of ''Anthurium'', natural order ''Araceæ'', in which the bright-scarlet spathe is broadly expanded at right angles to the spadix.\n\n'''banner-roll''' (ban′ėr-rōl), ''n.'' An erroneous form of ''bannerol'', 2.\n\n'''banner-stone''' (ban′ėr-stōn), ''n.'' A name sometimes given, not very aptly, to certain stone objects shaped like a small two-edged ax, which"
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0469 c2f1.png",
+   "c2f2": "century v01 p0469 c2f2.png",
+   "c3f1": "century v01 p0469 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     889,
+     195,
+     1484,
+     905
+    ],
+    "caption": [
+     979,
+     907,
+     1402,
+     932
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     906,
+     187,
+     1422,
+     913
+    ]
+   },
+   {
+    "box": [
+     842,
+     1218,
+     1332,
+     1735
+    ],
+    "caption": [
+     922,
+     1738,
+     1255,
+     1765
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     874,
+     1180,
+     1228,
+     1734
+    ]
+   },
+   {
+    "box": [
+     2047,
+     608,
+     2299,
+     869
+    ],
+    "caption": [
+     2039,
+     880,
+     2296,
+     942
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     2060,
+     602,
+     2295,
+     876
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    2,
+    1
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 4,
+    "input_tokens": 7024,
+    "output_tokens": 255,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9566,
+    "output_tokens": 7638,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c2f2": "left",
+   "c3f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|bankruptcy|443|banner-stone}}</noinclude>{{smaller block|courts. Laws having similar objects, but less efficacious in respect of discharging the debtor, are maintained by many of the States, but can operate to give a discharge irrespective of creditors’ assent only when there is no federal bankruptcy law. These are termed ''insolvent laws.'' In England bankruptcy laws have existed from the time of Henry VIII. The principal acts are: 34 and 35 Hen. VIII., c. 4, directed against fraudulent debtors, and empowering the lord chancellor and other high officers to seize their estates and divide them among the creditors; 13 Eliz., c. 7, restricting bankruptcy to traders, and prescribing certain acts by committing which a trader became a bankrupt; 4 Anne, c. 17, and 10 Anne, c. 15, removing the criminal character borne by bankruptcy proceedings up to that time, and permitting a debtor to obtain a certificate of having conformed to the requirements of the bankrupt law; 6 Geo. IV., c. 16, allowing a debtor to procure his own bankruptcy, and introducing the principle of private settlements between debtors and creditors; 1 and 2 Wm. IV., c. 56, establishing a court of bankruptcy, consisting of six commissioners along with four judges, as a court of review, and making provision for official assignees. By the Bankrupt Consolidation Act of 1849, proceedings might be begun by petition to the Court of Bankruptcy, and the commissioners were authorized to award certificates according to the merit of the bankruptcy. The bankruptcy act of 1861 (24 and 25 Vict., c. 134) abolished special legislation relating to insolvent debtors, and permitted persons other than traders to avail themselves of the relief afforded by the bankruptcy court. In 1869 (32 and 33 Vict., c. 71) the commissionerships and official assignees were abolished, a new Court of Bankruptcy was established, and provision was made for the appointment of trustees who should be creditors. The Court of Bankruptcy was also stripped of its criminal jurisdiction, the criminal clauses being placed in another statute, the Debtors’ Act, which abolished imprisonment for debt except in certain cases. In 1883 (46 and 47 Vict., c. 52, taking effect Jan. 1, 1884) the English bankruptcy acts were amended and consolidated. In the United States the subject has been, except during the periods of the operation of the United States bankruptcy acts, left to the imperfect regulation of diverse State laws. Such a law in any particular State may, when there is no United States act conflicting, provide for the distribution of an insolvent’s property, may discharge him from imprisonment for debt, and may discharge him, if a citizen of such State, from indebtedness to another citizen thereof contracted while such State law was in force, so far as to make the discharge a protection in the courts of the same State. The first United States bankrupt law, known as the act of 1800 (2 Stat. at L., p. 19), was based on a consolidation of then existing English statutes, and was in force from June 2, 1800, till Dec. 19, 1803. The second, the act of 1841 (5 Stat. at L., p. 440), was in force from Feb. 1, 1842, till March 3, 1843. The third, the act of 1867 (14 Stat. at L., p. 517), repeatedly amended, and finally revised in the United States Revised Statutes, tit. LXI., and reënacted with modifications in 1874 (18 Stat. at L., p. 178), was in force from June 1, 1867, till Sept. 1, 1878. In general, debts contracted by fraud, or in a fiduciary capacity, are not discharged by the bankruptcy laws.}}—'''Commission of bankruptcy,''' {{smaller|a commission formerly issued by the English lord chancellor, appointing and empowering certain persons to examine into the facts relative to an alleged bankruptcy, and to secure the bankrupt’s property for the creditors.}}—'''Discharge in bankruptcy.''' {{smaller|See ''discharge''.}}—'''Fiat in bankruptcy.''' {{smaller|See ''fiat''.}}—'''Fraudulent bankruptcy.''' {{smaller|See ''fraudulent''.}}—'''Involuntary bankruptcy,''' {{smaller|bankruptcy adjudged on the petition of creditors, showing cause why the bankrupt should not be allowed to continue in possession of his assets.}}—'''Voluntary bankruptcy,''' {{smaller|bankruptcy adjudged on the petition of the debtor, indicating his desire to surrender his assets and be discharged.}}='''Syn.''' ''Insolvency'', etc. See ''failure''.\n\n'''bankruptism†''' (bangk′rup-tizm), ''n.''   [< ''bankrupt'' + ''-ism.'']   Bankruptcy.\n\n'''bankruptly†''' (bangk′rupt-li), ''adv.'' Like a bankrupt.\n\n'''bankruptship†''' (bangk′rupt-ship), ''n.''   [< ''bankrupt'' + ''-ship''.]   Bankruptcy.\n\n'''bankrupture†''' (bangk′rup-t̮ūr), ''n.''   [< ''bankrupt'' + ''-ure''; after ''rupture''.]   Bankruptcy.\n\n'''bankshall''' (bangk′shal), ''n.''   [Anglo-Ind., formerly also ''banksall'', ''-saul'', ''-soll'', repr. Malay ''bangsāl'', Beng. ''bankçāl'', ''bankaçālā'', lit. hall of trade, < Skt. ''vanij'' (> Beng. Hind., etc., ''banik'', a trader: see ''banian''<sup>1</sup>) + ''çāla'', a hut, house (= Gr. καλιά = E. ''hall'': see ''hall''); or perhaps < Skt. ''bhāndaçāla'', a storehouse, < ''bhānda'', wares, ware, a vessel, pot, + ''çāla'', as above.]   '''1.''' In the East Indies: (''a'') A warehouse. (''b'') The office of harbor-master or other port authority.—'''2.''' In Java, a large hall of audience in a princely residence, without regular walls, but supported by wooden pillars.   ''Yule and Burnell.''\n\n'''bank-shot''' (bangk′shot), ''n.'' In ''billiards'', a shot which makes the cue-ball touch the cushion before hitting any other ball.\n\n'''Banksia''' (bangk′si-ä), ''n.''   [NL., named after Sir Joseph ''Banks'' (1743–1820).]   A genus of shrubs or trees, for the most part of small size, of the natural order ''Proteaceæ'', natives of western extra-tropical Australia and Tasmania, where with other shrubs of the same order they constitute most of the so-called “scrub.” {{smaller|The foliage is hard and dry, and extremely variable in form, and the flowers form close cylindrical heads resembling bottle-brushes. Many species have been cultivated in European conservatories and gardens.}}\n\n'''banksman''' (bangks′man), ''n.''; pl. ''banksmen'' (-men).   [< ''bank’s'', poss. of ''bank''<sup>1</sup>, + ''man''.]   In ''coal-mining'', a man in attendance at the mouth of the shaft, who superintends the sorting and loading of the coal. [Eng.] ''Gresley.''\n\n[[File:century v01 p0469 c2f1.png|center|301px]]\n{{c|{{smaller|Flowering branch of ''Banksia ericifolia.''}}}}\n\n'''bank-stock''' (bangk′stok), ''n.'' The capital of a bank. {{smaller|In England the term is applied chiefly to the stock of the Bank of England. The stock of other English joint-stock banks is divided into shares.}}\n\n'''bank-swallow''' (bangk′swol″ō), ''n.'' ''Hirundo'' or ''Cotile riparia'', a very common bird of Eu{{img float|file=century v01 p0469 c2f2.png|width=250px|align=left|cap={{smaller|Bank-swallow (''Cotile riparia'').}}}} rope, Asia, and America, of the family ''Hirundinidæ:'' so called from its habit of burrowing in banks to build its nest. {{smaller|It is a small swallow, mouse-gray above and white below, with a gray collar. In places where it is numerous, hundreds or thousands gather to breed in company, and a sand-bank may be riddled with their holes, which are excavated to the depth of a foot or more. Also called ''sand-swallow'' and ''bank-martin''. See ''Cotile''.}}\n\n'''bank-work''' (bangk′wėrk), ''n.'' In ''coal-mining'', a method of working coal in use in South Yorkshire, England, and in some of the North Welsh collieries, combining some of the peculiarities of the pillar system with those of the long-wall system.\n\n'''banky''' (bang′ki), ''a.''   [< ''bank''<sup>1</sup> + ''-y''.]   Full of banks or ridges; ridgy; hilly. [Rare.]\n\n'''banlieue''' (ban′lū), ''n.''   [F. (in ML. ''banleuca'', ''bannum leucæ''), < ''ban'', command, jurisdiction, + ''lieue'', league, also an indefinite extent of territory. Cf. G. ''bann-meile'' in same sense: see ''ban''<sup>1</sup> and ''league''<sup>2</sup>.]   The territory without the walls, but within the legal limits, of a town or city. Sometimes erroneously spelled ''banlieu'', as if from French ''lieu'', a place.\n\n'''bannat'''<sup>1</sup> (ban′at), ''n.'' Scotch form of ''bonnet.''\n\n'''bannat'''<sup>2</sup>, ''n.'' See ''banat.''\n\n'''banner''' (ban′ėr), ''n.'' and ''a.''   [< ME. ''baner'', ''banere'', < OF. ''banere'', ''baniere'', F. ''bannière'', ''bandière'' = Pr. ''bandieira'', ''bannieira'' = Sp. ''bandera'' = Pg. ''bandeira'' = It. ''bandiera'', < ML. *''bandaria'' (''banderia'' after Rom.), < ''bandum'', a standard, < Goth. ''bandwa'', ''bandwo'', a sign, token, prob. akin to E. ''bind'' and ''band''<sup>1</sup>, q. v.]   '''I.''' ''n.'' '''1.''' The piece of cloth, attached to the upper part of a pole or staff, which in former times served as the standard of a sovereign, lord, or knight, after which he and his followers marched to war, and which served as a rallying-point in battle; hence, the flag or standard of a country, army, troop, etc.; a standard or ensign.\n{{smaller block|Terrible as an army with ''banners.'' {{right|Cant. vi. 4.}}}}\n{{smaller block|<poem>Hang out our ''banners'' on the outward walls;\nThe cry is still, “They come!” Our castle’s strength\nWill laugh a siege to scorn.</poem>{{right|''Shak.'', Macbeth, v. 5.}}}}\n'''2.''' In ''her.'', a square flag which in the middle ages was the ensign of a knight banneret. {{smaller|Instances are related of a knight companion being made a knight banneret on the field of battle, the mark of his promotion being the tearing off of the points of his pennon, leaving the flag square. In modern usage, any square flag is termed a ''banner'' when it bears heraldic devices. The most familiar instance is the royal banner of England, commonly called the royal standard; but other heraldic banners are used in the funeral ceremonies of knights of the Garter and the higher nobility.}} 3. An ensign or flag bearing a badge or emblem, as of a society or order, and borne in processions. {{smaller|Banners were early used in the processions of the Christian church, usually of the form adopted by Constantine. It consisted of a square cloth suspended from a cross-bar near the top of a gilt pole, bearing or surmounted by the sacred symbol ☧. See ''labarum.''}} '''4.''' Figuratively, anything displayed as a profession of principles.\n{{smaller block|Thou hast given a ''banner'' to them that fear thee, that it may be displayed because of the truth.\n{{right|Ps. lx. 4.}}}}\nSee ''ensign'', ''flag'', ''pennon'', and ''standard''. '''5.''' In ''bot.'', the vexillum or upper petal of a {{img float|file=century v01 p0469 c3f1.png|width=128px|align=right|cap={{smaller|Pea-blossom with expanded Banner. ''a'', banner; ''b'', ala; ''c'', keel.}}}} papilionaceous flower. Also called the ''standard''.—'''6.''' One of eight divisions into which the Manchus are marshaled, each with distinguishing flag or banner. {{smaller|Four of the flags are plain (red, yellow, white, or blue), the other four having a margin of a different color. Hence, the Manchus are known collectively as the ''Eight Banners'' and as ''bannermen''.}}\n'''II.''' ''a.'' Leading or foremost in regard to some particular cause or matter, such as giving the largest majority to a political party, etc.\n{{smaller block|I am reminded that there is an Alleghany City as well as an Alleghany County, the former the ''banner'' town, and the latter the ''banner'' county, perhaps, of the world.\n{{right|''Lincoln'', in Raymond, p. 84.}}}}\n\n'''banneral†''', ''n.'' A corrupt form of ''bannerol'', 2.\n\n'''bannered''' (ban′ėrd), ''a.''   [< ''banner'' + ''-ed''<sup>2</sup>.]   '''1.''' Furnished with or bearing a banner; displaying banners.\n{{smaller block|A ''banner’d'' host<br>Under spread ensigns marching.\n{{right|''Milton'', P. L., ii. 885.}}}}\n{{smaller block|Bothwell’s ''bannered'' hall. {{right|''Scott'', L. of the L., ii. 8.}}}}\n'''2.''' Borne or blazoned on a banner.\n\n'''bannerer''' (ban′ėr-ėr), ''n.'' A standard-bearer; one who carries a banner.\n\n'''banneret'''<sup>1</sup> (ban′ėr-et), ''n.''   [Also ''bannerette'', < ME. ''banneret'', ''banerett'', < OF. ''baneret'', ''banerette'', dim. of ''banere'', banner: see ''banner'' and ''-et''.]   A little banner; a banderole.\n{{smaller block|The scarfs and the ''bannerets'' about thee did manifoldly dissuade me from believing thee a vessel of too great a burthen. {{right|''Shak.'', All’s Well, ii. 3.}}}}\n\n'''banneret'''<sup>2</sup> (ban′ėr-et), ''n.''   [< ME. ''baneret'', < OF. ''baneret'', ''banneret'', < ''banere'', a banner (see ''banner''), + ''-et'', < L. ''-atus'' (see ''-ate''<sup>1</sup>) = E. ''-ed''<sup>2</sup>; lit., one bannered: see ''banner'' and ''-ed''<sup>2</sup>.]   '''1.''' One who is bannered or entitled to a banner; specifically, a knight of a certain grade in the military hierarchy of the middle ages. {{smaller|Originally the right to display a banner (as distinguished from a pennon) was limited to those who could bring a certain array of followers into the field, and who had also been dubbed or accoutred knight. As the military distinctions of earlier feudalism became confused by the employment of paid soldiers, the right of displaying a banner became more and more a reward for distinguished prowess in battle. After a victory or a notable achievement a banneret elect, carrying his pennon in his hand, was, it is said, conducted between two knights of note, and presented to the king or general, who cut off the point or ends of his pennon, making it square. He was then called a ''knight of the square flag''. Also called ''knight banneret''.}}\n{{smaller block|Sir Richard Croftes, who was made ''banneret'' at . . . Stoke, was a wise man.\n{{right|''Camden'', Remains (ed. 1637), p. 271.}}}} '''2.''' Formerly, the title of magistrates of the second rank in some Swiss cantons, and also of certain officers of some of the Italian republics.\n{{smaller block|Melchior Sturmthal, . . . ''Banneret'' of Berne.\n{{right|''Scott'', Anne of Geierstein, I. vii.}}}}\n{{smaller block|[In Solothurn] on the death of an avoyer, the ''banneret'' succeeds to his place.\n{{right|''J. Adams'', Works, IV. 335.}}}}\n\n'''bannerless''' (ban′ėr-les), ''a.''   [< ''banner'' + ''-less.'']   Having no banner.   ''J. H. Jesse.''\n\n'''bannerman''' (ban′ėr-man), ''n.''; pl. ''bannermen'' (-men). '''1.''' A standard-bearer; a bannerer.—'''2.''' A person belonging to one of the eight banners into which the Manchus are marshaled. See ''banner'', 6.\n\n'''bannerol''' (ban′e-rōl), ''n.''   [See ''banderole.'' This is the usual spelling in sense 2.]   '''1.''' Same as ''banderole.''—'''2.''' In England, a banner, about a yard square, borne at the funerals of prominent men, and placed over the tomb. It bears the arms of the ancestors and alliances of the deceased, painted on silk. Also erroneously written ''banner-roll'' and ''banneral.''\n\n'''banner-plant''' (ban′ėr-plant), ''n.'' A name given to some cultivated species of ''Anthurium'', natural order ''Araceæ'', in which the bright-scarlet spathe is broadly expanded at right angles to the spadix.\n\n'''banner-roll''' (ban′ėr-rōl), ''n.'' An erroneous form of ''bannerol'', 2.\n\n'''banner-stone''' (ban′ėr-stōn), ''n.'' A name sometimes given, not very aptly, to certain stone objects shaped like a small two-edged ax, which<noinclude><references/></noinclude>"
+}

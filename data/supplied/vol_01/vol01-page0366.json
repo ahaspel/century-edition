@@ -1,0 +1,233 @@
+{
+ "volume": 1,
+ "page_number": 366,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n365.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n365.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 745,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     72,
+     127,
+     2292,
+     163
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     72,
+     163,
+     813,
+     1247
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     72,
+     1247,
+     813,
+     2123
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     72,
+     2123,
+     813,
+     3217
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     72,
+     3217,
+     813,
+     3277
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     163,
+     1561,
+     1234
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     1234,
+     1561,
+     2321
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     2321,
+     1561,
+     3277
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1561,
+     163,
+     2292,
+     1168
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1561,
+     1168,
+     2292,
+     2000
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1561,
+     2000,
+     2292,
+     3009
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1565,
+     2195,
+     1805,
+     2471
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1561,
+     3009,
+     2292,
+     3277
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|aspen|340|asphalt}}",
+   "c1s1": "the usual form in poetry, and is also common in prose.]\n{{smaller block|<poem>His hand did quake\nAnd tremble like a leafe of ''Aspin'' greene.</poem>\n{{right|''Spenser'', F. Q., I. ix. 51.}}}}\n{{smaller block|<poem>Only the pattering ''aspen''\nMade a sound of growing rain.</poem>\n{{right|''Lowell'', Singing Leaves.}}}}\n\n'''asper<sup>1</sup>†''' (as′pėr), ''a.'' [< ME. ''aspre'', ''aspere'', < OF. ''aspre'', < L. ''asper'', rough; origin undetermined.] Rough; rugged; harsh; cruel; savage. ''Chaucer.''\n{{smaller block|All base notes . . . give an ''asper'' sound.\n{{right|''Bacon'', Nat. Hist., § 173.}}}}\n\n'''asper<sup>1</sup>''' (as′pėr), ''n.'' [Short for L. ''spiritus asper'', a translation of Gr. πνεῦμα δασύ, rough breathing: see ''spirit'' and ''asper''<sup>1</sup>, ''a.''] In ''Gr. gram.'', a sign (ʽ) placed before or over an initial vowel or ρ to show that it is aspirated, that is, pronounced as if ''h'' preceded it; the rough breathing. Thus, ὅς = ''hos''; ῥίς = ''hris''. {{smaller|[In Latin, and hence in modern, words derived from the Greek, aspirated ''r'' is represented by ''rh'', as in ''rhinoceros'', ''rhythm'', the ''h'' being silent in the modern pronunciation.]}}\n\n'''asper<sup>2</sup>''' (as′pėr), ''n.'' [= F. ''aspre'' = It. ''aspero'', < ML. ''asperus'', ''asprus'', ''asperum'', ''asprum'', < MGr. ἄσπρον, prop. neut. of ἄσπρος, white. In Turkish this coin is called ''aqcha'', lit. whitish, < ''aq'', white, + ''-cha'', ''-ja'', equiv. to E. ''-ish''<sup>1</sup>.] An old Egyptian and Turkish silver coin: now only a money of account. {{smaller|A piaster is considered equal to 100 good aspers or 120 current ones. One current asper is equal to four ninths of a United States mill.}}\n{{smaller block|<poem>Demanded of me,\nFor what I valued at so many ''aspers'',\nA thousand ducats.</poem>}}",
+   "c1s2": "{{smaller block|{{right|''Massinger'', The Renegado, i. 3.}}}}\n\n'''aspera''' (as′pe̤-rä̤), ''n.'' [NL., fem. of L. ''asper'', rough.] Same as ''asper-artery''.\n\n'''asper-artery''' (as′pėr-är″te̤-ri), ''n.'' [< L. ''aspera arteria'', or ''arteria aspera'', a tr. of Gr. ἀρτηρία τραχεῖα, lit. rough artery: see ''asper''<sup>1</sup>, ''artery'', and ''trachea''.] The trachea or windpipe. ''Coues.''\n\n'''asperate''' (as′pe̤-rāt), ''v. t.'' [< L. ''asperatus'', pp. of ''asperare'', roughen, < ''asper'', rough: see ''asper''<sup>1</sup>.] To make rough or uneven in surface, sound, etc. [Rare.]\n{{smaller block|The level surface of clear water being by agitation ''asperated.''\n{{right|''Boyle'', Works, I. 683.}}}}\n\n'''asperation''' (as-pe̤-rā′sho̤n), ''n.'' [< ''asperate'' + ''-ion''.] A making rough. ''Bailey.''\n\n'''asperge''' (as-pėrj′), ''v. t.''; pret. and pp. ''asperged'', ppr. ''asperging''. [= F. ''asperger'', < L. ''aspergere'', sprinkle, < ''ad'', to, + ''spargere'', sprinkle: see ''sparse'', and cf. ''asperse''.] To sprinkle.\n{{smaller block|<poem>Each thing in order, as before,\nHis pious hands array,\n''Asperge'' the shrine; and then once more\nHe takes his cheerful way.</poem>\n{{right|''Bulwer'', tr. of Schiller’s Fridolin.}}}}\n\n'''aspergeoire†''', ''n.'' [OF., also ''aspergoir'' (mod. F. ''aspersoir''); cf. ML. ''aspergerium''; < L. ''aspergere'', sprinkle: see ''asperge'', and cf. ''aspergillus''.]",
+   "c1s3": "Same as ''aspersorium'', 1.\n\n¶\n'''asperges''' (as-pėr′jēz), ''n.'' [LL., prop. second pers. sing. future ind. of L. ''aspergere'', sprinkle: see ''asperge''.] In the ''Rom. Cath. Ch.'': (''a'') An antiphon, taken from the Miserere, intoned by the celebrant and sung by the choir before the solemn mass on Sundays, during which the priest sprinkles with holy water the altar, clergy, and people. With some modifications, the same rite is practised in the Greek and Oriental churches. (''b'') The sprinkling performed by the priest during the antiphon.\n\n'''aspergill''' (as′pėr-jil), ''n.'' [< ML. ''aspergillus'', q. v.] Same as ''aspersorium'', 1.\n\n'''aspergilla''', ''n.'' Plural of ''aspergillum''.\n\n'''aspergilli''', ''n.'' Plural of ''aspergillus''.\n\n'''aspergilliform''' (as-pėr-jil′i-fôrm), ''a.'' [< ML. ''aspergillus'', q. v., + L. ''forma'', shape.] '''1.''' Shaped like an aspergillus or sprinkler.—'''2.''' In ''bot.'', brush-shaped; made up of numerous spreading hairs.\n\n'''aspergillum''' (as-pėr-jil′um), ''n.''; pl. ''aspergilla'' (-ạ̈). [ML.: see ''aspergillus''.] '''1.''' Same as ''aspersorium'', 1.—'''2.''' [''cap.''] [NL.] A genus of mollusks, the watering-pot shells, of a family ''Aspergillidæ'': a synonym of ''Brechites''. ''Lamarck'', 1799.\n\n'''aspergillus''' (as-pėr-jil′us), ''n.''; pl. ''aspergilli'' (-ī). [ML. (in sense 1), < L. ''aspergere'', sprinkle (see ''asperge''), + dim. ''-illus''.] '''1.''' Same as ''aspersorium'', 1.—'''2.''' [''cap.''] [NL.] A genus of hyphomycetous fungi, including several of the common molds. {{smaller|Some of the species have been found to be only conidial forms of corresponding species of ''Eurotium'', and it is probable that the same is true of all. Several have}}",
+   "c1s4": "been detected in the human ear and in diseased lungs. See cut under ''Eurotium.''",
+   "c2s1": "¶\n'''Asperifoliæ''' (as″pėr-i-fō′li-ē), ''n. pl.'' [NL., fem. pl. of ''asperifolius'': see ''asperifolious''.] Same as ''Boraginaceæ''.\n\n'''asperifoliate''' (as″pėr-i-fō′li-ạ̄t), ''a.'' [< NL. ''asperifoliatus'', < L. ''asper'', rough, + ''folium'', leaf: see ''asper''<sup>1</sup> and ''foliate''.] Having leaves rough to the touch.\n\n'''asperifolious''' (as″pėr-i-fō′li-us), ''a.'' [< NL. ''asperifolius'': see ''asperifoliate''.] Same as ''asperifoliate''.\n\n'''asperity''' (as-per′ị-ti), ''n.''; pl. ''asperities'' (-tiz). [Early mod. E. ''asperitie'', < ME. ''asprete'', < OF. ''asprete'', mod. F. ''âpreté'' and ''aspérité'', < L. ''asperita(t-)s'', roughness, < ''asper'', rough: see ''asper''<sup>1</sup>.] '''1.''' Roughness of surface; unevenness: opposed to ''smoothness''.\n{{smaller block|The pores and ''asperities'' of dry bodies.\n{{right|''Boyle'', Works, I. 683.}}\nFour thousand pioneers were sent in advance . . . to conquer, in some degree, the ''asperities'' of the road.\n{{right|''Irving'', Granada, p. 320.}}}}\n'''2.''' Roughness of sound; harshness of pronunciation.\n{{smaller block|Those dissonances and ''asperities'' which still adhered to . . . our diction. ''T. Warton'', Hist. of Eng. Poetry, iii. 62.}}\n'''3.''' Harshness of taste; sourness.\n{{smaller block|The ''asperity'' of tartarous salts. ''Bp. Berkeley'', Siris, § 86.}}\n'''4.''' Roughness or ruggedness of temper; crabbedness; bitterness; severity: as, to chide one with ''asperity''; “''asperity'' of character,” ''Landor''.\n{{smaller block|It could only have been the strong political feeling of Warton which could have induced him to censure the prose of Milton with such ''asperity''.\n{{right|''I. D’Israeli'', Quar. of Auth., p. 261.}}}}",
+   "c2s2": "{{smaller block|A royalist, . . . without any of that political ''asperity'' which is as unwomanly as a long beard.\n{{right|''Macaulay'', Sir William Temple.}}}}\n'''5.''' Disagreeableness; unpleasantness; difficulty: as, “the acclivities and ''asperities'' of duty,” ''Barrow'', Sermons, III. xlii.\n{{smaller block|The allurements of praise and the ''asperities'' of censure.\n{{right|''Sumner'', Fame and Glory.}}}}\n='''Syn. 4.''' ''Acrimony'', ''Harshness'', etc. See ''acrimony''.\n\n¶\n'''asperly†''' (as′pėr-li), ''adv.'' [Early mod. E. also ''asprely'', < ME. ''asperly''; < ''asper''<sup>1</sup> + ''-ly''<sup>2</sup>.] Roughly; sharply; vigorously.\n{{smaller block|Enforced their enemies to strike on land, and there assaulted them so ''asprely''.\n{{right|''Sir T. Elyot'', The Governour, i. 17.}}}}\n\n'''aspermatism''' (as-pėr′ma̤-tizm), ''n.'' [< Gr. ἀ- priv. + σπέρμα(τ-), seed, + ''-ism''.] '''1.''' Absence of seminal secretion.—'''2.''' The non-emission of semen in the sexual orgasm, owing to its reflux into the bladder.\n\n'''aspermatous''' (as-pėr′ma̤-tus), ''a.'' Same as ''aspermous''.\n\n'''aspermous''' (as-pėr′mus), ''a.'' [< NL. ''aspermus'', < Gr. ἄσπερμος, seedless, < ἀ- priv. + σπέρμα, seed: see ''sperm''.] In ''bot.'', destitute of seed.\n\n'''aspernation†''' (as-pėr-nā′sho̤n), ''n.'' [< L. ''aspernatio(n-)'', < ''aspernari'', pp. ''aspernatus'', disdain, spurn, neglect, < ''ab'', from, + ''spernari'', despise, spurn.] '''1.''' A despising, etc. ''Bailey'', 1731.—'''2.''' Neglect; disregard. ''Johnson.''\n\n'''asperness†''', ''n.'' [ME. ''asprenesse''; < ''asper''<sup>1</sup> + ''-ness''.] Harshness; severity. ''Chaucer.''\n\n'''asperous†''' (as′pėr-us), ''a.'' [< L. ''asper'', rough (see ''asper''<sup>1</sup>), + ''-ous''.] Rough to the touch; uneven; harsh; severe.",
+   "c2s3": "¶\n'''asperse''' (as-pėrs′), ''v. t.''; pret. and pp. ''aspersed'', ppr. ''aspersing''. [< L. ''aspersus'', pp. of ''aspergere'', besprinkle, bespatter: see ''asperge''.] '''1.''' To besprinkle; scatter over.\n{{smaller block|''Asperse'' and sprinkle the attendants.\n{{right|''J. Heath'', Flagellum, p. 159.}}\nThe mourners returning from a Roman funeral, ''aspersed'' with water and stepping over fire, were by this double process made pure.\n{{right|''E. B. Tylor'', Prim. Culture, II. 398.}}}}\n'''2.''' To bespatter with foul reports or false and injurious charges; tarnish in point of reputation or good name; slander; calumniate.\n{{smaller block|With blackest crimes ''aspersed''.\n{{right|''Cowper'', Iliad, vi.}}\nWhat perplexed us most, was to think who could be so base as to ''asperse'' the character of a family so harmless as ours.\n{{right|''Goldsmith'', Vicar, xiv.}}}}\n{{smaller|='''Syn. 2.''' ''Asperse, Defame, Calumniate, Slander, Malign, Traduce, Libel, Vilify'', decry, depreciate, disparage, slur, run down, lampoon, blacken. These words are all descriptive of attempts to injure reputation by false statements. They all apply primarily and chiefly to persons. There is often little or no difference between them. ''Asperse'' is, literally, to bespatter, as with mud or dirt; it sometimes implies injury to reputation by indirect insinuation. ''Defame'' is, literally, to lower the fame or repute of, to bring toward infamy, to make charges that are more open and weighty than aspersions. ''Calumniate, slander'', and ''malign'' represent the most deliberate and deadly assaults upon reputation. The ''calumniator'' is most often the inventor of the falsehoods he circulates. The ''slanderer'' is less inventive and more secret, his work being generally behind the back of the injured person. The ''maligner'' is most mischievous, malicious, or ''malign'' in his motives. To ''traduce'' is to misrepresent, to show in an odious light.}}",
+   "c3s1": "{{smaller block|''Libel'' and ''slander'' are the words most used in speaking of injury to reputation in its relation to the possible recovery of damages at law. To ''libel'', therefore, often suggests the pecuniary loss by defamation; ''libel'' is strictly effected by publication, while ''slander'' is strictly by word of mouth. ''Vilify'' is, literally, to make one (seem) vile; it suggests a defamation of the coarser and more abusive sort. See ''decry''.}}\n\n{{smaller block|I am not sure . . . whether I ought not to call you out for ''aspersing'' the honour of the family.\n{{right|''Barham'', Ingoldsby Legends, I. 35.}}}}\n\n{{smaller block|Whenever you would ruin a person or a government, you must begin by spreading calumnies to ''defame'' them.\n{{right|Quoted by ''I. D’Israeli'', Amen. of Lit., II. 75.}}}}\n\n{{smaller block|One trade or art, even those that should be the most liberal, make it their business to disdain and ''calumniate'' another. {{right|''Bp. Sprat.''}}}}\n\n{{smaller block|Thou sittest and speakest against thy brother; thou ''slanderest'' thine own mother’s son. {{right|Ps. l. 20.}}}}\n\n{{smaller block|<poem>You ''malign'' our senators, for that\nThey are not such as you.</poem>\n{{right|''Shak.'', Cor., i. 1.}}}}\n\n{{smaller block|<poem>If I am\n''Traduc’d'' by ignorant tongues, . . .\n’Tis but the fate of place, and the rough brake\nThat virtue must go through.</poem>\n{{right|''Shak.'', Hen. VIII., i. 2.}}}}\n\n{{smaller block|His [Dr. Kendrick’s] virulent attack on Johnson’s Shakespeare may be preserved for its total want of literary decency. . . . He ''libelled'' all the genius of the age, and was proud of doing it. {{right|''I. D’Israeli'', Cal. of Auth., p. 217.}}}}\n\n{{smaller block|When I find the first of men, in rank and genius, hating one another, and becoming slanderers and liars in order to lower and ''vilify'' an opponent, . . . I look back in vain on any barbarous people for more barbarism.\n{{right|''Landor'', Peter the Great and Alexis.}}}}\n\n'''aspersed''' (as-pėrst′), ''p. a.'' In ''her.'', same as ''semé''.",
+   "c3s2": "¶\n'''asperser''' (as-pėr′sėr), ''n.'' '''1.''' An aspersorium. —'''2.''' One who asperses or vilifies another.\n\n'''aspersion''' (as-pėr′shọn), ''n.'' [= F. ''aspersion'', < L. ''aspersio''(''n''-), a besprinkling, < ''aspergere'', besprinkle: see ''asperse'', ''asperge''.] '''1.''' A sprinkling, as of or with water.\n{{smaller block|<poem>No sweet ''aspersion'' shall the heavens let fall\nTo make this contract grow. ''Shak.'', Tempest, iv. 1.</poem>\nTo season a surly discourse with a more pleasing ''aspersion'' of love matters. ''Burton'', Anat. of Mel., p. 424.\n\nXimenes, unable to administer the rite to each individually, was obliged to adopt the expedient familiar to the Christian missionaries, of christening them en masse by ''aspersion''; scattering the consecrated drops from a mop, or hyssop, as it was called, which he twirled over the heads of the multitude. ''Prescott'', Ferd. and Isa., ii. 6.}}\n'''2.''' The making of calumnious reports, imputations, or charges; a derogatory assertion or criticism; calumny; censure.\n{{smaller block|There, sir, an attack upon my language! what do you think of that?—an ''aspersion'' upon my parts of speech!\n{{right|''Sheridan'', The Rivals, iii. 3.}}\nEvery candid critic would be ashamed to cast wholesale ''aspersions'' on the entire body of professional teachers.\n{{right|''Grote'', Hist. Greece, II. 67.}}}}\n\n'''aspersive''' (as-pėr′siv), ''a.'' [< ''asperse'' + ''-ive''.] Tending to asperse; defamatory; calumnious; slanderous.",
+   "c3s3": "¶\n'''aspersively''' (as-pėr′siv-li), ''adv.'' In an aspersive manner; by way of aspersion.\n\n'''aspersoir''' (as-per-swor′), ''n.'' [F., < ML. ''aspersorium.''] Same as ''aspersorium.''\n\n'''aspersorium''' (as-pėr-sō′ri-um), ''n.''; pl. ''aspersoria'' (-ạ̈). [ML., < L. ''aspergere'', pp. ''aspersus'', besprinkle: see ''asperse.''] '''1.''' A brush,\n[[FIGURE]]\n{{c|{{smaller|Aspersorium.}}}}\nor oftener a metallic instrument, used by the priest in Roman Catholic churches for sprinkling holy water. Also called ''aspergillus, aspergillum, aspergill.''—'''2.''' A holy-water stoup or font. ''Parker'', Concise Glossary. [Not in common Middle Latin use.]\n\n'''aspersory''' (as-pėr′sọ̄-ri), ''a.'' [< ''asperse'' + ''-ory.'' Cf. ''aspersorium.''] Tending to asperse; defamatory.\n\n'''asphalt''' (as′falt or as-falt′), ''n.'' [Also written as F., ''asphalte'', and as NL., ''asphaltum'', formerly also ''asphaltus, -os, -a'', and as It., ''aspalto;'' in ME. spelled ''aspalt'', once ''aspaltoun;'' < OF. *''aspalt'' = Pr. ''asphalt'' = Sp. ''asfalto'' = It. ''aspalto, asfalto'', < Gr. ἄσφαλτος, asphalt, bitumen; a word of undetermined foreign origin.] '''1.''' Same as ''asphaltum.''—'''2.''' A bituminous material, employed for the covering of roofs and arches, for the lining of tanks, for pavement and flooring, and as a cement. See ''asphaltum.'' {{smaller|In the United States the substance so named is commonly made of refuse tar from gas-houses, mixed with slaked lime and gravel.}}",
+   "c3s4": "{{smaller|Also called ''asphaltic cement.''}}\n\n'''3.''' A thick solution of the finest asphaltum in spirits of turpentine, used by opticians. {{smaller|It is used for making cells on pieces of glass, in which objects may be preserved in liquid, for examination with the microscope. —'''Asphalt-furnace''', a portable furnace in which asphalt cement is heated for use in roofing, paving, etc.—'''Asphalt stone, asphalt rock.''' See ''asphaltum.''—'''Asphalt tiling''', a mosaic of china or glass bedded in asphalt, and made in the form of flooring-tiles.—'''Asphalt varnish''', a black var-}}"
+  },
+  "figure_files": {
+   "c3f1": "century v01 p0366 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1577,
+     2207,
+     1793,
+     2459
+    ],
+    "caption": [
+     1623,
+     2471,
+     1761,
+     2490
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1604,
+     2195,
+     1825,
+     2464
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 3917,
+    "output_tokens": 90,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9645,
+    "output_tokens": 9728,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f1": "left"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|aspen|340|asphalt}}</noinclude>the usual form in poetry, and is also common in prose.]\n{{smaller block|<poem>His hand did quake\nAnd tremble like a leafe of ''Aspin'' greene.</poem>\n{{right|''Spenser'', F. Q., I. ix. 51.}}}}\n{{smaller block|<poem>Only the pattering ''aspen''\nMade a sound of growing rain.</poem>\n{{right|''Lowell'', Singing Leaves.}}}}\n\n'''asper<sup>1</sup>†''' (as′pėr), ''a.''   [< ME. ''aspre'', ''aspere'', < OF. ''aspre'', < L. ''asper'', rough; origin undetermined.]   Rough; rugged; harsh; cruel; savage.   ''Chaucer.''\n{{smaller block|All base notes . . . give an ''asper'' sound.\n{{right|''Bacon'', Nat. Hist., § 173.}}}}\n\n'''asper<sup>1</sup>''' (as′pėr), ''n.''   [Short for L. ''spiritus asper'', a translation of Gr. πνεῦμα δασύ, rough breathing: see ''spirit'' and ''asper''<sup>1</sup>, ''a.'']   In ''Gr. gram.'', a sign (ʽ) placed before or over an initial vowel or ρ to show that it is aspirated, that is, pronounced as if ''h'' preceded it; the rough breathing. Thus, ὅς = ''hos''; ῥίς = ''hris''. {{smaller|[In Latin, and hence in modern, words derived from the Greek, aspirated ''r'' is represented by ''rh'', as in ''rhinoceros'', ''rhythm'', the ''h'' being silent in the modern pronunciation.]}}\n\n'''asper<sup>2</sup>''' (as′pėr), ''n.''   [= F. ''aspre'' = It. ''aspero'', < ML. ''asperus'', ''asprus'', ''asperum'', ''asprum'', < MGr. ἄσπρον, prop. neut. of ἄσπρος, white. In Turkish this coin is called ''aqcha'', lit. whitish, < ''aq'', white, + ''-cha'', ''-ja'', equiv. to E. ''-ish''<sup>1</sup>.]   An old Egyptian and Turkish silver coin: now only a money of account. {{smaller|A piaster is considered equal to 100 good aspers or 120 current ones. One current asper is equal to four ninths of a United States mill.}}\n{{smaller block|<poem>Demanded of me,\nFor what I valued at so many ''aspers'',\nA thousand ducats.</poem> {{right|''Massinger'', The Renegado, i. 3.}}}}\n\n'''aspera''' (as′pe̤-rä̤), ''n.''   [NL., fem. of L. ''asper'', rough.]   Same as ''asper-artery''.\n\n'''asper-artery''' (as′pėr-är″te̤-ri), ''n.''   [< L. ''aspera arteria'', or ''arteria aspera'', a tr. of Gr. ἀρτηρία τραχεῖα, lit. rough artery: see ''asper''<sup>1</sup>, ''artery'', and ''trachea''.]   The trachea or windpipe.   ''Coues.''\n\n'''asperate''' (as′pe̤-rāt), ''v. t.''   [< L. ''asperatus'', pp. of ''asperare'', roughen, < ''asper'', rough: see ''asper''<sup>1</sup>.]   To make rough or uneven in surface, sound, etc. [Rare.]\n{{smaller block|The level surface of clear water being by agitation ''asperated.''\n{{right|''Boyle'', Works, I. 683.}}}}\n\n'''asperation''' (as-pe̤-rā′sho̤n), ''n.''   [< ''asperate'' + ''-ion''.]   A making rough.   ''Bailey.''\n\n'''asperge''' (as-pėrj′), ''v. t.''; pret. and pp. ''asperged'', ppr. ''asperging''.   [= F. ''asperger'', < L. ''aspergere'', sprinkle, < ''ad'', to, + ''spargere'', sprinkle: see ''sparse'', and cf. ''asperse''.]   To sprinkle.\n{{smaller block|<poem>Each thing in order, as before,\nHis pious hands array,\n''Asperge'' the shrine; and then once more\nHe takes his cheerful way.</poem>\n{{right|''Bulwer'', tr. of Schiller’s Fridolin.}}}}\n\n'''aspergeoire†''', ''n.''   [OF., also ''aspergoir'' (mod. F. ''aspersoir''); cf. ML. ''aspergerium''; < L. ''aspergere'', sprinkle: see ''asperge'', and cf. ''aspergillus''.]   Same as ''aspersorium'', 1.\n\n'''asperges''' (as-pėr′jēz), ''n.''   [LL., prop. second pers. sing. future ind. of L. ''aspergere'', sprinkle: see ''asperge''.]   In the ''Rom. Cath. Ch.'': (''a'') An antiphon, taken from the Miserere, intoned by the celebrant and sung by the choir before the solemn mass on Sundays, during which the priest sprinkles with holy water the altar, clergy, and people. With some modifications, the same rite is practised in the Greek and Oriental churches. (''b'') The sprinkling performed by the priest during the antiphon.\n\n'''aspergill''' (as′pėr-jil), ''n.''   [< ML. ''aspergillus'', q. v.]   Same as ''aspersorium'', 1.\n\n'''aspergilla''', ''n.'' Plural of ''aspergillum''.\n\n'''aspergilli''', ''n.'' Plural of ''aspergillus''.\n\n'''aspergilliform''' (as-pėr-jil′i-fôrm), ''a.''   [< ML. ''aspergillus'', q. v., + L. ''forma'', shape.]   '''1.''' Shaped like an aspergillus or sprinkler.—'''2.''' In ''bot.'', brush-shaped; made up of numerous spreading hairs.\n\n'''aspergillum''' (as-pėr-jil′um), ''n.''; pl. ''aspergilla'' (-ạ̈).   [ML.: see ''aspergillus''.]   '''1.''' Same as ''aspersorium'', 1.—'''2.''' [''cap.''] [NL.] A genus of mollusks, the watering-pot shells, of a family ''Aspergillidæ'': a synonym of ''Brechites''.   ''Lamarck'', 1799.\n\n'''aspergillus''' (as-pėr-jil′us), ''n.''; pl. ''aspergilli'' (-ī).   [ML. (in sense 1), < L. ''aspergere'', sprinkle (see ''asperge''), + dim. ''-illus''.]   '''1.''' Same as ''aspersorium'', 1.—'''2.''' [''cap.''] [NL.] A genus of hyphomycetous fungi, including several of the common molds. {{smaller|Some of the species have been found to be only conidial forms of corresponding species of ''Eurotium'', and it is probable that the same is true of all. Several have}} been detected in the human ear and in diseased lungs. See cut under ''Eurotium.''\n\n'''Asperifoliæ''' (as″pėr-i-fō′li-ē), ''n. pl.''   [NL., fem. pl. of ''asperifolius'': see ''asperifolious''.]   Same as ''Boraginaceæ''.\n\n'''asperifoliate''' (as″pėr-i-fō′li-ạ̄t), ''a.''   [< NL. ''asperifoliatus'', < L. ''asper'', rough, + ''folium'', leaf: see ''asper''<sup>1</sup> and ''foliate''.]   Having leaves rough to the touch.\n\n'''asperifolious''' (as″pėr-i-fō′li-us), ''a.''   [< NL. ''asperifolius'': see ''asperifoliate''.]   Same as ''asperifoliate''.\n\n'''asperity''' (as-per′ị-ti), ''n.''; pl. ''asperities'' (-tiz).   [Early mod. E. ''asperitie'', < ME. ''asprete'', < OF. ''asprete'', mod. F. ''âpreté'' and ''aspérité'', < L. ''asperita(t-)s'', roughness, < ''asper'', rough: see ''asper''<sup>1</sup>.]   '''1.''' Roughness of surface; unevenness: opposed to ''smoothness''.\n{{smaller block|The pores and ''asperities'' of dry bodies.\n{{right|''Boyle'', Works, I. 683.}}}}\n{{smaller block|Four thousand pioneers were sent in advance . . . to conquer, in some degree, the ''asperities'' of the road.\n{{right|''Irving'', Granada, p. 320.}}}}\n'''2.''' Roughness of sound; harshness of pronunciation.\n{{smaller block|Those dissonances and ''asperities'' which still adhered to . . . our diction.\n{{right|''T. Warton'', Hist. of Eng. Poetry, iii. 62.}}}}\n'''3.''' Harshness of taste; sourness.\n{{smaller block|The ''asperity'' of tartarous salts.\n{{right|''Bp. Berkeley'', Siris, § 86.}}}}\n'''4.''' Roughness or ruggedness of temper; crabbedness; bitterness; severity: as, to chide one with ''asperity''; “''asperity'' of character,” ''Landor''.\n{{smaller block|It could only have been the strong political feeling of Warton which could have induced him to censure the prose of Milton with such ''asperity''.\n{{right|''I. D’Israeli'', Quar. of Auth., p. 261.}}}}\n{{smaller block|A royalist, . . . without any of that political ''asperity'' which is as unwomanly as a long beard.\n{{right|''Macaulay'', Sir William Temple.}}}}\n'''5.''' Disagreeableness; unpleasantness; difficulty: as, “the acclivities and ''asperities'' of duty,” ''Barrow'', Sermons, III. xlii.\n{{smaller block|The allurements of praise and the ''asperities'' of censure.\n{{right|''Sumner'', Fame and Glory.}}}}\n='''Syn. 4.''' ''Acrimony'', ''Harshness'', etc. See ''acrimony''.\n\n'''asperly†''' (as′pėr-li), ''adv.''   [Early mod. E. also ''asprely'', < ME. ''asperly''; < ''asper''<sup>1</sup> + ''-ly''<sup>2</sup>.]   Roughly; sharply; vigorously.\n{{smaller block|Enforced their enemies to strike on land, and there assaulted them so ''asprely''.\n{{right|''Sir T. Elyot'', The Governour, i. 17.}}}}\n\n'''aspermatism''' (as-pėr′ma̤-tizm), ''n.''   [< Gr. ἀ- priv. + σπέρμα(τ-), seed, + ''-ism''.]   '''1.''' Absence of seminal secretion.—'''2.''' The non-emission of semen in the sexual orgasm, owing to its reflux into the bladder.\n\n'''aspermatous''' (as-pėr′ma̤-tus), ''a.'' Same as ''aspermous''.\n\n'''aspermous''' (as-pėr′mus), ''a.''   [< NL. ''aspermus'', < Gr. ἄσπερμος, seedless, < ἀ- priv. + σπέρμα, seed: see ''sperm''.]   In ''bot.'', destitute of seed.\n\n'''aspernation†''' (as-pėr-nā′sho̤n), ''n.''   [< L. ''aspernatio(n-)'', < ''aspernari'', pp. ''aspernatus'', disdain, spurn, neglect, < ''ab'', from, + ''spernari'', despise, spurn.]   '''1.''' A despising, etc.   ''Bailey'', 1731.—'''2.''' Neglect; disregard.   ''Johnson.''\n\n'''asperness†''', ''n.''   [ME. ''asprenesse''; < ''asper''<sup>1</sup> + ''-ness''.]   Harshness; severity.   ''Chaucer.''\n\n'''asperous†''' (as′pėr-us), ''a.''   [< L. ''asper'', rough (see ''asper''<sup>1</sup>), + ''-ous''.]   Rough to the touch; uneven; harsh; severe.\n\n'''asperse''' (as-pėrs′), ''v. t.''; pret. and pp. ''aspersed'', ppr. ''aspersing''.   [< L. ''aspersus'', pp. of ''aspergere'', besprinkle, bespatter: see ''asperge''.]   '''1.''' To besprinkle; scatter over.\n{{smaller block|''Asperse'' and sprinkle the attendants.\n{{right|''J. Heath'', Flagellum, p. 159.}}}}\n{{smaller block|The mourners returning from a Roman funeral, ''aspersed'' with water and stepping over fire, were by this double process made pure.\n{{right|''E. B. Tylor'', Prim. Culture, II. 398.}}}}\n'''2.''' To bespatter with foul reports or false and injurious charges; tarnish in point of reputation or good name; slander; calumniate.\n{{smaller block|With blackest crimes ''aspersed''.\n{{right|''Cowper'', Iliad, vi.}}}}\n{{smaller block|What perplexed us most, was to think who could be so base as to ''asperse'' the character of a family so harmless as ours.\n{{right|''Goldsmith'', Vicar, xiv.}}}}\n{{smaller|='''Syn. 2.''' ''Asperse, Defame, Calumniate, Slander, Malign, Traduce, Libel, Vilify'', decry, depreciate, disparage, slur, run down, lampoon, blacken. These words are all descriptive of attempts to injure reputation by false statements. They all apply primarily and chiefly to persons. There is often little or no difference between them. ''Asperse'' is, literally, to bespatter, as with mud or dirt; it sometimes implies injury to reputation by indirect insinuation. ''Defame'' is, literally, to lower the fame or repute of, to bring toward infamy, to make charges that are more open and weighty than aspersions. ''Calumniate, slander'', and ''malign'' represent the most deliberate and deadly assaults upon reputation. The ''calumniator'' is most often the inventor of the falsehoods he circulates. The ''slanderer'' is less inventive and more secret, his work being generally behind the back of the injured person. The ''maligner'' is most mischievous, malicious, or ''malign'' in his motives. To ''traduce'' is to misrepresent, to show in an odious light. ''Libel'' and ''slander'' are the words most used in speaking of injury to reputation in its relation to the possible recovery of damages at law. To ''libel'', therefore, often suggests the pecuniary loss by defamation; ''libel'' is strictly effected by publication, while ''slander'' is strictly by word of mouth. ''Vilify'' is, literally, to make one (seem) vile; it suggests a defamation of the coarser and more abusive sort. See ''decry''.}}\n\n{{smaller block|I am not sure . . . whether I ought not to call you out for ''aspersing'' the honour of the family.\n{{right|''Barham'', Ingoldsby Legends, I. 35.}}}}\n\n{{smaller block|Whenever you would ruin a person or a government, you must begin by spreading calumnies to ''defame'' them.\n{{right|Quoted by ''I. D’Israeli'', Amen. of Lit., II. 75.}}}}\n\n{{smaller block|One trade or art, even those that should be the most liberal, make it their business to disdain and ''calumniate'' another. {{right|''Bp. Sprat.''}}}}\n\n{{smaller block|Thou sittest and speakest against thy brother; thou ''slanderest'' thine own mother’s son. {{right|Ps. l. 20.}}}}\n\n<poem>You ''malign'' our senators, for that\nThey are not such as you.</poem>\n{{smaller block|{{right|''Shak.'', Cor., i. 1.}}}}\n\n<poem>If I am\n''Traduc’d'' by ignorant tongues, . . .\n’Tis but the fate of place, and the rough brake\nThat virtue must go through.</poem>\n{{smaller block|{{right|''Shak.'', Hen. VIII., i. 2.}}}}\n\n{{smaller block|His [Dr. Kendrick’s] virulent attack on Johnson’s Shakespeare may be preserved for its total want of literary decency. . . . He ''libelled'' all the genius of the age, and was proud of doing it. {{right|''I. D’Israeli'', Cal. of Auth., p. 217.}}}}\n\n{{smaller block|When I find the first of men, in rank and genius, hating one another, and becoming slanderers and liars in order to lower and ''vilify'' an opponent, . . . I look back in vain on any barbarous people for more barbarism.\n{{right|''Landor'', Peter the Great and Alexis.}}}}\n\n'''aspersed''' (as-pėrst′), ''p. a.'' In ''her.'', same as ''semé''.\n\n'''asperser''' (as-pėr′sėr), ''n.'' '''1.''' An aspersorium. —'''2.''' One who asperses or vilifies another.\n\n'''aspersion''' (as-pėr′shọn), ''n.''   [= F. ''aspersion'', < L. ''aspersio''(''n''-), a besprinkling, < ''aspergere'', besprinkle: see ''asperse'', ''asperge''.]   '''1.''' A sprinkling, as of or with water.\n{{smaller block|<poem>No sweet ''aspersion'' shall the heavens let fall\nTo make this contract grow. ''Shak.'', Tempest, iv. 1.</poem>\nTo season a surly discourse with a more pleasing ''aspersion'' of love matters. ''Burton'', Anat. of Mel., p. 424.\n\nXimenes, unable to administer the rite to each individually, was obliged to adopt the expedient familiar to the Christian missionaries, of christening them en masse by ''aspersion''; scattering the consecrated drops from a mop, or hyssop, as it was called, which he twirled over the heads of the multitude. ''Prescott'', Ferd. and Isa., ii. 6.}}\n'''2.''' The making of calumnious reports, imputations, or charges; a derogatory assertion or criticism; calumny; censure.\n{{smaller block|There, sir, an attack upon my language! what do you think of that?—an ''aspersion'' upon my parts of speech!\n{{right|''Sheridan'', The Rivals, iii. 3.}}}}\n{{smaller block|Every candid critic would be ashamed to cast wholesale ''aspersions'' on the entire body of professional teachers.\n{{right|''Grote'', Hist. Greece, II. 67.}}}}\n\n'''aspersive''' (as-pėr′siv), ''a.''   [< ''asperse'' + ''-ive''.]   Tending to asperse; defamatory; calumnious; slanderous.\n\n'''aspersively''' (as-pėr′siv-li), ''adv.'' In an aspersive manner; by way of aspersion.\n\n'''aspersoir''' (as-per-swor′), ''n.''   [F., < ML. ''aspersorium.'']   Same as ''aspersorium.''\n\n'''aspersorium''' (as-pėr-sō′ri-um), ''n.''; pl. ''aspersoria'' (-ạ̈).   [ML., < L. ''aspergere'', pp. ''aspersus'', besprinkle: see ''asperse.'']   '''1.''' A brush, {{img float|file=century v01 p0366 c3f1.png|width=116px|align=left|cap={{smaller|Aspersorium.}}}} or oftener a metallic instrument, used by the priest in Roman Catholic churches for sprinkling holy water. Also called ''aspergillus, aspergillum, aspergill.''—'''2.''' A holy-water stoup or font.   ''Parker'', Concise Glossary. [Not in common Middle Latin use.]\n\n'''aspersory''' (as-pėr′sọ̄-ri), ''a.''   [< ''asperse'' + ''-ory.'' Cf. ''aspersorium.'']   Tending to asperse; defamatory.\n\n'''asphalt''' (as′falt or as-falt′), ''n.''   [Also written as F., ''asphalte'', and as NL., ''asphaltum'', formerly also ''asphaltus, -os, -a'', and as It., ''aspalto;'' in ME. spelled ''aspalt'', once ''aspaltoun;'' < OF. *''aspalt'' = Pr. ''asphalt'' = Sp. ''asfalto'' = It. ''aspalto, asfalto'', < Gr. ἄσφαλτος, asphalt, bitumen; a word of undetermined foreign origin.]   '''1.''' Same as ''asphaltum.''—'''2.''' A bituminous material, employed for the covering of roofs and arches, for the lining of tanks, for pavement and flooring, and as a cement. See ''asphaltum.'' {{smaller|In the United States the substance so named is commonly made of refuse tar from gas-houses, mixed with slaked lime and gravel. Also called ''asphaltic cement.''}}\n\n'''3.''' A thick solution of the finest asphaltum in spirits of turpentine, used by opticians. {{smaller|It is used for making cells on pieces of glass, in which objects may be preserved in liquid, for examination with the microscope. —'''Asphalt-furnace''', a portable furnace in which asphalt cement is heated for use in roofing, paving, etc.—'''Asphalt stone, asphalt rock.''' See ''asphaltum.''—'''Asphalt tiling''', a mosaic of china or glass bedded in asphalt, and made in the form of flooring-tiles.—'''Asphalt varnish''', a black var-}}<noinclude><references/></noinclude>"
+}

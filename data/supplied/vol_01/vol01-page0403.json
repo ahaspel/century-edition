@@ -1,0 +1,178 @@
+{
+ "volume": 1,
+ "page_number": 403,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n402.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n402.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 740,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     85,
+     141,
+     2297,
+     178
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     85,
+     178,
+     831,
+     1103
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     85,
+     1103,
+     831,
+     2085
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     85,
+     2085,
+     831,
+     3156
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     85,
+     3156,
+     831,
+     3284
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     831,
+     178,
+     1567,
+     1196
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     831,
+     1196,
+     1567,
+     2279
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     831,
+     2279,
+     1567,
+     3284
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1567,
+     178,
+     2297,
+     1260
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1567,
+     1260,
+     2297,
+     2250
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1567,
+     2250,
+     2297,
+     3284
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|auction|377|audit}}",
+   "c1s1": "¶\n'''auction''' (âk′shọn), ''v. t.'' [< ''auction'', ''n.''] To sell by auction: commonly used with ''off''.\n{{smaller block|A catalogue deals with articles to be ''auctioned''.\n{{right|''The American'', VII. 134.}}}}\n\n'''auctionary''' (âk′shọn-ā-ri), ''a.'' [< L. ''auctionarius'', < ''auctio(n-)'', an auction. Cf. ''auctioneer''.] Pertaining or relating to an auction or public sale.\n{{smaller block|With ''auctionary'' hammer in thy hand.\n{{right|''Dryden'', tr. of Juvenal’s Satires, vii.}}}}\n\n'''auctioneer''' (âk-shọn-ēr′), ''n.'' [< ''auction'' + ''-eer''. Cf. L. ''auctionarius'', under ''auctionary''.] One whose business is to offer goods or property for sale by auction; the crier who calls for bids and strikes the bargain at an auction; a person licensed to dispose of goods or property by public sale to the highest bidder.\n\n'''auctioneer''' (âk-shọn-ēr′), ''v. t.'' [< ''auctioneer'', ''n.''] To sell by auction.\n{{smaller block|<poem>Estates are landscapes, gaz’d upon awhile,\nThen advertis’d, and ''auctioneer’d'' away.</poem>\n{{right|''Cowper'', Task, iii. 756.}}}}\n\n'''auction-pitch''' (âk′shọn-pitch), ''n.'' See ''pitch''<sup>1</sup>.\n\n'''auction-pool''' (âk′shọn-pöl), ''n.'' In ''betting'', a pool in which the highest bidder has the first choice, the second, third, etc., choices being then sold, and the remainder, comprising those most unlikely to win, being “bunched” and sold as “the field,” the winner taking the en-",
+   "c1s2": "tire pool thus formed.\n\n'''auctive†''' (âk′tiv), ''a.'' [< L. ''auctus'', pp. of ''augere'', increase (see ''auction''), + ''-ive''.] Increasing; serving to increase. ''Coles'', 1717.\n\n'''auctor†''', ''n.'' An obsolete form of ''author''.\n\n'''auctorial''' (âk-tō′ri-al), ''a.'' [< L. ''auctor'' (see ''author'') + ''-ial''. Cf. ''authorial''.] Of or pertaining to an author.\n{{smaller block|There is more than people think in the gratification of the ''auctorial'' eye, and the reflection that good writing will be handsomely placed before the public.\n{{right|''The Century.''}}}}\n\n'''auctour†''', ''n.'' An obsolete form of ''author''. ''Chaucer.''\n\n'''aucuba''' (â′kụ̄-bä), ''n.'' [NL., prob. < Jap. ''aoki'', green, + ''ba'' = ''ha'', a leaf.] '''1.''' A shrub of the genus ''Aucuba''.—'''2.''' [''cap.''] A genus of plants, natural order ''Cornaceæ'', consisting of six species from eastern Asia. {{smaller|They are branching shrubs, with smooth opposite leaves and small unisexual flowers. ''A. Japonica'' has long been in cultivation, and is prized for its mass of glossy leathery green leaves, mottled with yellow, and its coral-red berries.}}\n\n'''aucupate''' (â′kū-pāt), ''v. t.''; pret. and pp. ''aucupated'', ppr. ''aucupating''. [< L. ''aucupatus'', pp. of ''aucupari'', go bird-catching, < ''auceps'' (''aucup-''), a bird-catcher, contr. of *''aviceps'', < ''avis'', a bird (see ''Aves''), + ''capere'', take: see ''capable''.] Literally, to go bird-catching; hence, to lie in wait for; hunt after; gain by craft.\n{{smaller block|To ''aucupate'' benefices by cajoling the Patrons.\n{{right|''Gentleman’s Mag.'', CIV. 66. (''N. E. D.'')}}}}",
+   "c1s3": "¶\n'''aucupation†''' (â-kū-pā′shon), ''n.'' [< L. ''aucupatio''(''n''-), < ''aucupari'': see ''aucupate''.] '''1.''' The art or practice of taking birds; fowling; bird-catching. ''Blount.''—'''2.''' Hunting in general. ''Bullokar.''\n\n'''aud''' (âd), ''a.'' [Cf. ''auld''.] A dialectal form of ''old''. [North. Eng. and Scotch.]\n\n'''audacious''' (â-dā′shus), ''a.'' [= F. ''audacieux'', < ''audace'', boldness, < L. ''audacia'', boldness, < ''audax'' (''audac''-), bold, < ''audēre'', be bold, dare.] '''1.''' Bold or daring; spirited; adventurous; intrepid.\n{{smaller block|She that shall be my wife, must be accomplished with courtly and ''audacious'' ornaments.\n{{right|''B. Jonson'', Epicœne, ii. 3.}}}}\n{{smaller block|<poem>Her sparkling eyes with manly vigour shone,\nBig was her voice, ''audacious'' was her tone.</poem>\n{{right|''Dryden'', tr. of Ovid’s Iphis and Ianthe.}}}}\n{{smaller block|Since the day when Martin Luther posted his ''audacious'' heresies on the church-door at Wittemberg, a great change has come over men’s minds. ''J. Fiske'', Evolutionist, p. 268.}}\n'''2.''' Unrestrained by law, religion, or propriety; characterized by contempt or defiance of the principles of law or morality; presumptuously wicked; shameless; insolent; impudent: as, an ''audacious'' traitor; an ''audacious'' calumny; “''audacious'' cruelty,” ''Shak.'', 1 Hen. IV., iv. 3. ='''Syn. 1.''' {{smaller|Intrepid, foolhardy, rash.—'''2.''' Shameless, unabashed, presumptuous.}}\n\n'''audaciously''' (â-dā′shus-li), ''adv.'' In an audacious manner; with excess of boldness or insolence.\n{{smaller block|The strongest, the best, the most ''audaciously'' independent of us, will be conscious, as age assaults us, of our weakness and helplessness.\n{{right|''R. T. Cooke'', Somebody’s Neighbors, p. 260.}}}}\n\n'''audaciousness''' (â-dā′shus-nes), ''n.'' The quality",
+   "c1s4": "of being audacious; boldness; reckless daring; impudence; audacity.\n\n¶\n'''audacity''' (â-das′i-ti), ''n.''; pl. ''audacities'' (-tiz). [< ME. ''audacite'', < L. as if *''audacita''(''t''-)''s'', bold-",
+   "c2s1": "ness, < ''audax'' (''audac-''), bold: see ''audacious.''] '''1.''' Boldness; daring; confidence; intrepidity.\n{{smaller block|The freedom and ''audacity'' necessary in the commerce of men.\n{{right|''Tatler.''}}}}\n{{smaller block|No Homer sang these Norse sea-kings; but Agamemnon’s was a small ''audacity'', and of small fruit in the world to some of them—to Rolf’s of Normandy for instance.\n{{right|''Carlyle.''}}}}\n'''2.''' Reckless daring; venturesomeness.\n{{smaller block|A touch of ''audacity'', altogether short of effrontery, and far less approaching to vulgarity, gave as it were a wildness to all that she did.\n{{right|''Scott'', The Abbot, iv.}}}}\n'''3.''' Audaciousness; presumptuous impudence; effrontery: in a bad sense, and often implying a contempt of law or moral restraint: as, “arrogant ''audacity'',” ''Joye'', Expos. of Daniel, vii.—'''4.''' An audacious person or act. [Rare.] ='''Syn. 2.''' {{smaller|Hardihood.—'''3.''' Presumption, coolness.}}\n\n'''Audian''' (â′di-an), ''n.'' A follower of Audius or Audæus, a Syrian layman in Mesopotamia, who in the fourth century founded a sect holding anthropomorphitic views, and was irregularly ordained a bishop.\n\n'''Audianism''' (â′di-an-izm), ''n.'' The peculiar doctrinal system of Audius and the Audians.\n{{smaller block|In addition to strict asceticism, it consisted mainly in a literal interpretation of Gen. i. 26, 27, reasoning from the constitution of man to the nature of God.}}\n\n'''audibility''' (â-di-bil′i̤-ti), ''n.'' [< ''audible'': see ''-bility''.] The quality of being audible.\n{{smaller block|The note itself is possibly too feeble for ''audibility''.\n{{right|''J. E. H. Gordon'', Elect. and Mag., II. 92.}}}}\n\n'''audible''' (â′di-bl), ''a.'' and ''n.'' [< ML. ''audibilis'',",
+   "c2s2": "that may be heard, < L. ''audire'', hear: see ''audient''.] '''I.''' ''a.'' Capable of being heard; perceivable by the ear; loud enough to be heard: as, an ''audible'' voice or whisper.\n{{smaller block|To man’s eares not ''audible''. {{right|''Sir T. More.''}}\nEven that stubborn church which has held its own against so many governments, scarce dared to utter an ''audible'' murmur. {{right|''Macaulay'', Hist. Eng., i.}}}}\n'''II.†''' ''n.'' That which may be heard.\n{{smaller block|Visibles are swiftlier carried to the sense than ''audibles''. {{right|''Bacon'', Nat. Hist., § 273.}}}}\n\n'''audibleness''' (â′di-bl-nes), ''n.'' Audibility.\n\n'''audibly''' (â′di-bli), ''adv.'' In an audible manner; so as to be heard.\n\n'''audience''' (â′di-ens), ''n.'' [< ME. ''audience'', < OF. ''audience'' (vernacularly ''oiance''), mod. F. ''audience'' = Sp. Pg. ''audiencia'' = It. ''audienza'', ''audienzia'', < L. ''audientia'', attention, hearing, < ''audien(t-)s'', ppr. of ''audire'', hear: see ''audient''.] '''1.''' The act or state of hearing or attending to words or sounds; the act of listening.\n{{smaller block|<poem>His look\nDrew ''audience'', and attention still as night.</poem>\n{{right|''Milton'', P. L., ii. 308.}}}}\n'''2.''' Liberty or opportunity of being heard; liberty or opportunity of speaking with or before, as before an assembly or a court of law; specifically, admission of an ambassador, envoy, or other applicant to a formal interview with a sovereign or other high officer of government.\n{{smaller block|Were it reason to give men ''audience'', pleading for the overthrow of that which their own deed hath ratified? {{right|''Hooker.''}}\n<poem>That day Sir Lancelot at the palace craved\n''Audience'' of Guinevere.</poem>}}",
+   "c2s3": "{{smaller block|{{right|''Tennyson'', Lancelot and Elaine.}}}}\n'''3.''' A hearing; an interview or conference.\n{{smaller block|This conversation was not ended under five ''audiences'', each of several hours. {{right|''Swift'', Gulliver’s Travels, ii. 6.}}}}\n'''4.''' An auditory; an assembly of hearers.\n{{smaller block|<poem>Still govern thou my song,\nUrania, and fit ''audience'' find, though few.</poem>\n{{right|''Milton'', P. L., vii. 31.}}}}\n'''5.''' [Sp. ''audiencia'', commonly used in English writing without translation.] In Spain and Spanish countries, a name given to certain courts, also collectively to certain law-officers appointed to institute a judicial inquiry.\n{{smaller block|Among those of the former class was the president, Deza, with the members of the ''audience'', and the civil authorities in Granada. {{right|''Prescott.''}}}}\n'''6.''' In England, an abbreviation for ''audience-court'' (which see). ='''Syn. 4.''' {{smaller|See ''spectator.''}}\n\n'''audience-chamber''' (â′di-e̤ns-chām″bėr), ''n.'' An apartment for an audience or a formal meeting.\n\n'''audience-court''' (â′di-e̤ns-kōrt), ''n.'' An ecclesiastical court, now disused, held by the archbishops of Canterbury and York or by auditors in their behalf. {{smaller|That held by the Archbishop of Canterbury had equal authority with the Court of Arches, though of less dignity, and is now merged in it.}}\n\n'''audiencia''' (Sp. pron. ou-dē-en-thē′ä), ''n.'' [Sp.] See ''audience'', 5.\n\n'''audiendo et terminando''' (â-di-en′dō et tėr-mi-nan′dō). [ML., for hearing and deciding; dat. ger. of L. ''audire'', hear (see ''audient''), and of ''terminare'', end, decide (see ''terminate''). Cf. ''oyer and''",
+   "c3s1": "''terminer'', under ''oyer''.] In ''law'', a writ or commission to certain persons for appeasing and punishing any insurrection or great riot.\n\n'''audient''' (â′di-ẹnt), ''a.'' and ''n.'' [< L. ''audien(t-)s'', ppr. of ''audire'' (> It. ''udire'' = Sp. ''oir'' = Pg. ''ouvir'' = Pr. ''ausir'' = OF. ''odir'', ''oir'' (AF. ''oyer'', > E. ''oyer'', q. v.), mod. F. ''ouir''), hear; cf. Gr. ἀΐειν, hear: see ''hear'' and ''ear''<sup>1</sup>.] '''I.''' ''a.'' Hearing; listening. ''Mrs. Browning.''\n\n'''II.''' ''n.'' '''1.''' A hearer.\n{{smaller block|The ''audients'' of her sad story felt great motions both of pity and admiration for her misfortune.\n{{right|''Shelton'', tr. of Don Quixote, iv. 2.}}}}\n'''2.''' In the ''early church'': (''a'') One not yet baptized, but receiving instruction preparatory to baptism; a catechumen of the first stage. {{smaller|Such persons were permitted to hear the psalms, lessons, and sermon, but were not present at the more sacred services which followed.}} (''b'') In the ''Eastern Church'', according to the systematic classification of penitents in force at the close of the third century, but becoming obsolete early in the fifth, one of the second class of public penitents, occupying a station higher than that of the weepers and lower than that of the prostrates. {{smaller|The audients were not allowed to enter the body of the church, but heard the opening prayers and sermon standing in the narthex, which was also the place of the catechumens, and, like them, had to depart before the offertory and anaphora. See ''penitent''. Also called ''auditor''.}}\n\n'''audile''' (â′dil), ''n.'' [Irreg. < L. ''audire'', hear (see ''audient''), + ''-ile''.] One in whose mind auditory images are predominant, or especially distinct.\n{{smaller block|Stricker, a motile, declares that it is impossible to represent to ourselves other vowels while pronouncing any particular one, say ''a'': he can only represent them as}}",
+   "c3s2": "{{smaller block|motor images which clash with the motor presentation. M. Paulhan, an ''audile'', declares he can easily do what Stricker declares impossible, for he can represent the auditory images of ''i'' and ''u'' while the motor presentation of ''a'' is being presented.\n{{right|''Mind'', XI. 415.}}}}\n\n¶\n'''audiometer''' (â-di-om′e-tėr), ''n.'' [Irreg. < L. ''audire'', hear, + ''metrum'', < Gr. μέτρον, a measure.] An instrument designed to gage the power of hearing and record it upon an arbitrary scale.\n\n'''audiometric''' (â″di-ọ̄-met′rik), ''a.'' Of or pertaining to audiometry.\n\n'''audiometry''' (â-di-om′e-tri), ''n.'' [As ''audiometer'' + ''-y''.] The testing of the sense of hearing, especially by means of the audiometer.\n\n'''audiphone''' (â′di-fōn), ''n.'' [Irreg. < L. ''audire'', hear, + Gr. φωνή, a sound.] An instrument for counteracting deafness by collecting the sound-waves and transmitting the vibrations to the auditory nerves through the bony part of the head. {{smaller|It consists of a diaphragm, or plate, which is held in contact with the upper teeth, and is vibrated by sound-waves.}}\n\n'''audit''' (â′dit), ''n.'' [< L. ''auditus'', a hearing, < ''audire'', pp. ''auditus'', hear: see ''audient''.] '''1†.''' Audience; hearing.\n{{smaller block|With his Orisons I meddle not, for hee appeals to a high ''Audit''.\n{{right|''Milton'', Eikonoklastes, v.}}\n<poem>Whoso seeks an ''audit'' here\nPropitious, pays his tribute, game or fish.</poem>\n{{right|''Cowper'', Task, iv. 610.}}}}\n'''2.''' Official examination and verification of accounts or claims; an examination into accounts or dealings with money or property; es-",
+   "c3s3": "pecially, an examination of accounts by proper officers, or persons appointed for that purpose, who compare the charges with the vouchers, examine witnesses, and state the result.\n{{smaller block|The rule of insisting on a proper ''audit'' of account was a corollary from the practice of appropriating the supplies to particular purposes. {{right|''Stubbs'', Const. Hist., § 694.}}}}\nHence—'''3.''' A calling to account; an examination into one’s actions.\n{{smaller block|You must prepare against to-morrow for your last suffering here, and your great ''audit'' hereafter. {{right|''Scott.''}}}}\n'''4.''' An account or a statement of account; a balance-sheet.\n{{smaller block|And, how his ''audit'' stands, who knows, save heaven? {{right|''Shak.'', Hamlet, iii. 3.}}}}\n'''5†.''' A periodical auditing or settlement of accounts; hence, receipts; revenues.\n{{smaller block|I knew a nobleman in England that had the greatest ''audits'' of any man in my time: a great grazier, a great sheep-master, a great timber-man, &c. {{right|''Bacon'', Riches.}}}}\n{{smaller|'''Commissioners of audit,''' formerly called ''auditors of the Exchequer'', in England, officers appointed to call on all public accountants to account for money or stores intrusted to them, and to check the accounts of the ordnance, army, and navy, and the land-revenue. The establishment consists of a chairman and five commissioners, a secretary, and numerous subordinates.}}\n\n'''audit''' (â′dit), ''v.'' [< ''audit'', ''n.''] '''I.''' ''trans.'' To make audit of; examine and verify by reference to vouchers, as an account or accounts: as, to ''audit'' the accounts of a treasurer.\n{{smaller block|In 1406 the commons, who objected to making a grant until the accounts of the last grant were ''audited'', were told by Henry that kings do not render accounts. {{right|''Stubbs'', Const. Hist., § 694.}}}}"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 1,
+    "input_tokens": 2673,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9564,
+    "output_tokens": 7961,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|auction|377|audit}}</noinclude>{{nop}}'''auction''' (âk′shọn), ''v. t.''   [< ''auction'', ''n.'']   To sell by auction: commonly used with ''off''.\n{{smaller block|A catalogue deals with articles to be ''auctioned''.\n{{right|''The American'', VII. 134.}}}}\n\n'''auctionary''' (âk′shọn-ā-ri), ''a.''   [< L. ''auctionarius'', < ''auctio(n-)'', an auction. Cf. ''auctioneer''.]   Pertaining or relating to an auction or public sale.\n{{smaller block|With ''auctionary'' hammer in thy hand.\n{{right|''Dryden'', tr. of Juvenal’s Satires, vii.}}}}\n\n'''auctioneer''' (âk-shọn-ēr′), ''n.''   [< ''auction'' + ''-eer''. Cf. L. ''auctionarius'', under ''auctionary''.]   One whose business is to offer goods or property for sale by auction; the crier who calls for bids and strikes the bargain at an auction; a person licensed to dispose of goods or property by public sale to the highest bidder.\n\n'''auctioneer''' (âk-shọn-ēr′), ''v. t.''   [< ''auctioneer'', ''n.'']   To sell by auction.\n{{smaller block|<poem>Estates are landscapes, gaz’d upon awhile,\nThen advertis’d, and ''auctioneer’d'' away.</poem>\n{{right|''Cowper'', Task, iii. 756.}}}}\n\n'''auction-pitch''' (âk′shọn-pitch), ''n.'' See ''pitch''<sup>1</sup>.\n\n'''auction-pool''' (âk′shọn-pöl), ''n.'' In ''betting'', a pool in which the highest bidder has the first choice, the second, third, etc., choices being then sold, and the remainder, comprising those most unlikely to win, being “bunched” and sold as “the field,” the winner taking the entire pool thus formed.\n\n'''auctive†''' (âk′tiv), ''a.''   [< L. ''auctus'', pp. of ''augere'', increase (see ''auction''), + ''-ive''.]   Increasing; serving to increase.   ''Coles'', 1717.\n\n'''auctor†''', ''n.'' An obsolete form of ''author''.\n\n'''auctorial''' (âk-tō′ri-al), ''a.''   [< L. ''auctor'' (see ''author'') + ''-ial''. Cf. ''authorial''.]   Of or pertaining to an author.\n{{smaller block|There is more than people think in the gratification of the ''auctorial'' eye, and the reflection that good writing will be handsomely placed before the public.\n{{right|''The Century.''}}}}\n\n'''auctour†''', ''n.'' An obsolete form of ''author''.   ''Chaucer.''\n\n'''aucuba''' (â′kụ̄-bä), ''n.''   [NL., prob. < Jap. ''aoki'', green, + ''ba'' = ''ha'', a leaf.]   '''1.''' A shrub of the genus ''Aucuba''.—'''2.''' [''cap.''] A genus of plants, natural order ''Cornaceæ'', consisting of six species from eastern Asia. {{smaller|They are branching shrubs, with smooth opposite leaves and small unisexual flowers. ''A. Japonica'' has long been in cultivation, and is prized for its mass of glossy leathery green leaves, mottled with yellow, and its coral-red berries.}}\n\n'''aucupate''' (â′kū-pāt), ''v. t.''; pret. and pp. ''aucupated'', ppr. ''aucupating''.   [< L. ''aucupatus'', pp. of ''aucupari'', go bird-catching, < ''auceps'' (''aucup-''), a bird-catcher, contr. of *''aviceps'', < ''avis'', a bird (see ''Aves''), + ''capere'', take: see ''capable''.]   Literally, to go bird-catching; hence, to lie in wait for; hunt after; gain by craft.\n{{smaller block|To ''aucupate'' benefices by cajoling the Patrons.\n{{right|''Gentleman’s Mag.'', CIV. 66. (''N. E. D.'')}}}}\n\n'''aucupation†''' (â-kū-pā′shon), ''n.''   [< L. ''aucupatio''(''n''-), < ''aucupari'': see ''aucupate''.]   '''1.''' The art or practice of taking birds; fowling; bird-catching.   ''Blount.''—'''2.''' Hunting in general.   ''Bullokar.''\n\n'''aud''' (âd), ''a.''   [Cf. ''auld''.]   A dialectal form of ''old''. [North. Eng. and Scotch.]\n\n'''audacious''' (â-dā′shus), ''a.''   [= F. ''audacieux'', < ''audace'', boldness, < L. ''audacia'', boldness, < ''audax'' (''audac''-), bold, < ''audēre'', be bold, dare.]   '''1.''' Bold or daring; spirited; adventurous; intrepid.\n{{smaller block|She that shall be my wife, must be accomplished with courtly and ''audacious'' ornaments.\n{{right|''B. Jonson'', Epicœne, ii. 3.}}}}\n{{smaller block|<poem>Her sparkling eyes with manly vigour shone,\nBig was her voice, ''audacious'' was her tone.</poem>\n{{right|''Dryden'', tr. of Ovid’s Iphis and Ianthe.}}}}\n{{smaller block|Since the day when Martin Luther posted his ''audacious'' heresies on the church-door at Wittemberg, a great change has come over men’s minds.\n{{right|''J. Fiske'', Evolutionist, p. 268.}}}}\n'''2.''' Unrestrained by law, religion, or propriety; characterized by contempt or defiance of the principles of law or morality; presumptuously wicked; shameless; insolent; impudent: as, an ''audacious'' traitor; an ''audacious'' calumny; “''audacious'' cruelty,” ''Shak.'', 1 Hen. IV., iv. 3. ='''Syn. 1.''' {{smaller|Intrepid, foolhardy, rash.—'''2.''' Shameless, unabashed, presumptuous.}}\n\n'''audaciously''' (â-dā′shus-li), ''adv.'' In an audacious manner; with excess of boldness or insolence.\n{{smaller block|The strongest, the best, the most ''audaciously'' independent of us, will be conscious, as age assaults us, of our weakness and helplessness.\n{{right|''R. T. Cooke'', Somebody’s Neighbors, p. 260.}}}}\n\n'''audaciousness''' (â-dā′shus-nes), ''n.'' The quality of being audacious; boldness; reckless daring; impudence; audacity.\n\n'''audacity''' (â-das′i-ti), ''n.''; pl. ''audacities'' (-tiz).   [< ME. ''audacite'', < L. as if *''audacita''(''t''-)''s'', boldness, < ''audax'' (''audac-''), bold: see ''audacious.'']   '''1.''' Boldness; daring; confidence; intrepidity.\n{{smaller block|The freedom and ''audacity'' necessary in the commerce of men.\n{{right|''Tatler.''}}}}\n{{smaller block|No Homer sang these Norse sea-kings; but Agamemnon’s was a small ''audacity'', and of small fruit in the world to some of them—to Rolf’s of Normandy for instance.\n{{right|''Carlyle.''}}}}\n'''2.''' Reckless daring; venturesomeness.\n{{smaller block|A touch of ''audacity'', altogether short of effrontery, and far less approaching to vulgarity, gave as it were a wildness to all that she did.\n{{right|''Scott'', The Abbot, iv.}}}}\n'''3.''' Audaciousness; presumptuous impudence; effrontery: in a bad sense, and often implying a contempt of law or moral restraint: as, “arrogant ''audacity'',” ''Joye'', Expos. of Daniel, vii.—'''4.''' An audacious person or act. [Rare.] ='''Syn. 2.''' {{smaller|Hardihood.—'''3.''' Presumption, coolness.}}\n\n'''Audian''' (â′di-an), ''n.'' A follower of Audius or Audæus, a Syrian layman in Mesopotamia, who in the fourth century founded a sect holding anthropomorphitic views, and was irregularly ordained a bishop.\n\n'''Audianism''' (â′di-an-izm), ''n.'' The peculiar doctrinal system of Audius and the Audians.\n{{smaller block|In addition to strict asceticism, it consisted mainly in a literal interpretation of Gen. i. 26, 27, reasoning from the constitution of man to the nature of God.}}\n\n'''audibility''' (â-di-bil′i̤-ti), ''n.''   [< ''audible'': see ''-bility''.]   The quality of being audible.\n{{smaller block|The note itself is possibly too feeble for ''audibility''.\n{{right|''J. E. H. Gordon'', Elect. and Mag., II. 92.}}}}\n\n'''audible''' (â′di-bl), ''a.'' and ''n.''   [< ML. ''audibilis'', that may be heard, < L. ''audire'', hear: see ''audient''.]   '''I.''' ''a.'' Capable of being heard; perceivable by the ear; loud enough to be heard: as, an ''audible'' voice or whisper.\n{{smaller block|To man’s eares not ''audible''. {{right|''Sir T. More.''}}}}\n{{smaller block|Even that stubborn church which has held its own against so many governments, scarce dared to utter an ''audible'' murmur. {{right|''Macaulay'', Hist. Eng., i.}}}}\n'''II.†''' ''n.'' That which may be heard.\n{{smaller block|Visibles are swiftlier carried to the sense than ''audibles''. {{right|''Bacon'', Nat. Hist., § 273.}}}}\n\n'''audibleness''' (â′di-bl-nes), ''n.'' Audibility.\n\n'''audibly''' (â′di-bli), ''adv.'' In an audible manner; so as to be heard.\n\n'''audience''' (â′di-ens), ''n.''   [< ME. ''audience'', < OF. ''audience'' (vernacularly ''oiance''), mod. F. ''audience'' = Sp. Pg. ''audiencia'' = It. ''audienza'', ''audienzia'', < L. ''audientia'', attention, hearing, < ''audien(t-)s'', ppr. of ''audire'', hear: see ''audient''.]   '''1.''' The act or state of hearing or attending to words or sounds; the act of listening.\n{{smaller block|<poem>His look\nDrew ''audience'', and attention still as night.</poem>\n{{right|''Milton'', P. L., ii. 308.}}}}\n'''2.''' Liberty or opportunity of being heard; liberty or opportunity of speaking with or before, as before an assembly or a court of law; specifically, admission of an ambassador, envoy, or other applicant to a formal interview with a sovereign or other high officer of government.\n{{smaller block|Were it reason to give men ''audience'', pleading for the overthrow of that which their own deed hath ratified? {{right|''Hooker.''}}}}\n{{smaller block|<poem>That day Sir Lancelot at the palace craved\n''Audience'' of Guinevere.</poem>}}\n{{smaller block|{{right|''Tennyson'', Lancelot and Elaine.}}}}\n'''3.''' A hearing; an interview or conference.\n{{smaller block|This conversation was not ended under five ''audiences'', each of several hours. {{right|''Swift'', Gulliver’s Travels, ii. 6.}}}}\n'''4.''' An auditory; an assembly of hearers.\n{{smaller block|<poem>Still govern thou my song,\nUrania, and fit ''audience'' find, though few.</poem>\n{{right|''Milton'', P. L., vii. 31.}}}}\n'''5.''' [Sp. ''audiencia'', commonly used in English writing without translation.] In Spain and Spanish countries, a name given to certain courts, also collectively to certain law-officers appointed to institute a judicial inquiry.\n{{smaller block|Among those of the former class was the president, Deza, with the members of the ''audience'', and the civil authorities in Granada. {{right|''Prescott.''}}}}\n'''6.''' In England, an abbreviation for ''audience-court'' (which see). ='''Syn. 4.''' {{smaller|See ''spectator.''}}\n\n'''audience-chamber''' (â′di-e̤ns-chām″bėr), ''n.'' An apartment for an audience or a formal meeting.\n\n'''audience-court''' (â′di-e̤ns-kōrt), ''n.'' An ecclesiastical court, now disused, held by the archbishops of Canterbury and York or by auditors in their behalf. {{smaller|That held by the Archbishop of Canterbury had equal authority with the Court of Arches, though of less dignity, and is now merged in it.}}\n\n'''audiencia''' (Sp. pron. ou-dē-en-thē′ä), ''n.''   [Sp.]   See ''audience'', 5.\n\n'''audiendo et terminando''' (â-di-en′dō et tėr-mi-nan′dō).   [ML., for hearing and deciding; dat. ger. of L. ''audire'', hear (see ''audient''), and of ''terminare'', end, decide (see ''terminate''). Cf. ''oyer and terminer'', under ''oyer''.]   In ''law'', a writ or commission to certain persons for appeasing and punishing any insurrection or great riot.\n\n'''audient''' (â′di-ẹnt), ''a.'' and ''n.''   [< L. ''audien(t-)s'', ppr. of ''audire'' (> It. ''udire'' = Sp. ''oir'' = Pg. ''ouvir'' = Pr. ''ausir'' = OF. ''odir'', ''oir'' (AF. ''oyer'', > E. ''oyer'', q. v.), mod. F. ''ouir''), hear; cf. Gr. ἀΐειν, hear: see ''hear'' and ''ear''<sup>1</sup>.]   '''I.''' ''a.'' Hearing; listening.   ''Mrs. Browning.''\n\n'''II.''' ''n.'' '''1.''' A hearer.\n{{smaller block|The ''audients'' of her sad story felt great motions both of pity and admiration for her misfortune.\n{{right|''Shelton'', tr. of Don Quixote, iv. 2.}}}}\n'''2.''' In the ''early church'': (''a'') One not yet baptized, but receiving instruction preparatory to baptism; a catechumen of the first stage. {{smaller|Such persons were permitted to hear the psalms, lessons, and sermon, but were not present at the more sacred services which followed.}} (''b'') In the ''Eastern Church'', according to the systematic classification of penitents in force at the close of the third century, but becoming obsolete early in the fifth, one of the second class of public penitents, occupying a station higher than that of the weepers and lower than that of the prostrates. {{smaller|The audients were not allowed to enter the body of the church, but heard the opening prayers and sermon standing in the narthex, which was also the place of the catechumens, and, like them, had to depart before the offertory and anaphora. See ''penitent''. Also called ''auditor''.}}\n\n'''audile''' (â′dil), ''n.''   [Irreg. < L. ''audire'', hear (see ''audient''), + ''-ile''.]   One in whose mind auditory images are predominant, or especially distinct.\n{{smaller block|Stricker, a motile, declares that it is impossible to represent to ourselves other vowels while pronouncing any particular one, say ''a'': he can only represent them as motor images which clash with the motor presentation. M. Paulhan, an ''audile'', declares he can easily do what Stricker declares impossible, for he can represent the auditory images of ''i'' and ''u'' while the motor presentation of ''a'' is being presented.\n{{right|''Mind'', XI. 415.}}}}\n\n'''audiometer''' (â-di-om′e-tėr), ''n.''   [Irreg. < L. ''audire'', hear, + ''metrum'', < Gr. μέτρον, a measure.]   An instrument designed to gage the power of hearing and record it upon an arbitrary scale.\n\n'''audiometric''' (â″di-ọ̄-met′rik), ''a.'' Of or pertaining to audiometry.\n\n'''audiometry''' (â-di-om′e-tri), ''n.''   [As ''audiometer'' + ''-y''.]   The testing of the sense of hearing, especially by means of the audiometer.\n\n'''audiphone''' (â′di-fōn), ''n.''   [Irreg. < L. ''audire'', hear, + Gr. φωνή, a sound.]   An instrument for counteracting deafness by collecting the sound-waves and transmitting the vibrations to the auditory nerves through the bony part of the head. {{smaller|It consists of a diaphragm, or plate, which is held in contact with the upper teeth, and is vibrated by sound-waves.}}\n\n'''audit''' (â′dit), ''n.''   [< L. ''auditus'', a hearing, < ''audire'', pp. ''auditus'', hear: see ''audient''.]   '''1†.''' Audience; hearing.\n{{smaller block|With his Orisons I meddle not, for hee appeals to a high ''Audit''.\n{{right|''Milton'', Eikonoklastes, v.}}}}\n{{smaller block|<poem>Whoso seeks an ''audit'' here\nPropitious, pays his tribute, game or fish.</poem>\n{{right|''Cowper'', Task, iv. 610.}}}}\n'''2.''' Official examination and verification of accounts or claims; an examination into accounts or dealings with money or property; especially, an examination of accounts by proper officers, or persons appointed for that purpose, who compare the charges with the vouchers, examine witnesses, and state the result.\n{{smaller block|The rule of insisting on a proper ''audit'' of account was a corollary from the practice of appropriating the supplies to particular purposes. {{right|''Stubbs'', Const. Hist., § 694.}}}}\nHence—'''3.''' A calling to account; an examination into one’s actions.\n{{smaller block|You must prepare against to-morrow for your last suffering here, and your great ''audit'' hereafter. {{right|''Scott.''}}}}\n'''4.''' An account or a statement of account; a balance-sheet.\n{{smaller block|And, how his ''audit'' stands, who knows, save heaven? {{right|''Shak.'', Hamlet, iii. 3.}}}}\n'''5†.''' A periodical auditing or settlement of accounts; hence, receipts; revenues.\n{{smaller block|I knew a nobleman in England that had the greatest ''audits'' of any man in my time: a great grazier, a great sheep-master, a great timber-man, &c. {{right|''Bacon'', Riches.}}}}\n{{smaller|'''Commissioners of audit,''' formerly called ''auditors of the Exchequer'', in England, officers appointed to call on all public accountants to account for money or stores intrusted to them, and to check the accounts of the ordnance, army, and navy, and the land-revenue. The establishment consists of a chairman and five commissioners, a secretary, and numerous subordinates.}}\n\n'''audit''' (â′dit), ''v.''   [< ''audit'', ''n.'']   '''I.''' ''trans.'' To make audit of; examine and verify by reference to vouchers, as an account or accounts: as, to ''audit'' the accounts of a treasurer.\n{{smaller block|In 1406 the commons, who objected to making a grant until the accounts of the last grant were ''audited'', were told by Henry that kings do not render accounts. {{right|''Stubbs'', Const. Hist., § 694.}}}}<noinclude><references/></noinclude>"
+}

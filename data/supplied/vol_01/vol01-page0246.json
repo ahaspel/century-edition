@@ -1,0 +1,207 @@
+{
+ "volume": 1,
+ "page_number": 246,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n245.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n245.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 747,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     76,
+     138,
+     2302,
+     183
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     76,
+     183,
+     819,
+     1263
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     76,
+     1263,
+     819,
+     2325
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     76,
+     2325,
+     819,
+     3307
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     819,
+     183,
+     1566,
+     1276
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     819,
+     1276,
+     1566,
+     2351
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     819,
+     2351,
+     1566,
+     3307
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1566,
+     183,
+     2302,
+     1147
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1566,
+     1147,
+     2302,
+     2237
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1687,
+     1228,
+     2185,
+     1990
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1566,
+     2237,
+     2302,
+     3307
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|animative|220|Anisobranchia}}",
+   "c1s1": "¶\n'''animative''' (an′i-mā-tiv), ''a.'' [< ''animate'' + ''-ive.''] Having the power of giving life or spirit.\n\n'''animator''' (an′i-mā-tọr), ''n.'' [L., < ''animare'': see ''animate, v.''] One who or that which animates or gives life; one who enlivens or inspires. ''Sir T. Browne'', Vulg. Err.\n\n'''anime''' (an′i-me), ''n.'' [Sometimes accented like equiv. F. ''animé'', on the fancy that it is so called because often “''animé''” (< L. ''animatus'': see ''animate, a.'') or “alive” with insects; but E. prop. ''anime'' = F. ''anime'' (Cotgrave), now ''animé'', Sp. Pg. ''anime'' (NL. ''anime'', ''animi'', also ''anijmum''), applied in the middle of the 16th century, and prob. earlier, to a gum brought from the East by the Portuguese; afterward applied to a similar product from the West Indies. The word, which has not been found native in the East or elsewhere, is said by Ray and others to be a Portuguese corruption of ''aminæa'', Gr. ἀμιναῖα (Dioscorides), a resinous gum, this name being appar. an adj. (sc. σμύρνα, myrrh), referring to a people of Arabia bordering on the Red Sea, from whom the gum was obtained. ''Elemi'' is a different word.] '''1.''' The name of various resins, also known in pharmacy as ''elemi'' (which see).—'''2.''' A kind of copal, the produce principally of a leguminous tree, ''Trachylobium Hornemannianum'', of Zanzibar. {{smaller|The best is that dug from the ground at the base of the trees, or that found in a semi-fossil state in localities where the tree is now extinct.}} '''3.''' The produce of a very nearly allied tree of tropical America, ''Hymenæa Courbaril'', known in the West Indies as the locust-tree. {{smaller|It makes}}",
+   "c1s2": "{{smaller block|a fine varnish, and, as it burns with a very fragrant smell, is used in scenting pastilles.}}\n'''4.''' Indian copal, produced by ''Vateria Indica.'' See ''Vateria.''\n\nSometimes called ''gum anime.''\n\n'''animin, animine''' (an′i-min), ''n.'' [< ''anim(al)'' + ''-in''<sup>2</sup>.] In ''chem.'', an organic base obtained from bone-oil. ''Watts.''\n\n'''animism''' (an′i-mizm), ''n.'' [= F. ''animisme''; < L. ''anima'', soul (see ''anima''), + ''-ism.''] '''1.''' The hypothesis, original with Pythagoras and Plato, of a force (''anima mundi'', or soul of the world) immaterial but inseparable from matter, and giving to matter its form and movements.—'''2.''' The theory of vital action and of disease propounded by the German chemist G. E. Stahl (1660–1734); the theory that the soul (''anima'') is the vital principle, the source of both the normal and the abnormal phenomena of life.\n{{smaller block|In Stahl’s theory the soul is regarded as the principle of life, and, in its normal action, of health; the body being supposed to be incapable of self-movement, and not only originally formed by the soul, but also set in motion and governed by it. Hence it was inferred that the source of disease is in some hindrance to the full and free activity of the soul, and that medical treatment should be confined to an attempt to remove such hindrances from it.}}\n'''3.''' The general conception of or the belief in souls and other spiritual beings; the explanation of all the phenomena in nature not due to obvious material causes by attributing them to spiritual agency. {{smaller|Among the beliefs most characteristic of animism is that of a human apparitional soul, that is, of a vital and animating principle residing in the body, but distinct from it, bearing its form and appearance, but wanting its material and solid substance. At an early stage}}",
+   "c1s3": "{{smaller|in the development of philosophy and religion events are frequently ascribed to agencies analogous to human souls, or to the spirits of the deceased.}}\n{{smaller block|Spiritual philosophy has influenced every province of human thought; and the history of ''animism'', once clearly traced, would record the development, not of religion only, but of philosophy, science, and literature.\n{{right|''Encyc. Brit.'', II. 57.}}}}\n{{smaller block|The theory of ''Animism'' divides into two great dogmas, forming parts of one consistent doctrine; first, concerning souls of individual creatures, capable of continued existence after the death or destruction of the body; second, concerning other spirits, upward to the rank of powerful deities.\n{{right|''E. B. Tylor'', Prim. Culture, I. 385.}}}}\n\n'''animist''' (an′i-mist), ''n.'' [< L. ''anima'', soul (see ''anima''), + ''-ist.''] One who maintains animism in any of its senses.\n\n'''animistic''' (an-i-mis′tik), ''a.'' Of, pertaining to, embracing, or founded on animism in any sense.\n\n'''animodar†''', ''n.'' [Origin obscure; perhaps repr. Ar. ''al-modār'', < ''al'', the, + ''modār'', pivot, tropic, the axis of the fundament; cf. ''modawwar'', ''mudawwar'', round, ''dawwir'', turn round: see ''mudir''.] In ''astrol.'', a method of correcting the supposed nativity or time of birth of a person. Also written ''animoder'', ''amnimodar''.\n\n'''animose''' (an′i-mōs), ''a.'' [= F. ''animeux'' (Cotgrave) = Sp. Pg. It. ''animoso'', < L. ''animosus'', full of courage, bold, spirited, proud, < ''animus'', courage, spirit, mind: see ''animus''.] Full of spirit; hot; vehement. ''Bailey.''\n\n'''animosity''' (an-i-mos′ị-ti), ''n.''; pl. ''animosities'' (-tiz). [< ME. ''animosite'', < OF. ''animosite'', F.",
+   "c2s1": "''animosité'', animosity, = Pr. ''animositat'' = Sp. ''animosidad'', valor, = Pg. ''animosidade'' = It. ''animosità'', ''animositade'', ''animositate'', courage, animosity, < L. ''animosita(t-)s'', courage, spirit, vehemence, in eccles. L. also wrath, enmity, < ''animosus'': see ''animose''.] '''1†.''' Animation; courage; spiritedness.\n{{smaller block|Cato, before he durst give the fatal stroke, spent part of the night in reading the Immortality of Plato, thereby confirming his wavering hand unto the ''animosity'' of that attempt.\n{{right|''Sir T. Browne'', Urn-Burial, iv.}}}}\n'''2.''' Active enmity; hatred or ill-will which manifests itself in active opposition.\n{{smaller block|No sooner did the duke receive this appeal from the wife of his enemy, than he generously forgot all feeling of ''animosity'', and determined to go in person to his succor.\n{{right|''Irving'', Granada, p. 48.}}\nSupposing no ''animosity'' is felt, the hurting another by accident arouses a genuine feeling of regret in all adults save the very brutal.\n{{right|''H. Spencer'', Prin. of Psychol., § 529.}}}}\n{{smaller|='''Syn. 2.''' ''Animosity'', ''Ill-will'', ''Enmity'', ''Malice'', ''Hostility'', ''Hatred'', ''Hate'', ''Malevolence'', ''Malignity'', ''Rancor'', ''Grudge'', ''Spite''. These words differ from those described under ''acrimony'', ''anger'', and ''antipathy'' (which see) in that they represent deeper feelings or more permanent passions. ''Ill-will'' may represent the minimum of feeling, being a willing or wishing of ill to another, generally without disposition to be active in bringing the evil about. ''Enmity'' is a somewhat stronger feeling, and it often gratifies itself in trifling and cowardly ways. ''Animosity'' is more intense than ''enmity''; it is avowed and active, and what it does is more serious than the covert attacks of ''enmity'' or the hasty attacks of ''spite''. ''Malice'' is pure badness of heart, delighting in harm to others for its own sake. ''Hostility'' is less passionate than ''animosity'', but not less avowed or active, being a state of mind inclining one to aggressive warfare. ''Hatred'' and ''hate'' are the general words to cover all these feelings; they may also be ultimate, expressing the concentration of the whole nature in an intense ill-}}",
+   "c2s2": "{{smaller block|will. ''Malevolence'' is more casual and temporary than ''malice'', arising upon occasion furnished, and characterized by a wish that evil may befall another rather than by an intention to injure. ''Malignity'' is malice intensified; it is hatred in its aspect of destructiveness or desire to strike at the most vital interests of another. ''Rancor'' is hatred or malice turned sour or bitter; it is implacable in its vindictiveness. A ''grudge'' is a feeling of sullen ill-will or enmity, caused by a trifling wrong, and likely to be appeased when it has spent itself in a similar return against the offender. ''Spite'' is sudden, resentful, and generally quite as well pleased to mortify as to damage another; it may be as strong as malice or as weak as pique.}}\n\n{{smaller block|The personal ''animosity'' of a most ingenious man was the real cause of the utter destruction of Warburton’s critical reputation. {{right|''I. D’Israeli'', Lit. Quar., p. 397.}}}}\n\n{{smaller block|<poem>That thereby he may gather\nThe ground of your ''ill-will'', and so remove it.</poem>\n{{right|''Shak.'', Rich. III., i. 3.}}}}\n\n{{smaller block|No place is so propitious to the formation either of close friendships or of deadly ''enmities'' as an Indiaman.\n{{right|''Macaulay'', Warren Hastings.}}}}\n\n{{smaller block|<poem>And ''malice'' in all critics reigns so high,\nThat for small errors they whole plays decry.</poem>\n{{right|''Dryden'', Prol. to Tyrannic Love, l. 3.}}}}\n\n{{smaller block|As long as truth in the statement of fact, and logic in the inference from observed fact, are respected, there need be no ''hostility'' between evolutionist and theologian.\n{{right|''E. R. Lankester'', Degeneration, p. 69.}}}}\n\n{{smaller block|<poem>Tempt not too much the ''hatred'' of my spirit,\nFor I am sick when I do look on thee.</poem>\n{{right|''Shak.'', M. N. D., ii. 2.}}}}\n\n{{smaller block|<poem>For thou art so possess’d with murderous ''hate'',\nThat ’gainst thyself thou stick’st not to conspire.</poem>\n{{right|''Shak.'', Sonnets, x.}}}}\n\n{{smaller block|The deadly energy [of magic verses] existing solely in the words of the imprecation and the ''malevolence'' of the reciter, which was supposed to render them effectual at any distance.\n{{right|''T. F. Thiselton Dyer'', Folk-lore of Shak., p. 508.}}}}",
+   "c2s3": "¶\n{{smaller block|The political reigns of terror have been reigns of madness and ''malignity'',—a total perversion of opinion; society is upside down, and its best men are thought too bad to live.\n{{right|''Emerson'', Courage.}}}}\n\n{{smaller block|He who has sunk deepest in treason is generally possessed by a double measure of ''rancor'' against the loyal and the faithful.\n{{right|''De Quincey'', Essenes, ii.}}}}\n\n{{smaller block|<poem>I will feed fat the ancient ''grudge'' I bear him.</poem>\n{{right|''Shak.'', M. of V., i. 3.}}}}\n\n{{smaller block|<poem>Below me, there, is the village, and looks how quiet and small!\nAnd yet bubbles o’er like a city, with gossip, scandal, and ''spite''.</poem>\n{{right|''Tennyson'', Maud, iv. 2.}}}}\n\n'''animus''' (an′i-mus), ''n.'' [L., the mind, in a great variety of meanings: the rational soul in man, intellect, consciousness, will, intention, courage, spirit, sensibility, feeling, passion, pride, vehemence, wrath, etc., the breath, life, soul (cf. Gr. ἄνεμος, wind: see ''anemone''), closely related to ''anima'', which is a fem. form: see ''anima''.] Intention; purpose; spirit; temper; especially, hostile spirit or angry temper; animosity: as, the ''animus'' with which a book is written.\n\n{{smaller block|With the ''animus'' and no doubt with the fiendish looks of a murderer.\n{{right|''De Quincey'', Murder as a Fine Art.}}}}\n\n{{smaller block|That article, as was to be expected, is severely hostile to the new version; but its peculiar ''animus'' is such as goes far to deprive it of value as a critical judgment.\n{{right|''Nineteenth Century'', XX. 91.}}}}\n\n'''anion''' (an′i-on), ''n.'' [< Gr. ἀνιόν, neut. of ἀνιών, going up, ppr. of ἀνιέναι, go up, < ἀνά, up (see",
+   "c3s1": "ana-), + ἰέναι, go, = L. ''ire'' = Skt. √ ''i'', go: see ''iterate'' and ''go''.] In ''elect.'', a term applied by Faraday to that element of an electrolyte which in electrochemical decompositions appears at the positive pole, or anode, as oxygen or chlorine. {{smaller|It is usually termed the electronegative ingredient of a compound. See ''anode'', ''cation''.}}\n\n'''aniridia''' (an-i-rid′i-ä), ''n.'' [NL., < Gr. ἀν- priv. + ἶρις (ἰριδ-), iris.] In ''pathol.'', absence of the iris of the eye, or an imperfection of the iris amounting to a loss of function.\n\n'''anisandrous''' (an-ī-san′drus), ''a.'' [< Gr. ἄνισος, unequal (see ''aniso-''), + ἀνήρ (ἀνδρ-), male: see ''-androus''.] Same as ''anisostemonous''.\n\n'''anisanthous''' (an-ī-san′thus), ''a.'' [< Gr. ἄνισος, unequal (see ''aniso-''), + ἄνθος, flower.] In ''bot.'', having perianths of different forms. ''Syd. Soc. Lex.''\n\n'''anisate''' (an′i-sāt), ''a.'' [< ''anise'' + ''-ate''<sup>1</sup>.] Resembling anise.\n\n'''anise''' (an′is), ''n.'' [Early mod. E. also ''anis'', ''annis'', < ME. ''anys'', ''aneys'', ''annes'', < OF. (and mod. F.) ''anis'' = Pr. Sp. Pg. ''anis'' = D. ''anijs'' = Dan. Sw. ''anis'' = MHG. ''anis'', ''enis'', G. ''anis'' (> Serv. ''anizh'', ''anezh'', Sloven. ''janezh''), < L. ''anisum'', also spelled ''anesum'' and ''anethum'' (> F. ''aneth'', > E. ''anet'', q. v.), = Russ. ''anisŭ'' = Bulg. Serv. ''anason'' = Ar. Turk. ''anīsūn'', anise, < Gr. ἄνηθον or ἄννηθον, Ion. ἄνησον or ἄννησον, later Attic ἄνισον or ἄννισον, anise, dill.] An annual umbelliferous plant,",
+   "c3s2": "''Pimpinella Anisum.'' It is indigenous in Egypt, and is cultivated in Spain and Malta, whence the seed is exported.\n[[FIGURE]]\n{{c|{{smaller|Anise (''Pimpinella Anisum'').<br>''a'', base, and ''b'', top of plant; ''c'', fruit; ''d'', section of a carpel.}}}}\nAnise-seeds have an aromatic smell and a pleasant warm taste; they are largely employed in the manufacture of cordials. When distilled with water they yield a volatile, fragrant, syrupy oil, which separates when cooled into two portions, a light oil and a solid camphor.—'''Star-anise,''' or '''Chinese anise,''' ''Illicium anisatum.''—'''Wild anise-tree''' of Florida, ''Illicium Floridanum.'' See ''Illicium.''",
+   "c3s3": "¶\n'''anise-camphor''' (an′is-kam″for), ''n.'' A liquid or crystalline substance, C<sub>10</sub>H<sub>12</sub>O, found in the oils of anise, fennel, star-anise, and tarragon. Also called ''anethol.''\n\n'''aniseed, anise-seed''' (an′i-sēd, an′is-sēd), ''n.'' [The first form contr. from the second.] '''1.''' The seed of the anise. See ''anise.''—'''2.''' See ''anisette.''\n\n'''anise-tree''' (an′is-trē), ''n.'' See ''anise'' and ''Illicium.''\n\n'''anisette''' (an-i-set′), ''n.'' [F., < ''anis,'' anise, + dim. ''-ette.''] A cordial or liqueur prepared from the seed of the anise. Sometimes called ''aniseed.''\n{{smaller block|It often happens that a glass of water, flavored with a little ''anisette,'' is the order over which he [the lasagnone] sits a whole evening. {{right|''Howells,'' Venetian Life, xx.}}}}\n\n'''anisic''' (a-nis′ik), ''a.'' [< L. ''anisum,'' anise, + ''-ic.''] Pertaining to or derived from anise. An equivalent form is ''anisoic.''—{{smaller|'''Anisic acid''', C<sub>8</sub>H<sub>8</sub>O<sub>3</sub>, an acid obtained from aniseed by the action of oxidizing substances. It is crystallizable and volatile, and forms salts which crystallize readily.}}\n\n'''aniso-.''' [The combining form of Gr. ἄνισος, unequal, < ἀν- priv. + ἴσος, equal.] An element in compound words of Greek origin, signifying unequal.\n\n'''Anisobranchia''' (a-nī-sō-brang′ki-ä), ''n. pl.'' [NL., < Gr. ἄνισος, unequal, + βράγχια, gills.] In Gegenbaur’s system of classification, a superfamily of gastropods, of the series ''Chiastoneura,'' including a number of forms collectively distinguished from the ''Zeugobranchia'' (which see).\n{{smaller block|Leading genera of the ''Anisobranchia'' are ''Patella, Trochus, Littorina, Cyclostoma, Rissoa, Paludina,'' and ''Turritella.''}}\n{{smaller block|In the ''Anisobranchia'' the left gill is smaller, and the right one more largely developed. {{right|''Gegenbaur,'' Comp. Anat. (trans.), p. 337.}}}}"
+  },
+  "figure_files": {
+   "c3f1": "century v01 p0246 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1699,
+     1240,
+     2173,
+     1978
+    ],
+    "caption": [
+     1632,
+     1989,
+     2250,
+     2041
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1654,
+     1177,
+     2289,
+     1967
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4368,
+    "output_tokens": 92,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 10,
+    "input_tokens": 9595,
+    "output_tokens": 8618,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|animative|220|Anisobranchia}}</noinclude>{{nop}}'''animative''' (an′i-mā-tiv), ''a.''   [< ''animate'' + ''-ive.'']   Having the power of giving life or spirit.\n\n'''animator''' (an′i-mā-tọr), ''n.''   [L., < ''animare'': see ''animate, v.'']   One who or that which animates or gives life; one who enlivens or inspires.   ''Sir T. Browne'', Vulg. Err.\n\n'''anime''' (an′i-me), ''n.''   [Sometimes accented like equiv. F. ''animé'', on the fancy that it is so called because often “''animé''” (< L. ''animatus'': see ''animate, a.'') or “alive” with insects; but E. prop. ''anime'' = F. ''anime'' (Cotgrave), now ''animé'', Sp. Pg. ''anime'' (NL. ''anime'', ''animi'', also ''anijmum''), applied in the middle of the 16th century, and prob. earlier, to a gum brought from the East by the Portuguese; afterward applied to a similar product from the West Indies. The word, which has not been found native in the East or elsewhere, is said by Ray and others to be a Portuguese corruption of ''aminæa'', Gr. ἀμιναῖα (Dioscorides), a resinous gum, this name being appar. an adj. (sc. σμύρνα, myrrh), referring to a people of Arabia bordering on the Red Sea, from whom the gum was obtained. ''Elemi'' is a different word.]   '''1.''' The name of various resins, also known in pharmacy as ''elemi'' (which see).—'''2.''' A kind of copal, the produce principally of a leguminous tree, ''Trachylobium Hornemannianum'', of Zanzibar. {{smaller|The best is that dug from the ground at the base of the trees, or that found in a semi-fossil state in localities where the tree is now extinct.}} '''3.''' The produce of a very nearly allied tree of tropical America, ''Hymenæa Courbaril'', known in the West Indies as the locust-tree. {{smaller|It makes a fine varnish, and, as it burns with a very fragrant smell, is used in scenting pastilles.}}\n'''4.''' Indian copal, produced by ''Vateria Indica.'' See ''Vateria.''\n\nSometimes called ''gum anime.''\n\n'''animin, animine''' (an′i-min), ''n.''   [< ''anim(al)'' + ''-in''<sup>2</sup>.]   In ''chem.'', an organic base obtained from bone-oil.   ''Watts.''\n\n'''animism''' (an′i-mizm), ''n.''   [= F. ''animisme''; < L. ''anima'', soul (see ''anima''), + ''-ism.'']   '''1.''' The hypothesis, original with Pythagoras and Plato, of a force (''anima mundi'', or soul of the world) immaterial but inseparable from matter, and giving to matter its form and movements.—'''2.''' The theory of vital action and of disease propounded by the German chemist G. E. Stahl (1660–1734); the theory that the soul (''anima'') is the vital principle, the source of both the normal and the abnormal phenomena of life.\n{{smaller block|In Stahl’s theory the soul is regarded as the principle of life, and, in its normal action, of health; the body being supposed to be incapable of self-movement, and not only originally formed by the soul, but also set in motion and governed by it. Hence it was inferred that the source of disease is in some hindrance to the full and free activity of the soul, and that medical treatment should be confined to an attempt to remove such hindrances from it.}}\n'''3.''' The general conception of or the belief in souls and other spiritual beings; the explanation of all the phenomena in nature not due to obvious material causes by attributing them to spiritual agency. {{smaller|Among the beliefs most characteristic of animism is that of a human apparitional soul, that is, of a vital and animating principle residing in the body, but distinct from it, bearing its form and appearance, but wanting its material and solid substance. At an early stage in the development of philosophy and religion events are frequently ascribed to agencies analogous to human souls, or to the spirits of the deceased.}}\n{{smaller block|Spiritual philosophy has influenced every province of human thought; and the history of ''animism'', once clearly traced, would record the development, not of religion only, but of philosophy, science, and literature.\n{{right|''Encyc. Brit.'', II. 57.}}}}\n{{smaller block|The theory of ''Animism'' divides into two great dogmas, forming parts of one consistent doctrine; first, concerning souls of individual creatures, capable of continued existence after the death or destruction of the body; second, concerning other spirits, upward to the rank of powerful deities.\n{{right|''E. B. Tylor'', Prim. Culture, I. 385.}}}}\n\n'''animist''' (an′i-mist), ''n.''   [< L. ''anima'', soul (see ''anima''), + ''-ist.'']   One who maintains animism in any of its senses.\n\n'''animistic''' (an-i-mis′tik), ''a.'' Of, pertaining to, embracing, or founded on animism in any sense.\n\n'''animodar†''', ''n.''   [Origin obscure; perhaps repr. Ar. ''al-modār'', < ''al'', the, + ''modār'', pivot, tropic, the axis of the fundament; cf. ''modawwar'', ''mudawwar'', round, ''dawwir'', turn round: see ''mudir''.]   In ''astrol.'', a method of correcting the supposed nativity or time of birth of a person. Also written ''animoder'', ''amnimodar''.\n\n'''animose''' (an′i-mōs), ''a.''   [= F. ''animeux'' (Cotgrave) = Sp. Pg. It. ''animoso'', < L. ''animosus'', full of courage, bold, spirited, proud, < ''animus'', courage, spirit, mind: see ''animus''.]   Full of spirit; hot; vehement.   ''Bailey.''\n\n'''animosity''' (an-i-mos′ị-ti), ''n.''; pl. ''animosities'' (-tiz).   [< ME. ''animosite'', < OF. ''animosite'', F. ''animosité'', animosity, = Pr. ''animositat'' = Sp. ''animosidad'', valor, = Pg. ''animosidade'' = It. ''animosità'', ''animositade'', ''animositate'', courage, animosity, < L. ''animosita(t-)s'', courage, spirit, vehemence, in eccles. L. also wrath, enmity, < ''animosus'': see ''animose''.]   '''1†.''' Animation; courage; spiritedness.\n{{smaller block|Cato, before he durst give the fatal stroke, spent part of the night in reading the Immortality of Plato, thereby confirming his wavering hand unto the ''animosity'' of that attempt.\n{{right|''Sir T. Browne'', Urn-Burial, iv.}}}}\n'''2.''' Active enmity; hatred or ill-will which manifests itself in active opposition.\n{{smaller block|No sooner did the duke receive this appeal from the wife of his enemy, than he generously forgot all feeling of ''animosity'', and determined to go in person to his succor.\n{{right|''Irving'', Granada, p. 48.}}}}\n{{smaller block|Supposing no ''animosity'' is felt, the hurting another by accident arouses a genuine feeling of regret in all adults save the very brutal.\n{{right|''H. Spencer'', Prin. of Psychol., § 529.}}}}\n{{smaller|='''Syn. 2.''' ''Animosity'', ''Ill-will'', ''Enmity'', ''Malice'', ''Hostility'', ''Hatred'', ''Hate'', ''Malevolence'', ''Malignity'', ''Rancor'', ''Grudge'', ''Spite''. These words differ from those described under ''acrimony'', ''anger'', and ''antipathy'' (which see) in that they represent deeper feelings or more permanent passions. ''Ill-will'' may represent the minimum of feeling, being a willing or wishing of ill to another, generally without disposition to be active in bringing the evil about. ''Enmity'' is a somewhat stronger feeling, and it often gratifies itself in trifling and cowardly ways. ''Animosity'' is more intense than ''enmity''; it is avowed and active, and what it does is more serious than the covert attacks of ''enmity'' or the hasty attacks of ''spite''. ''Malice'' is pure badness of heart, delighting in harm to others for its own sake. ''Hostility'' is less passionate than ''animosity'', but not less avowed or active, being a state of mind inclining one to aggressive warfare. ''Hatred'' and ''hate'' are the general words to cover all these feelings; they may also be ultimate, expressing the concentration of the whole nature in an intense illwill. ''Malevolence'' is more casual and temporary than ''malice'', arising upon occasion furnished, and characterized by a wish that evil may befall another rather than by an intention to injure. ''Malignity'' is malice intensified; it is hatred in its aspect of destructiveness or desire to strike at the most vital interests of another. ''Rancor'' is hatred or malice turned sour or bitter; it is implacable in its vindictiveness. A ''grudge'' is a feeling of sullen ill-will or enmity, caused by a trifling wrong, and likely to be appeased when it has spent itself in a similar return against the offender. ''Spite'' is sudden, resentful, and generally quite as well pleased to mortify as to damage another; it may be as strong as malice or as weak as pique.}}\n\n{{smaller block|The personal ''animosity'' of a most ingenious man was the real cause of the utter destruction of Warburton’s critical reputation. {{right|''I. D’Israeli'', Lit. Quar., p. 397.}}}}\n\n<poem>That thereby he may gather\nThe ground of your ''ill-will'', and so remove it.</poem>\n{{smaller block|{{right|''Shak.'', Rich. III., i. 3.}}}}\n\n{{smaller block|No place is so propitious to the formation either of close friendships or of deadly ''enmities'' as an Indiaman.\n{{right|''Macaulay'', Warren Hastings.}}}}\n\n<poem>And ''malice'' in all critics reigns so high,\nThat for small errors they whole plays decry.</poem>\n{{smaller block|{{right|''Dryden'', Prol. to Tyrannic Love, l. 3.}}}}\n\n{{smaller block|As long as truth in the statement of fact, and logic in the inference from observed fact, are respected, there need be no ''hostility'' between evolutionist and theologian.\n{{right|''E. R. Lankester'', Degeneration, p. 69.}}}}\n\n<poem>Tempt not too much the ''hatred'' of my spirit,\nFor I am sick when I do look on thee.</poem>\n{{smaller block|{{right|''Shak.'', M. N. D., ii. 2.}}}}\n\n<poem>For thou art so possess’d with murderous ''hate'',\nThat ’gainst thyself thou stick’st not to conspire.</poem>\n{{smaller block|{{right|''Shak.'', Sonnets, x.}}}}\n\n{{smaller block|The deadly energy [of magic verses] existing solely in the words of the imprecation and the ''malevolence'' of the reciter, which was supposed to render them effectual at any distance.\n{{right|''T. F. Thiselton Dyer'', Folk-lore of Shak., p. 508.}}}}\n\n{{smaller block|The political reigns of terror have been reigns of madness and ''malignity'',—a total perversion of opinion; society is upside down, and its best men are thought too bad to live.\n{{right|''Emerson'', Courage.}}}}\n\n{{smaller block|He who has sunk deepest in treason is generally possessed by a double measure of ''rancor'' against the loyal and the faithful.\n{{right|''De Quincey'', Essenes, ii.}}}}\n\n<poem>I will feed fat the ancient ''grudge'' I bear him.</poem>\n{{smaller block|{{right|''Shak.'', M. of V., i. 3.}}}}\n\n<poem>Below me, there, is the village, and looks how quiet and small!\nAnd yet bubbles o’er like a city, with gossip, scandal, and ''spite''.</poem>\n{{smaller block|{{right|''Tennyson'', Maud, iv. 2.}}}}\n\n'''animus''' (an′i-mus), ''n.''   [L., the mind, in a great variety of meanings: the rational soul in man, intellect, consciousness, will, intention, courage, spirit, sensibility, feeling, passion, pride, vehemence, wrath, etc., the breath, life, soul (cf. Gr. ἄνεμος, wind: see ''anemone''), closely related to ''anima'', which is a fem. form: see ''anima''.]   Intention; purpose; spirit; temper; especially, hostile spirit or angry temper; animosity: as, the ''animus'' with which a book is written.\n\n{{smaller block|With the ''animus'' and no doubt with the fiendish looks of a murderer.\n{{right|''De Quincey'', Murder as a Fine Art.}}}}\n\n{{smaller block|That article, as was to be expected, is severely hostile to the new version; but its peculiar ''animus'' is such as goes far to deprive it of value as a critical judgment.\n{{right|''Nineteenth Century'', XX. 91.}}}}\n\n'''anion''' (an′i-on), ''n.''   [< Gr. ἀνιόν, neut. of ἀνιών, going up, ppr. of ἀνιέναι, go up, < ἀνά, up (see ana-), + ἰέναι, go, = L. ''ire'' = Skt. √ ''i'', go: see ''iterate'' and ''go''.]   In ''elect.'', a term applied by Faraday to that element of an electrolyte which in electrochemical decompositions appears at the positive pole, or anode, as oxygen or chlorine. {{smaller|It is usually termed the electronegative ingredient of a compound. See ''anode'', ''cation''.}}\n\n'''aniridia''' (an-i-rid′i-ä), ''n.''   [NL., < Gr. ἀν- priv. + ἶρις (ἰριδ-), iris.]   In ''pathol.'', absence of the iris of the eye, or an imperfection of the iris amounting to a loss of function.\n\n'''anisandrous''' (an-ī-san′drus), ''a.''   [< Gr. ἄνισος, unequal (see ''aniso-''), + ἀνήρ (ἀνδρ-), male: see ''-androus''.]   Same as ''anisostemonous''.\n\n'''anisanthous''' (an-ī-san′thus), ''a.''   [< Gr. ἄνισος, unequal (see ''aniso-''), + ἄνθος, flower.]   In ''bot.'', having perianths of different forms.   ''Syd. Soc. Lex.''\n\n'''anisate''' (an′i-sāt), ''a.''   [< ''anise'' + ''-ate''<sup>1</sup>.]   Resembling anise.\n\n'''anise''' (an′is), ''n.''   [Early mod. E. also ''anis'', ''annis'', < ME. ''anys'', ''aneys'', ''annes'', < OF. (and mod. F.) ''anis'' = Pr. Sp. Pg. ''anis'' = D. ''anijs'' = Dan. Sw. ''anis'' = MHG. ''anis'', ''enis'', G. ''anis'' (> Serv. ''anizh'', ''anezh'', Sloven. ''janezh''), < L. ''anisum'', also spelled ''anesum'' and ''anethum'' (> F. ''aneth'', > E. ''anet'', q. v.), = Russ. ''anisŭ'' = Bulg. Serv. ''anason'' = Ar. Turk. ''anīsūn'', anise, < Gr. ἄνηθον or ἄννηθον, Ion. ἄνησον or ἄννησον, later Attic ἄνισον or ἄννισον, anise, dill.]   An annual umbelliferous plant, ''Pimpinella Anisum.'' It is indigenous in Egypt, and is cultivated in Spain and Malta, whence the seed is exported.\nAnise-seeds have an aromatic smell and a pleasant warm taste; they are largely employed in the manufacture of cordials. When distilled with water they yield a volatile, fragrant, syrupy oil, which separates when cooled into two portions, a light oil and a solid camphor.—'''Star-anise,''' or '''Chinese anise,''' ''Illicium anisatum.''—'''Wild anise-tree''' of Florida, ''Illicium Floridanum.'' See ''Illicium.''\n\n[[File:century v01 p0246 c3f1.png|center|240px]]\n{{c|{{smaller|Anise (''Pimpinella Anisum'').<br>''a'', base, and ''b'', top of plant; ''c'', fruit; ''d'', section of a carpel.}}}}\n\n'''anise-camphor''' (an′is-kam″for), ''n.'' A liquid or crystalline substance, C<sub>10</sub>H<sub>12</sub>O, found in the oils of anise, fennel, star-anise, and tarragon. Also called ''anethol.''\n\n'''aniseed, anise-seed''' (an′i-sēd, an′is-sēd), ''n.''   [The first form contr. from the second.]   '''1.''' The seed of the anise. See ''anise.''—'''2.''' See ''anisette.''\n\n'''anise-tree''' (an′is-trē), ''n.'' See ''anise'' and ''Illicium.''\n\n'''anisette''' (an-i-set′), ''n.''   [F., < ''anis,'' anise, + dim. ''-ette.'']   A cordial or liqueur prepared from the seed of the anise. Sometimes called ''aniseed.''\n{{smaller block|It often happens that a glass of water, flavored with a little ''anisette,'' is the order over which he [the lasagnone] sits a whole evening. {{right|''Howells,'' Venetian Life, xx.}}}}\n\n'''anisic''' (a-nis′ik), ''a.''   [< L. ''anisum,'' anise, + ''-ic.'']   Pertaining to or derived from anise. An equivalent form is ''anisoic.''—{{smaller|'''Anisic acid''', C<sub>8</sub>H<sub>8</sub>O<sub>3</sub>, an acid obtained from aniseed by the action of oxidizing substances. It is crystallizable and volatile, and forms salts which crystallize readily.}}\n\n'''aniso-.'''   [The combining form of Gr. ἄνισος, unequal, < ἀν- priv. + ἴσος, equal.]   An element in compound words of Greek origin, signifying unequal.\n\n'''Anisobranchia''' (a-nī-sō-brang′ki-ä), ''n. pl.''   [NL., < Gr. ἄνισος, unequal, + βράγχια, gills.]   In Gegenbaur’s system of classification, a superfamily of gastropods, of the series ''Chiastoneura,'' including a number of forms collectively distinguished from the ''Zeugobranchia'' (which see).\n{{smaller block|Leading genera of the ''Anisobranchia'' are ''Patella, Trochus, Littorina, Cyclostoma, Rissoa, Paludina,'' and ''Turritella.''}}\n{{smaller block|In the ''Anisobranchia'' the left gill is smaller, and the right one more largely developed. {{right|''Gegenbaur,'' Comp. Anat. (trans.), p. 337.}}}}<noinclude><references/></noinclude>"
+}

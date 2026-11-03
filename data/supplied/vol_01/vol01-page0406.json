@@ -1,0 +1,253 @@
+{
+ "volume": 1,
+ "page_number": 406,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n405.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n405.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 745,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     79,
+     135,
+     2298,
+     359
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     79,
+     359,
+     820,
+     1443
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     79,
+     1443,
+     820,
+     2529
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     79,
+     2529,
+     820,
+     3291
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     820,
+     359,
+     1564,
+     1310
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     820,
+     1310,
+     1564,
+     1475
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     820,
+     1475,
+     1564,
+     2524
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     821,
+     1709,
+     1336,
+     1944
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     820,
+     2524,
+     1564,
+     3291
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1564,
+     359,
+     2298,
+     1425
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1564,
+     1425,
+     2298,
+     2452
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1660,
+     1650,
+     2224,
+     2178
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1564,
+     2452,
+     2298,
+     3291
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|augur|380|aulacanthid}}",
+   "c1s1": "¶\n{{smaller block|It ''augurs ill'' for an undertaking . . . to find such dissensions in headquarters.\n{{right|''W. Belsham'', Hist. Eng.}}}}\n\n'''augural''' (â′gụ̄-ral), ''a.'' [< L. ''auguralis'', pertaining to an augur, < ''augur'', augur.] Pertaining to an augur, or to the duties or profession of an augur; of or pertaining to divination; ominous: as, “portents ''augural'',” ''Cowper''.\n\n'''augurate<sup>1</sup>†''' (â′gụ̄-rāt), ''v. t.'' or ''i.''; pret. and pp. ''augurated'', ppr. ''augurating''. [< L. ''augurātus'', pp. of ''augurari'', augur: see ''augur'', ''v.'', and ''-ate''<sup>2</sup>.] To conjecture or foretell by augury; predict; act as an augur.\n{{smaller block|I ''augurated'' truly the improvement they would receive this way.\n{{right|''Warburton'', To Hurd, Letters, cii.}}}}\n\n'''augurate<sup>2</sup>''' (â′gụ̄-rāt), ''n.'' [< L. ''auguratus'', the office of augur, < ''augur'': see ''augur'', ''n.'', and ''-ate''<sup>3</sup>.] The office of augur; augurship.\n\n'''auguration†''' (â-gụ̄-rā′shọn), ''n.'' [< L. ''auguratio(n-)'', < ''augurari'', pp. ''auguratus'', augur: see ''augur'', ''v.''] The practice of augury, or the foretelling of events by signs or omens: as, “tripudiary ''augurations'',” ''Sir T. Browne'', Vulg. Err., i. 11.\n\n'''augure<sup>1</sup>†''', ''n.'' [For *''auger'', for *''algere'', appar. < D. ''aalgeer'', ''aalger'', ''elger'', < ''aal'' (= E. ''eel'') + ''-ger'' (= AS. ''gār''), a spear: see ''gar''<sup>1</sup>, ''gore''<sup>2</sup>.] An eel-spear.\n\n'''augure<sup>2</sup>†''', ''n.'' [Also ''augur'', < OF. ''augure'', < L. ''augurium'': see ''augury''.] Augury.\n\n'''augurer†''' (â′gėr-ėr), ''n.'' An augur. ''Shak.''\n\n'''augurial''' (â-gụ̄′ri-al), ''a.'' [< L. ''augurialis'', collateral form of ''auguralis'': see ''augural''.] Of or pertaining to augurs or augury; augural.\n{{smaller block|As for the divination or decision from the staff, it is an}}",
+   "c1s2": "{{smaller block|''augurial'' relic.\n{{right|Sir T. Browne, Vulg. Err.}}}}\n\n'''augurism†''' (â′gėr-izm), ''n.'' [< ''augur'' + ''-ism.''] Augury.\n\n'''augurist†''' (â′gėr-ist), ''n.'' [< ''augur'' + ''-ist.'' Cf. ''augurize.''] An augur.\n\n'''augurize†''' (â′gėr-īz), ''v. t.'' or ''i.'' [< ''augur'' + ''-ize.''] To augur; act as an augur.\n\n'''augurous†''' (â′gėr-us), ''a.'' [< ''augur'' + ''-ous.''] Predicting; foretelling; foreboding.\n{{smaller block|Presaging in their ''augurous'' hearts.\n{{right|''Chapman'', Iliad, xviii. 191.}}}}\n\n'''augurship''' (â′gėr-ship), ''n.'' [< ''augur'' + ''-ship.''] The office or period of office of an augur.\n\n'''augury''' (â′gū-ri), ''n.''; pl. ''auguries'' (-riz). [< ME. ''augury'', < OF. ''augurie'' (ME. also ''augure'', < OF. ''augure'') = Sp. Pg. It. ''augurio'', < L. ''augurium'', divination, prognostication, omen, < ''augur'', augur: see ''augur'', ''n.''] '''1.''' The art or practice of foretelling events by signs or omens.\n{{smaller block|She knew by ''augury'' divine.\n{{right|''Swift'', Cadenus and Vanessa.}}\nThe throne and sceptre of Ithaca were to be disposed by ''augury'', by the will of Jove, signified by some omen.\n{{right|''J. Adams'', Works, IV. 571.}}}}\n'''2.''' That which forebodes; that from which a prediction is drawn; an omen or significant token.\n{{smaller block|Sad ''auguries'' of winter thence she drew.\n{{right|''Dryden'', Hind and Panther, iii. 441.}}\nI hail this interchange of sentiment . . . as an ''augury'' that . . . the peace and friendship which now exist between the two nations will be . . . perpetual.\n{{right|''Lincoln'', in Raymond, p. 462.}}}}\n'''3.''' Figuratively, indication; presage; promise.\n{{smaller block|His diligence at school . . . gave ''augury'' of his future}}",
+   "c1s3": "{{smaller block|accomplishments.{{right|''Sumner'', John Pickering.}}}}\n{{smaller|='''Syn.''' ''Portent, Sign'', etc. See ''omen''.}}\n\n'''august<sup>1</sup>''' (â-gust′), ''a.'' [= F. ''auguste'' = Sp. Pg. It. ''augusto'', < L. ''augustus'', venerable, worthy of honor (assumed as a title by Octavius Cæsar and his successors), perhaps orig. ‘consecrated by augury,’ < ''augur'', augur (cf. ''robust'', < L. ''robustus'', < ''robur''); but usually associated with ''augere'', increase, extol: see ''auction''.] '''1.''' Inspiring reverence and admiration; majestic; solemnly grand or stately; sublime; magnificent; imposing.\n{{smaller block|<poem>There is on earth a yet ''auguster'' thing,\nVeiled though it be, than parliament or king.</poem>{{right|''Wither.''}}}}\n{{smaller block|That ''august'' face of Truth. {{right|''Whittier'', Eve of Election.}}}}\n{{smaller block|This was an extensive and magnificent structure, the creation of the prince’s own eccentric yet ''august'' taste.{{right|''Poe'', Tales, I. 339.}}}}\n'''2.''' Venerable; worshipful; eminent. {{smaller|='''Syn.''' ''Stately'', etc. (see ''majestic''), awful, imposing.}}\n\n'''August<sup>2</sup>''' (â′gust), ''n.'' [< ME. ''August, Augst'', also ''Aust'', after OF. ''Aoust'', mod. F. ''Août'' = Sp. Pg. It. ''Agosto'' = D. ''Augustus'' = G. Dan. ''August'' = Sw. ''Augusti'' = Russ. ''Avgustŭ'' = Gr. Αὔγουστος, < L.",
+   "c2s1": "''Sextilis'' (< ''sextus'' = E. ''sixth'', it being the sixth month in the old calendar).] The eighth month of the year, containing thirty-one days, reckoned the first month of autumn in Great Britain, but the last of summer in the United States. See ''month''.\n\n'''august<sup>2</sup>''' (â′gust), ''v. t.'' [= F. ''aoûter'', ripen, = Sp. ''agostar'', be parched, dial. plow land in August, pasture cattle on stubble in summer (see ''agostadero''); from ''August<sup>2</sup>'', ''n.''] '''1†.''' To make brown or sunburnt. ''Evelyn.''—'''2.''' To ripen; bring to fruition. [Poetical.]\n{{smaller block|He for . . . dear nations toiled,<br>And ''augusted'' man’s heavenly hopes.\n{{right|''Bailey'', Mystic, l. 55. (''N. E. D.'')}}}}\n\n'''augusta''' (â-gus′tä̤), ''n.'' [See ''august<sup>1</sup>''.] A name given in Central America to a valuable timber-tree, the botanical relations of which are unknown.\n\n'''augustal''' (â-gus′tạl), ''n.'' [< L. ''Augustalis'', relating to Augustus, the title assumed by the emperors, < ''augustus'', venerable: see ''august<sup>1</sup>''.] '''1.''' Under the ancient Roman empire: (''a'') A priest of the lares at the cross-roads, an office first established by Augustus. (''b'') A priest of a college or brotherhood (''sodales Augustales'') of members of the imperial house and some other persons of high rank, whose duty it was to maintain the religious rites of the Julian family: instituted by Tiberius. (''c'') A member of a",
+   "c2s2": "private college or corporation, of which there were many in Rome and throughout the provinces, formed to do reverence, by religious ceremonies and otherwise, to the memory of Augustus, and, at a later date, to pay divine",
+   "c2s3": "honors to the reigning emperor also. {{smaller|The office of augustal became hereditary, and carried with it the assessment of certain public dues, and the giving to the public of stated feasts and shows. The augustals wore distinctive ornaments, had places of honor in the theaters, and enjoyed other privileges.}} (''d'') Under the early empire, a general name for subaltern officers of the legion.—'''2.''' The name of an Italian gold coin, weighing from 30 to 40 grains, issued in\n[[FIGURE]]\n{{c|{{smaller|Obverse. Reverse.<br>Augustal, in the British Museum. (Size of the original.)}}}}\nthe thirteenth century by the emperor Frederick II. as king of Sicily. It bears a resemblance to gold coins of the ancient Roman empire.\n\n'''augustalis''' (â-gus-tā′lis), ''n.''; pl. ''augustales'' (-lēz). Same as ''augustal'', 2.\n\n'''Augustan''' (â-gus′tạn), ''a.'' [< L. ''Augustanus'', pertaining to ''Augustus'', or to cities named ''Augusta'': see ''August''<sup>2</sup>.] '''1.''' Pertaining to the Emperor Augustus (31 {{sc|b. c.}} to {{sc|a. d.}} 14): as, the ''Augustan'' age. {{smaller|The Augustan age was the most brilliant period in Roman literature; hence the phrase has been applied by analogy to similar periods in the literary history of other countries. Thus the reign of Louis XIV. has been called the ''Augustan'' age of French literature, while that of Queen Anne has received this distinction in English.}}\n'''2.''' Pertaining to the town Augusta Vindelicorum, now Augsburg, in Bavaria: as, the ''Au-''",
+   "c2s4": "''gustan'' Confession, commonly called the Augsburg Confession. See ''confession.''\n\n'''Augustin, Augustine''' (â-gus′tin or â′gus-tin), ''n.'' [< L. ''Augustinus,'' a proper name, < ''Augustus,'' name of Roman emperors: see ''August''<sup>2</sup>. The name ''Austin'' is a contraction of ''Augustin.''] A name formerly given to a member of one of the monastic fraternities following the rule of St. Augustine. See ''Augustinian.''—'''Augustine disputation,''' {{smaller|a disputation formerly held at Oxford on the feast of St. Augustine.}}\n\n'''Augustinian''' (â-gus-tin′i-a̤n), ''a.'' and ''n.'' [< L. ''Augustinus,'' Augustine.] '''I.''' ''a.'' Relating or pertaining to St. Augustine or his doctrines, or to the order of monks following his rule.\n\n'''II.''' ''n.'' '''1.''' A member of one of several religious orders deriving their name and rule from St. Augustine. {{smaller|The regular canons of St. Augustine, or Austin Canons, were introduced into Great Britain soon after 1100, and had houses at Pontefract, Scone, Holyrood, etc. The hermits of St. Augustine, or Austin Friars, now known as Augustinians, form one of the four mendicant orders of the Roman Catholic Church; they were gathered into one body from several congregations in the middle of the thirteenth century. A reformed branch of this order is known as the ''barefooted Augustinians.'' There have also}}",
+   "c3s1": "of a sect of the sixteenth century, which maintained that the gates of heaven will not be open till the general resurrection.\n\n'''Augustinianism''' (â-gus-tin′i-ạn-izm), ''n.'' [< ''Augustinian'' + ''-ism.''] '''1.''' The doctrines of St. Augustine.—'''2.''' The rules and practice of the Augustinians.\n\n'''augustly''' (â-gust′li), ''adv.'' In an august manner; majestically.\n\n'''augustness''' (â-gust′nes), ''n.'' The quality of being august; dignity of mien; grandeur; magnificence.\n{{smaller block|He was daunted at the ''augustness'' of such an assembly.\n{{right|''Shaftesbury.''}}}}\n\n'''auk<sup>1</sup>''' (âk), ''n.'' [Also written ''awk'', E. dial. ''alk'', < Icel. ''alka'', ''ālka'' = Sw. ''alka'' = Dan. ''alk''; > NL. ''Alca'', q. v.] A diving bird belonging to the family ''Alcidæ'' and the order ''Pygopodes'', characterized by having 3 toes, webbed feet, and short wings and tail. {{smaller|Originally the name was specifically applied to the great auk, or garefowl, ''Alca impennis'', which became extinct about 1844, notable as the largest bird of the family and the only one deprived of the power of flight by reason of the smallness of its wings, though these were as perfectly formed as in other birds. It was about 30 inches long, the length of the wing being only about 6 inches. Its color was dark-brown above and white below, with a large white spot before the eye. It abounded on both coasts of the North Atlantic, nearly or quite to the arctic circle, and south on the American side to Massachusetts. The name came to be also specifically applied to the razor-billed auk, ''Alca'' or ''Utamania torda'', a similar but much smaller species, about 15 inches long, with a white line instead of a spot before the eye; and finally, as a book-name, it was made synonymous with ''Alcidæ''. Several North Pacific species still bear the name, as the rhinoceros auk (''Ceratorhina monocerata''), the crested auk}}",
+   "c3s2": "{{smaller|(''Simorhynchus cristatellus''), etc.; but other special names are usually found for most of the birds of this family, as ''puffin'', ''murre'', ''guillemot'', ''dovekie'', ''auklet'', etc. There are about 24 species belonging to the family. See ''Alca'', ''Alcidæ''.}}\n\n'''auk<sup>2</sup>†''', ''a.'' Same as ''awk''<sup>1</sup>.\n\n'''auklet''' (âk′let), ''n.'' [< ''auk'' + dim. ''-let''.] A little auk. {{smaller|Specifically applied to several small species of}}\n[[FIGURE]]\n{{c|{{smaller|Crested Auklet (''Simorhynchus cristatellus'').}}}}\n{{smaller|''Alcidæ'', of the genera ''Simorhynchus'', ''Ombria'', and ''Ptychorhamphus'', as the crested auklet, ''Simorhynchus cristatellus''; the parrakeet auklet, ''Ombria psittacula''; the Aleutian auklet, ''Ptychorhamphus aleuticus''.}}\n\n'''aul''' (âl), ''n.'' [E. dial., a reduction of ''alder''<sup>1</sup>.] The alder.\n{{smaller block|When the bud of the ''aul'' is as big as the trout’s eye,}}",
+   "c3s3": "{{smaller block|Then that fish is in season in the river Wye.\n{{right|''Local Eng. proverb.''}}}}\n\n¶\n'''aula''' (â′lä), ''n.''; pl. ''aulæ'' (-lē). [L., a hall, a court, < Gr. αὐλή, a hall, a court, orig. an open court, prob. as being open to the air, < ἀῆναι, blow: see ''air''<sup>1</sup>, ''aura'', and ''asthma''; cf. αὐλός, a pipe, flute.] '''1.''' A court or hall.—'''2.''' [NL.] In ''anat.'', the anterior portion of the third ventricle of the brain, corresponding to the cavity of the primitive prosencephalon; a mesal portion of the common ventricular cavity of the brain; in the amphibian brain, the ventricle of the unpaired cerebral rudiment.—'''3.''' [NL.] In ''zoöl.'', the cavity of a colony of infusorians, as members of ''Volvox'' or ''Eudorina''. ''A. Hyatt.''—{{smaller|'''Aula Regia''' or '''Regis''' (Royal or King’s Court), a court established by William the Conqueror in his own hall, whence the name. It was composed of the great officers of state resident in the palace, of the king’s justiciars, and the greater barons. It formed an advisory body consulted by the king in matters of great importance. Also called ''Curia Regis''. See ''curia'', 2.}}\n\n'''Aulacantha''' (â-la-kan′thä), ''n.'' [NL., < Gr. αὐλός, pipe, tube, + ἄκανθα, a spine.] A genus of radiolarians, representing a peculiar family, the ''Aulacanthidæ''. ''Haeckel'', 1860.\n\n'''aulacanthid''' (â-la-kan′thid), ''n.'' A radiolarian of the family ''Aulacanthidæ''."
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0406 c2f1.png",
+   "c3f1": "century v01 p0406 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     833,
+     1721,
+     1324,
+     1932
+    ],
+    "caption": [
+     842,
+     1935,
+     1320,
+     2005
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     831,
+     1716,
+     1376,
+     1944
+    ]
+   },
+   {
+    "box": [
+     1672,
+     1662,
+     2212,
+     2166
+    ],
+    "caption": [
+     1692,
+     2206,
+     2164,
+     2233
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1613,
+     1650,
+     2295,
+     2195
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 3,
+    "input_tokens": 5442,
+    "output_tokens": 160,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9506,
+    "output_tokens": 8343,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|augur|380|aulacanthid}}</noinclude>{{nop}}{{smaller block|It ''augurs ill'' for an undertaking . . . to find such dissensions in headquarters.\n{{right|''W. Belsham'', Hist. Eng.}}}}\n\n'''augural''' (â′gụ̄-ral), ''a.''   [< L. ''auguralis'', pertaining to an augur, < ''augur'', augur.]   Pertaining to an augur, or to the duties or profession of an augur; of or pertaining to divination; ominous: as, “portents ''augural'',” ''Cowper''.\n\n'''augurate<sup>1</sup>†''' (â′gụ̄-rāt), ''v. t.'' or ''i.''; pret. and pp. ''augurated'', ppr. ''augurating''.   [< L. ''augurātus'', pp. of ''augurari'', augur: see ''augur'', ''v.'', and ''-ate''<sup>2</sup>.]   To conjecture or foretell by augury; predict; act as an augur.\n{{smaller block|I ''augurated'' truly the improvement they would receive this way.\n{{right|''Warburton'', To Hurd, Letters, cii.}}}}\n\n'''augurate<sup>2</sup>''' (â′gụ̄-rāt), ''n.''   [< L. ''auguratus'', the office of augur, < ''augur'': see ''augur'', ''n.'', and ''-ate''<sup>3</sup>.]   The office of augur; augurship.\n\n'''auguration†''' (â-gụ̄-rā′shọn), ''n.''   [< L. ''auguratio(n-)'', < ''augurari'', pp. ''auguratus'', augur: see ''augur'', ''v.'']   The practice of augury, or the foretelling of events by signs or omens: as, “tripudiary ''augurations'',” ''Sir T. Browne'', Vulg. Err., i. 11.\n\n'''augure<sup>1</sup>†''', ''n.''   [For *''auger'', for *''algere'', appar. < D. ''aalgeer'', ''aalger'', ''elger'', < ''aal'' (= E. ''eel'') + ''-ger'' (= AS. ''gār''), a spear: see ''gar''<sup>1</sup>, ''gore''<sup>2</sup>.]   An eel-spear.\n\n'''augure<sup>2</sup>†''', ''n.''   [Also ''augur'', < OF. ''augure'', < L. ''augurium'': see ''augury''.]   Augury.\n\n'''augurer†''' (â′gėr-ėr), ''n.'' An augur.   ''Shak.''\n\n'''augurial''' (â-gụ̄′ri-al), ''a.''   [< L. ''augurialis'', collateral form of ''auguralis'': see ''augural''.]   Of or pertaining to augurs or augury; augural.\n{{smaller block|As for the divination or decision from the staff, it is an ''augurial'' relic.\n{{right|Sir T. Browne, Vulg. Err.}}}}\n\n'''augurism†''' (â′gėr-izm), ''n.''   [< ''augur'' + ''-ism.'']   Augury.\n\n'''augurist†''' (â′gėr-ist), ''n.''   [< ''augur'' + ''-ist.'' Cf. ''augurize.'']   An augur.\n\n'''augurize†''' (â′gėr-īz), ''v. t.'' or ''i.''   [< ''augur'' + ''-ize.'']   To augur; act as an augur.\n\n'''augurous†''' (â′gėr-us), ''a.''   [< ''augur'' + ''-ous.'']   Predicting; foretelling; foreboding.\n{{smaller block|Presaging in their ''augurous'' hearts.\n{{right|''Chapman'', Iliad, xviii. 191.}}}}\n\n'''augurship''' (â′gėr-ship), ''n.''   [< ''augur'' + ''-ship.'']   The office or period of office of an augur.\n\n'''augury''' (â′gū-ri), ''n.''; pl. ''auguries'' (-riz).   [< ME. ''augury'', < OF. ''augurie'' (ME. also ''augure'', < OF. ''augure'') = Sp. Pg. It. ''augurio'', < L. ''augurium'', divination, prognostication, omen, < ''augur'', augur: see ''augur'', ''n.'']   '''1.''' The art or practice of foretelling events by signs or omens.\n{{smaller block|She knew by ''augury'' divine.\n{{right|''Swift'', Cadenus and Vanessa.}}}}\n{{smaller block|The throne and sceptre of Ithaca were to be disposed by ''augury'', by the will of Jove, signified by some omen.\n{{right|''J. Adams'', Works, IV. 571.}}}}\n'''2.''' That which forebodes; that from which a prediction is drawn; an omen or significant token.\n{{smaller block|Sad ''auguries'' of winter thence she drew.\n{{right|''Dryden'', Hind and Panther, iii. 441.}}}}\n{{smaller block|I hail this interchange of sentiment . . . as an ''augury'' that . . . the peace and friendship which now exist between the two nations will be . . . perpetual.\n{{right|''Lincoln'', in Raymond, p. 462.}}}}\n'''3.''' Figuratively, indication; presage; promise.\n{{smaller block|His diligence at school . . . gave ''augury'' of his future accomplishments.{{right|''Sumner'', John Pickering.}}}}\n{{smaller|='''Syn.''' ''Portent, Sign'', etc. See ''omen''.}}\n\n'''august<sup>1</sup>''' (â-gust′), ''a.''   [= F. ''auguste'' = Sp. Pg. It. ''augusto'', < L. ''augustus'', venerable, worthy of honor (assumed as a title by Octavius Cæsar and his successors), perhaps orig. ‘consecrated by augury,’ < ''augur'', augur (cf. ''robust'', < L. ''robustus'', < ''robur''); but usually associated with ''augere'', increase, extol: see ''auction''.]   '''1.''' Inspiring reverence and admiration; majestic; solemnly grand or stately; sublime; magnificent; imposing.\n{{smaller block|<poem>There is on earth a yet ''auguster'' thing,\nVeiled though it be, than parliament or king.</poem>{{right|''Wither.''}}}}\n{{smaller block|That ''august'' face of Truth. {{right|''Whittier'', Eve of Election.}}}}\n{{smaller block|This was an extensive and magnificent structure, the creation of the prince’s own eccentric yet ''august'' taste.{{right|''Poe'', Tales, I. 339.}}}}\n'''2.''' Venerable; worshipful; eminent. {{smaller|='''Syn.''' ''Stately'', etc. (see ''majestic''), awful, imposing.}}\n\n'''August<sup>2</sup>''' (â′gust), ''n.''   [< ME. ''August, Augst'', also ''Aust'', after OF. ''Aoust'', mod. F. ''Août'' = Sp. Pg. It. ''Agosto'' = D. ''Augustus'' = G. Dan. ''August'' = Sw. ''Augusti'' = Russ. ''Avgustŭ'' = Gr. Αὔγουστος, < L. ''Sextilis'' (< ''sextus'' = E. ''sixth'', it being the sixth month in the old calendar).]   The eighth month of the year, containing thirty-one days, reckoned the first month of autumn in Great Britain, but the last of summer in the United States. See ''month''.\n\n'''august<sup>2</sup>''' (â′gust), ''v. t.''   [= F. ''aoûter'', ripen, = Sp. ''agostar'', be parched, dial. plow land in August, pasture cattle on stubble in summer (see ''agostadero''); from ''August<sup>2</sup>'', ''n.'']   '''1†.''' To make brown or sunburnt.   ''Evelyn.''—'''2.''' To ripen; bring to fruition. [Poetical.]\n{{smaller block|He for . . . dear nations toiled,<br>And ''augusted'' man’s heavenly hopes.\n{{right|''Bailey'', Mystic, l. 55. (''N. E. D.'')}}}}\n\n'''augusta''' (â-gus′tä̤), ''n.''   [See ''august<sup>1</sup>''.]   A name given in Central America to a valuable timber-tree, the botanical relations of which are unknown.\n\n'''augustal''' (â-gus′tạl), ''n.''   [< L. ''Augustalis'', relating to Augustus, the title assumed by the emperors, < ''augustus'', venerable: see ''august<sup>1</sup>''.]   '''1.''' Under the ancient Roman empire: (''a'') A priest of the lares at the cross-roads, an office first established by Augustus. (''b'') A priest of a college or brotherhood (''sodales Augustales'') of members of the imperial house and some other persons of high rank, whose duty it was to maintain the religious rites of the Julian family: instituted by Tiberius. (''c'') A member of a private college or corporation, of which there were many in Rome and throughout the provinces, formed to do reverence, by religious ceremonies and otherwise, to the memory of Augustus, and, at a later date, to pay divine honors to the reigning emperor also. {{smaller|The office of augustal became hereditary, and carried with it the assessment of certain public dues, and the giving to the public of stated feasts and shows. The augustals wore distinctive ornaments, had places of honor in the theaters, and enjoyed other privileges.}} (''d'') Under the early empire, a general name for subaltern officers of the legion.—'''2.''' The name of an Italian gold coin, weighing from 30 to 40 grains, issued in\nthe thirteenth century by the emperor Frederick II. as king of Sicily. It bears a resemblance to gold coins of the ancient Roman empire.\n\n[[File:century v01 p0406 c2f1.png|center|249px]]\n{{c|{{smaller|Obverse. Reverse.<br>Augustal, in the British Museum. (Size of the original.)}}}}\n\n'''augustalis''' (â-gus-tā′lis), ''n.''; pl. ''augustales'' (-lēz). Same as ''augustal'', 2.\n\n'''Augustan''' (â-gus′tạn), ''a.''   [< L. ''Augustanus'', pertaining to ''Augustus'', or to cities named ''Augusta'': see ''August''<sup>2</sup>.]   '''1.''' Pertaining to the Emperor Augustus (31 {{sc|b. c.}} to {{sc|a. d.}} 14): as, the ''Augustan'' age. {{smaller|The Augustan age was the most brilliant period in Roman literature; hence the phrase has been applied by analogy to similar periods in the literary history of other countries. Thus the reign of Louis XIV. has been called the ''Augustan'' age of French literature, while that of Queen Anne has received this distinction in English.}}\n'''2.''' Pertaining to the town Augusta Vindelicorum, now Augsburg, in Bavaria: as, the ''Augustan'' Confession, commonly called the Augsburg Confession. See ''confession.''\n\n'''Augustin, Augustine''' (â-gus′tin or â′gus-tin), ''n.''   [< L. ''Augustinus,'' a proper name, < ''Augustus,'' name of Roman emperors: see ''August''<sup>2</sup>. The name ''Austin'' is a contraction of ''Augustin.'']   A name formerly given to a member of one of the monastic fraternities following the rule of St. Augustine. See ''Augustinian.''—'''Augustine disputation,''' {{smaller|a disputation formerly held at Oxford on the feast of St. Augustine.}}\n\n'''Augustinian''' (â-gus-tin′i-a̤n), ''a.'' and ''n.''   [< L. ''Augustinus,'' Augustine.]   '''I.''' ''a.'' Relating or pertaining to St. Augustine or his doctrines, or to the order of monks following his rule.\n\n'''II.''' ''n.'' '''1.''' A member of one of several religious orders deriving their name and rule from St. Augustine. {{smaller|The regular canons of St. Augustine, or Austin Canons, were introduced into Great Britain soon after 1100, and had houses at Pontefract, Scone, Holyrood, etc. The hermits of St. Augustine, or Austin Friars, now known as Augustinians, form one of the four mendicant orders of the Roman Catholic Church; they were gathered into one body from several congregations in the middle of the thirteenth century. A reformed branch of this order is known as the ''barefooted Augustinians.'' There have also}} of a sect of the sixteenth century, which maintained that the gates of heaven will not be open till the general resurrection.\n\n'''Augustinianism''' (â-gus-tin′i-ạn-izm), ''n.''   [< ''Augustinian'' + ''-ism.'']   '''1.''' The doctrines of St. Augustine.—'''2.''' The rules and practice of the Augustinians.\n\n'''augustly''' (â-gust′li), ''adv.'' In an august manner; majestically.\n\n'''augustness''' (â-gust′nes), ''n.'' The quality of being august; dignity of mien; grandeur; magnificence.\n{{smaller block|He was daunted at the ''augustness'' of such an assembly.\n{{right|''Shaftesbury.''}}}}\n\n'''auk<sup>1</sup>''' (âk), ''n.''   [Also written ''awk'', E. dial. ''alk'', < Icel. ''alka'', ''ālka'' = Sw. ''alka'' = Dan. ''alk''; > NL. ''Alca'', q. v.]   A diving bird belonging to the family ''Alcidæ'' and the order ''Pygopodes'', characterized by having 3 toes, webbed feet, and short wings and tail. {{smaller|Originally the name was specifically applied to the great auk, or garefowl, ''Alca impennis'', which became extinct about 1844, notable as the largest bird of the family and the only one deprived of the power of flight by reason of the smallness of its wings, though these were as perfectly formed as in other birds. It was about 30 inches long, the length of the wing being only about 6 inches. Its color was dark-brown above and white below, with a large white spot before the eye. It abounded on both coasts of the North Atlantic, nearly or quite to the arctic circle, and south on the American side to Massachusetts. The name came to be also specifically applied to the razor-billed auk, ''Alca'' or ''Utamania torda'', a similar but much smaller species, about 15 inches long, with a white line instead of a spot before the eye; and finally, as a book-name, it was made synonymous with ''Alcidæ''. Several North Pacific species still bear the name, as the rhinoceros auk (''Ceratorhina monocerata''), the crested auk (''Simorhynchus cristatellus''), etc.; but other special names are usually found for most of the birds of this family, as ''puffin'', ''murre'', ''guillemot'', ''dovekie'', ''auklet'', etc. There are about 24 species belonging to the family. See ''Alca'', ''Alcidæ''.}}\n\n'''auk<sup>2</sup>†''', ''a.'' Same as ''awk''<sup>1</sup>.\n\n'''auklet''' (âk′let), ''n.''   [< ''auk'' + dim. ''-let''.]   A little auk. {{smaller|Specifically applied to several small species of}}\n\n[[File:century v01 p0406 c3f1.png|center|273px]]\n{{c|{{smaller|Crested Auklet (''Simorhynchus cristatellus'').}}}}\n{{smaller|''Alcidæ'', of the genera ''Simorhynchus'', ''Ombria'', and ''Ptychorhamphus'', as the crested auklet, ''Simorhynchus cristatellus''; the parrakeet auklet, ''Ombria psittacula''; the Aleutian auklet, ''Ptychorhamphus aleuticus''.}}\n\n'''aul''' (âl), ''n.''   [E. dial., a reduction of ''alder''<sup>1</sup>.]   The alder.\n{{smaller block|When the bud of the ''aul'' is as big as the trout’s eye, Then that fish is in season in the river Wye.\n{{right|''Local Eng. proverb.''}}}}\n\n'''aula''' (â′lä), ''n.''; pl. ''aulæ'' (-lē).   [L., a hall, a court, < Gr. αὐλή, a hall, a court, orig. an open court, prob. as being open to the air, < ἀῆναι, blow: see ''air''<sup>1</sup>, ''aura'', and ''asthma''; cf. αὐλός, a pipe, flute.]   '''1.''' A court or hall.—'''2.''' [NL.] In ''anat.'', the anterior portion of the third ventricle of the brain, corresponding to the cavity of the primitive prosencephalon; a mesal portion of the common ventricular cavity of the brain; in the amphibian brain, the ventricle of the unpaired cerebral rudiment.—'''3.''' [NL.] In ''zoöl.'', the cavity of a colony of infusorians, as members of ''Volvox'' or ''Eudorina''.   ''A. Hyatt.''—{{smaller|'''Aula Regia''' or '''Regis''' (Royal or King’s Court), a court established by William the Conqueror in his own hall, whence the name. It was composed of the great officers of state resident in the palace, of the king’s justiciars, and the greater barons. It formed an advisory body consulted by the king in matters of great importance. Also called ''Curia Regis''. See ''curia'', 2.}}\n\n'''Aulacantha''' (â-la-kan′thä), ''n.''   [NL., < Gr. αὐλός, pipe, tube, + ἄκανθα, a spine.]   A genus of radiolarians, representing a peculiar family, the ''Aulacanthidæ''.   ''Haeckel'', 1860.\n\n'''aulacanthid''' (â-la-kan′thid), ''n.'' A radiolarian of the family ''Aulacanthidæ''.<noinclude><references/></noinclude>"
+}

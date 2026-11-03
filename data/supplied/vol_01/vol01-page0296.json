@@ -1,0 +1,183 @@
+{
+ "volume": 1,
+ "page_number": 296,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n295.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n295.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 744,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     89,
+     145,
+     2303,
+     181
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     89,
+     181,
+     828,
+     1248
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     89,
+     1248,
+     828,
+     2201
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     89,
+     2201,
+     828,
+     3297
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     828,
+     181,
+     1573,
+     1278
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     828,
+     1278,
+     1573,
+     2351
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     828,
+     2351,
+     1573,
+     3297
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1573,
+     181,
+     2303,
+     1070
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1573,
+     1070,
+     2303,
+     1986
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1573,
+     1986,
+     2303,
+     2970
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1573,
+     2970,
+     2303,
+     3297
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|appeal|270|appease}}",
+   "c1s1": "¶\n'''appeal''' (a̤-pēl′), ''v.'' [Early mod. E. also ''apeal'', and ''appell'', ''apell'', < ME. ''appelen'', ''apelen'', < OF. ''apeler'', F. ''appeler'' = Pr. ''appelar'' = Sp. ''apelar'' = Pg. ''appellar'' = It. ''appellare'', < L. ''appellāre'', ''adpellāre'', address, appeal to, summon, accuse, accost by name, a secondary form of ''appellĕre'', ''adpellĕre'', bring to, drive to, bring to land, < ''ad'', to, + ''pellĕre'', drive. Cf. ''expel'', ''impel'', ''propel'', ''repel'', and see ''repeal''.] '''I.''' ''trans.'' '''1.''' To call; summon; challenge. [Rare.]\n{{smaller block|Man to man will I ''appeal'' the Norman to the lists.\n{{right|''Scott.''}}}}\n'''2.''' In ''law'': (''a'') To remove, as a cause, from a lower to a higher judge or court. See ''appeal'', ''n.'', 2 (''b'').\n{{smaller block|Causes of any importance were ''appealed'' from the Sculdasco to the Gastaldo.\n{{right|''Brougham.''}}}}\n(''b'') Formerly, to charge with a crime before a tribunal; accuse; institute a criminal prosecution against for some heinous offense: with ''of'' before the offense charged: as, to ''appeal'' a person ''of'' felony.\n{{smaller block|I ''appeal'' you ''of'' murder.\n{{right|''B. Jonson.''}}\nIn November, 1817, William Ashford ''appealed'' Abraham Thornton, to answer for the alleged murder of appellant’s sister.\n{{right|''N. and Q.'', 6th ser., XI. 252.}}\nIf a Frenchman ''appealed'' an Englishman, the Englishman had the choice of either mode of trial.\n{{right|''E. A. Freeman'', Norm. Conq., IV. 423.}}}}\n'''3†.''' To address; offer up, as an appeal.\n{{smaller block|<poem>They both uprose and tooke their ready way\nUnto the church, their praiers to ''appele.''</poem>\n{{right|''Spenser'', F. Q., III. ii. 48.}}}}",
+   "c1s2": "¶\n'''II.''' ''intrans.'' '''1.''' To call for aid, mercy, sympathy, or the like; make an earnest entreaty, or have the effect of an entreaty.\n{{smaller block|<poem>Against their merit if this age rebel,\nTo future times for justice they ''appeal.''</poem>\n{{right|''Dryden'', Art of Poetry, iii. 755.}}}}\n{{smaller block|The deepening expression of pain on Philip’s face . . . made the deformity ''appeal'' more strongly to her pity.\n{{right|''George Eliot'', Mill on the Floss, v. 1.}}}}\n'''2.''' In ''law'', to refer to a superior judge or court for the decision of a cause depending; specifically, to refer a decision of a lower court or judge to a higher one, for reëxamination and revisal.\n{{smaller block|I ''appeal'' unto Cæsar. {{right|Acts xxv. 11.}}}}\n'''3.''' To refer to another person or authority for the decision of a question controverted, or for the corroboration of testimony or facts; in general, to refer to some tribunal explicitly mentioned or implied.\n{{smaller block|I ''appeal'' to the Scriptures in the original.\n{{right|''Horsley'', Sermons, I. i.}}}}\n{{smaller block|I ''appeal'' from your customs. I must be myself.\n{{right|''Emerson'', Self-Reliance.}}}}\n'''4.''' To have recourse; resort for proof, decision, or settlement: as, to ''appeal'' to force.\n{{smaller block|Not prevailing by dispute, he ''appeals'' to a miracle, restoring to sight a blind man whom the Britons could not cure.\n{{right|''Milton'', Hist. Eng., iv.}}}}\n{{smaller block|[In all senses, with ''to'' or ''unto'' before the tribunal whose}}",
+   "c1s3": "{{smaller|judgment is asked, and ''from'' before that whose decision is rejected.]}}\n\n¶\n'''appeal''' (a-pēl′), ''n.'' [Early mod. E. also ''appel'', ''appell'', ''apell''; < ME. ''apeel'', ''apel'', ''apele'' (and by apheresis ''pele'', > mod. E. ''peal'', q. v.), < OF. ''apel'', F. ''appel'', appeal; from the verb.] '''1.''' An address or invocation; a call for sympathy, mercy, aid, or the like; a supplication; an entreaty: as, an ''appeal'' for help; an ''appeal'' for mercy.\n{{smaller block|Whenever yet was your ''appeal'' denied?\n{{right|''Shak.'', 2 Hen. IV., iv. 1.}}}}\n'''2.''' A proceeding taken to reverse a decision by submitting it to the review of a higher authority: as, an ''appeal'' to the house from a decision of the chair. In ''law'': (''a'') Sometimes used in the above general meaning, so as to include writs of error, certiorari, etc. (''b'') Strictly, the removal of a cause or suit from a lower to a higher tribunal, in order that the latter may revise, and, if it seems needful, reverse or amend, the decision of the former. {{smaller|In modern usage an appeal implies not merely a preliminary objection, but a proceeding for review after a decision has been rendered. As now used, it is a proceeding derived from the courts of equity. The mode of review at common law was formerly not to remove the cause, but only to bring up specific points or questions by writs of error. This was changed in England by the judicature acts of 1873–5, and there is now one Court of Appeal for all cases. In Scotland the highest appellate court is the Court of Session. The judgments of both these courts may be appealed to the House of Lords. In the United States the appeal has been to a great extent substituted for the writ of error. The highest appellate courts are, for federal questions arising in either federal or State courts, the United States Supreme Court; for other questions, the supreme courts, courts of appeal, or courts of error of the various States, the practice being wholly regulated by statutes.}} (''c'') The",
+   "c2s1": "mode of procedure by which such removal is effected. (''d'') The right of removal to a higher court. (''e'') Formerly, a vindictive action at the suit of a party injured when the supposed criminal had been previously acquitted on an indictment or pardoned. {{smaller|The appellant raised an action (which had to be brought within a year) and demanded the punishment of the accused, who had to submit to a fresh trial by jury, or demand a trial by wager of battle.}}\n{{smaller block|He was threatened with an ''appeal'' of murder by the widow of a Protestant clergyman.\n{{right|''Macaulay'', Hist. Eng., xxix.}}}}\n'''3.''' A summons to answer to a charge; a challenge.\n{{smaller block|<poem>Nor shall the sacred character of king\nBe urged to shield me from thy bold ''appeal.''</poem>\n{{right|''Dryden.''}}}}\n'''4.''' A call to another to sanction or witness; a reference to another for proof or decision: as, in an oath a person makes an ''appeal'' to the Deity for the truth of his declaration.—'''5.''' Resort or recourse for decision.\n{{smaller block|Every milder method is to be tried before a nation makes an ''appeal'' to arms.\n{{right|''Kent.''}}}}\n{{smaller block|In the community of nations, the first ''appeal'' is to physical force. ''Macaulay'', Utilitarian Theory of Government.}}\n'''Commission of Appeals.''' {{smaller|See ''commission''<sup>1</sup>.}} ='''Syn. 1.''' {{smaller|''Petition, Suit,'' etc. (see ''prayer''), solicitation, application.}}\n\n¶\n'''appealable''' (a̤-pē′lạ-bl), ''a.'' [< ''appeal'' + ''-able.''] '''1.''' Capable of being appealed; admitting of appeal; removable to a higher tribunal for decision.\n{{smaller block|Pressure on the bench to make as many decisions as possible in a given time tends . . . to engender ''appealable'' decisions and prolong litigation. ''The Century'', XXX. 330.}}\n'''2.''' Liable to be accused or called to answer",
+   "c2s2": "by appeal: applied to persons: as, ''appealable'' for manslaughter.—'''3.''' That may be appealed (to). ''N. E. D.''\n\n'''appealant†''' (a̤-pē′la̤nt), ''n.'' [< ''appeal'' + ''-ant''<sup>1</sup>. Cf. ''appellant.''] One who appeals; an appellant.\n\n'''appealer''' (a̤-pē′lėr), ''n.'' [< ''appeal'' + ''-er''<sup>1</sup>. Cf. ''appellor.''] '''1.''' One who appeals, or carries his cause to a higher court.—'''2.''' An appellor; an accuser or informer.\n{{smaller block|I should become an ''appealer'', or every bishop’s espie.\n{{right|''Foxe'', Book of Martyrs (Thorpe).}}}}\n\n'''appealingly''' (a̤-pē′ling-li), ''adv.'' In an appealing or entreating manner; beseechingly.\n\n'''appealingness''' (a̤-pē′ling-nes), ''n.'' The quality of being appealing, or of awakening sympathy, pity, or the like.\n{{smaller block|Ready sympathy . . . made him alive to a certain ''appealingness'' in her behaviour towards him.\n{{right|''George Eliot'', Daniel Deronda, xxxv.}}}}\n\n'''appear''' (a̤-pēr′), ''v. i.'' [Early mod. E. also ''apear'', ''appeer'' (and by apheresis ''pear'', > mod. dial. ''pear''), < ME. ''apeeren'', ''aperen'', ''appieren'', < OF. ''aperer'', ''apperer'' (Roquefort), ''aparir'', reg. inf. ''aparcir'', ''aparoir'' = Pr. ''aparer'' = It. ''apparire'', ''apparere'', < L. ''apparēre'', ''adparēre'', appear, < ''ad'', to, + ''parēre'', appear, come in sight (a secondary form of ''parĕre'', produce): see ''apparent'' and ''parent.''] '''1.''' To come or be in sight; become visible by approach or by emerging from concealment; be exposed to view.\n{{smaller block|And God said, . . . Let the dry land ''appear''. {{right|Gen. i. 9.}}\nThe angel of the Lord ''appeared'' unto him in a flame of fire out of the midst of a bush. {{right|Ex. iii. 2.}}}}",
+   "c2s3": "{{smaller block|In each cheek ''appears'' a pretty dimple.\n{{right|''Shak.'', Venus and Adonis, l. 242.}}}}\n'''2.''' To stand in presence, as parties or advocates before a court; make appearance.\n{{smaller block|We must all ''appear'' before the judgment seat of Christ.\n{{right|2 Cor. v. 10.}}}}\n'''3.''' To come or be placed before the public; come to the notice of the public: as, the actor ''appeared'' only once a week; his history ''appeared'' in 1880.—'''4.''' To be obvious; be known, as a subject of observation or comprehension; be clear or made clear by evidence.\n{{smaller block|It doth not yet ''appear'' what we shall be. 1 John iii. 2.}}\n'''5.''' To seem; have a certain semblance or appearance; look: as, he ''appeared'' to be wise; it ''appears'' to me that this is unsafe; he ''appears'' very old.\n{{smaller block|They disfigure their faces, that they may ''appear'' unto men to fast.\n{{right|Mat. vi. 16.}}\nMonths to the old man ''appear'' no longer than weeks to the young man. {{right|''H. Spencer'', Prin. of Psychol., § 91.}}}}\n'''6†.''' To be understood; be intelligible: as, “Do I now ''appear?''” ''Cotgrave.''—{{smaller|'''Appearing gratis''', in ''chancery practice'', the act of a defendant in causing his appearance to be entered to defend a suit without waiting to be served with a process. ='''Syn. 5.''' ''Look'', etc. See ''seem''.}}\n\n'''appear†''' (a-pēr′), ''n.'' [< ''appear'', ''v.''] Appearance.\n{{smaller block|<poem>Here will I wash it in the morning’s dew,\nWhich she on every little grass doth strew\nIn silver drops against the sun’s ''appear''.</poem>\n{{right|''Fletcher'', Faithful Shepherdess, v. 4.}}}}",
+   "c3s1": "¶\n'''appearance''' (a̤-pēr′a̤ns), ''n.'' [Early mod. E. also ''appeerance'', < ME. ''apperaunce'', ''-ens''; the same as ''apparence'' (q. v.), conformed to ''appear''.] '''1.''' The act of coming into sight; the act of becoming visible to the eye: as, the ''appearance'' of the sun above the horizon.—'''2†.''' The state of being in sight; visibility. [Rare.]\n{{smaller block|<poem>He’s built a bower, made it secure,\nWi’ carbuncle and stane;\nTho’ travellers were never sae nigh,\n''Appearance'' it had nane.</poem>\n{{right|''Young Akin'', in Child’s Ballads, I. 180.}}}}\n\n'''3.''' A coming into presence; the act of presenting one’s self: as, his sudden ''appearance'' surprised me.\n{{smaller block|<poem>The duke does greet you, general;\nAnd he requires your haste-post-haste ''appearance'',\nEven on the instant.</poem>\n{{right|''Shak.'', Othello, i. 2.}}}}\n\n'''4.''' An object as seen or perceived; a phenomenon; the immediate object of experience.\n{{smaller block|The term ''appearance'' is used to denote not only that which reveals itself to our observation as existent, but also to signify that which only seems to be, in contrast to that which truly is.\n{{right|''Sir W. Hamilton'', Metaph., ix.}}}}\n{{smaller block|Surely, it must be a miraculously active principle that can snatch up from transitoriness and oblivion the variegated play of fleeting and fading ''appearances'', and construct therefrom the world of steady experience of which we have knowledge.\n{{right|''Mind'', IX. 350.}}}}",
+   "c3s2": "'''5.''' Something believed to have a supernatural character; an apparition: as, an ''appearance'' in the sky.—'''6.''' That which appears or is obvious; outward show or seeming; semblance as apart from reality or substance: as, there is an ''appearance'' of trouble yonder; ''appearances'' are against him.\n{{smaller block|Judge not according to the ''appearance''. {{right|John vii. 24.}}}}\n{{smaller block|Men are governed by opinion: this opinion is as much influenced by ''appearances'' as by realities.\n{{right|''A. Hamilton'', Works, I. 168.}}}}\n'''7.''' Outward look or aspect; mien; build and carriage; figure: as, a man of noble ''appearance''.\n{{smaller block|<poem>Much have I heard, . . .\nAnd now am come to see of whom such noise\nHath walk’d about, and each limb to survey,\nIf thy ''appearance'' answer loud report.</poem>\n{{right|''Milton'', S. A., l. 1090.}}}}\n'''8.''' ''pl.'' Indications; look.\n{{smaller block|My master heard me with great ''appearances'' of uneasiness in his countenance. {{right|''Swift'', Gulliver’s Travels, iv. 3.}}}}\n'''9.''' The act of coming before the public; the act of coming into public notice: as, he made his ''appearance'' as a historian; the ''appearance'' of a book.—'''10†.''' Seeming; probability; likelihood.\n{{smaller block|There is that which hath no ''appearance''. {{right|''Bacon''.}}}}\n'''11.''' In ''law'': (''a'') The coming into court of either",
+   "c3s3": "of the parties to a suit; the being present in court as a party to a pending proceeding; the coming into court of a party summoned in a process, either in person or by his attorney, usually expressed by a formal entry by the proper officer to that effect; the act or proceeding by which a party proceeded against places himself before the court and submits to its jurisdiction. (''b'') In ''Scots law'', the stating of a defense in a cause. {{smaller|Where a defender in writing, or by counsel at the bar, states a defense, he is said to have ''appeared''.—'''To put in an appearance''', to appear in person. ='''Syn. 3.''' Arrival, presence.—'''6.''' Guise, show, pretense, pretext, color.—'''7.''' Air, look, manner, demeanor.}}\n\n'''appearer''' (a-pēr′ėr), ''n.'' '''1.''' One who or that which appears, in any sense of that word. [Rare.]\n{{smaller block|Owls and ravens are ominous ''appearers'', and presignify unlucky events.\n{{right|''Sir T. Browne'', Vulg. Err., v. 21.}}}}\nSpecifically—'''2.''' In ''law'', one who formally appears (in court, etc.).\n\n'''appearingly''' (a-pēr′ing-li), ''adv.'' Apparently; seemingly; according to all outward signs. [Rare.]\n{{smaller block|A flourishing branch shall grow out of his ''appearingly'' sere and sapless root.\n{{right|''Bp. Hall'', Paraph. of Isaiah.}}}}\n\n'''appeasable''' (a-pē′za-bl), ''a.'' [< ''appease'' + ''-able.''] Capable of being appeased, quieted, calmed, or pacified; placable.\n{{smaller block|The tumult of a mob, ''appeasable'' only by . . . bloodshed.\n{{right|''G. P. Lathrop'', Spanish Vistas, p. 30.}}}}",
+   "c3s4": "¶\n'''appeasableness''' (a̤-pē′za-bl-nes), ''n.'' The quality of being appeasable.\n\n'''appease''' (a̤-pēz′), ''v. t.''; pret. and pp. ''appeased'', ppr. ''appeasing''. [Early mod. E. also ''apease'', ''apeace'' (conformed to ''peace''), ''apaise'' (and by apheresis ''pease''), < ME. ''apesen'', ''apeisen'', ''apaisen'', < OF. ''apeser'', ''apeisier'', ''apaisier'' (F. ''apaiser'' = Pr. ''apaziar''), pacify, bring to peace, < ''a'', to, + ''pais'', ''peis'', ''pes'', mod. F. ''paix'', peace: see ''peace'', and cf. ''apay'', ''appay'', of which ''appease'' is thus a doublet.]"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 1,
+    "input_tokens": 2673,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9620,
+    "output_tokens": 8474,
+    "cache_creation_input_tokens": 23796,
+    "cache_read_input_tokens": 19830
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|appeal|270|appease}}</noinclude>{{nop}}'''appeal''' (a̤-pēl′), ''v.''   [Early mod. E. also ''apeal'', and ''appell'', ''apell'', < ME. ''appelen'', ''apelen'', < OF. ''apeler'', F. ''appeler'' = Pr. ''appelar'' = Sp. ''apelar'' = Pg. ''appellar'' = It. ''appellare'', < L. ''appellāre'', ''adpellāre'', address, appeal to, summon, accuse, accost by name, a secondary form of ''appellĕre'', ''adpellĕre'', bring to, drive to, bring to land, < ''ad'', to, + ''pellĕre'', drive. Cf. ''expel'', ''impel'', ''propel'', ''repel'', and see ''repeal''.]   '''I.''' ''trans.'' '''1.''' To call; summon; challenge. [Rare.]\n{{smaller block|Man to man will I ''appeal'' the Norman to the lists.\n{{right|''Scott.''}}}}\n'''2.''' In ''law'': (''a'') To remove, as a cause, from a lower to a higher judge or court. See ''appeal'', ''n.'', 2 (''b'').\n{{smaller block|Causes of any importance were ''appealed'' from the Sculdasco to the Gastaldo.\n{{right|''Brougham.''}}}}\n(''b'') Formerly, to charge with a crime before a tribunal; accuse; institute a criminal prosecution against for some heinous offense: with ''of'' before the offense charged: as, to ''appeal'' a person ''of'' felony.\n{{smaller block|I ''appeal'' you ''of'' murder.\n{{right|''B. Jonson.''}}}}\n{{smaller block|In November, 1817, William Ashford ''appealed'' Abraham Thornton, to answer for the alleged murder of appellant’s sister.\n{{right|''N. and Q.'', 6th ser., XI. 252.}}}}\n{{smaller block|If a Frenchman ''appealed'' an Englishman, the Englishman had the choice of either mode of trial.\n{{right|''E. A. Freeman'', Norm. Conq., IV. 423.}}}}\n'''3†.''' To address; offer up, as an appeal.\n{{smaller block|<poem>They both uprose and tooke their ready way\nUnto the church, their praiers to ''appele.''</poem>\n{{right|''Spenser'', F. Q., III. ii. 48.}}}}\n\n'''II.''' ''intrans.'' '''1.''' To call for aid, mercy, sympathy, or the like; make an earnest entreaty, or have the effect of an entreaty.\n{{smaller block|<poem>Against their merit if this age rebel,\nTo future times for justice they ''appeal.''</poem>\n{{right|''Dryden'', Art of Poetry, iii. 755.}}}}\n{{smaller block|The deepening expression of pain on Philip’s face . . . made the deformity ''appeal'' more strongly to her pity.\n{{right|''George Eliot'', Mill on the Floss, v. 1.}}}}\n'''2.''' In ''law'', to refer to a superior judge or court for the decision of a cause depending; specifically, to refer a decision of a lower court or judge to a higher one, for reëxamination and revisal.\n{{smaller block|I ''appeal'' unto Cæsar. {{right|Acts xxv. 11.}}}}\n'''3.''' To refer to another person or authority for the decision of a question controverted, or for the corroboration of testimony or facts; in general, to refer to some tribunal explicitly mentioned or implied.\n{{smaller block|I ''appeal'' to the Scriptures in the original.\n{{right|''Horsley'', Sermons, I. i.}}}}\n{{smaller block|I ''appeal'' from your customs. I must be myself.\n{{right|''Emerson'', Self-Reliance.}}}}\n'''4.''' To have recourse; resort for proof, decision, or settlement: as, to ''appeal'' to force.\n{{smaller block|Not prevailing by dispute, he ''appeals'' to a miracle, restoring to sight a blind man whom the Britons could not cure.\n{{right|''Milton'', Hist. Eng., iv.}}}}\n{{smaller block|[In all senses, with ''to'' or ''unto'' before the tribunal whose judgment is asked, and ''from'' before that whose decision is rejected.]}}\n\n'''appeal''' (a-pēl′), ''n.''   [Early mod. E. also ''appel'', ''appell'', ''apell''; < ME. ''apeel'', ''apel'', ''apele'' (and by apheresis ''pele'', > mod. E. ''peal'', q. v.), < OF. ''apel'', F. ''appel'', appeal; from the verb.]   '''1.''' An address or invocation; a call for sympathy, mercy, aid, or the like; a supplication; an entreaty: as, an ''appeal'' for help; an ''appeal'' for mercy.\n{{smaller block|Whenever yet was your ''appeal'' denied?\n{{right|''Shak.'', 2 Hen. IV., iv. 1.}}}}\n'''2.''' A proceeding taken to reverse a decision by submitting it to the review of a higher authority: as, an ''appeal'' to the house from a decision of the chair. In ''law'': (''a'') Sometimes used in the above general meaning, so as to include writs of error, certiorari, etc. (''b'') Strictly, the removal of a cause or suit from a lower to a higher tribunal, in order that the latter may revise, and, if it seems needful, reverse or amend, the decision of the former. {{smaller|In modern usage an appeal implies not merely a preliminary objection, but a proceeding for review after a decision has been rendered. As now used, it is a proceeding derived from the courts of equity. The mode of review at common law was formerly not to remove the cause, but only to bring up specific points or questions by writs of error. This was changed in England by the judicature acts of 1873–5, and there is now one Court of Appeal for all cases. In Scotland the highest appellate court is the Court of Session. The judgments of both these courts may be appealed to the House of Lords. In the United States the appeal has been to a great extent substituted for the writ of error. The highest appellate courts are, for federal questions arising in either federal or State courts, the United States Supreme Court; for other questions, the supreme courts, courts of appeal, or courts of error of the various States, the practice being wholly regulated by statutes.}} (''c'') The mode of procedure by which such removal is effected. (''d'') The right of removal to a higher court. (''e'') Formerly, a vindictive action at the suit of a party injured when the supposed criminal had been previously acquitted on an indictment or pardoned. {{smaller|The appellant raised an action (which had to be brought within a year) and demanded the punishment of the accused, who had to submit to a fresh trial by jury, or demand a trial by wager of battle.}}\n{{smaller block|He was threatened with an ''appeal'' of murder by the widow of a Protestant clergyman.\n{{right|''Macaulay'', Hist. Eng., xxix.}}}}\n'''3.''' A summons to answer to a charge; a challenge.\n{{smaller block|<poem>Nor shall the sacred character of king\nBe urged to shield me from thy bold ''appeal.''</poem>\n{{right|''Dryden.''}}}}\n'''4.''' A call to another to sanction or witness; a reference to another for proof or decision: as, in an oath a person makes an ''appeal'' to the Deity for the truth of his declaration.—'''5.''' Resort or recourse for decision.\n{{smaller block|Every milder method is to be tried before a nation makes an ''appeal'' to arms.\n{{right|''Kent.''}}}}\n{{smaller block|In the community of nations, the first ''appeal'' is to physical force.\n{{right|''Macaulay'', Utilitarian Theory of Government.}}}}\n'''Commission of Appeals.''' {{smaller|See ''commission''<sup>1</sup>.}} ='''Syn. 1.''' {{smaller|''Petition, Suit,'' etc. (see ''prayer''), solicitation, application.}}\n\n'''appealable''' (a̤-pē′lạ-bl), ''a.''   [< ''appeal'' + ''-able.'']   '''1.''' Capable of being appealed; admitting of appeal; removable to a higher tribunal for decision.\n{{smaller block|Pressure on the bench to make as many decisions as possible in a given time tends . . . to engender ''appealable'' decisions and prolong litigation.\n{{right|''The Century'', XXX. 330.}}}}\n'''2.''' Liable to be accused or called to answer by appeal: applied to persons: as, ''appealable'' for manslaughter.—'''3.''' That may be appealed (to).   ''N. E. D.''\n\n'''appealant†''' (a̤-pē′la̤nt), ''n.''   [< ''appeal'' + ''-ant''<sup>1</sup>. Cf. ''appellant.'']   One who appeals; an appellant.\n\n'''appealer''' (a̤-pē′lėr), ''n.''   [< ''appeal'' + ''-er''<sup>1</sup>. Cf. ''appellor.'']   '''1.''' One who appeals, or carries his cause to a higher court.—'''2.''' An appellor; an accuser or informer.\n{{smaller block|I should become an ''appealer'', or every bishop’s espie.\n{{right|''Foxe'', Book of Martyrs (Thorpe).}}}}\n\n'''appealingly''' (a̤-pē′ling-li), ''adv.'' In an appealing or entreating manner; beseechingly.\n\n'''appealingness''' (a̤-pē′ling-nes), ''n.'' The quality of being appealing, or of awakening sympathy, pity, or the like.\n{{smaller block|Ready sympathy . . . made him alive to a certain ''appealingness'' in her behaviour towards him.\n{{right|''George Eliot'', Daniel Deronda, xxxv.}}}}\n\n'''appear''' (a̤-pēr′), ''v. i.''   [Early mod. E. also ''apear'', ''appeer'' (and by apheresis ''pear'', > mod. dial. ''pear''), < ME. ''apeeren'', ''aperen'', ''appieren'', < OF. ''aperer'', ''apperer'' (Roquefort), ''aparir'', reg. inf. ''aparcir'', ''aparoir'' = Pr. ''aparer'' = It. ''apparire'', ''apparere'', < L. ''apparēre'', ''adparēre'', appear, < ''ad'', to, + ''parēre'', appear, come in sight (a secondary form of ''parĕre'', produce): see ''apparent'' and ''parent.'']   '''1.''' To come or be in sight; become visible by approach or by emerging from concealment; be exposed to view.\n{{smaller block|And God said, . . . Let the dry land ''appear''. {{right|Gen. i. 9.}}}}\n{{smaller block|The angel of the Lord ''appeared'' unto him in a flame of fire out of the midst of a bush. {{right|Ex. iii. 2.}}}}\n{{smaller block|In each cheek ''appears'' a pretty dimple.\n{{right|''Shak.'', Venus and Adonis, l. 242.}}}}\n'''2.''' To stand in presence, as parties or advocates before a court; make appearance.\n{{smaller block|We must all ''appear'' before the judgment seat of Christ.\n{{right|2 Cor. v. 10.}}}}\n'''3.''' To come or be placed before the public; come to the notice of the public: as, the actor ''appeared'' only once a week; his history ''appeared'' in 1880.—'''4.''' To be obvious; be known, as a subject of observation or comprehension; be clear or made clear by evidence.\n{{smaller block|It doth not yet ''appear'' what we shall be. 1 John iii. 2.}}\n'''5.''' To seem; have a certain semblance or appearance; look: as, he ''appeared'' to be wise; it ''appears'' to me that this is unsafe; he ''appears'' very old.\n{{smaller block|They disfigure their faces, that they may ''appear'' unto men to fast.\n{{right|Mat. vi. 16.}}}}\n{{smaller block|Months to the old man ''appear'' no longer than weeks to the young man. {{right|''H. Spencer'', Prin. of Psychol., § 91.}}}}\n'''6†.''' To be understood; be intelligible: as, “Do I now ''appear?''” ''Cotgrave.''—{{smaller|'''Appearing gratis''', in ''chancery practice'', the act of a defendant in causing his appearance to be entered to defend a suit without waiting to be served with a process. ='''Syn. 5.''' ''Look'', etc. See ''seem''.}}\n\n'''appear†''' (a-pēr′), ''n.''   [< ''appear'', ''v.'']   Appearance.\n{{smaller block|<poem>Here will I wash it in the morning’s dew,\nWhich she on every little grass doth strew\nIn silver drops against the sun’s ''appear''.</poem>\n{{right|''Fletcher'', Faithful Shepherdess, v. 4.}}}}\n\n'''appearance''' (a̤-pēr′a̤ns), ''n.''   [Early mod. E. also ''appeerance'', < ME. ''apperaunce'', ''-ens''; the same as ''apparence'' (q. v.), conformed to ''appear''.]   '''1.''' The act of coming into sight; the act of becoming visible to the eye: as, the ''appearance'' of the sun above the horizon.—'''2†.''' The state of being in sight; visibility. [Rare.]\n{{smaller block|<poem>He’s built a bower, made it secure,\nWi’ carbuncle and stane;\nTho’ travellers were never sae nigh,\n''Appearance'' it had nane.</poem>\n{{right|''Young Akin'', in Child’s Ballads, I. 180.}}}}\n\n'''3.''' A coming into presence; the act of presenting one’s self: as, his sudden ''appearance'' surprised me.\n{{smaller block|<poem>The duke does greet you, general;\nAnd he requires your haste-post-haste ''appearance'',\nEven on the instant.</poem>\n{{right|''Shak.'', Othello, i. 2.}}}}\n\n'''4.''' An object as seen or perceived; a phenomenon; the immediate object of experience.\n{{smaller block|The term ''appearance'' is used to denote not only that which reveals itself to our observation as existent, but also to signify that which only seems to be, in contrast to that which truly is.\n{{right|''Sir W. Hamilton'', Metaph., ix.}}}}\n{{smaller block|Surely, it must be a miraculously active principle that can snatch up from transitoriness and oblivion the variegated play of fleeting and fading ''appearances'', and construct therefrom the world of steady experience of which we have knowledge.\n{{right|''Mind'', IX. 350.}}}} '''5.''' Something believed to have a supernatural character; an apparition: as, an ''appearance'' in the sky.—'''6.''' That which appears or is obvious; outward show or seeming; semblance as apart from reality or substance: as, there is an ''appearance'' of trouble yonder; ''appearances'' are against him.\n{{smaller block|Judge not according to the ''appearance''. {{right|John vii. 24.}}}}\n{{smaller block|Men are governed by opinion: this opinion is as much influenced by ''appearances'' as by realities.\n{{right|''A. Hamilton'', Works, I. 168.}}}}\n'''7.''' Outward look or aspect; mien; build and carriage; figure: as, a man of noble ''appearance''.\n{{smaller block|<poem>Much have I heard, . . .\nAnd now am come to see of whom such noise\nHath walk’d about, and each limb to survey,\nIf thy ''appearance'' answer loud report.</poem>\n{{right|''Milton'', S. A., l. 1090.}}}}\n'''8.''' ''pl.'' Indications; look.\n{{smaller block|My master heard me with great ''appearances'' of uneasiness in his countenance. {{right|''Swift'', Gulliver’s Travels, iv. 3.}}}}\n'''9.''' The act of coming before the public; the act of coming into public notice: as, he made his ''appearance'' as a historian; the ''appearance'' of a book.—'''10†.''' Seeming; probability; likelihood.\n{{smaller block|There is that which hath no ''appearance''. {{right|''Bacon''.}}}}\n'''11.''' In ''law'': (''a'') The coming into court of either of the parties to a suit; the being present in court as a party to a pending proceeding; the coming into court of a party summoned in a process, either in person or by his attorney, usually expressed by a formal entry by the proper officer to that effect; the act or proceeding by which a party proceeded against places himself before the court and submits to its jurisdiction. (''b'') In ''Scots law'', the stating of a defense in a cause. {{smaller|Where a defender in writing, or by counsel at the bar, states a defense, he is said to have ''appeared''.—'''To put in an appearance''', to appear in person. ='''Syn. 3.''' Arrival, presence.—'''6.''' Guise, show, pretense, pretext, color.—'''7.''' Air, look, manner, demeanor.}}\n\n'''appearer''' (a-pēr′ėr), ''n.'' '''1.''' One who or that which appears, in any sense of that word. [Rare.]\n{{smaller block|Owls and ravens are ominous ''appearers'', and presignify unlucky events.\n{{right|''Sir T. Browne'', Vulg. Err., v. 21.}}}}\nSpecifically—'''2.''' In ''law'', one who formally appears (in court, etc.).\n\n'''appearingly''' (a-pēr′ing-li), ''adv.'' Apparently; seemingly; according to all outward signs. [Rare.]\n{{smaller block|A flourishing branch shall grow out of his ''appearingly'' sere and sapless root.\n{{right|''Bp. Hall'', Paraph. of Isaiah.}}}}\n\n'''appeasable''' (a-pē′za-bl), ''a.''   [< ''appease'' + ''-able.'']   Capable of being appeased, quieted, calmed, or pacified; placable.\n{{smaller block|The tumult of a mob, ''appeasable'' only by . . . bloodshed.\n{{right|''G. P. Lathrop'', Spanish Vistas, p. 30.}}}}\n\n'''appeasableness''' (a̤-pē′za-bl-nes), ''n.'' The quality of being appeasable.\n\n'''appease''' (a̤-pēz′), ''v. t.''; pret. and pp. ''appeased'', ppr. ''appeasing''.   [Early mod. E. also ''apease'', ''apeace'' (conformed to ''peace''), ''apaise'' (and by apheresis ''pease''), < ME. ''apesen'', ''apeisen'', ''apaisen'', < OF. ''apeser'', ''apeisier'', ''apaisier'' (F. ''apaiser'' = Pr. ''apaziar''), pacify, bring to peace, < ''a'', to, + ''pais'', ''peis'', ''pes'', mod. F. ''paix'', peace: see ''peace'', and cf. ''apay'', ''appay'', of which ''appease'' is thus a doublet.]<noinclude><references/></noinclude>"
+}

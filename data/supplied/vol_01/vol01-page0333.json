@@ -1,0 +1,271 @@
+{
+ "volume": 1,
+ "page_number": 333,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n332.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n332.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 742,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     86,
+     118,
+     2299,
+     157
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     86,
+     157,
+     828,
+     1236
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     86,
+     1236,
+     828,
+     2007
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     86,
+     2007,
+     828,
+     2791
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     86,
+     2791,
+     828,
+     3269
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     828,
+     165,
+     1555,
+     2108
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     914,
+     228,
+     1508,
+     2104
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     828,
+     2108,
+     1555,
+     3142
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     828,
+     3142,
+     1555,
+     3269
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1555,
+     157,
+     2299,
+     1148
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1555,
+     1148,
+     2299,
+     1399
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1555,
+     1399,
+     2299,
+     2320
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1959,
+     1475,
+     2299,
+     2163
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1555,
+     2320,
+     2299,
+     3269
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|argumental|307|aria}}",
+   "c1s1": "¶\n'''argumental''' (är-gū-men′tạl), ''a.'' [< L. ''argumentalis'', < ''argumentum'': see ''argument''.] Belonging to or consisting in argument.\n{{smaller block|<poem>Thus they dispute, guilding their tongues’ report\nWith instances and ''argumentall'' sawes.</poem>\n{{right|''G. Markham'', Sir R. Grinuile (Arb. reprint), p. 49.}}\nI am at length recovered from my ''argumental'' delirium.\n{{right|''Johnson'', Rambler, No. 95.}}}}\n\n'''argumentation''' (är″gū-men-tā′shọn), ''n.'' [= F. ''argumentation'', < L. ''argumentatio(n-)'', < ''argumentari'', pp. ''argumentatus'', adduce as proof: see ''argument'', ''v.''] '''1.''' The setting forth of reasons together with the conclusion drawn from them; also, the premises and conclusion so set forth.\n{{smaller block|Those scholastic forms of discourse are not less liable to fallacies than the plainer ways of ''argumentation''. {{right|''Locke.''}}\n''Argumentation'' or reasoning is that operation of the mind whereby we infer one thing, that is, one proposition, from two or more propositions premised. {{right|''Watts'', Logic, Int.}}}}\n'''2.''' A course of reasoning; discussion; debate.\n{{smaller block|The relation of his meaning to science is essential, but, in orderly ''argumentation'', subsequent.\n{{right|''Pop. Sci. Mo.'', XXVIII. 619.}}}}\n='''Syn.''' See ''reasoning''.\n\n'''argumentative''' (är-gū-men′ta-tiv), ''a.'' [< F. ''argumentatif'', < L. as if *''argumentativus'', < ''argumentatus'': see ''argumentation''.] '''1.''' Consisting in argument; containing a process of reasoning; controversial: as, an ''argumentative'' discourse.\n{{smaller block|We are not to dwell upon the mental processes which composed the proof, upon the ''argumentative'' part of religion; but upon the things proved.\n{{right|''Gladstone'', Might of Right, p. 237.}}}}\n'''2.''' Showing reasons for. [Rare.]",
+   "c1s2": "¶\n{{smaller block|Another thing ''argumentative'' of Providence is, etc.\n{{right|''Ray'', Works of Creation.}}}}\n'''3.''' Addicted to argument; disputatious: as, an ''argumentative'' writer; he is very ''argumentative.''\n\n'''argumentatively''' (är-gụ̄-men′ta̤-tiv-li), ''adv.'' In an argumentative manner; with respect to reasoning or arguments.\n{{smaller block|Bowles, in losing his temper, lost also what little logic he had, and though in a vague way æsthetically right, contrived always to be ''argumentatively'' wrong.\n{{right|''Lowell'', Study Windows, p. 430.}}}}\n\n'''argumentativeness''' (är-gụ̄-men′ta̤-tiv-nes), ''n.'' The quality of being argumentative.\n{{smaller block|Thus was the young, vacant mind furnished with much talk about Progress of the Species, Dark Ages, Prejudice, and the like, so that all were quickly enough blown out into a state of windy ''argumentativeness.''\n{{right|''Carlyle'', Sartor Resartus, p. 78.}}}}\n\n'''argumentator''' (är′gụ̄-men-tā″to̤r), ''n.'' [LL., < L. ''argumentatus'': see ''argumentation.''] One who conducts an argument; a reasoner. ''N. E. D.''\n\n'''argumentize†''' (är′gụ̄-men-tīz), ''v. i.'' [< ''argument'' + ''-ize.''] To argue; debate; reason: as, “''argumentizing'' philosophy,” ''Mannyngham'', Discourses, p. 34.",
+   "c1s3": "¶\n'''argumentum''' (är-gū-men′tum), ''n.''; pl. ''argumenta'' (-tä). [L.: see ''argument.''] An argument. {{smaller|—'''Argumentum ad crumenam,''' an argument appealing to the purse, or to one’s desire to save money.—'''Argumentum ad hominem.''' See ''ad hominem.''—'''Argumentum ad ignorantiam,''' an argument based upon an adversary’s ignorance of the matter in dispute.—'''Argumentum ad invidiam,''' an argument appealing to one’s hatreds or prejudices.—'''Argumentum ad judicium,''' an argument addressed to the judgment; a proof drawn from any of the foundations of knowledge or probability.—'''Argumentum ad verecundiam''' (literally, an appeal to one’s modesty), an argument from the opinions of men whose views are commonly accepted as authoritative. Also called ''argument from authority.''—'''Argumentum baculinum,''' an appeal to force; club- or lynch-law.—'''Argumentum ex concesso,''' an argument based on some previous admission.}}\n\n'''Argus''' (är′gus), ''n.'' [L., < Gr. Ἄργος, < ἀργός, bright.] '''1.''' In ''Grecian legend,'' a giant of vast strength, held in early times to have four eyes, and later to have eyes without number. Hera set him to guard the heifer Io, and after he was slain by Hermes transferred his eyes to the tail of the peacock. Hence—'''2.''' Any observant or sharp-sighted person: as, he is a very ''Argus'' in watchfulness.—'''3.''' In ''ornith.'': (''a'') A genus of gallinaceous birds, of the order ''Gallinæ'' and",
+   "c1s4": "family ''Phasianidæ'', characterized by the enormous development of the secondary feathers of the wings and middle feathers of the tail, the former being adorned with numerous ocelli, likened to the many eyes of Argus. {{smaller|The type is the argus-pheasant (''Phasianus argus'', or ''Argus giganteus'' or ''pavoninus'') of the Malay archipelago. Other species or varieties are the ''Argus grayi'' of Elliot, from Borneo, the ''Argus ocellatus'' of Verreaux, and the ''Argus bipunctatus.'' Other forms of the word, as a genus name, are ''Argusænus'' and ''Argusianus.''}} (''b'') [''l. c.''] Any species of the genus ''Argus''; an argus-pheasant. {{smaller|The common species has a body only about as large as that of a barn-yard hen, but sometimes measures 5 or 6 feet in total length, owing to the extraordinary development of the tail-feathers. The inner feathers of the wing are 2 or 3 feet long, and beautifully ocellated with metallic iridescent}}",
+   "c2s1": "{{smaller|spots. The general plumage is brown, variegated with lighter and darker tracery. The female is a plain bird}}\n[[FIGURE]]\n{{c|{{smaller|Argus-pheasant.}}}}\n{{smaller|lacking the extraordinary development of the wing- and tail-feathers.}} '''4.''' A genus of gastropods. ''Bohadsch'', 1761. —'''5.''' A genus of lepidopterous insects. ''Scopoli'', 1777.—'''6.''' A genus of arachnidans. ''Walker'', 1837.—'''7.''' [''l. c.''] A name of certain euryalean ophiurians, or sand-stars with branching arms.—{{smaller|'''Shetland argus''', the ''Astrophyton'' (or ''Euryale'') ''scutatum'', or gorgon’s-head, a kind of basket-fish, basket-urchin, or sea-basket, sometimes measuring a foot across. The ultimate ramifications of its rays are estimated to be some 80,000 in number. See ''Astrophyton'' and ''basket-fish''.}}\n\n'''Argus-eyed''' (är′gus-īd), ''a.'' Vigilant; watchful; extremely observant. See ''Argus'', 1.\n\n'''argus-pheasant''' (är′gus-fez″-ant), ''n.'' See ''Argus'', 3.\n\n'''argus-shell''' (är′gus-shel), ''n.'' [< ''argus'' (with allusion to the peacock’s tail) + ''shell''.] A gastropod of the family ''Cypræidæ'', or porcelain-shells, ''Cypræa argus'', beautifully variegated with ocellated spots. It is an inhabitant",
+   "c2s2": "of the Pacific ocean.\n\n'''argutation†''' (är-gụ̄-tā′shọn), ''n.'' [< ''argute'', q. v. Cf. L. ''argutatio(n-)'', a creaking, < ''argutari'', pp. ''argutatus'', creak, make a noise, < ''argutus'', clear, sharp, shrill: see ''argute''.] Cavil; over-refinement in arguing; quibble; subtlety: as, “frivolous ''argutations'',” ''Bp. Hall'', Myst. of Godliness, 8.\n\n'''argute''' (är-gūt′), ''a.'' [< L. ''argutus'', clear, bright, sharp, sagacious, formally pp. of ''arguere'', make clear: see ''argue''.] '''1.''' Sharp, as a taste; shrill, as a sound.—'''2.''' Subtle; ingenious; sagacious; shrewd; keen.\n{{smaller block|I will have him, continued my father, . . . vigilant, acute, ''argute'', inventive.\n{{right|''Sterne'', Tristram Shandy.}}\nThe active preacher, the restless missionary, the ''argute'' schoolman.\n{{right|''Milman'', Latin Christianity, x.}}}}\n\n'''argutely''' (är-gūt′li), ''adv.'' '''1.''' Shrilly.—'''2.''' In a sharp or subtle manner; sagaciously; shrewdly. ''Sterne.''\n\n'''arguteness''' (är-gūt′nes), ''n.'' '''1.''' Shrillness.—'''2.''' Acuteness; wittiness; sagacity; shrewdness.\n{{smaller block|This [Seneca] tickles you by starts with his ''arguteness'', that [Plutarch] pleases you for continuance with his propriety.\n{{right|''Dryden'', Plutarch, p. 118.}}}}\n\n'''Argynnis''' (är-jin′is), ''n.'' [NL., appar. orig. a misprint for *''argyrius'' or *''argyreus'', < Gr. ἀργύρεος, silvery, < ἄργυρος, silver.] A genus of butterflies, of the family ''Nymphalidæ'', commonly called fritillaries, the several species of which have the under side of the wings marked with silvery spots. ''A. paphia'', the silver-washed",
+   "c2s3": "fritillary, is a typical example.\n\n'''argyranthemous''' (är-ji-ran′thē-mus), ''a.'' [< Gr. ἄργυρος, silver, + ἄνθεμον, a flower.] In ''bot.'', having silvery-white flowers. ''Craig'', 1847.",
+   "c3s1": "¶\n'''argyranthous''' (är-ji-ran′thus), ''a.'' [< Gr. ἄργυρος, silver, + ἄνθος, a flower.] In ''bot.'', same as ''argyranthemous''.\n\n'''argyraspid''' (är-ji-ras′pid), ''n.'' [< Gr. ἀργυράσπιδες, pl., lit. the silver-shielded, < ἄργυρος, silver, + ἀσπίς (ἀσπιδ-), a shield.] A soldier of a chosen body in the army of Alexander the Great, distinguished by carrying shields plated with silver, as a mark of honor. {{smaller|The name was retained after the time of Alexander for soldiers of similar chosen bodies in other Macedonian and Greek armies.}}\n\n'''argyria''' (är-jir′i-ä̤), ''n.'' [NL., < Gr. ἄργυρος, silver, + ''-ia''.] Same as ''argyrism''.\n\n'''argyriasis''' (är-ji-rī′a-sis), ''n.'' [NL., < Gr. ἄργυρος, silver, + ''-iasis''.] Same as ''argyrism''.\n\n'''argyric''' (är-jir′ik), ''a.'' [< Gr. ἀργυρικός, of silver, < ἄργυρος, silver, silver money; cf. L. equiv. ''argentum'': see ''argent''.] In ''chem.'', of silver: same as ''argentic''.\n\n'''argyrism''' (är′ji-rizm), ''n.'' [(For form, cf. Gr. ἀργυρισμός, a getting money, < ἀργυρίζεσθαι, get money) < Gr. ἀργυρίζειν, be of a silver color, < ἄργυρος, silver, money.] A discoloration of the skin and other parts of the body due to the medicinal use for a considerable time of preparations of silver. {{smaller|It is caused by the deposition of silver or its compounds in a state of minute subdivision in certain tissues. Also ''argyria'', ''argyriasis''.}}\n\n'''argyrite''' (är′ji-rīt), ''n.'' [< Gr. ἀργυρῖτις, silver ore, fem. of ἀργυρίτης, of silver, < ἄργυρος, silver.] In ''mineral.'', same as ''argentite''.",
+   "c3s2": "¶\n'''argyrized''' (är′ji-rīzd), ''a.'' [< Gr. ἄργυρος, silver, + ''-ize'' + ''-ed''<sup>2</sup>.] Exhibiting argyrism.\n\n'''argyrodite''' (är-jir′ọ̄-dīt), ''n.'' [NL., < Gr. ἀργυρώδης, like silver, rich in silver (< ἄργυρος, silver, + εἶδος, form), + ''-ite''<sup>2</sup>.] A mineral containing silver, sulphur, and the new element germanium. It occurs in steel-gray crystalline aggregates at Freiberg, Saxony.",
+   "c3s3": "¶\n'''Argyroneta''' (är″ji-rọ̄-nē′tä), ''n.'' [NL., < Gr. ἄργυρος, silver, + νητός, verbal adj. of νεῖν, spin.] A genus of aquatic spiders,\n[[FIGURE]]\n{{c|{{smaller|Water-spider (''Argyroneta aquatica'').}}}}\nof the family ''Agalenidæ'' (or ''Araneidæ'' in a strict sense). {{smaller|The type of the genus is the well-known water-spider or diving-spider, ''A. aquatica'', of Europe, which spins a tubular web under water, like a diving-bell, mouth downward, which is then inflated with air carried down in bubbles upon the spider’s body and set free beneath the bell.}}\n\n'''Argyropelecinæ''' (är″ji-rọ̄-pel-e-sī′nē), ''n. pl.'' [NL., < ''Argyropelecus'' + ''-inæ''.] A subfamily of ''Sternoptychidæ'', represented by the genus ''Argyropelecus'', with the abdominal outline abruptly contracted in advance of the anal fin, several produced neural spines constituting a serriform ridge in advance of the dorsal fin, and about nine branchiostegal rays.\n\n'''Argyropelecus''' (är″ji-rọ̄-pel′e-kus), ''n.'' [NL.,",
+   "c3s4": "<Gr. ἄργυρος, silver, + πέλεκυς, hatchet.] The typical genus of fishes of the subfamily ''Argyropelecinæ'': so called from the silvery color and somewhat hatchet-like shape.\n\n'''argyrose''' (är′ji-rōs), ''n.'' [F., < Gr. ἄργυρος: see ''argent''.] In ''mineral.'', same as ''argentite''.\n\n'''arh-''', in words of Greek origin. See ''arrh-''.\n\n'''Arhan''' (är′han), ''n.'' Same as ''Arhat''.\n\n'''arhapedan''' (är-hap′e-dan), ''n.'' A Syrian measure of land, a square of 100 feet on the side.\n\n'''Arhat''' (är′hat), ''n.'' [< Skt. ''arhant'', deserving, worthy, fit, ppr. of √ ''arh'', deserve, be worthy.] The highest rank of Buddhist saintship; specifically, one of the original five hundred disciples of Gautama Buddha. Also ''Arahat'', ''Rahat'', and ''Arhan'', ''Rahan''.\n\n'''arhatship''' (är′hat-ship), ''n.'' [< ''Arhat'' + ''-ship''.] The state of an Arhat. Also ''arahatship''.\n{{smaller block|The central point of primitive Buddhism was the doctrine of ''Arahatship'',—a system of ethical and mental self-culture, in which deliverance was found from all the mysteries and sorrows of life in a change of heart to be reached here on earth.\n{{right|''Encyc. Brit.'', XIV. 226.}}}}\n\n'''arhizal, arhizous''', ''a.'' More common but less correct forms of ''arrhizal'', ''arrhizous''.\n\n'''aria''' (ä′ri-ä or ā′ri-ä), ''n.'' [It., < L. ''aër'', air: see ''air''<sup>3</sup>, also ''air''<sup>1</sup>.] In ''music'': (''a'') A rhythmical and metrical melody or tune for a single voice (rarely for a monophonous instrument), having a vocal or instrumental accompaniment: dis-"
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0333 c2f1.png",
+   "c3f1": "century v01 p0333 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     926,
+     240,
+     1496,
+     2092
+    ],
+    "caption": [
+     984,
+     1077,
+     1151,
+     1100
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     922,
+     246,
+     1570,
+     2355
+    ]
+   },
+   {
+    "box": [
+     1971,
+     1487,
+     2292,
+     2151
+    ],
+    "caption": [
+     2002,
+     2158,
+     2266,
+     2207
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1969,
+     1558,
+     2282,
+     2140
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 3,
+    "input_tokens": 5383,
+    "output_tokens": 176,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9452,
+    "output_tokens": 8998,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|argumental|307|aria}}</noinclude>{{nop}}'''argumental''' (är-gū-men′tạl), ''a.''   [< L. ''argumentalis'', < ''argumentum'': see ''argument''.]   Belonging to or consisting in argument.\n{{smaller block|<poem>Thus they dispute, guilding their tongues’ report\nWith instances and ''argumentall'' sawes.</poem>\n{{right|''G. Markham'', Sir R. Grinuile (Arb. reprint), p. 49.}}}}\n{{smaller block|I am at length recovered from my ''argumental'' delirium.\n{{right|''Johnson'', Rambler, No. 95.}}}}\n\n'''argumentation''' (är″gū-men-tā′shọn), ''n.''   [= F. ''argumentation'', < L. ''argumentatio(n-)'', < ''argumentari'', pp. ''argumentatus'', adduce as proof: see ''argument'', ''v.'']   '''1.''' The setting forth of reasons together with the conclusion drawn from them; also, the premises and conclusion so set forth.\n{{smaller block|Those scholastic forms of discourse are not less liable to fallacies than the plainer ways of ''argumentation''. {{right|''Locke.''}}}}\n{{smaller block|''Argumentation'' or reasoning is that operation of the mind whereby we infer one thing, that is, one proposition, from two or more propositions premised. {{right|''Watts'', Logic, Int.}}}}\n'''2.''' A course of reasoning; discussion; debate.\n{{smaller block|The relation of his meaning to science is essential, but, in orderly ''argumentation'', subsequent.\n{{right|''Pop. Sci. Mo.'', XXVIII. 619.}}}}\n='''Syn.''' See ''reasoning''.\n\n'''argumentative''' (är-gū-men′ta-tiv), ''a.''   [< F. ''argumentatif'', < L. as if *''argumentativus'', < ''argumentatus'': see ''argumentation''.]   '''1.''' Consisting in argument; containing a process of reasoning; controversial: as, an ''argumentative'' discourse.\n{{smaller block|We are not to dwell upon the mental processes which composed the proof, upon the ''argumentative'' part of religion; but upon the things proved.\n{{right|''Gladstone'', Might of Right, p. 237.}}}}\n'''2.''' Showing reasons for. [Rare.]\n\n{{smaller block|Another thing ''argumentative'' of Providence is, etc.\n{{right|''Ray'', Works of Creation.}}}}\n'''3.''' Addicted to argument; disputatious: as, an ''argumentative'' writer; he is very ''argumentative.''\n\n'''argumentatively''' (är-gụ̄-men′ta̤-tiv-li), ''adv.'' In an argumentative manner; with respect to reasoning or arguments.\n{{smaller block|Bowles, in losing his temper, lost also what little logic he had, and though in a vague way æsthetically right, contrived always to be ''argumentatively'' wrong.\n{{right|''Lowell'', Study Windows, p. 430.}}}}\n\n'''argumentativeness''' (är-gụ̄-men′ta̤-tiv-nes), ''n.'' The quality of being argumentative.\n{{smaller block|Thus was the young, vacant mind furnished with much talk about Progress of the Species, Dark Ages, Prejudice, and the like, so that all were quickly enough blown out into a state of windy ''argumentativeness.''\n{{right|''Carlyle'', Sartor Resartus, p. 78.}}}}\n\n'''argumentator''' (är′gụ̄-men-tā″to̤r), ''n.''   [LL., < L. ''argumentatus'': see ''argumentation.'']   One who conducts an argument; a reasoner.   ''N. E. D.''\n\n'''argumentize†''' (är′gụ̄-men-tīz), ''v. i.''   [< ''argument'' + ''-ize.'']   To argue; debate; reason: as, “''argumentizing'' philosophy,” ''Mannyngham'', Discourses, p. 34.\n\n'''argumentum''' (är-gū-men′tum), ''n.''; pl. ''argumenta'' (-tä).   [L.: see ''argument.'']   An argument. {{smaller|—'''Argumentum ad crumenam,''' an argument appealing to the purse, or to one’s desire to save money.—'''Argumentum ad hominem.''' See ''ad hominem.''—'''Argumentum ad ignorantiam,''' an argument based upon an adversary’s ignorance of the matter in dispute.—'''Argumentum ad invidiam,''' an argument appealing to one’s hatreds or prejudices.—'''Argumentum ad judicium,''' an argument addressed to the judgment; a proof drawn from any of the foundations of knowledge or probability.—'''Argumentum ad verecundiam''' (literally, an appeal to one’s modesty), an argument from the opinions of men whose views are commonly accepted as authoritative. Also called ''argument from authority.''—'''Argumentum baculinum,''' an appeal to force; club- or lynch-law.—'''Argumentum ex concesso,''' an argument based on some previous admission.}}\n\n'''Argus''' (är′gus), ''n.''   [L., < Gr. Ἄργος, < ἀργός, bright.]   '''1.''' In ''Grecian legend,'' a giant of vast strength, held in early times to have four eyes, and later to have eyes without number. Hera set him to guard the heifer Io, and after he was slain by Hermes transferred his eyes to the tail of the peacock. Hence—'''2.''' Any observant or sharp-sighted person: as, he is a very ''Argus'' in watchfulness.—'''3.''' In ''ornith.'': (''a'') A genus of gallinaceous birds, of the order ''Gallinæ'' and family ''Phasianidæ'', characterized by the enormous development of the secondary feathers of the wings and middle feathers of the tail, the former being adorned with numerous ocelli, likened to the many eyes of Argus. {{smaller|The type is the argus-pheasant (''Phasianus argus'', or ''Argus giganteus'' or ''pavoninus'') of the Malay archipelago. Other species or varieties are the ''Argus grayi'' of Elliot, from Borneo, the ''Argus ocellatus'' of Verreaux, and the ''Argus bipunctatus.'' Other forms of the word, as a genus name, are ''Argusænus'' and ''Argusianus.''}} (''b'') [''l. c.''] Any species of the genus ''Argus''; an argus-pheasant. {{smaller|The common species has a body only about as large as that of a barn-yard hen, but sometimes measures 5 or 6 feet in total length, owing to the extraordinary development of the tail-feathers. The inner feathers of the wing are 2 or 3 feet long, and beautifully ocellated with metallic iridescent spots. The general plumage is brown, variegated with lighter and darker tracery. The female is a plain bird}}\n{{smaller|lacking the extraordinary development of the wing- and tail-feathers.}} '''4.''' A genus of gastropods.   ''Bohadsch'', 1761. —'''5.''' A genus of lepidopterous insects.   ''Scopoli'', 1777.—'''6.''' A genus of arachnidans.   ''Walker'', 1837.—'''7.''' [''l. c.''] A name of certain euryalean ophiurians, or sand-stars with branching arms.—{{smaller|'''Shetland argus''', the ''Astrophyton'' (or ''Euryale'') ''scutatum'', or gorgon’s-head, a kind of basket-fish, basket-urchin, or sea-basket, sometimes measuring a foot across. The ultimate ramifications of its rays are estimated to be some 80,000 in number. See ''Astrophyton'' and ''basket-fish''.}}\n\n[[File:century v01 p0333 c2f1.png|center|288px]]\n{{c|{{smaller|Argus-pheasant.}}}}\n\n'''Argus-eyed''' (är′gus-īd), ''a.'' Vigilant; watchful; extremely observant. See ''Argus'', 1.\n\n'''argus-pheasant''' (är′gus-fez″-ant), ''n.'' See ''Argus'', 3.\n\n'''argus-shell''' (är′gus-shel), ''n.''   [< ''argus'' (with allusion to the peacock’s tail) + ''shell''.]   A gastropod of the family ''Cypræidæ'', or porcelain-shells, ''Cypræa argus'', beautifully variegated with ocellated spots. It is an inhabitant of the Pacific ocean.\n\n'''argutation†''' (är-gụ̄-tā′shọn), ''n.''   [< ''argute'', q. v. Cf. L. ''argutatio(n-)'', a creaking, < ''argutari'', pp. ''argutatus'', creak, make a noise, < ''argutus'', clear, sharp, shrill: see ''argute''.]   Cavil; over-refinement in arguing; quibble; subtlety: as, “frivolous ''argutations'',” ''Bp. Hall'', Myst. of Godliness, 8.\n\n'''argute''' (är-gūt′), ''a.''   [< L. ''argutus'', clear, bright, sharp, sagacious, formally pp. of ''arguere'', make clear: see ''argue''.]   '''1.''' Sharp, as a taste; shrill, as a sound.—'''2.''' Subtle; ingenious; sagacious; shrewd; keen.\n{{smaller block|I will have him, continued my father, . . . vigilant, acute, ''argute'', inventive.\n{{right|''Sterne'', Tristram Shandy.}}}}\n{{smaller block|The active preacher, the restless missionary, the ''argute'' schoolman.\n{{right|''Milman'', Latin Christianity, x.}}}}\n\n'''argutely''' (är-gūt′li), ''adv.'' '''1.''' Shrilly.—'''2.''' In a sharp or subtle manner; sagaciously; shrewdly.   ''Sterne.''\n\n'''arguteness''' (är-gūt′nes), ''n.'' '''1.''' Shrillness.—'''2.''' Acuteness; wittiness; sagacity; shrewdness.\n{{smaller block|This [Seneca] tickles you by starts with his ''arguteness'', that [Plutarch] pleases you for continuance with his propriety.\n{{right|''Dryden'', Plutarch, p. 118.}}}}\n\n'''Argynnis''' (är-jin′is), ''n.''   [NL., appar. orig. a misprint for *''argyrius'' or *''argyreus'', < Gr. ἀργύρεος, silvery, < ἄργυρος, silver.]   A genus of butterflies, of the family ''Nymphalidæ'', commonly called fritillaries, the several species of which have the under side of the wings marked with silvery spots.   ''A. paphia'', the silver-washed fritillary, is a typical example.\n\n'''argyranthemous''' (är-ji-ran′thē-mus), ''a.''   [< Gr. ἄργυρος, silver, + ἄνθεμον, a flower.]   In ''bot.'', having silvery-white flowers.   ''Craig'', 1847.\n\n'''argyranthous''' (är-ji-ran′thus), ''a.''   [< Gr. ἄργυρος, silver, + ἄνθος, a flower.]   In ''bot.'', same as ''argyranthemous''.\n\n'''argyraspid''' (är-ji-ras′pid), ''n.''   [< Gr. ἀργυράσπιδες, pl., lit. the silver-shielded, < ἄργυρος, silver, + ἀσπίς (ἀσπιδ-), a shield.]   A soldier of a chosen body in the army of Alexander the Great, distinguished by carrying shields plated with silver, as a mark of honor. {{smaller|The name was retained after the time of Alexander for soldiers of similar chosen bodies in other Macedonian and Greek armies.}}\n\n'''argyria''' (är-jir′i-ä̤), ''n.''   [NL., < Gr. ἄργυρος, silver, + ''-ia''.]   Same as ''argyrism''.\n\n'''argyriasis''' (är-ji-rī′a-sis), ''n.''   [NL., < Gr. ἄργυρος, silver, + ''-iasis''.]   Same as ''argyrism''.\n\n'''argyric''' (är-jir′ik), ''a.''   [< Gr. ἀργυρικός, of silver, < ἄργυρος, silver, silver money; cf. L. equiv. ''argentum'': see ''argent''.]   In ''chem.'', of silver: same as ''argentic''.\n\n'''argyrism''' (är′ji-rizm), ''n.''   [(For form, cf. Gr. ἀργυρισμός, a getting money, < ἀργυρίζεσθαι, get money) < Gr. ἀργυρίζειν, be of a silver color, < ἄργυρος, silver, money.]   A discoloration of the skin and other parts of the body due to the medicinal use for a considerable time of preparations of silver. {{smaller|It is caused by the deposition of silver or its compounds in a state of minute subdivision in certain tissues. Also ''argyria'', ''argyriasis''.}}\n\n'''argyrite''' (är′ji-rīt), ''n.''   [< Gr. ἀργυρῖτις, silver ore, fem. of ἀργυρίτης, of silver, < ἄργυρος, silver.]   In ''mineral.'', same as ''argentite''.\n\n'''argyrized''' (är′ji-rīzd), ''a.''   [< Gr. ἄργυρος, silver, + ''-ize'' + ''-ed''<sup>2</sup>.]   Exhibiting argyrism.\n\n'''argyrodite''' (är-jir′ọ̄-dīt), ''n.''   [NL., < Gr. ἀργυρώδης, like silver, rich in silver (< ἄργυρος, silver, + εἶδος, form), + ''-ite''<sup>2</sup>.]   A mineral containing silver, sulphur, and the new element germanium. It occurs in steel-gray crystalline aggregates at Freiberg, Saxony.\n\n'''Argyroneta''' (är″ji-rọ̄-nē′tä), ''n.''   [NL., < Gr. ἄργυρος, silver, + νητός, verbal adj. of νεῖν, spin.]   A genus of aquatic spiders, {{img float|file=century v01 p0333 c3f1.png|width=165px|align=right|cap={{smaller|Water-spider (''Argyroneta aquatica'').}}}} of the family ''Agalenidæ'' (or ''Araneidæ'' in a strict sense). {{smaller|The type of the genus is the well-known water-spider or diving-spider, ''A. aquatica'', of Europe, which spins a tubular web under water, like a diving-bell, mouth downward, which is then inflated with air carried down in bubbles upon the spider’s body and set free beneath the bell.}}\n\n'''Argyropelecinæ''' (är″ji-rọ̄-pel-e-sī′nē), ''n. pl.''   [NL., < ''Argyropelecus'' + ''-inæ''.]   A subfamily of ''Sternoptychidæ'', represented by the genus ''Argyropelecus'', with the abdominal outline abruptly contracted in advance of the anal fin, several produced neural spines constituting a serriform ridge in advance of the dorsal fin, and about nine branchiostegal rays.\n\n'''Argyropelecus''' (är″ji-rọ̄-pel′e-kus), ''n.''   [NL., <Gr. ἄργυρος, silver, + πέλεκυς, hatchet.]   The typical genus of fishes of the subfamily ''Argyropelecinæ'': so called from the silvery color and somewhat hatchet-like shape.\n\n'''argyrose''' (är′ji-rōs), ''n.''   [F., < Gr. ἄργυρος: see ''argent''.]   In ''mineral.'', same as ''argentite''.\n\n'''arh-''', in words of Greek origin. See ''arrh-''.\n\n'''Arhan''' (är′han), ''n.'' Same as ''Arhat''.\n\n'''arhapedan''' (är-hap′e-dan), ''n.'' A Syrian measure of land, a square of 100 feet on the side.\n\n'''Arhat''' (är′hat), ''n.''   [< Skt. ''arhant'', deserving, worthy, fit, ppr. of √ ''arh'', deserve, be worthy.]   The highest rank of Buddhist saintship; specifically, one of the original five hundred disciples of Gautama Buddha. Also ''Arahat'', ''Rahat'', and ''Arhan'', ''Rahan''.\n\n'''arhatship''' (är′hat-ship), ''n.''   [< ''Arhat'' + ''-ship''.]   The state of an Arhat. Also ''arahatship''.\n{{smaller block|The central point of primitive Buddhism was the doctrine of ''Arahatship'',—a system of ethical and mental self-culture, in which deliverance was found from all the mysteries and sorrows of life in a change of heart to be reached here on earth.\n{{right|''Encyc. Brit.'', XIV. 226.}}}}\n\n'''arhizal, arhizous''', ''a.'' More common but less correct forms of ''arrhizal'', ''arrhizous''.\n\n'''aria''' (ä′ri-ä or ā′ri-ä), ''n.''   [It., < L. ''aër'', air: see ''air''<sup>3</sup>, also ''air''<sup>1</sup>.]   In ''music'': (''a'') A rhythmical and metrical melody or tune for a single voice (rarely for a monophonous instrument), having a vocal or instrumental accompaniment: dis-<noinclude><references/></noinclude>"
+}

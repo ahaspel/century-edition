@@ -1,0 +1,233 @@
+{
+ "volume": 1,
+ "page_number": 320,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n319.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n319.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 743,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     73,
+     133,
+     2288,
+     174
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     73,
+     174,
+     814,
+     250
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     73,
+     250,
+     814,
+     1312
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     536,
+     256,
+     808,
+     1042
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     73,
+     1312,
+     814,
+     2388
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     73,
+     2388,
+     814,
+     3283
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     814,
+     174,
+     1557,
+     878
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     814,
+     878,
+     1557,
+     1866
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     814,
+     1866,
+     1557,
+     2933
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     814,
+     2933,
+     1557,
+     3283
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1557,
+     174,
+     2288,
+     1254
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1557,
+     1254,
+     2288,
+     2309
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1557,
+     2309,
+     2288,
+     3283
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|archaistic|294|archduchess}}",
+   "c1s1": "¶\n'''archaistic''' (är-kā-is′tik), ''a.'' [< ''archaist'' + ''-ic''.] Imitating that which is archaic; exhibiting the",
+   "c1s2": "attempt to reproduce the characteristics of the archaic; affecting archaism.\n{{smaller block|In spite of the ''archaistic'' efforts of many writers, both in forms and in vocabulary, the language [Swedish] nevertheless underwent rapid changes during the 16th and 17th centuries. {{right|''Encyc. Brit.'', XXI. 372.}}}}\n\n'''archaize''' (är′kạ̄-īz), ''v. i.''; pret. and pp. ''archaized'', ppr. ''archaizing''. [< Gr. ἀρχαΐζειν: see ''archaism''.] To use or imitate what is archaic; imitate an olden style; especially, to make use of archaisms in speech.\n\n'''archaizer''' (är′kạ̄-ī-zėr), ''n.'' One who archaizes; one who affects an archaic style.\n{{smaller block|But it may be remembered that Varro was himself something of an ''archaizer''. {{right|''Encyc. Brit.'', XIV. 332.}}}}\n\n'''archall†''', ''n.'' An old form of ''archil''.\n\n'''archamœba''' (är-kạ-mē′bä̤), ''n.'' [< Gr. ἀρχ-, ἀρχι-, first, primitive, + NL. ''amœba''.] A hypothetical primitive simple amœba supposed by\n[[FIGURE]]\n{{c|{{smaller|Archaistic Bronze Statuette from Verona, in the British Museum, in imitation of Greek work of the sixth century {{sc|b. c.}}}}}}\nHaeckel to have made its appearance in the earliest geologic period, and to have been the progenitor of all other amœbæ and also of all higher forms of life.",
+   "c1s3": "¶\n'''archamphiaster''' (är-kam-fi-as′tėr), ''n.'' [Also ''archiamphiaster'', < Gr. ἀρχι-, first, + ἀμφί, around, + ἀστήρ, star. See ''amphiaster''.] In ''embryol.'', one of the nuclear cleavage figures developed from the germinative vesicle or primordial nucleus at the time the polar cells or globules are expelled from an ovum, at or before the beginning of development.\n{{smaller block|The history of the early stages of the spindle and the ''archamphiasters'' shows their agamic origin.\n{{right|''Hyatt'', Proc. Bost. Soc. Nat. Hist. (1884), p. 55.}}}}\n\n'''archangel''' (ärk′ān′jel), ''n.'' [< ME. ''archangel'', ''archaungel'', etc. (in AS. ''heáh-angel'', lit. high angel), < OF. ''archangel'', ''archangele'', mod. F. ''archange'' = Pr. ''archangi'' = Sp. ''arcángel'' = Pg. ''arcanjo'', ''archanjo'' = It. ''arcangelo'' = D. ''aartsengel'' = G. ''erzengel'' = Sw. ''erkeängel'' = Dan. ''erkeengel''; < LL. ''archangelus'' (= Russ. ''arkhangelŭ'' = Goth. ''arkaggilus''), < Gr. ἀρχάγγελος, archangel, chief angel, < ἀρχ-, ἀρχι-, chief, + ἄγγελος, angel: see ''arch-'' and ''angel''.] '''1.''' An angel of the highest order; a chief angel. {{smaller|The word occurs in two passages of the Bible, 1 Thes. iv. 16, and Jude 9. Michael, mentioned in the latter as an archangel, also in Daniel as the spiritual prince of the Jews, and in Rev. xii. 7 as the leader of the heavenly hosts against the dragon and his angels, is the St. Michael of the church calendar. Coming after him in dignity, three others are especially known by name as archangels: Gabriel, the heavenly interpreter and annunciator or herald (Dan. viii. 16, ix. 21; Luke i. 19); Raphael, the guardian angel commemorated in the book of Tobit; and Uriel (2 Esd. iv. 1), the fire or light of God, often mentioned, like the others, in Milton’s “Paradise Lost.” Three other names are added by tradition to make the number seven (Tobit xii. 15, Rev. viii. 2, where the angels mentioned are taken as archangels), Chamuel, Jophiel or Zophiel, and Zadkiel; and still others are spoken of.}}",
+   "c1s4": "{{smaller block|For ''archangels'' were the first and most glorious of the whole creation: they were the morning work of God, and had the first impressions of his image.\n{{right|''Dryden'', Ded. of Plutarch’s Lives.}}}}\n'''2.''' A member of the lowest but one of the nine orders of angels composing the “celestial hierarchy” of Dionysius the pseudo-Areopagite, whose classification was adopted by Pope Gregory the Great, and is generally accepted by the theologians of the Roman Catholic Church. {{smaller|The nine orders are: seraphim, cherubim, thrones, dominations, virtues, powers, principalities, archangels, angels.}}\n'''3.''' [ML. ''archangelus'', ''archangelica''.] In ''bot.'': (''a'') The name of several labiate plants, as ''Stachys sylvatica'' and species of ''Lamium''. (''b'') An umbelliferous plant, ''Archangelica officinalis''. See ''angelica''.—'''4.''' A slim-bodied, thin-faced variety of domestic pigeon, of rather small size, with long head and beak, a peaked crest, and rich metallic lustrous plumage, black on the shoulders and tail, but coppery elsewhere. {{smaller|The origin of the breed is unknown: it was introduced into England from Ghent. The name is supposed to allude to the brilliancy of the plumage. The bird breeds very true, the chief points being the peaked crest and the luster.}}\n\n'''archangelic''' (ärk-an-jel′ik), ''a.'' [< ML. ''archangelicus'', < LGr. ἀρχαγγελικός, < Gr. ἀρχάγγελος, archangel.] Of or pertaining to archangels: as, “''archangelic'' pomps,” ''Mrs. Browning.''",
+   "c2s1": "¶\n'''arch-apostate''' (ärch′a̤-pos′tāt), ''n.'' [< ''arch-'' + ''apostate.''] A chief apostate.\n\n'''arch-apostle''' (ärch′a̤-pos′l), ''n.'' [< ''arch-'' + ''apostle.'' Cf. ML. ''archiapostolus.''] A chief apostle.\n\n'''Archarchitect''' (ärch′är′ki-tekt), ''n.'' [< ''arch-'' + ''architect.''] The supreme Architect; the Creator.\n{{smaller block|I’ll ne’er believe that the ''Archarchitect''<br>With all these fires the heavenly arches decked<br>Only for show.\n{{right|''Sylvester'', tr. of Du Bartas.}}}}\n\n'''arch-band''' (ärch′band), ''n.'' A name given by artisans to that portion of an arch or rib which is seen below the general surface of vaulting.\n\n'''arch-bar''' (ärch′bär), ''n.'' '''1.''' Any metallic bar of arched shape, as the iron bar taking the place of a brick arch over the ash-pit door of some furnaces.—'''2.''' The upper member of a curved truss.—'''3.''' A wrought-iron bar extending from the bolster of a car-truck each way to the top of the journal-boxes. {{smaller|It forms the compression-member of the trusswork which transmits the weight of the body of the car from the truck-bolster to the car-axles.}}\n\n'''archbishop''' (ärch′bish′up), ''n.'' [< ME. ''archbis-''",
+   "c2s2": "''shop'', ''archebiscop'', etc., < AS. ''arce-'', ''ærce-'', ''ercebiscop'' (also ''heáh-biscop'', lit. high bishop) = OFries. ''arcebiskop'' = D. ''aartsbisschop'' = OHG. ''erzibiscof'', G. ''erzbischof'' = Icel. ''erkibiskup'' = Dan. Sw. ''erkebiskop'' = F. ''archevêque'' = Sp. ''arzobispo'' = Pg. ''arcebispo'' = It. ''arcivescovo'', < LL. ''archiepiscopus'', < LGr. ἀρχιεπίσκοπος, chief bishop, < Gr. ἀρχι-, chief, + ἐπίσκοπος, bishop: see ''arch-'' and ''bishop''.] A title used in the Christian church as early as the fourth century, and regularly given in that and the next four centuries to the bishops of the highest rank, afterward known as patriarchs. {{smaller|It was also occasionally applied in the East to exarchs and metropolitans of sees of exceptional antiquity or dignity, and was sometimes extended in later times to others of the same rank as a special distinction. In the West, from the eighth or ninth century, the title was given to metropolitans of every class, and this is still the use of the Roman Catholic Church. Archbishops have certain rights of honor and jurisdiction over their suffragan bishops (that is, the bishops of the dioceses making up their ecclesiastical province), such as those of calling and presiding over provincial councils, receiving appeals in certain cases, etc.; but these rights, formerly very considerable, are now comparatively limited. At present the archbishop is not always a metropolitan, since there have long been a few archbishoprics without suffragans, and oftener still the title is purely honorary. See ''primate''. The insignia of an archbishop in the Roman Catholic Church are the woolen pallium, before receiving which from the pope he cannot exercise the functions of his office, and the double cross borne processionally before him. In the Anglican Church there are four archbishops, two in the Church of England (those of Canterbury and York, the former of whom is metropolitan of all England), and two in the Church of Ireland (those of Armagh and Dublin, the former of whom}}",
+   "c2s3": "{{smaller|is primate). The Church of Sweden has one archbishop, whose see is at Upsala. Abbreviated to ''abp.''}}\n\n¶\n'''archbishopess''' (ärch′bish′up-es), ''n.'' [< ''archbishop'' + ''-ess.''] The wife of an English archbishop. ''Miss Burney.'' [Rare.]\n\n'''archbishopric''' (ärch′bish′up-rik), ''n.'' [< ME. ''archebischopriche'', ''-ryk'', etc., < AS. ''arcebiscoprice'', < ''arcebiscop'', archbishop, + ''rīce'', jurisdiction. Cf. ''bishopric.''] The titular see or diocese of an archbishop; the province over which an archbishop exercises authority.\n\n'''arch-board''' (ärch′bōrd), ''n.'' In ''ship-building'', a plank placed across a ship’s stern, immediately under the knuckles of the stern-timbers. On this board the ship’s name is sometimes painted.\n\n'''arch-brick''' (ärch′brik), ''n.'' '''1.''' A wedge-shaped brick used in arched work. See ''compass-brick.'' —'''2.''' A hard and partly vitrified brick, taken from one of the arches of a brick-kiln in which the fire is made.\n\n'''archbutler''' (ärch′but′lėr), ''n.'' [< ''arch-'' + ''butler.'' The G. equiv. is ''erzschenke'', ‘arch-skinker.’] A chief butler. {{smaller|Formerly it was the title of an official rank in the Roman-German empire, one of the imperial court-offices connected with the electoral dignity, and held by the King or Elector of Bohemia.}}\n\n'''arch-buttress''' (ärch′but″res), ''n.'' Same as ''flying buttress'' (which see, under ''buttress'').\n\n'''archchamberlain''' (ärch′chām′bėr-lạ̄n), ''n.'' [< ''arch-'' + ''chamberlain.'' Cf. ML. ''archicamerarius'', > G. ''erzkämmerer'', ‘arch-chamberer’: see ''chamberer.''] A chief chamberlain. {{smaller|It was formerly the title of an official rank in the Roman-German empire, held by the Elector of Brandenburg.}}",
+   "c2s4": "¶\n'''archchancellor''' (ärch′chȧn′sel-o̤r), ''n.'' [< ''arch-'' + ''chancellor'', after F. ''archichancelier'' = G. ''erzkanzler'', < ML. ''archicancellarius'', archchancellor.] A chief chancellor; formerly—(''a'') The title of an office in the Roman-German empire, held by the electoral archbishop of Mainz, who was actual chancellor of the empire. (''b'') An honorary official rank held by the electoral archbishops of Cologne and Treves, the former nominally for Italy and the latter for Burgundy (Gaul and the kingdom of Arles).",
+   "c3s1": "¶\n'''archchanter†''' (ärch′chȧn′tėr), ''n.'' [< ''arch-'' + ''chanter.'' Cf. ML. ''archicantor'', chief singer.] The chief chanter or president of the chanters of a church; a choir-leader or precentor.\n\n'''archchaplain''' (ärch′chap′lạ̄n), ''n.'' [< ''arch-'' + ''chaplain'', after ML. ''archicapellanus.''] In the early French monarchy, the court chaplain, often the same as the papal, or later the imperial, apocrisiary, and identical with the grand almoner and archchancellor. {{smaller|The title became extinct with the Carolingian, or second race of kings, before {{sc|a. d.}} 1000.}}\n\n'''archchemic''' (ärch′kem′ik), ''a.'' [< ''arch-'' + ''chemic.''] Of supreme chemical powers: as, “the ''arch-chemic'' sun,” ''Milton'', P. L., iii. 609. [Rare.]\n\n'''arch-confraternity''' (ärch′kon″fra̤-tėr′ni̤-ti), ''n.'' In the ''Rom. Cath. Ch.'', a chief confraternity having affiliated societies and endowed with special privileges: rarely called ''arch-sodality.'' See ''confraternity.''\n\n'''archcount''' (ärch′kount′), ''n.'' [< ''arch-'' + ''count''<sup>2</sup>, after ML. ''archicomes'', archcount.] A chief count: a title formerly given to the Count of Flanders in consequence of his great riches and power.\n\n'''archdapifer''' (ärch′dap′i-fėr), ''n.'' [Modified (with E. ''arch-'' for L. ''archi-'') from ML. ''archidapifer'', < L. ''archi-'' + ''dapifer'', a food-bearer, < ''daps'', food, feast, + ''ferre'' = E. ''bear''<sup>1</sup>.] The title of an official rank in the Roman-German empire, held by the Elector of the Palatinate; the seneschal.\n\n'''archdeacon''' (ärch′dē′kn), ''n.'' [< ME. ''archede-''",
+   "c3s2": "ken, etc., < AS. ''arcediacon'', ''ercediacon'' = D. ''aartsdeken'' = Icel. ''erkidjākn'' = Dan. ''erkedegn'' = F. ''archidiacre'' = Sp. ''arcediano'' = Pg. ''arcediago'' = It. ''archidiacono'', < LL. ''archidiaconus'', < LGr. ἀρχιδιάκονος, < Gr. ἀρχι-, chief, + διάκονος, deacon.] A chief deacon; strictly, an ecclesiastic who has charge of the temporal and external administration of a diocese, with jurisdiction delegated from the bishop. {{smaller|The word is found as the title of an ecclesiastical dignitary from the fourth century. In the East it is last found as applied to an ecclesiastical officer of the court of Constantinople under the late Byzantine empire. In the West, from the eighth century, dioceses began to be divided into separate territories, over which rural archdeacons were placed, having under them deans or rural archpriests, charged with the supervision of the parish priests of their respective districts; over these was the general or grand archdeacon of the whole diocese, who took precedence of the archpriest (which see), and held his own court with its officials, distinct from that of the bishop, so that appeals were taken from the former to the latter. The rural archdeacons were often priests, having a cure of souls, as was also the grand archdeacon from the twelfth century. The powers and privileges of this office were gradually restricted, and in the Roman Catholic Church, since the Council of Trent, its place is for the most part supplied by the bishop’s vicar-general, between whom and the parish priests are sometimes found the vicars forane, or present rural deans; while the archdeacon of the present day, where the office survives, holds a dignity of honor. In the Church of England each bishop has the assistance of two or more archdeacons, who as his deputies inspect and manage the affairs of the diocese, and perform a variety of duties partly secular and partly ecclesiastical. In two dioceses of the Protestant Episcopal Church of America the title ''archdeacon'' has been introduced.}}—'''Archdeacon’s court.''' {{smaller|See ''court.''}}\n\n'''archdeaconate''' (ärch′dē′kn-āt), ''n.'' [< ''archdeacon'' + ''-ate''<sup>3</sup>, after ML. ''archidiaconatus'', arch-",
+   "c3s3": "deacon’s office.] The district over which an archdeacon has jurisdiction; an archdeaconry.\n\n'''archdeaconry''' (ärch′dē′kn-ri), ''n.''; pl. ''archdeaconries'' (-riz). [< ''archdeacon'' + ''-ry''.] The office, rank, jurisdiction, or residence of an archdeacon. {{smaller|In the Church of England every diocese has one or more archdeaconries; every archdeaconry is divided into rural deaneries, and every rural deanery into parishes.}}\n\n'''archdeaconship''' (ärch′dē′kn-ship), ''n.'' [< ''archdeacon'' + ''-ship''.] The office of an archdeacon.\n\n'''archdean''' (ärch′dēn′), ''n.'' [< ''arch-'' + ''dean''. Cf. D. ''aartsdiaken'', archdean.] A chief dean; a superior over other deans. [Sometimes used by Scottish writers for ''archdeacon''.]\n\n'''archdeanery''' (ärch′dē′nẹ-ri), ''n.''; pl. ''archdeaneries'' (-riz). [< ''archdean'' + ''-ery''.] The office or jurisdiction of an archdean.\n\n'''archdiocese''' (ärch′dī′ọ-sēs), ''n.'' [< ''arch-'' + ''diocese'', after ML. ''archidiœcesis''.] The see or diocese of an archbishop.\n\n'''archdruid''' (ärch′drö′id), ''n.'' [< ''arch-'' + ''druid''.] A chief druid.\n\n'''archducal''' (ärch′dū′kal), ''a.'' [< ''archduke''; = F. ''archiducal'': see ''ducal''.] Pertaining to an archduke or an archduchy.\n{{smaller block|In the Austrian assembly of states Vienna has as many votes as all the other ''archducal'' towns together.\n{{right|''Brougham.''}}}}\n\n'''archduchess''' (ärch′duch′es), ''n.'' [< ''arch-'' + ''duchess'', after F. ''archiduchesse''. The G. word is"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0320 c1f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     548,
+     268,
+     796,
+     1030
+    ],
+    "caption": [
+     548,
+     1037,
+     800,
+     1161
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     541,
+     205,
+     742,
+     1031
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4422,
+    "output_tokens": 96,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9591,
+    "output_tokens": 8074,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c1f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|archaistic|294|archduchess}}</noinclude>{{nop}}'''archaistic''' (är-kā-is′tik), ''a.''   [< ''archaist'' + ''-ic''.]   Imitating that which is archaic; exhibiting the attempt to reproduce the characteristics of the archaic; affecting archaism.\n{{smaller block|In spite of the ''archaistic'' efforts of many writers, both in forms and in vocabulary, the language [Swedish] nevertheless underwent rapid changes during the 16th and 17th centuries. {{right|''Encyc. Brit.'', XXI. 372.}}}}\n\n'''archaize''' (är′kạ̄-īz), ''v. i.''; pret. and pp. ''archaized'', ppr. ''archaizing''.   [< Gr. ἀρχαΐζειν: see ''archaism''.]   To use or imitate what is archaic; imitate an olden style; especially, to make use of archaisms in speech.\n\n'''archaizer''' (är′kạ̄-ī-zėr), ''n.'' One who archaizes; one who affects an archaic style.\n{{smaller block|But it may be remembered that Varro was himself something of an ''archaizer''. {{right|''Encyc. Brit.'', XIV. 332.}}}}\n\n'''archall†''', ''n.'' An old form of ''archil''.\n\n'''archamœba''' (är-kạ-mē′bä̤), ''n.''   [< Gr. ἀρχ-, ἀρχι-, first, primitive, + NL. ''amœba''.]   A hypothetical primitive simple amœba supposed by {{img float|file=century v01 p0320 c1f1.png|width=132px|align=right|cap={{smaller|Archaistic Bronze Statuette from Verona, in the British Museum, in imitation of Greek work of the sixth century {{sc|b. c.}}}}}} Haeckel to have made its appearance in the earliest geologic period, and to have been the progenitor of all other amœbæ and also of all higher forms of life.\n\n'''archamphiaster''' (är-kam-fi-as′tėr), ''n.''   [Also ''archiamphiaster'', < Gr. ἀρχι-, first, + ἀμφί, around, + ἀστήρ, star. See ''amphiaster''.]   In ''embryol.'', one of the nuclear cleavage figures developed from the germinative vesicle or primordial nucleus at the time the polar cells or globules are expelled from an ovum, at or before the beginning of development.\n{{smaller block|The history of the early stages of the spindle and the ''archamphiasters'' shows their agamic origin.\n{{right|''Hyatt'', Proc. Bost. Soc. Nat. Hist. (1884), p. 55.}}}}\n\n'''archangel''' (ärk′ān′jel), ''n.''   [< ME. ''archangel'', ''archaungel'', etc. (in AS. ''heáh-angel'', lit. high angel), < OF. ''archangel'', ''archangele'', mod. F. ''archange'' = Pr. ''archangi'' = Sp. ''arcángel'' = Pg. ''arcanjo'', ''archanjo'' = It. ''arcangelo'' = D. ''aartsengel'' = G. ''erzengel'' = Sw. ''erkeängel'' = Dan. ''erkeengel''; < LL. ''archangelus'' (= Russ. ''arkhangelŭ'' = Goth. ''arkaggilus''), < Gr. ἀρχάγγελος, archangel, chief angel, < ἀρχ-, ἀρχι-, chief, + ἄγγελος, angel: see ''arch-'' and ''angel''.]   '''1.''' An angel of the highest order; a chief angel. {{smaller|The word occurs in two passages of the Bible, 1 Thes. iv. 16, and Jude 9. Michael, mentioned in the latter as an archangel, also in Daniel as the spiritual prince of the Jews, and in Rev. xii. 7 as the leader of the heavenly hosts against the dragon and his angels, is the St. Michael of the church calendar. Coming after him in dignity, three others are especially known by name as archangels: Gabriel, the heavenly interpreter and annunciator or herald (Dan. viii. 16, ix. 21; Luke i. 19); Raphael, the guardian angel commemorated in the book of Tobit; and Uriel (2 Esd. iv. 1), the fire or light of God, often mentioned, like the others, in Milton’s “Paradise Lost.” Three other names are added by tradition to make the number seven (Tobit xii. 15, Rev. viii. 2, where the angels mentioned are taken as archangels), Chamuel, Jophiel or Zophiel, and Zadkiel; and still others are spoken of. For ''archangels'' were the first and most glorious of the whole creation: they were the morning work of God, and had the first impressions of his image.\n{{right|''Dryden'', Ded. of Plutarch’s Lives.}}}}\n'''2.''' A member of the lowest but one of the nine orders of angels composing the “celestial hierarchy” of Dionysius the pseudo-Areopagite, whose classification was adopted by Pope Gregory the Great, and is generally accepted by the theologians of the Roman Catholic Church. {{smaller|The nine orders are: seraphim, cherubim, thrones, dominations, virtues, powers, principalities, archangels, angels.}}\n'''3.''' [ML. ''archangelus'', ''archangelica''.] In ''bot.'': (''a'') The name of several labiate plants, as ''Stachys sylvatica'' and species of ''Lamium''. (''b'') An umbelliferous plant, ''Archangelica officinalis''. See ''angelica''.—'''4.''' A slim-bodied, thin-faced variety of domestic pigeon, of rather small size, with long head and beak, a peaked crest, and rich metallic lustrous plumage, black on the shoulders and tail, but coppery elsewhere. {{smaller|The origin of the breed is unknown: it was introduced into England from Ghent. The name is supposed to allude to the brilliancy of the plumage. The bird breeds very true, the chief points being the peaked crest and the luster.}}\n\n'''archangelic''' (ärk-an-jel′ik), ''a.''   [< ML. ''archangelicus'', < LGr. ἀρχαγγελικός, < Gr. ἀρχάγγελος, archangel.]   Of or pertaining to archangels: as, “''archangelic'' pomps,” ''Mrs. Browning.''\n\n'''arch-apostate''' (ärch′a̤-pos′tāt), ''n.''   [< ''arch-'' + ''apostate.'']   A chief apostate.\n\n'''arch-apostle''' (ärch′a̤-pos′l), ''n.''   [< ''arch-'' + ''apostle.'' Cf. ML. ''archiapostolus.'']   A chief apostle.\n\n'''Archarchitect''' (ärch′är′ki-tekt), ''n.''   [< ''arch-'' + ''architect.'']   The supreme Architect; the Creator.\n{{smaller block|I’ll ne’er believe that the ''Archarchitect''<br>With all these fires the heavenly arches decked<br>Only for show.\n{{right|''Sylvester'', tr. of Du Bartas.}}}}\n\n'''arch-band''' (ärch′band), ''n.'' A name given by artisans to that portion of an arch or rib which is seen below the general surface of vaulting.\n\n'''arch-bar''' (ärch′bär), ''n.'' '''1.''' Any metallic bar of arched shape, as the iron bar taking the place of a brick arch over the ash-pit door of some furnaces.—'''2.''' The upper member of a curved truss.—'''3.''' A wrought-iron bar extending from the bolster of a car-truck each way to the top of the journal-boxes. {{smaller|It forms the compression-member of the trusswork which transmits the weight of the body of the car from the truck-bolster to the car-axles.}}\n\n'''archbishop''' (ärch′bish′up), ''n.''   [< ME. ''archbisshop'', ''archebiscop'', etc., < AS. ''arce-'', ''ærce-'', ''ercebiscop'' (also ''heáh-biscop'', lit. high bishop) = OFries. ''arcebiskop'' = D. ''aartsbisschop'' = OHG. ''erzibiscof'', G. ''erzbischof'' = Icel. ''erkibiskup'' = Dan. Sw. ''erkebiskop'' = F. ''archevêque'' = Sp. ''arzobispo'' = Pg. ''arcebispo'' = It. ''arcivescovo'', < LL. ''archiepiscopus'', < LGr. ἀρχιεπίσκοπος, chief bishop, < Gr. ἀρχι-, chief, + ἐπίσκοπος, bishop: see ''arch-'' and ''bishop''.]   A title used in the Christian church as early as the fourth century, and regularly given in that and the next four centuries to the bishops of the highest rank, afterward known as patriarchs. {{smaller|It was also occasionally applied in the East to exarchs and metropolitans of sees of exceptional antiquity or dignity, and was sometimes extended in later times to others of the same rank as a special distinction. In the West, from the eighth or ninth century, the title was given to metropolitans of every class, and this is still the use of the Roman Catholic Church. Archbishops have certain rights of honor and jurisdiction over their suffragan bishops (that is, the bishops of the dioceses making up their ecclesiastical province), such as those of calling and presiding over provincial councils, receiving appeals in certain cases, etc.; but these rights, formerly very considerable, are now comparatively limited. At present the archbishop is not always a metropolitan, since there have long been a few archbishoprics without suffragans, and oftener still the title is purely honorary. See ''primate''. The insignia of an archbishop in the Roman Catholic Church are the woolen pallium, before receiving which from the pope he cannot exercise the functions of his office, and the double cross borne processionally before him. In the Anglican Church there are four archbishops, two in the Church of England (those of Canterbury and York, the former of whom is metropolitan of all England), and two in the Church of Ireland (those of Armagh and Dublin, the former of whom is primate). The Church of Sweden has one archbishop, whose see is at Upsala. Abbreviated to ''abp.''}}\n\n'''archbishopess''' (ärch′bish′up-es), ''n.''   [< ''archbishop'' + ''-ess.'']   The wife of an English archbishop.   ''Miss Burney.'' [Rare.]\n\n'''archbishopric''' (ärch′bish′up-rik), ''n.''   [< ME. ''archebischopriche'', ''-ryk'', etc., < AS. ''arcebiscoprice'', < ''arcebiscop'', archbishop, + ''rīce'', jurisdiction. Cf. ''bishopric.'']   The titular see or diocese of an archbishop; the province over which an archbishop exercises authority.\n\n'''arch-board''' (ärch′bōrd), ''n.'' In ''ship-building'', a plank placed across a ship’s stern, immediately under the knuckles of the stern-timbers. On this board the ship’s name is sometimes painted.\n\n'''arch-brick''' (ärch′brik), ''n.'' '''1.''' A wedge-shaped brick used in arched work. See ''compass-brick.'' —'''2.''' A hard and partly vitrified brick, taken from one of the arches of a brick-kiln in which the fire is made.\n\n'''archbutler''' (ärch′but′lėr), ''n.''   [< ''arch-'' + ''butler.'' The G. equiv. is ''erzschenke'', ‘arch-skinker.’]   A chief butler. {{smaller|Formerly it was the title of an official rank in the Roman-German empire, one of the imperial court-offices connected with the electoral dignity, and held by the King or Elector of Bohemia.}}\n\n'''arch-buttress''' (ärch′but″res), ''n.'' Same as ''flying buttress'' (which see, under ''buttress'').\n\n'''archchamberlain''' (ärch′chām′bėr-lạ̄n), ''n.''   [< ''arch-'' + ''chamberlain.'' Cf. ML. ''archicamerarius'', > G. ''erzkämmerer'', ‘arch-chamberer’: see ''chamberer.'']   A chief chamberlain. {{smaller|It was formerly the title of an official rank in the Roman-German empire, held by the Elector of Brandenburg.}}\n\n'''archchancellor''' (ärch′chȧn′sel-o̤r), ''n.''   [< ''arch-'' + ''chancellor'', after F. ''archichancelier'' = G. ''erzkanzler'', < ML. ''archicancellarius'', archchancellor.]   A chief chancellor; formerly—(''a'') The title of an office in the Roman-German empire, held by the electoral archbishop of Mainz, who was actual chancellor of the empire. (''b'') An honorary official rank held by the electoral archbishops of Cologne and Treves, the former nominally for Italy and the latter for Burgundy (Gaul and the kingdom of Arles).\n\n'''archchanter†''' (ärch′chȧn′tėr), ''n.''   [< ''arch-'' + ''chanter.'' Cf. ML. ''archicantor'', chief singer.]   The chief chanter or president of the chanters of a church; a choir-leader or precentor.\n\n'''archchaplain''' (ärch′chap′lạ̄n), ''n.''   [< ''arch-'' + ''chaplain'', after ML. ''archicapellanus.'']   In the early French monarchy, the court chaplain, often the same as the papal, or later the imperial, apocrisiary, and identical with the grand almoner and archchancellor. {{smaller|The title became extinct with the Carolingian, or second race of kings, before {{sc|a. d.}} 1000.}}\n\n'''archchemic''' (ärch′kem′ik), ''a.''   [< ''arch-'' + ''chemic.'']   Of supreme chemical powers: as, “the ''arch-chemic'' sun,” ''Milton'', P. L., iii. 609. [Rare.]\n\n'''arch-confraternity''' (ärch′kon″fra̤-tėr′ni̤-ti), ''n.'' In the ''Rom. Cath. Ch.'', a chief confraternity having affiliated societies and endowed with special privileges: rarely called ''arch-sodality.'' See ''confraternity.''\n\n'''archcount''' (ärch′kount′), ''n.''   [< ''arch-'' + ''count''<sup>2</sup>, after ML. ''archicomes'', archcount.]   A chief count: a title formerly given to the Count of Flanders in consequence of his great riches and power.\n\n'''archdapifer''' (ärch′dap′i-fėr), ''n.''   [Modified (with E. ''arch-'' for L. ''archi-'') from ML. ''archidapifer'', < L. ''archi-'' + ''dapifer'', a food-bearer, < ''daps'', food, feast, + ''ferre'' = E. ''bear''<sup>1</sup>.]   The title of an official rank in the Roman-German empire, held by the Elector of the Palatinate; the seneschal.\n\n'''archdeacon''' (ärch′dē′kn), ''n.''   [< ME. ''archedeken'', etc., < AS. ''arcediacon'', ''ercediacon'' = D. ''aartsdeken'' = Icel. ''erkidjākn'' = Dan. ''erkedegn'' = F. ''archidiacre'' = Sp. ''arcediano'' = Pg. ''arcediago'' = It. ''archidiacono'', < LL. ''archidiaconus'', < LGr. ἀρχιδιάκονος, < Gr. ἀρχι-, chief, + διάκονος, deacon.]   A chief deacon; strictly, an ecclesiastic who has charge of the temporal and external administration of a diocese, with jurisdiction delegated from the bishop. {{smaller|The word is found as the title of an ecclesiastical dignitary from the fourth century. In the East it is last found as applied to an ecclesiastical officer of the court of Constantinople under the late Byzantine empire. In the West, from the eighth century, dioceses began to be divided into separate territories, over which rural archdeacons were placed, having under them deans or rural archpriests, charged with the supervision of the parish priests of their respective districts; over these was the general or grand archdeacon of the whole diocese, who took precedence of the archpriest (which see), and held his own court with its officials, distinct from that of the bishop, so that appeals were taken from the former to the latter. The rural archdeacons were often priests, having a cure of souls, as was also the grand archdeacon from the twelfth century. The powers and privileges of this office were gradually restricted, and in the Roman Catholic Church, since the Council of Trent, its place is for the most part supplied by the bishop’s vicar-general, between whom and the parish priests are sometimes found the vicars forane, or present rural deans; while the archdeacon of the present day, where the office survives, holds a dignity of honor. In the Church of England each bishop has the assistance of two or more archdeacons, who as his deputies inspect and manage the affairs of the diocese, and perform a variety of duties partly secular and partly ecclesiastical. In two dioceses of the Protestant Episcopal Church of America the title ''archdeacon'' has been introduced.}}—'''Archdeacon’s court.''' {{smaller|See ''court.''}}\n\n'''archdeaconate''' (ärch′dē′kn-āt), ''n.''   [< ''archdeacon'' + ''-ate''<sup>3</sup>, after ML. ''archidiaconatus'', archdeacon’s office.]   The district over which an archdeacon has jurisdiction; an archdeaconry.\n\n'''archdeaconry''' (ärch′dē′kn-ri), ''n.''; pl. ''archdeaconries'' (-riz).   [< ''archdeacon'' + ''-ry''.]   The office, rank, jurisdiction, or residence of an archdeacon. {{smaller|In the Church of England every diocese has one or more archdeaconries; every archdeaconry is divided into rural deaneries, and every rural deanery into parishes.}}\n\n'''archdeaconship''' (ärch′dē′kn-ship), ''n.''   [< ''archdeacon'' + ''-ship''.]   The office of an archdeacon.\n\n'''archdean''' (ärch′dēn′), ''n.''   [< ''arch-'' + ''dean''. Cf. D. ''aartsdiaken'', archdean.]   A chief dean; a superior over other deans. [Sometimes used by Scottish writers for ''archdeacon''.]\n\n'''archdeanery''' (ärch′dē′nẹ-ri), ''n.''; pl. ''archdeaneries'' (-riz).   [< ''archdean'' + ''-ery''.]   The office or jurisdiction of an archdean.\n\n'''archdiocese''' (ärch′dī′ọ-sēs), ''n.''   [< ''arch-'' + ''diocese'', after ML. ''archidiœcesis''.]   The see or diocese of an archbishop.\n\n'''archdruid''' (ärch′drö′id), ''n.''   [< ''arch-'' + ''druid''.]   A chief druid.\n\n'''archducal''' (ärch′dū′kal), ''a.''   [< ''archduke''; = F. ''archiducal'': see ''ducal''.]   Pertaining to an archduke or an archduchy.\n{{smaller block|In the Austrian assembly of states Vienna has as many votes as all the other ''archducal'' towns together.\n{{right|''Brougham.''}}}}\n\n'''archduchess''' (ärch′duch′es), ''n.''   [< ''arch-'' + ''duchess'', after F. ''archiduchesse''. The G. word is<noinclude><references/></noinclude>"
+}

@@ -1,0 +1,257 @@
+{
+ "volume": 1,
+ "page_number": 430,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n429.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n429.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 746,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     73,
+     142,
+     2294,
+     178
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     73,
+     178,
+     817,
+     1252
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     73,
+     1252,
+     817,
+     2344
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     127,
+     1361,
+     751,
+     1580
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     73,
+     2344,
+     817,
+     3300
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     817,
+     178,
+     1561,
+     1162
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     817,
+     1162,
+     1561,
+     2233
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     817,
+     2233,
+     1561,
+     3300
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1561,
+     178,
+     2294,
+     1173
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1561,
+     1173,
+     2294,
+     2131
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1561,
+     2131,
+     2294,
+     3137
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1618,
+     2129,
+     2244,
+     2491
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1561,
+     3137,
+     2294,
+     3300
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|axletree|404|ayen}}",
+   "c1s1": "¶\n'''axletree''' (ak′sl-trē), ''n.'' [< ME. ''axel-tree'', ''axiltre'', etc. (= Icel. ''öxul-trē''), < ''axel'' + ''tree''. Cf. ''axtree''.] '''1.''' A bar or beam fixed crosswise under the body of a carriage, having rounded axles at the ends for a pair of wheels to revolve on.\n{{smaller block|Be hem turnethe alle the firmament, right as dothe a wheel, that turneth be his ''axille tree''.\n{{right|''Maundeville'' (ed. Halliwell), p. 182.}}}}\n'''2†.''' An axis.\n\n'''axle-yoke''' (ak′sl-yōk), ''n.'' A plate beneath an axle through which the ends of the saddle-clip pass. It serves as a washer-plate for the nuts upon the ends of the saddle-clip.\n\n'''axman, axeman''' (aks′man), ''n.''; pl. ''axmen'', ''axemen'' (-men). '''1.''' One who wields an ax; one employed in chopping; a woodman.\n{{smaller block|''Axemen'' were put to work getting out timber for bridges, and cutting fuel for the locomotives when the road was completed.\n{{right|''U. S. Grant'', in The Century, XXXI. 136.}}}}\n'''2.''' Formerly, a soldier whose weapon was an ax.\n{{smaller block|We hear nothing of any prisoners being taken, nothing of any of the ''axemen'' taking to flight.\n{{right|''E. A. Freeman'', Old Eng. Hist., p. 336.}}}}\n\n'''ax-master''' (aks′mȧs″tėr), ''n.'' A name given in Honduras to a tree with very hard wood. Its genus is not known.\n\n'''Axminster carpet.''' See ''carpet''.\n\n'''axoid''' (ak′soid), ''a.'' [< ''axis''<sup>1</sup> + ''-oid''.] Of or pertaining to the axis: used in anatomical terms, chiefly in composition: as, the ''occipito-axoid'' ligament. See ''axis''<sup>1</sup>, 3.\n\n'''Axolotes''' (ak-sō-lō′tēz), ''n.'' A Latinized form of ''axolotl'', used as a generic name. See ''Siredon''.",
+   "c1s2": "¶\n'''axolotl''' (ak′sō-lotl), ''n.'' [Mex.] A urodele or tailed amphibian found in Mexico, which is supposed not to undergo metamorphosis, but\n[[FIGURE]]\n{{c|{{smaller|Axolotl (''Amblystoma'').}}}}\nto retain its gills throughout life, breeding in the larval state. {{smaller|From this circumstance the animal was made the type of a distinct genus, ''Siredon'', and was placed with ''Proteus'', ''Siren'', etc., in the family ''Proteidæ'', under the name of ''Siredon pisciforme.'' Another species has been named ''Siredon lichenoides.'' Later observations, however, have shown that the axolotl, or siredon, is simply a prolonged, sometimes permanent, stage like that which all the species of salamandrines of the family ''Amblystomidæ'' pass through, and that the animal is referable to the genus ''Amblystoma.'' Axolotls are common in lakes and lagoons in Mexico, like the various species of ''Amblystoma'' known in the United States as ''mud-puppies'', ''water-dogs'', etc. They have the appearance of gigantic tadpoles about to turn into frogs, being from 6 to 9 inches long, with a large compressed tail, 4 legs, gill-tufts on each side of the neck, and obtuse flattened head. They are marketable in Mexico, where they are said to be deemed a luxury as an article of food.}}\n\n'''axometer''' (ak-som′e-tėr), ''n.'' [< L. ''axis'' (Gr. ἄξων), axis, + ''metrum'' (Gr. μέτρον), measure.] An instrument used in adjusting the height of the bridge of a pair of spectacles, to bring the centers of the lenses in line horizontally with the centers of the pupils of the eyes.\n\n'''axon''' (ak′son), ''n.''; pl. ''axones'' (-ēz). [< Gr. ἄξων,",
+   "c1s3": "axis: see ''axis''<sup>1</sup>, ''ax''<sup>2</sup>.] In ''anat.'', the body-axis; the mesal, longitudinal, skeletal axis of the body, represented in ''Branchiostoma'' and embryos by a membranogelatinous notochord, and in most adult vertebrates by the cartilaginous or osseous centra of the vertebræ and the base of the skull. ''Wilder'', N. Y. Med. Jour., Aug. 2, 1884, p. 113. Also called ''axis.''\n\n'''Axonia''' (ak-sō′ni-ä), ''n. pl.'' [NL., < Gr. ἄξων, axis.] Organic forms, animal or vegetable, having definite axes: the opposite of ''Anaxonia.''\n{{smaller block|The ''Axonia'' are divided into ''Homaxonia'', having all axes equal, as spherical and polyhedral forms, and ''Protaxonia'', having one main axis about which other axes are arranged. The latter are again subdivided into ''Monaxonia'' and ''Stauraxonia.'' See these words.}}\n\n'''axonometry''' (ak-sō-nom′e-tri), ''n.'' [Irreg. < Gr. ἄξων, axis, + μέτρον, measure.] The art of making a perspective representation of figures when the coördinates of points in them are given. Also written ''axinometry.''\n\n'''axospermous''' (ak-sọ̄-spėr′mus), ''a.'' [< L. ''axis'', axis, + Gr. σπέρμα, seed.] In ''bot.'', an epithet descriptive of compound fruits which have an axile placentation, the attachment of the seeds being toward the axis.\n\n'''axotomous''' (ak-sot′ọ̄-mus), ''a.'' [< L. ''axis'' (Gr. ἄξων), axis, + Gr. τομός, < τέμνειν, ταμεῖν, cut.] In ''mineral.'', cleavable in a direction perpendicular to the axis.\n\n'''axseed†''', ''n.'' [< ''ax''<sup>1</sup> + ''seed.''] Same as ''axfitch.''",
+   "c2s1": "¶\n'''ax-shaped''' (aks′shāpt), ''a.'' In ''bot.'', shaped like an ax or a hatchet; dolabriform.\n\n'''ax-stone''' (aks′stōn), ''n.'' A mineral found chiefly in New Zealand and the South Sea islands, and used by the natives for axes and other cutting instruments, whence the name. Also called ''nephrite'' and ''jade''.\n\n'''axtree''' (aks′trē), ''n.'' [Sc., also ''aixtree'', ''extree'', < ME. ''axtre'', ''extre'', ''axtreo'', < AS. *''eaxtreów'', < ''eax'', E. ''ax''<sup>2</sup>, + ''treów'', E. ''tree'', beam. Cf. ''axletree''.] An axletree. [Obsolete, except in Scotland.]\n{{smaller block|A large pyn in maner of an ''extre''.\n{{right|''Chaucer'', Astrolabe, p. 8.}}}}\n{{smaller block|<poem>Thunder and earthquakes raging, and the rocks\nTumbling from down their scyts like mighty blocks\nRowl’d from huge mountains, such a noise they make,\nAs though in sunder heav’ns huge ''axtree'' brake.</poem>\n{{right|''Drayton'', Poems (ed. Halliwell), p. 219.}}}}\n\n'''axunge''' (ak′sunj), ''n.'' [< F. ''axunge'', now ''axonge'', < L. ''axungia'', grease, fat, wagon-grease, < ''axis'', axle, + ''ungere'', grease: see ''unguent''.] The internal fat of the body, especially of pigs and geese; fat; lard.\n\n'''axungious''' (ak-sun′ji-us), ''a.'' [< ''axunge'' + ''-ious''.] Lard-like; fat; greasy. ''Sir T. Browne.''\n\n'''axvitch†''', '''axwort†''', ''n.'' Same as ''axfitch''.\n\n'''ay<sup>1</sup>''', '''aye<sup>1</sup>''' (ā), ''adv.'' [< ME. ''ay'', ''aye'', ''ai'', ''ei'' (in Ormulum ''aȝȝ''), prop. a northern form (< Icel. ''ei'', ''ey''), the native form being ME. ''oo'', ''o'', earlier ''a'', < AS. ''ā'' (orig. *''āw'', with added adv. formative ''āwa'', ''āwo'') = OS. ''ēo'', ''io'', ''gio'' = OFries. ''ā-'', ''ē-'' (in",
+   "c2s2": "comp.), = OHG. ''io'', ''ēo'', MHG. ''ie'', ''je'', G. ''je'' = Icel. ''ei'', ''ey'' (as above) = Goth. ''aiw'' = Gr. ἀεί, Ionic αἰεί, poet. or dial. αἰές, αἰέν, ἀές, αἰέ, ἀέ, ἀέν, αἰῇ, ἄι, αἰι, αἰιν, ἄιν, ἠί, orig. αἰϝεί, ever, always, prop. acc. (in Gr. locative) of a noun, AS. ''ǣ'', ''ǣw'' (orig. *''āw''), existence, law, marriage, = OS. ''ēo'', law, = OFries. ''ā'', ''ē'', ''ēwe'', ''ēwa'', law, = OHG. ''ēwa'', MHG. ''ēwe'', ''ē'', eternity, law, marriage, = G. ''ehe'', marriage, = Goth. ''aiws'', an age, a long period, eternity, = L. ''ævum'', OL. ''aevom'' (whence ult. E. ''age'', ''eternal'', q. v.); cf. Gr. αἰών, *αἰϝών (with unorig. formative ν), an age, an eon (see ''eon''); orig. appar. a going, a course, with formative ''-va'', < √ *''i'', Skt. ''i'', Gr. ἰ-έναι = L. ''i-re'', go: see ''iter'' and ''go''. This adv. was much used as a generalizing prefix (somewhat like the related suffix ''ever'' in ''whoever'', ''whatever'', etc.), and, fused with ''ge-'', exists unrecognized in ''each'', ''either''. With the negative it exists in ''nay'' and ''no''<sup>1</sup>, which are related to each other as the simple ''ay'' and (obs.) ''o''. The spelling ''ay'', like ''nay'', is historically and analogically the proper one.] '''1.''' Ever; always; for ever; continually; for an indefinite time. [Now only poetical and North. E. dial.]\n{{smaller block|Care for the Conscience, & kepe it ''ai'' clene.\n{{right|''The A B C of Aristotle'' (E. E. T. S., extra ser., VIII. i. 65).}}}}\n{{smaller block|<poem>Let this pernicious hour\nStand ''aye'' accursed in the calendar!</poem>\n{{right|''Shak.'', Macbeth, iv. 1.}}}}\n'''2†.''' Ever: indefinitely, after ''if''.\n{{smaller block|<poem>Behold the man! and tell me, Britomart,\n''If ay'' more goodly creature thou didst see?</poem>\n{{right|''Spenser'', F. Q., III. iii. 32.}}}}",
+   "c2s3": "{{smaller|'''For ay''', for ever: sometimes strengthened by combination—''for ever and ay''.}}\n{{smaller block|The soul, though made in time, survives ''for ay'';\nAnd though it hath beginning, sees no end.\n{{right|''Sir J. Davies'', Immortal. of Soul, xxix.}}}}\n\n'''ay<sup>2</sup>''' (ā), ''interj.'' [Also ''aye'', ''eigh'' (and, in this use, ''eh''), < ME. ''ey'', ''ei''; a mere interj., of no definite history, but it may be regarded, formally, as a variant of ME. ''a'', E. ''ah'', ''oh''. In the poetical ''ay me'', prob. in imitation of OF. ''aymi'', Sp. ''ay de mí'', It. ''ahime''; cf. F. ''ahi'', ''aï'', Sp. ''ay'', It. ''ahi'', ah: see ''ah'', ''O'', ''oh'', and cf. ''eh''.] Ah! O! oh! an exclamation expressing surprise, interest, regret, etc., according to the manner of utterance. [North. Eng. and Scotch.]—'''Ay me!''' {{smaller|ah me! an expression of regret or sorrow. [Poetical.]}}\n{{smaller block|''Ay me!'' that thankes so much should faile of meed.\n{{right|''Spenser'', Virgil’s Gnat, l. 353.}}}}\n\n'''ay<sup>3</sup>''', ''adv.'' or ''interj.'' See ''aye''<sup>3</sup>.\n\n'''ay<sup>3</sup>''', ''n.'' See ''aye''<sup>3</sup>.\n\n'''ay<sup>4</sup>†''', ''n.'' See ''ey''<sup>1</sup>.\n\n'''Ay<sup>5</sup>''' (ā), ''n.'' A sparkling wine taking its name from the town of Ay in the department of Marne, France. See ''champagne''.\n\n'''ay<sup>6</sup>'''. [(1) < ME. ''ay'', ''ai'', ''ey'', ''ei'', ''eȝ'', etc., < AS. ''æg'', ''eg'', ''ǣg'', ''ēg'', etc.; (2) of other origin: see under ''ai''.] A common English digraph (pron. ā), formerly interchangeable in most instances with ''ai'', but now the regular form when final, occurring medially only in certain positions. {{smaller|Historically it represents, (1) in words of Anglo-Saxon origin, ''a'' (''æ'') or ''e'' with an absorbed guttural, as in ''clay'', ''day''<sup>1</sup>, ''lay''<sup>1</sup>, ''may''<sup>1</sup>, ''say''<sup>1</sup>, ''stay''<sup>1</sup>, etc.; (2) in words of Scandinavian, Romanic, Latin, or other origin, various diphthongs, ''ai'', ''ei'', etc., as in ''ay''<sup>1</sup>, ''nay'', ''ray''<sup>1</sup>, ''ray''<sup>2</sup>, ''stay''<sup>2</sup>, etc. In recent}}",
+   "c3s1": "{{smaller|words it is the ordinary representative of the sound ā when final. See further under ''ai''.}}\n\n¶\n'''ayah''' (ȧy′ä̤), ''n.'' [Anglo-Ind., < Hind., etc., ''āya'', ''āyā'', < Pg. ''aia'' (= Sp. ''aya'' = It. ''aja''), nurse, governess, fem. of ''aio'' (= Sp. ''ayo'' = It. ''ajo''), tutor; of uncertain origin.] In the East Indies, a native waiting-woman or lady’s-maid; a nurse.\n\n'''ayapana''' (ä-yä-pä′nä̤), ''n.'' [Braz.] The native name of ''Eupatorium triplinerve'', a Brazilian plant, natural order ''Compositæ'', at one time believed to be a panacea. It is still considered to have some valuable medicinal properties.\n\n'''ayaya''', ''n.'' See ''aiaia''.\n\n'''aye'''<sup>1</sup> (ā), ''adv.'' See ''ay''<sup>1</sup>.\n\n'''aye'''<sup>2</sup> (ā), ''interj.'' See ''ay''<sup>2</sup>.\n\n'''aye'''<sup>3</sup>, '''ay'''<sup>3</sup> (äi or ī), ''adv.'' or ''interj.'' [Formerly also ''ai'', ''ey'', but at its first appearance, in the Elizabethan period, invariably printed ''I'' (often associated in puns with the pronoun ''I''). Earlier history unknown; possibly orig. a dial. form of ''ay'', ever, always, worn down to a mere particle of assent. Hardly, as commonly supposed, a corruption of ''yea''. The spelling ''aye'' is preferred, as making a distinction like that in ''eye'' from words in ''-ay'', ''-ey'' with the reg. pron. ā, as in ''bay'', ''bey'', ''gray'', ''grey'', etc.] '''1.''' Yes; yea: a word expressing assent, or an affirmative answer to a question: opposed to ''no''. {{smaller|It is common in dialectal and nautical language, and is the regular word used in voting “yes” in Congress, the House of Commons, and other legislative bodies. In Congress the official terms, as in the Constitution, are ''yea'' and ''nay''; but the more}}",
+   "c3s2": "{{smaller block|sonorous ''aye'' and ''no'' are preferred in making response.}}\n'''2.''' Yes; yea; even so; truly: indicating assent to what has been said, and introducing a further or stronger statement.\n{{smaller block|<poem>What! am I not your king?\nIf ''ay'', then am I not to be obey’d?</poem>\n{{right|''Beau. and Fl.'', Philaster, iv. 2.}}\nThe champions, ''ay'', and exemplars too, of classical learning. {{right|''Story'', Speech, Cambridge, Aug. 31, 1826.}}}}\n'''3.''' Indeed: suggesting slight surprise, interrogation, anger, or reproach, or simple attention, according to the mode of pronunciation. {{smaller|—'''Aye, aye,''' ''naut.'': (''a'') The phrase by which comprehension of an order is expressed on board ship. (''b'') An answer to a sentry’s hail or to a call.}}\n\n'''aye<sup>3</sup>, ay<sup>3</sup>''' (äi or ī), ''n.'' [< ''aye'', ''adv.'' or ''interj.''] An affirmative answer or vote in deliberative bodies.{{smaller|—'''The ayes and noes,''' the yeas and nays. (''a'') The affirmative and negative votes. (''b'') Those who so vote. Hence—'''The ayes have it,''' in deliberative bodies, the phrase employed by the presiding officer in declaring that the affirmative votes are in a majority.}}\n{{smaller block|Another was the late Speaker Trevor, who had, from the chair, put the question, whether he was or was not a rogue, and had been forced to pronounce that ''the Ayes had it.''\n{{right|''Macaulay'', Hist. Eng., xxiii.}}}}\n\n'''aye<sup>4</sup>†''', ''n.'' See ''ey''<sup>1</sup>.\n\n'''aye-aye''' (ī′ī), ''n.'' [< F. ''aye-aye'', < Malagasy ''aiay'', also dial. ''ahay'', ''haihay'', prob. of imitative origin (cf. ''ai'' and ''ai-ai''). Reduplication is characteristic of imitative names, particularly in native languages.] A name of a remarkable lemurine",
+   "c3s3": "[[FIGURE]]\n{{c|{{smaller|Aye-aye (''Daubentonia madagascariensis'').}}}}\nquadruped of Madagascar, of the suborder ''Prosimiæ'', family ''Daubentoniidæ'' (or ''Chiromyidæ''), the ''Daubentonia'' (or ''Chiromys'') ''madagascariensis'', which combines a rodent-like dentition with the general characters of the lemurs. {{smaller|It was originally referred to the ''Rodentia'', and was described as a species of ''Sciurus'', or squirrel. It is a small squirrel-like animal (so far as its long bushy tail, general configuration, and arboreal habits may warrant the comparison), with large thin ears opening forward, great eyes looking forward, a very peculiar physiognomy, and an attenuated middle finger, which seems as if withered. The thumb is not apposable, in which respect it is unlike the inner digit of the foot. The animal is nocturnal, arboreal, and peculiar to Madagascar. Its economy is still imperfectly known. The meaningless name ''aye-aye'' was in 1802 or 1803 made a barbarous generic name by Lacépède. The genus is usually called by the name ''Chiromys'', given by Cuvier in 1800, but this is antedated by ''Daubentonia'', applied by Étienne Geoffroy St. Hilaire in 1798. See ''Daubentonia''.}}",
+   "c3s4": "¶\n'''ayein†''', ''adv.'' and ''prep.'' An old form of ''again''.\n\n'''ayel†''', ''n.'' See ''ayle''.\n\n'''ayelp''' (ạ-yelp′), ''prep. phr.'' as ''adv.'' [< ''a''<sup>3</sup> + ''yelp''.] On the yelp; yelping. ''Browning.''\n\n'''ayen†''', ''adv.'' and ''prep.'' An old form of ''again''."
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0430 c1f1.png",
+   "c3f1": "century v01 p0430 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     139,
+     1373,
+     739,
+     1568
+    ],
+    "caption": [
+     311,
+     1577,
+     560,
+     1600
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     87,
+     1376,
+     696,
+     1574
+    ]
+   },
+   {
+    "box": [
+     1630,
+     2141,
+     2232,
+     2479
+    ],
+    "caption": [
+     1691,
+     2527,
+     2163,
+     2553
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1597,
+     2127,
+     2295,
+     2515
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    2
+   ],
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 3,
+    "input_tokens": 5218,
+    "output_tokens": 163,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9620,
+    "output_tokens": 10849,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|axletree|404|ayen}}</noinclude>{{nop}}'''axletree''' (ak′sl-trē), ''n.''   [< ME. ''axel-tree'', ''axiltre'', etc. (= Icel. ''öxul-trē''), < ''axel'' + ''tree''. Cf. ''axtree''.]   '''1.''' A bar or beam fixed crosswise under the body of a carriage, having rounded axles at the ends for a pair of wheels to revolve on.\n{{smaller block|Be hem turnethe alle the firmament, right as dothe a wheel, that turneth be his ''axille tree''.\n{{right|''Maundeville'' (ed. Halliwell), p. 182.}}}}\n'''2†.''' An axis.\n\n'''axle-yoke''' (ak′sl-yōk), ''n.'' A plate beneath an axle through which the ends of the saddle-clip pass. It serves as a washer-plate for the nuts upon the ends of the saddle-clip.\n\n'''axman, axeman''' (aks′man), ''n.''; pl. ''axmen'', ''axemen'' (-men). '''1.''' One who wields an ax; one employed in chopping; a woodman.\n{{smaller block|''Axemen'' were put to work getting out timber for bridges, and cutting fuel for the locomotives when the road was completed.\n{{right|''U. S. Grant'', in The Century, XXXI. 136.}}}}\n'''2.''' Formerly, a soldier whose weapon was an ax.\n{{smaller block|We hear nothing of any prisoners being taken, nothing of any of the ''axemen'' taking to flight.\n{{right|''E. A. Freeman'', Old Eng. Hist., p. 336.}}}}\n\n'''ax-master''' (aks′mȧs″tėr), ''n.'' A name given in Honduras to a tree with very hard wood. Its genus is not known.\n\n'''Axminster carpet.''' See ''carpet''.\n\n'''axoid''' (ak′soid), ''a.''   [< ''axis''<sup>1</sup> + ''-oid''.]   Of or pertaining to the axis: used in anatomical terms, chiefly in composition: as, the ''occipito-axoid'' ligament. See ''axis''<sup>1</sup>, 3.\n\n'''Axolotes''' (ak-sō-lō′tēz), ''n.'' A Latinized form of ''axolotl'', used as a generic name. See ''Siredon''.\n\n'''axolotl''' (ak′sō-lotl), ''n.''   [Mex.]   A urodele or tailed amphibian found in Mexico, which is supposed not to undergo metamorphosis, but\nto retain its gills throughout life, breeding in the larval state. {{smaller|From this circumstance the animal was made the type of a distinct genus, ''Siredon'', and was placed with ''Proteus'', ''Siren'', etc., in the family ''Proteidæ'', under the name of ''Siredon pisciforme.'' Another species has been named ''Siredon lichenoides.'' Later observations, however, have shown that the axolotl, or siredon, is simply a prolonged, sometimes permanent, stage like that which all the species of salamandrines of the family ''Amblystomidæ'' pass through, and that the animal is referable to the genus ''Amblystoma.'' Axolotls are common in lakes and lagoons in Mexico, like the various species of ''Amblystoma'' known in the United States as ''mud-puppies'', ''water-dogs'', etc. They have the appearance of gigantic tadpoles about to turn into frogs, being from 6 to 9 inches long, with a large compressed tail, 4 legs, gill-tufts on each side of the neck, and obtuse flattened head. They are marketable in Mexico, where they are said to be deemed a luxury as an article of food.}}\n\n[[File:century v01 p0430 c1f1.png|center|301px]]\n{{c|{{smaller|Axolotl (''Amblystoma'').}}}}\n\n'''axometer''' (ak-som′e-tėr), ''n.''   [< L. ''axis'' (Gr. ἄξων), axis, + ''metrum'' (Gr. μέτρον), measure.]   An instrument used in adjusting the height of the bridge of a pair of spectacles, to bring the centers of the lenses in line horizontally with the centers of the pupils of the eyes.\n\n'''axon''' (ak′son), ''n.''; pl. ''axones'' (-ēz).   [< Gr. ἄξων, axis: see ''axis''<sup>1</sup>, ''ax''<sup>2</sup>.]   In ''anat.'', the body-axis; the mesal, longitudinal, skeletal axis of the body, represented in ''Branchiostoma'' and embryos by a membranogelatinous notochord, and in most adult vertebrates by the cartilaginous or osseous centra of the vertebræ and the base of the skull.   ''Wilder'', N. Y. Med. Jour., Aug. 2, 1884, p. 113. Also called ''axis.''\n\n'''Axonia''' (ak-sō′ni-ä), ''n. pl.''   [NL., < Gr. ἄξων, axis.]   Organic forms, animal or vegetable, having definite axes: the opposite of ''Anaxonia.''\n{{smaller block|The ''Axonia'' are divided into ''Homaxonia'', having all axes equal, as spherical and polyhedral forms, and ''Protaxonia'', having one main axis about which other axes are arranged. The latter are again subdivided into ''Monaxonia'' and ''Stauraxonia.'' See these words.}}\n\n'''axonometry''' (ak-sō-nom′e-tri), ''n.''   [Irreg. < Gr. ἄξων, axis, + μέτρον, measure.]   The art of making a perspective representation of figures when the coördinates of points in them are given. Also written ''axinometry.''\n\n'''axospermous''' (ak-sọ̄-spėr′mus), ''a.''   [< L. ''axis'', axis, + Gr. σπέρμα, seed.]   In ''bot.'', an epithet descriptive of compound fruits which have an axile placentation, the attachment of the seeds being toward the axis.\n\n'''axotomous''' (ak-sot′ọ̄-mus), ''a.''   [< L. ''axis'' (Gr. ἄξων), axis, + Gr. τομός, < τέμνειν, ταμεῖν, cut.]   In ''mineral.'', cleavable in a direction perpendicular to the axis.\n\n'''axseed†''', ''n.''   [< ''ax''<sup>1</sup> + ''seed.'']   Same as ''axfitch.''\n\n'''ax-shaped''' (aks′shāpt), ''a.'' In ''bot.'', shaped like an ax or a hatchet; dolabriform.\n\n'''ax-stone''' (aks′stōn), ''n.'' A mineral found chiefly in New Zealand and the South Sea islands, and used by the natives for axes and other cutting instruments, whence the name. Also called ''nephrite'' and ''jade''.\n\n'''axtree''' (aks′trē), ''n.''   [Sc., also ''aixtree'', ''extree'', < ME. ''axtre'', ''extre'', ''axtreo'', < AS. *''eaxtreów'', < ''eax'', E. ''ax''<sup>2</sup>, + ''treów'', E. ''tree'', beam. Cf. ''axletree''.]   An axletree. [Obsolete, except in Scotland.]\n{{smaller block|A large pyn in maner of an ''extre''.\n{{right|''Chaucer'', Astrolabe, p. 8.}}}}\n{{smaller block|<poem>Thunder and earthquakes raging, and the rocks\nTumbling from down their scyts like mighty blocks\nRowl’d from huge mountains, such a noise they make,\nAs though in sunder heav’ns huge ''axtree'' brake.</poem>\n{{right|''Drayton'', Poems (ed. Halliwell), p. 219.}}}}\n\n'''axunge''' (ak′sunj), ''n.''   [< F. ''axunge'', now ''axonge'', < L. ''axungia'', grease, fat, wagon-grease, < ''axis'', axle, + ''ungere'', grease: see ''unguent''.]   The internal fat of the body, especially of pigs and geese; fat; lard.\n\n'''axungious''' (ak-sun′ji-us), ''a.''   [< ''axunge'' + ''-ious''.]   Lard-like; fat; greasy.   ''Sir T. Browne.''\n\n'''axvitch†''', '''axwort†''', ''n.'' Same as ''axfitch''.\n\n'''ay<sup>1</sup>''', '''aye<sup>1</sup>''' (ā), ''adv.''   [< ME. ''ay'', ''aye'', ''ai'', ''ei'' (in Ormulum ''aȝȝ''), prop. a northern form (< Icel. ''ei'', ''ey''), the native form being ME. ''oo'', ''o'', earlier ''a'', < AS. ''ā'' (orig. *''āw'', with added adv. formative ''āwa'', ''āwo'') = OS. ''ēo'', ''io'', ''gio'' = OFries. ''ā-'', ''ē-'' (in comp.), = OHG. ''io'', ''ēo'', MHG. ''ie'', ''je'', G. ''je'' = Icel. ''ei'', ''ey'' (as above) = Goth. ''aiw'' = Gr. ἀεί, Ionic αἰεί, poet. or dial. αἰές, αἰέν, ἀές, αἰέ, ἀέ, ἀέν, αἰῇ, ἄι, αἰι, αἰιν, ἄιν, ἠί, orig. αἰϝεί, ever, always, prop. acc. (in Gr. locative) of a noun, AS. ''ǣ'', ''ǣw'' (orig. *''āw''), existence, law, marriage, = OS. ''ēo'', law, = OFries. ''ā'', ''ē'', ''ēwe'', ''ēwa'', law, = OHG. ''ēwa'', MHG. ''ēwe'', ''ē'', eternity, law, marriage, = G. ''ehe'', marriage, = Goth. ''aiws'', an age, a long period, eternity, = L. ''ævum'', OL. ''aevom'' (whence ult. E. ''age'', ''eternal'', q. v.); cf. Gr. αἰών, *αἰϝών (with unorig. formative ν), an age, an eon (see ''eon''); orig. appar. a going, a course, with formative ''-va'', < √ *''i'', Skt. ''i'', Gr. ἰ-έναι = L. ''i-re'', go: see ''iter'' and ''go''. This adv. was much used as a generalizing prefix (somewhat like the related suffix ''ever'' in ''whoever'', ''whatever'', etc.), and, fused with ''ge-'', exists unrecognized in ''each'', ''either''. With the negative it exists in ''nay'' and ''no''<sup>1</sup>, which are related to each other as the simple ''ay'' and (obs.) ''o''. The spelling ''ay'', like ''nay'', is historically and analogically the proper one.]   '''1.''' Ever; always; for ever; continually; for an indefinite time. [Now only poetical and North. E. dial.]\n{{smaller block|Care for the Conscience, & kepe it ''ai'' clene.\n{{right|''The A B C of Aristotle'' (E. E. T. S., extra ser., VIII. i. 65).}}}}\n{{smaller block|<poem>Let this pernicious hour\nStand ''aye'' accursed in the calendar!</poem>\n{{right|''Shak.'', Macbeth, iv. 1.}}}}\n'''2†.''' Ever: indefinitely, after ''if''.\n{{smaller block|<poem>Behold the man! and tell me, Britomart,\n''If ay'' more goodly creature thou didst see?</poem>\n{{right|''Spenser'', F. Q., III. iii. 32.}}}}\n{{smaller block|'''For ay''', for ever: sometimes strengthened by combination—''for ever and ay''.}}\n{{smaller block|The soul, though made in time, survives ''for ay'';\nAnd though it hath beginning, sees no end.\n{{right|''Sir J. Davies'', Immortal. of Soul, xxix.}}}}\n\n'''ay<sup>2</sup>''' (ā), ''interj.''   [Also ''aye'', ''eigh'' (and, in this use, ''eh''), < ME. ''ey'', ''ei''; a mere interj., of no definite history, but it may be regarded, formally, as a variant of ME. ''a'', E. ''ah'', ''oh''. In the poetical ''ay me'', prob. in imitation of OF. ''aymi'', Sp. ''ay de mí'', It. ''ahime''; cf. F. ''ahi'', ''aï'', Sp. ''ay'', It. ''ahi'', ah: see ''ah'', ''O'', ''oh'', and cf. ''eh''.]   Ah! O! oh! an exclamation expressing surprise, interest, regret, etc., according to the manner of utterance. [North. Eng. and Scotch.]—'''Ay me!''' {{smaller|ah me! an expression of regret or sorrow. [Poetical.]}}\n{{smaller block|''Ay me!'' that thankes so much should faile of meed.\n{{right|''Spenser'', Virgil’s Gnat, l. 353.}}}}\n\n'''ay<sup>3</sup>''', ''adv.'' or ''interj.'' See ''aye''<sup>3</sup>.\n\n'''ay<sup>3</sup>''', ''n.'' See ''aye''<sup>3</sup>.\n\n'''ay<sup>4</sup>†''', ''n.'' See ''ey''<sup>1</sup>.\n\n'''Ay<sup>5</sup>''' (ā), ''n.'' A sparkling wine taking its name from the town of Ay in the department of Marne, France. See ''champagne''.\n\n'''ay<sup>6</sup>'''.   [(1) < ME. ''ay'', ''ai'', ''ey'', ''ei'', ''eȝ'', etc., < AS. ''æg'', ''eg'', ''ǣg'', ''ēg'', etc.; (2) of other origin: see under ''ai''.]   A common English digraph (pron. ā), formerly interchangeable in most instances with ''ai'', but now the regular form when final, occurring medially only in certain positions. {{smaller|Historically it represents, (1) in words of Anglo-Saxon origin, ''a'' (''æ'') or ''e'' with an absorbed guttural, as in ''clay'', ''day''<sup>1</sup>, ''lay''<sup>1</sup>, ''may''<sup>1</sup>, ''say''<sup>1</sup>, ''stay''<sup>1</sup>, etc.; (2) in words of Scandinavian, Romanic, Latin, or other origin, various diphthongs, ''ai'', ''ei'', etc., as in ''ay''<sup>1</sup>, ''nay'', ''ray''<sup>1</sup>, ''ray''<sup>2</sup>, ''stay''<sup>2</sup>, etc. In recent words it is the ordinary representative of the sound ā when final. See further under ''ai''.}}\n\n'''ayah''' (ȧy′ä̤), ''n.''   [Anglo-Ind., < Hind., etc., ''āya'', ''āyā'', < Pg. ''aia'' (= Sp. ''aya'' = It. ''aja''), nurse, governess, fem. of ''aio'' (= Sp. ''ayo'' = It. ''ajo''), tutor; of uncertain origin.]   In the East Indies, a native waiting-woman or lady’s-maid; a nurse.\n\n'''ayapana''' (ä-yä-pä′nä̤), ''n.''   [Braz.]   The native name of ''Eupatorium triplinerve'', a Brazilian plant, natural order ''Compositæ'', at one time believed to be a panacea. It is still considered to have some valuable medicinal properties.\n\n'''ayaya''', ''n.'' See ''aiaia''.\n\n'''aye'''<sup>1</sup> (ā), ''adv.'' See ''ay''<sup>1</sup>.\n\n'''aye'''<sup>2</sup> (ā), ''interj.'' See ''ay''<sup>2</sup>.\n\n'''aye'''<sup>3</sup>, '''ay'''<sup>3</sup> (äi or ī), ''adv.'' or ''interj.''   [Formerly also ''ai'', ''ey'', but at its first appearance, in the Elizabethan period, invariably printed ''I'' (often associated in puns with the pronoun ''I''). Earlier history unknown; possibly orig. a dial. form of ''ay'', ever, always, worn down to a mere particle of assent. Hardly, as commonly supposed, a corruption of ''yea''. The spelling ''aye'' is preferred, as making a distinction like that in ''eye'' from words in ''-ay'', ''-ey'' with the reg. pron. ā, as in ''bay'', ''bey'', ''gray'', ''grey'', etc.]   '''1.''' Yes; yea: a word expressing assent, or an affirmative answer to a question: opposed to ''no''. {{smaller|It is common in dialectal and nautical language, and is the regular word used in voting “yes” in Congress, the House of Commons, and other legislative bodies. In Congress the official terms, as in the Constitution, are ''yea'' and ''nay''; but the more sonorous ''aye'' and ''no'' are preferred in making response.}}\n'''2.''' Yes; yea; even so; truly: indicating assent to what has been said, and introducing a further or stronger statement.\n{{smaller block|<poem>What! am I not your king?\nIf ''ay'', then am I not to be obey’d?</poem>\n{{right|''Beau. and Fl.'', Philaster, iv. 2.}}}}\n{{smaller block|The champions, ''ay'', and exemplars too, of classical learning. {{right|''Story'', Speech, Cambridge, Aug. 31, 1826.}}}}\n'''3.''' Indeed: suggesting slight surprise, interrogation, anger, or reproach, or simple attention, according to the mode of pronunciation. {{smaller|—'''Aye, aye,''' ''naut.'': (''a'') The phrase by which comprehension of an order is expressed on board ship. (''b'') An answer to a sentry’s hail or to a call.}}\n\n'''aye<sup>3</sup>, ay<sup>3</sup>''' (äi or ī), ''n.''   [< ''aye'', ''adv.'' or ''interj.'']   An affirmative answer or vote in deliberative bodies.{{smaller|—'''The ayes and noes,''' the yeas and nays. (''a'') The affirmative and negative votes. (''b'') Those who so vote. Hence—'''The ayes have it,''' in deliberative bodies, the phrase employed by the presiding officer in declaring that the affirmative votes are in a majority.}}\n{{smaller block|Another was the late Speaker Trevor, who had, from the chair, put the question, whether he was or was not a rogue, and had been forced to pronounce that ''the Ayes had it.''\n{{right|''Macaulay'', Hist. Eng., xxiii.}}}}\n\n'''aye<sup>4</sup>†''', ''n.'' See ''ey''<sup>1</sup>.\n\n'''aye-aye''' (ī′ī), ''n.''   [< F. ''aye-aye'', < Malagasy ''aiay'', also dial. ''ahay'', ''haihay'', prob. of imitative origin (cf. ''ai'' and ''ai-ai''). Reduplication is characteristic of imitative names, particularly in native languages.]   A name of a remarkable lemurine quadruped of Madagascar, of the suborder ''Prosimiæ'', family ''Daubentoniidæ'' (or ''Chiromyidæ''), the ''Daubentonia'' (or ''Chiromys'') ''madagascariensis'', which combines a rodent-like dentition with the general characters of the lemurs. {{smaller|It was originally referred to the ''Rodentia'', and was described as a species of ''Sciurus'', or squirrel. It is a small squirrel-like animal (so far as its long bushy tail, general configuration, and arboreal habits may warrant the comparison), with large thin ears opening forward, great eyes looking forward, a very peculiar physiognomy, and an attenuated middle finger, which seems as if withered. The thumb is not apposable, in which respect it is unlike the inner digit of the foot. The animal is nocturnal, arboreal, and peculiar to Madagascar. Its economy is still imperfectly known. The meaningless name ''aye-aye'' was in 1802 or 1803 made a barbarous generic name by Lacépède. The genus is usually called by the name ''Chiromys'', given by Cuvier in 1800, but this is antedated by ''Daubentonia'', applied by Étienne Geoffroy St. Hilaire in 1798. See ''Daubentonia''.}}\n\n[[File:century v01 p0430 c3f1.png|center|302px]]\n{{c|{{smaller|Aye-aye (''Daubentonia madagascariensis'').}}}}\n\n'''ayein†''', ''adv.'' and ''prep.'' An old form of ''again''.\n\n'''ayel†''', ''n.'' See ''ayle''.\n\n'''ayelp''' (ạ-yelp′), ''prep. phr.'' as ''adv.''   [< ''a''<sup>3</sup> + ''yelp''.]   On the yelp; yelping.   ''Browning.''\n\n'''ayen†''', ''adv.'' and ''prep.'' An old form of ''again''.<noinclude><references/></noinclude>"
+}

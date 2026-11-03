@@ -1,0 +1,219 @@
+{
+ "volume": 1,
+ "page_number": 308,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n307.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n307.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 743,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     89,
+     123,
+     2305,
+     210
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     89,
+     210,
+     831,
+     1028
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     89,
+     1028,
+     831,
+     2102
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     137,
+     1211,
+     771,
+     1881
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     89,
+     2102,
+     831,
+     3190
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     89,
+     3190,
+     831,
+     3279
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     831,
+     210,
+     1574,
+     1285
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     831,
+     1285,
+     1574,
+     2380
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     831,
+     2380,
+     1574,
+     3279
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1574,
+     210,
+     2305,
+     1304
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1574,
+     1304,
+     2305,
+     2284
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1574,
+     2284,
+     2305,
+     3279
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|apselaphesis|282|Apteryx}}",
+   "c1s1": "a- priv. + ψηλάφησις, feeling, < ψηλαφᾶν, feel, grope, touch, connected with ψῆν, touch, rub.] In ''pathol.'', diminution or loss of tactile sensibility.\n\n'''apsidal''' (ap′si-dạl), ''a.'' [< ''apsis'' (''apsid-'') + ''-al.''] '''1.''' In ''astron.'', pertaining to the apsides. See ''apsis.''—'''2.''' In ''arch.'', of or relating to an apse; of the nature or form of an apse; terminating in an apse.\n{{smaller block|The prothesis and diaconicon [in Armenian churches] are never ''apsidal'' on the outside, and seldom so on the inside.\n{{right|''J. M. Neale'', Eastern Church, i. 174.}}}}\n\n{{smaller|'''Apsidal chapel.''' (''a'') A chapel terminating in an apse. (''b'') An apse-chapel.—'''Apsidal surface,''' in ''math.'', a surface related to any other surface and to any point as Fresnel’s wave-surface is related to the quadric surface and to its center; that is to say, on each plane section of an original surface through a certain fixed point the radii from that point which cut the section orthogonally are taken, and distances equal to these radii are measured off from the fixed point on the perpendicular to the section; then the locus of the extremities of these lines so measured is the apsidal surface.}}\n\n'''apsidally''' (ap′si-dạl-i), ''adv.'' In the form or manner of an apse; with an apse.\n{{smaller block|In this difficulty the architect hit upon the happy expedient of finishing the roof westwards ''apsidally''.\n{{right|''Dean Howson'', Handbook of Chester Cathedral, p. 40.}}}}",
+   "c1s2": "¶\n'''apsides''', ''n.'' Plural of ''apsis''.\n\n'''apsidiole''' (ap-sid′i-ōl), ''n.'' [F., commonly ''absidiole'', < NL. *''apsidiola'', dim. of L. ''apsis'' (''apsid-''), apse.] A small apse; a secondary apse, as one of the apses on either side of the central or\n[[FIGURE]]\n{{c|{{smaller|Apsidioles.—St. Sernin, Toulouse, 12th century.}}}}\nmain apse in a church of triapsidal plan, or one of the apse-chapels when these project on the exterior of the church, particularly if the projection resembles an apse in shape. Also written ''absidiole''.",
+   "c1s3": "¶\n'''apsis''' (ap′sis), ''n.''; pl. ''apsides'' (ap′si-dēz). [L. (pl. ''apsīdes''), also ''absis'' (pl. ''absīdes'') and ''absīda'' (pl. ''absīdæ''), a round arch or vault, the circle which a star describes in its orbit, a bowl, < Gr. ἀψίς (pl. ἀψῖδες), a loop, wheel, orbit, etc., < ἅπτειν, fasten, bind: see ''apt''.] '''1.''' In ''astron.'', a point in the eccentric orbit of a planet in which it is either furthest from or nearest to the body about which it revolves. {{smaller|The ''higher apsis'' is the point furthest from, and the ''lower apsis'' the point nearest to, the central body. The ''line of apsides'' is the line joining the apsides. These terms were originally applied to circular orbits, but are now extended to ellipses. Also ''apse''.}} '''2.''' In ''arch.'', same as ''apse''.—'''3.''' A reliquary or case in which the relics of saints are kept, especially one of a form imitating the curves of a dome or vault.\n\nSometimes written ''absis''.\n\n'''apsychical''' (ap-sī′ki-kạl), ''a.'' [< Gr. ἀ- priv. + ψυχικός, of the mind or soul: see ''a-''<sup>18</sup> and ''psychical''.] '''1.''' Not psychical; not mental or spiritual.—'''2.''' Not involving conscious mental action; not controlled by the mind.\n\n'''apt''' (apt), ''a.'' [< F. ''apte'' = Pr. ''apte'' = Sp. Pg. ''apto'' = It. ''atto'', < L. ''aptus'', fit, fitted, prop. pp. of obs. ''apere'', fasten, join (whence the inceptive ''apisci'', pp. ''aptus'', reach after, try to seize), = Gr. ἅπτειν, fasten, bind.] '''1.''' Possessing the qualities necessary or proper for a certain purpose or end; fit; suited; adapted; suitable.\n{{smaller block|All the men of might, . . . strong and ''apt'' for war.\n{{right|2 Ki. xxiv. 16.}}}}\n{{smaller block|In woode and stone, not the softest, but hardest, be alwaies ''aptest''.\n{{right|''Ascham'', The Scholemaster, p. 35.}}}}",
+   "c1s4": "¶\n{{smaller block|No man that putteth his hand to the plough, and looketh back, is ''apt'' for the kingdom of God.\n{{right|''Latimer'', Sermon of the Plough.}}}}",
+   "c2s1": "{{smaller block|been large and hard; those from which it has slipped, delicate, and ''apt'' for the lyre and the pencil.\n{{right|''Lowell'', Fireside Travels, p. 251.}}}}\n'''2.''' Suited to its purpose; apposite; pertinent; appropriate; becoming: as, an ''apt'' metaphor.\n{{smaller block|<poem>Such ''apt'' and gracious words,\nThat aged ears play truant at his tales,\nAnd younger hearings are quite ravished.</poem>\n{{right|''Shak.'', L. L. L., ii. 1.}}\n<poem>Expert\nIn fitting ''aptest'' words to things.</poem>\n{{right|''Tennyson'', In Memoriam, lxxv.}}\n<poem>Ludicrous yet ''apt'' citations\nOf barbarous law Latin.</poem>\n{{right|''Whittier'', Bridal of Pennacook.}}}}\n'''3.''' Having a tendency; naturally susceptible; liable; likely: as, wheat on moist land is ''apt'' to blast or be winter-killed.\n{{smaller block|It [the harbor] is gay with hundreds of small boats, . . . ''apt'' to be painted green and adorned with pictures.\n{{right|''C. D. Warner'', Roundabout Journey, p. 135.}}}}\n'''4.''' Inclined; predisposed; disposed customarily; prone; ready: as, one who is too ''apt'' to slander others.\n{{smaller block|<poem>’Tis time my hard-mouth’d coursers to control,\n''Apt'' to run riot, and transgress the goal.</poem>\n{{right|''Dryden'', Pythag. Philos., l. 669.}}\nWhat makes you thoughtless in your conduct, and ''apt'' to run into a thousand little imprudences?\n{{right|''Sheridan'', School for Scandal, iv. 3.}}}}\n'''5.''' Ready; prompt; quick; unusually intelligent; expert; facile: as, a pupil ''apt'' to learn; an ''apt'' wit.\n{{smaller block|<poem>Strong, supple, sinew-corded, ''apt'' at arms.</poem>\n{{right|''Tennyson'', Princess, v.}}\nAn ''apt'' taster knows which wine has the novel flavor.\n{{right|''Stedman'', Poets of America, p. 289.}}}}",
+   "c2s2": "¶\n'''6.''' Prepared; ready; willing.\n{{smaller block|<poem>Live a thousand years,\nI shall not find myself so ''apt'' to die.</poem>\n{{right|''Shak.'', J. C., iii. 1.}}\nThe paymaster and the attorney stood at hand ''apt'' with suggestions. {{right|''C. J. Bellamy'', The Breton Mills, xiv.}}}}\n\n'''7†.''' Capable of easy explanation; natural; credible.\n{{smaller block|<poem>That Cassio loves her, I do well believe it;\nThat she loves him, ’tis ''apt'', and of great credit.</poem>\n{{right|''Shak.'', Othello, ii. 1.}}}}\n\n{{smaller block|='''Syn. 1.''' ''Apt, Fit.'' “The words ''apt'' and ''fit'' might be thought to differ only in this, that the former is of Latin derivation; but ''apt'' has an active sense, and ''fit'' a passive sense,—a distinction clearly shown by Shakspere, when the poisoner in the play in Hamlet says, ‘hands ''apt'', drugs ''fit'',’ and by Wordsworth: ‘Our hearts more ''apt'' to sympathize with heaven, our souls more ''fit'' for future glory.’” ''H. Reed'', Eng. Lit., p. 106.—'''2.''' Meet, fitting, germane, appropriate.—'''3''' and '''4.''' ''Apt, Likely, Liable, Subject'', prone. ''Apt'', when used in this sense of persons, indicates physical tendency or inward inclination: as, ''apt'' to catch cold; ''apt'' to neglect work; when used of things, it similarly indicates natural tendency: as, ''apt'' to mold. ''Likely'' may suggest the same idea: as, he is ''likely'' to do it; it is ''likely'' to rust; or it may express mere external probability or chance: as, he is ''likely'' to come at any moment. ''Liable'' in this connection is properly used only of exposure to evil, being practically equivalent to exposed, or exposed to the danger of: as, ''liable'' to accident; ''liable'' to be hurt, that is, exposed to the danger of being hurt; ''liable'' to censure: in such use it does not express probability or tendency, but merely the possibility of exposure or risk. ''Subject'' expresses what is likely to happen to a person or thing, and occasionally does happen. ''Liable'' to disease and ''subject'' to disease thus convey different ideas. The things to which we are ''liable'' are determined more by accident or circumstance; the things to which we are ''subject'' are determined by nature and constitution. ''Apt'' to be suddenly ill; ''liable'', but not ''likely'', to die before the physician arrives; ''subject'' to attacks of epilepsy.}}",
+   "c2s3": "{{smaller block|<poem>How ''apt'' the poor are to be proud!</poem>\n{{right|''Shak.'', T. N., iii. 1.}}}}\n{{smaller block|It is the duty of practical good sense to bear in mind that a certain result, though not certain to happen, is ''likely'' to happen, and that no wise man will put that likelihood out of sight. ''E. A. Freeman'', Amer. Lects., p. 212.}}\n{{smaller block|<poem>Till that hour\nNot ''liable'' to fear, or flight, or pain.</poem>\n{{right|''Milton'', P. L., vi. 397.}}}}\n{{smaller block|<poem>All human things are ''subject'' to decay,\nAnd when fate summons, monarchs must obey.</poem>\n{{right|''Dryden'', Mac Flecknoe, l. 1.}}}}\n{{smaller|'''5.''' Clever, bright, dexterous.}}\n\n'''apt†''' (apt), ''v. t.'' [< L. ''aptare'', fit, adapt, accommodate, adjust, < ''aptus'', fit, etc.: see ''apt'', ''a.''] To prepare for a definite service; fit; suit for anticipated circumstances; adapt.\n{{smaller block|If he be mine, he shall follow and observe what I will ''apt'' him to. {{right|''B. Jonson'', Poetaster, i. 1.}}}}\n{{smaller block|That our speech be ''apted'' to necessary edification.\n{{right|''Jer. Taylor.''}}}}\n{{smaller block|<poem>He takes his top-sail down in such rough storms,\nAnd ''apts'' his sails to airs more temperate.</poem>\n{{right|''Chapman and Shirley'', Chabot, Admiral of France, i.}}}}\n\n'''aptable†''' (ap′tạ-bl), ''a.'' [< LL. ''aptabilis'', < L. ''aptare'', adapt: see ''apt'', ''v.'', and ''-able''.] Capable of being fitted or adapted. ''Sherwood.''\n\n'''aptate†''' (ap′tāt), ''v. t.'' [< L. ''aptatus'', pp. of ''aptare'', adapt: see ''apt'', ''v.''] To make fit.\n\n'''Aptenodytes''' (ap″te-nọ̄-dī′tēz), ''n.'' [NL., < Gr. ἀπτήν, wingless (< ἀ- priv. + πτηνός, winged, <",
+   "c3s1": "dive, sink.] A genus of penguins, formerly coextensive with the family ''Spheniscidæ'', and giving name to a family ''Aptenodytidæ'', but now usually restricted to two large species, the emperor and king penguins, ''A. imperator'' and ''A. rex'', or ''A. forsteri'' and ''A. pennanti'', distinguished from all others by their great size and long, slender, somewhat curved bill. Both were formerly called the great or Patagonia penguin, ''A. patachonica''. Also ''Aptenodyta'' and ''Apterodyta''.\n\n'''Aptenodytidæ''' (ap″te-nō-dit′i-dē), ''n. pl.'' [NL., < ''Aptenodytes'' + ''-idæ''.] A family of birds, the penguins, named from the genus ''Aptenodytes'': synonymous with ''Spheniscidæ'' (which see).\n\n'''Aptera''' (ap′te̤-rä), ''n. pl.'' [NL. (< Gr. ἄπτερα, animals without wings, ἄπτερον, the class of such animals — Aristotle), neut. pl. of ''apterus'', < Gr. ἄπτερος, wingless: see ''apterous''.] In ''zoöl.'', a group to which various limits have been assigned. {{smaller|(''a'') In the Linnean system of classification, the seventh and last order of ''Insecta'', including “insects” without wings, that is, crustaceans, arachnidans, myriapods, etc. In 1795 it was divided by Latreille into seven orders: ''Suctoria'', ''Thysanura'', ''Parasita'', ''Acephala'', ''Entomostraca'', ''Crustacea'', and ''Myriapoda''. (''b'') In Latreille’s system of classification (1817), the fourth of nine orders of ''Insecta'', including “wingless forms without gnathites,” and containing only the fleas; the ''Suctoria'' of De Geer, the ''Siphonaptera'' of Latreille, the ''Aphaniptera'' of Kirby and modern writers. Used in this sense also by Macleay and others. (''c'') Loosely applied to sundry groups of wingless insects besides fleas, as to the haustellate and mandibulate lice, the thysanurous insects, etc. (''d'') In Gegenbaur’s system of classification, one of the two prime divisions of ''Hexapoda'' or ''Insecta'' (the other being ''Pterygota''), consisting of the two orders ''Collembola'' and ''Thysanura'', containing all apterous ametabolous insects of such forms as ''Podura'' and}}",
+   "c3s2": "{{smaller|''Lipura'', ''Campodea'' and ''Lepisma'', etc. The name is practically synonymous with ''Ametabola'' (which see).}}\n\n¶\n'''apteral''' (ap′te̤-ral), ''a.'' [As ''apterous'' + ''-al.''] '''1.''' Destitute of wings.—'''2.''' In ''arch.'', applied to a temple or other building which has no columns on the flanks, but may have a portico at one or at each end: opposed to ''peripteral'', surrounded by columns. See ''prostyle'' and ''amphiprostyle.''\n\n'''apteran''' (ap′te̤-ran), ''n.'' [As ''apterous'' + ''-an.''] A wingless insect; one of the ''Aptera''.\n\n'''apteria''', ''n.'' Plural of ''apterium''.\n\n'''apterial''' (ap-tē′ri-al), ''a.'' [< ''apterium'' + ''-al.''] In ''ornith.'', pertaining to an apterium, or to apteria.\n\n'''apterium''' (ap-tē′ri-um), ''n.''; pl. ''apteria'' (-ä̤). [NL., < Gr. ἄπτερος, without feathers: see ''apterous.''] In ''ornith.'', a tract or space on the skin of a bird where no feathers grow; an unfeathered tract, in distinction from a feather-tract or pteryla (which see). ''Nitzsch; Sundevall.''\n\n'''apterous''' (ap′te̤-rus), ''a.'' [< NL. ''apterus'', < Gr. ἄπτερος, wingless, without feathers, < ἀ- priv. + πτερόν, a wing, feather, = E. ''feather.''] '''1.''' In ''zoöl.'': (''a'') Wingless; having no wings: applied both to wingless insects belonging to winged groups, and to the wingless stage of winged insects. (''b'') Specifically, of or pertaining to the ''Aptera.''—'''2.''' In ''bot.'', destitute of membranous expansions, as a stem or petiole: opposed to ''alate''.",
+   "c3s3": "¶\n'''Apteryges''' (ap-ter′i-jēz), ''n. pl.'' [NL., pl. of ''Apteryx.''] A superfamily group, made by Newton an order, of ratite birds, based upon and including only the family ''Apterygidæ'' (which see).\n\n'''Apterygia''' (ap-te-rij′i-ä), ''n. pl.'' [NL., < Gr. ἀ- priv. + πτερύγιον, a wing, fin: see ''Pterygia.''] A group of mollusks, containing all gastropods with an intromittent male organ, and contrasting with the ''Pterygia'', composed of the cephalopods and pteropods. ''Latreille'', 1825.\n\n'''apterygian''' (ap-te-rij′i-a̤n), ''a.'' [< Gr. ἀπτέρυγος, wingless (see ''Apteryx''), + ''-ian.''] '''1.''' Wingless; apterous.—'''2.''' Pertaining to the genus ''Apteryx'', or to the family ''Apterygidæ.''\n\n'''Apterygidæ''' (ap-te-rij′i-dē), ''n. pl.'' [NL., < ''Apteryx'' (''Apteryg-'') + ''-idæ.''] A family of ratite or struthious birds, of the subclass ''Ratitæ'' and suborder or superfamily ''Apteryges'', constituted by the single genus ''Apteryx.'' {{smaller|It is characterized by the rudimentary condition of the wings and tail, 4-toed feet, very long slender bill with terminal nostrils, and many anatomical peculiarities, among them a better development of the diaphragm than in any other bird.}}\n\n'''Apteryginæ''' (ap″te-ri-jī′nē), ''n. pl.'' [NL., < ''Apteryx'' (''Apteryg-'') + ''-inæ.''] The only subfamily of the family ''Apterygidæ.'' ''G. R. Gray'', 1840.\n\n'''Apteryx''' (ap′te-riks), ''n.'' [NL. (cf. Gr. ἀπτέρυγος, wingless), < Gr. ἀ- priv. + πτέρυξ (πτερυγ-), a wing, < πτερόν, a wing, = E. ''feather.''] '''1.''' A genus of ratite birds, constituting the family ''Apterygidæ.'' {{smaller|There are several species or varieties, all inhabiting New Zealand, of which ''A. australis'' has been}}"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0308 c1f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     149,
+     1223,
+     759,
+     1869
+    ],
+    "caption": [
+     208,
+     1901,
+     702,
+     1925
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     141,
+     1187,
+     826,
+     1885
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4366,
+    "output_tokens": 90,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9645,
+    "output_tokens": 9808,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|apselaphesis|282|Apteryx}}</noinclude>a- priv. + ψηλάφησις, feeling, < ψηλαφᾶν, feel, grope, touch, connected with ψῆν, touch, rub.] In ''pathol.'', diminution or loss of tactile sensibility.\n\n'''apsidal''' (ap′si-dạl), ''a.''   [< ''apsis'' (''apsid-'') + ''-al.'']   '''1.''' In ''astron.'', pertaining to the apsides. See ''apsis.''—'''2.''' In ''arch.'', of or relating to an apse; of the nature or form of an apse; terminating in an apse.\n{{smaller block|The prothesis and diaconicon [in Armenian churches] are never ''apsidal'' on the outside, and seldom so on the inside.\n{{right|''J. M. Neale'', Eastern Church, i. 174.}}}}\n\n{{smaller|'''Apsidal chapel.''' (''a'') A chapel terminating in an apse. (''b'') An apse-chapel.—'''Apsidal surface,''' in ''math.'', a surface related to any other surface and to any point as Fresnel’s wave-surface is related to the quadric surface and to its center; that is to say, on each plane section of an original surface through a certain fixed point the radii from that point which cut the section orthogonally are taken, and distances equal to these radii are measured off from the fixed point on the perpendicular to the section; then the locus of the extremities of these lines so measured is the apsidal surface.}}\n\n'''apsidally''' (ap′si-dạl-i), ''adv.'' In the form or manner of an apse; with an apse.\n{{smaller block|In this difficulty the architect hit upon the happy expedient of finishing the roof westwards ''apsidally''.\n{{right|''Dean Howson'', Handbook of Chester Cathedral, p. 40.}}}}\n\n'''apsides''', ''n.'' Plural of ''apsis''.\n\n'''apsidiole''' (ap-sid′i-ōl), ''n.''   [F., commonly ''absidiole'', < NL. *''apsidiola'', dim. of L. ''apsis'' (''apsid-''), apse.]   A small apse; a secondary apse, as one of the apses on either side of the central or\nmain apse in a church of triapsidal plan, or one of the apse-chapels when these project on the exterior of the church, particularly if the projection resembles an apse in shape. Also written ''absidiole''.\n\n[[File:century v01 p0308 c1f1.png|center|307px]]\n{{c|{{smaller|Apsidioles.—St. Sernin, Toulouse, 12th century.}}}}\n\n'''apsis''' (ap′sis), ''n.''; pl. ''apsides'' (ap′si-dēz).   [L. (pl. ''apsīdes''), also ''absis'' (pl. ''absīdes'') and ''absīda'' (pl. ''absīdæ''), a round arch or vault, the circle which a star describes in its orbit, a bowl, < Gr. ἀψίς (pl. ἀψῖδες), a loop, wheel, orbit, etc., < ἅπτειν, fasten, bind: see ''apt''.]   '''1.''' In ''astron.'', a point in the eccentric orbit of a planet in which it is either furthest from or nearest to the body about which it revolves. {{smaller|The ''higher apsis'' is the point furthest from, and the ''lower apsis'' the point nearest to, the central body. The ''line of apsides'' is the line joining the apsides. These terms were originally applied to circular orbits, but are now extended to ellipses. Also ''apse''.}} '''2.''' In ''arch.'', same as ''apse''.—'''3.''' A reliquary or case in which the relics of saints are kept, especially one of a form imitating the curves of a dome or vault.\n\nSometimes written ''absis''.\n\n'''apsychical''' (ap-sī′ki-kạl), ''a.''   [< Gr. ἀ- priv. + ψυχικός, of the mind or soul: see ''a-''<sup>18</sup> and ''psychical''.]   '''1.''' Not psychical; not mental or spiritual.—'''2.''' Not involving conscious mental action; not controlled by the mind.\n\n'''apt''' (apt), ''a.''   [< F. ''apte'' = Pr. ''apte'' = Sp. Pg. ''apto'' = It. ''atto'', < L. ''aptus'', fit, fitted, prop. pp. of obs. ''apere'', fasten, join (whence the inceptive ''apisci'', pp. ''aptus'', reach after, try to seize), = Gr. ἅπτειν, fasten, bind.]   '''1.''' Possessing the qualities necessary or proper for a certain purpose or end; fit; suited; adapted; suitable.\n{{smaller block|All the men of might, . . . strong and ''apt'' for war.\n{{right|2 Ki. xxiv. 16.}}}}\n{{smaller block|In woode and stone, not the softest, but hardest, be alwaies ''aptest''.\n{{right|''Ascham'', The Scholemaster, p. 35.}}}}\n\n{{smaller block|No man that putteth his hand to the plough, and looketh back, is ''apt'' for the kingdom of God.\n{{right|''Latimer'', Sermon of the Plough.}}}}\n{{smaller block|been large and hard; those from which it has slipped, delicate, and ''apt'' for the lyre and the pencil.\n{{right|''Lowell'', Fireside Travels, p. 251.}}}}\n'''2.''' Suited to its purpose; apposite; pertinent; appropriate; becoming: as, an ''apt'' metaphor.\n{{smaller block|<poem>Such ''apt'' and gracious words,\nThat aged ears play truant at his tales,\nAnd younger hearings are quite ravished.</poem>\n{{right|''Shak.'', L. L. L., ii. 1.}}}}\n{{smaller block|<poem>Expert\nIn fitting ''aptest'' words to things.</poem>\n{{right|''Tennyson'', In Memoriam, lxxv.}}}}\n{{smaller block|<poem>Ludicrous yet ''apt'' citations\nOf barbarous law Latin.</poem>\n{{right|''Whittier'', Bridal of Pennacook.}}}}\n'''3.''' Having a tendency; naturally susceptible; liable; likely: as, wheat on moist land is ''apt'' to blast or be winter-killed.\n{{smaller block|It [the harbor] is gay with hundreds of small boats, . . . ''apt'' to be painted green and adorned with pictures.\n{{right|''C. D. Warner'', Roundabout Journey, p. 135.}}}}\n'''4.''' Inclined; predisposed; disposed customarily; prone; ready: as, one who is too ''apt'' to slander others.\n{{smaller block|<poem>’Tis time my hard-mouth’d coursers to control,\n''Apt'' to run riot, and transgress the goal.</poem>\n{{right|''Dryden'', Pythag. Philos., l. 669.}}}}\n{{smaller block|What makes you thoughtless in your conduct, and ''apt'' to run into a thousand little imprudences?\n{{right|''Sheridan'', School for Scandal, iv. 3.}}}}\n'''5.''' Ready; prompt; quick; unusually intelligent; expert; facile: as, a pupil ''apt'' to learn; an ''apt'' wit.\n{{smaller block|<poem>Strong, supple, sinew-corded, ''apt'' at arms.</poem>\n{{right|''Tennyson'', Princess, v.}}}}\n{{smaller block|An ''apt'' taster knows which wine has the novel flavor.\n{{right|''Stedman'', Poets of America, p. 289.}}}}\n\n'''6.''' Prepared; ready; willing.\n{{smaller block|<poem>Live a thousand years,\nI shall not find myself so ''apt'' to die.</poem>\n{{right|''Shak.'', J. C., iii. 1.}}}}\n{{smaller block|The paymaster and the attorney stood at hand ''apt'' with suggestions. {{right|''C. J. Bellamy'', The Breton Mills, xiv.}}}}\n\n'''7†.''' Capable of easy explanation; natural; credible.\n{{smaller block|<poem>That Cassio loves her, I do well believe it;\nThat she loves him, ’tis ''apt'', and of great credit.</poem>\n{{right|''Shak.'', Othello, ii. 1.}}}}\n\n{{smaller block|='''Syn. 1.''' ''Apt, Fit.'' “The words ''apt'' and ''fit'' might be thought to differ only in this, that the former is of Latin derivation; but ''apt'' has an active sense, and ''fit'' a passive sense,—a distinction clearly shown by Shakspere, when the poisoner in the play in Hamlet says, ‘hands ''apt'', drugs ''fit'',’ and by Wordsworth: ‘Our hearts more ''apt'' to sympathize with heaven, our souls more ''fit'' for future glory.’” ''H. Reed'', Eng. Lit., p. 106.—'''2.''' Meet, fitting, germane, appropriate.—'''3''' and '''4.''' ''Apt, Likely, Liable, Subject'', prone. ''Apt'', when used in this sense of persons, indicates physical tendency or inward inclination: as, ''apt'' to catch cold; ''apt'' to neglect work; when used of things, it similarly indicates natural tendency: as, ''apt'' to mold. ''Likely'' may suggest the same idea: as, he is ''likely'' to do it; it is ''likely'' to rust; or it may express mere external probability or chance: as, he is ''likely'' to come at any moment. ''Liable'' in this connection is properly used only of exposure to evil, being practically equivalent to exposed, or exposed to the danger of: as, ''liable'' to accident; ''liable'' to be hurt, that is, exposed to the danger of being hurt; ''liable'' to censure: in such use it does not express probability or tendency, but merely the possibility of exposure or risk. ''Subject'' expresses what is likely to happen to a person or thing, and occasionally does happen. ''Liable'' to disease and ''subject'' to disease thus convey different ideas. The things to which we are ''liable'' are determined more by accident or circumstance; the things to which we are ''subject'' are determined by nature and constitution. ''Apt'' to be suddenly ill; ''liable'', but not ''likely'', to die before the physician arrives; ''subject'' to attacks of epilepsy. <poem>How ''apt'' the poor are to be proud!</poem>\n{{right|''Shak.'', T. N., iii. 1.}}}}\n{{smaller block|It is the duty of practical good sense to bear in mind that a certain result, though not certain to happen, is ''likely'' to happen, and that no wise man will put that likelihood out of sight.\n{{right|''E. A. Freeman'', Amer. Lects., p. 212.}}}}\n{{smaller block|<poem>Till that hour\nNot ''liable'' to fear, or flight, or pain.</poem>\n{{right|''Milton'', P. L., vi. 397.}}}}\n{{smaller block|<poem>All human things are ''subject'' to decay,\nAnd when fate summons, monarchs must obey.</poem>\n{{right|''Dryden'', Mac Flecknoe, l. 1.}}}}\n{{smaller|'''5.''' Clever, bright, dexterous.}}\n\n'''apt†''' (apt), ''v. t.''   [< L. ''aptare'', fit, adapt, accommodate, adjust, < ''aptus'', fit, etc.: see ''apt'', ''a.'']   To prepare for a definite service; fit; suit for anticipated circumstances; adapt.\n{{smaller block|If he be mine, he shall follow and observe what I will ''apt'' him to. {{right|''B. Jonson'', Poetaster, i. 1.}}}}\n{{smaller block|That our speech be ''apted'' to necessary edification.\n{{right|''Jer. Taylor.''}}}}\n{{smaller block|<poem>He takes his top-sail down in such rough storms,\nAnd ''apts'' his sails to airs more temperate.</poem>\n{{right|''Chapman and Shirley'', Chabot, Admiral of France, i.}}}}\n\n'''aptable†''' (ap′tạ-bl), ''a.''   [< LL. ''aptabilis'', < L. ''aptare'', adapt: see ''apt'', ''v.'', and ''-able''.]   Capable of being fitted or adapted.   ''Sherwood.''\n\n'''aptate†''' (ap′tāt), ''v. t.''   [< L. ''aptatus'', pp. of ''aptare'', adapt: see ''apt'', ''v.'']   To make fit.\n\n'''Aptenodytes''' (ap″te-nọ̄-dī′tēz), ''n.''   [NL., < Gr. ἀπτήν, wingless (< ἀ- priv. + πτηνός, winged, < dive, sink.]   A genus of penguins, formerly coextensive with the family ''Spheniscidæ'', and giving name to a family ''Aptenodytidæ'', but now usually restricted to two large species, the emperor and king penguins, ''A. imperator'' and ''A. rex'', or ''A. forsteri'' and ''A. pennanti'', distinguished from all others by their great size and long, slender, somewhat curved bill. Both were formerly called the great or Patagonia penguin, ''A. patachonica''. Also ''Aptenodyta'' and ''Apterodyta''.\n\n'''Aptenodytidæ''' (ap″te-nō-dit′i-dē), ''n. pl.''   [NL., < ''Aptenodytes'' + ''-idæ''.]   A family of birds, the penguins, named from the genus ''Aptenodytes'': synonymous with ''Spheniscidæ'' (which see).\n\n'''Aptera''' (ap′te̤-rä), ''n. pl.''   [NL. (< Gr. ἄπτερα, animals without wings, ἄπτερον, the class of such animals — Aristotle), neut. pl. of ''apterus'', < Gr. ἄπτερος, wingless: see ''apterous''.]   In ''zoöl.'', a group to which various limits have been assigned. {{smaller|(''a'') In the Linnean system of classification, the seventh and last order of ''Insecta'', including “insects” without wings, that is, crustaceans, arachnidans, myriapods, etc. In 1795 it was divided by Latreille into seven orders: ''Suctoria'', ''Thysanura'', ''Parasita'', ''Acephala'', ''Entomostraca'', ''Crustacea'', and ''Myriapoda''. (''b'') In Latreille’s system of classification (1817), the fourth of nine orders of ''Insecta'', including “wingless forms without gnathites,” and containing only the fleas; the ''Suctoria'' of De Geer, the ''Siphonaptera'' of Latreille, the ''Aphaniptera'' of Kirby and modern writers. Used in this sense also by Macleay and others. (''c'') Loosely applied to sundry groups of wingless insects besides fleas, as to the haustellate and mandibulate lice, the thysanurous insects, etc. (''d'') In Gegenbaur’s system of classification, one of the two prime divisions of ''Hexapoda'' or ''Insecta'' (the other being ''Pterygota''), consisting of the two orders ''Collembola'' and ''Thysanura'', containing all apterous ametabolous insects of such forms as ''Podura'' and ''Lipura'', ''Campodea'' and ''Lepisma'', etc. The name is practically synonymous with ''Ametabola'' (which see).}}\n\n'''apteral''' (ap′te̤-ral), ''a.''   [As ''apterous'' + ''-al.'']   '''1.''' Destitute of wings.—'''2.''' In ''arch.'', applied to a temple or other building which has no columns on the flanks, but may have a portico at one or at each end: opposed to ''peripteral'', surrounded by columns. See ''prostyle'' and ''amphiprostyle.''\n\n'''apteran''' (ap′te̤-ran), ''n.''   [As ''apterous'' + ''-an.'']   A wingless insect; one of the ''Aptera''.\n\n'''apteria''', ''n.'' Plural of ''apterium''.\n\n'''apterial''' (ap-tē′ri-al), ''a.''   [< ''apterium'' + ''-al.'']   In ''ornith.'', pertaining to an apterium, or to apteria.\n\n'''apterium''' (ap-tē′ri-um), ''n.''; pl. ''apteria'' (-ä̤).   [NL., < Gr. ἄπτερος, without feathers: see ''apterous.'']   In ''ornith.'', a tract or space on the skin of a bird where no feathers grow; an unfeathered tract, in distinction from a feather-tract or pteryla (which see).   ''Nitzsch; Sundevall.''\n\n'''apterous''' (ap′te̤-rus), ''a.''   [< NL. ''apterus'', < Gr. ἄπτερος, wingless, without feathers, < ἀ- priv. + πτερόν, a wing, feather, = E. ''feather.'']   '''1.''' In ''zoöl.'': (''a'') Wingless; having no wings: applied both to wingless insects belonging to winged groups, and to the wingless stage of winged insects. (''b'') Specifically, of or pertaining to the ''Aptera.''—'''2.''' In ''bot.'', destitute of membranous expansions, as a stem or petiole: opposed to ''alate''.\n\n'''Apteryges''' (ap-ter′i-jēz), ''n. pl.''   [NL., pl. of ''Apteryx.'']   A superfamily group, made by Newton an order, of ratite birds, based upon and including only the family ''Apterygidæ'' (which see).\n\n'''Apterygia''' (ap-te-rij′i-ä), ''n. pl.''   [NL., < Gr. ἀ- priv. + πτερύγιον, a wing, fin: see ''Pterygia.'']   A group of mollusks, containing all gastropods with an intromittent male organ, and contrasting with the ''Pterygia'', composed of the cephalopods and pteropods.   ''Latreille'', 1825.\n\n'''apterygian''' (ap-te-rij′i-a̤n), ''a.''   [< Gr. ἀπτέρυγος, wingless (see ''Apteryx''), + ''-ian.'']   '''1.''' Wingless; apterous.—'''2.''' Pertaining to the genus ''Apteryx'', or to the family ''Apterygidæ.''\n\n'''Apterygidæ''' (ap-te-rij′i-dē), ''n. pl.''   [NL., < ''Apteryx'' (''Apteryg-'') + ''-idæ.'']   A family of ratite or struthious birds, of the subclass ''Ratitæ'' and suborder or superfamily ''Apteryges'', constituted by the single genus ''Apteryx.'' {{smaller|It is characterized by the rudimentary condition of the wings and tail, 4-toed feet, very long slender bill with terminal nostrils, and many anatomical peculiarities, among them a better development of the diaphragm than in any other bird.}}\n\n'''Apteryginæ''' (ap″te-ri-jī′nē), ''n. pl.''   [NL., < ''Apteryx'' (''Apteryg-'') + ''-inæ.'']   The only subfamily of the family ''Apterygidæ.''   ''G. R. Gray'', 1840.\n\n'''Apteryx''' (ap′te-riks), ''n.''   [NL. (cf. Gr. ἀπτέρυγος, wingless), < Gr. ἀ- priv. + πτέρυξ (πτερυγ-), a wing, < πτερόν, a wing, = E. ''feather.'']   '''1.''' A genus of ratite birds, constituting the family ''Apterygidæ.'' {{smaller|There are several species or varieties, all inhabiting New Zealand, of which ''A. australis'' has been}}<noinclude><references/></noinclude>"
+}

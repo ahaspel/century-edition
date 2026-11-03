@@ -1,0 +1,202 @@
+{
+ "volume": 1,
+ "page_number": 302,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n301.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n301.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 743,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     98,
+     132,
+     2317,
+     171
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     98,
+     171,
+     835,
+     1200
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     98,
+     1200,
+     835,
+     2016
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     98,
+     2016,
+     835,
+     3096
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     98,
+     3096,
+     835,
+     3297
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     835,
+     171,
+     1583,
+     1154
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     835,
+     1154,
+     1583,
+     2016
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     835,
+     2016,
+     1583,
+     3067
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     835,
+     3067,
+     1583,
+     3297
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1583,
+     171,
+     2317,
+     955
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1583,
+     955,
+     2317,
+     2051
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1583,
+     2051,
+     2317,
+     3108
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1583,
+     3108,
+     2317,
+     3297
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|apportionate|276|appreciate}}",
+   "c1s1": "¶\n'''apportionate†''' (a̤-pōr′shọn-āt), ''v. t.'' [< ML. ''apportionatus'', pp. of ''apportionare'': see ''apportion''.] To apportion.\n\n'''apportionateness†''' (a̤-pōr′shọn-āt-nes), ''n.'' [< ''apportionate'', ''a.'', + ''-ness''.] The state or quality of being adapted; just proportion.\n{{smaller block|The ''apportionateness'' of it to the end for which it was designed.\n{{right|''Hammond'', Pref. to View of New Directory.}}}}\n\n'''apportioner''' (a̤-pōr′shọn-ėr), ''n.'' One who apportions.\n\n'''apportionment''' (a̤-pōr′shọn-ment), ''n.'' [< ''apportion'' + ''-ment''; after F. ''apportionnement'', ML. ''apportionamentum''.] '''1.''' The act of apportioning; a dividing into portions or shares; a dividing and assigning of a just and equitable portion to each person interested or entitled to participate in any claim, right, property, or charge.—'''2.''' In the United States: (''a'') The distribution of representation in the federal House of Representatives, and in the houses of the different State legislatures. {{smaller|In the former case a fresh apportionment is made by Congress every ten years, shortly after the completion of the decennial census returns, and in the latter generally after stated enumerations made at different dates in different States, or after the federal census. In the federal apportionment, Congress determines the proportion of representatives to population (one to 173,901 of the total population of the United States under the census of 1890, or 356 in all), and the State legislatures fix the boundaries of the elective districts accordingly. [The principle of legislative apportionment according to population has been more recently adopted in the other American and most European states, though in some it is not yet very strictly applied.]}} (''b'') The allotment of",
+   "c1s2": "direct taxes on the basis of population: a Congressional power rarely exercised.\n\n'''apposable''' (a-pō′zạ-bl), ''a.'' [< ''appose''<sup>1</sup> + ''-able.''] Capable of being apposed or brought together.\n\n'''appose<sup>1</sup>''' (a-pōz′), ''v. t.''; pret. and pp. ''apposed'', ppr. ''apposing''. [< F. ''apposer'', to lay, put, or add to, destinate, appoint, repr. L. ''apponere'', ''adponere'', pp. ''appositus'', ''adpositus'' (cf. ''apposite''), put or lay at, near, or by, apply to, add, < ''ad'', to, + ''ponere'', pp. ''positus'', put, place, confused in ML. and Rom. with ''pausare'', F. ''poser'', etc.: see ''pose''<sup>2</sup>, and cf. ''compose'', ''depose'', ''expose'', ''impose'', ''propose'', ''repose''.] '''1.''' To put or apply (one thing) to or near to (another).\n{{smaller block|<poem>Atrides . . . food sufficient\n''Appos’d'' before them, and the peers ''appos’d'' their hands to it.</poem>\n{{right|''Chapman'', Iliad, ix. 45.}}\n<poem>His power having wrought\nThe king already to ''appose'' his hand.</poem>\n{{right|''Chapman and Shirley'', Chabot, Admiral of France, i.}}}}\n'''2.''' To bring near or next, as one thing to another; put side by side; arrange in juxtaposition.\n{{smaller block|<poem>See you how the people stand in heaps,\nEach man sad looking on his ''appos’d'' object?</poem>\n{{right|''Dekker and Webster'' (?), Sir Thomas Wyat, p. 37.}}}}",
+   "c1s3": "¶\n'''appose<sup>2</sup>†''' (a-pōz′), ''v. t.'' [< ME. ''apposen'', ''aposen'', OF. ''aposer'', ''apposer'', with unaccented prefix ''a-'' for ''o-'', prop. ME. ''oposen'', ''opposen'', < OF. ''opposer''; ME. also by apheresis ''posen'', mod. E. ''pose''<sup>3</sup>: see ''oppose'' and ''pose''<sup>3</sup>, which are now discriminated. ''Appose''<sup>2</sup>, though orig. a mere variation of ''oppose'', seems to have been regarded as depending on L. ''apponere'', E. ''appose''<sup>1</sup>, in ref. to ‘putting’ questions ‘to’ one: see ''appose''<sup>1</sup>.] '''1.''' To oppose in discussion; bring objections or difficulties before one to be answered; examine; question; pose; puzzle.\n{{smaller block|The prest and Perkyn ''apposed'' eyther other,<br>And I thorw here wordes awoke, and waited aboute.\n{{right|''Piers Plowman'' (B), vii. 138.}}}}\n{{smaller block|Tho the people hym ''apposed'' with a peny in the temple,<br>Whether thei shulde therwith worschip the kyng Sesar.\n{{right|''Piers Plowman'' (B), i. 47.}}}}\n{{smaller block|Christ was found sitting in the temple, not to gaze on the outward glory of the house, . . . but to hear and ''appose'' the doctors.\n{{right|''Bp. Hall'', Contemplations.}}}}\nSpecifically—'''2.''' To examine (a sheriff) with reference to (his) accounts. See ''apposer''.\n\n'''apposer†''' (a-pō′zėr), ''n.'' [< ''appose''<sup>2</sup> + ''-er''<sup>1</sup>.] An examiner; one whose duty it is to put questions; specifically, in England, a former officer of the Court of Exchequer who examined the sheriff’s accounts. The office was abolished in 1833.\n\n'''apposite''' (ap′ọ̄-zit), ''a.'' [< L. ''appositus'', ''adpositus'', placed near to, fit, suitable, pp. of ''apponere'', ''adponere'', put or lay at, near, or by, put to, annex, add, < ''ad'', to, + ''ponere'', place: see ''appose''<sup>1</sup> and ''position''.] '''1.''' Placed near to;",
+   "c1s4": "specifically, in ''bot.'', lying side by side, in contact, or partly united. Hence—'''2.''' Suitable; fit; appropriate; applicable; well adapted: followed by ''to'': as, this argument is very ''apposite to'' the case; “ready and ''apposite'' answers,” ''Bacon'', Hen. VII., p. 120.",
+   "c2s1": "¶\n{{smaller block|The common church office was us’d for the King without naming the person, with some other, ''apposite to'' the necessity and circumstances of the time.\n{{right|''Evelyn'', Diary, June, Whitsunday, 1693.}}}}\n{{smaller block|What influence, I say, would these prayers have, were they delivered with a due emphasis, and ''apposite'' rising and variation of voice? {{right|''Steele'', Spectator, No. 147.}}}}\n'''3†.''' Apt; ready in speech or answer: said of persons.\n\n'''appositely''' (ap′ọ̄-zit-li), ''adv.'' In an apposite manner; suitably; fitly; appropriately; pertinently.\n\n'''appositeness''' (ap′ọ̄-zit-nes), ''n.'' The state or quality of being apposite; fitness; propriety; suitableness.\n{{smaller block|A knowledge of the primitive sense of a word very often enables us to discover a force and fitness in its modern applications which we had never suspected before, and accordingly to employ it with greater propriety and ''appositeness.'' {{right|''G. P. Marsh'', Lectures on Eng. Lang., p. 106.}}}}\n\n'''apposition''' (ap-ọ̄-zish′ọn), ''n.'' [=F. ''apposition'' = Pr. ''appozicio'' = Sp. ''aposicion'' = Pg. ''apposição'' = It. ''apposizione'', < LL. ''appositio''(''n''-), ''adpositio''(''n''-), a placing by or near, setting before, application, < L. ''apponere'', pp. ''appositus'': see ''appose''<sup>1</sup>, ''apposite.''] '''1.''' The act of adding to or together; a setting to; application; a placing together; juxtaposition.\n{{smaller block|The ''apposition'' of new matter.\n{{right|''Arbuthnot'', Choice of Aliments.}}}}\n{{smaller block|Placing in ''apposition'' the two ends of a divided nerve does not re-establish nervous communication.\n{{right|''H. Spencer'', Prin. of Psychol., § 25.}}}}",
+   "c2s2": "¶\n'''2.''' In ''gram.'': (''a'') The relation to a noun (or pronoun) of another noun, or in some cases of an adjective or a clause, that is added to it by way of explanation or characterization. {{smaller|Thus, “Cicero, the famous ''orator'', lived in the first century before Christ”; “On him, their second ''Providence'', they hung.” In languages that distinguish cases, the noun in apposition is in the same case as the word to which it is apposed. The same term is also used of an adjective that stands to the noun (or pronoun) to which it refers in a less close relation than the proper attributive, being added rather parenthetically, or by way of substitute for a qualifying clause. Thus, “They sang Darius, ''great'' and ''good''”; “Truth, ''crushed'' to earth, shall rise again.” Rarely, it is applied to a clause, whether substantive or adjective, that qualifies a noun (or pronoun) in an equivalent manner. Compare ''attributive'' and ''predicative''.}} (''b'') The relation of two or more nouns (or a noun and pronoun) in the same construction, under the above conditions. {{smaller|''Knights Templars'', ''lords justices'', ''Paul'' the ''apostle'', my ''son John’s'' book (where ''son'' is also possessive, the sign of the possessive case being required only with the final term), are examples of nouns in apposition; “''I Jesus'' have sent mine angel” (Rev. xxii. 16) is an example of a pronoun and noun in apposition.}}\n\n'''3†.''' In ''rhet.'', the addition of a parallel word or phrase by way of explanation or illustration of another. ''N. E. D.''{{smaller|—'''Growth by apposition''', in ''bot.'', growth in thickness by the repeated formation of laminæ, as of cellulose in the thickening of cell-walls and of starch in the increase of starch-granules.}}",
+   "c2s3": "¶\n'''appositional''' (ap-ō-zish′o̤n-a̤l), ''a.'' [< ''apposition'' + ''-al.''] '''1.''' Pertaining to apposition, especially grammatical apposition.—'''2.''' In ''bot.'', lying together and partly uniting so as to appear like a compound branch: applied to the branches of algæ.\n\n'''appositionally''' (ap-ō-zish′o̤n-a̤l-i), ''adv.'' In apposition; in an appositional way.\n\n'''appositive''' (a-poz′i-tiv), ''a.'' and ''n.'' [= F. ''appositif'', < L. as if *''appositivus'', < ''appositus'': see ''apposite.''] '''I.''' ''a.'' '''1.''' Apposite; applicable.—'''2.''' In ''gram.'', placed in apposition; standing over against its subject in the construction of the sentence.\n{{smaller block|''Appositive'' to the words going immediately before.\n{{right|''Knatchbull'', Animad. in Libros Novi Test., p. 42.}}}}\n'''II.''' ''n.'' In ''gram.'', a word in apposition.\n\n'''appositorium''' (a-poz-i-tō′ri-um), ''n.''; pl. ''appositoria'' (-ạ̈). [NL., < L. ''appositus'', pp. of ''apponere'', ''adponere'', put near or by: see ''apposite.''] A conical vessel of glass or earthenware, the narrow end of which is placed in a receiver while the larger end receives the neck of a retort: used as a precaution against the breakage of the receiver by contact with the hot neck of a retort during distillation.\n\n'''appost†''', ''v. t.'' [< F. ''apposter'' (Cotgrave), < It. ''appostare'', < LL. *''appositare'', < L. ''appositus'': see ''apposite.''] To place or arrange with a purpose. ''N. E. D.''\n\n'''appraisal''' (a̤-prā′za̤l), ''n.'' [< ''appraise'' + ''-al.''] The act of appraising; valuation; appraisement or estimation of value or worth.",
+   "c2s4": "¶\n'''appraise''' (a̤-prāz′), ''v. t.''; pret. and pp. ''appraised'', ppr. ''appraising''. [< ME. ''apraysen'', *''apreisen'', also ''aprisen'' (> mod. ''apprise''<sup>2</sup>, ''apprize''<sup>2</sup>, q. v.), and also simply ''praisen'', ''preisen'', praise, appraise, < OF. *''apreiser'', ''apretier'', ''aprisier'', ''apriser'', price, value, praise, < LL. ''appretiare'', value, estimate, appraise, purchase, < L. ''ad'', to, + ''pretium'' (>",
+   "c3s1": "OF. ''preis'', ''pris''), price: see ''price'' and ''praise'', and cf. ''apprize''<sup>2</sup> and ''appreciate''.] '''1†.''' To value; prize.\n{{smaller block|Hur enparel was ''apraysut'' with prynces of myȝte.\n{{right|''Anturs of Arth.'', st. 29.}}}}\n'''2.''' To value in current money; officially set a price upon; estimate the value of: used especially of the action of a person or persons appointed for the purpose, under direction of law or by agreement of persons interested: as, to ''appraise'' the goods and estate of a deceased person, or goods taken under a distress for rent. [See note under ''appraiser''.]—'''3.''' To estimate generally, in regard to quality, service, size, weight, etc.\n{{smaller block|Greek and Latin literature we shall examine only for the sake of ''appraising'' or deducing the sort of ideas which they had upon the subject of style. ''De Quincey'', Style, iii.\n\nTo get at the full worth of Emerson, . . . we must ''appraise'' him for his new and fundamental quality of genius, not for his mere literary accomplishments, great as these were. {{right|''The Century'', XXVII. 927.}}\n<poem>\nThe sickly babe, . . .\nWhom Enoch took, and handled all his limbs,\n''Appraised'' his weight, and fondled father-like.\n</poem>\n{{right|''Tennyson'', Enoch Arden.}}}}",
+   "c3s2": "¶\n'''appraisement''' (a̤-prāz′ment), ''n.'' [< ''appraise'' + ''-ment.''] '''1.''' The act of setting a value upon, under some authority or appointment; appraisal. It generally implies resort to the judgment of a disinterested person.—'''2.''' The rate at which a thing is valued; the value fixed, or valuation; estimation generally.\n\n'''appraiser''' (a̤-prā′zėr), ''n.'' One who appraises, or estimates worth of any kind, intellectual, moral, or material; specifically, a person licensed and sworn to estimate and fix the value of goods or estate. {{smaller|[''Appraise, appraiser, appraisement'', are now generally used, instead of ''apprize, apprizer, apprizement'', although the latter were formerly used by good English authors, as Bacon and Bishop Hall, and are still frequently used in the United States.]}}\n\n'''apprecation†''' (ap-rẹ̄-kā′shọn), ''n.'' [< L. as if *''apprecatio(n-)'', < ''apprecārī, adprecārī'', pp. ''apprecatus'', pray to, adore, < ''ad'', to, + ''precari'', pray: see ''pray''.] Invocation of blessing; prayer: as, “fervent ''apprecations'',” ''Bp. Hall'', Remains, p. 404.\n\n'''apprecatory†''' (ap′rẹ̄-kā-tọ̄-ri), ''a.'' [< L. as if *''apprecatorius'', < ''apprecārī'': see ''apprecation''.] Of the nature of or containing a prayer.\n{{smaller block|Not so much ''apprecatory'' as declaratory.\n{{right|''Bp. Hall'', Cases of Conscience, iii. 9.}}}}\n\n'''appreciable''' (a̤-prē′shi-a̤-bl), ''a.'' [= F. ''appréciable'', < L. as if *''appretiābilis'', < ''appretiare'': see ''appreciate''.] Capable of being appreciated, estimated, or perceived; neither too small nor too great to be capable of estimation or recognition; perceptible.\n{{smaller block|A twelfth part of the labour of making a plough is an ''appreciable'' quantity.\n{{right|''J. S. Mill.''}}}}",
+   "c3s3": "¶\n{{smaller block|An odour which has no ''appreciable'' effect on the consciousness of a man has a very marked effect on the consciousness of a dog. {{right|''H. Spencer'', Prin. of Psychol., § 79.}}}}\n\n'''appreciably''' (a̤-prē′shi-a̤-bli), ''adv.'' To a degree that may be appreciated or estimated; perceptibly; by a difference that may be remarked; noticeably: as, he is ''appreciably'' better.\n{{smaller block|The puffs of an approaching goods-engine seem ''appreciably'' more numerous to the ear than those of a receding one. {{right|''A. Daniell'', Prin. of Physics, p. 418.}}}}\n\n'''appreciant''' (a̤-prē′shi-a̤nt), ''a.'' [< L. ''appretian(t-)s'', ppr. of ''appretiare'': see ''appreciate''.] Appreciative. [Rare.]\n{{smaller block|<poem>Such was the man whom Henry, of desert\n''Appreciant'' alway, chose for highest trust.</poem>\n{{right|''Southey'', Ded. of Colloquies.}}}}\n\n'''appreciate''' (a̤-prē′shi-āt), ''v.''; pret. and pp. ''appreciated'', ppr. ''appreciating''. [< L. ''appretiatus'', pp. of ''appretiare'', value or estimate at a price (> It. ''appregiare'', ''apprezzare'' = Pg. ''apreçar'' = Sp. Pr. ''apreciar'' = F. ''apprécier''), < ''ad'', to, + ''pretium'', price: see ''price'', and cf. ''appraise'', ''apprize''<sup>2</sup>.] '''I.''' ''trans.'' '''1.''' To value; set a price or value on; estimate the commercial worth of.—'''2.''' To esteem duly; place a sufficiently high estimate on; recognize the quality or worth of: as, his great ability was not ''appreciated''.\n{{smaller block|The sectaries of a persecuted religion are seldom in a proper temper of mind calmly to investigate or candidly to ''appreciate'' the motives of their enemies. {{right|''Gibbon''.}}\n\nI pronounce that young man happy who is content with having acquired the skill which he had aimed at, and waits willingly when the occasion of making it ''appreciated'' shall arrive, knowing well that it will not loiter. {{right|''Emerson'', Success.}}}}",
+   "c3s4": "¶\n'''3.''' To be fully conscious of; be aware of; detect; perceive the nature or effect of.\n{{smaller block|The eye ''appreciates'' finer differences than art can expose.\n{{right|''Emerson'', Works and Days.}}}}\n{{smaller block|There is reason to believe that insects ''appreciate'' sounds of extreme delicacy. {{right|''A. R. Wallace'', Nat. Selec., p. 202.}}}}"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 1,
+    "input_tokens": 2673,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 13,
+    "input_tokens": 9697,
+    "output_tokens": 8766,
+    "cache_creation_input_tokens": 35694,
+    "cache_read_input_tokens": 15864
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|apportionate|276|appreciate}}</noinclude>{{nop}}'''apportionate†''' (a̤-pōr′shọn-āt), ''v. t.''   [< ML. ''apportionatus'', pp. of ''apportionare'': see ''apportion''.]   To apportion.\n\n'''apportionateness†''' (a̤-pōr′shọn-āt-nes), ''n.''   [< ''apportionate'', ''a.'', + ''-ness''.]   The state or quality of being adapted; just proportion.\n{{smaller block|The ''apportionateness'' of it to the end for which it was designed.\n{{right|''Hammond'', Pref. to View of New Directory.}}}}\n\n'''apportioner''' (a̤-pōr′shọn-ėr), ''n.'' One who apportions.\n\n'''apportionment''' (a̤-pōr′shọn-ment), ''n.''   [< ''apportion'' + ''-ment''; after F. ''apportionnement'', ML. ''apportionamentum''.]   '''1.''' The act of apportioning; a dividing into portions or shares; a dividing and assigning of a just and equitable portion to each person interested or entitled to participate in any claim, right, property, or charge.—'''2.''' In the United States: (''a'') The distribution of representation in the federal House of Representatives, and in the houses of the different State legislatures. {{smaller|In the former case a fresh apportionment is made by Congress every ten years, shortly after the completion of the decennial census returns, and in the latter generally after stated enumerations made at different dates in different States, or after the federal census. In the federal apportionment, Congress determines the proportion of representatives to population (one to 173,901 of the total population of the United States under the census of 1890, or 356 in all), and the State legislatures fix the boundaries of the elective districts accordingly. [The principle of legislative apportionment according to population has been more recently adopted in the other American and most European states, though in some it is not yet very strictly applied.]}} (''b'') The allotment of direct taxes on the basis of population: a Congressional power rarely exercised.\n\n'''apposable''' (a-pō′zạ-bl), ''a.''   [< ''appose''<sup>1</sup> + ''-able.'']   Capable of being apposed or brought together.\n\n'''appose<sup>1</sup>''' (a-pōz′), ''v. t.''; pret. and pp. ''apposed'', ppr. ''apposing''.   [< F. ''apposer'', to lay, put, or add to, destinate, appoint, repr. L. ''apponere'', ''adponere'', pp. ''appositus'', ''adpositus'' (cf. ''apposite''), put or lay at, near, or by, apply to, add, < ''ad'', to, + ''ponere'', pp. ''positus'', put, place, confused in ML. and Rom. with ''pausare'', F. ''poser'', etc.: see ''pose''<sup>2</sup>, and cf. ''compose'', ''depose'', ''expose'', ''impose'', ''propose'', ''repose''.]   '''1.''' To put or apply (one thing) to or near to (another).\n{{smaller block|<poem>Atrides . . . food sufficient\n''Appos’d'' before them, and the peers ''appos’d'' their hands to it.</poem>\n{{right|''Chapman'', Iliad, ix. 45.}}}}\n{{smaller block|<poem>His power having wrought\nThe king already to ''appose'' his hand.</poem>\n{{right|''Chapman and Shirley'', Chabot, Admiral of France, i.}}}}\n'''2.''' To bring near or next, as one thing to another; put side by side; arrange in juxtaposition.\n{{smaller block|<poem>See you how the people stand in heaps,\nEach man sad looking on his ''appos’d'' object?</poem>\n{{right|''Dekker and Webster'' (?), Sir Thomas Wyat, p. 37.}}}}\n\n'''appose<sup>2</sup>†''' (a-pōz′), ''v. t.''   [< ME. ''apposen'', ''aposen'', OF. ''aposer'', ''apposer'', with unaccented prefix ''a-'' for ''o-'', prop. ME. ''oposen'', ''opposen'', < OF. ''opposer''; ME. also by apheresis ''posen'', mod. E. ''pose''<sup>3</sup>: see ''oppose'' and ''pose''<sup>3</sup>, which are now discriminated. ''Appose''<sup>2</sup>, though orig. a mere variation of ''oppose'', seems to have been regarded as depending on L. ''apponere'', E. ''appose''<sup>1</sup>, in ref. to ‘putting’ questions ‘to’ one: see ''appose''<sup>1</sup>.]   '''1.''' To oppose in discussion; bring objections or difficulties before one to be answered; examine; question; pose; puzzle.\n{{smaller block|The prest and Perkyn ''apposed'' eyther other,<br>And I thorw here wordes awoke, and waited aboute.\n{{right|''Piers Plowman'' (B), vii. 138.}}}}\n{{smaller block|Tho the people hym ''apposed'' with a peny in the temple,<br>Whether thei shulde therwith worschip the kyng Sesar.\n{{right|''Piers Plowman'' (B), i. 47.}}}}\n{{smaller block|Christ was found sitting in the temple, not to gaze on the outward glory of the house, . . . but to hear and ''appose'' the doctors.\n{{right|''Bp. Hall'', Contemplations.}}}}\nSpecifically—'''2.''' To examine (a sheriff) with reference to (his) accounts. See ''apposer''.\n\n'''apposer†''' (a-pō′zėr), ''n.''   [< ''appose''<sup>2</sup> + ''-er''<sup>1</sup>.]   An examiner; one whose duty it is to put questions; specifically, in England, a former officer of the Court of Exchequer who examined the sheriff’s accounts. The office was abolished in 1833.\n\n'''apposite''' (ap′ọ̄-zit), ''a.''   [< L. ''appositus'', ''adpositus'', placed near to, fit, suitable, pp. of ''apponere'', ''adponere'', put or lay at, near, or by, put to, annex, add, < ''ad'', to, + ''ponere'', place: see ''appose''<sup>1</sup> and ''position''.]   '''1.''' Placed near to; specifically, in ''bot.'', lying side by side, in contact, or partly united. Hence—'''2.''' Suitable; fit; appropriate; applicable; well adapted: followed by ''to'': as, this argument is very ''apposite to'' the case; “ready and ''apposite'' answers,” ''Bacon'', Hen. VII., p. 120.\n\n{{smaller block|The common church office was us’d for the King without naming the person, with some other, ''apposite to'' the necessity and circumstances of the time.\n{{right|''Evelyn'', Diary, June, Whitsunday, 1693.}}}}\n{{smaller block|What influence, I say, would these prayers have, were they delivered with a due emphasis, and ''apposite'' rising and variation of voice? {{right|''Steele'', Spectator, No. 147.}}}}\n'''3†.''' Apt; ready in speech or answer: said of persons.\n\n'''appositely''' (ap′ọ̄-zit-li), ''adv.'' In an apposite manner; suitably; fitly; appropriately; pertinently.\n\n'''appositeness''' (ap′ọ̄-zit-nes), ''n.'' The state or quality of being apposite; fitness; propriety; suitableness.\n{{smaller block|A knowledge of the primitive sense of a word very often enables us to discover a force and fitness in its modern applications which we had never suspected before, and accordingly to employ it with greater propriety and ''appositeness.'' {{right|''G. P. Marsh'', Lectures on Eng. Lang., p. 106.}}}}\n\n'''apposition''' (ap-ọ̄-zish′ọn), ''n.''   [=F. ''apposition'' = Pr. ''appozicio'' = Sp. ''aposicion'' = Pg. ''apposição'' = It. ''apposizione'', < LL. ''appositio''(''n''-), ''adpositio''(''n''-), a placing by or near, setting before, application, < L. ''apponere'', pp. ''appositus'': see ''appose''<sup>1</sup>, ''apposite.'']   '''1.''' The act of adding to or together; a setting to; application; a placing together; juxtaposition.\n{{smaller block|The ''apposition'' of new matter.\n{{right|''Arbuthnot'', Choice of Aliments.}}}}\n{{smaller block|Placing in ''apposition'' the two ends of a divided nerve does not re-establish nervous communication.\n{{right|''H. Spencer'', Prin. of Psychol., § 25.}}}}\n\n'''2.''' In ''gram.'': (''a'') The relation to a noun (or pronoun) of another noun, or in some cases of an adjective or a clause, that is added to it by way of explanation or characterization. {{smaller|Thus, “Cicero, the famous ''orator'', lived in the first century before Christ”; “On him, their second ''Providence'', they hung.” In languages that distinguish cases, the noun in apposition is in the same case as the word to which it is apposed. The same term is also used of an adjective that stands to the noun (or pronoun) to which it refers in a less close relation than the proper attributive, being added rather parenthetically, or by way of substitute for a qualifying clause. Thus, “They sang Darius, ''great'' and ''good''”; “Truth, ''crushed'' to earth, shall rise again.” Rarely, it is applied to a clause, whether substantive or adjective, that qualifies a noun (or pronoun) in an equivalent manner. Compare ''attributive'' and ''predicative''.}} (''b'') The relation of two or more nouns (or a noun and pronoun) in the same construction, under the above conditions. {{smaller|''Knights Templars'', ''lords justices'', ''Paul'' the ''apostle'', my ''son John’s'' book (where ''son'' is also possessive, the sign of the possessive case being required only with the final term), are examples of nouns in apposition; “''I Jesus'' have sent mine angel” (Rev. xxii. 16) is an example of a pronoun and noun in apposition.}}\n\n'''3†.''' In ''rhet.'', the addition of a parallel word or phrase by way of explanation or illustration of another.   ''N. E. D.''{{smaller|—'''Growth by apposition''', in ''bot.'', growth in thickness by the repeated formation of laminæ, as of cellulose in the thickening of cell-walls and of starch in the increase of starch-granules.}}\n\n'''appositional''' (ap-ō-zish′o̤n-a̤l), ''a.''   [< ''apposition'' + ''-al.'']   '''1.''' Pertaining to apposition, especially grammatical apposition.—'''2.''' In ''bot.'', lying together and partly uniting so as to appear like a compound branch: applied to the branches of algæ.\n\n'''appositionally''' (ap-ō-zish′o̤n-a̤l-i), ''adv.'' In apposition; in an appositional way.\n\n'''appositive''' (a-poz′i-tiv), ''a.'' and ''n.''   [= F. ''appositif'', < L. as if *''appositivus'', < ''appositus'': see ''apposite.'']   '''I.''' ''a.'' '''1.''' Apposite; applicable.—'''2.''' In ''gram.'', placed in apposition; standing over against its subject in the construction of the sentence.\n{{smaller block|''Appositive'' to the words going immediately before.\n{{right|''Knatchbull'', Animad. in Libros Novi Test., p. 42.}}}}\n'''II.''' ''n.'' In ''gram.'', a word in apposition.\n\n'''appositorium''' (a-poz-i-tō′ri-um), ''n.''; pl. ''appositoria'' (-ạ̈).   [NL., < L. ''appositus'', pp. of ''apponere'', ''adponere'', put near or by: see ''apposite.'']   A conical vessel of glass or earthenware, the narrow end of which is placed in a receiver while the larger end receives the neck of a retort: used as a precaution against the breakage of the receiver by contact with the hot neck of a retort during distillation.\n\n'''appost†''', ''v. t.''   [< F. ''apposter'' (Cotgrave), < It. ''appostare'', < LL. *''appositare'', < L. ''appositus'': see ''apposite.'']   To place or arrange with a purpose.   ''N. E. D.''\n\n'''appraisal''' (a̤-prā′za̤l), ''n.''   [< ''appraise'' + ''-al.'']   The act of appraising; valuation; appraisement or estimation of value or worth.\n\n'''appraise''' (a̤-prāz′), ''v. t.''; pret. and pp. ''appraised'', ppr. ''appraising''.   [< ME. ''apraysen'', *''apreisen'', also ''aprisen'' (> mod. ''apprise''<sup>2</sup>, ''apprize''<sup>2</sup>, q. v.), and also simply ''praisen'', ''preisen'', praise, appraise, < OF. *''apreiser'', ''apretier'', ''aprisier'', ''apriser'', price, value, praise, < LL. ''appretiare'', value, estimate, appraise, purchase, < L. ''ad'', to, + ''pretium'' (> OF. ''preis'', ''pris''), price: see ''price'' and ''praise'', and cf. ''apprize''<sup>2</sup> and ''appreciate''.]   '''1†.''' To value; prize.\n{{smaller block|Hur enparel was ''apraysut'' with prynces of myȝte.\n{{right|''Anturs of Arth.'', st. 29.}}}}\n'''2.''' To value in current money; officially set a price upon; estimate the value of: used especially of the action of a person or persons appointed for the purpose, under direction of law or by agreement of persons interested: as, to ''appraise'' the goods and estate of a deceased person, or goods taken under a distress for rent. [See note under ''appraiser''.]—'''3.''' To estimate generally, in regard to quality, service, size, weight, etc.\n{{smaller block|Greek and Latin literature we shall examine only for the sake of ''appraising'' or deducing the sort of ideas which they had upon the subject of style. ''De Quincey'', Style, iii.\n\nTo get at the full worth of Emerson, . . . we must ''appraise'' him for his new and fundamental quality of genius, not for his mere literary accomplishments, great as these were. {{right|''The Century'', XXVII. 927.}}}}\n{{smaller block|<poem>\nThe sickly babe, . . .\nWhom Enoch took, and handled all his limbs,\n''Appraised'' his weight, and fondled father-like.\n</poem>\n{{right|''Tennyson'', Enoch Arden.}}}}\n\n'''appraisement''' (a̤-prāz′ment), ''n.''   [< ''appraise'' + ''-ment.'']   '''1.''' The act of setting a value upon, under some authority or appointment; appraisal. It generally implies resort to the judgment of a disinterested person.—'''2.''' The rate at which a thing is valued; the value fixed, or valuation; estimation generally.\n\n'''appraiser''' (a̤-prā′zėr), ''n.'' One who appraises, or estimates worth of any kind, intellectual, moral, or material; specifically, a person licensed and sworn to estimate and fix the value of goods or estate. {{smaller|[''Appraise, appraiser, appraisement'', are now generally used, instead of ''apprize, apprizer, apprizement'', although the latter were formerly used by good English authors, as Bacon and Bishop Hall, and are still frequently used in the United States.]}}\n\n'''apprecation†''' (ap-rẹ̄-kā′shọn), ''n.''   [< L. as if *''apprecatio(n-)'', < ''apprecārī, adprecārī'', pp. ''apprecatus'', pray to, adore, < ''ad'', to, + ''precari'', pray: see ''pray''.]   Invocation of blessing; prayer: as, “fervent ''apprecations'',” ''Bp. Hall'', Remains, p. 404.\n\n'''apprecatory†''' (ap′rẹ̄-kā-tọ̄-ri), ''a.''   [< L. as if *''apprecatorius'', < ''apprecārī'': see ''apprecation''.]   Of the nature of or containing a prayer.\n{{smaller block|Not so much ''apprecatory'' as declaratory.\n{{right|''Bp. Hall'', Cases of Conscience, iii. 9.}}}}\n\n'''appreciable''' (a̤-prē′shi-a̤-bl), ''a.''   [= F. ''appréciable'', < L. as if *''appretiābilis'', < ''appretiare'': see ''appreciate''.]   Capable of being appreciated, estimated, or perceived; neither too small nor too great to be capable of estimation or recognition; perceptible.\n{{smaller block|A twelfth part of the labour of making a plough is an ''appreciable'' quantity.\n{{right|''J. S. Mill.''}}}}\n\n{{smaller block|An odour which has no ''appreciable'' effect on the consciousness of a man has a very marked effect on the consciousness of a dog. {{right|''H. Spencer'', Prin. of Psychol., § 79.}}}}\n\n'''appreciably''' (a̤-prē′shi-a̤-bli), ''adv.'' To a degree that may be appreciated or estimated; perceptibly; by a difference that may be remarked; noticeably: as, he is ''appreciably'' better.\n{{smaller block|The puffs of an approaching goods-engine seem ''appreciably'' more numerous to the ear than those of a receding one. {{right|''A. Daniell'', Prin. of Physics, p. 418.}}}}\n\n'''appreciant''' (a̤-prē′shi-a̤nt), ''a.''   [< L. ''appretian(t-)s'', ppr. of ''appretiare'': see ''appreciate''.]   Appreciative. [Rare.]\n{{smaller block|<poem>Such was the man whom Henry, of desert\n''Appreciant'' alway, chose for highest trust.</poem>\n{{right|''Southey'', Ded. of Colloquies.}}}}\n\n'''appreciate''' (a̤-prē′shi-āt), ''v.''; pret. and pp. ''appreciated'', ppr. ''appreciating''.   [< L. ''appretiatus'', pp. of ''appretiare'', value or estimate at a price (> It. ''appregiare'', ''apprezzare'' = Pg. ''apreçar'' = Sp. Pr. ''apreciar'' = F. ''apprécier''), < ''ad'', to, + ''pretium'', price: see ''price'', and cf. ''appraise'', ''apprize''<sup>2</sup>.]   '''I.''' ''trans.'' '''1.''' To value; set a price or value on; estimate the commercial worth of.—'''2.''' To esteem duly; place a sufficiently high estimate on; recognize the quality or worth of: as, his great ability was not ''appreciated''.\n{{smaller block|The sectaries of a persecuted religion are seldom in a proper temper of mind calmly to investigate or candidly to ''appreciate'' the motives of their enemies. {{right|''Gibbon''.}}}}\n{{smaller block|I pronounce that young man happy who is content with having acquired the skill which he had aimed at, and waits willingly when the occasion of making it ''appreciated'' shall arrive, knowing well that it will not loiter. {{right|''Emerson'', Success.}}}}\n\n'''3.''' To be fully conscious of; be aware of; detect; perceive the nature or effect of.\n{{smaller block|The eye ''appreciates'' finer differences than art can expose.\n{{right|''Emerson'', Works and Days.}}}}\n{{smaller block|There is reason to believe that insects ''appreciate'' sounds of extreme delicacy. {{right|''A. R. Wallace'', Nat. Selec., p. 202.}}}}<noinclude><references/></noinclude>"
+}

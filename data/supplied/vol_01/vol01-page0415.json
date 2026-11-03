@@ -1,0 +1,219 @@
+{
+ "volume": 1,
+ "page_number": 415,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n414.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n414.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-10-30",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 742,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     69,
+     143,
+     2287,
+     179
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     69,
+     179,
+     806,
+     1266
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     69,
+     1266,
+     806,
+     2005
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     69,
+     2005,
+     806,
+     2851
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     69,
+     2851,
+     806,
+     3288
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     806,
+     179,
+     1555,
+     1116
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     806,
+     1116,
+     1555,
+     2214
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     895,
+     1437,
+     1461,
+     1592
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     806,
+     2214,
+     1555,
+     3288
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1555,
+     179,
+     2287,
+     1275
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1555,
+     1275,
+     2287,
+     2373
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1555,
+     2373,
+     2287,
+     3288
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|autogenous|389|automatous}}",
+   "c1s1": "¶\n'''autogenous''' (â-toj′e-nus), ''a.'' [< Gr. αὐτογενής, self-produced, < αὐτός, self, + γένος, kind, race, offspring: see ''genus'', ''-genous''.] '''1.''' Self-produced; self-generated; coming forth independently. {{smaller|Specifically, in ''anat.'', endogenous: applied to those processes or parts of a bone which arise from an independent or separate center of ossification, as distinguished from mere exogenous outgrowths. Thus, the epiphyses of a bone are ''autogenous;'' apophyses may be either ''autogenous'' or ''exogenous''.}}\n{{smaller block|The centrum and several of the apophyses of a vertebra are ''autogenous'', while other apophyses are exogenous.\n{{right|''Owen.''}}}}\n'''2.''' Same as ''autogenic''.\n\nAlso ''autogeneous''.\n\n'''Autogenous soldering''', {{smaller|the process of uniting pieces of metal by the fusion of part of their own substance, without the use of a special solder. It is performed by means of the airohydrogen or oxyhydrogen blowpipe and by electricity.}}\n\n'''autogenously''' (â-toj′e-nus-li), ''adv.'' '''1.''' In an autogenous manner.\n{{smaller block|The anterior, or more properly inferior, bar of the transverse process of the seventh, and occasionally of some of the other cervical vertebræ in Man, is ''autogenously'' developed.\n{{right|''W. H. Flower'', Osteology, p. 20.}}}}\n'''2.''' By the autogenous process of soldering.\n{{smaller block|This battery is constructed of a case of insulite, having a lid of the same material ''autogenously'' soldered in.\n{{right|''J. W. Queen'', Elect. Catalogue, 1883, p. 16.}}}}\n\n'''autogeny''' (â-toj′e-ni), ''n.'' [< Gr. αὐτογενής (see ''autogenous''): see ''-geny''.] Autogenesis; autogony; spontaneous generation.\n\n'''autogony''' (â-tog′ọ̄-ni), ''n.'' [< Gr. αὐτογόνος, self-produced, self-producing, < αὐτός, self, + -γονος, produced: see ''-gony''.] The generation of simple organisms from a lifeless fluid; abiogenesis.",
+   "c1s2": "¶\n'''autograph''' (â′tō-gràf), ''a.'' and ''n.'' [< F. ''autographe'', < L. ''autographus'', < Gr. αὐτόγραφος, written with one’s own hand, < αὐτός, self, + γράφειν, write.] '''I.''' ''a.'' Written by one’s self; in one’s own handwriting: as, an ''autograph'' letter.\n\n'''II.''' ''n.'' [< F. ''autographe'', < LL. ''autographum''.] '''1.''' A person’s own handwriting; something written by a person’s own hand; an original manuscript or signature.\n{{smaller block|''Autographs'' of famous names were to be seen in faded ink on some of their fly leaves. ''Hawthorne'', Old Manse, I.}}\n'''2.''' An autographic press (which see, under ''press'').\n\n'''autograph''' (â′tō-gràf), ''v. t.'' [< ''autograph'', ''n.''] '''1.''' To write with one’s own hand.—'''2.''' To write one’s autograph on or in.—'''3.''' To copy or produce in autograph, or by an autographic process. See ''autographic''.\n{{smaller block|Announcements and notices of various kinds, whether printed, engraved, lithographed, or ''autographed''.\n{{right|''U. S. Postal Guide'', July, 1879.}}\nIt contains 80 ''autographed'' pages out of the 1,100 of which the whole work will consist.\n{{right|''Trübner’s American and Oriental Lit. Record'', X. 4.}}}}",
+   "c1s3": "¶\n'''autographal†''' (â-tog′ra-fal), ''a.'' [< ''autograph'' + ''-al.''] Autographic. ''Bennet.''\n\n'''autographic''' (â-tọ-graf′ik), ''a.'' [< ''autograph'' + ''-ic''; = F. ''autographique.''] '''1.''' Pertaining to or of the nature of an autograph; contained in or furnished by one’s own handwriting: as, ''autographic'' authority; ''autographic'' evidence. —'''2.''' Relating to or used in the process of autography: as, ''autographic'' ink; ''autographic'' paper.—'''3.''' Self-recording: applied to a form of telegraph. See below.—'''Autographic press.''' {{smaller|See ''press.''}}—'''Autographic process.''' {{smaller|(''a'') In the ''fine arts'', any process by means of which an artist’s work is exactly preserved in mechanical reproductions, as in an autotype or a photo-engraving. (''b'') A general term applied to those chemical and mechanical processes in which a writing or drawing is made with a peculiar ink, and then transferred to the stone, plate, or other matrix from which it is to be printed.}}—'''Autographic telegraph,''' {{smaller|an instrument for transmitting a telegraphic despatch written in insulating ink upon a metallic paper, and reproducing it with absolute exactness on another prepared paper. The instrument may be used for transmitting portraits or other figures, diagrams, etc.}}\n\n'''autographical''' (â-tọ-graf′i-kạl), ''a.'' Same as ''autographic.''\n\n'''autographically''' (â-tọ-graf′i-kạl-i), ''adv.'' In an autographic manner; by means of autographic writings; in autograph.",
+   "c1s4": "¶\n{{smaller block|And had “shaken hands ''autographically''” with him across the Atlantic.\n{{right|''D. Hill'', Life of Irving, p. 150.}}}}\n\n'''autography''' (â-tog′ra̤-fi), ''n.'' [< ''autograph'' + ''-y''; = F. ''autographie.''] '''1.''' The act of writing with one’s own hand; autographic writing.—'''2.''' That department of diplomatics, or the study and decipherment of old writings, which is concerned with autographs.—'''3.''' A process in lithography by which copies of a writing, drawing, etc., are produced in facsimile.\n\n'''autoicous''' (â-toi′kus), ''a.'' Same as ''autœcious.''\n\n'''auto-inoculability''' (â″tō-in-ok″ū-la̤-bil′i̤-ti), ''n.'' [< ''auto-inoculable'': see ''-bility.''] Capacity for auto-inoculation.",
+   "c2s1": "¶\n'''auto-inoculable''' (â″tō-in-ok′ụ̄-lạ-bl), ''a.'' [< Gr. αὐτός, self, + ''inoculable''.] Possessing the power of auto-inoculation; capable of being propagated by auto-inoculation: as, an ''auto-inoculable'' disease.\n\n'''auto-inoculation''' (â″tō-in-ok-ụ̄-lā′shon), ''n.'' [< Gr. αὐτός, self, + ''inoculation''.] The inoculation of a healthy part of the body with the virus from a diseased part of the same person, as from a chancroid.\n\n'''auto-insufflator''' (â-tō-in′suf-lā-tọr), ''n.'' [< Gr. αὐτός, self, + ''insufflator''.] An instrument used for administering to one’s self a medicinal powder.\n\n'''autokinesy†''', ''n.'' [< LGr. αὐτοκινησία, Gr. αὐτοκίνησις, self-movement, < αὐτοκίνητος, self-moved: see ''autokinetical''.] Self-movement; spontaneous motion. ''Cudworth.''\n\n'''autokinetical†''' (â″tō-ki-net′i-kal), ''a.'' [< Gr. αὐτοκινητικός, < αὐτοκίνητος, self-moved, < αὐτός, self, + κινεῖν, move: see ''kinetic''.] Self-moving. ''Dr. H. More.''\n\n'''autolaryngoscope''' (â″tō-lạ-ring′gọ̄-skōp), ''n.'' [< Gr. αὐτός, self, + ''laryngoscope''.] An instrument, consisting of a combination of mirrors, by which one may inspect his own larynx. ''E. H. Knight.''\n\n'''autolaryngoscopy''' (â″tō-lar-ing-gos′kọ̄-pi), ''n.'' [< Gr. αὐτός, self, + ''laryngoscopy''.] The in-",
+   "c2s2": "spection of one’s own larynx by means of an autolaryngoscope.\n\n'''autolatry''' (â-tol′a̤-tri), ''n.'' [< Gr. αὐτός, self, + λατρεία, worship.] Self-worship.\n\n'''autology''' (â-tol′ọ̄-ji), ''n.'' [< Gr. αὐτός, self, + -λογία, < λέγειν, speak: see ''-ology''.] The scientific study of one’s self.\n\n'''Autolytus''' (â-tol′i-tus), ''n.'' [NL., < Gr. αὐτός, self, + λυτός, verbal adj. of λύειν, loose.] A genus of chætopodous annelids, of the family ''Syl-''\n[[FIGURE]]\n{{c|{{smaller|''Autolytus cornutus.''}}}}\n''lidæ:'' a synonym of ''Syllis''. {{smaller|''A. prolifer'' is an asexual form, the opposite sexual forms of which have been called ''Polybostrichus'' and ''Sacconereis''.}}\n\n'''automa†''', ''n.'' An erroneously assumed singular of ''automata''. See ''automaton''.\n{{smaller block|<poem>It is an ''automa'', runs under water,\nWith a snug nose, and has a nimble tail\nMade like an augur.</poem>\n{{right|''B. Jonson'', Staple of News, iii. 1.}}}}\n\n'''automalite''', ''n.'' See ''automolite''.\n\n'''automata''', ''n.'' Plural of ''automaton''.\n\n'''automatal†''' (â-tom′a̤-tal), ''a.'' [< ''automaton'' + ''-al''.] Same as ''automatic''. [Rare.]\n\n'''automath''' (â′tō-math), ''n.'' [< Gr. αὐτομαθής, self-taught, < αὐτός, self, + μανθάνειν, μαθεῖν, learn: see ''mathematics''.] One who is self-taught. [Rare.]\n\n'''automatic''' (â-tō-mat′ik), ''a.'' [< Gr. αὐτόματος, self-moving (see ''automaton''), + ''-ic''.] '''1.''' Acting",
+   "c2s3": "as an automaton. {{smaller|(''a'') Having the power of self-motion; self-acting: as, ''automatic'' machinery. (''b'') Done unconsciously or from force of habit; mechanical, as opposed to voluntary.}} '''2.''' Conducted or carried on by self-acting machinery.\n{{smaller block|It is in our modern cotton and flax mills that ''automatic'' operations are displayed to most advantage.\n{{right|''Ure'', Dict., I. 274.}}}}\n'''3.''' In ''physiol.'': (''a'') Not voluntary; not under the control of, or not effected by, volition: said of certain muscular actions.\n{{smaller block|Let me briefly notice some of our other ''automatic'' actions. In the act of swallowing, which properly begins at the back of the throat, the “swallow” lays hold of the food or the drink brought to it by the muscles of the mouth and carries this down into the stomach. We are quite unconscious of its passage thither unless we have taken a larger morsel or something hotter or colder than ordinary. This is an instance of purely ''automatic'' action.\n{{right|''W. B. Carpenter.''}}}}\n{{smaller block|In animals, too, to a far greater extent than in plants, is the ''automatic'' activity which always resides in protoplasm itself transmitted by the mechanism of the organization to different parts of the organism or to the whole of it.\n{{right|''L. F. Ward'', Dynam. Sociol., I. 353.}}}}\n(''b'') Not reflex: said, for example, of certain activities of ganglion-cells.—'''Automatic brake.''' {{smaller|See ''brake.''}}—'''Automatic coupling.''' {{smaller|See ''coupling.''}}—'''Automatic mallet.''' {{smaller|Same as ''dental hammer'' (which see, under ''hammer'').}}—'''Automatic theory.''' {{smaller|Same as ''automatism'', 2.}}\n\n'''automatical''' (â-tọ̄-mat′i-kal), ''a.'' '''1.''' Same as ''automatic.''—'''2.''' Having reference to or connected with automatic things.\n\n'''automatically''' (â-tọ̄-mat′i-kal-i), ''adv.'' '''1.''' In an automatic manner; mechanically; unconsciously.",
+   "c3s1": "¶\n{{smaller block|He went on rowing idly, half ''automatically.''\n{{right|''George Eliot'', Mill on the Floss, vi. 13.}}}}\n{{smaller block|We know that a frequently repeated act of muscular skill finally comes to be done almost ''automatically'' and with little intervention of consciousness. ''Science'', IV. 473.}}\n'''2.''' By automatic means; by its own action.\n{{smaller block|An ''automatically'' working machine.\n{{right|''Sci. Amer.'', N. S., LV. 55.}}}}\n{{smaller block|''Automatically'' keeping its temperature uniform.\n{{right|''Jour. Franklin Inst.'', CXXI., Supp. 7.}}}}\n\n'''automaticity''' (â″tọ̄-ma-tis′i-ti), ''n.'' The state of being automatic; automatic action. ''Martin'', Human Body (3d ed.), p. 23.\n\n'''automatism''' (â-tom′a̤-tizm), ''n.'' [< ''automaton'' + ''-ism.'' Cf. Gr. αὐτοματισμός, that which happens of itself, a chance.] '''1.''' Automatic or involuntary action: in ''pathol.'', sometimes specifically applied to such purposeless actions as are often exhibited by patients after an epileptic fit.\n{{smaller block|In considering the body as the instrument of the mind, I shall show you, first, the large amount of ''automatism'' in the human body. {{right|''W. B. Carpenter.''}}}}\n{{smaller block|The imperfections in sensation, and the inhibition on the moral faculties imposed by alcoholic anæsthesia, so depress the mental powers as to compel them to assume the characteristics of ''automatism;'' but the semblances of ''automatism'' are so similar to conscious rationality, that they disguise the actual incompetency of the moral powers. {{right|''Alien. and Neurol.'', VI. 40.}}}}\n'''2.''' The doctrine that animals, especially those below man, are automata, in the sense that all the phenomena exhibited by them are results of physical laws; especially, the doctrine of Descartes that animals are devoid of consciousness.—'''3.''' The faculty of independently originating action or motion. [From the original",
+   "c3s2": "sense of ''automaton''.] ''N. E. D.''\n\n'''automatist''' (â-tom′ạ-tist), ''n.'' [< ''automaton'' + ''-ist.'' Cf. LGr. αὐτοματιστής, one who refers all things to chance.] '''1.''' One who makes automata.—'''2.''' One who believes that animals (sometimes including man) are automata. See ''automatism'', 2.\n{{smaller block|Though not a declared ''automatist'', however, Mr. Spencer is by virtue of his general philosophy a necessarian.\n{{right|''Pop. Sci. Mo.'', XX. 768.}}}}\n\n'''automatize''' (â-tom′ạ-tīz), ''v. t.''; pret. and pp. ''automatized'', ppr. ''automatizing''. [< ''automaton'' + ''-ize.'' Cf. Gr. αὐτοματίζειν, act of one’s self, introduce the agency of chance, happen by chance.] To make an automaton or a self-acting machine of.\n{{smaller block|A God-created man, all but abnegating the character of man; forced to exist, ''automatised'', mummy-wise, . . . as Gentleman or Gigman. {{right|''Carlyle'', Diamond Necklace, i.}}}}\n\n'''automaton''' (â-tom′ạ-ton), ''n.''; pl. ''automata'', ''automatons'' (-tä̤, -tonz). [Formerly also ''automatum'', < L. ''automaton'', ''automatum'', < Gr. αὐτόματον, neut. of αὐτόματος, acting of one’s self, self-moving, spontaneous, < αὐτός, self, + *ματός (> ματεύειν, seek, strive to do), verbal adj. of √*μα (perf. μέμαα), strive after, move.] '''1.''' That which is self-moving, or has the power of spontaneous movement, but is not conscious.\n{{smaller block|So great and admirable an ''automaton'' as the world.\n{{right|''Boyle'', Works, V. 251.}}}}\nSpecifically—'''2.''' A self-acting machine, or one which is actuated in such a manner as to carry on for some time certain movements without the aid of external impulse. {{smaller|In this respect clocks and watches, with a vast number of other machines, may}}",
+   "c3s3": "{{smaller|be denominated automata; but the term more specifically denotes an apparatus in which the purposely concealed power is made to imitate the voluntary or mechanical motions of living beings, such as men, horses, birds, fishes, etc.}}\n{{smaller block|A self-adjusting machine, containing the immediate conditions of its action within itself, is what is properly understood by an ''automaton''. {{right|''Huxley'', Crayfish, p. 127.}}}}\n'''3.''' A living being acting mechanically or as a mere machine, especially without consciousness; a person or an animal whose actions are purely involuntary or mechanical. See ''bestial automaton'', below.\n{{smaller block|<poem>Obedience,\nBane of all genius, virtue, freedom, truth,\nMakes slaves of men, and of the human frame\nA mechanized ''automaton''.</poem>{{right|''Shelley'', Queen Mab, iii.}}}}\n'''4.''' A person who acts in a monotonous routine manner, without active intelligence, especially without being fully aware of what he is doing. {{smaller|—'''Automaton balance''', a machine for weighing planchets and coin, and sorting the pieces automatically, according to their weight, as full, light, or heavy.—'''Bestial automaton''', in the Cartesian philosophy, a brute, as supposed to be devoid of consciousness and sensibility.—'''Spiritual automaton''', a mind not possessing free will, but subject to necessity.}}\n\n'''automatous†''' (â-tom′a-tus), ''a''. [< Gr. αὐτόματος, automatic (see ''automaton''), + ''-ous''.] Automatic.\n{{smaller block|Clocks or ''automatous'' organs, whereby we now distinguish of time, have found no mention in any ancient writers. {{right|''Sir T. Browne'', Vulg. Err., v. 18.}}}}"
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0415 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     907,
+     1449,
+     1449,
+     1580
+    ],
+    "caption": [
+     1067,
+     1587,
+     1291,
+     1607
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     945,
+     1456,
+     1410,
+     1602
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 3777,
+    "output_tokens": 87,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9593,
+    "output_tokens": 9559,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|autogenous|389|automatous}}</noinclude>{{nop}}'''autogenous''' (â-toj′e-nus), ''a.''   [< Gr. αὐτογενής, self-produced, < αὐτός, self, + γένος, kind, race, offspring: see ''genus'', ''-genous''.]   '''1.''' Self-produced; self-generated; coming forth independently. {{smaller|Specifically, in ''anat.'', endogenous: applied to those processes or parts of a bone which arise from an independent or separate center of ossification, as distinguished from mere exogenous outgrowths. Thus, the epiphyses of a bone are ''autogenous;'' apophyses may be either ''autogenous'' or ''exogenous''.}}\n{{smaller block|The centrum and several of the apophyses of a vertebra are ''autogenous'', while other apophyses are exogenous.\n{{right|''Owen.''}}}}\n'''2.''' Same as ''autogenic''.\n\nAlso ''autogeneous''.\n\n'''Autogenous soldering''', {{smaller|the process of uniting pieces of metal by the fusion of part of their own substance, without the use of a special solder. It is performed by means of the airohydrogen or oxyhydrogen blowpipe and by electricity.}}\n\n'''autogenously''' (â-toj′e-nus-li), ''adv.'' '''1.''' In an autogenous manner.\n{{smaller block|The anterior, or more properly inferior, bar of the transverse process of the seventh, and occasionally of some of the other cervical vertebræ in Man, is ''autogenously'' developed.\n{{right|''W. H. Flower'', Osteology, p. 20.}}}}\n'''2.''' By the autogenous process of soldering.\n{{smaller block|This battery is constructed of a case of insulite, having a lid of the same material ''autogenously'' soldered in.\n{{right|''J. W. Queen'', Elect. Catalogue, 1883, p. 16.}}}}\n\n'''autogeny''' (â-toj′e-ni), ''n.''   [< Gr. αὐτογενής (see ''autogenous''): see ''-geny''.]   Autogenesis; autogony; spontaneous generation.\n\n'''autogony''' (â-tog′ọ̄-ni), ''n.''   [< Gr. αὐτογόνος, self-produced, self-producing, < αὐτός, self, + -γονος, produced: see ''-gony''.]   The generation of simple organisms from a lifeless fluid; abiogenesis.\n\n'''autograph''' (â′tō-gràf), ''a.'' and ''n.''   [< F. ''autographe'', < L. ''autographus'', < Gr. αὐτόγραφος, written with one’s own hand, < αὐτός, self, + γράφειν, write.]   '''I.''' ''a.'' Written by one’s self; in one’s own handwriting: as, an ''autograph'' letter.\n\n'''II.''' ''n.'' [< F. ''autographe'', < LL. ''autographum''.] '''1.''' A person’s own handwriting; something written by a person’s own hand; an original manuscript or signature.\n{{smaller block|''Autographs'' of famous names were to be seen in faded ink on some of their fly leaves.\n{{right|''Hawthorne'', Old Manse, I.}}}}\n'''2.''' An autographic press (which see, under ''press'').\n\n'''autograph''' (â′tō-gràf), ''v. t.''   [< ''autograph'', ''n.'']   '''1.''' To write with one’s own hand.—'''2.''' To write one’s autograph on or in.—'''3.''' To copy or produce in autograph, or by an autographic process. See ''autographic''.\n{{smaller block|Announcements and notices of various kinds, whether printed, engraved, lithographed, or ''autographed''.\n{{right|''U. S. Postal Guide'', July, 1879.}}}}\n{{smaller block|It contains 80 ''autographed'' pages out of the 1,100 of which the whole work will consist.\n{{right|''Trübner’s American and Oriental Lit. Record'', X. 4.}}}}\n\n'''autographal†''' (â-tog′ra-fal), ''a.''   [< ''autograph'' + ''-al.'']   Autographic.   ''Bennet.''\n\n'''autographic''' (â-tọ-graf′ik), ''a.''   [< ''autograph'' + ''-ic''; = F. ''autographique.'']   '''1.''' Pertaining to or of the nature of an autograph; contained in or furnished by one’s own handwriting: as, ''autographic'' authority; ''autographic'' evidence. —'''2.''' Relating to or used in the process of autography: as, ''autographic'' ink; ''autographic'' paper.—'''3.''' Self-recording: applied to a form of telegraph. See below.—'''Autographic press.''' {{smaller|See ''press.''}}—'''Autographic process.''' {{smaller|(''a'') In the ''fine arts'', any process by means of which an artist’s work is exactly preserved in mechanical reproductions, as in an autotype or a photo-engraving. (''b'') A general term applied to those chemical and mechanical processes in which a writing or drawing is made with a peculiar ink, and then transferred to the stone, plate, or other matrix from which it is to be printed.}}—'''Autographic telegraph,''' {{smaller|an instrument for transmitting a telegraphic despatch written in insulating ink upon a metallic paper, and reproducing it with absolute exactness on another prepared paper. The instrument may be used for transmitting portraits or other figures, diagrams, etc.}}\n\n'''autographical''' (â-tọ-graf′i-kạl), ''a.'' Same as ''autographic.''\n\n'''autographically''' (â-tọ-graf′i-kạl-i), ''adv.'' In an autographic manner; by means of autographic writings; in autograph.\n\n{{smaller block|And had “shaken hands ''autographically''” with him across the Atlantic.\n{{right|''D. Hill'', Life of Irving, p. 150.}}}}\n\n'''autography''' (â-tog′ra̤-fi), ''n.''   [< ''autograph'' + ''-y''; = F. ''autographie.'']   '''1.''' The act of writing with one’s own hand; autographic writing.—'''2.''' That department of diplomatics, or the study and decipherment of old writings, which is concerned with autographs.—'''3.''' A process in lithography by which copies of a writing, drawing, etc., are produced in facsimile.\n\n'''autoicous''' (â-toi′kus), ''a.'' Same as ''autœcious.''\n\n'''auto-inoculability''' (â″tō-in-ok″ū-la̤-bil′i̤-ti), ''n.''   [< ''auto-inoculable'': see ''-bility.'']   Capacity for auto-inoculation.\n\n'''auto-inoculable''' (â″tō-in-ok′ụ̄-lạ-bl), ''a.''   [< Gr. αὐτός, self, + ''inoculable''.]   Possessing the power of auto-inoculation; capable of being propagated by auto-inoculation: as, an ''auto-inoculable'' disease.\n\n'''auto-inoculation''' (â″tō-in-ok-ụ̄-lā′shon), ''n.''   [< Gr. αὐτός, self, + ''inoculation''.]   The inoculation of a healthy part of the body with the virus from a diseased part of the same person, as from a chancroid.\n\n'''auto-insufflator''' (â-tō-in′suf-lā-tọr), ''n.''   [< Gr. αὐτός, self, + ''insufflator''.]   An instrument used for administering to one’s self a medicinal powder.\n\n'''autokinesy†''', ''n.''   [< LGr. αὐτοκινησία, Gr. αὐτοκίνησις, self-movement, < αὐτοκίνητος, self-moved: see ''autokinetical''.]   Self-movement; spontaneous motion.   ''Cudworth.''\n\n'''autokinetical†''' (â″tō-ki-net′i-kal), ''a.''   [< Gr. αὐτοκινητικός, < αὐτοκίνητος, self-moved, < αὐτός, self, + κινεῖν, move: see ''kinetic''.]   Self-moving.   ''Dr. H. More.''\n\n'''autolaryngoscope''' (â″tō-lạ-ring′gọ̄-skōp), ''n.''   [< Gr. αὐτός, self, + ''laryngoscope''.]   An instrument, consisting of a combination of mirrors, by which one may inspect his own larynx.   ''E. H. Knight.''\n\n'''autolaryngoscopy''' (â″tō-lar-ing-gos′kọ̄-pi), ''n.''   [< Gr. αὐτός, self, + ''laryngoscopy''.]   The inspection of one’s own larynx by means of an autolaryngoscope.\n\n'''autolatry''' (â-tol′a̤-tri), ''n.''   [< Gr. αὐτός, self, + λατρεία, worship.]   Self-worship.\n\n'''autology''' (â-tol′ọ̄-ji), ''n.''   [< Gr. αὐτός, self, + -λογία, < λέγειν, speak: see ''-ology''.]   The scientific study of one’s self.\n\n'''Autolytus''' (â-tol′i-tus), ''n.''   [NL., < Gr. αὐτός, self, + λυτός, verbal adj. of λύειν, loose.]   A genus of chætopodous annelids, of the family ''Syl-''\n''lidæ:'' a synonym of ''Syllis''. {{smaller|''A. prolifer'' is an asexual form, the opposite sexual forms of which have been called ''Polybostrichus'' and ''Sacconereis''.}}\n\n[[File:century v01 p0415 c2f1.png|center|275px]]\n{{c|{{smaller|''Autolytus cornutus.''}}}}\n\n'''automa†''', ''n.'' An erroneously assumed singular of ''automata''. See ''automaton''.\n{{smaller block|<poem>It is an ''automa'', runs under water,\nWith a snug nose, and has a nimble tail\nMade like an augur.</poem>\n{{right|''B. Jonson'', Staple of News, iii. 1.}}}}\n\n'''automalite''', ''n.'' See ''automolite''.\n\n'''automata''', ''n.'' Plural of ''automaton''.\n\n'''automatal†''' (â-tom′a̤-tal), ''a.''   [< ''automaton'' + ''-al''.]   Same as ''automatic''. [Rare.]\n\n'''automath''' (â′tō-math), ''n.''   [< Gr. αὐτομαθής, self-taught, < αὐτός, self, + μανθάνειν, μαθεῖν, learn: see ''mathematics''.]   One who is self-taught. [Rare.]\n\n'''automatic''' (â-tō-mat′ik), ''a.''   [< Gr. αὐτόματος, self-moving (see ''automaton''), + ''-ic''.]   '''1.''' Acting as an automaton. {{smaller|(''a'') Having the power of self-motion; self-acting: as, ''automatic'' machinery. (''b'') Done unconsciously or from force of habit; mechanical, as opposed to voluntary.}} '''2.''' Conducted or carried on by self-acting machinery.\n{{smaller block|It is in our modern cotton and flax mills that ''automatic'' operations are displayed to most advantage.\n{{right|''Ure'', Dict., I. 274.}}}}\n'''3.''' In ''physiol.'': (''a'') Not voluntary; not under the control of, or not effected by, volition: said of certain muscular actions.\n{{smaller block|Let me briefly notice some of our other ''automatic'' actions. In the act of swallowing, which properly begins at the back of the throat, the “swallow” lays hold of the food or the drink brought to it by the muscles of the mouth and carries this down into the stomach. We are quite unconscious of its passage thither unless we have taken a larger morsel or something hotter or colder than ordinary. This is an instance of purely ''automatic'' action.\n{{right|''W. B. Carpenter.''}}}}\n{{smaller block|In animals, too, to a far greater extent than in plants, is the ''automatic'' activity which always resides in protoplasm itself transmitted by the mechanism of the organization to different parts of the organism or to the whole of it.\n{{right|''L. F. Ward'', Dynam. Sociol., I. 353.}}}}\n(''b'') Not reflex: said, for example, of certain activities of ganglion-cells.—'''Automatic brake.''' {{smaller|See ''brake.''}}—'''Automatic coupling.''' {{smaller|See ''coupling.''}}—'''Automatic mallet.''' {{smaller|Same as ''dental hammer'' (which see, under ''hammer'').}}—'''Automatic theory.''' {{smaller|Same as ''automatism'', 2.}}\n\n'''automatical''' (â-tọ̄-mat′i-kal), ''a.'' '''1.''' Same as ''automatic.''—'''2.''' Having reference to or connected with automatic things.\n\n'''automatically''' (â-tọ̄-mat′i-kal-i), ''adv.'' '''1.''' In an automatic manner; mechanically; unconsciously.\n\n{{smaller block|He went on rowing idly, half ''automatically.''\n{{right|''George Eliot'', Mill on the Floss, vi. 13.}}}}\n{{smaller block|We know that a frequently repeated act of muscular skill finally comes to be done almost ''automatically'' and with little intervention of consciousness.\n{{right|''Science'', IV. 473.}}}}\n'''2.''' By automatic means; by its own action.\n{{smaller block|An ''automatically'' working machine.\n{{right|''Sci. Amer.'', N. S., LV. 55.}}}}\n{{smaller block|''Automatically'' keeping its temperature uniform.\n{{right|''Jour. Franklin Inst.'', CXXI., Supp. 7.}}}}\n\n'''automaticity''' (â″tọ̄-ma-tis′i-ti), ''n.'' The state of being automatic; automatic action.   ''Martin'', Human Body (3d ed.), p. 23.\n\n'''automatism''' (â-tom′a̤-tizm), ''n.''   [< ''automaton'' + ''-ism.'' Cf. Gr. αὐτοματισμός, that which happens of itself, a chance.]   '''1.''' Automatic or involuntary action: in ''pathol.'', sometimes specifically applied to such purposeless actions as are often exhibited by patients after an epileptic fit.\n{{smaller block|In considering the body as the instrument of the mind, I shall show you, first, the large amount of ''automatism'' in the human body. {{right|''W. B. Carpenter.''}}}}\n{{smaller block|The imperfections in sensation, and the inhibition on the moral faculties imposed by alcoholic anæsthesia, so depress the mental powers as to compel them to assume the characteristics of ''automatism;'' but the semblances of ''automatism'' are so similar to conscious rationality, that they disguise the actual incompetency of the moral powers. {{right|''Alien. and Neurol.'', VI. 40.}}}}\n'''2.''' The doctrine that animals, especially those below man, are automata, in the sense that all the phenomena exhibited by them are results of physical laws; especially, the doctrine of Descartes that animals are devoid of consciousness.—'''3.''' The faculty of independently originating action or motion. [From the original sense of ''automaton''.] ''N. E. D.''\n\n'''automatist''' (â-tom′ạ-tist), ''n.''   [< ''automaton'' + ''-ist.'' Cf. LGr. αὐτοματιστής, one who refers all things to chance.]   '''1.''' One who makes automata.—'''2.''' One who believes that animals (sometimes including man) are automata. See ''automatism'', 2.\n{{smaller block|Though not a declared ''automatist'', however, Mr. Spencer is by virtue of his general philosophy a necessarian.\n{{right|''Pop. Sci. Mo.'', XX. 768.}}}}\n\n'''automatize''' (â-tom′ạ-tīz), ''v. t.''; pret. and pp. ''automatized'', ppr. ''automatizing''.   [< ''automaton'' + ''-ize.'' Cf. Gr. αὐτοματίζειν, act of one’s self, introduce the agency of chance, happen by chance.]   To make an automaton or a self-acting machine of.\n{{smaller block|A God-created man, all but abnegating the character of man; forced to exist, ''automatised'', mummy-wise, . . . as Gentleman or Gigman. {{right|''Carlyle'', Diamond Necklace, i.}}}}\n\n'''automaton''' (â-tom′ạ-ton), ''n.''; pl. ''automata'', ''automatons'' (-tä̤, -tonz).   [Formerly also ''automatum'', < L. ''automaton'', ''automatum'', < Gr. αὐτόματον, neut. of αὐτόματος, acting of one’s self, self-moving, spontaneous, < αὐτός, self, + *ματός (> ματεύειν, seek, strive to do), verbal adj. of √*μα (perf. μέμαα), strive after, move.]   '''1.''' That which is self-moving, or has the power of spontaneous movement, but is not conscious.\n{{smaller block|So great and admirable an ''automaton'' as the world.\n{{right|''Boyle'', Works, V. 251.}}}}\nSpecifically—'''2.''' A self-acting machine, or one which is actuated in such a manner as to carry on for some time certain movements without the aid of external impulse. {{smaller|In this respect clocks and watches, with a vast number of other machines, may be denominated automata; but the term more specifically denotes an apparatus in which the purposely concealed power is made to imitate the voluntary or mechanical motions of living beings, such as men, horses, birds, fishes, etc.}}\n{{smaller block|A self-adjusting machine, containing the immediate conditions of its action within itself, is what is properly understood by an ''automaton''. {{right|''Huxley'', Crayfish, p. 127.}}}}\n'''3.''' A living being acting mechanically or as a mere machine, especially without consciousness; a person or an animal whose actions are purely involuntary or mechanical. See ''bestial automaton'', below.\n{{smaller block|<poem>Obedience,\nBane of all genius, virtue, freedom, truth,\nMakes slaves of men, and of the human frame\nA mechanized ''automaton''.</poem>{{right|''Shelley'', Queen Mab, iii.}}}}\n'''4.''' A person who acts in a monotonous routine manner, without active intelligence, especially without being fully aware of what he is doing. {{smaller|—'''Automaton balance''', a machine for weighing planchets and coin, and sorting the pieces automatically, according to their weight, as full, light, or heavy.—'''Bestial automaton''', in the Cartesian philosophy, a brute, as supposed to be devoid of consciousness and sensibility.—'''Spiritual automaton''', a mind not possessing free will, but subject to necessity.}}\n\n'''automatous†''' (â-tom′a-tus), ''a''.   [< Gr. αὐτόματος, automatic (see ''automaton''), + ''-ous''.]   Automatic.\n{{smaller block|Clocks or ''automatous'' organs, whereby we now distinguish of time, have found no mention in any ancient writers. {{right|''Sir T. Browne'', Vulg. Err., v. 18.}}}}<noinclude><references/></noinclude>"
+}
