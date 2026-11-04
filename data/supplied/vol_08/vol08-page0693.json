@@ -1,0 +1,247 @@
+{
+ "volume": 8,
+ "page_number": 693,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n692.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n692.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-03",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 787,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     23,
+     81,
+     2294,
+     125
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     23,
+     125,
+     813,
+     1121
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     163,
+     228,
+     697,
+     676
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     23,
+     1121,
+     813,
+     2180
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     23,
+     2180,
+     813,
+     3223
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     88,
+     2183,
+     813,
+     2756
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     125,
+     1553,
+     1224
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     1224,
+     1553,
+     2203
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     2203,
+     1553,
+     3223
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1553,
+     125,
+     2294,
+     1158
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1553,
+     1158,
+     2294,
+     2253
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1553,
+     2253,
+     2294,
+     3223
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|wheatear|6889|wheel}}",
+   "c1s1": "the wings are blackish; a broad glossy-black bar on the side of the head includes the ears, and is surmounted by a white stripe; the bill and feet are black, the eyes dark-\n[[FIGURE]]\n{{c|{{smaller|Wheatear (''Saxicola œnanthe''), adult male.}}}}\nbrown. The female is brownish, darkest on the upper parts, with wings and tail like those of the male; the young resemble the female, but are spotty. The nest is made on the ground; the eggs are four to seven, greenish-blue, usually spotless, sometimes faintly speckled. The wheatear shares with both the British species of ''Pratincola'' the name ''stonechat'', which is more appropriate to this bird than to either of the bushchats; it is more fully specified as ''white-rumped stonechat'', and also called ''white-rump, whitetail, stone-clatter'' (from its Gaelic name ''clacharan'', which survives in Scotland and in books), ''fallow-finch'', and by other local names.\n{{smaller block|What cook of any spirit would lose her time in picking larks, ''wheat-ears'', and other small birds?\n{{right|''Swift'', Directions to Servants (Cook).}}}}",
+   "c1s2": "¶\n{{smaller block|Although the ''wheatear’s'' colors are somewhat chaste, still their bold contrast, and the manner in which they are distributed, make the bird a very pretty one.\n{{right|''Seebohm'', Hist. Brit. Birds, I. 302.}}}}\n\n'''wheat-eel''' (hwēt′ēl), ''n.'' [Appar. < ''wheat'' + ''eel'', but perhaps a dial. form of *''wheat-evil'', < ''wheat'' + ''evil''<sup>1</sup>.] Ear-cockle or purples, a disease of wheat caused by the eel-worm, ''Tylenchus tritici''.\n\n'''wheaten''' (hwē′tn), ''a.'' [< ME. ''wheten'', ''hueten'', ''hwæten'', < AS. ''hwǣten'' (= MD. ''weiten'', D. ''weite''-(''meel'') = G. ''weizen''(''brod'')), < ''hwǣte'', wheat, + -''en'', E. -''en''<sup>2</sup>.] Of, pertaining to, or made from wheat: as, ''wheaten'' straw. {{smaller|Specifically—(''a'') Made of the stalks, straw, or husks of wheat.}}\n{{smaller block|There wayted Summer naked starke, all saue a ''wheaten'' hat.\n{{right|''Golding'', tr. of Ovid’s Metamorph., ii.}}}}\n{{smaller block|Peace should still her ''wheaten'' garland wear.\n{{right|''Shak.'', Hamlet, v. 2. 41.}}}}\n{{smaller|(''b'') Made of the grain or flour of wheat.}}\n{{smaller block|More hi uynt smak [she finds more relish] in ane zoure epple thanne in ane ''huetene'' lhoue [loaf].\n{{right|''Ayenbite of Inwyt'' (E. E. T. S.), p. 82.}}}}\n{{smaller block|Of ''wheaten'' flour shalt thou make them [cakes and wafers].\n{{right|Ex. xxix. 2.}}}}\n{{smaller block|His diet was of ''wheaten'' bread.\n{{right|''Cowper'', Epitaph on a Hare.}}}}\n\n'''wheat-field''' (hwēt′fēld), ''n.'' A field of wheat.\n\n'''wheat-fly''' (hwēt′flī), ''n.'' '''1.''' Any one of several flies of the family ''Oscinidæ'', common upon wheat in Europe and North America, as ''Oscinis frit'', ''Chlorops tæniopus'', and ''C. lineata''.—'''2.''' The Hessian fly.—'''3.''' The wheat-midge.—'''4.''' Improperly, a wheat plant-louse in the winged form. Compare ''greenfly'', 2.—'''5.''' The wheat gall-",
+   "c1s3": "[[FIGURE]]\n{{c|{{smaller|Wheat Gall-fly (''Isosoma hordei'').}}}}\n{{c|{{smaller|''a'', wheat-stalks with galls produced by the larva ; ''b'', female fly (cross shows natural size).}}}}\nfly, a variety of ''Isosoma hordei'', whose larva is the wheat joint-worm. See ''joint-worm'', 2.\n\n'''wheat-grader''' (hwēt′grā″dėr), ''n.'' In ''milling'', a machine for cleaning, separating, and grading wheat according to the size and shape of the grains; a grain- or wheat-separator. ''E. H. Knight.''\n\n'''wheat-grass''' (hwēt′grȧs), ''n.'' The couch- or quitch-grass, ''Agropyrum repens''; also, any wild grass of the genus ''Agropyrum'' or ''Triticum''.\n\n'''wheatland''' (hwēt′la̤nd), ''n.'' Land sown with wheat.",
+   "c2s1": "{{smaller block|Beyond the ''wheatlands'' in the northern pines.\n{{right|''A. Lampman'', The Academy, Nov. 23, 1889, p. 335.}}}}\n\n'''wheat-maggot''' (hwēt′mag″ọt), ''n.'' The larva of any one of the dipterous insects affecting the wheat-plant.\n\n'''wheat-midge''' (hwēt′mij), ''n.'' '''1.''' A dipterous insect of the family ''Cecidomyiidæ'', ''Diplosis tritici'', which lays its eggs in the flowers of wheat-heads, and whose minute reddish larvæ devour the kernels. {{smaller|It is originally a European insect, but has been imported into the United States and Canada. The larva is known in England as the ''red maggot''.}} '''2.''' A dipterous insect, ''Lasioptera obfuscata''. ''Encyc. Dict.''\n\n'''wheat-mildew''' (hwēt′mil″dū), ''n.'' A name applied in England to the common rust (''Puccinia graminis''), found on various grasses, and especially on wheat and oats. In the United States it is applied to ''Erysiphe graminis'', a true powdery mildew.\n\n'''wheat-mite''' (hwēt′mīt), ''n.'' Same as ''flour-mite''.\n\n'''wheat-moth''' (hwēt′môth), ''n.'' One of several small moths whose larvæ devour stored wheat, as the Angoumois grain-moth (''Gelechia cerealella''), the Indian-meal moth (''Ephestia interpunctella''), the Mediterranean flour-moth (''Ephestia kühniella''), or the wolf-moth (''Tinea granella'').\n\n'''wheat-pest''' (hwēt′pest), ''n.'' A dipterous insect, the frit-fly, ''Oscinis vastator''.\n\n'''wheat-riddle''' (hwēt′rid″l), ''n.'' A grain- or wheat-separator.\n\n'''wheat-rust''' (hwēt′rust), ''n.'' Same as ''red rust'' and ''black rust'' (see both, under ''rust'').\n\n'''wheat-scourer''' (hwēt′skour″ėr), ''n.'' In ''milling'', a cleaning-machine which receives the grain as",
+   "c2s2": "passed from the smutter, and removes any hairs or loose parts of the outer bran. {{smaller|One form consists of a stiff brush with a grooved burrstone revolving against it below, the wheat passing between the two. ''E. H. Knight.''}}\n\n'''wheatsel-bird''' (hwēt′sl-bėrd), ''n.'' The chaffinch, ''Fringilla cœlebs:'' so called from its congregating in autumn about the time of sowing wheat. ''J. H. Gurney.'' See cut under ''chaffinch.'' [Norfolk, Eng.]\n\n'''wheat-separator''' (hwēt′sep″ạ-rā-to̤r), ''n.'' An apparatus for freeing wheat from mustard-seed, cockle, grass-seed, etc. {{smaller|The grain is made to pass over a series of inclined plates pierced with holes which allow the passage of the smaller seeds but retain the wheat. ''E. H. Knight.''}}\n\n'''Wheatstone bridge.''' See ''resistance'', 3.\n\n'''wheat-thief''' (hwēt′thēf), ''n.'' The corn gromwell or bastard alkanet, ''Lithospermum arvense'', a grain-field weed of Europe and parts of Asia, introduced in North America.\n\n'''wheat-thrips''' (hwēt′thrips), ''n.'' Any one of several species of thrips found abundantly upon wheat, and commonly supposed to injure the wheatlands, as ''Thrips cerealium'' of Europe, and ''Limothrips tritici'' and ''L. gramineæ'' of the United States.\n\n'''wheat-weevil''' (hwēt′wē″vl), ''n.'' '''1.''' The grain-weevil.—'''2.''' The rice-weevil. See also ''Calandra'', 2, and ''weevil.''\n\n'''wheat-worm''' (hwēt′wėrm), ''n.'' Same as ''wheat eel-worm'' (which see, under ''wheat'').",
+   "c2s3": "¶\n'''wheaze†''', ''v. i.'' An old spelling of ''wheeze.''\n\n'''wheder†''', ''pron.'' An old spelling of ''whether''<sup>1</sup>.\n\n'''wheedle''' (hwē′dl), ''v.''; pret. and pp. ''wheedled'', ppr. ''wheedling.'' [Formerly ''wheadle''; perhaps for *''weedle'', < G. ''wedeln'', wag the tail, fan (hence fawn, flatter?), < ''wedel'', a fan, tail, brush, MHG. ''wedel'' (''wadel''), OHG. ''wedil'' (''wadal''), fan, winnowing-fan, lit. instrument for blowing; with formative ''-del'' (''-thlo-''), < OHG. ''wehan'', MHG. G. ''wehen'', blow: see ''wind''<sup>2</sup>. Similar uses occur with Dan. ''logre'', wag the tail, also fawn upon one; with Icel. ''flathra'', wag the tail, fawn upon; with OF. ''coueter'', wag the tail, etc. It is not clear how a G. word of this kind could get into E.; but the German wars of the 17th century brought in a number of words, and this may have been taken up as a slang term. Some refer ''wheedle'' to W. ''chwedlai'', talk, gossip, < ''chwedl'', a fable, story, discourse; but the resemblance is superficial.] '''I.''' ''trans.'' '''1.''' To entice, especially by soft words; gain over by coaxing and flattery; cajole; coax; flatter; hence, to hoax; take in.\n{{smaller block|<poem>I admire thy Impudence, I cou’d never\nHave had the Face to have ''wheadl’d'' the poor Knight so.</poem>\n{{right|''Etherege'', She Would if She Could, i. 1.}}\nAnd so go to her, begin thy new employment; ''wheedle'' her, jest with her, and be better acquainted one with another.\n{{right|''Wycherley'', Country Wife, ii. 1.}}\nI am not the first that he has ''wheadled'' with his dissembling Tongue.\n{{right|''Congreve'', Way of the World, v. 1.}}\nIt is (probably) the best Conduct not to bear away Quartering, till you have ''wheedled'' the Enemy into your Wake.\n{{right|''W. Mountaine'', Seaman’s Vade-Mecum (ed. 1761), p. 120.}}}}",
+   "c3s1": "¶\n'''2.''' To gain or procure by flattery or coaxing.\n{{smaller block|I have . . . a deed of settlement of the best part of her estate, which I ''wheedled'' out of her.\n{{right|''Congreve'', Way of the World, iii.}}}}\n'''II.''' ''intrans.'' To flatter; coax.\n{{smaller block|His business was to pump and ''wheedle.''\n{{right|''S. Butler'', Hudibras, II. iii. 335.}}}}\n{{smaller block|If that ''wheadling'' Villain has wrought upon Foible to detect me, I’m ruin’d. ''Congreve'', Way of the World, iii. 4.}}\n{{smaller block|In a fawning, ''wheedling'' tone. ''C. Kingsley'', Hypatia, iv.}}\n\n'''wheedle†''' (hwē′dl), ''n.'' [< ''wheedle'', ''v.''] '''1.''' One who wheedles; a cajoling or coaxing person.\n{{smaller block|''Hip.'' Methinks you might believe me without an oath. You saw I could dissemble with my father, why should you think I could not with you?\n''Ger.'' So young a ''wheedle!''\n{{right|''Wycherley'', Gentleman Dancing-Master, iv. 1.}}}}\n'''2.''' A piece of cajolery; a flattering or coaxing speech; a hoax.\n{{smaller block|<poem>Why, hast thou lost all Sense of Modesty?\nDo’st thou think to pass these gross ''wheadles'' on me too?</poem>\n{{right|''Etherege'', She Would if She Could, i. 1.}}}}\n\n'''wheedler''' (hwēd′lėr), ''n.'' [< ''wheedle'' + ''-er''<sup>1</sup>.] One who wheedles.\n\n'''wheedlesome''' (hwē′dl-sum), ''a.'' [< ''wheedle'' + ''-some.''] Coaxing; cajoling. [Rare.]\n{{smaller block|Anything more irresistibly ''wheedlesome'' I never saw.\n{{right|''L. M. Alcott'', Hospital Sketches, etc., p. 88.}}}}\n\n'''wheedling''' (hwēd′ling), ''n.'' [Verbal n. of ''wheedle'', ''v.''] The act or art of coaxing, cajoling, or deluding by flattery.\n{{smaller block|He wrote severall pieces, viz. “The English Rogue,” “The Art of ''Wheadling,''” &c. ''Aubrey'', Lives (Meriton).}}",
+   "c3s2": "¶\n'''wheel<sup>1</sup>''' (hwēl), ''n.'' [< ME. ''wheel, whele, whel, wheol, qwel, hwel, hueȝel, hweol,'' < AS. ''hweól, hwiól,'' contr. of ''hweowol, hweohl'' (= MD. ''weel, wiel,'' D. ''wiel'' = LG. ''weel, wel'' = Icel. ''hjól'' = OSw. ''hiugl,'' Sw. ''hjul'' = Dan. ''hjul,'' a wheel); Teut. appar. *''hwehula,'' *''hwehula,'' perhaps = Gr. κύκλος, a wheel, circle: see ''cycle''<sup>1</sup>. The Icel. ''hvel,'' orb, disk, can hardly be related.] '''1.''' A circular frame or solid disk turning on an axis. {{smaller|Wheels, as applied to vehicles, usually consist of a nave, into which are inserted spokes or radii, connecting it with the periphery or circular ring. (See ''car-wheel'' (with cut); also cuts under ''car-track'' and ''felly''.) Wheels are most important agents in machinery, being employed in a variety of forms and combinations for a great variety of purposes, as for transmitting motion, regulating velocity, converting one species of motion into another, reducing friction, equalizing the effect of forces applied in an intermittent or irregular manner, etc.}}\n{{smaller block|<poem>The cartere over-ryden with his carte,\nUnder the ''whel'' ful lowe he lay adoun.</poem>{{right|''Chaucer'', Knight’s Tale (ed. Morris), l. 1165.}}}}\n{{smaller block|<poem>Smack went the whip, round went the ''wheels'',\nWere never folks so glad;\nThe stones did rattle underneath,\nAs if Cheapside were mad.</poem>{{right|''Cowper'', John Gilpin.}}}}\n\n'''2.''' Any instrument, apparatus, machine, or other object shaped like a wheel, or the essential feature of which is a wheel: as, a mill-''wheel'', a spinning-''wheel'', or a potters’ ''wheel''.\n{{smaller block|Then I went down to the potter’s house, and, behold, he wrought a work on the ''wheels''. {{right|Jer. xviii. 3.}}}}\n{{smaller block|Thus, in lower life, whilst the ''wheel'', the needle, &c., imploy her, the plough of some trade perhaps demands the muscles and hardiness of him.\n{{right|''W. Wollaston'', Religion of Nature, viii. 1.}}}}\n{{smaller block|<poem>Turn, turn, my ''wheel''! This earthen jar\nA touch can make, a touch can mar.</poem>}}",
+   "c3s3": "{{smaller block|{{right|''Longfellow'', Keramos.}}}}\n{{smaller block|<poem>The meal-sacks on the whiten’d floor,\nThe dark round of the dripping ''wheel.''</poem>\n{{right|''Tennyson'', Miller’s Daughter.}}}}\n{{smaller|(''a'') ''Naut.'', a circular frame with handles projecting from the periphery, and an axle on which are wound the ropes or chains which connect with the rudder for steering a ship; a steering-wheel. Where a ship is steered by steam, in place of an ordinary wheel a small wheel is used, by turning which steam is admitted to the engines which turn the barrel on which the wheel-rope is wound. (''b'') An instrument of torture. See ''to break on the wheel'', under ''break.''}}\n{{smaller block|<poem>The lifted axe, the agonizing ''wheel'',\nLuke’s iron crown, and Damien’s bed of steel.</poem>\n{{right|''Goldsmith'', Traveller, l. 435.}}}}\n{{smaller|(''c'') A firework of a circular shape which revolves on an axis, while burning by the reaction of the escaping gases. See ''catharine-wheel'', 3, and ''pinwheel'', 3. (''d'') ''pl.'' Figuratively, a carriage; a chariot. [Poetical.]}}\n{{smaller block|How now, noble Pompey! What, at the ''wheels'' of Cæsar? art thou led in triumph? {{right|''Shak.'', M. for M., iii. 2. 47.}}}}\n{{smaller block|<poem>I earth in earth forget these empty courts,\nAnd thee returning on thy silver ''wheels.''</poem>\n{{right|''Tennyson'', Tithonus.}}}}\n{{smaller|(''e'') One of the attributes of Fortune, the emblem of mutability.}}\n{{smaller block|Huanne the lheuedi of hap [lady of fortune] heth hire ''huezel'' y-went [turned] to the manne.\n{{right|''Ayenbite of Inwyt'' (E. E. T. S.), p. 24.}}}}\n{{smaller block|<poem>Now y am vndre Fortunes ''whele'',\nMy frendis forsaken me Euerychoon.</poem>\n{{right|''Hymns to Virgin'', etc. (E. E. T. S.), p. 73.}}}}\n{{smaller block|The next turn of the ''wheel'' gave the victory to Edward IV. {{right|''J. Gairdner'', Richard III., i.}}}}"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0693 c1f1.png",
+   "c1f2": "century v08 p0693 c1f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     175,
+     240,
+     685,
+     664
+    ],
+    "caption": [
+     219,
+     683,
+     669,
+     706
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     172,
+     248,
+     663,
+     667
+    ]
+   },
+   {
+    "box": [
+     100,
+     2195,
+     803,
+     2744
+    ],
+    "caption": [
+     107,
+     2755,
+     815,
+     2823
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     97,
+     2188,
+     800,
+     2745
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "1": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 3,
+    "input_tokens": 12,
+    "output_tokens": 162,
+    "cache_creation_input_tokens": 5823,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 10,
+    "input_tokens": 9715,
+    "output_tokens": 10140,
+    "cache_creation_input_tokens": 3966,
+    "cache_read_input_tokens": 35694
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|wheatear|6889|wheel}}</noinclude>the wings are blackish; a broad glossy-black bar on the side of the head includes the ears, and is surmounted by a white stripe; the bill and feet are black, the eyes darkbrown. The female is brownish, darkest on the upper parts, with wings and tail like those of the male; the young resemble the female, but are spotty. The nest is made on the ground; the eggs are four to seven, greenish-blue, usually spotless, sometimes faintly speckled. The wheatear shares with both the British species of ''Pratincola'' the name ''stonechat'', which is more appropriate to this bird than to either of the bushchats; it is more fully specified as ''white-rumped stonechat'', and also called ''white-rump, whitetail, stone-clatter'' (from its Gaelic name ''clacharan'', which survives in Scotland and in books), ''fallow-finch'', and by other local names.\n{{smaller block|What cook of any spirit would lose her time in picking larks, ''wheat-ears'', and other small birds?\n{{right|''Swift'', Directions to Servants (Cook).}}}}\n\n[[File:century v08 p0693 c1f1.png|center|244px]]\n{{c|{{smaller|Wheatear (''Saxicola œnanthe''), adult male.}}}}\n\n{{smaller block|Although the ''wheatear’s'' colors are somewhat chaste, still their bold contrast, and the manner in which they are distributed, make the bird a very pretty one.\n{{right|''Seebohm'', Hist. Brit. Birds, I. 302.}}}}\n\n'''wheat-eel''' (hwēt′ēl), ''n.''   [Appar. < ''wheat'' + ''eel'', but perhaps a dial. form of *''wheat-evil'', < ''wheat'' + ''evil''<sup>1</sup>.]   Ear-cockle or purples, a disease of wheat caused by the eel-worm, ''Tylenchus tritici''.\n\n'''wheaten''' (hwē′tn), ''a.''   [< ME. ''wheten'', ''hueten'', ''hwæten'', < AS. ''hwǣten'' (= MD. ''weiten'', D. ''weite''-(''meel'') = G. ''weizen''(''brod'')), < ''hwǣte'', wheat, + -''en'', E. -''en''<sup>2</sup>.]   Of, pertaining to, or made from wheat: as, ''wheaten'' straw. {{smaller|Specifically—(''a'') Made of the stalks, straw, or husks of wheat.}}\n{{smaller block|There wayted Summer naked starke, all saue a ''wheaten'' hat.\n{{right|''Golding'', tr. of Ovid’s Metamorph., ii.}}}}\n{{smaller block|Peace should still her ''wheaten'' garland wear.\n{{right|''Shak.'', Hamlet, v. 2. 41.}}}}\n{{smaller|(''b'') Made of the grain or flour of wheat.}}\n{{smaller block|More hi uynt smak [she finds more relish] in ane zoure epple thanne in ane ''huetene'' lhoue [loaf].\n{{right|''Ayenbite of Inwyt'' (E. E. T. S.), p. 82.}}}}\n{{smaller block|Of ''wheaten'' flour shalt thou make them [cakes and wafers].\n{{right|Ex. xxix. 2.}}}}\n{{smaller block|His diet was of ''wheaten'' bread.\n{{right|''Cowper'', Epitaph on a Hare.}}}}\n\n'''wheat-field''' (hwēt′fēld), ''n.'' A field of wheat.\n\n'''wheat-fly''' (hwēt′flī), ''n.'' '''1.''' Any one of several flies of the family ''Oscinidæ'', common upon wheat in Europe and North America, as ''Oscinis frit'', ''Chlorops tæniopus'', and ''C. lineata''.—'''2.''' The Hessian fly.—'''3.''' The wheat-midge.—'''4.''' Improperly, a wheat plant-louse in the winged form. Compare ''greenfly'', 2.—'''5.''' The wheat gallfly, a variety of ''Isosoma hordei'', whose larva is the wheat joint-worm. See ''joint-worm'', 2.\n\n[[File:century v08 p0693 c1f2.png|center|332px]]\n{{c|{{smaller|Wheat Gall-fly (''Isosoma hordei'').}}}}\n{{c|{{smaller|''a'', wheat-stalks with galls produced by the larva ; ''b'', female fly (cross shows natural size).}}}}\n\n'''wheat-grader''' (hwēt′grā″dėr), ''n.'' In ''milling'', a machine for cleaning, separating, and grading wheat according to the size and shape of the grains; a grain- or wheat-separator.   ''E. H. Knight.''\n\n'''wheat-grass''' (hwēt′grȧs), ''n.'' The couch- or quitch-grass, ''Agropyrum repens''; also, any wild grass of the genus ''Agropyrum'' or ''Triticum''.\n\n'''wheatland''' (hwēt′la̤nd), ''n.'' Land sown with wheat. {{smaller block|Beyond the ''wheatlands'' in the northern pines.\n{{right|''A. Lampman'', The Academy, Nov. 23, 1889, p. 335.}}}}\n\n'''wheat-maggot''' (hwēt′mag″ọt), ''n.'' The larva of any one of the dipterous insects affecting the wheat-plant.\n\n'''wheat-midge''' (hwēt′mij), ''n.'' '''1.''' A dipterous insect of the family ''Cecidomyiidæ'', ''Diplosis tritici'', which lays its eggs in the flowers of wheat-heads, and whose minute reddish larvæ devour the kernels. {{smaller|It is originally a European insect, but has been imported into the United States and Canada. The larva is known in England as the ''red maggot''.}} '''2.''' A dipterous insect, ''Lasioptera obfuscata''.   ''Encyc. Dict.''\n\n'''wheat-mildew''' (hwēt′mil″dū), ''n.'' A name applied in England to the common rust (''Puccinia graminis''), found on various grasses, and especially on wheat and oats. In the United States it is applied to ''Erysiphe graminis'', a true powdery mildew.\n\n'''wheat-mite''' (hwēt′mīt), ''n.'' Same as ''flour-mite''.\n\n'''wheat-moth''' (hwēt′môth), ''n.'' One of several small moths whose larvæ devour stored wheat, as the Angoumois grain-moth (''Gelechia cerealella''), the Indian-meal moth (''Ephestia interpunctella''), the Mediterranean flour-moth (''Ephestia kühniella''), or the wolf-moth (''Tinea granella'').\n\n'''wheat-pest''' (hwēt′pest), ''n.'' A dipterous insect, the frit-fly, ''Oscinis vastator''.\n\n'''wheat-riddle''' (hwēt′rid″l), ''n.'' A grain- or wheat-separator.\n\n'''wheat-rust''' (hwēt′rust), ''n.'' Same as ''red rust'' and ''black rust'' (see both, under ''rust'').\n\n'''wheat-scourer''' (hwēt′skour″ėr), ''n.'' In ''milling'', a cleaning-machine which receives the grain as passed from the smutter, and removes any hairs or loose parts of the outer bran. {{smaller|One form consists of a stiff brush with a grooved burrstone revolving against it below, the wheat passing between the two.   ''E. H. Knight.''}}\n\n'''wheatsel-bird''' (hwēt′sl-bėrd), ''n.'' The chaffinch, ''Fringilla cœlebs:'' so called from its congregating in autumn about the time of sowing wheat.   ''J. H. Gurney.'' See cut under ''chaffinch.'' [Norfolk, Eng.]\n\n'''wheat-separator''' (hwēt′sep″ạ-rā-to̤r), ''n.'' An apparatus for freeing wheat from mustard-seed, cockle, grass-seed, etc. {{smaller|The grain is made to pass over a series of inclined plates pierced with holes which allow the passage of the smaller seeds but retain the wheat.   ''E. H. Knight.''}}\n\n'''Wheatstone bridge.''' See ''resistance'', 3.\n\n'''wheat-thief''' (hwēt′thēf), ''n.'' The corn gromwell or bastard alkanet, ''Lithospermum arvense'', a grain-field weed of Europe and parts of Asia, introduced in North America.\n\n'''wheat-thrips''' (hwēt′thrips), ''n.'' Any one of several species of thrips found abundantly upon wheat, and commonly supposed to injure the wheatlands, as ''Thrips cerealium'' of Europe, and ''Limothrips tritici'' and ''L. gramineæ'' of the United States.\n\n'''wheat-weevil''' (hwēt′wē″vl), ''n.'' '''1.''' The grain-weevil.—'''2.''' The rice-weevil. See also ''Calandra'', 2, and ''weevil.''\n\n'''wheat-worm''' (hwēt′wėrm), ''n.'' Same as ''wheat eel-worm'' (which see, under ''wheat'').\n\n'''wheaze†''', ''v. i.'' An old spelling of ''wheeze.''\n\n'''wheder†''', ''pron.'' An old spelling of ''whether''<sup>1</sup>.\n\n'''wheedle''' (hwē′dl), ''v.''; pret. and pp. ''wheedled'', ppr. ''wheedling.''   [Formerly ''wheadle''; perhaps for *''weedle'', < G. ''wedeln'', wag the tail, fan (hence fawn, flatter?), < ''wedel'', a fan, tail, brush, MHG. ''wedel'' (''wadel''), OHG. ''wedil'' (''wadal''), fan, winnowing-fan, lit. instrument for blowing; with formative ''-del'' (''-thlo-''), < OHG. ''wehan'', MHG. G. ''wehen'', blow: see ''wind''<sup>2</sup>. Similar uses occur with Dan. ''logre'', wag the tail, also fawn upon one; with Icel. ''flathra'', wag the tail, fawn upon; with OF. ''coueter'', wag the tail, etc. It is not clear how a G. word of this kind could get into E.; but the German wars of the 17th century brought in a number of words, and this may have been taken up as a slang term. Some refer ''wheedle'' to W. ''chwedlai'', talk, gossip, < ''chwedl'', a fable, story, discourse; but the resemblance is superficial.]   '''I.''' ''trans.'' '''1.''' To entice, especially by soft words; gain over by coaxing and flattery; cajole; coax; flatter; hence, to hoax; take in.\n{{smaller block|<poem>I admire thy Impudence, I cou’d never\nHave had the Face to have ''wheadl’d'' the poor Knight so.</poem>\n{{right|''Etherege'', She Would if She Could, i. 1.}}}}\n{{smaller block|And so go to her, begin thy new employment; ''wheedle'' her, jest with her, and be better acquainted one with another.\n{{right|''Wycherley'', Country Wife, ii. 1.}}}}\n{{smaller block|I am not the first that he has ''wheadled'' with his dissembling Tongue.\n{{right|''Congreve'', Way of the World, v. 1.}}}}\n{{smaller block|It is (probably) the best Conduct not to bear away Quartering, till you have ''wheedled'' the Enemy into your Wake.\n{{right|''W. Mountaine'', Seaman’s Vade-Mecum (ed. 1761), p. 120.}}}}\n\n'''2.''' To gain or procure by flattery or coaxing.\n{{smaller block|I have . . . a deed of settlement of the best part of her estate, which I ''wheedled'' out of her.\n{{right|''Congreve'', Way of the World, iii.}}}}\n'''II.''' ''intrans.'' To flatter; coax.\n{{smaller block|His business was to pump and ''wheedle.''\n{{right|''S. Butler'', Hudibras, II. iii. 335.}}}}\n{{smaller block|If that ''wheadling'' Villain has wrought upon Foible to detect me, I’m ruin’d.\n{{right|''Congreve'', Way of the World, iii. 4.}}}}\n{{smaller block|In a fawning, ''wheedling'' tone.\n{{right|''C. Kingsley'', Hypatia, iv.}}}}\n\n'''wheedle†''' (hwē′dl), ''n.''   [< ''wheedle'', ''v.'']   '''1.''' One who wheedles; a cajoling or coaxing person.\n{{smaller block|''Hip.'' Methinks you might believe me without an oath. You saw I could dissemble with my father, why should you think I could not with you?\n''Ger.'' So young a ''wheedle!''\n{{right|''Wycherley'', Gentleman Dancing-Master, iv. 1.}}}}\n'''2.''' A piece of cajolery; a flattering or coaxing speech; a hoax.\n{{smaller block|<poem>Why, hast thou lost all Sense of Modesty?\nDo’st thou think to pass these gross ''wheadles'' on me too?</poem>\n{{right|''Etherege'', She Would if She Could, i. 1.}}}}\n\n'''wheedler''' (hwēd′lėr), ''n.''   [< ''wheedle'' + ''-er''<sup>1</sup>.]   One who wheedles.\n\n'''wheedlesome''' (hwē′dl-sum), ''a.''   [< ''wheedle'' + ''-some.'']   Coaxing; cajoling. [Rare.]\n{{smaller block|Anything more irresistibly ''wheedlesome'' I never saw.\n{{right|''L. M. Alcott'', Hospital Sketches, etc., p. 88.}}}}\n\n'''wheedling''' (hwēd′ling), ''n.''   [Verbal n. of ''wheedle'', ''v.'']   The act or art of coaxing, cajoling, or deluding by flattery.\n{{smaller block|He wrote severall pieces, viz. “The English Rogue,” “The Art of ''Wheadling,''” &c.\n{{right|''Aubrey'', Lives (Meriton).}}}}\n\n'''wheel<sup>1</sup>''' (hwēl), ''n.''   [< ME. ''wheel, whele, whel, wheol, qwel, hwel, hueȝel, hweol,'' < AS. ''hweól, hwiól,'' contr. of ''hweowol, hweohl'' (= MD. ''weel, wiel,'' D. ''wiel'' = LG. ''weel, wel'' = Icel. ''hjól'' = OSw. ''hiugl,'' Sw. ''hjul'' = Dan. ''hjul,'' a wheel); Teut. appar. *''hwehula,'' *''hwehula,'' perhaps = Gr. κύκλος, a wheel, circle: see ''cycle''<sup>1</sup>. The Icel. ''hvel,'' orb, disk, can hardly be related.]   '''1.''' A circular frame or solid disk turning on an axis. {{smaller|Wheels, as applied to vehicles, usually consist of a nave, into which are inserted spokes or radii, connecting it with the periphery or circular ring. (See ''car-wheel'' (with cut); also cuts under ''car-track'' and ''felly''.) Wheels are most important agents in machinery, being employed in a variety of forms and combinations for a great variety of purposes, as for transmitting motion, regulating velocity, converting one species of motion into another, reducing friction, equalizing the effect of forces applied in an intermittent or irregular manner, etc.}}\n{{smaller block|<poem>The cartere over-ryden with his carte,\nUnder the ''whel'' ful lowe he lay adoun.</poem>{{right|''Chaucer'', Knight’s Tale (ed. Morris), l. 1165.}}}}\n{{smaller block|<poem>Smack went the whip, round went the ''wheels'',\nWere never folks so glad;\nThe stones did rattle underneath,\nAs if Cheapside were mad.</poem>{{right|''Cowper'', John Gilpin.}}}}\n\n'''2.''' Any instrument, apparatus, machine, or other object shaped like a wheel, or the essential feature of which is a wheel: as, a mill-''wheel'', a spinning-''wheel'', or a potters’ ''wheel''.\n{{smaller block|Then I went down to the potter’s house, and, behold, he wrought a work on the ''wheels''. {{right|Jer. xviii. 3.}}}}\n{{smaller block|Thus, in lower life, whilst the ''wheel'', the needle, &c., imploy her, the plough of some trade perhaps demands the muscles and hardiness of him.\n{{right|''W. Wollaston'', Religion of Nature, viii. 1.}}}}\n{{smaller block|<poem>Turn, turn, my ''wheel''! This earthen jar\nA touch can make, a touch can mar.</poem> {{right|''Longfellow'', Keramos.}}}}\n{{smaller block|<poem>The meal-sacks on the whiten’d floor,\nThe dark round of the dripping ''wheel.''</poem>\n{{right|''Tennyson'', Miller’s Daughter.}}}}\n{{smaller|(''a'') ''Naut.'', a circular frame with handles projecting from the periphery, and an axle on which are wound the ropes or chains which connect with the rudder for steering a ship; a steering-wheel. Where a ship is steered by steam, in place of an ordinary wheel a small wheel is used, by turning which steam is admitted to the engines which turn the barrel on which the wheel-rope is wound. (''b'') An instrument of torture. See ''to break on the wheel'', under ''break.''}}\n{{smaller block|<poem>The lifted axe, the agonizing ''wheel'',\nLuke’s iron crown, and Damien’s bed of steel.</poem>\n{{right|''Goldsmith'', Traveller, l. 435.}}}}\n{{smaller|(''c'') A firework of a circular shape which revolves on an axis, while burning by the reaction of the escaping gases. See ''catharine-wheel'', 3, and ''pinwheel'', 3. (''d'') ''pl.'' Figuratively, a carriage; a chariot. [Poetical.]}}\n{{smaller block|How now, noble Pompey! What, at the ''wheels'' of Cæsar? art thou led in triumph? {{right|''Shak.'', M. for M., iii. 2. 47.}}}}\n{{smaller block|<poem>I earth in earth forget these empty courts,\nAnd thee returning on thy silver ''wheels.''</poem>\n{{right|''Tennyson'', Tithonus.}}}}\n{{smaller|(''e'') One of the attributes of Fortune, the emblem of mutability.}}\n{{smaller block|Huanne the lheuedi of hap [lady of fortune] heth hire ''huezel'' y-went [turned] to the manne.\n{{right|''Ayenbite of Inwyt'' (E. E. T. S.), p. 24.}}}}\n{{smaller block|<poem>Now y am vndre Fortunes ''whele'',\nMy frendis forsaken me Euerychoon.</poem>\n{{right|''Hymns to Virgin'', etc. (E. E. T. S.), p. 73.}}}}\n{{smaller block|The next turn of the ''wheel'' gave the victory to Edward IV. {{right|''J. Gairdner'', Richard III., i.}}}}<noinclude><references/></noinclude>"
+}

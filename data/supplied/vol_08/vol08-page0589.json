@@ -1,0 +1,269 @@
+{
+ "volume": 8,
+ "page_number": 589,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n588.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n588.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-03",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 852,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     41,
+     2326,
+     81
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     81,
+     859,
+     1078
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1078,
+     859,
+     1998
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1998,
+     859,
+     3083
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     544,
+     2114,
+     766,
+     3042
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     3083,
+     859,
+     3203
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     859,
+     81,
+     1599,
+     1105
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     859,
+     1105,
+     1599,
+     2188
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     859,
+     2188,
+     1599,
+     3203
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1599,
+     81,
+     2326,
+     1161
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1599,
+     1161,
+     2326,
+     1421
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1599,
+     1421,
+     2326,
+     2461
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1599,
+     1421,
+     2317,
+     2426
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1599,
+     2461,
+     2326,
+     3203
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|Voltairism|6785|volume}}",
+   "c1s1": "¶\n'''Voltairism''' (vol-tãr′izm), ''n.'' [< ''Voltaire'' (see def.) + ''-ism.''] The principles or practice of Voltaire; skepticism; infidelity.\n{{smaller block|In Luther’s own country Protestantism soon dwindled into a rather barren affair, . . . the essence of it sceptical contention: which indeed has jangled more and more down to ''Voltaireism.''\n{{right|''Carlyle'', Heroes, iv.}}}}\n\n'''voltaism''' (vol′tä-izm), ''n.'' [< ''Volta'' (see def.) + ''-ism.''] That branch of electrical science which discusses the production of an electric current by the chemical action between dissimilar metals immersed in a liquid. {{smaller|It is so named from the Italian physicist Volta, whose experiments contributed greatly to the establishment of this branch of science. See ''voltaic.''}}\n\n'''voltaite''' (vol′tä-īt), ''n.'' [< ''Volta'' (see ''voltaic'') + ''-ite''<sup>2</sup>.] In ''mineral.'', a hydrous sulphate of iron, occurring in isometric crystals of a green to black color: first found at the solfatara near Naples.\n\n'''voltameter''' (vol-tam′e-tėr), ''n.'' [Irreg. < ''volta(ic)'' + Gr. μέτρον, measure.] An electrolytic cell arranged for quantitative measurement of the amount of decomposition produced by the passage through it of an electric current, and hence used as an indirect means of measuring the strength of the current.\n\n'''voltametric''' (vol-ta-met′rik), ''a.'' Pertaining to or involving the use of a voltameter: as, ''voltametric'' measurement.\n\n'''volt-ammeter''' (vōlt′am″e-tėr), ''n.'' '''1.''' A combination of a volt-meter and a transformer, for the",
+   "c1s2": "measurement of alternating currents. {{smaller|The secondary or thick-wire coil of the transformer is included in the circuit through which the current passes, while the primary or thin-wire coil is closed through the volt-meter.}} '''2.''' An instrument which can be used for measuring either volts or amperes.\n\n'''volt-ampere''' (vōlt′am-pãr″), ''n.'' The rate of working or activity in an electric circuit when the electromotive force is one volt and the current one ampere; a watt.\n\n'''voltaplast''' (vol′tä̤-plȧst), ''n.'' [< ''volta''(''ic'') + Gr. πλαστός, verbal adj. of πλάσσειν, mold.] A kind of voltaic battery used in electrotyping.\n\n'''Volta’s pile.''' See ''battery'', 8 (''b'').\n\n'''Volta’s pistol.''' See ''pistol.''\n\n'''voltatype''' (vol′tä̤-tīp), ''n.'' [< ''volta''(''ic'') + Gr. τύπος, type: see ''type.''] Same as ''electrotype.''\n\n'''volt-coulomb''' (vōlt′kö-lom″), ''n.'' Same as ''joule.''\n\n'''volte''', ''n.'' Plural of ''volta.''\n\n'''volti''' (vōl′ti), ''v.'' [It., impv. of ''voltare'', turn, < L. ''volvere'', pp. ''volutus'', turn: see ''volt''<sup>1</sup>, ''volve.''] In ''music'', same as ''verte.''—'''Volti subito.''' {{smaller|See ''verte subito.''}}\n\n'''voltiger†''' (vol′ti-jėr), ''n.'' [< F. ''voltigeur'', a leaper: see ''voltigeur.''] Same as ''voltigeur.''\n{{smaller block|The ''voltiger'' of Ferrara was but as an ape compared to him. He was singularly skilful in leaping nimbly from one horse to another without putting foot to ground, and these horses were called desultories.\n{{right|''Urquhart'', tr. of Rabelais, i. 23.}}}}",
+   "c1s3": "¶\n'''voltigeur''' (vol-ti-zhėr′), ''n.'' [F., < ''voltiger'', < It. ''volteggiare'', vault, < ''volta'', a turn, volt: see ''volt''<sup>1</sup>.] '''1.''' A leaper; a vaulter.—'''2.''' Formerly, in France,\n[[FIGURE]]\n{{c|{{smaller|Volt-meter.}}}}\na member of a light-armed picked company, placed on the left of a battalion; under the second empire, a member of one of several special infantry regiments.\n\n'''voltite''' (vol′tīt), ''n.'' In ''elect.'', an insulating material consisting of a mixture of a specially prepared gelatin with resin-oil, oxidized linseed-oil, resin, and paraffin.\n\n'''volt-meter''' (vōlt′mē″tėr), ''n.'' An electrometer, or a high-resistance galvanometer, or a galvanometer combined with a resistance calibrated so that its indications show the number of volts E. M. F. in the circuit between its terminals. The cut shows one form of volt-meter, for the construction of which see ''ampere-meter''.\n\n'''volto†''', ''n.'' [It.: see ''vault''<sup>1</sup>.] A vault.\n{{smaller block|Entring the church, admirable is the bredth of the ''volto'' or roofe.\n{{right|''Evelyn'', Diary, Nov. 19, 1644.}}}}\n\n'''Voltolini’s disease.''' A dis-",
+   "c1s4": "ease of childhood, characterized by cerebral symptoms, and followed by permanent deafness.\n\n426",
+   "c2s1": "¶\n'''Voltzia''' (volt′si-ä̤), ''n.'' [NL., named after P. L. ''Voltz'' (1785–1840), a French mining engineer.] The generic name given by Brongniart (1828) to a fossil plant which first appeared in the Permian, and found also, in several localities, in the various divisions of the European Trias, and in rocks of the same age in India. {{smaller|''Voltzia'' belongs to the ''Coniferæ'', and is placed by Schenk among the ''Taxodineæ''. It is a tree of considerable height, resembling ''Araucaria'' in general appearance, but having a fructification analogous to that of the ''Taxodineæ''. The fossils called ''Cyclopteris Liebeana'' by Geinitz are considered by Kidston as being, in all probability, the bracts of a cone of ''Voltzia''. The ''Glyptolepis'' of Schimper and the ''Glyptolepidium'' of Heer were also (in 1884) placed by Schenk under ''Voltzia''.}}\n\n'''voltzine''' (volt′sin), ''n.'' [< ''Voltz'' (see ''Voltzia'') + ''-ine''<sup>2</sup>.] A rose-red, yellowish, or brownish opaque or subtranslucent mineral, occurring in implanted spherical globules with thin lamellar structure. It is an oxysulphid of zinc.\n\n'''voltzite''' (volt′sīt), ''n.'' [< ''Voltz'' (see ''Voltzia'') + ''-ite''<sup>2</sup>.] Same as ''voltzine''.\n\n'''volubilate''' (vol′ū-bi-lāt), ''a.'' [< L. ''volubilis'', turning (see ''voluble'') + ''-ate''<sup>1</sup>.] In ''bot.'', twining; voluble.\n\n'''volubile''' (vol′ụ̄-bil), ''a.'' [Formerly also ''volubil''; < L. ''volubilis'', whirling, that is turned round: see ''voluble''.] '''1†.''' Same as ''voluble'', 1.\n{{smaller block|<poem>This less ''volubil'' earth,\nBy shorter flight to the east, had left him there.</poem>\n{{right|''Milton'', P. L., iv. 594.}}}}\n'''2.''' In ''bot.'', same as ''voluble'', 4. ''Encyc. Brit.'', IV. 95.",
+   "c2s2": "¶\n'''volubility''' (vol-ū-bil′i-ti), ''n.'' [< F. ''volubilité'', < L. ''volubilita(t-)s'', a rapid whirling motion, fluency (of speech), < ''volubilis'', whirling, voluble: see ''voluble''.] '''1.''' The state or character of being voluble in speech; excessive fluency or readiness in speaking; unchecked flow of talk.\n{{smaller block|A lacquey that runs on errands for him, and can whisper a light message to a loose wench with some round ''volubility''. {{right|''B. Jonson'', Cynthia’s Revels, i. 1.}}}}\n{{smaller block|He [the emperor] first attacked Cardinal Fesch, and, singularly enough, launched forth with uncommon ''volubility'' into a discussion on ecclesiastical principles and usages, without possessing the slightest notion, either historical or theological, of the subject. {{right|''Memoirs of Talleyrand'', in The Century, XLI. 701.}}}}\n'''2.''' A rolling or revolving; aptness to roll; revolution; hence, mutability.\n{{smaller block|Then celestial spheres should forget their wonted motions, and by irregular ''volubility'' turn themselves any way, as it might happen. {{right|''Hooker.''}}}}\n{{smaller block|''Volubility'' of human affairs. {{right|''Sir R. L’Estrange.''}}}}\n\n'''voluble''' (vol′ū-bl), ''a.'' [< F. ''voluble'' = Sp. ''voluble'' = Pg. ''voluvel'' = It. ''volubile'', < L. ''volubilis'', that turns around, whirling, fluent (of speech), < ''volvere'', pp. ''volutus'', turn round or about: see ''volve''.] '''1.''' Formed so as to roll with ease, or to be easily turned or set in motion; apt to roll; rolling; rotating; revolving.\n{{smaller block|The most excellent of all the figures Geometrical is the round for his many perfections. First because he is euen and smooth, without any angle or interruption, most ''voluble'' and apt to turne, and to continue motion, which is the author of life. ''Puttenham'', Arte of Eng. Poesie, p. 81.}}\n{{smaller block|<poem>Yeares, like a ball, are ''voluble'', and run;\nHoures, like false Vowes, no sooner spoke than done.</poem>\n{{right|''Heywood'', Dialogues (Works, ed. Pearson, 1874, VI. 141).}}}}",
+   "c2s3": "¶\n{{smaller block|Would you like to hear yesterday’s sermon over and over again — eternally ''voluble?'' {{right|''Thackeray'', Philip, xvii.}}}}\n'''2.''' Characterized by a great flow of words or by glibness of utterance; speaking with plausible fluency: as, a ''voluble'' politician.\n{{smaller block|Cassio, . . . a knave very ''voluble.''\n{{right|''Shak.'', Othello, ii. 1. 242.}}}}\n{{smaller block|<poem>A man’s tongue is ''voluble'', and pours\nWords out of all sorts ev’ry way. Such as you speak you hear.</poem>\n{{right|''Chapman'', Iliad, xx. 228.}}}}\n{{smaller block|If a man hath a ''voluble'' Tongue, we say, He hath the gift of Prayer. {{right|''Selden'', Table-Talk, p. 90.}}}}\n{{smaller block|[Formerly it might be used of readiness and ease in speaking without the notion of excess.}}\n{{smaller block|It [speech] ought to be ''voluble'' vpon the tongue, and tunable to the eare.\n{{right|''Puttenham'', Arte of Eng. Poesie (ed. Arber), p. 168.}}}}\n{{smaller block|He [Archbishop Abbot] was painful, stout, severe against bad manners, of a grave and ''voluble'' eloquence.\n{{right|''Bp. Hacket'', Abp. Williams, i. 65. (''Trench.'')]}}}}\n'''3†.''' Changeable; mutable.\n{{smaller block|<poem>He . . . almost puts\nFaith in a fever, and deifies alone\n''Voluble'' chance.</poem>\n{{right|''Fletcher'' (''and another''), Two Noble Kinsmen, i. 2.}}}}\n'''4.''' In ''bot.'', of a twining habit; rising spirally around a support, as the hop.\n\n'''volubleness''' (vol′ū-bl-nes), ''n.'' The character of being voluble; volubility.\n\n'''volubly''' (vol′ụ̄-bli), ''adv.'' In a voluble or fluent manner.\n{{smaller block|<poem>“O Gods,” said he, “how ''volubly'' doth talk\nThis eating gulf!”</poem>\n{{right|''Chapman'', Odyssey, xviii. 41.}}}}",
+   "c3s1": "¶\n{{smaller block|Fallacies which, when set down on paper, are at once detected, pass for unanswerable arguments when dexterously and ''volubly'' urged in Parliament, at the bar, or in private conversation.\n{{right|''Macaulay'', History.}}}}\n\n'''Volucella''' (vol-ū-sel′ä), ''n.'' [NL. (Geoffroy, 1764), < L. ''volucris'', fitted for flight: see ''Volucres''.] A notable genus of syrphid flies, some of them mimicking bumblebees in general appearance, and parasitic, in the larval state, upon the larvæ of these bees and in the nests of wasps. Forty-five species are known in North America, and seven in Europe.\n\n'''Volucres''' (vol′ū-krēz), ''n. pl.'' [NL., < L. ''volucer'' or ''volucris'', fitted for flight, winged, volitorial; as a noun, a bird; < ''volare'', fly: see ''volant''.] '''1.''' In C. L. Bonaparte’s classification of birds (1850), the first tribe of the third order of ''Passeres'', embracing those lower ''Passeres'' which form Sundevall’s scutelliplantar division of that order, together with all the picarian birds. {{smaller|It is an artificial group, insusceptible of definition, and corresponds exactly with no recognized group or groups; on the whole it agrees best with ''Picariæ'' as commonly accepted.}} '''2.''' In C. J. Sundevall’s classification, the second order of birds, agreeing in the main with the ''Picariæ'' as commonly understood, but including the parrots and pigeons. It is most nearly a synonym of the old ''Picæ'' of Linnæus.\n\n[Rare in both senses.]\n\n'''volucrine''' (vol′ū-krin), ''a.'' [< L. ''volucris'', a bird, + ''-ine''<sup>1</sup>.] Pertaining to birds; bird-like.\n{{smaller block|The ''volucrine'' clamor continued unabated, and when I came downstairs I was not surprised at the sight that awaited me. The passage was filled with bird-cages.\n{{right|''P. Robinson'', Under the Sun, p. 349.}}}}",
+   "c3s2": "¶\n'''volume''' (vol′ūm), ''n.'' [< F. ''volume'' = Sp. ''volúmen'' = Pg. It. ''volume'', < L. ''volumen'' (''volumin-''), a roll (as of a manuscript), < ''volvere'', pp. ''volutus'', roll round or about: see ''voluble''.] '''1.''' A written document (as of parchment, papyrus, or strips of bark) rolled up in a convenient form for keeping or use, such being anciently the prevailing form of the book; a roll; a scroll.",
+   "c3s3": "[[FIGURE]]\n{{c|{{smaller|Volume of the ancient type.}}}}\n{{c|{{smaller|Pentateuch of the Samaritans, used in their Synagogue at Shechem.}}}}",
+   "c3s4": "{{smaller block|The written sheets were usually wound around a stick, termed an ''umbilicus'', the extremities of which were called the ''cornua'', to which a label containing the name of the author was tied. The whole was placed in a wrapper, and frequently anointed with oil of cedarwood as a preservative against insects.}}\n\n{{smaller block|In the ''volume'' [roll, R. V.] of the book it is written.\n{{right|Heb. x. 7.}}}}\n\n{{smaller block|In history a great ''volume'' is unrolled for our instruction.\n{{right|''Burke'', Rev. in France.}}}}\n\nHence—'''2.''' A collection of written or printed sheets bound together, whether containing a single complete work, a part of a work, or more than one separate work; a book; a tome: as, a large ''volume;'' a work in six ''volumes.''\n\n{{smaller block|<poem>He furnish’d me\nFrom mine own library with ''volumes.''</poem>\n{{right|''Shak.'', Tempest, i. 2. 167.}}}}\n\n{{smaller block|They [men] cannot extinguish those lively characters of the power, wisdom, and goodness of God which are every where to be seen in the large ''volume'' of the Creation.\n{{right|''Stillingfleet'', Sermons, I. iii.}}}}\n\n{{smaller block|An odd ''volume'' of a set of books bears not the value of its proportion to the set.\n{{right|''Franklin.''}}}}"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0589 c1f1.png",
+   "c3f1": "century v08 p0589 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     556,
+     2126,
+     754,
+     3030
+    ],
+    "caption": [
+     632,
+     3034,
+     752,
+     3055
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     592,
+     2128,
+     778,
+     3039
+    ]
+   },
+   {
+    "box": [
+     1602,
+     1433,
+     2305,
+     2414
+    ],
+    "caption": [
+     1615,
+     2396,
+     2327,
+     2448
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1596,
+     1481,
+     2219,
+     2393
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 3,
+    "input_tokens": 12,
+    "output_tokens": 186,
+    "cache_creation_input_tokens": 6105,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 12,
+    "input_tokens": 9991,
+    "output_tokens": 8424,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c1f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|Voltairism|6785|volume}}</noinclude>{{nop}}'''Voltairism''' (vol-tãr′izm), ''n.''   [< ''Voltaire'' (see def.) + ''-ism.'']   The principles or practice of Voltaire; skepticism; infidelity.\n{{smaller block|In Luther’s own country Protestantism soon dwindled into a rather barren affair, . . . the essence of it sceptical contention: which indeed has jangled more and more down to ''Voltaireism.''\n{{right|''Carlyle'', Heroes, iv.}}}}\n\n'''voltaism''' (vol′tä-izm), ''n.''   [< ''Volta'' (see def.) + ''-ism.'']   That branch of electrical science which discusses the production of an electric current by the chemical action between dissimilar metals immersed in a liquid. {{smaller|It is so named from the Italian physicist Volta, whose experiments contributed greatly to the establishment of this branch of science. See ''voltaic.''}}\n\n'''voltaite''' (vol′tä-īt), ''n.''   [< ''Volta'' (see ''voltaic'') + ''-ite''<sup>2</sup>.]   In ''mineral.'', a hydrous sulphate of iron, occurring in isometric crystals of a green to black color: first found at the solfatara near Naples.\n\n'''voltameter''' (vol-tam′e-tėr), ''n.''   [Irreg. < ''volta(ic)'' + Gr. μέτρον, measure.]   An electrolytic cell arranged for quantitative measurement of the amount of decomposition produced by the passage through it of an electric current, and hence used as an indirect means of measuring the strength of the current.\n\n'''voltametric''' (vol-ta-met′rik), ''a.'' Pertaining to or involving the use of a voltameter: as, ''voltametric'' measurement.\n\n'''volt-ammeter''' (vōlt′am″e-tėr), ''n.'' '''1.''' A combination of a volt-meter and a transformer, for the measurement of alternating currents. {{smaller|The secondary or thick-wire coil of the transformer is included in the circuit through which the current passes, while the primary or thin-wire coil is closed through the volt-meter.}} '''2.''' An instrument which can be used for measuring either volts or amperes.\n\n'''volt-ampere''' (vōlt′am-pãr″), ''n.'' The rate of working or activity in an electric circuit when the electromotive force is one volt and the current one ampere; a watt.\n\n'''voltaplast''' (vol′tä̤-plȧst), ''n.''   [< ''volta''(''ic'') + Gr. πλαστός, verbal adj. of πλάσσειν, mold.]   A kind of voltaic battery used in electrotyping.\n\n'''Volta’s pile.''' See ''battery'', 8 (''b'').\n\n'''Volta’s pistol.''' See ''pistol.''\n\n'''voltatype''' (vol′tä̤-tīp), ''n.''   [< ''volta''(''ic'') + Gr. τύπος, type: see ''type.'']   Same as ''electrotype.''\n\n'''volt-coulomb''' (vōlt′kö-lom″), ''n.'' Same as ''joule.''\n\n'''volte''', ''n.'' Plural of ''volta.''\n\n'''volti''' (vōl′ti), ''v.''   [It., impv. of ''voltare'', turn, < L. ''volvere'', pp. ''volutus'', turn: see ''volt''<sup>1</sup>, ''volve.'']   In ''music'', same as ''verte.''—'''Volti subito.''' {{smaller|See ''verte subito.''}}\n\n'''voltiger†''' (vol′ti-jėr), ''n.''   [< F. ''voltigeur'', a leaper: see ''voltigeur.'']   Same as ''voltigeur.''\n{{smaller block|The ''voltiger'' of Ferrara was but as an ape compared to him. He was singularly skilful in leaping nimbly from one horse to another without putting foot to ground, and these horses were called desultories.\n{{right|''Urquhart'', tr. of Rabelais, i. 23.}}}}\n\n'''voltigeur''' (vol-ti-zhėr′), ''n.''   [F., < ''voltiger'', < It. ''volteggiare'', vault, < ''volta'', a turn, volt: see ''volt''<sup>1</sup>.]   '''1.''' A leaper; a vaulter.—'''2.''' Formerly, in France, {{img float|file=century v08 p0589 c1f1.png|width=94px|align=right|cap={{smaller|Volt-meter.}}}} a member of a light-armed picked company, placed on the left of a battalion; under the second empire, a member of one of several special infantry regiments.\n\n'''voltite''' (vol′tīt), ''n.'' In ''elect.'', an insulating material consisting of a mixture of a specially prepared gelatin with resin-oil, oxidized linseed-oil, resin, and paraffin.\n\n'''volt-meter''' (vōlt′mē″tėr), ''n.'' An electrometer, or a high-resistance galvanometer, or a galvanometer combined with a resistance calibrated so that its indications show the number of volts E. M. F. in the circuit between its terminals. The cut shows one form of volt-meter, for the construction of which see ''ampere-meter''.\n\n'''volto†''', ''n.''   [It.: see ''vault''<sup>1</sup>.]   A vault.\n{{smaller block|Entring the church, admirable is the bredth of the ''volto'' or roofe.\n{{right|''Evelyn'', Diary, Nov. 19, 1644.}}}}\n\n'''Voltolini’s disease.''' A disease of childhood, characterized by cerebral symptoms, and followed by permanent deafness.\n\n426\n\n'''Voltzia''' (volt′si-ä̤), ''n.''   [NL., named after P. L. ''Voltz'' (1785–1840), a French mining engineer.]   The generic name given by Brongniart (1828) to a fossil plant which first appeared in the Permian, and found also, in several localities, in the various divisions of the European Trias, and in rocks of the same age in India. {{smaller|''Voltzia'' belongs to the ''Coniferæ'', and is placed by Schenk among the ''Taxodineæ''. It is a tree of considerable height, resembling ''Araucaria'' in general appearance, but having a fructification analogous to that of the ''Taxodineæ''. The fossils called ''Cyclopteris Liebeana'' by Geinitz are considered by Kidston as being, in all probability, the bracts of a cone of ''Voltzia''. The ''Glyptolepis'' of Schimper and the ''Glyptolepidium'' of Heer were also (in 1884) placed by Schenk under ''Voltzia''.}}\n\n'''voltzine''' (volt′sin), ''n.''   [< ''Voltz'' (see ''Voltzia'') + ''-ine''<sup>2</sup>.]   A rose-red, yellowish, or brownish opaque or subtranslucent mineral, occurring in implanted spherical globules with thin lamellar structure. It is an oxysulphid of zinc.\n\n'''voltzite''' (volt′sīt), ''n.''   [< ''Voltz'' (see ''Voltzia'') + ''-ite''<sup>2</sup>.]   Same as ''voltzine''.\n\n'''volubilate''' (vol′ū-bi-lāt), ''a.''   [< L. ''volubilis'', turning (see ''voluble'') + ''-ate''<sup>1</sup>.]   In ''bot.'', twining; voluble.\n\n'''volubile''' (vol′ụ̄-bil), ''a.''   [Formerly also ''volubil''; < L. ''volubilis'', whirling, that is turned round: see ''voluble''.]   '''1†.''' Same as ''voluble'', 1.\n{{smaller block|<poem>This less ''volubil'' earth,\nBy shorter flight to the east, had left him there.</poem>\n{{right|''Milton'', P. L., iv. 594.}}}}\n'''2.''' In ''bot.'', same as ''voluble'', 4.   ''Encyc. Brit.'', IV. 95.\n\n'''volubility''' (vol-ū-bil′i-ti), ''n.''   [< F. ''volubilité'', < L. ''volubilita(t-)s'', a rapid whirling motion, fluency (of speech), < ''volubilis'', whirling, voluble: see ''voluble''.]   '''1.''' The state or character of being voluble in speech; excessive fluency or readiness in speaking; unchecked flow of talk.\n{{smaller block|A lacquey that runs on errands for him, and can whisper a light message to a loose wench with some round ''volubility''. {{right|''B. Jonson'', Cynthia’s Revels, i. 1.}}}}\n{{smaller block|He [the emperor] first attacked Cardinal Fesch, and, singularly enough, launched forth with uncommon ''volubility'' into a discussion on ecclesiastical principles and usages, without possessing the slightest notion, either historical or theological, of the subject. {{right|''Memoirs of Talleyrand'', in The Century, XLI. 701.}}}}\n'''2.''' A rolling or revolving; aptness to roll; revolution; hence, mutability.\n{{smaller block|Then celestial spheres should forget their wonted motions, and by irregular ''volubility'' turn themselves any way, as it might happen. {{right|''Hooker.''}}}}\n{{smaller block|''Volubility'' of human affairs. {{right|''Sir R. L’Estrange.''}}}}\n\n'''voluble''' (vol′ū-bl), ''a.''   [< F. ''voluble'' = Sp. ''voluble'' = Pg. ''voluvel'' = It. ''volubile'', < L. ''volubilis'', that turns around, whirling, fluent (of speech), < ''volvere'', pp. ''volutus'', turn round or about: see ''volve''.]   '''1.''' Formed so as to roll with ease, or to be easily turned or set in motion; apt to roll; rolling; rotating; revolving.\n{{smaller block|The most excellent of all the figures Geometrical is the round for his many perfections. First because he is euen and smooth, without any angle or interruption, most ''voluble'' and apt to turne, and to continue motion, which is the author of life.\n{{right|''Puttenham'', Arte of Eng. Poesie, p. 81.}}}}\n{{smaller block|<poem>Yeares, like a ball, are ''voluble'', and run;\nHoures, like false Vowes, no sooner spoke than done.</poem>\n{{right|''Heywood'', Dialogues (Works, ed. Pearson, 1874, VI. 141).}}}}\n\n{{smaller block|Would you like to hear yesterday’s sermon over and over again — eternally ''voluble?'' {{right|''Thackeray'', Philip, xvii.}}}}\n'''2.''' Characterized by a great flow of words or by glibness of utterance; speaking with plausible fluency: as, a ''voluble'' politician.\n{{smaller block|Cassio, . . . a knave very ''voluble.''\n{{right|''Shak.'', Othello, ii. 1. 242.}}}}\n{{smaller block|<poem>A man’s tongue is ''voluble'', and pours\nWords out of all sorts ev’ry way. Such as you speak you hear.</poem>\n{{right|''Chapman'', Iliad, xx. 228.}}}}\n{{smaller block|If a man hath a ''voluble'' Tongue, we say, He hath the gift of Prayer. {{right|''Selden'', Table-Talk, p. 90.}}}}\n{{smaller block|[Formerly it might be used of readiness and ease in speaking without the notion of excess.}}\n{{smaller block|It [speech] ought to be ''voluble'' vpon the tongue, and tunable to the eare.\n{{right|''Puttenham'', Arte of Eng. Poesie (ed. Arber), p. 168.}}}}\n{{smaller block|He [Archbishop Abbot] was painful, stout, severe against bad manners, of a grave and ''voluble'' eloquence.\n{{right|''Bp. Hacket'', Abp. Williams, i. 65. (''Trench.'')]}}}}\n'''3†.''' Changeable; mutable.\n{{smaller block|<poem>He . . . almost puts\nFaith in a fever, and deifies alone\n''Voluble'' chance.</poem>\n{{right|''Fletcher'' (''and another''), Two Noble Kinsmen, i. 2.}}}}\n'''4.''' In ''bot.'', of a twining habit; rising spirally around a support, as the hop.\n\n'''volubleness''' (vol′ū-bl-nes), ''n.'' The character of being voluble; volubility.\n\n'''volubly''' (vol′ụ̄-bli), ''adv.'' In a voluble or fluent manner.\n{{smaller block|<poem>“O Gods,” said he, “how ''volubly'' doth talk\nThis eating gulf!”</poem>\n{{right|''Chapman'', Odyssey, xviii. 41.}}}}\n\n{{smaller block|Fallacies which, when set down on paper, are at once detected, pass for unanswerable arguments when dexterously and ''volubly'' urged in Parliament, at the bar, or in private conversation.\n{{right|''Macaulay'', History.}}}}\n\n'''Volucella''' (vol-ū-sel′ä), ''n.''   [NL. (Geoffroy, 1764), < L. ''volucris'', fitted for flight: see ''Volucres''.]   A notable genus of syrphid flies, some of them mimicking bumblebees in general appearance, and parasitic, in the larval state, upon the larvæ of these bees and in the nests of wasps. Forty-five species are known in North America, and seven in Europe.\n\n'''Volucres''' (vol′ū-krēz), ''n. pl.''   [NL., < L. ''volucer'' or ''volucris'', fitted for flight, winged, volitorial; as a noun, a bird; < ''volare'', fly: see ''volant''.]   '''1.''' In C. L. Bonaparte’s classification of birds (1850), the first tribe of the third order of ''Passeres'', embracing those lower ''Passeres'' which form Sundevall’s scutelliplantar division of that order, together with all the picarian birds. {{smaller|It is an artificial group, insusceptible of definition, and corresponds exactly with no recognized group or groups; on the whole it agrees best with ''Picariæ'' as commonly accepted.}} '''2.''' In C. J. Sundevall’s classification, the second order of birds, agreeing in the main with the ''Picariæ'' as commonly understood, but including the parrots and pigeons. It is most nearly a synonym of the old ''Picæ'' of Linnæus.\n\n[Rare in both senses.]\n\n'''volucrine''' (vol′ū-krin), ''a.''   [< L. ''volucris'', a bird, + ''-ine''<sup>1</sup>.]   Pertaining to birds; bird-like.\n{{smaller block|The ''volucrine'' clamor continued unabated, and when I came downstairs I was not surprised at the sight that awaited me. The passage was filled with bird-cages.\n{{right|''P. Robinson'', Under the Sun, p. 349.}}}}\n\n'''volume''' (vol′ūm), ''n.''   [< F. ''volume'' = Sp. ''volúmen'' = Pg. It. ''volume'', < L. ''volumen'' (''volumin-''), a roll (as of a manuscript), < ''volvere'', pp. ''volutus'', roll round or about: see ''voluble''.]   '''1.''' A written document (as of parchment, papyrus, or strips of bark) rolled up in a convenient form for keeping or use, such being anciently the prevailing form of the book; a roll; a scroll. {{smaller block|The written sheets were usually wound around a stick, termed an ''umbilicus'', the extremities of which were called the ''cornua'', to which a label containing the name of the author was tied. The whole was placed in a wrapper, and frequently anointed with oil of cedarwood as a preservative against insects.}}\n\n[[File:century v08 p0589 c3f1.png|center|303px]]\n{{c|{{smaller|Volume of the ancient type.}}}}\n{{c|{{smaller|Pentateuch of the Samaritans, used in their Synagogue at Shechem.}}}}\n\n{{smaller block|In the ''volume'' [roll, R. V.] of the book it is written.\n{{right|Heb. x. 7.}}}}\n\n{{smaller block|In history a great ''volume'' is unrolled for our instruction.\n{{right|''Burke'', Rev. in France.}}}}\n\nHence—'''2.''' A collection of written or printed sheets bound together, whether containing a single complete work, a part of a work, or more than one separate work; a book; a tome: as, a large ''volume;'' a work in six ''volumes.''\n\n<poem>He furnish’d me\nFrom mine own library with ''volumes.''</poem>\n{{smaller block|{{right|''Shak.'', Tempest, i. 2. 167.}}}}\n\n{{smaller block|They [men] cannot extinguish those lively characters of the power, wisdom, and goodness of God which are every where to be seen in the large ''volume'' of the Creation.\n{{right|''Stillingfleet'', Sermons, I. iii.}}}}\n\n{{smaller block|An odd ''volume'' of a set of books bears not the value of its proportion to the set.\n{{right|''Franklin.''}}}}<noinclude><references/></noinclude>"
+}

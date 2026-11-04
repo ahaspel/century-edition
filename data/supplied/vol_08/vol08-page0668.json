@@ -1,0 +1,255 @@
+{
+ "volume": 8,
+ "page_number": 668,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n667.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n667.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-03",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 1456,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     169,
+     0,
+     2442,
+     347
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     169,
+     347,
+     886,
+     1378
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     169,
+     1378,
+     886,
+     2458
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     169,
+     2458,
+     886,
+     3270
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     886,
+     347,
+     1630,
+     1427
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     886,
+     1427,
+     1630,
+     2527
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     886,
+     2527,
+     1630,
+     3270
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1630,
+     347,
+     2442,
+     1325
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1630,
+     1325,
+     2442,
+     2123
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1662,
+     1325,
+     2338,
+     1837
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1630,
+     2123,
+     2442,
+     3188
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1644,
+     2117,
+     2324,
+     2657
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1630,
+     3188,
+     2442,
+     3270
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|weather-tile|6864|weaveress}}",
+   "c1s1": "show the direction of the wind; a weather-cock. See cut under ''vane''.\n\n¶\n'''weather-waft''' (weᴛ̵ʜ′ėr-wäft), ''a.'' Tossed or carried by the wind. [Rare.]\n{{smaller block|I cannot but feare that those men never Moored their Anchors well in the firme soile of Heaven that are ''weather-waft'' up and down with every eddy-wind of every new doctrine.\n{{right|''N. Ward'', Simple Cobler, p. 20.}}}}\n\n'''weather-wind''' (weᴛ̵ʜ′ėr-wīnd), ''n.'' [A corruption of ''withywind'' for ''withwind''.] Bindweed. ''Halliwell.'' [Provincial.]\n\n'''weather-wise''' (weᴛ̵ʜ′ėr-wīz), ''a.'' [< ME. ''wederwis''; < ''weather'' + ''wise''<sup>1</sup>.] Skilful in prognosticating the changes of the weather.\n{{smaller block|<poem>For thorw werre and wykked werkes and wederes vnresonable,\n''Wederwise'' shipmen and witti clerkes also\nHan no bileue to the lifte ne to the lore of philosofres.</poem>\n{{right|''Piers Plowman'' (B), xv. 350.}}}}\n\n'''weather-wiser†''' (weᴛ̵ʜ′ėr-wī″zėr), ''n.'' [< ''weather'' + *''wiser'', indicator; cf. ''waywiser''.] Something that foretells the changes of the weather.\n{{smaller block|The flowers of pimpernel, the opening and shutting of which are the countryman’s ''weather-wiser''.\n{{right|''Derham'', Physico-Theol., x., note.}}}}\n\n'''weather-work''' (weᴛ̵ʜ′ėr-wėrk), ''n.'' Defense or provision against the wind, sea, etc. ''Cook'', Voyages, III. i. 3. (''Encyc. Dict.'')\n\n'''weather-worn''' (weᴛ̵ʜ′ėr-wōrn), ''a.'' [< ''weather'' + ''worn''.] Worn, injured, or defaced by the action of the weather; weathered.\n\n'''weather-wreck''' (weᴛ̵ʜ′ėr-rek), ''n.'' A wreck by storms. [Rare.]\n{{smaller block|<poem>Well, well, you have built a nest</poem>}}",
+   "c1s2": "{{smaller block|<poem>That will stand all storms; you need not mistrust\nA ''weather-wreck.''</poem>\n{{right|''Beau. and Fl.'', Wit at Several Weapons, ii. 2.}}}}\n\n'''weave<sup>1</sup>''' (wēv), ''v.''; pret. ''wove'' (formerly also ''weaved''), pp. ''woven'' (sometimes ''wove'' and formerly also ''weaved''), ppr. ''weaving''. [< ME. ''weven'' (pret. ''waf'', ''wof'', pl. ''weven'', ''woven'', pp. ''woven''), < AS. ''wefan'' (pret. ''wæf'', pp. ''wefen'') = MD. D. ''weven'' = OHG. ''weban'', MHG. G. ''weben'' = Icel. ''vefa'' = Sw. ''väfva'' = Dan. ''væve'', weave (connection with Goth. ''bi-waibjan'', wrap around, is doubtful), = Gr. √ ὑφ (orig. √ Ϝαφ), in ὑφή, ὕφος, a web, ὑφαίνειν, weave; cf. Skt. ''ūrna-vābhi'', a spider, lit. ‘wool-weaver,’ Skt. √ ''va'', weave, also Lith. ''woras'', a spinner, spider. From the root of ''weave''<sup>1</sup> are ult. E. ''web'', ''weft''<sup>1</sup>, ''woof'', ''oof'', ''abb'', etc.] '''I.''' ''trans.'' '''1.''' To form by interlacing flexible parts, such as threads, yarns, filaments, or strips of different materials. See ''weaving''.\n\n{{smaller block|Where the women ''wove'' hangings for the grove.\n{{right|2 Ki. xxiii. 7.}}\nAnd now his ''woven'' girths he breaks asunder.\n{{right|''Shak.'', Venus and Adonis, l. 266.}}\n<poem>To wanton Dalliance negligently laid,\nWe ''weave'' the Chaplet, and we crown the Bowl.</poem>\n{{right|''Prior'', Solomon, ii.}}\nThese purple vests were ''weaved'' by Dardan dames.\n{{right|''Dryden.''}}}}\n\n'''2.''' To form a texture from; interlace or entwine into a fabric.\n\n{{smaller block|When she ''weaved'' the sleided silk.\n{{right|''Shak.'', Pericles, iv., Prol., l. 21.}}}}\n\n'''3.''' To entwine; unite by intermixture or close connection; insert by or as by weaving.\n\n{{smaller block|She ''waf'' it wel, and wroot the story above.}}",
+   "c1s3": "{{smaller block|{{right|''Chaucer'', Good Women, l. 2364.}}}}\n{{smaller block|This ''weaves'' itself perforce into my business.\n{{right|''Shak.'', Lear, ii. 1. 17.}}}}\n{{smaller block|The government of Episcopacy is now so ''weav’d'' into the common Law: In Gods name let weave out againe.\n{{right|''Milton'', Reformation in Eng., ii.}}}}\n{{smaller block|These words, thus ''woven'' into song.\n{{right|''Byron'', Childe Harold, iii. 112.}}}}\n{{smaller block|He carries off only such scraps in his memory as it is hardly possible to ''weave'' into a connected and consistent whole.\n{{right|''Prescott''. (''Imp. Dict.'')}}}}\n'''4.''' To inclose by weaving something about.\n{{smaller block|The mind can ''weave'' itself warmly in the cocoon of its own thoughts and dwell a hermit anywhere.\n{{right|''Lowell'', Study Windows, p. 56.}}}}\n'''5.''' To contrive, fabricate, or construct with design or elaborate care: as, to ''weave'' a plot.\n{{smaller block|For answer . . . Accaius ''weaveth'' out a long history of things that happened in the persecution under Decius, and of men which to save life forsook faith.\n{{right|''Hooker'', Eccles. Polity, vi. 6.}}}}\n{{smaller block|<poem>My brain, more busy than the labouring spider,\n''Weaves'' tedious snares to trap mine enemies.</poem>\n{{right|''Shak.'', 2 Hen. VI., iii. 1. 340.}}}}\n\n'''Wove paper.''' {{smaller|See ''paper''.}}\n\n'''II.''' ''intrans.'' '''1.''' To practise weaving; work with a loom.",
+   "c2s1": "{{smaller block|{{right|''W. Browne.''}}}}\n\n'''3.''' In the ''manège'', to make a motion of the head, neck, and body from side to side like the shuttle of a weaver: said of a horse. ''Imp. Dict.''\n\n'''weave<sup>1</sup>''' (wēv), ''n.'' [< ''weave''<sup>1</sup>, ''v.''] The act or a style of weaving. [Trade use.]\n\n{{smaller block|A Practical Treatise on the Construction and Application of ''weaves'' for all Textile Fabrics. ''Nature'', XXXVIII. 600.\n\nThe great difference between a twill and a plain, or between a plain and a satin ''weave''. ''Fibre and Fabric'', V. 15.}}\n\n'''weave<sup>2</sup>†''', ''v.'' [Also ''weve;'' < ME. ''weven'' (pret. ''wevede'', ''wefde'', pp. ''weved''), < AS. *''wǣfan'' (in comp. ''be-wǣfan'', wrap around, clothe, = OHG. ''ze-weiban'' = Goth. ''bi-waibjan'', wrap around, cover, mixed with the appar. cognate Icel. ''veifa''), shake, vibrate, wave: see ''wave''<sup>1</sup>.] '''I.''' ''trans.'' '''1.''' To shake; cause to waver; wave; brandish; toss; waft.\n{{smaller block|<poem>Auntrose [dangerous] is thin euel,\nFul wonderliche it the ''weues'', wel I wot the sothe.</poem>\n{{right|''William of Palerne'' (E. E. T. S.), l. 922.}}\nShaking a pike of fire in defiance of the enemie, and ''weauing'' them amaine, we bad them come aboord.\n{{right|''Hakluyt’s Voyages'', III. 566.}}}}\n\n'''2.''' To move; cause to move.\n{{smaller block|<poem>That comli ladi cayres to hire chaumber,\n& ''weued'' vp a window.</poem>\n{{right|''William of Palerne'' (E. E. T. S.), l. 2978.}}}}\n\n'''II.''' ''intrans.'' '''1.''' To wave; waver; float about.\n{{smaller block|<poem>To cold coles sche schal be brent ȝit or come eue;\n& the aschis of hire body with the wind ''weue''.</poem>\n{{right|''William of Palerne'' (E. E. T. S.), l. 4368.}}}}\n\n'''2.''' To move; go.\n{{smaller block|<poem>Thou wylnez ouer thys water to ''weue''.</poem>\n{{right|''Alliterative Poems'' (ed. Morris), i. 319.}}}}",
+   "c2s2": "{{smaller block|He saugh the stroke come and ''wevyd'' a-side.\n{{right|''Merlin'' (E. E. T. S.), iii. 389.}}}}\n\n'''weavel†''', ''n.'' See ''weevil.''\n\n'''weaver''' (wē′vėr), ''n.'' [< ME. ''wevere'', ''wevar'', < AS *''wefere'' = MD. D. ''wever'' = OHG. ''weberi'', MHG. ''webære'', G. ''weber'' = Sw. ''väfvare'' = Dan. ''væver'', a weaver; as ''weave''<sup>1</sup> + ''-er''<sup>1</sup>. Cf. ''webber.''] '''1.''' One who weaves; one whose occupation is weaving.\n{{smaller block|''Weivars'' also of wolne and lynnyn.\n{{right|Quoted in ''Destruction of Troy'' (E. E. T. S.), Pref., p. xlvii.}}\n''Weavers'' were supposed to be generally good singers. Their trade being sedentary, they had an opportunity of practising, and sometimes in parts, while they were at work. Warburton adds that many of the ''weavers'' in Queen Elizabeth’s days were Flemish Calvinists, who fled from the persecution of the Duke of Alva, and were therefore particularly given to singing psalms. . . . Hence the exclamation of Falstaff, “I would I were a ''weaver!'' I could sing psalms, and all manner of songs.” {{right|''Nares.''}}}}\n'''2.''' In ''ornith.'', a weaver-bird.—'''3.''' In ''entom.'': (''a'') A gyrinid beetle; a whirligig: so called from its intricate circlings and gyrations on the surface of the water. See ''whirligig'', 4, and cut under ''Gyrinidæ.'' (''b'') A spinning-spider; a true araneid which weaves a web. {{smaller|Various groups of such spiders are distinguished by the form of their webs, as ''line-weavers'', ''orb-weavers'', ''tapestry-weavers'', ''tube-weavers'', ''tunnel-weavers'', etc. See ''spider.''}} '''4.''' In ''ichth.'', same as ''weever.''—{{smaller|'''Mahali weaver.''' See ''weaver-bird.''—'''Sociable weaver.''' See ''weaver-bird.''—'''Tapestry weaver.''' See ''tapestry.''—'''Weavers’ bottom''', a chronic inflammation of a bursa situated over the tuberosity of the ischium, occurring as a result of sitting long and constantly on a hard seat.—'''Yellow-crowned weaver.''' See ''weaver-bird.''}}\n\n'''weaver-bird''' (wē′vėr-bėrd), ''n.'' One of numerous Old World (chiefly African and Indian) conirostral passerine birds, noted for the dex-",
+   "c2s3": "terity and ingenuity with which they weave the materials of their nests into a textile fabric, and also for the extraordinary size and unusual shape of some of these structures. {{smaller|The name ''weaver-bird'', in its present broad sense, is modern, and appears to have originally specified a single species (see below). In the last and early in the present century the birds of this group which were then known were classed with the finches and grosbeaks, sometimes with the orioles, mainly according to the thickness of the bill, and some of them received still more misleading names. Though there was an ''Oriolus textor'' in 1788, the genus ''Ploceus'' was not named till 1817, and the family ''Ploceidæ'' not till 1847. With the recognition of this large and varied group, as well marked from the ''Fringillidæ'' by the possession of 10 instead of 9 primaries, an English name became a desideratum; and ''weavers'', ''weaver-birds'', or ''weaver-finches'' became synonymous with ''Ploceidæ'', without implying that all the birds so named build very elaborate nests. (See ''Ploceus'', ''Ploceidæ''.) Two remarkable types of nest may be noted. One is the hive-nest of the republican or sociable weavers, many pairs of which build in common an enormous domed structure. (See ''Philetærus'', and cut under ''hive-nest''.) The other, the usual type of nest, is pensile or pendulous, and very closely woven, like that of the American hang-nests, but more elaborate, and with a hole in one side instead of being open at the top, in this respect resembling the nests of various titmice (bush-tits}}",
+   "c3s1": "African form called ''Oryx'' (a preoccupied name) by Lesson in 1831, and ''Pyromelana'' by Bonaparte in that year, though oftener called ''Euplectes'' (Swainson, 1837). There are 12 or 15 species, the characteristic coloration of which is black set off with scarlet or orange in large massed areas. ''P. oryx'', the male of which is scarlet and black, is about 5 inches long; it was originally described by Edwards in 1751 as “the grenadier,” from some fancied likeness of its plumage to a soldier’s uniform. It inhabits South Africa. ''P. aurea'' of western Africa is the golden-backed finch and gold-backed grosbeak of the early ornithologists, being one of the yellow and black species. ''P. capensis'', the Cape grosbeak of Latham, is another, from Cape Colony. ''P. taha'', sometimes known as the ''Mahali weaver'', and generally called ''Ploceus'' or ''Euplectes taha'', is very small (scarcely 4½ inches long), of rich golden-yellow and velvety-black hues, and its nest is disproportionately large. It belongs to an extensive region of south-eastern Africa. (See cut under ''taha''.) Several other African weavers represent the genus ''Ploceipasser'', as ''P. mahali''. There is a large series of small birds, all technically weavers (''Ploceidæ''), which fall in the spermestine division of the family, and belong to numerous genera of the Ethiopian, Oriental, and even the Australian region, as various amadavats, waxbills, strawberry-finches, blood-finches, senegals, etc. (See ''Viduinæ'' (''a''), and cuts under ''Ploceus'', ''Senegal'', ''Tæniopygia'', and ''waxbill''.) The birds of an extensive Oriental and Australian genus ''Munia'' (with its subdivisions, as ''Padda'') belong here. (See cut under ''sparrow''.) Fifteen species of ''Uroloncha'', characterized by exserted middle tail-feathers, range from Africa to New Guinea; one of them is ''U. acuticauda''. The genus ''Erythrura'' is another large one, reaching from India through much of Polynesia. None of the foregoing birds falls in the subfamily ''Ploceinæ'' as now restricted. Among the latter may be noted the species of the African genus ''Sitagra'', 6 in number, of which the best-known is ''S. capensis'' of Cape Colony, the olive oriole of Latham, commonly",
+   "c3s2": "[[FIGURE]]\n{{c|{{smaller|Weaver-bird (''Sitagra capensis'').}}}}\ncalled ''yellow-crowned weaver'' and ''Ploceus icterocephalus.'' This is 7 inches long, of an olive and golden-yellow and black color; it builds a large bottle-shaped or kidney-formed pensile nest. ''Foudia'' is a Madagascar type. The most extensive genus of all is the African ''Hyphantornis,'' with over 30 species, or the golden weavers, as ''H. galbula.'' These birds represent in Africa, or may be compared with, the hang-nest orioles of America. One of the longest- and best-known is ''H. cucullatus'' of western Af-",
+   "c3s3": "[[FIGURE]]\n{{c|{{smaller|Weaver-bird (''Hyphantornis textor'').}}}}\n{{smaller block|rica, from Senegambia to the Gaboon; it has oftener been called ''H. textor'' (after ''Oriolus textor'' of Gmelin, 1788), and enjoys the distinction of being one of the first, if not the first, to which the name ''weaver'' attached, being the ''weaver oriole'' of Latham (1782); it is 6 inches long, yellow and black. ''Malimbus'' is an African genus of black and crimson, scarlet, vermilion, or yellow coloration, as ''M. cristatus.'' The African genus ''Textor'' (one of the early names—Temminck, 1828) has 2 marked species, ''T. albirostris'' (or ''alecto''), the white-billed, and ''T. erythrorhynchus'' (or ''niger''), the red-billed. (See cut under ''Textor.'') Finally, the genus ''Ploceus'' itself as now restricted is an Oriental type of a few species, commonly called ''baya-birds,'' though it used to be indiscriminately applied to any of the foregoing, and became the name-giving genus of the whole group. See cut under ''Ploceus.'' (For those ''Ploceidæ'' known as ''whidah-birds'', see ''Viduinæ''.)}}\n\n'''weaveress†''' (wē′vėr-es), ''n.'' [< ''weaver'' + ''-ess.''] A female weaver.",
+   "c3s4": "¶\n{{smaller block|He found two looms alone remaining at work, in the hands of an ancient weaver and ''weaveress''.\n{{right|''J. H. Blunt'', Hist. of Dursley, p. 222. (''Davies.'')}}}}"
+  },
+  "figure_files": {
+   "c3f1": "century v08 p0668 c3f1.png",
+   "c3f2": "century v08 p0668 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1674,
+     1337,
+     2326,
+     1825
+    ],
+    "caption": [
+     1821,
+     1828,
+     2167,
+     1853
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1702,
+     1337,
+     2382,
+     1817
+    ]
+   },
+   {
+    "box": [
+     1656,
+     2129,
+     2312,
+     2645
+    ],
+    "caption": [
+     1795,
+     2656,
+     2182,
+     2682
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1702,
+     1883,
+     2382,
+     2645
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 3,
+    "input_tokens": 12,
+    "output_tokens": 183,
+    "cache_creation_input_tokens": 6183,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 10012,
+    "output_tokens": 10226,
+    "cache_creation_input_tokens": 3966,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|weather-tile|6864|weaveress}}</noinclude>show the direction of the wind; a weather-cock. See cut under ''vane''.\n\n'''weather-waft''' (weᴛ̵ʜ′ėr-wäft), ''a.'' Tossed or carried by the wind. [Rare.]\n{{smaller block|I cannot but feare that those men never Moored their Anchors well in the firme soile of Heaven that are ''weather-waft'' up and down with every eddy-wind of every new doctrine.\n{{right|''N. Ward'', Simple Cobler, p. 20.}}}}\n\n'''weather-wind''' (weᴛ̵ʜ′ėr-wīnd), ''n.''   [A corruption of ''withywind'' for ''withwind''.]   Bindweed.   ''Halliwell.'' [Provincial.]\n\n'''weather-wise''' (weᴛ̵ʜ′ėr-wīz), ''a.''   [< ME. ''wederwis''; < ''weather'' + ''wise''<sup>1</sup>.]   Skilful in prognosticating the changes of the weather.\n{{smaller block|<poem>For thorw werre and wykked werkes and wederes vnresonable,\n''Wederwise'' shipmen and witti clerkes also\nHan no bileue to the lifte ne to the lore of philosofres.</poem>\n{{right|''Piers Plowman'' (B), xv. 350.}}}}\n\n'''weather-wiser†''' (weᴛ̵ʜ′ėr-wī″zėr), ''n.''   [< ''weather'' + *''wiser'', indicator; cf. ''waywiser''.]   Something that foretells the changes of the weather.\n{{smaller block|The flowers of pimpernel, the opening and shutting of which are the countryman’s ''weather-wiser''.\n{{right|''Derham'', Physico-Theol., x., note.}}}}\n\n'''weather-work''' (weᴛ̵ʜ′ėr-wėrk), ''n.'' Defense or provision against the wind, sea, etc.   ''Cook'', Voyages, III. i. 3. (''Encyc. Dict.'')\n\n'''weather-worn''' (weᴛ̵ʜ′ėr-wōrn), ''a.''   [< ''weather'' + ''worn''.]   Worn, injured, or defaced by the action of the weather; weathered.\n\n'''weather-wreck''' (weᴛ̵ʜ′ėr-rek), ''n.'' A wreck by storms. [Rare.]\n{{smaller block|<poem>Well, well, you have built a nest</poem>}}\n<poem>That will stand all storms; you need not mistrust\nA ''weather-wreck.''</poem>\n{{smaller block|{{right|''Beau. and Fl.'', Wit at Several Weapons, ii. 2.}}}}\n\n'''weave<sup>1</sup>''' (wēv), ''v.''; pret. ''wove'' (formerly also ''weaved''), pp. ''woven'' (sometimes ''wove'' and formerly also ''weaved''), ppr. ''weaving''.   [< ME. ''weven'' (pret. ''waf'', ''wof'', pl. ''weven'', ''woven'', pp. ''woven''), < AS. ''wefan'' (pret. ''wæf'', pp. ''wefen'') = MD. D. ''weven'' = OHG. ''weban'', MHG. G. ''weben'' = Icel. ''vefa'' = Sw. ''väfva'' = Dan. ''væve'', weave (connection with Goth. ''bi-waibjan'', wrap around, is doubtful), = Gr. √ ὑφ (orig. √ Ϝαφ), in ὑφή, ὕφος, a web, ὑφαίνειν, weave; cf. Skt. ''ūrna-vābhi'', a spider, lit. ‘wool-weaver,’ Skt. √ ''va'', weave, also Lith. ''woras'', a spinner, spider. From the root of ''weave''<sup>1</sup> are ult. E. ''web'', ''weft''<sup>1</sup>, ''woof'', ''oof'', ''abb'', etc.]   '''I.''' ''trans.'' '''1.''' To form by interlacing flexible parts, such as threads, yarns, filaments, or strips of different materials. See ''weaving''.\n\n{{smaller block|Where the women ''wove'' hangings for the grove.\n{{right|2 Ki. xxiii. 7.}}}}\n{{smaller block|And now his ''woven'' girths he breaks asunder.\n{{right|''Shak.'', Venus and Adonis, l. 266.}}}}\n<poem>To wanton Dalliance negligently laid,\nWe ''weave'' the Chaplet, and we crown the Bowl.</poem>\n{{smaller block|{{right|''Prior'', Solomon, ii.}}}}\n{{smaller block|These purple vests were ''weaved'' by Dardan dames.\n{{right|''Dryden.''}}}}\n\n'''2.''' To form a texture from; interlace or entwine into a fabric.\n\n{{smaller block|When she ''weaved'' the sleided silk.\n{{right|''Shak.'', Pericles, iv., Prol., l. 21.}}}}\n\n'''3.''' To entwine; unite by intermixture or close connection; insert by or as by weaving.\n\n{{smaller block|She ''waf'' it wel, and wroot the story above. {{right|''Chaucer'', Good Women, l. 2364.}}}}\n{{smaller block|This ''weaves'' itself perforce into my business.\n{{right|''Shak.'', Lear, ii. 1. 17.}}}}\n{{smaller block|The government of Episcopacy is now so ''weav’d'' into the common Law: In Gods name let weave out againe.\n{{right|''Milton'', Reformation in Eng., ii.}}}}\n{{smaller block|These words, thus ''woven'' into song.\n{{right|''Byron'', Childe Harold, iii. 112.}}}}\n{{smaller block|He carries off only such scraps in his memory as it is hardly possible to ''weave'' into a connected and consistent whole.\n{{right|''Prescott''. (''Imp. Dict.'')}}}}\n'''4.''' To inclose by weaving something about.\n{{smaller block|The mind can ''weave'' itself warmly in the cocoon of its own thoughts and dwell a hermit anywhere.\n{{right|''Lowell'', Study Windows, p. 56.}}}}\n'''5.''' To contrive, fabricate, or construct with design or elaborate care: as, to ''weave'' a plot.\n{{smaller block|For answer . . . Accaius ''weaveth'' out a long history of things that happened in the persecution under Decius, and of men which to save life forsook faith.\n{{right|''Hooker'', Eccles. Polity, vi. 6.}}}}\n{{smaller block|<poem>My brain, more busy than the labouring spider,\n''Weaves'' tedious snares to trap mine enemies.</poem>\n{{right|''Shak.'', 2 Hen. VI., iii. 1. 340.}}}}\n\n'''Wove paper.''' {{smaller|See ''paper''.}}\n\n'''II.''' ''intrans.'' '''1.''' To practise weaving; work with a loom. {{smaller block|{{right|''W. Browne.''}}}}\n\n'''3.''' In the ''manège'', to make a motion of the head, neck, and body from side to side like the shuttle of a weaver: said of a horse.   ''Imp. Dict.''\n\n'''weave<sup>1</sup>''' (wēv), ''n.''   [< ''weave''<sup>1</sup>, ''v.'']   The act or a style of weaving. [Trade use.]\n\n{{smaller block|A Practical Treatise on the Construction and Application of ''weaves'' for all Textile Fabrics. ''Nature'', XXXVIII. 600.\n\nThe great difference between a twill and a plain, or between a plain and a satin ''weave''.\n{{right|''Fibre and Fabric'', V. 15.}}}}\n\n'''weave<sup>2</sup>†''', ''v.''   [Also ''weve;'' < ME. ''weven'' (pret. ''wevede'', ''wefde'', pp. ''weved''), < AS. *''wǣfan'' (in comp. ''be-wǣfan'', wrap around, clothe, = OHG. ''ze-weiban'' = Goth. ''bi-waibjan'', wrap around, cover, mixed with the appar. cognate Icel. ''veifa''), shake, vibrate, wave: see ''wave''<sup>1</sup>.]   '''I.''' ''trans.'' '''1.''' To shake; cause to waver; wave; brandish; toss; waft.\n{{smaller block|<poem>Auntrose [dangerous] is thin euel,\nFul wonderliche it the ''weues'', wel I wot the sothe.</poem>\n{{right|''William of Palerne'' (E. E. T. S.), l. 922.}}}}\n{{smaller block|Shaking a pike of fire in defiance of the enemie, and ''weauing'' them amaine, we bad them come aboord.\n{{right|''Hakluyt’s Voyages'', III. 566.}}}}\n\n'''2.''' To move; cause to move.\n{{smaller block|<poem>That comli ladi cayres to hire chaumber,\n& ''weued'' vp a window.</poem>\n{{right|''William of Palerne'' (E. E. T. S.), l. 2978.}}}}\n\n'''II.''' ''intrans.'' '''1.''' To wave; waver; float about.\n{{smaller block|<poem>To cold coles sche schal be brent ȝit or come eue;\n& the aschis of hire body with the wind ''weue''.</poem>\n{{right|''William of Palerne'' (E. E. T. S.), l. 4368.}}}}\n\n'''2.''' To move; go.\n{{smaller block|<poem>Thou wylnez ouer thys water to ''weue''.</poem>\n{{right|''Alliterative Poems'' (ed. Morris), i. 319.}}}}\n{{smaller block|He saugh the stroke come and ''wevyd'' a-side.\n{{right|''Merlin'' (E. E. T. S.), iii. 389.}}}}\n\n'''weavel†''', ''n.'' See ''weevil.''\n\n'''weaver''' (wē′vėr), ''n.''   [< ME. ''wevere'', ''wevar'', < AS *''wefere'' = MD. D. ''wever'' = OHG. ''weberi'', MHG. ''webære'', G. ''weber'' = Sw. ''väfvare'' = Dan. ''væver'', a weaver; as ''weave''<sup>1</sup> + ''-er''<sup>1</sup>. Cf. ''webber.'']   '''1.''' One who weaves; one whose occupation is weaving.\n{{smaller block|''Weivars'' also of wolne and lynnyn.\n{{right|Quoted in ''Destruction of Troy'' (E. E. T. S.), Pref., p. xlvii.}}}}\n{{smaller block|''Weavers'' were supposed to be generally good singers. Their trade being sedentary, they had an opportunity of practising, and sometimes in parts, while they were at work. Warburton adds that many of the ''weavers'' in Queen Elizabeth’s days were Flemish Calvinists, who fled from the persecution of the Duke of Alva, and were therefore particularly given to singing psalms. . . . Hence the exclamation of Falstaff, “I would I were a ''weaver!'' I could sing psalms, and all manner of songs.” {{right|''Nares.''}}}}\n'''2.''' In ''ornith.'', a weaver-bird.—'''3.''' In ''entom.'': (''a'') A gyrinid beetle; a whirligig: so called from its intricate circlings and gyrations on the surface of the water. See ''whirligig'', 4, and cut under ''Gyrinidæ.'' (''b'') A spinning-spider; a true araneid which weaves a web. {{smaller|Various groups of such spiders are distinguished by the form of their webs, as ''line-weavers'', ''orb-weavers'', ''tapestry-weavers'', ''tube-weavers'', ''tunnel-weavers'', etc. See ''spider.''}} '''4.''' In ''ichth.'', same as ''weever.''—{{smaller|'''Mahali weaver.''' See ''weaver-bird.''—'''Sociable weaver.''' See ''weaver-bird.''—'''Tapestry weaver.''' See ''tapestry.''—'''Weavers’ bottom''', a chronic inflammation of a bursa situated over the tuberosity of the ischium, occurring as a result of sitting long and constantly on a hard seat.—'''Yellow-crowned weaver.''' See ''weaver-bird.''}}\n\n'''weaver-bird''' (wē′vėr-bėrd), ''n.'' One of numerous Old World (chiefly African and Indian) conirostral passerine birds, noted for the dexterity and ingenuity with which they weave the materials of their nests into a textile fabric, and also for the extraordinary size and unusual shape of some of these structures. {{smaller|The name ''weaver-bird'', in its present broad sense, is modern, and appears to have originally specified a single species (see below). In the last and early in the present century the birds of this group which were then known were classed with the finches and grosbeaks, sometimes with the orioles, mainly according to the thickness of the bill, and some of them received still more misleading names. Though there was an ''Oriolus textor'' in 1788, the genus ''Ploceus'' was not named till 1817, and the family ''Ploceidæ'' not till 1847. With the recognition of this large and varied group, as well marked from the ''Fringillidæ'' by the possession of 10 instead of 9 primaries, an English name became a desideratum; and ''weavers'', ''weaver-birds'', or ''weaver-finches'' became synonymous with ''Ploceidæ'', without implying that all the birds so named build very elaborate nests. (See ''Ploceus'', ''Ploceidæ''.) Two remarkable types of nest may be noted. One is the hive-nest of the republican or sociable weavers, many pairs of which build in common an enormous domed structure. (See ''Philetærus'', and cut under ''hive-nest''.) The other, the usual type of nest, is pensile or pendulous, and very closely woven, like that of the American hang-nests, but more elaborate, and with a hole in one side instead of being open at the top, in this respect resembling the nests of various titmice (bush-tits}} African form called ''Oryx'' (a preoccupied name) by Lesson in 1831, and ''Pyromelana'' by Bonaparte in that year, though oftener called ''Euplectes'' (Swainson, 1837). There are 12 or 15 species, the characteristic coloration of which is black set off with scarlet or orange in large massed areas. ''P. oryx'', the male of which is scarlet and black, is about 5 inches long; it was originally described by Edwards in 1751 as “the grenadier,” from some fancied likeness of its plumage to a soldier’s uniform. It inhabits South Africa. ''P. aurea'' of western Africa is the golden-backed finch and gold-backed grosbeak of the early ornithologists, being one of the yellow and black species. ''P. capensis'', the Cape grosbeak of Latham, is another, from Cape Colony. ''P. taha'', sometimes known as the ''Mahali weaver'', and generally called ''Ploceus'' or ''Euplectes taha'', is very small (scarcely 4½ inches long), of rich golden-yellow and velvety-black hues, and its nest is disproportionately large. It belongs to an extensive region of south-eastern Africa. (See cut under ''taha''.) Several other African weavers represent the genus ''Ploceipasser'', as ''P. mahali''. There is a large series of small birds, all technically weavers (''Ploceidæ''), which fall in the spermestine division of the family, and belong to numerous genera of the Ethiopian, Oriental, and even the Australian region, as various amadavats, waxbills, strawberry-finches, blood-finches, senegals, etc. (See ''Viduinæ'' (''a''), and cuts under ''Ploceus'', ''Senegal'', ''Tæniopygia'', and ''waxbill''.) The birds of an extensive Oriental and Australian genus ''Munia'' (with its subdivisions, as ''Padda'') belong here. (See cut under ''sparrow''.) Fifteen species of ''Uroloncha'', characterized by exserted middle tail-feathers, range from Africa to New Guinea; one of them is ''U. acuticauda''. The genus ''Erythrura'' is another large one, reaching from India through much of Polynesia. None of the foregoing birds falls in the subfamily ''Ploceinæ'' as now restricted. Among the latter may be noted the species of the African genus ''Sitagra'', 6 in number, of which the best-known is ''S. capensis'' of Cape Colony, the olive oriole of Latham, commonly called ''yellow-crowned weaver'' and ''Ploceus icterocephalus.'' This is 7 inches long, of an olive and golden-yellow and black color; it builds a large bottle-shaped or kidney-formed pensile nest. ''Foudia'' is a Madagascar type. The most extensive genus of all is the African ''Hyphantornis,'' with over 30 species, or the golden weavers, as ''H. galbula.'' These birds represent in Africa, or may be compared with, the hang-nest orioles of America. One of the longest- and best-known is ''H. cucullatus'' of western Af{{smaller block|rica, from Senegambia to the Gaboon; it has oftener been called ''H. textor'' (after ''Oriolus textor'' of Gmelin, 1788), and enjoys the distinction of being one of the first, if not the first, to which the name ''weaver'' attached, being the ''weaver oriole'' of Latham (1782); it is 6 inches long, yellow and black. ''Malimbus'' is an African genus of black and crimson, scarlet, vermilion, or yellow coloration, as ''M. cristatus.'' The African genus ''Textor'' (one of the early names—Temminck, 1828) has 2 marked species, ''T. albirostris'' (or ''alecto''), the white-billed, and ''T. erythrorhynchus'' (or ''niger''), the red-billed. (See cut under ''Textor.'') Finally, the genus ''Ploceus'' itself as now restricted is an Oriental type of a few species, commonly called ''baya-birds,'' though it used to be indiscriminately applied to any of the foregoing, and became the name-giving genus of the whole group. See cut under ''Ploceus.'' (For those ''Ploceidæ'' known as ''whidah-birds'', see ''Viduinæ''.)}}\n\n[[File:century v08 p0668 c3f1.png|center|167px]]\n{{c|{{smaller|Weaver-bird (''Sitagra capensis'').}}}}\n\n[[File:century v08 p0668 c3f2.png|center|168px]]\n{{c|{{smaller|Weaver-bird (''Hyphantornis textor'').}}}}\n\n'''weaveress†''' (wē′vėr-es), ''n.''   [< ''weaver'' + ''-ess.'']   A female weaver.\n\n{{smaller block|He found two looms alone remaining at work, in the hands of an ancient weaver and ''weaveress''.\n{{right|''J. H. Blunt'', Hist. of Dursley, p. 222. (''Davies.'')}}}}<noinclude><references/></noinclude>"
+}

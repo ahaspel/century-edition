@@ -1,0 +1,185 @@
+{
+ "volume": 8,
+ "page_number": 607,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n606.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n606.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-03",
+  "fetched_by": "alaemmle",
+  "angle": -0.9,
+  "column_width": 854,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     41,
+     2437,
+     80
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     80,
+     850,
+     1027
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1027,
+     850,
+     2022
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2022,
+     850,
+     3115
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     3115,
+     850,
+     3171
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     850,
+     80,
+     1593,
+     1125
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     850,
+     1125,
+     1593,
+     2117
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     850,
+     2117,
+     1593,
+     3171
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1593,
+     80,
+     2437,
+     1044
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1593,
+     1044,
+     2437,
+     2131
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1593,
+     2131,
+     2437,
+     3171
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|wail|6803|waist}}",
+   "c1s1": "¶\n'''wail<sup>2</sup>''', ''v. t.'' See ''wale''<sup>2</sup>.\n\n'''wailer<sup>1</sup>''' (wā′lėr), ''n.'' [< ''wail''<sup>1</sup> + ''-er''<sup>1</sup>.] One who wails or laments; a professional mourner.\n\n'''wailer<sup>2</sup>''' (wā′lėr), ''n.'' [< ''wail''<sup>2</sup>, ''wale''<sup>2</sup>, + ''-er''<sup>1</sup>.] In ''coal-mining'', a boy who picks out from the coal in the cars the bits of slate and any other rubbish which may have got mixed with it. [North. Eng.]\n\n'''waileress†''' (wā′lėr-es), ''n.'' [ME. ''weileresse''; < ''wailer''<sup>1</sup> + ''-ess''.] A woman who wails or mourns: used in the quotation with reference to professional mourners.\n{{smaller block|Beholde ȝe, and clepe ȝe wymmen that weilen [var. ''weileressis'', ''wailsteris'', tr. L. ''lamentatrices''].\n{{right|''Wyclif'', Jer. ix. 17.}}}}\n\n'''wailful''' (wāl′fu̇l), ''a.'' [< ''wail''<sup>1</sup> + ''-ful''.] '''1.''' Sorrowful; mournful; making a plaintive sound.\n{{smaller block|<poem>Thus did she watch, and weare the weary night\nIn ''waylfull'' plaints that none was to appease.</poem>\n{{right|''Spenser'', F. Q., V. vi. 26.}}\n<poem>While thro’ the braes the cushat croods\nWith ''wailfu’'' cry!</poem>\n{{right|''Burns'', To W. Simpson.}}}}\n'''2†.''' Lamentable; worthy of wailing.\n{{smaller block|<poem>Bloody hands, whose cruelty . . . frame\nThe ''wailful'' works that scourge the poor, without regard of blame.</poem>\n{{right|''Surrey'', Ps. lxxiii.}}}}\n\n'''wailing''' (wā′ling), ''n.'' [< ME. ''waylyng''; verbal n. of ''wail''<sup>1</sup>, ''v.''] The act of expressing sorrow, grief, or the like audibly; loud cries of sorrow; deep lamentation.",
+   "c1s2": "{{smaller block|<poem>Myche weping & wo, ''waylyng'' of teris,\nAnd lamentacioun full long for loue of hym one.</poem>\n{{right|''Destruction of Troy'' (E. E. T. S.), l. 7155.}}}}\n\n{{smaller block|There shall be ''wailing'' and gnashing of teeth.\n{{right|Mat. xiii. 42.}}}}\n\n'''wailingly''' (wā′ling-li), ''adv.'' [< ''wailing'' + ''-ly''<sup>2</sup>.] In a wailing manner; with wailing.\n\n{{smaller block|Shrilly, ''wailingly'' sounded a cry of mortal agony.\n{{right|''The Century'', XXIX. 60.}}}}\n\n'''wailment†''' (wāl-me̤nt), ''n.'' [< ''wail''<sup>1</sup> + ''-ment.''] Lamentation.\n\n{{smaller block|O day of ''wailment'' to all that are yet unborn!\n{{right|''Bp. Hacket'', Abp. Williams, ii. 224. (''Latham.'')}}}}\n\n'''wailster†''' (wāl′stėr), ''n.'' [ME., < ''wail''<sup>1</sup> + ''-ster.''] Same as ''waileress. Wyclif'', Jer. ix. (in MS. I.).\n\n'''waiment†, wayment†''' (wā-ment′), ''v. i.'' [< ME. ''waymenten'', ''weymenten'', < OF. ''waimenter'', ''weymenter'', ''guaimenter'', ''gamanter'', etc., lament; perhaps a variation, in imitation of OF. ''wai'', ''guai'' (Sp. Pg. It. ''guai'' = Goth. ''wai'', woe: see ''woe'', and cf. ''wail''<sup>1</sup>), of ''lamenter'', < L. ''lamentari'', lament: see ''lament.''] To lament; sorrow; wail.\n\n{{smaller block|“Sir,” seide Agravain, “ne ''weymente'' ye not so, ffor yef god will he ne hath noon harme.”\n{{right|''Merlin'' (E. E. T. S.), iii. 513.}}}}\n\n{{smaller block|Thilke science, as seith Seint Augustin, maketh a man to ''waymenten'' in his herte. ''Chaucer'', Parson’s Tale.}}\n\n'''waimentation†''' (wā-men-tā′shon), ''n.'' [< ME. ''waymentacion'', ''wamentacioun'', < OF. ''*waimentacion'', < ''waimenter'', lament: see ''waiment.''] Lamentation.\n\n{{smaller block|<poem>Made swiche ''wamentacioun''</poem>}}",
+   "c1s3": "{{smaller block|<poem>That pite was to heare the soun.</poem>\n{{right|''The Isle of Ladies'', l. 1855.}}}}\n\n'''waimenting†''', '''waymenting†''', ''n.'' [ME., verbal n. of ''waiment'', ''v.''] Lamentation; bewailing.\n{{smaller block|<poem>The sacred teres, and the ''waymenting'',\nThe firy strokes of the desiring\nThat loves servaunts in this lyf enduren.</poem>\n{{right|''Chaucer'', Knight’s Tale, l. 1063.}}}}\n\n'''wain<sup>1</sup>''' (wān), ''n.'' [< ME. ''wain'', ''wayn'', ''wein'' (pl. ''waines'', ''weines''), < AS. ''wægen'', ''wægn'', ''wǣn'' = OS. ''wagan'' = OFries. ''wain'', ''wein'' = D. ''wagen'' = MLG. ''wagen'' = OHG. MHG. G. ''wagen'' = Icel. ''vagn'' = Sw. ''vagn'' = Dan. ''vogn'', a wain, wagon, vehicle; < AS. ''wegan'', etc., carry, = L. ''vehere'', carry: see ''weigh''. From the same ult. root are L. ''vehiculum'' (> E. ''vehicle''), Gr. ὄχος = Skt. ''vaha'', a vehicle, car. Cf. ''wagon'', a doublet of ''wain''<sup>1</sup>.] '''1.''' A four-wheeled vehicle for the transportation of goods, or for carrying corn, hay, etc.; a wagon or cart. [Obsolete, provincial, or archaic.]\n{{smaller block|And the Women . . . dryven Cartes, Plowes, and ''Waynes'', and Chariottes. {{right|''Mandeville'', Travels, p. 250.}}\n<poem>The war-horse drew the peasant’s loaded ''wain''.</poem>\n{{right|''Bryant'', Christmas in 1875.}}\nThe shynynge Juge of thinges, stable in hymself, governeth the swifte cart or ''wayn''—that is to seyn, the circuler moevynge of the sonne.\n{{right|''Chaucer'', Boëthius, iv. meter 1.}}}}\n'''2.''' Same as ''Charles’s Wain.''\n{{smaller block|<poem>My bankrupt ''wain'' can beg nor borrow light;\nAlas! my darkness is perpetual night.</poem>\n{{right|''Quarles'', Emblems, iii. 1.}}}}\n'''Arthur’s Wain.''' Same as ''Charles’s Wain.''\n{{smaller block|<poem>''Arthur’s'' slow ''wain'' his course doth roll\nIn utter darkness round the pole.</poem>\n{{right|''Scott'', L. of L. M., i. 17.}}}}",
+   "c1s4": "¶\n'''Charles’s Wain''', in ''astron.'', the seven brightest stars in the constellation Ursa Major, or the Great Bear, which has",
+   "c2s1": "{{smaller|been called a wagon since the time of Homer. Two of the stars are known as the ''pointers'', because, being nearly in a right line with the pole-star, they direct an observer to it. Also called the ''Plow'', the ''Great Dipper'', the ''Northern Car'', and some times the ''Butcher’s Cleaver''. [The name ''Charles’s wain, Charles’ wain'' is a modern alteration of earlier ''carl’s wain'', < late ME. ''charlewayn, charelwayn'', < late AS. ''carles wæn'' (= Sw. ''karl-vagn'' = Dan. ''karls-vogn''), the carl’s or churl’s wain, i. e. the farmer’s wagon. The word ''wain'' came to be associated with the name ''Charles'' with ref. to ''Charlemagne'', being also called in ME. ''Charlemaynes wayne''. In the 17th century it was associated with the names of Charles I. and Charles II.]}}\n{{smaller block|An it be not four by the day, I’ll be hanged: ''Charles’ wain'' is over the new chimney. {{right|''Shak.'', 1 Hen. IV., ii. 1. 2.}}}}\n'''The Lesser Wain''', Ursa Minor.\n{{smaller block|<poem>When ''the lesser wain''\nIs twisting round the polar star.</poem>\n{{right|''Tennyson'', In Memoriam, ci.}}}}\n\n¶\n'''wain<sup>2</sup>''' (wān), ''v. t.'' [Perhaps < Icel. ''vegna'', go on one’s way, proceed: see ''way''<sup>1</sup>. Cf. ''wain''<sup>1</sup>, from the same ult. source. The ME. “''waynen'',” move, etc., found in various texts, is a misreading of ''wayuen'', i. e. ''wayven'': see ''waive''.] To carry; convey; fetch.\n{{smaller block|<poem>Then, neighbours, for God’s sake, if any you see\nGood seruant for dairie house, ''waine'' her to mee.</poem>\n{{right|''Tusser'', Husbandrie, p. 107. (''Davies.'')}}\n<poem>So swift they ''wained'' her through the light,\n’Twas like the motion of sound or sight.</poem>\n{{right|''Hogg'', Kilmeny.}}}}\n\n'''wain<sup>3</sup>†''', ''n.'' A Middle English form of ''gain''<sup>1</sup>.\n\n'''wainable†''' (wā′na-bl), ''a.'' [< ''wain''<sup>3</sup>, = ''gain''<sup>1</sup>, + ''-able''.] Capable of being tilled; tillable: as, ''wainable'' land.\n\n'''wainage''' (wā′nạ̄j), ''n.'' A variant of ''gainage''.",
+   "c2s2": "{{smaller block|The stock of the merchant and the ''wainage'' of the villein are preserved from undue severity of amercement as well as the settled estate of the earldom or barony.\n{{right|''Stubbs'', Const. Hist., § 155.}}}}\n'''wain-bote†''' (wān′bōt), ''n.'' [< ''wain''<sup>1</sup> + ''bote''<sup>1</sup>.] An allowance of timber for wagons or carts.\n\n'''wain-house''' (wān′hous), ''n.'' A house or shed for wagons and carts. [Prov. Eng.]\n{{smaller block|After supper they adjourned to the ''wain-house'', where the master pledged the first ox with a customary toast.\n{{right|''C. Elton'', Origins of Eng. Hist., p. 408.}}}}\n\n'''wain-load''' (wān′lōd), ''n.'' A wagon-load.\n{{smaller block|<poem>Then you shall returne,\nAnd of your best prouision sende to vs\nThirty ''waine-load'', beside twelue tun of wine.</poem>\n{{right|''Heywood'', 2 Edw. IV. (Works, ed. Pearson, 1874, I. 104).}}}}\n\n'''wainman†''' (wān′man), ''n.''; pl. ''wainmen'' (-men). '''1.''' A driver of a wain or wagon; a wagoner. ''Fuller'', Ch. Hist., XI. i. 64. (''Davies.'')—'''2.''' A charioteer; specifically [''cap.''], the constellation Auriga. ''Sylvester'', tr. of Du Bartas’s Weeks, i. 4.\n\n'''wain-rope''' (wān′rōp), ''n.'' A rope for pulling a wain or binding a load on a wain or wagon; a cart-rope. [Rare.]\n{{smaller block|Oxen and ''wainropes'' cannot hale them together.\n{{right|''Shak.'', T. N., iii. 2. 64.}}}}\n\n'''wainscot''' (wān′skọt), ''n.'' [Early mod. E. also ''wainscott'', ''waynskot'', ''waynskote'' (also, as mere D., ''waghenscot''); < D. ''wagenschot'' (= LG. ''wagenschot''), the best kind of oak-wood, well grained and without knots (cf. LG. ''bokenschot'', the best kind of beech-wood, without knots),",
+   "c2s3": "< ''wagen'', wagon, wain, chariot, carriage, + ''schot'' (= E. ''shot''<sup>1</sup>), partition, wainscot. The orig. sense was prob. ‘wood used for a board or partition in a coach or wagon’; thence ‘boards for panel-work, paneling for walls, esp. oak-wood for paneling.’] '''1†.''' A fine kind of foreign oak-timber, not so liable to cast or warp as English oak, easily worked with tools, and used at first for any kind of paneled work, and afterward in other ways.\n{{smaller block|A tabyll of ''waynskott'' with to trestellis.\n{{right|''Bury Wills'' (ed. Tymms), p. 115.}}\nHe was not tall, but of the lowest stature, round faced, olivaster (like ''wainscott'') complexion.\n{{right|''Aubrey'', Lives (William Harvey).}}}}\n'''2.''' A wooden lining or boarding of the walls of apartments, usually made in panels; paneled boards on the walls of rooms. Originally this lining or paneling was made of wainscot-oak.\n{{smaller block|<poem>With their fair ''wainscots'',\nTheir presses and bedsteads,\nTheir joint-stools and tables,\nA fire we made.</poem>\n{{right|''Winning of Cales'' (Child’s Ballads, VII. 128).}}\nBoords called ''Waghenscot''. ''Hakluyt’s Voyages'', I. 173.\nThe reader prayed that men of his coat might grow up like cedars to make good ''wainscot'' in the House of Sincerity.\n{{right|''Middleton'', Family of Love, iii. 3.}}\nWe sat down to dinner in a fine long room, the ''wainscot'' of which is rich with gilded coronets, roses, and portcullises.\n{{right|''Macaulay'', in Trevelyan, I. 191.}}}}\n'''3.''' One of certain noctuid moths: an English collectors’ name. {{smaller|The American wainscot is ''Leucania extranea''; the scarce wainscot is ''Simyra venosa''.}}—'''Smoky wainscot.''' {{smaller|See ''smoky''.}}",
+   "c3s1": "¶\n'''wainscot''' (wān′skot), ''v. t.''; pret. and pp. ''wainscoted'', ''wainscotted'', ppr. ''wainscoting'', ''wainscotting''. [Formerly also ''wenscot''; < ''wainscot'', ''n.''] '''1.''' To line or panel with wainscot: as, to ''wainscot'' a hall.\n{{smaller block|A Chappel whose Roof was covered with Leafe-Gold, ''wenscotted'', and decked with great store of Pearls and Precious Stones. ''S. Clarke'', Geog. Descr. (1671), p. 267.}}\n{{smaller block|Music is better in chambers ''wainscotted'' than hanged.\n{{right|''Bacon'', Nat. Hist., § 144.}}}}\n{{smaller block|The roomes are ''wainscotted'', and some of them richly parquetted with cedar, yew, cypresse, &c.\n{{right|''Evelyn'', Diary, Aug. 23, 1678.}}}}\n'''2.''' To line or panel in the manner of wainscoting, with material other than oak, or, more generally, than wood.\n{{smaller block|The east side of it [the church] within is ''wainscotted'' with jasper and beautiful marbles.\n{{right|''Pococke'', Description of the East, II. ii. 5.}}}}\n\n'''wainscot-chair''' (wān′skọt-chãr), ''n.'' A chair the lower part of which below the seat is filled in with solid paneling, or the like, so as to form a box.\n\n'''wainscot-clock''' (wān′skọt-klok), ''n.'' A tall standard clock with long pendulum and high closed case: so called because such clocks stood against the wainscoting in old houses. ''Art Journal'', 1883, p. 198.\n\n'''wainscoting, wainscotting''' (wān′skọt-ing), ''n.'' [< ''wainscot'' + ''-ing''<sup>1</sup>.] Wainscot, or the material used for it.",
+   "c3s2": "¶\n'''wainscot-oak''' (wān′skọt-ōk), ''n.'' The Turkey oak, ''Quercus Cerris.'' See ''oak.''\n\n'''wainscot-panel''' (wān′skọt-pan″el), ''n.'' In an American railroad-car, a board forming a panel between the two wainscot-rails formerly placed beneath the windows.\n\n'''wain-shilling''' (wān′shil″ing), ''n.'' A market toll or tax formerly levied on wagons at markets in English towns. See the quotation under ''load-penny.''\n\n'''wainwright''' (wān′rīt), ''n.'' A wagon-maker: same as ''wagonwright.''\n\n'''wair'''<sup>1</sup>†, ''v.'' An old spelling of ''wear''<sup>1</sup>.\n\n'''wair'''<sup>2</sup> (wãr), ''n.'' [Origin obscure.] In ''carp.'', a piece of timber 6 feet long and 1 foot broad. ''Bailey'', 1731.\n\n'''waische†.''' An obsolete past participle of ''wash.''\n\n'''waise''' (wāz), ''v. t.''; pret. and pp. ''waised'', ppr. ''waising.'' A Scotch form of ''wiss.''\n\n'''waist''' (wāst), ''n.'' [Formerly ''waste, wast''; < ME. ''wast, waste,'' < AS. *''wǣst, wǣxt,'' lit. ‘growth,’ ‘size’ (= Icel. ''vöxtr,'' stature, = Sw. ''växt'' = Dan. ''væxt,'' growth, size, = Goth. ''wahstus,'' growth, increase, stature; cf. AS. ''wæstm,'' rarely ''westm,'' earlier ''wǣstm,'' growth, fruit, produce, = G. ''wachsthum,'' growth), < ''weaxan,'' grow: see ''wax''<sup>1</sup>.] '''1.''' The part of the human body between the chest and the hips; the smaller or more compressible section of the trunk below the ribs and above the haunch-bones, including most of the abdomen and the loins. {{smaller|A woman’s waist, if untampered with, which under the exigencies of modern costume is seldom the case, is naturally less contracted than a man’s. The sculptures of the ancients furnish ample evidence of this.}}",
+   "c3s3": "{{smaller block|''Waste'', of a mannys myddyl. {{right|''Prompt. Parv.'', p. 517.}}}}\n{{smaller block|The women go straiter and closer in their garments than the men do, with their ''waistes'' girded. {{right|''Hakluyt.''}}}}\n{{smaller block|Indeed I am in the ''waist'' two yards about.\n{{right|''Shak.'', M. W. of W., i. 3. 46.}}}}\n{{smaller block|<poem>Her ringlets are in taste;\nWhat an arm! — what a ''waist''\nFor an arm!</poem>\n{{right|''F. Locker'', To my Grandmother.}}}}\n\n'''2.''' Something worn around the waist or body, as a belt or girdle.\n{{smaller block|<poem>I might have giv’n thee for thy pains\nTen silver shekles and a golden ''waist.''</poem>\n{{right|''Peele'', David and Bethsabe.}}}}\n\n'''3.''' A garment covering the waist or trunk. {{smaller|(''a'') An undergarment worn especially by children, to which petticoats and drawers are buttoned. (''b'') The body or bodice of a dress, whether separate from the skirt or joined to it; a corsage; a basque; a blouse.}}\n{{smaller block|''Doll.'' What fashion will make a woman have the best body, tailor?\n''Tailor.'' A short Dutch ''waist'', with a round Catherine-wheel fardingale.\n{{right|''Dekker and Webster'', Northward Ho, iii. 1.}}}}\n\n'''4.''' Figuratively, that which surrounds like a girdle.\n{{smaller block|<poem>Spur to the rescue of the noble Talbot,\nWho now is girdled with a ''waist'' of iron,\nAnd hemm’d about with grim destruction.</poem>\n{{right|''Shak.'', 1 Hen. VI., iv. 3. 20.}}}}\n\n'''5.''' That part of any object which bears some analogy to the human waist, somewhere near the middle of its height or length.\n{{smaller block|A pepper box . . . painted in blue on a white ground, . . . and the name Richard Chaffers, 1796, round the ''waist.''\n{{right|''Jewitt'', Ceramic Art, II. 34.}}}}"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 10424,
+    "output_tokens": 9824,
+    "cache_creation_input_tokens": 3966,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|wail|6803|waist}}</noinclude>{{nop}}'''wail<sup>2</sup>''', ''v. t.'' See ''wale''<sup>2</sup>.\n\n'''wailer<sup>1</sup>''' (wā′lėr), ''n.''   [< ''wail''<sup>1</sup> + ''-er''<sup>1</sup>.]   One who wails or laments; a professional mourner.\n\n'''wailer<sup>2</sup>''' (wā′lėr), ''n.''   [< ''wail''<sup>2</sup>, ''wale''<sup>2</sup>, + ''-er''<sup>1</sup>.]   In ''coal-mining'', a boy who picks out from the coal in the cars the bits of slate and any other rubbish which may have got mixed with it. [North. Eng.]\n\n'''waileress†''' (wā′lėr-es), ''n.''   [ME. ''weileresse''; < ''wailer''<sup>1</sup> + ''-ess''.]   A woman who wails or mourns: used in the quotation with reference to professional mourners.\n{{smaller block|Beholde ȝe, and clepe ȝe wymmen that weilen [var. ''weileressis'', ''wailsteris'', tr. L. ''lamentatrices''].\n{{right|''Wyclif'', Jer. ix. 17.}}}}\n\n'''wailful''' (wāl′fu̇l), ''a.''   [< ''wail''<sup>1</sup> + ''-ful''.]   '''1.''' Sorrowful; mournful; making a plaintive sound.\n{{smaller block|<poem>Thus did she watch, and weare the weary night\nIn ''waylfull'' plaints that none was to appease.</poem>\n{{right|''Spenser'', F. Q., V. vi. 26.}}}}\n{{smaller block|<poem>While thro’ the braes the cushat croods\nWith ''wailfu’'' cry!</poem>\n{{right|''Burns'', To W. Simpson.}}}}\n'''2†.''' Lamentable; worthy of wailing.\n{{smaller block|<poem>Bloody hands, whose cruelty . . . frame\nThe ''wailful'' works that scourge the poor, without regard of blame.</poem>\n{{right|''Surrey'', Ps. lxxiii.}}}}\n\n'''wailing''' (wā′ling), ''n.''   [< ME. ''waylyng''; verbal n. of ''wail''<sup>1</sup>, ''v.'']   The act of expressing sorrow, grief, or the like audibly; loud cries of sorrow; deep lamentation.\n<poem>Myche weping & wo, ''waylyng'' of teris,\nAnd lamentacioun full long for loue of hym one.</poem>\n{{smaller block|{{right|''Destruction of Troy'' (E. E. T. S.), l. 7155.}}}}\n\n{{smaller block|There shall be ''wailing'' and gnashing of teeth.\n{{right|Mat. xiii. 42.}}}}\n\n'''wailingly''' (wā′ling-li), ''adv.''   [< ''wailing'' + ''-ly''<sup>2</sup>.]   In a wailing manner; with wailing.\n\n{{smaller block|Shrilly, ''wailingly'' sounded a cry of mortal agony.\n{{right|''The Century'', XXIX. 60.}}}}\n\n'''wailment†''' (wāl-me̤nt), ''n.''   [< ''wail''<sup>1</sup> + ''-ment.'']   Lamentation.\n\n{{smaller block|O day of ''wailment'' to all that are yet unborn!\n{{right|''Bp. Hacket'', Abp. Williams, ii. 224. (''Latham.'')}}}}\n\n'''wailster†''' (wāl′stėr), ''n.''   [ME., < ''wail''<sup>1</sup> + ''-ster.'']   Same as ''waileress. Wyclif'', Jer. ix. (in MS. I.).\n\n'''waiment†, wayment†''' (wā-ment′), ''v. i.''   [< ME. ''waymenten'', ''weymenten'', < OF. ''waimenter'', ''weymenter'', ''guaimenter'', ''gamanter'', etc., lament; perhaps a variation, in imitation of OF. ''wai'', ''guai'' (Sp. Pg. It. ''guai'' = Goth. ''wai'', woe: see ''woe'', and cf. ''wail''<sup>1</sup>), of ''lamenter'', < L. ''lamentari'', lament: see ''lament.'']   To lament; sorrow; wail.\n\n{{smaller block|“Sir,” seide Agravain, “ne ''weymente'' ye not so, ffor yef god will he ne hath noon harme.”\n{{right|''Merlin'' (E. E. T. S.), iii. 513.}}}}\n\n{{smaller block|Thilke science, as seith Seint Augustin, maketh a man to ''waymenten'' in his herte.\n{{right|''Chaucer'', Parson’s Tale.}}}}\n\n'''waimentation†''' (wā-men-tā′shon), ''n.''   [< ME. ''waymentacion'', ''wamentacioun'', < OF. ''*waimentacion'', < ''waimenter'', lament: see ''waiment.'']   Lamentation.\n\n<poem>Made swiche ''wamentacioun''</poem>\n<poem>That pite was to heare the soun.</poem>\n{{smaller block|{{right|''The Isle of Ladies'', l. 1855.}}}}\n\n'''waimenting†''', '''waymenting†''', ''n.''   [ME., verbal n. of ''waiment'', ''v.'']   Lamentation; bewailing.\n{{smaller block|<poem>The sacred teres, and the ''waymenting'',\nThe firy strokes of the desiring\nThat loves servaunts in this lyf enduren.</poem>\n{{right|''Chaucer'', Knight’s Tale, l. 1063.}}}}\n\n'''wain<sup>1</sup>''' (wān), ''n.''   [< ME. ''wain'', ''wayn'', ''wein'' (pl. ''waines'', ''weines''), < AS. ''wægen'', ''wægn'', ''wǣn'' = OS. ''wagan'' = OFries. ''wain'', ''wein'' = D. ''wagen'' = MLG. ''wagen'' = OHG. MHG. G. ''wagen'' = Icel. ''vagn'' = Sw. ''vagn'' = Dan. ''vogn'', a wain, wagon, vehicle; < AS. ''wegan'', etc., carry, = L. ''vehere'', carry: see ''weigh''. From the same ult. root are L. ''vehiculum'' (> E. ''vehicle''), Gr. ὄχος = Skt. ''vaha'', a vehicle, car. Cf. ''wagon'', a doublet of ''wain''<sup>1</sup>.]   '''1.''' A four-wheeled vehicle for the transportation of goods, or for carrying corn, hay, etc.; a wagon or cart. [Obsolete, provincial, or archaic.]\n{{smaller block|And the Women . . . dryven Cartes, Plowes, and ''Waynes'', and Chariottes. {{right|''Mandeville'', Travels, p. 250.}}}}\n{{smaller block|<poem>The war-horse drew the peasant’s loaded ''wain''.</poem>\n{{right|''Bryant'', Christmas in 1875.}}}}\n{{smaller block|The shynynge Juge of thinges, stable in hymself, governeth the swifte cart or ''wayn''—that is to seyn, the circuler moevynge of the sonne.\n{{right|''Chaucer'', Boëthius, iv. meter 1.}}}}\n'''2.''' Same as ''Charles’s Wain.''\n{{smaller block|<poem>My bankrupt ''wain'' can beg nor borrow light;\nAlas! my darkness is perpetual night.</poem>\n{{right|''Quarles'', Emblems, iii. 1.}}}}\n'''Arthur’s Wain.''' Same as ''Charles’s Wain.''\n{{smaller block|<poem>''Arthur’s'' slow ''wain'' his course doth roll\nIn utter darkness round the pole.</poem>\n{{right|''Scott'', L. of L. M., i. 17.}}}}\n\n'''Charles’s Wain''', in ''astron.'', the seven brightest stars in the constellation Ursa Major, or the Great Bear, which has {{smaller|been called a wagon since the time of Homer. Two of the stars are known as the ''pointers'', because, being nearly in a right line with the pole-star, they direct an observer to it. Also called the ''Plow'', the ''Great Dipper'', the ''Northern Car'', and some times the ''Butcher’s Cleaver''. [The name ''Charles’s wain, Charles’ wain'' is a modern alteration of earlier ''carl’s wain'', < late ME. ''charlewayn, charelwayn'', < late AS. ''carles wæn'' (= Sw. ''karl-vagn'' = Dan. ''karls-vogn''), the carl’s or churl’s wain, i. e. the farmer’s wagon. The word ''wain'' came to be associated with the name ''Charles'' with ref. to ''Charlemagne'', being also called in ME. ''Charlemaynes wayne''. In the 17th century it was associated with the names of Charles I. and Charles II.]}}\n{{smaller block|An it be not four by the day, I’ll be hanged: ''Charles’ wain'' is over the new chimney. {{right|''Shak.'', 1 Hen. IV., ii. 1. 2.}}}}\n'''The Lesser Wain''', Ursa Minor.\n{{smaller block|<poem>When ''the lesser wain''\nIs twisting round the polar star.</poem>\n{{right|''Tennyson'', In Memoriam, ci.}}}}\n\n'''wain<sup>2</sup>''' (wān), ''v. t.''   [Perhaps < Icel. ''vegna'', go on one’s way, proceed: see ''way''<sup>1</sup>. Cf. ''wain''<sup>1</sup>, from the same ult. source. The ME. “''waynen'',” move, etc., found in various texts, is a misreading of ''wayuen'', i. e. ''wayven'': see ''waive''.]   To carry; convey; fetch.\n{{smaller block|<poem>Then, neighbours, for God’s sake, if any you see\nGood seruant for dairie house, ''waine'' her to mee.</poem>\n{{right|''Tusser'', Husbandrie, p. 107. (''Davies.'')}}}}\n{{smaller block|<poem>So swift they ''wained'' her through the light,\n’Twas like the motion of sound or sight.</poem>\n{{right|''Hogg'', Kilmeny.}}}}\n\n'''wain<sup>3</sup>†''', ''n.'' A Middle English form of ''gain''<sup>1</sup>.\n\n'''wainable†''' (wā′na-bl), ''a.''   [< ''wain''<sup>3</sup>, = ''gain''<sup>1</sup>, + ''-able''.]   Capable of being tilled; tillable: as, ''wainable'' land.\n\n'''wainage''' (wā′nạ̄j), ''n.'' A variant of ''gainage''. {{smaller block|The stock of the merchant and the ''wainage'' of the villein are preserved from undue severity of amercement as well as the settled estate of the earldom or barony.\n{{right|''Stubbs'', Const. Hist., § 155.}}}}\n'''wain-bote†''' (wān′bōt), ''n.''   [< ''wain''<sup>1</sup> + ''bote''<sup>1</sup>.]   An allowance of timber for wagons or carts.\n\n'''wain-house''' (wān′hous), ''n.'' A house or shed for wagons and carts. [Prov. Eng.]\n{{smaller block|After supper they adjourned to the ''wain-house'', where the master pledged the first ox with a customary toast.\n{{right|''C. Elton'', Origins of Eng. Hist., p. 408.}}}}\n\n'''wain-load''' (wān′lōd), ''n.'' A wagon-load.\n{{smaller block|<poem>Then you shall returne,\nAnd of your best prouision sende to vs\nThirty ''waine-load'', beside twelue tun of wine.</poem>\n{{right|''Heywood'', 2 Edw. IV. (Works, ed. Pearson, 1874, I. 104).}}}}\n\n'''wainman†''' (wān′man), ''n.''; pl. ''wainmen'' (-men). '''1.''' A driver of a wain or wagon; a wagoner.   ''Fuller'', Ch. Hist., XI. i. 64. (''Davies.'')—'''2.''' A charioteer; specifically [''cap.''], the constellation Auriga.   ''Sylvester'', tr. of Du Bartas’s Weeks, i. 4.\n\n'''wain-rope''' (wān′rōp), ''n.'' A rope for pulling a wain or binding a load on a wain or wagon; a cart-rope. [Rare.]\n{{smaller block|Oxen and ''wainropes'' cannot hale them together.\n{{right|''Shak.'', T. N., iii. 2. 64.}}}}\n\n'''wainscot''' (wān′skọt), ''n.''   [Early mod. E. also ''wainscott'', ''waynskot'', ''waynskote'' (also, as mere D., ''waghenscot''); < D. ''wagenschot'' (= LG. ''wagenschot''), the best kind of oak-wood, well grained and without knots (cf. LG. ''bokenschot'', the best kind of beech-wood, without knots), < ''wagen'', wagon, wain, chariot, carriage, + ''schot'' (= E. ''shot''<sup>1</sup>), partition, wainscot. The orig. sense was prob. ‘wood used for a board or partition in a coach or wagon’; thence ‘boards for panel-work, paneling for walls, esp. oak-wood for paneling.’]   '''1†.''' A fine kind of foreign oak-timber, not so liable to cast or warp as English oak, easily worked with tools, and used at first for any kind of paneled work, and afterward in other ways.\n{{smaller block|A tabyll of ''waynskott'' with to trestellis.\n{{right|''Bury Wills'' (ed. Tymms), p. 115.}}}}\n{{smaller block|He was not tall, but of the lowest stature, round faced, olivaster (like ''wainscott'') complexion.\n{{right|''Aubrey'', Lives (William Harvey).}}}}\n'''2.''' A wooden lining or boarding of the walls of apartments, usually made in panels; paneled boards on the walls of rooms. Originally this lining or paneling was made of wainscot-oak.\n{{smaller block|<poem>With their fair ''wainscots'',\nTheir presses and bedsteads,\nTheir joint-stools and tables,\nA fire we made.</poem>\n{{right|''Winning of Cales'' (Child’s Ballads, VII. 128).}}}}\n{{smaller block|Boords called ''Waghenscot''. ''Hakluyt’s Voyages'', I. 173.\nThe reader prayed that men of his coat might grow up like cedars to make good ''wainscot'' in the House of Sincerity.\n{{right|''Middleton'', Family of Love, iii. 3.}}}}\n{{smaller block|We sat down to dinner in a fine long room, the ''wainscot'' of which is rich with gilded coronets, roses, and portcullises.\n{{right|''Macaulay'', in Trevelyan, I. 191.}}}}\n'''3.''' One of certain noctuid moths: an English collectors’ name. {{smaller|The American wainscot is ''Leucania extranea''; the scarce wainscot is ''Simyra venosa''.}}—'''Smoky wainscot.''' {{smaller|See ''smoky''.}}\n\n'''wainscot''' (wān′skot), ''v. t.''; pret. and pp. ''wainscoted'', ''wainscotted'', ppr. ''wainscoting'', ''wainscotting''.   [Formerly also ''wenscot''; < ''wainscot'', ''n.'']   '''1.''' To line or panel with wainscot: as, to ''wainscot'' a hall.\n{{smaller block|A Chappel whose Roof was covered with Leafe-Gold, ''wenscotted'', and decked with great store of Pearls and Precious Stones.\n{{right|''S. Clarke'', Geog. Descr. (1671), p. 267.}}}}\n{{smaller block|Music is better in chambers ''wainscotted'' than hanged.\n{{right|''Bacon'', Nat. Hist., § 144.}}}}\n{{smaller block|The roomes are ''wainscotted'', and some of them richly parquetted with cedar, yew, cypresse, &c.\n{{right|''Evelyn'', Diary, Aug. 23, 1678.}}}}\n'''2.''' To line or panel in the manner of wainscoting, with material other than oak, or, more generally, than wood.\n{{smaller block|The east side of it [the church] within is ''wainscotted'' with jasper and beautiful marbles.\n{{right|''Pococke'', Description of the East, II. ii. 5.}}}}\n\n'''wainscot-chair''' (wān′skọt-chãr), ''n.'' A chair the lower part of which below the seat is filled in with solid paneling, or the like, so as to form a box.\n\n'''wainscot-clock''' (wān′skọt-klok), ''n.'' A tall standard clock with long pendulum and high closed case: so called because such clocks stood against the wainscoting in old houses.   ''Art Journal'', 1883, p. 198.\n\n'''wainscoting, wainscotting''' (wān′skọt-ing), ''n.''   [< ''wainscot'' + ''-ing''<sup>1</sup>.]   Wainscot, or the material used for it.\n\n'''wainscot-oak''' (wān′skọt-ōk), ''n.'' The Turkey oak, ''Quercus Cerris.'' See ''oak.''\n\n'''wainscot-panel''' (wān′skọt-pan″el), ''n.'' In an American railroad-car, a board forming a panel between the two wainscot-rails formerly placed beneath the windows.\n\n'''wain-shilling''' (wān′shil″ing), ''n.'' A market toll or tax formerly levied on wagons at markets in English towns. See the quotation under ''load-penny.''\n\n'''wainwright''' (wān′rīt), ''n.'' A wagon-maker: same as ''wagonwright.''\n\n'''wair'''<sup>1</sup>†, ''v.'' An old spelling of ''wear''<sup>1</sup>.\n\n'''wair'''<sup>2</sup> (wãr), ''n.''   [Origin obscure.]   In ''carp.'', a piece of timber 6 feet long and 1 foot broad.   ''Bailey'', 1731.\n\n'''waische†.''' An obsolete past participle of ''wash.''\n\n'''waise''' (wāz), ''v. t.''; pret. and pp. ''waised'', ppr. ''waising.'' A Scotch form of ''wiss.''\n\n'''waist''' (wāst), ''n.''   [Formerly ''waste, wast''; < ME. ''wast, waste,'' < AS. *''wǣst, wǣxt,'' lit. ‘growth,’ ‘size’ (= Icel. ''vöxtr,'' stature, = Sw. ''växt'' = Dan. ''væxt,'' growth, size, = Goth. ''wahstus,'' growth, increase, stature; cf. AS. ''wæstm,'' rarely ''westm,'' earlier ''wǣstm,'' growth, fruit, produce, = G. ''wachsthum,'' growth), < ''weaxan,'' grow: see ''wax''<sup>1</sup>.]   '''1.''' The part of the human body between the chest and the hips; the smaller or more compressible section of the trunk below the ribs and above the haunch-bones, including most of the abdomen and the loins. {{smaller|A woman’s waist, if untampered with, which under the exigencies of modern costume is seldom the case, is naturally less contracted than a man’s. The sculptures of the ancients furnish ample evidence of this. ''Waste'', of a mannys myddyl. {{right|''Prompt. Parv.'', p. 517.}}}}\n{{smaller block|The women go straiter and closer in their garments than the men do, with their ''waistes'' girded. {{right|''Hakluyt.''}}}}\n{{smaller block|Indeed I am in the ''waist'' two yards about.\n{{right|''Shak.'', M. W. of W., i. 3. 46.}}}}\n{{smaller block|<poem>Her ringlets are in taste;\nWhat an arm! — what a ''waist''\nFor an arm!</poem>\n{{right|''F. Locker'', To my Grandmother.}}}}\n\n'''2.''' Something worn around the waist or body, as a belt or girdle.\n{{smaller block|<poem>I might have giv’n thee for thy pains\nTen silver shekles and a golden ''waist.''</poem>\n{{right|''Peele'', David and Bethsabe.}}}}\n\n'''3.''' A garment covering the waist or trunk. {{smaller|(''a'') An undergarment worn especially by children, to which petticoats and drawers are buttoned. (''b'') The body or bodice of a dress, whether separate from the skirt or joined to it; a corsage; a basque; a blouse.}}\n{{smaller block|''Doll.'' What fashion will make a woman have the best body, tailor?\n''Tailor.'' A short Dutch ''waist'', with a round Catherine-wheel fardingale.\n{{right|''Dekker and Webster'', Northward Ho, iii. 1.}}}}\n\n'''4.''' Figuratively, that which surrounds like a girdle.\n{{smaller block|<poem>Spur to the rescue of the noble Talbot,\nWho now is girdled with a ''waist'' of iron,\nAnd hemm’d about with grim destruction.</poem>\n{{right|''Shak.'', 1 Hen. VI., iv. 3. 20.}}}}\n\n'''5.''' That part of any object which bears some analogy to the human waist, somewhere near the middle of its height or length.\n{{smaller block|A pepper box . . . painted in blue on a white ground, . . . and the name Richard Chaffers, 1796, round the ''waist.''\n{{right|''Jewitt'', Ceramic Art, II. 34.}}}}<noinclude><references/></noinclude>"
+}

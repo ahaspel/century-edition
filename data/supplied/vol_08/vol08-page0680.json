@@ -1,0 +1,168 @@
+{
+ "volume": 8,
+ "page_number": 680,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n679.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n679.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-03",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 1456,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     164,
+     0,
+     2442,
+     132
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     164,
+     132,
+     871,
+     1203
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     164,
+     1203,
+     871,
+     2272
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     164,
+     2272,
+     871,
+     3249
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     871,
+     132,
+     1627,
+     1151
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     871,
+     1151,
+     1627,
+     2235
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     871,
+     2235,
+     1627,
+     3249
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1627,
+     132,
+     2442,
+     1188
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1627,
+     1188,
+     2442,
+     2184
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1627,
+     2184,
+     2442,
+     3249
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|well-being|6876|well-knit}}",
+   "c1s1": "¶\n{{smaller block|It behoves not a wise Nation to commit the sum of thir ''wellbeing'', the whole state of thir Safety, to Fortune.\n{{right|''Milton'', Free Commonwealth.}}}}\n{{smaller block|No test of the physical ''well-being'' of society can be named so decisive as that which is furnished by bills of mortality.\n{{right|''Macaulay'', Southey’s Colloquies.}}}}\n\n'''well-beloved''' (wel′bẹ̄-luv′ed), ''a.'' Greatly beloved; very dear. Sometimes used substantively.\n{{smaller block|Myrrh is my ''well-beloved'' unto me.\n{{right|Cant. i. 13.}}\nThe ''well-beloved'' Brutus.\n{{right|''Shak.'', J. C., iii. 2. 180.}}}}\n\n'''well-beseeming''' (wel′bẹ̄-sē′ming), ''a.'' Properly or duly beseeming; suitably becoming.\n{{smaller block|In a noble Prince nothing is more decent and ''welbeseeming'' his greatnesse than to spare foule speeches.\n{{right|''Puttenham'', Arte of Eng. Poesie, p. 249.}}}}\n{{smaller block|<poem>Rome’s royal empress,\nUnfurnish’d of her ''well-beseeming'' troop.</poem>\n{{right|''Shak.'', Tit. And., ii. 3. 56.}}}}\n\n'''well-beseen†''' (wel′bẹ̄-sēn′), ''a.'' Well-looking; fine in appearance; showy.\n{{smaller block|<poem>The Briton Prince him readie did awayte,\nIn glistering armes right goodly ''well-beseene''.</poem>\n{{right|''Spenser'', F. Q., V. viii. 29.}}}}\n\n'''well-bestrutted''' (wel′bẹ̄-strut′ed), ''a.'' [See ''strut'', ''v.''] Fully stretched or distended; swelled out.\n{{smaller block|<poem>And ''well bestrutted'' bees sweet bagge.</poem>\n{{right|''Herrick'', Hesperides (Oberon’s Feast).}}}}\n\n'''well-boat''' (wel′bōt), ''n.'' A fishing-boat provided with a live-well; a smack-boat or smack. [Canada and New Eng.]\n\n'''well-borer''' (wel′bōr″ėr), ''n.'' A person engaged in or an instrument used for boring wells.",
+   "c1s2": "¶\n'''well-boring''' (wel′bōr″ing), ''n.'' A method of sinking wells by drilling or boring through rock, these wells often extending to a great depth. Percussion drilling is most used for this purpose. Compare ''oil-well'', ''oil-derrick'', etc.\n\n'''well-born''' (wel′bôrn), ''a.'' [= G. ''wohlgeboren''; as ''well''<sup>2</sup> + ''born''<sup>1</sup>.] Of high or respectable birth; not of low origin.\n{{smaller block|The term ''well-born'' was a contemptuous nickname given to the Federalists.\n{{right|''McMaster'', People of United States, I. 469.}}}}\n\n'''well-breathed''' (wel′bretht), ''a.'' Long-breathed; having good wind; strong of lung.\n{{smaller block|On thy ''well-breath’d'' horse keep with thy hounds.\n{{right|''Shak.'', Venus and Adonis, l. 678.}}}}\n\n'''well-bred''' (wel′bred), ''a.'' '''1.''' Of good breeding; polite; cultivated; refined.\n{{smaller block|<poem>For better luve I that bonnie boy\nThan a’ your ''weel-bred'' men.</poem>\n{{right|''Ladye Diamond'' (Child’s Ballads, II. 383).}}\n<poem>A moral, sensible, and ''well-bred'' man\nWill not affront me, and no other can.</poem>\n{{right|''Cowper'', Conversation, l. 193.}}}}\n'''2.''' Of good breed, stock, or race, as a domestic animal. Compare ''half-bred'', ''thoroughbred''.\n\n'''well-bucket''' (wel′buk″et), ''n.'' A vessel for drawing up water from a well: often used in pairs, one ascending while the other descends. It is usually of wood, and barrel-shaped; in some parts of Europe copper vessels are used.\n{{smaller block|The muscles are so many ''well-buckets''; when one of them acts and draws, ’tis necessary that the other must obey.\n{{right|''Dryden.''}}}}\n\n'''well-carriaged''' (wel′kar′ājd), ''a.'' Of good car-",
+   "c1s3": "riage or deportment; well-mannered. [Rare.]\n{{smaller block|The mistress of the house, a pretty ''well-carriaged'' woman.\n{{right|''Pepys'', Diary, I. 317.}}}}\n\n'''well-carse†''', ''n.'' [Also Sc. ''well-kerse''; ME. ''welle carse'', < AS. ''wylle-cærse'', water-cress, < ''wylle'', well, spring, + ''cærse'', cress: see ''well''<sup>1</sup> and ''cress''.] Water-cress.\n{{smaller block|<poem>Ich rede no faithful frere at thy feste sytte;\nȝut were me leuere, by oure lord, lyue by ''welle-carses''\nThan haue my fode and my fyndynge of false menne wyn-\nnynges.</poem>\n{{right|''Piers Plowman'' (C), vii. 292.}}}}\n\n'''well-chain''' (wel′chān), ''n.'' A chain attached to a bucket or a pair of buckets, and used with a windlass, for drawing water from a well.\n\n'''well-conditioned''' (wel′kon-dish′ond), ''a.'' [< ME. ''well condiciond''; < ''well''<sup>2</sup> + ''conditioned''.] In good or favorable condition; in a desirable state of being: as, a ''well-conditioned'' mind. ''Prompt. Parv.'', p. 521.\n\n'''well-conducted''' (wel′kọn-duk′ted), ''a.'' '''1.''' Properly led; under good conduct: as, a ''well-conducted'' expedition.—'''2.''' Characterized by good conduct; acting well or properly; well-behaved: as, a ''well-conducted'' person or community.\n\n'''well-curb''' (wel′kėrb), ''n.'' A curb or inclosure around and above the top of a well. See cut under ''pozzo''.\n{{smaller block|Losson . . . sat on the ''well-curb'', shouting bad language down to the parrot.\n{{right|''R. Kipling'', In the Matter of a Private.}}}}",
+   "c2s1": "¶\n'''well-deck''' (wel′dek), ''n.'' An open space on the main deck of a ship, inclosed like a well by the bulwarks and partial higher decks forward and aft.\n{{smaller block|The question of the freeboard of steamers of the ''well-deck'' type is again being brought before the notice of Lloyd’s by the shipowners of the northeast coast.\n{{right|''The Engineer'', LXV. 468.}}}}\n\n'''well-decker''' (wel′dek″ėr), ''n.'' A ship having a well-deck.\n{{smaller block|A large proportion of the steamers built and owned at West Hartlepool are ''well-deckers''.\n{{right|''The Engineer'', LXVII. 192.}}}}\n\n'''well-deed†''', ''n.'' [< ME. ''weldede, weldæd'', < AS. ''weldǣd'' (= OHG. ''wolatāt'' = Goth. ''wailadēds''); as ''well''<sup>2</sup> + ''deed''.] Benefit.\n\n'''well-disposed''' (wel′dis-pōzd′), ''a.'' Of a good or favorable disposition; in a kindly or friendly state of feeling; well-willed.\n{{smaller block|You lose a thousand ''well-disposed'' hearts.\n{{right|''Shak.'', Rich. II., ii. 1. 206.}}\nSome ''well-disposed'' persons have taken offence at my using the word Free-thinker as a term of reproach.\n{{right|''Steele'', Tatler, No. 135.}}}}\n\n'''well-doer''' (wel′dö′ėr), ''n.'' One who does well; a performer of good deeds or actions: opposed to ''evil-doer''.\n\n'''well-doing''' (wel′dö′ing), ''n.'' [< ME. ''well-doing''; < ''well''<sup>2</sup> + ''doing''.] Good conduct or action.\n{{smaller block|The cristin ne myght bet litill space endure, ne hadde be the ''well doinge'' of the v knyghtes.\n{{right|''Merlin'' (E. E. T. S.), iii. 550.}}}}",
+   "c2s2": "{{smaller block|Let us not be weary in ''well doing''. {{right|Gal. vi. 9.}}}}\n\n'''well-doing''' (wel′dö′ing), ''a.'' Acting well; doing what is right or satisfactory.\n{{smaller block|The ''well-doing'' steed. {{right|''Shak.'', Lover’s Complaint, l. 112.}}}}\n\n'''well-drain''' (wel′drān), ''n.'' '''1.''' A drain or vent, somewhat like a well or pit, serving to discharge the water of wet land.—'''2.''' A drain leading to a well or pit.\n\n'''well-drain''' (wel′drān), ''v. t.'' [< ''well-drain'', ''n.''] To drain, as land, by means of wells or pits, which receive the water, and from which it is discharged by machinery.\n\n'''well-dressing''' (wel′dres″ing), ''n.'' The decoration of wells and springs with flowers, etc., accompanied by religious observances, practised at set times in England (especially at Tissington, in Derbyshire, on Ascension day) and elsewhere. Also called ''well-flowering''.\n{{smaller block|Fetichism survives in the honours paid to wells and fountains, common in Germany and in some parts of France, and in England known under the name of ''well-dressing''. {{right|''Keary'', Prim. Belief, p. 87.}}}}\n\n'''well-drill''' (wel′dril), ''n.'' A tool or drill used in boring wells.\n\n'''well-earned''' (wel′ėrnd), ''a.'' Thoroughly deserved; fully due on account of action or conduct: as, a ''well-earned'' punishment.\n\n'''well-faced''' (wel′fāst), ''a.'' Of good face or aspect. [Rare.]\n{{smaller block|He that hath any ''well-faced'' phancy in his Crowne, and doth not vent it now, fears the pride of his owne heart will dub him dunce for ever. {{right|''N. Ward'', Simple Cobler, p. 2.}}}}\n\n'''well-famed''' (wel′fāmd), ''a.'' Of great fame;",
+   "c2s3": "famous; celebrated.\n{{smaller block|''Hect.'' I thank thee, most imperious Agamemnon.<br>''Agam.'' [To Troilus.] My ''well-famed'' lord of Troy, no less to you.\n{{right|''Shak.'', T. and C., iv. 5. 173.}}}}\n\n'''well-fard''' (wel′färd), ''a.'' [Sc., also ''weel-fard'', ''weilfaurt''; a dial. contraction of ''well-favored.''] Well-favored.\n{{smaller block|<poem>Now hold your tongue, my ''well-far’d'' maid,\nLat a’ your mourning be.</poem>\n{{right|''John o’ Hazelgreen'' (Child’s Ballads, IV. 86).}}}}\n\n'''wellfare†''', ''n.'' An obsolete spelling of ''welfare.''\n\n'''well-faring†''' (wel′fãr′ing), ''a.'' [Cf. ''fare''<sup>1</sup>, ''v.'', 6.] Well-seeming; fine-appearing; handsome.\n{{smaller block|<poem>Therwithal of brawnes and of bones\nA ''wel-faringe'' persone for the nones.</poem>\n{{right|''Chaucer'', Prol. to Monk’s Tale, l. 54.}}}}\n\n'''well-favored''' (wel′fā′vord), ''a.'' Being of good favor or appearance; good-looking; comely.\n{{smaller block|Rachel was beautiful and ''well favoured.'' Gen. xxix. 17.}}\n{{smaller block|To be a ''well-favoured'' man is the gift of fortune.\n{{right|''Shak.'', Much Ado, iii. 3. 15.}}}}\n\n'''well-fed''' (wel′fed), ''a.'' Showing the result of good feeding; in good condition; fat; plump.\n{{smaller block|<poem>And ''well-fed'' sheep and sable oxen slay.</poem>\n{{right|''Pope'', Iliad, xxiii. 205.}}}}\n\n'''well-flowering''' (wel′flou″ėr-ing), ''n.'' Same as ''well-dressing.''\n{{smaller block|Makes this feast of the ''well-flowering'' one of the most beautiful of all the old customs that are left in “Merrie England.”\n{{right|''N. and Q.'', 7th ser., III. 457.}}}}\n\n'''well-foughten†''' (wel′fâ′tn), ''a.'' Bravely fought.",
+   "c3s1": "¶\n'''well-found''' (wel′found), ''a.'' Found to be well or good; approved; commendable.\n{{smaller block|<poem>Gerard de Narbon was my father;\nIn what he did profess ''well found.''</poem>\n{{right|''Shak.'', All’s Well, ii. 1. 105.}}\nMany live comparatively ''well-found'' lives.\n{{right|''Fortnightly Rev.'', N. S., XLI. 728.}}}}\n\n'''well-founded''' (wel′foun′ded), ''a.'' Founded on good reasons; having strong probability; not baseless: as, ''well-founded'' suspicions.\n\n'''well-given†''' (wel′giv′n), ''a.'' Given to what is well or good; well-meaning; well-intentioned.\n{{smaller block|Why are you a burthen to the world’s conscience, and an eye-sore to ''well-given'' men?\n{{right|''Dekker and Webster'', Westward Ho, ii. 2.}}}}\n\n'''well-governor†''', ''n.'' [ME. ''wel-gouvernour'' (tr. L. ''qui bene præest'').] One who governs well.\n{{smaller block|The prestis that ben ''wel gouernouris.''\n{{right|''Wyclif'', 1 Tim. v. 17.}}}}\n\n'''well-graced''' (wel′grāst), ''a.'' Held in good grace or esteem; viewed with favor; popular.\n{{smaller block|<poem>The eyes of men,\nAfter a ''well-graced'' actor leaves the stage,\nAre idly bent on him that enters next.</poem>\n{{right|''Shak.'', Rich. II., v. 2. 24.}}}}\n\n'''well-grass''' (wel′grȧs), ''n.'' The water-cress, ''Nasturtium officinale.'' Also ''well-girse.'' Compare ''well-carse.'' [Scotch.]\n\n'''well-grounded''' (wel′groun′ded), ''a.'' Having good grounds or reasons; well-based; well-founded.\n\n'''well-head''' (wel′hed), ''n.'' The source of a natural well or spring.",
+   "c3s2": "{{smaller block|To-walten [overflowed] alle thyse ''welle-hedez'' [of the deluge] & the water flowed.\n{{right|''Alliterative Poems'' (ed. Morris), ii. 428.}}\nOld ''well-heads'' of haunted rills. {{right|''Tennyson'', Eleänore.}}}}\n\n¶\n'''well-hole''' (wel′hōl), ''n.'' '''1.''' A deep, narrow, perpendicular cavity, as the space from top to bottom of a house round which stairs turn; also, an inclosure in which a balancing-weight rises and falls, etc.—'''2.''' The well-room of a boat.\n\n'''well-house''' (wel′hous), ''n.'' A room or small house built round a well, for dairy and other domestic uses.\n{{smaller block|I lately had standing in my ''well-house'' . . . a great cauldron of copper.\n{{right|''Harman'', Caveat for Cursetors, p. 25.}}}}\n\n'''well-informed''' (wel′in-fôrmd′), ''a.'' Possessed of full information on a wide variety of subjects.\n\n'''welling''' (wel′ing), ''n.'' [Verbal n. of ''well''<sup>1</sup>, ''v.''] An outpouring, as of liquid or gas.\n\n'''Wellington boot.''' '''1.''' A riding-boot with leg extending upward at the rear to the angle of the knee, and high enough in front to cover the knee. {{smaller|So called because the pattern is supposed to have been introduced by the Duke of Wellington, who wore such boots in his campaigns.}}\n\n'''2.''' A similar boot, somewhat shorter, worn under the trousers, and fitting the leg closely.\n{{smaller block|No gentleman could wear anything in the daytime but ''Wellington boots'', high up the leg, over which the trousers fitted tightly, covering most of the foot, and secured underneath by a broad strap.\n{{right|''E. Yates'', Fifty Years of London Life, I. ii.}}}}",
+   "c3s3": "¶\n\n'''Wellingtonia''' (wel-ing-tō′ni-ä), ''n.'' [NL. (Lindley, 1853), named after the Duke of ''Wellington'': see ''Wellingtonian.''] A name much used in England for the big trees of California, which has given way to the earlier name ''Sequoia'' under the rule of priority. See ''Sequoia'' (with cut).\n\n'''Wellingtonian''' (wel-ing-tō′ni-an), ''a.'' [< ''Wellington'' (see def.) + ''-ian.''] Of or pertaining to the first Duke of Wellington (Arthur Wellesley, 1769–1852), a British general and statesman.\n{{smaller block|The ''Wellingtonian'' legend was once as strong in England as the Napoleonic in France.\n{{right|''The Academy'', No. 906, p. 159.}}}}\n\n'''well-intentioned''' (wel′in-ten′shond), ''a.'' Characterized by or due to good intentions; meaning well; well-meant; intended for good.\n{{smaller block|The publicity and control which the forms of free constitutions provide for guarding even ''well-intentioned'' rulers against honest errors. {{right|''Brougham.''}}\n“Immortality inherent in Nature” . . . is a ''well-intentioned'' argument. {{right|''The American'', XI. 44.}}}}\n\n'''well-judged''' (wel′jujd), ''a.'' Treated or done with good judgment; correctly estimated or calculated; judicious; wise.\n{{smaller block|<poem>The ''well-judg’d'' purchase, and the gift,\nThat grac’d his letter’d store.</poem>\n{{right|''Cowper'', Burning of Lord Mansfield’s Library.}}}}\n\n'''well-knit''' (wel′nit), ''a.'' [< ''well''<sup>2</sup> + ''knit'', ''pp.''] Firmly compacted; strongly framed or fixed.\n{{smaller block|<poem>O ''well-knit'' Samson! strong-jointed Samson!</poem>\n{{right|''Shak.'', L. L. L., i. 2. 77.}}\n<poem>His soul ''well-knit'', and all his battles won,\nMounts, and that hardly, to eternal life.</poem>\n{{right|''M. Arnold'', Immortality.}}}}"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 10,
+    "input_tokens": 10044,
+    "output_tokens": 8187,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|well-being|6876|well-knit}}</noinclude>{{nop}}{{smaller block|It behoves not a wise Nation to commit the sum of thir ''wellbeing'', the whole state of thir Safety, to Fortune.\n{{right|''Milton'', Free Commonwealth.}}}}\n{{smaller block|No test of the physical ''well-being'' of society can be named so decisive as that which is furnished by bills of mortality.\n{{right|''Macaulay'', Southey’s Colloquies.}}}}\n\n'''well-beloved''' (wel′bẹ̄-luv′ed), ''a.'' Greatly beloved; very dear. Sometimes used substantively.\n{{smaller block|Myrrh is my ''well-beloved'' unto me.\n{{right|Cant. i. 13.}}}}\n{{smaller block|The ''well-beloved'' Brutus.\n{{right|''Shak.'', J. C., iii. 2. 180.}}}}\n\n'''well-beseeming''' (wel′bẹ̄-sē′ming), ''a.'' Properly or duly beseeming; suitably becoming.\n{{smaller block|In a noble Prince nothing is more decent and ''welbeseeming'' his greatnesse than to spare foule speeches.\n{{right|''Puttenham'', Arte of Eng. Poesie, p. 249.}}}}\n{{smaller block|<poem>Rome’s royal empress,\nUnfurnish’d of her ''well-beseeming'' troop.</poem>\n{{right|''Shak.'', Tit. And., ii. 3. 56.}}}}\n\n'''well-beseen†''' (wel′bẹ̄-sēn′), ''a.'' Well-looking; fine in appearance; showy.\n{{smaller block|<poem>The Briton Prince him readie did awayte,\nIn glistering armes right goodly ''well-beseene''.</poem>\n{{right|''Spenser'', F. Q., V. viii. 29.}}}}\n\n'''well-bestrutted''' (wel′bẹ̄-strut′ed), ''a.''   [See ''strut'', ''v.'']   Fully stretched or distended; swelled out.\n{{smaller block|<poem>And ''well bestrutted'' bees sweet bagge.</poem>\n{{right|''Herrick'', Hesperides (Oberon’s Feast).}}}}\n\n'''well-boat''' (wel′bōt), ''n.'' A fishing-boat provided with a live-well; a smack-boat or smack. [Canada and New Eng.]\n\n'''well-borer''' (wel′bōr″ėr), ''n.'' A person engaged in or an instrument used for boring wells.\n\n'''well-boring''' (wel′bōr″ing), ''n.'' A method of sinking wells by drilling or boring through rock, these wells often extending to a great depth. Percussion drilling is most used for this purpose. Compare ''oil-well'', ''oil-derrick'', etc.\n\n'''well-born''' (wel′bôrn), ''a.''   [= G. ''wohlgeboren''; as ''well''<sup>2</sup> + ''born''<sup>1</sup>.]   Of high or respectable birth; not of low origin.\n{{smaller block|The term ''well-born'' was a contemptuous nickname given to the Federalists.\n{{right|''McMaster'', People of United States, I. 469.}}}}\n\n'''well-breathed''' (wel′bretht), ''a.'' Long-breathed; having good wind; strong of lung.\n{{smaller block|On thy ''well-breath’d'' horse keep with thy hounds.\n{{right|''Shak.'', Venus and Adonis, l. 678.}}}}\n\n'''well-bred''' (wel′bred), ''a.'' '''1.''' Of good breeding; polite; cultivated; refined.\n{{smaller block|<poem>For better luve I that bonnie boy\nThan a’ your ''weel-bred'' men.</poem>\n{{right|''Ladye Diamond'' (Child’s Ballads, II. 383).}}}}\n{{smaller block|<poem>A moral, sensible, and ''well-bred'' man\nWill not affront me, and no other can.</poem>\n{{right|''Cowper'', Conversation, l. 193.}}}}\n'''2.''' Of good breed, stock, or race, as a domestic animal. Compare ''half-bred'', ''thoroughbred''.\n\n'''well-bucket''' (wel′buk″et), ''n.'' A vessel for drawing up water from a well: often used in pairs, one ascending while the other descends. It is usually of wood, and barrel-shaped; in some parts of Europe copper vessels are used.\n{{smaller block|The muscles are so many ''well-buckets''; when one of them acts and draws, ’tis necessary that the other must obey.\n{{right|''Dryden.''}}}}\n\n'''well-carriaged''' (wel′kar′ājd), ''a.'' Of good carriage or deportment; well-mannered. [Rare.]\n{{smaller block|The mistress of the house, a pretty ''well-carriaged'' woman.\n{{right|''Pepys'', Diary, I. 317.}}}}\n\n'''well-carse†''', ''n.''   [Also Sc. ''well-kerse''; ME. ''welle carse'', < AS. ''wylle-cærse'', water-cress, < ''wylle'', well, spring, + ''cærse'', cress: see ''well''<sup>1</sup> and ''cress''.]   Water-cress.\n{{smaller block|<poem>Ich rede no faithful frere at thy feste sytte;\nȝut were me leuere, by oure lord, lyue by ''welle-carses''\nThan haue my fode and my fyndynge of false menne wynnynges.</poem>\n{{right|''Piers Plowman'' (C), vii. 292.}}}}\n\n'''well-chain''' (wel′chān), ''n.'' A chain attached to a bucket or a pair of buckets, and used with a windlass, for drawing water from a well.\n\n'''well-conditioned''' (wel′kon-dish′ond), ''a.''   [< ME. ''well condiciond''; < ''well''<sup>2</sup> + ''conditioned''.]   In good or favorable condition; in a desirable state of being: as, a ''well-conditioned'' mind.   ''Prompt. Parv.'', p. 521.\n\n'''well-conducted''' (wel′kọn-duk′ted), ''a.'' '''1.''' Properly led; under good conduct: as, a ''well-conducted'' expedition.—'''2.''' Characterized by good conduct; acting well or properly; well-behaved: as, a ''well-conducted'' person or community.\n\n'''well-curb''' (wel′kėrb), ''n.'' A curb or inclosure around and above the top of a well. See cut under ''pozzo''.\n{{smaller block|Losson . . . sat on the ''well-curb'', shouting bad language down to the parrot.\n{{right|''R. Kipling'', In the Matter of a Private.}}}}\n\n'''well-deck''' (wel′dek), ''n.'' An open space on the main deck of a ship, inclosed like a well by the bulwarks and partial higher decks forward and aft.\n{{smaller block|The question of the freeboard of steamers of the ''well-deck'' type is again being brought before the notice of Lloyd’s by the shipowners of the northeast coast.\n{{right|''The Engineer'', LXV. 468.}}}}\n\n'''well-decker''' (wel′dek″ėr), ''n.'' A ship having a well-deck.\n{{smaller block|A large proportion of the steamers built and owned at West Hartlepool are ''well-deckers''.\n{{right|''The Engineer'', LXVII. 192.}}}}\n\n'''well-deed†''', ''n.''   [< ME. ''weldede, weldæd'', < AS. ''weldǣd'' (= OHG. ''wolatāt'' = Goth. ''wailadēds''); as ''well''<sup>2</sup> + ''deed''.]   Benefit.\n\n'''well-disposed''' (wel′dis-pōzd′), ''a.'' Of a good or favorable disposition; in a kindly or friendly state of feeling; well-willed.\n{{smaller block|You lose a thousand ''well-disposed'' hearts.\n{{right|''Shak.'', Rich. II., ii. 1. 206.}}}}\n{{smaller block|Some ''well-disposed'' persons have taken offence at my using the word Free-thinker as a term of reproach.\n{{right|''Steele'', Tatler, No. 135.}}}}\n\n'''well-doer''' (wel′dö′ėr), ''n.'' One who does well; a performer of good deeds or actions: opposed to ''evil-doer''.\n\n'''well-doing''' (wel′dö′ing), ''n.''   [< ME. ''well-doing''; < ''well''<sup>2</sup> + ''doing''.]   Good conduct or action.\n{{smaller block|The cristin ne myght bet litill space endure, ne hadde be the ''well doinge'' of the v knyghtes.\n{{right|''Merlin'' (E. E. T. S.), iii. 550.}}}}\n{{smaller block|Let us not be weary in ''well doing''. {{right|Gal. vi. 9.}}}}\n\n'''well-doing''' (wel′dö′ing), ''a.'' Acting well; doing what is right or satisfactory.\n{{smaller block|The ''well-doing'' steed. {{right|''Shak.'', Lover’s Complaint, l. 112.}}}}\n\n'''well-drain''' (wel′drān), ''n.'' '''1.''' A drain or vent, somewhat like a well or pit, serving to discharge the water of wet land.—'''2.''' A drain leading to a well or pit.\n\n'''well-drain''' (wel′drān), ''v. t.''   [< ''well-drain'', ''n.'']   To drain, as land, by means of wells or pits, which receive the water, and from which it is discharged by machinery.\n\n'''well-dressing''' (wel′dres″ing), ''n.'' The decoration of wells and springs with flowers, etc., accompanied by religious observances, practised at set times in England (especially at Tissington, in Derbyshire, on Ascension day) and elsewhere. Also called ''well-flowering''.\n{{smaller block|Fetichism survives in the honours paid to wells and fountains, common in Germany and in some parts of France, and in England known under the name of ''well-dressing''. {{right|''Keary'', Prim. Belief, p. 87.}}}}\n\n'''well-drill''' (wel′dril), ''n.'' A tool or drill used in boring wells.\n\n'''well-earned''' (wel′ėrnd), ''a.'' Thoroughly deserved; fully due on account of action or conduct: as, a ''well-earned'' punishment.\n\n'''well-faced''' (wel′fāst), ''a.'' Of good face or aspect. [Rare.]\n{{smaller block|He that hath any ''well-faced'' phancy in his Crowne, and doth not vent it now, fears the pride of his owne heart will dub him dunce for ever. {{right|''N. Ward'', Simple Cobler, p. 2.}}}}\n\n'''well-famed''' (wel′fāmd), ''a.'' Of great fame; famous; celebrated.\n{{smaller block|''Hect.'' I thank thee, most imperious Agamemnon.<br>''Agam.'' [To Troilus.] My ''well-famed'' lord of Troy, no less to you.\n{{right|''Shak.'', T. and C., iv. 5. 173.}}}}\n\n'''well-fard''' (wel′färd), ''a.''   [Sc., also ''weel-fard'', ''weilfaurt''; a dial. contraction of ''well-favored.'']   Well-favored.\n{{smaller block|<poem>Now hold your tongue, my ''well-far’d'' maid,\nLat a’ your mourning be.</poem>\n{{right|''John o’ Hazelgreen'' (Child’s Ballads, IV. 86).}}}}\n\n'''wellfare†''', ''n.'' An obsolete spelling of ''welfare.''\n\n'''well-faring†''' (wel′fãr′ing), ''a.''   [Cf. ''fare''<sup>1</sup>, ''v.'', 6.]   Well-seeming; fine-appearing; handsome.\n{{smaller block|<poem>Therwithal of brawnes and of bones\nA ''wel-faringe'' persone for the nones.</poem>\n{{right|''Chaucer'', Prol. to Monk’s Tale, l. 54.}}}}\n\n'''well-favored''' (wel′fā′vord), ''a.'' Being of good favor or appearance; good-looking; comely.\n{{smaller block|Rachel was beautiful and ''well favoured.'' Gen. xxix. 17.}}\n{{smaller block|To be a ''well-favoured'' man is the gift of fortune.\n{{right|''Shak.'', Much Ado, iii. 3. 15.}}}}\n\n'''well-fed''' (wel′fed), ''a.'' Showing the result of good feeding; in good condition; fat; plump.\n{{smaller block|<poem>And ''well-fed'' sheep and sable oxen slay.</poem>\n{{right|''Pope'', Iliad, xxiii. 205.}}}}\n\n'''well-flowering''' (wel′flou″ėr-ing), ''n.'' Same as ''well-dressing.''\n{{smaller block|Makes this feast of the ''well-flowering'' one of the most beautiful of all the old customs that are left in “Merrie England.”\n{{right|''N. and Q.'', 7th ser., III. 457.}}}}\n\n'''well-foughten†''' (wel′fâ′tn), ''a.'' Bravely fought.\n\n'''well-found''' (wel′found), ''a.'' Found to be well or good; approved; commendable.\n{{smaller block|<poem>Gerard de Narbon was my father;\nIn what he did profess ''well found.''</poem>\n{{right|''Shak.'', All’s Well, ii. 1. 105.}}}}\n{{smaller block|Many live comparatively ''well-found'' lives.\n{{right|''Fortnightly Rev.'', N. S., XLI. 728.}}}}\n\n'''well-founded''' (wel′foun′ded), ''a.'' Founded on good reasons; having strong probability; not baseless: as, ''well-founded'' suspicions.\n\n'''well-given†''' (wel′giv′n), ''a.'' Given to what is well or good; well-meaning; well-intentioned.\n{{smaller block|Why are you a burthen to the world’s conscience, and an eye-sore to ''well-given'' men?\n{{right|''Dekker and Webster'', Westward Ho, ii. 2.}}}}\n\n'''well-governor†''', ''n.''   [ME. ''wel-gouvernour'' (tr. L. ''qui bene præest'').]   One who governs well.\n{{smaller block|The prestis that ben ''wel gouernouris.''\n{{right|''Wyclif'', 1 Tim. v. 17.}}}}\n\n'''well-graced''' (wel′grāst), ''a.'' Held in good grace or esteem; viewed with favor; popular.\n{{smaller block|<poem>The eyes of men,\nAfter a ''well-graced'' actor leaves the stage,\nAre idly bent on him that enters next.</poem>\n{{right|''Shak.'', Rich. II., v. 2. 24.}}}}\n\n'''well-grass''' (wel′grȧs), ''n.'' The water-cress, ''Nasturtium officinale.'' Also ''well-girse.'' Compare ''well-carse.'' [Scotch.]\n\n'''well-grounded''' (wel′groun′ded), ''a.'' Having good grounds or reasons; well-based; well-founded.\n\n'''well-head''' (wel′hed), ''n.'' The source of a natural well or spring. {{smaller block|To-walten [overflowed] alle thyse ''welle-hedez'' [of the deluge] & the water flowed.\n{{right|''Alliterative Poems'' (ed. Morris), ii. 428.}}}}\n{{smaller block|Old ''well-heads'' of haunted rills. {{right|''Tennyson'', Eleänore.}}}}\n\n'''well-hole''' (wel′hōl), ''n.'' '''1.''' A deep, narrow, perpendicular cavity, as the space from top to bottom of a house round which stairs turn; also, an inclosure in which a balancing-weight rises and falls, etc.—'''2.''' The well-room of a boat.\n\n'''well-house''' (wel′hous), ''n.'' A room or small house built round a well, for dairy and other domestic uses.\n{{smaller block|I lately had standing in my ''well-house'' . . . a great cauldron of copper.\n{{right|''Harman'', Caveat for Cursetors, p. 25.}}}}\n\n'''well-informed''' (wel′in-fôrmd′), ''a.'' Possessed of full information on a wide variety of subjects.\n\n'''welling''' (wel′ing), ''n.''   [Verbal n. of ''well''<sup>1</sup>, ''v.'']   An outpouring, as of liquid or gas.\n\n'''Wellington boot.''' '''1.''' A riding-boot with leg extending upward at the rear to the angle of the knee, and high enough in front to cover the knee. {{smaller|So called because the pattern is supposed to have been introduced by the Duke of Wellington, who wore such boots in his campaigns.}}\n\n'''2.''' A similar boot, somewhat shorter, worn under the trousers, and fitting the leg closely.\n{{smaller block|No gentleman could wear anything in the daytime but ''Wellington boots'', high up the leg, over which the trousers fitted tightly, covering most of the foot, and secured underneath by a broad strap.\n{{right|''E. Yates'', Fifty Years of London Life, I. ii.}}}}\n\n'''Wellingtonia''' (wel-ing-tō′ni-ä), ''n.''   [NL. (Lindley, 1853), named after the Duke of ''Wellington'': see ''Wellingtonian.'']   A name much used in England for the big trees of California, which has given way to the earlier name ''Sequoia'' under the rule of priority. See ''Sequoia'' (with cut).\n\n'''Wellingtonian''' (wel-ing-tō′ni-an), ''a.''   [< ''Wellington'' (see def.) + ''-ian.'']   Of or pertaining to the first Duke of Wellington (Arthur Wellesley, 1769–1852), a British general and statesman.\n{{smaller block|The ''Wellingtonian'' legend was once as strong in England as the Napoleonic in France.\n{{right|''The Academy'', No. 906, p. 159.}}}}\n\n'''well-intentioned''' (wel′in-ten′shond), ''a.'' Characterized by or due to good intentions; meaning well; well-meant; intended for good.\n{{smaller block|The publicity and control which the forms of free constitutions provide for guarding even ''well-intentioned'' rulers against honest errors. {{right|''Brougham.''}}}}\n{{smaller block|“Immortality inherent in Nature” . . . is a ''well-intentioned'' argument. {{right|''The American'', XI. 44.}}}}\n\n'''well-judged''' (wel′jujd), ''a.'' Treated or done with good judgment; correctly estimated or calculated; judicious; wise.\n{{smaller block|<poem>The ''well-judg’d'' purchase, and the gift,\nThat grac’d his letter’d store.</poem>\n{{right|''Cowper'', Burning of Lord Mansfield’s Library.}}}}\n\n'''well-knit''' (wel′nit), ''a.''   [< ''well''<sup>2</sup> + ''knit'', ''pp.'']   Firmly compacted; strongly framed or fixed.\n{{smaller block|<poem>O ''well-knit'' Samson! strong-jointed Samson!</poem>\n{{right|''Shak.'', L. L. L., i. 2. 77.}}}}\n{{smaller block|<poem>His soul ''well-knit'', and all his battles won,\nMounts, and that hardly, to eternal life.</poem>\n{{right|''M. Arnold'', Immortality.}}}}<noinclude><references/></noinclude>"
+}

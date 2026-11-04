@@ -1,0 +1,211 @@
+{
+ "volume": 8,
+ "page_number": 675,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n674.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n674.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-03",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 751,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     25,
+     76,
+     2249,
+     115
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     25,
+     115,
+     779,
+     1104
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     25,
+     1104,
+     779,
+     2200
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     25,
+     2200,
+     779,
+     3215
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     779,
+     115,
+     1522,
+     1175
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     779,
+     1175,
+     1522,
+     2266
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     779,
+     2266,
+     1522,
+     3215
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1197,
+     2566,
+     1518,
+     3102
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1522,
+     115,
+     2249,
+     1180
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1522,
+     1180,
+     2249,
+     2237
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1522,
+     2237,
+     2249,
+     3215
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|weigh|6871|weight}}",
+   "c1s1": "√ ''vah'', go, move. The orig. sense ‘carry’ passed into that of ‘raise, lift,’ and thence into that of ‘weigh.’ Hence ult. (< AS. ''wegan'', etc.) ''wag''<sup>1</sup>, ''wagon'', ''wain''<sup>1</sup>, ''way''<sup>1</sup>, ''wight''<sup>1</sup>, ''whit'', and (< L. ''vehere'') ''vehicle'', ''convection'', etc.: see esp. ''way''<sup>1</sup>.] '''I.''' ''trans.'' '''1.''' To raise or lift; bear up: as, to ''weigh'' anchor; to ''weigh'' a ship that has been sunk.\n{{smaller block|And so ye same mornyng we ''wayde'' our ancre and made sayle, and come into the foresayd hauyn at Mylo.\n{{right|''Sir R. Guylforde'', Pylgrymage, p. 63.}}\n[The ship] struck upon a rock, and, being forced to run ashore to save her men, could never be ''weighed'' since, although she lies a great height above the water.\n{{right|''Winthrop'', Hist. New England, I. 3.}}}}\n'''2.''' To bear up or balance in order to determine the weight of; determine the relative heaviness of (something) by comparison in a balance with some recognized standard; ascertain the number of pounds, ounces, etc., in: as, to ''weigh'' sugar; to ''weigh'' gold.\n{{smaller block|Like stuffe haue I read in S. Francis Legend, of the ballance wherein mens deedes are ''weighed'', and the Deuill lost his prey by the weight of a Chalice.\n{{right|''Purchas'', Pilgrimage, p. 140.}}\nThe hunter took up his rifle instinctively from the corner of the room, ''weighed'' it in both hands held palm upward.\n{{right|''W. M. Baker'', New Timothy, p. 297.}}}}\n'''3.''' To consider or examine for the purpose of forming an opinion or coming to a conclusion; compare; estimate deliberately and maturely; balance; ponder: as, to ''weigh'' the advantages and disadvantages of a scheme.",
+   "c1s2": "{{smaller block|<poem>In noble corage oghte been areste,\nAnd ''weyen'' every thing by equitee.</poem>\n{{right|''Chaucer'', Good Women, l. 398.}}}}\n{{smaller block|Wherefore I pray you ''weigh'' this with yourself the better, and see whether you can espy how your doctrine is doubtful. {{right|''J. Bradford'', Letters (Parker Soc., 1853), II. 130.}}}}\n{{smaller block|Regard not who it is which speaketh, but ''weigh'' only what is spoken. {{right|''Hooker'', Eccles. Polity, Pref., i.}}}}\n{{smaller block|''Weigh'' oath with oath, and you will nothing ''weigh''. {{right|''Shak.'', M. N. D., iii. 2. 131.}}}}\n'''4†.''' To consider as worthy of notice; make account of; care for; regard; esteem.\n{{smaller block|You ''weigh'' me not? O, that’s you care not for me. {{right|''Shak.'', L. L. L., v. 2. 27.}}}}\n{{smaller block|<poem>You are light, gentlemen,\nNothing to ''weigh'' your hearts.</poem>\n{{right|''Fletcher and Shirley'', Night-Walker, i. 1.}}}}\n'''5.''' To overweigh or overpower; burden; oppress. See the following phrase.—'''To weigh down.''' (''a''†) To preponderate over.\n{{smaller block|He ''weighs'' King Richard ''down''. {{right|''Shak.'', Rich. II., iii. 4. 89.}}}}\n{{smaller|(''b'') To oppress with weight or heaviness; overburden; depress.}}\n{{smaller block|Thou [sleep] no more wilt ''weigh'' my eyelids ''down''. {{right|''Shak.'', 2 Hen. IV., iii. 1. 7.}}}}\n\n'''II.''' ''intrans.'' '''1.''' To weigh anchor; get under way or in readiness to sail.\n{{smaller block|When he was aboard his bark, he ''weighed'' and set sail, and shot off all his guns. {{right|''Winthrop'', Hist. New England, II. 232.}}}}\n{{smaller block|<poem>The vessel ''weighs'', forsakes the shore,\nAnd lessens to the sight.</poem>\n{{right|''Cowper'', The Bird’s Nest.}}}}\n'''2.''' To have weight, literally or figuratively.\n{{smaller block|Alliances, how near soever, ''weigh'' but light in the Scales}}",
+   "c1s3": "{{smaller block|of State.{{right|''Baker'', Chronicles, p. 117.}}}}\n\n'''3.''' To be or amount in heaviness or weight; be of equal effect with in the balance: as, a nugget ''weighing'' several ounces; a load which ''weighs'' two tons. {{smaller|The terms expressing the weight are in the adverbial objective. That which a balance measures is the proportionate acceleration of masses toward the center of the earth. This is equal to their proportionate masses; and mass is the important quantity determined. The weight, or attraction of gravitation (less the centrifugal force), differs at different stations, and is not determined by the operation of weighing.}}\n{{smaller block|And the Frensshe kyng gaue hym a goblet of syluer ''weynge'' iiii. marke.{{right|''Berners'', tr. of Froissart’s Chron., II. lxxxvii.}}}}\n{{smaller block|Master Featherstone, O Master Featherstone, you may now make your fortunes ''weigh'' ten stone of feathers more than ever they did!{{right|''Dekker and Webster'', Northward Ho, v. 1.}}}}\n\n'''4.''' To be considered as important; have weight in the intellectual balance.\n{{smaller block|He finds . . . that the same argument which ''weighs'' with him has ''weighed'' with thousands . . . before him.{{right|''Bp. Atterbury'', Sermons, II. ii.}}}}\n{{smaller block|Such considerations never ''weigh'' with them.{{right|''Goldsmith'', Citizen of the World, xci.}}}}\n\n'''5.''' To bear heavily; press hard.\n{{smaller block|<poem>Cleanse the stuff’d bosom of that perilous stuff\nWhich ''weighs'' upon the heart.</poem>{{right|''Shak.'', Macbeth, v. 3. 45.}}}}\n\n'''6.''' To consider; reflect.\n{{smaller block|<poem>My tongue was never oil’d with “Here, an ’t like you,”\n“There, I beseech you”; ''weigh'', I am a soldier,\nAnd truth I covet only, no fine terms, sir.</poem>{{right|''Fletcher'', Loyal Subject, ii. 1.}}}}",
+   "c2s1": "¶\n{{smaller block|The soldiers, less ''weighing'' because less knowing, clamoured to be led on against any danger.\n{{right|''Milton'', Hist. Eng., ii.}}}}\n\n'''To weigh down''', to sink by its own weight or burden.\n{{smaller block|The softness of the stalk, which maketh the bough, being over-loaden, . . . ''weigh down.''\n{{right|''Bacon'', Nat. Hist., § 610.}}}}\n\n'''To weigh in''', in ''sporting'', to ascertain one’s weight before the contest. ''Whyte Melville'', White Rose, I. xiv.\n\n'''weigh<sup>1</sup>''' (wā), ''n.'' [< ''weigh''<sup>1</sup>, ''v.''] A certain quantity or measure, estimated by weight; a measure of weight (compare ''wey''); in the South Wales coal-fields, a weight of ten tons.\n\n'''weigh<sup>2</sup>''' (wā), ''n.'' A misspelling of ''way''<sup>1</sup>, in the phrase ''under way'', due to confusion with the phrase ''to weigh anchor.''\n{{smaller block|We lost no time in getting ''under weigh'' again.\n{{right|''B. Taylor'', Lands of the Saracen, p. 230.}}}}\n\n'''weigh<sup>3</sup>†''', ''n.'' See ''wegh.''\n\n'''weighable''' (wā′a̤-bl), ''a.'' [< ''weigh''<sup>1</sup> + ''-able.''] Capable of being weighed.\n\n'''weighage''' (wā′ạ̄j), ''n.'' [< ''weigh''<sup>1</sup> + ''-age.''] A rate or toll paid for the weighing of goods. ''Imp. Dict.''\n\n'''weigh-bauk''' (wā′bâk), ''n.'' The beam of a balance; hence, in the plural, a pair of scales. [Scotch.]\n{{smaller block|Capering in the air in a pair of ''weigh-bauks'', now up, now down. ''Scott'', Redgauntlet, xxiv. (''Encyc. Dict.'')}}\n\n'''weigh-beam''' (wā′bēm), ''n.'' A weighing-scale carried by a wooden or iron horse, for convenience in weighing freight at a dock or railroad-station; a portable scale used by custom-house weighers, etc.",
+   "c2s2": "¶\n'''weigh-board''' (wā′bōrd), ''n.'' In ''mining.'' See ''way-board.''\n\n'''weigh-bridge''' (wā′brij), ''n.'' A weighing-machine for weighing carts, wagons, etc., with their load.\n\n'''weigh-can''' (wā′kan), ''n.'' A reservoir from which supplies are drawn, so connected with a scale that any desired weight may be conveniently drawn out.\n\n'''weighed†''' (wād), ''a.'' Balanced; experienced.\n{{smaller block|A young man not ''weighed'' in state matters. {{right|''Bacon.''}}}}\n\n'''weigher''' (wā′ėr), ''n.'' [< ME. ''weyere'' (= MLG. MHG. ''weger''); < ''weigh''<sup>1</sup> + ''-er''<sup>1</sup>.] '''1.''' One who or that which weighs; an officer whose duty it is to weigh commodities or test weights.—'''2†.''' The equator.\n{{smaller block|This same cercle is cleped also the ''weyere'' (equator) of the day, for, whan the sonne is in the hevedes of Aries and Libra, than ben the daies and the nyhtes illike of lenghthe in the world. {{right|''Chaucer'', Astrolabe, i. sec. 17.}}}}\n'''Sacker and weigher.''' {{smaller|See ''sacker''<sup>1</sup>.}}\n\n'''weighership''' (wā′ėr-ship), ''n.'' [< ''weigher'' + ''-ship.''] The office of weigher.\n\n'''weigh-house''' (wā′hous), ''n.'' A building (generally of a public character) at or in which goods are weighed by suitable apparatus.\n{{smaller block|He shall, with an hour’s lying in the pulpit, get enough to find thirty or forty sturdy lubbers a month long, of which the weakest shall be as strong in the belly, when he cometh unto the manger, as the mightiest porter in the ''weigh-house.''\n{{right|''Tyndale'', Ans. to Sir T. More, etc. (Parker Soc., 1850), p. 76.}}}}\n\n'''weighing''' (wā′ing), ''n.'' [< ME. ''weyynge, weynge''; verbal n. of ''weigh''<sup>1</sup>, ''v.''] '''1.''' The act of ascertaining weight.—'''2.''' As much as is weighed at once:",
+   "c2s3": "as, a ''weighing'' of beef. ''Imp. Dict.''—'''3.''' Same as ''weighting.''\n\n'''weighing-cage''' (wā′ing-kāj), ''n.'' A cage in which living animals, as pigs, sheep, and calves, may be conveniently weighed.\n\n'''weighing-house''' (wā′ing-hous), ''n.'' Same as ''weigh-house.''\n\n'''weighing-machine''' (wā′ing-mạ-shēn″), ''n.'' Any contrivance by which the weight of an object\n[[FIGURE]]\n{{c|{{smaller|Hydrostatic Weighing-machine.}}}}\nmay be ascertained, as the common balance, spring-balance, steelyard, etc. See cuts under ''balance'' and ''steelyard.'' {{smaller|The term is, however, generally applied only to those contrivances which are employed for ascertaining the weight of heavy bodies, as the machines for the purpose of determining the weights of laden vehicles, machines for weighing cattle, machines for weighing heavy goods, as large casks, bales, etc. The ''hydrostatic weighing-machine'' (see cut) consists essentially of a strong cylinder within which moves a tightly packed piston, the space being filled with castor-oil; the loop above is attached to the cylinder and the ring below to the piston. When the object to be weighed is hung on the ring, the piston presses on the oil, and this passes by a channel to a gage}}",
+   "c3s1": "{{smaller|which indicates by the motion of the index on the dial the weight in pounds and tons.}}\n\n'''weighing-scoop''' (wā′ing-sköp), ''n.'' A combined scoop and spring-balance. {{smaller|The spring is in the handle of the scoop, and while the scoop is being filled the spring is held in place by a stop controlled by the thumb. On raising the loaded scoop the stop is released, and the weight of the contents is indicated on the handle. ''E. H. Knight.''}}\n\n'''weigh-lock''' (wā′lok), ''n.'' A canal-lock at which barges are weighed and their tonnage is settled.\n\n'''weighman''' (wā′man), ''n.''; pl. ''weighmen'' (-men). A weigher. [Rare.]\n{{smaller block|Two weeks after the coopers’ strike came the strike of the lightermen and ''weighmen.''\n{{right|''U. S. Cons. Rep.'', No. lxv. (1886), p. 266.}}}}\n\n'''weigh-shaft''' (wā′shȧft), ''n.'' In a steam-engine, a rocking-shaft or rocker-shaft.\n\n'''weight'''<sup>1</sup> (wāt), ''n.'' [Formerly also ''waight''; < ME. ''weight, weihte, weigte, weght, wight, wigt,'' < AS. ''gewiht,'' weight, = MLG. ''wicht, gewicht'' = D. ''gewigt'' = OHG. *''gewiht,'' MHG. ''gewiht, gewihte,'' G. ''gewicht,'' weight, = Icel. ''vætt'' = Sw. ''vigt'' = Dan. ''vægt,'' weight; with formative ''-t,'' < AS. ''wegan,'' etc., raise, lift: see ''weigh''<sup>1</sup>. The reg. mod. form would be ''wight'' (parallel with ''night, sight,'' etc.); the present vowel-form is due to conformity with the verb ''weigh''<sup>1</sup>.] '''1.''' Downward force of a body; gravity; heaviness; ponderousness; more exactly, the resultant of the force of the earth’s gravitation and of the centrifugal pressure from its axis of rotation, considered as a property of the body affected by it. {{smaller|Considerable confusion has existed between weight and mass, the latter}}",
+   "c3s2": "being the quantity of matter as measured by the ratio of the momentum of a body to its velocity. Weight, in this the proper sense of the word, is something which varies with the latitude of the station at which the heavy body is, being greater by <math>\\tfrac{1}{189}</math> of itself at the poles than at the equator; it also varies considerably with the elevation above the sea (<math>\\tfrac{1}{3176}</math> for every kilometer). The weights of different bodies at one and the same station were proved, by Newton’s experiments with pendulums of different material, to be in the ratio of their masses, and irrespective of their chemical composition; consequently, a balance which shows the equality of weight of two bodies at one station also shows the equality of their masses. In determining the specific gravity of a body, it is hung by a fine thread to one pan of the balance, and immersed completely in water. The reduced number of pounds, ounces, etc., which is required in the other pan to balance the first, under these circumstances, is called the weight of the body in water. In like manner, we speak of the weight in air and the weight in water. These expressions forbid our conceiving of weight as synonymous with the quantity of matter; and yet, when a pound is said to be a unit of weight, although it is intended to be carried up mountains and to distant places, mass, or quantity of matter, must be understood, since there is no important quantity but the quantity of matter which a pound or a kilogram measures. The confusion is increased when the pound is defined, as it still is in the United States, by the weight of a certain standard in air, without reference to the height of the barometer and thermometer. In the older books on mechanics, a pound is taken as a force, and the quantity of matter is obtained by dividing the weight by the measure of gravity; but now both the theoretical books and the legal definitions of the standards used in weighing make the pound, kilo, etc., to be masses, or quantities of matter, whose weight is obtained by multiplying them by the acceleration of gravity at any station. Nevertheless, the older system still finds a few supporters. It was long after Galileo had firmly established the law of falling bodies before it occurred to anybody that weight was a force. Gravity, so far as common observation shows, draws bodies to the earth alone,",
+   "c3s3": "{{smaller block|and that in parallel lines, and Galileo had shown that it accelerates all bodies alike, whether they are great or small, so that there was nothing to suggest the idea of force, especially as that idea was then in its infancy, and had not attained its present prominence in the minds of men. Weight in those days being looked upon as a property of single bodies, and not as subsisting between pairs of bodies, was necessarily confounded with mass; and a mental inertia, or natural clinging to old conceptions, kept up the confusion after Newton had demonstrated the true law of gravitation. For the units of weight, see def. 5. Abbreviated ''wt.''}}\n{{smaller block|<poem>Allas that I bihighte\nOf pured gold a thousand pound of ''wighte.''</poem>\n{{right|''Chaucer'', Franklin’s Tale, l. 832.}}}}\n{{smaller block|<poem>So Belgian mounds bear on their shattered sides\nThe sea’s whole ''weight'', increased with swelling tides.</poem>\n{{right|''Addison'', The Campaign.}}}}\n{{smaller block|Though a pound or a gramme is the same all over the world, the ''weight'' of a pound or a gramme is greater in high latitudes than near the equator.\n{{right|''Clerk Maxwell'', Matter and Motion, Art. xlvii.}}}}\n'''2.''' Mass; relative quantity of matter.—'''3.''' A heavy mass; specifically, something used on account of its weight or its mass. {{smaller|Thus, the usefulness of the weights that a man holds in his hands in leaping or jumping lies in the addition they impart to his momentum, and their dragging him down is a disadvantage; but the weights of a clock are for giving a downward pull, and their momentum is practically nothing.}}\n{{smaller block|A man leapeth better with ''weights'' in his hands than without.\n{{right|''Bacon'', Nat. Hist., § 699.}}}}\n{{smaller block|Both men and women in Cochin account it a great Gallantrie to haue wide eares, which therfore they stretch by arte, hanging ''waights'' on them till they reach to their shoulders.\n{{right|''Purchas'', Pilgrimage, p. 494.}}}}"
+  },
+  "figure_files": {
+   "c2f1": "century v08 p0675 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1209,
+     2578,
+     1506,
+     3090
+    ],
+    "caption": [
+     1227,
+     3094,
+     1505,
+     3135
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1196,
+     2552,
+     1503,
+     3072
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 8,
+    "output_tokens": 97,
+    "cache_creation_input_tokens": 4170,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 10,
+    "input_tokens": 9375,
+    "output_tokens": 8765,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c2f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|weigh|6871|weight}}</noinclude>√ ''vah'', go, move. The orig. sense ‘carry’ passed into that of ‘raise, lift,’ and thence into that of ‘weigh.’ Hence ult. (< AS. ''wegan'', etc.) ''wag''<sup>1</sup>, ''wagon'', ''wain''<sup>1</sup>, ''way''<sup>1</sup>, ''wight''<sup>1</sup>, ''whit'', and (< L. ''vehere'') ''vehicle'', ''convection'', etc.: see esp. ''way''<sup>1</sup>.] '''I.''' ''trans.'' '''1.''' To raise or lift; bear up: as, to ''weigh'' anchor; to ''weigh'' a ship that has been sunk.\n{{smaller block|And so ye same mornyng we ''wayde'' our ancre and made sayle, and come into the foresayd hauyn at Mylo.\n{{right|''Sir R. Guylforde'', Pylgrymage, p. 63.}}}}\n{{smaller block|[The ship] struck upon a rock, and, being forced to run ashore to save her men, could never be ''weighed'' since, although she lies a great height above the water.\n{{right|''Winthrop'', Hist. New England, I. 3.}}}}\n'''2.''' To bear up or balance in order to determine the weight of; determine the relative heaviness of (something) by comparison in a balance with some recognized standard; ascertain the number of pounds, ounces, etc., in: as, to ''weigh'' sugar; to ''weigh'' gold.\n{{smaller block|Like stuffe haue I read in S. Francis Legend, of the ballance wherein mens deedes are ''weighed'', and the Deuill lost his prey by the weight of a Chalice.\n{{right|''Purchas'', Pilgrimage, p. 140.}}}}\n{{smaller block|The hunter took up his rifle instinctively from the corner of the room, ''weighed'' it in both hands held palm upward.\n{{right|''W. M. Baker'', New Timothy, p. 297.}}}}\n'''3.''' To consider or examine for the purpose of forming an opinion or coming to a conclusion; compare; estimate deliberately and maturely; balance; ponder: as, to ''weigh'' the advantages and disadvantages of a scheme. {{smaller block|<poem>In noble corage oghte been areste,\nAnd ''weyen'' every thing by equitee.</poem>\n{{right|''Chaucer'', Good Women, l. 398.}}}}\n{{smaller block|Wherefore I pray you ''weigh'' this with yourself the better, and see whether you can espy how your doctrine is doubtful. {{right|''J. Bradford'', Letters (Parker Soc., 1853), II. 130.}}}}\n{{smaller block|Regard not who it is which speaketh, but ''weigh'' only what is spoken. {{right|''Hooker'', Eccles. Polity, Pref., i.}}}}\n{{smaller block|''Weigh'' oath with oath, and you will nothing ''weigh''. {{right|''Shak.'', M. N. D., iii. 2. 131.}}}}\n'''4†.''' To consider as worthy of notice; make account of; care for; regard; esteem.\n{{smaller block|You ''weigh'' me not? O, that’s you care not for me. {{right|''Shak.'', L. L. L., v. 2. 27.}}}}\n{{smaller block|<poem>You are light, gentlemen,\nNothing to ''weigh'' your hearts.</poem>\n{{right|''Fletcher and Shirley'', Night-Walker, i. 1.}}}}\n'''5.''' To overweigh or overpower; burden; oppress. See the following phrase.—'''To weigh down.''' (''a''†) To preponderate over.\n{{smaller block|He ''weighs'' King Richard ''down''. {{right|''Shak.'', Rich. II., iii. 4. 89.}}}}\n{{smaller|(''b'') To oppress with weight or heaviness; overburden; depress.}}\n{{smaller block|Thou [sleep] no more wilt ''weigh'' my eyelids ''down''. {{right|''Shak.'', 2 Hen. IV., iii. 1. 7.}}}}\n\n'''II.''' ''intrans.'' '''1.''' To weigh anchor; get under way or in readiness to sail.\n{{smaller block|When he was aboard his bark, he ''weighed'' and set sail, and shot off all his guns. {{right|''Winthrop'', Hist. New England, II. 232.}}}}\n{{smaller block|<poem>The vessel ''weighs'', forsakes the shore,\nAnd lessens to the sight.</poem>\n{{right|''Cowper'', The Bird’s Nest.}}}}\n'''2.''' To have weight, literally or figuratively.\n{{smaller block|Alliances, how near soever, ''weigh'' but light in the Scales of State.{{right|''Baker'', Chronicles, p. 117.}}}}\n\n'''3.''' To be or amount in heaviness or weight; be of equal effect with in the balance: as, a nugget ''weighing'' several ounces; a load which ''weighs'' two tons. {{smaller|The terms expressing the weight are in the adverbial objective. That which a balance measures is the proportionate acceleration of masses toward the center of the earth. This is equal to their proportionate masses; and mass is the important quantity determined. The weight, or attraction of gravitation (less the centrifugal force), differs at different stations, and is not determined by the operation of weighing.}}\n{{smaller block|And the Frensshe kyng gaue hym a goblet of syluer ''weynge'' iiii. marke.{{right|''Berners'', tr. of Froissart’s Chron., II. lxxxvii.}}}}\n{{smaller block|Master Featherstone, O Master Featherstone, you may now make your fortunes ''weigh'' ten stone of feathers more than ever they did!{{right|''Dekker and Webster'', Northward Ho, v. 1.}}}}\n\n'''4.''' To be considered as important; have weight in the intellectual balance.\n{{smaller block|He finds . . . that the same argument which ''weighs'' with him has ''weighed'' with thousands . . . before him.{{right|''Bp. Atterbury'', Sermons, II. ii.}}}}\n{{smaller block|Such considerations never ''weigh'' with them.{{right|''Goldsmith'', Citizen of the World, xci.}}}}\n\n'''5.''' To bear heavily; press hard.\n{{smaller block|<poem>Cleanse the stuff’d bosom of that perilous stuff\nWhich ''weighs'' upon the heart.</poem>{{right|''Shak.'', Macbeth, v. 3. 45.}}}}\n\n'''6.''' To consider; reflect.\n{{smaller block|<poem>My tongue was never oil’d with “Here, an ’t like you,”\n“There, I beseech you”; ''weigh'', I am a soldier,\nAnd truth I covet only, no fine terms, sir.</poem>{{right|''Fletcher'', Loyal Subject, ii. 1.}}}}\n\n{{smaller block|The soldiers, less ''weighing'' because less knowing, clamoured to be led on against any danger.\n{{right|''Milton'', Hist. Eng., ii.}}}}\n\n'''To weigh down''', to sink by its own weight or burden.\n{{smaller block|The softness of the stalk, which maketh the bough, being over-loaden, . . . ''weigh down.''\n{{right|''Bacon'', Nat. Hist., § 610.}}}}\n\n'''To weigh in''', in ''sporting'', to ascertain one’s weight before the contest.   ''Whyte Melville'', White Rose, I. xiv.\n\n'''weigh<sup>1</sup>''' (wā), ''n.''   [< ''weigh''<sup>1</sup>, ''v.'']   A certain quantity or measure, estimated by weight; a measure of weight (compare ''wey''); in the South Wales coal-fields, a weight of ten tons.\n\n'''weigh<sup>2</sup>''' (wā), ''n.'' A misspelling of ''way''<sup>1</sup>, in the phrase ''under way'', due to confusion with the phrase ''to weigh anchor.''\n{{smaller block|We lost no time in getting ''under weigh'' again.\n{{right|''B. Taylor'', Lands of the Saracen, p. 230.}}}}\n\n'''weigh<sup>3</sup>†''', ''n.'' See ''wegh.''\n\n'''weighable''' (wā′a̤-bl), ''a.''   [< ''weigh''<sup>1</sup> + ''-able.'']   Capable of being weighed.\n\n'''weighage''' (wā′ạ̄j), ''n.''   [< ''weigh''<sup>1</sup> + ''-age.'']   A rate or toll paid for the weighing of goods.   ''Imp. Dict.''\n\n'''weigh-bauk''' (wā′bâk), ''n.'' The beam of a balance; hence, in the plural, a pair of scales. [Scotch.]\n{{smaller block|Capering in the air in a pair of ''weigh-bauks'', now up, now down.\n{{right|''Scott'', Redgauntlet, xxiv. (''Encyc. Dict.'')}}}}\n\n'''weigh-beam''' (wā′bēm), ''n.'' A weighing-scale carried by a wooden or iron horse, for convenience in weighing freight at a dock or railroad-station; a portable scale used by custom-house weighers, etc.\n\n'''weigh-board''' (wā′bōrd), ''n.'' In ''mining.'' See ''way-board.''\n\n'''weigh-bridge''' (wā′brij), ''n.'' A weighing-machine for weighing carts, wagons, etc., with their load.\n\n'''weigh-can''' (wā′kan), ''n.'' A reservoir from which supplies are drawn, so connected with a scale that any desired weight may be conveniently drawn out.\n\n'''weighed†''' (wād), ''a.'' Balanced; experienced.\n{{smaller block|A young man not ''weighed'' in state matters. {{right|''Bacon.''}}}}\n\n'''weigher''' (wā′ėr), ''n.''   [< ME. ''weyere'' (= MLG. MHG. ''weger''); < ''weigh''<sup>1</sup> + ''-er''<sup>1</sup>.]   '''1.''' One who or that which weighs; an officer whose duty it is to weigh commodities or test weights.—'''2†.''' The equator.\n{{smaller block|This same cercle is cleped also the ''weyere'' (equator) of the day, for, whan the sonne is in the hevedes of Aries and Libra, than ben the daies and the nyhtes illike of lenghthe in the world. {{right|''Chaucer'', Astrolabe, i. sec. 17.}}}}\n'''Sacker and weigher.''' {{smaller|See ''sacker''<sup>1</sup>.}}\n\n'''weighership''' (wā′ėr-ship), ''n.''   [< ''weigher'' + ''-ship.'']   The office of weigher.\n\n'''weigh-house''' (wā′hous), ''n.'' A building (generally of a public character) at or in which goods are weighed by suitable apparatus.\n{{smaller block|He shall, with an hour’s lying in the pulpit, get enough to find thirty or forty sturdy lubbers a month long, of which the weakest shall be as strong in the belly, when he cometh unto the manger, as the mightiest porter in the ''weigh-house.''\n{{right|''Tyndale'', Ans. to Sir T. More, etc. (Parker Soc., 1850), p. 76.}}}}\n\n'''weighing''' (wā′ing), ''n.''   [< ME. ''weyynge, weynge''; verbal n. of ''weigh''<sup>1</sup>, ''v.'']   '''1.''' The act of ascertaining weight.—'''2.''' As much as is weighed at once: as, a ''weighing'' of beef.   ''Imp. Dict.''—'''3.''' Same as ''weighting.''\n\n'''weighing-cage''' (wā′ing-kāj), ''n.'' A cage in which living animals, as pigs, sheep, and calves, may be conveniently weighed.\n\n'''weighing-house''' (wā′ing-hous), ''n.'' Same as ''weigh-house.''\n\n'''weighing-machine''' (wā′ing-mạ-shēn″), ''n.'' Any contrivance by which the weight of an object {{img float|file=century v08 p0675 c2f1.png|width=154px|align=right|cap={{smaller|Hydrostatic Weighing-machine.}}}} may be ascertained, as the common balance, spring-balance, steelyard, etc. See cuts under ''balance'' and ''steelyard.'' {{smaller|The term is, however, generally applied only to those contrivances which are employed for ascertaining the weight of heavy bodies, as the machines for the purpose of determining the weights of laden vehicles, machines for weighing cattle, machines for weighing heavy goods, as large casks, bales, etc. The ''hydrostatic weighing-machine'' (see cut) consists essentially of a strong cylinder within which moves a tightly packed piston, the space being filled with castor-oil; the loop above is attached to the cylinder and the ring below to the piston. When the object to be weighed is hung on the ring, the piston presses on the oil, and this passes by a channel to a gage which indicates by the motion of the index on the dial the weight in pounds and tons.}}\n\n'''weighing-scoop''' (wā′ing-sköp), ''n.'' A combined scoop and spring-balance. {{smaller|The spring is in the handle of the scoop, and while the scoop is being filled the spring is held in place by a stop controlled by the thumb. On raising the loaded scoop the stop is released, and the weight of the contents is indicated on the handle.   ''E. H. Knight.''}}\n\n'''weigh-lock''' (wā′lok), ''n.'' A canal-lock at which barges are weighed and their tonnage is settled.\n\n'''weighman''' (wā′man), ''n.''; pl. ''weighmen'' (-men). A weigher. [Rare.]\n{{smaller block|Two weeks after the coopers’ strike came the strike of the lightermen and ''weighmen.''\n{{right|''U. S. Cons. Rep.'', No. lxv. (1886), p. 266.}}}}\n\n'''weigh-shaft''' (wā′shȧft), ''n.'' In a steam-engine, a rocking-shaft or rocker-shaft.\n\n'''weight'''<sup>1</sup> (wāt), ''n.''   [Formerly also ''waight''; < ME. ''weight, weihte, weigte, weght, wight, wigt,'' < AS. ''gewiht,'' weight, = MLG. ''wicht, gewicht'' = D. ''gewigt'' = OHG. *''gewiht,'' MHG. ''gewiht, gewihte,'' G. ''gewicht,'' weight, = Icel. ''vætt'' = Sw. ''vigt'' = Dan. ''vægt,'' weight; with formative ''-t,'' < AS. ''wegan,'' etc., raise, lift: see ''weigh''<sup>1</sup>. The reg. mod. form would be ''wight'' (parallel with ''night, sight,'' etc.); the present vowel-form is due to conformity with the verb ''weigh''<sup>1</sup>.]   '''1.''' Downward force of a body; gravity; heaviness; ponderousness; more exactly, the resultant of the force of the earth’s gravitation and of the centrifugal pressure from its axis of rotation, considered as a property of the body affected by it. {{smaller|Considerable confusion has existed between weight and mass, the latter}} being the quantity of matter as measured by the ratio of the momentum of a body to its velocity. Weight, in this the proper sense of the word, is something which varies with the latitude of the station at which the heavy body is, being greater by <math>\\tfrac{1}{189}</math> of itself at the poles than at the equator; it also varies considerably with the elevation above the sea (<math>\\tfrac{1}{3176}</math> for every kilometer). The weights of different bodies at one and the same station were proved, by Newton’s experiments with pendulums of different material, to be in the ratio of their masses, and irrespective of their chemical composition; consequently, a balance which shows the equality of weight of two bodies at one station also shows the equality of their masses. In determining the specific gravity of a body, it is hung by a fine thread to one pan of the balance, and immersed completely in water. The reduced number of pounds, ounces, etc., which is required in the other pan to balance the first, under these circumstances, is called the weight of the body in water. In like manner, we speak of the weight in air and the weight in water. These expressions forbid our conceiving of weight as synonymous with the quantity of matter; and yet, when a pound is said to be a unit of weight, although it is intended to be carried up mountains and to distant places, mass, or quantity of matter, must be understood, since there is no important quantity but the quantity of matter which a pound or a kilogram measures. The confusion is increased when the pound is defined, as it still is in the United States, by the weight of a certain standard in air, without reference to the height of the barometer and thermometer. In the older books on mechanics, a pound is taken as a force, and the quantity of matter is obtained by dividing the weight by the measure of gravity; but now both the theoretical books and the legal definitions of the standards used in weighing make the pound, kilo, etc., to be masses, or quantities of matter, whose weight is obtained by multiplying them by the acceleration of gravity at any station. Nevertheless, the older system still finds a few supporters. It was long after Galileo had firmly established the law of falling bodies before it occurred to anybody that weight was a force. Gravity, so far as common observation shows, draws bodies to the earth alone, {{smaller block|and that in parallel lines, and Galileo had shown that it accelerates all bodies alike, whether they are great or small, so that there was nothing to suggest the idea of force, especially as that idea was then in its infancy, and had not attained its present prominence in the minds of men. Weight in those days being looked upon as a property of single bodies, and not as subsisting between pairs of bodies, was necessarily confounded with mass; and a mental inertia, or natural clinging to old conceptions, kept up the confusion after Newton had demonstrated the true law of gravitation. For the units of weight, see def. 5. Abbreviated ''wt.''}}\n{{smaller block|<poem>Allas that I bihighte\nOf pured gold a thousand pound of ''wighte.''</poem>\n{{right|''Chaucer'', Franklin’s Tale, l. 832.}}}}\n{{smaller block|<poem>So Belgian mounds bear on their shattered sides\nThe sea’s whole ''weight'', increased with swelling tides.</poem>\n{{right|''Addison'', The Campaign.}}}}\n{{smaller block|Though a pound or a gramme is the same all over the world, the ''weight'' of a pound or a gramme is greater in high latitudes than near the equator.\n{{right|''Clerk Maxwell'', Matter and Motion, Art. xlvii.}}}}\n'''2.''' Mass; relative quantity of matter.—'''3.''' A heavy mass; specifically, something used on account of its weight or its mass. {{smaller|Thus, the usefulness of the weights that a man holds in his hands in leaping or jumping lies in the addition they impart to his momentum, and their dragging him down is a disadvantage; but the weights of a clock are for giving a downward pull, and their momentum is practically nothing.}}\n{{smaller block|A man leapeth better with ''weights'' in his hands than without.\n{{right|''Bacon'', Nat. Hist., § 699.}}}}\n{{smaller block|Both men and women in Cochin account it a great Gallantrie to haue wide eares, which therfore they stretch by arte, hanging ''waights'' on them till they reach to their shoulders.\n{{right|''Purchas'', Pilgrimage, p. 494.}}}}<noinclude><references/></noinclude>"
+}

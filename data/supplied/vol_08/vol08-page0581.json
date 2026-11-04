@@ -1,0 +1,274 @@
+{
+ "volume": 8,
+ "page_number": 581,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n580.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n580.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-03",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 823,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     18,
+     64,
+     2316,
+     105
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     18,
+     105,
+     840,
+     1046
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     18,
+     1046,
+     840,
+     2140
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     18,
+     2140,
+     840,
+     3197
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     840,
+     105,
+     1578,
+     1114
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     840,
+     1114,
+     1578,
+     1885
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     840,
+     1885,
+     1578,
+     2954
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1354,
+     2009,
+     1578,
+     2285
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     840,
+     2954,
+     1578,
+     3197
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1578,
+     105,
+     2316,
+     883
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1578,
+     883,
+     2316,
+     1948
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     2065,
+     898,
+     2316,
+     1368
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1578,
+     1948,
+     2316,
+     3005
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1578,
+     3005,
+     2316,
+     3197
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|vivers|6777|vivisepulture}}",
+   "c1s1": "¶\n'''vivers''' (vē′vėrz), ''n. pl.'' [< F. ''vivres'', provisions, < ''vivre'', live, < L. ''vivere'', live. Cf. ''viand''.] Food; eatables; victuals. [Scotch.]\n{{smaller block|I could never away with raw oatmeal, slockened with water, in all my life. Call it drammock or crowdie, or just what ye list, my ''vivers'' must thole fire and water.\n{{right|''Scott'', Pirate, v.}}}}\n\n'''vives''' (vīvz), ''n. pl.'' [Also corruptly ''fives''; shortened from ''avives'', < OF. ''avives'', also ''vives'', a disease of horses, < Sp. ''avivas'', ''adivas'' = Pg. ''adibe'' (cf. It. ''vivole'', ML. ''vivolæ''), a disease of animals, < Ar. ''addhība'', < ''al'', the, + ''dhība'', she-wolf.] A disease of animals, particularly of horses, and more especially of young horses at grass, located in the glands under the ear, where a tumor is formed which sometimes ends in suppuration.\n{{smaller block|''Vives'', “Certaine kirnels growing under the horsses eare.”\n{{right|''Topsell'', 1607, p. 360. (''Halliwell.'')}}}}\n\n'''Viviani’s problem.''' See ''problem''.\n\n'''vivianite''' (viv′i-an-īt), ''n.'' [Named after J. H. ''Vivian'', an English metallurgist.] In ''mineral.'', a hydrous phosphate of iron protoxid, occurring crystallized, also cleavable, massive, fibrous, and earthy, nearly colorless when altered, but on exposure becoming blue or green. {{smaller|The earthy variety, called ''blue iron earth'' or ''native Prussian blue'', is sometimes used as a pigment.}}\n\n'''vivid''' (viv′id), ''a.'' [< L. ''vividus'', animated, spirited, < ''vivere'', live, akin to ''vita'', life, Gr. βίος,",
+   "c1s2": "life, Skt. √ ''jīv'', live: see ''vital'' and ''quick''.] '''1.''' Exhibiting the appearance of life or freshness; animated; bright; clear; lively; fresh; strong; intense: as, the ''vivid'' colors of the rainbow; the ''vivid'' green of flourishing vegetables.\n{{smaller block|The fullest and most ''vivid'' colours.\n{{right|''Newton'', Opticks, I. ii. 10.}}}}\n{{smaller block|<poem>''Vivid'' was the light\nWhich flashed at this from out the other’s eye.</poem>\n{{right|''Wordsworth.''}}}}\n{{smaller block|All yielding is attended with a less ''vivid'' consciousness than resistance. ''George Eliot'', Mill on the Floss, vi. 13.}}\n{{smaller block|A good style is the ''vivid'' expression of clear thinking.\n{{right|''Huxley'', Pop. Sci. Mo., XXIX. 461.}}}}\n'''2.''' Producing a distinct and strong impression on the mind; presented to the mind with exceptional clearness and force; of a mental faculty, having a clear and vigorous action.\n{{smaller block|Where the genius is bright, and the imagination ''vivid'', the power of memory may be too much neglected and lose its improvement. ''Watts'', Improvement of the Mind, i. 17.}}\n{{smaller block|Pope, whose ''vivid'' genius almost persuaded wit to renounce its proper nature and become poetic.\n{{right|''Lowell'', New Princeton Rev., I. 159.}}}}\n{{smaller block|Somewhere in the list of our imaginations of absent feelings there must be found the ''vividest'' of all. These optical reproductions of real form are the ''vividest'' of all.\n{{right|''W. James'', Prin. of Psychol., II. 260.}}}}\n='''Syn. 1.''' Lucid, striking, lustrous, luminous, vigorous.\n\n'''vividity''' (vi-vid′i̤-ti), ''n.'' [< ''vivid'' + ''-ity''.] '''1.''' The character or state of being vivid; vividness. [Rare.]\n{{smaller block|Strength of attention, clearness of discernment, amplitude of comprehension, ''vividity'' and rapidity of imagination. ''Bentham'', Introd. to Morals and Legislation, vi. 12.}}\n'''2†.''' Vitality.",
+   "c1s3": "¶\n{{smaller block|The withdrawing of competent meat and drink from the body . . . makes way for dryness, whence the kindly heat (which, like other fire, might be a good servant, must needs be an ill master), getting more than due and wonted strength, . . . turns on that substantial ''vividity'', exsiccating and consuming it.\n{{right|''Rev. T. Adams'', Works, I. 430.}}}}\n\n'''vividly''' (viv′id-li), ''adv.'' In a vivid manner; so as to be vivid, in any sense.\n\n'''vividness''' (viv′id-nes), ''n.'' The property of being vivid, in any sense; vividity.\n{{smaller block|All great steps in science require a peculiar distinctness and ''vividness'' of thought in the discoverer. {{right|''Whewell.''}}}}\n\n'''vivific''' (vī-vif′ik), ''a.'' [= F. ''vivifique'' = Sp. ''vivífico'' = Pg. It. ''vivifico'', < LL. ''vivificus'', making alive, quickening: see ''vivify''.] Giving life; reviving; enlivening; vivifying. [Rare.]\n{{smaller block|Without whose [the sun’s] salutary and ''vivific'' beams all motion . . . would speedily cease, and nothing be left here below but darkness and death.\n{{right|''Ray'', Works of Creation, i.}}}}\n\n'''vivifical''' (vī-vif′i-ka̤l), ''a.'' [< ''vivific'' + ''-al''.] Same as ''vivific''.\n\n'''vivificant''' (vī-vif′i-kant), ''a.'' [= OF. ''vivifiant'' = Sp. Pg. ''vivificante'', < LL. ''vivifican(t-)s'', ppr. of ''vivificare'', make alive: see ''vivify''.] Vivific; vivifying. ''Holland'', tr. of Plutarch, p. 685.\n\n'''vivificate''' (vī-vif′i-kāt), ''v. t.''; pret. and pp. ''vivificated'', ppr. ''vivificating''. [< LL. ''vivificatus'', pp. of ''vivificare'', make alive: see ''vivify''.] '''1.''' To give life to; animate; vivify. [Rare.]\n{{smaller block|With his understanding free to think of other things, even as God ''vivificates'' and actuates the whole world, being yet wholly free to contemplate himself.\n{{right|''Dr. H. More'', Philosophic Cabbala, i.}}}}",
+   "c2s1": "¶\n'''2.''' In ''old chem.'', to restore or reduce to the natural state or to the metallic state, as a substance from a solution or a metal from an oxid; revive.\n\n'''vivification''' (viv″i-fi-kā′shọn), ''n.'' [< F. ''vivification'' = Sp. ''vivificacion'' = Pg. ''vivificação'' = It. ''vivificazione'', < LL. ''vivificatio(n-)'', a making alive, a quickening, < ''vivificare'', pp. ''vivificatus'', make alive: see ''vivify''.] '''1.''' The act of vivifying, or the state of being vivified; the act of giving life; revival. [Rare.]\n{{smaller block|The nature of ''vivification'' is best inquired in creatures bred of putrefaction. {{right|''Bacon'', Nat. Hist., § 695.}}}}\n{{smaller block|<poem>''Sub.'' And when comes ''vivification?''\n''Face.'' After mortification.</poem>\n{{right|''B. Jonson'', Alchemist, ii. 1.}}}}\n{{smaller block|It [the heart] is the member that hath first life in man, and it is the last that dies in man, and to all the other members gives ''vivification.'' {{right|''Rev. T. Adams'', Works, I. 258.}}}}\n\n'''2.''' In ''physiol.'', the transformation of proteid matter into living tissue, occurring as the final stage of assimilation.\n\n'''vivificative''' (viv′i-fi-kā-tiv), ''a.'' [< ''vivificate'' + ''-ive''.] Capable of vivifying. [Rare.]\n{{smaller block|That lower ''vivificative'' principle of his soul did grow . . . strong, and did . . . vigorously, and with . . . exultant sympathy and joy, actuate his vehicle. {{right|''Dr. H. More'', Philosophic Cabbala, ii.}}}}\n\n'''vivifier''' (viv′i-fī-ėr), ''n.'' One who vivifies; a quickener.\n{{smaller block|He [man] has need of a ''Vivifier'', because he is dead. {{right|''St. Augustine'', On Nature and Grace (trans.), xxv.}}}}",
+   "c2s2": "¶\n'''vivify''' (viv′i-fī), ''v.''; pret. and pp. ''vivified'', ppr. ''vivifying''. [< F. ''vivifier'' = Sp. Pg. ''vivificar'' = It. ''vivificare'', < LL. ''vivificare'', make alive, restore to life, quicken (cf. ''vivificus'', making alive), < ''vivus'', alive, + ''facere'', make, do.] '''I.''' ''trans.'' To make to be living; endue with life; animate; enliven; inspire as if with life. ''Harvey.''\n{{smaller block|Winds of hostility . . . rather irritated and ''vivified'' the sense of security. {{right|''De Quincey'', Philos. of Rom. Hist.}}}}\n{{smaller block|Her childish features were ''vivified'' and enlightened by an expression of innocent intelligence charming to behold. {{right|''The Century'', XXXVIII. 213.}}}}\n'''II.''' ''intrans.'' To impart life or animation.\n{{smaller block|The second Adam, sleeping in a ''vivifying'' death, onely for the saluation of Mankinde, should sanctifie his Spouse the Church by those Sacraments which were deriued out of his side. {{right|''Heywood'', Hierarchy of Angels, p. 374.}}}}\n\n'''Vivipara†''' (vī-vip′a̤-rä), ''n. pl.'' [NL., neut. pl. of LL. ''viviparus'', viviparous: see ''viviparous''.] Those vertebrates which are viviparous: an old division, contrasted with ''Ovipara'', and containing the mammals. ''De Blainville.'' {{smaller|The division is worthless, as some mammals are oviparous, and many of the lower vertebrates are viviparous, as are also some invertebrates. The name is a survival of the unfittest from}}",
+   "c2s3": "{{smaller block|the time of Aristotle, the later ''Vivipara'' or ''Zoötoka'' being the ζωοτοκοῦντα ἐν αὑτοῖς (mammals) of that author.}}\n\n¶\n'''Viviparidæ''' (viv-i-par′i-dē), ''n. pl.'' [NL., < ''Viviparus'' (the typical genus) + ''-idæ''.] A family of tænioglossate gastropods, typified by the genus ''Viviparus''.\n[[FIGURE]]\n{{c|{{smaller|''Viviparus contectus'', one of the ''Viviparidæ''.}}}}\n{{smaller|They have a flat foot, moderate rostrum, elongate tentacles, with one of which the male organ is adnate, eyes on prominences at the outer bases of the tentacles, radular teeth 3, 1, 3, the median broad, the lateral obliquely oblong, and the marginal with narrow bases or unguiform; the shell spiral, with a continuous peritreme, and a more or less concentric operculum. It is a cosmopolitan group of fresh-water shells. Representatives of four genera occur in the United States, but of one only in Europe. They have often been called ''Paludinidæ''.}}\n\n'''viviparity''' (viv-i-par′i̤-ti), ''n.'' [< ''vivipar(ous)'' + ''-ity''.] The state, character, or condition of being viviparous; the act, process, or result of bringing forth alive.\n\n'''viviparoid''' (vī-vip′a̤-roid), ''a.'' and ''n.'' '''I.''' ''a.'' Of or relating to the ''Viviparidæ''.\n\n'''II.''' ''n.'' One of the ''Viviparidæ''.\n\n'''viviparous''' (vī-vip′a̤-rus), ''a.'' [= F. ''vivipare'' = Sp. ''vivíparo'' = Pg. It. ''viviparo'', < LL. ''viviparus'', that brings forth young alive, < L. ''vivus'', alive, + ''parere'', bring forth, produce.] '''1.''' Bringing forth alive; having young which maintain vascular vital connection with the body of the parent until they are born in a comparatively advanced stage of development; reproducing by birth, not by hatching from an egg which is laid and afterward incubated: correlated",
+   "c2s4": "with ''oviparous'' and ''ovoviviparous''. See these words, and ''egg''<sup>1</sup>. {{smaller|In strictness, all metazoic animals and some protozoans are oviparous, since they produce ova; but the distinction subsists in the duration of the period in which the product of conception remains in the body of the parent. If the egg is quickly extruded, the animal is ''oviparous;'' if it is separated from the mother, but hatches inside the body, ''ovoviviparous;'' if it comes to term in a womb, ''viviparous''. Among vertebrates, all}}",
+   "c3s1": "{{smaller|mammals excepting monotremes, no birds, many reptiles, and some fishes are viviparous. Invertebrates are mostly oviparous, in some cases ovoviviparous, in a few viviparous.}}\n\n'''2.''' In ''bot.'', germinating or sprouting from a seed or bud which is still on the parent plant. {{smaller|The term is also sometimes equivalent to ''proliferous'' as applied to grasses, rushes, sedges, etc. See ''prolification'', 2.}}\n{{smaller block|From an examination of the structure of ''viviparous'' grasses.\n{{right|''Masters'', Teratol., p. 169.}}}}\n{{smaller|'''Viviparous blenny,''' ''Zoarces viviparus'' (formerly ''Blennius viviparus''), a fish of the family ''Lycodidæ''. See ''Zoarces''. —'''Viviparous fish,''' a fish which brings forth alive, especially a viviparous perch. Numerous other fishes, belonging to different families, are of this character, as nearly if not all of the ''Lycodidæ'', including the so-called viviparous blenny, certain scorpænoids, cyprinodonts, blind-fishes, and most sharks and rays.—'''Viviparous knotweed,''' the serpent-grass, ''Polygonum viviparum.''—'''Viviparous lizard,''' the British ''Zoötoca vivipara''. See ''Zoötoca.''—'''Viviparous perch.''' See ''perch''<sup>1</sup>, ''surf-fish'', and ''Embiotocidæ''.—'''Viviparous shell,''' any member of the ''Viviparidæ''.}}\n\n'''viviparously''' (vī-vip′a̤-rus-li), ''adv.'' In a viviparous manner; by viviparity.\n\n'''viviparousness''' (vī-vip′a̤-rus-nes), ''n.'' Same as ''viviparity''.\n\n'''Viviparus''' (vī-vip′a̤-rus), ''n.'' [NL. (Montfort, 1810), < LL. ''vivipărus'': see ''viviparous''.] The",
+   "c3s2": "[[FIGURE]]\n{{c|{{smaller|''Viviparus vulgaris:'' the branchiæ and embryos seen through the shell.}}}}\ntypical genus of ''Viviparidæ'', to which very different limits have been ascribed, but always including such species as ''V. vulgaris'' and ''V. contectus'' of Europe. {{smaller|Several closely related species inhabit the United States, as ''V. georgianus'' and ''V. contectoides.''}}\n\n'''viviperception''' (viv″i-pėr-sep′shọn), ''n.'' [< L. ''vivus'', living, + ''perceptio''(''n''-), perception.] The observation of physiological functions or vital processes in their natural action without dissection of the living body: distinguished from observation by means of vivisection. ''J. J. G. Wilkinson.'' [Rare.]\n\n'''vivisect''' (viv-i-sekt′), ''v.'' [< L. ''vivus'', living, + ''sectus'', pp. of ''secare'', cut.] '''I.''' ''trans.'' To dissect the living body of; practise vivisection upon; anatomize, as a living animal. ''Athenæum'', No. 3200, p. 252. [Recent.]\n\n'''II.''' ''intrans.'' To practise vivisection; dissect a living animal. [Recent.]\n\n'''vivisection''' (viv-i-sek′shọn), ''n.'' [< F. ''vivisection'' = Sp. ''viviseccion'', < L. ''vivus'', living, + ''sectio''(''n''-), a cutting: see ''section''.] Dissection of a living body; the practice of anatomizing alive, or of experimenting upon living animals, for the purpose of investigating some physiological function or pathological process which cannot well be otherwise determined. {{smaller|Vivisection strict-}}",
+   "c3s3": "{{smaller block|ly includes only cutting operations; but the term is extended to any physiological experimentation upon living animals, as compression of parts by ligatures, subjection of the creature to special conditions of atmospheric pressure, temperature, and food, exhibition of poisons or other drugs, inoculation of disease, etc. Vivisection in competent and humane hands, under proper and reasonable restrictions, is fruitful of good results to the sciences of physiology and pathology.}}\n\n{{smaller block|The ''Vivisection'' Act of 1876 . . . is intended for the protection of vertebrate animals liable to be employed alive in physiological experiments.\n{{right|''Encyc. Brit.'', XV. 799.}}}}\n\n{{smaller block|'''Painless vivisection''', callisection.}}\n\n'''vivisectional''' (viv-i-sek′sho̤n-a̤l), ''a.'' [< ''vivisection'' + ''-al.''] Of or pertaining to vivisection.\n\n{{smaller block|The best way to enter the subject will be to take a lower creature, like a frog, and study by the ''vivisectional'' method the functions of his different nerve-centres.\n{{right|''W. James'', Prin. of Psychol., I. 111.}}}}\n\n'''vivisectionist''' (viv-i-sek′sho̤n-ist), ''n.'' [< ''vivisection'' + ''-ist.''] A vivisector; also, one who favors or defends the practice of vivisection.\n\n{{smaller block|Physiology, it is said, can scarcely be called a science as yet, and the contributions of ''vivisectionists'' to the understanding and amelioration of human suffering have been almost nothing.\n{{right|''G. S. Hall'', German Culture, p. 20.}}}}\n\n'''vivisector''' (viv-i-sek′to̤r), ''n.'' [< L. ''vivus'', living, + ''sector'', a cutter: see ''sector''.] One who practises vivisection.\n\n{{smaller block|A judge or jury might have opinions as to the comparative value of the results obtained which would differ widely from those of the ''vivisector'' himself.\n{{right|''Buck’s Handbook of Med. Sciences'', VII. 682.}}}}\n\n'''vivisectorium''' (viv″i-sek-tō′ri-um), ''n.''; pl. ''vivisectoria'' (-ä̤). [NL.: see ''vivisect''.] A place where vivisections are made.",
+   "c3s4": "¶\n{{smaller block|Students have turned away sickened not only from the ''vivisectorium'' but from the study of medicine.\n{{right|''G. S. Hall'', German Culture, p. 20.}}}}\n\n'''vivisepulture''' (viv-i-sep′ul-tūr), ''n.'' [< L. ''vivus'', living, + ''sepultura'', burial: see ''sepulture''.] The burial of a person alive. [Rare.]"
+  },
+  "figure_files": {
+   "c2f1": "century v08 p0581 c2f1.png",
+   "c3f1": "century v08 p0581 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1366,
+     2021,
+     1574,
+     2273
+    ],
+    "caption": [
+     1368,
+     2279,
+     1576,
+     2341
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1352,
+     2015,
+     1565,
+     2298
+    ]
+   },
+   {
+    "box": [
+     2077,
+     910,
+     2310,
+     1356
+    ],
+    "caption": [
+     2079,
+     1366,
+     2313,
+     1448
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     2073,
+     950,
+     2303,
+     1361
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 3,
+    "input_tokens": 12,
+    "output_tokens": 164,
+    "cache_creation_input_tokens": 5483,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 12,
+    "input_tokens": 9906,
+    "output_tokens": 10772,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c2f1": "right",
+   "c3f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|vivers|6777|vivisepulture}}</noinclude>{{nop}}'''vivers''' (vē′vėrz), ''n. pl.''   [< F. ''vivres'', provisions, < ''vivre'', live, < L. ''vivere'', live. Cf. ''viand''.]   Food; eatables; victuals. [Scotch.]\n{{smaller block|I could never away with raw oatmeal, slockened with water, in all my life. Call it drammock or crowdie, or just what ye list, my ''vivers'' must thole fire and water.\n{{right|''Scott'', Pirate, v.}}}}\n\n'''vives''' (vīvz), ''n. pl.''   [Also corruptly ''fives''; shortened from ''avives'', < OF. ''avives'', also ''vives'', a disease of horses, < Sp. ''avivas'', ''adivas'' = Pg. ''adibe'' (cf. It. ''vivole'', ML. ''vivolæ''), a disease of animals, < Ar. ''addhība'', < ''al'', the, + ''dhība'', she-wolf.]   A disease of animals, particularly of horses, and more especially of young horses at grass, located in the glands under the ear, where a tumor is formed which sometimes ends in suppuration.\n{{smaller block|''Vives'', “Certaine kirnels growing under the horsses eare.”\n{{right|''Topsell'', 1607, p. 360. (''Halliwell.'')}}}}\n\n'''Viviani’s problem.''' See ''problem''.\n\n'''vivianite''' (viv′i-an-īt), ''n.''   [Named after J. H. ''Vivian'', an English metallurgist.]   In ''mineral.'', a hydrous phosphate of iron protoxid, occurring crystallized, also cleavable, massive, fibrous, and earthy, nearly colorless when altered, but on exposure becoming blue or green. {{smaller|The earthy variety, called ''blue iron earth'' or ''native Prussian blue'', is sometimes used as a pigment.}}\n\n'''vivid''' (viv′id), ''a.''   [< L. ''vividus'', animated, spirited, < ''vivere'', live, akin to ''vita'', life, Gr. βίος, life, Skt. √ ''jīv'', live: see ''vital'' and ''quick''.]   '''1.''' Exhibiting the appearance of life or freshness; animated; bright; clear; lively; fresh; strong; intense: as, the ''vivid'' colors of the rainbow; the ''vivid'' green of flourishing vegetables.\n{{smaller block|The fullest and most ''vivid'' colours.\n{{right|''Newton'', Opticks, I. ii. 10.}}}}\n{{smaller block|<poem>''Vivid'' was the light\nWhich flashed at this from out the other’s eye.</poem>\n{{right|''Wordsworth.''}}}}\n{{smaller block|All yielding is attended with a less ''vivid'' consciousness than resistance.\n{{right|''George Eliot'', Mill on the Floss, vi. 13.}}}}\n{{smaller block|A good style is the ''vivid'' expression of clear thinking.\n{{right|''Huxley'', Pop. Sci. Mo., XXIX. 461.}}}}\n'''2.''' Producing a distinct and strong impression on the mind; presented to the mind with exceptional clearness and force; of a mental faculty, having a clear and vigorous action.\n{{smaller block|Where the genius is bright, and the imagination ''vivid'', the power of memory may be too much neglected and lose its improvement.\n{{right|''Watts'', Improvement of the Mind, i. 17.}}}}\n{{smaller block|Pope, whose ''vivid'' genius almost persuaded wit to renounce its proper nature and become poetic.\n{{right|''Lowell'', New Princeton Rev., I. 159.}}}}\n{{smaller block|Somewhere in the list of our imaginations of absent feelings there must be found the ''vividest'' of all. These optical reproductions of real form are the ''vividest'' of all.\n{{right|''W. James'', Prin. of Psychol., II. 260.}}}}\n='''Syn. 1.''' Lucid, striking, lustrous, luminous, vigorous.\n\n'''vividity''' (vi-vid′i̤-ti), ''n.''   [< ''vivid'' + ''-ity''.]   '''1.''' The character or state of being vivid; vividness. [Rare.]\n{{smaller block|Strength of attention, clearness of discernment, amplitude of comprehension, ''vividity'' and rapidity of imagination.\n{{right|''Bentham'', Introd. to Morals and Legislation, vi. 12.}}}}\n'''2†.''' Vitality.\n\n{{smaller block|The withdrawing of competent meat and drink from the body . . . makes way for dryness, whence the kindly heat (which, like other fire, might be a good servant, must needs be an ill master), getting more than due and wonted strength, . . . turns on that substantial ''vividity'', exsiccating and consuming it.\n{{right|''Rev. T. Adams'', Works, I. 430.}}}}\n\n'''vividly''' (viv′id-li), ''adv.'' In a vivid manner; so as to be vivid, in any sense.\n\n'''vividness''' (viv′id-nes), ''n.'' The property of being vivid, in any sense; vividity.\n{{smaller block|All great steps in science require a peculiar distinctness and ''vividness'' of thought in the discoverer. {{right|''Whewell.''}}}}\n\n'''vivific''' (vī-vif′ik), ''a.''   [= F. ''vivifique'' = Sp. ''vivífico'' = Pg. It. ''vivifico'', < LL. ''vivificus'', making alive, quickening: see ''vivify''.]   Giving life; reviving; enlivening; vivifying. [Rare.]\n{{smaller block|Without whose [the sun’s] salutary and ''vivific'' beams all motion . . . would speedily cease, and nothing be left here below but darkness and death.\n{{right|''Ray'', Works of Creation, i.}}}}\n\n'''vivifical''' (vī-vif′i-ka̤l), ''a.''   [< ''vivific'' + ''-al''.]   Same as ''vivific''.\n\n'''vivificant''' (vī-vif′i-kant), ''a.''   [= OF. ''vivifiant'' = Sp. Pg. ''vivificante'', < LL. ''vivifican(t-)s'', ppr. of ''vivificare'', make alive: see ''vivify''.]   Vivific; vivifying.   ''Holland'', tr. of Plutarch, p. 685.\n\n'''vivificate''' (vī-vif′i-kāt), ''v. t.''; pret. and pp. ''vivificated'', ppr. ''vivificating''.   [< LL. ''vivificatus'', pp. of ''vivificare'', make alive: see ''vivify''.]   '''1.''' To give life to; animate; vivify. [Rare.]\n{{smaller block|With his understanding free to think of other things, even as God ''vivificates'' and actuates the whole world, being yet wholly free to contemplate himself.\n{{right|''Dr. H. More'', Philosophic Cabbala, i.}}}}\n\n'''2.''' In ''old chem.'', to restore or reduce to the natural state or to the metallic state, as a substance from a solution or a metal from an oxid; revive.\n\n'''vivification''' (viv″i-fi-kā′shọn), ''n.''   [< F. ''vivification'' = Sp. ''vivificacion'' = Pg. ''vivificação'' = It. ''vivificazione'', < LL. ''vivificatio(n-)'', a making alive, a quickening, < ''vivificare'', pp. ''vivificatus'', make alive: see ''vivify''.]   '''1.''' The act of vivifying, or the state of being vivified; the act of giving life; revival. [Rare.]\n{{smaller block|The nature of ''vivification'' is best inquired in creatures bred of putrefaction. {{right|''Bacon'', Nat. Hist., § 695.}}}}\n{{smaller block|<poem>''Sub.'' And when comes ''vivification?''\n''Face.'' After mortification.</poem>\n{{right|''B. Jonson'', Alchemist, ii. 1.}}}}\n{{smaller block|It [the heart] is the member that hath first life in man, and it is the last that dies in man, and to all the other members gives ''vivification.'' {{right|''Rev. T. Adams'', Works, I. 258.}}}}\n\n'''2.''' In ''physiol.'', the transformation of proteid matter into living tissue, occurring as the final stage of assimilation.\n\n'''vivificative''' (viv′i-fi-kā-tiv), ''a.''   [< ''vivificate'' + ''-ive''.]   Capable of vivifying. [Rare.]\n{{smaller block|That lower ''vivificative'' principle of his soul did grow . . . strong, and did . . . vigorously, and with . . . exultant sympathy and joy, actuate his vehicle. {{right|''Dr. H. More'', Philosophic Cabbala, ii.}}}}\n\n'''vivifier''' (viv′i-fī-ėr), ''n.'' One who vivifies; a quickener.\n{{smaller block|He [man] has need of a ''Vivifier'', because he is dead. {{right|''St. Augustine'', On Nature and Grace (trans.), xxv.}}}}\n\n'''vivify''' (viv′i-fī), ''v.''; pret. and pp. ''vivified'', ppr. ''vivifying''.   [< F. ''vivifier'' = Sp. Pg. ''vivificar'' = It. ''vivificare'', < LL. ''vivificare'', make alive, restore to life, quicken (cf. ''vivificus'', making alive), < ''vivus'', alive, + ''facere'', make, do.]   '''I.''' ''trans.'' To make to be living; endue with life; animate; enliven; inspire as if with life.   ''Harvey.''\n{{smaller block|Winds of hostility . . . rather irritated and ''vivified'' the sense of security. {{right|''De Quincey'', Philos. of Rom. Hist.}}}}\n{{smaller block|Her childish features were ''vivified'' and enlightened by an expression of innocent intelligence charming to behold. {{right|''The Century'', XXXVIII. 213.}}}}\n'''II.''' ''intrans.'' To impart life or animation.\n{{smaller block|The second Adam, sleeping in a ''vivifying'' death, onely for the saluation of Mankinde, should sanctifie his Spouse the Church by those Sacraments which were deriued out of his side. {{right|''Heywood'', Hierarchy of Angels, p. 374.}}}}\n\n'''Vivipara†''' (vī-vip′a̤-rä), ''n. pl.''   [NL., neut. pl. of LL. ''viviparus'', viviparous: see ''viviparous''.]   Those vertebrates which are viviparous: an old division, contrasted with ''Ovipara'', and containing the mammals.   ''De Blainville.'' {{smaller|The division is worthless, as some mammals are oviparous, and many of the lower vertebrates are viviparous, as are also some invertebrates. The name is a survival of the unfittest from the time of Aristotle, the later ''Vivipara'' or ''Zoötoka'' being the ζωοτοκοῦντα ἐν αὑτοῖς (mammals) of that author.}}\n\n'''Viviparidæ''' (viv-i-par′i-dē), ''n. pl.''   [NL., < ''Viviparus'' (the typical genus) + ''-idæ''.]   A family of tænioglossate gastropods, typified by the genus ''Viviparus''. {{img float|file=century v08 p0581 c2f1.png|width=98px|align=right|cap={{smaller|''Viviparus contectus'', one of the ''Viviparidæ''.}}<br />{{smaller|They have a flat foot, moderate rostrum, elongate tentacles, with one of which the male organ is adnate, eyes on prominences at the outer bases of the tentacles, radular teeth 3, 1, 3, the median broad, the lateral obliquely oblong, and the marginal with narrow bases or unguiform; the shell spiral, with a continuous peritreme, and a more or less concentric operculum. It is a cosmopolitan group of fresh-water shells. Representatives of four genera occur in the United States, but of one only in Europe. They have often been called ''Paludinidæ''.}}}}\n\n'''viviparity''' (viv-i-par′i̤-ti), ''n.''   [< ''vivipar(ous)'' + ''-ity''.]   The state, character, or condition of being viviparous; the act, process, or result of bringing forth alive.\n\n'''viviparoid''' (vī-vip′a̤-roid), ''a.'' and ''n.'' '''I.''' ''a.'' Of or relating to the ''Viviparidæ''.\n\n'''II.''' ''n.'' One of the ''Viviparidæ''.\n\n'''viviparous''' (vī-vip′a̤-rus), ''a.''   [= F. ''vivipare'' = Sp. ''vivíparo'' = Pg. It. ''viviparo'', < LL. ''viviparus'', that brings forth young alive, < L. ''vivus'', alive, + ''parere'', bring forth, produce.]   '''1.''' Bringing forth alive; having young which maintain vascular vital connection with the body of the parent until they are born in a comparatively advanced stage of development; reproducing by birth, not by hatching from an egg which is laid and afterward incubated: correlated with ''oviparous'' and ''ovoviviparous''. See these words, and ''egg''<sup>1</sup>. {{smaller|In strictness, all metazoic animals and some protozoans are oviparous, since they produce ova; but the distinction subsists in the duration of the period in which the product of conception remains in the body of the parent. If the egg is quickly extruded, the animal is ''oviparous;'' if it is separated from the mother, but hatches inside the body, ''ovoviviparous;'' if it comes to term in a womb, ''viviparous''. Among vertebrates, all mammals excepting monotremes, no birds, many reptiles, and some fishes are viviparous. Invertebrates are mostly oviparous, in some cases ovoviviparous, in a few viviparous.}}\n\n'''2.''' In ''bot.'', germinating or sprouting from a seed or bud which is still on the parent plant. {{smaller|The term is also sometimes equivalent to ''proliferous'' as applied to grasses, rushes, sedges, etc. See ''prolification'', 2.}}\n{{smaller block|From an examination of the structure of ''viviparous'' grasses.\n{{right|''Masters'', Teratol., p. 169.}}}}\n{{smaller|'''Viviparous blenny,''' ''Zoarces viviparus'' (formerly ''Blennius viviparus''), a fish of the family ''Lycodidæ''. See ''Zoarces''. —'''Viviparous fish,''' a fish which brings forth alive, especially a viviparous perch. Numerous other fishes, belonging to different families, are of this character, as nearly if not all of the ''Lycodidæ'', including the so-called viviparous blenny, certain scorpænoids, cyprinodonts, blind-fishes, and most sharks and rays.—'''Viviparous knotweed,''' the serpent-grass, ''Polygonum viviparum.''—'''Viviparous lizard,''' the British ''Zoötoca vivipara''. See ''Zoötoca.''—'''Viviparous perch.''' See ''perch''<sup>1</sup>, ''surf-fish'', and ''Embiotocidæ''.—'''Viviparous shell,''' any member of the ''Viviparidæ''.}}\n\n'''viviparously''' (vī-vip′a̤-rus-li), ''adv.'' In a viviparous manner; by viviparity.\n\n'''viviparousness''' (vī-vip′a̤-rus-nes), ''n.'' Same as ''viviparity''.\n\n'''Viviparus''' (vī-vip′a̤-rus), ''n.''   [NL. (Montfort, 1810), < LL. ''vivipărus'': see ''viviparous''.]   The {{img float|file=century v08 p0581 c3f1.png|width=110px|align=right|cap={{smaller|''Viviparus vulgaris:'' the branchiæ and embryos seen through the shell.}}}} typical genus of ''Viviparidæ'', to which very different limits have been ascribed, but always including such species as ''V. vulgaris'' and ''V. contectus'' of Europe. {{smaller|Several closely related species inhabit the United States, as ''V. georgianus'' and ''V. contectoides.''}}\n\n'''viviperception''' (viv″i-pėr-sep′shọn), ''n.''   [< L. ''vivus'', living, + ''perceptio''(''n''-), perception.]   The observation of physiological functions or vital processes in their natural action without dissection of the living body: distinguished from observation by means of vivisection.   ''J. J. G. Wilkinson.'' [Rare.]\n\n'''vivisect''' (viv-i-sekt′), ''v.''   [< L. ''vivus'', living, + ''sectus'', pp. of ''secare'', cut.]   '''I.''' ''trans.'' To dissect the living body of; practise vivisection upon; anatomize, as a living animal.   ''Athenæum'', No. 3200, p. 252. [Recent.]\n\n'''II.''' ''intrans.'' To practise vivisection; dissect a living animal. [Recent.]\n\n'''vivisection''' (viv-i-sek′shọn), ''n.''   [< F. ''vivisection'' = Sp. ''viviseccion'', < L. ''vivus'', living, + ''sectio''(''n''-), a cutting: see ''section''.]   Dissection of a living body; the practice of anatomizing alive, or of experimenting upon living animals, for the purpose of investigating some physiological function or pathological process which cannot well be otherwise determined. {{smaller|Vivisection strictly includes only cutting operations; but the term is extended to any physiological experimentation upon living animals, as compression of parts by ligatures, subjection of the creature to special conditions of atmospheric pressure, temperature, and food, exhibition of poisons or other drugs, inoculation of disease, etc. Vivisection in competent and humane hands, under proper and reasonable restrictions, is fruitful of good results to the sciences of physiology and pathology.}}\n\n{{smaller block|The ''Vivisection'' Act of 1876 . . . is intended for the protection of vertebrate animals liable to be employed alive in physiological experiments.\n{{right|''Encyc. Brit.'', XV. 799.}}}}\n\n{{smaller block|'''Painless vivisection''', callisection.}}\n\n'''vivisectional''' (viv-i-sek′sho̤n-a̤l), ''a.''   [< ''vivisection'' + ''-al.'']   Of or pertaining to vivisection.\n\n{{smaller block|The best way to enter the subject will be to take a lower creature, like a frog, and study by the ''vivisectional'' method the functions of his different nerve-centres.\n{{right|''W. James'', Prin. of Psychol., I. 111.}}}}\n\n'''vivisectionist''' (viv-i-sek′sho̤n-ist), ''n.''   [< ''vivisection'' + ''-ist.'']   A vivisector; also, one who favors or defends the practice of vivisection.\n\n{{smaller block|Physiology, it is said, can scarcely be called a science as yet, and the contributions of ''vivisectionists'' to the understanding and amelioration of human suffering have been almost nothing.\n{{right|''G. S. Hall'', German Culture, p. 20.}}}}\n\n'''vivisector''' (viv-i-sek′to̤r), ''n.''   [< L. ''vivus'', living, + ''sector'', a cutter: see ''sector''.]   One who practises vivisection.\n\n{{smaller block|A judge or jury might have opinions as to the comparative value of the results obtained which would differ widely from those of the ''vivisector'' himself.\n{{right|''Buck’s Handbook of Med. Sciences'', VII. 682.}}}}\n\n'''vivisectorium''' (viv″i-sek-tō′ri-um), ''n.''; pl. ''vivisectoria'' (-ä̤).   [NL.: see ''vivisect''.]   A place where vivisections are made.\n\n{{smaller block|Students have turned away sickened not only from the ''vivisectorium'' but from the study of medicine.\n{{right|''G. S. Hall'', German Culture, p. 20.}}}}\n\n'''vivisepulture''' (viv-i-sep′ul-tūr), ''n.''   [< L. ''vivus'', living, + ''sepultura'', burial: see ''sepulture''.]   The burial of a person alive. [Rare.]<noinclude><references/></noinclude>"
+}
