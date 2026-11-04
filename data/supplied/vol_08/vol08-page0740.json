@@ -1,0 +1,307 @@
+{
+ "volume": 8,
+ "page_number": 740,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n739.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n739.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-04",
+  "fetched_by": "alaemmle",
+  "angle": -0.05,
+  "column_width": 1461,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     177,
+     69,
+     2442,
+     120
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     177,
+     120,
+     892,
+     1214
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     177,
+     1214,
+     892,
+     2305
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     177,
+     2305,
+     892,
+     3232
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     892,
+     120,
+     1646,
+     1039
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1158,
+     181,
+     1642,
+     405
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     892,
+     1039,
+     1646,
+     2105
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     892,
+     2105,
+     1646,
+     2987
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     892,
+     2987,
+     1646,
+     3232
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1646,
+     120,
+     2442,
+     370
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1646,
+     370,
+     2442,
+     1466
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     2050,
+     408,
+     2384,
+     1352
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1646,
+     1466,
+     2442,
+     2557
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1754,
+     1557,
+     2281,
+     2355
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1646,
+     2557,
+     2442,
+     3232
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|winding-rope|6936|windmilly}}",
+   "c1s1": "{{smaller block|were of hemp or manila; at the present time steel wire is chiefly used, and both flat and round ropes are employed. In one of the largest Belgian coal-mines, in which the lift is 765 yards, the rope (which tapers toward the bottom) weighs 6 tons.}}\n\n¶\n'''winding-sheet''' (wīn′ding-shēt), ''n.'' '''1.''' A sheet in which a corpse is wrapped.\n{{smaller block|<poem>These arms of mine shall be thy ''winding-sheet;''\nMy heart, sweet boy, shall be thy sepulchre.</poem>\n{{right|''Shak.'', 3 Hen. VI., ii. 5. 114.}}}}\n'''2.''' Solidified drippings of grease from a candle which cling to the side of it and present some resemblance to drapery in its folds and creases. The appearance of this has been fancied to be an omen of death or other misfortune.\n{{smaller block|He . . . fell asleep on his arms, . . . a long ''winding-sheet'' in the candle dripping down upon him.\n{{right|''Dickens'', Tale of Two Cities, ii. 4.}}}}\n\n'''winding-stairs''' (wīn′ding-stãrz), ''n.'' A ladder-shell; a scalaria; a wentletrap. See cut under ''Scalaria.''\n{{smaller block|The Dutch call these shells ''winding-stairs.''\n{{right|''P. P. Carpenter'', Lect. Mollusca, 1861.}}}}\n\n'''winding-sticks''' (wīn′ding-stiks), ''n. pl.'' In ''joinery'', two short sticks or strips of wood with parallel edges, placed across the two ends of a board to test its freedom from warps or winds.\n\n'''winding-tackle''' (wīn′ding-tak′l), ''n.'' A heavy tackle for use with a winding-pendant.\n\n'''winding-up''' (wīn′ding-up′), ''n.'' The act of one who winds up, in any sense.\n{{smaller block|It is curious that in the ''winding-up'' of each of these pieces the same expedient is employed.\n{{right|''Gifford'', Int. to Ford’s Plays, p. xli.}}}}",
+   "c1s2": "¶\n'''wind-instrument''' (wind′in″strọ̈-ment), ''n.'' A musical instrument the sound of which is produced by a stream of compressed air, usually by the breath. {{smaller|Chief of such instruments is the human voice. Wind-instruments blown by the breath are divided into two classes: ''wood wind-instruments'', including the flute, flageolet, oboe, clarinet, bassoon, English horn, etc.; and ''brass'' or ''metal wind-instruments'', including the trumpet, horn, trombone, tuba, ophicleide, etc. Wind-instruments sounded by air mechanically compressed include the pipe-organ and the reed-organ, together with the bagpipe, and, in a certain sense, the Æolian harp. The method of tone-production in all these instruments, except the last, is either the vibration induced in a stream of air by directing it against a sharp edge, as in the flute and in flue-pipes in the organ, or the vibration induced in an elastic tongue or reed in or over an orifice through which a stream of air is driven, as in the voice, the clarinet, and the reed-organ. Sometimes both methods are used in the same instrument, as in the pipe-organ.}}\n{{smaller block|<poem>With a ''wind instrument'' my master made,\nIn five days you may breathe ten languages,\nAs perfect as the devil or himself.</poem>\n{{right|''T. Tomkis'' (?), Albumazar, i. 3.}}}}\n\n'''windlace†''', ''n.'' Same as ''windlass''<sup>1</sup>.\n\n'''windlass<sup>1</sup>†''' (wind′las), ''n.'' [Early mod. E. also ''windlace'', ''windlasse'', ''windlesse'', ''wyndelesse''; perhaps < ME. *''windels'' (= MLG. ''windelse'', a winding, hurdle-work, LG. ''windels'', a winding, as the winding of a screw, or the ornamental work on a sword-hilt), < AS. ''windan'', etc., turn, wind: see ''wind''<sup>1</sup>, and cf. ''windle''.] '''1.''' A winding or turning; a circuitous course; a circuit.\n{{smaller block|Hewar that fetteth the ''wyndelesse'' in huntyng — hveur.\n{{right|''Palsgrave'', p. 231.}}\nAmonge theis be appoynted a fewe horsemen to raunge som what abrode for the greater appearance, bidding them fetche a ''windlasse'' a great waye about, and to make al}}",
+   "c1s3": "{{smaller block|toward one place.{{right|''Golding'', tr. of Cæsar, fol. 206.}}}}\n{{smaller block|I now fetching a ''windlesse'', that I myght better haue a shoote.{{right|''Lyly'', Euphues and his England, p. 270.}}}}\nHence—'''2.''' Any indirect, artful course; circumvention; art and contrivance; subtleties.\n{{smaller block|<poem>Thus do we of wisdom and of reach,\nWith ''windlasses'' and with assays of bias,\nBy indirections find directions out.</poem>{{right|''Shak.'', Hamlet, ii. 1. 65.}}}}\n\n'''windlass<sup>1</sup>†''' (wind′las), ''v.'' [Early mod. E. also ''windlace''; < ''windlass''<sup>1</sup>, ''n.''] '''I.''' ''intrans.'' '''1.''' To take a circuitous path; fetch a compass.\n{{smaller block|A skilful woodsman by ''windlassing'' presently gets a shoot which without taking a compass . . . he could never have obtained.{{right|''Hammond'', Works, IV. 615. (''Latham.'')}}}}\n'''2.''' To adopt a circuitous, artful, or cunning course; use stratagem; act indirectly or warily.\n{{smaller block|She is not so much at leasure as to ''windlace'', or use craft, to satisfy them.{{right|''Hammond'', Works, IV. 566. (''Latham.'')}}}}\n'''II.''' ''trans.'' To bend; turn about; bewilder.\n{{smaller block|<poem>Your words, my friend! (right healthful caustics!) blame\nMy young mind marred, whom love doth ''windlass'' so.</poem>{{right|''Sir P. Sidney'' (Arber’s Eng. Garner, I. 513).}}}}\n\n'''windlass<sup>2</sup>''' (wind′las), ''n.'' [Early mod. E. also ''windles''; a corruption of ''windas'', ''windass'', by confusion with ''windlass''<sup>1</sup>.] '''1.''' A modification of the wheel and axle, used for raising weights, etc.\n{{smaller block|One kind of windlass is the winch used for raising water from wells, etc., which has an axle turned by a crank, and}}",
+   "c2s1": "a rope or chain for raising the weight by being wound round the axle. A simple form of windlass, much used in ships for raising the anchors or obtaining a purchase on other occasions, consists of a strong beam of wood placed horizontally, and supported at its ends by iron spindles which turn in collars or bushes inserted in what are termed the ''windlass-bitts.'' This large axle is pierced with holes directed toward\n[[FIGURE]]\n{{c|{{smaller|Windlass.}}}}\n{{c|{{smaller|''a'', ''a'', ratchet-heads; ''b'', ''b'', drumheads; ''c'', ''c'', whelps built around a spindle which is journaled in the cheeks ''d'', ''d''. The pawls are pivoted in the pawl-bitts ''e'', ''e'', and sustain the strain while the handspikes, which rotate the windlass by being placed like spokes in the holes of the drumheads, are being shifted for a new purchase.}}}}\nits center, in which long levers or handspikes are inserted for turning it round when the anchor is to be weighed or any purchase is required. It is furnished with pawls to prevent it from turning backward when the pressure on the handspikes is intermitted. Different arrangements of gearing are applied to a windlass to exert increased power, and steam-windlasses, in which a small steam-engine is made to heave the windlass round, have come largely into use. Compare ''capstan'' (with cut), and cut under ''winch.''\n\n'''2†.''' A handle by which anything is turned; specifically, a winch-like contrivance for bending the arbalist or crossbow. See ''crossbow.''\n{{smaller block|The arblast was a cross-bow, the ''windlace'' the machine used in bending that weapon.\n{{right|''Scott'', Ivanhoe, xxviii., note.}}}}",
+   "c2s2": "{{smaller|'''Differential''' or '''Chinese windlass''', a windlass with a barrel differing in diameter in different parts, the rope winding upon the larger and unwinding from the smaller portion. The amount of absolute lift and of the power exerted is determined by the difference in the two diameters of the barrel.—'''Spanish windlass''' (''naut.''), an extemporized purchase made by winding a rope round a roller and inserting a lever in a hitch or bight of the rope. By heaving round the lever a considerable strain is produced.}}\n\n'''windlass'''<sup>2</sup> (wind′las), ''v.'' [< ''windlass''<sup>2</sup>, ''n.''] '''I.''' ''intrans.'' To use a windlass; raise something as by a windlass.\n{{smaller block|Let her [Truth] rest, my dear sir, at the bottom of her well; . . . none of our ''windlassing'' will ever bring her up.{{right|''Miss Edgeworth'', Helen, xiv.}}}}\n'''II.''' ''trans.'' To hoist or haul by means of a windlass.\n{{smaller block|The stern line began to draw, and the sloop was ''windlassed'' clear of the stone pile and saved.{{right|''The Century'', XXXIX. 226.}}}}\n\n'''windle''' (win′dl), ''n.'' [< ME. ''windel'', as in comp. ''yarn-windel'', a wheel on which yarn is wound, < AS. ''windel'' (= MD. ''windel'', a wheel, pulley, roll, cradle, = MLG. ''windle'', a roll, etc.), < ''windan'', etc., turn, wind: see ''wind''<sup>1</sup>, and cf. ''windlass''<sup>1</sup>.] '''1.''' An implement or engine for turning or winding: used in different senses locally.\n{{smaller block|To force the water . . . with devise of engines and ''windles'' up to the top of the hill.{{right|''Holland'', tr. of Pliny, xxxvi. 15.}}\nSpeak her fair and canny, or we will have a ravelled hasp on the yarn-''windles''.{{right|''Scott'', Pirate, v.}}\nFrom a ''windle'' the thread is conducted to the quills.{{right|''S. Judd'', Margaret, i. 2.}}}}\n'''2.''' The windthrush or redwing, ''Turdus iliacus.''",
+   "c2s3": "See cut 2 under ''thrush''<sup>1</sup>. [Devonshire, Eng.] —'''3.''' A dry measure, equal to about 3½ Winchester bushels. {{smaller|The official returns for 1879 showed that it was not then entirely obsolete. It is there stated as 220/58¾ imperial bushels of wheat, 180/50 bushels of barley, or 220/62.857 bushels of beans.}}\n{{smaller block|80 ''wyndels'' of barley . . . £40.\n{{right|''H. Hall'', Society in Elizabethan Age, App., i.}}}}\n\n'''windles†''', ''n.'' An obsolete form of ''windlass''<sup>2</sup>. ''Cotgrave.''\n\n'''windless''' (wind′les), ''a.'' [< ''wind''<sup>2</sup> + ''-less.''] '''1.''' Free from or unaffected by wind; calm; unruffled.\n{{smaller block|A ''windless'' sea under the moon of midnight. {{right|''Ruskin.''}}\nA ''windless'', cloudless even. {{right|''William Morris'', Sigurd, iii.}}}}\n'''2.''' Wanting wind; out of breath.\n{{smaller block|Binding his hands and knitting a handkercher about his eyes, that he should not see, and when they had made him sure and fast, then they laid him on until they were ''windless.'' {{right|''Harman'', Caveat for Cursetors, p. 96.}}}}\n\n'''windlesse†''', ''n.'' An obsolete form of ''windlass''<sup>1</sup>.\n\n'''windlestraw''' (win′dl-strâ), ''n.'' [Also Sc. ''windlestræ''; < AS. ''windelstreów'', straw for plaiting, < ''windel'', a woven basket, etc., + ''streów'', etc., straw: see ''windle'' and ''straw''<sup>1</sup>.] '''1.''' The old stalk of various grasses, as the tufted hair-grass, ''Deschampsia'' (''Aira'') ''cæspitosa'', the dog’s-tail, ''Cynosurus cristatus'', or ''Apera'' (''Agrostis'') ''Spica-venti.''",
+   "c2s4": "{{smaller block|<poem>Tall spires of ''windlestrae''\nThrew their thin shadows down the rugged slope.</poem>\n{{right|''Shelley'', Alastor.}}}}\n'''2.''' The whitethroat, ''Sylvia cinerea:'' same as ''jackstraw'', 5. [Local, Eng.]\n\n'''windlift†''' (wind′lift), ''n.'' [A perversion of ''windlass'', ''windlesse'', the second element being made to simulate ''lift''<sup>2</sup>.] A windlass.",
+   "c3s1": "{{smaller block|A ''Wind-lift'' to heave up a gross Scandal.\n{{right|''Roger North'', Examen, p. 354.}}}}\n\n'''windling''' (wind′ling), ''n.'' [< ''wind''<sup>2</sup> + ''-ling''<sup>1</sup>.] A branch blown down by the wind. [Prov. Eng.]\n\n'''wind-marker''' (wind′mär″kėr), ''n.'' A movable arrow or other device for showing on a chart the direction of the wind at any point.\n\n'''windmill''' (wind′mil), ''n.'' [< ME. ''windmille'', ''wind-''",
+   "c3s2": "''melle, windmulle, windmilne, wyndemylne'' = D. ''windmolen'' = MHG. ''wintmül'', G. ''windmühle''; < ''wind''<sup>2</sup> + ''mill''<sup>1</sup>, ''n.''] '''1.''' A mill or machine for grinding, pumping, or other purposes, moved by the wind; a wind-motor; any form of motor for utilizing the pressure of the wind as a motive power. {{smaller|Two types of machines are used, the horizontal and the vertical. The vertical motor consists essentially of a horizontal shaft called the ''wind-shaft'', with a combination of sails or vanes fixed at the end of the shaft, and suitable gearing for conveying the motion of the wind-shaft to the pump or other machinery. The older types of windmill used four vanes or sail-frames called ''whips'', covered with canvas, arrangements being provided for reefing the sails in high winds. To present the vanes to the wind, the whole structure or tower carrying the windmill was at first turned round by means of a long lever. Later the top of the tower, called the ''cap'', was made movable. Windmills are now made with many wooden vanes forming a disk exposed to the winds, and fitted with}}\n[[FIGURE]]\n{{c|{{smaller|Windmill.<br>''a'', frame; ''b'', sails; ''c'', vane; ''d'', pump-rod.}}}}\n{{smaller|automatic feathering and steering machinery, governors}}",
+   "c3s3": "for regulating the speed, apparatus for closing the vanes in storms, etc. These improved windmills are chiefly of American invention, and are largely used in all parts of\n[[FIGURE]]\n{{c|{{smaller|Old Windmill at Bridgehampton, New York.}}}}\nthe United States for pumping water. Horizontal windmills employ an upright wind-shaft, and movable vanes placed in a circle round it, the vanes feathering when moving against the wind.\n{{smaller block|<poem>I saugh him carien a ''wind-melle''\nUnder a walshe-note shale.</poem>}}",
+   "c3s4": "{{smaller block|{{right|''Chaucer'', House of Fame, l. 1280.}}}}\n'''2.''' A visionary scheme; a vain project; a fancy; a chimera.\n{{smaller block|He lived and died with general councils in his pate, with ''windmills'' of union to concord Rome and England, England and Rome, Germany with them both.\n{{right|''Bp. Hacket'', Abp. Williams, i. 102. (''Davies.'')}}}}\n{{smaller|'''To fight windmills''', to combat chimeras or imaginary opponents: in allusion to Don Quixote’s adventure with the windmills.}}\n\n'''windmill-cap''' (wind′mil-kap), ''n.'' The movable upper part of a windmill, which turns to present the sails in the direction of the wind. See ''windmill.''\n\n'''windmill-grass''' (wind′mil-grȧs), ''n.'' A showy grass, ''Chloris truncata'', of southeastern Australia: so named apparently from its six to ten long spreading flower-spikes.\n\n'''windmill-plant''' (wind′mil-plant), ''n.'' Same as ''telegraph-plant.''\n\n'''windmilly''' (wind′mil-i), ''a.'' [< ''windmill'' + ''-y''<sup>1</sup>.] Abounding with windmills. [Rare.]"
+  },
+  "figure_files": {
+   "c2f1": "century v08 p0740 c2f1.png",
+   "c3f1": "century v08 p0740 c3f1.png",
+   "c3f2": "century v08 p0740 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1170,
+     193,
+     1630,
+     393
+    ],
+    "caption": [
+     1170,
+     408,
+     1631,
+     601
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1165,
+     186,
+     1580,
+     404
+    ]
+   },
+   {
+    "box": [
+     2062,
+     420,
+     2372,
+     1340
+    ],
+    "caption": [
+     2064,
+     1349,
+     2372,
+     1418
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     2075,
+     438,
+     2391,
+     1341
+    ]
+   },
+   {
+    "box": [
+     1766,
+     1569,
+     2269,
+     2343
+    ],
+    "caption": [
+     1778,
+     2351,
+     2249,
+     2374
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1768,
+     1567,
+     2380,
+     2343
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    2,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 4,
+    "input_tokens": 16,
+    "output_tokens": 266,
+    "cache_creation_input_tokens": 6937,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 12,
+    "input_tokens": 9733,
+    "output_tokens": 9133,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|winding-rope|6936|windmilly}}</noinclude>{{smaller block|were of hemp or manila; at the present time steel wire is chiefly used, and both flat and round ropes are employed. In one of the largest Belgian coal-mines, in which the lift is 765 yards, the rope (which tapers toward the bottom) weighs 6 tons.}}\n\n'''winding-sheet''' (wīn′ding-shēt), ''n.'' '''1.''' A sheet in which a corpse is wrapped.\n{{smaller block|<poem>These arms of mine shall be thy ''winding-sheet;''\nMy heart, sweet boy, shall be thy sepulchre.</poem>\n{{right|''Shak.'', 3 Hen. VI., ii. 5. 114.}}}}\n'''2.''' Solidified drippings of grease from a candle which cling to the side of it and present some resemblance to drapery in its folds and creases. The appearance of this has been fancied to be an omen of death or other misfortune.\n{{smaller block|He . . . fell asleep on his arms, . . . a long ''winding-sheet'' in the candle dripping down upon him.\n{{right|''Dickens'', Tale of Two Cities, ii. 4.}}}}\n\n'''winding-stairs''' (wīn′ding-stãrz), ''n.'' A ladder-shell; a scalaria; a wentletrap. See cut under ''Scalaria.''\n{{smaller block|The Dutch call these shells ''winding-stairs.''\n{{right|''P. P. Carpenter'', Lect. Mollusca, 1861.}}}}\n\n'''winding-sticks''' (wīn′ding-stiks), ''n. pl.'' In ''joinery'', two short sticks or strips of wood with parallel edges, placed across the two ends of a board to test its freedom from warps or winds.\n\n'''winding-tackle''' (wīn′ding-tak′l), ''n.'' A heavy tackle for use with a winding-pendant.\n\n'''winding-up''' (wīn′ding-up′), ''n.'' The act of one who winds up, in any sense.\n{{smaller block|It is curious that in the ''winding-up'' of each of these pieces the same expedient is employed.\n{{right|''Gifford'', Int. to Ford’s Plays, p. xli.}}}}\n\n'''wind-instrument''' (wind′in″strọ̈-ment), ''n.'' A musical instrument the sound of which is produced by a stream of compressed air, usually by the breath. {{smaller|Chief of such instruments is the human voice. Wind-instruments blown by the breath are divided into two classes: ''wood wind-instruments'', including the flute, flageolet, oboe, clarinet, bassoon, English horn, etc.; and ''brass'' or ''metal wind-instruments'', including the trumpet, horn, trombone, tuba, ophicleide, etc. Wind-instruments sounded by air mechanically compressed include the pipe-organ and the reed-organ, together with the bagpipe, and, in a certain sense, the Æolian harp. The method of tone-production in all these instruments, except the last, is either the vibration induced in a stream of air by directing it against a sharp edge, as in the flute and in flue-pipes in the organ, or the vibration induced in an elastic tongue or reed in or over an orifice through which a stream of air is driven, as in the voice, the clarinet, and the reed-organ. Sometimes both methods are used in the same instrument, as in the pipe-organ.}}\n{{smaller block|<poem>With a ''wind instrument'' my master made,\nIn five days you may breathe ten languages,\nAs perfect as the devil or himself.</poem>\n{{right|''T. Tomkis'' (?), Albumazar, i. 3.}}}}\n\n'''windlace†''', ''n.'' Same as ''windlass''<sup>1</sup>.\n\n'''windlass<sup>1</sup>†''' (wind′las), ''n.''   [Early mod. E. also ''windlace'', ''windlasse'', ''windlesse'', ''wyndelesse''; perhaps < ME. *''windels'' (= MLG. ''windelse'', a winding, hurdle-work, LG. ''windels'', a winding, as the winding of a screw, or the ornamental work on a sword-hilt), < AS. ''windan'', etc., turn, wind: see ''wind''<sup>1</sup>, and cf. ''windle''.]   '''1.''' A winding or turning; a circuitous course; a circuit.\n{{smaller block|Hewar that fetteth the ''wyndelesse'' in huntyng — hveur.\n{{right|''Palsgrave'', p. 231.}}}}\n{{smaller block|Amonge theis be appoynted a fewe horsemen to raunge som what abrode for the greater appearance, bidding them fetche a ''windlasse'' a great waye about, and to make al toward one place.{{right|''Golding'', tr. of Cæsar, fol. 206.}}}}\n{{smaller block|I now fetching a ''windlesse'', that I myght better haue a shoote.{{right|''Lyly'', Euphues and his England, p. 270.}}}}\nHence—'''2.''' Any indirect, artful course; circumvention; art and contrivance; subtleties.\n{{smaller block|<poem>Thus do we of wisdom and of reach,\nWith ''windlasses'' and with assays of bias,\nBy indirections find directions out.</poem>{{right|''Shak.'', Hamlet, ii. 1. 65.}}}}\n\n'''windlass<sup>1</sup>†''' (wind′las), ''v.''   [Early mod. E. also ''windlace''; < ''windlass''<sup>1</sup>, ''n.'']   '''I.''' ''intrans.'' '''1.''' To take a circuitous path; fetch a compass.\n{{smaller block|A skilful woodsman by ''windlassing'' presently gets a shoot which without taking a compass . . . he could never have obtained.{{right|''Hammond'', Works, IV. 615. (''Latham.'')}}}}\n'''2.''' To adopt a circuitous, artful, or cunning course; use stratagem; act indirectly or warily.\n{{smaller block|She is not so much at leasure as to ''windlace'', or use craft, to satisfy them.{{right|''Hammond'', Works, IV. 566. (''Latham.'')}}}}\n'''II.''' ''trans.'' To bend; turn about; bewilder.\n{{smaller block|<poem>Your words, my friend! (right healthful caustics!) blame\nMy young mind marred, whom love doth ''windlass'' so.</poem>{{right|''Sir P. Sidney'' (Arber’s Eng. Garner, I. 513).}}}}\n\n'''windlass<sup>2</sup>''' (wind′las), ''n.''   [Early mod. E. also ''windles''; a corruption of ''windas'', ''windass'', by confusion with ''windlass''<sup>1</sup>.]   '''1.''' A modification of the wheel and axle, used for raising weights, etc.\n{{smaller block|One kind of windlass is the winch used for raising water from wells, etc., which has an axle turned by a crank, and}} a rope or chain for raising the weight by being wound round the axle. A simple form of windlass, much used in ships for raising the anchors or obtaining a purchase on other occasions, consists of a strong beam of wood placed horizontally, and supported at its ends by iron spindles which turn in collars or bushes inserted in what are termed the ''windlass-bitts.'' This large axle is pierced with holes directed toward\nits center, in which long levers or handspikes are inserted for turning it round when the anchor is to be weighed or any purchase is required. It is furnished with pawls to prevent it from turning backward when the pressure on the handspikes is intermitted. Different arrangements of gearing are applied to a windlass to exert increased power, and steam-windlasses, in which a small steam-engine is made to heave the windlass round, have come largely into use. Compare ''capstan'' (with cut), and cut under ''winch.''\n\n[[File:century v08 p0740 c2f1.png|center|119px]]\n{{c|{{smaller|Windlass.}}}}\n{{c|{{smaller|''a'', ''a'', ratchet-heads; ''b'', ''b'', drumheads; ''c'', ''c'', whelps built around a spindle which is journaled in the cheeks ''d'', ''d''. The pawls are pivoted in the pawl-bitts ''e'', ''e'', and sustain the strain while the handspikes, which rotate the windlass by being placed like spokes in the holes of the drumheads, are being shifted for a new purchase.}}}}\n\n'''2†.''' A handle by which anything is turned; specifically, a winch-like contrivance for bending the arbalist or crossbow. See ''crossbow.''\n{{smaller block|The arblast was a cross-bow, the ''windlace'' the machine used in bending that weapon.\n{{right|''Scott'', Ivanhoe, xxviii., note.}}}}\n{{smaller block|'''Differential''' or '''Chinese windlass''', a windlass with a barrel differing in diameter in different parts, the rope winding upon the larger and unwinding from the smaller portion. The amount of absolute lift and of the power exerted is determined by the difference in the two diameters of the barrel.—'''Spanish windlass''' (''naut.''), an extemporized purchase made by winding a rope round a roller and inserting a lever in a hitch or bight of the rope. By heaving round the lever a considerable strain is produced.}}\n\n'''windlass'''<sup>2</sup> (wind′las), ''v.''   [< ''windlass''<sup>2</sup>, ''n.'']   '''I.''' ''intrans.'' To use a windlass; raise something as by a windlass.\n{{smaller block|Let her [Truth] rest, my dear sir, at the bottom of her well; . . . none of our ''windlassing'' will ever bring her up.{{right|''Miss Edgeworth'', Helen, xiv.}}}}\n'''II.''' ''trans.'' To hoist or haul by means of a windlass.\n{{smaller block|The stern line began to draw, and the sloop was ''windlassed'' clear of the stone pile and saved.{{right|''The Century'', XXXIX. 226.}}}}\n\n'''windle''' (win′dl), ''n.''   [< ME. ''windel'', as in comp. ''yarn-windel'', a wheel on which yarn is wound, < AS. ''windel'' (= MD. ''windel'', a wheel, pulley, roll, cradle, = MLG. ''windle'', a roll, etc.), < ''windan'', etc., turn, wind: see ''wind''<sup>1</sup>, and cf. ''windlass''<sup>1</sup>.]   '''1.''' An implement or engine for turning or winding: used in different senses locally.\n{{smaller block|To force the water . . . with devise of engines and ''windles'' up to the top of the hill.{{right|''Holland'', tr. of Pliny, xxxvi. 15.}}}}\n{{smaller block|Speak her fair and canny, or we will have a ravelled hasp on the yarn-''windles''.{{right|''Scott'', Pirate, v.}}}}\n{{smaller block|From a ''windle'' the thread is conducted to the quills.{{right|''S. Judd'', Margaret, i. 2.}}}}\n'''2.''' The windthrush or redwing, ''Turdus iliacus.'' See cut 2 under ''thrush''<sup>1</sup>. [Devonshire, Eng.] —'''3.''' A dry measure, equal to about 3½ Winchester bushels. {{smaller|The official returns for 1879 showed that it was not then entirely obsolete. It is there stated as 220/58¾ imperial bushels of wheat, 180/50 bushels of barley, or 220/62.857 bushels of beans.}}\n{{smaller block|80 ''wyndels'' of barley . . . £40.\n{{right|''H. Hall'', Society in Elizabethan Age, App., i.}}}}\n\n'''windles†''', ''n.'' An obsolete form of ''windlass''<sup>2</sup>.   ''Cotgrave.''\n\n'''windless''' (wind′les), ''a.''   [< ''wind''<sup>2</sup> + ''-less.'']   '''1.''' Free from or unaffected by wind; calm; unruffled.\n{{smaller block|A ''windless'' sea under the moon of midnight. {{right|''Ruskin.''}}}}\n{{smaller block|A ''windless'', cloudless even. {{right|''William Morris'', Sigurd, iii.}}}}\n'''2.''' Wanting wind; out of breath.\n{{smaller block|Binding his hands and knitting a handkercher about his eyes, that he should not see, and when they had made him sure and fast, then they laid him on until they were ''windless.'' {{right|''Harman'', Caveat for Cursetors, p. 96.}}}}\n\n'''windlesse†''', ''n.'' An obsolete form of ''windlass''<sup>1</sup>.\n\n'''windlestraw''' (win′dl-strâ), ''n.''   [Also Sc. ''windlestræ''; < AS. ''windelstreów'', straw for plaiting, < ''windel'', a woven basket, etc., + ''streów'', etc., straw: see ''windle'' and ''straw''<sup>1</sup>.]   '''1.''' The old stalk of various grasses, as the tufted hair-grass, ''Deschampsia'' (''Aira'') ''cæspitosa'', the dog’s-tail, ''Cynosurus cristatus'', or ''Apera'' (''Agrostis'')   ''Spica-venti.'' {{smaller block|<poem>Tall spires of ''windlestrae''\nThrew their thin shadows down the rugged slope.</poem>\n{{right|''Shelley'', Alastor.}}}}\n'''2.''' The whitethroat, ''Sylvia cinerea:'' same as ''jackstraw'', 5. [Local, Eng.]\n\n'''windlift†''' (wind′lift), ''n.''   [A perversion of ''windlass'', ''windlesse'', the second element being made to simulate ''lift''<sup>2</sup>.]   A windlass. {{smaller block|A ''Wind-lift'' to heave up a gross Scandal.\n{{right|''Roger North'', Examen, p. 354.}}}}\n\n'''windling''' (wind′ling), ''n.''   [< ''wind''<sup>2</sup> + ''-ling''<sup>1</sup>.]   A branch blown down by the wind. [Prov. Eng.]\n\n'''wind-marker''' (wind′mär″kėr), ''n.'' A movable arrow or other device for showing on a chart the direction of the wind at any point.\n\n'''windmill''' (wind′mil), ''n.''   [< ME. ''windmille'', ''windmelle, windmulle, windmilne, wyndemylne'' = D. ''windmolen'' = MHG. ''wintmül'', G. ''windmühle''; < ''wind''<sup>2</sup> + ''mill''<sup>1</sup>, ''n.'']   '''1.''' A mill or machine for grinding, pumping, or other purposes, moved by the wind; a wind-motor; any form of motor for utilizing the pressure of the wind as a motive power. {{smaller|Two types of machines are used, the horizontal and the vertical. The vertical motor consists essentially of a horizontal shaft called the ''wind-shaft'', with a combination of sails or vanes fixed at the end of the shaft, and suitable gearing for conveying the motion of the wind-shaft to the pump or other machinery. The older types of windmill used four vanes or sail-frames called ''whips'', covered with canvas, arrangements being provided for reefing the sails in high winds. To present the vanes to the wind, the whole structure or tower carrying the windmill was at first turned round by means of a long lever. Later the top of the tower, called the ''cap'', was made movable. Windmills are now made with many wooden vanes forming a disk exposed to the winds, and fitted with}} {{img float|file=century v08 p0740 c3f1.png|width=82px|align=right|cap={{smaller|Windmill.<br>''a'', frame; ''b'', sails; ''c'', vane; ''d'', pump-rod.}}}}\n{{smaller|automatic feathering and steering machinery, governors}} for regulating the speed, apparatus for closing the vanes in storms, etc. These improved windmills are chiefly of American invention, and are largely used in all parts of\nthe United States for pumping water. Horizontal windmills employ an upright wind-shaft, and movable vanes placed in a circle round it, the vanes feathering when moving against the wind.\n{{smaller block|<poem>I saugh him carien a ''wind-melle''\nUnder a walshe-note shale.</poem> {{right|''Chaucer'', House of Fame, l. 1280.}}}}\n'''2.''' A visionary scheme; a vain project; a fancy; a chimera.\n{{smaller block|He lived and died with general councils in his pate, with ''windmills'' of union to concord Rome and England, England and Rome, Germany with them both.\n{{right|''Bp. Hacket'', Abp. Williams, i. 102. (''Davies.'')}}}}\n{{smaller|'''To fight windmills''', to combat chimeras or imaginary opponents: in allusion to Don Quixote’s adventure with the windmills.}}\n\n[[File:century v08 p0740 c3f2.png|center|130px]]\n{{c|{{smaller|Old Windmill at Bridgehampton, New York.}}}}\n\n'''windmill-cap''' (wind′mil-kap), ''n.'' The movable upper part of a windmill, which turns to present the sails in the direction of the wind. See ''windmill.''\n\n'''windmill-grass''' (wind′mil-grȧs), ''n.'' A showy grass, ''Chloris truncata'', of southeastern Australia: so named apparently from its six to ten long spreading flower-spikes.\n\n'''windmill-plant''' (wind′mil-plant), ''n.'' Same as ''telegraph-plant.''\n\n'''windmilly''' (wind′mil-i), ''a.''   [< ''windmill'' + ''-y''<sup>1</sup>.]   Abounding with windmills. [Rare.]<noinclude><references/></noinclude>"
+}

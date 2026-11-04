@@ -1,0 +1,249 @@
+{
+ "volume": 8,
+ "page_number": 755,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n754.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n754.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-04",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 797,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     53,
+     2272,
+     98
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     98,
+     795,
+     927
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     927,
+     795,
+     2014
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2014,
+     795,
+     3080
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     3080,
+     795,
+     3193
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     795,
+     98,
+     1529,
+     1068
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     795,
+     1068,
+     1529,
+     1995
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     795,
+     1995,
+     1529,
+     2901
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     795,
+     2901,
+     1529,
+     3193
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1529,
+     98,
+     2272,
+     1149
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1529,
+     1149,
+     2272,
+     1820
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1529,
+     1820,
+     2272,
+     2578
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1587,
+     1818,
+     2219,
+     2522
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1529,
+     2578,
+     2272,
+     3193
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|wit|6951|witching}}",
+   "c1s1": "{{smaller block|If you examine the sayings of Charles Lamb, Sydney Smith, and other great ''wits'', you will perceive that what amuses you is the sudden perception of some fine resemblance.\n{{right|''J. F. Clarke'', Self-Culture, p. 145.}}}}\n\n¶\n'''wit<sup>2</sup>''' (wit), ''v. i.'' [< ''wit<sup>2</sup>'', ''n.''] To play the wit; be witty: with an indefinite ''it''.\n{{smaller block|Burton doth pretend to ''wit it'' in his pulpit-libell.\n{{right|''Heylin'', Life of Laud, p. 260. (''Davies.'')}}}}\n\n'''wit<sup>3</sup>†.''' See ''wite<sup>2</sup>''.\n\n'''witan''' (wit′ạn), ''n. pl.'' [AS., pl. of ''wita'' (ME. ''wite'', ''weote'', ''wete''), a man of knowledge, member of a council or parliament: see ''wit<sup>2</sup>''.] In ''Anglo-Saxon hist.'', members of the witenagemot.\n{{smaller block|As ''witan'' from every quarter of the land stood about his throne, men realized how the King of Wessex had risen into the King of England.\n{{right|''J. R. Green'', Conq. of Eng., p. 215.}}}}\n{{smaller block|<poem>Thou art the mightiest voice in England, man;\nThy voice will lead the ''Witan''.</poem>\n{{right|''Tennyson'', Harold, ii. 2.}}}}\n\n'''witch<sup>1</sup>''' (wich), ''n.'' [< ME. ''witche'', ''wicche'', ''wichche'', ''wiche'', a witch (man or woman), < AS. ''wicca'', m., ''wicce'', f. (pl. ''wiccan'' in both genders), a sorcerer or sorceress, a wizard or witch, = Fries. ''wikke'' = LG. ''wikke'', a witch; cf. Icel. ''vitki'', m., a witch, wizard, prob. after AS.; prob. a reduction, with shortened vowel and assimilation of conso-",
+   "c1s2": "nants (''tg'' > ''tk'' > ''kk'', in AS. written ''cc''), of AS. ''wītga'', a syncopated form of ''wītiga'', ''wītega'', a seer, prophet, soothsayer, magician (cf. ''deóful-wītga'', ‘devil prophet,’ wizard) (= OHG. ''wīzago'', ''wīzzago'', a prophet, soothsayer), < *''wītig'', seeing, a form parallel to ''witig'' (with short vowel), knowing, ''witan'', know, *''wītan'', see: see ''wit''<sup>1</sup>, and cf. ''witty''. The notion that ''witch'' is a fem. form is usually accompanied by the notion that the corresponding masc. is ''wizard'' (the two words forming one of the pairs of masc. and fem. correlatives given in the grammars); but ''witch'' is historically masc. as well as fem. (being indeed orig., in the AS. form ''witga'', only masc.), and ''wizard'' has no immediate relation to ''witch''. Cf. ''wiseacre'', ult. < OHG. ''wīzago'', and so a doublet of ''witch''. Hence ult. (< AS. ''wicca'') ME. ''wikke'', ''wicke'', evil, wicked, and ''wikked'', ''wicked'', wicked: see ''wick''<sup>7</sup> and ''wicked''<sup>1</sup>. The change of form (AS. ''wicca'' < ''witga'') is paralleled by a similar change in ''orchard'' (AS. ''orceard'' < ''orcgeard'' < ''ortgeard''), and the development of sense (‘wicked,’ ‘witched’) is in keeping with the history of other words which have become ultimately associated with popular superstitions—superstition, whether religious or etymological, tending to pervert or distort the forms and meanings of words.] '''1.''' A person (of either sex) given to the black art; a sorcerer; a conjurer; a wizard; later and more particularly, a woman supposed to have formed a compact with the devil or with evil spirits, and to be able by their aid to operate supernaturally; one who practises sorcery or enchantment; a sorceress.",
+   "c1s3": "¶\n{{smaller block|“Crucifige,” quod a cacchepolle. “I warante hym a ''witche!''{{right|''Piers Plowman'' (B), xviii. 46.}}}}\n{{smaller block|There was a man in that citee, whos name was Symount, a ''wicche.''{{right|''Wyclif'', Acts viii. 9.}}}}\n{{smaller block|<poem>Devil or devil’s dam, I’ll conjure thee:\nBlood will I draw on thee; thou art a ''witch.''</poem>{{right|''Shak.'', 1 Hen. VI., i. 5. 6.}}}}\n{{smaller block|When a Country-wench cannot get her Butter to come, she says, The ''Witch'' is in her Churn.{{right|''Selden'', Table-Talk, p. 82.}}}}\n'''2.''' An old, ugly, and crabbed or malignant woman; a hag; a crone: a term of abuse.\n{{smaller block|Foul wrinkled ''witch'', what makest thou in my sight?{{right|''Shak.'', Rich. III., i. 3. 164.}}}}\n'''3.''' A fascinating woman; a woman, especially a young woman or a girl, possessed of peculiar attractions, whether of beauty or of manners; a bewitching or charming young woman or girl. [Colloq.] —'''4.''' A charm or spell. [Rare.]\n{{smaller block|<poem>If a man but dally by her feet,\nHe thinks it straight a ''witch'' to charm his daughter.</poem>{{right|''Greene'', George-a-Greene, p. 262. (''Davies.'')}}}}\n'''5.''' A petrel: doubtless so called from its incessant flight, often kept up in the dark.—'''6.''' A water-witch.—'''7.''' The pole, pole-dab, or craig-fluke, a kind of flatfish.—{{smaller|'''Black witch.''' Same as ''ani'' (which see, with cut). ''P. H. Gosse.'' [Jamaica.]—'''The riding of the witch.''' See ''riding''<sup>1</sup>.—'''White witch''' or '''wizard,''' a witch or wizard of a beneficent or good-natured disposition.}}\n{{smaller block|Sorcerers are too common; cunning men, wizards, and ''white-witches'', as they call them, in every village.{{right|''Burton'', Anat. of Mel., p. 271.}}}}\n{{smaller block|And, like ''white witches'', mischievously good.{{right|''Dryden'', The Medal, l. 62.}}}}",
+   "c1s4": "¶\n'''Witches’ Sabbath.''' See ''Sabbath'', 5.—'''Witch of Agnesi,''' in ''math.'' a plane curve discussed by Donna Maria Gaetana Agnesi, professor of mathematics in the University of Bologna, who died a nun in 1799. It consists of a straight",
+   "c2s1": "{{smaller|line together with a cubic to which that line is the inflectional asymptote, this cubic having an acnode at infinity in a direction perpendicular to the line. If <math>x = 0</math> is the equation of the line, <math>(y/c)^2 + 1 = (c/x)</math> is that of the cubic. The area of the curve is four times that of the circle having four-pointic contact with the cubic and two-pointic contact with the line. Also called ''versiera.''}}\n\n¶\n'''witch'''<sup>1</sup> (wich), ''v. t.'' [< ME. ''witchen, wicchen, wichen,'' < AS. ''wiccian,'' bewitch; cf. D. LG. ''wikken'' = Icel. ''vitka,'' soothsay, divine; from the noun. Cf. ''bewitch.''] '''1.''' To bewitch; fascinate; enchant.\n{{smaller block|Ne schuld he with wicchecraft be ''wicched'' neuer-more.\n{{right|''William of Palerne'' (E. E. T. S.), l. 4427.}}\n<poem>For she has given me poison in a kiss —\nShe had it ’twixt her lips — and with her eyes\nShe ''witches'' people.</poem>\n{{right|''Beau. and Fl.,'' King and No King, iii. 1.}}\nThou hast ''witched'' me, rogue.\n{{right|''B. Jonson,'' Alchemist, ii. 1.}}}}\n'''2.''' To work by charms or witchcraft; effect, cause, or bring by or as by witchcraft.\n{{smaller block|Did not she ''witch'' the devil into my son-in-law, when he killed my poor daughter?\n{{right|''Ford and Dekker,'' Witch of Edmonton, v. 2.}}\n\nAnd so in one evening Ellery ''witched'' himself into the good graces of every one in the simple parsonage; and when Tina at last appeared she found him reigning king of the circle. {{right|''H. B. Stowe,'' Oldtown, p. 492.}}\n<poem>All round, upon the river’s slippery edge,\n''Witching'' to deeper calm the drowsy tide,\nWhispers and leans the breeze-entangling sedge.</poem>\n{{right|''Lowell,'' Indian-Summer Reverie.}}}}",
+   "c2s2": "¶\n\n'''witch'''<sup>2</sup> (wich), ''n.'' [Also, in comp., ''wich'', ''wych'', ''weech''; < ME. ''wiche'', < AS. ''wice'', the sorb or service-tree; appar. applied to several trees with pendulous branches, < ''wīcan'' (pp. ''wicen''), bend, yield: see ''weak''. Hence ''witchen'', and in comp. ''witch-elm'', ''witch-hazel'', q. v.] The witch-elm, ''Ulmus montana''.\n\n'''witch-alder''' (wich′âl″dėr), ''n.'' A low shrub with alder-like leaves, ''Fothergilla Gardeni'' (''F. alnifolia''), of the witch-hazel family, found in Virginia and North Carolina.\n\n'''witch-ball''' (wich′bâl), ''n.'' A name given to interwoven masses of the stems of herbaceous plants, often met with in the steppes of Tatary.\n\n'''witch-bells, witches’-bells''' (wich′belz, wich′ez-belz), ''n. pl.'' The harebell, ''Campanula rotundifolia''; also, the bluebottle, ''Centaurea Cyanus''. ''Britten and Holland.'' [Provincial, chiefly Scotch.]\n\n'''witch-chick''' (wich′chik), ''n.'' A swallow: from an old superstition. See ''swallow-struck''. Also ''witchuck'' and ''witch-hag''.\n\n'''witchcraft''' (wich′krȧft), ''n.'' [< ME. ''wicchecraft'', < AS. ''wiccecræft'', ''wiccræft'', witchcraft, < ''wicca'', m., ''wicce'', f., witch, + ''cræft'', craft: see ''witch''<sup>1</sup> and ''craft''<sup>1</sup>.] '''1.''' The practices of witches; sorcery; a supernatural power which persons were formerly supposed to obtain by entering into compact with the devil. {{smaller|The belief in witchcraft}}",
+   "c2s3": "{{smaller block|was common in Europe till the sixteenth century, and maintained its ground with tolerable firmness till the middle of the seventeenth century; indeed it is not altogether extinct even at the present day. Numbers of reputed witches were formerly condemned to be burned. One conspicuous outbreak of popular excitement over supposed demoniacal manifestations took place about 1692 in New England, especially in and near Salem.}}\n{{smaller block|There was thane an Enchantour in the Contree, that deled with ''Wycche craft'', that men clepten Taknia.\n{{right|''Mandeville'', Travels, p. 132.}}}}\n{{smaller block|Now the arrival of Sir William Phips to the government of New-England was at a time when . . . scores of poor people had newly fallen under a prodigious possession of devils, which it was then generally thought had been by ''witchcrafts'' introduced. ''C. Mather'', Mag. Christ., ii. 13.}}\n'''2.''' Extraordinary power; irresistible influence; fascination; witchery.\n{{smaller block|You have ''witchcraft'' in your lips, Kate.\n{{right|''Shak.'', Hen. V., v. 2. 301.}}}}\n{{smaller block|<poem>There ’s ''witchcraft'' in thy language, in thy face,\nIn thy demeanours. ''Ford'', Lover’s Melancholy, iv. 3.</poem>}}\n{{smaller block|<poem>The subtle ''witchcraft'' of his tongue\nUnlocked the hearts of those who keep\nGold, the world’s bond of slavery.</poem>\n{{right|''Shelley'', Rosalind and Helen.}}}}\n\n¶\n'''witch-doctor''' (wich′dok″tọr), ''n.'' Same as ''medicine-man.'' ''Encyc. Brit.'', XIII. 820.\n\n'''witch-elm''' (wich′elm), ''n.'' [Also ''wich-elm'', and archaically ''wych-elm''; also ''weech-elm''; < ''witch''<sup>2</sup> + ''elm''. In this word and ''witch-hazel'', the archaic",
+   "c2s4": "spelling is much affected in modern use.] An elm, ''Ulmus montana'', of hilly districts in western and northern Europe and northern Asia; the common wild elm of Scotland, Ireland, and the northern and western parts of England. {{smaller|It is less tall than the common English elm (''U. campestris''), but is a considerable tree, of picturesque habit, the trunk branching naturally near the base, the leaves broadly ovate. The wood has the fine-grained, tough, and elastic quality of ''U. campestris'', and is preferred for bent work,}}",
+   "c3s1": "{{smaller|as in boat-building. In southeastern England a variety of the common elm is also called by this name.}}\n{{smaller block|The ''witch-elm'' that shades Saint Fillan’s Spring.\n{{right|''Scott'', L. of the L., i., Int.}}\n<poem>''Witch-elms'' that counterchange the floor\nOf this flat lawn with dusk and bright.</poem>\n{{right|''Tennyson'', In Memoriam, lxxxix.}}}}\n\n'''witchen''' (wich′n), ''n.'' [Also ''witchin''; a var. of ''witch''<sup>2</sup> (with suffix conformed to ''-en''<sup>2</sup>), < ME. ''wiche'', < AS. ''wice'', the service-tree: see ''witch''<sup>2</sup>.] The mountain-ash or rowan, ''Pyrus aucuparia''. [Prov. Eng.]\n\n'''witchery''' (wich′ėr-i), ''n.''; pl. ''witcheries'' (-iz). [< ''witch''<sup>1</sup> + ''-ery''.] '''1.''' Sorcery; enchantment; witchcraft.—'''2.''' Fascination; charm.\n{{smaller block|<poem>He never felt\nThe ''witchery'' of the soft blue sky.</poem>\n{{right|''Wordsworth'', Peter Bell.}}}}\n\n'''witches’-besom''' (wich′ez-bē″zum), ''n.'' Same as ''witches’-broom.''\n\n'''witches’-broom''' (wich′ez-bröm), ''n.'' A popular name for the broom-like tufts of branches developed on the silver-fir, birch, cherry, and other trees in consequence of the attack of a uredineous fungus, ''Peridermium elatinum.''\n\n'''witches’-butter''' (wich′ez-but″ėr), ''n.'' An alga. See ''Nostoc'', 2.\n\n'''witches’-thimble''' (wich′ez-thim″bl), ''n.'' See ''thimble'' and ''Silene.''\n\n'''witchet''' (wich′et), ''n.'' [Origin obscure.] A rounding-plane.\n\n'''witch-finder†''' (wich′fīn″dėr), ''n.'' A professional discoverer of witches, whose services were",
+   "c3s2": "sometimes employed when the persecution of so-called witches was in vogue.\n\n{{smaller block|He [Matthew Hopkins] then set up as “''Witch Finder'' Generall,” and, on the invitation of several towns, made journeys for the discovery of witches through Essex, Suffolk, Norfolk, and Huntingdonshire. . . . Supposed witches were urged to confess, and on the strength of their own confession were hanged.\n{{right|''Dict. Nat. Biog.'', XXVII. 336.}}}}\n\n¶\n'''witch-grass''' (wich′grȧs), ''n.'' '''1.''' Same as ''old-witch grass.''—'''2.''' The quitch-grass or couch-grass, ''Agropyrum repens.''\n\n'''witch-hag''' (wich′hag), ''n.'' Same as ''witch-chick.''\n\n'''witch-hazel''' (wich′hā″zl), ''n.'' [Also ''wich-hazel, wych-hazel''; < ''witch''<sup>2</sup> + ''hazel.'' Cf. ''witch-elm.''] '''1.''' The witch- or wych-elm, ''Ulmus montana'', its broad leaves resembling those of hazel. [Prov. Eng.]—'''2.''' A shrub or small tree, ''Hamamelis Virginiana'', of eastern North America. {{smaller|It is noticeable for its flowers with four yellow strap-shaped petals, appearing when the leaves are falling, the fruit, which is a woody capsule, ripening the next season. The leaves}}",
+   "c3s3": "[[FIGURE]]\n{{c|{{smaller|Branch with Fruits of Witch-hazel (''Hamamelis Virginiana'').<br>''a'', male flower; ''b'', fruit.}}}}",
+   "c3s4": "{{smaller block|are broad and straight-veined, wavy-margined. The leaves and bark of witch-hazel abound in tannin, and the bark affords also a reputed sedative application for various cases of external inflammation. The leaves are said to possess similar properties, and an infusion of them is given internally for bowel-complaints and hemorrhages. While witch-hazel is now much in vogue as a cure for bruises and sprains, as also for various internal difficulties, and is even officinally recognized, its real virtue, if any, is still quite in doubt.}}\n\n'''witching''' (wich′ing), ''n.'' [< ME. ''wicching'', ''wicchinge''; verbal n. of ''witch''<sup>1</sup>, ''v.''] The practices of witches; enchantment.\n\n'''witching''' (wich′ing), ''p. a.'' '''1.''' Bewitching; suited to enchantment or witchcraft; weird.\n{{smaller block|<poem>’Tis now the very ''witching'' time of night,\nWhen churchyards yawn.</poem>{{right|''Shak.'', Hamlet, iii. 2. 406.}}}}\n'''2.''' Fascinating; enchanting.\n{{smaller block|<poem>Let neither flattery, nor the ''witching'' sound\nOf high and soft preferment, touch your goodness.</poem>{{right|''Fletcher (and another)'', False One, iv. 3.}}}}"
+  },
+  "figure_files": {
+   "c3f1": "century v08 p0755 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1599,
+     1830,
+     2207,
+     2510
+    ],
+    "caption": [
+     1573,
+     2515,
+     2225,
+     2566
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1587,
+     1768,
+     2223,
+     2504
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 8,
+    "output_tokens": 95,
+    "cache_creation_input_tokens": 4522,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 13,
+    "input_tokens": 9846,
+    "output_tokens": 8571,
+    "cache_creation_input_tokens": 3966,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|wit|6951|witching}}</noinclude>{{smaller block|If you examine the sayings of Charles Lamb, Sydney Smith, and other great ''wits'', you will perceive that what amuses you is the sudden perception of some fine resemblance.\n{{right|''J. F. Clarke'', Self-Culture, p. 145.}}}}\n\n'''wit<sup>2</sup>''' (wit), ''v. i.''   [< ''wit<sup>2</sup>'', ''n.'']   To play the wit; be witty: with an indefinite ''it''.\n{{smaller block|Burton doth pretend to ''wit it'' in his pulpit-libell.\n{{right|''Heylin'', Life of Laud, p. 260. (''Davies.'')}}}}\n\n'''wit<sup>3</sup>†.''' See ''wite<sup>2</sup>''.\n\n'''witan''' (wit′ạn), ''n. pl.''   [AS., pl. of ''wita'' (ME. ''wite'', ''weote'', ''wete''), a man of knowledge, member of a council or parliament: see ''wit<sup>2</sup>''.]   In ''Anglo-Saxon hist.'', members of the witenagemot.\n{{smaller block|As ''witan'' from every quarter of the land stood about his throne, men realized how the King of Wessex had risen into the King of England.\n{{right|''J. R. Green'', Conq. of Eng., p. 215.}}}}\n{{smaller block|<poem>Thou art the mightiest voice in England, man;\nThy voice will lead the ''Witan''.</poem>\n{{right|''Tennyson'', Harold, ii. 2.}}}}\n\n'''witch<sup>1</sup>''' (wich), ''n.''   [< ME. ''witche'', ''wicche'', ''wichche'', ''wiche'', a witch (man or woman), < AS. ''wicca'', m., ''wicce'', f. (pl. ''wiccan'' in both genders), a sorcerer or sorceress, a wizard or witch, = Fries. ''wikke'' = LG. ''wikke'', a witch; cf. Icel. ''vitki'', m., a witch, wizard, prob. after AS.; prob. a reduction, with shortened vowel and assimilation of consonants (''tg'' > ''tk'' > ''kk'', in AS. written ''cc''), of AS. ''wītga'', a syncopated form of ''wītiga'', ''wītega'', a seer, prophet, soothsayer, magician (cf. ''deóful-wītga'', ‘devil prophet,’ wizard) (= OHG. ''wīzago'', ''wīzzago'', a prophet, soothsayer), < *''wītig'', seeing, a form parallel to ''witig'' (with short vowel), knowing, ''witan'', know, *''wītan'', see: see ''wit''<sup>1</sup>, and cf. ''witty''. The notion that ''witch'' is a fem. form is usually accompanied by the notion that the corresponding masc. is ''wizard'' (the two words forming one of the pairs of masc. and fem. correlatives given in the grammars); but ''witch'' is historically masc. as well as fem. (being indeed orig., in the AS. form ''witga'', only masc.), and ''wizard'' has no immediate relation to ''witch''. Cf. ''wiseacre'', ult. < OHG. ''wīzago'', and so a doublet of ''witch''. Hence ult. (< AS. ''wicca'') ME. ''wikke'', ''wicke'', evil, wicked, and ''wikked'', ''wicked'', wicked: see ''wick''<sup>7</sup> and ''wicked''<sup>1</sup>. The change of form (AS. ''wicca'' < ''witga'') is paralleled by a similar change in ''orchard'' (AS. ''orceard'' < ''orcgeard'' < ''ortgeard''), and the development of sense (‘wicked,’ ‘witched’) is in keeping with the history of other words which have become ultimately associated with popular superstitions—superstition, whether religious or etymological, tending to pervert or distort the forms and meanings of words.]   '''1.''' A person (of either sex) given to the black art; a sorcerer; a conjurer; a wizard; later and more particularly, a woman supposed to have formed a compact with the devil or with evil spirits, and to be able by their aid to operate supernaturally; one who practises sorcery or enchantment; a sorceress.\n\n{{smaller block|“Crucifige,” quod a cacchepolle. “I warante hym a ''witche!''{{right|''Piers Plowman'' (B), xviii. 46.}}}}\n{{smaller block|There was a man in that citee, whos name was Symount, a ''wicche.''{{right|''Wyclif'', Acts viii. 9.}}}}\n{{smaller block|<poem>Devil or devil’s dam, I’ll conjure thee:\nBlood will I draw on thee; thou art a ''witch.''</poem>{{right|''Shak.'', 1 Hen. VI., i. 5. 6.}}}}\n{{smaller block|When a Country-wench cannot get her Butter to come, she says, The ''Witch'' is in her Churn.{{right|''Selden'', Table-Talk, p. 82.}}}}\n'''2.''' An old, ugly, and crabbed or malignant woman; a hag; a crone: a term of abuse.\n{{smaller block|Foul wrinkled ''witch'', what makest thou in my sight?{{right|''Shak.'', Rich. III., i. 3. 164.}}}}\n'''3.''' A fascinating woman; a woman, especially a young woman or a girl, possessed of peculiar attractions, whether of beauty or of manners; a bewitching or charming young woman or girl. [Colloq.] —'''4.''' A charm or spell. [Rare.]\n{{smaller block|<poem>If a man but dally by her feet,\nHe thinks it straight a ''witch'' to charm his daughter.</poem>{{right|''Greene'', George-a-Greene, p. 262. (''Davies.'')}}}}\n'''5.''' A petrel: doubtless so called from its incessant flight, often kept up in the dark.—'''6.''' A water-witch.—'''7.''' The pole, pole-dab, or craig-fluke, a kind of flatfish.—{{smaller|'''Black witch.''' Same as ''ani'' (which see, with cut).   ''P. H. Gosse.'' [Jamaica.]—'''The riding of the witch.''' See ''riding''<sup>1</sup>.—'''White witch''' or '''wizard,''' a witch or wizard of a beneficent or good-natured disposition.}}\n{{smaller block|Sorcerers are too common; cunning men, wizards, and ''white-witches'', as they call them, in every village.{{right|''Burton'', Anat. of Mel., p. 271.}}}}\n{{smaller block|And, like ''white witches'', mischievously good.{{right|''Dryden'', The Medal, l. 62.}}}}\n\n'''Witches’ Sabbath.''' See ''Sabbath'', 5.—'''Witch of Agnesi,''' in ''math.'' a plane curve discussed by Donna Maria Gaetana Agnesi, professor of mathematics in the University of Bologna, who died a nun in 1799. It consists of a straight {{smaller|line together with a cubic to which that line is the inflectional asymptote, this cubic having an acnode at infinity in a direction perpendicular to the line. If <math>x = 0</math> is the equation of the line, <math>(y/c)^2 + 1 = (c/x)</math> is that of the cubic. The area of the curve is four times that of the circle having four-pointic contact with the cubic and two-pointic contact with the line. Also called ''versiera.''}}\n\n'''witch'''<sup>1</sup> (wich), ''v. t.''   [< ME. ''witchen, wicchen, wichen,'' < AS. ''wiccian,'' bewitch; cf. D. LG. ''wikken'' = Icel. ''vitka,'' soothsay, divine; from the noun. Cf. ''bewitch.'']   '''1.''' To bewitch; fascinate; enchant.\n{{smaller block|Ne schuld he with wicchecraft be ''wicched'' neuer-more.\n{{right|''William of Palerne'' (E. E. T. S.), l. 4427.}}}}\n{{smaller block|<poem>For she has given me poison in a kiss —\nShe had it ’twixt her lips — and with her eyes\nShe ''witches'' people.</poem>\n{{right|''Beau. and Fl.,'' King and No King, iii. 1.}}}}\n{{smaller block|Thou hast ''witched'' me, rogue.\n{{right|''B. Jonson,'' Alchemist, ii. 1.}}}}\n'''2.''' To work by charms or witchcraft; effect, cause, or bring by or as by witchcraft.\n{{smaller block|Did not she ''witch'' the devil into my son-in-law, when he killed my poor daughter?\n{{right|''Ford and Dekker,'' Witch of Edmonton, v. 2.}}}}\n{{smaller block|And so in one evening Ellery ''witched'' himself into the good graces of every one in the simple parsonage; and when Tina at last appeared she found him reigning king of the circle. {{right|''H. B. Stowe,'' Oldtown, p. 492.}}}}\n{{smaller block|<poem>All round, upon the river’s slippery edge,\n''Witching'' to deeper calm the drowsy tide,\nWhispers and leans the breeze-entangling sedge.</poem>\n{{right|''Lowell,'' Indian-Summer Reverie.}}}}\n\n'''witch'''<sup>2</sup> (wich), ''n.''   [Also, in comp., ''wich'', ''wych'', ''weech''; < ME. ''wiche'', < AS. ''wice'', the sorb or service-tree; appar. applied to several trees with pendulous branches, < ''wīcan'' (pp. ''wicen''), bend, yield: see ''weak''. Hence ''witchen'', and in comp. ''witch-elm'', ''witch-hazel'', q. v.]   The witch-elm, ''Ulmus montana''.\n\n'''witch-alder''' (wich′âl″dėr), ''n.'' A low shrub with alder-like leaves, ''Fothergilla Gardeni'' (''F. alnifolia''), of the witch-hazel family, found in Virginia and North Carolina.\n\n'''witch-ball''' (wich′bâl), ''n.'' A name given to interwoven masses of the stems of herbaceous plants, often met with in the steppes of Tatary.\n\n'''witch-bells, witches’-bells''' (wich′belz, wich′ez-belz), ''n. pl.'' The harebell, ''Campanula rotundifolia''; also, the bluebottle, ''Centaurea Cyanus''.   ''Britten and Holland.'' [Provincial, chiefly Scotch.]\n\n'''witch-chick''' (wich′chik), ''n.'' A swallow: from an old superstition. See ''swallow-struck''. Also ''witchuck'' and ''witch-hag''.\n\n'''witchcraft''' (wich′krȧft), ''n.''   [< ME. ''wicchecraft'', < AS. ''wiccecræft'', ''wiccræft'', witchcraft, < ''wicca'', m., ''wicce'', f., witch, + ''cræft'', craft: see ''witch''<sup>1</sup> and ''craft''<sup>1</sup>.]   '''1.''' The practices of witches; sorcery; a supernatural power which persons were formerly supposed to obtain by entering into compact with the devil. {{smaller|The belief in witchcraft was common in Europe till the sixteenth century, and maintained its ground with tolerable firmness till the middle of the seventeenth century; indeed it is not altogether extinct even at the present day. Numbers of reputed witches were formerly condemned to be burned. One conspicuous outbreak of popular excitement over supposed demoniacal manifestations took place about 1692 in New England, especially in and near Salem.}}\n{{smaller block|There was thane an Enchantour in the Contree, that deled with ''Wycche craft'', that men clepten Taknia.\n{{right|''Mandeville'', Travels, p. 132.}}}}\n{{smaller block|Now the arrival of Sir William Phips to the government of New-England was at a time when . . . scores of poor people had newly fallen under a prodigious possession of devils, which it was then generally thought had been by ''witchcrafts'' introduced.\n{{right|''C. Mather'', Mag. Christ., ii. 13.}}}}\n'''2.''' Extraordinary power; irresistible influence; fascination; witchery.\n{{smaller block|You have ''witchcraft'' in your lips, Kate.\n{{right|''Shak.'', Hen. V., v. 2. 301.}}}}\n{{smaller block|<poem>There ’s ''witchcraft'' in thy language, in thy face,\nIn thy demeanours. ''Ford'', Lover’s Melancholy, iv. 3.</poem>}}\n{{smaller block|<poem>The subtle ''witchcraft'' of his tongue\nUnlocked the hearts of those who keep\nGold, the world’s bond of slavery.</poem>\n{{right|''Shelley'', Rosalind and Helen.}}}}\n\n'''witch-doctor''' (wich′dok″tọr), ''n.'' Same as ''medicine-man.''   ''Encyc. Brit.'', XIII. 820.\n\n'''witch-elm''' (wich′elm), ''n.''   [Also ''wich-elm'', and archaically ''wych-elm''; also ''weech-elm''; < ''witch''<sup>2</sup> + ''elm''. In this word and ''witch-hazel'', the archaic spelling is much affected in modern use.]   An elm, ''Ulmus montana'', of hilly districts in western and northern Europe and northern Asia; the common wild elm of Scotland, Ireland, and the northern and western parts of England. {{smaller|It is less tall than the common English elm (''U. campestris''), but is a considerable tree, of picturesque habit, the trunk branching naturally near the base, the leaves broadly ovate. The wood has the fine-grained, tough, and elastic quality of ''U. campestris'', and is preferred for bent work, as in boat-building. In southeastern England a variety of the common elm is also called by this name.}}\n{{smaller block|The ''witch-elm'' that shades Saint Fillan’s Spring.\n{{right|''Scott'', L. of the L., i., Int.}}}}\n{{smaller block|<poem>''Witch-elms'' that counterchange the floor\nOf this flat lawn with dusk and bright.</poem>\n{{right|''Tennyson'', In Memoriam, lxxxix.}}}}\n\n'''witchen''' (wich′n), ''n.''   [Also ''witchin''; a var. of ''witch''<sup>2</sup> (with suffix conformed to ''-en''<sup>2</sup>), < ME. ''wiche'', < AS. ''wice'', the service-tree: see ''witch''<sup>2</sup>.]   The mountain-ash or rowan, ''Pyrus aucuparia''. [Prov. Eng.]\n\n'''witchery''' (wich′ėr-i), ''n.''; pl. ''witcheries'' (-iz).   [< ''witch''<sup>1</sup> + ''-ery''.]   '''1.''' Sorcery; enchantment; witchcraft.—'''2.''' Fascination; charm.\n{{smaller block|<poem>He never felt\nThe ''witchery'' of the soft blue sky.</poem>\n{{right|''Wordsworth'', Peter Bell.}}}}\n\n'''witches’-besom''' (wich′ez-bē″zum), ''n.'' Same as ''witches’-broom.''\n\n'''witches’-broom''' (wich′ez-bröm), ''n.'' A popular name for the broom-like tufts of branches developed on the silver-fir, birch, cherry, and other trees in consequence of the attack of a uredineous fungus, ''Peridermium elatinum.''\n\n'''witches’-butter''' (wich′ez-but″ėr), ''n.'' An alga. See ''Nostoc'', 2.\n\n'''witches’-thimble''' (wich′ez-thim″bl), ''n.'' See ''thimble'' and ''Silene.''\n\n'''witchet''' (wich′et), ''n.''   [Origin obscure.]   A rounding-plane.\n\n'''witch-finder†''' (wich′fīn″dėr), ''n.'' A professional discoverer of witches, whose services were sometimes employed when the persecution of so-called witches was in vogue.\n\n{{smaller block|He [Matthew Hopkins] then set up as “''Witch Finder'' Generall,” and, on the invitation of several towns, made journeys for the discovery of witches through Essex, Suffolk, Norfolk, and Huntingdonshire. . . . Supposed witches were urged to confess, and on the strength of their own confession were hanged.\n{{right|''Dict. Nat. Biog.'', XXVII. 336.}}}}\n\n'''witch-grass''' (wich′grȧs), ''n.'' '''1.''' Same as ''old-witch grass.''—'''2.''' The quitch-grass or couch-grass, ''Agropyrum repens.''\n\n'''witch-hag''' (wich′hag), ''n.'' Same as ''witch-chick.''\n\n'''witch-hazel''' (wich′hā″zl), ''n.''   [Also ''wich-hazel, wych-hazel''; < ''witch''<sup>2</sup> + ''hazel.'' Cf. ''witch-elm.'']   '''1.''' The witch- or wych-elm, ''Ulmus montana'', its broad leaves resembling those of hazel. [Prov. Eng.]—'''2.''' A shrub or small tree, ''Hamamelis Virginiana'', of eastern North America. {{smaller|It is noticeable for its flowers with four yellow strap-shaped petals, appearing when the leaves are falling, the fruit, which is a woody capsule, ripening the next season. The leaves are broad and straight-veined, wavy-margined. The leaves and bark of witch-hazel abound in tannin, and the bark affords also a reputed sedative application for various cases of external inflammation. The leaves are said to possess similar properties, and an infusion of them is given internally for bowel-complaints and hemorrhages. While witch-hazel is now much in vogue as a cure for bruises and sprains, as also for various internal difficulties, and is even officinally recognized, its real virtue, if any, is still quite in doubt.}}\n\n[[File:century v08 p0755 c3f1.png|center|285px]]\n{{c|{{smaller|Branch with Fruits of Witch-hazel (''Hamamelis Virginiana'').<br>''a'', male flower; ''b'', fruit.}}}}\n\n'''witching''' (wich′ing), ''n.''   [< ME. ''wicching'', ''wicchinge''; verbal n. of ''witch''<sup>1</sup>, ''v.'']   The practices of witches; enchantment.\n\n'''witching''' (wich′ing), ''p. a.'' '''1.''' Bewitching; suited to enchantment or witchcraft; weird.\n{{smaller block|<poem>’Tis now the very ''witching'' time of night,\nWhen churchyards yawn.</poem>{{right|''Shak.'', Hamlet, iii. 2. 406.}}}}\n'''2.''' Fascinating; enchanting.\n{{smaller block|<poem>Let neither flattery, nor the ''witching'' sound\nOf high and soft preferment, touch your goodness.</poem>{{right|''Fletcher (and another)'', False One, iv. 3.}}}}<noinclude><references/></noinclude>"
+}

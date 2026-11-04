@@ -1,0 +1,223 @@
+{
+ "volume": 8,
+ "page_number": 736,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n735.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n735.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-04",
+  "fetched_by": "alaemmle",
+  "angle": 1.45,
+  "column_width": 1460,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     171,
+     68,
+     2442,
+     105
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     171,
+     105,
+     893,
+     1161
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     171,
+     1161,
+     893,
+     2255
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     171,
+     2255,
+     893,
+     3229
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     893,
+     105,
+     1638,
+     1167
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     893,
+     1167,
+     1638,
+     2060
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     893,
+     2060,
+     1638,
+     2806
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     893,
+     2806,
+     1638,
+     3229
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1308,
+     2849,
+     1629,
+     3136
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1638,
+     105,
+     2442,
+     1098
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1638,
+     1098,
+     2442,
+     2132
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1638,
+     2132,
+     2442,
+     3229
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|win|6932|'''wind'''}}",
+   "c1s1": "{{smaller|'''To win one’s blue, one’s shoes, one’s spurs, the broose, the kern, the toss, the whetstone.''' See the nouns.—'''To win the go,''' to win the prize; be victor; come off first; excel all competitors. [Scotch.]}}\n\n'''II.''' ''intrans.'' '''1†.''' To strive; vie; contend.\n{{smaller block|<poem>Storm stireth al the se,\nThanne sumer and winter ''winnen.''</poem>\n{{right|''Old Eng. Misc.'' (ed. Morris), p. 17.}}}}\n\n'''2.''' To struggle; labor; work. [Obsolete or prov. Eng.]\n{{smaller block|<poem>Thauh ȝe be trewe of ȝoure tonge and trewelich ''wynne'',\nAnd be as chast as a chyld that nother chit ne fyghteth.</poem>\n{{right|''Piers Plowman'' (C), ii. 176.}}}}\n\n'''3.''' To succeed; gain one’s end; especially, to be superior in a contest or competition; gain the victory; prove successful: as, let those laugh who ''win.''\n{{smaller block|<poem>So rewe on me, Robert, that no red haue,\nNe neuere weene to ''wynne'' for craft that I knowe.</poem>\n{{right|''Piers Plowman'' (A), v. 251.}}\n<poem>Nor is it aught but just\nThat he who in debate of truth hath ''won''\nShould ''win'' in arms.</poem>\n{{right|''Milton'', P. L., vi. 122.}}\nCharles Fox used to say that the most delightful thing in the world was to ''win'' at cards.\n{{right|''Mortimer Collins'', Thoughts in my Garden, II. 31.}}}}\n\n'''4.''' To reach; attain; make one’s way; succeed in making one’s way: with ''to.'' [Obsolete or provincial.]\n{{smaller block|<poem>Bes wakond and warly; ''wyn to'' my chamber,\nThere swiftly to sweire vpon swete (haloghes),\nAll this forward to fulfill ye fest with your hond.</poem>\n{{right|''Destruction of Troy'' (E. E. T. S.), l. 649.}}\nI ''wynne to'' a thing. I retche to it. Je attayns. . . . This terme is farre northren.\n{{right|''Palsgrave'', p. 782.}}}}",
+   "c1s2": "{{smaller block|<poem>And arme you well, and make you redy,\nAnd ''to'' the walle ye ''wynne.''</poem>\n{{right|''Lytell Geste of Robyn Hode'' (Child’s Ballads, V. 99).}}}}\n{{smaller block|Eh, my rheumatizy be that bad howiver be I to ''win to'' the burnin’?\n{{right|''Tennyson'', Queen Mary, iv. 3.}}}}\n{{smaller block|I will not be her judge. Perhaps when we ''win to'' the greater light we may see with different eyes.\n{{right|''W. Black'', In Far Lochaber, xxiv.}}}}\n\n'''5.''' To get; succeed in getting: as, to ''win'' in (to get in); to ''win'' through; to ''win'' loose; to ''win'' up, down, or away; to ''win'' on (to get on, either literally or figuratively). [Obsolete or provincial.]\n{{smaller block|<poem>“Say me, frende,” quoth the freke with a felle chere,\n“Hov ''wan'' thou in-to this won in wedez so fowle?”</poem>\n{{right|''Alliterative Poems'' (ed. Morris), ii. 140.}}}}\n{{smaller block|<poem>She hath ynough to doen, hardily,\nTo ''winnen'' from hire fader, so trow I.</poem>\n{{right|''Chaucer'', Troilus, v. 1125.}}}}\n{{smaller block|<poem>Ye canna ''win'' in this nicht, Willie,\n  Nor here ye canna be;\nFor I’ve nae chambers out nor in,\n  Nae ane but barely three.</poem>\n{{right|''Willie and May Margaret'' (Child’s Ballads, II. 173).}}}}\n{{smaller block|<poem>We’ll come nae mair unto this place,\nCou’d we ''win'' safe awa’.</poem>\n{{right|''King Malcolm and Sir Colvin'' (Child’s Ballads, III. 381).}}}}\n{{smaller block|<poem>''Win'' thro’ this day with honour to yourself,\nAnd I’ll say something for you.</poem>\n{{right|''Tennyson'', Queen Mary, iv. 2.}}}}\n\n'''To win by a head.''' See ''head''.—'''To win in a canter.''' See ''canter''<sup>1</sup>.—'''To win on''' or '''upon.''' (''a'') To gain favor or influence: as, to ''win upon'' the heart or affections.\n{{smaller block|<poem>I at last, unwilling, . . .\nThought I would try if shame could ''win upon'' ’em.</poem>\n{{right|''B. Jonson'', Apol. to Poetaster.}}}}\n{{smaller block|You have a softness and beneficence ''winning on'' the hearts of others.\n{{right|''Dryden.''}}}}",
+   "c1s3": "(''b'') To gain ground on; gain upon.\n{{smaller block|<poem>The rabble . . . will in time\n''Win upon'' power.</poem>\n{{right|''Shak.'', Cor., i. 1. 224.}}\n<poem>Thus, at half ebb, a rolling sea\nReturns and ''wins upon'' the shore.</poem>\n{{right|''Dryden'', Threnodia Augustalis, l. 140.}}}}\n\n'''win<sup>1</sup>†''' (win), ''n.'' Strife; contention.\n{{smaller block|<poem>With al mankin\nHe haueth nith [envy] and ''win''.</poem>\n{{right|''Old Eng. Misc.'' (ed. Morris), p. 8.}}}}\n\n'''win<sup>2</sup>''' (win), ''v. t.''; pret. and pp. ''winned'', ppr. ''winning''. [Abbr. of ''wind''<sup>2</sup>, ''v.''] To dry or season by exposure to the wind or air: as, to ''win'' hay; to ''win'' peats. [Scotch and Irish.]\n\n'''winberry, wimberry''' (win′-, wim′ber″i), ''n.''; pl. ''winberries, wimberries'' (-iz). [Also sometimes ''whinberry''; a dial. form, with shortened vowel, of ''wineberry''.] A whortleberry.\n{{smaller block|Here also was a profusion of raspberries, and a blue berry not unlike a large ''wimberry'', but growing on a bush often several feet in height.\n{{right|''J. A. Lees and W. J. Clutterbuck'', B.[ritish] C.[olumbia],}}\n{{right|[1887, xii.}}}}\n\n'''win-bread''' (win′bred), ''n.'' [< ''win''<sup>1</sup>, ''v.'', + obj. ''bread''.] That which earns one’s living or one’s wealth and advancement, as a mechanical trade, the sword of a soldier of fortune, etc. [Rare.]\n{{smaller block|The sword of the military adventurer, even of knightly dignity, is sometimes called the gagne-pain or ''win-bread'' (''wyn-brod''), signifying that it is to his brand the soldier must look for the advancement of his fortune.\n{{right|''Hewitt'', Anc. Armour, II. 253.}}}}",
+   "c2s1": "¶\n'''wince'''<sup>1</sup> (wins), ''v.''; pret. and pp. ''winced'', ppr. ''wincing''. [Formerly also ''winch'', ''wench''; < ME. ''wincen'', ''winsen'', ''wynsen'', ''winchen'', ''wynchen'', ''wenchen'', < OF. *''winchir'', ''guinchir'', ''guincher'', ''guencher'', ''guenchir'', ''guencir'', ''ganchir'', wince, = Pr. ''guenchir'', evade, < OHG. ''wenkan'', MHG. ''wenken'', G. ''wanken'', wince, totter, start aside; cf. OHG. ''wankōn'', ''wanchōn'', waver, < ''winchan'', MHG. ''winken'' (pret. ''wank''), move aside, nod, G. ''winken'', nod, = E. ''wink'': see ''wink''<sup>1</sup>, ''v.''] '''I.''' ''intrans.'' '''1.''' To shrink, as in pain or from a blow; start back: literally or figuratively.\n{{smaller block|<poem>Qwarelles qwayntly swappez thorowe knyghtez\nWith iryne so wekyrly, that ''wynche'' they never.</poem>\n{{right|''Morte Arthure'' (E. E. T. S.), l. 2104.}}\nRubbe there no more, least I ''winch'', for deny I wil not that I am wrong on the withers.\n{{right|''Lyly'', Euphues and his England, p. 387.}}\n<poem>I will not stir, nor ''wince'', nor speak a word,\nNor look upon the iron angerly.</poem>\n{{right|''Shak.'', K. John, iv. 1. 81.}}\n<poem>Some fretful tempers ''wince'' at ev’ry touch;\nYou always do too little or too much.</poem>\n{{right|''Cowper'', Conversation, l. 325.}}\nPhilip ''winced'' under this allusion to his unfitness for active sports. {{right|''George Eliot'', Mill on the Floss, ii. 3.}}}}\n'''2†.''' To kick.\n{{smaller block|Poul, . . . whom the Lord hadde chosun, that long tyme ''wynside'' aȝen the pricke.\n{{right|''Wyclif'', Prologue on Acts of Apostles.}}}}\n'''3†.''' To wriggle; twist and turn.\n{{smaller block|<poem>Long before the Child can crawl,\nHe learns to kick, and ''wince'', and sprawl.</poem>\n{{right|''Prior'', Alma, i.}}}}",
+   "c2s2": "¶\n\n'''II.†''' ''trans.'' To fling by starting or kicking.\n\n{{smaller block|A galled jennet that will ''winch'' him out o’ the saddle.\n{{right|''Fletcher and Rowley'', Maid in the Mill, ii. 1.}}}}\n\n'''wince<sup>1</sup>''' (wins), ''n.'' [< ''wince''<sup>1</sup>, ''v.''] The act of one who winces; an involuntary shrinking movement or tendency; a slight start back or aside, as from pain or to avoid pain.\n\n{{smaller block|It is the pitcher who will notice the unavoidable ''wince'' that is the proof of a catcher’s sore hand.\n{{right|''W. Camp'', St. Nicholas, XVII. 829.}}}}\n\n'''wince<sup>2</sup>''' (wins), ''n.'' [A corrupt form of ''winch''<sup>1</sup>.] In ''dyeing'', a simple hand-machine for changing a fabric from one dye-vat to another. {{smaller|It consists of a reel placed over the division between the vats. The fabric, placed over it and turned either way, is transferred from one dye to another. When several vats are placed in line, and contain dyes, mordants, soap-suds, water, etc., a wince or reel is placed between each two, and the combined apparatus becomes a wincing-machine. In such a machine the vats are called ''wince-pots'' or ''wince-pits.'' Also ''winch.''}}\n\n'''wince<sup>2</sup>''' (wins), ''v. t.''; pret. and pp. ''winced'', ppr. ''wincing''. [< ''wince''<sup>2</sup>, ''n.''] In ''dyeing'', to immerse in the bath by turning the wince or winch.\n\n{{smaller block|For dark grounds the pieces were finally ''winced'' in weak solution of bleaching powder, to rinse the full shade of color.\n{{right|''O’Neill'', Dyeing and Calico Printing, p. 110.}}}}\n\n'''wince-pit, wince-pot''' (wins′pit, -pot), ''n.'' One of the vats of a wincing-machine. See ''wince''<sup>2</sup>.",
+   "c2s3": "¶\n'''wincer''' (win′sėr), ''n.'' [< ''wince''<sup>1</sup> + ''-er''<sup>1</sup>.] One who winces, shrinks, or kicks. ''Milton'', Apol. for Smectymnuus, Pref. (''Latham.'')\n\n'''wincey''' (win′si), ''n.'' [Also ''winsey''; supposed to be an abbr. of *''linsey-winsey'', which is supposed to be a riming variation of ''linsey-woolsey'', a word subject to much manipulation.] A strong and durable cloth, plain or twilled, composed of a cotton warp and a woolen weft. {{smaller|Heavy winceys have been much worn as skirtings, and a lighter kind is used for men’s shirts. They are sometimes made entirely of wool.}}\n\n'''winch'''<sup>1</sup> (winch), ''n.'' [Also, corruptly, ''wince'', ''winze'', and dial. ''wink''; < ME. ''winche'', ''wynche'', the crank of a wheel or axle, < AS. ''wince'', a winch; prob. orig. ‘a bent’ or ‘a bent handle,’ akin to ''wink''<sup>1</sup> and ''winkle'', and so ult. to ''wince''<sup>1</sup>.] '''1.''' The crank, projecting handle, or lever by which the axis of a revolving machine is turned, as in the common windlass, the grindstone, etc. See cut under ''Prony’s dynamometer''.\n{{smaller block|One of them [musicians] turned the ''winch'' of an organ which he carried at his back.\n{{right|''Strutt'', Sports and Pastimes, p. 320.}}}}",
+   "c2s4": "'''2.''' A kind of hoisting-machine or windlass, in\n[[FIGURE]]\n{{c|{{smaller|Winch.}}}}\nwhich an axis is turned by means of a crank-handle, and a rope or chain is thus wound round it so as to raise a weight. {{smaller|There are various forms of winches. Either the crank may be attached to the extremity of the winding-roller or -axis, or a large spur-wheel may be attached to the roller, and turned by a pinion on a separate crank-shaft (as shown in the cut), this arrangement giving greater power.}}",
+   "c3s1": "¶\n{{smaller block|There was a coal-mine . . . which he used frequently to visit, going down to the workings in a basket lowered by a ''winch.'' {{right|''Nineteenth Century'', XXVI. 770.}}}}\n'''3.''' The reel of a fishing-rod.—'''4.''' Same as ''wince''<sup>2</sup>. {{smaller|—'''Gipsy winch.''' See ''gipsy-winch.''—'''Spun-yarn winch''', a small winch with a fly-wheel, used on board ship for making spun yarn.—'''Steam-winch,''' a winch driven by steam, in common use on steam-vessels for loading and discharging cargo.}}\n\n'''winch<sup>1</sup>''' (winch), ''v. t.'' [< ''winch''<sup>1</sup>, ''n.''] To hoist or haul by means of a winch.\n{{smaller block|He, being placed in a chaire, . . . was ''winched'' vp in that chaire, and fastened vnto the maineyard of a galley, and hoisted vp with a crane, to shew him to all. {{right|''Hakluyt’s Voyages'', II. 128.}}}}\n\n'''winch<sup>2</sup>''' (winch), ''v.'' and ''n.'' An obsolete or dialectal form of ''wince''<sup>1</sup>.\n\n'''Winchester bushel.''' See ''bushel''<sup>1</sup>, 1.\n\n'''Winchester goose†.''' [Also called ''Winchester pigeon:'' said to allude to the fact that the stews in Southwark were in the 16th century under the jurisdiction of the Bishop of Winchester.] A bubo; hence, a person affected with bubo. Shakspere has the phrase “goose of Winchester,” T. and C., v. 10. 55. [Old slang.]\n\n'''Winchester gun''' or '''rifle.''' See ''rifle''<sup>2</sup>.\n\n'''Winchester pint.''' A measure a little more than a wine-pint and less than a beer-pint.\n\n'''wincing†,''' ''a.'' [< ME. ''wynsynge;'' ppr. of ''wince''<sup>1</sup>, ''v.''] Kicking; hence, skittish; lively.\n{{smaller block|''Wynsynge'' she was as is a joly colt. {{right|''Chaucer'', Miller’s Tale, l. 77.}}}}",
+   "c3s2": "¶\n'''wincing-machine''' (win′sing-ma̤-shēn″), ''n.'' In ''dyeing'', an apparatus consisting of a series of vats containing dyes, mordants, soap-suds, etc., with a wince or reel between each two. See ''wince''<sup>2</sup>.\n\n'''Winckel’s disease.''' A disease occurring in infants, the chief symptoms of which are jaundice, bloody urine, and cyanosis. It commonly terminates fatally in a few days.\n\n'''wincopipe†''' (wing′kọ̄-pīp), ''n.'' The scarlet pimpernel, ''Anagallis arvensis.'' See ''wink-a-peep.''\n{{smaller block|There is a small red flower in the stubble-fields, which country people call the ''wincopipe;'' which if it opens in the morning, you may be sure a fair day will follow.\n{{right|''Bacon'', Nat. Hist., § 827.}}}}\n\n'''wind<sup>1</sup>''' (wīnd), ''v.''; pret. and pp. ''wound'' (occasionally but less correctly ''winded''), ppr. ''winding.'' [< ME. ''winden'', ''wynden'' (pret. ''wand'', ''wond'', pl. ''wunden'', ''wonden'', ''wounden'', ''wonde'', pp. ''wunden'', ''wonden''), < AS. ''windan'' (pret. ''wand'', ''wond'', pp. ''wunden'') = OS. ''windan'' = OFries. ''winda'' = D. LG. ''winden'' = OHG. ''wintan'', ''windan'', MHG. ''winden'', G. ''winden'' = Icel. ''vinda'', turn, wind, = Sw. ''vinda'' = Dan. ''vinde'', turn the eyes, squint, = Goth. ''windan'' (in comp. ''bi-windan'', ''du-ga-windan''), wind; cf. F. ''guinder'', It. ''ghindare'', wind up, < MHG.; root unknown. From the verb ''wind''<sup>1</sup> are ult. E. ''wend''<sup>1</sup>, ''wand'', ''wander'', ''windas'', ''windlass''<sup>1</sup>, ''windlass''<sup>2</sup>, ''windle'', etc.] '''I.''' ''intrans.'' '''1.''' To move in this direction and in that; change direction; vary from the direct line or course; bend; turn; double.",
+   "c3s3": "{{smaller block|<poem>But evere the heed was left bihynde,\nFor ought I couthe pulle or ''wynde.''</poem>\n{{right|''Rom. of the Rose'', l. 1810.}}}}\n{{smaller block|<poem>The yerde is bet that bowen wol and ''wynde''\nThan that that brest.</poem>\n{{right|''Chaucer'', Troilus, i. 257.}}}}\n{{smaller block|So swift your judgments turn and ''wind.'' {{right|''Dryden.''}}}}\n'''2.''' To go in a crooked or devious course; meander: as, the stream ''winds'' through the valley; the road ''winds'' round the hill.\n{{smaller block|<poem>Whan that this leonesse hath dronke her fille,\nAboute the welle gan she for to ''wynde.''</poem>\n{{right|''Chaucer'', Good Women, l. 818.}}}}\n{{smaller block|It was difficult to descend into the valley to the north east, in which we returned, and, ''winding'' round the vale to the west, came to Beer-Emir.\n{{right|''Pococke'', Description of the East, II. i. 63.}}}}\n{{smaller block|<poem>The lowing herd ''winds'' slowly o’er the lea.</poem>\n{{right|''Gray'', Elegy.}}}}\n{{smaller block|<poem>White with its sun-bleached dust, the pathway ''winds''\nBefore me.</poem>\n{{right|''Whittier'', Pictures, ii.}}}}\n'''3.''' To make an indirect advance; “fetch a compass”; “beat about the bush.”\n{{smaller block|<poem>You know me well, and herein spend but time\nTo ''wind'' about my love with circumstance.</poem>\n{{right|''Shak.'', M. of V., i. 1. 154.}}}}\n{{smaller block|<poem>You must not talk to him,\nAs you do to an ordinary man,\nHonest plain sense, but you must ''wind'' about him.</poem>\n{{right|''Beau. and Fl.'', Woman-Hater, ii. 1.}}}}\n'''4.''' To twine; entwine one’s self or itself round something: as, vines ''wind'' round the pole.—'''5†.''' To twist one’s self or worm one’s way into or out of something.\n{{smaller block|O thou that would’st ''winde'' into any figment or phantasime to save thy Miter.\n{{right|''Milton'', Church-Government, i. 5.}}}}"
+  },
+  "figure_files": {
+   "c2f1": "century v08 p0736 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1320,
+     2861,
+     1617,
+     3124
+    ],
+    "caption": [
+     1430,
+     3134,
+     1506,
+     3157
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1319,
+     2862,
+     1620,
+     3127
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 8,
+    "output_tokens": 91,
+    "cache_creation_input_tokens": 3821,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 9710,
+    "output_tokens": 10627,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c2f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|win|6932|'''wind'''}}</noinclude>{{smaller|'''To win one’s blue, one’s shoes, one’s spurs, the broose, the kern, the toss, the whetstone.''' See the nouns.—'''To win the go,''' to win the prize; be victor; come off first; excel all competitors. [Scotch.]}}\n\n'''II.''' ''intrans.'' '''1†.''' To strive; vie; contend.\n{{smaller block|<poem>Storm stireth al the se,\nThanne sumer and winter ''winnen.''</poem>\n{{right|''Old Eng. Misc.'' (ed. Morris), p. 17.}}}}\n\n'''2.''' To struggle; labor; work. [Obsolete or prov. Eng.]\n{{smaller block|<poem>Thauh ȝe be trewe of ȝoure tonge and trewelich ''wynne'',\nAnd be as chast as a chyld that nother chit ne fyghteth.</poem>\n{{right|''Piers Plowman'' (C), ii. 176.}}}}\n\n'''3.''' To succeed; gain one’s end; especially, to be superior in a contest or competition; gain the victory; prove successful: as, let those laugh who ''win.''\n{{smaller block|<poem>So rewe on me, Robert, that no red haue,\nNe neuere weene to ''wynne'' for craft that I knowe.</poem>\n{{right|''Piers Plowman'' (A), v. 251.}}}}\n{{smaller block|<poem>Nor is it aught but just\nThat he who in debate of truth hath ''won''\nShould ''win'' in arms.</poem>\n{{right|''Milton'', P. L., vi. 122.}}}}\n{{smaller block|Charles Fox used to say that the most delightful thing in the world was to ''win'' at cards.\n{{right|''Mortimer Collins'', Thoughts in my Garden, II. 31.}}}}\n\n'''4.''' To reach; attain; make one’s way; succeed in making one’s way: with ''to.'' [Obsolete or provincial.]\n{{smaller block|<poem>Bes wakond and warly; ''wyn to'' my chamber,\nThere swiftly to sweire vpon swete (haloghes),\nAll this forward to fulfill ye fest with your hond.</poem>\n{{right|''Destruction of Troy'' (E. E. T. S.), l. 649.}}}}\n{{smaller block|I ''wynne to'' a thing. I retche to it. Je attayns. . . . This terme is farre northren.\n{{right|''Palsgrave'', p. 782.}}}}\n{{smaller block|<poem>And arme you well, and make you redy,\nAnd ''to'' the walle ye ''wynne.''</poem>\n{{right|''Lytell Geste of Robyn Hode'' (Child’s Ballads, V. 99).}}}}\n{{smaller block|Eh, my rheumatizy be that bad howiver be I to ''win to'' the burnin’?\n{{right|''Tennyson'', Queen Mary, iv. 3.}}}}\n{{smaller block|I will not be her judge. Perhaps when we ''win to'' the greater light we may see with different eyes.\n{{right|''W. Black'', In Far Lochaber, xxiv.}}}}\n\n'''5.''' To get; succeed in getting: as, to ''win'' in (to get in); to ''win'' through; to ''win'' loose; to ''win'' up, down, or away; to ''win'' on (to get on, either literally or figuratively). [Obsolete or provincial.]\n{{smaller block|<poem>“Say me, frende,” quoth the freke with a felle chere,\n“Hov ''wan'' thou in-to this won in wedez so fowle?”</poem>\n{{right|''Alliterative Poems'' (ed. Morris), ii. 140.}}}}\n{{smaller block|<poem>She hath ynough to doen, hardily,\nTo ''winnen'' from hire fader, so trow I.</poem>\n{{right|''Chaucer'', Troilus, v. 1125.}}}}\n{{smaller block|<poem>Ye canna ''win'' in this nicht, Willie,\n  Nor here ye canna be;\nFor I’ve nae chambers out nor in,\n  Nae ane but barely three.</poem>\n{{right|''Willie and May Margaret'' (Child’s Ballads, II. 173).}}}}\n{{smaller block|<poem>We’ll come nae mair unto this place,\nCou’d we ''win'' safe awa’.</poem>\n{{right|''King Malcolm and Sir Colvin'' (Child’s Ballads, III. 381).}}}}\n{{smaller block|<poem>''Win'' thro’ this day with honour to yourself,\nAnd I’ll say something for you.</poem>\n{{right|''Tennyson'', Queen Mary, iv. 2.}}}}\n\n'''To win by a head.''' See ''head''.—'''To win in a canter.''' See ''canter''<sup>1</sup>.—'''To win on''' or '''upon.''' (''a'') To gain favor or influence: as, to ''win upon'' the heart or affections.\n{{smaller block|<poem>I at last, unwilling, . . .\nThought I would try if shame could ''win upon'' ’em.</poem>\n{{right|''B. Jonson'', Apol. to Poetaster.}}}}\n{{smaller block|You have a softness and beneficence ''winning on'' the hearts of others.\n{{right|''Dryden.''}}}} (''b'') To gain ground on; gain upon.\n{{smaller block|<poem>The rabble . . . will in time\n''Win upon'' power.</poem>\n{{right|''Shak.'', Cor., i. 1. 224.}}}}\n{{smaller block|<poem>Thus, at half ebb, a rolling sea\nReturns and ''wins upon'' the shore.</poem>\n{{right|''Dryden'', Threnodia Augustalis, l. 140.}}}}\n\n'''win<sup>1</sup>†''' (win), ''n.'' Strife; contention.\n{{smaller block|<poem>With al mankin\nHe haueth nith [envy] and ''win''.</poem>\n{{right|''Old Eng. Misc.'' (ed. Morris), p. 8.}}}}\n\n'''win<sup>2</sup>''' (win), ''v. t.''; pret. and pp. ''winned'', ppr. ''winning''.   [Abbr. of ''wind''<sup>2</sup>, ''v.'']   To dry or season by exposure to the wind or air: as, to ''win'' hay; to ''win'' peats. [Scotch and Irish.]\n\n'''winberry, wimberry''' (win′-, wim′ber″i), ''n.''; pl. ''winberries, wimberries'' (-iz).   [Also sometimes ''whinberry''; a dial. form, with shortened vowel, of ''wineberry''.]   A whortleberry.\n{{smaller block|Here also was a profusion of raspberries, and a blue berry not unlike a large ''wimberry'', but growing on a bush often several feet in height.\n{{right|''J. A. Lees and W. J. Clutterbuck'', B.[ritish] C.[olumbia],}}\n{{right|[1887, xii.}}}}\n\n'''win-bread''' (win′bred), ''n.''   [< ''win''<sup>1</sup>, ''v.'', + obj. ''bread''.]   That which earns one’s living or one’s wealth and advancement, as a mechanical trade, the sword of a soldier of fortune, etc. [Rare.]\n{{smaller block|The sword of the military adventurer, even of knightly dignity, is sometimes called the gagne-pain or ''win-bread'' (''wyn-brod''), signifying that it is to his brand the soldier must look for the advancement of his fortune.\n{{right|''Hewitt'', Anc. Armour, II. 253.}}}}\n\n'''wince'''<sup>1</sup> (wins), ''v.''; pret. and pp. ''winced'', ppr. ''wincing''.   [Formerly also ''winch'', ''wench''; < ME. ''wincen'', ''winsen'', ''wynsen'', ''winchen'', ''wynchen'', ''wenchen'', < OF. *''winchir'', ''guinchir'', ''guincher'', ''guencher'', ''guenchir'', ''guencir'', ''ganchir'', wince, = Pr. ''guenchir'', evade, < OHG. ''wenkan'', MHG. ''wenken'', G. ''wanken'', wince, totter, start aside; cf. OHG. ''wankōn'', ''wanchōn'', waver, < ''winchan'', MHG. ''winken'' (pret. ''wank''), move aside, nod, G. ''winken'', nod, = E. ''wink'': see ''wink''<sup>1</sup>, ''v.'']   '''I.''' ''intrans.'' '''1.''' To shrink, as in pain or from a blow; start back: literally or figuratively.\n{{smaller block|<poem>Qwarelles qwayntly swappez thorowe knyghtez\nWith iryne so wekyrly, that ''wynche'' they never.</poem>\n{{right|''Morte Arthure'' (E. E. T. S.), l. 2104.}}}}\n{{smaller block|Rubbe there no more, least I ''winch'', for deny I wil not that I am wrong on the withers.\n{{right|''Lyly'', Euphues and his England, p. 387.}}}}\n{{smaller block|<poem>I will not stir, nor ''wince'', nor speak a word,\nNor look upon the iron angerly.</poem>\n{{right|''Shak.'', K. John, iv. 1. 81.}}}}\n{{smaller block|<poem>Some fretful tempers ''wince'' at ev’ry touch;\nYou always do too little or too much.</poem>\n{{right|''Cowper'', Conversation, l. 325.}}}}\n{{smaller block|Philip ''winced'' under this allusion to his unfitness for active sports. {{right|''George Eliot'', Mill on the Floss, ii. 3.}}}}\n'''2†.''' To kick.\n{{smaller block|Poul, . . . whom the Lord hadde chosun, that long tyme ''wynside'' aȝen the pricke.\n{{right|''Wyclif'', Prologue on Acts of Apostles.}}}}\n'''3†.''' To wriggle; twist and turn.\n{{smaller block|<poem>Long before the Child can crawl,\nHe learns to kick, and ''wince'', and sprawl.</poem>\n{{right|''Prior'', Alma, i.}}}}\n\n'''II.†''' ''trans.'' To fling by starting or kicking.\n\n{{smaller block|A galled jennet that will ''winch'' him out o’ the saddle.\n{{right|''Fletcher and Rowley'', Maid in the Mill, ii. 1.}}}}\n\n'''wince<sup>1</sup>''' (wins), ''n.''   [< ''wince''<sup>1</sup>, ''v.'']   The act of one who winces; an involuntary shrinking movement or tendency; a slight start back or aside, as from pain or to avoid pain.\n\n{{smaller block|It is the pitcher who will notice the unavoidable ''wince'' that is the proof of a catcher’s sore hand.\n{{right|''W. Camp'', St. Nicholas, XVII. 829.}}}}\n\n'''wince<sup>2</sup>''' (wins), ''n.''   [A corrupt form of ''winch''<sup>1</sup>.]   In ''dyeing'', a simple hand-machine for changing a fabric from one dye-vat to another. {{smaller|It consists of a reel placed over the division between the vats. The fabric, placed over it and turned either way, is transferred from one dye to another. When several vats are placed in line, and contain dyes, mordants, soap-suds, water, etc., a wince or reel is placed between each two, and the combined apparatus becomes a wincing-machine. In such a machine the vats are called ''wince-pots'' or ''wince-pits.'' Also ''winch.''}}\n\n'''wince<sup>2</sup>''' (wins), ''v. t.''; pret. and pp. ''winced'', ppr. ''wincing''.   [< ''wince''<sup>2</sup>, ''n.'']   In ''dyeing'', to immerse in the bath by turning the wince or winch.\n\n{{smaller block|For dark grounds the pieces were finally ''winced'' in weak solution of bleaching powder, to rinse the full shade of color.\n{{right|''O’Neill'', Dyeing and Calico Printing, p. 110.}}}}\n\n'''wince-pit, wince-pot''' (wins′pit, -pot), ''n.'' One of the vats of a wincing-machine. See ''wince''<sup>2</sup>.\n\n'''wincer''' (win′sėr), ''n.''   [< ''wince''<sup>1</sup> + ''-er''<sup>1</sup>.]   One who winces, shrinks, or kicks. ''Milton'', Apol. for Smectymnuus, Pref. (''Latham.'')\n\n'''wincey''' (win′si), ''n.''   [Also ''winsey''; supposed to be an abbr. of *''linsey-winsey'', which is supposed to be a riming variation of ''linsey-woolsey'', a word subject to much manipulation.]   A strong and durable cloth, plain or twilled, composed of a cotton warp and a woolen weft. {{smaller|Heavy winceys have been much worn as skirtings, and a lighter kind is used for men’s shirts. They are sometimes made entirely of wool.}}\n\n'''winch'''<sup>1</sup> (winch), ''n.''   [Also, corruptly, ''wince'', ''winze'', and dial. ''wink''; < ME. ''winche'', ''wynche'', the crank of a wheel or axle, < AS. ''wince'', a winch; prob. orig. ‘a bent’ or ‘a bent handle,’ akin to ''wink''<sup>1</sup> and ''winkle'', and so ult. to ''wince''<sup>1</sup>.]   '''1.''' The crank, projecting handle, or lever by which the axis of a revolving machine is turned, as in the common windlass, the grindstone, etc. See cut under ''Prony’s dynamometer''.\n{{smaller block|One of them [musicians] turned the ''winch'' of an organ which he carried at his back.\n{{right|''Strutt'', Sports and Pastimes, p. 320.}}}} '''2.''' A kind of hoisting-machine or windlass, in {{img float|file=century v08 p0736 c2f1.png|width=79px|align=right|cap={{smaller|Winch.}}}} which an axis is turned by means of a crank-handle, and a rope or chain is thus wound round it so as to raise a weight. {{smaller|There are various forms of winches. Either the crank may be attached to the extremity of the winding-roller or -axis, or a large spur-wheel may be attached to the roller, and turned by a pinion on a separate crank-shaft (as shown in the cut), this arrangement giving greater power.}}\n\n{{smaller block|There was a coal-mine . . . which he used frequently to visit, going down to the workings in a basket lowered by a ''winch.'' {{right|''Nineteenth Century'', XXVI. 770.}}}}\n'''3.''' The reel of a fishing-rod.—'''4.''' Same as ''wince''<sup>2</sup>. {{smaller|—'''Gipsy winch.''' See ''gipsy-winch.''—'''Spun-yarn winch''', a small winch with a fly-wheel, used on board ship for making spun yarn.—'''Steam-winch,''' a winch driven by steam, in common use on steam-vessels for loading and discharging cargo.}}\n\n'''winch<sup>1</sup>''' (winch), ''v. t.''   [< ''winch''<sup>1</sup>, ''n.'']   To hoist or haul by means of a winch.\n{{smaller block|He, being placed in a chaire, . . . was ''winched'' vp in that chaire, and fastened vnto the maineyard of a galley, and hoisted vp with a crane, to shew him to all. {{right|''Hakluyt’s Voyages'', II. 128.}}}}\n\n'''winch<sup>2</sup>''' (winch), ''v.'' and ''n.'' An obsolete or dialectal form of ''wince''<sup>1</sup>.\n\n'''Winchester bushel.''' See ''bushel''<sup>1</sup>, 1.\n\n'''Winchester goose†.'''   [Also called ''Winchester pigeon:'' said to allude to the fact that the stews in Southwark were in the 16th century under the jurisdiction of the Bishop of Winchester.]   A bubo; hence, a person affected with bubo. Shakspere has the phrase “goose of Winchester,” T. and C., v. 10. 55. [Old slang.]\n\n'''Winchester gun''' or '''rifle.''' See ''rifle''<sup>2</sup>.\n\n'''Winchester pint.''' A measure a little more than a wine-pint and less than a beer-pint.\n\n'''wincing†,''' ''a.''   [< ME. ''wynsynge;'' ppr. of ''wince''<sup>1</sup>, ''v.'']   Kicking; hence, skittish; lively.\n{{smaller block|''Wynsynge'' she was as is a joly colt. {{right|''Chaucer'', Miller’s Tale, l. 77.}}}}\n\n'''wincing-machine''' (win′sing-ma̤-shēn″), ''n.'' In ''dyeing'', an apparatus consisting of a series of vats containing dyes, mordants, soap-suds, etc., with a wince or reel between each two. See ''wince''<sup>2</sup>.\n\n'''Winckel’s disease.''' A disease occurring in infants, the chief symptoms of which are jaundice, bloody urine, and cyanosis. It commonly terminates fatally in a few days.\n\n'''wincopipe†''' (wing′kọ̄-pīp), ''n.'' The scarlet pimpernel, ''Anagallis arvensis.'' See ''wink-a-peep.''\n{{smaller block|There is a small red flower in the stubble-fields, which country people call the ''wincopipe;'' which if it opens in the morning, you may be sure a fair day will follow.\n{{right|''Bacon'', Nat. Hist., § 827.}}}}\n\n'''wind<sup>1</sup>''' (wīnd), ''v.''; pret. and pp. ''wound'' (occasionally but less correctly ''winded''), ppr. ''winding.''   [< ME. ''winden'', ''wynden'' (pret. ''wand'', ''wond'', pl. ''wunden'', ''wonden'', ''wounden'', ''wonde'', pp. ''wunden'', ''wonden''), < AS. ''windan'' (pret. ''wand'', ''wond'', pp. ''wunden'') = OS. ''windan'' = OFries. ''winda'' = D. LG. ''winden'' = OHG. ''wintan'', ''windan'', MHG. ''winden'', G. ''winden'' = Icel. ''vinda'', turn, wind, = Sw. ''vinda'' = Dan. ''vinde'', turn the eyes, squint, = Goth. ''windan'' (in comp. ''bi-windan'', ''du-ga-windan''), wind; cf. F. ''guinder'', It. ''ghindare'', wind up, < MHG.; root unknown. From the verb ''wind''<sup>1</sup> are ult. E. ''wend''<sup>1</sup>, ''wand'', ''wander'', ''windas'', ''windlass''<sup>1</sup>, ''windlass''<sup>2</sup>, ''windle'', etc.]   '''I.''' ''intrans.'' '''1.''' To move in this direction and in that; change direction; vary from the direct line or course; bend; turn; double. {{smaller block|<poem>But evere the heed was left bihynde,\nFor ought I couthe pulle or ''wynde.''</poem>\n{{right|''Rom. of the Rose'', l. 1810.}}}}\n{{smaller block|<poem>The yerde is bet that bowen wol and ''wynde''\nThan that that brest.</poem>\n{{right|''Chaucer'', Troilus, i. 257.}}}}\n{{smaller block|So swift your judgments turn and ''wind.'' {{right|''Dryden.''}}}}\n'''2.''' To go in a crooked or devious course; meander: as, the stream ''winds'' through the valley; the road ''winds'' round the hill.\n{{smaller block|<poem>Whan that this leonesse hath dronke her fille,\nAboute the welle gan she for to ''wynde.''</poem>\n{{right|''Chaucer'', Good Women, l. 818.}}}}\n{{smaller block|It was difficult to descend into the valley to the north east, in which we returned, and, ''winding'' round the vale to the west, came to Beer-Emir.\n{{right|''Pococke'', Description of the East, II. i. 63.}}}}\n{{smaller block|<poem>The lowing herd ''winds'' slowly o’er the lea.</poem>\n{{right|''Gray'', Elegy.}}}}\n{{smaller block|<poem>White with its sun-bleached dust, the pathway ''winds''\nBefore me.</poem>\n{{right|''Whittier'', Pictures, ii.}}}}\n'''3.''' To make an indirect advance; “fetch a compass”; “beat about the bush.”\n{{smaller block|<poem>You know me well, and herein spend but time\nTo ''wind'' about my love with circumstance.</poem>\n{{right|''Shak.'', M. of V., i. 1. 154.}}}}\n{{smaller block|<poem>You must not talk to him,\nAs you do to an ordinary man,\nHonest plain sense, but you must ''wind'' about him.</poem>\n{{right|''Beau. and Fl.'', Woman-Hater, ii. 1.}}}}\n'''4.''' To twine; entwine one’s self or itself round something: as, vines ''wind'' round the pole.—'''5†.''' To twist one’s self or worm one’s way into or out of something.\n{{smaller block|O thou that would’st ''winde'' into any figment or phantasime to save thy Miter.\n{{right|''Milton'', Church-Government, i. 5.}}}}<noinclude><references/></noinclude>"
+}

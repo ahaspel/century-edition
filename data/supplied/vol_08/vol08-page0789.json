@@ -1,0 +1,211 @@
+{
+ "volume": 8,
+ "page_number": 789,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n788.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n788.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-04",
+  "fetched_by": "alaemmle",
+  "angle": -0.8,
+  "column_width": 808,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     62,
+     2278,
+     100
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     100,
+     814,
+     1148
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1148,
+     814,
+     2224
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2224,
+     814,
+     3197
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     551,
+     2485,
+     811,
+     2899
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     814,
+     100,
+     1542,
+     1166
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     814,
+     1166,
+     1542,
+     2239
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     814,
+     2239,
+     1542,
+     3197
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1542,
+     100,
+     2278,
+     1193
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1542,
+     1193,
+     2278,
+     2176
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1542,
+     2176,
+     2278,
+     3197
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|worthy|6985|wp.}}",
+   "c1s1": "¶\n'''2.''' A local celebrity; a character; an eccentric: as, a village ''worthy.'' [Humorous or colloq.]—'''3.''' Anything of worth or excellence. [Rare.]\n{{smaller block|<poem>In her fair cheek,\nWhere several ''worthies'' make one dignity.</poem>\n{{right|''Shak.'', L. L. L., iv. 3. 236.}}}}\n\n'''The nine worthies.''' {{smaller|See ''nine.''}}\n\n'''worthy†''' (wėr′ᴛ̵ʜi), ''v. t.'' [< ME. ''wurthen'', ''worthien'', ''wurthien'', < AS. ''weorthian'', ''wyrthian'', ''wurthian'' (= OHG. ''werdōn'', G. ''würdigen'' = Icel. ''virtha'' = Goth. ''wairthōn''), value, < ''weorth'', worth: see ''worth''<sup>2</sup>, ''a.''] To render worthy; exalt.\n{{smaller block|<poem>Put upon him such a deal of man,\nThat ''worthied'' him.</poem>\n{{right|''Shak.'', Lear, ii. 2. 128.}}}}\n\n'''wortle''' (wėr′tl), ''n.'' '''1.''' A draw-plate, or the aperture in such a plate through which wire is drawn.\n{{smaller block|The wire [of manganese steel], owing to its hardness, breaking into short lengths when being pulled through the ''wortles.''\n{{right|''Science'', XII. 286.}}}}\n\n'''2.''' One of a series of metal collars through which a cylinder or plug of lead is sometimes drawn in the manufacture of lead pipe. {{smaller|The wortles are of graduated sizes, and the lead is passed from one through that next smaller, till the pipe has acquired the desired size.}}\n\n'''wort-refrigerator''' (wėrt′rẹ̄-frij″ẹ-rā-to̤r), ''n.'' A wort-cooler.\n\n'''wortwale†''' (wėrt′wāl), ''n.'' [Origin obscure.] A hangnail.\n{{smaller block|''Pipitula'', the skinne growing at the fingers ends about the nayle, called of some the ''wortwales'', or liuereages.\n{{right|''Florio'', 1598.}}}}",
+   "c1s2": "¶\n'''woryst†''', ''n.'' An old variant of ''worsted.''\n\n'''wosbird''', ''n.'' '''1.''' Same as ''whore’s-bird.'' [Slang.]\n{{smaller block|“Imp’dent old ''wosbird!''” says he, “I’ll break the bald head on un.” ''T. Hughes'', Tom Brown at Rugby, i. 2.}}\n'''2.''' A wasp. ''Wright.'' [Prov. Eng.]\n\n'''wose†''', ''n.'' A form of ''woose'' for ''ooze.''\n\n'''wost†.''' Second person singular indicative present of ''wit''<sup>1</sup>.\n\n'''wot''' (wot). First and third persons singular indicative present of ''wit''<sup>1</sup>.\n\n'''wough†''', ''n.'' An obsolete variant of ''waw''<sup>1</sup>.\n{{smaller block|<poem>Fatte reed of myre yground and tempered tough,\nLet daube it on the ''wough'' on iche asyde.</poem>\n{{right|''Palladius'', Husbondrie (E. E. T. S.), p. 15.}}}}\n\n'''wouke†''', ''n.'' A Middle English form of ''week''<sup>1</sup>. ''Wyclif.''\n\n'''woul''', ''v. i.'' Same as ''waul''<sup>1</sup>.\n\n'''would''' (wu̇d). Preterit and past subjunctive of ''will''<sup>1</sup>.\n\n'''would-be''' (wu̇d′bē), ''a.'' and ''n.'' [< ''would'' + ''be''<sup>1</sup>, expressing wish or desire in such expressions as “he ''would be'' thought rich,” “he ''would be'' considered smart.”] '''I.''' ''a.'' Wishing to be; vainly pretending to be; desirous of being or of being considered: as, a ''would-be'' philosopher. [Colloq.]\n{{smaller block|The ''would-be'' wits and can’t-be gentlemen.\n{{right|''Byron'', Beppo, st. 76.}}}}\n'''II.''' ''n.'' A vain pretender; one who affects to be something which he really is not.\n{{smaller block|<poem>A man that would have foil’d at their own play\nA dozen ''would-be’s'' of the modern day.</poem>\n{{right|''Cowper'', Conversation, l. 612.}}}}",
+   "c1s3": "¶\n'''woulder†''' (wu̇d′ėr), ''n.'' [Irreg. < ''would'' + ''-er''<sup>1</sup>.] A wisher; one given to use the word ''would'' optatively. ''Latham.'' [Rare.]\n{{smaller block|The olde proverbe is exceeding true,<br>“That these great wishers, & these common ''woulders'',<br>Are never (for the moste part) good householders.”\n{{right|''Times’ Whistle'' (E. E. T. S.), p. 103.}}}}\n\n'''woulding†''' (wu̇d′ing), ''n.'' [Irreg. < ''would'' + ''-ing''<sup>1</sup>.]\n[[FIGURE]]\n{{c|{{smaller|A Woulfe’s Bottle.}}}}\nEmotion of desire; impulse; inclination.\n{{smaller block|It will be every man’s interest . . . to subdue the exorbitancies of the flesh, as well as to continue the ''wouldings'' of the spirit.\n{{right|''Hammond.'' (''Richardson.'')}}}}\n\n'''wouldingness†''' (wu̇d′ing-nes), ''n.'' Velleity; willingness. ''Hammond'', Works, I. 23.\n\n'''Woulfe’s apparatus.''' An apparatus consisting of a series of three-necked bottles (called ''Woulfe’s bottles'') connected by suitable tubes, used for washing gases or saturating liquids therewith. ''Watts’ Dict. of Chem.''\n\n'''wound'''<sup>1</sup> (wönd or wound), ''n.'' [< ME. ''wound'', ''wounde'', ''wund'', ''wunde'', ''wonde'', < AS. ''wund'' = OS. ''wunda'', ''wunde'' = OFries. ''wunde'', ''unde'' = D. ''wond'', ''wonde'' = OHG. ''wunta'', MHG. G. ''wunde'', a wound, = Icel. ''und'' (for *''vund'') = Dan. ''vunde'', a wound; from an adj., ME. ''wund'', < AS. ''wund'' = D. ''ge-wond''",
+   "c2s1": "= OHG. ''wunt'', G. ''wund'' = Goth. ''wunds'', wounded; possibly orig. pp. (in ''-d''<sup>2</sup>) of the verb which appears in AS. ''winnan'' (pp. ''wunnen''), strive, fight, suffer: see ''win''<sup>1</sup>, ''v''. The historical pron. is wound, parallel to that of ''ground'', ''found'', ''sound'', ''bound'', etc.] '''1.''' In ''surg.'', a solution of continuity of any of the tissues of the body, involving also the skin or mucous membrane of the part, caused by some external agent, and not the result of disease.\n{{smaller block|<poem>I, lately caught, will have a new made ''wound'',\nAnd captive-like be manacled and bound.</poem>\n{{right|''Marlowe'', tr. of Ovid’s Elegies, ii.}}}}\n'''2.''' In ''medical jurisprudence'', any lesion of the body resulting from external violence, whether accompanied or not by rupture of the skin or mucous membrane—thus differing from the meaning of the word when used in surgery. {{smaller|Great difference of opinion, however, appears in the way in which the word is interpreted when occurring in criminal statutes. Some authorities have held that it necessarily implies the use of a hard or solid instrument other than the hand or fist; others, that it necessarily implies the breaking of the skin beyond the cuticle or outer membrane.}}\n'''3.''' A breach or hurt of the bark and wood of a tree, or of the bark and substance of other plants.—'''4.''' Figuratively, injury; hurt; harm: as, a ''wound'' given to credit or reputation, feelings, etc.: often specifically applied in literature to the pangs of love.\n{{smaller block|<poem>Alas, poor shepherd! searching of thy ''wound'',\nI have by hard adventure found mine own.</poem>\n{{right|''Shak.'', As you Like it, ii. 4. 44.}}}}\n{{smaller block|The ''wounds'' of conscience, like other ''wounds'', though}}",
+   "c2s2": "{{smaller block|generally received in public, must always be healed in private.\n{{right|''Bp. Atterbury'', Sermons, I. x.}}}}\n\n{{smaller block|They will endeavour to give my reputation as many ''wounds'' as the man in the almanack. {{right|''Swift'', Tritical Essay.}}}}\n\n'''5†.''' Plague.\n{{smaller block|<poem>I trowe it was in the dismal\nThat was the ten ''woundes'' of Egipte.</poem>\n{{right|''Chaucer'', Death of Blanche, l. 1207.}}}}\n\n'''6.''' In ''her.'', a roundel purpure.—{{smaller|'''Contused wound,''' a bruising of the soft parts, with perhaps little laceration of the skin, produced by a blow from a blunt body; the bruise of ordinary language.—'''Dissection-wound,''' a poisoned wound received while dissecting or performing an autopsy, by which septic material is introduced. Also called ''dissecting wound'' and ''post-mortem wound.''—'''God’s wounds.''' See ''’swounds'' and ''zounds.''—'''Gunshot-wound,''' a lacerated wound caused by a bullet or other missile discharged from a firearm: technically called ''vulnus sclopeticum.''—'''Incised wound,''' a clean-cut wound made by a knife or other sharp instrument; the cut of ordinary language.—'''Lacerated wound,''' a wound caused by tearing rather than cutting; any laceration of soft parts.—'''Open wound,''' an operation-wound in which the integument is widely incised, as distinguished from a subcutaneous wound in which the skin-opening is small.—'''Operation-wound,''' a wound made by the surgeon in the course of an operation, as distinguished from one occurring accidentally.—'''Poisoned wound,''' a wound into which some poisonous matter is introduced in the act of wounding, as a dissection-wound, the bite of a venomous reptile, or the sting of a poisonous insect.—'''Punctured wound,''' a narrow deep wound made by a sharp-pointed body, such as a needle or a rapier.}}\n\n'''wound'''<sup>1</sup> (wönd or wound), ''v.'' [< ME. ''wounden'', ''woundien'', ''wunden'', ''wundien'', ''wondien'', < AS. ''wundian'' = OHG. ''wuntōn'', MHG. ''wunden'', G. ''verwunden'', wound; from the noun.] '''I.''' ''trans.'' '''1.''' To hurt by violence; cut, slash, or lacerate; injure; damage: as, to ''wound'' the head or the",
+   "c2s3": "arm; to ''wound'' a tree.\n{{smaller block|Ther eche ''wounde'' and kylde other.\n{{right|''Merlin'' (E. E. T. S.), ii. 159.}}}}\n{{smaller block|He was ''wounded'' for our transgressions. Isa. liii. 5.}}\n{{smaller block|<poem>’Tis not thy cause;\nThou hast no reputation ''wounded'' in ’t.</poem>\n{{right|''Beau. and Fl.'', Knight of Malta, ii. 3.}}}}\n'''2.''' Figuratively, to cause injury or harm to; specifically, of persons, to hurt the feelings of; pain.\n{{smaller block|<poem>My wretched heart, ''wounded'' with bad betide,\nTo craue his peace from reason is addrest.</poem>\n{{right|''Greene'', Francesco’s Sonnet (Works, ed. Grosart, VIII. 169).}}}}\n{{smaller block|When ye sin against the brethren, and ''wound'' their weak consciences, ye sin against Christ. 1 Cor. viii. 12.}}\n{{smaller block|The pangs of ''wounded'' vanity seemed to him [Johnson] ridiculous. ''Macaulay'', Boswell’s Johnson.}}\n'''II.''' ''intrans.'' To inflict hurt or injury, either physically or morally.\n{{smaller block|<poem>This courtesy\n''Wounds'' deeper than your sword can, or mine own.</poem>\n{{right|''Fletcher'' (''and another''), Love’s Cure, v. 1.}}}}\n{{smaller block|<poem>Willing to ''wound'', and yet afraid to strike.</poem>\n{{right|''Pope'', Prol. to Satires, l. 203.}}}}\n\n'''wound'''<sup>2</sup> (wound). Preterit and past participle of ''wind''<sup>1</sup>.\n\n'''woundable''' (wön′- or woun′da̤-bl), ''a.'' [< ''wound''<sup>1</sup> + ''-able.''] Capable of being wounded; liable to injury; vulnerable.\n{{smaller block|So ''woundable'' is the dragon under the left wing.\n{{right|''Fuller'', Ch. Hist., IV. i. 5.}}}}",
+   "c3s1": "¶\n'''wounder''' (wön′dėr or woun′dėr), ''n.'' [< ME. ''wounder''; < ''wound''<sup>1</sup> + ''-er''<sup>1</sup>.] One who or that which wounds.\n\n'''wound-fever''' (wönd′fē″vėr), ''n.'' A fever, probably mildly septic in its nature, which sometimes occurs after receiving a wound, whether accidental or made during an operation: in the latter case also called ''surgical fever.''\n\n'''wound-gall''' (wönd′gâl), ''n.'' A gall made on the stem of the grape-vine by an American weevil, ''Ampeloglypter sesostris.'' See ''vine-gall.''\n\n'''woundily''' (woun′di-li), ''adv.'' [< ''woundy''<sup>2</sup> + ''-ly''<sup>2</sup>.] Woundy; excessively. [Colloq. or humorous.]\n{{smaller block|They look ''woundily'' like Frenchmen.\n{{right|''Goldsmith,'' She Stoops to Conquer, i. 2.}}\n<poem>Richard Penlake repeated the vow,\nFor ''woundily'' sick was he.</poem>\n{{right|''Southey,'' St. Michael’s Chair.}}}}\n\n'''wounding''' (wön′- or woun′ding), ''n.'' [Verbal n. of ''wound''<sup>1</sup>, ''v.''] Hurt; injury. Gen. iv. 23.\n\n'''woundless''' (wönd′- or wound′les), ''a.'' [< ''wound''<sup>1</sup> + ''-less.''] '''1.''' Free from hurt or injury.—'''2.''' Invulnerable; incapable of being wounded.\n{{smaller block|Hit the ''woundless'' air.\n{{right|''Shak.,'' Hamlet, iv. 1. 44.}}}}\n'''3.''' Unwounding; harmless.\n{{smaller block|<poem>Turne thee to those that weld the awful crowne,\nTo doubted Knights, whose ''woundlesse'' armour rusts.</poem>\n{{right|''Spenser,'' Shep. Cal., October.}}\nNot a dart fell ''woundless'' there.\n{{right|''Southey,'' Joan of Arc, viii.}}}}\n\n'''woundwort''' (wönd′wėrt), ''n.'' [< ''wound''<sup>1</sup> + ''wort''<sup>1</sup>.] '''1.''' A plant of the genus ''Stachys,'' particularly either of two species occurring in Great Britain, ''S. palustris,'' the marsh or clown’s woundwort, and ''S. Germanica.'' The name al-",
+   "c3s2": "ludes to a supposed vulnerary property.—'''2.''' The kidney-vetch, ''Anthyllis vulneraria'', and occasionally other plants.—{{smaller|'''Clown’s woundwort.''' Same as ''clownheal''.—'''Knight’s woundwort''', the water-soldier, ''Stratiotes aloïdes''. See ''Stratiotes''.—'''Saracen’s woundwort.''' See ''Saracen’s comfrey'', under ''Saracen''.}}\n\n'''woundworth''' (wönd′wėrth), ''n.'' A composite plant, ''Liabum Brownei''. [West Indies.]\n\n'''woundy<sup>1</sup>''' (wön′di or woun′di), ''a.'' [< ''wound''<sup>1</sup> + ''-y''<sup>1</sup>.] Causing or inflicting wounds. [Rare.]\n{{smaller block|<poem>A boy that shoots\nFrom ladies’ eyes such mortal ''woundy'' darts.</poem>\n{{right|''Hood'', Love.}}}}\n\n'''woundy<sup>2</sup>''' (woun′di), ''a.'' [Of doubtful origin; perhaps a colloq. use of ''woundy''<sup>1</sup>; cf. ''whopping'', ''terrible'', and other words of intensity, used as emphatics.] Excessive. [Colloq.]\n{{smaller block|<poem>Indeed there is a ''woundy'' luck in names, sirs,\nAnd a main mystery. ''B. Jonson'', Tale of a Tub, iv. 2.</poem>\nA ''woundy'' hinderance to a poor man that lives by his labour.\n{{right|''Sir R. L’Estrange.''}}}}\n\n'''woundy<sup>2</sup>''' (woun′di), ''adv.'' [< ''woundy''<sup>2</sup>, ''a.''] Exceedingly; very. [Colloq.]\n{{smaller block|A ''woundy'' brag young yellow.\n{{right|''B. Jonson'', Tale of a Tub, i. 2.}}\nGad, says I, an you play the fool and marry at these years, there ’s more danger of your head’s aching than my heart.—He was ''woundy'' angry when I gav ’n that wipe.\n{{right|''Congreve'', Love for Love, iv. 13.}}\nTravelled ladies are ''woundy'' nice.\n{{right|''J. Baillie.''}}}}\n\n'''wourali, wourari''' (wö′ra-li, -ri), ''n.'' Same as ''woorali'', ''woorari''. See ''curari''.",
+   "c3s3": "¶\n'''wourali-plant''' (wö′ra-li-plant), ''n.'' The plant which yields wourali. See ''curari.''\n\n'''wournil†''', ''n.'' Same as ''warble''<sup>3</sup>.\n\n'''wout†''', ''n.'' Same as ''voute,'' an old spelling of ''vault''<sup>1</sup>.\n\n'''wou-wou''', ''n.'' Same as ''wow-wow.''\n\n'''wove''' (wōv). Preterit and occasional past participle of ''weave''<sup>1</sup>.\n\n'''woven''' (wō′vn). Past participle of ''weave''<sup>1</sup>.\n\n'''wow''' (wou), ''interj.'' An exclamation of pleasure, surprise, or wonder.\n{{smaller block|<poem>O whan he slew his berry-brown steed,\n''Wow'' but his heart was sair!</poem>\n{{right|''King Henry'' (Child’s Ballads, I. 148).}}\n<poem>And, ''wow!'' Tam saw an unco sight!</poem>\n{{right|''Burns,'' Tam o’ Shanter.}}}}\n\n'''wowe<sup>1</sup>†, wower†.''' Obsolete forms of ''woo, wooer.''\n\n'''wowe<sup>2</sup>†''', ''n.'' A Middle English form of ''waw''<sup>2</sup>.\n\n'''wo-werie†''', ''a.'' See ''woe-weary.''\n\n'''wowf''' (wouf), ''a.'' [Cf. ''waff''<sup>3</sup>.] Wild; deranged; disordered in intellect. [Scotch.]\n{{smaller block|He will be as ''wowf'' as ever his father was.\n{{right|''Scott,'' Pirate, ix.}}}}\n\n'''wow-wow''' (wou′wou), ''n.'' [Native name.] '''1.''' The active gibbon of Sumatra, ''Hylobates agilis.'' Also ''wou-wou, ungaputi,'' and ''oungha.''—'''2.''' The silvery gibbon of Java, ''Hylobates leuciscus.'' Also ''wou-wou, wau-wau, wa-wah.''\n\n'''wox†, woxe†''', ''v. i.'' Obsolete forms of ''wax''<sup>1</sup>.\n\n'''woxen†.''' Old preterit and past participle of ''wax''<sup>1</sup>.\n\n'''wp.''' A contraction of ''worship.''"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0789 c1f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     563,
+     2497,
+     799,
+     2887
+    ],
+    "caption": [
+     583,
+     2897,
+     777,
+     2919
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     548,
+     2486,
+     866,
+     2884
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 8,
+    "output_tokens": 91,
+    "cache_creation_input_tokens": 4240,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 10,
+    "input_tokens": 9768,
+    "output_tokens": 10546,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c1f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|worthy|6985|wp.}}</noinclude>{{nop}}'''2.''' A local celebrity; a character; an eccentric: as, a village ''worthy.'' [Humorous or colloq.]—'''3.''' Anything of worth or excellence. [Rare.]\n{{smaller block|<poem>In her fair cheek,\nWhere several ''worthies'' make one dignity.</poem>\n{{right|''Shak.'', L. L. L., iv. 3. 236.}}}}\n\n'''The nine worthies.''' {{smaller|See ''nine.''}}\n\n'''worthy†''' (wėr′ᴛ̵ʜi), ''v. t.''   [< ME. ''wurthen'', ''worthien'', ''wurthien'', < AS. ''weorthian'', ''wyrthian'', ''wurthian'' (= OHG. ''werdōn'', G. ''würdigen'' = Icel. ''virtha'' = Goth. ''wairthōn''), value, < ''weorth'', worth: see ''worth''<sup>2</sup>, ''a.'']   To render worthy; exalt.\n{{smaller block|<poem>Put upon him such a deal of man,\nThat ''worthied'' him.</poem>\n{{right|''Shak.'', Lear, ii. 2. 128.}}}}\n\n'''wortle''' (wėr′tl), ''n.'' '''1.''' A draw-plate, or the aperture in such a plate through which wire is drawn.\n{{smaller block|The wire [of manganese steel], owing to its hardness, breaking into short lengths when being pulled through the ''wortles.''\n{{right|''Science'', XII. 286.}}}}\n\n'''2.''' One of a series of metal collars through which a cylinder or plug of lead is sometimes drawn in the manufacture of lead pipe. {{smaller|The wortles are of graduated sizes, and the lead is passed from one through that next smaller, till the pipe has acquired the desired size.}}\n\n'''wort-refrigerator''' (wėrt′rẹ̄-frij″ẹ-rā-to̤r), ''n.'' A wort-cooler.\n\n'''wortwale†''' (wėrt′wāl), ''n.''   [Origin obscure.]   A hangnail.\n{{smaller block|''Pipitula'', the skinne growing at the fingers ends about the nayle, called of some the ''wortwales'', or liuereages.\n{{right|''Florio'', 1598.}}}}\n\n'''woryst†''', ''n.'' An old variant of ''worsted.''\n\n'''wosbird''', ''n.'' '''1.''' Same as ''whore’s-bird.''   [Slang.]\n{{smaller block|“Imp’dent old ''wosbird!''” says he, “I’ll break the bald head on un.”\n{{right|''T. Hughes'', Tom Brown at Rugby, i. 2.}}}}\n'''2.''' A wasp.   ''Wright.'' [Prov. Eng.]\n\n'''wose†''', ''n.'' A form of ''woose'' for ''ooze.''\n\n'''wost†.''' Second person singular indicative present of ''wit''<sup>1</sup>.\n\n'''wot''' (wot). First and third persons singular indicative present of ''wit''<sup>1</sup>.\n\n'''wough†''', ''n.'' An obsolete variant of ''waw''<sup>1</sup>.\n{{smaller block|<poem>Fatte reed of myre yground and tempered tough,\nLet daube it on the ''wough'' on iche asyde.</poem>\n{{right|''Palladius'', Husbondrie (E. E. T. S.), p. 15.}}}}\n\n'''wouke†''', ''n.'' A Middle English form of ''week''<sup>1</sup>.   ''Wyclif.''\n\n'''woul''', ''v. i.'' Same as ''waul''<sup>1</sup>.\n\n'''would''' (wu̇d). Preterit and past subjunctive of ''will''<sup>1</sup>.\n\n'''would-be''' (wu̇d′bē), ''a.'' and ''n.''   [< ''would'' + ''be''<sup>1</sup>, expressing wish or desire in such expressions as “he ''would be'' thought rich,” “he ''would be'' considered smart.”]   '''I.''' ''a.'' Wishing to be; vainly pretending to be; desirous of being or of being considered: as, a ''would-be'' philosopher. [Colloq.]\n{{smaller block|The ''would-be'' wits and can’t-be gentlemen.\n{{right|''Byron'', Beppo, st. 76.}}}}\n'''II.''' ''n.'' A vain pretender; one who affects to be something which he really is not.\n{{smaller block|<poem>A man that would have foil’d at their own play\nA dozen ''would-be’s'' of the modern day.</poem>\n{{right|''Cowper'', Conversation, l. 612.}}}}\n\n'''woulder†''' (wu̇d′ėr), ''n.''   [Irreg. < ''would'' + ''-er''<sup>1</sup>.]   A wisher; one given to use the word ''would'' optatively.   ''Latham.'' [Rare.]\n{{smaller block|The olde proverbe is exceeding true,<br>“That these great wishers, & these common ''woulders'',<br>Are never (for the moste part) good householders.”\n{{right|''Times’ Whistle'' (E. E. T. S.), p. 103.}}}}\n\n'''woulding†''' (wu̇d′ing), ''n.''   [Irreg. < ''would'' + ''-ing''<sup>1</sup>.]   {{img float|file=century v08 p0789 c1f1.png|width=116px|align=right|cap={{smaller|A Woulfe’s Bottle.}}}} Emotion of desire; impulse; inclination.\n{{smaller block|It will be every man’s interest . . . to subdue the exorbitancies of the flesh, as well as to continue the ''wouldings'' of the spirit.\n{{right|''Hammond.'' (''Richardson.'')}}}}\n\n'''wouldingness†''' (wu̇d′ing-nes), ''n.'' Velleity; willingness.   ''Hammond'', Works, I. 23.\n\n'''Woulfe’s apparatus.''' An apparatus consisting of a series of three-necked bottles (called ''Woulfe’s bottles'') connected by suitable tubes, used for washing gases or saturating liquids therewith.   ''Watts’ Dict. of Chem.''\n\n'''wound'''<sup>1</sup> (wönd or wound), ''n.''   [< ME. ''wound'', ''wounde'', ''wund'', ''wunde'', ''wonde'', < AS. ''wund'' = OS. ''wunda'', ''wunde'' = OFries. ''wunde'', ''unde'' = D. ''wond'', ''wonde'' = OHG. ''wunta'', MHG. G. ''wunde'', a wound, = Icel. ''und'' (for *''vund'') = Dan. ''vunde'', a wound; from an adj., ME. ''wund'', < AS. ''wund'' = D. ''ge-wond'' = OHG. ''wunt'', G. ''wund'' = Goth. ''wunds'', wounded; possibly orig. pp. (in ''-d''<sup>2</sup>) of the verb which appears in AS. ''winnan'' (pp. ''wunnen''), strive, fight, suffer: see ''win''<sup>1</sup>, ''v''. The historical pron. is wound, parallel to that of ''ground'', ''found'', ''sound'', ''bound'', etc.]   '''1.''' In ''surg.'', a solution of continuity of any of the tissues of the body, involving also the skin or mucous membrane of the part, caused by some external agent, and not the result of disease.\n{{smaller block|<poem>I, lately caught, will have a new made ''wound'',\nAnd captive-like be manacled and bound.</poem>\n{{right|''Marlowe'', tr. of Ovid’s Elegies, ii.}}}}\n'''2.''' In ''medical jurisprudence'', any lesion of the body resulting from external violence, whether accompanied or not by rupture of the skin or mucous membrane—thus differing from the meaning of the word when used in surgery. {{smaller|Great difference of opinion, however, appears in the way in which the word is interpreted when occurring in criminal statutes. Some authorities have held that it necessarily implies the use of a hard or solid instrument other than the hand or fist; others, that it necessarily implies the breaking of the skin beyond the cuticle or outer membrane.}}\n'''3.''' A breach or hurt of the bark and wood of a tree, or of the bark and substance of other plants.—'''4.''' Figuratively, injury; hurt; harm: as, a ''wound'' given to credit or reputation, feelings, etc.: often specifically applied in literature to the pangs of love.\n{{smaller block|<poem>Alas, poor shepherd! searching of thy ''wound'',\nI have by hard adventure found mine own.</poem>\n{{right|''Shak.'', As you Like it, ii. 4. 44.}}}}\n{{smaller block|The ''wounds'' of conscience, like other ''wounds'', though generally received in public, must always be healed in private.\n{{right|''Bp. Atterbury'', Sermons, I. x.}}}}\n\n{{smaller block|They will endeavour to give my reputation as many ''wounds'' as the man in the almanack. {{right|''Swift'', Tritical Essay.}}}}\n\n'''5†.''' Plague.\n{{smaller block|<poem>I trowe it was in the dismal\nThat was the ten ''woundes'' of Egipte.</poem>\n{{right|''Chaucer'', Death of Blanche, l. 1207.}}}}\n\n'''6.''' In ''her.'', a roundel purpure.—{{smaller|'''Contused wound,''' a bruising of the soft parts, with perhaps little laceration of the skin, produced by a blow from a blunt body; the bruise of ordinary language.—'''Dissection-wound,''' a poisoned wound received while dissecting or performing an autopsy, by which septic material is introduced. Also called ''dissecting wound'' and ''post-mortem wound.''—'''God’s wounds.''' See ''’swounds'' and ''zounds.''—'''Gunshot-wound,''' a lacerated wound caused by a bullet or other missile discharged from a firearm: technically called ''vulnus sclopeticum.''—'''Incised wound,''' a clean-cut wound made by a knife or other sharp instrument; the cut of ordinary language.—'''Lacerated wound,''' a wound caused by tearing rather than cutting; any laceration of soft parts.—'''Open wound,''' an operation-wound in which the integument is widely incised, as distinguished from a subcutaneous wound in which the skin-opening is small.—'''Operation-wound,''' a wound made by the surgeon in the course of an operation, as distinguished from one occurring accidentally.—'''Poisoned wound,''' a wound into which some poisonous matter is introduced in the act of wounding, as a dissection-wound, the bite of a venomous reptile, or the sting of a poisonous insect.—'''Punctured wound,''' a narrow deep wound made by a sharp-pointed body, such as a needle or a rapier.}}\n\n'''wound'''<sup>1</sup> (wönd or wound), ''v.''   [< ME. ''wounden'', ''woundien'', ''wunden'', ''wundien'', ''wondien'', < AS. ''wundian'' = OHG. ''wuntōn'', MHG. ''wunden'', G. ''verwunden'', wound; from the noun.]   '''I.''' ''trans.'' '''1.''' To hurt by violence; cut, slash, or lacerate; injure; damage: as, to ''wound'' the head or the arm; to ''wound'' a tree.\n{{smaller block|Ther eche ''wounde'' and kylde other.\n{{right|''Merlin'' (E. E. T. S.), ii. 159.}}}}\n{{smaller block|He was ''wounded'' for our transgressions. Isa. liii. 5.}}\n{{smaller block|<poem>’Tis not thy cause;\nThou hast no reputation ''wounded'' in ’t.</poem>\n{{right|''Beau. and Fl.'', Knight of Malta, ii. 3.}}}}\n'''2.''' Figuratively, to cause injury or harm to; specifically, of persons, to hurt the feelings of; pain.\n{{smaller block|<poem>My wretched heart, ''wounded'' with bad betide,\nTo craue his peace from reason is addrest.</poem>\n{{right|''Greene'', Francesco’s Sonnet (Works, ed. Grosart, VIII. 169).}}}}\n{{smaller block|When ye sin against the brethren, and ''wound'' their weak consciences, ye sin against Christ. 1 Cor. viii. 12.}}\n{{smaller block|The pangs of ''wounded'' vanity seemed to him [Johnson] ridiculous.\n{{right|''Macaulay'', Boswell’s Johnson.}}}}\n'''II.''' ''intrans.'' To inflict hurt or injury, either physically or morally.\n{{smaller block|<poem>This courtesy\n''Wounds'' deeper than your sword can, or mine own.</poem>\n{{right|''Fletcher'' (''and another''), Love’s Cure, v. 1.}}}}\n{{smaller block|<poem>Willing to ''wound'', and yet afraid to strike.</poem>\n{{right|''Pope'', Prol. to Satires, l. 203.}}}}\n\n'''wound'''<sup>2</sup> (wound). Preterit and past participle of ''wind''<sup>1</sup>.\n\n'''woundable''' (wön′- or woun′da̤-bl), ''a.''   [< ''wound''<sup>1</sup> + ''-able.'']   Capable of being wounded; liable to injury; vulnerable.\n{{smaller block|So ''woundable'' is the dragon under the left wing.\n{{right|''Fuller'', Ch. Hist., IV. i. 5.}}}}\n\n'''wounder''' (wön′dėr or woun′dėr), ''n.''   [< ME. ''wounder''; < ''wound''<sup>1</sup> + ''-er''<sup>1</sup>.]   One who or that which wounds.\n\n'''wound-fever''' (wönd′fē″vėr), ''n.'' A fever, probably mildly septic in its nature, which sometimes occurs after receiving a wound, whether accidental or made during an operation: in the latter case also called ''surgical fever.''\n\n'''wound-gall''' (wönd′gâl), ''n.'' A gall made on the stem of the grape-vine by an American weevil, ''Ampeloglypter sesostris.'' See ''vine-gall.''\n\n'''woundily''' (woun′di-li), ''adv.''   [< ''woundy''<sup>2</sup> + ''-ly''<sup>2</sup>.]   Woundy; excessively. [Colloq. or humorous.]\n{{smaller block|They look ''woundily'' like Frenchmen.\n{{right|''Goldsmith,'' She Stoops to Conquer, i. 2.}}}}\n{{smaller block|<poem>Richard Penlake repeated the vow,\nFor ''woundily'' sick was he.</poem>\n{{right|''Southey,'' St. Michael’s Chair.}}}}\n\n'''wounding''' (wön′- or woun′ding), ''n.''   [Verbal n. of ''wound''<sup>1</sup>, ''v.'']   Hurt; injury. Gen. iv. 23.\n\n'''woundless''' (wönd′- or wound′les), ''a.''   [< ''wound''<sup>1</sup> + ''-less.'']   '''1.''' Free from hurt or injury.—'''2.''' Invulnerable; incapable of being wounded.\n{{smaller block|Hit the ''woundless'' air.\n{{right|''Shak.,'' Hamlet, iv. 1. 44.}}}}\n'''3.''' Unwounding; harmless.\n{{smaller block|<poem>Turne thee to those that weld the awful crowne,\nTo doubted Knights, whose ''woundlesse'' armour rusts.</poem>\n{{right|''Spenser,'' Shep. Cal., October.}}}}\n{{smaller block|Not a dart fell ''woundless'' there.\n{{right|''Southey,'' Joan of Arc, viii.}}}}\n\n'''woundwort''' (wönd′wėrt), ''n.''   [< ''wound''<sup>1</sup> + ''wort''<sup>1</sup>.]   '''1.''' A plant of the genus ''Stachys,'' particularly either of two species occurring in Great Britain, ''S. palustris,'' the marsh or clown’s woundwort, and ''S. Germanica.'' The name alludes to a supposed vulnerary property.—'''2.''' The kidney-vetch, ''Anthyllis vulneraria'', and occasionally other plants.—{{smaller|'''Clown’s woundwort.''' Same as ''clownheal''.—'''Knight’s woundwort''', the water-soldier, ''Stratiotes aloïdes''. See ''Stratiotes''.—'''Saracen’s woundwort.''' See ''Saracen’s comfrey'', under ''Saracen''.}}\n\n'''woundworth''' (wönd′wėrth), ''n.'' A composite plant, ''Liabum Brownei''. [West Indies.]\n\n'''woundy<sup>1</sup>''' (wön′di or woun′di), ''a.''   [< ''wound''<sup>1</sup> + ''-y''<sup>1</sup>.]   Causing or inflicting wounds. [Rare.]\n{{smaller block|<poem>A boy that shoots\nFrom ladies’ eyes such mortal ''woundy'' darts.</poem>\n{{right|''Hood'', Love.}}}}\n\n'''woundy<sup>2</sup>''' (woun′di), ''a.''   [Of doubtful origin; perhaps a colloq. use of ''woundy''<sup>1</sup>; cf. ''whopping'', ''terrible'', and other words of intensity, used as emphatics.]   Excessive. [Colloq.]\n{{smaller block|<poem>Indeed there is a ''woundy'' luck in names, sirs,\nAnd a main mystery. ''B. Jonson'', Tale of a Tub, iv. 2.</poem>\nA ''woundy'' hinderance to a poor man that lives by his labour.\n{{right|''Sir R. L’Estrange.''}}}}\n\n'''woundy<sup>2</sup>''' (woun′di), ''adv.''   [< ''woundy''<sup>2</sup>, ''a.'']   Exceedingly; very. [Colloq.]\n{{smaller block|A ''woundy'' brag young yellow.\n{{right|''B. Jonson'', Tale of a Tub, i. 2.}}}}\n{{smaller block|Gad, says I, an you play the fool and marry at these years, there ’s more danger of your head’s aching than my heart.—He was ''woundy'' angry when I gav ’n that wipe.\n{{right|''Congreve'', Love for Love, iv. 13.}}}}\n{{smaller block|Travelled ladies are ''woundy'' nice.\n{{right|''J. Baillie.''}}}}\n\n'''wourali, wourari''' (wö′ra-li, -ri), ''n.'' Same as ''woorali'', ''woorari''. See ''curari''.\n\n'''wourali-plant''' (wö′ra-li-plant), ''n.'' The plant which yields wourali. See ''curari.''\n\n'''wournil†''', ''n.'' Same as ''warble''<sup>3</sup>.\n\n'''wout†''', ''n.'' Same as ''voute,'' an old spelling of ''vault''<sup>1</sup>.\n\n'''wou-wou''', ''n.'' Same as ''wow-wow.''\n\n'''wove''' (wōv). Preterit and occasional past participle of ''weave''<sup>1</sup>.\n\n'''woven''' (wō′vn). Past participle of ''weave''<sup>1</sup>.\n\n'''wow''' (wou), ''interj.'' An exclamation of pleasure, surprise, or wonder.\n{{smaller block|<poem>O whan he slew his berry-brown steed,\n''Wow'' but his heart was sair!</poem>\n{{right|''King Henry'' (Child’s Ballads, I. 148).}}}}\n{{smaller block|<poem>And, ''wow!'' Tam saw an unco sight!</poem>\n{{right|''Burns,'' Tam o’ Shanter.}}}}\n\n'''wowe<sup>1</sup>†, wower†.''' Obsolete forms of ''woo, wooer.''\n\n'''wowe<sup>2</sup>†''', ''n.'' A Middle English form of ''waw''<sup>2</sup>.\n\n'''wo-werie†''', ''a.'' See ''woe-weary.''\n\n'''wowf''' (wouf), ''a.''   [Cf. ''waff''<sup>3</sup>.]   Wild; deranged; disordered in intellect. [Scotch.]\n{{smaller block|He will be as ''wowf'' as ever his father was.\n{{right|''Scott,'' Pirate, ix.}}}}\n\n'''wow-wow''' (wou′wou), ''n.''   [Native name.]   '''1.''' The active gibbon of Sumatra, ''Hylobates agilis.'' Also ''wou-wou, ungaputi,'' and ''oungha.''—'''2.''' The silvery gibbon of Java, ''Hylobates leuciscus.'' Also ''wou-wou, wau-wau, wa-wah.''\n\n'''wox†, woxe†''', ''v. i.'' Obsolete forms of ''wax''<sup>1</sup>.\n\n'''woxen†.''' Old preterit and past participle of ''wax''<sup>1</sup>.\n\n'''wp.''' A contraction of ''worship.''<noinclude><references/></noinclude>"
+}

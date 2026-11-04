@@ -1,0 +1,221 @@
+{
+ "volume": 8,
+ "page_number": 724,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n723.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n723.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-04",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 815,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     175,
+     64,
+     2442,
+     134
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     175,
+     134,
+     891,
+     1233
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     175,
+     1233,
+     891,
+     2305
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     175,
+     2305,
+     891,
+     3218
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     891,
+     134,
+     1634,
+     1209
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     891,
+     1209,
+     1634,
+     2287
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     891,
+     2287,
+     1634,
+     3218
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1634,
+     134,
+     2442,
+     1229
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1634,
+     1229,
+     2442,
+     1694
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1634,
+     1694,
+     2442,
+     2745
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1700,
+     1927,
+     2302,
+     2365
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1634,
+     2745,
+     2442,
+     3218
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|wide|6920|widgeon}}",
+   "c1s1": "¶\n'''wide''' (wīd), ''a.'' and ''n.'' [< ME. ''wid'', ''wyd'', < AS. ''wīd'' = OS. ''wīd'' = OFries. ''wīd'' = D. ''wijd'' = LG. ''wied'' = OHG. MHG. ''wīt'', G. ''weit'' = Icel. ''vīthr'' = Sw. Dan. ''vid'', wide; root unknown.] '''I.''' ''a.'' '''1.''' Having relatively great or considerable extension from side to side; broad: as, ''wide'' cloth; a ''wide'' hall: opposed to ''narrow.''\n{{smaller block|''Wide'' is the gate . . . that leadeth to destruction.\n{{right|Mat. vii. 13.}}}}\n{{smaller block|Shallow brooks, and rivers ''wide''. ''Milton'', L’Allegro, l. 76.}}\n{{smaller block|And wounds appear’d so ''wide'' as if the grave did gape To swallow both at once. ''Drayton'', Polyolbion, i. 456.}}\n'''2.''' Having (a certain or specified) extension as measured from side to side; having (a specified) width or breadth: as, cloth a yard ''wide''.\n{{smaller block|’Tis not so deep as a well, nor so ''wide'' as a church-door; but ’tis enough. {{right|''Shak.'', R. and J., iii. 1. 100.}}}}\n{{smaller block|The city of Canea, capital of the western province of Candia, is situated at the east corner of a bay about fifteen miles ''wide''. {{right|''Pococke'', Description of the East, II. i. 242.}}}}\n'''3.''' Of great horizontal extent; spacious; extensive; vast; great: as, the ''wide'' ocean.\n{{smaller block|<poem>Comli castelles and couth and cuntres ''wide''.</poem>\n{{right|''William of Palerne'' (E. E. T. S.), l. 5053.}}}}\n{{smaller block|<poem>For nothing this ''wide'' universe I call\nSave thou, my rose; in it thou art my all.</poem>\n{{right|''Shak.'', Sonnets, cix.}}}}\n{{smaller block|These perpetual exploits abroad won him ''wide'' fame.\n{{right|''Milton'', Hist. Eng., ii.}}}}\n{{smaller block|<poem>Within the cave\nHe left me, giant Polypheme’s dark cave;\nA dungeon ''wide'' and horrible.</poem>\n{{right|''Addison'', tr. of Virgil’s Æneid, iii.}}}}\n{{smaller block|The ''wide'' waste produced by the outbreak [of the Reformation] is forgotten. {{right|''Macaulay'', Burleigh.}}}}",
+   "c1s2": "¶\n'''4.''' Embracing many subjects; looking at a question from many points of view; applicable to many cases: as, a person of ''wide'' culture.\n{{smaller block|States have always been best governed by men who have taken a ''wide'' view of public affairs, and who have rather a general acquaintance with many sciences than a perfect mastery of one. {{right|''Macaulay'', Athenian Orators.}}}}\n'''5.''' Capacious; bulging; loose; voluminous.\n{{smaller block|<poem>I hadde wonder of his wordes and of his ''wyde'' clothes;\nFor in his bosome he bar a thyng that he blissed euere.</poem>\n{{right|''Piers Plowman'' (B), xvi. 253.}}}}\n{{smaller block|<poem>Weed ''wide'' enough to wrap a fairy in.</poem>\n{{right|''Shak.'', M. N. D., ii. 1. 256.}}}}\n'''6.''' Distended; expanded; spread apart; hence, open.\n{{smaller block|Against whom make ye a ''wide'' mouth, and draw out the tongue? {{right|Isa. lvii. 4.}}}}\n{{smaller block|<poem>Looking wistfully with ''wide'' blue eyes.</poem>\n{{right|''Tennyson'', Morte d’Arthur.}}}}\n'''7.''' Apart or remote from a specified point; distant; hence, remote from the direct line or object aimed at; too far or too much to one side; deviating; errant; wild: as, a ''wide'' arrow in archery; a ''wide'' ball in cricket.\n{{smaller block|Many of the fathers were far ''wide'' from the understanding of this place. {{right|''Raleigh.''}}}}\n{{smaller block|For those of both religions propose to go to the place [the river Jordan] where Christ was baptized, but happen to differ in their opinions, and are three or four miles ''wide'' of each other.\n{{right|''Pococke'', Description of the East, II. i. 32.}}}}\n{{smaller block|I make the ''widest'' conjectures concerning Egypt, and her shepherd kings. {{right|''Lamb'', Old and New Schoolmaster.}}}}\n{{smaller block|But all this, though not unconnected with our general theme, is ''wide'' of our immediate purpose.}}",
+   "c1s3": "{{smaller block|{{right|''De Quincey'', Style, iv.}}}}\n'''8†.''' Amiss; unfortunate; ill; bad; hence, of little avail; useless.\n\n{{smaller block|It would be ''wide'' with the best of us if the eye of God should look backward to our former estate.\n{{right|''Bp. Hall'', Contemplations, viii. 1.}}}}\n\n'''9.''' In ''phonetics'', uttered with a comparatively relaxed or expanded condition of the walls of the buccal cavity: said by some phonetists of certain vowels, as ''ĕ, ĭ, ŏ, ŭ'', when compared with ''ē, ī, ō, ū''.—'''To cut a wide swath.''' {{smaller|See ''swath''<sup>1</sup>.}}—'''To give a wide berth to.''' {{smaller|See ''berth''<sup>2</sup>, 1.}}—'''Wide-angle lens.''' {{smaller|See ''lens''. ='''Syn.''' ''Wide, Broad'', spacious, large, ample. ''Wide'' and ''broad'' may be synonymous, but ''broad'' is generally the larger and more emphatic: a ''wide'' river is not thought of as so far across as a ''broad'' river. ''Wide'' is sometimes more applicable to that which is to be passed through: as, a ''wide'' mouth or aperture. It is another way of stating this fact to say that ''wide'' has more in mind than ''broad'' the limiting sides of the thing. ''Wide'' is also more generally applicable to that of which the length is much greater than the width, but not to the exclusion of ''broad''. Each may in a secondary sense be used of length and breadth: as, ''broad'' acres; a ''wide'' domain.}}\n\n'''II.''' ''n.'' '''1.''' Wideness; breadth; extent. [Rare.]\n{{smaller block|<poem>Emptiness and the waste ''wide''\nOf that abyss.</poem>\n{{right|''Tennyson'', Two Voices.}}}}\n'''2.''' In ''cricket'', a ball that goes wide of the wicket, and counts one against the side that is bowling.\n\n'''wide''' (wīd), ''adv.'' [< ME. ''wide'', ''wyde'', < AS. ''wide'' (= G. ''weit''), widely, < ''wid'', wide: see ''wide'', ''a.'']",
+   "c2s1": "'''1.''' To a distance; afar; widely; a long way; abroad; extensively.\n{{smaller block|<poem>Ihc habbe walke ''wide''\nBi the se side.</poem>\n{{right|''King Horn'' (E. E. T. S.), p. 27.}}\n<poem>The wounded coveys, reeling, scatter ''wide.''</poem>\n{{right|''Burns'', Briggs of Ayr.}}\n<poem>Let Fame from brazen lips blow ''wide''\nHer chosen names. {{right|''Whittier'', My Namesake.}}</poem>}}\n'''2.''' Away or to one side of the mark, aim, purpose, or direct line; hence, astray.\n{{smaller block|Nay, Cosyn, . . . there walke you somewhat ''wide'', for ther you defende your owne righte for your temporal aualye. {{right|''Sir T. More'', Works (ed. 1557), II. 1151.}}\n<poem>She him obayd, and turnd a little ''wyde.''</poem>\n{{right|''Spenser'', F. Q., I. xi. 5.}}\n<poem>I understand you not; you hurt not me,\nYour anger flies so ''wide.''</poem>\n{{right|''Beau. and Fl.'', Captain, ii. 2.}}\nHis arrows fell exceedingly ''wide'' of each other.\n{{right|''Strutt'', Sports and Pastimes, p. 130.}}}}\n'''3†.''' Round about; in the neighborhood around.\n{{smaller block|<poem>Old Melibœ is slaine; and him beside\nHis aged wife, with many others ''wide.''</poem>\n{{right|''Spenser'', F. Q., VI. xi. 18.}}}}\n'''Set wide.''' See ''set''<sup>1</sup>.—'''To run wide.''' See ''run''<sup>1</sup>.\n\n¶\n'''wide†''' (wīd), ''v. t.'' [< ME. ''widen''; < ''wide'', ''a.''] To make wide; spread or set far apart.\n{{smaller block|And ''wide'' hem [quinces] so that though the wynd hem shake,\nNoo droop of oon until an other take.\n{{right|''Palladius'', Husbondrie (E. E. T. S.), p. 94.}}}}\n\n'''wide-awake''' (wīd′a-wāk″), ''a.'' and ''n.'' '''I.''' ''a.'' On the alert; keen; sharp; knowing. [Colloq.]\n{{smaller block|Our governor ’s ''wide awake'', he is; I’ll never say nothin’ agin him nor no man, but he knows what ’s o’clock, he}}",
+   "c2s2": "{{smaller block|does, uncommon. {{right|''Dickens'', Sketches, Tales, x. 2.}}}}\n\n'''II.''' ''n.'' A soft felt hat: a name given about 1850.\n{{smaller block|She was one of the first who appeared in the Park in a low-crowned hat — a ''wide-awake.''\n{{right|''H. Kingsley'', Ravenshoe, xliii.}}\nSome one . . . would with pleasure exchange on the spot irreproachable black coat and glistening hat for a shabby shooting-jacket and a ''wide-awake'' with a cast of flies round it. {{right|''Fortnightly Rev.'', N. S., XLIII. 627.}}}}\n\n'''wide-awakeness''' (wīd′a-wāk″nes), ''n.'' The character or state of being wide-awake or sharp. [Colloq.]\n\n'''wide-chapped''' (wīd′chapt), ''a.'' Having a wide mouth; wide-mouthed.\n{{smaller block|The ''wide-chapp’d'' rascal. {{right|''Shak.'', Tempest, i. 1. 60.}}}}\n\n'''wide-gab''' (wīd′gab), ''n.'' The angler or fishing-frog, ''Lophius piscatorius.'' Also ''wide-gap'', ''wide-gape'', ''wide-gut.'' See cut under ''angler''.\n\n'''widely''' (wīd′li), ''adv.'' '''1.''' In or to a wide degree or extent; extensively; far and wide: as, a man who is ''widely'' known.—'''2.''' Very much; very; greatly; extremely: as, two ''widely'' different accounts of an affair.—'''3.''' So as to leave a wide space; at a distance. [Rare.]\n{{smaller block|<poem>We passed Selinus, . . .\nAnd ''widely'' shun the Lilybæan strand.</poem>\n{{right|''Dryden'', Æneid, iii. 927.}}}}\n\n'''wide-mouthed''' (wīd′moutht), ''a.'' Having a wide mouth.\n{{smaller block|The little ''wide-mouth’d'' heads upon the spout.\n{{right|''Tennyson'', Godiva.}}}}\n\n{{smaller|'''Wide-mouthed salmon''', the ''Scopelidæ''.}}\n\n'''widen<sup>1</sup>''' (wī′dn), ''v.'' [< ''wide'', ''a.'', + ''-en''<sup>2</sup>.] '''I.'''",
+   "c2s3": "''trans.'' '''1.''' To make wide or wider; extend in breadth; expand: as, to ''widen'' a street.\n{{smaller block|I speak not these things to ''widen'' our differences or increase our animosities; they are too large and too great already.\n{{right|''Stillingfleet'', Sermons, I. viii.}}\nThe thoughts of men are ''widen’d'' with the process of the suns.\n{{right|''Tennyson'', Locksley Hall.}}\nHe ''widened'' knowledge and escaped the praise.\n{{right|''Lowell'', Jeffries Wyman.}}}}\n'''2.''' To throw open.\n{{smaller block|<poem>So, now the gates are ope; . . .\n’Tis for the followers fortune ''widens'' them,\nNot for the fliers.</poem>\n{{right|''Shak.'', Cor., i. 4. 44.}}}}\n'''3.''' In ''knitting'', to make larger by increasing the number of stitches: opposed to ''narrow''.\n\n'''II.''' ''intrans.'' '''1.''' To grow wide or wider; enlarge; extend itself; expand; broaden.\n{{smaller block|Arches ''widen'', and long aisles extend.\n{{right|''Pope'', Temple of Fame, l. 265.}}\nO’er Sigurd ''widens'' the day-light.\n{{right|''William Morris'', Sigurd, ii.}}}}\n'''2.''' In ''knitting'', to increase the number of stitches: as, to ''widen'' at the third row.\n\n'''widen<sup>2</sup>†''', ''adv.'' [ME., also ''widene'', ''wydene'' (MHG. ''witene'', ''witen''); < ''wide'', ''a.''] Widely; wide.\n{{smaller block|<poem>In habite of an hermite vn-holy of werkes\nWende I ''wydene'' in this world wondres to here.</poem>\n{{right|''Piers Plowman'' (A), Prol., l. 4.}}}}\n\n'''widener''' (wīd′nėr), ''n.'' One who or that which widens; specifically, a form of boring-bit or",
+   "c3s1": "diameter than itself: same as ''broach'', 12.\n\n¶\n'''wideness''' (wīd′nes), ''n.'' [< ME. ''wydenesse''; < ''wide'', ''a.'', + ''-ness''.] The state or character of being wide; breadth; width.\n\n{{smaller block|This Temple is 64 Cubytes of ''wydenesse'', and als manye in lengthe.\n{{right|''Mandeville'', Travels, p. 84.}}}}\n\n'''wide-spread''' (wīd′spred), ''a.'' Diffused or spread to a great distance; extending far and wide; being general.\n\n{{smaller block|To stand upon such elevated ground as to be enabled to take a larger view of the ''wide-spread'' and infinitely diversified constitution of men and affairs in a large society.\n{{right|''Brougham.''}}}}\n\n{{smaller block|There was a very ''wide-spread'' desire to hear him, and applications for lectures flowed in from all parts of the kingdom.\n{{right|''O. W. Holmes'', Emerson, vii.}}}}\n\n'''wide-stretched''' (wīd′strecht), ''a.'' Large; extensive.\n\n{{smaller block|<poem>''Wide-stretched'' honours that pertain . . .\nUnto the crown of France.</poem>\n{{right|''Shak.'', Hen. V., ii. 4. 82.}}}}\n\n'''wide-watered''' (wīd′wâ″tėrd), ''a.'' Traversed or bordered by wide waters.\n\n{{smaller block|<poem>I hear the far-off curfeu sound,\nOver some ''wide-water’d'' shore,\nSwinging low with sullen roar.</poem>\n{{right|''Milton'', Il Penseroso, l. 75.}}}}\n\n{{smaller block|<poem>As when a lion rushing from his den\nAmidst the plain of some ''wide-water’d'' fen.</poem>\n{{right|''Pope'', Iliad, xv. 761.}}}}\n\n'''wide-where†''' (wīd′hwãr), ''adv.'' [< ME. ''wydewher'', ''wydewhere'' (also ''wydenwher''); < ''wide'', ''adv.'', + ''where''<sup>1</sup>.] Far and wide; everywhere; in places far apart.\n\n{{smaller block|<poem>''Wide-where'' is wist</poem>}}",
+   "c3s2": "{{smaller block|<poem>How that ther is diversite requered\nBytwexen thynges lyke, as I have lered.</poem>{{right|''Chaucer'', Troilus, iii. 404.}}}}\n{{smaller block|<poem>Her dochter was stown awa frae her;\nShe sought for her ''wide-whare.''</poem>{{right|''Rosmer Hafmand'' (Child’s Ballads, I. 253).}}}}\n\n'''wide-work''' (wīd′wėrk), ''n.'' In ''coal-mining'', a method of working coal, now nearly obsolete, but formerly followed in the South Yorkshire coal-fields. It was one of the many varieties of pillar-and-stall work.\n\n'''widgeon, wigeon''' (wij′o̤n), ''n.'' [Early mod. E. also ''wigion'', ''wygeon''; prob. < ME. *''wigeon'', < OF. ''vigeon'', found, with the variants ''vingeon'', ''gingeon'', as a name of the canard siffleur, whist-",
+   "c3s3": "ling duck, or widgeon, formerly ''Anas fistularis,'' = It. ''vipione,'' a small crane, < L. ''vipio''(''n''-), a kind of small crane. Cf. E. ''pigeon,'' ult. < L. ''pipio''(''n''-).] '''1.''' A duck of the genus ''Mareca,'' belonging to the subfamily ''Anatinæ.'' {{smaller|The European widgeon is ''M. penelope'' ; the American is a distinct species, ''M. americana'' ; each is a common wild-fowl of}}\n[[FIGURE]]\n{{c|{{smaller|American Widgeon (''Mareca americana'').}}}}\n{{smaller|its own country, of the migratory and other habits common to the ''Anatinæ,'' breeding mostly in high or even hyperborean regions, and flocking in more temperate latitudes during the winter. They are also known as ''baldpates,'' from the white on the top of the head, ''whistler'' or ''whistling duck, whew, whewer, whim,'' from their cries, and by many local names.}} '''2.''' By extension, some or any wild duck, except the mallard: usually with a qualifying term.\n{{smaller block|In Shropshire every species of wild duck, with the exception of Anas boscas, is called ''wigeon.''\n{{right|''C. Swainson,'' Brit. Birds (1885), p. 155.}}}}",
+   "c3s4": "{{smaller|(''a'') The gadwall, ''Chaulelasmus streperus:'' more fully called ''gray widgeon.'' See cut under ''Chaulelasmus.'' [Southern Italy.] (''b'') The pintail, ''Dafila acuta:'' more fully, ''gray'' or ''kite-tailed widgeon,'' or ''sea-widgeon.'' See cut under ''Dafila.'' [Local, U. S.] (''c'') The wood-duck, ''Aix sponsa:'' more fully, ''wood-widgeon.'' See cut under ''wood-duck.'' [Connecticut.] (''d'') The ruddy duck, ''Erismatura rubida.'' See cut under ''Erismatura.'' [Massachusetts.]}} '''3†.''' A fool: alluding to the supposed stupidity of the widgeon. Compare ''goose, gudgeon''<sup>1</sup>.\n{{smaller block|If you give any credit to this juggling rascal, you are worse than simple ''widgeons,'' and will be drawn into the net by this decoy-duck, this tame cheater.\n{{right|''Fletcher'' (''and another''), Fair Maid of the Inn, iv. 2.}}\n<poem>The apostles of this false religion,\nLike Mahomet’s, were ass and ''widgeon.''</poem>\n{{right|''S. Butler'', Hudibras, I. i. 232.}}}}"
+  },
+  "figure_files": {
+   "c3f1": "century v08 p0724 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1712,
+     1939,
+     2290,
+     2353
+    ],
+    "caption": [
+     1780,
+     2357,
+     2219,
+     2382
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1702,
+     1927,
+     2232,
+     2347
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 8,
+    "output_tokens": 92,
+    "cache_creation_input_tokens": 4270,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 9707,
+    "output_tokens": 11731,
+    "cache_creation_input_tokens": 3966,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|wide|6920|widgeon}}</noinclude>{{nop}}'''wide''' (wīd), ''a.'' and ''n.''   [< ME. ''wid'', ''wyd'', < AS. ''wīd'' = OS. ''wīd'' = OFries. ''wīd'' = D. ''wijd'' = LG. ''wied'' = OHG. MHG. ''wīt'', G. ''weit'' = Icel. ''vīthr'' = Sw. Dan. ''vid'', wide; root unknown.]   '''I.''' ''a.'' '''1.''' Having relatively great or considerable extension from side to side; broad: as, ''wide'' cloth; a ''wide'' hall: opposed to ''narrow.''\n{{smaller block|''Wide'' is the gate . . . that leadeth to destruction.\n{{right|Mat. vii. 13.}}}}\n{{smaller block|Shallow brooks, and rivers ''wide''.\n{{right|''Milton'', L’Allegro, l. 76.}}}}\n{{smaller block|And wounds appear’d so ''wide'' as if the grave did gape To swallow both at once.\n{{right|''Drayton'', Polyolbion, i. 456.}}}}\n'''2.''' Having (a certain or specified) extension as measured from side to side; having (a specified) width or breadth: as, cloth a yard ''wide''.\n{{smaller block|’Tis not so deep as a well, nor so ''wide'' as a church-door; but ’tis enough. {{right|''Shak.'', R. and J., iii. 1. 100.}}}}\n{{smaller block|The city of Canea, capital of the western province of Candia, is situated at the east corner of a bay about fifteen miles ''wide''. {{right|''Pococke'', Description of the East, II. i. 242.}}}}\n'''3.''' Of great horizontal extent; spacious; extensive; vast; great: as, the ''wide'' ocean.\n{{smaller block|<poem>Comli castelles and couth and cuntres ''wide''.</poem>\n{{right|''William of Palerne'' (E. E. T. S.), l. 5053.}}}}\n{{smaller block|<poem>For nothing this ''wide'' universe I call\nSave thou, my rose; in it thou art my all.</poem>\n{{right|''Shak.'', Sonnets, cix.}}}}\n{{smaller block|These perpetual exploits abroad won him ''wide'' fame.\n{{right|''Milton'', Hist. Eng., ii.}}}}\n{{smaller block|<poem>Within the cave\nHe left me, giant Polypheme’s dark cave;\nA dungeon ''wide'' and horrible.</poem>\n{{right|''Addison'', tr. of Virgil’s Æneid, iii.}}}}\n{{smaller block|The ''wide'' waste produced by the outbreak [of the Reformation] is forgotten. {{right|''Macaulay'', Burleigh.}}}}\n\n'''4.''' Embracing many subjects; looking at a question from many points of view; applicable to many cases: as, a person of ''wide'' culture.\n{{smaller block|States have always been best governed by men who have taken a ''wide'' view of public affairs, and who have rather a general acquaintance with many sciences than a perfect mastery of one. {{right|''Macaulay'', Athenian Orators.}}}}\n'''5.''' Capacious; bulging; loose; voluminous.\n{{smaller block|<poem>I hadde wonder of his wordes and of his ''wyde'' clothes;\nFor in his bosome he bar a thyng that he blissed euere.</poem>\n{{right|''Piers Plowman'' (B), xvi. 253.}}}}\n{{smaller block|<poem>Weed ''wide'' enough to wrap a fairy in.</poem>\n{{right|''Shak.'', M. N. D., ii. 1. 256.}}}}\n'''6.''' Distended; expanded; spread apart; hence, open.\n{{smaller block|Against whom make ye a ''wide'' mouth, and draw out the tongue? {{right|Isa. lvii. 4.}}}}\n{{smaller block|<poem>Looking wistfully with ''wide'' blue eyes.</poem>\n{{right|''Tennyson'', Morte d’Arthur.}}}}\n'''7.''' Apart or remote from a specified point; distant; hence, remote from the direct line or object aimed at; too far or too much to one side; deviating; errant; wild: as, a ''wide'' arrow in archery; a ''wide'' ball in cricket.\n{{smaller block|Many of the fathers were far ''wide'' from the understanding of this place. {{right|''Raleigh.''}}}}\n{{smaller block|For those of both religions propose to go to the place [the river Jordan] where Christ was baptized, but happen to differ in their opinions, and are three or four miles ''wide'' of each other.\n{{right|''Pococke'', Description of the East, II. i. 32.}}}}\n{{smaller block|I make the ''widest'' conjectures concerning Egypt, and her shepherd kings. {{right|''Lamb'', Old and New Schoolmaster.}}}}\n{{smaller block|But all this, though not unconnected with our general theme, is ''wide'' of our immediate purpose. {{right|''De Quincey'', Style, iv.}}}}\n'''8†.''' Amiss; unfortunate; ill; bad; hence, of little avail; useless.\n\n{{smaller block|It would be ''wide'' with the best of us if the eye of God should look backward to our former estate.\n{{right|''Bp. Hall'', Contemplations, viii. 1.}}}}\n\n'''9.''' In ''phonetics'', uttered with a comparatively relaxed or expanded condition of the walls of the buccal cavity: said by some phonetists of certain vowels, as ''ĕ, ĭ, ŏ, ŭ'', when compared with ''ē, ī, ō, ū''.—'''To cut a wide swath.''' {{smaller|See ''swath''<sup>1</sup>.}}—'''To give a wide berth to.''' {{smaller|See ''berth''<sup>2</sup>, 1.}}—'''Wide-angle lens.''' {{smaller|See ''lens''. ='''Syn.''' ''Wide, Broad'', spacious, large, ample. ''Wide'' and ''broad'' may be synonymous, but ''broad'' is generally the larger and more emphatic: a ''wide'' river is not thought of as so far across as a ''broad'' river. ''Wide'' is sometimes more applicable to that which is to be passed through: as, a ''wide'' mouth or aperture. It is another way of stating this fact to say that ''wide'' has more in mind than ''broad'' the limiting sides of the thing. ''Wide'' is also more generally applicable to that of which the length is much greater than the width, but not to the exclusion of ''broad''. Each may in a secondary sense be used of length and breadth: as, ''broad'' acres; a ''wide'' domain.}}\n\n'''II.''' ''n.'' '''1.''' Wideness; breadth; extent. [Rare.]\n{{smaller block|<poem>Emptiness and the waste ''wide''\nOf that abyss.</poem>\n{{right|''Tennyson'', Two Voices.}}}}\n'''2.''' In ''cricket'', a ball that goes wide of the wicket, and counts one against the side that is bowling.\n\n'''wide''' (wīd), ''adv.''   [< ME. ''wide'', ''wyde'', < AS. ''wide'' (= G. ''weit''), widely, < ''wid'', wide: see ''wide'', ''a.'']   '''1.''' To a distance; afar; widely; a long way; abroad; extensively.\n{{smaller block|<poem>Ihc habbe walke ''wide''\nBi the se side.</poem>\n{{right|''King Horn'' (E. E. T. S.), p. 27.}}}}\n{{smaller block|<poem>The wounded coveys, reeling, scatter ''wide.''</poem>\n{{right|''Burns'', Briggs of Ayr.}}}}\n{{smaller block|<poem>Let Fame from brazen lips blow ''wide''\nHer chosen names. {{right|''Whittier'', My Namesake.}}</poem>}}\n'''2.''' Away or to one side of the mark, aim, purpose, or direct line; hence, astray.\n{{smaller block|Nay, Cosyn, . . . there walke you somewhat ''wide'', for ther you defende your owne righte for your temporal aualye. {{right|''Sir T. More'', Works (ed. 1557), II. 1151.}}}}\n{{smaller block|<poem>She him obayd, and turnd a little ''wyde.''</poem>\n{{right|''Spenser'', F. Q., I. xi. 5.}}}}\n{{smaller block|<poem>I understand you not; you hurt not me,\nYour anger flies so ''wide.''</poem>\n{{right|''Beau. and Fl.'', Captain, ii. 2.}}}}\n{{smaller block|His arrows fell exceedingly ''wide'' of each other.\n{{right|''Strutt'', Sports and Pastimes, p. 130.}}}}\n'''3†.''' Round about; in the neighborhood around.\n{{smaller block|<poem>Old Melibœ is slaine; and him beside\nHis aged wife, with many others ''wide.''</poem>\n{{right|''Spenser'', F. Q., VI. xi. 18.}}}}\n'''Set wide.''' See ''set''<sup>1</sup>.—'''To run wide.''' See ''run''<sup>1</sup>.\n\n'''wide†''' (wīd), ''v. t.''   [< ME. ''widen''; < ''wide'', ''a.'']   To make wide; spread or set far apart.\n{{smaller block|And ''wide'' hem [quinces] so that though the wynd hem shake,\nNoo droop of oon until an other take.\n{{right|''Palladius'', Husbondrie (E. E. T. S.), p. 94.}}}}\n\n'''wide-awake''' (wīd′a-wāk″), ''a.'' and ''n.'' '''I.''' ''a.'' On the alert; keen; sharp; knowing. [Colloq.]\n{{smaller block|Our governor ’s ''wide awake'', he is; I’ll never say nothin’ agin him nor no man, but he knows what ’s o’clock, he does, uncommon. {{right|''Dickens'', Sketches, Tales, x. 2.}}}}\n\n'''II.''' ''n.'' A soft felt hat: a name given about 1850.\n{{smaller block|She was one of the first who appeared in the Park in a low-crowned hat — a ''wide-awake.''\n{{right|''H. Kingsley'', Ravenshoe, xliii.}}}}\n{{smaller block|Some one . . . would with pleasure exchange on the spot irreproachable black coat and glistening hat for a shabby shooting-jacket and a ''wide-awake'' with a cast of flies round it. {{right|''Fortnightly Rev.'', N. S., XLIII. 627.}}}}\n\n'''wide-awakeness''' (wīd′a-wāk″nes), ''n.'' The character or state of being wide-awake or sharp. [Colloq.]\n\n'''wide-chapped''' (wīd′chapt), ''a.'' Having a wide mouth; wide-mouthed.\n{{smaller block|The ''wide-chapp’d'' rascal. {{right|''Shak.'', Tempest, i. 1. 60.}}}}\n\n'''wide-gab''' (wīd′gab), ''n.'' The angler or fishing-frog, ''Lophius piscatorius.'' Also ''wide-gap'', ''wide-gape'', ''wide-gut.'' See cut under ''angler''.\n\n'''widely''' (wīd′li), ''adv.'' '''1.''' In or to a wide degree or extent; extensively; far and wide: as, a man who is ''widely'' known.—'''2.''' Very much; very; greatly; extremely: as, two ''widely'' different accounts of an affair.—'''3.''' So as to leave a wide space; at a distance. [Rare.]\n{{smaller block|<poem>We passed Selinus, . . .\nAnd ''widely'' shun the Lilybæan strand.</poem>\n{{right|''Dryden'', Æneid, iii. 927.}}}}\n\n'''wide-mouthed''' (wīd′moutht), ''a.'' Having a wide mouth.\n{{smaller block|The little ''wide-mouth’d'' heads upon the spout.\n{{right|''Tennyson'', Godiva.}}}}\n\n{{smaller|'''Wide-mouthed salmon''', the ''Scopelidæ''.}}\n\n'''widen<sup>1</sup>''' (wī′dn), ''v.''   [< ''wide'', ''a.'', + ''-en''<sup>2</sup>.]   '''I.' trans.'' '''1.''' To make wide or wider; extend in breadth; expand: as, to ''widen'' a street.\n{{smaller block|I speak not these things to ''widen'' our differences or increase our animosities; they are too large and too great already.\n{{right|''Stillingfleet'', Sermons, I. viii.}}}}\n{{smaller block|The thoughts of men are ''widen’d'' with the process of the suns.\n{{right|''Tennyson'', Locksley Hall.}}}}\n{{smaller block|He ''widened'' knowledge and escaped the praise.\n{{right|''Lowell'', Jeffries Wyman.}}}}\n'''2.''' To throw open.\n{{smaller block|<poem>So, now the gates are ope; . . .\n’Tis for the followers fortune ''widens'' them,\nNot for the fliers.</poem>\n{{right|''Shak.'', Cor., i. 4. 44.}}}}\n'''3.''' In ''knitting'', to make larger by increasing the number of stitches: opposed to ''narrow''.\n\n'''II.''' ''intrans.'' '''1.''' To grow wide or wider; enlarge; extend itself; expand; broaden.\n{{smaller block|Arches ''widen'', and long aisles extend.\n{{right|''Pope'', Temple of Fame, l. 265.}}}}\n{{smaller block|O’er Sigurd ''widens'' the day-light.\n{{right|''William Morris'', Sigurd, ii.}}}}\n'''2.''' In ''knitting'', to increase the number of stitches: as, to ''widen'' at the third row.\n\n'''widen<sup>2</sup>†''', ''adv.''   [ME., also ''widene'', ''wydene'' (MHG. ''witene'', ''witen''); < ''wide'', ''a.'']   Widely; wide.\n{{smaller block|<poem>In habite of an hermite vn-holy of werkes\nWende I ''wydene'' in this world wondres to here.</poem>\n{{right|''Piers Plowman'' (A), Prol., l. 4.}}}}\n\n'''widener''' (wīd′nėr), ''n.'' One who or that which widens; specifically, a form of boring-bit or diameter than itself: same as ''broach'', 12.\n\n'''wideness''' (wīd′nes), ''n.''   [< ME. ''wydenesse''; < ''wide'', ''a.'', + ''-ness''.]   The state or character of being wide; breadth; width.\n\n{{smaller block|This Temple is 64 Cubytes of ''wydenesse'', and als manye in lengthe.\n{{right|''Mandeville'', Travels, p. 84.}}}}\n\n'''wide-spread''' (wīd′spred), ''a.'' Diffused or spread to a great distance; extending far and wide; being general.\n\n{{smaller block|To stand upon such elevated ground as to be enabled to take a larger view of the ''wide-spread'' and infinitely diversified constitution of men and affairs in a large society.\n{{right|''Brougham.''}}}}\n\n{{smaller block|There was a very ''wide-spread'' desire to hear him, and applications for lectures flowed in from all parts of the kingdom.\n{{right|''O. W. Holmes'', Emerson, vii.}}}}\n\n'''wide-stretched''' (wīd′strecht), ''a.'' Large; extensive.\n\n<poem>''Wide-stretched'' honours that pertain . . .\nUnto the crown of France.</poem>\n{{smaller block|{{right|''Shak.'', Hen. V., ii. 4. 82.}}}}\n\n'''wide-watered''' (wīd′wâ″tėrd), ''a.'' Traversed or bordered by wide waters.\n\n<poem>I hear the far-off curfeu sound,\nOver some ''wide-water’d'' shore,\nSwinging low with sullen roar.</poem>\n{{smaller block|{{right|''Milton'', Il Penseroso, l. 75.}}}}\n\n<poem>As when a lion rushing from his den\nAmidst the plain of some ''wide-water’d'' fen.</poem>\n{{smaller block|{{right|''Pope'', Iliad, xv. 761.}}}}\n\n'''wide-where†''' (wīd′hwãr), ''adv.''   [< ME. ''wydewher'', ''wydewhere'' (also ''wydenwher''); < ''wide'', ''adv.'', + ''where''<sup>1</sup>.]   Far and wide; everywhere; in places far apart.\n\n<poem>''Wide-where'' is wist</poem>\n{{smaller block|<poem>How that ther is diversite requered\nBytwexen thynges lyke, as I have lered.</poem>{{right|''Chaucer'', Troilus, iii. 404.}}}}\n{{smaller block|<poem>Her dochter was stown awa frae her;\nShe sought for her ''wide-whare.''</poem>{{right|''Rosmer Hafmand'' (Child’s Ballads, I. 253).}}}}\n\n'''wide-work''' (wīd′wėrk), ''n.'' In ''coal-mining'', a method of working coal, now nearly obsolete, but formerly followed in the South Yorkshire coal-fields. It was one of the many varieties of pillar-and-stall work.\n\n'''widgeon, wigeon''' (wij′o̤n), ''n.''   [Early mod. E. also ''wigion'', ''wygeon''; prob. < ME. *''wigeon'', < OF. ''vigeon'', found, with the variants ''vingeon'', ''gingeon'', as a name of the canard siffleur, whistling duck, or widgeon, formerly ''Anas fistularis,'' = It. ''vipione,'' a small crane, < L. ''vipio''(''n''-), a kind of small crane. Cf. E. ''pigeon,'' ult. < L. ''pipio''(''n''-).]   '''1.''' A duck of the genus ''Mareca,'' belonging to the subfamily ''Anatinæ.'' {{smaller|The European widgeon is ''M. penelope'' ; the American is a distinct species, ''M. americana'' ; each is a common wild-fowl of}}\n{{smaller|its own country, of the migratory and other habits common to the ''Anatinæ,'' breeding mostly in high or even hyperborean regions, and flocking in more temperate latitudes during the winter. They are also known as ''baldpates,'' from the white on the top of the head, ''whistler'' or ''whistling duck, whew, whewer, whim,'' from their cries, and by many local names.}} '''2.''' By extension, some or any wild duck, except the mallard: usually with a qualifying term.\n{{smaller block|In Shropshire every species of wild duck, with the exception of Anas boscas, is called ''wigeon.''\n{{right|''C. Swainson,'' Brit. Birds (1885), p. 155.}}}}\n{{smaller block|(''a'') The gadwall, ''Chaulelasmus streperus:'' more fully called ''gray widgeon.'' See cut under ''Chaulelasmus.'' [Southern Italy.] (''b'') The pintail, ''Dafila acuta:'' more fully, ''gray'' or ''kite-tailed widgeon,'' or ''sea-widgeon.'' See cut under ''Dafila.'' [Local, U. S.] (''c'') The wood-duck, ''Aix sponsa:'' more fully, ''wood-widgeon.'' See cut under ''wood-duck.'' [Connecticut.] (''d'') The ruddy duck, ''Erismatura rubida.'' See cut under ''Erismatura.'' [Massachusetts.]}} '''3†.''' A fool: alluding to the supposed stupidity of the widgeon. Compare ''goose, gudgeon''<sup>1</sup>.\n{{smaller block|If you give any credit to this juggling rascal, you are worse than simple ''widgeons,'' and will be drawn into the net by this decoy-duck, this tame cheater.\n{{right|''Fletcher'' (''and another''), Fair Maid of the Inn, iv. 2.}}}}\n{{smaller block|<poem>The apostles of this false religion,\nLike Mahomet’s, were ass and ''widgeon.''</poem>\n{{right|''S. Butler'', Hudibras, I. i. 232.}}}}\n\n[[File:century v08 p0724 c3f1.png|center|266px]]\n{{c|{{smaller|American Widgeon (''Mareca americana'').}}}}<noinclude><references/></noinclude>"
+}

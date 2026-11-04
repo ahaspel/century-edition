@@ -1,0 +1,192 @@
+{
+ "volume": 8,
+ "page_number": 753,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n752.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n752.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-04",
+  "fetched_by": "alaemmle",
+  "angle": -0.8,
+  "column_width": 796,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     1,
+     57,
+     2267,
+     98
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     1,
+     98,
+     805,
+     942
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     1,
+     942,
+     805,
+     2000
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     1,
+     2000,
+     805,
+     2704
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     1,
+     2704,
+     805,
+     3186
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     805,
+     98,
+     1546,
+     1188
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     805,
+     1188,
+     1546,
+     1986
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     805,
+     1986,
+     1546,
+     3085
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     805,
+     3085,
+     1546,
+     3186
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1546,
+     98,
+     2267,
+     1179
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1546,
+     1179,
+     2267,
+     2232
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1546,
+     2232,
+     2267,
+     3186
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|wishful|6949|wit}}",
+   "c1s1": "¶\n'''2.''' Desirable; inviting. [Poetical.]\n{{smaller block|<poem>Many a shady hill,\nAnd many an echoing valley, many a field\nPleasant and ''wishful'', did his passage yield\nTheir safe transcension.</poem>\n{{right|''Chapman'', tr. of Homer’s Hymn to Hermes, l. 185.}}}}\n{{smaller block|Having so ''wishful'' an Opportunity, . . . I could not but send you this Friendly Salute. {{right|''Howell'', Letters, I. vi. 4.}}}}\n\n'''wishfully''' (wish′fu̇l-i), ''adv.'' '''1.''' With desire; longingly; wistfully.\n{{smaller block|And all did ''wishfully'' expect the silver-thronéd morn.\n{{right|''Chapman'', Iliad, viii. 497.}}}}\n{{smaller block|He looked up ''wishfully'' in my uncle Toby’s face, then cast a look upon his boy — and that ligament, fine as it was, was never broken. {{right|''Sterne'', Tristram Shandy, vi. 10.}}}}\n\n'''2.''' Desirably; according to one’s wishes.\n{{smaller block|<poem>''Phœ.'' I doubt now\nWe shall not gain access unto your love,\nOr she to us.\n''Fid.'' Most ''wishfully'' here she comes.</poem>\n{{right|''Middleton'', Phœnix, iii. 1.}}}}\n\n'''wishfulness''' (wish′fu̇l-nes), ''n.'' The state of being wishful; longing.\n{{smaller block|<poem>The natural infirmities of youth,\nSadness and softness, hopefulness, ''wishfulness.''</poem>\n{{right|''Sir H. Taylor'', Isaac Comnenus, iii. 1.}}}}\n\n'''wishing-bone''' (wish′ing-bōn), ''n.'' Same as ''wishbone.''",
+   "c1s2": "¶\n'''wishing-cap''' (wish′ing-kap), ''n.'' A cap by wearing which one obtains whatever one wishes.\n\n'''wishing-rod''' (wish′ing-rod), ''n.'' A rod the wielding of which obtains one’s wishes, or confers unlimited power.\n\n'''wishly†''' (wish′li), ''adv.'' [< ''wish'' + ''-ly''<sup>2</sup>. Cf. ''wistly.''] Wistly. [Rare.]\n{{smaller block|<poem>Æacides . . . ''wishly'' did intend\n(Standing asterne his tall neckt ship) how deepe the skirmish drew.</poem>\n{{right|''Chapman'', Iliad, xi.}}\n<poem>Devereux, that undaunted knight,\nWho stood astern his ship, and ''wishly'' eyed\nHow deep the skirmish drew on either side.</poem>\n{{right|''Mir. for Mags.'', p. 863.}}}}\n\n'''wishness''' (wish′nes), ''n.'' Melancholy yearning. [Rare.]\n{{smaller block|<poem>Sighing (I heard the love-lorn swain)\n''Wishness!'' oh, ''wishness'' walketh here.</poem>\n{{right|''Polwhele'', Wishful Swain of Devon.}}}}\n\n'''wishtonwish''' (wish′tọn-wish), ''n.'' [Said to be Amer. Ind., and imitative.] The prairie-dog of North America, ''Cynomys ludovicianus.'' See cut under ''prairie-dog'', and compare second cut under ''owl.''\n{{smaller block|The ''Wishtonwish'' of the Indians, prairie dogs of some travellers, . . . reside on the prairies of Louisiana in towns or villages, having an evident police established in their communities. . . . As you approach their towns, you are saluted on all sides by the cry of Wishtonwish, from which they derive their name with the Indians, uttered in a shrill and piercing manner.\n{{right|''Z. M. Pike'', Voyage to Sources of the Arkansaw, etc.}}\n{{right|[(1810), p. 156.}}}}\n{{smaller|[Misunderstood by Cooper as a name for the whippoorwill, it was so used by him in his novel “The Wept of Wish-ton-Wish,” and elsewhere.}}",
+   "c1s3": "¶\n{{smaller block|“He speaks of the ''wish-ton-wish'',” said the scout. “Well, since you like his whistle, it shall be your signal. Remember, then, when you hear the whip-poor-will’s call three times repeated, you are to come into the bushes.”\n{{right|''J. F. Cooper'', Last of Mohicans, xxii.]}}}}\n\n'''wish-wash''' (wish′wosh), ''n.'' [A varied redupl. of ''wash''.] Anything wishy-washy; especially, a thin, sloppy drink. [Colloq.]\n\n'''wishy-washy''' (wish′i-wosh″i), ''a.'' and ''n.'' [A varied redupl. of ''washy''. Cf. ''wish-wash''.] '''I.''' ''a.'' Very thin and weak; diluted; sloppy: originally used to note liquid substances; hence, feeble; lacking in substantial or desirable qualities; insignificant: as, a ''wishy-washy'' speech. [Colloq.]\n{{smaller block|A good seaman, . . . none of your Guinea-pigs, nor your fresh-water, ''wishy-washy'', fair-weather fowls.\n{{right|''Smollett.'' (''Imp. Dict.'')}}\nThe ''wishy-washy'', bread-and-butter period of life.\n{{right|''Trollope'', Barchester Towers, xli.}}}}\n\n'''II.''' ''n.'' Any sort of thin, weak liquor. [Colloq.]\n\n'''wisket''' (wis′ket), ''n.'' Same as ''whisket''.",
+   "c1s4": "¶\n'''wisliche†, wisloker†,''' ''adv.'' Middle English forms of ''wisely'', ''wiselier'' (more wisely).\n\n'''wisly†,''' ''adv.'' [ME., also ''wysly'', ''wislike''; < AS. ''gewislīce'', ''gewisslīce'', < ''gewis'', certain: see ''wis''<sup>2</sup>, ''iwis''.] Certainly; surely.\n{{smaller block|I not myself noght ''wysly'' what it is.\n{{right|''Chaucer'', Troilus, iii. 1653.}}}}\n\n'''wisp''' (wisp), ''n.'' [< ME. ''wisp'', ''wysp'', ''wesp'', ''wispe'', also ''wips'', an older form (the ''s'' being prob. formative); not found in AS.; cf. LG. ''wiep'', a wisp; cf. Norw. ''vippa'', something that skips about, a wisp to sprinkle or daub with, a swape, or machine for raising water, etc., = Sw. dial. ''vipp'', an ear of rye, a little sheaf or bundle; cf. Goth. ''waips'', also ''wipja'', a crown. ''Wisp'' has nothing",
+   "c2s1": "to do with ''whisk''<sup>1</sup>: see ''whisk''<sup>1</sup>.] '''1.''' A handful or small bundle, as of straw or hay; a twisted handful.\n{{smaller block|<poem>A ''wisp'' of straw were worth a thousand crowns\nTo make this shameless callet know herself.</poem>\n{{right|''Shak.'', 3 Hen. VI., ii. 2. 144.}}\nWhen indeed his admired mouth better deserved the help of Doctor Executioner, that he might wipe it with a hempen ''wisp''. {{right|''Tom Nash his Ghost'', p. 8.}}\nOf this commission the bare-armed Bob, leading the way with a flaming ''wisp'' of paper, . . . speedily acquitted himself. {{right|''Dickens'', Our Mutual Friend, i. 13.}}}}\n'''2.''' A whisk, or small broom.—'''3.''' An ignis fatuus, or will-o’-the-wisp.\n{{smaller block|<poem>Or like a ''wisp'' along the marsh so damp,\n  Which leads beholders on a boggy walk,\nHe flitted to and fro a dancing light,\n  Which all who saw it follow’d, wrong or right.</poem>\n{{right|''Byron'', Don Juan, vii. 46.}}\n<poem>We did not know the real light, but chased\nThe ''wisp'' that flickers where no foot can tread.</poem>\n{{right|''Tennyson'', Princess, iv.}}}}\n'''4.''' A disease in cattle, consisting in inflammation and suppuration of the interdigital tissues, most commonly of the hind feet. {{smaller|It may be due to the irritation of dirt, to overgrowth of the hoof, or other causes. Also called ''foul in the foot''. Also ''whisp''.}}\n{{smaller block|To cure a Bullock that hath the ''Whisp'' (that is lame between the Clees). {{right|''Aubrey'', Misc., p. 138.}}}}\n'''5.''' In ''falconry'', a flight or walk of snipe.='''Syn. 5.''' {{smaller|''Covey, etc.'' See ''flock''<sup>1</sup>.}}\n\n'''wisp''' (wisp), ''v. t.'' [< ''wisp'', ''n.''] '''1.''' To brush, dress, or rub down with or as with a wisp.—'''2.''' To rumple. ''Halliwell.'' [Prov. Eng.]\n\n'''wispen†''' (wis′pn), ''a.'' [< ''wisp'' + ''-en''<sup>2</sup>.] Formed of a wisp or wisps.",
+   "c2s2": "{{smaller block|She hath already put on her ''wispen'' garland.\n{{right|''G. Harvey'', Pierce’s Supererogation (Brydge’s Archaica, II. 149).}}}}\n\n'''wispy''' (wis′pi), ''a.'' [< ''wisp'' + ''-y''<sup>1</sup>.] Like a wisp.\n{{smaller block|A pinched, ''wispy'' little man.\n{{right|''D. C. Murray'', Weaker Vessel, xi.}}}}\n\n'''wiss†''', ''v. t.'' [ME. ''wissen'', < AS. ''wissian'', a var. of ''wisian'', show: see ''wise''<sup>3</sup>.] Same as ''wise''<sup>3</sup>.\n{{smaller block|Gyffe I wirke wronge, whom should me ''wys'' be any waye?\n{{right|''York Plays'', p. 32.}}\n<poem>Thow coudest nevere in love thiselven ''wysse'',\nHow devel maystow brynge me to blysse?</poem>\n{{right|''Chaucer'', Troilus, i. 622.}}\nKnowest thou ouht a corseynt men calleth seynt Treuthe?\nConst thou ''wissen'' vs the wey wher that he dwelleth?\n{{right|''Piers Plowman'' (A), vi. 24.}}}}\n\n'''wissen†''', ''v. t.'' See ''wiss.''\n\n'''Wissonday†''', ''n.'' A Middle English variant of ''Whitsunday.''\n\n'''wist'''<sup>1</sup>. Preterit of ''wit''<sup>1</sup>.\n\n'''wist'''<sup>2</sup> (wist), ''v.'' A spurious word, improperly used as present indicative (''wists'') of ''wit''<sup>1</sup>. [Rare.]\n{{smaller block|But though he ''wists'' not of this, he is moved like the great German poet.\n{{right|''Buckle'', Essays (Progress of Knowledge), p. 195.}}}}",
+   "c2s3": "¶\n'''Wistaria''' (wis-tā′ri-ä), ''n.'' [NL. (Nuttall, 1818), named in honor of Caspar ''Wistar'', an American anatomist (1761-1818).] '''1.''' A genus of leguminous plants, of the tribe ''Galegeæ'' and subtribe ''Tephrosieæ.'' {{smaller|It is characterized by having papilionaceous flowers in terminal racemes, with a smooth style and stamens usually completely diadelphous, and by a coriaceous readily dehiscent legume, the last character separating it from the large tropical Old World genus ''Millettia.'' There are 2 or 3 species, natives of North America, China, and Japan. They are lofty climbing shrubs with odd-pinnate leaves, entire feather-veined and reticulated leaflets, and small stipules. The handsome purplish flowers form terminal pendent racemes. They are much cultivated in America, commonly under the generic name (sometimes erroneously ''Wisteria''); in England they are often known as ''kidney-bean tree'', in Australia as ''grape flower vine. W. Chinensis'', the Chinese, and ''W. frutescens'', the American wistaria, are much used in the United States to cover verandas and walls. The latter is a native of swamp-margins from Virginia to Illinois and southward, and develops its flowers at the same time with the leaves, instead of before them, as in ''W. Chinensis. W. Japonica'', by some thought not a distinct species, is commonly trained in Japan horizontally on trellises over pleasure-seats as an ornamental shade; it sometimes lives more than a century.}}\n\n'''2.''' [''l. c.''] A plant of this genus.\n\n'''wistful''' (wist′fu̇l), ''a.'' [Prob. for *''whistful'', based on the older adverb ''wistly'', which is prob. for ''whistly''. The assumption that ''wistful'' stands for ''wishful'' is untenable; for the required change ''wishful'' > *''wisful'' > ''wistful'' could not occur in the mod. E. period, particularly with ''wishful'' itself remaining in use; but the sense ‘longing’ appears to have arisen in part from association with ''wishful''. It is to be noted that ''wistful'' in the earliest instance quoted (Browne) does not mean, as some dictionaries give it, merely ‘observant’ or ‘attentive,’ and that its later uses",
+   "c2s4": "are more or less indefinite, indicating that it was orig. a poetical word, based on some other, which other is prob. ''wistly'' for ''whistly'' as here",
+   "c3s1": "assumed.] '''1.''' Silent; hushed; standing in mute attention.\n{{smaller block|<poem>In sullen mutt’rings chid\nThe artlesse songsters, that their musicke still\nShould charme the sweet dale and the ''wistfull'' hill.</poem>\n{{right|''W. Browne'', Britannia’s Pastorals, ii. 2.}}\nThis commanding creature . . . put on such a resignation in her countenance, and bore the whispers of all around the court with such a pretty uneasiness, . . . until she was perfectly confused by meeting something so ''wistful'' in all she encountered. {{right|''Steele'', Spectator, No. 113.}}}}\n'''2.''' Full of thoughts; contemplative; musing; pensive.\n{{smaller block|<poem>Why, Grubbinol, dost thou so ''wistful'' seem?\nThere ’s sorrow in thy look.</poem>\n{{right|''Gay'', Shepherd’s Week, Friday.}}}}\n'''3.''' Wishful; longing.\n{{smaller block|Lifting up one of my sashes, [I] cast many a ''wistful'', melancholy look towards the sea.\n{{right|''Swift'', Gulliver’s Travels, ii. 8.}}\nNo poet has expressed more vividly than Shelley the ''wistful'' eagerness of the human spirit to interpret the riddle of the universe. {{right|''E. Dowden'', Shelley, I. 75.}}}}\n\n'''wistfully''' (wist′fu̇l-i), ''adv.'' In a wistful manner; pensively; earnestly; longingly; wishfully.\n{{smaller block|<poem>With that, he fell again to pry\nThrough perspective more ''wistfully''.</poem>\n{{right|''S. Butler'', Hudibras, II. iii. 458.}}\nThe captive’s miserable solace of gazing ''wistfully'' upon the world from which he is excluded.\n{{right|''Irving'', Sketch-Book, p. 112.}}\nDoubtless there is nothing sinful in gazing ''wistfully'' at the marvellous providences of God’s moral governance, and wishing to understand them.\n{{right|''J. H. Newman'', Parochial Sermons, i. 204.}}}}\n\n'''wistfulness''' (wist′fu̇l-nes), ''n.'' The state or",
+   "c3s2": "property of being wistful.\n\n'''wistless''' (wist′les), ''a.'' [Irreg. < ''wist'', known: see ''wit''<sup>1</sup>. Cf. ''wistful'' and ''-less''.] Not knowing; ignorant (of); unwitting (of). [Rare.]\n{{smaller block|<poem>''Wistless'' what I did, half from the sheath\nDrew its glittering blade. {{right|''Southey'', Joan of Arc, i.}}</poem>}}\n\n'''wistly†''' (wist′li), ''adv.'' [Prob. for ''whistly'', i. e. ‘silently,’ which sense suits the earliest quotations (cf. “And her eyes on all my motions with a mute observance hung,” ''Tennyson'', Locksley Hall); the change of ''hw'' to ''w'' is very common in England, and may well have been assisted in this instance by association with ''wist'', pret. of ''wit'', and with ''wish''; but to derive ''wistly'' from either ''wist'' or ''wish'' (as if for ''wishedly'') is contrary to sound theory and to the actual use of the word. ''Wishly'' in the “Mir. for Mags.,” given as the “same as ''wistly'',” may be truly ''wishly'', < ''wish'' + ''-ly''<sup>2</sup>. The same considerations apply to ''wistful'', which appears to stand for *''whistful''.] '''1.''' Silently; with mute attention; earnestly.\n{{smaller block|<poem>Robyn behelde our comly kynge\n''Wystly'' in the face.\n{{right|''Lytell Geste of Robyn Hode'' (Child’s Ballads, V. 115).}}</poem>\n<poem>Speaking it, he ''wistly'' look’d on me;\nAs who should say, “I would thou wert the man\nThat would divorce this terror from my heart.”\n{{right|''Shak.'', Rich. II., v. 4. 7.}}</poem>\n<poem>For I’ll go turn my tub against the sun,\nAnd ''wistly'' mark how higher planets run,\nContemplating their hidden motion.\n{{right|''Marston'', Satires, v. 171.}}</poem>}}\n\n'''wistonwish''' (wis′tọn-wish), ''n.'' Same as ''wishtonwish''. ''Godman''; ''Coues and Allen''.",
+   "c3s3": "¶\n\n'''wit<sup>1</sup>''' (wit), ''v.'' Pres. ind. 1st pers. ''wot'', 2d pers. ''wost'' (erroneously ''wottest'', ''wotst''), 3d pers. ''wot'' (erroneously ''wotteth''), pl. ''wit'', pret. ''wist'', pp. ''wist'' (or ''witen''). [A preterit-present verb whose forms have been much confused and misused in mod. E., in which, except in the set phrase ''to wit'', it is now used only archaically; early mod. E. also ''weet'', ''wete'', < ME. ''weten'', ''witen'' (pres. 1st pers. ''wot'', ''wat'', 2d pers. ''wost'', ''wast'', 3d pers. ''wot'', ''woot'', ''wat'' (also 1st pers. ''wite'', 2d pers. ''witest'', 3d pers. ''witeth'', ''wites'', ''witez'', contr. ''wit''), pl. ''witeth'', ''weteth'' (subj. ''wite'', ''witen''), pret. ''wist'', ''wiste'', ''wuste'', sometimes by assimilation ''wisse'', ppr. ''witand'', ''wittand''), < AS. ''witan'' (pres. ind. 1st pers. ''wāt'', 2d pers. ''wāst'', 3d pers. ''wāt'', pl. ''witon''—an old pret. used as present; pret. ''wiste'', pl. ''wiston''), = OS. ''witan'' (pres. ind. ''wēt'') = OFries. ''wita'', ''weta'' (pres. ''wēt'') = D. ''weten'' (pres. ''weet'', pret. ''wist'', pp. ''geweten'') = LG. ''weten'' = OHG. ''wizzan'', MHG. ''wizzen'', G. ''wissen'', know (pres. 1 ''weiss'', 2 ''weisst'', 3 ''weiss'', pl. ''wissen'', pret. ''wusste'', pp. ''gewusst''), = Icel. ''vita'' (pres. ''veit'', pret. ''vissa'', pp. ''vitathr'') = Sw. ''veta'' (pres. ''vet'', pret. ''visste'', pp. ''vetat'') = Dan. ''vide'' (pres. ''veed'', pret. ''vidste'', pp. ''vidst'') = Goth. ''witan'' (pres. ''wait'', pret. ''wissa'', pp. not found), know: the inf. ''witan'', with short vowel, and sense ‘know,’ being a later form and sense, developed from the pret. and subj. of ''wītan'', pret. *''wāt'', see, the present ''wāt'', know, being orig. this pret. *''wāt'', saw, ‘I have seen’"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 12,
+    "input_tokens": 9680,
+    "output_tokens": 9483,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|wishful|6949|wit}}</noinclude>{{nop}}'''2.''' Desirable; inviting. [Poetical.]\n{{smaller block|<poem>Many a shady hill,\nAnd many an echoing valley, many a field\nPleasant and ''wishful'', did his passage yield\nTheir safe transcension.</poem>\n{{right|''Chapman'', tr. of Homer’s Hymn to Hermes, l. 185.}}}}\n{{smaller block|Having so ''wishful'' an Opportunity, . . . I could not but send you this Friendly Salute. {{right|''Howell'', Letters, I. vi. 4.}}}}\n\n'''wishfully''' (wish′fu̇l-i), ''adv.'' '''1.''' With desire; longingly; wistfully.\n{{smaller block|And all did ''wishfully'' expect the silver-thronéd morn.\n{{right|''Chapman'', Iliad, viii. 497.}}}}\n{{smaller block|He looked up ''wishfully'' in my uncle Toby’s face, then cast a look upon his boy — and that ligament, fine as it was, was never broken. {{right|''Sterne'', Tristram Shandy, vi. 10.}}}}\n\n'''2.''' Desirably; according to one’s wishes.\n{{smaller block|<poem>''Phœ.'' I doubt now\nWe shall not gain access unto your love,\nOr she to us.\n''Fid.'' Most ''wishfully'' here she comes.</poem>\n{{right|''Middleton'', Phœnix, iii. 1.}}}}\n\n'''wishfulness''' (wish′fu̇l-nes), ''n.'' The state of being wishful; longing.\n{{smaller block|<poem>The natural infirmities of youth,\nSadness and softness, hopefulness, ''wishfulness.''</poem>\n{{right|''Sir H. Taylor'', Isaac Comnenus, iii. 1.}}}}\n\n'''wishing-bone''' (wish′ing-bōn), ''n.'' Same as ''wishbone.''\n\n'''wishing-cap''' (wish′ing-kap), ''n.'' A cap by wearing which one obtains whatever one wishes.\n\n'''wishing-rod''' (wish′ing-rod), ''n.'' A rod the wielding of which obtains one’s wishes, or confers unlimited power.\n\n'''wishly†''' (wish′li), ''adv.''   [< ''wish'' + ''-ly''<sup>2</sup>. Cf. ''wistly.'']   Wistly. [Rare.]\n{{smaller block|<poem>Æacides . . . ''wishly'' did intend\n(Standing asterne his tall neckt ship) how deepe the skirmish drew.</poem>\n{{right|''Chapman'', Iliad, xi.}}}}\n{{smaller block|<poem>Devereux, that undaunted knight,\nWho stood astern his ship, and ''wishly'' eyed\nHow deep the skirmish drew on either side.</poem>\n{{right|''Mir. for Mags.'', p. 863.}}}}\n\n'''wishness''' (wish′nes), ''n.'' Melancholy yearning. [Rare.]\n{{smaller block|<poem>Sighing (I heard the love-lorn swain)\n''Wishness!'' oh, ''wishness'' walketh here.</poem>\n{{right|''Polwhele'', Wishful Swain of Devon.}}}}\n\n'''wishtonwish''' (wish′tọn-wish), ''n.''   [Said to be Amer. Ind., and imitative.]   The prairie-dog of North America, ''Cynomys ludovicianus.'' See cut under ''prairie-dog'', and compare second cut under ''owl.''\n{{smaller block|The ''Wishtonwish'' of the Indians, prairie dogs of some travellers, . . . reside on the prairies of Louisiana in towns or villages, having an evident police established in their communities. . . . As you approach their towns, you are saluted on all sides by the cry of Wishtonwish, from which they derive their name with the Indians, uttered in a shrill and piercing manner.\n{{right|''Z. M. Pike'', Voyage to Sources of the Arkansaw, etc.}}\n{{right|[(1810), p. 156.}}}}\n{{smaller|[Misunderstood by Cooper as a name for the whippoorwill, it was so used by him in his novel “The Wept of Wish-ton-Wish,” and elsewhere.}}\n\n{{smaller block|“He speaks of the ''wish-ton-wish'',” said the scout. “Well, since you like his whistle, it shall be your signal. Remember, then, when you hear the whip-poor-will’s call three times repeated, you are to come into the bushes.”\n{{right|''J. F. Cooper'', Last of Mohicans, xxii.]}}}}\n\n'''wish-wash''' (wish′wosh), ''n.''   [A varied redupl. of ''wash''.]   Anything wishy-washy; especially, a thin, sloppy drink. [Colloq.]\n\n'''wishy-washy''' (wish′i-wosh″i), ''a.'' and ''n.''   [A varied redupl. of ''washy''. Cf. ''wish-wash''.]   '''I.''' ''a.'' Very thin and weak; diluted; sloppy: originally used to note liquid substances; hence, feeble; lacking in substantial or desirable qualities; insignificant: as, a ''wishy-washy'' speech. [Colloq.]\n{{smaller block|A good seaman, . . . none of your Guinea-pigs, nor your fresh-water, ''wishy-washy'', fair-weather fowls.\n{{right|''Smollett.'' (''Imp. Dict.'')}}}}\n{{smaller block|The ''wishy-washy'', bread-and-butter period of life.\n{{right|''Trollope'', Barchester Towers, xli.}}}}\n\n'''II.''' ''n.'' Any sort of thin, weak liquor. [Colloq.]\n\n'''wisket''' (wis′ket), ''n.'' Same as ''whisket''.\n\n'''wisliche†, wisloker†,''' ''adv.'' Middle English forms of ''wisely'', ''wiselier'' (more wisely).\n\n'''wisly†,''' ''adv.''   [ME., also ''wysly'', ''wislike''; < AS. ''gewislīce'', ''gewisslīce'', < ''gewis'', certain: see ''wis''<sup>2</sup>, ''iwis''.]   Certainly; surely.\n{{smaller block|I not myself noght ''wysly'' what it is.\n{{right|''Chaucer'', Troilus, iii. 1653.}}}}\n\n'''wisp''' (wisp), ''n.''   [< ME. ''wisp'', ''wysp'', ''wesp'', ''wispe'', also ''wips'', an older form (the ''s'' being prob. formative); not found in AS.; cf. LG. ''wiep'', a wisp; cf. Norw. ''vippa'', something that skips about, a wisp to sprinkle or daub with, a swape, or machine for raising water, etc., = Sw. dial. ''vipp'', an ear of rye, a little sheaf or bundle; cf. Goth. ''waips'', also ''wipja'', a crown. ''Wisp'' has nothing to do with ''whisk''<sup>1</sup>: see ''whisk''<sup>1</sup>.]   '''1.''' A handful or small bundle, as of straw or hay; a twisted handful.\n{{smaller block|<poem>A ''wisp'' of straw were worth a thousand crowns\nTo make this shameless callet know herself.</poem>\n{{right|''Shak.'', 3 Hen. VI., ii. 2. 144.}}}}\n{{smaller block|When indeed his admired mouth better deserved the help of Doctor Executioner, that he might wipe it with a hempen ''wisp''. {{right|''Tom Nash his Ghost'', p. 8.}}}}\n{{smaller block|Of this commission the bare-armed Bob, leading the way with a flaming ''wisp'' of paper, . . . speedily acquitted himself. {{right|''Dickens'', Our Mutual Friend, i. 13.}}}}\n'''2.''' A whisk, or small broom.—'''3.''' An ignis fatuus, or will-o’-the-wisp.\n{{smaller block|<poem>Or like a ''wisp'' along the marsh so damp,\n  Which leads beholders on a boggy walk,\nHe flitted to and fro a dancing light,\n  Which all who saw it follow’d, wrong or right.</poem>\n{{right|''Byron'', Don Juan, vii. 46.}}}}\n{{smaller block|<poem>We did not know the real light, but chased\nThe ''wisp'' that flickers where no foot can tread.</poem>\n{{right|''Tennyson'', Princess, iv.}}}}\n'''4.''' A disease in cattle, consisting in inflammation and suppuration of the interdigital tissues, most commonly of the hind feet. {{smaller|It may be due to the irritation of dirt, to overgrowth of the hoof, or other causes. Also called ''foul in the foot''. Also ''whisp''.}}\n{{smaller block|To cure a Bullock that hath the ''Whisp'' (that is lame between the Clees). {{right|''Aubrey'', Misc., p. 138.}}}}\n'''5.''' In ''falconry'', a flight or walk of snipe.='''Syn. 5.''' {{smaller|''Covey, etc.'' See ''flock''<sup>1</sup>.}}\n\n'''wisp''' (wisp), ''v. t.''   [< ''wisp'', ''n.'']   '''1.''' To brush, dress, or rub down with or as with a wisp.—'''2.''' To rumple. ''Halliwell.'' [Prov. Eng.]\n\n'''wispen†''' (wis′pn), ''a.''   [< ''wisp'' + ''-en''<sup>2</sup>.]   Formed of a wisp or wisps. {{smaller block|She hath already put on her ''wispen'' garland.\n{{right|''G. Harvey'', Pierce’s Supererogation (Brydge’s Archaica, II. 149).}}}}\n\n'''wispy''' (wis′pi), ''a.''   [< ''wisp'' + ''-y''<sup>1</sup>.]   Like a wisp.\n{{smaller block|A pinched, ''wispy'' little man.\n{{right|''D. C. Murray'', Weaker Vessel, xi.}}}}\n\n'''wiss†''', ''v. t.''   [ME. ''wissen'', < AS. ''wissian'', a var. of ''wisian'', show: see ''wise''<sup>3</sup>.]   Same as ''wise''<sup>3</sup>.\n{{smaller block|Gyffe I wirke wronge, whom should me ''wys'' be any waye?\n{{right|''York Plays'', p. 32.}}}}\n{{smaller block|<poem>Thow coudest nevere in love thiselven ''wysse'',\nHow devel maystow brynge me to blysse?</poem>\n{{right|''Chaucer'', Troilus, i. 622.}}}}\n{{smaller block|Knowest thou ouht a corseynt men calleth seynt Treuthe?\nConst thou ''wissen'' vs the wey wher that he dwelleth?\n{{right|''Piers Plowman'' (A), vi. 24.}}}}\n\n'''wissen†''', ''v. t.'' See ''wiss.''\n\n'''Wissonday†''', ''n.'' A Middle English variant of ''Whitsunday.''\n\n'''wist'''<sup>1</sup>. Preterit of ''wit''<sup>1</sup>.\n\n'''wist'''<sup>2</sup> (wist), ''v.'' A spurious word, improperly used as present indicative (''wists'') of ''wit''<sup>1</sup>. [Rare.]\n{{smaller block|But though he ''wists'' not of this, he is moved like the great German poet.\n{{right|''Buckle'', Essays (Progress of Knowledge), p. 195.}}}}\n\n'''Wistaria''' (wis-tā′ri-ä), ''n.''   [NL. (Nuttall, 1818), named in honor of Caspar ''Wistar'', an American anatomist (1761-1818).]   '''1.''' A genus of leguminous plants, of the tribe ''Galegeæ'' and subtribe ''Tephrosieæ.'' {{smaller|It is characterized by having papilionaceous flowers in terminal racemes, with a smooth style and stamens usually completely diadelphous, and by a coriaceous readily dehiscent legume, the last character separating it from the large tropical Old World genus ''Millettia.'' There are 2 or 3 species, natives of North America, China, and Japan. They are lofty climbing shrubs with odd-pinnate leaves, entire feather-veined and reticulated leaflets, and small stipules. The handsome purplish flowers form terminal pendent racemes. They are much cultivated in America, commonly under the generic name (sometimes erroneously ''Wisteria''); in England they are often known as ''kidney-bean tree'', in Australia as ''grape flower vine. W. Chinensis'', the Chinese, and ''W. frutescens'', the American wistaria, are much used in the United States to cover verandas and walls. The latter is a native of swamp-margins from Virginia to Illinois and southward, and develops its flowers at the same time with the leaves, instead of before them, as in ''W. Chinensis. W. Japonica'', by some thought not a distinct species, is commonly trained in Japan horizontally on trellises over pleasure-seats as an ornamental shade; it sometimes lives more than a century.}}\n\n'''2.''' [''l. c.''] A plant of this genus.\n\n'''wistful''' (wist′fu̇l), ''a.''   [Prob. for *''whistful'', based on the older adverb ''wistly'', which is prob. for ''whistly''. The assumption that ''wistful'' stands for ''wishful'' is untenable; for the required change ''wishful'' > *''wisful'' > ''wistful'' could not occur in the mod. E. period, particularly with ''wishful'' itself remaining in use; but the sense ‘longing’ appears to have arisen in part from association with ''wishful''. It is to be noted that ''wistful'' in the earliest instance quoted (Browne) does not mean, as some dictionaries give it, merely ‘observant’ or ‘attentive,’ and that its later uses are more or less indefinite, indicating that it was orig. a poetical word, based on some other, which other is prob. ''wistly'' for ''whistly'' as here assumed.]   '''1.''' Silent; hushed; standing in mute attention.\n{{smaller block|<poem>In sullen mutt’rings chid\nThe artlesse songsters, that their musicke still\nShould charme the sweet dale and the ''wistfull'' hill.</poem>\n{{right|''W. Browne'', Britannia’s Pastorals, ii. 2.}}}}\n{{smaller block|This commanding creature . . . put on such a resignation in her countenance, and bore the whispers of all around the court with such a pretty uneasiness, . . . until she was perfectly confused by meeting something so ''wistful'' in all she encountered. {{right|''Steele'', Spectator, No. 113.}}}}\n'''2.''' Full of thoughts; contemplative; musing; pensive.\n{{smaller block|<poem>Why, Grubbinol, dost thou so ''wistful'' seem?\nThere ’s sorrow in thy look.</poem>\n{{right|''Gay'', Shepherd’s Week, Friday.}}}}\n'''3.''' Wishful; longing.\n{{smaller block|Lifting up one of my sashes, [I] cast many a ''wistful'', melancholy look towards the sea.\n{{right|''Swift'', Gulliver’s Travels, ii. 8.}}}}\n{{smaller block|No poet has expressed more vividly than Shelley the ''wistful'' eagerness of the human spirit to interpret the riddle of the universe. {{right|''E. Dowden'', Shelley, I. 75.}}}}\n\n'''wistfully''' (wist′fu̇l-i), ''adv.'' In a wistful manner; pensively; earnestly; longingly; wishfully.\n{{smaller block|<poem>With that, he fell again to pry\nThrough perspective more ''wistfully''.</poem>\n{{right|''S. Butler'', Hudibras, II. iii. 458.}}}}\n{{smaller block|The captive’s miserable solace of gazing ''wistfully'' upon the world from which he is excluded.\n{{right|''Irving'', Sketch-Book, p. 112.}}}}\n{{smaller block|Doubtless there is nothing sinful in gazing ''wistfully'' at the marvellous providences of God’s moral governance, and wishing to understand them.\n{{right|''J. H. Newman'', Parochial Sermons, i. 204.}}}}\n\n'''wistfulness''' (wist′fu̇l-nes), ''n.'' The state or property of being wistful.\n\n'''wistless''' (wist′les), ''a.''   [Irreg. < ''wist'', known: see ''wit''<sup>1</sup>. Cf. ''wistful'' and ''-less''.]   Not knowing; ignorant (of); unwitting (of). [Rare.]\n{{smaller block|<poem>''Wistless'' what I did, half from the sheath\nDrew its glittering blade. {{right|''Southey'', Joan of Arc, i.}}</poem>}}\n\n'''wistly†''' (wist′li), ''adv.''   [Prob. for ''whistly'', i. e. ‘silently,’ which sense suits the earliest quotations (cf. “And her eyes on all my motions with a mute observance hung,” ''Tennyson'', Locksley Hall); the change of ''hw'' to ''w'' is very common in England, and may well have been assisted in this instance by association with ''wist'', pret. of ''wit'', and with ''wish''; but to derive ''wistly'' from either ''wist'' or ''wish'' (as if for ''wishedly'') is contrary to sound theory and to the actual use of the word. ''Wishly'' in the “Mir. for Mags.,” given as the “same as ''wistly'',” may be truly ''wishly'', < ''wish'' + ''-ly''<sup>2</sup>. The same considerations apply to ''wistful'', which appears to stand for *''whistful''.]   '''1.''' Silently; with mute attention; earnestly.\n{{smaller block|<poem>Robyn behelde our comly kynge\n''Wystly'' in the face.\n{{right|''Lytell Geste of Robyn Hode'' (Child’s Ballads, V. 115).}}</poem>\n<poem>Speaking it, he ''wistly'' look’d on me;\nAs who should say, “I would thou wert the man\nThat would divorce this terror from my heart.”\n{{right|''Shak.'', Rich. II., v. 4. 7.}}</poem>\n<poem>For I’ll go turn my tub against the sun,\nAnd ''wistly'' mark how higher planets run,\nContemplating their hidden motion.\n{{right|''Marston'', Satires, v. 171.}}</poem>}}\n\n'''wistonwish''' (wis′tọn-wish), ''n.'' Same as ''wishtonwish''. ''Godman''; ''Coues and Allen''.\n\n'''wit<sup>1</sup>''' (wit), ''v.'' Pres. ind. 1st pers. ''wot'', 2d pers. ''wost'' (erroneously ''wottest'', ''wotst''), 3d pers. ''wot'' (erroneously ''wotteth''), pl. ''wit'', pret. ''wist'', pp. ''wist'' (or ''witen''). [A preterit-present verb whose forms have been much confused and misused in mod. E., in which, except in the set phrase ''to wit'', it is now used only archaically; early mod. E. also ''weet'', ''wete'', < ME. ''weten'', ''witen'' (pres. 1st pers. ''wot'', ''wat'', 2d pers. ''wost'', ''wast'', 3d pers. ''wot'', ''woot'', ''wat'' (also 1st pers. ''wite'', 2d pers. ''witest'', 3d pers. ''witeth'', ''wites'', ''witez'', contr. ''wit''), pl. ''witeth'', ''weteth'' (subj. ''wite'', ''witen''), pret. ''wist'', ''wiste'', ''wuste'', sometimes by assimilation ''wisse'', ppr. ''witand'', ''wittand''), < AS. ''witan'' (pres. ind. 1st pers. ''wāt'', 2d pers. ''wāst'', 3d pers. ''wāt'', pl. ''witon''—an old pret. used as present; pret. ''wiste'', pl. ''wiston''), = OS. ''witan'' (pres. ind. ''wēt'') = OFries. ''wita'', ''weta'' (pres. ''wēt'') = D. ''weten'' (pres. ''weet'', pret. ''wist'', pp. ''geweten'') = LG. ''weten'' = OHG. ''wizzan'', MHG. ''wizzen'', G. ''wissen'', know (pres. 1 ''weiss'', 2 ''weisst'', 3 ''weiss'', pl. ''wissen'', pret. ''wusste'', pp. ''gewusst''), = Icel. ''vita'' (pres. ''veit'', pret. ''vissa'', pp. ''vitathr'') = Sw. ''veta'' (pres. ''vet'', pret. ''visste'', pp. ''vetat'') = Dan. ''vide'' (pres. ''veed'', pret. ''vidste'', pp. ''vidst'') = Goth. ''witan'' (pres. ''wait'', pret. ''wissa'', pp. not found), know: the inf. ''witan'', with short vowel, and sense ‘know,’ being a later form and sense, developed from the pret. and subj. of ''wītan'', pret. *''wāt'', see, the present ''wāt'', know, being orig. this pret. *''wāt'', saw, ‘I have seen’<noinclude><references/></noinclude>"
+}
