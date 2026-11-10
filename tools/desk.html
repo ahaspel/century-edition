@@ -1,3 +1,7 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Century Proofreading Desk</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -167,6 +171,13 @@ textarea { flex: 1; width: 100%; min-height: 12rem; resize: none; padding: 10px 
 }
 @media (prefers-reduced-motion: reduce) { .meter > i { transition: none; } }
 </style>
+<style>
+.signin { display: grid; gap: 8px; max-width: 70ch; }
+.signin[hidden] { display: none; }
+.signin .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.signin input { flex: 1; min-width: 16em; font-family: ui-monospace, monospace; }
+.btn.send { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+</style>
 
 <div class="wrap">
   <header class="top">
@@ -178,26 +189,27 @@ textarea { flex: 1; width: 100%; min-height: 12rem; resize: none; padding: 10px 
       <button type="button" class="btn" id="nextPage" aria-label="Next page">Next &rsaquo;</button>
       <div class="progress"><div class="meter"><i id="meterFill"></i></div><span id="progressText">0 of 0 pages checked</span></div>
       <div class="who" id="who" hidden>
-        <span>You: <b id="whoName"></b></span>
-        <button type="button" class="linkish" id="whoChange">not you?</button>
-        <label for="viewPick">Show</label>
-        <select id="viewPick"><option value="mine">my pages</option><option value="all">everyone's pages</option></select>
+        <span>Signed in as <b id="whoName"></b></span>
+        <button type="button" class="linkish" id="signOut">change token</button>
       </div>
-      <span class="give" id="give" hidden>
-        <label for="givePick">Give this page to</label>
-        <select id="givePick"></select>
-        <button type="button" class="btn" id="giveBtn" disabled>Give</button>
-      </span>
+      <button type="button" class="btn send" id="sendBtn" hidden>Send checked pages and get more</button>
     </div>
-    <div class="notice claim" id="claim" hidden>
-      <span>Which of these is you? The desk shows each person the pages they fetched or were given.</span>
-      <span id="claimNames"></span>
+    <div class="notice signin" id="signin" hidden>
+      <span>To save, the desk needs a GitHub token of yours with access to <b id="repoName"></b>. Make one at
+      <a href="https://github.com/settings/tokens/new?scopes=public_repo&amp;description=Century%20desk" target="_blank" rel="noopener">github.com/settings/tokens</a>
+      (a classic token, with the <b>public_repo</b> box ticked), and paste it here. It stays in this browser.</span>
+      <div class="row"><input type="password" id="tokenInput" autocomplete="off" spellcheck="false" aria-label="GitHub token">
+        <button type="button" class="btn primary" id="tokenSave">Sign in</button></div>
     </div>
     <details class="help" id="help">
       <summary>How to proofread a page</summary>
       <p>Each page is shown whole: the scan, the page as a reader of the site will see it, and our transcription in
       wikitext. Compare the scan with the reader's view, correct the wikitext, and <b>Save</b>. When the whole page
-      is right, press <b>Save and mark page checked</b>. Every save is kept, with the text before and after.</p>
+      is right, press <b>Save and mark page checked</b>. Every save goes straight to your branch on GitHub: nothing
+      is lost if you close the page.</p>
+      <p><b>Sending.</b> When you want more pages, press <b>Send checked pages and get more</b>. Your saved pages
+      go into the book on your branch, and the desk is rebuilt with your next pages. It takes a few minutes; the
+      desk reloads itself when it is ready.</p>
       <p><b>Flags.</b> Words in yellow were caught by checks on the book's own order and notation, such as a headword
       out of alphabetical order or a mark not in the pronunciation key. Click a flag to find it in the wikitext.
       A flag is a pointer, not a verdict: the page may well print what was read.</p>
@@ -208,16 +220,12 @@ textarea { flex: 1; width: 100%; min-height: 12rem; resize: none; padding: 10px 
       the Markup palette); it types &lt;br&gt; for you. To begin a new paragraph, press Enter twice, leaving a blank
       line. A plain Enter alone, as on Wikisource, is read as a space: the printed lines join into one paragraph.
       For verse, or a list set line by line, put one printed line per line, select them, and press <b>poem</b>.</p>
-      <p><b>Your pages.</b> The desk shows you the pages you fetched with your own key. To hand one to someone else,
-      choose them under <b>Give to</b> and press <b>Give</b>: the page, with anything you typed on it, is theirs from
-      then on. <b>Show everyone's pages</b> lets you read the others' pages; only a page's owner can save it.</p>
       <p><b>Quotation marks and apostrophes</b> are curly, as the book prints them: use the <b>Quotes</b> keys
       (“ ” ‘ ’). A straight " pair typed by mistake still comes out curly, but a straight ' does not, and beside
       italic or bold ('' or ''') it is read as part of the markup.</p>
       <p><b>Indents.</b> Spaces typed at the start of a line do not show. To set a line in (verse), put
       <b>indent</b> from the Markup palette at its start.</p>
-      <p><b>Figures</b> appear in the reader's view where they stand in the page. If a crop misses part of the
-      picture or takes in text, say so with <b>Comment on this page</b>.</p>
+      <p><b>Figures</b> appear in the reader's view where they stand in the page.</p>
     </details>
     <ul class="issues" id="issues" aria-label="Notes, flags and markup to look at"></ul>
     <div id="status" class="notice" hidden></div>
@@ -256,8 +264,7 @@ textarea { flex: 1; width: 100%; min-height: 12rem; resize: none; padding: 10px 
         <div class="actions">
           <button type="button" class="btn primary" id="saveBtn" disabled>Save</button>
           <button type="button" class="btn ok" id="checkBtn" disabled>Save and mark page checked</button>
-          <button type="button" class="btn" id="revertBtn" disabled>Restore model text</button>
-          <button type="button" class="btn comment-btn" id="commentBtn" hidden>Comment on this page</button>
+          <button type="button" class="btn" id="revertBtn" disabled>Undo my changes</button>
         </div>
         <div class="by" id="by"></div>
       </div>
@@ -271,8 +278,11 @@ textarea { flex: 1; width: 100%; min-height: 12rem; resize: none; padding: 10px 
    desk.json carries the pages (each one whole: its scan, running head and
    text), the render table the engine measured through its own chain, and the
    book's notation; the reader view is desk_render.js, held to the engine by its
-   parity gate.  This page adds no markup of its own.  Each page's current text
-   lives in the shared store (pages/<id>), seeded from the same text. */
+   parity gate.  This page adds no markup of its own.
+   Saving: each page as the person leaves it is committed to their branch,
+   desk/inbox/<page id>.json; Send commits desk/send.json, and the desk
+   workflow applies the inbox to the book and rebuilds this desk (site.json
+   names the send it answers). */
 const MARK_NAMES = {
   "̀": "grave", "́": "acute", "̂": "circumflex", "̃": "tilde",
   "̄": "macron", "̆": "breve", "̇": "dot above", "̈": "diaeresis",
@@ -280,12 +290,11 @@ const MARK_NAMES = {
   "̵": "short stroke overlay",
 };
 const COMBINING = ["̣", "̤", "̮", "̄", "̇", "̈"];
+const TOKEN_KEY = "century-desk-token";
 
 const $ = (s, el = document) => el.querySelector(s);
-const state = { desk: null, db: null, user: null, me: null, canWrite: null, docs: {}, drafts: {},
-                comments: null, renderTimer: 0,
-                // who is who: people/<name> -> {user}, claimed once by each person
-                claims: {}, myName: null, view: "mine" };
+const state = { desk: null, site: null, token: null, login: null, canPush: false,
+                inbox: {}, drafts: {}, renderTimer: 0, busy: false };
 
 function hex(c) { return "U+" + c.codePointAt(0).toString(16).toUpperCase().padStart(4, "0"); }
 function graphemeAt(text, pos) {
@@ -302,6 +311,56 @@ function setStatus(text, kind) {
   const el = $("#status"); el.hidden = !text; el.textContent = text || ""; el.dataset.kind = kind || "";
 }
 function escapeHtml(s) { return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
+
+/* ── GitHub: the person's branch is the store ─────────────────────────── */
+async function gh(path, opts = {}) {
+  const r = await fetch("https://api.github.com" + path, { ...opts, headers: {
+    "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28",
+    ...(state.token ? { "Authorization": "Bearer " + state.token } : {}),
+    ...(opts.body ? { "Content-Type": "application/json" } : {}) } });
+  if (!r.ok) { const e = new Error(`GitHub answered ${r.status}`); e.status = r.status; throw e; }
+  return r.status === 204 ? null : r.json();
+}
+function toBase64(s) {
+  const bytes = new TextEncoder().encode(s);
+  let bin = "";
+  for (let i = 0; i < bytes.length; i += 0x8000) bin += String.fromCharCode(...bytes.subarray(i, i + 0x8000));
+  return btoa(bin);
+}
+function fromBase64(b) {
+  const bin = atob(b.replace(/\s/g, ""));
+  return new TextDecoder().decode(Uint8Array.from(bin, c => c.charCodeAt(0)));
+}
+const contents = p => `/repos/${state.site.repo}/contents/${p}`;
+async function readFile(p) {
+  try {
+    const f = await gh(contents(p) + "?ref=" + encodeURIComponent(state.site.branch));
+    return { data: JSON.parse(fromBase64(f.content)), sha: f.sha };
+  } catch (e) { if (e.status === 404) return null; throw e; }
+}
+/* Write one file on the person's branch; a stale sha (someone, or another
+   tab, wrote it since) is read again once. */
+async function writeFile(p, data, message, sha) {
+  const body = d => JSON.stringify({ message, branch: state.site.branch,
+    content: toBase64(JSON.stringify(d, null, 1) + "\n"), ...(sha ? { sha } : {}) });
+  try { return await gh(contents(p), { method: "PUT", body: body(data) }); }
+  catch (e) {
+    if (e.status !== 409 && e.status !== 422) throw e;
+    sha = (await readFile(p) || {}).sha;
+    return await gh(contents(p), { method: "PUT", body: body(data) });
+  }
+}
+/* The inbox: every page saved here and not yet sent. */
+async function loadInbox() {
+  state.inbox = {};
+  let list;
+  try { list = await gh(contents("desk/inbox") + "?ref=" + encodeURIComponent(state.site.branch)); }
+  catch (e) { if (e.status === 404) return; throw e; }
+  await Promise.all(list.filter(f => f.name.endsWith(".json")).map(async f => {
+    const got = await readFile("desk/inbox/" + f.name);
+    if (got) state.inbox[f.name.slice(0, -5)] = { row: got.data, sha: got.sha };
+  }));
+}
 
 /* The palette: the engine's markup (the render table's constructs) and the
    book's own notation. */
@@ -346,8 +405,6 @@ function buildPalette() {
     add(g.label, g.symbols.map(s => ({ shown: s.symbol, insert: s.symbol,
       title: (s.as_in ? "as in " + s.as_in : s.meaning || "") + (s.uncertain ? " (to confirm against the page)" : "") })), key);
   }
-  // the book prints its quotation marks and apostrophes curly; a straight '
-  // beside '' or ''' is read as markup
   add("Quotes", [["“", "Opening quotation mark"], ["”", "Closing quotation mark"],
                  ["‘", "Opening single quotation mark"], ["’", "Apostrophe, or closing single quotation mark (don’t)"]]
     .map(([c, t]) => ({ shown: c, insert: c, title: t })), key);
@@ -371,10 +428,13 @@ function wrap(open, close) {
 
 function page() { return state.desk.pages.find(p => p.id === $("#pagePick").value) || state.desk.pages[0]; }
 function current() { return { head: $("#headInput").value, text: $("#text").value }; }
+/* A page's text as it stands: saved here and not yet sent, else as the
+   branch had it when the desk was built. */
 function stored(pg) {
-  const d = state.docs[pg.id];
-  return d ? { head: d.head ?? "", text: d.text ?? "" } : { head: pg.head, text: pg.text };
+  const s = state.inbox[pg.id];
+  return s ? { head: s.row.head ?? "", text: s.row.text ?? "" } : { head: pg.head, text: pg.text };
 }
+function isChecked(pg) { const s = state.inbox[pg.id]; return s ? s.row.status === "checked" : pg.checked; }
 function isDirty(pg) {
   const dr = state.drafts[pg.id]; if (!dr) return false;
   const s = stored(pg); return dr.head !== s.head || dr.text !== s.text;
@@ -390,7 +450,8 @@ function headHtml(src) {
   return `<div class="rh"><span>${l}</span><span>${c}</span><span>${r}</span></div>`;
 }
 function paint() {
-  const pg = page(), { head, text } = current();
+  const pg = page(); if (!pg) return;
+  const { head, text } = current();
   const { html, leaks } = DeskRender.render(text, state.desk.table, pg.figures);
   let out = html;
   const tokens = [...new Set(leaks.filter(l => !l.includes(" ")))];
@@ -428,7 +489,6 @@ function findInText(needle) {
   ta.focus(); ta.setSelectionRange(at, at + needle.length);
   const line = ta.value.slice(0, at).split("\n").length;
   const lh = parseFloat(getComputedStyle(ta).lineHeight) || 26;
-  // a long line wraps: estimate by characters as well as by lines
   const cols = Math.max(20, Math.floor(ta.clientWidth / 9));
   const wrapped = ta.value.slice(0, at).split("\n").reduce((k, l) => k + Math.max(1, Math.ceil(l.length / cols)), 0);
   ta.scrollTop = Math.max(0, (Math.max(line, wrapped) - 4) * lh);
@@ -447,8 +507,6 @@ function paintIssues(pg, leaks) {
     b.addEventListener("click", () => findInText(f.text));
     li.appendChild(b); ul.appendChild(li);
   }
-  // a line the edition reads otherwise can be found; a stray mark is shown in
-  // red where it stands in the reader's view
   const lines = [...new Set(leaks.filter(l => l.includes(" ")))];
   const marks = [...new Set(leaks.filter(l => !l.includes(" ")))];
   if (marks.length) {
@@ -466,204 +524,59 @@ function paintIssues(pg, leaks) {
   }
 }
 
-/* Whose page it is: whoever it was last given to at the desk, else whoever
-   fetched it (desk.json's owner).  Without the store (a preview) every page
-   is open to try; with it, only the owner saves or gives a page. */
-function ownerOf(pg) { const d = state.docs[pg.id]; return (d && d.owner) || pg.owner || null; }
-function isMine(pg) { return !state.db || (!!state.myName && ownerOf(pg) === state.myName); }
-function visiblePages() {
-  if (!state.db || !state.myName || state.view === "all") return state.desk.pages;
-  return state.desk.pages.filter(isMine);
-}
-
-/* The picker holds the pages in view: one's own, or everyone's. */
-function rebuildPicker() {
-  const pick = $("#pagePick"), was = pick.value, pages = visiblePages();
-  const ids = pages.map(p => p.id).join();
-  if (pick.dataset.ids !== ids) {
-    pick.textContent = "";
-    pages.forEach(p => { const o = document.createElement("option"); o.value = p.id; pick.appendChild(o); });
-    pick.dataset.ids = ids;
-    if (pages.some(p => p.id === was)) pick.value = was;
-    else {
-      // the page left the list (given away): go on to the next one after it
-      const all = state.desk.pages.map(p => p.id), at = all.indexOf(was);
-      const next = pages.find(p => all.indexOf(p.id) > at);
-      if (next) pick.value = next.id;
-    }
-    if (!pages.length) setStatus("You have no pages on the desk right now. Show everyone's pages to read the others'.", "");
-  }
-  refreshPicker();
-  return pick.value !== was;
-}
-
 function refreshPicker() {
   const pick = $("#pagePick");
   for (const o of pick.options) {
     const pg = state.desk.pages.find(p => p.id === o.value);
-    const d = state.docs[pg.id];
-    const checked = d ? d.status === "checked" : pg.checked;
     const n = (pg.flags || []).length;
-    const whose = state.db && state.myName && !isMine(pg) && ownerOf(pg) ? ` — ${ownerOf(pg)}'s` : "";
-    o.textContent = (checked ? "✓ " : "") + pg.label + whose + (n ? ` — ${n} flagged` : "") + (isDirty(pg) ? " (unsaved)" : "");
+    o.textContent = (isChecked(pg) ? "✓ " : "") + pg.label + (n ? ` — ${n} flagged` : "")
+      + (isDirty(pg) ? " (unsaved)" : state.inbox[pg.id] ? " (saved)" : "");
   }
   const i = pick.selectedIndex;
   $("#prevPage").disabled = i <= 0; $("#nextPage").disabled = i >= pick.options.length - 1;
 }
-
 function refreshProgress() {
-  const pages = visiblePages();
-  const done = pages.filter(pg => { const d = state.docs[pg.id]; return d ? d.status === "checked" : pg.checked; }).length;
-  const yours = pages !== state.desk.pages ? " of yours" : "";
-  $("#progressText").textContent = `${done} of ${pages.length} pages${yours} checked`;
+  const pages = state.desk.pages, done = pages.filter(isChecked).length;
+  $("#progressText").textContent = `${done} of ${pages.length} pages checked` +
+    (state.site.waiting > pages.length ? ` (${state.site.waiting} waiting in all)` : "");
   $("#meterFill").style.width = (pages.length ? 100 * done / pages.length : 0) + "%";
 }
 
-/* Who is who: each person says once which name is theirs (people/<name>). */
-function refreshWho() {
-  const claim = $("#claim"), who = $("#who");
-  const asking = !!state.db && !state.myName && state.canWrite !== false;
-  claim.hidden = !asking; who.hidden = !state.myName;
-  if (state.myName) $("#whoName").textContent = state.myName;
-  if (asking) {
-    const box = $("#claimNames"); box.textContent = "";
-    for (const name of state.desk.people || []) {
-      const b = document.createElement("button"); b.type = "button"; b.className = "btn";
-      const taken = state.claims[name] && state.claims[name] !== state.me;
-      b.textContent = name + (taken ? " (taken)" : ""); b.disabled = !!taken;
-      b.addEventListener("click", () => claimName(name));
-      box.appendChild(b);
-    }
-  }
-  const give = $("#givePick"), others = (state.desk.people || []).filter(n => n !== state.myName);
-  if (give.dataset.names !== others.join()) {
-    give.textContent = "";
-    const none = document.createElement("option"); none.value = ""; none.textContent = "choose…"; give.appendChild(none);
-    others.forEach(n => { const o = document.createElement("option"); o.value = n; o.textContent = n; give.appendChild(o); });
-    give.dataset.names = others.join();
-  }
-}
-async function claimName(name) {
-  try { await state.db.doc("people/" + name).set({ user: state.me, at: new Date().toISOString() }); }
-  catch (e) { setStatus("Could not record who you are (" + (e && e.code || "error") + "). Try again.", "warn"); }
-}
-async function unclaim() {
-  if (!state.myName) return;
-  if (state.desk.pages.some(isDirty)) { setStatus("Save or undo your unsaved edits before changing who you are.", "warn"); return; }
-  try { await state.db.doc("people/" + state.myName).delete(); }
-  catch (e) { setStatus("Could not change who you are (" + (e && e.code || "error") + "). Try again.", "warn"); }
-}
-
-/* Giving a page: it, and anything typed on it, is the other person's from
-   then on.  Pressed once to choose, again to confirm. */
-function resetGive() {
-  const b = $("#giveBtn");
-  delete b.dataset.armed; b.textContent = "Give";
-  b.disabled = !$("#givePick").value;
-}
-async function give() {
-  const pg = page(), d = state.docs[pg.id], to = $("#givePick").value, b = $("#giveBtn");
-  if (!d || !to || !isMine(pg)) return;
-  if (!b.dataset.armed) {
-    b.dataset.armed = "1"; b.textContent = "Confirm: give to " + to;
-    setStatus(`${pg.label} will be ${to}'s` + (isDirty(pg) ? ", with your unsaved edits" : "") +
-              ". Press again to give it, or choose someone else to cancel.", "");
-    return;
-  }
-  const cur = current(), at = new Date().toISOString();
-  const patch = { owner: to, given_by: state.me, given_at: at };
-  if (cur.head !== d.head || cur.text !== d.text) Object.assign(patch, { head: cur.head, text: cur.text, status: "unchecked", updated_by: state.me, updated_at: at });
-  try {
-    await state.db.doc("pages/" + pg.id).update(patch);
-    if (cur.text !== d.text) await state.db.collection("corrections").add({ page: pg.id, field: "text", before: d.text, after: cur.text, by: state.me, at });
-    if (cur.head !== d.head) await state.db.collection("corrections").add({ page: pg.id, field: "head", before: d.head, after: cur.head, by: state.me, at });
-    delete state.drafts[pg.id];
-    $("#givePick").value = ""; resetGive();
-    setStatus(`${pg.label} is now ${to}'s.`, "");
-  } catch (e) {
-    resetGive();
-    setStatus("Could not give the page (" + (e && e.code || "error") + "). It is still yours; try again.", "warn");
-  }
-}
-
-async function refreshState() {
-  const pg = page(), d = state.docs[pg.id];
-  // without the store (a preview outside Claude) the text can still be tried:
-  // the reader's view follows it; only saving needs the store
-  const mine = isMine(pg);
-  const writable = state.canWrite !== false && !!state.db && !!d && mine;
-  const typable = state.canWrite !== false && (!state.db || !!d) && mine;
-  $("#text").readOnly = !typable; $("#headInput").readOnly = !typable;
-  const dirty = isDirty(pg);
-  let st = "unchecked";
-  if (state.db && d === undefined) st = "loading";
-  else if (state.db && d === null) st = "missing";
-  else if (!mine) st = "theirs";
-  else if (dirty) st = "dirty";
-  else if (d && d.status === "checked") st = "checked";
-  else if (d && (d.text !== d.model_text || d.head !== d.model_head)) st = "edited";
+function refreshState() {
+  const pg = page();
+  if (!pg) { refreshProgress(); return; }
+  const writable = state.canPush && !state.busy;
+  $("#text").readOnly = !writable; $("#headInput").readOnly = !writable;
+  const dirty = isDirty(pg), s = state.inbox[pg.id];
+  const st = !state.canPush ? "readonly" : dirty ? "dirty" : isChecked(pg) ? "checked" : s ? "edited" : "unchecked";
   const chip = $("#chip");
   chip.dataset.s = st;
-  chip.textContent = { loading: "loading", missing: "not on the desk", dirty: "unsaved", checked: "page checked",
-                       edited: "corrected, not checked", unchecked: "not checked",
-                       theirs: (ownerOf(pg) ? ownerOf(pg) + "'s page" : "someone else's page") + ", read only" }[st];
-  $("#give").hidden = !writable || !(state.desk.people || []).some(n => n !== state.myName);
+  chip.textContent = { readonly: "sign in to save", dirty: "unsaved", checked: s ? "checked, not sent yet" : "page checked",
+                       edited: "saved, not checked", unchecked: "not checked" }[st];
   $("#desk").dataset.state = st;
   $("#saveBtn").disabled = !writable || !dirty;
   $("#checkBtn").disabled = !writable || (st === "checked" && !dirty);
   const cur = current();
-  $("#revertBtn").disabled = !writable || !d || (cur.text === d.model_text && cur.head === d.model_head);
+  $("#revertBtn").disabled = !writable || (cur.text === pg.text && cur.head === pg.head);
+  $("#sendBtn").hidden = !state.canPush;
+  $("#sendBtn").disabled = state.busy;
+  $("#by").textContent = s && s.row.updated_at ? `Saved ${new Date(s.row.updated_at).toLocaleString()}` : "";
   refreshPicker(); refreshProgress();
-  const by = $("#by"); by.textContent = "";
-  if (d && d.updated_by && state.user) {
-    try {
-      const ps = await state.user.profiles([d.updated_by]);
-      const when = d.updated_at ? new Date(d.updated_at).toLocaleString() : "";
-      if (page().id === pg.id) by.textContent = `Last saved by ${(ps[d.updated_by] || {}).name || "someone"}${when ? ", " + when : ""}`;
-    } catch (e) { /* names are a courtesy */ }
-  }
 }
 
 function showPage() {
   const pg = page();
-  resetGive();
+  if (!pg) {
+    setStatus("No pages waiting for you. When more are transcribed, press Send to fetch them.", "");
+    refreshState(); return;
+  }
   const img = $("#scanImg"); img.src = pg.img; img.alt = "Scan of " + pg.label;
   $("#scanBox").scrollTop = 0; $("#scanBox").scrollLeft = 0;
   const v = state.drafts[pg.id] || stored(pg);
   $("#headInput").value = v.head; $("#text").value = v.text;
   $("#text").scrollTop = 0; $(".reader-pane .pane-body").scrollTop = 0;
   paint(); refreshState();
-  try { localStorage.setItem("century-desk-page", pg.id); } catch (e) {}
-}
-
-/* The store, live: every page's document (its text, status and owner) and
-   who is who.  A page given away leaves its giver's list and joins the
-   other's as it happens. */
-function storeChanged() {
-  if (rebuildPicker()) { showPage(); return; }
-  const pg = page();
-  if (!state.drafts[pg.id] && state.docs[pg.id]) {
-    const s = stored(pg);
-    if ($("#headInput").value !== s.head || $("#text").value !== s.text) {
-      $("#headInput").value = s.head; $("#text").value = s.text; paint();
-    }
-  }
-  refreshState();
-}
-function subscribe() {
-  const lost = err => setStatus("Lost the connection to the shared store (" + err.code + "). Reload the page to continue.", "warn");
-  state.db.collection("pages").onSnapshot(snap => {
-    const seen = {};
-    for (const doc of snap.docs) seen[doc.id] = doc.data();
-    for (const pg of state.desk.pages) state.docs[pg.id] = seen[pg.id] || null;
-    storeChanged();
-  }, lost);
-  state.db.collection("people").onSnapshot(snap => {
-    state.claims = {};
-    for (const doc of snap.docs) state.claims[doc.id] = (doc.data() || {}).user;
-    state.myName = Object.keys(state.claims).find(n => state.claims[n] === state.me) || null;
-    refreshWho(); storeChanged();
-  }, lost);
+  try { localStorage.setItem("century-desk-page-" + state.site.person, pg.id); } catch (e) {}
 }
 
 function edited() {
@@ -674,29 +587,26 @@ function edited() {
 }
 
 async function save(check) {
-  const pg = page(), d = state.docs[pg.id];
-  if (!d || !state.db) return;
+  const pg = page(); if (!pg || !state.canPush || state.busy) return;
   const cur = current(), at = new Date().toISOString();
-  const patch = { head: cur.head, text: cur.text, updated_by: state.me, updated_at: at };
-  const changed = cur.head !== d.head || cur.text !== d.text;
-  if (check) patch.status = "checked";
-  else if (changed) patch.status = "unchecked";
+  const row = { head: cur.head, text: cur.text, status: check ? "checked" : "unchecked",
+                owner: state.site.person, updated_by: state.login, updated_at: at };
+  state.busy = true; refreshState(); setStatus("Saving…", "");
   try {
-    await state.db.doc("pages/" + pg.id).update(patch);
-    if (cur.text !== d.text) await state.db.collection("corrections").add({ page: pg.id, field: "text", before: d.text, after: cur.text, by: state.me, at });
-    if (cur.head !== d.head) await state.db.collection("corrections").add({ page: pg.id, field: "head", before: d.head, after: cur.head, by: state.me, at });
+    const res = await writeFile(`desk/inbox/${pg.id}.json`, row,
+      `desk: ${pg.label} ${check ? "checked" : "saved"} (${state.login})`, (state.inbox[pg.id] || {}).sha);
+    state.inbox[pg.id] = { row, sha: res.content.sha };
     delete state.drafts[pg.id];
     setStatus(check ? "Saved, and the page is marked checked." : "Saved.", "");
   } catch (e) {
-    if (e && e.code === "invalid_argument") { state.canWrite = false; setStatus("This page is read-only for you. Ask the owner for edit access to save corrections.", "warn"); }
-    else setStatus("Could not save (" + (e && e.code || "error") + "). Your text is still in the box; try again.", "warn");
+    setStatus(`Could not save (${e.message}). Your text is still in the box; try again.`, "warn");
   }
-  refreshState();
+  state.busy = false; refreshState();
 }
 
 function revert() {
-  const pg = page(), d = state.docs[pg.id]; if (!d) return;
-  $("#headInput").value = d.model_head; $("#text").value = d.model_text;
+  const pg = page(); if (!pg) return;
+  $("#headInput").value = pg.head; $("#text").value = pg.text;
   edited();
 }
 
@@ -706,35 +616,103 @@ function step(k) {
   pick.selectedIndex = i; showPage();
 }
 
-async function start() {
-  try {
-    state.desk = await (await fetch("desk.json")).json();
-  } catch (e) {
-    setStatus("Could not load the desk's pages (desk.json). Reload the page.", "warn");
+/* Send: commit desk/send.json; the workflow applies the inbox and rebuilds
+   this desk, and site.json then names this send.  Pressed once to confirm. */
+async function send() {
+  const b = $("#sendBtn");
+  if (state.desk.pages.some(isDirty)) { setStatus("Save or undo your unsaved edits first.", "warn"); return; }
+  const n = Object.values(state.inbox).filter(s => s.row.status === "checked").length;
+  if (!b.dataset.armed) {
+    b.dataset.armed = "1"; b.textContent = "Press again to send";
+    setStatus(`${n} checked page${n === 1 ? "" : "s"} will go into the book on your branch, and the desk will be rebuilt with your next pages.`, "");
+    setTimeout(() => { delete b.dataset.armed; b.textContent = "Send checked pages and get more"; }, 8000);
     return;
   }
-  const pick = $("#pagePick");
-  rebuildPicker();
+  delete b.dataset.armed; b.textContent = "Sending…";
+  const id = Math.random().toString(36).slice(2) + Date.now().toString(36);
+  state.busy = true; refreshState();
   try {
-    const last = localStorage.getItem("century-desk-page");
+    const old = await readFile("desk/send.json");
+    await writeFile("desk/send.json", { id, at: new Date().toISOString(), by: state.login, person: state.site.person },
+      `desk: send (${state.login})`, old && old.sha);
+  } catch (e) {
+    state.busy = false; b.textContent = "Send checked pages and get more"; refreshState();
+    setStatus(`Could not send (${e.message}). Try again.`, "warn"); return;
+  }
+  const started = Date.now();
+  const actions = `https://github.com/${state.site.repo}/actions`;
+  const tick = async () => {
+    const mins = Math.floor((Date.now() - started) / 60000);
+    setStatus(`Sent. Rebuilding your desk… (${mins} min so far; it usually takes a few). You can watch it at ${actions}`, "");
+    try {
+      const s = await (await fetch(`site.json?v=${Date.now()}`, { cache: "no-store" })).json();
+      if (s.send_id === id) { location.reload(); return; }
+    } catch (e) {}
+    if (Date.now() - started > 30 * 60000) {
+      setStatus(`The desk has not been rebuilt after 30 minutes. Look at ${actions} for what went wrong; your saved pages are safe on your branch.`, "warn");
+      return;
+    }
+    setTimeout(tick, 15000);
+  };
+  tick();
+}
+
+async function signIn(token) {
+  state.token = token;
+  try {
+    const [me, repo] = await Promise.all([gh("/user"), gh("/repos/" + state.site.repo)]);
+    state.login = me.login; state.canPush = !!(repo.permissions && repo.permissions.push);
+  } catch (e) {
+    state.token = null; state.login = null; state.canPush = false;
+    setStatus(e.status === 401 ? "GitHub did not accept that token. Make a new one and paste it again." :
+              `Could not reach GitHub (${e.message}). Reload to try again.`, "warn");
+    return false;
+  }
+  if (!state.canPush) setStatus(`${state.login} cannot write to ${state.site.repo}. Ask its owner to add you as a collaborator.`, "warn");
+  try { localStorage.setItem(TOKEN_KEY, token); } catch (e) {}
+  $("#signin").hidden = true; $("#who").hidden = false; $("#whoName").textContent = state.login;
+  try { await loadInbox(); }
+  catch (e) { setStatus(`Could not read your saved pages (${e.message}). Reload to try again.`, "warn"); }
+  return true;
+}
+function signOut() {
+  if (state.desk.pages.some(isDirty)) { setStatus("Save or undo your unsaved edits first.", "warn"); return; }
+  try { localStorage.removeItem(TOKEN_KEY); } catch (e) {}
+  state.token = null; state.login = null; state.canPush = false; state.inbox = {};
+  $("#who").hidden = true; $("#signin").hidden = false;
+  showPage();
+}
+
+async function start() {
+  try {
+    const v = Date.now();
+    state.site = await (await fetch(`site.json?v=${v}`, { cache: "no-store" })).json();
+    state.desk = await (await fetch(`desk.json?v=${v}`, { cache: "no-store" })).json();
+  } catch (e) {
+    setStatus("Could not load the desk's pages. Reload the page.", "warn");
+    return;
+  }
+  document.title = `Century Proofreading Desk — ${state.site.person}`;
+  $("#repoName").textContent = state.site.repo;
+  const pick = $("#pagePick");
+  for (const p of state.desk.pages) { const o = document.createElement("option"); o.value = p.id; pick.appendChild(o); }
+  try {
+    const last = localStorage.getItem("century-desk-page-" + state.site.person);
     if (last && state.desk.pages.some(p => p.id === last)) pick.value = last;
-    const view = localStorage.getItem("century-desk-view");
-    if (view === "all" || view === "mine") { state.view = view; $("#viewPick").value = view; }
   } catch (e) {}
   pick.addEventListener("change", showPage);
-  $("#viewPick").addEventListener("change", () => {
-    state.view = $("#viewPick").value;
-    try { localStorage.setItem("century-desk-view", state.view); } catch (e) {}
-    if (rebuildPicker()) showPage(); else refreshState();
-  });
-  $("#whoChange").addEventListener("click", unclaim);
-  $("#givePick").addEventListener("change", () => { resetGive(); setStatus("", ""); });
-  $("#giveBtn").addEventListener("click", give);
   $("#prevPage").addEventListener("click", () => step(-1));
   $("#nextPage").addEventListener("click", () => step(1));
   $("#saveBtn").addEventListener("click", () => save(false));
   $("#checkBtn").addEventListener("click", () => save(true));
   $("#revertBtn").addEventListener("click", revert);
+  $("#sendBtn").addEventListener("click", send);
+  $("#signOut").addEventListener("click", signOut);
+  $("#tokenSave").addEventListener("click", async () => {
+    const t = $("#tokenInput").value.trim(); if (!t) return;
+    $("#tokenInput").value = "";
+    if (await signIn(t)) { setStatus("", ""); showPage(); }
+  });
   for (const el of [$("#text"), $("#headInput")]) {
     el.addEventListener("focus", () => { lastField = el; });
     el.addEventListener("input", edited);
@@ -748,7 +726,6 @@ async function start() {
     box.append("At cursor: ", b, " " + describe(g));
   };
   ["keyup", "click", "select"].forEach(ev => ta.addEventListener(ev, inspect));
-  // a new line within a paragraph: a bare line break is read as a space
   ta.addEventListener("keydown", e => {
     if (e.key === "Enter" && e.shiftKey && !e.ctrlKey && !e.altKey && !e.metaKey) { e.preventDefault(); insert("<br>\n"); }
   });
@@ -764,33 +741,9 @@ async function start() {
     if (state.desk.pages.some(isDirty)) { e.preventDefault(); e.returnValue = ""; }
   });
   buildPalette();
-  showPage();
-  // Comments light up on their own; the page never waits for them.
-  Promise.resolve(window.claude?.use?.("comments") ?? null).then(c => {
-    state.comments = c;
-    $("#commentBtn").hidden = !c;
-  }, () => {});
-  $("#commentBtn").addEventListener("click", async () => {
-    if (!state.comments) return;
-    try { await state.comments.openComposer({ element: $("#desk") }); }
-    catch (e) {
-      if (e && ["unavailable", "not_granted", "capability_disabled", "capability_removed"].includes(e.code)) {
-        $("#commentBtn").hidden = true;
-        setStatus("Commenting is not available in this view. Open the page in Claude, signed in, to comment.", "warn");
-      } else if (e && e.code === "rate_limited") {
-        setStatus("Too many comment boxes opened at once; wait a moment and try again.", "warn");
-      }
-    }
-  });
-  const [db, user] = await Promise.all([window.claude?.use?.("db") ?? null, window.claude?.use?.("user") ?? null]);
-  state.user = user;
-  if (!db) { setStatus("Preview: you can type, and the reader's view follows, but nothing is saved. Open this page in Claude, signed in, to save corrections.", "warn"); return; }
-  state.db = db;
-  state.me = user ? await user.id() : null;
-  state.canWrite = user ? await user.can("data.write") : null;
-  if (state.canWrite === false) setStatus("You can read this desk but not save. Ask the owner for edit access to proofread.", "warn");
-  refreshWho();
-  subscribe();
+  let token = null;
+  try { token = localStorage.getItem(TOKEN_KEY); } catch (e) {}
+  if (!token || !(await signIn(token))) $("#signin").hidden = false;
   showPage();
 }
 start();

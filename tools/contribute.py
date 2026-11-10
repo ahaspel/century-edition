@@ -267,6 +267,10 @@ def send(_a) -> int:
     if not new and ahead in ("0", ""):
         print("No new pages to send.")
         return 0
+    # the proofreading desk commits to this branch too (its saves, and the
+    # pages it sends into the book): take those first, ours on top
+    if git("ls-remote", "--heads", "origin", branch):
+        git("pull", "-q", "--rebase", "origin", branch)
     git("push", "-q", "-u", "origin", branch)
     url = git("remote", "get-url", "origin").removesuffix(".git")
     print(f"Sent: branch {branch} is pushed ({len(new)} new page file(s) in this commit).\n"

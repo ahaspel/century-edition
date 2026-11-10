@@ -1,40 +1,48 @@
-"""The proofreading desk's data for the Century, through wikikit.scan.desk.
+"""The proofreading desk for the Century, through wikikit.scan.desk.
 
 The desk proofreads a page at a time: the whole scan beside the page's text,
-as one text to correct, and one check for the page.  Each page is proofread by
-whoever fetched it on their own key, until it is given to someone else at the
-desk (`supplied.owner`); the desk shows each person their own.
+as one text to correct, and one check for the page.  It is a static page on
+GitHub Pages, one per person (desk/<person>/), each showing that person's next
+pages not yet proofread from their own branch (`desk/people.json`: person ->
+branch).  A save at the desk commits the page as the person left it to
+`desk/inbox/<page id>.json` on their branch; "Send" commits `desk/send.json`,
+and the desk workflow (.github/workflows/desk.yml) applies the inbox to
+data/supplied, commits it to the branch, and rebuilds every person's desk.
 
-    uv run python tools/desk.py bundle [--each N] [VOL:PAGE[-PAGE] ...]
-        -> data/derived/desk/: each person's next N pages not yet proofread
-           (default 20), in the book's order, and any pages named besides
-           (8:13-17: vol 8 leaves 13 to 17): desk.json, page scans, figure
-           copies, desk_render.js, the desk (tools/desk.html, as index.html),
-           and seed/<page id>.json, one document per page for the desk's
-           store: the folder that is published.  Apply the desk's saved pages
-           FIRST: a page given away at the desk is the new owner's only once
-           applied.
-    uv run python tools/desk.py apply DIR
-        DIR holds the desk's saved pages, one <page id>.json each (as
-        exported from its store): each page takes its text as the
-        proofreader left it, proofread once they checked it
+    uv run python tools/desk.py site OUT PERSON BRANCH [--each N] [--send-id ID]
+        -> OUT: PERSON's next N pages not yet proofread (default 20), from the
+           first page of the text on (`century.TEXT_STARTS`), in the book's
+           order: desk.json, page scans, figure copies, desk_render.js, the
+           desk (tools/desk.html, as index.html) and site.json (whose desk it
+           is, and the send it answers)
+    uv run python tools/desk.py index OUT
+        -> OUT/index.html: the list of everyone's desks
+    uv run python tools/desk.py apply SRC [VOL:PAGE[-PAGE] ...]
+        SRC is a folder of saved pages, one <page id>.json each (the desk's
+        inbox), or a file {"pages": {<page id>: row}}: each page takes its
+        text as the proofreader left it, proofread once they checked it.
+        Pages named (8:18-23) limit it to those
 """
 from __future__ import annotations
 
+import html
 import json
 import re
 import shutil
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
+from century import TEXT_STARTS
 from century.scans import scan
 from century.flags import page_flags
 from wikikit.scan import desk, supplied
 
 sys.stdout.reconfigure(encoding="utf-8")
-OUT = Path("data/derived/desk")
-#: The desk itself, as published: the folder OUT is, with this as its page.
+#: The desk itself: published as each person's index.html.
 PAGE = Path(__file__).with_name("desk.html")
+#: The repository the desk commits to (the desk reads it from site.json).
+REPO = "ahaspel/century-edition"
 
 
 _HEAD = re.compile(r"^\{\{RunningHeader\|([^|{}]*)\|([^|{}]*)\|([^|{}]*)\}\}$")
@@ -63,67 +71,78 @@ def _pages() -> list[tuple[int, int]]:
                   for f in Path(supplied.path_for(1, 1)).parent.parent.glob("vol_*/*.json"))
 
 
-def people() -> list[str]:
-    """Everyone a page may be given to: whoever has fetched or been given one."""
-    return sorted({o for k in _pages() if (o := supplied.owner(supplied.read(*k)))})
+def waiting(who: str) -> list[tuple[int, int]]:
+    """`who`'s pages not yet proofread, in the book's order, from the first
+    page of the text on: the front matter waits until the text is done."""
+    return [k for k in _pages() if k[1] >= TEXT_STARTS.get(k[0], 1)
+            and (p := supplied.read(*k)) and supplied.owner(p) == who and supplied.level(p) < 3]
 
 
-def next_pages(each: int) -> list[tuple[int, int]]:
-    """Each person's next `each` pages not yet proofread, in the book's order."""
-    taken: dict[str, list] = {}
-    for k in _pages():
-        payload = supplied.read(*k)
-        who = supplied.owner(payload)
-        if who and supplied.level(payload) < 3 and len(taken.setdefault(who, [])) < each:
-            taken[who].append(k)
-    return sorted(k for ks in taken.values() for k in ks)
+def site(out: Path, person: str, branch: str, each: int, send_id: str | None) -> None:
+    pending = waiting(person)
+    keys = pending[:each]
+    shutil.rmtree(out, ignore_errors=True)
+    path = desk.bundle(keys, {k: scan(*k) for k in keys}, out, flags=page_flags, label=label,
+                       people=[person])
+    shutil.copyfile(desk.DESK_RENDER_JS, out / "desk_render.js")
+    shutil.copyfile(PAGE, out / "index.html")
+    built = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    (out / "site.json").write_text(json.dumps({
+        "repo": REPO, "branch": branch, "person": person, "built_at": built,
+        "send_id": send_id, "waiting": len(pending)}, indent=1), encoding="utf-8")
+    labels = [pg["label"] for pg in json.loads(path.read_text(encoding="utf-8"))["pages"]]
+    print(f"{person} ({branch}): {len(keys)} of {len(pending)} waiting"
+          + (f", {labels[0]} to {labels[-1]}" if labels else ""))
 
 
-def bundle(keys: list[tuple[int, int]]) -> None:
-    for sub in ("pages", "figures", "seed", "strips"):
-        shutil.rmtree(OUT / sub, ignore_errors=True)
-    path = desk.bundle(keys, {k: scan(*k) for k in keys}, OUT, flags=page_flags, label=label,
-                       people=people())
-    shutil.copyfile(desk.DESK_RENDER_JS, OUT / "desk_render.js")
-    shutil.copyfile(PAGE, OUT / "index.html")
-    seed = OUT / "seed"
-    seed.mkdir()
-    data = json.loads(path.read_text(encoding="utf-8"))
-    for pg in data["pages"]:
-        (seed / f"{pg['id']}.json").write_text(json.dumps({
-            "head": pg["head"], "text": pg["text"],
-            "model_head": pg["head"], "model_text": pg["text"],
-            "status": "checked" if pg["checked"] else "unchecked", "owner": pg["owner"]},
-            ensure_ascii=False), encoding="utf-8")
-    files = [f for f in OUT.rglob("*") if f.is_file() and f.parts[len(OUT.parts)] in ("pages", "figures")]
-    print(f"{path}: {len(data['pages'])} pages, {len(files)} images, "
-          f"{sum(f.stat().st_size for f in files) / 1e6:.1f} MB")
-    for who in data["people"]:
-        mine = [pg["label"] for pg in data["pages"] if pg["owner"] == who]
-        print(f"  {who}: {len(mine)} page(s)" + (f", {mine[0]} to {mine[-1]}" if mine else ""))
+def index(out: Path) -> None:
+    people = json.loads(Path("desk/people.json").read_text(encoding="utf-8"))
+    rows = "\n".join(f'<li><a href="{html.escape(p)}/">{html.escape(p)}</a></li>' for p in sorted(people))
+    out.mkdir(parents=True, exist_ok=True)
+    (out / "index.html").write_text(
+        "<!doctype html><meta charset=utf-8><meta name=viewport content=\"width=device-width,initial-scale=1\">"
+        "<title>Century Proofreading Desk</title>"
+        "<style>body{font:17px/1.5 system-ui,sans-serif;margin:2em 16px;max-width:40em}</style>"
+        f"<h1>Century Proofreading Desk</h1><p>Whose desk?</p><ul>{rows}</ul>", encoding="utf-8")
 
 
-def apply(src: Path) -> None:
+def named_pages(args: list[str]) -> set[tuple[int, int]]:
+    """VOL:PAGE[-PAGE] arguments -> {(vol, leaf)}: 8:13-17 is vol 8 leaves 13 to 17."""
+    named = set()
+    for a in args:
+        vol, _, pages = a.partition(":")
+        first, _, last = pages.partition("-")
+        named |= {(int(vol), p) for p in range(int(first), int(last or first) + 1)}
+    return named
+
+
+def apply(src: Path, only: set[tuple[int, int]] | None = None) -> None:
     rows = {}
-    for f in sorted(src.glob("*.json")):
-        doc = json.loads(f.read_text(encoding="utf-8"))
-        rows[f.stem] = doc.get("data", doc)
+    if src.is_file():
+        rows = json.loads(src.read_text(encoding="utf-8"))["pages"]
+    else:
+        for f in sorted(src.glob("*.json")):
+            doc = json.loads(f.read_text(encoding="utf-8"))
+            rows[f.stem] = doc.get("data", doc)
+    if only:
+        rows = {pid: row for pid, row in rows.items() if (int(pid[1:3]), int(pid[5:9])) in only}
+        missing = {supplied.page_id(v, p) for v, p in only} - set(rows)
+        if missing:
+            print("not in the export:", ", ".join(sorted(missing)))
     for line in desk.apply_pages(rows) or ["no page changed"]:
         print(line)
 
 
 def main() -> int:
-    if sys.argv[1:2] == ["bundle"]:
-        args, each, named = sys.argv[2:], 20, set()
-        if args[:1] == ["--each"]:
-            each, args = int(args[1]), args[2:]
-        for a in args:
-            vol, _, pages = a.partition(":")
-            first, _, last = pages.partition("-")
-            named |= {(int(vol), p) for p in range(int(first), int(last or first) + 1)}
-        bundle(sorted(set(next_pages(each)) | named))
-    elif len(sys.argv) == 3 and sys.argv[1] == "apply":
-        apply(Path(sys.argv[2]))
+    args = sys.argv[1:]
+    if args[:1] == ["site"] and len(args) >= 4:
+        out, person, branch, rest = Path(args[1]), args[2], args[3], args[4:]
+        opts = dict(zip(rest[::2], rest[1::2]))
+        site(out, person, branch, int(opts.get("--each", 20)), opts.get("--send-id") or None)
+    elif args[:1] == ["index"] and len(args) == 2:
+        index(Path(args[1]))
+    elif args[:1] == ["apply"] and len(args) >= 2:
+        apply(Path(args[1]), named_pages(args[2:]))
     else:
         print(__doc__)
         return 2
