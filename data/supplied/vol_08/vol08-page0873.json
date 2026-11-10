@@ -1,0 +1,193 @@
+{
+ "volume": 8,
+ "page_number": 873,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n872.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n872.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-10",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 1094,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     63,
+     2281,
+     106
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     106,
+     901,
+     1194
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1194,
+     901,
+     2279
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2279,
+     901,
+     3227
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     901,
+     106,
+     1179,
+     1194
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     901,
+     1194,
+     1179,
+     2276
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     901,
+     2276,
+     1179,
+     3227
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1179,
+     106,
+     2281,
+     1202
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1179,
+     1202,
+     2281,
+     2281
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1179,
+     2281,
+     2281,
+     3227
+    ]
+   },
+   {
+    "name": "c0s1",
+    "kind": "text",
+    "column": 0,
+    "box": [
+     0,
+     3227,
+     2281,
+     3253
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader||LIST OF WRITERS AND AUTHORITIES|}}",
+   "c1s1": "¶\n'''Nichol, John Pringle''' (1804-1859). Scottish astronomer.\n\n'''Nicholls, Mrs. A. B.''' See ''Charlotte Brontë.''\n\n'''Nicholls, Thomas''' (about 1550). English translator.\n\n'''Nichols, James Robinson''' (1819-1888). American chemist and writer. {{right|''J. I''}}\n\n'''Nichols, John''' (died 1826). English antiquary.\n\n'''Nicholson, Henry Alleyne''' (1844- ). Scottish geologist and zoöl\n\n'''Nicholson, William''' (died 1815). English scientist.\n\n'''Nicholson, William''' (1782-1849). Scottish poet.\n\n'''Nicolay, John George''' (1832- ). American author.\n\n'''Nicoll, Robert''' (1814-1837). Scottish poet.\n\n'''Nicolson, William''' (1655-1727). Archbishop of Cashel, Ireland.\n\n'''Niles’s Register''' (1811-1849). American weekly periodical.\n\n'''Nineteenth Century, The''' (1877- ). English monthly review.\n\n'''Noble, Mark''' (died 1827). English antiquary.\n\n'''Noble, Samuel''' (1779-1853). English Swedenborgian minister.\n\n'''Noctes Ambrosianæ.''' By John Wilson.\n\n'''Nolan, Lewis Edward''' (died 1854). English officer and writer c tactics. (See ''Garrard.'')\n\n'''Norden, John''' (died about 1626). English topographer and poet.\n\n'''Normandy, Alphonse''' (died 1864). English chemist.\n\n'''Norris, John''' (1657-1711). English philosopher.\n\n'''North, Christopher.''' See ''J. Wilson.''\n\n'''North, Lord''' (Dudley North) (1604-1677). English biographer.\n\n'''North, Hon. Roger''' (1651-1733?). English biographer.\n\n'''North, Sir Thomas''' (1530?-1605?). English translator. (Plutarcl\n\n'''North American Review''' (1815- ). American literary review.\n\n'''North British Review''' (1844-1871). Scottish quarterly literary r\n\n'''Northbrooke, John.''' English clergyman (wrote about 1570-1600)\n\n'''Norton, Charles Eliot''' (1827- ). American scholar and writer.",
+   "c1s2": "¶\n'''Norton, John''' (1606-1663). English-American clergyman.\n\n'''Norton, John''' (1651-1716). American clergyman.\n\n'''Norton, Thomas''' (16th century). English poet, dramatist, and tr\n\n'''Notes and Queries''' (1849- ). English weekly periodical.\n\n'''Nott, Josiah Clark''' (1804-1873). American ethnologist.\n\n'''Numismatic Chronicle''' (1838- ). English quarterly periodical.\n\n'''Nuttall’s Standard Dictionary''' (ed. James Wood, 1890).\n\n'''O’Brien, Fitz James''' (1828-1862). Irish-American author.\n\n'''Occleve''' or '''Hoccleve, Thomas''' (1370?-1450?). English poet and\n\n'''Octavian, Romance of the Emperor''' (14th century). Middl poem.\n\n'''Octovian Imperator''' (14th century). Middle English poem.\n\n'''O’Curry, Eugene''' (1796-1862). Irish historian and antiquary.\n\n'''O’Donovan, Edmond''' (1838-1883). British journalist and author.\n\n'''O’Donovan, John''' (died 1861). Irish archæologist.\n\n'''Ogilvie, John''' (1797-1867). Scottish lexicographer. See ''Imperial L''\n\n'''O’Keefe, John''' (1747-1833). Irish dramatist.\n\n'''Oldham, John''' (1653-1683). English poet and satirist.\n\n'''Oldys, William''' (died 1761). English biographer.\n\n'''Oliphant, Laurence''' (1829-1888). English author.\n\n'''Oliphant, Margaret Wilson''' (1828- ). Scottish novelist and histor\n\n'''Oliphant, Thomas Laurence Kington''' (1831- ). English philo author.\n\n'''O’Neill, Charles.''' (“Dictionary of Dyeing and Calico Printing,” 18\n\n'''O’Reilly, Edward.''' Irish lexicographer. (“An Irish-English Di 1864.)\n\n'''O’Reilly, John Boyle''' (1844-1890). Irish-American journalist and\n\n'''O’Reilly, Miles.''' See ''Halpine.''\n\n'''Orm''' or '''Ormin''' (12th century). English monk. (“Ormulum,” a homilies in verse, about 1200; ed. White, 1852.)\n\n'''Ormerod, George''' (1785-1873). English county historian.",
+   "c1s3": "¶\n'''Orton, James''' (1830-1877). American naturalist.\n\n'''Osborn, Henry Stafford''' (1823- ). American educator and writer\n\n'''Osborne, Francis''' (died 1659). English moralist.\n\n'''Ossoli, Marchioness''' (Margaret Fuller). See ''Fuller.''\n\n'''Otway, Thomas''' (1651-1685). English dramatist.\n\n'''Outred, Marcelline''' (about 1580). Biblical commentator.\n\n'''Overbury, Sir Thomas''' (1581-1613). English poet and courtier.\n\n'''Owen, John B.''' (1787-1872). English philosophical writer.\n\n'''Owen, Sir Richard''' (1804- ). English naturalist, anatomist, an tologist.\n\n'''Owl and Nightingale''' (about 1250). Middle English poem, as Nicholas de Guildford.\n\n'''Oxenham, Henry Nutcombe''' (1829-1888). English essayist and writer.\n\n'''Oxford Glossary of Architecture''' (1850).\n\n'''Oxlee, John''' (1779-1854). English clergyman and theological writ\n\n'''Ozell, John''' (died 1743). English translator.\n\n'''Packard, Alpheus Spring''' (1839- ). American naturalist.\n\n'''Page, David''' (1814-1879). Scottish geologist.\n\n'''Pagit, Ephraim''' (1575-1647). English clergyman.\n\n'''Paine, Robert Treat''' (1773-1811). American poet.\n\n'''Paine, Thomas''' (1737-1809). English-American writer.\n\n'''Paley, William''' (1743-1805). English clergyman, theologian, and\n\n'''Palfrey, John Gorham''' (1796-1881). American historian.\n\n'''Palgrave, Sir Francis''' (1788-1861). English historian.\n\n'''Palgrave, Francis Turner''' (1824- ). English poet and critic.\n\n'''Palgrave, William Gifford''' (1826-1888). English traveler.",
+   "c2s1": "''Prof. Nichol''\n\n''Nicholls''\n\nscientific ''R. Nichols'', or ''Nichols''\n\n''Nichols''\n\nogist. ''H. A. Nicholson''\n\n''Nicholson''\n\n''W. Nicholson''\n\n''J. G. Nicolay''\n\n''Nicoll''\n\n''Bp. Nicolson''\n\n''Niles’s Register''\n\n''Nineteenth Century''\n\n''M. Noble''\n\n''Noble''\n\n''Noctes Ambrosianæ''\n\non cavalry ''Nolan''\n\n''Norden''\n\n''Normandy''\n\n''Norris''\n\n''Lord North''\n\n''Roger North''\n\nh, 1579.) ''North''\n\n''N. A. Rev.''\n\neview. ''North British Rev.''\n\n). ''J. Northbrooke''\n\n''C. E. Norton''",
+   "c2s2": "''John Norton''\n\n''J. Norton''\n\nanslator. ''T. Norton''\n\n''N. and Q.''\n\n''Nott''\n\n''Numis. Chron.''\n\n''Fitz James O’Brien''\n\nlawyer. ''Occleve''\n\ne English ''Octavian''\n\n''Octovian''\n\n''O’Curry''\n\n''O’Donovan''\n\n''J. O’Donovan''\n\nictionary. ''Ogilvie''\n\n''O’Keefe''\n\n''Oldham''\n\n''Oldys''\n\n''L. Oliphant''\n\nian. ''Mrs. Oliphant''\n\nlogist and ''Oliphant''\n\n862, etc.) ''O’Neill''\n\nctionary,” ''O’Reilly''\n\npoet. ''J. B. O’Reilly''\n\nseries of ''Ormulum''\n\n''Ormerod''",
+   "c2s3": "r. {{right|''H. S. Osborn''}}\n{{right|''Osborne''}}\n\n{{right|''Otway''}}\n{{right|''Outred''}}\n{{right|''Sir T. Overbury''}}\n{{right|''J. Owen''}}\nd paleon-\n{{right|''Owen''}}\ncribed to\n\nreligious\n{{right|''H. N. Oxenham''}}\n{{right|''Oxford Gloss.''}}\nter. {{right|''J. Oxlee''}}\n{{right|''Ozell''}}\n\n{{right|''A. S. Packard''}}\n{{right|''Page''}}\n{{right|''E. Pagit''}}\n{{right|''R. T. Paine''}}\n{{right|''T. Paine''}}\nmoralist. {{right|''Paley''}}\n{{right|''Palfrey''}}\n{{right|''Sir F. Palgrave''}}\n{{right|''F. T. Palgrave''}}\n{{right|''W. G. Palgrave''}}",
+   "c3s1": "¶\n'''Pallas, Peter Simon''' (1741-1811). German naturalist and traveler.\n{{right|''Pallas''}}\n\n'''Palliser, Frances Bury''' (1806-1878). English writer on lace, etc.\n{{right|''Mrs. Bury Palliser''}}\n\n'''Pall Mall Gazette''' (1865- ). English daily newspaper.\n{{right|''Pall Mall Gazette''}}\n\n'''Palmer, A. Smythe.''' English philological writer.\n{{right|''A. S. Palmer''}}\n\n'''Palmer, Edward Henry''' (1840-1882). English scholar. (“Persian Dictionary,” 2d ed., 1884.)\n{{right|''E. H. Palmer''}}\n\n'''Palmer, John Williamson''' (1825- ). American author and editor.\n{{right|''J. W. Palmer''}}\n\n'''Palmer, Ray''' (1808-1887). American clergyman and hymn-writer.\n{{right|''Ray Palmer''}}\n\n'''Palmer, William''' (1803?- ). English clergyman and theological writer.\n{{right|''William Palmer''}}\n\n'''Palmer, William''' (1811-1879). English writer on the Greek Church.\n{{right|''W. Palmer''}}\n\n'''Palmerston, Viscount''' (Henry John Temple) (1784-1865). British statesman.\n{{right|''Palmerston''}}\n\n'''Palsgrave, John''' (died 1554). English grammarian. (“Lesclarcissement de la Langue Francoyse,” 1530; reprinted as “L’Éclaircissement de la Langue Française,” ed. Génin, 1852.)\n{{right|''Palsgrave''}}\n\n'''Paris, Comte de''' (Louis Philippe Albert, Prince d’Orléans) (1838- ). French historian and soldier.\n{{right|''Comte de Paris''}}\n\n'''Parke, Robert''' (end of 16th century). English writer.\n{{right|''R. Parke''}}\n\n'''Parker, Martin.''' English writer. (“The Nightingale,” 1632.)\n{{right|''M. Parker''}}\n\n'''Parker, Matthew''' (1504-1575). Archbishop of Canterbury.\n{{right|''Abp. Parker''}}\n\n'''Parker, Samuel''' (1640-1687). Bishop of Oxford.\n{{right|''Bp. Parker,'' or ''Parker''}}\n\n'''Parker, Samuel''' (died 1730). English theological writer.\n{{right|''S. Parker''}}\n\n'''Parker, Theodore''' (1810-1860). American clergyman and author.\n{{right|''Theodore Parker''}}\n\n'''Parker, W. Kitchen''' (1823-1890). English anatomist and physiologist.\n{{right|''W. K. Parker''}}\n\n'''Parker Society Publications.''' Society instituted at Cambridge, England, in 1840.\n\n'''Parkman, Francis''' (1823- ). American historian.\n{{right|''F. Parkman''}}\n\n'''Parley, Peter.''' See ''Goodrich.''\n\n'''Parnell, Thomas''' (1679-1717). Irish poet.\n{{right|''Parnell''}}\n\n'''Parr, Samuel''' (1747-1825). English scholar.\n{{right|''Parr''}}\n\n'''Parsons, Thomas William''' (1819- ). American poet and translator.\n{{right|''T. W. Parsons''}}",
+   "c3s2": "¶\n'''Pascoe, Francis P.''' (1813- ). British naturalist.\n{{right|''Pascoe''}}\n\n'''Pasteur, Louis''' (1822- ). French physician and chemist.\n{{right|''Pasteur''}}\n\n'''Paston Letters.''' A collection of English letters (1422-1509); ed. Gairdner, 1872-1875.\n\n'''Paterson, James''' (1828- ). English legal writer.\n{{right|''J. Paterson''}}\n\n'''Patmore, Coventry Kearsey Deighton''' (1823- ). English poet.\n{{right|''Coventry Patmore''}}\n\n'''Patrick, Simon''' (1626-1707). Bishop of Ely, and religious writer.\n{{right|''Bp. Patrick''}}\n\n'''Patterson, Robert Hogarth''' (1821-1886). Scottish financial writer.\n{{right|''R. H. Patterson''}}\n\n'''Pattison, Mark''' (1813-1884). English clergyman and author.\n{{right|''Mark Pattison''}}\n\n'''Paxton, Sir Joseph''' (1803-1865). English gardener and architect. (“Botanical Dictionary,” 1840, 1868.)\n{{right|''Paxton''}}\n\n'''Payn, James''' (1830- ). English novelist.\n{{right|''J. Payn''}}\n\n'''Payne, John''' (1843- ). British poet.\n{{right|''Payne''}}\n\n'''Payne, John Howard''' (1792-1852). American poet and playwright.\n{{right|''J. Howard Payne''}}\n\n'''Peacham, Henry''' (beginning of 17th century). English author.\n{{right|''Peacham''}}\n\n'''Peacock, Thomas Love''' (1785-1866). English novelist and poet.\n{{right|''Peacock''}}\n\n'''Pearce, Zachary''' (1690-1774). Bishop of Rochester, and commentator.\n{{right|''Bp. Pearce''}}\n\n'''Pearson, Charles Henry''' (1830- ). English historical writer.\n{{right|''C. H. Pearson''}}\n\n'''Pearson, John''' (1612-1686). Bishop of Chester.\n{{right|''Bp. Pearson''}}\n\n'''Pecock, Reynold''' or '''Reginald''' (about 1390-1460). Bishop of Chichester.\n{{right|''Bp. Pecock''}}\n\n'''Peel, Sir Robert''' (1788-1850). English statesman.\n{{right|''Sir R. Peel''}}\n\n'''Peele, George''' (1558-1598). English dramatist.\n{{right|''Peele''}}\n\n'''Pegge, Samuel''' (1731-1800). English antiquary.\n{{right|''Pegge''}}\n\n'''Peile, John''' (1838- ). English philologist.\n{{right|''Peile''}}\n\n'''Peirce, Benjamin''' (1778-1831). American author.\n{{right|''Peirce''}}\n\n'''Peirce, Benjamin''' (1809-1880). American mathematician.\n{{right|''B. Peirce''}}\n\n'''Peirce, Charles Sanders''' (1839- ). American mathematician and logician.\n{{right|''C. S. Peirce''}}\n\n'''Penhallow, D. P.''' (1854- ). American botanist.\n{{right|''Penhallow''}}\n\n'''Penn, William''' (1644-1718). Founder of Pennsylvania.\n{{right|''Penn''}}\n\n'''Pennant, Thomas''' (1726-1798). English naturalist.\n{{right|''Pennant''}}\n\n'''Pennecuik, Alexander''' (1652-1722). Scottish physician, botanist, and poet.\n{{right|''Pennecuik''}}",
+   "c3s3": "¶\n'''Pennell, Elizabeth Robins.''' Contemporary American writer.\n{{right|''E. R. Pennell''}}\n\n'''Pennell, Joseph.''' Contemporary American artist and writer.\n{{right|''J. Pennell''}}\n\n'''Pepys, Samuel''' (1633-1703). English diarist.\n{{right|''Pepys''}}\n\n'''Percival, James Gates''' (1795-1856). American poet.\n{{right|''J. G. Percival''}}\n\n'''Percy, John''' (1817-1889). English metallurgist.\n{{right|''J. Percy''}}\n\n'''Percy, Thomas''' (1729?-1811). Bishop of Dromore, Ireland. (“Reliques of Ancient English Poetry,” 1765.)\n{{right|''Bp. Percy,'' and ''Percy’s Reliques''}}\n\n'''Percy Society Publications.''' Society instituted in London in 1840.\n\n'''Pereira, Jonathan''' (1804-1853). English physician and chemist.\n{{right|''Pereira''}}\n\n'''Perkins, Charles Callahan''' (1823-1886). American writer on art.\n{{right|''C. C. Perkins''}}\n\n'''Perkins, William''' (1558-1602). English divine.\n{{right|''Perkins''}}\n\n'''Perry, Thomas Sergeant''' (1845- ). American literary historian.\n{{right|''T. S. Perry''}}\n\n'''Perry, William.''' Scottish lexicographer. (“Royal Standard English Dictionary,” 1775.)\n{{right|''Perry''}}\n\n'''Peters, Charles''' (died 1777). English clergyman.\n{{right|''Peters''}}\n\n'''Pett, Sir P.''' (second half of 17th century). English writer.\n{{right|''Pett''}}\n\n'''Petty''' or '''Pettie, Sir William''' (1623-1687). English political economist.\n{{right|''Petty,'' or ''Sir W. Pettie''}}\n\n'''Phaer, Thomas''' (died 1560). British translator of Virgil, etc.\n{{right|''Phaer''}}\n\n'''Phelps, Austin''' (1820-1890). American clergyman and author.\n{{right|''A. Phelps''}}\n\n'''Phelps, Elizabeth Stuart''' (Mrs. Ward) (1844- ). American novelist and poet.\n{{right|''E. S. Phelps''}}\n\n'''Philips, Ambrose''' (died 1749). English poet and dramatist.\n{{right|''Philips''}}\n\n'''Philips, John''' (1676-1708). English poet.\n{{right|''J. Philips''}}\n\n'''Phillimore, Joseph''' (1775-1855). English jurist.\n{{right|''Phillimore''}}\n\n'''Phillips, Edward''' (1630-1698?). English lexicographer and compiler. (“The New World of Words, or a General English Dictionary,” 1658, etc.; revised ed., 1706; editions used, 1678, 1706.)\n{{right|''E. Phillips,'' or ''Phillips''}}",
+   "c0s1": "444 23"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [
+   [
+    133,
+    3224,
+    183,
+    3260
+   ],
+   [
+    1154,
+    3224,
+    1182,
+    3253
+   ]
+  ],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 259,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 9862,
+    "output_tokens": 11280,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader||LIST OF WRITERS AND AUTHORITIES|}}</noinclude>{{nop}}'''Nichol, John Pringle''' (1804-1859). Scottish astronomer.\n\n'''Nicholls, Mrs. A. B.''' See ''Charlotte Brontë.''\n\n'''Nicholls, Thomas''' (about 1550). English translator.\n\n'''Nichols, James Robinson''' (1819-1888). American chemist and writer. {{right|''J. I''}}\n\n'''Nichols, John''' (died 1826). English antiquary.\n\n'''Nicholson, Henry Alleyne''' (1844- ). Scottish geologist and zoöl\n\n'''Nicholson, William''' (died 1815). English scientist.\n\n'''Nicholson, William''' (1782-1849). Scottish poet.\n\n'''Nicolay, John George''' (1832- ). American author.\n\n'''Nicoll, Robert''' (1814-1837). Scottish poet.\n\n'''Nicolson, William''' (1655-1727). Archbishop of Cashel, Ireland.\n\n'''Niles’s Register''' (1811-1849). American weekly periodical.\n\n'''Nineteenth Century, The''' (1877- ). English monthly review.\n\n'''Noble, Mark''' (died 1827). English antiquary.\n\n'''Noble, Samuel''' (1779-1853). English Swedenborgian minister.\n\n'''Noctes Ambrosianæ.''' By John Wilson.\n\n'''Nolan, Lewis Edward''' (died 1854). English officer and writer c tactics. (See ''Garrard.'')\n\n'''Norden, John''' (died about 1626). English topographer and poet.\n\n'''Normandy, Alphonse''' (died 1864). English chemist.\n\n'''Norris, John''' (1657-1711). English philosopher.\n\n'''North, Christopher.''' See ''J. Wilson.''\n\n'''North, Lord''' (Dudley North) (1604-1677). English biographer.\n\n'''North, Hon. Roger''' (1651-1733?). English biographer.\n\n'''North, Sir Thomas''' (1530?-1605?). English translator. (Plutarcl\n\n'''North American Review''' (1815- ). American literary review.\n\n'''North British Review''' (1844-1871). Scottish quarterly literary r\n\n'''Northbrooke, John.''' English clergyman (wrote about 1570-1600)\n\n'''Norton, Charles Eliot''' (1827- ). American scholar and writer.\n\n'''Norton, John''' (1606-1663). English-American clergyman.\n\n'''Norton, John''' (1651-1716). American clergyman.\n\n'''Norton, Thomas''' (16th century). English poet, dramatist, and tr\n\n'''Notes and Queries''' (1849- ). English weekly periodical.\n\n'''Nott, Josiah Clark''' (1804-1873). American ethnologist.\n\n'''Numismatic Chronicle''' (1838- ). English quarterly periodical.\n\n'''Nuttall’s Standard Dictionary''' (ed. James Wood, 1890).\n\n'''O’Brien, Fitz James''' (1828-1862). Irish-American author.\n\n'''Occleve''' or '''Hoccleve, Thomas''' (1370?-1450?). English poet and\n\n'''Octavian, Romance of the Emperor''' (14th century). Middl poem.\n\n'''Octovian Imperator''' (14th century). Middle English poem.\n\n'''O’Curry, Eugene''' (1796-1862). Irish historian and antiquary.\n\n'''O’Donovan, Edmond''' (1838-1883). British journalist and author.\n\n'''O’Donovan, John''' (died 1861). Irish archæologist.\n\n'''Ogilvie, John''' (1797-1867). Scottish lexicographer. See ''Imperial L''\n\n'''O’Keefe, John''' (1747-1833). Irish dramatist.\n\n'''Oldham, John''' (1653-1683). English poet and satirist.\n\n'''Oldys, William''' (died 1761). English biographer.\n\n'''Oliphant, Laurence''' (1829-1888). English author.\n\n'''Oliphant, Margaret Wilson''' (1828- ). Scottish novelist and histor\n\n'''Oliphant, Thomas Laurence Kington''' (1831- ). English philo author.\n\n'''O’Neill, Charles.''' (“Dictionary of Dyeing and Calico Printing,” 18\n\n'''O’Reilly, Edward.''' Irish lexicographer. (“An Irish-English Di 1864.)\n\n'''O’Reilly, John Boyle''' (1844-1890). Irish-American journalist and\n\n'''O’Reilly, Miles.''' See ''Halpine.''\n\n'''Orm''' or '''Ormin''' (12th century). English monk. (“Ormulum,” a homilies in verse, about 1200; ed. White, 1852.)\n\n'''Ormerod, George''' (1785-1873). English county historian.\n\n'''Orton, James''' (1830-1877). American naturalist.\n\n'''Osborn, Henry Stafford''' (1823- ). American educator and writer\n\n'''Osborne, Francis''' (died 1659). English moralist.\n\n'''Ossoli, Marchioness''' (Margaret Fuller). See ''Fuller.''\n\n'''Otway, Thomas''' (1651-1685). English dramatist.\n\n'''Outred, Marcelline''' (about 1580). Biblical commentator.\n\n'''Overbury, Sir Thomas''' (1581-1613). English poet and courtier.\n\n'''Owen, John B.''' (1787-1872). English philosophical writer.\n\n'''Owen, Sir Richard''' (1804- ). English naturalist, anatomist, an tologist.\n\n'''Owl and Nightingale''' (about 1250). Middle English poem, as Nicholas de Guildford.\n\n'''Oxenham, Henry Nutcombe''' (1829-1888). English essayist and writer.\n\n'''Oxford Glossary of Architecture''' (1850).\n\n'''Oxlee, John''' (1779-1854). English clergyman and theological writ\n\n'''Ozell, John''' (died 1743). English translator.\n\n'''Packard, Alpheus Spring''' (1839- ). American naturalist.\n\n'''Page, David''' (1814-1879). Scottish geologist.\n\n'''Pagit, Ephraim''' (1575-1647). English clergyman.\n\n'''Paine, Robert Treat''' (1773-1811). American poet.\n\n'''Paine, Thomas''' (1737-1809). English-American writer.\n\n'''Paley, William''' (1743-1805). English clergyman, theologian, and\n\n'''Palfrey, John Gorham''' (1796-1881). American historian.\n\n'''Palgrave, Sir Francis''' (1788-1861). English historian.\n\n'''Palgrave, Francis Turner''' (1824- ). English poet and critic.\n\n'''Palgrave, William Gifford''' (1826-1888). English traveler. ''Prof. Nichol''\n\n''Nicholls''\n\nscientific ''R. Nichols'', or ''Nichols''\n\n''Nichols''\n\nogist. ''H. A. Nicholson''\n\n''Nicholson''\n\n''W. Nicholson''\n\n''J. G. Nicolay''\n\n''Nicoll''\n\n''Bp. Nicolson''\n\n''Niles’s Register''\n\n''Nineteenth Century''\n\n''M. Noble''\n\n''Noble''\n\n''Noctes Ambrosianæ''\n\non cavalry ''Nolan''\n\n''Norden''\n\n''Normandy''\n\n''Norris''\n\n''Lord North''\n\n''Roger North''\n\nh, 1579.) ''North''\n\n''N. A. Rev.''\n\neview.   ''North British Rev.''\n\n). ''J. Northbrooke''\n\n''C. E. Norton John Norton''\n\n''J. Norton''\n\nanslator. ''T. Norton''\n\n''N. and Q.''\n\n''Nott''\n\n''Numis. Chron.''\n\n''Fitz James O’Brien''\n\nlawyer. ''Occleve''\n\ne English ''Octavian''\n\n''Octovian''\n\n''O’Curry''\n\n''O’Donovan''\n\n''J. O’Donovan''\n\nictionary. ''Ogilvie''\n\n''O’Keefe''\n\n''Oldham''\n\n''Oldys''\n\n''L. Oliphant''\n\nian. ''Mrs. Oliphant''\n\nlogist and ''Oliphant''\n\n862, etc.) ''O’Neill''\n\nctionary,” ''O’Reilly''\n\npoet. ''J. B. O’Reilly''\n\nseries of ''Ormulum''\n\n''Ormerod'' r. {{right|''H. S. Osborn''}}\n{{right|''Osborne''}}\n\n{{right|''Otway''}}\n{{right|''Outred''}}\n{{right|''Sir T. Overbury''}}\n{{right|''J. Owen''}}\nd\n{{right|''Owen''}}\npaleoncribed to\n\nreligious\n{{right|''H. N. Oxenham''}}\n{{right|''Oxford Gloss.''}}\nter. {{right|''J. Oxlee''}}\n{{right|''Ozell''}}\n\n{{right|''A. S. Packard''}}\n{{right|''Page''}}\n{{right|''E. Pagit''}}\n{{right|''R. T. Paine''}}\n{{right|''T. Paine''}}\nmoralist. {{right|''Paley''}}\n{{right|''Palfrey''}}\n{{right|''Sir F. Palgrave''}}\n{{right|''F. T. Palgrave''}}\n{{right|''W. G. Palgrave''}}\n\n'''Pallas, Peter Simon''' (1741-1811). German naturalist and traveler.\n{{right|''Pallas''}}\n\n'''Palliser, Frances Bury''' (1806-1878). English writer on lace, etc.\n{{right|''Mrs. Bury Palliser''}}\n\n'''Pall Mall Gazette''' (1865- ). English daily newspaper.\n{{right|''Pall Mall Gazette''}}\n\n'''Palmer, A. Smythe.''' English philological writer.\n{{right|''A. S. Palmer''}}\n\n'''Palmer, Edward Henry''' (1840-1882). English scholar. (“Persian Dictionary,” 2d ed., 1884.)\n{{right|''E. H. Palmer''}}\n\n'''Palmer, John Williamson''' (1825- ). American author and editor.\n{{right|''J. W. Palmer''}}\n\n'''Palmer, Ray''' (1808-1887). American clergyman and hymn-writer.\n{{right|''Ray Palmer''}}\n\n'''Palmer, William''' (1803?- ). English clergyman and theological writer.\n{{right|''William Palmer''}}\n\n'''Palmer, William''' (1811-1879). English writer on the Greek Church.\n{{right|''W. Palmer''}}\n\n'''Palmerston, Viscount''' (Henry John Temple) (1784-1865). British statesman.\n{{right|''Palmerston''}}\n\n'''Palsgrave, John''' (died 1554). English grammarian. (“Lesclarcissement de la Langue Francoyse,” 1530; reprinted as “L’Éclaircissement de la Langue Française,” ed. Génin, 1852.)\n{{right|''Palsgrave''}}\n\n'''Paris, Comte de''' (Louis Philippe Albert, Prince d’Orléans) (1838- ). French historian and soldier.\n{{right|''Comte de Paris''}}\n\n'''Parke, Robert''' (end of 16th century). English writer.\n{{right|''R. Parke''}}\n\n'''Parker, Martin.''' English writer. (“The Nightingale,” 1632.)\n{{right|''M. Parker''}}\n\n'''Parker, Matthew''' (1504-1575). Archbishop of Canterbury.\n{{right|''Abp. Parker''}}\n\n'''Parker, Samuel''' (1640-1687). Bishop of Oxford.\n{{right|''Bp. Parker,'' or ''Parker''}}\n\n'''Parker, Samuel''' (died 1730). English theological writer.\n{{right|''S. Parker''}}\n\n'''Parker, Theodore''' (1810-1860). American clergyman and author.\n{{right|''Theodore Parker''}}\n\n'''Parker, W. Kitchen''' (1823-1890). English anatomist and physiologist.\n{{right|''W. K. Parker''}}\n\n'''Parker Society Publications.''' Society instituted at Cambridge, England, in 1840.\n\n'''Parkman, Francis''' (1823- ). American historian.\n{{right|''F. Parkman''}}\n\n'''Parley, Peter.''' See ''Goodrich.''\n\n'''Parnell, Thomas''' (1679-1717). Irish poet.\n{{right|''Parnell''}}\n\n'''Parr, Samuel''' (1747-1825). English scholar.\n{{right|''Parr''}}\n\n'''Parsons, Thomas William''' (1819- ). American poet and translator.\n{{right|''T. W. Parsons''}}\n\n'''Pascoe, Francis P.''' (1813- ). British naturalist.\n{{right|''Pascoe''}}\n\n'''Pasteur, Louis''' (1822- ). French physician and chemist.\n{{right|''Pasteur''}}\n\n'''Paston Letters.''' A collection of English letters (1422-1509); ed. Gairdner, 1872-1875.\n\n'''Paterson, James''' (1828- ). English legal writer.\n{{right|''J. Paterson''}}\n\n'''Patmore, Coventry Kearsey Deighton''' (1823- ). English poet.\n{{right|''Coventry Patmore''}}\n\n'''Patrick, Simon''' (1626-1707). Bishop of Ely, and religious writer.\n{{right|''Bp. Patrick''}}\n\n'''Patterson, Robert Hogarth''' (1821-1886). Scottish financial writer.\n{{right|''R. H. Patterson''}}\n\n'''Pattison, Mark''' (1813-1884). English clergyman and author.\n{{right|''Mark Pattison''}}\n\n'''Paxton, Sir Joseph''' (1803-1865). English gardener and architect. (“Botanical Dictionary,” 1840, 1868.)\n{{right|''Paxton''}}\n\n'''Payn, James''' (1830- ). English novelist.\n{{right|''J. Payn''}}\n\n'''Payne, John''' (1843- ). British poet.\n{{right|''Payne''}}\n\n'''Payne, John Howard''' (1792-1852). American poet and playwright.\n{{right|''J. Howard Payne''}}\n\n'''Peacham, Henry''' (beginning of 17th century). English author.\n{{right|''Peacham''}}\n\n'''Peacock, Thomas Love''' (1785-1866). English novelist and poet.\n{{right|''Peacock''}}\n\n'''Pearce, Zachary''' (1690-1774). Bishop of Rochester, and commentator.\n{{right|''Bp. Pearce''}}\n\n'''Pearson, Charles Henry''' (1830- ). English historical writer.\n{{right|''C. H. Pearson''}}\n\n'''Pearson, John''' (1612-1686). Bishop of Chester.\n{{right|''Bp. Pearson''}}\n\n'''Pecock, Reynold''' or '''Reginald''' (about 1390-1460). Bishop of Chichester.\n{{right|''Bp. Pecock''}}\n\n'''Peel, Sir Robert''' (1788-1850). English statesman.\n{{right|''Sir R. Peel''}}\n\n'''Peele, George''' (1558-1598). English dramatist.\n{{right|''Peele''}}\n\n'''Pegge, Samuel''' (1731-1800). English antiquary.\n{{right|''Pegge''}}\n\n'''Peile, John''' (1838- ). English philologist.\n{{right|''Peile''}}\n\n'''Peirce, Benjamin''' (1778-1831). American author.\n{{right|''Peirce''}}\n\n'''Peirce, Benjamin''' (1809-1880). American mathematician.\n{{right|''B. Peirce''}}\n\n'''Peirce, Charles Sanders''' (1839- ). American mathematician and logician.\n{{right|''C. S. Peirce''}}\n\n'''Penhallow, D. P.''' (1854- ). American botanist.\n{{right|''Penhallow''}}\n\n'''Penn, William''' (1644-1718). Founder of Pennsylvania.\n{{right|''Penn''}}\n\n'''Pennant, Thomas''' (1726-1798). English naturalist.\n{{right|''Pennant''}}\n\n'''Pennecuik, Alexander''' (1652-1722). Scottish physician, botanist, and poet.\n{{right|''Pennecuik''}}\n\n'''Pennell, Elizabeth Robins.''' Contemporary American writer.\n{{right|''E. R. Pennell''}}\n\n'''Pennell, Joseph.''' Contemporary American artist and writer.\n{{right|''J. Pennell''}}\n\n'''Pepys, Samuel''' (1633-1703). English diarist.\n{{right|''Pepys''}}\n\n'''Percival, James Gates''' (1795-1856). American poet.\n{{right|''J. G. Percival''}}\n\n'''Percy, John''' (1817-1889). English metallurgist.\n{{right|''J. Percy''}}\n\n'''Percy, Thomas''' (1729?-1811). Bishop of Dromore, Ireland. (“Reliques of Ancient English Poetry,” 1765.)\n{{right|''Bp. Percy,'' and ''Percy’s Reliques''}}\n\n'''Percy Society Publications.''' Society instituted in London in 1840.\n\n'''Pereira, Jonathan''' (1804-1853). English physician and chemist.\n{{right|''Pereira''}}\n\n'''Perkins, Charles Callahan''' (1823-1886). American writer on art.\n{{right|''C. C. Perkins''}}\n\n'''Perkins, William''' (1558-1602). English divine.\n{{right|''Perkins''}}\n\n'''Perry, Thomas Sergeant''' (1845- ). American literary historian.\n{{right|''T. S. Perry''}}\n\n'''Perry, William.''' Scottish lexicographer. (“Royal Standard English Dictionary,” 1775.)\n{{right|''Perry''}}\n\n'''Peters, Charles''' (died 1777). English clergyman.\n{{right|''Peters''}}\n\n'''Pett, Sir P.''' (second half of 17th century). English writer.\n{{right|''Pett''}}\n\n'''Petty''' or '''Pettie, Sir William''' (1623-1687). English political economist.\n{{right|''Petty,'' or ''Sir W. Pettie''}}\n\n'''Phaer, Thomas''' (died 1560). British translator of Virgil, etc.\n{{right|''Phaer''}}\n\n'''Phelps, Austin''' (1820-1890). American clergyman and author.\n{{right|''A. Phelps''}}\n\n'''Phelps, Elizabeth Stuart''' (Mrs. Ward) (1844- ). American novelist and poet.\n{{right|''E. S. Phelps''}}\n\n'''Philips, Ambrose''' (died 1749). English poet and dramatist.\n{{right|''Philips''}}\n\n'''Philips, John''' (1676-1708). English poet.\n{{right|''J. Philips''}}\n\n'''Phillimore, Joseph''' (1775-1855). English jurist.\n{{right|''Phillimore''}}\n\n'''Phillips, Edward''' (1630-1698?). English lexicographer and compiler. (“The New World of Words, or a General English Dictionary,” 1658, etc.; revised ed., 1706; editions used, 1678, 1706.)\n{{right|''E. Phillips,'' or ''Phillips''}}\n\n444 23<noinclude><references/></noinclude>"
+}

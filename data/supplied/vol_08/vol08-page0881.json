@@ -1,0 +1,96 @@
+{
+ "volume": 8,
+ "page_number": 881,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n880.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n880.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-10",
+  "fetched_by": "alaemmle",
+  "angle": 1.45,
+  "column_width": 2423,
+  "items": [
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     0,
+     807,
+     1787
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     807,
+     0,
+     1614,
+     893
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     807,
+     893,
+     1614,
+     1787
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1614,
+     0,
+     2423,
+     1787
+    ]
+   }
+  ],
+  "readings": {
+   "c1s1": "",
+   "c2s1": "○",
+   "c2s2": "",
+   "c3s1": ""
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 4,
+    "input_tokens": 5668,
+    "output_tokens": 52,
+    "cache_creation_input_tokens": 3966,
+    "cache_read_input_tokens": 11898
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" /></noinclude>○<noinclude><references/></noinclude>"
+}

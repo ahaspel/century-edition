@@ -1,0 +1,120 @@
+{
+ "volume": 8,
+ "page_number": 883,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n882.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n882.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-10",
+  "fetched_by": "alaemmle",
+  "angle": 1.45,
+  "column_width": 2426,
+  "items": [
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     0,
+     808,
+     1875
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1875,
+     808,
+     3315
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     808,
+     0,
+     1617,
+     1151
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     808,
+     1151,
+     1617,
+     3315
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1617,
+     0,
+     2426,
+     460
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1617,
+     460,
+     2426,
+     3315
+    ]
+   }
+  ],
+  "readings": {
+   "c1s1": "",
+   "c1s2": "",
+   "c2s1": "````\n````",
+   "c2s2": "",
+   "c3s1": "",
+   "c3s2": ""
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 6,
+    "input_tokens": 10058,
+    "output_tokens": 98,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 23796
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" /></noinclude>````\n````<noinclude><references/></noinclude>"
+}

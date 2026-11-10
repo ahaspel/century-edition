@@ -1,0 +1,168 @@
+{
+ "volume": 8,
+ "page_number": 856,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n855.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n855.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-10",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 931,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     280,
+     0,
+     2442,
+     410
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     280,
+     410,
+     847,
+     1419
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     280,
+     1419,
+     847,
+     2427
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     280,
+     2427,
+     847,
+     3299
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     847,
+     410,
+     1591,
+     1490
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     847,
+     1490,
+     1591,
+     2570
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     847,
+     2570,
+     1591,
+     3299
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1591,
+     410,
+     2442,
+     1289
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1591,
+     1289,
+     2442,
+     2372
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1591,
+     2372,
+     2442,
+     3299
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader||AMENDED SPELLINGS|}}",
+   "c1s1": "<poem>\n'''paddle: padl'''\n''paddled: padld''\n''padlocked: padlockt''\n''pained: paind''\n''paired: paird''\n'''palæography: palæografy'''\n'''palatable: palatabl'''\n'''palatine: palatin, -ine'''\n''palled: palld''\n'''palliative: palliativ'''\n''palmed: palmd''\n'''palpable: palpabl'''\n''paltered: palterd''\n''pampered: pamperd''\n'''pamphlet: pamflet'''\n''pandered: panderd''\n''paneled, panelled: paneld''\n'''panicle: panicl'''\n'''panicled: panicld'''\n'''pantograph: pantograf'''\n''papered: paperd''\n'''parable: parabl'''\n'''paragraph: paragraf'''\n''paragraphed: paragraft''\n''paralleled: paralleld''\n'''paranymph: paranymf'''\n'''paraphernalia: parafernalia'''\n'''paraphrase: parafrase'''\n'''paraphrast: parafrast'''\n''parboiled: parboild''\n</poem>",
+   "c1s2": "<poem>\n''parceled, parcelled: parceld''\n''parched: parcht''\npardonable: pardonabl\n''pardoned: pardond''\n''parleyed: parleyd''\nparliament: parlament\n''parsed: parst''\npartible: partibl\nparticiple: participl\nparticle: particl\npartitive: partitiv\n''passed, past: past''\npassable: passabl\npassive: passiv\npatch: pach\n''patched: pacht''\n''patrolled: patrold''\n''patterned: patternd''\n''pavilioned: paviliond''\n''pawed: pawd''\n''pawned: pawnd''\npayable: payabl\npeaceable: peaceabl\n''peached: peacht''\n''pealed: peald''\npearl: perl\npeasant: pezant\npeasantry: pezantry\npease, peas: peas\npebble: pebl\n</poem>",
+   "c1s3": "<poem>peccable: peccabl\n''pecked: peckt''\npedagogue: pedagog\npeddle: pedl\n''peddled: pedld''\npeddler: pedler\npeduncle: peduncl\n''peeled: peeld''\n''peeped: peept''\n''peered: peerd''\n''pegged: pegd''\npell: pel\npellicle: pellicl\npell-mell: pel-mel\n''penned: pend''\npence: pense\n''pencilled, penciled: pencild''\npenetrable: penetrabl\npenetrative: penetrativ\npensile: pensil, -ile\n''pensioned: pensiond''\npensive: pensiv\npeople: peple</poem>",
+   "c2s1": "<poem>\nperforative: perforativ\n''performed: performd''\nperformable: performabl\n''perilled, periled: perild''\nperiphery: perifery\nperiphrase: perifrase\nperiphrastic: perifrastic\n''perished: perisht''\nperishable: perishabl\n''periwigged: periwigd''\nperiwinkle: periwinkl\n''perked: perkt''\npermeable: permeabl\npermissible: permissibl\npermissive: permissiv\n''perplexed: perplext''\nperquisite: perquisit\npersonable: personabl\nperspective: perspectiv\nperspirable: perspirabl\npersuadable: persuadabl\npersuasive: persuasiv\n''pertained: pertaind''\n''perturbed: perturbd''\npervasive: pervasiv\nperversive: perversiv\npervertible: pervertibl\n''pestered: pesterd''\npestle: pestl\npetit, petty: petty\n''petitioned: petitiond''\npetrifactive: petrifactiv\nphotometry: fotometry\nphrase: frase\nphraseology: fraseology\nphrenologist: frenologist\nphrenology: frenology\nphrensy, frenzy: frenzy\nphthisic: tisic\nphylactery: fylactery\nphysic: fysic\nphysical: fysical\n''physicked: fysickt''\nphysician: fysician\nphysicist: fysicist\nphysics: fysics\nphysiognomist: fysiognomist\nphysiognomy: fysiognomy\nphysiologic: fysiologic\nphysiologist: fysiològist\nphysiology: fysiology\nphytography: fytografy\nphytólogy: fytology\n''picked: pickt''\npickle: pickl\n''pickled: pickld''\n''picnicked: picnickt''\n''pilfered: pilferd''\npill: pil\n''pillowed: pillowd''\n''pimped: pimpt''\npimple: pimpl\n''pimpled: pimpld''\n</poem>",
+   "c2s2": "<poem>\nph: f\nphaeton: faeton\nphalansterian: falansterian\nphalanstery: falanstery\nphalanx: falanx\nphantasm: fantasm\nphantasmagoria: fantasmagoria\nphantom: fantom\npharmacy: farmacy\npharynx: farynx\nphase: fase\npheasant: fezant\nphenix: fenix\nphenomenal: fenomenal\nphenomenon: fenomenon\nphial, vial: fial, vial\nphilander: filander\nphilanthropic: filanthropic\nphilanthropist: filanthropist\nphilanthropy: filanthropy\nphilharmonic: filharmonic\nphilippic: filippic\nphilologer: filologer\nphilological: filological\nphilologist: filologist\nphilology: filology\nphilomel: filomel\nphilopena: filopena\nphilosopher: filosofer\nphilosophic: filosofic\n''pinned: pind''\n''pinched: pincht''\n''pinioned: piniond''\n''pinked: pinkt''\npinnacle: pinnacl\npintle: pintl\n''pioneered: pioneerd''\n''pished: pisht''\npitch: pich\n''pitched: picht''\npitcher: picher\npitchy: pichy\npitiable: pitiabl\nplacable: placabl\n''plained: plaind''\nplaintiff: plaintif\nplaintive: plaintiv\n''planned: pland''\n''planked: plankt''\n''plashed: plasht''\n''plastered: plasterd''\nplausible: plausibl\nplausive: plausiv\n''played: playd''\npleasant: plezant\npleasurable: plezurabl\npleasure: plezure\n''pledged: pledgd''\npliable: pliabl\nplough, plow: plow\nplover: pluver\nplow: ''see'' plough\n</poem>",
+   "c2s3": "<poem>\nphilosophize: filosofize\nphilosophy: filosofy\nphlebotomy: flebotomy\nphlegm: flegm\nphlegmatic: flegmatic\nphlox: flox\nphoenix, phenix: foenix, fenix\nphonetic: fonetic\nphonetist: fonetist\nphonic: fonic\nphonograph: fonograf\nphonographer: fonografer\nphonographic: fonografic\nphonography: fonografy\nphonologic: fonologic\nphonologist: fonologist\nphonology: fonology\nphonotypy: fonotypy\n''plowed: plowd''\nplowable: plowabl\n''plucked: pluckt''\n''plugged: plugd''\nplumb: plum\n''plumbed: plumd''\nplumber, plummer: plummer\nplumbing, plumming: plumming\nplumb-line: plum-line\n''plumped: plumpt''\n''plundered: plunderd''\n''poached: poacht''\n''poisoned: poisond''\n''polished: polisht''\npolygraph: polygraf\npolygraphy: polygrafy\npolysyllable: polysyllabl\n</poem>\n{{c|6}}",
+   "c3s1": "<poem>porphyry: porfyry\nportable: portabl\n''portioned: portiond''\n''portrayed: portrayd''\npositive: positiv\n''possessed: possest''\npossessive: possessiv\npossible: possibl\npotable: potabl\npottle: potl\n''pouched: poucht''\n''poured: pourd''\n''powdered: powderd''\npracticable: practicabl\npractise: practis\n''practised: practist''\n''pranked: prankt''\nprattle: pratl\n''prattled: pratld''\nprattler: pratler\n''prayed: prayd''\n''preached: preacht''\npreamble: preambl\nprecative: precativ\npreceptive: preceptiv\npreclusive: preclusiv\nprologue: prolog\n''prolonged: prolongd''\npromise: promis\n''promised: promist''\npromotive: promotiv\n''propped: propt''\npropagable: propagabl\n''propelled: propeld''\nprophecy: profecy\nprophesy: profesy\nprophet: profet\nprophetess: profetess\nprophetic: profetic\nprophylactic: profylactic\n''proportioned: proportiond''\nproportionable: proportionabl\npropulsive: propulsiv\nproscriptive: proscriptiv\nprospective: prospectiv\n''prospered: prosperd''\nprotective: protectiv\nprotractive: protractiv\nprotrusive: protrusiv\nprovable: provabl\nprovocative: provocativ</poem>",
+   "c3s2": "<poem>\npreconceive: preconceiv\nprecursive: precursiv\npredestine: predestin\n''predestined: predestind''\npredetermine: predetermin\n''predetermined: predetermind''\npredicable: predicabl\npredictive: predictiv\n''preened: preend''\n''pre-established: pre-establisht''\npreferable: preferabl\n''preferred: preferd''\nprefigurative: prefigurativ\n''prefixed: prefixt''\nprehensile: prehensil\nprelusive: prelusiv\npremise, premiss: premis\npremise, ''v.'': premize\n''premised: premized''\n''preordained: preordaind''\npreparative: preparativ\nprepositive: prepositiv\n''prepossessed: prepossest''\nprerequisite: prerequisit\nprerogative: prerogativ\nprescriptive: prescriptiv\npresentable: presentabl\npreservative: preservativ\npreserve: preserv\n''preserved: preservd''\n''prowled: prowld''\n''published: publisht''\n''puckered: puckerd''\npuddle: pudl\n''puddled: pudld''\npuddling: pudling\npuerile: pueril, -ile\npuff: puf\n''puffed: puft''\npull: pul\n''pulled: puld''\npulsatile: pulsatil\npulsative: pulsativ\n''pulsed: pulst''\npulverable: pulverabl\n''pumped: pumpt''\n''punned: pund''\n''punched: puncht''\n''punished: punisht''\npunishable: punishabl\npunitive: punitiv\npurr: pur\n''purred: purd''\npurchasable: purchasabl\npurgative: purgativ\n''purled: purld''\npurline, purlin: purlin\n''purloined: purloind''\npurple: purpl\n''purpled: purpld''\n''pursed: purst''\n''purveyed: purveyd''\n</poem>",
+   "c3s3": "<poem>''pressed: prest''\npresumable: presumabl\npresumptive: presumptiv\npretense, pretence: pretense\npreterit, preterite: preterit\n''prevailed: prevaild''\npreventable: preventabl\npreventive: preventiv\n''preyed: preyd''\n''pricked: prickt''\nprickle: prickl\nprimitive: primitiv\nprinciple: principl\n''principled: principld''\n''prinked: prinkt''\n''prisoned: prisond''\npristine: pristin, -ine\nprivative: privativ\nprobable: probabl\nprobativ: probativ\nprocreative: procreativ\nprocurable: procurabl\nproducible: producibl\nproductive: productiv\n''pushed: pusht''\nputative: putativ\nputrefactive: putrefactiv\n''puttered: putterd''\npuzzle: puzl\n''puzzled: puzld''\n\n''quacked: quackt''\nquadruple: quadrupl\nquaff: quaf\n''quaffed: quaft''\n''quailed: quaild''\nqualitative: qualitativ\nquantitative: quantitativ\n''quarreled, quarrelled: quarreld''\nquarrelsome: quarrelsum\nquay, key: key\nquell: quel\n''quelled: queld''\n''quenched: quencht''\nqueue, cue: cue\nquibble: quibl\n''quibbled: quibld''\n''quickened: quickend''</poem>"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 10,
+    "input_tokens": 9720,
+    "output_tokens": 6883,
+    "cache_creation_input_tokens": 3966,
+    "cache_read_input_tokens": 35694
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader||AMENDED SPELLINGS|}}</noinclude><poem>\n'''paddle: padl'''\n''paddled: padld''\n''padlocked: padlockt''\n''pained: paind''\n''paired: paird''\n'''palæography: palæografy'''\n'''palatable: palatabl'''\n'''palatine: palatin, -ine'''\n''palled: palld''\n'''palliative: palliativ'''\n''palmed: palmd''\n'''palpable: palpabl'''\n''paltered: palterd''\n''pampered: pamperd''\n'''pamphlet: pamflet'''\n''pandered: panderd''\n''paneled, panelled: paneld''\n'''panicle: panicl'''\n'''panicled: panicld'''\n'''pantograph: pantograf'''\n''papered: paperd''\n'''parable: parabl'''\n'''paragraph: paragraf'''\n''paragraphed: paragraft''\n''paralleled: paralleld''\n'''paranymph: paranymf'''\n'''paraphernalia: parafernalia'''\n'''paraphrase: parafrase'''\n'''paraphrast: parafrast'''\n''parboiled: parboild''\n</poem>\n<poem>\n''parceled, parcelled: parceld''\n''parched: parcht''\npardonable: pardonabl\n''pardoned: pardond''\n''parleyed: parleyd''\nparliament: parlament\n''parsed: parst''\npartible: partibl\nparticiple: participl\nparticle: particl\npartitive: partitiv\n''passed, past: past''\npassable: passabl\npassive: passiv\npatch: pach\n''patched: pacht''\n''patrolled: patrold''\n''patterned: patternd''\n''pavilioned: paviliond''\n''pawed: pawd''\n''pawned: pawnd''\npayable: payabl\npeaceable: peaceabl\n''peached: peacht''\n''pealed: peald''\npearl: perl\npeasant: pezant\npeasantry: pezantry\npease, peas: peas\npebble: pebl\n</poem>\n<poem>peccable: peccabl\n''pecked: peckt''\npedagogue: pedagog\npeddle: pedl\n''peddled: pedld''\npeddler: pedler\npeduncle: peduncl\n''peeled: peeld''\n''peeped: peept''\n''peered: peerd''\n''pegged: pegd''\npell: pel\npellicle: pellicl\npell-mell: pel-mel\n''penned: pend''\npence: pense\n''pencilled, penciled: pencild''\npenetrable: penetrabl\npenetrative: penetrativ\npensile: pensil, -ile\n''pensioned: pensiond''\npensive: pensiv\npeople: peple</poem>\n<poem>\nperforative: perforativ\n''performed: performd''\nperformable: performabl\n''perilled, periled: perild''\nperiphery: perifery\nperiphrase: perifrase\nperiphrastic: perifrastic\n''perished: perisht''\nperishable: perishabl\n''periwigged: periwigd''\nperiwinkle: periwinkl\n''perked: perkt''\npermeable: permeabl\npermissible: permissibl\npermissive: permissiv\n''perplexed: perplext''\nperquisite: perquisit\npersonable: personabl\nperspective: perspectiv\nperspirable: perspirabl\npersuadable: persuadabl\npersuasive: persuasiv\n''pertained: pertaind''\n''perturbed: perturbd''\npervasive: pervasiv\nperversive: perversiv\npervertible: pervertibl\n''pestered: pesterd''\npestle: pestl\npetit, petty: petty\n''petitioned: petitiond''\npetrifactive: petrifactiv\nphotometry: fotometry\nphrase: frase\nphraseology: fraseology\nphrenologist: frenologist\nphrenology: frenology\nphrensy, frenzy: frenzy\nphthisic: tisic\nphylactery: fylactery\nphysic: fysic\nphysical: fysical\n''physicked: fysickt''\nphysician: fysician\nphysicist: fysicist\nphysics: fysics\nphysiognomist: fysiognomist\nphysiognomy: fysiognomy\nphysiologic: fysiologic\nphysiologist: fysiològist\nphysiology: fysiology\nphytography: fytografy\nphytólogy: fytology\n''picked: pickt''\npickle: pickl\n''pickled: pickld''\n''picnicked: picnickt''\n''pilfered: pilferd''\npill: pil\n''pillowed: pillowd''\n''pimped: pimpt''\npimple: pimpl\n''pimpled: pimpld''\n</poem>\n<poem>\nph: f\nphaeton: faeton\nphalansterian: falansterian\nphalanstery: falanstery\nphalanx: falanx\nphantasm: fantasm\nphantasmagoria: fantasmagoria\nphantom: fantom\npharmacy: farmacy\npharynx: farynx\nphase: fase\npheasant: fezant\nphenix: fenix\nphenomenal: fenomenal\nphenomenon: fenomenon\nphial, vial: fial, vial\nphilander: filander\nphilanthropic: filanthropic\nphilanthropist: filanthropist\nphilanthropy: filanthropy\nphilharmonic: filharmonic\nphilippic: filippic\nphilologer: filologer\nphilological: filological\nphilologist: filologist\nphilology: filology\nphilomel: filomel\nphilopena: filopena\nphilosopher: filosofer\nphilosophic: filosofic\n''pinned: pind''\n''pinched: pincht''\n''pinioned: piniond''\n''pinked: pinkt''\npinnacle: pinnacl\npintle: pintl\n''pioneered: pioneerd''\n''pished: pisht''\npitch: pich\n''pitched: picht''\npitcher: picher\npitchy: pichy\npitiable: pitiabl\nplacable: placabl\n''plained: plaind''\nplaintiff: plaintif\nplaintive: plaintiv\n''planned: pland''\n''planked: plankt''\n''plashed: plasht''\n''plastered: plasterd''\nplausible: plausibl\nplausive: plausiv\n''played: playd''\npleasant: plezant\npleasurable: plezurabl\npleasure: plezure\n''pledged: pledgd''\npliable: pliabl\nplough, plow: plow\nplover: pluver\nplow: ''see'' plough\n</poem>\n<poem>\nphilosophize: filosofize\nphilosophy: filosofy\nphlebotomy: flebotomy\nphlegm: flegm\nphlegmatic: flegmatic\nphlox: flox\nphoenix, phenix: foenix, fenix\nphonetic: fonetic\nphonetist: fonetist\nphonic: fonic\nphonograph: fonograf\nphonographer: fonografer\nphonographic: fonografic\nphonography: fonografy\nphonologic: fonologic\nphonologist: fonologist\nphonology: fonology\nphonotypy: fonotypy\n''plowed: plowd''\nplowable: plowabl\n''plucked: pluckt''\n''plugged: plugd''\nplumb: plum\n''plumbed: plumd''\nplumber, plummer: plummer\nplumbing, plumming: plumming\nplumb-line: plum-line\n''plumped: plumpt''\n''plundered: plunderd''\n''poached: poacht''\n''poisoned: poisond''\n''polished: polisht''\npolygraph: polygraf\npolygraphy: polygrafy\npolysyllable: polysyllabl\n</poem>\n{{c|6}}\n<poem>porphyry: porfyry\nportable: portabl\n''portioned: portiond''\n''portrayed: portrayd''\npositive: positiv\n''possessed: possest''\npossessive: possessiv\npossible: possibl\npotable: potabl\npottle: potl\n''pouched: poucht''\n''poured: pourd''\n''powdered: powderd''\npracticable: practicabl\npractise: practis\n''practised: practist''\n''pranked: prankt''\nprattle: pratl\n''prattled: pratld''\nprattler: pratler\n''prayed: prayd''\n''preached: preacht''\npreamble: preambl\nprecative: precativ\npreceptive: preceptiv\npreclusive: preclusiv\nprologue: prolog\n''prolonged: prolongd''\npromise: promis\n''promised: promist''\npromotive: promotiv\n''propped: propt''\npropagable: propagabl\n''propelled: propeld''\nprophecy: profecy\nprophesy: profesy\nprophet: profet\nprophetess: profetess\nprophetic: profetic\nprophylactic: profylactic\n''proportioned: proportiond''\nproportionable: proportionabl\npropulsive: propulsiv\nproscriptive: proscriptiv\nprospective: prospectiv\n''prospered: prosperd''\nprotective: protectiv\nprotractive: protractiv\nprotrusive: protrusiv\nprovable: provabl\nprovocative: provocativ</poem>\n<poem>\npreconceive: preconceiv\nprecursive: precursiv\npredestine: predestin\n''predestined: predestind''\npredetermine: predetermin\n''predetermined: predetermind''\npredicable: predicabl\npredictive: predictiv\n''preened: preend''\n''pre-established: pre-establisht''\npreferable: preferabl\n''preferred: preferd''\nprefigurative: prefigurativ\n''prefixed: prefixt''\nprehensile: prehensil\nprelusive: prelusiv\npremise, premiss: premis\npremise, ''v.'': premize\n''premised: premized''\n''preordained: preordaind''\npreparative: preparativ\nprepositive: prepositiv\n''prepossessed: prepossest''\nprerequisite: prerequisit\nprerogative: prerogativ\nprescriptive: prescriptiv\npresentable: presentabl\npreservative: preservativ\npreserve: preserv\n''preserved: preservd''\n''prowled: prowld''\n''published: publisht''\n''puckered: puckerd''\npuddle: pudl\n''puddled: pudld''\npuddling: pudling\npuerile: pueril, -ile\npuff: puf\n''puffed: puft''\npull: pul\n''pulled: puld''\npulsatile: pulsatil\npulsative: pulsativ\n''pulsed: pulst''\npulverable: pulverabl\n''pumped: pumpt''\n''punned: pund''\n''punched: puncht''\n''punished: punisht''\npunishable: punishabl\npunitive: punitiv\npurr: pur\n''purred: purd''\npurchasable: purchasabl\npurgative: purgativ\n''purled: purld''\npurline, purlin: purlin\n''purloined: purloind''\npurple: purpl\n''purpled: purpld''\n''pursed: purst''\n''purveyed: purveyd''\n</poem>\n<poem>''pressed: prest''\npresumable: presumabl\npresumptive: presumptiv\npretense, pretence: pretense\npreterit, preterite: preterit\n''prevailed: prevaild''\npreventable: preventabl\npreventive: preventiv\n''preyed: preyd''\n''pricked: prickt''\nprickle: prickl\nprimitive: primitiv\nprinciple: principl\n''principled: principld''\n''prinked: prinkt''\n''prisoned: prisond''\npristine: pristin, -ine\nprivative: privativ\nprobable: probabl\nprobativ: probativ\nprocreative: procreativ\nprocurable: procurabl\nproducible: producibl\nproductive: productiv\n''pushed: pusht''\nputative: putativ\nputrefactive: putrefactiv\n''puttered: putterd''\npuzzle: puzl\n''puzzled: puzld''\n\n''quacked: quackt''\nquadruple: quadrupl\nquaff: quaf\n''quaffed: quaft''\n''quailed: quaild''\nqualitative: qualitativ\nquantitative: quantitativ\n''quarreled, quarrelled: quarreld''\nquarrelsome: quarrelsum\nquay, key: key\nquell: quel\n''quelled: queld''\n''quenched: quencht''\nqueue, cue: cue\nquibble: quibl\n''quibbled: quibld''\n''quickened: quickend''</poem><noinclude><references/></noinclude>"
+}

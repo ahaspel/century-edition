@@ -1,0 +1,175 @@
+{
+ "volume": 8,
+ "page_number": 855,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n854.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n854.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-10",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 409,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     46,
+     2279,
+     87
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     87,
+     789,
+     1165
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1165,
+     789,
+     2242
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2242,
+     789,
+     3177
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     789,
+     87,
+     1524,
+     1164
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     789,
+     1164,
+     1524,
+     2242
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     789,
+     2242,
+     1524,
+     3177
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1524,
+     87,
+     2279,
+     1170
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1524,
+     1170,
+     2279,
+     2245
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1524,
+     2245,
+     2279,
+     3177
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader||AMENDED SPELLINGS|}}",
+   "c1s1": "<poem>\n''gambled: gambld''\ngamesome: gamesum\ngarble: garbl\n''garbled: garbld''\n''gardened: gardend''\ngargle: gargl\n''gargled: gargld''\n''garnered: garnerd''\n''gashed: gasht''\n''gasped: gaspt''\ngauze: gauz\ngazelle, gazel: gazel\ngazette: gazet\ngelatine, gelatin: gelatin\n''gendered: genderd''\ngenitive: genitiv\ngentle: gentl\ngentleman: gentlman\ngenuine: genuin\ngeographer: geografer\ngeographic: geografic\ngeography: geografy\nghastliness: gastliness\nghastly: gastly\nghost: gost\ngiggle: gigl\ngill: gil\ngirdle: girdl\n''girdled: girdld''\ngive: giv\n''given: givn''\ngladsome: gladsum\nguilt: gilt\nguilty: gilty\nguise: guize\n''gulfed: gulft''\n''gulped: gulpt''\ngurgle: gurgl\n''gurgled: gurgld''\n''gushed: gusht''\nguzzle: guzl\n''guzzled: guzld''\n\nhabitable: habitabl\n''hacked: hackt''\nhackle: hackl\n''hackled: hackld''\nhaggle: hagl\n''haggled: hagld''\n''hailed: haild''\n''hallowed: hallowd''\n''haltered: halterd''\nhalve: halv, ''halvs''\n''halved: halvd''\n''hampered: hamperd''\nhandcuff: handcuf\n''handcuffed: handcuft''\nhandsome: handsum\n''hanged: hangd''\n''happed: hapt''\n''happened: happend''\nharangue: harang\n''harangued: harangd''\n''harassed: harast''\n</poem>",
+   "c1s2": "<poem>\n''gleamed : gleamd''\n''gleaned: gleand''\nglimpse: glimps\n''glimpsed: glimpst''\n''glistered: glisterd''\n''glittered: glitterd''\n''gloomed : gloomd''\nglycerine, glycerin: glycerin\nglyph: glyf\n''gnarled: gnarld''\n''gnawed: gnawd''\ngobble : gobl\n''gobbled : gobld''\ngodhead : godhed\ngoggle: gogl\n''goggled: gogld''\ngoiter, goitre: goiter\n''gone: gon''\ngood-by, good-bye: good-by\n''gotten: gotn''\ngovern: guvern\n''governed: guvernd''\ngoverness: guverness\ngovernment: guvernment\ngovernor: guvernor\n''grabbed: grabd''\ngraff: graf\n''grained: graind''\ngranite: granit\n''grasped: graspt''\nharbor, harbour: harbor\n''harbored, harboured: harbord''\n''harked: harkt''\n''harmed: harmd''\n''harnessed: harnest''\n''harped: harpt''\n''harrowed: harrowd''\n''hashed: hasht''\nhatch: hach\n''hatched: hacht''\nhatchment: hachment\nhaughty: hauty\n''hauled: hauld''\nhave: hav\nhavock, havoc: havoc\n''havocked: havockt''\n''hawked: hawkt''\nhead: hed\nheadache: hedake\nheadland: hedland\nheadlong: hedlong\n''healed: heald''\nhealth: helth\nhealthy: helthy\n''heaped: heapt''\n''heard: herd''\nhearken: harken\n''hearkened: harkend''\nhearse: herse\n''hearsed: herst''\nheart: hart\n</poem>",
+   "c1s3": "<poem>\ngrease, ''v.'': greaz, grease\n''greased: greazd, greast''\ngriddle: gridl\ngrieve: griev\n''grieved: grievd''\ngrill: gril\n''grilled: grild''\n''gripped: gript''\ngrizzle: grizl\n''grizzled: grizld''\n''groomed: groomd''\ngroove: groov\n''grooved: groovd''\n''grouped: groupt''\n''groveled: groveld''\n''growled: growld''\n''grubbed: grubd''\n''grudged: grudgd''\ngrumble: grumbl\n''grumbled: grumbld''\nguarantee: garantee\nguaranty: garanty\nguard: gard\nguardian: gardian\nguess: gess\n''guessed: gest''\nguest: gest\nguild: gild\n</poem>\n<poem>\nhearth: harth\nhearty: harty\nheather: hether\nheave: heav\n''heaved: heavd''\nheaven: heven\nheaves: heavs\nheavy: hevy\n''hedged: hedgd''\n''heeled: heeld''\nheifer: hefer\n''heightened: heightend''\nhell: hel\n''helped: helpt''\nhelve: helv\nhence: hense\nhermaphrodite: hermafrodite\nhiccough, hiccup: hiccof, hiccup\n''hiccoughed, hiccupped: hiccoft, hiccupt''\nhidden: hidn\nhill: hil\n''hilled: hild''\n''hindered: hinderd''\n''hipped: hipt''\n''hissed: hist''\n</poem>",
+   "c2s1": "<poem>\nhitch: hich\n''hitched: hicht''\nhobble: hobl\nhomestead: homested\nhoney: huney\nhoneyed: huneyd\nhonied: hunied\nhonor, honour: hònor\n''honored, honoured: honord''\nhonorable, honourable: honorabl\n''hoodwinked: hoodwinkt''\n''hoofed: hooft''\n''hooked: hookt''\n''hooped: hoopt''\nhooping-cough: hooping-cof\n''hopped: hopt''\n''horned: hornd''\nhorography: horografy\nhorrible: horribl\n''horsed: horst''\nhortative: hortativ\nhospitable: hospitabl\nhough, hock: hock\nhouse, ''v.'': houz\n''housed: houzd''\nhousing: houzing\n''howled: howld''\nhuff: huf\n''huffed: huft''\n''hugged: hugd''\ninflexive: inflexiv\n''informed: informd''\ninfuse: infuze\n''inked: inkt''\ninn: in\n''inned: ind''\ninquisitive: inquisitiv\n''installed: installd''\ninstead: insted\ninstinctive: instinctiv\ninstructive: instructiv\nintelligible: intelligibl\ninterleave: interleav\n''interleaved: interleavd''\n''interlinked: interlinkt''\nintermeddle: intermedl\ninterrogative: interrogativ\n''interspersed: intersperst''\nintestine: intestin\nintroduction: introduction\nintrusive: intrusiv\n''inurned: inurnd''\ninvective: invectiv\ninventive: inventiv\ninvolve: involv\n''involved: involvd''\ninweave: inweav\n''inwrapped: inwrapt''\niodine: iodin, -ine\nirksome: irksum\nirritative: irritativ\nisland: iland\n</poem>",
+   "c2s2": "<poem>\nhumble: humbl\n''humbled: humbld''\nhumor, humour: humor\n''humored, humoured: humord''\n''humped: humpt''\n''husked: huskt''\nhustle: hustl\n''hustled: hustld''\nhutch: huch\n''hutched: hucht''\nhydrography: hydrografy\nhydrophobia: hydrofobia\nhyphen: hyfen\n''hyphened: hyfend''\nhypocrite: hypocrit\n\nicicle: icicl\nill: il\nillative: illativ\nillness: ilness\nillusive: illusiv\nillustrative: illustrativ\nimaginable: imaginabl\nimaginative: imaginativ\nimagine: imagin\n''imagined: imagind''\nimbecile: imbecil\n''imbittered: imbitterd''\n''imbrowned: imbrownd''\nimitative: imitativ\nimmeasurable: immezurabl\nisle: ile\nislet: ilet\nitch: ich\n''itched: icht''\niterative: iterativ\n\n''jabbered: jabberd''\njail, gaol: jail\n''jailed: jaild''\n''jammed: jamd''\n''jarred: jard''\njasmine: jasmin\njealous: jelous\njealousy: jelousy\n''jeered: jeerd''\njeopard: jepard\njeopardy: jepardy\n''jerked: jerkt''\njessamine: jessamin\n''jibbed: jibd''\njoggle: jogl\n''joggled: jogld''\n''joined: joind''\njostle: jostl\n''jostled: jostld''\njournal: jurnal\njournalism: jurnalism\njournalist: jurnalist\njourney: jurney\n''journeyed: jurneyd''\njoust, just: just\njudicative: judicativ\n</poem>",
+   "c2s3": "{|\n|''impaired: impaird''||juggle: jugl\n|-\n|impassive: impassiv||''juggled: jugld''\n|-\n|''impeached: impeacht''||jumble: jumbl\n|-\n|''impelled: impeld''||''jumbled: jumbld''\n|-\n|imperative: imperativ||jungle: jungl\n|-\n|''imperilled: imperild''||justifiable: justifiabl\n|-\n|implacable: implacabl||juvenile: juvenil, -ile\n|-\n|impossible: impossibl||\n|-\n|''impoverished: impoverisht''||''keelhauled: keelhauld''\n|-\n|''impressed: imprest''||kettle: ketl\n|-\n|impressive: impressiv||key, quay: key\n|-\n|impulsive: impulsiv||''kidnapped: kidnapt''\n|-\n|inaccessible: inaccessibl||kill: kil\n|-\n|inactive: inactiv||''killed: kild''\n|-\n|''incensed: incenst''||kindle: kindl\n|-\n|incentive: incentiv||''kindled: kindld''\n|-\n|inceptive: inceptiv||''kissed: kist''\n|-\n|inclose: incloze||kitchen: kichen\n|-\n|inclusive: inclusiv||knell: knel\n|-\n|''increased: increast''||knuckle: knuckl\n|-\n|''incurred: incurd''||''knuckled: knuckld''\n|-\n|''indexed: indext''||\n|-\n|indicative: indicativ||labor, labour: labor\n|-\n|''indorsed: indorst''||''labored, laboured: labord''\n|-\n|''inferred: inferd''||''lacked: lackt''\n|-\n|infinite: infinit||lamb: lam\n|-\n|''infixed: infixt''||''lanched: lancht''\n|-\n|inflective: inflectiv||''languished: languisht''\n|}",
+   "c3s1": "<poem>\nlapse : laps\n''lapsed : lapst''\n''lashed : lasht''\nlatch : lach\n''latched : lacht''\n''lathered : latherd''\nlaudable : laudabl\nlaugh : laf\n''laughed : laft''\nlaughable : lafabl\nlaughter : lafter\n''launched : launcht''\nlaxative : laxativ\nlead (''metal'') : led\nleaden : leden\nleague : leag\n''leagued : leagd''\n''leaked : leakt''\n''leaned : leand, lent''\n''leaped, leapt : leapt, lept''\nlearn : lern\nlearned : lern-ed, lernd\nlearning : lerning\n''learnt : lernt''\n''leased : least''\nleather : lether\nleathern : lethern\nleave : leav\nleaven : leven\n''leavened : levend''\n''leered : leerd''\nlegible : legibl\nmaneuver, manœuvre : maneuver\n''maneuvered, manœuvred : maneuverd''\n''marched : marcht''\n''marked : markt''\n''marveled, marvelled : marveld''\nmarvelous, marvellous : marvelous\nmasculine : masculin\n''masked : maskt''\nmassive : massiv\n''mastered : masterd''\nmatch : mach\n''matched : macht''\nmaterialise, materialize : materialize\nmeadow : medow\nmeager, meagre : meager\n''meant : ment''\nmeasles : measls\nmeasurable : mezurabl\nmeasure : mezure\n''measured : mezured''\nmeddle : medl\n''meddled : medld''\nmeddlesome : medlsum\nmedicine : medicin\nmeditative : meditativ\nmelancholy : melancoly\nmemorable : memorabl\n</poem>",
+   "c3s2": "<poem>\nlegislative : legislativ\nlenitive : lenitiv\nleopard : lepard\n''lessened : lessend''\n''leveled, levelled : leveld''\nleveling, levelling : leveling\nlexicographer : lexicografer\nlexicography : lexicografy\nliable : liabl\n''libeled, libelled : libeld''\nlibertine : libertin, -ine\n''licensed : licenst''\n''licked : lickt''\n''lightened : lightend''\nlimb : lim\n''limped : limpt''\nlipped : lipt\n''lisped : lispt''\n''listened : listend''\nlithograph : lithograf\n''lithographed : lithograft''\nlithographer : lithografer\nlithography : lithografy\nlittle : litl\nlive : liv\n''lived : livd''\nlivelong : livlong\nloathsome : loathsum\n''locked : lockt''\n''loitered : loiterd''\nmemorialise, memorialize : memorialize\nmephitic : mefitic\nmephitis : mefitis\nmercantile : mercantil, -ile\nmerchandise : merchandize\nmerchantable : merchantabl\n''meshed : mesht''\n''messed : mest''\nmetamorphose : metamorfose\nmetamorphosis : metamorfosis\nmetaphysics : metafysics\nmetre, meter : meter\nmettle : metl\nmettled : metld\nmettlesome : metlsum\n''mewled : mewld''\nmiddle : midl\n''middling : midling''\n''mildewed : mildewd''\nmill : mil\n''milled : mild, milld''\n''mimicked : mimickt''\nmiracle : miracl\nmisbecome : misbecum\nmiserable : miserabl\nmisgive : misgiv\nmissile : missil\nmissive : missiv\n</poem>",
+   "c3s3": "<poem>''looked: lookt''\n''loomed: loomd''\n''looped: loopt''\n''loosed: loost''\n''loosened: loosend''\n''lopped: lopt''\nlovable: luvable\nlove: luv\n''loved: luvd''\nlovely: luvly\nlucrative: lucrativ\nluff: luf\n''luffed: luft''\nlull: lul\n''lulled: luld''\n''lumped: lumpt''\nlustre, luster: luster\nlymph: lymf\nlymphatic: lymfatic\n''lynched: lyncht''\n\n''mailed: maild''\n''maimed: maimd''\n''maintained: maintaind''\nmaize: maiz\n''malled: malld''\nmalleable: malleabl\nmanacle: manacl\nmistletoe: mistltoe\nmisuse, ''v.'': misuze\nmitre, miter: miter\n''mocked: mockt''\nmoney: muney\nmonitive: monitiv\nmonk: munk\nmonkey: munkey\nmonkish: munkish\nmonograph: monograf\nmonologue: monolog\nmonosyllable: monosyllabl\n''moored: moord''\n''mossed: most''\nmotive: motiv\nmouse, ''v.'': mouz\nmouser: mouzer\nmovable: movabl\n''mowed: mowd''\nmuddle: mudl\nmuff: muf\n''muffed: muft''\nmuffle: mufl\n''muffled: mufld''\n''mulched: mulcht''\nmumble: mumbl\n''mumbled: mumbld''\n''munched: muncht''</poem>"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [
+   [
+    1160,
+    3182,
+    1182,
+    3211
+   ]
+  ],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 112,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 10,
+    "input_tokens": 9715,
+    "output_tokens": 9260,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader||AMENDED SPELLINGS|}}</noinclude><poem>\n''gambled: gambld''\ngamesome: gamesum\ngarble: garbl\n''garbled: garbld''\n''gardened: gardend''\ngargle: gargl\n''gargled: gargld''\n''garnered: garnerd''\n''gashed: gasht''\n''gasped: gaspt''\ngauze: gauz\ngazelle, gazel: gazel\ngazette: gazet\ngelatine, gelatin: gelatin\n''gendered: genderd''\ngenitive: genitiv\ngentle: gentl\ngentleman: gentlman\ngenuine: genuin\ngeographer: geografer\ngeographic: geografic\ngeography: geografy\nghastliness: gastliness\nghastly: gastly\nghost: gost\ngiggle: gigl\ngill: gil\ngirdle: girdl\n''girdled: girdld''\ngive: giv\n''given: givn''\ngladsome: gladsum\nguilt: gilt\nguilty: gilty\nguise: guize\n''gulfed: gulft''\n''gulped: gulpt''\ngurgle: gurgl\n''gurgled: gurgld''\n''gushed: gusht''\nguzzle: guzl\n''guzzled: guzld''\n\nhabitable: habitabl\n''hacked: hackt''\nhackle: hackl\n''hackled: hackld''\nhaggle: hagl\n''haggled: hagld''\n''hailed: haild''\n''hallowed: hallowd''\n''haltered: halterd''\nhalve: halv, ''halvs''\n''halved: halvd''\n''hampered: hamperd''\nhandcuff: handcuf\n''handcuffed: handcuft''\nhandsome: handsum\n''hanged: hangd''\n''happed: hapt''\n''happened: happend''\nharangue: harang\n''harangued: harangd''\n''harassed: harast''\n</poem>\n<poem>\n''gleamed : gleamd''\n''gleaned: gleand''\nglimpse: glimps\n''glimpsed: glimpst''\n''glistered: glisterd''\n''glittered: glitterd''\n''gloomed : gloomd''\nglycerine, glycerin: glycerin\nglyph: glyf\n''gnarled: gnarld''\n''gnawed: gnawd''\ngobble : gobl\n''gobbled : gobld''\ngodhead : godhed\ngoggle: gogl\n''goggled: gogld''\ngoiter, goitre: goiter\n''gone: gon''\ngood-by, good-bye: good-by\n''gotten: gotn''\ngovern: guvern\n''governed: guvernd''\ngoverness: guverness\ngovernment: guvernment\ngovernor: guvernor\n''grabbed: grabd''\ngraff: graf\n''grained: graind''\ngranite: granit\n''grasped: graspt''\nharbor, harbour: harbor\n''harbored, harboured: harbord''\n''harked: harkt''\n''harmed: harmd''\n''harnessed: harnest''\n''harped: harpt''\n''harrowed: harrowd''\n''hashed: hasht''\nhatch: hach\n''hatched: hacht''\nhatchment: hachment\nhaughty: hauty\n''hauled: hauld''\nhave: hav\nhavock, havoc: havoc\n''havocked: havockt''\n''hawked: hawkt''\nhead: hed\nheadache: hedake\nheadland: hedland\nheadlong: hedlong\n''healed: heald''\nhealth: helth\nhealthy: helthy\n''heaped: heapt''\n''heard: herd''\nhearken: harken\n''hearkened: harkend''\nhearse: herse\n''hearsed: herst''\nheart: hart\n</poem>\n<poem>\ngrease, ''v.'': greaz, grease\n''greased: greazd, greast''\ngriddle: gridl\ngrieve: griev\n''grieved: grievd''\ngrill: gril\n''grilled: grild''\n''gripped: gript''\ngrizzle: grizl\n''grizzled: grizld''\n''groomed: groomd''\ngroove: groov\n''grooved: groovd''\n''grouped: groupt''\n''groveled: groveld''\n''growled: growld''\n''grubbed: grubd''\n''grudged: grudgd''\ngrumble: grumbl\n''grumbled: grumbld''\nguarantee: garantee\nguaranty: garanty\nguard: gard\nguardian: gardian\nguess: gess\n''guessed: gest''\nguest: gest\nguild: gild\n</poem>\n<poem>\nhearth: harth\nhearty: harty\nheather: hether\nheave: heav\n''heaved: heavd''\nheaven: heven\nheaves: heavs\nheavy: hevy\n''hedged: hedgd''\n''heeled: heeld''\nheifer: hefer\n''heightened: heightend''\nhell: hel\n''helped: helpt''\nhelve: helv\nhence: hense\nhermaphrodite: hermafrodite\nhiccough, hiccup: hiccof, hiccup\n''hiccoughed, hiccupped: hiccoft, hiccupt''\nhidden: hidn\nhill: hil\n''hilled: hild''\n''hindered: hinderd''\n''hipped: hipt''\n''hissed: hist''\n</poem>\n<poem>\nhitch: hich\n''hitched: hicht''\nhobble: hobl\nhomestead: homested\nhoney: huney\nhoneyed: huneyd\nhonied: hunied\nhonor, honour: hònor\n''honored, honoured: honord''\nhonorable, honourable: honorabl\n''hoodwinked: hoodwinkt''\n''hoofed: hooft''\n''hooked: hookt''\n''hooped: hoopt''\nhooping-cough: hooping-cof\n''hopped: hopt''\n''horned: hornd''\nhorography: horografy\nhorrible: horribl\n''horsed: horst''\nhortative: hortativ\nhospitable: hospitabl\nhough, hock: hock\nhouse, ''v.'': houz\n''housed: houzd''\nhousing: houzing\n''howled: howld''\nhuff: huf\n''huffed: huft''\n''hugged: hugd''\ninflexive: inflexiv\n''informed: informd''\ninfuse: infuze\n''inked: inkt''\ninn: in\n''inned: ind''\ninquisitive: inquisitiv\n''installed: installd''\ninstead: insted\ninstinctive: instinctiv\ninstructive: instructiv\nintelligible: intelligibl\ninterleave: interleav\n''interleaved: interleavd''\n''interlinked: interlinkt''\nintermeddle: intermedl\ninterrogative: interrogativ\n''interspersed: intersperst''\nintestine: intestin\nintroduction: introduction\nintrusive: intrusiv\n''inurned: inurnd''\ninvective: invectiv\ninventive: inventiv\ninvolve: involv\n''involved: involvd''\ninweave: inweav\n''inwrapped: inwrapt''\niodine: iodin, -ine\nirksome: irksum\nirritative: irritativ\nisland: iland\n</poem>\n<poem>\nhumble: humbl\n''humbled: humbld''\nhumor, humour: humor\n''humored, humoured: humord''\n''humped: humpt''\n''husked: huskt''\nhustle: hustl\n''hustled: hustld''\nhutch: huch\n''hutched: hucht''\nhydrography: hydrografy\nhydrophobia: hydrofobia\nhyphen: hyfen\n''hyphened: hyfend''\nhypocrite: hypocrit\n\nicicle: icicl\nill: il\nillative: illativ\nillness: ilness\nillusive: illusiv\nillustrative: illustrativ\nimaginable: imaginabl\nimaginative: imaginativ\nimagine: imagin\n''imagined: imagind''\nimbecile: imbecil\n''imbittered: imbitterd''\n''imbrowned: imbrownd''\nimitative: imitativ\nimmeasurable: immezurabl\nisle: ile\nislet: ilet\nitch: ich\n''itched: icht''\niterative: iterativ\n\n''jabbered: jabberd''\njail, gaol: jail\n''jailed: jaild''\n''jammed: jamd''\n''jarred: jard''\njasmine: jasmin\njealous: jelous\njealousy: jelousy\n''jeered: jeerd''\njeopard: jepard\njeopardy: jepardy\n''jerked: jerkt''\njessamine: jessamin\n''jibbed: jibd''\njoggle: jogl\n''joggled: jogld''\n''joined: joind''\njostle: jostl\n''jostled: jostld''\njournal: jurnal\njournalism: jurnalism\njournalist: jurnalist\njourney: jurney\n''journeyed: jurneyd''\njoust, just: just\njudicative: judicativ\n</poem>\n{| style=\"margin:auto\"\n|''impaired: impaird''||juggle: jugl\n|-\n|impassive: impassiv||''juggled: jugld''\n|-\n|''impeached: impeacht''||jumble: jumbl\n|-\n|''impelled: impeld''||''jumbled: jumbld''\n|-\n|imperative: imperativ||jungle: jungl\n|-\n|''imperilled: imperild''||justifiable: justifiabl\n|-\n|implacable: implacabl||juvenile: juvenil, -ile\n|-\n|impossible: impossibl||\n|-\n|''impoverished: impoverisht''||''keelhauled: keelhauld''\n|-\n|''impressed: imprest''||kettle: ketl\n|-\n|impressive: impressiv||key, quay: key\n|-\n|impulsive: impulsiv||''kidnapped: kidnapt''\n|-\n|inaccessible: inaccessibl||kill: kil\n|-\n|inactive: inactiv||''killed: kild''\n|-\n|''incensed: incenst''||kindle: kindl\n|-\n|incentive: incentiv||''kindled: kindld''\n|-\n|inceptive: inceptiv||''kissed: kist''\n|-\n|inclose: incloze||kitchen: kichen\n|-\n|inclusive: inclusiv||knell: knel\n|-\n|''increased: increast''||knuckle: knuckl\n|-\n|''incurred: incurd''||''knuckled: knuckld''\n|-\n|''indexed: indext''||\n|-\n|indicative: indicativ||labor, labour: labor\n|-\n|''indorsed: indorst''||''labored, laboured: labord''\n|-\n|''inferred: inferd''||''lacked: lackt''\n|-\n|infinite: infinit||lamb: lam\n|-\n|''infixed: infixt''||''lanched: lancht''\n|-\n|inflective: inflectiv||''languished: languisht''\n|}\n<poem>\nlapse : laps\n''lapsed : lapst''\n''lashed : lasht''\nlatch : lach\n''latched : lacht''\n''lathered : latherd''\nlaudable : laudabl\nlaugh : laf\n''laughed : laft''\nlaughable : lafabl\nlaughter : lafter\n''launched : launcht''\nlaxative : laxativ\nlead (''metal'') : led\nleaden : leden\nleague : leag\n''leagued : leagd''\n''leaked : leakt''\n''leaned : leand, lent''\n''leaped, leapt : leapt, lept''\nlearn : lern\nlearned : lern-ed, lernd\nlearning : lerning\n''learnt : lernt''\n''leased : least''\nleather : lether\nleathern : lethern\nleave : leav\nleaven : leven\n''leavened : levend''\n''leered : leerd''\nlegible : legibl\nmaneuver, manœuvre : maneuver\n''maneuvered, manœuvred : maneuverd''\n''marched : marcht''\n''marked : markt''\n''marveled, marvelled : marveld''\nmarvelous, marvellous : marvelous\nmasculine : masculin\n''masked : maskt''\nmassive : massiv\n''mastered : masterd''\nmatch : mach\n''matched : macht''\nmaterialise, materialize : materialize\nmeadow : medow\nmeager, meagre : meager\n''meant : ment''\nmeasles : measls\nmeasurable : mezurabl\nmeasure : mezure\n''measured : mezured''\nmeddle : medl\n''meddled : medld''\nmeddlesome : medlsum\nmedicine : medicin\nmeditative : meditativ\nmelancholy : melancoly\nmemorable : memorabl\n</poem>\n<poem>\nlegislative : legislativ\nlenitive : lenitiv\nleopard : lepard\n''lessened : lessend''\n''leveled, levelled : leveld''\nleveling, levelling : leveling\nlexicographer : lexicografer\nlexicography : lexicografy\nliable : liabl\n''libeled, libelled : libeld''\nlibertine : libertin, -ine\n''licensed : licenst''\n''licked : lickt''\n''lightened : lightend''\nlimb : lim\n''limped : limpt''\nlipped : lipt\n''lisped : lispt''\n''listened : listend''\nlithograph : lithograf\n''lithographed : lithograft''\nlithographer : lithografer\nlithography : lithografy\nlittle : litl\nlive : liv\n''lived : livd''\nlivelong : livlong\nloathsome : loathsum\n''locked : lockt''\n''loitered : loiterd''\nmemorialise, memorialize : memorialize\nmephitic : mefitic\nmephitis : mefitis\nmercantile : mercantil, -ile\nmerchandise : merchandize\nmerchantable : merchantabl\n''meshed : mesht''\n''messed : mest''\nmetamorphose : metamorfose\nmetamorphosis : metamorfosis\nmetaphysics : metafysics\nmetre, meter : meter\nmettle : metl\nmettled : metld\nmettlesome : metlsum\n''mewled : mewld''\nmiddle : midl\n''middling : midling''\n''mildewed : mildewd''\nmill : mil\n''milled : mild, milld''\n''mimicked : mimickt''\nmiracle : miracl\nmisbecome : misbecum\nmiserable : miserabl\nmisgive : misgiv\nmissile : missil\nmissive : missiv\n</poem>\n<poem>''looked: lookt''\n''loomed: loomd''\n''looped: loopt''\n''loosed: loost''\n''loosened: loosend''\n''lopped: lopt''\nlovable: luvable\nlove: luv\n''loved: luvd''\nlovely: luvly\nlucrative: lucrativ\nluff: luf\n''luffed: luft''\nlull: lul\n''lulled: luld''\n''lumped: lumpt''\nlustre, luster: luster\nlymph: lymf\nlymphatic: lymfatic\n''lynched: lyncht''\n\n''mailed: maild''\n''maimed: maimd''\n''maintained: maintaind''\nmaize: maiz\n''malled: malld''\nmalleable: malleabl\nmanacle: manacl\nmistletoe: mistltoe\nmisuse, ''v.'': misuze\nmitre, miter: miter\n''mocked: mockt''\nmoney: muney\nmonitive: monitiv\nmonk: munk\nmonkey: munkey\nmonkish: munkish\nmonograph: monograf\nmonologue: monolog\nmonosyllable: monosyllabl\n''moored: moord''\n''mossed: most''\nmotive: motiv\nmouse, ''v.'': mouz\nmouser: mouzer\nmovable: movabl\n''mowed: mowd''\nmuddle: mudl\nmuff: muf\n''muffed: muft''\nmuffle: mufl\n''muffled: mufld''\n''mulched: mulcht''\nmumble: mumbl\n''mumbled: mumbld''\n''munched: muncht''</poem><noinclude><references/></noinclude>"
+}

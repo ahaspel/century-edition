@@ -1,0 +1,168 @@
+{
+ "volume": 8,
+ "page_number": 854,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n853.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n853.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-10",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 500,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     334,
+     66,
+     2442,
+     911
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     334,
+     911,
+     1194,
+     2008
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     334,
+     2008,
+     1194,
+     2851
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     334,
+     2851,
+     1194,
+     3304
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1194,
+     911,
+     1954,
+     1978
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1194,
+     1978,
+     1954,
+     2959
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1194,
+     2959,
+     1954,
+     3304
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1954,
+     911,
+     2442,
+     1977
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1954,
+     1977,
+     2442,
+     3062
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1954,
+     3062,
+     2442,
+     3304
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader||AMENDED SPELLINGS|}}",
+   "c1s1": "<poem>\n''dismissed: dismist''\ndismissive: dismissiv\ndispatch: dispach\n''dispelled: dispeld''\ndispensable: dispensabl\n''dispensed: dispenst''\ndispersive: dispersiv\n''displayed: displayd''\ndispleasure: displezure\ndisplosive: displosiv\n''dispossessed: dispossest''\ndisputable: disputabl\ndisreputable: disreputabl\ndissemble: dissembl\n''dissembled: dissembld''\ndissoluble: dissolubl\ndissolvable: dissolvabl\ndissolve: dissolv\n''dissolved: dissolvd''\ndissuasive: dissuasiv\ndissyllable: dissyllabl\ndistaff: distaf\n''distained: distaind''\n''distempered: distemperd''\ndistensible: distensibl\ndistill, distil: distil\n''distilled: distild''\ndistinctive: distinctiv\ndistinguishable: distinguishabl\n''distinguished: distinguisht''\ndistractive: distractiv\n''distrained: distraind''\n</poem>\n<poem>\ndurable: durabl\ndutiable: dutiabl\n''dwarfed: dwarft''\ndwell: dwel\n''dwelled: dweld''\ndwindle: dwindl\n''dwindled: dwindld''\n\neagle: eagl\n''eared: eard''\nearl: erl\nearly: erly\nearn: ern\n''earned: ernd''\nearnest: ernest\nearnings: ernings\nearth: erth\nearthen: erthen\nearthling: erthling\nearthly: erthly\neatable: eatabl\n''eaten: eatn''\nebb: eb\n''ebbed: ebd''\neclipse: eclips\n''eclipsed: eclipst''\neclogue: eclog\n''-ed = d: -d''\n''-ed = t: -t''\nedged: edgd\neffable: effabl\neffective: effectiv\neffectual: effectual\n</poem>",
+   "c1s2": "<poem>\neffrontery: effruntery\neffuse: effuze\neffusive: effusiv\negg: eg\n''egged: egd''\nelapse: elaps\n''elapsed: elapst''\nelective: electiv\nelectrifiable: electrifiabl\nelectrize, -ise: electrize\neligible: eligibl\nellipse: ellips\nelusive: elusiv\n''embarked: embarkt''\n''embarrassed: embarrast''\n''embellished: embellisht''\nembezzle: embezl\n''embezzled: embezld''\nembossed: embost\n''emboweled, embowelled: emboweld''\n''embowered: embowerd''\n''embroidered: embroiderd''\n''embroiled: embroild''\nemphasis: emfasis\n</poem>",
+   "c1s3": "<poem>\ndrabble: drabl\ndraff: draf\ndraft, draught: draft\n''dragged: dragd''\ndraggle: dragl\n''draggled: dragld''\n''dragooned: dragoond''\ndraught, draft: draft\ndread: dred\ndreadful: dredful\n''dreamed: dreamd''\n</poem>\n<poem>\nemphasize : emfasize\nemphatic : emfatic\n''employed : employd''\nempurple : empurpl\nemulsive : emulsiv\nenactive : enactiv\n''enameled, enamelled: enameld''\n''encamped : encampt''\nencircle : encircl\n''encircled : encircld''\n</poem>",
+   "c2s1": "{|\n|enkindle : enkindl||''faltered : falterd''\n|-\n|enough : enuf||famine : famin\n|-\n|''enravished : enravisht''||''famished : famisht''\n|-\n|''enriched : enricht''||farewell : farewel\n|-\n|enroll, enrol : enrol||''farmed : farmd''\n|-\n|''enrolled : enrold''||fascicle : fascicl\n|-\n|ensanguine : ensanguin||''fashioned : fashiond''\n|-\n|''ensealed : ensealed''||fashionable : fashionabl\n|-\n|''entailed : entaild''||''fastened : fastend''\n|-\n|entangle : entangl||''fathered : fatherd''\n|-\n|''entangled : entangld''||''fathomed : fathomd''\n|-\n|''entered : enterd''||fathomable : fathomabl\n|-\n|''entertained : entertaind''||''fattened : fattend''\n|-\n|entrance, ''v.'' : entranse||favor, favour : favor\n|-\n|''entranced : entranst''||''favored : favord''\n|-\n|''entrapped : entrapt''||favorite : favorit\n|-\n|enunciative : enunciativ||''fawned : fawnd''\n|-\n|''enveloped : envelopt''||''feared : feard''\n|-\n|''envenomed : envenomd''||feasible : feasibl\n|-\n|epaulet, epaulette : epaulet||feather : fether\n|-\n|ephemera : efemera||''feathered : fetherd''\n|-\n|ephemeral : efemeral||feathery : fethery\n|-\n|epigraph : epigraf||febrile : febril\n|-\n|epilogue : epilog||federative : federativ\n|-\n|epitaph : epitaf||feeble : feebl\n|-\n|equable : equabl||feign : fein\n|-\n|''equaled, equalled : equald''||''feigned : feind''\n|-\n|''equipped : equipt''||feminine : feminin\n|-\n|equitable : equitabl||fence : fense\n|-\n|erasable : erasabl||fermentative : fermentativ\n|-\n|ermine : ermin||fertile : fertil, -ile\n|-\n|erosive : erosiv||festive : festiv\n|}",
+   "c2s2": "{|\n|err: er||fetch: fech\n|-\n|''erred: erd''||''fetched: fecht''\n|-\n|eruptive: eruptiv||fevered: feverd\n|-\n|''eschewed: eschewd''||fiber, fibre: fiber\n|-\n|''established: establisht''||fibered: fiberd\n|-\n|estimable: estimabl||fibrine: fibrin\n|-\n|etch: ech||fickle: fickl\n|-\n|''etched: echt''||fiddle: fidl\n|-\n|euphemism: eufemism||''fiddled: fidld''\n|-\n|euphemistic: eufemistic||''fidgetting: fidgeting''\n|-\n|euphonic: eufonic||fierce: fierse\n|-\n|euphony: eufony||''filched: filcht''\n|-\n|euphuism: eufuism||fill: fil\n|-\n|evasive: evasiv||''filled: fild''\n|-\n|evincive: evinciv||''filliped: fillipt''\n|-\n|evitable: evitabl||''filtered: filterd''\n|-\n|evolve: evolv||''fingered: fingerd''\n|-\n|''evolved: evolvd''||''finished: finisht''\n|-\n|examine: examin||''fished: fisht''\n|-\n|''examined: examind''||fissile: fissil\n|-\n|exceptionable: exceptionabl||''fixed: fixt''\n|-\n|excessive: excessiv||fizz: fiz\n|-\n|excitable: excitabl||''fizzed: fizd''\n|-\n|exclusive: exclusiv||''flagged: flagd''\n|-\n|excretive: excretiv||''flapped: flapt''\n|-\n|excursive: excursiv||''flashed: flasht''\n|-\n|excusable: excuzabl||''flattened: flattend''\n|-\n|excuse, ''v.'': excuze||''flattered: flatterd''\n|-\n|execrable: execrabl||flavor, flavour: flavor\n|}",
+   "c2s3": "{|\n|executive: executiv||''flavored, flavoured: flavord''\n|-\n|exercise: exercize||''flawed: flawd''\n|-\n|exhaustible: exhaustibl||''fledged: fledgd''\n|-\n|exorcise: exorcize||''fleered: fleerd''\n|-\n|expansible: expansibl||''fleshed: flesht''\n|-\n|expansive: expansiv||'''flexible: flexibl'''\n|-\n|''expelled: expeld''||'''flexile: flexil'''\n|-\n|expensive: expensiv||''flinched: flincht''\n|}\n4",
+   "c3s1": "<poem>\n''foregone: foregon''\nforehead: forhed\nforeign: foren\nforeigner: forener\n''forewarned: forewarnd''\nforgive: forgiv\nforgiveness: forgivness\n''forgone: forgon''\n''formed: formd''\nformative: formativ\nformidable: formidabl\nfosse, foss: foss\n''fostered: fosterd''\n''fouled: fould''\n''foundered: founderd''\n''foxed: foxt''\nfragile: fragil\nfreckle: freckl\n''freckled: freckld''\nfreeze: freez\n''freshened: freshend''\nfribble: fribbl\nfriend: frend\nfrieze: friez\n''frightened: frightend''\nfrill: fril\n''frilled: frild''\n''frisked: friskt''\n''frittered: fritterd''\nfrizz: friz\n''frizzed: frizd''\nfrizzle: frizl\n</poem>",
+   "c3s2": "<poem>\n''frizzled: frizld''\n''frolicked: frolickt''\n'''frolicsome: frolicsum'''\n'''front: frunt'''\n''frowned: frownd''\n'''fugitive: fugitiv'''\n'''fulfill, fulfil: fulfil'''\n''fulfilled: fulfild''\n'''full: ful'''\n''fulled: fuld''\n'''fulsome: fulsum'''\n'''fumble: fumbl'''\n''fumbled: fumbld''\n''furbished: furbisht''\n''furled: furld''\n'''furlough: furlo'''\n''furloughed: furloed''\n''furnished: furnisht''\n''furthered: furtherd''\n'''furtive: furtiv'''\n'''furze: furz'''\n'''fuse: fuze'''\n'''fusible: fuzibl'''\n'''fusion: fuzion'''\n''fussed: fust''\n'''futile: futil, -ile'''\n'''fuzz: fuz'''\n\n''gabbed: gabd''\n'''gabble: gabl'''\n''gabbled: gabbld''\n'''gaff: gaf'''\n</poem>",
+   "c3s3": "<poem>\ngaffle: gafl\n''gagged: gagd''\n''gained: gaind''\n''galled: galld''\ngamble: gambl\n</poem>"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 10,
+    "input_tokens": 9369,
+    "output_tokens": 7367,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader||AMENDED SPELLINGS|}}</noinclude><poem>\n''dismissed: dismist''\ndismissive: dismissiv\ndispatch: dispach\n''dispelled: dispeld''\ndispensable: dispensabl\n''dispensed: dispenst''\ndispersive: dispersiv\n''displayed: displayd''\ndispleasure: displezure\ndisplosive: displosiv\n''dispossessed: dispossest''\ndisputable: disputabl\ndisreputable: disreputabl\ndissemble: dissembl\n''dissembled: dissembld''\ndissoluble: dissolubl\ndissolvable: dissolvabl\ndissolve: dissolv\n''dissolved: dissolvd''\ndissuasive: dissuasiv\ndissyllable: dissyllabl\ndistaff: distaf\n''distained: distaind''\n''distempered: distemperd''\ndistensible: distensibl\ndistill, distil: distil\n''distilled: distild''\ndistinctive: distinctiv\ndistinguishable: distinguishabl\n''distinguished: distinguisht''\ndistractive: distractiv\n''distrained: distraind''\n</poem>\n<poem>\ndurable: durabl\ndutiable: dutiabl\n''dwarfed: dwarft''\ndwell: dwel\n''dwelled: dweld''\ndwindle: dwindl\n''dwindled: dwindld''\n\neagle: eagl\n''eared: eard''\nearl: erl\nearly: erly\nearn: ern\n''earned: ernd''\nearnest: ernest\nearnings: ernings\nearth: erth\nearthen: erthen\nearthling: erthling\nearthly: erthly\neatable: eatabl\n''eaten: eatn''\nebb: eb\n''ebbed: ebd''\neclipse: eclips\n''eclipsed: eclipst''\neclogue: eclog\n''-ed = d: -d''\n''-ed = t: -t''\nedged: edgd\neffable: effabl\neffective: effectiv\neffectual: effectual\n</poem>\n<poem>\neffrontery: effruntery\neffuse: effuze\neffusive: effusiv\negg: eg\n''egged: egd''\nelapse: elaps\n''elapsed: elapst''\nelective: electiv\nelectrifiable: electrifiabl\nelectrize, -ise: electrize\neligible: eligibl\nellipse: ellips\nelusive: elusiv\n''embarked: embarkt''\n''embarrassed: embarrast''\n''embellished: embellisht''\nembezzle: embezl\n''embezzled: embezld''\nembossed: embost\n''emboweled, embowelled: emboweld''\n''embowered: embowerd''\n''embroidered: embroiderd''\n''embroiled: embroild''\nemphasis: emfasis\n</poem>\n<poem>\ndrabble: drabl\ndraff: draf\ndraft, draught: draft\n''dragged: dragd''\ndraggle: dragl\n''draggled: dragld''\n''dragooned: dragoond''\ndraught, draft: draft\ndread: dred\ndreadful: dredful\n''dreamed: dreamd''\n</poem>\n<poem>\nemphasize : emfasize\nemphatic : emfatic\n''employed : employd''\nempurple : empurpl\nemulsive : emulsiv\nenactive : enactiv\n''enameled, enamelled: enameld''\n''encamped : encampt''\nencircle : encircl\n''encircled : encircld''\n</poem>\n{| style=\"margin:auto\"\n|enkindle : enkindl||''faltered : falterd''\n|-\n|enough : enuf||famine : famin\n|-\n|''enravished : enravisht''||''famished : famisht''\n|-\n|''enriched : enricht''||farewell : farewel\n|-\n|enroll, enrol : enrol||''farmed : farmd''\n|-\n|''enrolled : enrold''||fascicle : fascicl\n|-\n|ensanguine : ensanguin||''fashioned : fashiond''\n|-\n|''ensealed : ensealed''||fashionable : fashionabl\n|-\n|''entailed : entaild''||''fastened : fastend''\n|-\n|entangle : entangl||''fathered : fatherd''\n|-\n|''entangled : entangld''||''fathomed : fathomd''\n|-\n|''entered : enterd''||fathomable : fathomabl\n|-\n|''entertained : entertaind''||''fattened : fattend''\n|-\n|entrance, ''v.'' : entranse||favor, favour : favor\n|-\n|''entranced : entranst''||''favored : favord''\n|-\n|''entrapped : entrapt''||favorite : favorit\n|-\n|enunciative : enunciativ||''fawned : fawnd''\n|-\n|''enveloped : envelopt''||''feared : feard''\n|-\n|''envenomed : envenomd''||feasible : feasibl\n|-\n|epaulet, epaulette : epaulet||feather : fether\n|-\n|ephemera : efemera||''feathered : fetherd''\n|-\n|ephemeral : efemeral||feathery : fethery\n|-\n|epigraph : epigraf||febrile : febril\n|-\n|epilogue : epilog||federative : federativ\n|-\n|epitaph : epitaf||feeble : feebl\n|-\n|equable : equabl||feign : fein\n|-\n|''equaled, equalled : equald''||''feigned : feind''\n|-\n|''equipped : equipt''||feminine : feminin\n|-\n|equitable : equitabl||fence : fense\n|-\n|erasable : erasabl||fermentative : fermentativ\n|-\n|ermine : ermin||fertile : fertil, -ile\n|-\n|erosive : erosiv||festive : festiv\n|}\n{| style=\"margin:auto\"\n|err: er||fetch: fech\n|-\n|''erred: erd''||''fetched: fecht''\n|-\n|eruptive: eruptiv||fevered: feverd\n|-\n|''eschewed: eschewd''||fiber, fibre: fiber\n|-\n|''established: establisht''||fibered: fiberd\n|-\n|estimable: estimabl||fibrine: fibrin\n|-\n|etch: ech||fickle: fickl\n|-\n|''etched: echt''||fiddle: fidl\n|-\n|euphemism: eufemism||''fiddled: fidld''\n|-\n|euphemistic: eufemistic||''fidgetting: fidgeting''\n|-\n|euphonic: eufonic||fierce: fierse\n|-\n|euphony: eufony||''filched: filcht''\n|-\n|euphuism: eufuism||fill: fil\n|-\n|evasive: evasiv||''filled: fild''\n|-\n|evincive: evinciv||''filliped: fillipt''\n|-\n|evitable: evitabl||''filtered: filterd''\n|-\n|evolve: evolv||''fingered: fingerd''\n|-\n|''evolved: evolvd''||''finished: finisht''\n|-\n|examine: examin||''fished: fisht''\n|-\n|''examined: examind''||fissile: fissil\n|-\n|exceptionable: exceptionabl||''fixed: fixt''\n|-\n|excessive: excessiv||fizz: fiz\n|-\n|excitable: excitabl||''fizzed: fizd''\n|-\n|exclusive: exclusiv||''flagged: flagd''\n|-\n|excretive: excretiv||''flapped: flapt''\n|-\n|excursive: excursiv||''flashed: flasht''\n|-\n|excusable: excuzabl||''flattened: flattend''\n|-\n|excuse, ''v.'': excuze||''flattered: flatterd''\n|-\n|execrable: execrabl||flavor, flavour: flavor\n|}\n{| style=\"margin:auto\"\n|executive: executiv||''flavored, flavoured: flavord''\n|-\n|exercise: exercize||''flawed: flawd''\n|-\n|exhaustible: exhaustibl||''fledged: fledgd''\n|-\n|exorcise: exorcize||''fleered: fleerd''\n|-\n|expansible: expansibl||''fleshed: flesht''\n|-\n|expansive: expansiv||'''flexible: flexibl'''\n|-\n|''expelled: expeld''||'''flexile: flexil'''\n|-\n|expensive: expensiv||''flinched: flincht''\n|}\n4\n<poem>\n''foregone: foregon''\nforehead: forhed\nforeign: foren\nforeigner: forener\n''forewarned: forewarnd''\nforgive: forgiv\nforgiveness: forgivness\n''forgone: forgon''\n''formed: formd''\nformative: formativ\nformidable: formidabl\nfosse, foss: foss\n''fostered: fosterd''\n''fouled: fould''\n''foundered: founderd''\n''foxed: foxt''\nfragile: fragil\nfreckle: freckl\n''freckled: freckld''\nfreeze: freez\n''freshened: freshend''\nfribble: fribbl\nfriend: frend\nfrieze: friez\n''frightened: frightend''\nfrill: fril\n''frilled: frild''\n''frisked: friskt''\n''frittered: fritterd''\nfrizz: friz\n''frizzed: frizd''\nfrizzle: frizl\n</poem>\n<poem>\n''frizzled: frizld''\n''frolicked: frolickt''\n'''frolicsome: frolicsum'''\n'''front: frunt'''\n''frowned: frownd''\n'''fugitive: fugitiv'''\n'''fulfill, fulfil: fulfil'''\n''fulfilled: fulfild''\n'''full: ful'''\n''fulled: fuld''\n'''fulsome: fulsum'''\n'''fumble: fumbl'''\n''fumbled: fumbld''\n''furbished: furbisht''\n''furled: furld''\n'''furlough: furlo'''\n''furloughed: furloed''\n''furnished: furnisht''\n''furthered: furtherd''\n'''furtive: furtiv'''\n'''furze: furz'''\n'''fuse: fuze'''\n'''fusible: fuzibl'''\n'''fusion: fuzion'''\n''fussed: fust''\n'''futile: futil, -ile'''\n'''fuzz: fuz'''\n\n''gabbed: gabd''\n'''gabble: gabl'''\n''gabbled: gabbld''\n'''gaff: gaf'''\n</poem>\n<poem>\ngaffle: gafl\n''gagged: gagd''\n''gained: gaind''\n''galled: galld''\ngamble: gambl\n</poem><noinclude><references/></noinclude>"
+}

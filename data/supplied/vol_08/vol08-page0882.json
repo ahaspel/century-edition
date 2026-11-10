@@ -1,0 +1,144 @@
+{
+ "volume": 8,
+ "page_number": 882,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n881.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n881.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-10",
+  "fetched_by": "alaemmle",
+  "angle": -0.35,
+  "column_width": 731,
+  "items": [
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     1711,
+     7,
+     1954,
+     356
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     1711,
+     356,
+     1954,
+     1347
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     1711,
+     1347,
+     1954,
+     2170
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1954,
+     7,
+     2166,
+     1088
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1954,
+     1088,
+     2166,
+     2170
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     2166,
+     7,
+     2442,
+     185
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     2166,
+     185,
+     2442,
+     1681
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     2166,
+     1681,
+     2442,
+     2170
+    ]
+   }
+  ],
+  "readings": {
+   "c1s1": "",
+   "c1s2": "",
+   "c1s3": "",
+   "c2s1": "",
+   "c2s2": "",
+   "c3s1": "",
+   "c3s2": "",
+   "c3s3": ""
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 8,
+    "input_tokens": 2325,
+    "output_tokens": 139,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 31728
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" /></noinclude><noinclude><references/></noinclude>"
+}

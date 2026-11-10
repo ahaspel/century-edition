@@ -1,0 +1,168 @@
+{
+ "volume": 8,
+ "page_number": 857,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n856.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n856.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-10",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 541,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     35,
+     2442,
+     113
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     113,
+     774,
+     1191
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1191,
+     774,
+     2273
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2273,
+     774,
+     3243
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     774,
+     113,
+     1504,
+     1196
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     774,
+     1196,
+     1504,
+     2238
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     774,
+     2238,
+     1504,
+     3243
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1504,
+     113,
+     2442,
+     1194
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1504,
+     1194,
+     2442,
+     2268
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1504,
+     2268,
+     2442,
+     3243
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{c|AMENDED SPELLINGS}}",
+   "c1s1": "<poem>\nquiddle: quidl\nquill: quil\n''quivered: quiverd''\n\n''racked: rackt''\nraffle: rafl\n''raffled: rafld''\n''railed: raild''\n''rained: raind''\nraise: raiz\n''raised: raizd''\n''rammed: ramd''\nramble: rambl\n''rambled: rambld''\n''ramped: rampt''\nrancor, rancour: rancor\n''ranked: rankt''\nrankle: rankl\n''rankled: rankld''\n''ransacked: ransackt''\n''ransomed: ransomd''\n''rapped, rapt: rapt''\n''rasped: raspt''\nrattle: ratl\n''rattled: ratld''\n''raveled, ravelled: raveld''\nraveling, ravelling: raveling\n''ravened: ravend''\n''ravished: ravisht''\n''reached: reacht''\n''read: red''\n</poem>\n<poem>\n''repressed: represt''\nreprieve: repriev\n''reprieved: reprievd''\n''reproached: reproacht''\nreproductive: reproductiv\nreptile: reptil, -ile\n''republished: republisht''\nrepulsive: repulsiv\nrequisite: requisit\nresemble: resembl\n''resembled: resembld''\nreserve: reserv\n''reserved: reservd''\nresistible: resistibl\nresolve: resolv\n''resolved: resolvd''\nrespective: respectiv\nrespite: respit\nresponsible: responsibl\nresponsive: responsiv\nrestive: restiv\n''restrained: restraind''\nrestrictive: restrictiv\n''retailed: retaild''\n''retained: retaind''\nretaliative: retaliativ\nretentive: retentiv\nretouch: retuch\n''retouched: retucht''\n''retrenched: retrencht''\nretributive: retributiv\nretrievable: retrievabl\n</poem>",
+   "c1s2": "<poem>\nready: redy\nrealm: relm\n''reaped: reapt''\n''reared: reard''\nreasonable: reasonabl\n''reasoned: reasond''\n''rebelled: rebeld''\nreceipt: receit\nreceivable: receivabl\nreceive: receiv\n''received: receivd''\nreceptive: receptiv\n''recoiled: recoild''\nrecover: recuver\n''recovered: recuverd''\nrectangle: rectangl\n''reddened: reddend''\nredoubt: redout\nredressive: redressiv\nreductive: reductiv\n''reefed: reeft''\n''reeked: reekt''\n''reeled: reeld''\n''referred: referd''\nreflective: reflectiv\nreflexive: reflexiv\nreformed: reformd\nreformative: reformativ\n''refreshed: refresht''\nrefusal: refuzal\nrefuse, ''v.'': refuze\nregressive: regressiv\nretrieve: retriev\n''retrieved: retrievd''\nretrospective: retrospectiv\n''returned: returnd''\n''reveled, revelled: reveld''\nreveling, revelling: reveling\nreversed: reverst\nreversible: reversibl\n''reviewed: reviewd''\nrevise: revize\nrevolve: revolv\n''revolved: revolvd''\nrevulsive: revulsiv\nrhyme, rime: rime\nrhymer, rimer: rimer\n''ridden: ridn''\nriddle: ridl\n''riddled: ridld''\nriffraff: rifraf\n''rigged: rigd''\nrigor, rigour: rigor\nrill: ril\nrime, rhyme: rime\nrimple: rimpl\n''rinsed: rinst''\n''ripened: ripend''\nripple: ripl\n''rippled: ripld''\nrise, ''v.'': rize\n''risen: rizn''\nrisible: risibl\n</poem>",
+   "c1s3": "<poem>\nrehearse: reherse\n''rehearsed: reherst''\n''reined: reind''\n''rejoined: rejoind''\nrelapse: relaps\n''relapsed: relapst''\nrelative: relativ\n''relaxed: relaxt''\n''released: releast''\nrelieve: reliev\n''relieved: relievd''\n''relinquished: relinquisht''\n''relished: relisht''\n''remained: remaind''\nremarkable: remarkabl\n''remarked: remarkt''\n''remembered: rememberd''\nremissible: remissibl\nremunerative: remunerativ\n''rendered: renderd''\nrenowned: renownd\n''repaired: repaird''\nreparable: reparabl\nreparative: reparativ\n''repelled: repeld''\n''replenished: replenisht''\nrepresentative: representativ\n</poem>\n<poem>\n''risked: riskt''\n''rivaled, rivalled: rivald''\n''riven: rivn''\n''riveted, rivetted: riveted''\n''roared: roard''\n''robbed: robd''\n''rocked: rockt''\n''roiled: roild''\n''rolled: rold''\n''romped: rompt''\n''roofed: rooft''\n''roomed: roomd''\n''rose: roze''\nrotten: rotn\nrough: ruf\nroughen: rufen\n''roughened: rufend''\n''roughening: rufening''\n''rowed: rowd''\nruff: ruf\n''ruffed: ruft''\nruffle: rufl\nrundle: rundl\n''rushed: rusht''\nrustle: rustl\n''rustled: rustld''\n\nsaber, sabre: saber\n</poem>\n443",
+   "c2s1": "<poem>\n''sabered: saberd''\n''sacked: sackt''\n''saddened: saddend''\nsaddle : sadl\n''saddled: sadld''\n''sagged: sagd''\n''sailed: saild''\nsaltpetre, -peter : saltpeter\nsalve : salv\n''salved: salvd''\nsamphire : samfire\nsanative : sanativ\nsandaled : sandald\nsanguine : sanguin\nsapphire : saffire\nsardine : sardin, -ine\n''sashed: sasht''\n''sauntered: saunterd''\nsavior, saviour: savior\nsavor, savour: savor\n''savored, savoured: savord''\n''scalped: scalpt''\n''scanned: scand''\n''scarred: scard''\nscarce: scarse\nscarcity: scarsity\n''scarfed: scarft''\nscattered : scatterd\nscent, sent: sent\nscepter, sceptre: scepter\nsceptered, sceptred : scepterd\n''sequestered: sequesterd''\nseraph : seraf\nseraphic: serafic\nseraphim : serafim\nserve: serv\n''served: servd''\nserviceable: serviceabl\nservile : servil, -ile\nsessile : sessil, -ile\nsettle : setl\n''settled: setld''\nsettlement: setlment\n''sewed: sewd''\nsextile: sextil\nshackle : shackl\n''shackled: shackld''\n''shadowed: shadowd''\nshall: shal\nshambles: shambls\n''sharpened: sharpend''\n''sheared: sheard''\n''sheaves: sheavs''\nshell: shel\n''shelled: sheld''\n''sheltered: shelterd''\nshelve: shelv, ''shelvs''\n''shelved: shelvd''\nsheriff: sherif\nshingle : shingl\n''shingled: shingld''\n''shingles: shingls''\n''shipped: shipt''\n</poem>",
+   "c2s2": "{|\n|sceptic, skeptic: skeptic||''shirked: shirkt''\n|-\n|scholar: scolar||''shivered: shiverd''\n|-\n|scholastic: scolastic||''shocked: shockt''\n|-\n|school: scool||''shopped: shopt''\n|-\n|schooner: scooner||''shortened: shortend''\n|-\n|scimitar, cimitar: cimitar||shove: shuv\n|-\n|scissors: cissors||''shoved: shuvd''\n|-\n|scoff: scof||''shoving: shuving''\n|-\n|''scoffed: scoft''||shovel: shuvel\n|-\n|''scooped: scoopt''||''shoveled: shuveld''\n|-\n|''scorned: scornd''||''showed: showd''\n|-\n|''scoured: scourd''||''shrieked: shriekt''\n|-\n|scourge: scurge||shrill: shril\n|-\n|scrabble: scrabl||''shrugged: shrugd''\n|-\n|scramble: scrambl||shuffle: shufl\n|-\n|''scrambled: scrambld''||''shuffled: shufld''\n|-\n|scratch: scrach||shuttle: shuttl\n|-\n|''scratched: scracht''||siccative: siccativ\n|-\n|''scrawled: scrawld''||''sickened: sickend''\n|-\n|''screamed: screamd''||sieve: siv\n|-\n|''screeched: screecht''||''sighed: sighd''\n|-\n|''screened: screend''||''signed: signd''\n|-\n|''screwed: screwd''||significative: significativ\n|-\n|scribble: scribl||sill: sil\n|-\n|''scribbled: scribld''||''silvered: silverd''\n|-\n|''scrubbed: scrubd''||simple: simpl\n|-\n|scuffle: scufl||since: sinse\n|-\n|''scuffled: scufld''||single: singl\n|-\n|scull: scul||''singled: singld''\n|-\n|''sculled: sculd''||''sipped: sipt''\n|-\n|''scummed: scumd''||siphon: sifon\n|}",
+   "c2s3": "<poem>\nscurrile: scurril\nscuttle: scutl\n''scuttled: scutld''\nscythe, sithe: sithe\n''sealed: seald''\n''seamed: seamd''\nsearch: serch\n''searched: sercht''\n''seared: seard''\nseasonable: seasonabl\nseclusive: seclusiv\nsecretive: secretiv\nsedative: sedativ\nseductive: seductiv\n''seemed: seemd''\n''seesawed: seesawd''\nseize: seiz\n''seized: seizd''\nsell: sel\n''selves: selvs''\n''sensed: senst''\nsensible: sensibl\nsensitive: sensitiv\nseparable: separabl\nseparative: separativ\nsepulcher, sepulchre: sepulcher\n''sepulchered, sepulchred: sepulcherd''\nsithe: ''see'' scythe\nsizable: sizabl\nsketch: skech\n''sketched: skecht''\nskiff: skif\nskill: skil\nskilled: skild\n''skimmed: skimd''\n''skinned: skind''\n''skipped: skipt''\nskull: skul\n''skulled: skuld''\n''slacked: slackt''\n''slackened: slackend''\n''slammed: slamd''\n''slapped: slapt''\nslaughter: slauter\n''slaughtered: slauterd''\nsleeve: sleev\nsleeved: sleevd\n''slidden: slidn''\n''slipped: slipt''\n''slivered: sliverd''\n''slouched: sloucht''\nslough: sluf\n''sloughed: sluft''\n''slumbered: slumberd''\n''slurred: slurd''\n''smacked: smackt''\n</poem>\n{{c|7}}",
+   "c3s1": "<poem>\n''smashed: smasht''\n''smeared: smeard''\nsmell: smel\n''smelled: smeld, smelt''\n''smirked: smirkt''\n''smoothed: smoothd''\nsmuggle: smugl\n''smuggled: smugld''\nsnaffle: snafl\n''snapped: snapt''\n''snarled: snarld''\nsnatch: snach\n''snatched: snacht''\n''sneaked: sneakt''\n''sneered: sneerd''\nsneeze: sneez\n''sneezed: sneezd''\nsniff: snif\n''sniffed: snift''\nsnivel: snivel\n''sniveled, snivelled: sniveld''\nsnooze: snooz\n''snoozed: snoozd''\n''snowed: snowd''\n''snubbed: snubd''\nsnuff: snuf\n''snuffed: snuft''\nsnuffle: snufl\n''snuffled: snufld''\nsnuggle: snugl\n''snuggled: snugld''\n''soaked: soakt''\nspherics: sferics\nspheroid: sferoid\nspherule: sferule\nsphinx: sfinx\nspill: spil\n''spilled: spild, spilt''\nspindle: spindl\n''spindled: spindld''\nspittle: spitl\n''splashed: splasht''\n''spoiled: spoild, spoilt''\nsponge: spunge\n''sprained: spraind''\n''sprawled: sprawld''\nspread: spred\nspright: sprite\nsprightly: spritely\nspurred: spurd\n''spurned: spurnd''\n''sputtered: sputterd''\n''squandered: squanderd''\n''squawled: squawld''\n''squeaked: squeakt''\n''squealed: squeald''\nsqueeze: squeez\n''squeezed: squeezd''\n''stacked: stackt''\nstaff: staf\n''stained: staind''\n''stalled: stalld''\n''stammered: stammerd''\n''stamped: stampt''\n</poem>",
+   "c3s2": "<poem>\n''soaped: soapt''\n''soared: soard''\n''sobbed: sobd''\n''sobered: soberd''\n''sodden: sodn''\n''softened: softend''\n''soiled: soild''\nsojourn: sojurn\n''sojourned: sojurnd''\nsojourner: sojurner\n''soldered: solderd''\nsoluble: solubl\nsolutive: solutiv\nsolve: solv\n''solved: solvd''\nsombre, somber: somber\nsome: sum\n-some: -sum\nsomebody: sumbody\nsomehow: sumhow\nsomersault, sumersault:\nsumersault\nsomerset: sumerset\nsomething: sumthing\nson: sun\nsophism: sofism\nsophist: sofist\nsophisticate: sofisticate\nsophistry: sofistry\nsophomore: sofomore\nsophomoric: sofomoric\n''soured: sourd''\n</poem>\n<poem>\n''stanched: stancht''\n''starred: stard''\nstartle: startl\n''startled: startld''\nstarve: starv\n''starved: starvd''\n''stayed: stayd''\nstead: sted\nsteadfast: stedfast\nsteady: stedy\nstealth: stelth\n''steamed: steamd''\n''steeped: steept''\nsteeple: steepl\n''steered: steerd''\n''stemmed: stemd''\nstenographer: stenografer\nstenographic: stenografic\nstenography: stenografy\n''stepped: stept''\nsterile: steril\n''stewed: stewd''\nstickle: stickl\n''stickled: stickld''\nstiff: stif\n''stiffened: stiffend''\nstill: stil\n''stilled: stild''\n''stirred: stird''\nstitch: stich\n''stitched: sticht''\n''stocked: stockt''\n</poem>",
+   "c3s3": "{|\n|source: sourse||stomach: stumac\n|-\n|southerly: sutherly||''stomached: stumact''\n|-\n|southern: suthern||stomachic: stumachic\n|-\n|southron: suthron||''stooped: stoopt''\n|-\n|sovereign: soveren||''stopped: stopt''\n|-\n|sovereignty: soverenty||stopple: stopl\n|-\n|''sowed: sowd''||''stormed: stormd''\n|-\n|''spanned: spand''||''stowed: stowd''\n|-\n|spangle: spangl||straddle: stradl\n|-\n|''spangled: spangld''||''straddled: stradld''\n|-\n|''spanked: spankt''||straggle: stragl\n|-\n|''sparred: spard''||''straggled: stragld''\n|-\n|sparkle: sparkl||''strained: straind''\n|-\n|''sparkled: sparkld''||strangle: strangl\n|-\n|''spattered: spatterd''||''strangled: strangld''\n|-\n|''speared: speard''||''strapped: strapt''\n|-\n|''specked: speckt''||''streaked: streakt, streaked''\n|-\n|speckle: speckl||''strengthened: strengthend''\n|-\n|''speckled: speckld''||stretch: strech\n|-\n|spectacle: spectacl||''stretched: strecht''\n|-\n|''spectacles: spectacls''||''stricken: strickn''\n|-\n|specter, spectre: specter||''stripped: stript''\n|-\n|spell: spel||''striven: strivn''\n|-\n|''spelled: speld''||stroll: strol\n|-\n|''spewed: spewd''||''strolled: strolld, strold''\n|-\n|sphenoid: sfenoid||stubble: stubl\n|-\n|sphere: sfere||stuff: stuf, ''stufs''\n|-\n|spherical: sferical||''stuffed: stuft''\n|}"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 10,
+    "input_tokens": 10576,
+    "output_tokens": 9500,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" /></noinclude>{{nop}}{{c|AMENDED SPELLINGS}}\n<poem>\nquiddle: quidl\nquill: quil\n''quivered: quiverd''\n\n''racked: rackt''\nraffle: rafl\n''raffled: rafld''\n''railed: raild''\n''rained: raind''\nraise: raiz\n''raised: raizd''\n''rammed: ramd''\nramble: rambl\n''rambled: rambld''\n''ramped: rampt''\nrancor, rancour: rancor\n''ranked: rankt''\nrankle: rankl\n''rankled: rankld''\n''ransacked: ransackt''\n''ransomed: ransomd''\n''rapped, rapt: rapt''\n''rasped: raspt''\nrattle: ratl\n''rattled: ratld''\n''raveled, ravelled: raveld''\nraveling, ravelling: raveling\n''ravened: ravend''\n''ravished: ravisht''\n''reached: reacht''\n''read: red''\n</poem>\n<poem>\n''repressed: represt''\nreprieve: repriev\n''reprieved: reprievd''\n''reproached: reproacht''\nreproductive: reproductiv\nreptile: reptil, -ile\n''republished: republisht''\nrepulsive: repulsiv\nrequisite: requisit\nresemble: resembl\n''resembled: resembld''\nreserve: reserv\n''reserved: reservd''\nresistible: resistibl\nresolve: resolv\n''resolved: resolvd''\nrespective: respectiv\nrespite: respit\nresponsible: responsibl\nresponsive: responsiv\nrestive: restiv\n''restrained: restraind''\nrestrictive: restrictiv\n''retailed: retaild''\n''retained: retaind''\nretaliative: retaliativ\nretentive: retentiv\nretouch: retuch\n''retouched: retucht''\n''retrenched: retrencht''\nretributive: retributiv\nretrievable: retrievabl\n</poem>\n<poem>\nready: redy\nrealm: relm\n''reaped: reapt''\n''reared: reard''\nreasonable: reasonabl\n''reasoned: reasond''\n''rebelled: rebeld''\nreceipt: receit\nreceivable: receivabl\nreceive: receiv\n''received: receivd''\nreceptive: receptiv\n''recoiled: recoild''\nrecover: recuver\n''recovered: recuverd''\nrectangle: rectangl\n''reddened: reddend''\nredoubt: redout\nredressive: redressiv\nreductive: reductiv\n''reefed: reeft''\n''reeked: reekt''\n''reeled: reeld''\n''referred: referd''\nreflective: reflectiv\nreflexive: reflexiv\nreformed: reformd\nreformative: reformativ\n''refreshed: refresht''\nrefusal: refuzal\nrefuse, ''v.'': refuze\nregressive: regressiv\nretrieve: retriev\n''retrieved: retrievd''\nretrospective: retrospectiv\n''returned: returnd''\n''reveled, revelled: reveld''\nreveling, revelling: reveling\nreversed: reverst\nreversible: reversibl\n''reviewed: reviewd''\nrevise: revize\nrevolve: revolv\n''revolved: revolvd''\nrevulsive: revulsiv\nrhyme, rime: rime\nrhymer, rimer: rimer\n''ridden: ridn''\nriddle: ridl\n''riddled: ridld''\nriffraff: rifraf\n''rigged: rigd''\nrigor, rigour: rigor\nrill: ril\nrime, rhyme: rime\nrimple: rimpl\n''rinsed: rinst''\n''ripened: ripend''\nripple: ripl\n''rippled: ripld''\nrise, ''v.'': rize\n''risen: rizn''\nrisible: risibl\n</poem>\n<poem>\nrehearse: reherse\n''rehearsed: reherst''\n''reined: reind''\n''rejoined: rejoind''\nrelapse: relaps\n''relapsed: relapst''\nrelative: relativ\n''relaxed: relaxt''\n''released: releast''\nrelieve: reliev\n''relieved: relievd''\n''relinquished: relinquisht''\n''relished: relisht''\n''remained: remaind''\nremarkable: remarkabl\n''remarked: remarkt''\n''remembered: rememberd''\nremissible: remissibl\nremunerative: remunerativ\n''rendered: renderd''\nrenowned: renownd\n''repaired: repaird''\nreparable: reparabl\nreparative: reparativ\n''repelled: repeld''\n''replenished: replenisht''\nrepresentative: representativ\n</poem>\n<poem>\n''risked: riskt''\n''rivaled, rivalled: rivald''\n''riven: rivn''\n''riveted, rivetted: riveted''\n''roared: roard''\n''robbed: robd''\n''rocked: rockt''\n''roiled: roild''\n''rolled: rold''\n''romped: rompt''\n''roofed: rooft''\n''roomed: roomd''\n''rose: roze''\nrotten: rotn\nrough: ruf\nroughen: rufen\n''roughened: rufend''\n''roughening: rufening''\n''rowed: rowd''\nruff: ruf\n''ruffed: ruft''\nruffle: rufl\nrundle: rundl\n''rushed: rusht''\nrustle: rustl\n''rustled: rustld''\n\nsaber, sabre: saber\n</poem>\n443\n<poem>\n''sabered: saberd''\n''sacked: sackt''\n''saddened: saddend''\nsaddle : sadl\n''saddled: sadld''\n''sagged: sagd''\n''sailed: saild''\nsaltpetre, -peter : saltpeter\nsalve : salv\n''salved: salvd''\nsamphire : samfire\nsanative : sanativ\nsandaled : sandald\nsanguine : sanguin\nsapphire : saffire\nsardine : sardin, -ine\n''sashed: sasht''\n''sauntered: saunterd''\nsavior, saviour: savior\nsavor, savour: savor\n''savored, savoured: savord''\n''scalped: scalpt''\n''scanned: scand''\n''scarred: scard''\nscarce: scarse\nscarcity: scarsity\n''scarfed: scarft''\nscattered : scatterd\nscent, sent: sent\nscepter, sceptre: scepter\nsceptered, sceptred : scepterd\n''sequestered: sequesterd''\nseraph : seraf\nseraphic: serafic\nseraphim : serafim\nserve: serv\n''served: servd''\nserviceable: serviceabl\nservile : servil, -ile\nsessile : sessil, -ile\nsettle : setl\n''settled: setld''\nsettlement: setlment\n''sewed: sewd''\nsextile: sextil\nshackle : shackl\n''shackled: shackld''\n''shadowed: shadowd''\nshall: shal\nshambles: shambls\n''sharpened: sharpend''\n''sheared: sheard''\n''sheaves: sheavs''\nshell: shel\n''shelled: sheld''\n''sheltered: shelterd''\nshelve: shelv, ''shelvs''\n''shelved: shelvd''\nsheriff: sherif\nshingle : shingl\n''shingled: shingld''\n''shingles: shingls''\n''shipped: shipt''\n</poem>\n{| style=\"margin:auto\"\n|sceptic, skeptic: skeptic||''shirked: shirkt''\n|-\n|scholar: scolar||''shivered: shiverd''\n|-\n|scholastic: scolastic||''shocked: shockt''\n|-\n|school: scool||''shopped: shopt''\n|-\n|schooner: scooner||''shortened: shortend''\n|-\n|scimitar, cimitar: cimitar||shove: shuv\n|-\n|scissors: cissors||''shoved: shuvd''\n|-\n|scoff: scof||''shoving: shuving''\n|-\n|''scoffed: scoft''||shovel: shuvel\n|-\n|''scooped: scoopt''||''shoveled: shuveld''\n|-\n|''scorned: scornd''||''showed: showd''\n|-\n|''scoured: scourd''||''shrieked: shriekt''\n|-\n|scourge: scurge||shrill: shril\n|-\n|scrabble: scrabl||''shrugged: shrugd''\n|-\n|scramble: scrambl||shuffle: shufl\n|-\n|''scrambled: scrambld''||''shuffled: shufld''\n|-\n|scratch: scrach||shuttle: shuttl\n|-\n|''scratched: scracht''||siccative: siccativ\n|-\n|''scrawled: scrawld''||''sickened: sickend''\n|-\n|''screamed: screamd''||sieve: siv\n|-\n|''screeched: screecht''||''sighed: sighd''\n|-\n|''screened: screend''||''signed: signd''\n|-\n|''screwed: screwd''||significative: significativ\n|-\n|scribble: scribl||sill: sil\n|-\n|''scribbled: scribld''||''silvered: silverd''\n|-\n|''scrubbed: scrubd''||simple: simpl\n|-\n|scuffle: scufl||since: sinse\n|-\n|''scuffled: scufld''||single: singl\n|-\n|scull: scul||''singled: singld''\n|-\n|''sculled: sculd''||''sipped: sipt''\n|-\n|''scummed: scumd''||siphon: sifon\n|}\n<poem>\nscurrile: scurril\nscuttle: scutl\n''scuttled: scutld''\nscythe, sithe: sithe\n''sealed: seald''\n''seamed: seamd''\nsearch: serch\n''searched: sercht''\n''seared: seard''\nseasonable: seasonabl\nseclusive: seclusiv\nsecretive: secretiv\nsedative: sedativ\nseductive: seductiv\n''seemed: seemd''\n''seesawed: seesawd''\nseize: seiz\n''seized: seizd''\nsell: sel\n''selves: selvs''\n''sensed: senst''\nsensible: sensibl\nsensitive: sensitiv\nseparable: separabl\nseparative: separativ\nsepulcher, sepulchre: sepulcher\n''sepulchered, sepulchred: sepulcherd''\nsithe: ''see'' scythe\nsizable: sizabl\nsketch: skech\n''sketched: skecht''\nskiff: skif\nskill: skil\nskilled: skild\n''skimmed: skimd''\n''skinned: skind''\n''skipped: skipt''\nskull: skul\n''skulled: skuld''\n''slacked: slackt''\n''slackened: slackend''\n''slammed: slamd''\n''slapped: slapt''\nslaughter: slauter\n''slaughtered: slauterd''\nsleeve: sleev\nsleeved: sleevd\n''slidden: slidn''\n''slipped: slipt''\n''slivered: sliverd''\n''slouched: sloucht''\nslough: sluf\n''sloughed: sluft''\n''slumbered: slumberd''\n''slurred: slurd''\n''smacked: smackt''\n</poem>\n{{c|7}}\n<poem>\n''smashed: smasht''\n''smeared: smeard''\nsmell: smel\n''smelled: smeld, smelt''\n''smirked: smirkt''\n''smoothed: smoothd''\nsmuggle: smugl\n''smuggled: smugld''\nsnaffle: snafl\n''snapped: snapt''\n''snarled: snarld''\nsnatch: snach\n''snatched: snacht''\n''sneaked: sneakt''\n''sneered: sneerd''\nsneeze: sneez\n''sneezed: sneezd''\nsniff: snif\n''sniffed: snift''\nsnivel: snivel\n''sniveled, snivelled: sniveld''\nsnooze: snooz\n''snoozed: snoozd''\n''snowed: snowd''\n''snubbed: snubd''\nsnuff: snuf\n''snuffed: snuft''\nsnuffle: snufl\n''snuffled: snufld''\nsnuggle: snugl\n''snuggled: snugld''\n''soaked: soakt''\nspherics: sferics\nspheroid: sferoid\nspherule: sferule\nsphinx: sfinx\nspill: spil\n''spilled: spild, spilt''\nspindle: spindl\n''spindled: spindld''\nspittle: spitl\n''splashed: splasht''\n''spoiled: spoild, spoilt''\nsponge: spunge\n''sprained: spraind''\n''sprawled: sprawld''\nspread: spred\nspright: sprite\nsprightly: spritely\nspurred: spurd\n''spurned: spurnd''\n''sputtered: sputterd''\n''squandered: squanderd''\n''squawled: squawld''\n''squeaked: squeakt''\n''squealed: squeald''\nsqueeze: squeez\n''squeezed: squeezd''\n''stacked: stackt''\nstaff: staf\n''stained: staind''\n''stalled: stalld''\n''stammered: stammerd''\n''stamped: stampt''\n</poem>\n<poem>\n''soaped: soapt''\n''soared: soard''\n''sobbed: sobd''\n''sobered: soberd''\n''sodden: sodn''\n''softened: softend''\n''soiled: soild''\nsojourn: sojurn\n''sojourned: sojurnd''\nsojourner: sojurner\n''soldered: solderd''\nsoluble: solubl\nsolutive: solutiv\nsolve: solv\n''solved: solvd''\nsombre, somber: somber\nsome: sum\n-some: -sum\nsomebody: sumbody\nsomehow: sumhow\nsomersault, sumersault:\nsumersault\nsomerset: sumerset\nsomething: sumthing\nson: sun\nsophism: sofism\nsophist: sofist\nsophisticate: sofisticate\nsophistry: sofistry\nsophomore: sofomore\nsophomoric: sofomoric\n''soured: sourd''\n</poem>\n<poem>\n''stanched: stancht''\n''starred: stard''\nstartle: startl\n''startled: startld''\nstarve: starv\n''starved: starvd''\n''stayed: stayd''\nstead: sted\nsteadfast: stedfast\nsteady: stedy\nstealth: stelth\n''steamed: steamd''\n''steeped: steept''\nsteeple: steepl\n''steered: steerd''\n''stemmed: stemd''\nstenographer: stenografer\nstenographic: stenografic\nstenography: stenografy\n''stepped: stept''\nsterile: steril\n''stewed: stewd''\nstickle: stickl\n''stickled: stickld''\nstiff: stif\n''stiffened: stiffend''\nstill: stil\n''stilled: stild''\n''stirred: stird''\nstitch: stich\n''stitched: sticht''\n''stocked: stockt''\n</poem>\n{| style=\"margin:auto\"\n|source: sourse||stomach: stumac\n|-\n|southerly: sutherly||''stomached: stumact''\n|-\n|southern: suthern||stomachic: stumachic\n|-\n|southron: suthron||''stooped: stoopt''\n|-\n|sovereign: soveren||''stopped: stopt''\n|-\n|sovereignty: soverenty||stopple: stopl\n|-\n|''sowed: sowd''||''stormed: stormd''\n|-\n|''spanned: spand''||''stowed: stowd''\n|-\n|spangle: spangl||straddle: stradl\n|-\n|''spangled: spangld''||''straddled: stradld''\n|-\n|''spanked: spankt''||straggle: stragl\n|-\n|''sparred: spard''||''straggled: stragld''\n|-\n|sparkle: sparkl||''strained: straind''\n|-\n|''sparkled: sparkld''||strangle: strangl\n|-\n|''spattered: spatterd''||''strangled: strangld''\n|-\n|''speared: speard''||''strapped: strapt''\n|-\n|''specked: speckt''||''streaked: streakt, streaked''\n|-\n|speckle: speckl||''strengthened: strengthend''\n|-\n|''speckled: speckld''||stretch: strech\n|-\n|spectacle: spectacl||''stretched: strecht''\n|-\n|''spectacles: spectacls''||''stricken: strickn''\n|-\n|specter, spectre: specter||''stripped: stript''\n|-\n|spell: spel||''striven: strivn''\n|-\n|''spelled: speld''||stroll: strol\n|-\n|''spewed: spewd''||''strolled: strolld, strold''\n|-\n|sphenoid: sfenoid||stubble: stubl\n|-\n|sphere: sfere||stuff: stuf, ''stufs''\n|-\n|spherical: sferical||''stuffed: stuft''\n|}<noinclude><references/></noinclude>"
+}

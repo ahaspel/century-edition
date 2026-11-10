@@ -1,0 +1,225 @@
+{
+ "volume": 8,
+ "page_number": 849,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n848.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n848.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-10",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 792,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     62,
+     2272,
+     103
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     103,
+     788,
+     1078
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     113,
+     640,
+     740,
+     1002
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1078,
+     788,
+     2127
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     2127,
+     788,
+     3195
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     788,
+     103,
+     1526,
+     982
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     788,
+     982,
+     1526,
+     2048
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     788,
+     2048,
+     1526,
+     2698
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     788,
+     2698,
+     1526,
+     3195
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1526,
+     103,
+     2272,
+     1157
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1526,
+     1157,
+     2272,
+     2153
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1526,
+     2153,
+     2272,
+     3195
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|zygolabialis|7045|zygosphene}}",
+   "c1s1": "¶\n'''zygolabialis''' (zī-gọ̄-lā-bi-ā′lis), ''n.''; pl. ''zygolabiales'' (-lēz). [NL., < ''zygo''(''ma'') + ''labialis'', labial.] The lesser zygomatic muscle; the zygomaticus minor. ''Coues'', 1887. See first cut under ''muscle''<sup>1</sup>.\n\n'''zygoma''' (zī-gō′mä̤), ''n.''; pl. ''zygomata'' (-ma̤-tä̤). [NL., < Gr. ζύγωμα, the zygomatic arch, also a yoke, bolt, bar, < ζυγοῦν, yoke, join, < ζυγόν, a yoke, joining: see ''yoke''<sup>1</sup>.] '''1.''' The bony arch or arcade of the cheek, formed by the malar or jugal bone and its connections: so called because it serves to connect bones of the face with those of the skull about the ear. {{smaller|In mammals, including man, the zygoma consists of a malar bone connected behind with the squamosal bone, usually by a zygomatic process of the latter, and abutting in front against a protuberance of the superior maxillary bone, or of the frontal or the lacrymal bone, or any of these. It is usually a stout}}\n[[FIGURE]]\n{{c|{{smaller|Skull of Mylodon, a gigantic extinct sloth, showing the massive zygoma ''z'', with strong superior and inferior processes ''a'', ''a′''. (Greatly reduced.)}}}}",
+   "c1s2": "{{smaller|bony arch, sometimes with a strong descending process, giving principal origin to a masseter muscle, and bridging over the temporal muscle. It is sometimes a slender rod, and may be imperfect, as in shrews. The part taken in its formation by the malar bone is very variable in extent. (See cut under ''skull''.) Below mammals the construction of the zygoma posteriorly is entirely altered. In birds the arch is articulated there with the quadrate bone, or suspensorium of the lower jaw, representing the malleus of a mammal, and an additional bone, the quadratojugal, intervenes between the quadrate and the malar proper. In such cases the anterior connection is more particularly with the maxillary bone, or with this and the lacrymal, and the zygoma is generally a slender rod-like structure. (See cut under ''Gallinæ''.) In reptiles further modifications occur, such as the completion of the arch behind by union of the jugal bone with the postfrontal and squamosal; or there may be no trace of a structure to which the term ''zygoma'' is properly applicable, as in the ''Ophidia'', in which there is no jugal or quadratojugal bone. Among batrachians, as the frog, a zygomatic arch is represented by the connection of the maxillary bone, by means of a quadratojugal bone, with a bone called ''temporomastoid'' (see cuts there and under ''Anura''). In any case a zygoma consists of a suborbital or postorbital series of ossifications in membrane, or membrane-bones, developed on the outer side of the maxillary arch of the embryo (the same that gives rise to the pterygopalatine bar), and when best differentiated is represented by lacrymal, maxillary, jugal, and quadratojugal bones; and its connection with the sphenoid, as occurs in man, is quite exceptional.}} '''2.''' The malar or jugal bone itself, without its connections. [Rare.] —'''3†.''' The cavity under the zygomatic process of the temporal bone; the zygomatic fossa. ''Brande.''\n\n¶\n'''zygomatic''' (zī-gō-mat′ik), ''a.'' [< NL. ''zygomaticus'', < ''zygoma'', q. v.] In ''zoöl.'' and ''anat.'', of or pertaining to the malar or jugal bone, or this bone and its connections; constituting or",
+   "c1s3": "¶\nentering into the formation of the zygoma; jugal.{{smaller|—'''Zygomatic apophysis.''' Same as ''zygomatic process''.—'''Zygomatic arch,''' the zygoma. See cut under ''skull''.—'''Zygomatic bone,''' the malar.—'''Zygomatic canals,''' two canals in the malar bone of man, through which pass branches of the superior maxillary nerve; the temporomalar canals: (''a'') the ''zygomaticofacial'', or ''malar'', running between the orbital and anterior surfaces; (''b'') the ''zygomaticotemporal'', or ''temporal'', running between the orbital and temporal surfaces.—'''Zygomatic crest,''' that edge of the human alisphenoid which articulates with the malar.—'''Zygomatic diameter,''' the greatest distance between the zygomatic arches of the skull.—'''Zygomatic fossa.''' See ''fossa''<sup>1</sup>.—'''Zygomatic glands,''' lymph-nodes found along the course of the internal maxillary artery.—'''Zygomatic muscle.''' Same as ''zygomaticus''.—'''Zygomatic process.''' See ''process'', and cuts under ''skull'' and ''temporal''<sup>2</sup>.—'''Zygomatic suture,''' the squamozygomatic suture; the immovable connection of the squamosal, usually of its zygomatic process, with the malar or jugal bone.—'''Zygomatic tuberosity,''' that protuberance of the superior maxilla which articulates with the malar.}}\n\n'''zygomatici,''' ''n.'' Plural of ''zygomaticus''.\n\n'''zygomatico-auricular''' (zī-gọ̄-mat″i-kō-â-rik′ū-lär), ''a.'' '''1.''' In ''anat.'' and ''zoöl.'', of or pertaining to the zygoma and the auricle: as, a ''zygomatico-auricular'' muscle. See ''zygomatico-auricularis''.—'''2.''' In ''craniom.'', noting the ratio between the zygomatic and auricular diameters of the skull, called the ''zygomatico-auricular index''.\n\n'''zygomatico-auricularis''' (zī-gọ̄-mat″i-kō-â-rik-ū-lā′ris), ''n.'' A muscle of the external ear of some animals, which arises from the zygoma and is inserted in the auricle; in man, the attrahens aurem.\n{{smaller block|A strong ''zygomatico-auricularis'' is also seen as we remove the integuments of the head [of the reindeer].\n{{right|''Proc. Acad. Nat. Sci. Phila.'', 1891, p. 232.}}}}",
+   "c2s1": "¶\n'''zygomaticofacial''' (zī-gọ̄-mat″i-kō-fā′shạl), ''a.'' In ''anat.'', of or pertaining to the zygoma and the face: specifying (''a'') the anterior connections of the zygoma, and (''b'') the anterior one of the two zygomatic canals which traverse the malar bone of man. See ''zygomatic canals'', under ''zygomatic.''\n\n'''zygomaticotemporal''' (zī-gọ̄-mat″i-kō-tem′pọ̄-ra̤l), ''a.'' In ''anat.'', of or pertaining to the zygoma and the temporal bone or fossa: specifying (''a'') the posterior connections of the zygoma with any element of the temporal bone, as the squamozygomatic of a mammal, and (''b'') the posterior one of the two zygomatic canals which traverse the malar bone of man. See ''zygomatic canals'', under ''zygomatic.''\n\n'''zygomaticus''' (zī-gọ̄-mat′i-kus), ''n.''; pl. ''zygomatici'' (-sī). [NL.: see ''zygomatic.''] One of several small subcutaneous muscles arising from or in relation with the zygoma, or malar bone.{{smaller|—'''Zygomaticus auricularis''', a muscle of the external ear, the attrahens aurem of man, commonly called ''zygomatico-auricularis'' (which see).—'''Zygomaticus major, zygomaticus minor,''' two muscles of the face, arising from the malar bone, inserted into the orbicularis oris at the corner of the mouth, and serving to draw the corner of the mouth upward and outward, as in the act of laughing. The former is sometimes called ''distortor oris'', and the latter ''zygolabialis.'' See first cut under ''muscle''<sup>1</sup>.}}",
+   "c2s2": "¶\n'''Zygomaturus''' (zī″gō-mạ-tū′rus), ''n.'' [NL., < Gr. ζύγωμα, the zygomatic arch, + οὐρά, tail.] '''1.''' A genus of large fossil marsupials from the Post-tertiary deposits of Australia.—'''2.''' [''l. c.''] A member of this genus. ''Imp. Dict.''\n\n'''zygomorphic''' (zī-gō-môr′fik), ''a.'' [< ''zygomorph-ous'' + ''-ic.''] In ''bot.'', same as ''zygomorphous.''\n\n'''zygomorphism''' (zī-gō-môr′fizm), ''n.'' [< ''zygomorph-ous'' + ''-ism.''] The character of being zygomorphous.\n\n'''zygomorphous''' (zī-gō-môr′fus), ''a.'' [< Gr. ζυγόν, yoke, + μορφή, form.] Yoke-shaped: specifically applied to flowers which can be bisected into similar halves in only one plane; monosymmetrical. {{smaller|Sachs extends the term to cases where bisection into similar halves is possible in two planes at right angles to one another, the halves of one section being different from the halves of the other. ''Goebel.'' Compare ''actinomorphous.''}}\n\n'''zygomorphy''' (zī′gō-môr-fi), ''n.'' [< ''zygomorph-ous'' + ''-y''<sup>3</sup>.] In ''bot.'', same as ''zygomorphism.''\n\n'''zygomycete''' (zī-gō-mī′sēt), ''n.'' In ''bot.'', a fungus belonging to the group ''Zygomycetes.''\n\n'''Zygomycetes''' (zī″gō-mī-sē′tēz), ''n. pl.'' [NL., < Gr. ζυγόν, yoke, + μύκης, pl. μύκητες, a mushroom.] A group of fungi characterized by the production of zygospores. It embraces the ''Mucorini'', ''Entomophthoreæ'', ''Chytridiaceæ'', ''Ustilagineæ'', etc.\n\n'''zygomycetous''' (zī″gō-mī-sē′tus), ''a.'' In ''bot.'', of or pertaining to the ''Zygomycetes.''\n\n'''zygon''' (zī′gon), ''n.'' [NL., < Gr. ζυγόν, a yoke, cross-bar: see ''yoke''<sup>1</sup>.] '''1.''' A connecting rod or bar; a yoke in general.",
+   "c2s3": "¶\n{{smaller block|Zygal fissures are defined as “H-shaped or quadradiate, presenting a pair of branches at either end of a connecting bar or yoke, the ''zygon.''” A zygal fissure contains a bar or ''zygon'', a yoke in the most general sense. {{right|''B. G. Wilder.''}}}}\n\n'''2.''' In ''anat.'', an H-shaped fissure of the brain, as the paroccipital fissure. {{smaller|It consists of anterior and posterior stipes, anterior and posterior rami, and the connecting bar (the zygon in strictness). ''B. G. Wilder.''}}\n\n'''Zygonectes''' (zī-gọ̄-nek′tēz), ''n.'' [NL. (Agassiz, 1854), so called because said to swim in pairs; < Gr. ζυγόν, yoke, + νήκτης, swimmer.] A large genus of small carnivorous American cyprinodonts; the top-minnows. {{smaller|They are closely related to the killifishes (''Fundulus''), the technical difference being chiefly in the smallness and backwardness of the dorsal fin, which has usually less than ten rays and is commonly inserted behind the front of the anal fin. The top-minnows are on the average smaller than the killifishes, being usually only 2 or 3 inches long. They are surface swimmers, and feed on insects. The species are numerous, and individuals abundant. One of the best-known is ''Z. notatus'', common in ponds from Michigan to Alabama and Texas.}}",
+   "c2s4": "¶\n'''Zygopetalum''' (zī-gọ̄-pet′a-lum), ''n.'' [NL. (Hooker, 1827), so called with ref. to the union of the perianth with the foot of the column; < Gr. ''ζυγόν'', yoke, + ''πέταλον'', leaf (petal).] A genus of epiphytic orchids, of the tribe ''Vandeæ'' and subtribe ''Cyrtopodieæ.'' {{smaller|It is characterized by showy solitary or loosely racemed flowers with spreading sepals, the lateral ones united to the short foot of the incurved column; by a flattish lip, bearing a transverse crest at its base; and by an anther with four obovoid pollen-masses, attached by a rather broad stalk or gland. There are about 50 species, natives of tropical America from the West Indies and Mexico to Brazil. They are handsome plants with short leafy stems finally thickened into pseudobulbs. Their leaves are two-ranked, membranous or somewhat rigid, and slightly plicate or with elevated veins. They are highly prized in cultivation under glass, especially ''Z. Mackaii'', the original species.}}",
+   "c3s1": "¶\n'''Zygophyceæ''' (zī-gō-fis′ẹ̄-ē), ''n. pl.'' [NL., < Gr. ζυγόν, yoke, + φῦκος, seaweed, + ''-eæ''.] A group or order of unicellular or multicellular fresh-water algæ, not now generally accepted, with the cells single, or segregate, or geminate, or united in a series. {{smaller|Multiplication is effected by division in one direction, and by means of zygospores resulting from the conjugation of the cells. It embraces the families ''Desmidiaceæ'', ''Zygnemaceæ'', etc.}}\n\n'''Zygophyllaceæ''' (zī″gō-fi-lā′sẹ̄-ē), ''n. pl.'' [NL., < ''Zygophyll-um'' + ''-aceæ''.] Same as ''Zygophylleæ''.\n\n'''Zygophylleæ''' (zī-gō-fil′ẹ̄-ē), ''n. pl.'' [NL. (R. Brown, 1814), < ''Zygophyll-um'' + ''-eæ''.] An order of polypetalous plants, the bean-caper family, belonging to the series ''Discifloræ'' and the cohort ''Geraniales''. {{smaller|It is characterized by flowers which usually bear a fleshy disk, five free glandless sepals, filaments augmented each by a small scale, and a furrowed angled or lobed ovary with two or more filiform ovules in each of the four or five cells. It includes about 110 species, classed in 18 genera, natives of tropical and warm climates, especially north of the equator. They are commonly shrubs or herbs with a woody base, bearing divaricate branches jointed at their nodes. Their leaves are usually opposite and pinnate or composed of two entire leaflets; the twin persistent stipules are sometimes developed into spines. The flowers are white, red, or yellow, very rarely blue, usually solitary in the axils of the stipules. The principal genera are ''Zygophyllum'' (the type), ''Tribulus'', ''Guaiacum'', and ''Fagonia''; 10 genera are monotypic; two species of ''Guaiacum'' (lignum-vitæ) become moderate trees. The woody species are remarkable for the extreme hardness of their wood, and several, as ''Guaiacum'', produce a bitter and acrid bark. Their detersive foliage is used in the West Indies to scour floors. Some of the family are so abundant in the Egyptian desert as to constitute a characteristic feature of its vegetation.}}",
+   "c3s2": "¶\n'''Zygophyllum''' (zī-gō-fil′um), ''n.'' [NL. (Linnæus, 1737), < Gr. ζυγόν, yoke, + φύλλον, leaf.] A genus of plants, type of the order ''Zygophylleæ.'' {{smaller|It is characterized by opposite bifoliolate leaves, flowers with four or five petals, and a sessile ovary with the ovules fixed upon the axis. There are about 60 species, natives of the Old World and of Australia. They are diminutive shrubs, often prostrate, and with spinescent branches. The leaves are opposite, usually composed of two fleshy leaflets armed at the base with spines which represent stipules. The flowers are white or yellow, usually marked near the base with a purple or red spot. ''Z. Fabago'' is the bean-caper of the Levant; its flower-buds are used as capers. The aromatic seeds of ''Z. coccineum'' are used by the Arabs as pepper. Several species are of local medicinal repute—''Z. Fabago'' as a vermifuge, and ''Z. simplex,'' an Arabian plant of nauseous odor, as a remedy for diseases of the eye.}}\n\n'''zygophyte''' (zī′gō-fīt), ''n.'' [NL., < Gr. ζυγόν, yoke, + φυτόν, plant.] A plant characterized by the production of zygospores; a plant in which reproduction consists in a confluence of two similar protoplasmic masses. See cut under ''conjugation'', 4.\n{{smaller block|In most of these ''zygophytes'' there is no plain distinction of sex.\n{{right|''G. L. Goodale'', Physiol. Bot., p. 439.}}}}\n\n'''zygopleural''' (zī-gō-plö′ral), ''a.'' [< Gr. ζυγόν, yoke, + πλευρά, side.] Bilaterally symmetrical in a strict sense. Zygopleural forms are distinguished as ''dipleural'' and ''tetrapleural''.\n\n'''Zygosaurus''' (zī-gō-sâ′rus), ''n.'' [NL. (Eichwald, 1848), < Gr. ζυγόν, yoke, + σαῦρος, lizard.] A genus of labyrinthodonts, based on ''Z. lucius'' from the Middle Permian of Perm in Russia.",
+   "c3s3": "¶\n'''zygose''' (zī′gōs), ''a.'' [< Gr. ζυγόν, yoke, + ''-ose'' after ''zygosis.''] In ''bot.'', pertaining to or characteristic of zygosis or conjugation.\n\n'''Zygoselmidæ''' (zī-gọ̄-sel′mi-dē), ''n. pl.'' [NL., < ''Zygoselmis'' + ''-idæ.''] A family of dimastigate eustomatous flagellate infusorians, named from the genus ''Zygoselmis.'' They have two similar vibratile flagella, and the endoplasm includes no pigmentary bands.\n\n'''Zygoselmis''' (zī-gọ̄-sel′mis), ''n.'' [NL., < Gr. ζυγόν, yoke, + σελμίς, noose.] The typical genus of ''Zygoselmidæ.'' {{smaller|These animalcules are highly plastic and variable in form, with two unequal flagella from the fore end, at the base of which are the mouth and pharynx. ''Z. nebulosa'' and ''Z. inæqualis'' inhabit fresh water.}}\n\n'''zygosis''' (zī-gō′sis), ''n.'' [NL., < Gr. ζύγωσις, a joining (used in sense of balancing), < ζυγοῦν, join, yoke: see ''zygoma.''] '''1.''' Asexual intercourse of protoplasmic bodies, resulting in their confluence and coalescence; the process and result of conjugation in protozoans or other of the lowest organisms. See ''conjugation'', 4.—'''2.''' [''cap.''] [NL. (Förster, 1869).] A genus of hymenopterous insects.—'''3.''' In ''bot.'', conjugation; the fusion or union of two distinct cells or protoplasmic masses for reproduction. See ''conjugation'', 4.\n\n'''zygosperm''' (zī′gọ̄-spėrm), ''n.'' [NL., < Gr. ζυγόν, yoke, + σπέρμα, seed.] In ''bot.'', same as ''zygospore.''\n\n'''zygosphene''' (zī′gọ̄-sfēn), ''n.'' [< Gr. ζυγόν, yoke, + σφήν, wedge.] In ''herpet.'', the wedge-shaped process from the fore part of the neural arch"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0849 c1f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     125,
+     652,
+     728,
+     990
+    ],
+    "caption": [
+     72,
+     1000,
+     782,
+     1063
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     66,
+     645,
+     778,
+     999
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 8,
+    "output_tokens": 93,
+    "cache_creation_input_tokens": 4199,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 9767,
+    "output_tokens": 11023,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|zygolabialis|7045|zygosphene}}</noinclude>{{nop}}'''zygolabialis''' (zī-gọ̄-lā-bi-ā′lis), ''n.''; pl. ''zygolabiales'' (-lēz).   [NL., < ''zygo''(''ma'') + ''labialis'', labial.]   The lesser zygomatic muscle; the zygomaticus minor.   ''Coues'', 1887. See first cut under ''muscle''<sup>1</sup>.\n\n'''zygoma''' (zī-gō′mä̤), ''n.''; pl. ''zygomata'' (-ma̤-tä̤).   [NL., < Gr. ζύγωμα, the zygomatic arch, also a yoke, bolt, bar, < ζυγοῦν, yoke, join, < ζυγόν, a yoke, joining: see ''yoke''<sup>1</sup>.]   '''1.''' The bony arch or arcade of the cheek, formed by the malar or jugal bone and its connections: so called because it serves to connect bones of the face with those of the skull about the ear. {{smaller|In mammals, including man, the zygoma consists of a malar bone connected behind with the squamosal bone, usually by a zygomatic process of the latter, and abutting in front against a protuberance of the superior maxillary bone, or of the frontal or the lacrymal bone, or any of these. It is usually a stout bony arch, sometimes with a strong descending process, giving principal origin to a masseter muscle, and bridging over the temporal muscle. It is sometimes a slender rod, and may be imperfect, as in shrews. The part taken in its formation by the malar bone is very variable in extent. (See cut under ''skull''.) Below mammals the construction of the zygoma posteriorly is entirely altered. In birds the arch is articulated there with the quadrate bone, or suspensorium of the lower jaw, representing the malleus of a mammal, and an additional bone, the quadratojugal, intervenes between the quadrate and the malar proper. In such cases the anterior connection is more particularly with the maxillary bone, or with this and the lacrymal, and the zygoma is generally a slender rod-like structure. (See cut under ''Gallinæ''.) In reptiles further modifications occur, such as the completion of the arch behind by union of the jugal bone with the postfrontal and squamosal; or there may be no trace of a structure to which the term ''zygoma'' is properly applicable, as in the ''Ophidia'', in which there is no jugal or quadratojugal bone. Among batrachians, as the frog, a zygomatic arch is represented by the connection of the maxillary bone, by means of a quadratojugal bone, with a bone called ''temporomastoid'' (see cuts there and under ''Anura''). In any case a zygoma consists of a suborbital or postorbital series of ossifications in membrane, or membrane-bones, developed on the outer side of the maxillary arch of the embryo (the same that gives rise to the pterygopalatine bar), and when best differentiated is represented by lacrymal, maxillary, jugal, and quadratojugal bones; and its connection with the sphenoid, as occurs in man, is quite exceptional.}} '''2.''' The malar or jugal bone itself, without its connections. [Rare.] —'''3†.''' The cavity under the zygomatic process of the temporal bone; the zygomatic fossa.   ''Brande.''\n\n[[File:century v08 p0849 c1f1.png|center|285px]]\n{{c|{{smaller|Skull of Mylodon, a gigantic extinct sloth, showing the massive zygoma ''z'', with strong superior and inferior processes ''a'', ''a′''. (Greatly reduced.)}}}}\n\n'''zygomatic''' (zī-gō-mat′ik), ''a.''   [< NL. ''zygomaticus'', < ''zygoma'', q. v.]   In ''zoöl.'' and ''anat.'', of or pertaining to the malar or jugal bone, or this bone and its connections; constituting or\n\nentering into the formation of the zygoma; jugal.{{smaller|—'''Zygomatic apophysis.''' Same as ''zygomatic process''.—'''Zygomatic arch,''' the zygoma. See cut under ''skull''.—'''Zygomatic bone,''' the malar.—'''Zygomatic canals,''' two canals in the malar bone of man, through which pass branches of the superior maxillary nerve; the temporomalar canals: (''a'') the ''zygomaticofacial'', or ''malar'', running between the orbital and anterior surfaces; (''b'') the ''zygomaticotemporal'', or ''temporal'', running between the orbital and temporal surfaces.—'''Zygomatic crest,''' that edge of the human alisphenoid which articulates with the malar.—'''Zygomatic diameter,''' the greatest distance between the zygomatic arches of the skull.—'''Zygomatic fossa.''' See ''fossa''<sup>1</sup>.—'''Zygomatic glands,''' lymph-nodes found along the course of the internal maxillary artery.—'''Zygomatic muscle.''' Same as ''zygomaticus''.—'''Zygomatic process.''' See ''process'', and cuts under ''skull'' and ''temporal''<sup>2</sup>.—'''Zygomatic suture,''' the squamozygomatic suture; the immovable connection of the squamosal, usually of its zygomatic process, with the malar or jugal bone.—'''Zygomatic tuberosity,''' that protuberance of the superior maxilla which articulates with the malar.}}\n\n'''zygomatici,''' ''n.'' Plural of ''zygomaticus''.\n\n'''zygomatico-auricular''' (zī-gọ̄-mat″i-kō-â-rik′ū-lär), ''a.'' '''1.''' In ''anat.'' and ''zoöl.'', of or pertaining to the zygoma and the auricle: as, a ''zygomatico-auricular'' muscle. See ''zygomatico-auricularis''.—'''2.''' In ''craniom.'', noting the ratio between the zygomatic and auricular diameters of the skull, called the ''zygomatico-auricular index''.\n\n'''zygomatico-auricularis''' (zī-gọ̄-mat″i-kō-â-rik-ū-lā′ris), ''n.'' A muscle of the external ear of some animals, which arises from the zygoma and is inserted in the auricle; in man, the attrahens aurem.\n{{smaller block|A strong ''zygomatico-auricularis'' is also seen as we remove the integuments of the head [of the reindeer].\n{{right|''Proc. Acad. Nat. Sci. Phila.'', 1891, p. 232.}}}}\n\n'''zygomaticofacial''' (zī-gọ̄-mat″i-kō-fā′shạl), ''a.'' In ''anat.'', of or pertaining to the zygoma and the face: specifying (''a'') the anterior connections of the zygoma, and (''b'') the anterior one of the two zygomatic canals which traverse the malar bone of man. See ''zygomatic canals'', under ''zygomatic.''\n\n'''zygomaticotemporal''' (zī-gọ̄-mat″i-kō-tem′pọ̄-ra̤l), ''a.'' In ''anat.'', of or pertaining to the zygoma and the temporal bone or fossa: specifying (''a'') the posterior connections of the zygoma with any element of the temporal bone, as the squamozygomatic of a mammal, and (''b'') the posterior one of the two zygomatic canals which traverse the malar bone of man. See ''zygomatic canals'', under ''zygomatic.''\n\n'''zygomaticus''' (zī-gọ̄-mat′i-kus), ''n.''; pl. ''zygomatici'' (-sī).   [NL.: see ''zygomatic.'']   One of several small subcutaneous muscles arising from or in relation with the zygoma, or malar bone.{{smaller|—'''Zygomaticus auricularis''', a muscle of the external ear, the attrahens aurem of man, commonly called ''zygomatico-auricularis'' (which see).—'''Zygomaticus major, zygomaticus minor,''' two muscles of the face, arising from the malar bone, inserted into the orbicularis oris at the corner of the mouth, and serving to draw the corner of the mouth upward and outward, as in the act of laughing. The former is sometimes called ''distortor oris'', and the latter ''zygolabialis.'' See first cut under ''muscle''<sup>1</sup>.}}\n\n'''Zygomaturus''' (zī″gō-mạ-tū′rus), ''n.''   [NL., < Gr. ζύγωμα, the zygomatic arch, + οὐρά, tail.]   '''1.''' A genus of large fossil marsupials from the Post-tertiary deposits of Australia.—'''2.''' [''l. c.''] A member of this genus.   ''Imp. Dict.''\n\n'''zygomorphic''' (zī-gō-môr′fik), ''a.''   [< ''zygomorph-ous'' + ''-ic.'']   In ''bot.'', same as ''zygomorphous.''\n\n'''zygomorphism''' (zī-gō-môr′fizm), ''n.''   [< ''zygomorph-ous'' + ''-ism.'']   The character of being zygomorphous.\n\n'''zygomorphous''' (zī-gō-môr′fus), ''a.''   [< Gr. ζυγόν, yoke, + μορφή, form.]   Yoke-shaped: specifically applied to flowers which can be bisected into similar halves in only one plane; monosymmetrical. {{smaller|Sachs extends the term to cases where bisection into similar halves is possible in two planes at right angles to one another, the halves of one section being different from the halves of the other.   ''Goebel.'' Compare ''actinomorphous.''}}\n\n'''zygomorphy''' (zī′gō-môr-fi), ''n.''   [< ''zygomorph-ous'' + ''-y''<sup>3</sup>.]   In ''bot.'', same as ''zygomorphism.''\n\n'''zygomycete''' (zī-gō-mī′sēt), ''n.'' In ''bot.'', a fungus belonging to the group ''Zygomycetes.''\n\n'''Zygomycetes''' (zī″gō-mī-sē′tēz), ''n. pl.''   [NL., < Gr. ζυγόν, yoke, + μύκης, pl. μύκητες, a mushroom.]   A group of fungi characterized by the production of zygospores. It embraces the ''Mucorini'', ''Entomophthoreæ'', ''Chytridiaceæ'', ''Ustilagineæ'', etc.\n\n'''zygomycetous''' (zī″gō-mī-sē′tus), ''a.'' In ''bot.'', of or pertaining to the ''Zygomycetes.''\n\n'''zygon''' (zī′gon), ''n.''   [NL., < Gr. ζυγόν, a yoke, cross-bar: see ''yoke''<sup>1</sup>.]   '''1.''' A connecting rod or bar; a yoke in general.\n\n{{smaller block|Zygal fissures are defined as “H-shaped or quadradiate, presenting a pair of branches at either end of a connecting bar or yoke, the ''zygon.''” A zygal fissure contains a bar or ''zygon'', a yoke in the most general sense. {{right|''B. G. Wilder.''}}}}\n\n'''2.''' In ''anat.'', an H-shaped fissure of the brain, as the paroccipital fissure. {{smaller|It consists of anterior and posterior stipes, anterior and posterior rami, and the connecting bar (the zygon in strictness).   ''B. G. Wilder.''}}\n\n'''Zygonectes''' (zī-gọ̄-nek′tēz), ''n.''   [NL. (Agassiz, 1854), so called because said to swim in pairs; < Gr. ζυγόν, yoke, + νήκτης, swimmer.]   A large genus of small carnivorous American cyprinodonts; the top-minnows. {{smaller|They are closely related to the killifishes (''Fundulus''), the technical difference being chiefly in the smallness and backwardness of the dorsal fin, which has usually less than ten rays and is commonly inserted behind the front of the anal fin. The top-minnows are on the average smaller than the killifishes, being usually only 2 or 3 inches long. They are surface swimmers, and feed on insects. The species are numerous, and individuals abundant. One of the best-known is ''Z. notatus'', common in ponds from Michigan to Alabama and Texas.}}\n\n'''Zygopetalum''' (zī-gọ̄-pet′a-lum), ''n.''   [NL. (Hooker, 1827), so called with ref. to the union of the perianth with the foot of the column; < Gr. ''ζυγόν'', yoke, + ''πέταλον'', leaf (petal).]   A genus of epiphytic orchids, of the tribe ''Vandeæ'' and subtribe ''Cyrtopodieæ.'' {{smaller|It is characterized by showy solitary or loosely racemed flowers with spreading sepals, the lateral ones united to the short foot of the incurved column; by a flattish lip, bearing a transverse crest at its base; and by an anther with four obovoid pollen-masses, attached by a rather broad stalk or gland. There are about 50 species, natives of tropical America from the West Indies and Mexico to Brazil. They are handsome plants with short leafy stems finally thickened into pseudobulbs. Their leaves are two-ranked, membranous or somewhat rigid, and slightly plicate or with elevated veins. They are highly prized in cultivation under glass, especially ''Z. Mackaii'', the original species.}}\n\n'''Zygophyceæ''' (zī-gō-fis′ẹ̄-ē), ''n. pl.''   [NL., < Gr. ζυγόν, yoke, + φῦκος, seaweed, + ''-eæ''.]   A group or order of unicellular or multicellular fresh-water algæ, not now generally accepted, with the cells single, or segregate, or geminate, or united in a series. {{smaller|Multiplication is effected by division in one direction, and by means of zygospores resulting from the conjugation of the cells. It embraces the families ''Desmidiaceæ'', ''Zygnemaceæ'', etc.}}\n\n'''Zygophyllaceæ''' (zī″gō-fi-lā′sẹ̄-ē), ''n. pl.''   [NL., < ''Zygophyll-um'' + ''-aceæ''.]   Same as ''Zygophylleæ''.\n\n'''Zygophylleæ''' (zī-gō-fil′ẹ̄-ē), ''n. pl.''   [NL. (R. Brown, 1814), < ''Zygophyll-um'' + ''-eæ''.]   An order of polypetalous plants, the bean-caper family, belonging to the series ''Discifloræ'' and the cohort ''Geraniales''. {{smaller|It is characterized by flowers which usually bear a fleshy disk, five free glandless sepals, filaments augmented each by a small scale, and a furrowed angled or lobed ovary with two or more filiform ovules in each of the four or five cells. It includes about 110 species, classed in 18 genera, natives of tropical and warm climates, especially north of the equator. They are commonly shrubs or herbs with a woody base, bearing divaricate branches jointed at their nodes. Their leaves are usually opposite and pinnate or composed of two entire leaflets; the twin persistent stipules are sometimes developed into spines. The flowers are white, red, or yellow, very rarely blue, usually solitary in the axils of the stipules. The principal genera are ''Zygophyllum'' (the type), ''Tribulus'', ''Guaiacum'', and ''Fagonia''; 10 genera are monotypic; two species of ''Guaiacum'' (lignum-vitæ) become moderate trees. The woody species are remarkable for the extreme hardness of their wood, and several, as ''Guaiacum'', produce a bitter and acrid bark. Their detersive foliage is used in the West Indies to scour floors. Some of the family are so abundant in the Egyptian desert as to constitute a characteristic feature of its vegetation.}}\n\n'''Zygophyllum''' (zī-gō-fil′um), ''n.''   [NL. (Linnæus, 1737), < Gr. ζυγόν, yoke, + φύλλον, leaf.]   A genus of plants, type of the order ''Zygophylleæ.'' {{smaller|It is characterized by opposite bifoliolate leaves, flowers with four or five petals, and a sessile ovary with the ovules fixed upon the axis. There are about 60 species, natives of the Old World and of Australia. They are diminutive shrubs, often prostrate, and with spinescent branches. The leaves are opposite, usually composed of two fleshy leaflets armed at the base with spines which represent stipules. The flowers are white or yellow, usually marked near the base with a purple or red spot. ''Z. Fabago'' is the bean-caper of the Levant; its flower-buds are used as capers. The aromatic seeds of ''Z. coccineum'' are used by the Arabs as pepper. Several species are of local medicinal repute—''Z. Fabago'' as a vermifuge, and ''Z. simplex,'' an Arabian plant of nauseous odor, as a remedy for diseases of the eye.}}\n\n'''zygophyte''' (zī′gō-fīt), ''n.''   [NL., < Gr. ζυγόν, yoke, + φυτόν, plant.]   A plant characterized by the production of zygospores; a plant in which reproduction consists in a confluence of two similar protoplasmic masses. See cut under ''conjugation'', 4.\n{{smaller block|In most of these ''zygophytes'' there is no plain distinction of sex.\n{{right|''G. L. Goodale'', Physiol. Bot., p. 439.}}}}\n\n'''zygopleural''' (zī-gō-plö′ral), ''a.''   [< Gr. ζυγόν, yoke, + πλευρά, side.]   Bilaterally symmetrical in a strict sense. Zygopleural forms are distinguished as ''dipleural'' and ''tetrapleural''.\n\n'''Zygosaurus''' (zī-gō-sâ′rus), ''n.''   [NL. (Eichwald, 1848), < Gr. ζυγόν, yoke, + σαῦρος, lizard.]   A genus of labyrinthodonts, based on ''Z. lucius'' from the Middle Permian of Perm in Russia.\n\n'''zygose''' (zī′gōs), ''a.''   [< Gr. ζυγόν, yoke, + ''-ose'' after ''zygosis.'']   In ''bot.'', pertaining to or characteristic of zygosis or conjugation.\n\n'''Zygoselmidæ''' (zī-gọ̄-sel′mi-dē), ''n. pl.''   [NL., < ''Zygoselmis'' + ''-idæ.'']   A family of dimastigate eustomatous flagellate infusorians, named from the genus ''Zygoselmis.'' They have two similar vibratile flagella, and the endoplasm includes no pigmentary bands.\n\n'''Zygoselmis''' (zī-gọ̄-sel′mis), ''n.''   [NL., < Gr. ζυγόν, yoke, + σελμίς, noose.]   The typical genus of ''Zygoselmidæ.'' {{smaller|These animalcules are highly plastic and variable in form, with two unequal flagella from the fore end, at the base of which are the mouth and pharynx. ''Z. nebulosa'' and ''Z. inæqualis'' inhabit fresh water.}}\n\n'''zygosis''' (zī-gō′sis), ''n.''   [NL., < Gr. ζύγωσις, a joining (used in sense of balancing), < ζυγοῦν, join, yoke: see ''zygoma.'']   '''1.''' Asexual intercourse of protoplasmic bodies, resulting in their confluence and coalescence; the process and result of conjugation in protozoans or other of the lowest organisms. See ''conjugation'', 4.—'''2.''' [''cap.''] [NL. (Förster, 1869).] A genus of hymenopterous insects.—'''3.''' In ''bot.'', conjugation; the fusion or union of two distinct cells or protoplasmic masses for reproduction. See ''conjugation'', 4.\n\n'''zygosperm''' (zī′gọ̄-spėrm), ''n.''   [NL., < Gr. ζυγόν, yoke, + σπέρμα, seed.]   In ''bot.'', same as ''zygospore.''\n\n'''zygosphene''' (zī′gọ̄-sfēn), ''n.''   [< Gr. ζυγόν, yoke, + σφήν, wedge.]   In ''herpet.'', the wedge-shaped process from the fore part of the neural arch<noinclude><references/></noinclude>"
+}

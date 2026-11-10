@@ -1,0 +1,243 @@
+{
+ "volume": 8,
+ "page_number": 822,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n821.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n821.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-10",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 1452,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     159,
+     61,
+     2442,
+     198
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     159,
+     198,
+     873,
+     1224
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     514,
+     228,
+     857,
+     547
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     459,
+     640,
+     856,
+     1065
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     159,
+     1224,
+     873,
+     2304
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     159,
+     2304,
+     873,
+     3208
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     873,
+     198,
+     1616,
+     1282
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     873,
+     1282,
+     1616,
+     2366
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     873,
+     2366,
+     1616,
+     3208
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1616,
+     198,
+     2442,
+     1144
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1616,
+     1144,
+     2442,
+     2240
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1616,
+     2240,
+     2442,
+     3208
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|yeni|7018|yerk}}",
+   "c1s1": "[[FIGURE]]\n{{c|{{smaller|Obverse.}}}}\n[[FIGURE]]\n{{c|{{smaller|Reverse.}}}}\n{{c|{{smaller|Silver Yen. (Size of original.)}}}}\nSouth American tanager, ''Calliste yeni.''\n\n¶\n'''Yenisean, Yeniseian''' (yen-i-sē′an, -yan), ''a.'' Of or pertaining to the Yenisei, a large river in Siberia.\n\n'''yenite''' (yen′īt), ''n.'' [Also ''jenite''; < ''Jena,'' a town in Germany, + ''-ite''<sup>2</sup>.] In ''mineral.,'' same as ''ilvaite.''\n\n'''yeoman''' (yō′man), ''n.''; pl. ''yeomen'' (-men). [Early mod. E. ''yoman''; < ME. ''yoman, yomon, ȝhoman, yeman, ȝeman, ȝheman''; not found in AS., but prob. existent as *''gāman,'' *''geáman, gǣman'' (= OFries. ''gāman, gāmon,'' a villager (cf. ''gāfolk,'' people of a village), = MD. ''goymannen,'' arbitrators, = Icel.",
+   "c1s2": "*ga-imadhr'', a franklin — rare, and prob. < AS.); < AS. *''gā'', *''geá'', *''gē'', a district or village, as in comp. ''ǣl-gē'', ‘province of eels,’ ''Ohtga-gā'', ''Noxga-gā'' (= OFries. ''gā'', ''gō'' (pl. ''gāe''), a district village, = MD. ''gouwe'' (in comp. ''goo-'', ''goy-'', ''go-''), a village, field, D. ''gouw'', ''gouwe'', a province, = MLG. ''gō'', LG. ''goë'', ''gohe'', in comp. ''go-'', a district, = OHG. ''gowi'', ''gouwi'', ''gewi'', MHG. ''gou'', ''göu'', G. ''gau'', a province, G. dial. ''gäu'', the country, = Goth. ''gawi'', a district), + ''man'', man. The word has been erroneously explained otherwise: (''a'') A contraction of a supposed ME. *''yeme-man'', ‘a person in charge,’ < ''yeme'', care, + ''man''. (''b'') < AS. ''iuman'', a forefather, ancient, < ''iu'', of yore, + ''man''. (''c'') < AS. ''iung man'', ''geong man'', young man. (''d'') < AS. ''guma'', man. (''e'') < AS. ''gemǣne'', common. These attempts are all wrong. That which refers to AS. ''iung man'', ''geong man'', finds some color in the use of ''iung men'' as a quasi-technical name for a bodyguard; but while the sense might seem to suit, it is impossible to derive ME. ''ȝo-'' or ''ȝe-'' from AS. ''geong'', ''iung''. The proper modern spelling is ''yoman'', the ''eo'' being appar. due to an attempt to represent in one spelling the two variants ''yeman'' and ''yoman''; the ''eo'' has no etymological justification, as it has to some extent in ''people''.] '''1†.''' A retainer; a guard.\n{{smaller block|<poem>''ȝomen'' than dede the ȝates schette,\n& wiȝttili than went the walles forto fende.</poem>\n{{right|''William of Palerne'' (E. E. T. S.), l. 3649.}}}}\n{{smaller block|A ''yeman'' hadde he and servaunts namo.\n{{right|''Chaucer'', Gen. Prol. to C. T., l. 101.}}}}\n'''2†.''' A gentleman attendant in a royal or noble",
+   "c1s3": "household, ranking between a sergeant and a groom: as, ''yeoman'' for the month, a butler; ''yeoman'' of the crown; ''yeoman'' usher: applied also to attendants of lower grade: as, ''yeoman'' feuterer (see ''feuterer''); ''yeoman'' of the chamber; ''yeoman'' of the wardrobe. See also phrase ''yeoman of the guard'', below.\n{{smaller block|''Yeomen'' of Chambre, IIII, to make beddes, to bere or hold torches, to sette bourdes, . . . and suche other servyce as the . . . usshers of chambre command or assigne.\n{{right|Quoted in ''Babees Book'' (E. E. T. S.), p. 313, note.}}\n<poem>Now of marschalle of halle wylle I spelle, . . .\n''Yomon''-vsshere, and grome also,\nVndur hym ar thes two.</poem>\n{{right|''Babees Book'' (E. E. T. S.), p. 311.}}\nTimochares, whose sonne was ''yoman'' for the monthe with the kynge, promysed to Fabricius, thaune beinge consull, to sle kynge Pyrrus.\n{{right|''Sir T. Elyot'', The Governour, iii. 5.}}\nThe lady of the Strachy married the ''yeoman'' of the wardrobe.\n{{right|''Shak.'', T. N., ii. 5. 45.}}\nFour persons, who had been ''yeomen'' of the crown to Edward IV., were taken in Southwark and hanged at Tyburn.\n{{right|''J. Gairdner'', Richard III., iv.}}}}\nHence—'''3†.''' One holding a subordinate position, as an attendant or assistant, journeyman, etc.\n{{smaller block|Master Fang, have you entered the action? . . . Where ’s your ''yeoman?'' Is ’t a lusty ''yeoman?'' will a’ stand to ’t?\n{{right|''Shak.'', 2 Hen. IV., ii. 1. 4.}}}}",
+   "c2s1": "{{smaller block|you’s the tavern; the gentlemen will come out presently.\n{{right|''Dekker and Webster'', Westward Ho, iii. 2.}}}}\n\n{{smaller block|The reason for calling the journeymen of the craft ''yeomen'' and bachelors, was probably that they were at that time in England, as was the case in Germany, not allowed to marry before they were masters.\n{{right|''English Gilds'' (E. E. T. S.), p. cxlvi., note.}}}}\n'''4.''' In ''old Eng. law'', one having free land of forty shillings by the year (previously five nobles), who was thereby qualified to serve on juries, vote for knights of the shire, and do any other act for which the law required one who was “probus et legalis homo” (''Blackstone'', Com., I. xii.); hence, in recent English use, one owning (and usually himself cultivating) a small landed property; a freeholder.\n{{smaller block|I press me none but good householders, ''yeomen’s'' sons.\n{{right|''Shak.'', 1 Hen. IV., iv. 2. 16.}}}}\n{{smaller block|<poem>Now do I smell th’ astrologer’s trick: he’ll steep me\nIn soldiers blood, or boil me in a caldron\nOf barbarous law French; or anoint me over\nWith supple oil of great men’s services;\nFor these three means raise ''yeomen'' to the gentry.</poem>\n{{right|''Tomkis'' (?), Albumazar, ii. 2.}}}}\n{{smaller block|The ''yeomen'' or Common People, . . . who have some Lands of their own to live upon; For a Carn of Land, or a Plough Land, was in ancient Time of the yearly Value of five Nobles, and this was the Living of a Stokeman or ''Yeoman;'' And in our Law they are called Legales Homines, a Word familiar in Writs and Inquests.\n{{right|''Guillim'', Display of Heraldry (ed. 1724), II. 274.}}}}\n{{smaller block|After the economical changes which marked the early years of the fifteenth century, the ''yeoman'' class was strengthened by the addition of the body of tenant farmers, whose interests were very much the same as those of the smaller freeholders, and who shared with them the common name of ''yeoman''. {{right|''Stubbs'', Const. Hist., § 480.}}}}\n'''5.''' In the United States navy, an appointed",
+   "c2s2": "petty officer who has charge of the stores in his department. {{smaller|The ''ship’s yeoman'' has charge of the boatswains’, carpenters’, sailmakers’ stores, etc., and the ''engineer’s yeoman'' has charge of all stores in the engineer’s department, while the ''paymaster’s yeoman'' takes care of provisions, clothing, and small stores, and issues them as directed.}}\n\n'''6.''' A member of the yeomanry cavalry. See ''yeomanry'', 4. ''Aytoun.''—'''Yeoman bedel.''' {{smaller|See ''bedel''.}}—'''Yeoman of the guard,''' {{smaller|in England, a member of the body-guard of the sovereign. See ''beef-eater'', 2.}}\n{{smaller block|There came a country gentleman (a sufficient yeoman) up to towne, who had severall sonnes, but one an extraordinary proper handsome fellowe, whom he did hope to have preferred to be a ''yeoman of the guard.''\n{{right|''Aubrey'', Lives (Walter Ralegh).}}}}\n\n'''Yeoman’s service,''' {{smaller|powerful or efficient aid, support, or help: in allusion to the strength and bravery of the yeomen in the English armies of early times.}}\n{{smaller block|<poem>I once did hold it, as our statists do,\nA baseness to write fair, and labour’d much\nHow to forget that learning, but, sir, now\nIt did me ''yeoman’s service.'' ''Shak.'', Hamlet, v. 2. 36.</poem>}}\n\n'''yeomanly''' (yō′man-li), ''a.'' [< ''yeoman'' + ''-ly''<sup>1</sup>.] Of yeoman’s rank; hence, plain; homely; simple; humble.\n{{smaller block|It would make him melancholy to see his ''yeomanly'' father cut his neighbours’ throats to make his son a gentleman. ''B. Jonson'', Every Man out of his Humour, iv. 1.}}\n{{smaller block|The simplicity and plainnesse of Christianity, which to the gorgeous solemnities of Paganisme and the sense of the Worlds Children seem’d but a homely and ''Yeomanly'' Religion.\n{{right|''Milton'', Reformation in Eng., i.}}}}\n\n'''yeomanly''' (yō′man-li), ''adv.'' [< ''yeoman'' + ''-ly''<sup>2</sup>.] Bravely; as with the strength of a yeoman.\n{{smaller block|“Saint George strike for us!” exclaimed the Knight; “do the false yeomen give way?” “No!” exclaimed Re-}}",
+   "c2s3": "{{smaller block|becca, “they bear themselves right ''yeomanly.''”\n{{right|''Scott'', Ivanhoe, xxix.}}}}\n\n'''yeomanry''' (yō′man-ri), ''n.'' [Early mod. E. also ''yeomandrie''; < ME. ''yemanry'', ''ȝemanry''; < ''yeoman'' + ''-ry'' (see ''-ery'').] '''1.''' The collective estate or body of yeomen; yeomen collectively.\n{{smaller block|Gentyllys and ''ȝemanry'' of goodly lyff lad.\n{{right|''Coventry Mysteries'', p. 1.}}\n<poem>God haffe mersey on Robyn Hodys solle,\nAnd saffe all god ''yemanrey!''</poem>\n{{right|''Robin Hood and the Potter'' (Child’s Ballads, V. 32).}}\nNext after the gentry, in respect of that political weight which depends on the ownership of land, was ranked the great body of freeholders, the ''yeomanry'' of the middle ages.\n{{right|''Stubbs'', Const. Hist., § 480.}}}}\n'''2†.''' Service; retainers; those doing a vassal’s service.\n{{smaller block|<poem>Then Robin Hood took those brethren good\nTo be of his ''yeomandrie.''</poem>\n{{right|''Robin Hood and the Beggar'' (Child’s Ballads, V. 257).}}}}\n'''3†.''' That which befits a yeoman.\n{{smaller block|<poem>“Be mey trowet, thow seys soyt,” seyde Roben,\n“Thow seys god ''yemenrey.''”</poem>\n{{right|''Robin Hood and the Potter'' (Child’s Ballads, V. 22).}}}}\n'''4.''' A volunteer cavalry force originally embodied in Great Britain during the wars of the French revolution, and consisting to a great",
+   "c3s1": "{{smaller|allowance. They must furnish their own horses, but have a small allowance for clothing—the government also supplying arms and ammunition. Unlike the ordinary volunteer force, the yeomanry cavalry may be called out to aid the civil power, in addition to being liable for service on invasion of the country by a foreign enemy.—'''Yeomanry Act''', an English statute of 1804 (44 Geo. III., c. 54) consolidating and amending the laws relating to the corps of yeomanry and volunteers and regulating them.}}\n\n'''yep''' (yep), ''a.'' [Also ''yap''; Sc. ''yap'', ''yarp'' (E. dial. ''yepper''); < ME. ''yepe'', ''ȝepe'', ''ȝep'', ''ȝiep'', ''ȝæp'', shrewd, prudent, fresh, brisk, eager, < AS. ''geap'' (''geapp-''), ''geáp'', crafty, cunning, shrewd, subtle, bent, curved, open, spread out.] Fresh; brisk; lively; vigorous. [Obsolete or provincial.]\n{{smaller block|For hit is ȝol & nwe ȝer [Yule and New Year], & here ar ''ȝep'' mony.\n{{right|''Sir Gawayne and the Green Knight'' (E. E. T. S.), l. 284.}}\nWhil thow art ȝong and ''ȝep''.\n{{right|''Piers Plowman'' (C), xi. 287.}}}}\n\n'''yeply†''', ''adv.'' [= Sc. ''yaply''; < ME. ''ȝeply'', ''ȝapliche'', ''ȝepliche'', < AS. ''geaplīce'', shrewdly, < ''geap'', ''geáp'', shrewd.] Promptly; quickly; at once.\n{{smaller block|<poem>Thou knowez the couenauntez kest vus by-twene,\nAt this tyme twelmonyth thou toke that the falled,\n& I schulde at this nwe ȝere ''ȝeply'' the quyte.</poem>\n{{right|''Sir Gawayne and the Green Knight'' (E. E. T. S.), l. 2244.}}\n<poem>We muste ''yappely'' wende in at this yate,\nFor he that comes to courte to curtesye muste vse hym.</poem>\n{{right|''York Plays'', p. 279.}}}}\n\n'''yer''' (yė or yu), ''adv.'' A dialectal variant of ''here''. [Southern U. S.]",
+   "c3s2": "{{smaller block|Bimeby, fus’ news you know, ''yer'' come Brer Rabbit.\n{{right|''J. C. Harris'', Uncle Remus, xviii.}}}}\n\n'''-yer.''' [(''a'') A var. of ''-ier''<sup>1</sup>, < ME. ''-ier'', ''-yer'', ''-iere'' (see ''-ier''<sup>1</sup>). (''b'') Formerly also ''-ier''; < ME. ''-yer'', ''-yere'', ''-ȝere'', being the suffix ''-er'' with ''ȝ'', orig. ''g'', belonging to the root (see ''bowyer'', etc.).] A termination of nouns of agent, as in ''bowyer'', ''lawyer'', ''sawyer'', and formerly in ''lovyer'', etc. See ''-ier''<sup>1</sup> and ''bowyer'', etc.\n\n'''yerba''' (yer′bä), ''n.'' [Sp., lit. herb, < L. ''herba'', herb: see ''herb''.] The Paraguay tea, or mate. See ''mate''<sup>4</sup>. Abbreviated from ''yerba de mate'' or ''yerba-mate''.—'''Yerba buena.''' {{smaller|See ''Micromeria''.—'''Yerba de colubra.''' See ''Herpestis''.—'''Yerba del oso,''' a shrub, ''Rhamnus Californicus''. See ''Rhamnus''.—'''Yerba de mate.''' See def. above.—'''Yerba mansa,''' a Californian herb, ''Anemopsis Californica'', of the ''Piperaceæ''. The flowers are small and numerous on a conical receptacle surrounded by a whitish involucre, the whole having the aspect of an anemone. The rootstock has a pungent, aromatic, and astringent taste.—'''Yerba reuma,''' a weed, ''Frankenia grandifolia'', of Texas, California, etc., whose leaves are used as an astringent stimulant application for catarrhs.—'''Yerba santa.''' Same as ''bear’s-weed''.}}\n\n'''yerba-mate''' (yer′bä-mä′te), ''n.'' [< Sp. ''yerba'', herb (see ''yerba''), + ''mate'', a cup: see ''mate''<sup>4</sup>.] Same as ''yerba''.\n\n'''yerbua,''' ''n.'' Same as ''jerboa''.\n\n'''yercum''' (yėr′kum), ''n.'' [E. Ind. (Madras): Tamil ''erukku'', ''errukam''.] '''1.''' An East Indian shrub or small tree, ''Calotropis gigantea''. {{smaller|The fiber of its inner bark is extremely tough and durable, and is made into bow-strings, fish-lines, and nets. The name belongs also to ''C. procera'', which, in common with this species, has a medicinal root-bark. Also called ''madar''.}}\n\n'''2.''' The fiber obtained from this plant.\n\n'''yercum-fiber''' (yėr′kum-fī″bėr), ''n.'' Same as",
+   "c3s3": "''yercum'', 2.\n\n'''yerd†''', '''yerde†''', ''n.'' Middle English forms of ''yard''<sup>1</sup>, ''yard''<sup>2</sup>.\n\n'''yere'''<sup>1</sup>†, ''n.'' An old spelling of ''year''.\n\n'''yere'''<sup>2</sup> (yēr), ''adv.'' A dialectal variant of ''here''. [Southern U. S.]\n\n'''yerga''' (yėr′gä̤), ''n.'' [Cf. Russ. (Cossack) ''ergakŭ'', skin of a horse or camel.] A woolen material made for horse-blankets.\n\n'''yerk'''<sup>1</sup>†, ''v.'' A Middle English form of ''yark''<sup>1</sup>.\n\n'''yerk'''<sup>2</sup> (yėrk), ''v.'' [Also ''yark''; a var. of ''jerk''<sup>1</sup>.] I. ''trans.'' '''1.''' To lash; strike smartly; beat; hence, to rouse; excite. [Obsolete or Scotch.]\n{{smaller block|<poem>''Yerk'' him soundly;\n’Twas Rhadamanth’s sentence; do your office, Furies.</poem>\n{{right|''Massinger'', A Very Woman, ii. 3.}}\n<poem>Stripes justly given ''yerk'' us with their fall,\nBut causeless whipping smarts the most of all.</poem>\n{{right|''Herrick'', Smart.}}\n<poem>Just now I’ve ta’en the fit o’ rhyme,\nMy barmie noddle’s working prime,\nMy fancy ''yerkit'' up sublime\nWi’ hasty summon. ''Burns'', To James Smith.</poem>}}\n'''2.''' To throw, thrust, or pull sharply or suddenly; jerk; move with a jerk. [Obsolete or provincial.]\n{{smaller block|He ''yerked'' up his trousers. {{right|''S. Judd'', Margaret, i. 5.}}}}\n'''3.''' To bind or tie tightly or with a jerk. [Scotch.]\n{{smaller block|But he is my sister’s son—my own nephew—our flesh and blood—and his hands and feet are ''yerked'' as tight as cords can be drawn. {{right|''Scott'', Heart of Mid-Lothian, lii.}}}}"
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0822 c1f1.png",
+   "c1f2": "century v08 p0822 c1f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     419,
+     128,
+     863,
+     585
+    ],
+    "caption": [
+     593,
+     597,
+     682,
+     614
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     438,
+     137,
+     877,
+     614
+    ]
+   },
+   {
+    "box": [
+     419,
+     286,
+     861,
+     1083
+    ],
+    "caption": [
+     484,
+     1091,
+     791,
+     1138
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     438,
+     636,
+     877,
+     1087
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 3,
+    "input_tokens": 12,
+    "output_tokens": 618,
+    "cache_creation_input_tokens": 5348,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 10699,
+    "output_tokens": 11736,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|yeni|7018|yerk}}</noinclude>[[File:century v08 p0822 c1f1.png|center|85px]]\n{{c|{{smaller|Obverse.}}}}\nSouth American tanager, ''Calliste yeni.''\n\n[[File:century v08 p0822 c1f2.png|center|98px]]\n{{c|{{smaller|Reverse.}}}}\n{{c|{{smaller|Silver Yen. (Size of original.)}}}}\n\n'''Yenisean, Yeniseian''' (yen-i-sē′an, -yan), ''a.'' Of or pertaining to the Yenisei, a large river in Siberia.\n\n'''yenite''' (yen′īt), ''n.''   [Also ''jenite''; < ''Jena,'' a town in Germany, + ''-ite''<sup>2</sup>.]   In ''mineral.,'' same as ''ilvaite.''\n\n'''yeoman''' (yō′man), ''n.''; pl. ''yeomen'' (-men).   [Early mod. E. ''yoman''; < ME. ''yoman, yomon, ȝhoman, yeman, ȝeman, ȝheman''; not found in AS., but prob. existent as *''gāman,'' *''geáman, gǣman'' (= OFries. ''gāman, gāmon,'' a villager (cf. ''gāfolk,'' people of a village), = MD. ''goymannen,'' arbitrators, = Icel. *ga-imadhr'', a franklin — rare, and prob. < AS.); < AS. *''gā'', *''geá'', *''gē'', a district or village, as in comp. ''ǣl-gē'', ‘province of eels,’ ''Ohtga-gā'', ''Noxga-gā'' (= OFries. ''gā'', ''gō'' (pl. ''gāe''), a district village, = MD. ''gouwe'' (in comp. ''goo-'', ''goy-'', ''go-''), a village, field, D. ''gouw'', ''gouwe'', a province, = MLG. ''gō'', LG. ''goë'', ''gohe'', in comp. ''go-'', a district, = OHG. ''gowi'', ''gouwi'', ''gewi'', MHG. ''gou'', ''göu'', G. ''gau'', a province, G. dial. ''gäu'', the country, = Goth. ''gawi'', a district), + ''man'', man. The word has been erroneously explained otherwise: (''a'') A contraction of a supposed ME. *''yeme-man'', ‘a person in charge,’ < ''yeme'', care, + ''man''. (''b'') < AS. ''iuman'', a forefather, ancient, < ''iu'', of yore, + ''man''. (''c'') < AS. ''iung man'', ''geong man'', young man. (''d'') < AS. ''guma'', man. (''e'') < AS. ''gemǣne'', common. These attempts are all wrong. That which refers to AS. ''iung man'', ''geong man'', finds some color in the use of ''iung men'' as a quasi-technical name for a bodyguard; but while the sense might seem to suit, it is impossible to derive ME. ''ȝo-'' or ''ȝe-'' from AS. ''geong'', ''iung''. The proper modern spelling is ''yoman'', the ''eo'' being appar. due to an attempt to represent in one spelling the two variants ''yeman'' and ''yoman''; the ''eo'' has no etymological justification, as it has to some extent in ''people''.]   '''1†.''' A retainer; a guard.\n{{smaller block|<poem>''ȝomen'' than dede the ȝates schette,\n& wiȝttili than went the walles forto fende.</poem>\n{{right|''William of Palerne'' (E. E. T. S.), l. 3649.}}}}\n{{smaller block|A ''yeman'' hadde he and servaunts namo.\n{{right|''Chaucer'', Gen. Prol. to C. T., l. 101.}}}}\n'''2†.''' A gentleman attendant in a royal or noble household, ranking between a sergeant and a groom: as, ''yeoman'' for the month, a butler; ''yeoman'' of the crown; ''yeoman'' usher: applied also to attendants of lower grade: as, ''yeoman'' feuterer (see ''feuterer''); ''yeoman'' of the chamber; ''yeoman'' of the wardrobe. See also phrase ''yeoman of the guard'', below.\n{{smaller block|''Yeomen'' of Chambre, IIII, to make beddes, to bere or hold torches, to sette bourdes, . . . and suche other servyce as the . . . usshers of chambre command or assigne.\n{{right|Quoted in ''Babees Book'' (E. E. T. S.), p. 313, note.}}}}\n{{smaller block|<poem>Now of marschalle of halle wylle I spelle, . . .\n''Yomon''-vsshere, and grome also,\nVndur hym ar thes two.</poem>\n{{right|''Babees Book'' (E. E. T. S.), p. 311.}}}}\n{{smaller block|Timochares, whose sonne was ''yoman'' for the monthe with the kynge, promysed to Fabricius, thaune beinge consull, to sle kynge Pyrrus.\n{{right|''Sir T. Elyot'', The Governour, iii. 5.}}}}\n{{smaller block|The lady of the Strachy married the ''yeoman'' of the wardrobe.\n{{right|''Shak.'', T. N., ii. 5. 45.}}}}\n{{smaller block|Four persons, who had been ''yeomen'' of the crown to Edward IV., were taken in Southwark and hanged at Tyburn.\n{{right|''J. Gairdner'', Richard III., iv.}}}}\nHence—'''3†.''' One holding a subordinate position, as an attendant or assistant, journeyman, etc.\n{{smaller block|Master Fang, have you entered the action? . . . Where ’s your ''yeoman?'' Is ’t a lusty ''yeoman?'' will a’ stand to ’t?\n{{right|''Shak.'', 2 Hen. IV., ii. 1. 4.}}}}\n{{smaller block|you’s the tavern; the gentlemen will come out presently.\n{{right|''Dekker and Webster'', Westward Ho, iii. 2.}}}}\n\n{{smaller block|The reason for calling the journeymen of the craft ''yeomen'' and bachelors, was probably that they were at that time in England, as was the case in Germany, not allowed to marry before they were masters.\n{{right|''English Gilds'' (E. E. T. S.), p. cxlvi., note.}}}}\n'''4.''' In ''old Eng. law'', one having free land of forty shillings by the year (previously five nobles), who was thereby qualified to serve on juries, vote for knights of the shire, and do any other act for which the law required one who was “probus et legalis homo” (''Blackstone'', Com., I. xii.); hence, in recent English use, one owning (and usually himself cultivating) a small landed property; a freeholder.\n{{smaller block|I press me none but good householders, ''yeomen’s'' sons.\n{{right|''Shak.'', 1 Hen. IV., iv. 2. 16.}}}}\n{{smaller block|<poem>Now do I smell th’ astrologer’s trick: he’ll steep me\nIn soldiers blood, or boil me in a caldron\nOf barbarous law French; or anoint me over\nWith supple oil of great men’s services;\nFor these three means raise ''yeomen'' to the gentry.</poem>\n{{right|''Tomkis'' (?), Albumazar, ii. 2.}}}}\n{{smaller block|The ''yeomen'' or Common People, . . . who have some Lands of their own to live upon; For a Carn of Land, or a Plough Land, was in ancient Time of the yearly Value of five Nobles, and this was the Living of a Stokeman or ''Yeoman;'' And in our Law they are called Legales Homines, a Word familiar in Writs and Inquests.\n{{right|''Guillim'', Display of Heraldry (ed. 1724), II. 274.}}}}\n{{smaller block|After the economical changes which marked the early years of the fifteenth century, the ''yeoman'' class was strengthened by the addition of the body of tenant farmers, whose interests were very much the same as those of the smaller freeholders, and who shared with them the common name of ''yeoman''. {{right|''Stubbs'', Const. Hist., § 480.}}}}\n'''5.''' In the United States navy, an appointed petty officer who has charge of the stores in his department. {{smaller|The ''ship’s yeoman'' has charge of the boatswains’, carpenters’, sailmakers’ stores, etc., and the ''engineer’s yeoman'' has charge of all stores in the engineer’s department, while the ''paymaster’s yeoman'' takes care of provisions, clothing, and small stores, and issues them as directed.}}\n\n'''6.''' A member of the yeomanry cavalry. See ''yeomanry'', 4.   ''Aytoun.''—'''Yeoman bedel.''' {{smaller|See ''bedel''.}}—'''Yeoman of the guard,''' {{smaller|in England, a member of the body-guard of the sovereign. See ''beef-eater'', 2.}}\n{{smaller block|There came a country gentleman (a sufficient yeoman) up to towne, who had severall sonnes, but one an extraordinary proper handsome fellowe, whom he did hope to have preferred to be a ''yeoman of the guard.''\n{{right|''Aubrey'', Lives (Walter Ralegh).}}}}\n\n'''Yeoman’s service,''' {{smaller|powerful or efficient aid, support, or help: in allusion to the strength and bravery of the yeomen in the English armies of early times.}}\n{{smaller block|<poem>I once did hold it, as our statists do,\nA baseness to write fair, and labour’d much\nHow to forget that learning, but, sir, now\nIt did me ''yeoman’s service.'' ''Shak.'', Hamlet, v. 2. 36.</poem>}}\n\n'''yeomanly''' (yō′man-li), ''a.''   [< ''yeoman'' + ''-ly''<sup>1</sup>.]   Of yeoman’s rank; hence, plain; homely; simple; humble.\n{{smaller block|It would make him melancholy to see his ''yeomanly'' father cut his neighbours’ throats to make his son a gentleman.\n{{right|''B. Jonson'', Every Man out of his Humour, iv. 1.}}}}\n{{smaller block|The simplicity and plainnesse of Christianity, which to the gorgeous solemnities of Paganisme and the sense of the Worlds Children seem’d but a homely and ''Yeomanly'' Religion.\n{{right|''Milton'', Reformation in Eng., i.}}}}\n\n'''yeomanly''' (yō′man-li), ''adv.''   [< ''yeoman'' + ''-ly''<sup>2</sup>.]   Bravely; as with the strength of a yeoman.\n{{smaller block|“Saint George strike for us!” exclaimed the Knight; “do the false yeomen give way?” “No!” exclaimed Rebecca, “they bear themselves right ''yeomanly.''”\n{{right|''Scott'', Ivanhoe, xxix.}}}}\n\n'''yeomanry''' (yō′man-ri), ''n.''   [Early mod. E. also ''yeomandrie''; < ME. ''yemanry'', ''ȝemanry''; < ''yeoman'' + ''-ry'' (see ''-ery'').]   '''1.''' The collective estate or body of yeomen; yeomen collectively.\n{{smaller block|Gentyllys and ''ȝemanry'' of goodly lyff lad.\n{{right|''Coventry Mysteries'', p. 1.}}}}\n{{smaller block|<poem>God haffe mersey on Robyn Hodys solle,\nAnd saffe all god ''yemanrey!''</poem>\n{{right|''Robin Hood and the Potter'' (Child’s Ballads, V. 32).}}}}\n{{smaller block|Next after the gentry, in respect of that political weight which depends on the ownership of land, was ranked the great body of freeholders, the ''yeomanry'' of the middle ages.\n{{right|''Stubbs'', Const. Hist., § 480.}}}}\n'''2†.''' Service; retainers; those doing a vassal’s service.\n{{smaller block|<poem>Then Robin Hood took those brethren good\nTo be of his ''yeomandrie.''</poem>\n{{right|''Robin Hood and the Beggar'' (Child’s Ballads, V. 257).}}}}\n'''3†.''' That which befits a yeoman.\n{{smaller block|<poem>“Be mey trowet, thow seys soyt,” seyde Roben,\n“Thow seys god ''yemenrey.''”</poem>\n{{right|''Robin Hood and the Potter'' (Child’s Ballads, V. 22).}}}}\n'''4.''' A volunteer cavalry force originally embodied in Great Britain during the wars of the French revolution, and consisting to a great {{smaller|allowance. They must furnish their own horses, but have a small allowance for clothing—the government also supplying arms and ammunition. Unlike the ordinary volunteer force, the yeomanry cavalry may be called out to aid the civil power, in addition to being liable for service on invasion of the country by a foreign enemy.—'''Yeomanry Act''', an English statute of 1804 (44 Geo. III., c. 54) consolidating and amending the laws relating to the corps of yeomanry and volunteers and regulating them.}}\n\n'''yep''' (yep), ''a.''   [Also ''yap''; Sc. ''yap'', ''yarp'' (E. dial. ''yepper''); < ME. ''yepe'', ''ȝepe'', ''ȝep'', ''ȝiep'', ''ȝæp'', shrewd, prudent, fresh, brisk, eager, < AS. ''geap'' (''geapp-''), ''geáp'', crafty, cunning, shrewd, subtle, bent, curved, open, spread out.]   Fresh; brisk; lively; vigorous. [Obsolete or provincial.]\n{{smaller block|For hit is ȝol & nwe ȝer [Yule and New Year], & here ar ''ȝep'' mony.\n{{right|''Sir Gawayne and the Green Knight'' (E. E. T. S.), l. 284.}}}}\n{{smaller block|Whil thow art ȝong and ''ȝep''.\n{{right|''Piers Plowman'' (C), xi. 287.}}}}\n\n'''yeply†''', ''adv.''   [= Sc. ''yaply''; < ME. ''ȝeply'', ''ȝapliche'', ''ȝepliche'', < AS. ''geaplīce'', shrewdly, < ''geap'', ''geáp'', shrewd.]   Promptly; quickly; at once.\n{{smaller block|<poem>Thou knowez the couenauntez kest vus by-twene,\nAt this tyme twelmonyth thou toke that the falled,\n& I schulde at this nwe ȝere ''ȝeply'' the quyte.</poem>\n{{right|''Sir Gawayne and the Green Knight'' (E. E. T. S.), l. 2244.}}}}\n{{smaller block|<poem>We muste ''yappely'' wende in at this yate,\nFor he that comes to courte to curtesye muste vse hym.</poem>\n{{right|''York Plays'', p. 279.}}}}\n\n'''yer''' (yė or yu), ''adv.'' A dialectal variant of ''here''. [Southern U. S.] {{smaller block|Bimeby, fus’ news you know, ''yer'' come Brer Rabbit.\n{{right|''J. C. Harris'', Uncle Remus, xviii.}}}}\n\n'''-yer.'''   [(''a'') A var. of ''-ier''<sup>1</sup>, < ME. ''-ier'', ''-yer'', ''-iere'' (see ''-ier''<sup>1</sup>). (''b'') Formerly also ''-ier''; < ME. ''-yer'', ''-yere'', ''-ȝere'', being the suffix ''-er'' with ''ȝ'', orig. ''g'', belonging to the root (see ''bowyer'', etc.).]   A termination of nouns of agent, as in ''bowyer'', ''lawyer'', ''sawyer'', and formerly in ''lovyer'', etc. See ''-ier''<sup>1</sup> and ''bowyer'', etc.\n\n'''yerba''' (yer′bä), ''n.''   [Sp., lit. herb, < L. ''herba'', herb: see ''herb''.]   The Paraguay tea, or mate. See ''mate''<sup>4</sup>. Abbreviated from ''yerba de mate'' or ''yerba-mate''.—'''Yerba buena.''' {{smaller|See ''Micromeria''.—'''Yerba de colubra.''' See ''Herpestis''.—'''Yerba del oso,''' a shrub, ''Rhamnus Californicus''. See ''Rhamnus''.—'''Yerba de mate.''' See def. above.—'''Yerba mansa,''' a Californian herb, ''Anemopsis Californica'', of the ''Piperaceæ''. The flowers are small and numerous on a conical receptacle surrounded by a whitish involucre, the whole having the aspect of an anemone. The rootstock has a pungent, aromatic, and astringent taste.—'''Yerba reuma,''' a weed, ''Frankenia grandifolia'', of Texas, California, etc., whose leaves are used as an astringent stimulant application for catarrhs.—'''Yerba santa.''' Same as ''bear’s-weed''.}}\n\n'''yerba-mate''' (yer′bä-mä′te), ''n.''   [< Sp. ''yerba'', herb (see ''yerba''), + ''mate'', a cup: see ''mate''<sup>4</sup>.]   Same as ''yerba''.\n\n'''yerbua,''' ''n.'' Same as ''jerboa''.\n\n'''yercum''' (yėr′kum), ''n.''   [E. Ind. (Madras): Tamil ''erukku'', ''errukam''.]   '''1.''' An East Indian shrub or small tree, ''Calotropis gigantea''. {{smaller|The fiber of its inner bark is extremely tough and durable, and is made into bow-strings, fish-lines, and nets. The name belongs also to ''C. procera'', which, in common with this species, has a medicinal root-bark. Also called ''madar''.}}\n\n'''2.''' The fiber obtained from this plant.\n\n'''yercum-fiber''' (yėr′kum-fī″bėr), ''n.'' Same as ''yercum'', 2.\n\n'''yerd†''', '''yerde†''', ''n.'' Middle English forms of ''yard''<sup>1</sup>, ''yard''<sup>2</sup>.\n\n'''yere'''<sup>1</sup>†, ''n.'' An old spelling of ''year''.\n\n'''yere'''<sup>2</sup> (yēr), ''adv.'' A dialectal variant of ''here''. [Southern U. S.]\n\n'''yerga''' (yėr′gä̤), ''n.''   [Cf. Russ. (Cossack) ''ergakŭ'', skin of a horse or camel.]   A woolen material made for horse-blankets.\n\n'''yerk'''<sup>1</sup>†, ''v.'' A Middle English form of ''yark''<sup>1</sup>.\n\n'''yerk'''<sup>2</sup> (yėrk), ''v.''   [Also ''yark''; a var. of ''jerk''<sup>1</sup>.]   I. ''trans.'' '''1.''' To lash; strike smartly; beat; hence, to rouse; excite. [Obsolete or Scotch.]\n{{smaller block|<poem>''Yerk'' him soundly;\n’Twas Rhadamanth’s sentence; do your office, Furies.</poem>\n{{right|''Massinger'', A Very Woman, ii. 3.}}}}\n{{smaller block|<poem>Stripes justly given ''yerk'' us with their fall,\nBut causeless whipping smarts the most of all.</poem>\n{{right|''Herrick'', Smart.}}}}\n{{smaller block|<poem>Just now I’ve ta’en the fit o’ rhyme,\nMy barmie noddle’s working prime,\nMy fancy ''yerkit'' up sublime\nWi’ hasty summon. ''Burns'', To James Smith.</poem>}}\n'''2.''' To throw, thrust, or pull sharply or suddenly; jerk; move with a jerk. [Obsolete or provincial.]\n{{smaller block|He ''yerked'' up his trousers. {{right|''S. Judd'', Margaret, i. 5.}}}}\n'''3.''' To bind or tie tightly or with a jerk. [Scotch.]\n{{smaller block|But he is my sister’s son—my own nephew—our flesh and blood—and his hands and feet are ''yerked'' as tight as cords can be drawn. {{right|''Scott'', Heart of Mid-Lothian, lii.}}}}<noinclude><references/></noinclude>"
+}

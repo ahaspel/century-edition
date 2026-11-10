@@ -1,0 +1,193 @@
+{
+ "volume": 8,
+ "page_number": 852,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n851.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n851.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-10",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 888,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     310,
+     206,
+     2442,
+     282
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     310,
+     282,
+     1202,
+     1355
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     310,
+     1355,
+     1202,
+     2429
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     310,
+     2429,
+     1202,
+     3183
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1202,
+     282,
+     1571,
+     1352
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1202,
+     1352,
+     1571,
+     2433
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     1202,
+     2433,
+     1571,
+     3183
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1571,
+     282,
+     2442,
+     1179
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1571,
+     1179,
+     2442,
+     2167
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1571,
+     2167,
+     2442,
+     3183
+    ]
+   },
+   {
+    "name": "c0s1",
+    "kind": "text",
+    "column": 0,
+    "box": [
+     310,
+     3183,
+     2442,
+     3205
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{c|AMENDED SPELLINGS}}",
+   "c1s1": "<poem>\nafflictive: afflictiv\naffront: affrunt\nafront, ''adv.'': afrunt\nagglutinative: agglutinativ\naggressive: aggressiv\naggrieve: aggriev\n''aggrieved: aggrievd''\naghast: agast\nagile: agil\nagreeable: agreeabl\nahead: ahed\n''ailed: aild''\n''aimed: aimd''\n''aired: aird''\naisle: aile\n''alarmed: alarmd''\nalienable: alienabl\nalimentiveness: alimentivness\n''allayed: allayd''\nalliterative: alliterativ\n''allowed: allowd''\nallowable: allowabl\n''alloyed: alloyd''\nallusive: allusiv\nalpha: alfa\nalphabet: alfabet\nalready: alredy\nalterable: alterabl\n''altered: alterd''\nalterative: alterativ\n''appalled: appalld''\n''appareled, -elled: appareld''\nappealable: appealabl\n''appealed: appeald''\n''appeared: appeard''\nappeasable: appeasabl\nappellative: appellativ\n''appertained: appertaind''\napple: apl\napplicable: applicabl\napplicative: applicativ\nappointive: appointiv\n''apportioned: apportiond''\nappreciable: appreciabl\nappreciative: appreciativ\napprehensible: apprehensibl\napprehensive: apprehensiv\napproachable: approachabl\n''approached: approacht''\napprovable: approvabl\napproximative: approximativ\naquiline: aquilin, -ine\narable: arabl\narbitrable: arbitrabl\narbor, arbour: arbor\n''arched: archt''\nardor, ardour: ardor\nare: ar\n</poem>\nargumentative: argumen-",
+   "c1s2": "<poem>\nalternative: alternativ\nalthough: altho\nalumine, alumin: alumin\namaranthine: amaranthin\n''amassed: amast''\namative: amativ\namble: ambl\n''ambled: ambld''\n''ambushed: ambusht''\namenable: amenabl\namethystine: amethystin\namiable: amiabl\namicable: amicabl\namorphous: amorfous\namphibia: amfibia\namphibian: amfibian\namphibious: amfibious\namphibrach: amfibrach\namphitheater, -tre: amfitheater\nample: ampl\namplificative: amplificativ\namusive: amusiv\nanaglyph: anaglyf\nanalogue: analog\nanalyze, analyse: analyze\nanatomize, -ise: anatomize\nanchor: anker\nanchorage: ankerage\n''anchored: ankerd''\n''angered: angerd''\nangle: angl\n</poem>\n<poem>\ntativ\narise: arize\n''arisen: arizn''\narmor, armour: armor\n''armored, armoured: armord''\n''arose: aroze''\n''arraigned: arraignd''\n''arrayed: arrayd''\narticle: articl\nartisan, artizan: artizan\nasbestine: asbestin\nascendable: ascendabl\n''ascertained: ascertaind''\nascertainable: ascertainabl\nascribable: ascribabl\nasphalt: asfalt\nasphyxia: asfyxia\nassailable: assailabl\n''assailed: assaild''\n''assayed: assayd''\nassemble: assembl\n''assembled: assembld''\nassertive: assertiv\n''assessed: assest''\n''assigned: assignd''\nassignable: assignabl\nassimilative: assimilativ\nassociable: associabl\nassociative: associativ\nassumptive: assumptiv\n''astonished: astonisht''\natmosphere: atmosfere\n</poem>",
+   "c1s3": "<poem>\n''angled: angld''\nanguished: anguisht\nanise: anis\nankle: ankl\n''annealed: anneald''\n''annexed: annext''\n''annoyed: annoyd''\n''annulled: annuld''\n''answered: answerd''\nanthropophagy: anthropofagy\nanticipative: anticipativ\nantiphony: antifony\nantiphrasis: antifrasis\nantistrophe: antistrofe\naphyllous: afyllous\napocalypse: apocalyps\napocrypha: apocryfa\napocryphal: apocryfal\napologue: apolog\napostle: apostl\napostrophe: apostrofe\napostrophize: apostrofize\n</poem>\n<poem>\natmospheric: atmosferic\natrophy: atrofy\n''attached: attacht''\n''attacked: attackt''\nattainable: attainabl\n''attained: attaind''\n''attempered: attemperd''\nattentive: attentiv\nattractive: attractiv\nattributable: attributabl\nattributive: attributiv\naudible: audibl\naugmentative: augmentativ\nauricle: auricl\nauthoritative: authoritativ\nautobiographer: autobiografer\nautobiography: autobiografy\nautograph: autograf\navailable: availabl\n''availed: availd''\navalanche: avalanch\n</poem>",
+   "c2s1": "<poem>\n''averred: averd''\navoidable: avoidabl\n''avouched: avoucht''\n''avowed: avowd''\n''awakened: awakend''\nawe: aw\n''awed: awd''\nawsome, awesome: awsum\nax, axe: ax\naxle: axl\nay, aye: ay\n\nbabble: babl\n''babbled: babld''\n''backed: backt''\n''backslidden: backslidn''\n''bad, bade,'' pret.: ''bad''\nbaffle: bafl\n''baffled: bafld''\nbagatelle: bagatel\nbailable: bailabl\n''bailed: baild''\nbailiff: bailif\nbaize: baiz\n''balked: balkt''\n''balled: balld''\n''banged: bangd''\n''banished: banisht''\nbankable: bankabl\n''banked: bankt''\n''bantered: banterd''\n</poem>",
+   "c2s2": "<poem>\n''barbed: barbd''\nbareheaded: bareheded\n''bargained: bargaind''\nbarnacle: barnacl\n''barreled, -elled: barreld''\nbarreling, -elling: barreling\n''bartered: barterd''\n''basked: baskt''\nbatch: bach\n''battered: batterd''\nbattle: batl\n''battled: batld''\nbauble: baubl\n''bawled: bawld''\n''bayoneted, -etted: bayoneted''\nbeadle: beadl\nbeagle: beagl\n''beaked: beakt''\n''beamed: beamd''\nbearable: bearabl\n''beaten: beatn''\nbeauteous: beuteous\nbeautiful: beutiful\nbeautify: beutify\nbeauty: beuty\n''becalmed: becalmd''\n''beckoned: beckond''\nbecome: becum\n''becoming: becuming''\nbedabble: bedabl\n''bedabbled: bedabld''\n''bedecked: bedeckt''\n</poem>",
+   "c2s3": "<poem>\n''bedeviled, -illed: bedevild''\n''bedewed: bedewd''\n''bedimmed: bedimd''\nbedraggle: bedragl\n''bedraggled: bedragld''\n''bedrenched: bedrencht''\nbedridden: bedridn\n''bedropped: bedropt''\nbedstead: bedsted\nbeetle: beetl\n''beeves: beevs''\n''befallen: befalln''\n''befell: befel''\n''befooled: befoold''\n''befouled: befould''\nbefriend: befrend\n''begged: begd''\nbegone: begon\n''begotten: begotn''\nbehavior, -our: behavior\nbehead: behed\nbelabor, belabour: bela-\n</poem>",
+   "c3s1": "<poem>\n''belabored, belaboured: belabord''\n''belayed: belayd''\n''belched: belcht''\nbeldam, beldame: beldam\nbeleaguer: beleager\n''beleaguered: beleagerd''\nbelievable: believabl\nbelieve: believ\n''believed: believd''\nbelittle: belitl\n''belittled: belitld''\nbell: bel\n''belled: beld''\n''belonged: belongd''\nbeloved: beluv-ed, beluvd\n''bemoaned: bemoand''\n''bemocked: bemockt''\nbenumb: benum\n''benumbed: benumd''\n''bequeathed: bequeathd''\nbereave: bereav\n''bereaved: bereavd''\nberhyme, berime: berime\n''beseemed: beseemd''\n''besmeared: besmeard''\n</poem>\n<poem>\n''blinked: blinkt''\n''blistered: blisterd''\nblithesome: blithesum\n''blocked: blockt''\nblockhead: blockhed\nblond, blonde: blond\n''bloomed: bloomd''\n''blossomed: blossomd''\nblotch: bloch\n''blotched: blocht''\nblubbered: blubberd\nblue-eyed: blue-eyd\nbluff: bluf\n''bluffed: bluft''\n''blundered: blunderd''\nblunderhead: blunderhed\n''blurred: blurd''\n''blushed: blusht''\n''blustered: blusterd''\nboatable: boatabl\n''bobbed: bobd''\nbobtailed: bobtaild\nbodyguard: bodygard\nboggle: bogl\n''boggled: bogld''\n''boiled: boild''\n</poem>",
+   "c3s2": "<poem>\nbespangle: bespangl\n''bespangled: bespangld''\n''bespattered: bespatterd''\nbespread: bespred\nbesprinkle: besprinkl\n''besprinkled: besprinkld''\n''bestirred: bestird''\n''bestowed: bestowd''\nbestraddle: bestradl\n''bestraddled: bestradld''\n''betrothed: betrotht''\n''bettered: betterd''\n''beveled, bevelled: beveld''\n''beveling, bevelling: beveling''\n''bewailed: bewaild''\n''bewildered: bewilderd''\nbewitch: bewich\n''bewitched: bewicht''\n''bewrayed: bewrayd''\n''biased, biassed: biast''\nbibliographer: bibliografer\nbibliography: bibliografy\nbicephalous: bicefalous\n''bickered: bickerd''\n''bicolored, bicoloured: biculord''\n''bilked: bilkt''\nbill: bil\n''billed: bild''\nbolthead: bolthed\nbomb: bom\nbombazine, -sine: bombazine\nbombshell: bomshel\n''booked: bookt''\nbookworm: bookwurm\n''boomed: boomd''\nbooze, boose: booz\nboozy, boosy: boozy\n''bordered: borderd''\n''borrowed: borrowd''\n''bossed: bost''\nbotch: boch\n''botched: bocht''\n''bothered: botherd''\nbots, botts: bots\nbottle: botl\n''bottled: botld''\n''bowed: bowd''\nbowline: bowlin\n''boxed: boxt''\n''boxhauled: boxhauld''\nbrachygraphy: brachygrafy\n''bragged: bragd''\n''brained: braind''\nbramble: brambl\n''branched: brancht''\nbrangle: brangl\n</poem>",
+   "c3s3": "<poem>\nbinnacle: binnacl\nbinocle: binocl\nbiographer: biografer\nbiography: biografy\nbissextile: bissextil\nbister, bistre: bister\n''bitten: bitn''\nbivalve: bivalv\n''blabbed: blabd''\n''blackballed: blackballd''\n''blacked: blackt''\n''blackened: blackend''\nblack-eyed: black-eyd\nblackguard: blackgard\nblack-lead: black-led\n''blackmailed: blackmaild''\nblamable: blamabl\nblameworthy: blamewurthy\n''blanched: blancht''\n''blandished: blandisht''\nblaspheme: blasfeme\nblasphemous: blasfemous\nblasphemy: blasfemy\n''bleached: bleacht''\n''bleared: bleard''\n''blemished: blemisht''\n''blenched: blencht''\nblende: blend\n''blessed, blest: bless-ed, blest''\n''brangled: brangld''\n''brawled: brawld''\n''brayed: brayd''\n''breached: breacht''\nbread: bred\nbreadth: bredth\nbreakfast: brekfast\nbreast: brest\nbreath: breth\nbreathable: breathabl\n''breathed: breathd''\n''breeched: breecht''\nbreeze: breez\n''brewed: brewd''\n''bricked: brickt''\nbridewell: bridewel\n''briefed: brieft''\n''brightened: brightend''\nbrimmed: brimd\nbrindle: brindl\n''brindled: brindld''\n''bristled: bristld''\nbrittle: britl\n''broached: broacht''\n''broadened: broadend''\n''broidered: broiderd''\nbroiled: broild\nbromine, bromin: bromin\nbronze: bronz\n''bronzed: bronzd''\n</poem>",
+   "c0s1": "avalanche: avalanch bor blindworm: blindwurm ''browned: brownd''"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [
+   [
+    891,
+    199,
+    1549,
+    265
+   ],
+   [
+    1200,
+    3202,
+    1222,
+    3229
+   ]
+  ],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 52,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 11,
+    "input_tokens": 8810,
+    "output_tokens": 8217,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" /></noinclude>{{nop}}{{c|AMENDED SPELLINGS}}\n<poem>\nafflictive: afflictiv\naffront: affrunt\nafront, ''adv.'': afrunt\nagglutinative: agglutinativ\naggressive: aggressiv\naggrieve: aggriev\n''aggrieved: aggrievd''\naghast: agast\nagile: agil\nagreeable: agreeabl\nahead: ahed\n''ailed: aild''\n''aimed: aimd''\n''aired: aird''\naisle: aile\n''alarmed: alarmd''\nalienable: alienabl\nalimentiveness: alimentivness\n''allayed: allayd''\nalliterative: alliterativ\n''allowed: allowd''\nallowable: allowabl\n''alloyed: alloyd''\nallusive: allusiv\nalpha: alfa\nalphabet: alfabet\nalready: alredy\nalterable: alterabl\n''altered: alterd''\nalterative: alterativ\n''appalled: appalld''\n''appareled, -elled: appareld''\nappealable: appealabl\n''appealed: appeald''\n''appeared: appeard''\nappeasable: appeasabl\nappellative: appellativ\n''appertained: appertaind''\napple: apl\napplicable: applicabl\napplicative: applicativ\nappointive: appointiv\n''apportioned: apportiond''\nappreciable: appreciabl\nappreciative: appreciativ\napprehensible: apprehensibl\napprehensive: apprehensiv\napproachable: approachabl\n''approached: approacht''\napprovable: approvabl\napproximative: approximativ\naquiline: aquilin, -ine\narable: arabl\narbitrable: arbitrabl\narbor, arbour: arbor\n''arched: archt''\nardor, ardour: ardor\nare: ar\n</poem>\nargumentative: argumen-\n<poem>\nalternative: alternativ\nalthough: altho\nalumine, alumin: alumin\namaranthine: amaranthin\n''amassed: amast''\namative: amativ\namble: ambl\n''ambled: ambld''\n''ambushed: ambusht''\namenable: amenabl\namethystine: amethystin\namiable: amiabl\namicable: amicabl\namorphous: amorfous\namphibia: amfibia\namphibian: amfibian\namphibious: amfibious\namphibrach: amfibrach\namphitheater, -tre: amfitheater\nample: ampl\namplificative: amplificativ\namusive: amusiv\nanaglyph: anaglyf\nanalogue: analog\nanalyze, analyse: analyze\nanatomize, -ise: anatomize\nanchor: anker\nanchorage: ankerage\n''anchored: ankerd''\n''angered: angerd''\nangle: angl\n</poem>\n<poem>\ntativ\narise: arize\n''arisen: arizn''\narmor, armour: armor\n''armored, armoured: armord''\n''arose: aroze''\n''arraigned: arraignd''\n''arrayed: arrayd''\narticle: articl\nartisan, artizan: artizan\nasbestine: asbestin\nascendable: ascendabl\n''ascertained: ascertaind''\nascertainable: ascertainabl\nascribable: ascribabl\nasphalt: asfalt\nasphyxia: asfyxia\nassailable: assailabl\n''assailed: assaild''\n''assayed: assayd''\nassemble: assembl\n''assembled: assembld''\nassertive: assertiv\n''assessed: assest''\n''assigned: assignd''\nassignable: assignabl\nassimilative: assimilativ\nassociable: associabl\nassociative: associativ\nassumptive: assumptiv\n''astonished: astonisht''\natmosphere: atmosfere\n</poem>\n<poem>\n''angled: angld''\nanguished: anguisht\nanise: anis\nankle: ankl\n''annealed: anneald''\n''annexed: annext''\n''annoyed: annoyd''\n''annulled: annuld''\n''answered: answerd''\nanthropophagy: anthropofagy\nanticipative: anticipativ\nantiphony: antifony\nantiphrasis: antifrasis\nantistrophe: antistrofe\naphyllous: afyllous\napocalypse: apocalyps\napocrypha: apocryfa\napocryphal: apocryfal\napologue: apolog\napostle: apostl\napostrophe: apostrofe\napostrophize: apostrofize\n</poem>\n<poem>\natmospheric: atmosferic\natrophy: atrofy\n''attached: attacht''\n''attacked: attackt''\nattainable: attainabl\n''attained: attaind''\n''attempered: attemperd''\nattentive: attentiv\nattractive: attractiv\nattributable: attributabl\nattributive: attributiv\naudible: audibl\naugmentative: augmentativ\nauricle: auricl\nauthoritative: authoritativ\nautobiographer: autobiografer\nautobiography: autobiografy\nautograph: autograf\navailable: availabl\n''availed: availd''\navalanche: avalanch\n</poem>\n<poem>\n''averred: averd''\navoidable: avoidabl\n''avouched: avoucht''\n''avowed: avowd''\n''awakened: awakend''\nawe: aw\n''awed: awd''\nawsome, awesome: awsum\nax, axe: ax\naxle: axl\nay, aye: ay\n\nbabble: babl\n''babbled: babld''\n''backed: backt''\n''backslidden: backslidn''\n''bad, bade,'' pret.: ''bad''\nbaffle: bafl\n''baffled: bafld''\nbagatelle: bagatel\nbailable: bailabl\n''bailed: baild''\nbailiff: bailif\nbaize: baiz\n''balked: balkt''\n''balled: balld''\n''banged: bangd''\n''banished: banisht''\nbankable: bankabl\n''banked: bankt''\n''bantered: banterd''\n</poem>\n<poem>\n''barbed: barbd''\nbareheaded: bareheded\n''bargained: bargaind''\nbarnacle: barnacl\n''barreled, -elled: barreld''\nbarreling, -elling: barreling\n''bartered: barterd''\n''basked: baskt''\nbatch: bach\n''battered: batterd''\nbattle: batl\n''battled: batld''\nbauble: baubl\n''bawled: bawld''\n''bayoneted, -etted: bayoneted''\nbeadle: beadl\nbeagle: beagl\n''beaked: beakt''\n''beamed: beamd''\nbearable: bearabl\n''beaten: beatn''\nbeauteous: beuteous\nbeautiful: beutiful\nbeautify: beutify\nbeauty: beuty\n''becalmed: becalmd''\n''beckoned: beckond''\nbecome: becum\n''becoming: becuming''\nbedabble: bedabl\n''bedabbled: bedabld''\n''bedecked: bedeckt''\n</poem>\n<poem>\n''bedeviled, -illed: bedevild''\n''bedewed: bedewd''\n''bedimmed: bedimd''\nbedraggle: bedragl\n''bedraggled: bedragld''\n''bedrenched: bedrencht''\nbedridden: bedridn\n''bedropped: bedropt''\nbedstead: bedsted\nbeetle: beetl\n''beeves: beevs''\n''befallen: befalln''\n''befell: befel''\n''befooled: befoold''\n''befouled: befould''\nbefriend: befrend\n''begged: begd''\nbegone: begon\n''begotten: begotn''\nbehavior, -our: behavior\nbehead: behed\nbelabor, belabour: bela-\n</poem>\n<poem>\n''belabored, belaboured: belabord''\n''belayed: belayd''\n''belched: belcht''\nbeldam, beldame: beldam\nbeleaguer: beleager\n''beleaguered: beleagerd''\nbelievable: believabl\nbelieve: believ\n''believed: believd''\nbelittle: belitl\n''belittled: belitld''\nbell: bel\n''belled: beld''\n''belonged: belongd''\nbeloved: beluv-ed, beluvd\n''bemoaned: bemoand''\n''bemocked: bemockt''\nbenumb: benum\n''benumbed: benumd''\n''bequeathed: bequeathd''\nbereave: bereav\n''bereaved: bereavd''\nberhyme, berime: berime\n''beseemed: beseemd''\n''besmeared: besmeard''\n</poem>\n<poem>\n''blinked: blinkt''\n''blistered: blisterd''\nblithesome: blithesum\n''blocked: blockt''\nblockhead: blockhed\nblond, blonde: blond\n''bloomed: bloomd''\n''blossomed: blossomd''\nblotch: bloch\n''blotched: blocht''\nblubbered: blubberd\nblue-eyed: blue-eyd\nbluff: bluf\n''bluffed: bluft''\n''blundered: blunderd''\nblunderhead: blunderhed\n''blurred: blurd''\n''blushed: blusht''\n''blustered: blusterd''\nboatable: boatabl\n''bobbed: bobd''\nbobtailed: bobtaild\nbodyguard: bodygard\nboggle: bogl\n''boggled: bogld''\n''boiled: boild''\n</poem>\n<poem>\nbespangle: bespangl\n''bespangled: bespangld''\n''bespattered: bespatterd''\nbespread: bespred\nbesprinkle: besprinkl\n''besprinkled: besprinkld''\n''bestirred: bestird''\n''bestowed: bestowd''\nbestraddle: bestradl\n''bestraddled: bestradld''\n''betrothed: betrotht''\n''bettered: betterd''\n''beveled, bevelled: beveld''\n''beveling, bevelling: beveling''\n''bewailed: bewaild''\n''bewildered: bewilderd''\nbewitch: bewich\n''bewitched: bewicht''\n''bewrayed: bewrayd''\n''biased, biassed: biast''\nbibliographer: bibliografer\nbibliography: bibliografy\nbicephalous: bicefalous\n''bickered: bickerd''\n''bicolored, bicoloured: biculord''\n''bilked: bilkt''\nbill: bil\n''billed: bild''\nbolthead: bolthed\nbomb: bom\nbombazine, -sine: bombazine\nbombshell: bomshel\n''booked: bookt''\nbookworm: bookwurm\n''boomed: boomd''\nbooze, boose: booz\nboozy, boosy: boozy\n''bordered: borderd''\n''borrowed: borrowd''\n''bossed: bost''\nbotch: boch\n''botched: bocht''\n''bothered: botherd''\nbots, botts: bots\nbottle: botl\n''bottled: botld''\n''bowed: bowd''\nbowline: bowlin\n''boxed: boxt''\n''boxhauled: boxhauld''\nbrachygraphy: brachygrafy\n''bragged: bragd''\n''brained: braind''\nbramble: brambl\n''branched: brancht''\nbrangle: brangl\n</poem>\n<poem>\nbinnacle: binnacl\nbinocle: binocl\nbiographer: biografer\nbiography: biografy\nbissextile: bissextil\nbister, bistre: bister\n''bitten: bitn''\nbivalve: bivalv\n''blabbed: blabd''\n''blackballed: blackballd''\n''blacked: blackt''\n''blackened: blackend''\nblack-eyed: black-eyd\nblackguard: blackgard\nblack-lead: black-led\n''blackmailed: blackmaild''\nblamable: blamabl\nblameworthy: blamewurthy\n''blanched: blancht''\n''blandished: blandisht''\nblaspheme: blasfeme\nblasphemous: blasfemous\nblasphemy: blasfemy\n''bleached: bleacht''\n''bleared: bleard''\n''blemished: blemisht''\n''blenched: blencht''\nblende: blend\n''blessed, blest: bless-ed, blest''\n''brangled: brangld''\n''brawled: brawld''\n''brayed: brayd''\n''breached: breacht''\nbread: bred\nbreadth: bredth\nbreakfast: brekfast\nbreast: brest\nbreath: breth\nbreathable: breathabl\n''breathed: breathd''\n''breeched: breecht''\nbreeze: breez\n''brewed: brewd''\n''bricked: brickt''\nbridewell: bridewel\n''briefed: brieft''\n''brightened: brightend''\nbrimmed: brimd\nbrindle: brindl\n''brindled: brindld''\n''bristled: bristld''\nbrittle: britl\n''broached: broacht''\n''broadened: broadend''\n''broidered: broiderd''\nbroiled: broild\nbromine, bromin: bromin\nbronze: bronz\n''bronzed: bronzd''\n</poem>\n\navalanche: avalanch bor blindworm: blindwurm ''browned: brownd''<noinclude><references/></noinclude>"
+}

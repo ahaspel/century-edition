@@ -1,0 +1,209 @@
+{
+ "volume": 8,
+ "page_number": 818,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n817.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n817.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-10",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 827,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     168,
+     0,
+     2442,
+     140
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     168,
+     140,
+     864,
+     1757
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     441,
+     887,
+     864,
+     1591
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     168,
+     1757,
+     864,
+     2793
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     168,
+     2793,
+     864,
+     3233
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     864,
+     140,
+     1617,
+     1218
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     864,
+     1218,
+     1617,
+     2293
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     864,
+     2293,
+     1617,
+     3233
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1617,
+     140,
+     2442,
+     1193
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1617,
+     1193,
+     2442,
+     2265
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1617,
+     2265,
+     2442,
+     3233
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|yearning|7014|yelling}}",
+   "c1s1": "¶\n{{smaller block|The reveries of youth, in which so much energy is wasted, are the ''yearnings'' of a Spirit made for what it has not found but must forever seek as an Ideal.\n{{right|''Channing'', Perfect Life, p. 176.}}}}\n\n'''yearning<sup>2</sup>''' (yėr′ning), ''n.'' [Var. of ''earning''<sup>2</sup>.] Rennet. [Scotch.]\n\n'''yearningly''' (yėr′ning-li), ''adv.'' In a yearning manner; with yearning.\n\n'''yeast''' (yēst), ''n.'' [Formerly also ''yest''; also dial. ''east''; < ME. ''ȝeest'', < AS. ''gist'', ''gyst'' = D. ''gest'', ''gist'' = MHG. ''gest'', ''jest'', G. ''gäscht'', ''gischt'' = Icel. ''jast'', ''jastr'' = Sw. ''jäst'' (cf. Dan. ''gjær''), yeast; from a verb seen in OHG. ''jesan'', MHG. ''jesen'', ''gesen'', ''gern'', G. ''gähren'', ferment, = Sw. ''jäsa'', ferment, froth; akin to Gr. ζέειν, boil, seethe, (> ζεστός, boiled, boiling); Skt. √ ''yas'', boil, froth.] '''1.''' A yellowish substance, having an acid reaction, produced during the alcoholic fermentation of saccharine fluids, rising partly to the surface in the form of a frothy, flocculent, viscid matter (''top'' or ''surface yeast''), and partly falling to the bottom (''bottom'' or ''sediment yeast''). {{smaller|Yeast consists of aggregations of minute cells, each cell constituting a distinct plant, ''Saccharomyces cerevisiæ''.}}\n[[FIGURE]]\n{{c|{{smaller|Yeast.<br>''a'', yeast-plant (''Saccharomyces cerevisiæ''), showing increase by budding; ''b'', a cell, showing the formation of the spores; ''c'', a cell, containing four mature spores; ''d'', the spores; ''e'', germinating spores.}}}}\n{{smaller|The yeast-plant is a saprophytic fungus of uncertain systematic position, being regarded by some as a degenerate ascomycete, by others as representing a distinct class. It exists under two conditions. In the first it is in the form of transparent round or oval cells, averaging .08 mm. (.003 inch) in diameter, which increase in countless numbers by budding—that is, by the formation of a small daughter-cell by the side of the mother-cell, from which it sooner or later separates. The other form consists of larger cells, which, by a division of their protoplasm, form four new cells within the parent-cell. These endogenously formed cells have been likened to the ascospores of the ''Ascomycetes'', with which, as stated above, they are frequently classed.}}",
+   "c1s2": "{{smaller|The former notion that the yeast-plant was only the immature condition of a mold has been effectually exploded by Brefeld’s elaborate researches. Fermentation takes place sooner and goes on more rapidly when yeast is added than when the fluid is merely exposed to the atmosphere, beer-yeast possessing the property of setting up fermentation in the highest degree. Surface yeast is formed at from 65° to 77° F., and its action is rapid and irregular, whereas sediment yeast is formed at from 32° to 45°, and its action is slow and quiet. Sediment yeast is reproduced by spores, and not by buds. In their chemical relations the two do not appear to differ. Yeast varies in quality according to the nature of the liquid in which it is generated, and yeast-merchants distinguish several varieties, which are employed for different purposes according to their energy and activity. Yeast is employed to induce fermentation in the manufacture of beer and ale, and of distilled spirits, and is also the agent in producing the panary fermentation, whereby bread is rendered light, porous, and spongy. Beer-yeast is employed medicinally as a stimulant in low fevers, and is of great service in cases where, from inflammatory symptoms, wine is inadmissible. See ''barm''<sup>2</sup>, ''Saccharomyces'', ''fermentation''.}}\n{{smaller block|She consented that the village maiden should manufacture ''yeast'', both liquid and in cakes.\n{{right|''Hawthorne'', Seven Gables, v.}}}}\n\n'''2.''' Spume or foam of water; froth.\n{{smaller block|Now the ship boring the moon with her mainmast, and anon swallowed with ''yest'' and froth.\n{{right|''Shak.'', W. T., iii. 3. 94.}}\n<poem>They melt into thy ''yeast'' of waves, which mar\nAlike the Armada’s pride, or spoils of Trafalgar.</poem>\n{{right|''Byron'', Childe Harold, iv. 181.}}}}\n\n{{smaller|'''Artificial yeast''', a dough of flour and a small quantity of common yeast, made into small cakes and dried. Kept free from moisture, it long retains its fermentative property.—'''Beer-yeast''', the common yeast, ''Saccharomyces cerevisiæ'', which is added to the wort of beer for the}}",
+   "c1s3": "{{smaller|purpose of exciting fermentation. See def. 1.—'''Bottom''' or '''sediment yeast.''' See def. 1.—'''German yeast,''' common yeast collected, drained, and pressed till nearly dry. It can be so kept for several months, and is much used by bakers.—'''Patent yeast,''' yeast collected from a wort of malt and hop, and treated similarly to German yeast.—'''Press-yeast,''' yeast freed from water and other impurities, mixed with about 15 per cent. of starch, and pressed in bags as a preparation for storing.—'''Surface''' or '''top yeast.''' See def. 1.}}\n\n¶\n'''yeast''' (yēst), ''v. i.'' [< ''yeast'', ''n.''] To ferment.\n{{smaller block|<poem>''Yeasting'' youth\nWill clear itself and crystal turn again.</poem>\n{{right|''Keats'', Otho the Great, iii. 2. (''Davies.'')}}}}\n\n'''yeast-beer''' (yēst′bēr), ''n.'' See ''beer''<sup>1</sup>.",
+   "c2s1": "¶\n'''yeast-bitten''' (yēst′bit″n), ''a.'' In ''brewing'', too much affected by yeast.\n{{smaller block|When the progress of the attenuation becomes so slack as not to exceed half a pound in the day, it is prudent to cleanse, otherwise the top-barm might re-enter the body of the beer, and it would become ''yeast-bitten.''\n{{right|''Ure'', Dict., I. 317.}}}}\n\n'''yeast-cell''' (yēst′sel), ''n.'' The single cell which constitutes a yeast-plant, ''Saccharomyces cerevisiæ.''\n\n'''yeast-fungus''' (yēst′fung″gus), ''n.'' See ''fungus.''\n\n'''yeastiness''' (yēs′ti-nes), ''n.'' The state or property of being yeasty.\n\n'''yeast-plant''' (yēst′plant), ''n.'' The ''Saccharomyces cerevisiæ'', a minute plant producing alcoholic fermentation in saccharine liquids; also, any one of several other species of the genus ''Saccharomyces.'' See ''yeast'', 1 (with cut).\n\n'''yeast-powder''' (yēst′pou″dėr), ''n.'' A substitute for yeast used for leavening bread, consisting of a preparation of soda, phosphates, and other substances, in the form of a powder; a baking-powder.\n\n'''yeasty''' (yēs′ti), ''a.'' [Formerly also ''yesty''; < ''yeast'' + ''-y''<sup>1</sup>.] '''1.''' Consisting of or resembling yeast.\n{{smaller block|We have then [in June] another dun, called the Barm-Fly from its ''yeasty'' color.\n{{right|''Cotton'', in Walton’s Angler, ii. 261.}}}}\n'''2.''' Foamy; frothy; spumy.\n{{smaller block|<poem>Though the ''yesty'' waves\nConfound and swallow navigation up.</poem>\n{{right|''Shak.'', Macbeth, iv. 1. 53.}}\n<poem>The sands and ''yeasty'' surges mix\nIn caves about the dreary bay.</poem>}}",
+   "c2s2": "{{smaller block|{{right|''Tennyson'', Sailor Boy.}}}}\n'''3.''' Light; unsubstantial; trifling; worthless.\n{{smaller block|Thus has he — and many more of the same breed that I know the drossy age dotes on — only got the tune of the time and outward habit of encounter: a kind of ''yesty'' collection, which carries them through and through the most fond and winnowed opinions.\n{{right|''Shak.'', Hamlet, v. 2. 199.}}}}\n{{smaller block|<poem>Knowledge with him is idle, if it strain\nAbove the compass of his ''yesty'' brain.</poem>\n{{right|''Drayton'', Moon-Calf.}}}}\n\n'''yeat†''', ''n.'' Same as ''yate'', ''gate''<sup>1</sup>.\n{{smaller block|<poem>And, or the porter was at the ''yeat'',\nThe boy was in the ha’.</poem>\n{{right|''Lady Maisry'' (Child’s Ballads, II. 84).}}}}\n\n'''yedd†''', ''v. i.'' [ME. ''ȝedden'', ''ȝeddien'', < AS. ''geddian'', ''gyddian'', ''giddian'', speak, sing, < ''gedd'', ''gidd'', a song.] To speak; sing. ''Piers Plowman'' (A), i. 138.\n\n'''yedding†''', ''n.'' [ME., also ''yeddynge'', < AS. ''geddyng'', ''giddung''; verbal n. of ''geddian'', sing: see ''yedd'', ''v.''] A popular tale or romance, or a song embodying a popular tale or romance.\n{{smaller block|Of ''yeddinges'' he bar utterly the prys.\n{{right|''Chaucer'', Gen. Prol. to C. T., l. 237.}}}}\n\n'''yede<sup>1</sup>†''', '''yode†'''. [ME. ''yede'', ''ȝede'', ''ȝode'', < AS. ''eode'' (= Goth. ''iddja''), pret. of ''gān'', go: see ''go''.] Obsolete irregular preterits of ''go''.\n{{smaller block|<poem>Sethen ''ȝede'' to sitte same to solas & to pleie\nAt a wid windowe that was in the chaumber.</poem>\n{{right|''William of Palerne'' (E. E. T. S.), l. 3672.}}}}\n{{smaller block|<poem>Two or three of his messages ''yeden''\nFor Pandarus. {{right|''Chaucer'', Troilus, ii. 936.}}</poem>}}\n{{smaller block|<poem>To mete hir ''ȝode'' mani baroun,\nwith grete and faire processioun.</poem>}}",
+   "c2s3": "{{smaller block|{{right|''Holy Rood'' (E. E. T. S.), p. 115.}}\n\n<poem>His army dry-foot through them ''yod.''</poem>\n{{right|''Spenser'', F. Q., I. x. 53.}}\n\n<poem>One while this little boy he ''yode'',\nAnother while he ran.</poem>\n{{right|''Childe Maurice'' (Child’s Ballads, II. 314).}}\n\n<poem>Along the bankes of many silver streames\nThou with him ''yodest.''</poem>\n{{right|''L. Bryskett'', Pastorall Aeglogue.}}\n\n<poem>In other pace than forth he ''yode'',\nReturn’d Lord Marmion.</poem>\n{{right|''Scott'', Marmion, iii. 31.}}}}\n\n¶'''yede<sup>2</sup>†''', ''v. i.'' [Also ''yead''; a false pres. tense and inf. formed from the pret. ''yede, yode'': see ''yede''<sup>1</sup>.] To go; proceed. [Rare and erroneous.]\n\n{{smaller block|<poem>Then badd the knight this lady ''yede'' aloof,\nAnd to an hill herselfe withdraw asyde.</poem>\n{{right|''Spenser'', F. Q., I. xi. 5.}}\n\nYears ''yead'' away, and faces fair deflower. {{right|''Drant.''}}}}\n\n'''yeder†''', ''a.'' [ME. ''ȝedir''; cf. AS. ''ædre, edre'', quickly.] Quick. ''Wars of Alexander'', l. 5042.\n\n'''yederly†''', ''adv.'' [ME. ''ȝederly, ȝederli''; < ''yeder'' + ''-ly''<sup>2</sup>.] Quickly; at once.\n\n{{smaller block|<poem>For I ȝelde me ''ȝederly'', & ȝeȝe after grace,\n& that is the best, be my dome, for me by-houeȝ nede.</poem>\n{{right|''Sir Gawayne and the Green Knight'' (E. E. T. S.), l. 1215.}}}}\n\n'''yeel''' (yēl), ''n.'' A dialectal form of ''eel.''\n\n'''yeeld†''', ''v.'' A Middle English spelling of ''yield.''\n\n'''yeep†''', ''a.'' Same as ''yep.''\n\n'''yeffell†''', ''adv.'' An obsolete dialectal form of ''evil.''",
+   "c3s1": "{{smaller block|<poem>“Yet, Pottyr, grete chepe!” creyed Robyn,\n“Y loffe ''yeffell'' thes to stonde.”</poem>\n{{right|''Robin Hood and the Potter'' (Child’s Ballads, V. 24).}}}}\n\n'''yeft†''', ''n.'' A Middle English form of ''gift''.\n{{smaller block|<poem>Thanne to the Sowdon furth he went anon,\nOf whom he hadde his thank right specially,\nAnd grete ''yeftys'' as he was wele worthy.</poem>\n{{right|''Generydes'' (E. E. T. S.), l. 3004.}}}}\n\n'''yeld<sup>1</sup>''' (yeld), ''a.'' [Also ''yeald'', ''yald'', ''yell''; var. of ''geld''<sup>1</sup>.] Barren; not giving milk: same as ''geld''<sup>1</sup>, 2. [Scotch.]\n{{smaller block|<poem>Thence country wives, wi’ toil and pain,\nMay plunge and plunge the kirn in vain; . . .\nAnd dawtit [petted] twal-pint hawkie [cow]’s gane\nAs ''yell'' ’s the bill [bull].</poem>\n{{right|''Burns'', Address to the De’il.}}\nA wild farm in Northumberland, well stocked with milk-cows, ''yeald'' beasts, and sheep.\n{{right|''Scott'', Heart of Mid-Lothian, xxxix.}}\nFew owners of deer forests will adopt the author’s suggestion of themselves beginning to shoot the ''yeld'' hinds on the 15th of October, instead of leaving it to their keepers.\n{{right|''Athenæum'', No. 3079, p. 560.}}}}\n\n'''yeld<sup>2</sup>†''', ''n.'' A Middle English form of ''gild''<sup>2</sup>.\n{{smaller block|Thys statute is made by the comyne assent of all the bretherne and sisterne of alhallowe ''yelde''.\n{{right|''English Gilds'' (E. E. T. S.), p. 281.}}\nAt Worcester as late as 1467 we find the citizens in their “''yeld'' merchant” making for the craft guilds regulations which imply that they had full authority over them.\n{{right|''Stubbs'', Const. Hist., § 485.}}}}\n\n'''yelde†''', ''v.'' A Middle English form of ''yield''.\n\n'''yeldhalle†''', ''n.'' A Middle English form of ''gildhall''.\n{{smaller block|<poem>To sitten in a ''yeldhalle'' on a deys.</poem>\n{{right|''Chaucer'', Gen. Prol. to C. T., l. 370.}}}}",
+   "c3s2": "¶\n'''yeldring''' (yel′dring), ''n.'' [Also ''yeldrin, yoldring, yoldrin, yorling'', etc., in numerous variant forms based on ''yellow''.] Same as ''yowley''. [Scotch.]\n\n'''yeldrock''' (yel′dro̤k), ''n.'' Same as ''yowley''. [Prov. Eng.]\n\n'''yelk''' (yelk), ''n.'' A variant of ''yolk''.\n\n'''yell'''<sup>1</sup> (yel), ''v.'' [< ME. ''yellen, ȝellen, ȝullen, ȝollen'', < AS. ''gellan, giellan, gyllan'', cry out, yell, resound, = D. ''gillen'', shriek, scream, = G. ''gellen'', resound, = Icel. ''gella'', also ''gjalla'' = Sw. ''gälla'' = Dan. ''gjælle, gjalde'', resound, ring; prob. akin to AS. ''galan'', sing: see ''gale''<sup>1</sup>. Cf. ''yawl''<sup>1</sup>, ''yowl''.] '''I.''' ''intrans.'' To cry out with a sharp, loud noise; shriek; cry or scream as with agony, horror, or ferocity.\n{{smaller block|Thay ''yelleden'' as feendes doon in helle.\n{{right|''Chaucer'', Nun’s Priest’s Tale, l. 569.}}\nTho com the deuel ''ȝollynge'' uorth, [and] loude he gan grede<br>Alas nou is my myȝte ido euermo he sede.\n{{right|''Holy Rood'' (E. E. T. S.), p. 44.}}\nThe night raven that still deadly ''yells''. {{right|''Spenser''.}}\nThe dogs did ''yell''. {{right|''Shak.'', L. L. L., iv. 2. 60.}}\n<poem>The throng’d arena shakes with shouts for more;\n''Yells'' the mad crowd o’er entrails freshly torn.</poem>\n{{right|''Byron'', Childe Harold, i. 68.}}\n<poem>All the men and women in the hall\nRose, when they saw the dead man rise, and fled\n''Yelling'' as from a spectre.</poem>\n{{right|''Tennyson'', Geraint.}}}}\n'''II.''' ''trans.'' To utter with a yell.\n{{smaller block|<poem>As if it felt with Scotland, and ''yell’d'' out\nLike syllable of dolour.</poem>\n{{right|''Shak.'', Macbeth, iv. 3. 7.}}\nSome boy, galloping for life upon the road, ''yells'' to him the sudden news, and is gone.\n{{right|''W. M. Baker'', New Timothy, p. 258.}}}}",
+   "c3s3": "{{smaller block|Again the Apaches were summoned to surrender, . . . and again they ''yelled'' their defiant refusal.\n{{right|''The Century'', XLI. 659.}}}}\n\n'''yell<sup>1</sup>''' (yel), ''n.'' [< ''yell<sup>1</sup>'', ''v.''] '''1.''' A sharp, loud outcry; a scream or cry suggestive of horror, distress, agony, or ferocity.\n{{smaller block|<poem>''Rod.'' I’ll call aloud.\n''Iago.'' Do, with like timorous accent and dire ''yell''\nAs when, by night and negligence, the fire\nIs spied in populous cities. ''Shak.'', Othello, i. 1. 75.</poem>\nA loud halloo of vindictive triumph, above which, however, . . . the ''yell'' of mortal agony was distinctly heard.\n{{right|''Scott'', Rob Roy, xxxi.}}\n<poem>A ''yell'' the dead might wake to hear\nSwell’d on the night air, far and clear,—\nThen smote the Indian tomahawk\nOn crashing door and shattering lock.</poem>\n{{right|''Whittier'', Pentucket.}}}}\nSpecifically—'''2.''' A call or cry peculiar to a special body of persons: as, a class ''yell;'' the ''yell'' of Columbia ’91.\n{{smaller block|The young men, in brilliant tennis-blazers and negligée costumes, are giving the mountain calls or ''yells''—cries adopted according to the well-known college custom, and uttered with more energy than music.\n{{right|''St. Nicholas'', XVII. 837.}}}}\n\n'''yell<sup>2</sup>''' (yel), ''a.'' Same as ''yeld<sup>1</sup>''.\n\n'''yell<sup>3</sup>''', '''yell-house.''' Dialectal forms of ''ale'', ''alehouse''.\n\n'''yelling''' (yel′ing), ''n.'' [< ME. ''ȝellynge;'' verbal n. of ''yell<sup>1</sup>'', ''v.''] The act or the noise of one who or that which yells; a yell, or yells collectively."
+  },
+  "figure_files": {
+   "c1f1": "century v08 p0818 c1f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     453,
+     899,
+     870,
+     1579
+    ],
+    "caption": [
+     439,
+     1582,
+     870,
+     1710
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     453,
+     888,
+     873,
+     1558
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 2,
+    "input_tokens": 8,
+    "output_tokens": 88,
+    "cache_creation_input_tokens": 4414,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 10,
+    "input_tokens": 9824,
+    "output_tokens": 10335,
+    "cache_creation_input_tokens": 3966,
+    "cache_read_input_tokens": 35694
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|yearning|7014|yelling}}</noinclude>{{nop}}{{smaller block|The reveries of youth, in which so much energy is wasted, are the ''yearnings'' of a Spirit made for what it has not found but must forever seek as an Ideal.\n{{right|''Channing'', Perfect Life, p. 176.}}}}\n\n'''yearning<sup>2</sup>''' (yėr′ning), ''n.''   [Var. of ''earning''<sup>2</sup>.]   Rennet. [Scotch.]\n\n'''yearningly''' (yėr′ning-li), ''adv.'' In a yearning manner; with yearning.\n\n'''yeast''' (yēst), ''n.''   [Formerly also ''yest''; also dial. ''east''; < ME. ''ȝeest'', < AS. ''gist'', ''gyst'' = D. ''gest'', ''gist'' = MHG. ''gest'', ''jest'', G. ''gäscht'', ''gischt'' = Icel. ''jast'', ''jastr'' = Sw. ''jäst'' (cf. Dan. ''gjær''), yeast; from a verb seen in OHG. ''jesan'', MHG. ''jesen'', ''gesen'', ''gern'', G. ''gähren'', ferment, = Sw. ''jäsa'', ferment, froth; akin to Gr. ζέειν, boil, seethe, (> ζεστός, boiled, boiling); Skt. √ ''yas'', boil, froth.]   '''1.''' A yellowish substance, having an acid reaction, produced during the alcoholic fermentation of saccharine fluids, rising partly to the surface in the form of a frothy, flocculent, viscid matter (''top'' or ''surface yeast''), and partly falling to the bottom (''bottom'' or ''sediment yeast''). {{smaller|Yeast consists of aggregations of minute cells, each cell constituting a distinct plant, ''Saccharomyces cerevisiæ''. The former notion that the yeast-plant was only the immature condition of a mold has been effectually exploded by Brefeld’s elaborate researches. Fermentation takes place sooner and goes on more rapidly when yeast is added than when the fluid is merely exposed to the atmosphere, beer-yeast possessing the property of setting up fermentation in the highest degree. Surface yeast is formed at from 65° to 77° F., and its action is rapid and irregular, whereas sediment yeast is formed at from 32° to 45°, and its action is slow and quiet. Sediment yeast is reproduced by spores, and not by buds. In their chemical relations the two do not appear to differ. Yeast varies in quality according to the nature of the liquid in which it is generated, and yeast-merchants distinguish several varieties, which are employed for different purposes according to their energy and activity. Yeast is employed to induce fermentation in the manufacture of beer and ale, and of distilled spirits, and is also the agent in producing the panary fermentation, whereby bread is rendered light, porous, and spongy. Beer-yeast is employed medicinally as a stimulant in low fevers, and is of great service in cases where, from inflammatory symptoms, wine is inadmissible. See ''barm''<sup>2</sup>, ''Saccharomyces'', ''fermentation''.}}\n{{smaller block|She consented that the village maiden should manufacture ''yeast'', both liquid and in cakes.\n{{right|''Hawthorne'', Seven Gables, v.}}}}\n\n[[File:century v08 p0818 c1f1.png|center|184px]]\n{{c|{{smaller|Yeast.<br>''a'', yeast-plant (''Saccharomyces cerevisiæ''), showing increase by budding; ''b'', a cell, showing the formation of the spores; ''c'', a cell, containing four mature spores; ''d'', the spores; ''e'', germinating spores.}}}}\n{{smaller|The yeast-plant is a saprophytic fungus of uncertain systematic position, being regarded by some as a degenerate ascomycete, by others as representing a distinct class. It exists under two conditions. In the first it is in the form of transparent round or oval cells, averaging .08 mm. (.003 inch) in diameter, which increase in countless numbers by budding—that is, by the formation of a small daughter-cell by the side of the mother-cell, from which it sooner or later separates. The other form consists of larger cells, which, by a division of their protoplasm, form four new cells within the parent-cell. These endogenously formed cells have been likened to the ascospores of the ''Ascomycetes'', with which, as stated above, they are frequently classed.}}\n\n'''2.''' Spume or foam of water; froth.\n{{smaller block|Now the ship boring the moon with her mainmast, and anon swallowed with ''yest'' and froth.\n{{right|''Shak.'', W. T., iii. 3. 94.}}}}\n{{smaller block|<poem>They melt into thy ''yeast'' of waves, which mar\nAlike the Armada’s pride, or spoils of Trafalgar.</poem>\n{{right|''Byron'', Childe Harold, iv. 181.}}}}\n\n{{smaller|'''Artificial yeast''', a dough of flour and a small quantity of common yeast, made into small cakes and dried. Kept free from moisture, it long retains its fermentative property.—'''Beer-yeast''', the common yeast, ''Saccharomyces cerevisiæ'', which is added to the wort of beer for the purpose of exciting fermentation. See def. 1.—'''Bottom''' or '''sediment yeast.''' See def. 1.—'''German yeast,''' common yeast collected, drained, and pressed till nearly dry. It can be so kept for several months, and is much used by bakers.—'''Patent yeast,''' yeast collected from a wort of malt and hop, and treated similarly to German yeast.—'''Press-yeast,''' yeast freed from water and other impurities, mixed with about 15 per cent. of starch, and pressed in bags as a preparation for storing.—'''Surface''' or '''top yeast.''' See def. 1.}}\n\n'''yeast''' (yēst), ''v. i.''   [< ''yeast'', ''n.'']   To ferment.\n{{smaller block|<poem>''Yeasting'' youth\nWill clear itself and crystal turn again.</poem>\n{{right|''Keats'', Otho the Great, iii. 2. (''Davies.'')}}}}\n\n'''yeast-beer''' (yēst′bēr), ''n.'' See ''beer''<sup>1</sup>.\n\n'''yeast-bitten''' (yēst′bit″n), ''a.'' In ''brewing'', too much affected by yeast.\n{{smaller block|When the progress of the attenuation becomes so slack as not to exceed half a pound in the day, it is prudent to cleanse, otherwise the top-barm might re-enter the body of the beer, and it would become ''yeast-bitten.''\n{{right|''Ure'', Dict., I. 317.}}}}\n\n'''yeast-cell''' (yēst′sel), ''n.'' The single cell which constitutes a yeast-plant, ''Saccharomyces cerevisiæ.''\n\n'''yeast-fungus''' (yēst′fung″gus), ''n.'' See ''fungus.''\n\n'''yeastiness''' (yēs′ti-nes), ''n.'' The state or property of being yeasty.\n\n'''yeast-plant''' (yēst′plant), ''n.'' The ''Saccharomyces cerevisiæ'', a minute plant producing alcoholic fermentation in saccharine liquids; also, any one of several other species of the genus ''Saccharomyces.'' See ''yeast'', 1 (with cut).\n\n'''yeast-powder''' (yēst′pou″dėr), ''n.'' A substitute for yeast used for leavening bread, consisting of a preparation of soda, phosphates, and other substances, in the form of a powder; a baking-powder.\n\n'''yeasty''' (yēs′ti), ''a.''   [Formerly also ''yesty''; < ''yeast'' + ''-y''<sup>1</sup>.]   '''1.''' Consisting of or resembling yeast.\n{{smaller block|We have then [in June] another dun, called the Barm-Fly from its ''yeasty'' color.\n{{right|''Cotton'', in Walton’s Angler, ii. 261.}}}}\n'''2.''' Foamy; frothy; spumy.\n{{smaller block|<poem>Though the ''yesty'' waves\nConfound and swallow navigation up.</poem>\n{{right|''Shak.'', Macbeth, iv. 1. 53.}}}}\n{{smaller block|<poem>The sands and ''yeasty'' surges mix\nIn caves about the dreary bay.</poem>}}\n{{smaller block|{{right|''Tennyson'', Sailor Boy.}}}}\n'''3.''' Light; unsubstantial; trifling; worthless.\n{{smaller block|Thus has he — and many more of the same breed that I know the drossy age dotes on — only got the tune of the time and outward habit of encounter: a kind of ''yesty'' collection, which carries them through and through the most fond and winnowed opinions.\n{{right|''Shak.'', Hamlet, v. 2. 199.}}}}\n{{smaller block|<poem>Knowledge with him is idle, if it strain\nAbove the compass of his ''yesty'' brain.</poem>\n{{right|''Drayton'', Moon-Calf.}}}}\n\n'''yeat†''', ''n.'' Same as ''yate'', ''gate''<sup>1</sup>.\n{{smaller block|<poem>And, or the porter was at the ''yeat'',\nThe boy was in the ha’.</poem>\n{{right|''Lady Maisry'' (Child’s Ballads, II. 84).}}}}\n\n'''yedd†''', ''v. i.''   [ME. ''ȝedden'', ''ȝeddien'', < AS. ''geddian'', ''gyddian'', ''giddian'', speak, sing, < ''gedd'', ''gidd'', a song.]   To speak; sing. ''Piers Plowman'' (A), i. 138.\n\n'''yedding†''', ''n.''   [ME., also ''yeddynge'', < AS. ''geddyng'', ''giddung''; verbal n. of ''geddian'', sing: see ''yedd'', ''v.'']   A popular tale or romance, or a song embodying a popular tale or romance.\n{{smaller block|Of ''yeddinges'' he bar utterly the prys.\n{{right|''Chaucer'', Gen. Prol. to C. T., l. 237.}}}}\n\n'''yede<sup>1</sup>†''', '''yode†'''.   [ME. ''yede'', ''ȝede'', ''ȝode'', < AS. ''eode'' (= Goth. ''iddja''), pret. of ''gān'', go: see ''go''.]   Obsolete irregular preterits of ''go''.\n{{smaller block|<poem>Sethen ''ȝede'' to sitte same to solas & to pleie\nAt a wid windowe that was in the chaumber.</poem>\n{{right|''William of Palerne'' (E. E. T. S.), l. 3672.}}}}\n{{smaller block|<poem>Two or three of his messages ''yeden''\nFor Pandarus. {{right|''Chaucer'', Troilus, ii. 936.}}</poem>}}\n{{smaller block|<poem>To mete hir ''ȝode'' mani baroun,\nwith grete and faire processioun.</poem> {{right|''Holy Rood'' (E. E. T. S.), p. 115.}}}}\n{{smaller block|<poem>His army dry-foot through them ''yod.''</poem>\n{{right|''Spenser'', F. Q., I. x. 53.}}}}\n{{smaller block|<poem>One while this little boy he ''yode'',\nAnother while he ran.</poem>\n{{right|''Childe Maurice'' (Child’s Ballads, II. 314).}}}}\n{{smaller block|<poem>Along the bankes of many silver streames\nThou with him ''yodest.''</poem>\n{{right|''L. Bryskett'', Pastorall Aeglogue.}}}}\n{{smaller block|<poem>In other pace than forth he ''yode'',\nReturn’d Lord Marmion.</poem>\n{{right|''Scott'', Marmion, iii. 31.}}}}\n\n¶'''yede<sup>2</sup>†''', ''v. i.''   [Also ''yead''; a false pres. tense and inf. formed from the pret. ''yede, yode'': see ''yede''<sup>1</sup>.]   To go; proceed. [Rare and erroneous.]\n\n{{smaller block|<poem>Then badd the knight this lady ''yede'' aloof,\nAnd to an hill herselfe withdraw asyde.</poem>\n{{right|''Spenser'', F. Q., I. xi. 5.}}}}\n{{smaller block|Years ''yead'' away, and faces fair deflower. {{right|''Drant.''}}}}\n\n'''yeder†''', ''a.''   [ME. ''ȝedir''; cf. AS. ''ædre, edre'', quickly.]   Quick.   ''Wars of Alexander'', l. 5042.\n\n'''yederly†''', ''adv.''   [ME. ''ȝederly, ȝederli''; < ''yeder'' + ''-ly''<sup>2</sup>.]   Quickly; at once.\n\n<poem>For I ȝelde me ''ȝederly'', & ȝeȝe after grace,\n& that is the best, be my dome, for me by-houeȝ nede.</poem>\n{{smaller block|{{right|''Sir Gawayne and the Green Knight'' (E. E. T. S.), l. 1215.}}}}\n\n'''yeel''' (yēl), ''n.'' A dialectal form of ''eel.''\n\n'''yeeld†''', ''v.'' A Middle English spelling of ''yield.''\n\n'''yeep†''', ''a.'' Same as ''yep.''\n\n'''yeffell†''', ''adv.'' An obsolete dialectal form of ''evil.''\n<poem>“Yet, Pottyr, grete chepe!” creyed Robyn,\n“Y loffe ''yeffell'' thes to stonde.”</poem>\n{{smaller block|{{right|''Robin Hood and the Potter'' (Child’s Ballads, V. 24).}}}}\n\n'''yeft†''', ''n.'' A Middle English form of ''gift''.\n{{smaller block|<poem>Thanne to the Sowdon furth he went anon,\nOf whom he hadde his thank right specially,\nAnd grete ''yeftys'' as he was wele worthy.</poem>\n{{right|''Generydes'' (E. E. T. S.), l. 3004.}}}}\n\n'''yeld<sup>1</sup>''' (yeld), ''a.''   [Also ''yeald'', ''yald'', ''yell''; var. of ''geld''<sup>1</sup>.]   Barren; not giving milk: same as ''geld''<sup>1</sup>, 2. [Scotch.]\n{{smaller block|<poem>Thence country wives, wi’ toil and pain,\nMay plunge and plunge the kirn in vain; . . .\nAnd dawtit [petted] twal-pint hawkie [cow]’s gane\nAs ''yell'' ’s the bill [bull].</poem>\n{{right|''Burns'', Address to the De’il.}}}}\n{{smaller block|A wild farm in Northumberland, well stocked with milk-cows, ''yeald'' beasts, and sheep.\n{{right|''Scott'', Heart of Mid-Lothian, xxxix.}}}}\n{{smaller block|Few owners of deer forests will adopt the author’s suggestion of themselves beginning to shoot the ''yeld'' hinds on the 15th of October, instead of leaving it to their keepers.\n{{right|''Athenæum'', No. 3079, p. 560.}}}}\n\n'''yeld<sup>2</sup>†''', ''n.'' A Middle English form of ''gild''<sup>2</sup>.\n{{smaller block|Thys statute is made by the comyne assent of all the bretherne and sisterne of alhallowe ''yelde''.\n{{right|''English Gilds'' (E. E. T. S.), p. 281.}}}}\n{{smaller block|At Worcester as late as 1467 we find the citizens in their “''yeld'' merchant” making for the craft guilds regulations which imply that they had full authority over them.\n{{right|''Stubbs'', Const. Hist., § 485.}}}}\n\n'''yelde†''', ''v.'' A Middle English form of ''yield''.\n\n'''yeldhalle†''', ''n.'' A Middle English form of ''gildhall''.\n{{smaller block|<poem>To sitten in a ''yeldhalle'' on a deys.</poem>\n{{right|''Chaucer'', Gen. Prol. to C. T., l. 370.}}}}\n\n'''yeldring''' (yel′dring), ''n.''   [Also ''yeldrin, yoldring, yoldrin, yorling'', etc., in numerous variant forms based on ''yellow''.]   Same as ''yowley''. [Scotch.]\n\n'''yeldrock''' (yel′dro̤k), ''n.'' Same as ''yowley''.   [Prov. Eng.]\n\n'''yelk''' (yelk), ''n.'' A variant of ''yolk''.\n\n'''yell'''<sup>1</sup> (yel), ''v.''   [< ME. ''yellen, ȝellen, ȝullen, ȝollen'', < AS. ''gellan, giellan, gyllan'', cry out, yell, resound, = D. ''gillen'', shriek, scream, = G. ''gellen'', resound, = Icel. ''gella'', also ''gjalla'' = Sw. ''gälla'' = Dan. ''gjælle, gjalde'', resound, ring; prob. akin to AS. ''galan'', sing: see ''gale''<sup>1</sup>. Cf. ''yawl''<sup>1</sup>, ''yowl''.]   '''I.''' ''intrans.'' To cry out with a sharp, loud noise; shriek; cry or scream as with agony, horror, or ferocity.\n{{smaller block|Thay ''yelleden'' as feendes doon in helle.\n{{right|''Chaucer'', Nun’s Priest’s Tale, l. 569.}}}}\n{{smaller block|Tho com the deuel ''ȝollynge'' uorth, [and] loude he gan grede<br>Alas nou is my myȝte ido euermo he sede.\n{{right|''Holy Rood'' (E. E. T. S.), p. 44.}}}}\n{{smaller block|The night raven that still deadly ''yells''. {{right|''Spenser''.}}}}\n{{smaller block|The dogs did ''yell''. {{right|''Shak.'', L. L. L., iv. 2. 60.}}}}\n{{smaller block|<poem>The throng’d arena shakes with shouts for more;\n''Yells'' the mad crowd o’er entrails freshly torn.</poem>\n{{right|''Byron'', Childe Harold, i. 68.}}}}\n{{smaller block|<poem>All the men and women in the hall\nRose, when they saw the dead man rise, and fled\n''Yelling'' as from a spectre.</poem>\n{{right|''Tennyson'', Geraint.}}}}\n'''II.''' ''trans.'' To utter with a yell.\n{{smaller block|<poem>As if it felt with Scotland, and ''yell’d'' out\nLike syllable of dolour.</poem>\n{{right|''Shak.'', Macbeth, iv. 3. 7.}}}}\n{{smaller block|Some boy, galloping for life upon the road, ''yells'' to him the sudden news, and is gone.\n{{right|''W. M. Baker'', New Timothy, p. 258.}}}}\n{{smaller block|Again the Apaches were summoned to surrender, . . . and again they ''yelled'' their defiant refusal.\n{{right|''The Century'', XLI. 659.}}}}\n\n'''yell<sup>1</sup>''' (yel), ''n.''   [< ''yell<sup>1</sup>'', ''v.'']   '''1.''' A sharp, loud outcry; a scream or cry suggestive of horror, distress, agony, or ferocity.\n{{smaller block|<poem>''Rod.'' I’ll call aloud.\n''Iago.'' Do, with like timorous accent and dire ''yell''\nAs when, by night and negligence, the fire\nIs spied in populous cities. ''Shak.'', Othello, i. 1. 75.</poem>\nA loud halloo of vindictive triumph, above which, however, . . . the ''yell'' of mortal agony was distinctly heard.\n{{right|''Scott'', Rob Roy, xxxi.}}}}\n{{smaller block|<poem>A ''yell'' the dead might wake to hear\nSwell’d on the night air, far and clear,—\nThen smote the Indian tomahawk\nOn crashing door and shattering lock.</poem>\n{{right|''Whittier'', Pentucket.}}}}\nSpecifically—'''2.''' A call or cry peculiar to a special body of persons: as, a class ''yell;'' the ''yell'' of Columbia ’91.\n{{smaller block|The young men, in brilliant tennis-blazers and negligée costumes, are giving the mountain calls or ''yells''—cries adopted according to the well-known college custom, and uttered with more energy than music.\n{{right|''St. Nicholas'', XVII. 837.}}}}\n\n'''yell<sup>2</sup>''' (yel), ''a.'' Same as ''yeld<sup>1</sup>''.\n\n'''yell<sup>3</sup>''', '''yell-house.''' Dialectal forms of ''ale'', ''alehouse''.\n\n'''yelling''' (yel′ing), ''n.''   [< ME. ''ȝellynge;'' verbal n. of ''yell<sup>1</sup>'', ''v.'']   The act or the noise of one who or that which yells; a yell, or yells collectively.<noinclude><references/></noinclude>"
+}

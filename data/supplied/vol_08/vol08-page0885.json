@@ -1,0 +1,143 @@
+{
+ "volume": 8,
+ "page_number": 885,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n884.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n884.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-10",
+  "fetched_by": "alaemmle",
+  "angle": 0.05,
+  "column_width": 1446,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     0,
+     0,
+     2442,
+     78
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     78,
+     515,
+     1696
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     0,
+     1696,
+     515,
+     3315
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     515,
+     78,
+     1904,
+     1696
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     515,
+     1696,
+     1904,
+     3315
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1904,
+     78,
+     2442,
+     1696
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1904,
+     1696,
+     2442,
+     3315
+    ]
+   }
+  ],
+  "readings": {
+   "head": "",
+   "c1s1": "",
+   "c1s2": "",
+   "c2s1": "UC SOUTH\n\nD C\n\n{{c|University of California<br>SOUTHERN REGIONAL LIBRARY FACILITY<br>405 Hilgard Avenue, Los Angeles, CA 90024-1388<br>Return this material to the library<br>from which it was borrowed.}}",
+   "c2s2": "{{c|THE LIBRARY<br>UNIVERSITY OF CALIFORNIA<br>Santa Barbara}}\n\n{{c|STACK COLLECTION}}\n\n{{c|For Reference}}\n\n{{c|Not to be taken from this room}}",
+   "c3s1": "",
+   "c3s2": ""
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {
+   "head": "empty",
+   "c1s1": "empty",
+   "c1s2": "empty",
+   "c3s1": "empty",
+   "c3s2": "empty"
+  },
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 12,
+    "input_tokens": 15686,
+    "output_tokens": 1038,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"2\" user=\"transcriber\" /></noinclude>UC SOUTH\n\nD C\n\n{{c|University of California<br>SOUTHERN REGIONAL LIBRARY FACILITY<br>405 Hilgard Avenue, Los Angeles, CA 90024-1388<br>Return this material to the library<br>from which it was borrowed. THE LIBRARY<br>UNIVERSITY OF CALIFORNIA<br>Santa Barbara}}\n\n{{c|STACK COLLECTION}}\n\n{{c|For Reference}}\n\n{{c|Not to be taken from this room}}<noinclude><references/></noinclude>"
+}

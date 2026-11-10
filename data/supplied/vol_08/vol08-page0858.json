@@ -1,0 +1,168 @@
+{
+ "volume": 8,
+ "page_number": 858,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary08whit/page/n857.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary08whit/page/n857.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-10",
+  "fetched_by": "alaemmle",
+  "angle": 0.0,
+  "column_width": 620,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     150,
+     0,
+     2442,
+     175
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     150,
+     175,
+     813,
+     1467
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     150,
+     1467,
+     813,
+     2390
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     150,
+     2390,
+     813,
+     3315
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     175,
+     1941,
+     1244
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     1244,
+     1941,
+     2332
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     2332,
+     1941,
+     3315
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1941,
+     175,
+     2442,
+     1206
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1941,
+     1206,
+     2442,
+     2299
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1941,
+     2299,
+     2442,
+     3315
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader||AMENDED SPELLINGS|}}",
+   "c1s1": "<poem>\n''stuttered: stutterd''\nsubjective: subjectiv\nsubjunctive: subjunctiv\nsubmissive: submissiv\nsubtile: subtil\nsubtle: sutl\nsubtly: sutly\nsubversive: subversiv\nsuccessive: successiv\nsuccor, succour: succor\n''succored, succoured: succord''\nsuccumb: succum\n''succumbed: succumd''\n''sucked: suckt''\nsuckle: suckl\n''suckled: suckld''\n''suffered: sufferd''\n''suffixed: suffixt''\nsuffuse: suffuze\nsuggestive: suggestiv\nsuitable: suitabl\nsulphate: sulfate\nsulphur: sulfur\nsulphurate: sulfurate\nsulphuret: sulfuret\nsulphuric: sulfuric\nsulphurous: sulfurous\n''summed: sumd''\n''sundered: sunderd''\nsuperlative: superlativ\nsupple: supl\n''suppressed: supprest''\nsuppurative: suppurativ\nsurcingle: surcingl\n''surpassed: surpast''\nsurprise: surprize\n''surveyed: surveyd''\nswaddle: swaddl\n''swagged: swagd''\n</poem>\n<poem>\n''tasked: taskt''\n''tasseled: tasseld''\n''tattered: tatterd''\ntattle: tatl\n''tattled: tatld''\n''taxed: taxt''\ntaxable: taxabl\nteachable: teachabl\n''teemed: teemd''\ntelegraph: telegraf\n''telegraphed: telegraft''\ntelegraphic: telegrafic\ntelegraphy: telegrafy\ntelephone: telefone\ntelephonic: telefonic\ntell: tel\n''tempered: temperd''\ntemple: templ\ntenable: tenabl\n''tendered: tenderd''\n''termed: termd''\nterrible: terribl\n''thanked: thankt''\n''thawed: thawd''\ntheater, theatre: theater\n''themselves: themselvs''\nthence: thense\n''thickened: thickend''\nthieve: thiev\n''thieved: thievd''\nthimble: thimbl\n''thinned: thind''\nthistle: thistl\nthorough: thuro\nthough, tho’: tho\n''thrashed: thrasht''\nthread: thred\nthreat: thret\nthreaten: threten\n</poem>",
+   "c1s2": "<poem>\n''swagged: swagd''\n''swallowed: swallowd''\n''swamped: swampt''\n''swayed: swayd''\nsweat: swet\n''sweetened: sweetend''\nswell: swel\n''swelled: sweld''\n''sweltered: swelterd''\nswerve: swerv\n''swerved: swervd''\n''swollen, swoln: swoln''\n''swooned: swoond''\nsylph: sylf\nsynagogue: synagog\n\ntabernacle: tabernacl\n''tacked: tackt''\ntackle: tackl\n''tackled: tackld''\ntactile: tactil\n''tagged: tagd''\n''talked: talkt''\ntalkative: talkativ\n''tanned: tand''\ntangible: tangibl\n''tapped: tapt''\n''tapered: taperd''\n</poem>\n<poem>\nthreaten: threten\n''threatened: thretend''\nthrill: thril\n''thrilled: thrild''\n''throbbed: throbd''\n''thronged: throngd''\nthrottle: throtl\n''throttled: throtld''\nthrough, thro’: thru\nthroughout: thruout\n''thrummed: thrumd''\nthumb: thum\n''thumbed: thumd''\n''thumped: thumpt''\n''thundered: thunderd''\n''thwacked: thwackt''\n''ticked: tickt''\ntickle: tickl\n''tickled: tickld''\ntierce: tierse\ntill: til\ntillable: tillabl\n''tilled: tild''\n''tinned: tind''\ntingle: tingl\n''tingled: tingld''\n''tinkered: tinkerd''\ntinkle: tinkl\n</poem>",
+   "c1s3": "<poem>''tarred: tard'' ''tinkled: tinkld''</poem>",
+   "c2s1": "<poem>\ntipple: tipl\n''tippled: tipld''\ntipstaff: tipstaf\ntiresome: tiresum\ntisic: ''see'' phthisic\n''tittered: titterd''\ntittle: titl\n''toiled: toild''\ntoilsome: toilsum\ntolerable: tolerabl\n''tolled: tolld, told''\nton: tun\ntongue: tung\ntongued: tungd\n''toothed: tootht''\ntoothache: toothake\ntopographer: topografer\ntopography: topografy\ntopple: topl\n''toppled: topld''\n''tossed, tost: tost''\n''tottered: totterd''\ntouch: tuch\n''touched: tucht''\ntouchy: tuchy\ntough: tuf\ntoughen: tufen\n''toughened: tufend''\n''towed: towd''\n''toyed: toyd''\ntraceable: traceabl\n''tracked: trackt''\n</poem>\n<poem>\n''trickled: trickld''\ntriglyph: triglyf\ntrill: tril\n''trilled: trild''\n''trimmed: trimd''\n''tripped: tript''\ntriple: tripl\n''tripled: tripld''\ntriumph: triumf\n''triumphed: triumft''\ntriumphal: triumfal\ntriumphant: triumfant\n''trodden: trodn''\n''trooped: troopt''\ntrouble: trubl\n''troubled: trubld''\ntroublesome: trublsum\ntroublous: trublous\ntrough: trof\n''trucked: truckt''\ntruckle: truckl\n''truckled: truckld''\n''trumped: trumpt''\n''tucked: tuckt''\n''tugged: tugd''\ntumble: tumbl\n''tumbled: tumbld''\n''turned: turnd''\nturtle: turtl\ntwaddle: twaddl\n''twanged: twangd''\n''tweaked: tweakt''\n</poem>\n<poem>\n''veined: veind''\n''veneered: veneerd''\nventricle: ventricl\nveritable: veritabl\n''versed: verst''\nversicle: versicl\nvesicle: vesicl\n''viewed: viewd''\nvigor, vigour: vigor\nvindictive: vindictiv\nvineyard: vinyard\nvisible: visibl\nvocative: vocativ\nvolatile: volatil, -ile\n''vouched: voucht''\n\n''wafered: waferd''\n''wagged: wagd''\n''wagered: wagerd''\nwaggle: wagl\n''waggled: wagld''\n''wailed: waild''\nwaive: waiv\n''waived: waivd''\n''walked: walkt''\n''warred: ward''\nwarble: warbl\n''warbled: warbld''\n''warmed: warmd''\n''washed: washt''\nwatch: wach\n''watched: wacht''\n</poem>",
+   "c2s2": "<poem>\ntractable: tractabl\n''trafficked: traffickt''\n''trailed: traild''\n''trained: traind''\n''tramped: trampt''\ntrample: trampl\n''trampled: trampld''\ntrance: transe\ntranquillize, tranquillise: tranquilize\n''transferred: transferd''\n''transformed: transformd''\ntransfuse: transfuze\ntransmissive: transmissiv\n''trapped: trapt''\n''trapanned: trapand''\ntraveled, travelled: traveld\ntraveler, traveller: traveler\ntreacherous: trecherous\ntreachery: trechery\ntreacle: treacl\ntread: tred\ntreadle: tredl\ntreatise: treatis\ntreasure: trezure\ntreasurer: trezurer\ntreasury: trezury\ntreble: trebl\ntremble: trembl\n''trembled: trembld''\n''trenched: trencht''\n''trepanned: trepand''\ntwelve: twelv\ntwill: twil\n''twilled: twild''\ntwinkle: twinkl\n''twinkled: twinkld''\n''twirled: twirld''\ntwitch: twich\n''twitched: twicht''\n''twittered: twitterd''\ntypographer: typografer\ntypographical: typografical\ntypography: typografy\n\nun- (''negativ prefix''): see the simpl forms.\nuncle: uncl\nunwonted: unwunted\nuse, ''v.'': uze\nusual: uzual\nuterine: uterin, -ine\n\nvaccine: vaccin, -ine\nvaluable: valuabl\nvalve: valv\n''vamped: vampt''\n''vanished: vanisht''\n''vanquished: vanquisht''\nvapor, vapour: vapor\n''vapored, vapoured: vapord''\nvariable: variabl\nvegetable: vegetabl\n''watered: waterd''\n''waxed: waxt''\n''weakened: weakend''\nwealth: welth\nwealthy: welthy\n''weaned: weand''\nweapon: wepon\nweather: wether\n''weathered: wetherd''\nweave: weav\nwebbed: webd\n''weened: weend''\nwelcome: welcum\n''welcomed: welcumd''\nwell: wel\n''welled: weld''\nwere: wer\n''wheeled: wheeld''\nwheeze: wheez\n''wheezed: wheezd''\nwhence: whense\n''whimpered: whimperd''\n''whipped: whipt''\nwhir, whirr: whir\n''whirred: whird''\n''whirled: whirld''\n''whisked: whiskt''\n''whispered: whisperd''\nwhistle: whistl\n''whistled: whistld''\n''whizzed: whizd''\nwhole: hole\n</poem>",
+   "c2s3": "<poem>\n''trespassed: trespast''\ntrestle: trestl, tressel\n''tricked: trickt''\n</poem>\n<poem>\nvegetative: vegetativ\nvehicle: vehicl\nveil: veil\n</poem>\n<poem>\nwholesale: holesale\nwholesum: holesum\nwholly: holely\n</poem>\n{{c|8}}",
+   "c3s1": "<poem>\nwill: wil\n''willed: willd, wild''\nwillful, wilful: wilful\nwimble: wimbl\n''winged: wingd''\n''winked: winkt''\n''winnowed: winnowd''\n''wintered: winterd''\n''wished: wisht''\nwitch: wich\n''witched: wicht''\n''withered: witherd''\n''withholden: withholdn''\n''women: wimen''\n''won: wun''\nwonder: wunder\n''wondered: wunderd''\nwonderful: wunderful\nwondrous: wundrous\nwont: wunt\nwonted: wunted\n''worked: workt''\nworm: wurm\n''wormed: wurmd''\nworry: wurry\nworse: wurse\nworship: wurship\n''worshiped, worshipped: wurshipt''\nworst: wurst\nworth: wurth\n</poem>",
+   "c3s2": "<poem>\nworthless: wurthless\nworthy: wurthy\nwrangle: wrangl\n''wrangled: wrangld''\n''wrapped: wrapt''\n''wreaked: wreakt''\n''wrecked: wreckt''\n''wrenched: wrencht''\nwrestle: wrestl\n''wrestled: wrestld''\nwretch: wrech\nwretched: wreched\nwriggle: wrigl\n''wriggled: wrigld''\nwrinkle: wrinkl\n''wrinkled: wrinkld''\n''written: writn''\n\nxanthine: xanthin\nxylography: xylografy\n\n''yawned: yawnd''\n''yeaned: yeand''\nyearn: yern\n''yearned: yernd''\nyell: yel\n''yelled: yeld''\nyeoman: yoman\n''yerked: yerkt''\nyoung: yung\n\nzealot: zelot\n</poem>",
+   "c3s3": "<poem>\nzealous: zelous\nzephyr: zefyr\nzincography: zincografy\nzoography: zoografy\n</poem>"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 1,
+    "input_tokens": 4,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 2777,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "model": "claude-opus-5-5",
+    "batch": false,
+    "calls": 10,
+    "input_tokens": 10291,
+    "output_tokens": 6742,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader||AMENDED SPELLINGS|}}</noinclude><poem>\n''stuttered: stutterd''\nsubjective: subjectiv\nsubjunctive: subjunctiv\nsubmissive: submissiv\nsubtile: subtil\nsubtle: sutl\nsubtly: sutly\nsubversive: subversiv\nsuccessive: successiv\nsuccor, succour: succor\n''succored, succoured: succord''\nsuccumb: succum\n''succumbed: succumd''\n''sucked: suckt''\nsuckle: suckl\n''suckled: suckld''\n''suffered: sufferd''\n''suffixed: suffixt''\nsuffuse: suffuze\nsuggestive: suggestiv\nsuitable: suitabl\nsulphate: sulfate\nsulphur: sulfur\nsulphurate: sulfurate\nsulphuret: sulfuret\nsulphuric: sulfuric\nsulphurous: sulfurous\n''summed: sumd''\n''sundered: sunderd''\nsuperlative: superlativ\nsupple: supl\n''suppressed: supprest''\nsuppurative: suppurativ\nsurcingle: surcingl\n''surpassed: surpast''\nsurprise: surprize\n''surveyed: surveyd''\nswaddle: swaddl\n''swagged: swagd''\n</poem>\n<poem>\n''tasked: taskt''\n''tasseled: tasseld''\n''tattered: tatterd''\ntattle: tatl\n''tattled: tatld''\n''taxed: taxt''\ntaxable: taxabl\nteachable: teachabl\n''teemed: teemd''\ntelegraph: telegraf\n''telegraphed: telegraft''\ntelegraphic: telegrafic\ntelegraphy: telegrafy\ntelephone: telefone\ntelephonic: telefonic\ntell: tel\n''tempered: temperd''\ntemple: templ\ntenable: tenabl\n''tendered: tenderd''\n''termed: termd''\nterrible: terribl\n''thanked: thankt''\n''thawed: thawd''\ntheater, theatre: theater\n''themselves: themselvs''\nthence: thense\n''thickened: thickend''\nthieve: thiev\n''thieved: thievd''\nthimble: thimbl\n''thinned: thind''\nthistle: thistl\nthorough: thuro\nthough, tho’: tho\n''thrashed: thrasht''\nthread: thred\nthreat: thret\nthreaten: threten\n</poem>\n<poem>\n''swagged: swagd''\n''swallowed: swallowd''\n''swamped: swampt''\n''swayed: swayd''\nsweat: swet\n''sweetened: sweetend''\nswell: swel\n''swelled: sweld''\n''sweltered: swelterd''\nswerve: swerv\n''swerved: swervd''\n''swollen, swoln: swoln''\n''swooned: swoond''\nsylph: sylf\nsynagogue: synagog\n\ntabernacle: tabernacl\n''tacked: tackt''\ntackle: tackl\n''tackled: tackld''\ntactile: tactil\n''tagged: tagd''\n''talked: talkt''\ntalkative: talkativ\n''tanned: tand''\ntangible: tangibl\n''tapped: tapt''\n''tapered: taperd''\n</poem>\n<poem>\nthreaten: threten\n''threatened: thretend''\nthrill: thril\n''thrilled: thrild''\n''throbbed: throbd''\n''thronged: throngd''\nthrottle: throtl\n''throttled: throtld''\nthrough, thro’: thru\nthroughout: thruout\n''thrummed: thrumd''\nthumb: thum\n''thumbed: thumd''\n''thumped: thumpt''\n''thundered: thunderd''\n''thwacked: thwackt''\n''ticked: tickt''\ntickle: tickl\n''tickled: tickld''\ntierce: tierse\ntill: til\ntillable: tillabl\n''tilled: tild''\n''tinned: tind''\ntingle: tingl\n''tingled: tingld''\n''tinkered: tinkerd''\ntinkle: tinkl\n</poem>\n<poem>''tarred: tard'' ''tinkled: tinkld''</poem>\n<poem>\ntipple: tipl\n''tippled: tipld''\ntipstaff: tipstaf\ntiresome: tiresum\ntisic: ''see'' phthisic\n''tittered: titterd''\ntittle: titl\n''toiled: toild''\ntoilsome: toilsum\ntolerable: tolerabl\n''tolled: tolld, told''\nton: tun\ntongue: tung\ntongued: tungd\n''toothed: tootht''\ntoothache: toothake\ntopographer: topografer\ntopography: topografy\ntopple: topl\n''toppled: topld''\n''tossed, tost: tost''\n''tottered: totterd''\ntouch: tuch\n''touched: tucht''\ntouchy: tuchy\ntough: tuf\ntoughen: tufen\n''toughened: tufend''\n''towed: towd''\n''toyed: toyd''\ntraceable: traceabl\n''tracked: trackt''\n</poem>\n<poem>\n''trickled: trickld''\ntriglyph: triglyf\ntrill: tril\n''trilled: trild''\n''trimmed: trimd''\n''tripped: tript''\ntriple: tripl\n''tripled: tripld''\ntriumph: triumf\n''triumphed: triumft''\ntriumphal: triumfal\ntriumphant: triumfant\n''trodden: trodn''\n''trooped: troopt''\ntrouble: trubl\n''troubled: trubld''\ntroublesome: trublsum\ntroublous: trublous\ntrough: trof\n''trucked: truckt''\ntruckle: truckl\n''truckled: truckld''\n''trumped: trumpt''\n''tucked: tuckt''\n''tugged: tugd''\ntumble: tumbl\n''tumbled: tumbld''\n''turned: turnd''\nturtle: turtl\ntwaddle: twaddl\n''twanged: twangd''\n''tweaked: tweakt''\n</poem>\n<poem>\n''veined: veind''\n''veneered: veneerd''\nventricle: ventricl\nveritable: veritabl\n''versed: verst''\nversicle: versicl\nvesicle: vesicl\n''viewed: viewd''\nvigor, vigour: vigor\nvindictive: vindictiv\nvineyard: vinyard\nvisible: visibl\nvocative: vocativ\nvolatile: volatil, -ile\n''vouched: voucht''\n\n''wafered: waferd''\n''wagged: wagd''\n''wagered: wagerd''\nwaggle: wagl\n''waggled: wagld''\n''wailed: waild''\nwaive: waiv\n''waived: waivd''\n''walked: walkt''\n''warred: ward''\nwarble: warbl\n''warbled: warbld''\n''warmed: warmd''\n''washed: washt''\nwatch: wach\n''watched: wacht''\n</poem>\n<poem>\ntractable: tractabl\n''trafficked: traffickt''\n''trailed: traild''\n''trained: traind''\n''tramped: trampt''\ntrample: trampl\n''trampled: trampld''\ntrance: transe\ntranquillize, tranquillise: tranquilize\n''transferred: transferd''\n''transformed: transformd''\ntransfuse: transfuze\ntransmissive: transmissiv\n''trapped: trapt''\n''trapanned: trapand''\ntraveled, travelled: traveld\ntraveler, traveller: traveler\ntreacherous: trecherous\ntreachery: trechery\ntreacle: treacl\ntread: tred\ntreadle: tredl\ntreatise: treatis\ntreasure: trezure\ntreasurer: trezurer\ntreasury: trezury\ntreble: trebl\ntremble: trembl\n''trembled: trembld''\n''trenched: trencht''\n''trepanned: trepand''\ntwelve: twelv\ntwill: twil\n''twilled: twild''\ntwinkle: twinkl\n''twinkled: twinkld''\n''twirled: twirld''\ntwitch: twich\n''twitched: twicht''\n''twittered: twitterd''\ntypographer: typografer\ntypographical: typografical\ntypography: typografy\n\nun- (''negativ prefix''): see the simpl forms.\nuncle: uncl\nunwonted: unwunted\nuse, ''v.'': uze\nusual: uzual\nuterine: uterin, -ine\n\nvaccine: vaccin, -ine\nvaluable: valuabl\nvalve: valv\n''vamped: vampt''\n''vanished: vanisht''\n''vanquished: vanquisht''\nvapor, vapour: vapor\n''vapored, vapoured: vapord''\nvariable: variabl\nvegetable: vegetabl\n''watered: waterd''\n''waxed: waxt''\n''weakened: weakend''\nwealth: welth\nwealthy: welthy\n''weaned: weand''\nweapon: wepon\nweather: wether\n''weathered: wetherd''\nweave: weav\nwebbed: webd\n''weened: weend''\nwelcome: welcum\n''welcomed: welcumd''\nwell: wel\n''welled: weld''\nwere: wer\n''wheeled: wheeld''\nwheeze: wheez\n''wheezed: wheezd''\nwhence: whense\n''whimpered: whimperd''\n''whipped: whipt''\nwhir, whirr: whir\n''whirred: whird''\n''whirled: whirld''\n''whisked: whiskt''\n''whispered: whisperd''\nwhistle: whistl\n''whistled: whistld''\n''whizzed: whizd''\nwhole: hole\n</poem>\n<poem>\n''trespassed: trespast''\ntrestle: trestl, tressel\n''tricked: trickt''\n</poem>\n<poem>\nvegetative: vegetativ\nvehicle: vehicl\nveil: veil\n</poem>\n<poem>\nwholesale: holesale\nwholesum: holesum\nwholly: holely\n</poem>\n{{c|8}}\n<poem>\nwill: wil\n''willed: willd, wild''\nwillful, wilful: wilful\nwimble: wimbl\n''winged: wingd''\n''winked: winkt''\n''winnowed: winnowd''\n''wintered: winterd''\n''wished: wisht''\nwitch: wich\n''witched: wicht''\n''withered: witherd''\n''withholden: withholdn''\n''women: wimen''\n''won: wun''\nwonder: wunder\n''wondered: wunderd''\nwonderful: wunderful\nwondrous: wundrous\nwont: wunt\nwonted: wunted\n''worked: workt''\nworm: wurm\n''wormed: wurmd''\nworry: wurry\nworse: wurse\nworship: wurship\n''worshiped, worshipped: wurshipt''\nworst: wurst\nworth: wurth\n</poem>\n<poem>\nworthless: wurthless\nworthy: wurthy\nwrangle: wrangl\n''wrangled: wrangld''\n''wrapped: wrapt''\n''wreaked: wreakt''\n''wrecked: wreckt''\n''wrenched: wrencht''\nwrestle: wrestl\n''wrestled: wrestld''\nwretch: wrech\nwretched: wreched\nwriggle: wrigl\n''wriggled: wrigld''\nwrinkle: wrinkl\n''wrinkled: wrinkld''\n''written: writn''\n\nxanthine: xanthin\nxylography: xylografy\n\n''yawned: yawnd''\n''yeaned: yeand''\nyearn: yern\n''yearned: yernd''\nyell: yel\n''yelled: yeld''\nyeoman: yoman\n''yerked: yerkt''\nyoung: yung\n\nzealot: zelot\n</poem>\n<poem>\nzealous: zelous\nzephyr: zefyr\nzincography: zincografy\nzoography: zoografy\n</poem><noinclude><references/></noinclude>"
+}
