@@ -1,0 +1,112 @@
+# The proofreading desk (tools/desk.py, tools/desk.html), on GitHub Pages.
+#
+# A person presses Send at their desk: it commits desk/send.json to their
+# branch, which runs this.  Their saved pages (desk/inbox/) go into the book
+# (`desk.py apply`), committed to their branch; then every person's desk is
+# rebuilt with their next pages and published.  Run it by hand (Actions ->
+# Proofreading desk -> Run workflow) to rebuild the desks without a send.
+name: Proofreading desk
+
+on:
+  push:
+    paths: ["desk/send.json"]
+  workflow_dispatch:
+
+# one at a time: two sends never write the same branch at once
+concurrency:
+  group: desk
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  desk:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: century
+          fetch-depth: 0
+      - uses: actions/checkout@v4
+        with:
+          repository: ahaspel/wikikit
+          path: wikikit
+      - uses: astral-sh/setup-uv@v5
+      - name: Scans already fetched
+        uses: actions/cache@v4
+        with:
+          path: century/data/scans
+          key: scans-${{ github.run_id }}
+          restore-keys: scans-
+
+      - name: Install
+        working-directory: century
+        run: uv sync --frozen
+
+      - name: Apply the sent pages
+        if: github.event_name == 'push'
+        working-directory: century
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          set -euo pipefail
+          git config user.name "Century desk"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -q "$BRANCH"
+          # the desk's own tools from master, whatever the branch carries
+          git show origin/master:tools/desk.py > "$RUNNER_TEMP/desk.py"
+          git show origin/master:tools/desk.html > "$RUNNER_TEMP/desk.html"
+          who=$(jq -r '.by // "the desk"' desk/send.json 2>/dev/null || echo "the desk")
+          n=0
+          if ls desk/inbox/*.json >/dev/null 2>&1; then
+            n=$(ls desk/inbox/*.json | wc -l)
+            uv run --frozen python "$RUNNER_TEMP/desk.py" apply desk/inbox
+            git rm -rq desk/inbox
+          fi
+          git rm -q --ignore-unmatch desk/send.json
+          git add data/supplied
+          if ! git diff --cached --quiet; then
+            git commit -q -m "Proofread at the desk: $n page(s) sent by $who"
+            for i in 1 2 3; do
+              git push -q origin "HEAD:$BRANCH" && break
+              git pull -q --rebase origin "$BRANCH"
+            done
+          fi
+
+      - name: Build every desk
+        working-directory: century
+        env:
+          SENT_BRANCH: ${{ github.event_name == 'push' && github.ref_name || '' }}
+        run: |
+          set -euo pipefail
+          git fetch -q origin
+          git show origin/master:tools/desk.py > "$RUNNER_TEMP/desk.py"
+          git show origin/master:tools/desk.html > "$RUNNER_TEMP/desk.html"
+          git show origin/master:desk/people.json > "$RUNNER_TEMP/people.json"
+          send_id=""
+          if [ -n "$SENT_BRANCH" ]; then
+            send_id=$(git show "${GITHUB_SHA}:desk/send.json" | jq -r .id)
+          fi
+          site="$GITHUB_WORKSPACE/site"
+          mkdir -p "$site/desk"
+          for person in $(jq -r 'keys[]' "$RUNNER_TEMP/people.json"); do
+            branch=$(jq -r --arg p "$person" '.[$p]' "$RUNNER_TEMP/people.json")
+            git switch -q --discard-changes -C "$branch" "origin/$branch"
+            id=""; [ "$branch" = "$SENT_BRANCH" ] && id="$send_id"
+            uv run --frozen python "$RUNNER_TEMP/desk.py" site "$site/desk/$person" "$person" "$branch" --send-id "$id"
+          done
+          git switch -q --discard-changes -C master origin/master
+          uv run --frozen python "$RUNNER_TEMP/desk.py" index "$site/desk"
+          printf '<!doctype html><meta http-equiv="refresh" content="0; url=desk/">' > "$site/index.html"
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
