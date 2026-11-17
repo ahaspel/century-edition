@@ -36,6 +36,19 @@ One the definition goes on after is set off as well (user, 2026-10-25:
 "Abroad. Burns. Also spelled abraid.", p. 44) — shaped as a source, never a
 field label, an abbreviation explained or a word a synonym paragraph defines
 (`_MID_FORM`).
+
+VERSE (user, 2026-11-16: "We never want <br> in our markup"): a quotation
+in verse is a <poem>, one line of the print to a line.  Pages read before
+the model was given <poem> set its lines apart with <br>; a citation whose
+lines are so broken is set as a poem, its source, if read run in on the last
+line, set right below it.  Only a citation: a note, a synonym paragraph or
+a sub-entry (`_NOT_PROSE`) is left to the proofreader, as is a line's indent.
+
+CAPTIONS (user, 2026-11-17: joined — "That's a CSS issue, not a markup
+issue"): a caption's printed lines (the figure's name, then its key: "Hoary
+Pea (Tephrosia Virginiana). / a, the fruits.") are one text; where they
+break is the page's width, set by the book's CSS.  A <br> read in a caption
+({{c|…}}) is a word space.
 """
 from __future__ import annotations
 
@@ -238,6 +251,75 @@ def source_spacing(text: str) -> str:
         for k in at:
             out.append(text[last:k] + SPACE)
             last = k
+    out.append(text[last:])
+    return "".join(out)
+
+
+_BR = re.compile(r"[ \t]*<br\s*/?>[ \t]*\n?")
+
+
+def _as_poem(piece: str) -> str:
+    """A citation whose lines are broken with <br>, set as a poem (module doc)."""
+    if "<br" not in piece or "<poem>" in piece or piece.lstrip().startswith(_NOT_PROSE):
+        return piece
+    right = _RIGHT.search(piece)
+    verse, rest = (piece[:right.start()], piece[right.start():]) if right else (piece, "")
+    lead = verse[:len(verse) - len(verse.lstrip())]
+    verse = verse.strip()
+    if not rest:
+        m = _RUN_IN.search(verse)
+        if m:
+            verse, rest = verse[:m.start()], "{{right|" + m.group(1) + "}}"
+    poem = "<poem>" + _BR.sub("\n", verse).strip() + "</poem>"
+    return lead + poem + ("\n" + rest.lstrip("\n ") if rest else "")
+
+
+def verse_as_poem(text: str) -> str:
+    """Each citation in verse, read with <br>, set as a <poem> (module doc)."""
+    out, last, i = [], 0, 0
+    while (i := text.find(BLOCK, i)) >= 0:
+        end = _template_end(text, i)
+        if end is None:
+            # not closed on the page (or a block misread inside another):
+            # the next one may be
+            i += len(BLOCK)
+            continue
+        inner = text[i + len(BLOCK):end - 2]
+        if "<br" in inner:
+            # one citation at a time: each ends in its source set right
+            pieces, start = [], 0
+            for m in _RIGHT.finditer(inner):
+                if not inner[m.end():].lstrip().startswith("{{right|"):
+                    pieces.append(inner[start:m.end()])
+                    start = m.end()
+            pieces.append(inner[start:])
+            inner = "".join(_as_poem(p) if p.strip() else p for p in pieces)
+            out.append(text[last:i] + BLOCK + inner + "}}")
+            last = end
+        i = end
+    out.append(text[last:])
+    return "".join(out)
+
+
+#: a caption: below its figure ({{c|…}}), or an inset's (cap={{smaller|…}})
+_CAPTION = re.compile(r"\{\{c\||(?<=cap=)\{\{smaller\|")
+
+
+def caption_joined(text: str) -> str:
+    """A caption's lines as one text (module doc).  Only within the caption's
+    own template: a <br> after it, before another small run, may be the text
+    the inset stands in, read into its caption — the proofreader's."""
+    out, last, at = [], 0, 0
+    while m := _CAPTION.search(text, at):
+        i = m.start()
+        end = _template_end(text, i)
+        if end is None:
+            at = m.end()
+            continue
+        if "<br" in text[i:end]:
+            out.append(text[last:i] + _BR.sub(" ", text[i:end]))
+            last = end
+        at = end
     out.append(text[last:])
     return "".join(out)
 
