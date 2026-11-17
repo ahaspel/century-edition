@@ -49,56 +49,52 @@ jobs:
         working-directory: century
         run: uv sync --frozen
 
+      # Every branch with a send waiting, whatever started this run: a send
+      # whose own run never came (the workflow not yet on its branch) is
+      # taken up by the next.
       - name: Apply the sent pages
-        if: github.event_name == 'push'
         working-directory: century
-        env:
-          BRANCH: ${{ github.ref_name }}
         run: |
           set -euo pipefail
           git config user.name "Century desk"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git switch -q "$BRANCH"
-          # the desk's own tools from master, whatever the branch carries
-          git show origin/master:tools/desk.py > "$RUNNER_TEMP/desk.py"
-          git show origin/master:tools/desk.html > "$RUNNER_TEMP/desk.html"
-          who=$(jq -r '.by // "the desk"' desk/send.json 2>/dev/null || echo "the desk")
-          n=0
-          if ls desk/inbox/*.json >/dev/null 2>&1; then
-            n=$(ls desk/inbox/*.json | wc -l)
-            uv run --frozen python "$RUNNER_TEMP/desk.py" apply desk/inbox
-            git rm -rq desk/inbox
-          fi
-          git rm -q --ignore-unmatch desk/send.json
-          git add data/supplied
-          if ! git diff --cached --quiet; then
-            git commit -q -m "Proofread at the desk: $n page(s) sent by $who"
-            for i in 1 2 3; do
-              git push -q origin "HEAD:$BRANCH" && break
-              git pull -q --rebase origin "$BRANCH"
-            done
-          fi
-
-      - name: Build every desk
-        working-directory: century
-        env:
-          SENT_BRANCH: ${{ github.event_name == 'push' && github.ref_name || '' }}
-        run: |
-          set -euo pipefail
-          git fetch -q origin
+          # the desk's own tools from master, whatever a branch carries
           git show origin/master:tools/desk.py > "$RUNNER_TEMP/desk.py"
           git show origin/master:tools/desk.html > "$RUNNER_TEMP/desk.html"
           git show origin/master:desk/people.json > "$RUNNER_TEMP/people.json"
-          send_id=""
-          if [ -n "$SENT_BRANCH" ]; then
-            send_id=$(git show "${GITHUB_SHA}:desk/send.json" | jq -r .id)
-          fi
+          echo '{}' > "$RUNNER_TEMP/sends.json"
+          for branch in $(jq -r '.[]' "$RUNNER_TEMP/people.json"); do
+            git switch -q --discard-changes -C "$branch" "origin/$branch"
+            [ -f desk/send.json ] || continue
+            id=$(jq -r .id desk/send.json)
+            who=$(jq -r '.by // "the desk"' desk/send.json)
+            n=0
+            if ls desk/inbox/*.json >/dev/null 2>&1; then
+              n=$(ls desk/inbox/*.json | wc -l)
+              uv run --frozen python "$RUNNER_TEMP/desk.py" apply desk/inbox
+              git rm -rq desk/inbox
+            fi
+            git rm -q desk/send.json
+            git add data/supplied
+            git commit -q -m "Proofread at the desk: $n page(s) sent by $who"
+            for i in 1 2 3; do
+              git push -q origin "HEAD:$branch" && break
+              git pull -q --rebase origin "$branch"
+            done
+            jq --arg b "$branch" --arg id "$id" '.[$b] = $id' "$RUNNER_TEMP/sends.json" > "$RUNNER_TEMP/s" && mv "$RUNNER_TEMP/s" "$RUNNER_TEMP/sends.json"
+          done
+
+      - name: Build every desk
+        working-directory: century
+        run: |
+          set -euo pipefail
+          git fetch -q origin
           site="$GITHUB_WORKSPACE/site"
           mkdir -p "$site/desk"
           for person in $(jq -r 'keys[]' "$RUNNER_TEMP/people.json"); do
             branch=$(jq -r --arg p "$person" '.[$p]' "$RUNNER_TEMP/people.json")
             git switch -q --discard-changes -C "$branch" "origin/$branch"
-            id=""; [ "$branch" = "$SENT_BRANCH" ] && id="$send_id"
+            id=$(jq -r --arg b "$branch" '.[$b] // ""' "$RUNNER_TEMP/sends.json")
             uv run --frozen python "$RUNNER_TEMP/desk.py" site "$site/desk/$person" "$person" "$branch" --send-id "$id"
           done
           git switch -q --discard-changes -C master origin/master
