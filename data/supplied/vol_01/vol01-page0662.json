@@ -1,0 +1,211 @@
+{
+ "volume": 1,
+ "page_number": 662,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n661.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n661.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 743,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     109,
+     112,
+     2327,
+     155
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     109,
+     155,
+     850,
+     1240
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     109,
+     1240,
+     850,
+     2245
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     109,
+     2245,
+     850,
+     3273
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     850,
+     155,
+     1594,
+     1225
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     850,
+     1225,
+     1594,
+     2230
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     850,
+     2230,
+     1594,
+     3273
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1594,
+     155,
+     2327,
+     1174
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1594,
+     1174,
+     2327,
+     2194
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1624,
+     1663,
+     2299,
+     1956
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1594,
+     2194,
+     2327,
+     3273
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|botanical|636|both}}",
+   "c1s1": "¶\n'''botanical''' (bō-tan′i-kạl), ''a.'' Pertaining to or concerned with the study or cultivation of plants.—'''Botanical geography.''' {{smaller|Same as ''geographical botany'' (which see, under ''botany'').}}\n\n'''botanically''' (bō-tan′i-kạl-i), ''adv.'' In a botanical manner; after the manner of a botanist; according to a system of botany.\n\n'''botanise,''' ''v.'' See ''botanize.''\n\n'''botanist''' (bot′a-nist), ''n.'' [< ''botany'' + ''-ist''; = F. ''botaniste.''] One who studies or is skilled in botany; one versed in the structure, habits, geographical distribution, and systematic classification of plants.\n{{smaller block|Then spring the living herbs, . . . beyond the power<br>Of ''botanist'' to number up their tribes.\n{{right|''Thomson,'' Spring, l. 224.}}}}\n\n'''botanize''' (bot′a-nīz), ''v.''; pret. and pp. ''botanized,'' ppr. ''botanizing.'' [< ''botany'' + ''-ize''; = F. ''botaniser.'' Cf. Gr. βοτανίζειν, root up weeds.] '''I.''' ''intrans.'' To examine or seek for plants for the purpose of studying and classifying them, etc.; investigate the vegetable kingdom as a botanist.\n\n'''II.''' ''trans.'' To explore botanically: as, to ''botanize'' a neighborhood.\n\nAlso spelled ''botanise.''\n\n'''botanologer†''' (bot-ạ-nol′ọ̄-jėr), ''n.'' [< ''botanology'' + ''-er''<sup>1</sup>.] A botanist. ''Sir T. Browne.''\n\n'''botanology†''' (bot-ạ-nol′ọ̄-ji), ''n.'' [= F. ''botanologie,'' < Gr. βοτάνη, an herb, + -λογία, < λέγειν, speak: see ''-ology.''] The science of botany. ''Bailey.''\n\n'''botanomancy''' (bot′a-nọ̄-man-si), ''n.'' [= F. ''botanomancie,'' < Gr. βοτάνη, an herb, + μαντεία,",
+   "c1s2": "divination.] An ancient method of divination by means of plants, especially by means of the leaves of the sage and fig. {{smaller|A person’s name and the question to which an answer was desired were written on the leaves, which were then laid out exposed to the wind; as many of the letters as remained in their places were taken up and joined together to form some word, which was supposed to be an answer to the question.}}\n\n¶\n'''Botanophaga''' (bot-a-nof′a-gä), ''n. pl.'' [NL., < Gr. βοτάνη, an herb, + φαγεῖν, eat.] A name of the herbivorous marsupial mammals, as distinguished collectively from the ''Zoöphaga'', or carnivorous and insectivorous marsupials. The kangaroo is an example.\n\n'''botany''' (bot′a-ni), ''n.'' [Early mod. E. also ''botanie'', formed from ''botanic'', as if < Gr. βοτανία, a rare var. of βοτάνη, an herb, grass, fodder, < βόσκειν, feed, mid. βόσκεσθαι, feed one’s self; cf. L. ''vesci'', eat.] The science of plants. {{smaller|It treats of the forms of plants, their structure, the nature of the tissues of which they are composed, the vital phenomena connected with them, the arrangement of them into larger and smaller groups according to their affinities, and the classification of these groups so as to exhibit their mutual relations and their position in the vegetable kingdom as a whole. The science further investigates the nature of the vegetation which at former epochs lived on the earth, as well as the distribution of plants at the present time. It is thus divided into several sections. (''a'') ''Structural'' or ''morphological botany'', that branch of the science of botany which relates to the structure and organization of plants, internal or external, independently of the presence of a vital principle. Also called ''organography.'' (''b'') ''Physiological'' or ''biological botany'', that branch which relates to the history of vegetable life, the functions of the various organs of plants, and their minute structure and}}",
+   "c1s3": "{{smaller block|method of growth. (''c'') ''Descriptive botany'', that branch which relates to the description and nomenclature of plants. Also called ''phytography''. (''d'') ''Systematic botany'', that branch which relates to the principles upon which plants are to be classified or arranged with reference to their degrees of relationship. The system of classification now universally adopted is that proposed by Antoine Laurent de Jussieu, and improved and enlarged by De Candolle, Brown, and others. It is generally called the ''natural'' system, because it is intended to express, as far as possible, the various degrees of relationship among plants as these exist in nature, and to group next to each other the various species, genera, and orders which are most alike in all respects. Several artificial systems have been proposed, as that of Tournefort, based on the modifications of the corolla; but the best-known is that of Linnæus, founded on the stamens and pistils. This system, which was designed by Linnæus to be only temporary, proved of great value to the science of botany, but it has now gone entirely out of use, or is used only as a partial index to the vegetable kingdom. (''e'') ''Geographical botany'', that branch which relates to the natural distribution of plants over the globe, and to the inquiry into the causes which have influenced or maintain this distribution. (''f'') ''Paleontological'' or ''fossil botany'', that branch which embraces the study of the forms and structures of the plants found in a fossil state in the various strata of which the earth is composed.}}\n\n¶\n'''Botany Bay gum, kino, oak, resin, tea,''' etc. See the nouns.\n\n'''botargo, botarga''' (bọ̄-tär′gō, -gä), ''n.'' [< Sp. ''botarga'' (= It. ''botargo, botarga, buttarga, buttagra'', now ''bottarga, bottarica'' = F. ''boutargue''), < Ar. ''butarkhah'', < Coptic ''outarakhon'', < ''ou-'', indef. art., + Gr. ταρίχιον, dim. of τάριχος, a dead body preserved by embalming, a mummy, meat preserved by salting or pickling.] A relish made of the roes of certain fishes strongly salted after",
+   "c2s1": "they have become putrid: much used on the coast of the Mediterranean as an incentive to thirst. {{smaller|The great white Russian sturgeon, ''Acipenser huso'', is one of the principal sources of botargo. The best botargo comes from Tunis, is dry and reddish, and is eaten with olive-oil and lemon-juice. Also ''bottargo''.}}\n{{smaller block|We staid talking and singing and drinking great draughts of claret, and eating ''botargo'' and bread and butter, till twelve at night, it being moonshine. {{right|''Pepys'', Diary, I. 191.}}}}\n\n¶\n'''Botaurinæ''' (bō-tâ-rī′nē), ''n. pl.'' [NL., < ''Botaurus'' + ''-inæ''.] A subfamily of ''Ardeidæ'', or herons, containing the bitterns, distinguished from true herons by having only ten tail-feathers and two pairs of powder-down tracts, and the outer toe shorter than the inner. {{smaller|In habits the ''Botaurinæ'' also differ from the other ''Ardeidæ'', being solitary, nesting on the ground, and laying eggs unlike those of true herons. See cut under ''bittern''.}}\n\n'''Botaurus''' (bō-tâ′rus), ''n.'' [NL., irreg. < L. ''bos'', an ox, + ''taurus'', a bull; suggested by the old form (ME. ''butor'', OF. ''butor'', ''botor'') of ''bittern''<sup>1</sup>, q. v.] The typical genus of the subfamily ''Botaurinæ''. See ''bittern''<sup>1</sup>.\n\n'''botch'''<sup>1</sup>† (boch), ''n.'' [< ME. ''botche'', ''bocche'', < OF. ''boche'', a botch, sore, var. of ''boce'', a botch, swelling, > mod. F. ''bosse'', E. ''boss''<sup>1</sup>: see ''boss''<sup>1</sup>. Cf. OD. ''butse'', a boil, swelling, < ''butsen'', D. ''botsen'', strike, beat, akin to OHG. ''bōzan'' = E. ''beat''<sup>1</sup>. Cf. ''botch''<sup>2</sup>.] A swelling on the skin; a large ulcerous affection; a boil.\n{{smaller block|<poem>Yet who more foul, disrobed of attire?\nPearl’d with the ''botch'' as children burnt with fire.</poem>\n{{right|''Middleton'', Micro-Cynicon, i. 3.}}\n''Botches'' and blains must all his flesh emboss.\n{{right|''Milton'', P. L., xii. 180.}}}}",
+   "c2s2": "¶\n'''botch'''<sup>1</sup>† (boch), ''v. t.'' To mark with botches.\n{{smaller block|Young Hylas, ''botch’d'' with stains.\n{{right|''Garth'', Dispensary, ii. 150.}}}}\n\n'''botch'''<sup>2</sup> (boch), ''v.'' [Also E. dial. or colloq. ''bodge''<sup>1</sup>, q. v.; < ME. ''bocchen'', repair, of uncertain origin, perhaps < MD. ''botsen, butsen, boetsen'', repair, patch, same word as ''butsen'', D. ''botsen'', strike, beat, knock together, akin to OHG. ''bōzan'', beat, = E. ''beat''<sup>1</sup>. Cf. ''botch''<sup>1</sup> and ''boss''<sup>1</sup>.] '''I.''' ''trans.'' '''1.''' To mend or patch in a clumsy manner, as a garment: often used figuratively.\n{{smaller block|<poem>To ''botch'' up what they had torn and rent,\nReligion and the government. {{right|''S. Butler'', Hudibras.}}</poem>\nTom coming, with whom I was angry for his ''botching'' my camlott coat, to tell me that my father was at our church, I got me ready.\n{{right|''Pepys'', Diary, I. 407.}}}}\n'''2.''' To put together unsuitably or unskilfully; perform, express, etc., in a bungling manner; hence, to spoil by unskilful work; bungle.\n{{smaller block|For treason ''botch’d'' in rhyme will be thy bane.\n{{right|''Dryden'', Abs. and Achit., ii. 485.}}}}\n\n'''II.''' ''intrans.'' To mend or patch things in an unskilful manner; be a bungler or botcher.\n\n'''botch'''<sup>2</sup> (boch), ''n.'' [< ''botch''<sup>2</sup>, ''v.''] '''1.''' A bungled or ill-finished part; a flaw; a blemish.\n{{smaller block|To leave no rubs nor ''botches'' in the work.\n{{right|''Shak.'', Macbeth, iii. 1.}}}}\n'''2.''' A patch, or a part of a garment patched or mended in a clumsy manner.—'''3.''' That which is botched; ill-finished or bungled work generally.",
+   "c2s3": "¶\n{{smaller block|Fancy the most assiduous potter, but without his wheel; reduced to make dishes, or rather amorphous ''botches'', by mere kneading and baking.\n{{right|''Carlyle.''}}}}\n{{smaller block|A poorly paid teacher, whose work is a ''botch'', and therefore an injury to the growing mind.\n{{right|''Jour. of Education'', XIX. 41.}}}}\n\n'''4.''' A bungling, unskilful workman or operator of any kind; a botcher.\n\n'''botchedly''' (boch′ed-li or bocht′li), ''adv.'' [< ''botched'', pp. of ''botch''<sup>2</sup>, ''v.'', + ''-ly''<sup>2</sup>.] In a botched or clumsy manner; with botches or patches.\n{{smaller block|Thus patch they heaven, more ''botch’dly'' then old clothes.\n{{right|''Dr. H. More'', Psychathanasia, III. iii. 67.}}}}\n\n'''botcher<sup>1</sup>''' (boch′ėr), ''n.'' [< ME. *''bocchere'' (spelled ''bochchare'', Prompt. Parv.); < ''botch''<sup>2</sup> + ''-er''<sup>1</sup>.] '''1.''' A mender; a repairer or patcher; specifically, a tailor who does repairing.\n{{smaller block|Let the ''botcher'' mend him: Anything that’s mended is but patched.\n{{right|''Shak.'', T. N., i. 5.}}}}\n{{smaller block|Physicians are the body’s cobblers, rather the ''botchers'' of men’s bodies; as the one patches our tatter’d clothes, so the other solders our diseased flesh.\n{{right|''Ford'', Lover’s Melancholy, i. 2.}}}}\n'''2.''' One who botches; a clumsy, bungling workman; a bungler.\n\n'''botcher<sup>2</sup>''' (boch′ėr), ''n.'' [Origin unknown.] The grilse: a local English name in the Severn valley.\n\n'''botcherly''' (boch′ėr-li), ''a.'' [< ''botcher''<sup>1</sup> + ''-ly''<sup>1</sup>.] Clumsy; unworkmanlike. [Rare.]\n{{smaller block|''Botcherly'' mingle-mangle of collections.\n{{right|''Hartlib'', tr. of Comenius, p. 30.}}}}\n{{smaller block|''Botcherly'' poetry, ''botcherly!''\n{{right|''Middleton and Rowley'', Spanish Gypsy, ii. 1.}}}}",
+   "c3s1": "¶\n'''botchery''' (boch′ėr-i), ''n.'' [< ''botch''<sup>2</sup> + ''-ery''.] A botching, or that which is botched; clumsy or bungling work or workmanship. [Rare.]\n{{smaller block|If we speak of base ''botchery'', were it a comely thing to see a great lord or a king wear sleeves of two parishes, one half of worsted, the other of velvet?\n{{right|''World of Wonders'' (1608), p. 235.}}}}\n\n'''botchka''' (boch′kä), ''n.'' Same as ''bochka''.\n\n'''botchy'''<sup>1</sup> (boch′i), ''a.'' [< ME. ''botchy'', ''bochy'', etc.; < ''botch''<sup>1</sup> + ''-y''<sup>1</sup>.] Marked with botches; full of or covered with botches: as, “a ''botchy'' core,” ''Shak.'', T. and C., ii. 1.\n\n'''botchy'''<sup>2</sup> (boch′i), ''a.'' [< ''botch''<sup>2</sup> + ''-y''<sup>1</sup>.] Imperfect; botched.\n\n'''bote'''<sup>1</sup> (bōt), ''n.'' [The ME. and AS. (dat.) form of ''boot''<sup>1</sup>, ML. ''bota'', retained archaically in law writings: see ''boot''<sup>1</sup>.] '''1†.''' Help; aid; relief; salvation; remedy in illness; boot (which see). Specifically—'''2.''' In ''old law'': (''a'') Compensation, as for an injury; amends; satisfaction; a payment in expiation of an offense: as, man-''bote'', a compensation for a man slain. (''b'') A privilege or allowance of necessaries for repair or support; estovers: as, house-''bote'', enough wood to repair a house or for fuel; plow-''bote'', cart-''bote'', wood for making or repairing instruments of husbandry; hay-''bote'' or hedge-''bote'', wood for hedges or fences, etc.\n\n'''bote'''<sup>2</sup>†. Middle English preterit of ''bite''.\n\n'''bote'''<sup>3</sup>†, ''prep.'' and ''conj.'' A Middle English form of ''but''<sup>1</sup>.\n\n'''botel†''', ''n.'' An obsolete form of ''bottle''<sup>2</sup>.",
+   "c3s2": "¶\n'''boteler†''', ''n.'' An obsolete form of ''butler''.\n\n'''boteless†''', ''a.'' A Middle English form of ''bootless''.\n\n'''boterol, boteroll''' (bot′e-rōl), ''n.'' [< F. ''bouterolle'', “the chape of a sheath or scabbard” (Cotgrave), < ''bouter'', place, adapt: see ''butt''<sup>1</sup>.] In ''her.'', the chape or crampet of a scabbard used as a bearing. Also ''bauteroll''.\n\n'''botew†''', ''n.'' [Early mod. E. also ''boatewe'', ''botowe'', < late ME. ''botew'', ''butewe'', ''butwe'', ''botwe'', < ''bote'', boot, + ''-ew'', ''-ewe'', repr. F. ''-eau'', < L. ''-ellus'', dim. termination.] A short boot.\n\n'''bot-fly''' (bot′flī), ''n.'' A name given to dipterous insects of the family ''Œstridæ'', the larvæ of which infest different parts of living animals. See ''bot''<sup>1</sup>. {{smaller|The horse-bot, ''Gasterophilus equi'' (Fabricius),}}\n[[FIGURE]]\n{{c|{{smaller|Horse Bot-fly (''Gasterophilus equi''), about natural size. ''a'', lateral view; ''b'', dorsal view.}}}}\n{{smaller|is taken into the stomach of the horse; the ox-bot lives just under the cuticle of the ox; and the sheep-bot, ''Œstrus ovis'' (Linnæus), in the frontal sinuses of the sheep. Other animals are affected by particular species.}}\n\n'''both''' (bōth), ''a.'' and ''pron.'' [= Sc. ''baith'', < ME. ''both'', ''booth'', earlier ''bothe'', ''bathe'', etc.; not found",
+   "c3s3": "in AS. except in the simple form ''bā'', etc. (see below), but perhaps existent, being in OS., etc.; otherwise taken from Scand.; = OS. ''bēdhie'', ''bēdhia'' = OFries. ''bēthe'', ''bēde'' = OHG. ''bēde'', ''beide'', MHG. G. ''beide'' = Icel. ''bādhir'', m., ''bādhar'', f., ''bœdhi'', ''bādhi'', neut., = Sw. ''båda'' = Dan. ''baade'', both; cf. Goth. ''bajōths'', n. pl., both; < Goth. ''bai'' = AS. ''bā'' (''begen'', ''bu''), both, ME. ''ba'', ''bo''; cf. L. ''ambo'' = Gr. ἄμφω = Skt. ''ubhāu'', both: see ''bo''<sup>1</sup>; with a termination of obscure origin, perhaps orig. the def. art. in pl. (AS. ''thā'' = Goth. ''thai'', ''thō'', etc.) coalesced with the adj.; but this explanation does not apply to the Goth. ''bajōths''.] The one and the other; the two; the pair or the couple, in reference to two persons or things specially mentioned, and denoting that neither of them is to be excluded, either absolutely or (as with ''either'') as an alternative, from the statement.\n{{smaller block|Youre ''bother'' love [the love of you both].\n{{right|''Chaucer'', Troilus, iv. 168.}}\nAnd Abraham took sheep and oxen, and gave them unto Abimelech; and ''both'' of them made a covenant.\n{{right|Gen. xxi. 27.}}\nHe will not bear the loss of his rank, because he can bear the loss of his estate; but he will bear ''both'', because he is prepared for ''both''. {{right|''Bolingbroke''.}}\n''Both'' had been presidents, ''both'' had lived to great age, ''both'' were early patriots, and ''both'' were distinguished and ever honored by their immediate agency in the act of independence. {{right|''D. Webster'', Adams and Jefferson.}}\n[The genitive ''both’s'' (ME. ''bothes'', ''bothers'', earlier ''bother'', ''bathre'') is now disused; in the earlier period it was joined usually with the genitive plural of the personal pronoun. Subsequently the simple ''both'', equivalent to ''of both'', was used.}}"
+  },
+  "figure_files": {
+   "c3f1": "century v01 p0662 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1636,
+     1675,
+     2287,
+     1944
+    ],
+    "caption": [
+     1671,
+     1955,
+     2245,
+     2003
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1693,
+     1682,
+     2332,
+     1894
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 3889,
+    "output_tokens": 95,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 10,
+    "input_tokens": 9541,
+    "output_tokens": 9547,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|botanical|636|both}}</noinclude>{{nop}}'''botanical''' (bō-tan′i-kạl), ''a.'' Pertaining to or concerned with the study or cultivation of plants.—'''Botanical geography.''' {{smaller|Same as ''geographical botany'' (which see, under ''botany'').}}\n\n'''botanically''' (bō-tan′i-kạl-i), ''adv.'' In a botanical manner; after the manner of a botanist; according to a system of botany.\n\n'''botanise,''' ''v.'' See ''botanize.''\n\n'''botanist''' (bot′a-nist), ''n.''   [< ''botany'' + ''-ist''; = F. ''botaniste.'']   One who studies or is skilled in botany; one versed in the structure, habits, geographical distribution, and systematic classification of plants.\n{{smaller block|<poem>Then spring the living herbs, . . . beyond the power\nOf ''botanist'' to number up their tribes.</poem>\n{{right|''Thomson,'' Spring, l. 224.}}}}\n\n'''botanize''' (bot′a-nīz), ''v.''; pret. and pp. ''botanized,'' ppr. ''botanizing.''   [< ''botany'' + ''-ize''; = F. ''botaniser.'' Cf. Gr. βοτανίζειν, root up weeds.]   '''I.''' ''intrans.'' To examine or seek for plants for the purpose of studying and classifying them, etc.; investigate the vegetable kingdom as a botanist.\n\n'''II.''' ''trans.'' To explore botanically: as, to ''botanize'' a neighborhood.\n\nAlso spelled ''botanise.''\n\n'''botanologer†''' (bot-ạ-nol′ọ̄-jėr), ''n.''   [< ''botanology'' + ''-er''<sup>1</sup>.]   A botanist.   ''Sir T. Browne.''\n\n'''botanology†''' (bot-ạ-nol′ọ̄-ji), ''n.''   [= F. ''botanologie,'' < Gr. βοτάνη, an herb, + -λογία, < λέγειν, speak: see ''-ology.'']   The science of botany.   ''Bailey.''\n\n'''botanomancy''' (bot′a-nọ̄-man-si), ''n.''   [= F. ''botanomancie,'' < Gr. βοτάνη, an herb, + μαντεία, divination.]   An ancient method of divination by means of plants, especially by means of the leaves of the sage and fig. {{smaller|A person’s name and the question to which an answer was desired were written on the leaves, which were then laid out exposed to the wind; as many of the letters as remained in their places were taken up and joined together to form some word, which was supposed to be an answer to the question.}}\n\n'''Botanophaga''' (bot-a-nof′a-gä), ''n. pl.''   [NL., < Gr. βοτάνη, an herb, + φαγεῖν, eat.]   A name of the herbivorous marsupial mammals, as distinguished collectively from the ''Zoöphaga'', or carnivorous and insectivorous marsupials. The kangaroo is an example.\n\n'''botany''' (bot′a-ni), ''n.''   [Early mod. E. also ''botanie'', formed from ''botanic'', as if < Gr. βοτανία, a rare var. of βοτάνη, an herb, grass, fodder, < βόσκειν, feed, mid. βόσκεσθαι, feed one’s self; cf. L. ''vesci'', eat.]   The science of plants. {{smaller|It treats of the forms of plants, their structure, the nature of the tissues of which they are composed, the vital phenomena connected with them, the arrangement of them into larger and smaller groups according to their affinities, and the classification of these groups so as to exhibit their mutual relations and their position in the vegetable kingdom as a whole. The science further investigates the nature of the vegetation which at former epochs lived on the earth, as well as the distribution of plants at the present time. It is thus divided into several sections. (''a'') ''Structural'' or ''morphological botany'', that branch of the science of botany which relates to the structure and organization of plants, internal or external, independently of the presence of a vital principle. Also called ''organography.'' (''b'') ''Physiological'' or ''biological botany'', that branch which relates to the history of vegetable life, the functions of the various organs of plants, and their minute structure and method of growth. (''c'') ''Descriptive botany'', that branch which relates to the description and nomenclature of plants. Also called ''phytography''. (''d'') ''Systematic botany'', that branch which relates to the principles upon which plants are to be classified or arranged with reference to their degrees of relationship. The system of classification now universally adopted is that proposed by Antoine Laurent de Jussieu, and improved and enlarged by De Candolle, Brown, and others. It is generally called the ''natural'' system, because it is intended to express, as far as possible, the various degrees of relationship among plants as these exist in nature, and to group next to each other the various species, genera, and orders which are most alike in all respects. Several artificial systems have been proposed, as that of Tournefort, based on the modifications of the corolla; but the best-known is that of Linnæus, founded on the stamens and pistils. This system, which was designed by Linnæus to be only temporary, proved of great value to the science of botany, but it has now gone entirely out of use, or is used only as a partial index to the vegetable kingdom. (''e'') ''Geographical botany'', that branch which relates to the natural distribution of plants over the globe, and to the inquiry into the causes which have influenced or maintain this distribution. (''f'') ''Paleontological'' or ''fossil botany'', that branch which embraces the study of the forms and structures of the plants found in a fossil state in the various strata of which the earth is composed.}}\n\n'''Botany Bay gum, kino, oak, resin, tea,''' etc. See the nouns.\n\n'''botargo, botarga''' (bọ̄-tär′gō, -gä), ''n.''   [< Sp. ''botarga'' (= It. ''botargo, botarga, buttarga, buttagra'', now ''bottarga, bottarica'' = F. ''boutargue''), < Ar. ''butarkhah'', < Coptic ''outarakhon'', < ''ou-'', indef. art., + Gr. ταρίχιον, dim. of τάριχος, a dead body preserved by embalming, a mummy, meat preserved by salting or pickling.]   A relish made of the roes of certain fishes strongly salted after they have become putrid: much used on the coast of the Mediterranean as an incentive to thirst. {{smaller|The great white Russian sturgeon, ''Acipenser huso'', is one of the principal sources of botargo. The best botargo comes from Tunis, is dry and reddish, and is eaten with olive-oil and lemon-juice. Also ''bottargo''.}}\n{{smaller block|We staid talking and singing and drinking great draughts of claret, and eating ''botargo'' and bread and butter, till twelve at night, it being moonshine. {{right|''Pepys'', Diary, I. 191.}}}}\n\n'''Botaurinæ''' (bō-tâ-rī′nē), ''n. pl.''   [NL., < ''Botaurus'' + ''-inæ''.]   A subfamily of ''Ardeidæ'', or herons, containing the bitterns, distinguished from true herons by having only ten tail-feathers and two pairs of powder-down tracts, and the outer toe shorter than the inner. {{smaller|In habits the ''Botaurinæ'' also differ from the other ''Ardeidæ'', being solitary, nesting on the ground, and laying eggs unlike those of true herons. See cut under ''bittern''.}}\n\n'''Botaurus''' (bō-tâ′rus), ''n.''   [NL., irreg. < L. ''bos'', an ox, + ''taurus'', a bull; suggested by the old form (ME. ''butor'', OF. ''butor'', ''botor'') of ''bittern''<sup>1</sup>, q. v.]   The typical genus of the subfamily ''Botaurinæ''. See ''bittern''<sup>1</sup>.\n\n'''botch'''<sup>1</sup>† (boch), ''n.''   [< ME. ''botche'', ''bocche'', < OF. ''boche'', a botch, sore, var. of ''boce'', a botch, swelling, > mod. F. ''bosse'', E. ''boss''<sup>1</sup>: see ''boss''<sup>1</sup>. Cf. OD. ''butse'', a boil, swelling, < ''butsen'', D. ''botsen'', strike, beat, akin to OHG. ''bōzan'' = E. ''beat''<sup>1</sup>. Cf. ''botch''<sup>2</sup>.]   A swelling on the skin; a large ulcerous affection; a boil.\n{{smaller block|<poem>Yet who more foul, disrobed of attire?\nPearl’d with the ''botch'' as children burnt with fire.</poem>\n{{right|''Middleton'', Micro-Cynicon, i. 3.}}}}\n{{smaller block|''Botches'' and blains must all his flesh emboss.\n{{right|''Milton'', P. L., xii. 180.}}}}\n\n'''botch'''<sup>1</sup>† (boch), ''v. t.'' To mark with botches.\n{{smaller block|Young Hylas, ''botch’d'' with stains.\n{{right|''Garth'', Dispensary, ii. 150.}}}}\n\n'''botch'''<sup>2</sup> (boch), ''v.''   [Also E. dial. or colloq. ''bodge''<sup>1</sup>, q. v.; < ME. ''bocchen'', repair, of uncertain origin, perhaps < MD. ''botsen, butsen, boetsen'', repair, patch, same word as ''butsen'', D. ''botsen'', strike, beat, knock together, akin to OHG. ''bōzan'', beat, = E. ''beat''<sup>1</sup>. Cf. ''botch''<sup>1</sup> and ''boss''<sup>1</sup>.]   '''I.''' ''trans.'' '''1.''' To mend or patch in a clumsy manner, as a garment: often used figuratively.\n{{smaller block|<poem>To ''botch'' up what they had torn and rent,\nReligion and the government. {{right|''S. Butler'', Hudibras.}}</poem>\nTom coming, with whom I was angry for his ''botching'' my camlott coat, to tell me that my father was at our church, I got me ready.\n{{right|''Pepys'', Diary, I. 407.}}}}\n'''2.''' To put together unsuitably or unskilfully; perform, express, etc., in a bungling manner; hence, to spoil by unskilful work; bungle.\n{{smaller block|For treason ''botch’d'' in rhyme will be thy bane.\n{{right|''Dryden'', Abs. and Achit., ii. 485.}}}}\n\n'''II.''' ''intrans.'' To mend or patch things in an unskilful manner; be a bungler or botcher.\n\n'''botch'''<sup>2</sup> (boch), ''n.''   [< ''botch''<sup>2</sup>, ''v.'']   '''1.''' A bungled or ill-finished part; a flaw; a blemish.\n{{smaller block|To leave no rubs nor ''botches'' in the work.\n{{right|''Shak.'', Macbeth, iii. 1.}}}}\n'''2.''' A patch, or a part of a garment patched or mended in a clumsy manner.—'''3.''' That which is botched; ill-finished or bungled work generally.\n\n{{smaller block|Fancy the most assiduous potter, but without his wheel; reduced to make dishes, or rather amorphous ''botches'', by mere kneading and baking.\n{{right|''Carlyle.''}}}}\n{{smaller block|A poorly paid teacher, whose work is a ''botch'', and therefore an injury to the growing mind.\n{{right|''Jour. of Education'', XIX. 41.}}}}\n\n'''4.''' A bungling, unskilful workman or operator of any kind; a botcher.\n\n'''botchedly''' (boch′ed-li or bocht′li), ''adv.''   [< ''botched'', pp. of ''botch''<sup>2</sup>, ''v.'', + ''-ly''<sup>2</sup>.]   In a botched or clumsy manner; with botches or patches.\n{{smaller block|Thus patch they heaven, more ''botch’dly'' then old clothes.\n{{right|''Dr. H. More'', Psychathanasia, III. iii. 67.}}}}\n\n'''botcher<sup>1</sup>''' (boch′ėr), ''n.''   [< ME. *''bocchere'' (spelled ''bochchare'', Prompt. Parv.); < ''botch''<sup>2</sup> + ''-er''<sup>1</sup>.]   '''1.''' A mender; a repairer or patcher; specifically, a tailor who does repairing.\n{{smaller block|Let the ''botcher'' mend him: Anything that’s mended is but patched.\n{{right|''Shak.'', T. N., i. 5.}}}}\n{{smaller block|Physicians are the body’s cobblers, rather the ''botchers'' of men’s bodies; as the one patches our tatter’d clothes, so the other solders our diseased flesh.\n{{right|''Ford'', Lover’s Melancholy, i. 2.}}}}\n'''2.''' One who botches; a clumsy, bungling workman; a bungler.\n\n'''botcher<sup>2</sup>''' (boch′ėr), ''n.''   [Origin unknown.]   The grilse: a local English name in the Severn valley.\n\n'''botcherly''' (boch′ėr-li), ''a.''   [< ''botcher''<sup>1</sup> + ''-ly''<sup>1</sup>.]   Clumsy; unworkmanlike. [Rare.]\n{{smaller block|''Botcherly'' mingle-mangle of collections.\n{{right|''Hartlib'', tr. of Comenius, p. 30.}}}}\n{{smaller block|''Botcherly'' poetry, ''botcherly!''\n{{right|''Middleton and Rowley'', Spanish Gypsy, ii. 1.}}}}\n\n'''botchery''' (boch′ėr-i), ''n.''   [< ''botch''<sup>2</sup> + ''-ery''.]   A botching, or that which is botched; clumsy or bungling work or workmanship. [Rare.]\n{{smaller block|If we speak of base ''botchery'', were it a comely thing to see a great lord or a king wear sleeves of two parishes, one half of worsted, the other of velvet?\n{{right|''World of Wonders'' (1608), p. 235.}}}}\n\n'''botchka''' (boch′kä), ''n.'' Same as ''bochka''.\n\n'''botchy'''<sup>1</sup> (boch′i), ''a.''   [< ME. ''botchy'', ''bochy'', etc.; < ''botch''<sup>1</sup> + ''-y''<sup>1</sup>.]   Marked with botches; full of or covered with botches: as, “a ''botchy'' core,” ''Shak.'', T. and C., ii. 1.\n\n'''botchy'''<sup>2</sup> (boch′i), ''a.''   [< ''botch''<sup>2</sup> + ''-y''<sup>1</sup>.]   Imperfect; botched.\n\n'''bote'''<sup>1</sup> (bōt), ''n.''   [The ME. and AS. (dat.) form of ''boot''<sup>1</sup>, ML. ''bota'', retained archaically in law writings: see ''boot''<sup>1</sup>.]   '''1†.''' Help; aid; relief; salvation; remedy in illness; boot (which see). Specifically—'''2.''' In ''old law'': (''a'') Compensation, as for an injury; amends; satisfaction; a payment in expiation of an offense: as, man-''bote'', a compensation for a man slain. (''b'') A privilege or allowance of necessaries for repair or support; estovers: as, house-''bote'', enough wood to repair a house or for fuel; plow-''bote'', cart-''bote'', wood for making or repairing instruments of husbandry; hay-''bote'' or hedge-''bote'', wood for hedges or fences, etc.\n\n'''bote'''<sup>2</sup>†. Middle English preterit of ''bite''.\n\n'''bote'''<sup>3</sup>†, ''prep.'' and ''conj.'' A Middle English form of ''but''<sup>1</sup>.\n\n'''botel†''', ''n.'' An obsolete form of ''bottle''<sup>2</sup>.\n\n'''boteler†''', ''n.'' An obsolete form of ''butler''.\n\n'''boteless†''', ''a.'' A Middle English form of ''bootless''.\n\n'''boterol, boteroll''' (bot′e-rōl), ''n.''   [< F. ''bouterolle'', “the chape of a sheath or scabbard” (Cotgrave), < ''bouter'', place, adapt: see ''butt''<sup>1</sup>.]   In ''her.'', the chape or crampet of a scabbard used as a bearing. Also ''bauteroll''.\n\n'''botew†''', ''n.''   [Early mod. E. also ''boatewe'', ''botowe'', < late ME. ''botew'', ''butewe'', ''butwe'', ''botwe'', < ''bote'', boot, + ''-ew'', ''-ewe'', repr. F. ''-eau'', < L. ''-ellus'', dim. termination.]   A short boot.\n\n'''bot-fly''' (bot′flī), ''n.'' A name given to dipterous insects of the family ''Œstridæ'', the larvæ of which infest different parts of living animals. See ''bot''<sup>1</sup>. {{smaller|The horse-bot, ''Gasterophilus equi'' (Fabricius),}}\n{{smaller|is taken into the stomach of the horse; the ox-bot lives just under the cuticle of the ox; and the sheep-bot, ''Œstrus ovis'' (Linnæus), in the frontal sinuses of the sheep. Other animals are affected by particular species.}}\n\n[[File:century v01 p0662 c3f1.png|center|327px]]\n{{c|{{smaller|Horse Bot-fly (''Gasterophilus equi''), about natural size. ''a'', lateral view; ''b'', dorsal view.}}}}\n\n'''both''' (bōth), ''a.'' and ''pron.''   [= Sc. ''baith'', < ME. ''both'', ''booth'', earlier ''bothe'', ''bathe'', etc.; not found in AS. except in the simple form ''bā'', etc. (see below), but perhaps existent, being in OS., etc.; otherwise taken from Scand.; = OS. ''bēdhie'', ''bēdhia'' = OFries. ''bēthe'', ''bēde'' = OHG. ''bēde'', ''beide'', MHG. G. ''beide'' = Icel. ''bādhir'', m., ''bādhar'', f., ''bœdhi'', ''bādhi'', neut., = Sw. ''båda'' = Dan. ''baade'', both; cf. Goth. ''bajōths'', n. pl., both; < Goth. ''bai'' = AS. ''bā'' (''begen'', ''bu''), both, ME. ''ba'', ''bo''; cf. L. ''ambo'' = Gr. ἄμφω = Skt. ''ubhāu'', both: see ''bo''<sup>1</sup>; with a termination of obscure origin, perhaps orig. the def. art. in pl. (AS. ''thā'' = Goth. ''thai'', ''thō'', etc.) coalesced with the adj.; but this explanation does not apply to the Goth. ''bajōths''.]   The one and the other; the two; the pair or the couple, in reference to two persons or things specially mentioned, and denoting that neither of them is to be excluded, either absolutely or (as with ''either'') as an alternative, from the statement.\n{{smaller block|Youre ''bother'' love [the love of you both].\n{{right|''Chaucer'', Troilus, iv. 168.}}}}\n{{smaller block|And Abraham took sheep and oxen, and gave them unto Abimelech; and ''both'' of them made a covenant.\n{{right|Gen. xxi. 27.}}}}\n{{smaller block|He will not bear the loss of his rank, because he can bear the loss of his estate; but he will bear ''both'', because he is prepared for ''both''. {{right|''Bolingbroke''.}}}}\n{{smaller block|''Both'' had been presidents, ''both'' had lived to great age, ''both'' were early patriots, and ''both'' were distinguished and ever honored by their immediate agency in the act of independence. {{right|''D. Webster'', Adams and Jefferson.}}}}\n{{smaller block|[The genitive ''both’s'' (ME. ''bothes'', ''bothers'', earlier ''bother'', ''bathre'') is now disused; in the earlier period it was joined usually with the genitive plural of the personal pronoun. Subsequently the simple ''both'', equivalent to ''of both'', was used.}}<noinclude><references/></noinclude>"
+}

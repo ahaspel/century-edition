@@ -1,0 +1,219 @@
+{
+ "volume": 1,
+ "page_number": 512,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n511.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n511.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 743,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     94,
+     129,
+     2309,
+     173
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     94,
+     173,
+     833,
+     1266
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     94,
+     1266,
+     833,
+     2208
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     94,
+     2208,
+     833,
+     3279
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     833,
+     173,
+     1579,
+     1169
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     833,
+     1169,
+     1579,
+     2254
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     833,
+     2254,
+     1579,
+     3279
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1579,
+     173,
+     2309,
+     1255
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1579,
+     1255,
+     2309,
+     2012
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1579,
+     2012,
+     2309,
+     3094
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1673,
+     2117,
+     2213,
+     2521
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1579,
+     3094,
+     2309,
+     3279
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|beadhook|486|beak}}",
+   "c1s1": "¶\n'''beadhook†''' (bēd′hu̇k), ''n.'' [Early mod. E. also ''beedhook'' (naut.), corruptly ''bidhook''; < ''bead'' (uncertain) + ''hook''.] A kind of boat-hook.\n{{smaller block|''2d Le.'' Arm’d men? with drum and colours?<br>''Se.'' No, my lord,<br>But bright in arms, yet bear half pikes or ''beadhooks.''\n{{right|''Chapman'', Cæsar and Pompey, v. 1.}}}}\n\n'''beadhouse''' (bēd′hous), ''n.'' [Also archaically ''bedehouse'', north. dial. ''beadus'' (not found in ME.), < AS. ''bedhūs'', < ''bedu'', prayer, + ''hūs'', house: see ''bead'' and ''house''.] Formerly, a hospital or an almshouse for the founders and benefactors of which prayers were required to be said by the beneficiaries. Also spelled ''bedehouse''.\n\n'''beadiness''' (bē′di-nes), ''n.'' The quality of being beady.\n\n'''beading''' (bē′ding), ''n.'' [< ''bead'' + ''-ing''<sup>1</sup>.] '''1.''' In ''arch.'' and ''joinery'', a bead; collectively, the beads used in ornamenting a given structure or surface.—'''2.''' In ''bookbinding'', see ''bead'', ''n.'', 10.—'''3.''' In ''com.'', a preparation added to weak spirituous liquors to cause them to carry a bead, and to hang in pearly drops about the sides of the bottle or glass when poured out or shaken, it being a popular notion that spirit is strong in proportion as it shows such globules. {{smaller|A very small quantity of oil of vitriol or oil of almonds mixed with rectified spirit is often used for this purpose.}}\n\n'''beadle''' (bē′dl), ''n.'' [Early mod. E. also ''bedle'', ''beedle'' (Sc. ''beddal''), < ME. ''bedel'', ''bidel'', ''budel'' (with accent on first syllable), < AS. ''bydel'' (= D. ''beul'' = OHG. ''butil'', MHG. ''bütel'', G. ''büttel''), a beadle, < ''beódan'', announce, command, bid: see ''bid''. The word merged in ME. with ''bedel'', ''bedell'',",
+   "c1s2": "with accent on the last syllable (whence the mod. forms ''bedel'', ''bedell''), < OF. ''bedel'', mod. F. ''bedeau'' = Pr. Sp. Pg. ''bedel'' = It. ''bidello'' (ML. ''bedellus'', ''bidellus''), from Teut. The reg. mod. form from ME. ''bidel'', < AS. ''bydel'', would be mod. ''biddle''; it so exists in the proper name ''Biddle''.] '''1†.''' One who makes proclamation; a herald.—'''2.''' A crier or messenger of a court; a servitor; one who cites persons to appear and answer. [Rare.]—'''3.''' In universities, a subaltern official or servant, properly and usually termed a ''bedel'' (which see).\n{{smaller block|It shall be the duty of the faculty to appoint a college ''beadle'', who shall direct the procession on Commencement day, and preserve order during the exhibitions.\n{{right|''Laws of Yale College'', 1837.}}}}\n'''4.''' In England, a parish officer having various subordinate duties, such as keeping order in church, punishing petty offenders, waiting on the clergyman, attending meetings of vestry or session, etc.\n{{smaller block|<poem>And I, forsooth, in love! I, that have been love’s whip;\nA very ''beadle'' to a humorous sigh,\nA critic; nay, a night-watch constable.\n{{right|''Shak.'', L. L. L., iii. 1.}}\nBread and a slavish ease, with some assurance\nFrom the base ''beadle’s'' whip, crown’d all thy hopes.\n{{right|''Ford'', Perkin Warbeck, v. 3.}}</poem>}}\n'''5.''' The apparitor of a trades guild or company.\n\nAlso spelled ''bedell'' and ''bedel'', in senses 2 and 3.",
+   "c1s3": "¶\n'''beadledom''' (bē′dl-dum), ''n.'' [< ''beadle'' + ''-dom.''] Beadles collectively, and their characteristics as a class; stupid officiousness.\n\n'''beadleism''' (bē′dl-izm), ''n.'' [< ''beadle'' + ''-ism.''] The character or peculiarities of beadles; beadledom. ''Dickens.'' [Rare.]\n\n'''beadlery''' (bē′dl-ri), ''n.'' [< ''beadle'' + ''-ry.''] The office or jurisdiction of a beadle.\n\n'''beadleship''' (bē′dl-ship), ''n.'' [< ''beadle'' + ''-ship.''] The office of beadle.\n\n'''bead-loom''' (bēd′löm), ''n.'' A gauze-loom for making beadwork, the threads used being strung with beads.\n\n'''beadman''' (bēd′man), ''n.''; pl. ''beadmen'' (-men). [< ME. ''bedeman'', < ''bede'', bead, a prayer, + ''man.''] The original form of ''beadsman.''\n{{smaller block|They lade the lips of their ''beadmen'', or chaplains, with so many masses.\n{{right|''Tyndale.''}}\nHaving thus owned the continuing sovereignty of the king, before whom they presented themselves as ''bedemen.''\n{{right|''Bancroft'', Hist. U. S., V. 12.}}}}\n\n'''bead-mold''' (bēd′mōld), ''n.'' A name given to various species of mucedinous fungi, in which the spores are in necklace-like chains. {{smaller|They belong to ''Penicillium'', ''Aspergillus'', and similar genera, and are found on various vegetable kinds of food and other substances, causing decay.}}\n\n'''bead-molding''' (bēd′mōl″ding), ''n.'' In ''arch.'', same as ''bead'', 9.\n\n'''bead-plane''' (bēd′plān), ''n.'' A form of plane used for cutting a bead. {{smaller|The cutting edge of the plane-iron is a semicircle with a diameter equal to the diameter of the required molding.}}\n\n'''bead-proof''' (bēd′pröf), ''a.'' '''1.''' Of such a nature or quality that a crown of bubbles formed by",
+   "c2s1": "shaking will stand for some time on the surface: said of spirituous liquors, and erroneously supposed to indicate strength.—'''2.''' Of a certain standard of strength as ascertained by beads. See ''bead'', ''n.'', 7.\n\n¶\n'''bead-roll''' (bēd′rōl), ''n.'' [< ''bead'', a prayer, + ''roll'', a list.] '''1.''' A list of prayers; specifically, before the Reformation, the list of the persons and objects for which prayers were said, read out by the preacher before the sermon. {{smaller|In “an order [of Henry VIII., {{sc|a. d.}} 1534] taken for preaching and bidding of the beads, in all sermons to be made within this realm,” mention is made of the church catholic, especially in England, of the king and royal family, of the bishops and clergy, of the nobility and entire temporalty (laity) of the kingdom, particularly of such as the preacher’s devotion may prompt him to name, and of the souls of the faithful departed. The bead-roll was prohibited by Edward VI. in 1548. It has often been supposed by later writers to have had something to do with the recital of the beads or rosary.}}\n'''2.''' Figuratively, any list or catalogue; a long series.\n{{smaller block|<poem>Dan Chaucer, well of English undefyled,\nOn Fames eternall ''beadroll'' worthie to be fyled.</poem>\n{{right|''Spenser'', F. Q., IV. ii. 32.}}\nNeither is the Scripture without a pitiful ''beadrow'' of miserable torments.\n{{right|''Bullinger’s Decades'', 1587 (trans. Parker Soc.).}}\nThe ''bead-roll'' of her vicious tricks. ''Prior'', Alma, iii.}}\n'''3.''' A rosary.—'''4.''' [< ''bead'', a dot, + ''roll'', a cylinder.] In ''bookbinding'', a brass roll with the edge cut in dots or beads, used in gilding. Also called ''bead-row.''",
+   "c2s2": "¶\n'''bead-sight''' (bēd′sīt), ''n.'' A sight on a firearm consisting of a small round bead on a thin stem, placed in the line of sight at the end of the barrel. Sometimes a small ring or perforated bead is used, forming an ''open bead-sight.''\n\n'''beadsman''' (bēdz′man), ''n.''; pl. ''beadsmen'' (-men). [Also ''bedesman'', earlier ''bedeman'', < ME. ''bedeman'', < ''bede'', a prayer (see ''bead''), + ''man''.] '''1.''' A man employed in praying; especially, one who prays for another. {{smaller|In this sense the word was used in former times at the conclusion of petitions or letters to great men, as we now use “servant” or “humble servant.”}}\n{{smaller block|Whereby ye shall bind me to be your poor ''beadsman'' for ever unto almighty God.\n{{right|''Fuller.''}}\nWe your most humble subjects, daily orators, and ''beadsmen'', of your Clergy of England.\n{{right|Quoted in ''R. W. Dixon’s'' Hist. Church of Eng., ii.}}}}\n'''2.''' In England, a man who resides in a bead-house or almshouse, or is supported from its funds.\n{{smaller block|In all our old English foundations for the sick, the old, and destitute, the beads — that is to say, prayers for benefactors living and dead — were said every day by the inmates, who were hence also called ''beadsmen.''\n{{right|Quoted in ''Rock’s'' Church of our Fathers, III. i. 136, note.}}}}\n'''3.''' Formerly, in Scotland, a public almsman; one who received alms from the king, and was expected in return to pray for the royal welfare and that of the state; a privileged or licensed beggar. In this sense usually spelled ''bedesman.''\n{{smaller block|A long blue gown, with a pewter badge on the right arm; two or three wallets for holding the different kinds of meal, when he received his charity; . . . all these at once marked a beggar by profession, and one of that privileged class which are called in Scotland the King’s ''bedes-''}}",
+   "c2s3": "{{smaller block|''men'', or, vulgarly, Blue-gowns. {{right|''Scott'', Antiquary, I. iv.}}}}\n'''4†.''' A petitioner.\n\n'''bead-snake''' (bēd′snāk), ''n.'' [< ''bead'' (in allusion to its coloring) + ''snake''.] A name of the coral-snake, ''Elaps fulvius'', of the United States.\n\n'''bead-stuff''' (bēd′stuf), ''n.'' The thin wood out of which are formed the beadings for cabinet-work.\n\n'''beadswoman''' (bēdz′wu̇m″an), ''n.''; pl. ''beads-women'' (-wim″en). [Also ''bedeswoman'', earlier ''bedewoman'', < ME. ''bede'', a prayer, + ''woman''. Cf. ''beadsman''.] '''1.''' A praying woman: sometimes used as an equivalent to “humble servant.” See ''beadsman''.\n{{smaller block|Honour done to your poor ''beadswoman''.\n{{right|''B. Jonson'', Sad Shepherd, ii. 6.}}\n<poem>My humblest service to his grace,\nI am his ''beads-woman''.</poem>\n{{right|''Shirley'', Grateful Servant, iii. 1.}}}}\n'''2.''' In England, a woman who resides in an alms-house.\n\n'''bead-tool''' (bēd′töl), ''n.'' '''1.''' A turning-tool which has its cutting face ground to a concave curve, so that it may produce a convex molding when applied to the work.—'''2.''' In ''seal-engraving'', a tool with an end adapted for cutting the balls and beads of coronets and other designs.\n\n'''bead-tree''' (bēd′trē), ''n.'' '''1.''' The ''Melia Azedarach'', natural order ''Meliaceæ''. {{smaller|Its nuts are used for the beads of rosaries, especially in Spain and Portugal. See ''Melia''.}}\n'''2.''' The name in Jamaica of a leguminous timber-tree, ''Ormosia dasycarpa'', with red globose",
+   "c3s1": "seeds.—'''Black bead-tree''', of Jamaica, ''Pithecolobium Unguis-cati.''\n\n¶\n'''beadwork''' (bēd′wėrk), ''n.'' '''1.''' Ornamental work formed of beads by embroidering, crocheting, etc.—'''2.''' In ''joinery'', beading (which see).\n\n'''beady''' (bē′di), ''a.'' [< ''bead'' + ''-y''<sup>1</sup>.] '''1.''' Bead-like; small, round, and glittering: applied especially to eyes.\n{{smaller block|Miss Crawley could not look without seeing Mr. Bute’s ''beady'' eyes eagerly fixed on her.\n{{right|''Thackeray'', Vanity Fair, I. xix.}}\n<poem>The titmouse turns his ''beady'' eye\nUpon me as I wander by.</poem>\n{{right|''Joel Benton'', December Woods.}}}}\n'''2.''' Covered with or full of beads; having a bead, as ale or other liquor.\n\n'''beagle''' (bē′gl), ''n.'' [Formerly ''begele'', ''begle''; < late ME. ''begle''; origin unknown. The F. ''bigle'' is from the E.] '''1.''' A small hound, formerly kept to hunt hares, now almost superseded by the harrier, which is sometimes called by this name. {{smaller|The beagle is smaller than the harrier, compactly built, smooth-haired, and has pendulous ears. The smallest beagles are little larger than lap-dogs.}}\n{{smaller block|<poem>To plains with well-breathed ''beagles'' we repair,\nAnd trace the mazes of the circling hare.</poem>\n{{right|''Pope'', Windsor Forest, l. 121.}}}}\nHence—'''2.''' Figuratively, one who makes a business of scenting out or hunting down (a person or thing); a spy; a bailiff or sheriff’s officer.\n{{smaller block|<poem>There ''beagles'' flew\nTo haud the souter lads in order. ''J. Mayne.''</poem>}}\n'''3.''' A local name for several species of the smaller sharks.",
+   "c3s2": "¶\n'''beak<sup>1</sup>''' (bēk), ''n.'' [Early mod. E. also ''beeke'', and, preserving the orig. short vowel, ''beck'', ''becke'', < ME. ''beeke'', ''beke'', ''bek'', ''bec'' = D. ''bek'', < OF. ''bec'', F. ''bec'' = Pr. ''bec'' = Sp. Pg. ''bico'' = It. ''becco'', < LL. ''beccus'', a beak, of Old Celtic (Gaulish) origin; but the mod. Celtic words, Gael. ''beic'', Ir. ''bec'', Bret. ''bek'', are from E. or F. The word is notionally associated with E. ''peak'', ''peck'', ''pike'', and ''pick'', q. v.] '''1.''' In ''zoöl.'', the rostrum, snout, muzzle, jaws, mandibles, or some similar part of an animal. {{smaller|Especially—(''a'') In ''ornith.'', the horny bill or neb of a bird. (''b'') In ''mammal.'', the horny jaws of the duck-billed members of the genus ''Platypus''. (''c'') In ''herpet.'', the horny jaws of a turtle or other chelonian. (''d'') In ''ichth.'', the prolonged snout of sundry fishes. (''e'') The horny jaws of a cephalopod. (''f'') In ''entom.'': (1) the rostrum or snout of a rhynchophorous beetle, or weevil; (2) the rostrum or sucking mouth of a hemipterous insect; (3) the piercing and suctorial mouth of a mosquito, or other blood-sucking fly, consisting of lancet-like mandibles, maxillæ, and lingua inclosed in the elongated and grooved labium. (See cut under ''mosquito''.) This term is also applied to any unusual prolongation of the anterior part of the head, such as that observed in many ''Coleoptera'' and ''Diptera''. (''g'') In ''conch.'': (1) the umbo or apex of a bivalve shell; (2) the prolonged lip of a univalve shell, containing the canal.}}",
+   "c3s3": "'''2.''' Anything ending in a point like a beak. (''a'') ''Naut.'', a powerful construction of metal, as steel, iron, or brass, or of timber sheathed with metal, forming\n[[FIGURE]]\n{{c|{{smaller|Beaks of Ships.}}}}\n{{smaller block|1, French ironclad Magenta; 2, Amiral Duperré (French); 3, H. M. S. Dreadnought; 4, H. M. S. Polyphemus (torpedo-ram). ''a'', water-line.}}\na part of the bow of many war-ships, and extending below the water-line, for the purpose of striking and breaking in the sides of an enemy’s ship. Also called ''ram'' (which see). For a cut of the beak of an ancient war-galley, see ''acrostolium''. (''b'') The horn of an anvil. (''c'') In ''farriery'', a little shoe about an inch long, turned up and fastened in upon the fore part of the hoof. (''d'') In ''arch.'', a little pendent fillet with a channel behind it left on the edge of a larmier, to form a drip and thus prevent the water from trickling down the faces of lower architectural members. (''e'') In ''bot.'', a narrowed or prolonged tip. (''f'') In ''carp.'', the crooked end of the holdfast of a carpenter’s bench. (''g'') The lip or spout of a vessel, as a pitcher, through which the contents are poured. (''h'') In ''chem.'', the rostrum of an alembic, which conducts the vapor to the worm. (''i'') The long point of the peculiar boot or shoe worn from about 1475 to 1520; also, the point of the clog worn at the same period, which was often longer than the",
+   "c3s4": "{{smaller block|shoe itself. See ''sölleret''.}}\n'''3.''' A gas-burner having a round smooth hole <math>\\tfrac{1}{28}</math> of an inch in diameter; a bird’s-mouth.—'''4.''' A beak-iron (which see).\n\n'''beak<sup>1</sup>''' (bēk), ''v. t.'' [< ''beak''<sup>1</sup>, ''n.''] In ''cock-fighting'', to seize or strike with the beak."
+  },
+  "figure_files": {
+   "c3f1": "century v01 p0512 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1685,
+     2129,
+     2201,
+     2509
+    ],
+    "caption": [
+     1595,
+     2523,
+     2309,
+     2614
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1597,
+     2099,
+     2309,
+     2505
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4058,
+    "output_tokens": 91,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9566,
+    "output_tokens": 8150,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|beadhook|486|beak}}</noinclude>{{nop}}'''beadhook†''' (bēd′hu̇k), ''n.''   [Early mod. E. also ''beedhook'' (naut.), corruptly ''bidhook''; < ''bead'' (uncertain) + ''hook''.]   A kind of boat-hook.\n{{smaller block|<poem>''2d Le.'' Arm’d men? with drum and colours?\n''Se.'' No, my lord,\nBut bright in arms, yet bear half pikes or ''beadhooks.''</poem>\n{{right|''Chapman'', Cæsar and Pompey, v. 1.}}}}\n\n'''beadhouse''' (bēd′hous), ''n.''   [Also archaically ''bedehouse'', north. dial. ''beadus'' (not found in ME.), < AS. ''bedhūs'', < ''bedu'', prayer, + ''hūs'', house: see ''bead'' and ''house''.]   Formerly, a hospital or an almshouse for the founders and benefactors of which prayers were required to be said by the beneficiaries. Also spelled ''bedehouse''.\n\n'''beadiness''' (bē′di-nes), ''n.'' The quality of being beady.\n\n'''beading''' (bē′ding), ''n.''   [< ''bead'' + ''-ing''<sup>1</sup>.]   '''1.''' In ''arch.'' and ''joinery'', a bead; collectively, the beads used in ornamenting a given structure or surface.—'''2.''' In ''bookbinding'', see ''bead'', ''n.'', 10.—'''3.''' In ''com.'', a preparation added to weak spirituous liquors to cause them to carry a bead, and to hang in pearly drops about the sides of the bottle or glass when poured out or shaken, it being a popular notion that spirit is strong in proportion as it shows such globules. {{smaller|A very small quantity of oil of vitriol or oil of almonds mixed with rectified spirit is often used for this purpose.}}\n\n'''beadle''' (bē′dl), ''n.''   [Early mod. E. also ''bedle'', ''beedle'' (Sc. ''beddal''), < ME. ''bedel'', ''bidel'', ''budel'' (with accent on first syllable), < AS. ''bydel'' (= D. ''beul'' = OHG. ''butil'', MHG. ''bütel'', G. ''büttel''), a beadle, < ''beódan'', announce, command, bid: see ''bid''. The word merged in ME. with ''bedel'', ''bedell'', with accent on the last syllable (whence the mod. forms ''bedel'', ''bedell''), < OF. ''bedel'', mod. F. ''bedeau'' = Pr. Sp. Pg. ''bedel'' = It. ''bidello'' (ML. ''bedellus'', ''bidellus''), from Teut. The reg. mod. form from ME. ''bidel'', < AS. ''bydel'', would be mod. ''biddle''; it so exists in the proper name ''Biddle''.]   '''1†.''' One who makes proclamation; a herald.—'''2.''' A crier or messenger of a court; a servitor; one who cites persons to appear and answer. [Rare.]—'''3.''' In universities, a subaltern official or servant, properly and usually termed a ''bedel'' (which see).\n{{smaller block|It shall be the duty of the faculty to appoint a college ''beadle'', who shall direct the procession on Commencement day, and preserve order during the exhibitions.\n{{right|''Laws of Yale College'', 1837.}}}}\n'''4.''' In England, a parish officer having various subordinate duties, such as keeping order in church, punishing petty offenders, waiting on the clergyman, attending meetings of vestry or session, etc.\n{{smaller block|<poem>And I, forsooth, in love! I, that have been love’s whip;\nA very ''beadle'' to a humorous sigh,\nA critic; nay, a night-watch constable.\n{{right|''Shak.'', L. L. L., iii. 1.}}\nBread and a slavish ease, with some assurance\nFrom the base ''beadle’s'' whip, crown’d all thy hopes.\n{{right|''Ford'', Perkin Warbeck, v. 3.}}</poem>}}\n'''5.''' The apparitor of a trades guild or company.\n\nAlso spelled ''bedell'' and ''bedel'', in senses 2 and 3.\n\n'''beadledom''' (bē′dl-dum), ''n.''   [< ''beadle'' + ''-dom.'']   Beadles collectively, and their characteristics as a class; stupid officiousness.\n\n'''beadleism''' (bē′dl-izm), ''n.''   [< ''beadle'' + ''-ism.'']   The character or peculiarities of beadles; beadledom.   ''Dickens.'' [Rare.]\n\n'''beadlery''' (bē′dl-ri), ''n.''   [< ''beadle'' + ''-ry.'']   The office or jurisdiction of a beadle.\n\n'''beadleship''' (bē′dl-ship), ''n.''   [< ''beadle'' + ''-ship.'']   The office of beadle.\n\n'''bead-loom''' (bēd′löm), ''n.'' A gauze-loom for making beadwork, the threads used being strung with beads.\n\n'''beadman''' (bēd′man), ''n.''; pl. ''beadmen'' (-men).   [< ME. ''bedeman'', < ''bede'', bead, a prayer, + ''man.'']   The original form of ''beadsman.''\n{{smaller block|They lade the lips of their ''beadmen'', or chaplains, with so many masses.\n{{right|''Tyndale.''}}}}\n{{smaller block|Having thus owned the continuing sovereignty of the king, before whom they presented themselves as ''bedemen.''\n{{right|''Bancroft'', Hist. U. S., V. 12.}}}}\n\n'''bead-mold''' (bēd′mōld), ''n.'' A name given to various species of mucedinous fungi, in which the spores are in necklace-like chains. {{smaller|They belong to ''Penicillium'', ''Aspergillus'', and similar genera, and are found on various vegetable kinds of food and other substances, causing decay.}}\n\n'''bead-molding''' (bēd′mōl″ding), ''n.'' In ''arch.'', same as ''bead'', 9.\n\n'''bead-plane''' (bēd′plān), ''n.'' A form of plane used for cutting a bead. {{smaller|The cutting edge of the plane-iron is a semicircle with a diameter equal to the diameter of the required molding.}}\n\n'''bead-proof''' (bēd′pröf), ''a.'' '''1.''' Of such a nature or quality that a crown of bubbles formed by shaking will stand for some time on the surface: said of spirituous liquors, and erroneously supposed to indicate strength.—'''2.''' Of a certain standard of strength as ascertained by beads. See ''bead'', ''n.'', 7.\n\n'''bead-roll''' (bēd′rōl), ''n.''   [< ''bead'', a prayer, + ''roll'', a list.]   '''1.''' A list of prayers; specifically, before the Reformation, the list of the persons and objects for which prayers were said, read out by the preacher before the sermon. {{smaller|In “an order [of Henry VIII., {{sc|a. d.}} 1534] taken for preaching and bidding of the beads, in all sermons to be made within this realm,” mention is made of the church catholic, especially in England, of the king and royal family, of the bishops and clergy, of the nobility and entire temporalty (laity) of the kingdom, particularly of such as the preacher’s devotion may prompt him to name, and of the souls of the faithful departed. The bead-roll was prohibited by Edward VI. in 1548. It has often been supposed by later writers to have had something to do with the recital of the beads or rosary.}}\n'''2.''' Figuratively, any list or catalogue; a long series.\n{{smaller block|<poem>Dan Chaucer, well of English undefyled,\nOn Fames eternall ''beadroll'' worthie to be fyled.</poem>\n{{right|''Spenser'', F. Q., IV. ii. 32.}}}}\n{{smaller block|Neither is the Scripture without a pitiful ''beadrow'' of miserable torments.\n{{right|''Bullinger’s Decades'', 1587 (trans. Parker Soc.).}}}}\n{{smaller block|The ''bead-roll'' of her vicious tricks.\n{{right|''Prior'', Alma, iii.}}}}\n'''3.''' A rosary.—'''4.''' [< ''bead'', a dot, + ''roll'', a cylinder.] In ''bookbinding'', a brass roll with the edge cut in dots or beads, used in gilding. Also called ''bead-row.''\n\n'''bead-sight''' (bēd′sīt), ''n.'' A sight on a firearm consisting of a small round bead on a thin stem, placed in the line of sight at the end of the barrel. Sometimes a small ring or perforated bead is used, forming an ''open bead-sight.''\n\n'''beadsman''' (bēdz′man), ''n.''; pl. ''beadsmen'' (-men).   [Also ''bedesman'', earlier ''bedeman'', < ME. ''bedeman'', < ''bede'', a prayer (see ''bead''), + ''man''.]   '''1.''' A man employed in praying; especially, one who prays for another. {{smaller|In this sense the word was used in former times at the conclusion of petitions or letters to great men, as we now use “servant” or “humble servant.”}}\n{{smaller block|Whereby ye shall bind me to be your poor ''beadsman'' for ever unto almighty God.\n{{right|''Fuller.''}}}}\n{{smaller block|We your most humble subjects, daily orators, and ''beadsmen'', of your Clergy of England.\n{{right|Quoted in ''R. W. Dixon’s'' Hist. Church of Eng., ii.}}}}\n'''2.''' In England, a man who resides in a bead-house or almshouse, or is supported from its funds.\n{{smaller block|In all our old English foundations for the sick, the old, and destitute, the beads — that is to say, prayers for benefactors living and dead — were said every day by the inmates, who were hence also called ''beadsmen.''\n{{right|Quoted in ''Rock’s'' Church of our Fathers, III. i. 136, note.}}}}\n'''3.''' Formerly, in Scotland, a public almsman; one who received alms from the king, and was expected in return to pray for the royal welfare and that of the state; a privileged or licensed beggar. In this sense usually spelled ''bedesman.''\n{{smaller block|A long blue gown, with a pewter badge on the right arm; two or three wallets for holding the different kinds of meal, when he received his charity; . . . all these at once marked a beggar by profession, and one of that privileged class which are called in Scotland the King’s ''bedesmen'', or, vulgarly, Blue-gowns. {{right|''Scott'', Antiquary, I. iv.}}}}\n'''4†.''' A petitioner.\n\n'''bead-snake''' (bēd′snāk), ''n.''   [< ''bead'' (in allusion to its coloring) + ''snake''.]   A name of the coral-snake, ''Elaps fulvius'', of the United States.\n\n'''bead-stuff''' (bēd′stuf), ''n.'' The thin wood out of which are formed the beadings for cabinet-work.\n\n'''beadswoman''' (bēdz′wu̇m″an), ''n.''; pl. ''beads-women'' (-wim″en).   [Also ''bedeswoman'', earlier ''bedewoman'', < ME. ''bede'', a prayer, + ''woman''. Cf. ''beadsman''.]   '''1.''' A praying woman: sometimes used as an equivalent to “humble servant.” See ''beadsman''.\n{{smaller block|Honour done to your poor ''beadswoman''.\n{{right|''B. Jonson'', Sad Shepherd, ii. 6.}}}}\n{{smaller block|<poem>My humblest service to his grace,\nI am his ''beads-woman''.</poem>\n{{right|''Shirley'', Grateful Servant, iii. 1.}}}}\n'''2.''' In England, a woman who resides in an alms-house.\n\n'''bead-tool''' (bēd′töl), ''n.'' '''1.''' A turning-tool which has its cutting face ground to a concave curve, so that it may produce a convex molding when applied to the work.—'''2.''' In ''seal-engraving'', a tool with an end adapted for cutting the balls and beads of coronets and other designs.\n\n'''bead-tree''' (bēd′trē), ''n.'' '''1.''' The ''Melia Azedarach'', natural order ''Meliaceæ''. {{smaller|Its nuts are used for the beads of rosaries, especially in Spain and Portugal. See ''Melia''.}}\n'''2.''' The name in Jamaica of a leguminous timber-tree, ''Ormosia dasycarpa'', with red globose seeds.—'''Black bead-tree''', of Jamaica, ''Pithecolobium Unguis-cati.''\n\n'''beadwork''' (bēd′wėrk), ''n.'' '''1.''' Ornamental work formed of beads by embroidering, crocheting, etc.—'''2.''' In ''joinery'', beading (which see).\n\n'''beady''' (bē′di), ''a.''   [< ''bead'' + ''-y''<sup>1</sup>.]   '''1.''' Bead-like; small, round, and glittering: applied especially to eyes.\n{{smaller block|Miss Crawley could not look without seeing Mr. Bute’s ''beady'' eyes eagerly fixed on her.\n{{right|''Thackeray'', Vanity Fair, I. xix.}}}}\n{{smaller block|<poem>The titmouse turns his ''beady'' eye\nUpon me as I wander by.</poem>\n{{right|''Joel Benton'', December Woods.}}}}\n'''2.''' Covered with or full of beads; having a bead, as ale or other liquor.\n\n'''beagle''' (bē′gl), ''n.''   [Formerly ''begele'', ''begle''; < late ME. ''begle''; origin unknown. The F. ''bigle'' is from the E.]   '''1.''' A small hound, formerly kept to hunt hares, now almost superseded by the harrier, which is sometimes called by this name. {{smaller|The beagle is smaller than the harrier, compactly built, smooth-haired, and has pendulous ears. The smallest beagles are little larger than lap-dogs.}}\n{{smaller block|<poem>To plains with well-breathed ''beagles'' we repair,\nAnd trace the mazes of the circling hare.</poem>\n{{right|''Pope'', Windsor Forest, l. 121.}}}}\nHence—'''2.''' Figuratively, one who makes a business of scenting out or hunting down (a person or thing); a spy; a bailiff or sheriff’s officer.\n{{smaller block|<poem>There ''beagles'' flew\nTo haud the souter lads in order. ''J. Mayne.''</poem>}}\n'''3.''' A local name for several species of the smaller sharks.\n\n'''beak<sup>1</sup>''' (bēk), ''n.''   [Early mod. E. also ''beeke'', and, preserving the orig. short vowel, ''beck'', ''becke'', < ME. ''beeke'', ''beke'', ''bek'', ''bec'' = D. ''bek'', < OF. ''bec'', F. ''bec'' = Pr. ''bec'' = Sp. Pg. ''bico'' = It. ''becco'', < LL. ''beccus'', a beak, of Old Celtic (Gaulish) origin; but the mod. Celtic words, Gael. ''beic'', Ir. ''bec'', Bret. ''bek'', are from E. or F. The word is notionally associated with E. ''peak'', ''peck'', ''pike'', and ''pick'', q. v.]   '''1.''' In ''zoöl.'', the rostrum, snout, muzzle, jaws, mandibles, or some similar part of an animal. {{smaller|Especially—(''a'') In ''ornith.'', the horny bill or neb of a bird. (''b'') In ''mammal.'', the horny jaws of the duck-billed members of the genus ''Platypus''. (''c'') In ''herpet.'', the horny jaws of a turtle or other chelonian. (''d'') In ''ichth.'', the prolonged snout of sundry fishes. (''e'') The horny jaws of a cephalopod. (''f'') In ''entom.'': (1) the rostrum or snout of a rhynchophorous beetle, or weevil; (2) the rostrum or sucking mouth of a hemipterous insect; (3) the piercing and suctorial mouth of a mosquito, or other blood-sucking fly, consisting of lancet-like mandibles, maxillæ, and lingua inclosed in the elongated and grooved labium. (See cut under ''mosquito''.) This term is also applied to any unusual prolongation of the anterior part of the head, such as that observed in many ''Coleoptera'' and ''Diptera''. (''g'') In ''conch.'': (1) the umbo or apex of a bivalve shell; (2) the prolonged lip of a univalve shell, containing the canal.}} '''2.''' Anything ending in a point like a beak. (''a'') ''Naut.'', a powerful construction of metal, as steel, iron, or brass, or of timber sheathed with metal, forming\na part of the bow of many war-ships, and extending below the water-line, for the purpose of striking and breaking in the sides of an enemy’s ship. Also called ''ram'' (which see). For a cut of the beak of an ancient war-galley, see ''acrostolium''. (''b'') The horn of an anvil. (''c'') In ''farriery'', a little shoe about an inch long, turned up and fastened in upon the fore part of the hoof. (''d'') In ''arch.'', a little pendent fillet with a channel behind it left on the edge of a larmier, to form a drip and thus prevent the water from trickling down the faces of lower architectural members. (''e'') In ''bot.'', a narrowed or prolonged tip. (''f'') In ''carp.'', the crooked end of the holdfast of a carpenter’s bench. (''g'') The lip or spout of a vessel, as a pitcher, through which the contents are poured. (''h'') In ''chem.'', the rostrum of an alembic, which conducts the vapor to the worm. (''i'') The long point of the peculiar boot or shoe worn from about 1475 to 1520; also, the point of the clog worn at the same period, which was often longer than the {{smaller block|shoe itself. See ''sölleret''.}}\n'''3.''' A gas-burner having a round smooth hole <math>\\tfrac{1}{28}</math> of an inch in diameter; a bird’s-mouth.—'''4.''' A beak-iron (which see).\n\n[[File:century v01 p0512 c3f1.png|center|262px]]\n{{c|{{smaller|Beaks of Ships.}}}}\n{{smaller block|1, French ironclad Magenta; 2, Amiral Duperré (French); 3, H. M. S. Dreadnought; 4, H. M. S. Polyphemus (torpedo-ram). ''a'', water-line.}}\n\n'''beak<sup>1</sup>''' (bēk), ''v. t.''   [< ''beak''<sup>1</sup>, ''n.'']   In ''cock-fighting'', to seize or strike with the beak.<noinclude><references/></noinclude>"
+}

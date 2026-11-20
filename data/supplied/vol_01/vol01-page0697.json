@@ -1,0 +1,219 @@
+{
+ "volume": 1,
+ "page_number": 697,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n696.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n696.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 741,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     73,
+     134,
+     2283,
+     174
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     73,
+     174,
+     812,
+     923
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     73,
+     923,
+     812,
+     1870
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     73,
+     1870,
+     812,
+     2895
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     126,
+     1912,
+     741,
+     2066
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     73,
+     2895,
+     812,
+     3277
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     812,
+     174,
+     1545,
+     1264
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     812,
+     1264,
+     1545,
+     2315
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     812,
+     2315,
+     1545,
+     3277
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1545,
+     174,
+     2283,
+     1250
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1545,
+     1250,
+     2283,
+     2240
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1545,
+     2240,
+     2283,
+     3277
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|breakneck|671|breast-knot}}",
+   "c1s1": "¶\n'''breakneck''' (brāk′nek), ''n.'' and ''a.'' [< ''break'' + obj. ''neck''.] '''I.''' ''n.'' '''1.''' A fall that breaks the neck; a dangerous business.\n{{smaller block|<poem>To do’t, or no, is certain\nTo me a ''breakneck''.</poem>{{right|''Shak.'', W. T., i. 2.}}}}\n'''2.''' A steep place endangering the neck.\n\n'''II.''' ''a.'' Endangering the neck or life; extremely hazardous: as, he rode at a ''breakneck'' pace.\n{{smaller block|On chimney-tops, . . . over the roofs, . . . on every lamp-iron, signpost, ''breakneck'' coign of vantage, sits patriotic Courage.{{right|''Carlyle'', French Rev.}}}}\n\n'''break-off''' (brāk′ôf), ''n.'' The part of the action of a breech-loading firearm immediately behind the breech.\n\n'''break-promise''' (brāk′prom″is), ''n.'' One who makes a practice of breaking his promise.\n{{smaller block|I will think you the most pathetical ''break-promise'', and the most hollow lover.{{right|''Shak.'', As you Like it, iv. 1.}}}}\n\n'''breakshare''' (brāk′shãr), ''n.'' [A perversion of ''braxy'', simulating ''break'', + ''share''.] A term sometimes used as an equivalent to ''braxy''.\n\n'''breakstaff''' (brāk′stȧf), ''n.'' The handle of a blacksmith’s bellows. ''J. S. Phillips.''",
+   "c1s2": "¶\n'''breakstone''' (brāk′stōn), ''n.'' [< ''break'' + obj. ''stone'', after the L. name ''saxifraga'', < ''saxum'', a rock, + ''frangere'', to break, with special reference to their use as a remedy in cases of calculus.] A name given to several different plants, especially to species of the genus ''Saxifraga'', to pimpernel (''Pimpinella Saxifraga''), and to the parsley-piert (''Alchemilla arvensis'').\n\n'''break-up''' (brāk′up), ''n.'' and ''a.'' '''I.''' ''n.'' A disruption; a dissolution of connection; a separation of a mass into parts; a disintegration; a disbandment.\n{{smaller block|Seldom was there a greater ''break-up'' among the speculators than in the autumn of that year.\n{{right|''J. S. Mill.''}}\nThe general ''break-up'' of parties which took place last decade.\n{{right|''The American'', VIII. 278.}}}}\n'''II.''' ''a.'' Pertaining to or in celebration of the breaking up or termination of any society, association, meeting, or the like: as, a ''break-up'' party or ceremony.\n\n'''break-van''', ''n.'' See ''brake-van.''\n\n'''breakwater''' (brāk′wâ″tėr), ''n.'' [< ''break'' + obj. ''water.''] Any structure or contrivance, as a mole, mound, wall, or sunken hulk, serving to break the force of waves and protect a harbor or anything exposed to the force of the waves.\n{{smaller block|The breakwater at Plymouth, England, is 5,100 feet in length, 339 feet wide at bottom, and 45 feet at top, and at the level of low water of spring tides there is a set-off of 66 feet. The sea-slope from set-off to top is 1 in 5. The largest work of the kind in the United States is the Delaware}}",
+   "c1s3": "{{smaller|breakwater, at the southern extremity of Delaware Bay,}}\n[[FIGURE]]\n{{c|{{smaller|Mean of 26 sections of Delaware Breakwater. ''A'', water-line ; ''B'', base-line.}}}}\n{{smaller|2,558 feet long at top, with an ice-breaker 1,353 feet long.—'''Floating breakwater''', a contrivance, consisting of a series of square frames of timber, connected by mooring-chains or -cables, attached to anchors or blocks of stone in such a manner as to form a basin, within which vessels riding at anchor may be protected from the violence of the waves.}}\n\n'''bream'''<sup>1</sup> (brēm), ''n.'' [< ME. ''breem'', ''breme'', < OF. ''bresme'', F. ''brême'', < OHG. ''brahsima'', ''brahsina'', MHG. ''brasem'', ''brahsen'', G. ''brassen'' = OS. ''bressemo'' = D. ''brasem'' = OSw. ''braxn'', Sw. ''braxen'' = Dan. ''brasen'', a bream; from the same source as ''barse'' = ''bass''<sup>1</sup>; cf. ''brasse''<sup>1</sup>.] '''1.''' A fish of the family ''Cyprinidæ'', ''Abramis brama'', common in the fresh waters of Europe. {{smaller|It has a compressed and rather deep body, a short obtuse snout, small and somewhat inferior mouth, uniserial pharyngeal teeth, the dorsal fin of about 12 rays, and the anal fin with 26 to 31 rays commencing under the last of the dorsal’s. It sometimes attains a weight of 12 to 14 pounds. The flesh is insipid and little esteemed. Also called ''yellow bream''. See ''Abramis''.}} '''2.''' A cyprinoid fish related to the preceding, as for example the white bream or breamflat, or resembling it in having a deep body, as the carp-bream, ''Carassius gibelio'', a variety of the crucian-carp.—'''3.''' A name given to various",
+   "c1s4": "''Sparidæ'', more fully called ''sea-breams:'' in England, for example, to species of ''Sparus'', ''Pagrus'', ''Pagellus'', and ''Cantharus'', and in the United States to ''Diplodus holbrooki'', the pinfish, and to ''Lagodon rhomboides'', the sailor’s-choice. See cut under ''Lagodon''.—'''4.''' A fish of the family ''Bramidæ'', as Ray’s bream, ''Brama rayi''.—'''5.''' In some parts of the United States, a centrarchoid fish, such as the common sunfish, ''Eupomotis gibbosus'', and various species of the related genus ''Lepomis'', as the blue bream, ''Lepomis pallidus''.—'''Blue bream''', {{smaller|the ''Lepomis pallidus''.}}—'''Bream fam-",
+   "c2s1": "{{smaller|'''ily''', the sea-breams, or ''Sparidæ''.—'''King of the breams''', ''Pagellus erythrinus''.—'''White bream''', a fish of the family ''Abramidæ'', ''Abramis'' (''Blicca'') ''björkna'', common in European waters. It is much like the bream, but has a shorter anal fin, larger scales, and two rows of pharyngeal teeth.}}\n\n'''bream<sup>2</sup>''' (brēm), ''v. t.'' [Prob., like the equiv. ''broom''<sup>2</sup>, connected with ''broom''<sup>1</sup>, D. ''brem'', furze, from the materials commonly used.] ''Naut.'', to clear, as a ship’s bottom, of shells, seaweed, ooze, etc., by applying to it kindled furze, reeds, or other light combustibles, so as to soften the pitch and loosen the adherent matters, which may then be easily swept off. Also called ''broom''.\n\n'''bream<sup>3</sup>†''', ''n.'' [< ME. as if *''breme'' = OHG. ''bremo'', MHG. ''brem'', m., G. ''breme'', f.; the same, without the formative ''-s'', as ''brimse'': see ''brimse'' and ''breeze''<sup>1</sup>.] Same as ''breeze''<sup>1</sup>.\n\n'''breamflat''' (brēm′flat), ''n.'' A local English (Cambridgeshire) name of the white bream.\n\n'''brean''' (brēn), ''v. i.'' [E. dial.] To sweat; perspire. [Prov. Eng.]\n\n'''brear''' (brēr), ''n.'' See ''breer''<sup>1</sup>.\n\n'''breard''' (brērd), ''v.'' Same as ''braird''.\n\n'''breast''' (brest), ''n.'' [Early mod. E. also ''brest'', < ME. ''brest'', ''breest'', < AS. ''breóst'' (neut., usually pl.) = OS. ''briost'' = OFries. ''briast'' = Icel. ''brjóst'' = Sw. ''bröst'' = Dan. ''bryst'', neut., = (with variation of vowel and gender) OFries. ''brust'', ''burst'', ''borst'', NFries. ''borst'' = MLG. ''borst'', LG. ''borst'' = D. ''borst'' = OHG. MHG. ''brust'', G. ''brust'', fem., = Goth. ''brusts'', fem. pl., orig. perhaps a dual form; origin uncertain. Not being found outside of Teut., the origin has been sought in the Teut. verb, AS. ''berstan'', etc., E. ''burst'': see",
+   "c2s2": "''burst.'']  '''1.''' One of two soft protuberant bodies adhering to the thorax in women, in which the milk is secreted for the nourishment of infants; the mammary gland and associated structures. —'''2.''' The outer part of the thorax, or the external part of the body between the neck and the belly, in man and beasts.\n{{smaller block|<poem>My Eustace might have sat for Hercules;\nSo muscular he spread, so broad a ''breast.''</poem>\n{{right|''Tennyson'', Gardener’s Daughter.}}}}\n'''3.''' In ''entom.'', the lower or sternal surface of the thorax.—'''4.''' Figuratively, the seat of the affections and emotions; the repository of consciousness, designs, and secrets; the affections; the heart.\n{{smaller block|<poem>Pass by my outside,\nMy ''breast'' I dare compare with any man.</poem>\n{{right|''Shirley'', Love Tricks, i. 1.}}\nEach in his ''breast'' his secret sorrow kept. {{right|''Rowe.''}}}}\n'''5.''' The mind; the secret thoughts.\n{{smaller block|The choice and removal of senators, however, was by no means left perfectly free to the censors, nor had it been in the ''breast'' of the consuls and dictators before the institution of the censorial office. {{right|''Brougham.''}}}}\n'''6†.''' In ''music'', the chest; capacity for singing.\n{{smaller block|An excellent song, and a sweet songster; a fine ''breast'' of his own. {{right|''B. Jonson.''}}\nIn singing, the sound is originally produced by the action of the lungs; which are so essential an organ in this respect, that to have a good ''breast'' was formerly a common periphrasis to denote a good singer.\n{{right|''Sir J. Hawkins'', Hist. of Music, iii. 466.}}}}\n'''7.''' Anything resembling the breast in position, either as being in front, like the human breast, or below, like the breast in the lower",
+   "c2s3": "animals. {{smaller|Specifically—(''a'') In ''agri.'', the front part of the mold-board of a plow. (''b'') In ''arch.'': (1) The portion of a wall between a window and the floor. (2) The portion of a chimney between the flues and the apartment. ''E. H. Knight.'' (''c'') In ''carp.'', the lower surface of a hand-rail, rafter, etc. (''d'') In ''mining'': (1) The chamber or room in which coal is being mined. (2) The face at which the working is going on. (3) In metal-mining, a point at which a large quantity of ore is being worked: as, a fine ''breast'' of ore. (''e'') The front part of a furnace. (''f'') Same as ''breasting'', 1.}}\n{{smaller block|In order that a wheel may be a breast wheel, it must be provided with the ''breast'' or circular trough.\n{{right|''Rankine'', Steam Engine, § 150.}}}}\n{{smaller|(''g'') The swelling portion of a hub.}} '''8.''' That part of certain machines against which the breast of the operator pushes, as in the breast-drill, breast-plow, etc.—'''9†.''' A line on which persons or things are ranged abreast, or side by side.\n{{smaller block|The troops marched in close order, the foot by twenty-four in a ''breast'', and the horse by sixteen. {{right|''Swift.''}}}}\n'''10.''' A bush for a small shaft or spindle.—'''Back and breast.''' {{smaller|See ''back''<sup>1</sup>.}}—'''Pillar and breast.''' {{smaller|See ''pillar''.}}—'''To make a clean breast of,''' {{smaller|to disclose (secrets which weigh upon one’s mind or conscience); make full confession of.}}\n\n'''breast''' (brest), ''v.'' [< ''breast'', ''n.''] '''I.''' ''trans.'' To oppose with the breast; act with the breast upon; bear the breast against; hence, to meet in front boldly or openly; stem.\n{{smaller block|<poem>Behold the threaden sails,\nBorne with the invisible and creeping wind,\nDraw the huge bottoms through the furrow’d sea,\n''Breasting'' the lofty surge. ''Shak.'', Hen. V., iii. (cho.).</poem>}}",
+   "c3s1": "¶\n{{smaller|'''To breast up a hedge''', to cut the face of a hedge on one side, so as to lay bare the principal upright stems of the plants of which it is constituted.}}\n\n'''II.''' ''intrans.'' To practise breasting, as for deer. See ''breasting'', 3.\n\n'''breast-backstay''' (brest′bak″stā), ''n.'' ''Naut.'', an extra support to a topmast, consisting of a rope extending from the topmast-head on the weather side to the ship’s channels forward of the standing backstays. See ''backstay''.\n\n'''breast-band''' (brest′band), ''n.'' '''1.''' ''Naut.'', a band of canvas or a rope fastened in some convenient place, and passed round the body of the man who heaves the lead in sounding, to prevent his falling into the sea. Also called ''parrel-rope'' (which see).—'''2.''' A broad leather band placed across the breast of a horse and used as a substitute for a collar.\n\n'''breast-beam''' (brest′bēm), ''n.'' '''1.''' A beam at the break of a quarter-deck or forecastle.—'''2.''' The cloth-beam of a loom.—'''3.''' The forward transverse beam of a locomotive.\n\n'''breast-board''' (brest′bōrd), ''n.'' A weighted sled used in rope-walks to maintain the tension of the yarns while being twisted into a strand.\n\n'''breast-bone''' (brest′bōn), ''n.'' [< ME. ''brestbon'', < AS. ''breóstbān'', < ''breóst'', breast, + ''bān'', bone.] The bone of the breast; the sternum.\n\n'''breast-chains''' (brest′chānz), ''n. pl.'' Chains used to support the neck-yoke of a carriage-harness, and connected with the hames: usually called ''breast-straps'' when leather is used instead of chains.\n\n'''breast-cloth†''', ''n.'' A stomacher.",
+   "c3s2": "¶\n'''breast-clout†''' (brest′klout), ''n.'' A bib for a child. ''Wright.''\n\n'''breast-deep''' (brest′dēp), ''a.'' As deep as from the breast to the feet; as high as the breast.\n{{smaller block|Set him ''breast-deep'' in earth, and famish him.\n{{right|''Shak.'', Tit. And., v. 3.}}}}\n\n'''breast-drill''' (brest′dril), ''n.'' In ''mech.'', a drill-stock operated by a crank and bevel gearing, and having a piece against which the workman bears his breast when engaged in drilling.\n\n'''breasted''' (bres′ted), ''a.'' '''1.''' Having a breast (of the kind indicated in composition): as, broad-''breasted'', deep-''breasted'', etc.—'''2†.''' In ''music'', having a chest: as, “singing men well ''breasted'',” ''Fiddes'', Life of Wolsey, App., p. 128.\n\n'''breast-fast''' (brest′fȧst), ''n.'' A large rope or chain used to fasten the midship part of a vessel to a dock or to another vessel, as the bow-fast fastens her forward and the stern-fast aft.\n\n'''breast-gasket''' (brest′gas″ket), ''n.'' An old name for a bunt-gasket.\n\n'''breast-harness''' (brest′här″nes), ''n.'' A harness employing a breast-band, in distinction from one using a collar.\n\n'''breast-height''' (brest′hīt), ''n.'' In ''fort.'', the interior slope of a parapet.\n\n'''breast-high''' (brest′hī), ''a.'' As high as the breast.\n{{smaller block|<poem>Lay madam Partlet basking in the sun,\n''Breast-high'' in sand. {{right|''Dryden'', Cock and Fox.}}</poem>}}\n\n'''breast-hook''' (brest′hu̇k), ''n.'' One of the thick",
+   "c3s3": "pieces of timber shaped in the form of knees and placed directly across the stem of a ship, to strengthen the fore part and unite the bows on each side. See cut under ''stem.''\n{{smaller block|Her huge bows rose up, showing the bright copper, and her stem and ''breast-hooks'' dripping, like old Neptune’s locks, with the brine.\n{{right|''R. H. Dana, Jr.'', Before the Mast, p. 10.}}}}\n\n'''breasting''' (bres′ting), ''n.'' [< ''breast'' + ''-ing''<sup>1</sup>.] '''1.''' In ''mach.'', the curved channel in which a breast-wheel turns. {{smaller|It follows closely the curve of the wheel through about a quarter of its circumference, so as to prevent the escape of the water until it has spent its force upon the wheel. Also called ''breast.'' See ''breast-wheel.''}} '''2.''' The bed against which the wheel of a rag-engine works.—'''3.''' A method of deer-hunting in which several horsemen ride abreast through the cover and shoot from the saddle.\n{{smaller block|''Breasting'' is employed where the deer make their home in very high grass, such as is to be found on some of the prairies of the South-west.\n{{right|''G. B. Grinnell'', Gun and Rod, p. 152.}}}}\n\n'''breasting-knife''' (bres′ting-nīf), ''n.'' In ''shoemaking'', a knife used in cutting a clean face on the side of the heel of a boot or shoe next to the waist.\n\n'''breast-knee''' (brest′nē), ''n.'' In ''ship-building'', a large knee fitted in the bows of a ship against the apron and stemson, to give additional strength.\n\n'''breast-knot''' (brest′not), ''n.'' A knot of ribbon worn on the breast.\n{{smaller block|What may we not hope . . . from the influence of this ''breast-knot?'' {{right|''Addison'', Freeholder.}}}}"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0697 c1f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     138,
+     1924,
+     729,
+     2054
+    ],
+    "caption": [
+     191,
+     2055,
+     675,
+     2107
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     201,
+     1912,
+     787,
+     2054
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 3805,
+    "output_tokens": 93,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9537,
+    "output_tokens": 9721,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|breakneck|671|breast-knot}}</noinclude>{{nop}}'''breakneck''' (brāk′nek), ''n.'' and ''a.''   [< ''break'' + obj. ''neck''.]   '''I.''' ''n.'' '''1.''' A fall that breaks the neck; a dangerous business.\n{{smaller block|<poem>To do’t, or no, is certain\nTo me a ''breakneck''.</poem>{{right|''Shak.'', W. T., i. 2.}}}}\n'''2.''' A steep place endangering the neck.\n\n'''II.''' ''a.'' Endangering the neck or life; extremely hazardous: as, he rode at a ''breakneck'' pace.\n{{smaller block|On chimney-tops, . . . over the roofs, . . . on every lamp-iron, signpost, ''breakneck'' coign of vantage, sits patriotic Courage.{{right|''Carlyle'', French Rev.}}}}\n\n'''break-off''' (brāk′ôf), ''n.'' The part of the action of a breech-loading firearm immediately behind the breech.\n\n'''break-promise''' (brāk′prom″is), ''n.'' One who makes a practice of breaking his promise.\n{{smaller block|I will think you the most pathetical ''break-promise'', and the most hollow lover.{{right|''Shak.'', As you Like it, iv. 1.}}}}\n\n'''breakshare''' (brāk′shãr), ''n.''   [A perversion of ''braxy'', simulating ''break'', + ''share''.]   A term sometimes used as an equivalent to ''braxy''.\n\n'''breakstaff''' (brāk′stȧf), ''n.'' The handle of a blacksmith’s bellows.   ''J. S. Phillips.''\n\n'''breakstone''' (brāk′stōn), ''n.''   [< ''break'' + obj. ''stone'', after the L. name ''saxifraga'', < ''saxum'', a rock, + ''frangere'', to break, with special reference to their use as a remedy in cases of calculus.]   A name given to several different plants, especially to species of the genus ''Saxifraga'', to pimpernel (''Pimpinella Saxifraga''), and to the parsley-piert (''Alchemilla arvensis'').\n\n'''break-up''' (brāk′up), ''n.'' and ''a.'' '''I.''' ''n.'' A disruption; a dissolution of connection; a separation of a mass into parts; a disintegration; a disbandment.\n{{smaller block|Seldom was there a greater ''break-up'' among the speculators than in the autumn of that year.\n{{right|''J. S. Mill.''}}}}\n{{smaller block|The general ''break-up'' of parties which took place last decade.\n{{right|''The American'', VIII. 278.}}}}\n'''II.''' ''a.'' Pertaining to or in celebration of the breaking up or termination of any society, association, meeting, or the like: as, a ''break-up'' party or ceremony.\n\n'''break-van''', ''n.'' See ''brake-van.''\n\n'''breakwater''' (brāk′wâ″tėr), ''n.''   [< ''break'' + obj. ''water.'']   Any structure or contrivance, as a mole, mound, wall, or sunken hulk, serving to break the force of waves and protect a harbor or anything exposed to the force of the waves.\n{{smaller block|The breakwater at Plymouth, England, is 5,100 feet in length, 339 feet wide at bottom, and 45 feet at top, and at the level of low water of spring tides there is a set-off of 66 feet. The sea-slope from set-off to top is 1 in 5. The largest work of the kind in the United States is the Delaware breakwater, at the southern extremity of Delaware Bay,}}\n\n[[File:century v01 p0697 c1f1.png|center|299px]]\n{{c|{{smaller|Mean of 26 sections of Delaware Breakwater. ''A'', water-line ; ''B'', base-line.}}}}\n{{smaller|2,558 feet long at top, with an ice-breaker 1,353 feet long.—'''Floating breakwater''', a contrivance, consisting of a series of square frames of timber, connected by mooring-chains or -cables, attached to anchors or blocks of stone in such a manner as to form a basin, within which vessels riding at anchor may be protected from the violence of the waves.}}\n\n'''bream'''<sup>1</sup> (brēm), ''n.''   [< ME. ''breem'', ''breme'', < OF. ''bresme'', F. ''brême'', < OHG. ''brahsima'', ''brahsina'', MHG. ''brasem'', ''brahsen'', G. ''brassen'' = OS. ''bressemo'' = D. ''brasem'' = OSw. ''braxn'', Sw. ''braxen'' = Dan. ''brasen'', a bream; from the same source as ''barse'' = ''bass''<sup>1</sup>; cf. ''brasse''<sup>1</sup>.]   '''1.''' A fish of the family ''Cyprinidæ'', ''Abramis brama'', common in the fresh waters of Europe. {{smaller|It has a compressed and rather deep body, a short obtuse snout, small and somewhat inferior mouth, uniserial pharyngeal teeth, the dorsal fin of about 12 rays, and the anal fin with 26 to 31 rays commencing under the last of the dorsal’s. It sometimes attains a weight of 12 to 14 pounds. The flesh is insipid and little esteemed. Also called ''yellow bream''. See ''Abramis''.}} '''2.''' A cyprinoid fish related to the preceding, as for example the white bream or breamflat, or resembling it in having a deep body, as the carp-bream, ''Carassius gibelio'', a variety of the crucian-carp.—'''3.''' A name given to various ''Sparidæ'', more fully called ''sea-breams:'' in England, for example, to species of ''Sparus'', ''Pagrus'', ''Pagellus'', and ''Cantharus'', and in the United States to ''Diplodus holbrooki'', the pinfish, and to ''Lagodon rhomboides'', the sailor’s-choice. See cut under ''Lagodon''.—'''4.''' A fish of the family ''Bramidæ'', as Ray’s bream, ''Brama rayi''.—'''5.''' In some parts of the United States, a centrarchoid fish, such as the common sunfish, ''Eupomotis gibbosus'', and various species of the related genus ''Lepomis'', as the blue bream, ''Lepomis pallidus''.—'''Blue bream''', {{smaller|the ''Lepomis pallidus''.}}—'''Bream fam{{smaller|'''ily''', the sea-breams, or ''Sparidæ''.—'''King of the breams''', ''Pagellus erythrinus''.—'''White bream''', a fish of the family ''Abramidæ'', ''Abramis'' (''Blicca'') ''björkna'', common in European waters. It is much like the bream, but has a shorter anal fin, larger scales, and two rows of pharyngeal teeth.}}\n\n'''bream<sup>2</sup>''' (brēm), ''v. t.''   [Prob., like the equiv. ''broom''<sup>2</sup>, connected with ''broom''<sup>1</sup>, D. ''brem'', furze, from the materials commonly used.]   ''Naut.'', to clear, as a ship’s bottom, of shells, seaweed, ooze, etc., by applying to it kindled furze, reeds, or other light combustibles, so as to soften the pitch and loosen the adherent matters, which may then be easily swept off. Also called ''broom''.\n\n'''bream<sup>3</sup>†''', ''n.''   [< ME. as if *''breme'' = OHG. ''bremo'', MHG. ''brem'', m., G. ''breme'', f.; the same, without the formative ''-s'', as ''brimse'': see ''brimse'' and ''breeze''<sup>1</sup>.]   Same as ''breeze''<sup>1</sup>.\n\n'''breamflat''' (brēm′flat), ''n.'' A local English (Cambridgeshire) name of the white bream.\n\n'''brean''' (brēn), ''v. i.''   [E. dial.]   To sweat; perspire. [Prov. Eng.]\n\n'''brear''' (brēr), ''n.'' See ''breer''<sup>1</sup>.\n\n'''breard''' (brērd), ''v.'' Same as ''braird''.\n\n'''breast''' (brest), ''n.''   [Early mod. E. also ''brest'', < ME. ''brest'', ''breest'', < AS. ''breóst'' (neut., usually pl.) = OS. ''briost'' = OFries. ''briast'' = Icel. ''brjóst'' = Sw. ''bröst'' = Dan. ''bryst'', neut., = (with variation of vowel and gender) OFries. ''brust'', ''burst'', ''borst'', NFries. ''borst'' = MLG. ''borst'', LG. ''borst'' = D. ''borst'' = OHG. MHG. ''brust'', G. ''brust'', fem., = Goth. ''brusts'', fem. pl., orig. perhaps a dual form; origin uncertain. Not being found outside of Teut., the origin has been sought in the Teut. verb, AS. ''berstan'', etc., E. ''burst'': see ''burst.'']    '''1.''' One of two soft protuberant bodies adhering to the thorax in women, in which the milk is secreted for the nourishment of infants; the mammary gland and associated structures. —'''2.''' The outer part of the thorax, or the external part of the body between the neck and the belly, in man and beasts.\n{{smaller block|<poem>My Eustace might have sat for Hercules;\nSo muscular he spread, so broad a ''breast.''</poem>\n{{right|''Tennyson'', Gardener’s Daughter.}}}}\n'''3.''' In ''entom.'', the lower or sternal surface of the thorax.—'''4.''' Figuratively, the seat of the affections and emotions; the repository of consciousness, designs, and secrets; the affections; the heart.\n{{smaller block|<poem>Pass by my outside,\nMy ''breast'' I dare compare with any man.</poem>\n{{right|''Shirley'', Love Tricks, i. 1.}}}}\n{{smaller block|Each in his ''breast'' his secret sorrow kept. {{right|''Rowe.''}}}}\n'''5.''' The mind; the secret thoughts.\n{{smaller block|The choice and removal of senators, however, was by no means left perfectly free to the censors, nor had it been in the ''breast'' of the consuls and dictators before the institution of the censorial office. {{right|''Brougham.''}}}}\n'''6†.''' In ''music'', the chest; capacity for singing.\n{{smaller block|An excellent song, and a sweet songster; a fine ''breast'' of his own. {{right|''B. Jonson.''}}}}\n{{smaller block|In singing, the sound is originally produced by the action of the lungs; which are so essential an organ in this respect, that to have a good ''breast'' was formerly a common periphrasis to denote a good singer.\n{{right|''Sir J. Hawkins'', Hist. of Music, iii. 466.}}}}\n'''7.''' Anything resembling the breast in position, either as being in front, like the human breast, or below, like the breast in the lower animals. {{smaller|Specifically—(''a'') In ''agri.'', the front part of the mold-board of a plow. (''b'') In ''arch.'': (1) The portion of a wall between a window and the floor. (2) The portion of a chimney between the flues and the apartment.   ''E. H. Knight.'' (''c'') In ''carp.'', the lower surface of a hand-rail, rafter, etc. (''d'') In ''mining'': (1) The chamber or room in which coal is being mined. (2) The face at which the working is going on. (3) In metal-mining, a point at which a large quantity of ore is being worked: as, a fine ''breast'' of ore. (''e'') The front part of a furnace. (''f'') Same as ''breasting'', 1.}}\n{{smaller block|In order that a wheel may be a breast wheel, it must be provided with the ''breast'' or circular trough.\n{{right|''Rankine'', Steam Engine, § 150.}}}}\n{{smaller|(''g'') The swelling portion of a hub.}} '''8.''' That part of certain machines against which the breast of the operator pushes, as in the breast-drill, breast-plow, etc.—'''9†.''' A line on which persons or things are ranged abreast, or side by side.\n{{smaller block|The troops marched in close order, the foot by twenty-four in a ''breast'', and the horse by sixteen. {{right|''Swift.''}}}}\n'''10.''' A bush for a small shaft or spindle.—'''Back and breast.''' {{smaller|See ''back''<sup>1</sup>.}}—'''Pillar and breast.''' {{smaller|See ''pillar''.}}—'''To make a clean breast of,''' {{smaller|to disclose (secrets which weigh upon one’s mind or conscience); make full confession of.}}\n\n'''breast''' (brest), ''v.''   [< ''breast'', ''n.'']   '''I.''' ''trans.'' To oppose with the breast; act with the breast upon; bear the breast against; hence, to meet in front boldly or openly; stem.\n{{smaller block|<poem>Behold the threaden sails,\nBorne with the invisible and creeping wind,\nDraw the huge bottoms through the furrow’d sea,\n''Breasting'' the lofty surge. ''Shak.'', Hen. V., iii. (cho.).</poem>}}\n\n{{smaller|'''To breast up a hedge''', to cut the face of a hedge on one side, so as to lay bare the principal upright stems of the plants of which it is constituted.}}\n\n'''II.''' ''intrans.'' To practise breasting, as for deer. See ''breasting'', 3.\n\n'''breast-backstay''' (brest′bak″stā), ''n.'' ''Naut.'', an extra support to a topmast, consisting of a rope extending from the topmast-head on the weather side to the ship’s channels forward of the standing backstays. See ''backstay''.\n\n'''breast-band''' (brest′band), ''n.'' '''1.''' ''Naut.'', a band of canvas or a rope fastened in some convenient place, and passed round the body of the man who heaves the lead in sounding, to prevent his falling into the sea. Also called ''parrel-rope'' (which see).—'''2.''' A broad leather band placed across the breast of a horse and used as a substitute for a collar.\n\n'''breast-beam''' (brest′bēm), ''n.'' '''1.''' A beam at the break of a quarter-deck or forecastle.—'''2.''' The cloth-beam of a loom.—'''3.''' The forward transverse beam of a locomotive.\n\n'''breast-board''' (brest′bōrd), ''n.'' A weighted sled used in rope-walks to maintain the tension of the yarns while being twisted into a strand.\n\n'''breast-bone''' (brest′bōn), ''n.''   [< ME. ''brestbon'', < AS. ''breóstbān'', < ''breóst'', breast, + ''bān'', bone.]   The bone of the breast; the sternum.\n\n'''breast-chains''' (brest′chānz), ''n. pl.'' Chains used to support the neck-yoke of a carriage-harness, and connected with the hames: usually called ''breast-straps'' when leather is used instead of chains.\n\n'''breast-cloth†''', ''n.'' A stomacher.\n\n'''breast-clout†''' (brest′klout), ''n.'' A bib for a child.   ''Wright.''\n\n'''breast-deep''' (brest′dēp), ''a.'' As deep as from the breast to the feet; as high as the breast.\n{{smaller block|Set him ''breast-deep'' in earth, and famish him.\n{{right|''Shak.'', Tit. And., v. 3.}}}}\n\n'''breast-drill''' (brest′dril), ''n.'' In ''mech.'', a drill-stock operated by a crank and bevel gearing, and having a piece against which the workman bears his breast when engaged in drilling.\n\n'''breasted''' (bres′ted), ''a.'' '''1.''' Having a breast (of the kind indicated in composition): as, broad-''breasted'', deep-''breasted'', etc.—'''2†.''' In ''music'', having a chest: as, “singing men well ''breasted'',” ''Fiddes'', Life of Wolsey, App., p. 128.\n\n'''breast-fast''' (brest′fȧst), ''n.'' A large rope or chain used to fasten the midship part of a vessel to a dock or to another vessel, as the bow-fast fastens her forward and the stern-fast aft.\n\n'''breast-gasket''' (brest′gas″ket), ''n.'' An old name for a bunt-gasket.\n\n'''breast-harness''' (brest′här″nes), ''n.'' A harness employing a breast-band, in distinction from one using a collar.\n\n'''breast-height''' (brest′hīt), ''n.'' In ''fort.'', the interior slope of a parapet.\n\n'''breast-high''' (brest′hī), ''a.'' As high as the breast.\n{{smaller block|<poem>Lay madam Partlet basking in the sun,\n''Breast-high'' in sand. {{right|''Dryden'', Cock and Fox.}}</poem>}}\n\n'''breast-hook''' (brest′hu̇k), ''n.'' One of the thick pieces of timber shaped in the form of knees and placed directly across the stem of a ship, to strengthen the fore part and unite the bows on each side. See cut under ''stem.''\n{{smaller block|Her huge bows rose up, showing the bright copper, and her stem and ''breast-hooks'' dripping, like old Neptune’s locks, with the brine.\n{{right|''R. H. Dana, Jr.'', Before the Mast, p. 10.}}}}\n\n'''breasting''' (bres′ting), ''n.''   [< ''breast'' + ''-ing''<sup>1</sup>.]   '''1.''' In ''mach.'', the curved channel in which a breast-wheel turns. {{smaller|It follows closely the curve of the wheel through about a quarter of its circumference, so as to prevent the escape of the water until it has spent its force upon the wheel. Also called ''breast.'' See ''breast-wheel.''}} '''2.''' The bed against which the wheel of a rag-engine works.—'''3.''' A method of deer-hunting in which several horsemen ride abreast through the cover and shoot from the saddle.\n{{smaller block|''Breasting'' is employed where the deer make their home in very high grass, such as is to be found on some of the prairies of the South-west.\n{{right|''G. B. Grinnell'', Gun and Rod, p. 152.}}}}\n\n'''breasting-knife''' (bres′ting-nīf), ''n.'' In ''shoemaking'', a knife used in cutting a clean face on the side of the heel of a boot or shoe next to the waist.\n\n'''breast-knee''' (brest′nē), ''n.'' In ''ship-building'', a large knee fitted in the bows of a ship against the apron and stemson, to give additional strength.\n\n'''breast-knot''' (brest′not), ''n.'' A knot of ribbon worn on the breast.\n{{smaller block|What may we not hope . . . from the influence of this ''breast-knot?'' {{right|''Addison'', Freeholder.}}}}<noinclude><references/></noinclude>"
+}

@@ -1,0 +1,377 @@
+{
+ "volume": 1,
+ "page_number": 499,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n498.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n498.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 749,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     74,
+     122,
+     2291,
+     162
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     74,
+     162,
+     810,
+     1243
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     74,
+     1243,
+     810,
+     2296
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     74,
+     2296,
+     810,
+     3287
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     810,
+     162,
+     1557,
+     966
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     810,
+     966,
+     1557,
+     1802
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     821,
+     1055,
+     1294,
+     1527
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     810,
+     1802,
+     1557,
+     2700
+    ]
+   },
+   {
+    "name": "c2f2",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     896,
+     1814,
+     1482,
+     1986
+    ]
+   },
+   {
+    "name": "c2f3",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     888,
+     2028,
+     1484,
+     2438
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     810,
+     2700,
+     1557,
+     3287
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1557,
+     162,
+     2291,
+     1147
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1557,
+     1147,
+     2291,
+     2151
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1577,
+     1145,
+     2283,
+     1627
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1557,
+     2151,
+     2291,
+     3196
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1634,
+     2761,
+     2223,
+     3082
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1557,
+     3196,
+     2291,
+     3287
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|bate|473|bath}}",
+   "c1s1": "'''3†.''' To weaken; impair the strength of.\n{{smaller block|These griefs and losses have so ''bated'' me,<br>That I shall hardly spare a pound of flesh.\n{{right|''Shak.'', M. of V., iii. 3.}}}}\n'''4†.''' To lessen or decrease in amount, weight, estimation, etc.; lower; reduce.\n{{smaller block|Who ''bates'' mine honour, shall not know my coin.\n{{right|''Shak.'', T. of A., iii. 3.}}}}\n'''5.''' To strike off; deduct; abate.\n{{smaller block|There is twelve shillings to pay, and, as I am a true knight, I will not ''bate'' a penny.\n{{right|''Beau. and Fl.'', Knight of Burning Pestle, iii. 2.}}\nI would rather ''bate'' him a few strokes of his oar, than not employ an honest man that has been wounded in the Queen’s service. {{right|''Addison'', Sir Roger at Vauxhall.}}\nI ''bate'' no jot of trust that this noble trial of self-government will succeed. {{right|''W. Phillips'', Speeches, p. 320.}}}}\n'''6.''' To lessen in force or intensity; moderate; diminish: as, to ''bate'' one’s breath, or with ''bated'' breath (see phrases, below); to ''bate'' one’s or a person’s curiosity.—'''7†.''' To rob or deprive of.\n{{smaller block|When baseness is exalted, do not ''bate''<br>The place its honour for the person’s sake.\n{{right|''G. Herbert'', Church Porch, xlv.}}}}\n'''8†.''' To leave out; except; bar.\n{{smaller block|''Bate'' me the king, and, be he flesh and blood,<br>He lies who said it.\n{{right|''Beau. and Fl.'', Maid’s Tragedy, i. 1.}}}}\n\n{{smaller|'''To bate of†''', to make a reduction in or an abatement from; lessen or moderate.}}\n{{smaller block|Abate thy speed, and I will ''bate of'' mine.\n{{right|''Dryden'', tr. of Ovid’s Metamorph., i.}}}}\n\n{{smaller|'''To bate one’s breath''', to check one’s breathing; breathe restrainedly, as from fear, humility, or deference.—'''With bated breath''', with subdued or restrained breathing, as}}",
+   "c1s2": "from fear or awe.\n\n{{smaller block|Shall I bend low, and in a bond-mans key,<br>''With bated breath'' and whispring humbleness,<br>Say this? {{right|''Shak.'', M. of V., i. 3 (1623).}}}}\n\n'''II.†''' ''intrans.'' To decrease or fall away in size, amount, force, estimate, etc.\n\n{{smaller block|Bardolph, am I not fallen away vilely since this last action? do I not ''bate?'' do I not dwindle?\n{{right|''Shak.'', 1 Hen. IV., iii. 3.}}\nI know ’twas this which made the envy and pride<br>Of the great Roman blood ''bate'' and give way<br>To my election. {{right|''B. Jonson'', Catiline, iii. 1.}}}}\n\n'''bate<sup>3</sup>†''' (bāt), ''v. i.'' [< ME. ''baten'', by apheresis for ''debaten'', debate: see ''debate''<sup>1</sup>, ''v.''] To contend; strive; quarrel.\n\n'''bate<sup>3</sup>†''' (bāt), ''n.'' [< ME. ''bate'', ''bat'', by apheresis for ''debate'', ''debat'', debate: see ''debate''<sup>1</sup>, ''n.''] Contention; strife; debate.\n\n{{smaller block|Breeds no ''bate'' with telling. {{right|''Shak.'', 2 Hen. IV., ii. 4.}}}}\n\n'''bate<sup>4</sup>†''' (bāt), ''v.'' and ''n.'' Obsolete and less correct spelling of ''bait''<sup>1</sup>.\n\n'''bate<sup>5</sup>''' (bāt), ''v. t.''; pret. and pp. ''bated'', ppr. ''bating''. [Prob. a particular use of ''bate''<sup>4</sup>, properly spelled ''bait''; cf. Sw. ''beta'', tan, bait, = G. ''beizen'', steep in lye, macerate, bait, lit. cause to bite: see ''bait''<sup>1</sup>.] '''1.''' To steep, as a hide, in an alkaline lye. See ''bate''<sup>5</sup>, ''n.''—'''2.''' In ''jute-manuf.'', to separate (the raw material) into layers, and then soften by sprinkling with oil and water.\n\n'''bate<sup>5</sup>''' (bāt), ''n.'' [< ''bate''<sup>5</sup>, ''v.''] The alkaline solution in which hides are steeped after being limed, in order to remove or neutralize the lime.\n\n'''bate<sup>6</sup>†.''' Obsolete or dialectal preterit of ''bite''.",
+   "c1s3": "{{smaller block|Yet there the steel stayd not, but inly ''bate''<br>Deepe in his flesh, and opened wide a red floodgate.\n{{right|''Spenser'', F. Q., II. v. 7.}}}}\n\n¶\n'''bate<sup>7</sup>''' (bāt), ''n.'' [Also ''bait''; origin unknown. Hence ''cross-bated''.] The grain of wood or stone. [Scotch.]\n\n'''bate<sup>8</sup>†''', ''n.'' [< LL. ''batus'', < Gr. βάτος, < Heb. ''bath'': see ''bath''<sup>2</sup>.] Same as ''bath''<sup>2</sup>.\n\n'''batea''' (bat′ē-ä), ''n.'' [Sp. Pg.] A wooden vessel in the form of a very flat hollow cone, about 20 inches in diameter and 2 or 3 inches deep, used by Mexican and Californian miners for washing auriferous sands and pulverized ores of various kinds.\n{{smaller block|In the rubbish which was thrown out of the old mine, a comfortable subsistence is gained by washing in ''bateas''.\n{{right|''Mowry'', Arizona and Sonora, p. 44.}}}}\n\n'''bateau, batteau''' (ba-tō′), ''n.''; pl. ''bateaux, batteaux'' (-tōz′). [< F. ''bateau'', < OF. ''batel'' = Pr. ''batelh'' = Sp. Pg. ''batel'' = It. ''battello'', < ML. ''batellus'', dim. of ML. ''batus'', ''battus'' (> It. ''batto''), a boat, prob. < AS. ''bāt'', a boat: see ''boat''.] '''1.''' A light boat for river navigation, long in proportion to its breadth, and wider in the middle than at the ends.—'''2.''' A pontoon of a floating bridge.\n\n'''bateau-bridge''' (ba-tō′brij), ''n.'' ''Milit.'', a floating bridge supported by bateaux or boats.\n\n'''bateaux''', ''n.'' Plural of ''bateau''.\n\n'''bate-breeding†''' (bāt′brē″ding), ''a.'' [< ''bate''<sup>3</sup> + ''breeding'', ppr. of ''breed''.] Breeding strife.",
+   "c2s1": "{{smaller block|<poem>This sour informer, this ''bate-breeding'' spy,\nThis canker that eats up Love’s tender spring,\nThis carry-tale, dissentious Jealousy.</poem>\n{{right|''Shak.'', V. and A., l. 655.}}}}\n\n'''bateful†''' (bāt′fu̇l), ''a.'' [< ''bate''<sup>3</sup> + ''-ful.''] Contentious; given to strife; exciting contention.\n{{smaller block|It did ''bateful'' question frame.{{right|''Sir P. Sidney.''}}}}\n\n'''bateless†''' (bāt′les), ''a.'' [< ''bate''<sup>2</sup> + ''-less.''] Not to be abated; not to be dulled or blunted. [Rare.]\n{{smaller block|<poem>Haply that name of “chaste” unhappily set\nThis ''bateless'' edge on his keen appetite.</poem>\n{{right|''Shak.'', Lucrece, l. 9.}}}}\n\n'''bateleur''' (bat′e-lėr), ''n.'' [Appar. a particular application of F. ''bateleur'', a juggler, buffoon.] A name of an African eagle, the ''Helotarsus ecaudatus.''\n\n'''batellate†''', ''v. t.'' [< ML. as if *''batellatus'', pp. of *''batellare'', assumed from OF. ''bataillier'', or E. ''battel'', ''battle'', fortify: see ''battle''<sup>2</sup>.] ''Milit.'', to fortify or make defensible, as a dwelling-house.\n\n'''batement†''' (bāt′ment), ''n.'' [By apheresis for ''abatement'': see ''bate''<sup>2</sup> and ''-ment.''] Abatement; diminution; lessening; specifically, among carpenters, the portion to be cut off from a piece of timber to bring it to a desired length.",
+   "c2s2": "¶\n'''batement-light''' (bāt′mẹnt-līt), ''n.'' In ''arch.'', a vertical light in the upper part of a window of the Perpendicular style, of which the normal rectangular form at the bottom is altered or abated so as to fit in the arched head of a light below. Compare ''angel-light.''\n[[FIGURE]]\n{{c|{{smaller|Head of Perpendicular Window.<br>''b'', ''b'', ''b'', batement-lights; ''a'', ''a'', angel-lights.}}}}\n\n'''batestone''' (bāt′stōn), ''n.'' [< ''bate''<sup>5</sup> + ''stone.''] A curved scouring-stone used in bating hides.\n{{smaller block|When the hides have been properly worked with the ''batestone'', they are placed in a wash-wheel and worked for about twenty minutes.\n{{right|''C. T. Davis'', Leather, p. 586.}}}}\n\n'''bat-fish''' (bat′fish), ''n.'' [< ''bat''<sup>2</sup> + ''fish''<sup>1</sup>.] '''1.''' A fish of the family ''Maltheidæ'' (which see). {{smaller|The best-known species is ''Malthe vespertilio''. It has a heart-}}",
+   "c2s3": "[[FIGURE]]\n{{c|{{smaller|Lateral view.}}}}\n[[FIGURE]]\n{{c|{{smaller|Dorsal view.}}}}\n{{c|{{smaller|Bat-fish (''Malthe vespertilio'').}}}}\n{{smaller block|shaped trunk, produced anteriorly in a prolonged snout, a short coniform tail, a small inferior mouth, and a rostral tentacle under the snout. It inhabits the Atlantic along the southern coast of the United States.}}\n'''2.''' A name of the flying-fish or flying-robin, ''Cephalacanthus volitans.''",
+   "c2s4": "¶\n'''bat-fowler''' (bat′fou″lėr), ''n.'' [< ME. ''battfowlere'', < ''battfowlen'': see ''bat-fowling''.] '''1.''' One who practises bat-fowling.—'''2†.''' A swindler. [Slang.]\n\n'''bat-fowling''' (bat′fou″ling), ''n.'' [< ME. ''battefowlynge'', < ''battfowlen'', snare birds, < ''batte'', by some supposed to refer to the bat or stick on which the nets were fastened, + ''fowlen'', v., fowl. The first element is now often associated with ''bat''<sup>2</sup>.] A mode of catching birds at night by holding a torch or other light, and beating the bushes or trees where they roost. The birds fly toward the light, and are caught with nets or otherwise.\n\n'''batful†''' (bat′fu̇l), ''a.'' [< ''bat-'' in ''battle''<sup>3</sup>, ''batten''<sup>1</sup>, etc., + ''-ful''; possibly, like ''batwell'', a perversion of ''battle'' or ''battel'', fertile: see ''battle''<sup>3</sup>, ''a.''] Rich; fertile, as land: as, “''batful'' pastures,” ''Drayton'', Polyolbion, iii.",
+   "c3s1": "¶\n'''bath<sup>1</sup>''' (bȧth, pl. bȧᴛ̵ʜz), ''n.'' [< ME. ''bath'', < AS. ''bæth'', pl. ''bathu'', = OS. ''bath'' = D. ''bad'' = OHG. MHG. G. ''bad'', bath, = Icel. ''badh'' = Sw. Dan. ''bad''; prob., with formative ''-th'' (''-d''), from the verb represented by OHG. ''bajan'', MHG. ''bæjen'', ''bæn'', G. ''bähen'' = LG. ''bäen'', foment, = ME. ''bæwen'', cleanse, prob. = L. ''fovere'', foment: see ''foment.''] '''1.''' A washing of the body in, or an exposure of it to the action of, water or other fluid agent, for cleansing, refreshment, medical treatment, etc.: as, to take a ''bath''; to administer a ''bath'' to a patient.—'''2.''' A provision or arrangement for bathing: as, to prepare a ''bath''; a hot or cold ''bath''; a vapor-''bath''; an electric ''bath''. {{smaller|There are many kinds of baths, all of which may be divided into four classes: (''a'') according to the medium in which the body is immersed, as a ''water-'', ''oil-'', or ''mud-bath'', a ''compressed-air bath'', a ''medicated'' or ''mineral bath'', etc.; (''b'') according to manner of application or use, as a ''plunge-'', ''shower-'', ''vapor-'', ''douche-'', ''spray-'', or ''swimming-bath'', etc.; (''c'') according to the parts bathed, as a ''foot-'', ''sitz-'', or ''eye-bath'', etc.; (''d'') according to temperature, as a ''hot'', ''tepid'', ''warm'', or ''cold bath''.}} '''3.''' A vessel for holding water in which to plunge, wash, or bathe the body.—'''4.''' More generally, an apartment or apparatus by means of which the body, or a part of it, may be bathed in any medium differing in nature or temperature from its natural medium.—'''5.''' An edifice containing apartments fitted up for bathing; a bath-house; particularly, in the plural, one of the elaborate bathing establishments of the",
+   "c3s2": "[[FIGURE]]\n{{c|{{smaller|Plan of the Baths of Caracalla, Rome.}}}}\nancients, as the Baths of Caracalla at Rome. See ''thermæ''.—'''6.''' In ''science'' and the ''arts'', any vessel containing a liquid for treating any object by immersion. {{smaller|(''a'') In ''photog.'', the vessel in which a collodionized plate is submitted to the action of a solution of nitrate of silver, or the tray in which an exposed dry plate is immersed in the developing solution. (''b'') In ''etching'', the pan of acid into which the plate is plunged to be bitten.}} '''7.''' An arrangement or preparation for immersing anything, as the silver-bath in photography. —'''8.''' In ''chem.'', an apparatus for modifying and regulating the heat in various chemical processes, by interposing a quantity of sand, water, or other substance between the fire and the vessel intended to be heated. {{smaller|When a liquid bath}}",
+   "c3s3": "{{smaller|of a higher temperature than 212° is required, saturated solutions are employed in which the boiling-point is higher than that of water.—'''Companions of the Bath,''' the third or lowest class of the members of the order of the Bath.—'''Compressed-air bath,''' a bath consisting in remaining for a longer or shorter time in a chamber filled with compressed air. Such baths have been recommended as useful in certain diseases, in which an increased expansive force is required to cause the air to inflate the more delicate air-passages of the lungs.—'''Dung-bath,''' a bath used in calico-printing. See ''dunging.''—'''Knights of the Bath,''' an order of knighthood supposed to have been instituted at the coronation of Henry IV. in 1399. It received this name from the fact that the candidates for the honor were put into a bath the preceding evening, to denote a purification or absolution from all former stain, and that they were now to begin a new life. The present order of the Bath, however, was instituted by George I. in 1725, as a military order, consisting, exclusive of the sovereign, of a grand master and thirty-six companions. In 1815 the order was greatly extended, and in 1847 it was opened to civilians. It is now composed of three classes, viz.: military and civil knights grand-crosses, G. C. B.; knights commanders, K. C. B.; and knights companions, C. B. The}}\n[[FIGURE]]\n{{c|{{smaller|1. Badge worn suspended from the collar of a knight of the Bath. 2. Star of the Grand Cross.}}}}\n{{smaller|badge (fig. 1) is a golden Maltese cross of eight points, with the lion of England in the four principal angles, and}}",
+   "c3s4": "having in a circle in the center the rose, thistle, and shamrock (representing respectively England, Scotland, and Ireland), between three imperial crowns; motto, ''Tria juncta''"
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0499 c2f1.png",
+   "c2f2": "century v01 p0499 c2f2.png",
+   "c2f3": "century v01 p0499 c2f3.png",
+   "c3f1": "century v01 p0499 c3f1.png",
+   "c3f2": "century v01 p0499 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     833,
+     1067,
+     1282,
+     1515
+    ],
+    "caption": [
+     835,
+     1523,
+     1279,
+     1574
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     826,
+     999,
+     1296,
+     1520
+    ]
+   },
+   {
+    "box": [
+     893,
+     1811,
+     1483,
+     2003
+    ],
+    "caption": [
+     1113,
+     2025,
+     1253,
+     2045
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     863,
+     1805,
+     1396,
+     2013
+    ]
+   },
+   {
+    "box": [
+     886,
+     1809,
+     1487,
+     2441
+    ],
+    "caption": [
+     1029,
+     2458,
+     1342,
+     2507
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     849,
+     2049,
+     1419,
+     2446
+    ]
+   },
+   {
+    "box": [
+     1589,
+     1157,
+     2271,
+     1615
+    ],
+    "caption": [
+     1726,
+     1628,
+     2125,
+     1650
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1590,
+     1214,
+     2282,
+     1620
+    ]
+   },
+   {
+    "box": [
+     1646,
+     2773,
+     2211,
+     3070
+    ],
+    "caption": [
+     1605,
+     3078,
+     2261,
+     3122
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1661,
+     2788,
+     2236,
+     3069
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "2": [
+    2,
+    0
+   ],
+   "3": [
+    2,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 6,
+    "input_tokens": 9521,
+    "output_tokens": 801,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9645,
+    "output_tokens": 9096,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c2f1": "left"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|bate|473|bath}}</noinclude>'''3†.''' To weaken; impair the strength of.\n{{smaller block|<poem>These griefs and losses have so ''bated'' me,\nThat I shall hardly spare a pound of flesh.</poem>\n{{right|''Shak.'', M. of V., iii. 3.}}}}\n'''4†.''' To lessen or decrease in amount, weight, estimation, etc.; lower; reduce.\n{{smaller block|Who ''bates'' mine honour, shall not know my coin.\n{{right|''Shak.'', T. of A., iii. 3.}}}}\n'''5.''' To strike off; deduct; abate.\n{{smaller block|There is twelve shillings to pay, and, as I am a true knight, I will not ''bate'' a penny.\n{{right|''Beau. and Fl.'', Knight of Burning Pestle, iii. 2.}}}}\n{{smaller block|I would rather ''bate'' him a few strokes of his oar, than not employ an honest man that has been wounded in the Queen’s service. {{right|''Addison'', Sir Roger at Vauxhall.}}}}\n{{smaller block|I ''bate'' no jot of trust that this noble trial of self-government will succeed. {{right|''W. Phillips'', Speeches, p. 320.}}}}\n'''6.''' To lessen in force or intensity; moderate; diminish: as, to ''bate'' one’s breath, or with ''bated'' breath (see phrases, below); to ''bate'' one’s or a person’s curiosity.—'''7†.''' To rob or deprive of.\n{{smaller block|<poem>When baseness is exalted, do not ''bate''\nThe place its honour for the person’s sake.</poem>\n{{right|''G. Herbert'', Church Porch, xlv.}}}}\n'''8†.''' To leave out; except; bar.\n{{smaller block|<poem>''Bate'' me the king, and, be he flesh and blood,\nHe lies who said it.</poem>\n{{right|''Beau. and Fl.'', Maid’s Tragedy, i. 1.}}}}\n\n{{smaller|'''To bate of†''', to make a reduction in or an abatement from; lessen or moderate.}}\n{{smaller block|Abate thy speed, and I will ''bate of'' mine.\n{{right|''Dryden'', tr. of Ovid’s Metamorph., i.}}}}\n\n{{smaller|'''To bate one’s breath''', to check one’s breathing; breathe restrainedly, as from fear, humility, or deference.—'''With bated breath''', with subdued or restrained breathing, as}} from fear or awe.\n\n{{smaller block|<poem>Shall I bend low, and in a bond-mans key,\n''With bated breath'' and whispring humbleness,\nSay this?</poem>\n{{right|''Shak.'', M. of V., i. 3 (1623).}}}}\n\n'''II.†''' ''intrans.'' To decrease or fall away in size, amount, force, estimate, etc.\n\n{{smaller block|Bardolph, am I not fallen away vilely since this last action? do I not ''bate?'' do I not dwindle?\n{{right|''Shak.'', 1 Hen. IV., iii. 3.}}}}\n{{smaller block|<poem>I know ’twas this which made the envy and pride\nOf the great Roman blood ''bate'' and give way\nTo my election.</poem>\n{{right|''B. Jonson'', Catiline, iii. 1.}}}}\n\n'''bate<sup>3</sup>†''' (bāt), ''v. i.''   [< ME. ''baten'', by apheresis for ''debaten'', debate: see ''debate''<sup>1</sup>, ''v.'']   To contend; strive; quarrel.\n\n'''bate<sup>3</sup>†''' (bāt), ''n.''   [< ME. ''bate'', ''bat'', by apheresis for ''debate'', ''debat'', debate: see ''debate''<sup>1</sup>, ''n.'']   Contention; strife; debate.\n\n{{smaller block|Breeds no ''bate'' with telling. {{right|''Shak.'', 2 Hen. IV., ii. 4.}}}}\n\n'''bate<sup>4</sup>†''' (bāt), ''v.'' and ''n.'' Obsolete and less correct spelling of ''bait''<sup>1</sup>.\n\n'''bate<sup>5</sup>''' (bāt), ''v. t.''; pret. and pp. ''bated'', ppr. ''bating''.   [Prob. a particular use of ''bate''<sup>4</sup>, properly spelled ''bait''; cf. Sw. ''beta'', tan, bait, = G. ''beizen'', steep in lye, macerate, bait, lit. cause to bite: see ''bait''<sup>1</sup>.]   '''1.''' To steep, as a hide, in an alkaline lye. See ''bate''<sup>5</sup>, ''n.''—'''2.''' In ''jute-manuf.'', to separate (the raw material) into layers, and then soften by sprinkling with oil and water.\n\n'''bate<sup>5</sup>''' (bāt), ''n.''   [< ''bate''<sup>5</sup>, ''v.'']   The alkaline solution in which hides are steeped after being limed, in order to remove or neutralize the lime.\n\n'''bate<sup>6</sup>†.''' Obsolete or dialectal preterit of ''bite''. {{smaller block|<poem>Yet there the steel stayd not, but inly ''bate''\nDeepe in his flesh, and opened wide a red floodgate.</poem>\n{{right|''Spenser'', F. Q., II. v. 7.}}}}\n\n'''bate<sup>7</sup>''' (bāt), ''n.''   [Also ''bait''; origin unknown. Hence ''cross-bated''.]   The grain of wood or stone. [Scotch.]\n\n'''bate<sup>8</sup>†''', ''n.''   [< LL. ''batus'', < Gr. βάτος, < Heb. ''bath'': see ''bath''<sup>2</sup>.]   Same as ''bath''<sup>2</sup>.\n\n'''batea''' (bat′ē-ä), ''n.''   [Sp. Pg.]   A wooden vessel in the form of a very flat hollow cone, about 20 inches in diameter and 2 or 3 inches deep, used by Mexican and Californian miners for washing auriferous sands and pulverized ores of various kinds.\n{{smaller block|In the rubbish which was thrown out of the old mine, a comfortable subsistence is gained by washing in ''bateas''.\n{{right|''Mowry'', Arizona and Sonora, p. 44.}}}}\n\n'''bateau, batteau''' (ba-tō′), ''n.''; pl. ''bateaux, batteaux'' (-tōz′).   [< F. ''bateau'', < OF. ''batel'' = Pr. ''batelh'' = Sp. Pg. ''batel'' = It. ''battello'', < ML. ''batellus'', dim. of ML. ''batus'', ''battus'' (> It. ''batto''), a boat, prob. < AS. ''bāt'', a boat: see ''boat''.]   '''1.''' A light boat for river navigation, long in proportion to its breadth, and wider in the middle than at the ends.—'''2.''' A pontoon of a floating bridge.\n\n'''bateau-bridge''' (ba-tō′brij), ''n.''   ''Milit.'', a floating bridge supported by bateaux or boats.\n\n'''bateaux''', ''n.'' Plural of ''bateau''.\n\n'''bate-breeding†''' (bāt′brē″ding), ''a.''   [< ''bate''<sup>3</sup> + ''breeding'', ppr. of ''breed''.]   Breeding strife.\n<poem>This sour informer, this ''bate-breeding'' spy,\nThis canker that eats up Love’s tender spring,\nThis carry-tale, dissentious Jealousy.</poem>\n{{smaller block|{{right|''Shak.'', V. and A., l. 655.}}}}\n\n'''bateful†''' (bāt′fu̇l), ''a.''   [< ''bate''<sup>3</sup> + ''-ful.'']   Contentious; given to strife; exciting contention.\n{{smaller block|It did ''bateful'' question frame.{{right|''Sir P. Sidney.''}}}}\n\n'''bateless†''' (bāt′les), ''a.''   [< ''bate''<sup>2</sup> + ''-less.'']   Not to be abated; not to be dulled or blunted. [Rare.]\n{{smaller block|<poem>Haply that name of “chaste” unhappily set\nThis ''bateless'' edge on his keen appetite.</poem>\n{{right|''Shak.'', Lucrece, l. 9.}}}}\n\n'''bateleur''' (bat′e-lėr), ''n.''   [Appar. a particular application of F. ''bateleur'', a juggler, buffoon.]   A name of an African eagle, the ''Helotarsus ecaudatus.''\n\n'''batellate†''', ''v. t.''   [< ML. as if *''batellatus'', pp. of *''batellare'', assumed from OF. ''bataillier'', or E. ''battel'', ''battle'', fortify: see ''battle''<sup>2</sup>.]   ''Milit.'', to fortify or make defensible, as a dwelling-house.\n\n'''batement†''' (bāt′ment), ''n.''   [By apheresis for ''abatement'': see ''bate''<sup>2</sup> and ''-ment.'']   Abatement; diminution; lessening; specifically, among carpenters, the portion to be cut off from a piece of timber to bring it to a desired length.\n\n'''batement-light''' (bāt′mẹnt-līt), ''n.'' In ''arch.'', a vertical light in the upper part of a window of the Perpendicular style, of which the normal rectangular form at the bottom is altered or abated so as to fit in the arched head of a light below. Compare ''angel-light.'' {{img float|file=century v01 p0499 c2f1.png|width=227px|align=left|cap={{smaller|Head of Perpendicular Window. ''b'', ''b'', ''b'', batement-lights; ''a'', ''a'', angel-lights.}}}}\n\n'''batestone''' (bāt′stōn), ''n.''   [< ''bate''<sup>5</sup> + ''stone.'']   A curved scouring-stone used in bating hides.\n{{smaller block|When the hides have been properly worked with the ''batestone'', they are placed in a wash-wheel and worked for about twenty minutes.\n{{right|''C. T. Davis'', Leather, p. 586.}}}}\n\n'''bat-fish''' (bat′fish), ''n.''   [< ''bat''<sup>2</sup> + ''fish''<sup>1</sup>.]   '''1.''' A fish of the family ''Maltheidæ'' (which see). {{smaller|The best-known species is ''Malthe vespertilio''. It has a heartshaped trunk, produced anteriorly in a prolonged snout, a short coniform tail, a small inferior mouth, and a rostral tentacle under the snout. It inhabits the Atlantic along the southern coast of the United States.}}\n'''2.''' A name of the flying-fish or flying-robin, ''Cephalacanthus volitans.''\n\n[[File:century v01 p0499 c2f2.png|center|282px]]\n{{c|{{smaller|Lateral view.}}}}\n\n[[File:century v01 p0499 c2f3.png|center|286px]]\n{{c|{{smaller|Dorsal view.}}}}\n{{c|{{smaller|Bat-fish (''Malthe vespertilio'').}}}}\n\n'''bat-fowler''' (bat′fou″lėr), ''n.''   [< ME. ''battfowlere'', < ''battfowlen'': see ''bat-fowling''.]   '''1.''' One who practises bat-fowling.—'''2†.''' A swindler. [Slang.]\n\n'''bat-fowling''' (bat′fou″ling), ''n.''   [< ME. ''battefowlynge'', < ''battfowlen'', snare birds, < ''batte'', by some supposed to refer to the bat or stick on which the nets were fastened, + ''fowlen'', v., fowl. The first element is now often associated with ''bat''<sup>2</sup>.]   A mode of catching birds at night by holding a torch or other light, and beating the bushes or trees where they roost. The birds fly toward the light, and are caught with nets or otherwise.\n\n'''batful†''' (bat′fu̇l), ''a.''   [< ''bat-'' in ''battle''<sup>3</sup>, ''batten''<sup>1</sup>, etc., + ''-ful''; possibly, like ''batwell'', a perversion of ''battle'' or ''battel'', fertile: see ''battle''<sup>3</sup>, ''a.'']   Rich; fertile, as land: as, “''batful'' pastures,” ''Drayton'', Polyolbion, iii.\n\n'''bath<sup>1</sup>''' (bȧth, pl. bȧᴛ̵ʜz), ''n.''   [< ME. ''bath'', < AS. ''bæth'', pl. ''bathu'', = OS. ''bath'' = D. ''bad'' = OHG. MHG. G. ''bad'', bath, = Icel. ''badh'' = Sw. Dan. ''bad''; prob., with formative ''-th'' (''-d''), from the verb represented by OHG. ''bajan'', MHG. ''bæjen'', ''bæn'', G. ''bähen'' = LG. ''bäen'', foment, = ME. ''bæwen'', cleanse, prob. = L. ''fovere'', foment: see ''foment.'']   '''1.''' A washing of the body in, or an exposure of it to the action of, water or other fluid agent, for cleansing, refreshment, medical treatment, etc.: as, to take a ''bath''; to administer a ''bath'' to a patient.—'''2.''' A provision or arrangement for bathing: as, to prepare a ''bath''; a hot or cold ''bath''; a vapor-''bath''; an electric ''bath''. {{smaller|There are many kinds of baths, all of which may be divided into four classes: (''a'') according to the medium in which the body is immersed, as a ''water-'', ''oil-'', or ''mud-bath'', a ''compressed-air bath'', a ''medicated'' or ''mineral bath'', etc.; (''b'') according to manner of application or use, as a ''plunge-'', ''shower-'', ''vapor-'', ''douche-'', ''spray-'', or ''swimming-bath'', etc.; (''c'') according to the parts bathed, as a ''foot-'', ''sitz-'', or ''eye-bath'', etc.; (''d'') according to temperature, as a ''hot'', ''tepid'', ''warm'', or ''cold bath''.}} '''3.''' A vessel for holding water in which to plunge, wash, or bathe the body.—'''4.''' More generally, an apartment or apparatus by means of which the body, or a part of it, may be bathed in any medium differing in nature or temperature from its natural medium.—'''5.''' An edifice containing apartments fitted up for bathing; a bath-house; particularly, in the plural, one of the elaborate bathing establishments of the ancients, as the Baths of Caracalla at Rome. See ''thermæ''.—'''6.''' In ''science'' and the ''arts'', any vessel containing a liquid for treating any object by immersion. {{smaller|(''a'') In ''photog.'', the vessel in which a collodionized plate is submitted to the action of a solution of nitrate of silver, or the tray in which an exposed dry plate is immersed in the developing solution. (''b'') In ''etching'', the pan of acid into which the plate is plunged to be bitten.}} '''7.''' An arrangement or preparation for immersing anything, as the silver-bath in photography. —'''8.''' In ''chem.'', an apparatus for modifying and regulating the heat in various chemical processes, by interposing a quantity of sand, water, or other substance between the fire and the vessel intended to be heated. {{smaller|When a liquid bath of a higher temperature than 212° is required, saturated solutions are employed in which the boiling-point is higher than that of water.—'''Companions of the Bath,''' the third or lowest class of the members of the order of the Bath.—'''Compressed-air bath,''' a bath consisting in remaining for a longer or shorter time in a chamber filled with compressed air. Such baths have been recommended as useful in certain diseases, in which an increased expansive force is required to cause the air to inflate the more delicate air-passages of the lungs.—'''Dung-bath,''' a bath used in calico-printing. See ''dunging.''—'''Knights of the Bath,''' an order of knighthood supposed to have been instituted at the coronation of Henry IV. in 1399. It received this name from the fact that the candidates for the honor were put into a bath the preceding evening, to denote a purification or absolution from all former stain, and that they were now to begin a new life. The present order of the Bath, however, was instituted by George I. in 1725, as a military order, consisting, exclusive of the sovereign, of a grand master and thirty-six companions. In 1815 the order was greatly extended, and in 1847 it was opened to civilians. It is now composed of three classes, viz.: military and civil knights grand-crosses, G. C. B.; knights commanders, K. C. B.; and knights companions, C. B. The}}\n{{smaller|badge (fig. 1) is a golden Maltese cross of eight points, with the lion of England in the four principal angles, and}} having in a circle in the center the rose, thistle, and shamrock (representing respectively England, Scotland, and Ireland), between three imperial crowns; motto, ''Tria juncta''\n\n[[File:century v01 p0499 c3f1.png|center|339px]]\n{{c|{{smaller|Plan of the Baths of Caracalla, Rome.}}}}\n\n[[File:century v01 p0499 c3f2.png|center|283px]]\n{{c|{{smaller|1. Badge worn suspended from the collar of a knight of the Bath. 2. Star of the Grand Cross.}}}}<noinclude><references/></noinclude>"
+}

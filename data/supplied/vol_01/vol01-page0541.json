@@ -1,0 +1,372 @@
+{
+ "volume": 1,
+ "page_number": 541,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n540.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n540.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 745,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     75,
+     125,
+     2302,
+     167
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     75,
+     167,
+     817,
+     1212
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     75,
+     1212,
+     817,
+     2219
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     75,
+     2219,
+     817,
+     3274
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     503,
+     2524,
+     817,
+     3126
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     817,
+     167,
+     1569,
+     1265
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1097,
+     258,
+     1561,
+     820
+    ]
+   },
+   {
+    "name": "c2f2",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     834,
+     901,
+     1028,
+     1072
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     817,
+     1265,
+     1569,
+     2341
+    ]
+   },
+   {
+    "name": "c2f3",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1221,
+     2004,
+     1569,
+     2252
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     817,
+     2341,
+     1569,
+     3274
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     167,
+     2302,
+     593
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     593,
+     2302,
+     1531
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1673,
+     728,
+     2236,
+     1501
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     1531,
+     2302,
+     2630
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     2630,
+     2302,
+     3274
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|belladonna|515|bellied}}",
+   "c1s1": "natural order ''Solanaceæ'', a native of central and southern Europe. {{smaller|All parts of the plant are poisonous, and depend for their pharmacodynamic properties on the alkaloid atropin. The plant and its alkaloid are largely used in medicine to relieve pain, to check spasm and excessive perspiration, and especially in surgery to dilate the pupil and paralyze the accommodation of the eye.}}\n\n'''bell-and-hopper''' (bel′and-hop′ėr), ''n.'' A charging device on top of a blast-furnace. {{smaller|The bottom of the hopper is closed from beneath by a bell-shaped piece, which, when lowered, permits the ore to fall into the stock.}}\n\n'''bellandine''' (bel′an-dīn), ''n.'' [Sc.; cf. ''ballan'', a fight, combat.] A quarrel; a squabble. ''Hogg.''\n\n'''bell-animal''' (bel′an″i-mạl), ''n.'' Same as ''bell-animalcule.''\n\n'''bell-animalcule''' (bel′an-i-mal″kūl), ''n.'' The usual English name of a peritrichous ciliated infusorian, of the family ''Vorticellidæ'' (which see). See cut under ''Vorticella.'' Also called ''bell-polyp.''\n\n'''bellarmine''' (bel′är-min), ''n.'' [See def.] A large stoneware jug with a capacious belly and narrow neck, decorated with the face of a bearded man, originally designed as a caricature of Cardinal Bellarmin, who made himself obnoxious to the Protestant party in the Netherlands as an opponent of the Reformation, in the end of the sixteenth century and the early part of the seventeenth.\n{{smaller block|<poem>Or like a larger jug that some men call\nA ''Bellarmine.'' ''W. Cartwright'', The Ordinary.</poem>}}\n\n{{smaller|Large globular jugs, stamped in relief with a grotesque bearded face and other ornaments, were one of the favour-}}",
+   "c1s2": "{{smaller block|ite forms [in stoneware]. Such were called “greybeards” or ''bellarmines'', from the unpopular cardinal of that name, of whom the bearded face was supposed to be a caricature.\n{{right|''Encyc. Brit.'', XIX. 631.}}}}\n\n'''bellasombra-tree''' (bel-a̤-som′brä̤-trē), ''n.'' [< Sp. ''bella'', beautiful, + ''sombra'', shade.] A South American tree, ''Phytolacca dioica'', cultivated as a shade-tree in Spain, Malta, and some of the cities of India.\n\n'''Bellatrix''' (be-lā′triks), ''n.'' [L., fem. of ''bellator'', a warrior, < ''bellare'', wage, < ''bellum'', war: see ''bellicose'', ''belligerent''. In sense 1 it is the translation by the authors of the Alphonsine Tables of the Ar. name ''Alnādshid'', the real meaning of which is doubtful.] '''1.''' A very white glittering star of the second magnitude, in the left shoulder of Orion. It is γ Orionis.—'''2.''' In ''ornith.'', a genus of humming-birds. ''Boie'', 1831.\n\n'''bell-bind''' (bel′bīnd), ''n.'' Another name of the hedge-bells or hedge-bindweed of Europe, ''Convolvulus sepium.''\n\n'''bell-bird''' (bel′bėrd), ''n.'' '''1.''' The arapunga.—'''2.''' An Australian bird of the family ''Meliphagidæ'', the ''Manorhina'' (or ''Myzantha'') ''melanophrys'', whose notes resemble the sound of a bell.—'''3.''' An Australian piping crow, of the genus ''Strepera'', as ''S. graculina''. Also called ''bell-magpie''.\n\n'''bell-bloom†''', ''n.'' [Early mod. E. ''belle-blome''.] An old name of the daffodil.\n\n'''bell-bottle''' (bel′bot″l), ''n.'' Another name of one of the two European plants called bluebell, ''Scilla nutans''. See ''bluebell''.",
+   "c1s3": "¶\n'''bell-boy''' (bel′boi), ''n.'' A boy who answers a bell; specifically, an employee in a hotel who attends to the wants of guests in their rooms when summoned by bell.\n\n'''bell-buoy''' (bel′boi), ''n.'' See ''buoy.''\n\n'''bell-cage''' (bel′kāj), ''n.'' A belfry.\n\n'''bell-call''' (bel′kâl), ''n.'' Same as ''call-bell.''\n\n'''bell-canopy''' (bel′kan″ọ̄-pi), ''n.'' A canopy-like construction of wood or stone, designed to protect\n[[FIGURE]]\n{{c|{{smaller|Bell-canopy, Harvard College, Cambridge, Mass.}}}}\na bell and its fittings from the weather.\n\n'''bell-chamber''' (bel′chām″-bėr), ''n.'' The portion of a tower, usually near its summit, in which bells are hung. {{smaller|It is commonly constructed with large openings on all sides, to permit the sound of the bells to diffuse itself without impediment.}}\n\n'''bell-chuck''' (bel′chuk), ''n.'' A bell-shaped lathe-chuck, which, by means of set-screws, holds the piece to be turned.\n\n'''bell-cord''' (bel′kôrd), ''n.'' A cord attached to a bell; specifically, a cord attached to a bell on a locomotive and running through the cars of a train, used by conductors or brakemen in the United States and Canada to signal the engineer.",
+   "c2s1": "¶\n'''bell-cote''' (bel′kōt), ''n.'' In ''arch.'', an ornamental construction designed to contain one or two\n[[FIGURE]]\n{{c|{{smaller|Bell-cote.<br>Darnétal, near Rouen, Normandy.}}}}\nbells, and often crowned by a small spire. {{smaller|The bell-cote rests upon a wall, and is sometimes supported by corbels; but no change is made on account of its presence in the architectural disposition of the lower parts of the building. See ''bell-turret.'' Also written ''bell-cot.''}}\n\n'''bell-crank''' (bel′krangk), ''n.'' In ''mach.'', a rectangular lever by which the direction of motion is changed through an an-\n[[FIGURE]]\n{{c|{{smaller|Bell-crank.}}}}\ngle of 90°, and by which its velocity-ratio and range may be altered at pleasure by making the arms of different lengths. {{smaller|It is much employed in machinery, and is named from the fact that it is the form of crank employed in changing the direction of the wires of house-bells. ''F'' in the cut is the center of motion about which the arms oscillate. See also cut under ''crank.''}}\n\n'''belle''' (bel), ''a.'' and ''n.'' [< F. ''belle'', fem. of ''beau'', OF. ''bel'', < L. ''bellus'', beautiful: see ''bel''<sup>1</sup>, ''bell''<sup>5</sup>.] '''I.''' ''a.'' Beautiful; charming; fair.—'''Belle chere†.'''",
+   "c2s2": "[ME., < OF. ''belle chere'': see ''belle'' and ''cheer''.] Good entertainment; good cheer.\n{{smaller block|<poem>''Bele chere''\nThat he hath had ful ofte tymes here.</poem>\n{{right|''Chaucer'', Shipman’s Tale, l. 409.}}}}\n\n'''II.''' ''n.'' A fair lady; a handsome woman of society; a recognized or reigning beauty.\n{{smaller block|<poem>Where none admire, ’tis useless to excel;\nWhere none are beaux, ’tis vain to be a ''belle''.</poem>\n{{right|''Lord Lyttelton'', Beauty in the Country.}}\nBeauty alone will not make the ''belle''; the beauty must be lit up by esprit.\n{{right|''Arch. Forbes'', Souvenirs of some Continents, p. 148.}}}}\n\n'''belled''' (beld), ''p. a.'' Hung with bells; in ''her.'', having hawk-bells attached: said of a hawk when used as a bearing.\n\n'''bellelettrist''', ''n.'' See ''belletrist''.\n\n'''belleric''' (be-ler′ik), ''n.'' [< F. ''belléric'', ult. < Ar. ''balīlaj'', < Pers. ''balīlah''.] The astringent fruit of ''Terminalia Bellerica'', one of the fruits imported from India, under the name of ''myrobalans'', for the use of calico-printers.\n\n'''Bellerophon''' (be-ler′ō-fon), ''n.'' [L., < Gr. Βελλεροφῶν, also Βελλεροφόντης, a local hero of Corinth, in Greek myth. the slayer of the monster Chimæra; < *Βέλλερος, supposed to mean ‘monster,’ + -φῶν, -φόντης, slayer, < *φαν, kill, akin to E. ''bane''<sup>1</sup>, q. v.] An extinct genus of gastropods, typical of the family ''Bellerophontidæ''. {{smaller|It is}}\n[[FIGURE]]\n{{c|{{smaller|''Bellerophon expansus'', Upper Silurian, Britain.}}}}\n{{smaller|one of the genera whose shells largely enter into the com-}}",
+   "c2s3": "{{smaller|position of limestone beds of the Silurian, Devonian, and Carboniferous epochs.}}\n\n'''bellerophontid''' (be-ler-ọ̄-fon′tid), ''n.'' [< ''Bellerophontidæ.''] A gastropod of the family ''Bellerophontidæ.''\n\n'''Bellerophontidæ''' (be-ler-ọ̄-fon′ti-dē), ''n. pl.'' [NL., < ''Bellerophon(t-)'' + ''-idæ.''] An extinct family of gastropods, typified by the genus ''Bellerophon.'' {{smaller|The shell was symmetrically involute and nautiliform, with the periphery carinated or sulcated and notched or incised at the lip. The species flourished and were numerous in the Paleozoic age. Their affinities are uncertain. Formerly they were associated by most authors with the heteropod ''Atlantidæ,'' but they are now generally approximated to the ''Pleurotomariidæ,'' of the order ''Rhipidoglossa.''}}\n\n'''belles-lettres''' (bel′let′r), ''n. pl.'' [F., lit. ‘fine letters’ (like ''beaux-arts,'' fine arts): ''belle,'' fine, beautiful; ''lettre,'' letter, pl. ''lettres,'' literature: see ''belle'' and ''letter.''] Polite or elegant literature: a word of somewhat indefinite application, including poetry, fiction, and other imaginative literature, and the studies and criticism connected therewith; literature regarded as a form of fine art.\n\n'''belletrist, bellelettrist''' (be-let′rist), ''n.'' [< ''belles-lettres'' + ''-ist.''] One devoted to belles-lettres.\n\n'''bellettristic''' (bel-et-ris′tik), ''a.'' [< ''belle(s)-lettr(es)'' + ''-ist'' + ''-ic''; G. ''belletristisch.''] Of, pertaining to, or of the nature of belles-lettres.",
+   "c3s1": "{{smaller block|Reviews of publications not purely ''belletristic'' or ephemeral in their nature are generally written by professors.\n{{right|''J. M. Hart'', German Universities, p. 273.}}}}\n\n¶\n'''bell-flower''' (bel′flou″ėr), ''n.'' '''1.''' A common name for the species of ''Campanula'', from the shape of the flower, which resembles a bell. See cut under ''Campanula''.—'''2.''' In some parts of England, the daffodil, ''Narcissus Pseudo-Narcissus''.—{{smaller|'''Autumn bell-flower,''' a species of gentian, ''Gentiana Pneumonanthe''.}}\n\n'''bell-founder''' (bel′foun″dėr), ''n.'' A man whose occupation is to found or cast bells.\n\n'''bell-foundry''' (bel′foun″dri), ''n.'' A place where bells are founded or cast.",
+   "c3s2": "¶\n'''bell-gable''' (bel′gā″bl), ''n.'' '''1.''' The continuation upward of a portion of a wall terminated by a small gable, and pierced to receive one or more bells. Such a feature sometimes surmounts the\n[[FIGURE]]\n{{c|{{smaller|Bell-gable, Church of S. S. Annunziata, Florence.}}}}",
+   "c3s3": "apex of a church-gable.—'''2.''' Any gable when the wall composing it is pierced for bells. [Bell-gables of both varieties are not uncommon in medieval architecture.]\n\n¶\n'''bell-gamba''' (bel′gam″bạ̈), ''n.'' Same as ''conegamba'' (which see).\n\n¶\n'''bell-gastrula''' (bel′gas″trö-lạ̈), ''n.'' In ''biol.'', the original, primary palingenetic form of gastrula, according to the views of Haeckel: same as ''archigastrula''. See cut under ''gastrula''.\n\n¶\n'''bell-glass''' (bel′glȧs), ''n.'' A bell-shaped glass vessel used to cover objects which require protection from variations of the atmosphere, dust, and influences of like character, as delicate plants, bric-à-brac, small works of art, clocks, etc., or to hold gases in chemical operations.\n\n¶\n'''bell-hanger''' (bel′hang″ėr), ''n.'' One who hangs and repairs bells.\n\n¶\n'''bell-harp''' (bel′härp), ''n.'' An old stringed instrument, consisting of a wooden box about two feet long, containing a harp or lyre with eight or more steel strings. {{smaller|The player twanged the strings with the thumbs of both hands inserted through holes in the box, meanwhile swinging the box from side to side, like a bell.}}\n\n¶\n'''bellibone†''', ''n.'' [One of Spenser’s words, appar. < F. ''belle et bonne'', beautiful and good. See ''belle'', ''bonne'', and ''boon''<sup>2</sup>.] A bonny lass.\n\n¶\n'''bellic†''', '''bellical†''' (bel′ik, -i-kal), ''a.'' [Also ''bellique'', < F. ''bellique'', < L. ''bellicus'', warlike, < ''bellum'', war.] Pertaining to war; warlike: as, “''bellique'' Cæsar,” ''Feltham'', Resolves, ii. 52.\n\n¶\n'''bellicose''' (bel′i-kōs), ''a.'' [< L. ''bellicosus'', < ''bellum'', OL. ''duellum'', war, orig. a combat between two, < ''duo'' = E. ''two''. Cf. ''duel''.] Inclined or",
+   "c3s4": "tending to war; warlike; pugnacious: as, ''bellicose'' sentiments.\n{{smaller block|Arnold was in a ''bellicose'' vein. {{right|''Irving.''}}\nI saw the bull always alert and ''bellicose'', charging the footmen, who pricked and baited, and enraged him with their scarlet mantles.\n{{right|''C. D. Warner'', Roundabout Journey, p. 271.}}}}\n\n¶\n'''bellicosely''' (bel′i-kōs-li), ''adv.'' In a bellicose or warlike manner; pugnaciously.\n{{smaller block|Anything like rallying the more ''bellicosely'' inclined of the pilgrims would, under the circumstances, be out of the question. {{right|''O’Donovan'', Merv, x.}}}}\n\n'''bellicous†''' (bel′i-kus), ''a.'' [As ''bellicose'', < L. ''bellicosus''; or < L. ''bellicus'': see ''bellicose'', ''bellic.''] Bellicose: as, “''bellicous'' nations,” ''Sir T. Smith'', Commonwealth of Eng.\n\n'''bellied''' (bel′id), ''a.'' [< ''belly'' + ''-ed''<sup>2</sup>.] '''1.''' Having a belly (of the kind indicated in composition): as, big-''bellied''; pot-''bellied''.—'''2.''' In ''bot.'', ventricose; swelling out in the middle.—'''3.''' In ''anat.'',"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0541 c1f1.png",
+   "c2f1": "century v01 p0541 c2f1.png",
+   "c2f2": "century v01 p0541 c2f2.png",
+   "c2f3": "century v01 p0541 c2f3.png",
+   "c3f1": "century v01 p0541 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1109,
+     270,
+     1549,
+     808
+    ],
+    "caption": [
+     1146,
+     819,
+     1509,
+     869
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1132,
+     262,
+     1511,
+     815
+    ]
+   },
+   {
+    "box": [
+     846,
+     913,
+     1016,
+     1060
+    ],
+    "caption": [
+     877,
+     1075,
+     992,
+     1094
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     842,
+     913,
+     931,
+     1072
+    ]
+   },
+   {
+    "box": [
+     1685,
+     740,
+     2224,
+     1489
+    ],
+    "caption": [
+     1677,
+     1495,
+     2198,
+     1520
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1675,
+     787,
+     2291,
+     1490
+    ]
+   },
+   {
+    "box": [
+     1233,
+     2016,
+     1557,
+     2240
+    ],
+    "caption": [
+     1238,
+     2247,
+     1560,
+     2289
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1296,
+     1997,
+     1533,
+     2282
+    ]
+   },
+   {
+    "box": [
+     515,
+     2536,
+     819,
+     3114
+    ],
+    "caption": [
+     528,
+     3134,
+     811,
+     3176
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     507,
+     2574,
+     776,
+     3160
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "1": [
+    1,
+    0
+   ],
+   "2": [
+    3,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 6,
+    "input_tokens": 9823,
+    "output_tokens": 606,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9566,
+    "output_tokens": 8887,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c1f1": "right",
+   "c2f1": "right",
+   "c2f2": "left",
+   "c2f3": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|belladonna|515|bellied}}</noinclude>natural order ''Solanaceæ'', a native of central and southern Europe. {{smaller|All parts of the plant are poisonous, and depend for their pharmacodynamic properties on the alkaloid atropin. The plant and its alkaloid are largely used in medicine to relieve pain, to check spasm and excessive perspiration, and especially in surgery to dilate the pupil and paralyze the accommodation of the eye.}}\n\n'''bell-and-hopper''' (bel′and-hop′ėr), ''n.'' A charging device on top of a blast-furnace. {{smaller|The bottom of the hopper is closed from beneath by a bell-shaped piece, which, when lowered, permits the ore to fall into the stock.}}\n\n'''bellandine''' (bel′an-dīn), ''n.''   [Sc.; cf. ''ballan'', a fight, combat.]   A quarrel; a squabble.   ''Hogg.''\n\n'''bell-animal''' (bel′an″i-mạl), ''n.'' Same as ''bell-animalcule.''\n\n'''bell-animalcule''' (bel′an-i-mal″kūl), ''n.'' The usual English name of a peritrichous ciliated infusorian, of the family ''Vorticellidæ'' (which see). See cut under ''Vorticella.'' Also called ''bell-polyp.''\n\n'''bellarmine''' (bel′är-min), ''n.''   [See def.]   A large stoneware jug with a capacious belly and narrow neck, decorated with the face of a bearded man, originally designed as a caricature of Cardinal Bellarmin, who made himself obnoxious to the Protestant party in the Netherlands as an opponent of the Reformation, in the end of the sixteenth century and the early part of the seventeenth.\n{{smaller block|<poem>Or like a larger jug that some men call\nA ''Bellarmine.'' ''W. Cartwright'', The Ordinary.</poem>}}\n\n{{smaller|Large globular jugs, stamped in relief with a grotesque bearded face and other ornaments, were one of the favourite forms [in stoneware]. Such were called “greybeards” or ''bellarmines'', from the unpopular cardinal of that name, of whom the bearded face was supposed to be a caricature.\n{{right|''Encyc. Brit.'', XIX. 631.}}}}\n\n'''bellasombra-tree''' (bel-a̤-som′brä̤-trē), ''n.''   [< Sp. ''bella'', beautiful, + ''sombra'', shade.]   A South American tree, ''Phytolacca dioica'', cultivated as a shade-tree in Spain, Malta, and some of the cities of India.\n\n'''Bellatrix''' (be-lā′triks), ''n.''   [L., fem. of ''bellator'', a warrior, < ''bellare'', wage, < ''bellum'', war: see ''bellicose'', ''belligerent''. In sense 1 it is the translation by the authors of the Alphonsine Tables of the Ar. name ''Alnādshid'', the real meaning of which is doubtful.]   '''1.''' A very white glittering star of the second magnitude, in the left shoulder of Orion. It is γ Orionis.—'''2.''' In ''ornith.'', a genus of humming-birds.   ''Boie'', 1831.\n\n'''bell-bind''' (bel′bīnd), ''n.'' Another name of the hedge-bells or hedge-bindweed of Europe, ''Convolvulus sepium.''\n\n'''bell-bird''' (bel′bėrd), ''n.'' '''1.''' The arapunga.—'''2.''' An Australian bird of the family ''Meliphagidæ'', the ''Manorhina'' (or ''Myzantha'') ''melanophrys'', whose notes resemble the sound of a bell.—'''3.''' An Australian piping crow, of the genus ''Strepera'', as ''S. graculina''. Also called ''bell-magpie''.\n\n'''bell-bloom†''', ''n.''   [Early mod. E. ''belle-blome''.]   An old name of the daffodil.\n\n'''bell-bottle''' (bel′bot″l), ''n.'' Another name of one of the two European plants called bluebell, ''Scilla nutans''. See ''bluebell''.\n\n'''bell-boy''' (bel′boi), ''n.'' A boy who answers a bell; specifically, an employee in a hotel who attends to the wants of guests in their rooms when summoned by bell.\n\n'''bell-buoy''' (bel′boi), ''n.'' See ''buoy.''\n\n'''bell-cage''' (bel′kāj), ''n.'' A belfry.\n\n'''bell-call''' (bel′kâl), ''n.'' Same as ''call-bell.''\n\n'''bell-canopy''' (bel′kan″ọ̄-pi), ''n.'' A canopy-like construction of wood or stone, designed to protect {{img float|file=century v01 p0541 c1f1.png|width=152px|align=right|cap={{smaller|Bell-canopy, Harvard College, Cambridge, Mass.}}}} a bell and its fittings from the weather.\n\n'''bell-chamber''' (bel′chām″-bėr), ''n.'' The portion of a tower, usually near its summit, in which bells are hung. {{smaller|It is commonly constructed with large openings on all sides, to permit the sound of the bells to diffuse itself without impediment.}}\n\n'''bell-chuck''' (bel′chuk), ''n.'' A bell-shaped lathe-chuck, which, by means of set-screws, holds the piece to be turned.\n\n'''bell-cord''' (bel′kôrd), ''n.'' A cord attached to a bell; specifically, a cord attached to a bell on a locomotive and running through the cars of a train, used by conductors or brakemen in the United States and Canada to signal the engineer.\n\n'''bell-cote''' (bel′kōt), ''n.'' In ''arch.'', an ornamental construction designed to contain one or two {{img float|file=century v01 p0541 c2f1.png|width=224px|align=right|cap={{smaller|Bell-cote. Darnétal, near Rouen, Normandy.}}}} bells, and often crowned by a small spire. {{smaller|The bell-cote rests upon a wall, and is sometimes supported by corbels; but no change is made on account of its presence in the architectural disposition of the lower parts of the building. See ''bell-turret.'' Also written ''bell-cot.''}}\n\n'''bell-crank''' (bel′krangk), ''n.'' In ''mach.'', a rectangular lever by which the direction of motion is changed through an {{img float|file=century v01 p0541 c2f2.png|width=94px|align=left|cap={{smaller|Bell-crank.}}}} angle of 90°, and by which its velocity-ratio and range may be altered at pleasure by making the arms of different lengths. {{smaller|It is much employed in machinery, and is named from the fact that it is the form of crank employed in changing the direction of the wires of house-bells. ''F'' in the cut is the center of motion about which the arms oscillate. See also cut under ''crank.''}}\n\n'''belle''' (bel), ''a.'' and ''n.''   [< F. ''belle'', fem. of ''beau'', OF. ''bel'', < L. ''bellus'', beautiful: see ''bel''<sup>1</sup>, ''bell''<sup>5</sup>.]   '''I.''' ''a.'' Beautiful; charming; fair.—'''Belle chere†.''' [ME., < OF. ''belle chere'': see ''belle'' and ''cheer''.] Good entertainment; good cheer.\n{{smaller block|<poem>''Bele chere''\nThat he hath had ful ofte tymes here.</poem>\n{{right|''Chaucer'', Shipman’s Tale, l. 409.}}}}\n\n'''II.''' ''n.'' A fair lady; a handsome woman of society; a recognized or reigning beauty.\n{{smaller block|<poem>Where none admire, ’tis useless to excel;\nWhere none are beaux, ’tis vain to be a ''belle''.</poem>\n{{right|''Lord Lyttelton'', Beauty in the Country.}}}}\n{{smaller block|Beauty alone will not make the ''belle''; the beauty must be lit up by esprit.\n{{right|''Arch. Forbes'', Souvenirs of some Continents, p. 148.}}}}\n\n'''belled''' (beld), ''p. a.'' Hung with bells; in ''her.'', having hawk-bells attached: said of a hawk when used as a bearing.\n\n'''bellelettrist''', ''n.'' See ''belletrist''.\n\n'''belleric''' (be-ler′ik), ''n.''   [< F. ''belléric'', ult. < Ar. ''balīlaj'', < Pers. ''balīlah''.]   The astringent fruit of ''Terminalia Bellerica'', one of the fruits imported from India, under the name of ''myrobalans'', for the use of calico-printers.\n\n'''Bellerophon''' (be-ler′ō-fon), ''n.''   [L., < Gr. Βελλεροφῶν, also Βελλεροφόντης, a local hero of Corinth, in Greek myth. the slayer of the monster Chimæra; < *Βέλλερος, supposed to mean ‘monster,’ + -φῶν, -φόντης, slayer, < *φαν, kill, akin to E. ''bane''<sup>1</sup>, q. v.]   An extinct genus of gastropods, typical of the family ''Bellerophontidæ''. {{smaller|It is}} {{img float|file=century v01 p0541 c2f3.png|width=168px|align=right|cap={{smaller|''Bellerophon expansus'', Upper Silurian, Britain.}}}}\n{{smaller|one of the genera whose shells largely enter into the composition of limestone beds of the Silurian, Devonian, and Carboniferous epochs.}}\n\n'''bellerophontid''' (be-ler-ọ̄-fon′tid), ''n.''   [< ''Bellerophontidæ.'']   A gastropod of the family ''Bellerophontidæ.''\n\n'''Bellerophontidæ''' (be-ler-ọ̄-fon′ti-dē), ''n. pl.''   [NL., < ''Bellerophon(t-)'' + ''-idæ.'']   An extinct family of gastropods, typified by the genus ''Bellerophon.'' {{smaller|The shell was symmetrically involute and nautiliform, with the periphery carinated or sulcated and notched or incised at the lip. The species flourished and were numerous in the Paleozoic age. Their affinities are uncertain. Formerly they were associated by most authors with the heteropod ''Atlantidæ,'' but they are now generally approximated to the ''Pleurotomariidæ,'' of the order ''Rhipidoglossa.''}}\n\n'''belles-lettres''' (bel′let′r), ''n. pl.''   [F., lit. ‘fine letters’ (like ''beaux-arts,'' fine arts): ''belle,'' fine, beautiful; ''lettre,'' letter, pl. ''lettres,'' literature: see ''belle'' and ''letter.'']   Polite or elegant literature: a word of somewhat indefinite application, including poetry, fiction, and other imaginative literature, and the studies and criticism connected therewith; literature regarded as a form of fine art.\n\n'''belletrist, bellelettrist''' (be-let′rist), ''n.''   [< ''belles-lettres'' + ''-ist.'']   One devoted to belles-lettres.\n\n'''bellettristic''' (bel-et-ris′tik), ''a.''   [< ''belle(s)-lettr(es)'' + ''-ist'' + ''-ic''; G. ''belletristisch.'']   Of, pertaining to, or of the nature of belles-lettres. {{smaller block|Reviews of publications not purely ''belletristic'' or ephemeral in their nature are generally written by professors.\n{{right|''J. M. Hart'', German Universities, p. 273.}}}}\n\n'''bell-flower''' (bel′flou″ėr), ''n.'' '''1.''' A common name for the species of ''Campanula'', from the shape of the flower, which resembles a bell. See cut under ''Campanula''.—'''2.''' In some parts of England, the daffodil, ''Narcissus Pseudo-Narcissus''.—{{smaller|'''Autumn bell-flower,''' a species of gentian, ''Gentiana Pneumonanthe''.}}\n\n'''bell-founder''' (bel′foun″dėr), ''n.'' A man whose occupation is to found or cast bells.\n\n'''bell-foundry''' (bel′foun″dri), ''n.'' A place where bells are founded or cast.\n\n'''bell-gable''' (bel′gā″bl), ''n.'' '''1.''' The continuation upward of a portion of a wall terminated by a small gable, and pierced to receive one or more bells. Such a feature sometimes surmounts the apex of a church-gable.—'''2.''' Any gable when the wall composing it is pierced for bells. [Bell-gables of both varieties are not uncommon in medieval architecture.]\n\n[[File:century v01 p0541 c3f1.png|center|272px]]\n{{c|{{smaller|Bell-gable, Church of S. S. Annunziata, Florence.}}}}\n\n'''bell-gamba''' (bel′gam″bạ̈), ''n.'' Same as ''conegamba'' (which see).\n\n'''bell-gastrula''' (bel′gas″trö-lạ̈), ''n.'' In ''biol.'', the original, primary palingenetic form of gastrula, according to the views of Haeckel: same as ''archigastrula''. See cut under ''gastrula''.\n\n'''bell-glass''' (bel′glȧs), ''n.'' A bell-shaped glass vessel used to cover objects which require protection from variations of the atmosphere, dust, and influences of like character, as delicate plants, bric-à-brac, small works of art, clocks, etc., or to hold gases in chemical operations.\n\n'''bell-hanger''' (bel′hang″ėr), ''n.'' One who hangs and repairs bells.\n\n'''bell-harp''' (bel′härp), ''n.'' An old stringed instrument, consisting of a wooden box about two feet long, containing a harp or lyre with eight or more steel strings. {{smaller|The player twanged the strings with the thumbs of both hands inserted through holes in the box, meanwhile swinging the box from side to side, like a bell.}}\n\n'''bellibone†''', ''n.''   [One of Spenser’s words, appar. < F. ''belle et bonne'', beautiful and good. See ''belle'', ''bonne'', and ''boon''<sup>2</sup>.]   A bonny lass.\n\n'''bellic†''', '''bellical†''' (bel′ik, -i-kal), ''a.''   [Also ''bellique'', < F. ''bellique'', < L. ''bellicus'', warlike, < ''bellum'', war.]   Pertaining to war; warlike: as, “''bellique'' Cæsar,” ''Feltham'', Resolves, ii. 52.\n\n'''bellicose''' (bel′i-kōs), ''a.''   [< L. ''bellicosus'', < ''bellum'', OL. ''duellum'', war, orig. a combat between two, < ''duo'' = E. ''two''. Cf. ''duel''.]   Inclined or tending to war; warlike; pugnacious: as, ''bellicose'' sentiments.\n{{smaller block|Arnold was in a ''bellicose'' vein. {{right|''Irving.''}}}}\n{{smaller block|I saw the bull always alert and ''bellicose'', charging the footmen, who pricked and baited, and enraged him with their scarlet mantles.\n{{right|''C. D. Warner'', Roundabout Journey, p. 271.}}}}\n\n'''bellicosely''' (bel′i-kōs-li), ''adv.'' In a bellicose or warlike manner; pugnaciously.\n{{smaller block|Anything like rallying the more ''bellicosely'' inclined of the pilgrims would, under the circumstances, be out of the question. {{right|''O’Donovan'', Merv, x.}}}}\n\n'''bellicous†''' (bel′i-kus), ''a.''   [As ''bellicose'', < L. ''bellicosus''; or < L. ''bellicus'': see ''bellicose'', ''bellic.'']   Bellicose: as, “''bellicous'' nations,” ''Sir T. Smith'', Commonwealth of Eng.\n\n'''bellied''' (bel′id), ''a.''   [< ''belly'' + ''-ed''<sup>2</sup>.]   '''1.''' Having a belly (of the kind indicated in composition): as, big-''bellied''; pot-''bellied''.—'''2.''' In ''bot.'', ventricose; swelling out in the middle.—'''3.''' In ''anat.'',<noinclude><references/></noinclude>"
+}

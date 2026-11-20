@@ -1,0 +1,231 @@
+{
+ "volume": 1,
+ "page_number": 490,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n489.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n489.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 744,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     100,
+     114,
+     2321,
+     156
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     100,
+     156,
+     840,
+     1227
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     120,
+     164,
+     820,
+     818
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     100,
+     1227,
+     840,
+     2323
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     100,
+     2323,
+     840,
+     3409
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     840,
+     156,
+     1586,
+     1204
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     840,
+     1204,
+     1586,
+     2207
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     840,
+     2207,
+     1586,
+     3206
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     840,
+     3206,
+     1586,
+     3409
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1586,
+     156,
+     2321,
+     1227
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1586,
+     1227,
+     2321,
+     2302
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1586,
+     2302,
+     2321,
+     3336
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1586,
+     3336,
+     2321,
+     3409
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|base-line|464|bashlyk}}",
+   "c1s1": "[[FIGURE]]\n{{c|{{smaller|Base-line.}}}}\n{{smaller block|(''c'') ''Milit.'', a line, as of frontier, sea-coast, or forts, taken by an army as the base of operations, from which movements have their origin, and supplies of food, ammunition, and men are sent to the front, and to which the army may retreat in case of disaster. Also called ''base.''}}\n'''2.''' A line traced round a cannon behind the vent.—'''3.''' In the game of lawn-tennis, the end line of the court; the line from which the player serves the ball.—'''4.''' In ''base-ball'', the line connecting one base with the next.\n\n'''basely''' (bās′li), ''adv.'' '''1.''' In a base manner; meanly; dishonorably.\n{{smaller block|<poem>Warr’d he hath not,</poem>}}",
+   "c1s2": "{{smaller block|<poem>But ''basely'' yielded upon compromise\nThat which his ancestors achiev’d with blows.</poem>\n{{right|''Shak.'', Rich. II., ii. 1.}}}}\n\n'''2.''' In a base or mean condition; illegitimately; in bastardy.\n\n{{smaller block|Two Mitylene brethren, ''basely'' born. {{right|''Knolles.''}}}}\n\n'''3†.''' At a low rate; cheaply.\n\n{{smaller block|Them that desire to look big, and to live ''basely''.\n{{right|''Venner'', Via Recta, iii. 52. (''N. E. D.'')}}}}\n\n'''baseman''' (bās′man), ''n.''; pl. ''basemen'' (-men). Any one of the three players who in the game of base-ball are stationed at first, second, and third bases.\n\n'''basement''' (bās′mẹnt), ''n.'' [= MLG. ''basement'', ''basiment'', ''basment'', base, pedestal; cf. F. ''soubassement'', formerly ''sous-bassement'', < ''sous'', under (< L. ''subtus'', < ''sub'', under), + *''bassement'' (in form after It. ''bassamento'', abasement): see ''base''<sup>1</sup> and ''-ment''.] '''1.''' The lower or fundamental portion; a base. [Rare.]\n\n{{smaller block|Up from its deep reservoirs, from the mysterious ''basements'' of the mountain, wells the silent stream.\n{{right|''J. A. Symonds'', Italy and Greece, p. 322.}}}}\n\n'''2.''' In ''arch.'': (''a'') The portion of the elevation of a structure which performs the function in the design of constituting a support to those portions which come above it; especially, the substructure of a columnar or arched construction, but also the lowest member in the design of a wall, etc. Compare ''base''<sup>2</sup>, 3.\n\n{{smaller block|It [the tomb] consisted of a square ''basement'' surrounded by a Doric peristyle with engaged columns, and surmounted by a pyramid, on the apex of which was placed the lion as the epithema, or crowning ornament.\n{{right|''C. T. Newton'', Art and Archæol., p. 83.}}}}",
+   "c1s3": "(''b'') A floor or story which is wholly or in part beneath the surface of the ground, but is usually, as distinguished from a cellar, well lighted, and fitted up and used for household or other usual purposes.—'''3.''' The act of basing, or the state of being based. [Rare.]—{{smaller|'''Basement membrane,''' in ''anat.'', a delicate membrane, formed of flattened cells, which underlies the epithelium of mucous membranes, and covers that of secreting glands. Also called ''membrana propria.''—'''Basement tissue,''' the substance of basement membrane.—'''English basement,''' the entrance-story of a city house when it is on the level of the street. [U. S.] See extract.}}\n{{smaller block|But the most conspicuous importation from Britain was the house New Yorkers call the ''English basement''—the house which has its entrance at the level of the street and its drawing-rooms upstairs, as distinguished from the Dutch type with its “high stoop” giving immediate access to the chief apartments.\n{{right|''The Century'', XXXI. 549.}}}}\n\n'''basement-story''' (bās′ment-stō″ri), ''n.'' Same as ''basement'', 2 (''b'').\n\n'''base-minded''' (bās′mīn″ded), ''a.'' Of a low spirit or mind; mean; dishonorably inclined.\n\n'''base-mindedly''' (bās′mīn″ded-li), ''adv.'' In a base-minded or dishonorable manner.\n\n'''base-molding''' (bās′mōl″ding), ''n.'' In ''arch.'', an ornamental molding at the base of any architectural feature, as a column, pedestal, or especially a wall.\n\n'''basen†''', ''a.'' [Appar. one of Spenser’s made words. Cf. Sc. ''bazed'', stupefied; D. ''verbazen'', astonish.] Extended as with astonishment.",
+   "c2s1": "{{smaller block|<poem>Stare on him with big lookes ''basen'' wide.</poem>\n{{right|''Spenser'', Mother Hub. Tale, l. 670.}}}}\n\n¶\n'''baseness''' (bās′nes), ''n.'' [< ''base''<sup>1</sup> + ''-ness.''] '''1.''' The state or condition of being base or low in scale; meanness of grade; lowliness, as of birth or station.\n{{smaller block|''Baseness'' of birth is a great disparagement to some men.\n{{right|''Burton'', Anat. of Mel., p. 347.}}\n<poem>He mixing with his proper sphere,\nShe finds the ''baseness'' of her lot.</poem>\n{{right|''Tennyson'', In Memoriam, lx.}}}}\n'''2.''' That which is base or low; anything of an ignoble grade or quality; meanness, as of relation or employment.\n{{smaller block|<poem>Some kinds of ''baseness''\nAre nobly undergone. {{right|''Shak.'', Tempest, iii. 1.}}\nI once did hold it a ''baseness'' to write fair.</poem>\n{{right|''Shak.'', Hamlet, v. 2.}}}}\n'''3†.''' Illegitimacy of birth; bastardy.\n{{smaller block|<poem>Why brand they us\nWith base? with ''baseness'', bastardy?</poem>\n{{right|''Shak.'', Lear, i. 2.}}}}\n'''4.''' The state or quality of being morally mean or vile; vileness; worthlessness.\n{{smaller block|<poem>Villains,\nWhose ''baseness'' all disgraceful words made one\nCannot express!</poem>\n{{right|''Beau. and Fl.'', Knight of Malta, iv. 4.}}\n<poem>Equal ''baseness'' lived in sleeker times.</poem>\n{{right|''Tennyson'', Princess, v.}}}}\n'''5.''' Of metals: (''a'') Liability to rust: opposed to ''nobleness.'' (''b'') Inferior or debased quality, the result of having been alloyed with a cheaper metal; spuriousness.",
+   "c2s2": "{{smaller block|We alleged the fraudulent obtaining his patent, the ''baseness'' of his metal, and the prodigious sum to be coined.\n{{right|''Swift.''}}}}\n'''6†.''' Deepness of sound.\n{{smaller block|The ''baseness'' or trebleness of tones.\n{{right|''Bacon'', Nat. Hist., § 184.}}}}\n\n'''basenet†''', ''n.'' See ''basinet.''\n\n'''baseology''' (bā-sẹ̄-ol′ọ̄-ji), ''n.'' [< Gr. βάσις, base, + -λογία, < λέγειν, speak: see ''-ology.'' Cf. ''phraseology.''] Fundamental philosophy. ''Krauth.''\n\n'''base-plate''' (bās′plāt), ''n.'' '''1.''' The foundation-plate of metal on which a heavy piece of machinery, as a steam-engine, stands; the bed-plate.—'''2.''' In ''base-ball'', one of the plates formerly often used to mark the bases; hence, by extension, one of the bases.\n\n'''base-ring''' (bās′ring), ''n.'' A projecting band of metal directly in front of the base of the breech in old pieces of ordnance, connected with the body of the gun by a concave molding.\n\n'''base-rocket''' (bās′rok″et), ''n.'' A species of mignonette, ''Reseda lutea'': so called from its rocket-like leaves and low stature.\n\n'''base-running''' (bās′run″ing), ''n.'' In ''base-ball'', the act of running from base to base.\n\n'''bases''', ''n.'' Plural of ''basis.''\n\n'''base-spirited''' (bās′spir″i-ted), ''a.'' Having a base or mean spirit; mean; cowardly.\n\n'''bash'''<sup>1</sup> (bash), ''v.'' [E. dial. or colloq.; in popular apprehension regarded as imitative (cf. ''bang'', ''dash'', ''smash'', etc.), but prob. of Scand. origin, assibilated form of ''bask''<sup>3</sup> (now obs.; cf. dial.",
+   "c2s3": "''basking'', a sound thrashing), < Dan. ''baske'', slap, drub, Sw. ''basa'', whip, drub, beat.] '''I.''' ''trans.'' To strike with a heavy blow; beat violently; knock out of shape. [Colloq. and prov. Eng.]\n{{smaller block|<poem>A woman, a whelp, and a walnut-tree,\nThe more you ''bash'' ’em the better they be.</poem>\n{{right|''Proverbial saying.''}}}}\n{{smaller block|[The above proverb refers to the practice of beating walnut-trees when in bud with poles, or beating off the fruit, a proceeding which was thought to increase their productiveness.]}}\n\n'''II.''' ''intrans.'' To strike; knock. [Colloq. and prov. Eng.]\n\n'''bash<sup>1</sup>''' (bash), ''n.'' [Cf. Dan. ''bask'', a blow, Sw. ''bas'', whipping, beating; from the verb.] A blow that knocks out of shape, or leaves a dent. [Colloq. and prov. Eng.]\n\n'''bash<sup>2</sup>†''' (bash), ''v.'' [< ME. ''basshen'', ''baschen'', ''baisen'', by apheresis for ''abashen'', etc., abash: see ''abash.''] '''I.''' ''trans.'' To daunt; dismay; abash; confound; confuse.\n{{smaller block|<poem>She that ''bash’d'' the sun-god with her eyes.</poem>\n{{right|''Greene and Lodge'', Looking Glass for Lond. and Eng.}}}}\n\n'''II.''' ''intrans.'' '''1.''' To be daunted, dismayed, or confounded.\n{{smaller block|<poem>His countenaunce was bold, and ''bashed'' not\nFor Guyons lookes, but scornefull eyeglaunce at him shot.</poem>\n{{right|''Spenser'', F. Q., II. iv. 37.}}\n<poem>Make Venus’ leman, arm’d in all his pomp,\n''Bash'' at the brightness of your hardy looks.</poem>\n{{right|''Greene and Lodge'', Looking Glass for Lond. and Eng.}}}}\n\n'''2.''' To be abashed or ashamed; be put out of countenance.",
+   "c2s4": "¶\n'''bash<sup>3</sup>''' (bash), ''v. t.'' [E. dial.; perhaps another use of ''bash''<sup>1</sup>.] In ''coal-mining'', to fill with rub-",
+   "c3s1": "bish (space from which coal has been taken). [S. Wales.]\n\n'''bashaw''' (ba-shâ′), ''n.'' [Early mod. E. also ''bassaw'', ''basha'', ''bacha'' (F. ''bacha'', It. ''bassa'', ''bascia'', ML. ''bassa''), etc., < Turk. ''bāshā'' (Pers. ''bāshā'', ''bādshāh''), another form (perhaps after ''bāsh'', head, chief) of ''pāshā'', < Pers. ''pādshāh'', a governor, prince, king: see ''pasha''.] '''1.''' Same as ''pasha''.—'''2.''' A grandee; an important personage; a bigwig. [Colloq.]—{{smaller|'''Bashaw of three tails''', a bashaw or pasha of the rank indicated by that number of horse-tails borne upon his standard.}}\n{{smaller block|<poem>’Tis a very fine thing to be father-in-law\nTo a very magnificent ''three-tailed Bashaw!''</poem>\n{{right|''G. Colman the Younger'', Blue Beard, ii. 5.}}}}\n\n'''bashful''' (bash′fu̇l), ''a.'' [< ''bash''<sup>2</sup> + ''-ful''.] '''1†.''' Wanting in self-possession; fearful; dismayed.\n{{smaller block|<poem>And ''bashful'' Henry depos’d, whose cowardice\nHath made us bywords to our enemies.</poem>\n{{right|''Shak.'', 3 Hen. VI., i. 1.}}}}\n'''2.''' Easily put to confusion; modest to excess; diffident; shy; sheepish. [Formerly used also in the sense of modest, unassuming, as a term of commendation.]\n{{smaller block|Come, you pernicious ass [to the page], you ''bashful'' fool, must you be blushing? wherefore blush you now?\n{{right|''Shak.'', 2 Hen. IV., ii. 2.}}}}\n'''3.''' Indicative of, accompanied with, or proceeding from bashfulness.\n{{smaller block|The refusal which his cousin had steadfastly given him would naturally flow from her ''bashful'' modesty and the genuine delicacy of her character.\n{{right|''Jane Austen'', Pride and Prejudice, p. 95.}}}}\n'''4†.''' Exciting bashfulness or shame.",
+   "c3s2": "{{smaller block|A woman yet must blush when ''bashful'' is the case.\n{{right|''Mir. for Mags.'', p. 59.}}}}\n\n'''bashfully''' (bash′fu̇l-i), ''adv.'' '''1†.''' Without self-possession; with misgivings.—'''2.''' In a bashful, modest, or shy manner.\n\n'''bashfulness''' (bash′fu̇l-nes), ''n.'' The quality of being bashful; excessive or extreme modesty; timorous shyness; want of confidence. [Formerly, like ''bashful'', a term of commendation, equivalent to ''modesty''.\n{{smaller block|<poem>He full of ''bashfulness'' and truth.</poem>\n{{right|''Fairfax'', tr. of Tasso’s Godfrey of Bulloigne, ii.]}}}}\n{{smaller block|We have in England a particular ''bashfulness'' in everything that regards religion. ''Addison'', Spectator, No. 458.}}\n\n{{smaller|='''Syn.''' ''Bashfulness, Modesty, Diffidence, Shyness, Coyness'', timidity, sheepishness. ''Bashfulness'', literally readiness to be abashed, designates timidity and a disturbed state of feeling at meeting with others, or being brought into any prominence. It is natural and not unbecoming to the young, but with advancing years seems a defect; it is often a transient state of feeling. ''Modesty'' goes deeper into the character; it is either a proper and becoming distrust of one’s self and one’s powers, or a high-minded freedom from assurance and assumption; it is always an excellence, unless explicitly said to be excessive. ''Diffidence'' is a defect; it is an undue distrust of self, with fear of being censured for failure, tending to unfit one for duty. ''Shyness'' is simply a constitutional shrinking from contact with others; it is the result of sensitiveness. ''Coyness'' is shyness where advances are made by others; a shrinking from familiarity, perhaps in a coquettish way.}}\n{{smaller block|<poem>Yet unask’d,\nHis ''bashfulness'' and tenderness at war,\nHe set himself beside her.</poem>\n{{right|''Tennyson'', Enoch Arden.}}}}\n{{smaller block|It is to be noted that ''modesty'' in a man is never to be allowed as a good quality, but a weakness, if it suppresses his virtue, when he has at the same time a mind to exert}}",
+   "c3s3": "{{smaller block|himself. {{right|''Sir R. Steele'', Tatler, No. 52.}}}}\n\n{{smaller block|As an actor, Mr. Cunningham obtained little reputation, for his ''diffidence'' was too great to be overcome.\n{{right|''Johnson.''}}}}\n\n{{smaller block|For the very cause of ''shyness'' is an over-anxiety as to what people are thinking of you; a morbid attention to your own appearance.\n{{right|''Whately'', Bacon’s Essay of Discourse.}}}}\n\n{{smaller block|<poem>The laugh that guides thee to the mark,\nWhen the kind nymph would ''coyness'' feign,\nAnd hides but to be found again.</poem>\n{{right|''Dryden'', tr. of Horace, I. ix. 36.}}}}\n\n'''bashi-bazouk''' (bash′i-ba-zök′), ''n.'' [Turk. ''bashi-bozuq'', one who is in no particular dress or uniform, an irregular soldier or civilian, < ''bashi'', head, head-dress, dress and appearance, + ''bozuq'', spoilt, disorderly, bad, < ''boz'', spoil, damage, destroy.] A volunteer and irregular auxiliary, serving in connection with the Turkish army for maintenance, but without pay or uniform. {{smaller|Bashi-bazouks are generally mounted, and because unpaid frequently resort to pillage. They are also at the command of municipal governors, and when detailed to accompany travelers or expeditions through the country they expect not only to be “found,” but to be suitably rewarded with bakshish.}}\n\n'''bashless†''' (bash′les), ''a.'' [< ''bash''<sup>2</sup> + ''-less''. Cf. ''bashful''.] Shameless; unblushing. ''Spenser.''\n\n'''bashlyk''' (bash′lik), ''n.'' [Also ''bashlik'', repr. Russ. ''bashluikŭ'', a Caucasian hood or cowl.] A sort of hood or head-covering with long ends, usually made in one piece, worn in Russia. {{smaller|The best qualities are of a fine light-brown camel’s-hair cloth}}",
+   "c3s4": ""
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0490 c1f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     132,
+     176,
+     808,
+     806
+    ],
+    "caption": [
+     408,
+     805,
+     511,
+     825
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     110,
+     169,
+     698,
+     780
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4086,
+    "output_tokens": 93,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 10023,
+    "output_tokens": 9100,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"2\" user=\"transcriber\" />{{RunningHeader|base-line|464|bashlyk}}</noinclude>[[File:century v01 p0490 c1f1.png|center|339px]]\n{{c|{{smaller|Base-line.}}}}\n{{smaller block|(''c'') ''Milit.'', a line, as of frontier, sea-coast, or forts, taken by an army as the base of operations, from which movements have their origin, and supplies of food, ammunition, and men are sent to the front, and to which the army may retreat in case of disaster. Also called ''base.''}}\n'''2.''' A line traced round a cannon behind the vent.—'''3.''' In the game of lawn-tennis, the end line of the court; the line from which the player serves the ball.—'''4.''' In ''base-ball'', the line connecting one base with the next.\n\n'''basely''' (bās′li), ''adv.'' '''1.''' In a base manner; meanly; dishonorably.\n{{smaller block|<poem>Warr’d he hath not,</poem>}}\n<poem>But ''basely'' yielded upon compromise\nThat which his ancestors achiev’d with blows.</poem>\n{{smaller block|{{right|''Shak.'', Rich. II., ii. 1.}}}}\n\n'''2.''' In a base or mean condition; illegitimately; in bastardy.\n\n{{smaller block|Two Mitylene brethren, ''basely'' born. {{right|''Knolles.''}}}}\n\n'''3†.''' At a low rate; cheaply.\n\n{{smaller block|Them that desire to look big, and to live ''basely''.\n{{right|''Venner'', Via Recta, iii. 52. (''N. E. D.'')}}}}\n\n'''baseman''' (bās′man), ''n.''; pl. ''basemen'' (-men). Any one of the three players who in the game of base-ball are stationed at first, second, and third bases.\n\n'''basement''' (bās′mẹnt), ''n.''   [= MLG. ''basement'', ''basiment'', ''basment'', base, pedestal; cf. F. ''soubassement'', formerly ''sous-bassement'', < ''sous'', under (< L. ''subtus'', < ''sub'', under), + *''bassement'' (in form after It. ''bassamento'', abasement): see ''base''<sup>1</sup> and ''-ment''.]   '''1.''' The lower or fundamental portion; a base. [Rare.]\n\n{{smaller block|Up from its deep reservoirs, from the mysterious ''basements'' of the mountain, wells the silent stream.\n{{right|''J. A. Symonds'', Italy and Greece, p. 322.}}}}\n\n'''2.''' In ''arch.'': (''a'') The portion of the elevation of a structure which performs the function in the design of constituting a support to those portions which come above it; especially, the substructure of a columnar or arched construction, but also the lowest member in the design of a wall, etc. Compare ''base''<sup>2</sup>, 3.\n\n{{smaller block|It [the tomb] consisted of a square ''basement'' surrounded by a Doric peristyle with engaged columns, and surmounted by a pyramid, on the apex of which was placed the lion as the epithema, or crowning ornament.\n{{right|''C. T. Newton'', Art and Archæol., p. 83.}}}} (''b'') A floor or story which is wholly or in part beneath the surface of the ground, but is usually, as distinguished from a cellar, well lighted, and fitted up and used for household or other usual purposes.—'''3.''' The act of basing, or the state of being based. [Rare.]—{{smaller|'''Basement membrane,''' in ''anat.'', a delicate membrane, formed of flattened cells, which underlies the epithelium of mucous membranes, and covers that of secreting glands. Also called ''membrana propria.''—'''Basement tissue,''' the substance of basement membrane.—'''English basement,''' the entrance-story of a city house when it is on the level of the street. [U. S.] See extract.}}\n{{smaller block|But the most conspicuous importation from Britain was the house New Yorkers call the ''English basement''—the house which has its entrance at the level of the street and its drawing-rooms upstairs, as distinguished from the Dutch type with its “high stoop” giving immediate access to the chief apartments.\n{{right|''The Century'', XXXI. 549.}}}}\n\n'''basement-story''' (bās′ment-stō″ri), ''n.'' Same as ''basement'', 2 (''b'').\n\n'''base-minded''' (bās′mīn″ded), ''a.'' Of a low spirit or mind; mean; dishonorably inclined.\n\n'''base-mindedly''' (bās′mīn″ded-li), ''adv.'' In a base-minded or dishonorable manner.\n\n'''base-molding''' (bās′mōl″ding), ''n.'' In ''arch.'', an ornamental molding at the base of any architectural feature, as a column, pedestal, or especially a wall.\n\n'''basen†''', ''a.''   [Appar. one of Spenser’s made words. Cf. Sc. ''bazed'', stupefied; D. ''verbazen'', astonish.]   Extended as with astonishment.\n<poem>Stare on him with big lookes ''basen'' wide.</poem>\n{{smaller block|{{right|''Spenser'', Mother Hub. Tale, l. 670.}}}}\n\n'''baseness''' (bās′nes), ''n.''   [< ''base''<sup>1</sup> + ''-ness.'']   '''1.''' The state or condition of being base or low in scale; meanness of grade; lowliness, as of birth or station.\n{{smaller block|''Baseness'' of birth is a great disparagement to some men.\n{{right|''Burton'', Anat. of Mel., p. 347.}}}}\n{{smaller block|<poem>He mixing with his proper sphere,\nShe finds the ''baseness'' of her lot.</poem>\n{{right|''Tennyson'', In Memoriam, lx.}}}}\n'''2.''' That which is base or low; anything of an ignoble grade or quality; meanness, as of relation or employment.\n{{smaller block|<poem>Some kinds of ''baseness''\nAre nobly undergone. {{right|''Shak.'', Tempest, iii. 1.}}\nI once did hold it a ''baseness'' to write fair.</poem>\n{{right|''Shak.'', Hamlet, v. 2.}}}}\n'''3†.''' Illegitimacy of birth; bastardy.\n{{smaller block|<poem>Why brand they us\nWith base? with ''baseness'', bastardy?</poem>\n{{right|''Shak.'', Lear, i. 2.}}}}\n'''4.''' The state or quality of being morally mean or vile; vileness; worthlessness.\n{{smaller block|<poem>Villains,\nWhose ''baseness'' all disgraceful words made one\nCannot express!</poem>\n{{right|''Beau. and Fl.'', Knight of Malta, iv. 4.}}}}\n{{smaller block|<poem>Equal ''baseness'' lived in sleeker times.</poem>\n{{right|''Tennyson'', Princess, v.}}}}\n'''5.''' Of metals: (''a'') Liability to rust: opposed to ''nobleness.'' (''b'') Inferior or debased quality, the result of having been alloyed with a cheaper metal; spuriousness. {{smaller block|We alleged the fraudulent obtaining his patent, the ''baseness'' of his metal, and the prodigious sum to be coined.\n{{right|''Swift.''}}}}\n'''6†.''' Deepness of sound.\n{{smaller block|The ''baseness'' or trebleness of tones.\n{{right|''Bacon'', Nat. Hist., § 184.}}}}\n\n'''basenet†''', ''n.'' See ''basinet.''\n\n'''baseology''' (bā-sẹ̄-ol′ọ̄-ji), ''n.''   [< Gr. βάσις, base, + -λογία, < λέγειν, speak: see ''-ology.'' Cf. ''phraseology.'']   Fundamental philosophy.   ''Krauth.''\n\n'''base-plate''' (bās′plāt), ''n.'' '''1.''' The foundation-plate of metal on which a heavy piece of machinery, as a steam-engine, stands; the bed-plate.—'''2.''' In ''base-ball'', one of the plates formerly often used to mark the bases; hence, by extension, one of the bases.\n\n'''base-ring''' (bās′ring), ''n.'' A projecting band of metal directly in front of the base of the breech in old pieces of ordnance, connected with the body of the gun by a concave molding.\n\n'''base-rocket''' (bās′rok″et), ''n.'' A species of mignonette, ''Reseda lutea'': so called from its rocket-like leaves and low stature.\n\n'''base-running''' (bās′run″ing), ''n.'' In ''base-ball'', the act of running from base to base.\n\n'''bases''', ''n.'' Plural of ''basis.''\n\n'''base-spirited''' (bās′spir″i-ted), ''a.'' Having a base or mean spirit; mean; cowardly.\n\n'''bash'''<sup>1</sup> (bash), ''v.''   [E. dial. or colloq.; in popular apprehension regarded as imitative (cf. ''bang'', ''dash'', ''smash'', etc.), but prob. of Scand. origin, assibilated form of ''bask''<sup>3</sup> (now obs.; cf. dial. ''basking'', a sound thrashing), < Dan. ''baske'', slap, drub, Sw. ''basa'', whip, drub, beat.]   '''I.''' ''trans.'' To strike with a heavy blow; beat violently; knock out of shape. [Colloq. and prov. Eng.]\n{{smaller block|<poem>A woman, a whelp, and a walnut-tree,\nThe more you ''bash'' ’em the better they be.</poem>\n{{right|''Proverbial saying.''}}}}\n{{smaller block|[The above proverb refers to the practice of beating walnut-trees when in bud with poles, or beating off the fruit, a proceeding which was thought to increase their productiveness.]}}\n\n'''II.''' ''intrans.'' To strike; knock. [Colloq. and prov. Eng.]\n\n'''bash<sup>1</sup>''' (bash), ''n.''   [Cf. Dan. ''bask'', a blow, Sw. ''bas'', whipping, beating; from the verb.]   A blow that knocks out of shape, or leaves a dent. [Colloq. and prov. Eng.]\n\n'''bash<sup>2</sup>†''' (bash), ''v.''   [< ME. ''basshen'', ''baschen'', ''baisen'', by apheresis for ''abashen'', etc., abash: see ''abash.'']   '''I.''' ''trans.'' To daunt; dismay; abash; confound; confuse.\n{{smaller block|<poem>She that ''bash’d'' the sun-god with her eyes.</poem>\n{{right|''Greene and Lodge'', Looking Glass for Lond. and Eng.}}}}\n\n'''II.''' ''intrans.'' '''1.''' To be daunted, dismayed, or confounded.\n{{smaller block|<poem>His countenaunce was bold, and ''bashed'' not\nFor Guyons lookes, but scornefull eyeglaunce at him shot.</poem>\n{{right|''Spenser'', F. Q., II. iv. 37.}}}}\n{{smaller block|<poem>Make Venus’ leman, arm’d in all his pomp,\n''Bash'' at the brightness of your hardy looks.</poem>\n{{right|''Greene and Lodge'', Looking Glass for Lond. and Eng.}}}}\n\n'''2.''' To be abashed or ashamed; be put out of countenance.\n\n'''bash<sup>3</sup>''' (bash), ''v. t.''   [E. dial.; perhaps another use of ''bash''<sup>1</sup>.]   In ''coal-mining'', to fill with rubbish (space from which coal has been taken). [S. Wales.]\n\n'''bashaw''' (ba-shâ′), ''n.''   [Early mod. E. also ''bassaw'', ''basha'', ''bacha'' (F. ''bacha'', It. ''bassa'', ''bascia'', ML. ''bassa''), etc., < Turk. ''bāshā'' (Pers. ''bāshā'', ''bādshāh''), another form (perhaps after ''bāsh'', head, chief) of ''pāshā'', < Pers. ''pādshāh'', a governor, prince, king: see ''pasha''.]   '''1.''' Same as ''pasha''.—'''2.''' A grandee; an important personage; a bigwig. [Colloq.]—{{smaller|'''Bashaw of three tails''', a bashaw or pasha of the rank indicated by that number of horse-tails borne upon his standard.}}\n{{smaller block|<poem>’Tis a very fine thing to be father-in-law\nTo a very magnificent ''three-tailed Bashaw!''</poem>\n{{right|''G. Colman the Younger'', Blue Beard, ii. 5.}}}}\n\n'''bashful''' (bash′fu̇l), ''a.''   [< ''bash''<sup>2</sup> + ''-ful''.]   '''1†.''' Wanting in self-possession; fearful; dismayed.\n{{smaller block|<poem>And ''bashful'' Henry depos’d, whose cowardice\nHath made us bywords to our enemies.</poem>\n{{right|''Shak.'', 3 Hen. VI., i. 1.}}}}\n'''2.''' Easily put to confusion; modest to excess; diffident; shy; sheepish. [Formerly used also in the sense of modest, unassuming, as a term of commendation.]\n{{smaller block|Come, you pernicious ass [to the page], you ''bashful'' fool, must you be blushing? wherefore blush you now?\n{{right|''Shak.'', 2 Hen. IV., ii. 2.}}}}\n'''3.''' Indicative of, accompanied with, or proceeding from bashfulness.\n{{smaller block|The refusal which his cousin had steadfastly given him would naturally flow from her ''bashful'' modesty and the genuine delicacy of her character.\n{{right|''Jane Austen'', Pride and Prejudice, p. 95.}}}}\n'''4†.''' Exciting bashfulness or shame. {{smaller block|A woman yet must blush when ''bashful'' is the case.\n{{right|''Mir. for Mags.'', p. 59.}}}}\n\n'''bashfully''' (bash′fu̇l-i), ''adv.'' '''1†.''' Without self-possession; with misgivings.—'''2.''' In a bashful, modest, or shy manner.\n\n'''bashfulness''' (bash′fu̇l-nes), ''n.'' The quality of being bashful; excessive or extreme modesty; timorous shyness; want of confidence. [Formerly, like ''bashful'', a term of commendation, equivalent to ''modesty''.\n{{smaller block|<poem>He full of ''bashfulness'' and truth.</poem>\n{{right|''Fairfax'', tr. of Tasso’s Godfrey of Bulloigne, ii.]}}}}\n{{smaller block|We have in England a particular ''bashfulness'' in everything that regards religion.\n{{right|''Addison'', Spectator, No. 458.}}}}\n\n{{smaller|='''Syn.''' ''Bashfulness, Modesty, Diffidence, Shyness, Coyness'', timidity, sheepishness. ''Bashfulness'', literally readiness to be abashed, designates timidity and a disturbed state of feeling at meeting with others, or being brought into any prominence. It is natural and not unbecoming to the young, but with advancing years seems a defect; it is often a transient state of feeling. ''Modesty'' goes deeper into the character; it is either a proper and becoming distrust of one’s self and one’s powers, or a high-minded freedom from assurance and assumption; it is always an excellence, unless explicitly said to be excessive. ''Diffidence'' is a defect; it is an undue distrust of self, with fear of being censured for failure, tending to unfit one for duty. ''Shyness'' is simply a constitutional shrinking from contact with others; it is the result of sensitiveness. ''Coyness'' is shyness where advances are made by others; a shrinking from familiarity, perhaps in a coquettish way.}}\n{{smaller block|<poem>Yet unask’d,\nHis ''bashfulness'' and tenderness at war,\nHe set himself beside her.</poem>\n{{right|''Tennyson'', Enoch Arden.}}}}\n{{smaller block|It is to be noted that ''modesty'' in a man is never to be allowed as a good quality, but a weakness, if it suppresses his virtue, when he has at the same time a mind to exert himself. {{right|''Sir R. Steele'', Tatler, No. 52.}}}}\n\n{{smaller block|As an actor, Mr. Cunningham obtained little reputation, for his ''diffidence'' was too great to be overcome.\n{{right|''Johnson.''}}}}\n\n{{smaller block|For the very cause of ''shyness'' is an over-anxiety as to what people are thinking of you; a morbid attention to your own appearance.\n{{right|''Whately'', Bacon’s Essay of Discourse.}}}}\n\n<poem>The laugh that guides thee to the mark,\nWhen the kind nymph would ''coyness'' feign,\nAnd hides but to be found again.</poem>\n{{smaller block|{{right|''Dryden'', tr. of Horace, I. ix. 36.}}}}\n\n'''bashi-bazouk''' (bash′i-ba-zök′), ''n.''   [Turk. ''bashi-bozuq'', one who is in no particular dress or uniform, an irregular soldier or civilian, < ''bashi'', head, head-dress, dress and appearance, + ''bozuq'', spoilt, disorderly, bad, < ''boz'', spoil, damage, destroy.]   A volunteer and irregular auxiliary, serving in connection with the Turkish army for maintenance, but without pay or uniform. {{smaller|Bashi-bazouks are generally mounted, and because unpaid frequently resort to pillage. They are also at the command of municipal governors, and when detailed to accompany travelers or expeditions through the country they expect not only to be “found,” but to be suitably rewarded with bakshish.}}\n\n'''bashless†''' (bash′les), ''a.''   [< ''bash''<sup>2</sup> + ''-less''. Cf. ''bashful''.]   Shameless; unblushing.   ''Spenser.''\n\n'''bashlyk''' (bash′lik), ''n.''   [Also ''bashlik'', repr. Russ. ''bashluikŭ'', a Caucasian hood or cowl.]   A sort of hood or head-covering with long ends, usually made in one piece, worn in Russia. {{smaller|The best qualities are of a fine light-brown camel’s-hair cloth}}<noinclude><references/></noinclude>"
+}

@@ -1,0 +1,202 @@
+{
+ "volume": 1,
+ "page_number": 713,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n712.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n712.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 743,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     64,
+     129,
+     2284,
+     169
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     64,
+     169,
+     813,
+     1263
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     64,
+     1263,
+     813,
+     2247
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     64,
+     2247,
+     813,
+     3273
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     169,
+     1555,
+     1222
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     1222,
+     1555,
+     2184
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     2184,
+     1555,
+     3273
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1555,
+     169,
+     2284,
+     1261
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1555,
+     1261,
+     2284,
+     2271
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1604,
+     1790,
+     2210,
+     2066
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1555,
+     2271,
+     2284,
+     3273
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|brisk|687|British}}",
+   "c1s1": "''L’Estrange.''—'''3.''' Full of lively or exciting action or events; exciting; interesting.\n\n{{smaller block|You have had a ''brisk'' time of it at Howick, and all the organs of combativeness have been called into action.\n{{right|''Sydney Smith'', To the Countess Grey.}}}}\n'''4.''' Burning freely; bright: as, a ''brisk'' fire.—'''5.''' Effervescing vigorously: said of liquors: as, ''brisk'' cider.—'''6.''' Performed or kept up with briskness; rapid; quick: as, a ''brisk'' fire of infantry.\n\n{{smaller block|''Brisk'' toil alternating with ready ease. {{right|''Wordsworth.''}}}}\n'''7†.''' Vivid; luminous.\n\n{{smaller block|<poem>He hunts about the proudest World to buy\nThe choice of purest and of brightest Cloth\n''Brisk'' in the Tyrian and Sidonian dye,\nAs due to his fair Darling.</poem>\n{{right|''J. Beaumont'', Psyche, i. 83.}}\nHad it [my instrument] magnified thirty or twenty-five times, it had made the object appear more ''brisk'' and pleasant. {{right|''Newton.''}}}}\n{{smaller block|='''Syn. 1.''' Alert, nimble, quick, rapid, sprightly, prompt, spry, smart, bustling, wide-awake, eager. See ''active'' and ''busy''.}}\n\n'''brisk''' (brisk), ''v.'' [< ''brisk'', ''a.''] '''I.†''' ''trans.'' To make lively; enliven; animate; refresh: sometimes with ''up''. ''Killingbeck.''\n\n'''II.''' ''intrans.'' To become brisk, lively, or active: with ''up''.\n\n'''brisken''' (bris′kn), ''v.'' [< ''brisk'' + ''-en''<sup>1</sup>.] '''I.''' ''intrans.'' To be or become brisk, active, or lively. [Rare.]\n\n{{smaller block|I heartily wish that business may ''brisken'' a little.\n{{right|Quoted in ''W. Mathews’s'' Getting on in the World, p. 209.}}}}\n\n'''II.''' ''trans.'' To make brisk or lively.\n\n'''brisket''' (bris′ket), ''n.'' [< ME. ''bruskette'', < OF. *''brusket'', ''bruschet'', later ''brichet'', mod. F. ''brechet'',",
+   "c1s2": "prob. < Bret. ''bruched'', dial. ''brusk'', the breast, chest, claw of a bird.] The breast of an animal, or that part of the breast that lies next to the ribs; in a horse, the part extending from the neck at the shoulder down to the fore legs.\n\n¶\n'''briskly''' (brisk′li), ''adv.'' In a brisk manner; quickly; actively; vigorously; with life and spirit.\n{{smaller block|Ay, woo her ''briskly''—win her, and give me a proof of your address, my little Solomon.\n{{right|''Sheridan'', The Duenna, ii. 1.}}}}\n\n'''briskness''' (brisk′nes), ''n.'' '''1.''' Quickness; vigor or rapidity in action: as, the ''briskness'' of the breeze.—'''2.''' Liveliness; gaiety; vivacity.\n{{smaller block|His ''briskness'', his jollity, and his good-humour. ''Dryden.''}}\n'''3.''' The sparkling quality of an effervescing liquor: applied also to water, as in the extract.\n{{smaller block|The ''briskness'' of spring water, and the preference given to it as a beverage, is partly occasioned by the carbonic acid which it contains. ''W. A. Miller'', Elem. of Chem., § 348.}}\n\n'''brismak''' (bris′mak), ''n.'' [Origin unknown.] A torsk. [Shetland islands.]\n\n'''briss<sup>1</sup>†''', ''v. t.'' [ME. ''brissen'', var. of ''brisen'', ''brysen'', ''brusen'', bruise: see ''bruise''.] To bruise; break.\n{{smaller block|The Jewes ''brisseden'' hys bonys.\n{{right|''Legends of the Holy Rood'', p. 204.}}}}\n\n'''briss<sup>2</sup>''' (bris), ''n.'' [E. dial., appar. < F. ''bris'', breakage, wreck, formerly also fragments, < ''briser'', break (see ''briss''<sup>1</sup>, ''bruise'', and cf. ''debris''); but perhaps affected by ''breeze''<sup>3</sup>, ashes, cinders: see ''breeze''<sup>3</sup>.] Dust; rubbish. ''Halli-''",
+   "c1s3": "''well.'' [Prov. Eng.]\n\n'''Brissidæ''' (bris′i-dē), ''n. pl.'' [NL., < ''Brissus'' + ''-idæ.''] Same as ''Spatangidæ.''\n\n'''Brissinæ''' (bri-sī′nē), ''n. pl.'' [NL., < ''Brissus'' + ''-inæ.''] A subfamily of ''Spatangidæ'', typified by the genus ''Brissus.''\n\n'''brissle''' (bris′l), ''v. t.'' Same as ''birsle.'' [Scotch and North. Eng.]\n\n'''Brissotin''' (bris′ọ-tin), ''n.'' See ''Girondist.''\n\n'''Brissus''' (bris′us), ''n.'' [NL.] A genus of echinoids, typical of the family ''Brissidæ'' (''Spatangidæ'') and subfamily ''Brissinæ.''\n\n'''bristle''' (bris′l), ''n.'' [< ME. ''bristel, brestel, brustel, berstle'' (= D. ''borstel'' = MLG. ''borstel''), dim. of ''brust'' (> Sc. ''birse, birs'': see ''brust''<sup>2</sup>, ''birse''), a bristle, < AS. ''byrst'', neut., = MLG. ''borste'', f., = OHG. ''burst'', m., ''borst'', neut., ''bursta'', f., MHG. ''borst'', m. and neut., ''borste'', f., G. ''borste'', a bristle, MHG. G. ''bürste'', a brush, = Icel. ''burst'', f., = Sw. ''borst'', m., = Dan. ''börste'', a bristle; by some derived, with formative ''-t'', from the root of OHG. ''barrēn, parrēn'' (for *''barsēn''), be stiff, stand out stiffly; by others connected with E. ''bur''<sup>1</sup>, ''burr''<sup>1</sup>.] '''1.''' One of the stiff, coarse, glossy hairs of certain animals, especially those of the hog kind which are not hairless, large and thickly set along the back, and smaller and more scattered on the sides. {{smaller|The bristles of the domestic hog and of some other animals are extensively used for making brushes, shoemakers’ wax-ends, etc.}}\n{{smaller block|She hadde so grete ''bristelis'' on her bakke that it trayled on the grounde a fadome large.\n{{right|''Merlin'' (E. E. T. S.), iii. 421.}}}}",
+   "c2s1": "'''2.''' A similar appendage on some plants; a stiff, sharp hair.—'''3.''' In dipterous insects of the division ''Brachycera'', the arista or terminal part of the antenna.—'''4.''' In ''ornith.'', a bristly feather; a feather with a stout stiff stem and little or no web.—'''Rictal bristles''', {{smaller|vibrissæ. See ''vibrissa''.}}\n\n¶\n'''bristle''' (bris′l), ''v.''; pret. and pp. ''bristled'', ppr. ''bristling''. [< ME. ''bristlen'', ''brustlen'' (= G. ''börsteln''), bristle; from the noun.] '''I.''' ''trans.'' '''1.''' To erect the bristles of; erect in anger or defiance, as a hog erects its bristles.\n{{smaller block|<poem>Now, for the bare-pick’d bone of majesty\nDoth dogged war ''bristle'' his angry crest,\nAnd snarleth in the gentle eyes of peace.</poem>\n{{right|''Shak.'', K. John, iv. 3.}}\nBoy, ''bristle'' thy courage up. {{right|''Shak.'', Hen. V., ii. 3.}}}}\n'''2.''' To make bristly.—'''3.''' To fix a bristle on: as, to ''bristle'' a shoemaker’s thread.\n\n'''II.''' ''intrans.'' '''1.''' To rise up or stand on end like bristles.\n{{smaller block|<poem>Nought dreadful saw he; yet the hair\n’Gan ''bristle'' on his head with fear.</poem>\n{{right|''William Morris'', Earthly Paradise, iii. 42.}}}}\n'''2.''' To stand erect and close together like bristles.\n{{smaller block|A forest of masts would have ''bristled'' in the desolate port of Newry. {{right|''Macaulay''.}}}}\n'''3.''' To be covered, as with bristles: as, the ranks ''bristled'' with spears. See ''to bristle with'', below.—'''To bristle against''', {{smaller|to come in collision with, contradict, or oppose somewhat rudely. [Rare.]}}\n{{smaller block|The wife may not ''bristle against'' her husband.\n{{right|''J. Udall'', On Ephesians, v.}}}}",
+   "c2s2": "¶\n{{smaller block|The annotation here, as in many places, ''bristles against'' the text.\n{{right|''Sir W. Hamilton.''}}}}\n\n{{smaller|'''To bristle up''', to show anger, resentment, or defiance.—'''To bristle with.''' (''a'') To be covered with anything as if with bristles.}}\n\n{{smaller block|The hill of La Haye Sainte ''bristling with'' ten thousand bayonets.\n{{right|''Thackeray.''}}}}\n\n{{smaller block|As spectroscopy becomes the daily work of iron-founders, and miners, and the like, it will be found to be ''bristling with'' beautiful scientific truths in every part of the spectrum, which may be used in these practical applications of the science of optics.\n{{right|''J. N. Lockyer'', Spect. Anal., p. 199.}}}}\n\n{{smaller block|You cannot shut up Burns in a dialect ''bristling with'' archaisms.\n{{right|''Lowell'', Study Windows, p. 238.}}}}\n\n{{smaller|(''b'') To manifest conspicuously: as, he ''bristled with'' excitement.}}\n\n'''bristled''' (bris′ld), ''a.'' [< ''bristle'' + ''-ed''<sup>2</sup>.] '''1.''' Having bristles; hence, stiffly bearded: as, “''bristled'' lips,” ''Shak.'', Cor., ii. 2.—'''2.''' In ''her.'', having bristles on the neck and back: said specifically of a boar used as a bearing. {{smaller|When the bristles are of a different tincture, it is specified: as, a boar’s head and neck sable, ''bristled'' or.}}\n\n'''bristle-fern''' (bris′l-fėrn), ''n.'' The common name of species of ''Trichomanes'', especially ''T. radicans'', from the bristle that projects beyond the cup-shaped indusium.\n\n'''bristle-grass''' (bris′l-grȧs), ''n.'' Grass of the genus ''Setaria''.\n\n'''bristle-herring''' (bris′l-her″ing), ''n.'' The name of certain species of the genus ''Dorosoma'', of",
+   "c2s3": "the family ''Dorosomidæ'', in which the last ray of the dorsal fin is prolonged into a whip-like filament. {{smaller|The species occur chiefly in tropical seas and rivers, but one, ''D. cepedianum'', is common in the United States, and is generally called ''thread-herring''. See cut under ''gizzard-shad''.}}\n\n¶\n'''bristle-moss''' (bris′l-môs), ''n.'' A species of moss, with a hairy calyptra, of the genus ''Orthotrichum.''\n\n'''bristle-pointed''' (bris′l-poin″ted), ''a.'' Terminating gradually in a very fine hair, as the leaves of many mosses. ''Lindley.''\n\n'''bristletail''' (bris′l-tāl), ''n.'' A common name of the thysanurous insects of the suborder ''Cinura:'' so called from the long filiform abdominal appendages. They are of the genera ''Campodea, Lepisma'', etc. See cut under ''Campodea.''\n\n'''bristlewort''' (bris′l-wėrt), ''n.'' A general name used by Lindley for plants of the order ''Desvauxiaceæ.''\n\n'''bristliness''' (bris′li-nes), ''n.'' The quality of being bristly.\n\n'''bristling''' (bris′ling), ''p. a.'' Standing up stiffly like bristles.\n{{smaller block|With chatt’ring teeth, and ''bristling'' hair upright.\n{{right|''Dryden'', Fables.}}}}\n\n'''bristly''' (bris′li), ''a.'' [< ''bristle'' + -''y''<sup>1</sup>.] '''1.''' Thickly set with bristles, or with hairs like bristles; rough: as, “a ''bristly'' neck,” ''Thackeray.''—'''2.''' Resembling a bristle or bristles.\n{{smaller block|Rugged scales and ''bristly'' hairs. {{right|''Bentley.''}}}}\n\n'''Bristol-board''' (bris′tọl-bōrd), ''n.'' [Named from the city of ''Bristol'', in England.] A fine, smooth",
+   "c3s1": "kind of pasteboard, sometimes glazed on the surface, used by artists.\n\n'''Bristol brick.''' See ''brick''<sup>2</sup>.\n\n'''Bristol diamond.''' Same as ''Bristol stone'' (which see, under ''stone'').\n\n'''Bristol milk, paper, porcelain, pottery, red, stone.''' See the nouns.\n\n'''brisure''' (briz′ūr), ''n.'' [F., < ''briser'', break: see ''bruise.''] '''1.''' In permanent fortification, a break in the general direction of the parapet of the curtain, when constructed with orillons and retired flanks. Also spelled ''brizure.''—'''2.''' In ''her.'', same as ''cadency'', 2.\n\n'''brit'''<sup>1</sup>, '''britt'''<sup>1</sup> (brit), ''v.'' [E. dial., also (in II.) ''brite''; < ME. ''brytten'', < AS. ''bryttian'', ''brittian'', divide, distribute, dispense, = Icel. ''brytja'', chop up; a secondary verb, supplying in ME. and later, with the deriv. ''britten'', q. v., the place of the primitive, ME. *''breten'', *''breoten'', < AS. ''breótan'' (pret. ''breát'', pp. *''broten''), break, bruise, demolish, destroy, = OS. *''briotan'', ''brēton'' = OHG. *''briozan'', tr., break, MHG. ''briezen'', intr., burst forth, = Icel. ''brjōta'' = Sw. ''bryta'' = Dan. ''bryde'', break, fracture, refract, = Goth. *''briutan'' (not found, but assumed from the other forms, and from the appar. thence derived Spanish ML. ''britare'', demolish, destroy). Hence ''britten'', ''brittle'', q. v.] '''I.''' ''trans.'' '''1†.''' To break in pieces; divide.\n{{smaller block|His hede thei ofsmyten, to London was it born,<br>The dede body the[i] ''britten'' [pret. pl.] on four quarters corn.\n{{right|''Langtoft'', Chron. (ed. Hearne), p. 244.}}}}\n'''2.''' To bruise; indent. ''Halliwell.'' [Prov. Eng.]\n\n'''II.''' ''intrans.'' '''1.''' To fall out or shatter, as over-",
+   "c3s2": "'''2.''' To fade away; alter. ''Halliwell.'' [Prov. Eng.]\n\n'''brit<sup>2</sup>''', '''britt<sup>2</sup>''' (brit), ''n.'' [Prob. = ''bret'' or ''birt'', applied to a different fish: see ''bret.''] '''1.''' A young herring of the common kind, occurring in large shoals, and formerly classed as a separate species, ''Clupea minima.''—'''2.''' A general name for animals upon which whales feed, as ''Clio borealis'', etc.; whale-brit.\n\n'''Brit.''' An abbreviation of ''British'' and ''Britain.''\n\n'''Britain-crown''' (brit′ān- or brit′n-kroun), ''n.'' [< ''Britain'' + ''crown'': ''Britain'', < ME. ''Britaine'', < OF. ''Bretaine'', ''Bretaigne'', F. ''Bretagne'', < L. ''Britannia'', Britain, < ''Britanni'', the Britons, later L. ''Brito''(''n''-), a Briton. Cf. AS. ''Bryten'', Britain, ''Bryttas'', ''Brittas'', ''Brettas'', Britons: see ''British.'']\n[[FIGURE]]\n{{c|{{smaller|Obverse. Reverse.}}}}\n{{c|{{smaller|Britain-crown of James I., British Museum. (Size of the original.)}}}}\nAn English gold coin first issued in 1604 by James I., and current at the time for five shillings. It was also issued under Charles I.\n\n'''Britannia metal.''' See ''metal.''",
+   "c3s3": "¶\n'''Britannic''' (bri-tan′ik), ''a.'' [< L. ''Britannicus'', < ''Britannia'', Britain.] Of or pertaining to Great Britain: as, Her ''Britannic'' Majesty.\n\n'''britchka''', ''n.'' Same as ''britska''.\n\n'''brite''' (brīt), ''v. i.''; pret. and pp. ''brited'', ppr. ''briting''. [Also spelled ''bright''; origin unknown.] To be or become over-ripe, as wheat, barley, or hops. [Prov. Eng.]\n\n'''brither''' (briᴛ̵ʜ′ėr), ''n.'' A Scotch form of ''brother''.\n\n'''Briticism''' (brit′i-sizm), ''n.'' [< ''British'' (Latinized ''Britic-'') + ''-ism''.] A word, phrase, or idiom of the English language peculiar to the British.\n\n'''British''' (brit′ish), ''a.'' and ''n.'' [< ME. ''Britissh'', ''Brytisc'', etc., < AS. ''Bryttisc'', < ''Bryttas'', ''Brittas'', ''Brettas'' (sing. ''Bryt'', ''Brit'', ''Bret'', rare), L. ''Britanni'', ML. also ''Britones'', Britons, the original Celtic inhabitants of Britain; a name of Celtic origin: cf. W. ''Brython'', a Briton, pl. a tribe of Britons.] '''I.''' ''a.'' '''1.''' Of or pertaining to Great Britain, or in the widest sense the United Kingdom of Great Britain and Ireland, or its inhabitants: as, the ''British'' people or empire; ''British'' legislation or interests.—'''2.''' Of or pertaining to the ancient Britons or their language.\n\nSometimes abbreviated ''Brit.''\n\n{{smaller block|'''British gum, lion''', etc. See the nouns.—'''British plate''', albata (which see).—'''British sheet-glass.''' Same as ''broad glass'' (which see, under ''broad'').}}\n\n'''II.''' ''n.'' '''1.''' [Used as a plural.] The inhabitants of Great Britain, including specifically the English, Welsh, and Scotch.—'''2.''' The language"
+  },
+  "figure_files": {
+   "c3f1": "century v01 p0713 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1616,
+     1802,
+     2198,
+     2054
+    ],
+    "caption": [
+     1572,
+     2059,
+     2264,
+     2119
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1604,
+     1798,
+     2280,
+     2058
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 3946,
+    "output_tokens": 94,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 10,
+    "input_tokens": 9514,
+    "output_tokens": 9099,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|brisk|687|British}}</noinclude>''L’Estrange.''—'''3.''' Full of lively or exciting action or events; exciting; interesting.\n\n{{smaller block|You have had a ''brisk'' time of it at Howick, and all the organs of combativeness have been called into action.\n{{right|''Sydney Smith'', To the Countess Grey.}}}}\n'''4.''' Burning freely; bright: as, a ''brisk'' fire.—'''5.''' Effervescing vigorously: said of liquors: as, ''brisk'' cider.—'''6.''' Performed or kept up with briskness; rapid; quick: as, a ''brisk'' fire of infantry.\n\n{{smaller block|''Brisk'' toil alternating with ready ease. {{right|''Wordsworth.''}}}}\n'''7†.''' Vivid; luminous.\n\n{{smaller block|<poem>He hunts about the proudest World to buy\nThe choice of purest and of brightest Cloth\n''Brisk'' in the Tyrian and Sidonian dye,\nAs due to his fair Darling.</poem>\n{{right|''J. Beaumont'', Psyche, i. 83.}}}}\n{{smaller block|Had it [my instrument] magnified thirty or twenty-five times, it had made the object appear more ''brisk'' and pleasant. {{right|''Newton.''}}}}\n{{smaller block|='''Syn. 1.''' Alert, nimble, quick, rapid, sprightly, prompt, spry, smart, bustling, wide-awake, eager. See ''active'' and ''busy''.}}\n\n'''brisk''' (brisk), ''v.''   [< ''brisk'', ''a.'']   '''I.†''' ''trans.'' To make lively; enliven; animate; refresh: sometimes with ''up''.   ''Killingbeck.''\n\n'''II.''' ''intrans.'' To become brisk, lively, or active: with ''up''.\n\n'''brisken''' (bris′kn), ''v.''   [< ''brisk'' + ''-en''<sup>1</sup>.]   '''I.''' ''intrans.'' To be or become brisk, active, or lively. [Rare.]\n\n{{smaller block|I heartily wish that business may ''brisken'' a little.\n{{right|Quoted in ''W. Mathews’s'' Getting on in the World, p. 209.}}}}\n\n'''II.''' ''trans.'' To make brisk or lively.\n\n'''brisket''' (bris′ket), ''n.''   [< ME. ''bruskette'', < OF. *''brusket'', ''bruschet'', later ''brichet'', mod. F. ''brechet'', prob. < Bret. ''bruched'', dial. ''brusk'', the breast, chest, claw of a bird.]   The breast of an animal, or that part of the breast that lies next to the ribs; in a horse, the part extending from the neck at the shoulder down to the fore legs.\n\n'''briskly''' (brisk′li), ''adv.'' In a brisk manner; quickly; actively; vigorously; with life and spirit.\n{{smaller block|Ay, woo her ''briskly''—win her, and give me a proof of your address, my little Solomon.\n{{right|''Sheridan'', The Duenna, ii. 1.}}}}\n\n'''briskness''' (brisk′nes), ''n.'' '''1.''' Quickness; vigor or rapidity in action: as, the ''briskness'' of the breeze.—'''2.''' Liveliness; gaiety; vivacity.\n{{smaller block|His ''briskness'', his jollity, and his good-humour.\n{{right|''Dryden.''}}}}\n'''3.''' The sparkling quality of an effervescing liquor: applied also to water, as in the extract.\n{{smaller block|The ''briskness'' of spring water, and the preference given to it as a beverage, is partly occasioned by the carbonic acid which it contains.\n{{right|''W. A. Miller'', Elem. of Chem., § 348.}}}}\n\n'''brismak''' (bris′mak), ''n.''   [Origin unknown.]   A torsk. [Shetland islands.]\n\n'''briss<sup>1</sup>†''', ''v. t.''   [ME. ''brissen'', var. of ''brisen'', ''brysen'', ''brusen'', bruise: see ''bruise''.]   To bruise; break.\n{{smaller block|The Jewes ''brisseden'' hys bonys.\n{{right|''Legends of the Holy Rood'', p. 204.}}}}\n\n'''briss<sup>2</sup>''' (bris), ''n.''   [E. dial., appar. < F. ''bris'', breakage, wreck, formerly also fragments, < ''briser'', break (see ''briss''<sup>1</sup>, ''bruise'', and cf. ''debris''); but perhaps affected by ''breeze''<sup>3</sup>, ashes, cinders: see ''breeze''<sup>3</sup>.]   Dust; rubbish.   ''Halliwell.'' [Prov. Eng.]\n\n'''Brissidæ''' (bris′i-dē), ''n. pl.''   [NL., < ''Brissus'' + ''-idæ.'']   Same as ''Spatangidæ.''\n\n'''Brissinæ''' (bri-sī′nē), ''n. pl.''   [NL., < ''Brissus'' + ''-inæ.'']   A subfamily of ''Spatangidæ'', typified by the genus ''Brissus.''\n\n'''brissle''' (bris′l), ''v. t.'' Same as ''birsle.''   [Scotch and North. Eng.]\n\n'''Brissotin''' (bris′ọ-tin), ''n.'' See ''Girondist.''\n\n'''Brissus''' (bris′us), ''n.''   [NL.]   A genus of echinoids, typical of the family ''Brissidæ'' (''Spatangidæ'') and subfamily ''Brissinæ.''\n\n'''bristle''' (bris′l), ''n.''   [< ME. ''bristel, brestel, brustel, berstle'' (= D. ''borstel'' = MLG. ''borstel''), dim. of ''brust'' (> Sc. ''birse, birs'': see ''brust''<sup>2</sup>, ''birse''), a bristle, < AS. ''byrst'', neut., = MLG. ''borste'', f., = OHG. ''burst'', m., ''borst'', neut., ''bursta'', f., MHG. ''borst'', m. and neut., ''borste'', f., G. ''borste'', a bristle, MHG. G. ''bürste'', a brush, = Icel. ''burst'', f., = Sw. ''borst'', m., = Dan. ''börste'', a bristle; by some derived, with formative ''-t'', from the root of OHG. ''barrēn, parrēn'' (for *''barsēn''), be stiff, stand out stiffly; by others connected with E. ''bur''<sup>1</sup>, ''burr''<sup>1</sup>.]   '''1.''' One of the stiff, coarse, glossy hairs of certain animals, especially those of the hog kind which are not hairless, large and thickly set along the back, and smaller and more scattered on the sides. {{smaller|The bristles of the domestic hog and of some other animals are extensively used for making brushes, shoemakers’ wax-ends, etc.}}\n{{smaller block|She hadde so grete ''bristelis'' on her bakke that it trayled on the grounde a fadome large.\n{{right|''Merlin'' (E. E. T. S.), iii. 421.}}}} '''2.''' A similar appendage on some plants; a stiff, sharp hair.—'''3.''' In dipterous insects of the division ''Brachycera'', the arista or terminal part of the antenna.—'''4.''' In ''ornith.'', a bristly feather; a feather with a stout stiff stem and little or no web.—'''Rictal bristles''', {{smaller|vibrissæ. See ''vibrissa''.}}\n\n'''bristle''' (bris′l), ''v.''; pret. and pp. ''bristled'', ppr. ''bristling''.   [< ME. ''bristlen'', ''brustlen'' (= G. ''börsteln''), bristle; from the noun.]   '''I.''' ''trans.'' '''1.''' To erect the bristles of; erect in anger or defiance, as a hog erects its bristles.\n{{smaller block|<poem>Now, for the bare-pick’d bone of majesty\nDoth dogged war ''bristle'' his angry crest,\nAnd snarleth in the gentle eyes of peace.</poem>\n{{right|''Shak.'', K. John, iv. 3.}}}}\n{{smaller block|Boy, ''bristle'' thy courage up. {{right|''Shak.'', Hen. V., ii. 3.}}}}\n'''2.''' To make bristly.—'''3.''' To fix a bristle on: as, to ''bristle'' a shoemaker’s thread.\n\n'''II.''' ''intrans.'' '''1.''' To rise up or stand on end like bristles.\n{{smaller block|<poem>Nought dreadful saw he; yet the hair\n’Gan ''bristle'' on his head with fear.</poem>\n{{right|''William Morris'', Earthly Paradise, iii. 42.}}}}\n'''2.''' To stand erect and close together like bristles.\n{{smaller block|A forest of masts would have ''bristled'' in the desolate port of Newry. {{right|''Macaulay''.}}}}\n'''3.''' To be covered, as with bristles: as, the ranks ''bristled'' with spears. See ''to bristle with'', below.—'''To bristle against''', {{smaller|to come in collision with, contradict, or oppose somewhat rudely. [Rare.]}}\n{{smaller block|The wife may not ''bristle against'' her husband.\n{{right|''J. Udall'', On Ephesians, v.}}}}\n\n{{smaller block|The annotation here, as in many places, ''bristles against'' the text.\n{{right|''Sir W. Hamilton.''}}}}\n\n{{smaller|'''To bristle up''', to show anger, resentment, or defiance.—'''To bristle with.''' (''a'') To be covered with anything as if with bristles.}}\n\n{{smaller block|The hill of La Haye Sainte ''bristling with'' ten thousand bayonets.\n{{right|''Thackeray.''}}}}\n\n{{smaller block|As spectroscopy becomes the daily work of iron-founders, and miners, and the like, it will be found to be ''bristling with'' beautiful scientific truths in every part of the spectrum, which may be used in these practical applications of the science of optics.\n{{right|''J. N. Lockyer'', Spect. Anal., p. 199.}}}}\n\n{{smaller block|You cannot shut up Burns in a dialect ''bristling with'' archaisms.\n{{right|''Lowell'', Study Windows, p. 238.}}}}\n\n{{smaller|(''b'') To manifest conspicuously: as, he ''bristled with'' excitement.}}\n\n'''bristled''' (bris′ld), ''a.''   [< ''bristle'' + ''-ed''<sup>2</sup>.]   '''1.''' Having bristles; hence, stiffly bearded: as, “''bristled'' lips,” ''Shak.'', Cor., ii. 2.—'''2.''' In ''her.'', having bristles on the neck and back: said specifically of a boar used as a bearing. {{smaller|When the bristles are of a different tincture, it is specified: as, a boar’s head and neck sable, ''bristled'' or.}}\n\n'''bristle-fern''' (bris′l-fėrn), ''n.'' The common name of species of ''Trichomanes'', especially ''T. radicans'', from the bristle that projects beyond the cup-shaped indusium.\n\n'''bristle-grass''' (bris′l-grȧs), ''n.'' Grass of the genus ''Setaria''.\n\n'''bristle-herring''' (bris′l-her″ing), ''n.'' The name of certain species of the genus ''Dorosoma'', of the family ''Dorosomidæ'', in which the last ray of the dorsal fin is prolonged into a whip-like filament. {{smaller|The species occur chiefly in tropical seas and rivers, but one, ''D. cepedianum'', is common in the United States, and is generally called ''thread-herring''. See cut under ''gizzard-shad''.}}\n\n'''bristle-moss''' (bris′l-môs), ''n.'' A species of moss, with a hairy calyptra, of the genus ''Orthotrichum.''\n\n'''bristle-pointed''' (bris′l-poin″ted), ''a.'' Terminating gradually in a very fine hair, as the leaves of many mosses.   ''Lindley.''\n\n'''bristletail''' (bris′l-tāl), ''n.'' A common name of the thysanurous insects of the suborder ''Cinura:'' so called from the long filiform abdominal appendages. They are of the genera ''Campodea, Lepisma'', etc. See cut under ''Campodea.''\n\n'''bristlewort''' (bris′l-wėrt), ''n.'' A general name used by Lindley for plants of the order ''Desvauxiaceæ.''\n\n'''bristliness''' (bris′li-nes), ''n.'' The quality of being bristly.\n\n'''bristling''' (bris′ling), ''p. a.'' Standing up stiffly like bristles.\n{{smaller block|With chatt’ring teeth, and ''bristling'' hair upright.\n{{right|''Dryden'', Fables.}}}}\n\n'''bristly''' (bris′li), ''a.''   [< ''bristle'' + -''y''<sup>1</sup>.]   '''1.''' Thickly set with bristles, or with hairs like bristles; rough: as, “a ''bristly'' neck,” ''Thackeray.''—'''2.''' Resembling a bristle or bristles.\n{{smaller block|Rugged scales and ''bristly'' hairs. {{right|''Bentley.''}}}}\n\n'''Bristol-board''' (bris′tọl-bōrd), ''n.''   [Named from the city of ''Bristol'', in England.]   A fine, smooth kind of pasteboard, sometimes glazed on the surface, used by artists.\n\n'''Bristol brick.''' See ''brick''<sup>2</sup>.\n\n'''Bristol diamond.''' Same as ''Bristol stone'' (which see, under ''stone'').\n\n'''Bristol milk, paper, porcelain, pottery, red, stone.''' See the nouns.\n\n'''brisure''' (briz′ūr), ''n.''   [F., < ''briser'', break: see ''bruise.'']   '''1.''' In permanent fortification, a break in the general direction of the parapet of the curtain, when constructed with orillons and retired flanks. Also spelled ''brizure.''—'''2.''' In ''her.'', same as ''cadency'', 2.\n\n'''brit'''<sup>1</sup>, '''britt'''<sup>1</sup> (brit), ''v.''   [E. dial., also (in II.) ''brite''; < ME. ''brytten'', < AS. ''bryttian'', ''brittian'', divide, distribute, dispense, = Icel. ''brytja'', chop up; a secondary verb, supplying in ME. and later, with the deriv. ''britten'', q. v., the place of the primitive, ME. *''breten'', *''breoten'', < AS. ''breótan'' (pret. ''breát'', pp. *''broten''), break, bruise, demolish, destroy, = OS. *''briotan'', ''brēton'' = OHG. *''briozan'', tr., break, MHG. ''briezen'', intr., burst forth, = Icel. ''brjōta'' = Sw. ''bryta'' = Dan. ''bryde'', break, fracture, refract, = Goth. *''briutan'' (not found, but assumed from the other forms, and from the appar. thence derived Spanish ML. ''britare'', demolish, destroy). Hence ''britten'', ''brittle'', q. v.]   '''I.''' ''trans.'' '''1†.''' To break in pieces; divide.\n{{smaller block|<poem>His hede thei ofsmyten, to London was it born,\nThe dede body the[i] ''britten'' [pret. pl.] on four quarters corn.</poem>\n{{right|''Langtoft'', Chron. (ed. Hearne), p. 244.}}}}\n'''2.''' To bruise; indent.   ''Halliwell.'' [Prov. Eng.]\n\n'''II.''' ''intrans.'' '''1.''' To fall out or shatter, as over'''2.''' To fade away; alter.   ''Halliwell.'' [Prov. Eng.]\n\n'''brit<sup>2</sup>''', '''britt<sup>2</sup>''' (brit), ''n.''   [Prob. = ''bret'' or ''birt'', applied to a different fish: see ''bret.'']   '''1.''' A young herring of the common kind, occurring in large shoals, and formerly classed as a separate species, ''Clupea minima.''—'''2.''' A general name for animals upon which whales feed, as ''Clio borealis'', etc.; whale-brit.\n\n'''Brit.''' An abbreviation of ''British'' and ''Britain.''\n\n'''Britain-crown''' (brit′ān- or brit′n-kroun), ''n.''   [< ''Britain'' + ''crown'': ''Britain'', < ME. ''Britaine'', < OF. ''Bretaine'', ''Bretaigne'', F. ''Bretagne'', < L. ''Britannia'', Britain, < ''Britanni'', the Britons, later L. ''Brito''(''n''-), a Briton. Cf. AS. ''Bryten'', Britain, ''Bryttas'', ''Brittas'', ''Brettas'', Britons: see ''British.'']\nAn English gold coin first issued in 1604 by James I., and current at the time for five shillings. It was also issued under Charles I.\n\n[[File:century v01 p0713 c3f1.png|center|294px]]\n{{c|{{smaller|Obverse. Reverse.}}}}\n{{c|{{smaller|Britain-crown of James I., British Museum. (Size of the original.)}}}}\n\n'''Britannia metal.''' See ''metal.''\n\n'''Britannic''' (bri-tan′ik), ''a.''   [< L. ''Britannicus'', < ''Britannia'', Britain.]   Of or pertaining to Great Britain: as, Her ''Britannic'' Majesty.\n\n'''britchka''', ''n.'' Same as ''britska''.\n\n'''brite''' (brīt), ''v. i.''; pret. and pp. ''brited'', ppr. ''briting''.   [Also spelled ''bright''; origin unknown.]   To be or become over-ripe, as wheat, barley, or hops. [Prov. Eng.]\n\n'''brither''' (briᴛ̵ʜ′ėr), ''n.'' A Scotch form of ''brother''.\n\n'''Briticism''' (brit′i-sizm), ''n.''   [< ''British'' (Latinized ''Britic-'') + ''-ism''.]   A word, phrase, or idiom of the English language peculiar to the British.\n\n'''British''' (brit′ish), ''a.'' and ''n.''   [< ME. ''Britissh'', ''Brytisc'', etc., < AS. ''Bryttisc'', < ''Bryttas'', ''Brittas'', ''Brettas'' (sing. ''Bryt'', ''Brit'', ''Bret'', rare), L. ''Britanni'', ML. also ''Britones'', Britons, the original Celtic inhabitants of Britain; a name of Celtic origin: cf. W. ''Brython'', a Briton, pl. a tribe of Britons.]   '''I.''' ''a.'' '''1.''' Of or pertaining to Great Britain, or in the widest sense the United Kingdom of Great Britain and Ireland, or its inhabitants: as, the ''British'' people or empire; ''British'' legislation or interests.—'''2.''' Of or pertaining to the ancient Britons or their language.\n\nSometimes abbreviated ''Brit.''\n\n{{smaller block|'''British gum, lion''', etc. See the nouns.—'''British plate''', albata (which see).—'''British sheet-glass.''' Same as ''broad glass'' (which see, under ''broad'').}}\n\n'''II.''' ''n.'' '''1.''' [Used as a plural.] The inhabitants of Great Britain, including specifically the English, Welsh, and Scotch.—'''2.''' The language<noinclude><references/></noinclude>"
+}

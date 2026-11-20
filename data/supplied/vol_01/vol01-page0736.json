@@ -1,0 +1,231 @@
+{
+ "volume": 1,
+ "page_number": 736,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n735.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n735.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 744,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     124,
+     122,
+     2341,
+     160
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     124,
+     160,
+     858,
+     1149
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     124,
+     1149,
+     858,
+     1900
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     124,
+     1900,
+     858,
+     2912
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     124,
+     2912,
+     858,
+     3265
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     858,
+     160,
+     1598,
+     1247
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     858,
+     1247,
+     1598,
+     1712
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     858,
+     1712,
+     1598,
+     2775
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     926,
+     1754,
+     1532,
+     2288
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     858,
+     2775,
+     1598,
+     3265
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1598,
+     160,
+     2341,
+     1187
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1598,
+     1187,
+     2341,
+     2280
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1598,
+     2280,
+     2341,
+     3265
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|buffer-block|710|bufoniform}}",
+   "c1s1": "the draw-bar, to keep the cars from coming together if the draw-bar gives way.—'''2.''' The flat head of a buffer-bar. See cut under ''buffer''<sup>3</sup>. Also called ''buffing-block.''\n\n'''buffer-head''' (buf′ėr-hed), ''n.'' Same as ''buffer-block'', 2.\n\n'''buffer-spring''' (buf′ėr-spring), ''n.'' A spring which gives elasticity to a buffer, so as to lessen the shock of collision. Also called ''buffing-spring.'' See cut under ''buffer''<sup>3</sup>.—{{smaller|'''Auxiliary buffer-spring''', in railroad-cars, a spring secured behind a draw-spring, to resist more strongly the pressure on the draw-bar in buffing.}}\n\n'''buffet'''<sup>1</sup> (buf′et), ''n.'' [< ME. ''buffet, boffet, bofet'' (= Icel. ''buffeit''), < OF. ''buffet, bufet'' (= It. ''buffeto'', formerly ''buffetto, boffetto''; cf. Sp. Pg. ''bofetada''), a blow, < ''buffe, bufe'', a blow: see ''buff''<sup>2</sup>.] '''1.''' A blow with the fist; a box; a cuff; a slap; hence, hard usage of any kind suggestive of blows; a violent shock or concussion: as, “fortune’s ''buffets'',” ''Shak.'', Hamlet, iii. 2.\n{{smaller block|The kynge redressed hym and yaf hym soche a ''buffet'' vpon the lefte temple that the blode braste oute of mouthe and nose.\n{{right|''Merlin'' (E. E. T. S.), iii. 391.}}\n<poem>For God’s sake, sir, be merry, or else bear\nThe ''buffets'' of your fortune with more scorn!</poem>\n{{right|''Beau. and Fl.'', Honest Man’s Fortune, iv. 1.}}\nWe get . . . many a ''buffet'' of the rough water of experience, before we secure the bare right to live.\n{{right|''Lowell'', Fireside Travels, p. 138.}}}}\n'''2†.''' A blast of wind.\n{{smaller block|Thay blwe a ''buffet'' in blande that banned peple.\n{{right|''Alliterative Poems'' (ed. Morris), ii. 885.}}}}",
+   "c1s2": "¶\n'''buffet<sup>1</sup>''' (buf′et), ''v.''; pret. and pp. ''buffeted'', ppr. ''buffeting''. [< ME. ''buffeten'', ''bofeten'' = Icel. ''buffeita'' (cf. Sp. ''bofetear'', ''abofetear'', Pg. ''bofetear'' = It. ''buffetare'', ''boffettegiare''—Florio), buffet; from the noun.] '''I.''' ''trans.'' '''1.''' To strike with the hand or fist; box; beat.\n{{smaller block|Then did they spit in his face, and ''buffeted'' him; and others smote him with the palms of their hands.\n{{right|Mat. xxvi. 67.}}}}\n'''2.''' To beat in contention; contend against as if with blows: as, to ''buffet'' the billows.\n{{smaller block|<poem>The torrent roar’d; and we did ''buffet'' it\nWith lusty sinews; throwing it aside\nAnd stemming it with hearts of controversy.</poem>\n{{right|''Shak.'', J. C., i. 2.}}}}\n\n'''II.''' ''intrans.'' To exercise at boxing; box; contend with blows of the fists; hence, to force one’s way by buffeting.\n{{smaller block|If I might ''buffet'' for my love, . . . I could lay on like a butcher.\n{{right|''Shak.'', Hen. V., v. 2.}}\n<poem>I caught her; then\nOaring one arm, and bearing in my left\nThe weight of all the hopes of half the world,\nStrove to ''buffet'' to land in vain.</poem>\n{{right|''Tennyson'', Princess, iv.}}}}\n\n'''buffet<sup>2</sup>''' (buf′et, or, as F., bü-fā′), ''n.'' [Sometimes",
+   "c1s3": "erroneously written ''beaufet'' (simulating F. ''beau'', fine—a notion present, in another form, in the orig. use), < ME. ''buffitt, buffit, boffet, bofet'' (in def. 4, and comp. ''buffet-stool'', q. v.) = D. G. Dan. Sw. ''buffet'' = Russ. ''bufetŭ'', a sideboard, = Sp. Pg. ''bufete'', a desk, writing-table, Pg. also a sideboard, < F. ''buffet'', a sideboard, a cupboard, in older F. esp. of an elegant or costly kind, “a court cupboord, or high-standing cupboord, also a cupboord of plate, also as much plate as will furnish a cupboord” (Cotgrave), also a desk or writing-table, < It. ''buffetto'', formerly also ''boffetto'', a cupboard, sideboard, buffet (ML. ''bufetum'', a buffet, cf. ''buffetus'', a council; cf. ''bureau'' in similar senses), appar. so called from its elegance, being = OF. ''bufoi, buffois'', sumptuousness, show, pomp, fine equipage, < ''bufer, buffer'' (= It. ''buffare'', etc.), puff, blow: see ''buff''<sup>2</sup>, and cf. ''buffet''<sup>1</sup>.] '''1.''' A cupboard, sideboard, or closet, designed to hold china, crystal, plate, and other like articles.—'''2.''' The space set apart for refreshments in public places.—'''3.''' That part of the cabinet-work of an organ which incloses the pipes.—'''4.''' Same as ''buffet-stool''. ''Wright'', Prov. Dict. [Prov. Eng.]\n\n'''buffeter''' (buf′et-ėr), ''n.'' One who buffets or strikes with the hand or fist; a boxer.\n\n'''buffeting''' (buf′et-ing), ''n.'' [Verbal n. of ''buffet''<sup>1</sup>, ''v.''] A beating; a blow; a buffet.\n{{smaller block|He had withstood these ''buffetings'' to the last till sickness overtook him.\n{{right|''Sterne'', Tristram Shandy, vi. 13.}}}}\n\n'''buffet-stool''' (buf′et-stöl), ''n.'' [< ME. ''buffett''",
+   "c1s4": "''stole, bofet stole'', also simply ''buffit, bofet'' (see ''buffet''<sup>2</sup>, 4); < ''buffet''<sup>2</sup> + ''stool''.] A stool with either four or three legs, formerly used in connection with the buffet or sideboard, and often serving as a table or sideboard among poor people. ''Forby.''\n\n¶\n'''buffle†''', ''n.'' Same as ''buff''<sup>4</sup>. ''Florio.''\n\n'''buffin†''' (buf′in), ''a.'' and ''n.'' [Early mod. E., appar. for *''buffen'', < ''buff''<sup>1</sup> + ''-en''<sup>2</sup>.] '''I.''' ''a.'' '''1.''' Of buff.\n{{smaller block|''Buffalino'' [It.], of buffe, ''buffin.''\n{{right|''Florio.''}}}}",
+   "c2s1": "'''2.''' Made of buffin: as, “''buffin'' gowns,” ''Massinger'', City Madam, iv. 4.\n\n'''II.''' ''n.'' A coarse cloth in use in the time of Elizabeth and James I.\n{{smaller block|Grograms, broad or narrow, called ''Buffines'', poize [weigh] 4 lbs. one with another.\n{{right|''Lansdowne MS.'', 1592. (''Draper’s Dict.'')}}}}\n\n¶\n'''buffing''' (buf′ing), ''n.'' [< ''buff''<sup>1</sup> + ''-ing''<sup>1</sup>.] The operation of diminishing the thickness of a hide by means of a curriers’ knife or a splitting-machine, for the purpose of increasing the suppleness of the leather; hence, the layer so shaved off; the amount of lessening effected.\n{{smaller block|When about one-third tanned, the hides are removed from the tanning liquor and a ''buffing'' is taken off of each hide.\n{{right|''C. T. Davis'', Leather, p. 586.}}}}\n\n'''buffing-block''' (buf′ing-blok), ''n.'' Same as ''buffer-block.''\n\n'''buffing-lathe''' (buf′ing-lāᴛ̵ʜ), ''n.'' A lathe in which metal plates are polished. The buffer may be of leather, cotton, or other material, and is used with various polishing-powders.\n\n'''buffing-machine''' (buf′ing-ma-shēn″), ''n.'' A machine used for buffing or polishing.\n\n'''buffing-spring''' (buf′ing-spring), ''n.'' Same as ''buffer-spring.''\n\n'''buffing-wheel''' (buf′ing-hwēl), ''n.'' Same as ''buff-wheel.''\n\n'''buff-jerkin''' (buf′jėr″kin), ''n.'' '''1.''' A garment formerly worn under the corselet, and made of buff-leather, whence its name. It took the place of the acton and gambeson.—'''2.''' A waistcoat made of buff-leather; hence, a waistcoat made of cloth of a buff color. {{smaller|It seems to have been con-}}",
+   "c2s2": "sidered the peculiar mark of constables and other officers of the law.\n\n{{smaller block|Fighting! what’s fighting? it may be in fashion<br>Among provant swords, and ''buff-jerkin'' men.\n{{right|''Fletcher (and another)'', Elder Brother, v. 1.}}}}\n\n'''buff-laced''' (buf′lāst), ''a.'' In ''poultry-'' and ''pigeon-breeding'', having the feathers laced or edged with buff: said of birds of which the color is a rich buff, each feather being distinctly laced with pale buff, as in the case of ''buff-laced'' Polish fowls, or of birds of which the color is pale buff, each feather being laced with dark buff.\n\n'''buffle'''<sup>1</sup> (buf′l), ''n.'' [< F. ''buffle'', a buffalo.] '''1.''' A buffalo.—'''2.''' A duck, ''Bucephala albeola'', abundant in North America. {{smaller|It has a short blue bill and}}",
+   "c2s3": "a head the apparent size of which is greatly increased by\n[[FIGURE]]\n{{c|{{smaller|Buffle (''Bucephala albeola'').}}}}\n{{smaller|the fullness of its feathers. The male is chiefly black above and white below, the head being iridescent-black with a large white occipital space. Also called ''buffle-head'', ''buffle-duck'', ''buffle-headed duck'', ''spirit-duck'', ''dipper'', and ''butterball''. Also spelled ''buffel''.}}\n\n¶\n'''buffle'''<sup>2</sup> (buf′l), ''v.'' [Freq. of ''buff''<sup>2</sup>, stammer: see ''buff''<sup>2</sup>.] '''I.''' ''intrans.'' '''1.''' To speak thickly or inarticulately. [Prov. Eng.]—'''2†.''' To be puzzled; be at a loss. ''Swift.''\n\n'''II.''' ''trans.'' To handle clumsily.\n\n'''buff-leather''' (buf′le″ᴛ̵ʜėr), ''n.'' Same as ''buff''<sup>1</sup>, 2.\n\n'''buffle-duck''' (buf′l-duk), ''n.'' Same as ''buffle''<sup>1</sup>, 2.\n\n'''buffle-head''' (buf′l-hed), ''n.'' '''1†.''' One who has a large or stupid head, like a buffalo’s.",
+   "c2s4": "{{smaller block|What makes you stare so, ''buffle-head?''\n{{right|''Plautus'' (trans.), 1694.}}}}\n'''2.''' Same as ''buffle''<sup>1</sup>, 2.\n\n'''buffle-headed†''' (buf′l-hed″ed), ''a.'' Having a large head, like a buffalo’s; dull; stupid; foolish. ''Gayton'', Notes on Don Quixote, III. 3.\n\n'''buffle-horn''' (buf′l-hôrn), ''n.'' The common name in South Africa of the ''Burchellia Capensis'', on account of the hardness and toughness of the wood. {{smaller|It is a rubiaceous shrub, with handsome flowers, sometimes cultivated in hothouses.}}\n\n'''buffle-wood''' (buf′l-wu̇d), ''n.'' Same as ''buffle-horn.''\n\n'''buffo''' (buf′ō), ''n.'' [It., a comic actor, also a puff, whiff, < ''buffare'', puff, rally, mock: see ''buff''<sup>2</sup>, ''buffoon.''] The comic actor in an opera; a comic singer.",
+   "c3s1": "¶\n'''buffon,''' ''n.'' Same as ''buffont.''\n\n'''buffont†,''' ''n.'' [< F. ''bouffant'' (cf. “''bouffancs'' [sic], puffs in a garment”—Cotgrave), ppr. of ''bouffer,'' puff out: see ''buff''<sup>2</sup>, ''buffet''<sup>1</sup>.] A projecting or puffed-out covering of gauze or linen for the breast, much worn by women about the middle of the eighteenth century.\n\n'''buffoon''' (bu-fön′), ''n.'' and ''a.'' [< F. ''bouffon,'' < It. ''buffone'' (= Sp. ''bufon'' = Pg. ''bufão''), a jester, < ''buffa'' (= Sp. ''bufa''), a jest, mocking, connected with ''buffare'' (= Pr. Sp. Pg. ''bufar'' = F. ''bouffer''), puff, blow: see ''buff''<sup>2</sup>, ''buffet''<sup>1</sup>.] '''I.''' ''n.'' One who makes a practice of amusing others by tricks, odd gestures and postures, jokes, and other vulgar pleasantries; a droll; a merry-andrew; a clown; a jester.\n{{smaller block|The scurril talk of ''buffoons,'' pleasants, and jesters.\n{{right|''Holland,'' tr. of Plutarch, p. 487.}}}}\n{{smaller block|''Buffoons'' that have a talent of mimicking the speech and behaviour of other persons. {{right|''Tatler,'' No. 268.}}}}\n{{smaller|='''Syn.''' See ''zany.''}}\n\n'''II.''' ''a.'' Characteristic of a buffoon; buffoonish.\n{{smaller block|Neither ''buffoon'' nor contemptible. {{right|''Lamb,'' Old Actors.}}}}\n{{smaller block|''Buffoon'' stories. {{right|''Macaulay,'' Hist. Eng., xiv.}}}}\n\n'''buffoon''' (bu-fön′), ''v.'' [< ''buffoon,'' ''n.''] '''I.''' ''intrans.'' To act the part of a buffoon. ''Dryden.'' [Rare.]\n\n'''II.''' ''trans.'' To make ridiculous. [Rare.]\n{{smaller block|Religion . . . despised, ''buffooned,'' exposed as ridiculous.\n{{right|''Glanville,'' Sermons, ix. 343.}}}}\n{{smaller block|Went to see the Duke of Buckingham’s ridiculous farce and rhapsody, called “The Recital,” ''buffooning'' all plays, yet prophane enough. {{right|''Evelyn,'' Diary, Dec. 14, 1671.}}}}",
+   "c3s2": "¶\n'''buffoonery''' (bu-fön′ėr-i), ''n.''; pl. ''buffooneries'' (-iz). [< ''buffoon'' + ''-ery'', after F. ''bouffonnerie.''] The art and practices of a buffoon; low jests; ridiculous pranks; vulgar tricks and postures.\n{{smaller block|<poem>No merit was secure, no person free\nFrom its licentious ''buffoonery.''</poem>\n{{right|''Oldham'', Horace’s Art of Poetry.}}}}\n\n'''buffoonish''' (bu-fön′ish), ''a.'' [< ''buffoon'' + ''-ish''<sup>1</sup>.] Like a buffoon; consisting in buffoonery. ''Blair.''\n\n'''buffoonism''' (bu-fön′izm), ''n.'' [< ''buffoon'' + ''-ism.''] The practices of a buffoon; buffoonery.\n\n'''buffoonize†''' (bu-fön′īz), ''v. t.'' [< ''buffoon'' + ''-ize.''] To jest. ''Minsheu'', 1617.\n\n'''buffoonly''' (bu-fön′li), ''a.'' [< ''buffoon'' + ''-ly''<sup>1</sup>.] Buffoonish. [Rare.]\n{{smaller block|Apish tricks and ''buffoonly'' discourse.\n{{right|''J. Goodman'', Winter Eve. Conference, 1.}}}}\n\n'''buffo-singer''' (bü′ō-sing″ėr), ''n.'' A singer of comic songs in opera bouffe; a buffo.\n\n'''buff-stick''' (buf′stik), ''n.'' A piece of stick covered with leather, velvet, velveteen, or other material, and charged with emery or other powder, used in polishing.\n\n'''buff-tip''' (buf′tip), ''n.'' '''1.''' A name of a Japanese shrike, ''Lanius bucephalus'', so called because of a buff patch on the wing.—'''2.''' A name of a moth similarly marked.\n\n'''buffum''' (buf′um), ''n.'' [Origin obscure.] A mixture of several inferior kinds of oil, used as an adulterant of linseed-oil. ''Encyc. Brit.'' [Eng.]\n\n'''buff-ware''' (buf′wãr), ''n.'' In ''ceram.'', a stoneware made in Staffordshire, England, from the clay and other ingredients found there, and not decorated. {{smaller|The name is derived from the natural color}}",
+   "c3s3": "{{smaller|of the clay when fired.}}\n\n'''buff-wheel''' (buf′hwēl), ''n.'' A wheel of wood, glue, leather, light fabrics, or other material, used with emery, rouge, or other powders in polishing glass and metals. Also called ''buffer'' and ''buffing-wheel.''\n\n'''buffy''' (buf′i), ''a.'' [< ''buff''<sup>1</sup> + ''-y''<sup>1</sup>.] Buff-colored; pertaining to buff on the blood.—{{smaller|'''Buffy coat''', the coat of fibrin free from red blood-corpuscles on the upper surface of a blood-clot, which is formed when the coagulation is delayed until after the corpuscles have sunk so as to leave the upper layers of the blood.}}\n\n'''Bufo''' (bū′fō), ''n.'' [L., a toad.] A genus of tailless amphibians, typical of the family ''Bufonidæ'', and embracing the common toads of Europe and North America. See cut under ''agua-toad.''\n\n'''bufonid''' (bū′fọ̄-nid), ''n.'' An amphibian of the family ''Bufonidæ.''\n\n'''Bufonidæ''' (bụ̄-fon′i-dē), ''n. pl.'' [NL., < ''Bufo(n-)'' + ''-idæ.''] A family of arciferous salient amphibians, typified by the genus ''Bufo'', without maxillary teeth and with dilated sacral vertebræ and a broad flat tongue, free behind; the toads. {{smaller|The body and limbs are thick, heavy, and clumsy, and the skin is warty or rugose. The species are less aquatic than frogs, not arboreal like tree-toads, and much less agile. About 100 species are known. See cut under ''agua-toad.''}}\n\n'''bufoniform''' (bụ̄-fon′i-fôrm), ''a.'' [< L. ''bufo(n-)'', a toad, + ''forma'', shape.] Having the form of a toad; resembling a toad; bufonoid; specifically, of or pertaining to the ''Bufoniformia'': contrasted with ''raniform.''"
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0736 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     938,
+     1766,
+     1520,
+     2276
+    ],
+    "caption": [
+     1079,
+     2303,
+     1375,
+     2328
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     929,
+     1764,
+     1590,
+     2282
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4170,
+    "output_tokens": 96,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9591,
+    "output_tokens": 9172,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|buffer-block|710|bufoniform}}</noinclude>the draw-bar, to keep the cars from coming together if the draw-bar gives way.—'''2.''' The flat head of a buffer-bar. See cut under ''buffer''<sup>3</sup>. Also called ''buffing-block.''\n\n'''buffer-head''' (buf′ėr-hed), ''n.'' Same as ''buffer-block'', 2.\n\n'''buffer-spring''' (buf′ėr-spring), ''n.'' A spring which gives elasticity to a buffer, so as to lessen the shock of collision. Also called ''buffing-spring.'' See cut under ''buffer''<sup>3</sup>.—{{smaller|'''Auxiliary buffer-spring''', in railroad-cars, a spring secured behind a draw-spring, to resist more strongly the pressure on the draw-bar in buffing.}}\n\n'''buffet'''<sup>1</sup> (buf′et), ''n.''   [< ME. ''buffet, boffet, bofet'' (= Icel. ''buffeit''), < OF. ''buffet, bufet'' (= It. ''buffeto'', formerly ''buffetto, boffetto''; cf. Sp. Pg. ''bofetada''), a blow, < ''buffe, bufe'', a blow: see ''buff''<sup>2</sup>.]   '''1.''' A blow with the fist; a box; a cuff; a slap; hence, hard usage of any kind suggestive of blows; a violent shock or concussion: as, “fortune’s ''buffets'',” ''Shak.'', Hamlet, iii. 2.\n{{smaller block|The kynge redressed hym and yaf hym soche a ''buffet'' vpon the lefte temple that the blode braste oute of mouthe and nose.\n{{right|''Merlin'' (E. E. T. S.), iii. 391.}}}}\n{{smaller block|<poem>For God’s sake, sir, be merry, or else bear\nThe ''buffets'' of your fortune with more scorn!</poem>\n{{right|''Beau. and Fl.'', Honest Man’s Fortune, iv. 1.}}}}\n{{smaller block|We get . . . many a ''buffet'' of the rough water of experience, before we secure the bare right to live.\n{{right|''Lowell'', Fireside Travels, p. 138.}}}}\n'''2†.''' A blast of wind.\n{{smaller block|Thay blwe a ''buffet'' in blande that banned peple.\n{{right|''Alliterative Poems'' (ed. Morris), ii. 885.}}}}\n\n'''buffet<sup>1</sup>''' (buf′et), ''v.''; pret. and pp. ''buffeted'', ppr. ''buffeting''.   [< ME. ''buffeten'', ''bofeten'' = Icel. ''buffeita'' (cf. Sp. ''bofetear'', ''abofetear'', Pg. ''bofetear'' = It. ''buffetare'', ''boffettegiare''—Florio), buffet; from the noun.]   '''I.''' ''trans.'' '''1.''' To strike with the hand or fist; box; beat.\n{{smaller block|Then did they spit in his face, and ''buffeted'' him; and others smote him with the palms of their hands.\n{{right|Mat. xxvi. 67.}}}}\n'''2.''' To beat in contention; contend against as if with blows: as, to ''buffet'' the billows.\n{{smaller block|<poem>The torrent roar’d; and we did ''buffet'' it\nWith lusty sinews; throwing it aside\nAnd stemming it with hearts of controversy.</poem>\n{{right|''Shak.'', J. C., i. 2.}}}}\n\n'''II.''' ''intrans.'' To exercise at boxing; box; contend with blows of the fists; hence, to force one’s way by buffeting.\n{{smaller block|If I might ''buffet'' for my love, . . . I could lay on like a butcher.\n{{right|''Shak.'', Hen. V., v. 2.}}}}\n{{smaller block|<poem>I caught her; then\nOaring one arm, and bearing in my left\nThe weight of all the hopes of half the world,\nStrove to ''buffet'' to land in vain.</poem>\n{{right|''Tennyson'', Princess, iv.}}}}\n\n'''buffet<sup>2</sup>''' (buf′et, or, as F., bü-fā′), ''n.''   [Sometimes erroneously written ''beaufet'' (simulating F. ''beau'', fine—a notion present, in another form, in the orig. use), < ME. ''buffitt, buffit, boffet, bofet'' (in def. 4, and comp. ''buffet-stool'', q. v.) = D. G. Dan. Sw. ''buffet'' = Russ. ''bufetŭ'', a sideboard, = Sp. Pg. ''bufete'', a desk, writing-table, Pg. also a sideboard, < F. ''buffet'', a sideboard, a cupboard, in older F. esp. of an elegant or costly kind, “a court cupboord, or high-standing cupboord, also a cupboord of plate, also as much plate as will furnish a cupboord” (Cotgrave), also a desk or writing-table, < It. ''buffetto'', formerly also ''boffetto'', a cupboard, sideboard, buffet (ML. ''bufetum'', a buffet, cf. ''buffetus'', a council; cf. ''bureau'' in similar senses), appar. so called from its elegance, being = OF. ''bufoi, buffois'', sumptuousness, show, pomp, fine equipage, < ''bufer, buffer'' (= It. ''buffare'', etc.), puff, blow: see ''buff''<sup>2</sup>, and cf. ''buffet''<sup>1</sup>.]   '''1.''' A cupboard, sideboard, or closet, designed to hold china, crystal, plate, and other like articles.—'''2.''' The space set apart for refreshments in public places.—'''3.''' That part of the cabinet-work of an organ which incloses the pipes.—'''4.''' Same as ''buffet-stool''.   ''Wright'', Prov. Dict. [Prov. Eng.]\n\n'''buffeter''' (buf′et-ėr), ''n.'' One who buffets or strikes with the hand or fist; a boxer.\n\n'''buffeting''' (buf′et-ing), ''n.''   [Verbal n. of ''buffet''<sup>1</sup>, ''v.'']   A beating; a blow; a buffet.\n{{smaller block|He had withstood these ''buffetings'' to the last till sickness overtook him.\n{{right|''Sterne'', Tristram Shandy, vi. 13.}}}}\n\n'''buffet-stool''' (buf′et-stöl), ''n.''   [< ME. ''buffett stole, bofet stole'', also simply ''buffit, bofet'' (see ''buffet''<sup>2</sup>, 4); < ''buffet''<sup>2</sup> + ''stool''.]   A stool with either four or three legs, formerly used in connection with the buffet or sideboard, and often serving as a table or sideboard among poor people.   ''Forby.''\n\n'''buffle†''', ''n.'' Same as ''buff''<sup>4</sup>.   ''Florio.''\n\n'''buffin†''' (buf′in), ''a.'' and ''n.''   [Early mod. E., appar. for *''buffen'', < ''buff''<sup>1</sup> + ''-en''<sup>2</sup>.]   '''I.''' ''a.'' '''1.''' Of buff.\n{{smaller block|''Buffalino'' [It.], of buffe, ''buffin.''\n{{right|''Florio.''}}}} '''2.''' Made of buffin: as, “''buffin'' gowns,” ''Massinger'', City Madam, iv. 4.\n\n'''II.''' ''n.'' A coarse cloth in use in the time of Elizabeth and James I.\n{{smaller block|Grograms, broad or narrow, called ''Buffines'', poize [weigh] 4 lbs. one with another.\n{{right|''Lansdowne MS.'', 1592. (''Draper’s Dict.'')}}}}\n\n'''buffing''' (buf′ing), ''n.''   [< ''buff''<sup>1</sup> + ''-ing''<sup>1</sup>.]   The operation of diminishing the thickness of a hide by means of a curriers’ knife or a splitting-machine, for the purpose of increasing the suppleness of the leather; hence, the layer so shaved off; the amount of lessening effected.\n{{smaller block|When about one-third tanned, the hides are removed from the tanning liquor and a ''buffing'' is taken off of each hide.\n{{right|''C. T. Davis'', Leather, p. 586.}}}}\n\n'''buffing-block''' (buf′ing-blok), ''n.'' Same as ''buffer-block.''\n\n'''buffing-lathe''' (buf′ing-lāᴛ̵ʜ), ''n.'' A lathe in which metal plates are polished. The buffer may be of leather, cotton, or other material, and is used with various polishing-powders.\n\n'''buffing-machine''' (buf′ing-ma-shēn″), ''n.'' A machine used for buffing or polishing.\n\n'''buffing-spring''' (buf′ing-spring), ''n.'' Same as ''buffer-spring.''\n\n'''buffing-wheel''' (buf′ing-hwēl), ''n.'' Same as ''buff-wheel.''\n\n'''buff-jerkin''' (buf′jėr″kin), ''n.'' '''1.''' A garment formerly worn under the corselet, and made of buff-leather, whence its name. It took the place of the acton and gambeson.—'''2.''' A waistcoat made of buff-leather; hence, a waistcoat made of cloth of a buff color. {{smaller|It seems to have been considered}} the peculiar mark of constables and other officers of the law.\n\n{{smaller block|<poem>Fighting! what’s fighting? it may be in fashion\nAmong provant swords, and ''buff-jerkin'' men.</poem>\n{{right|''Fletcher (and another)'', Elder Brother, v. 1.}}}}\n\n'''buff-laced''' (buf′lāst), ''a.'' In ''poultry-'' and ''pigeon-breeding'', having the feathers laced or edged with buff: said of birds of which the color is a rich buff, each feather being distinctly laced with pale buff, as in the case of ''buff-laced'' Polish fowls, or of birds of which the color is pale buff, each feather being laced with dark buff.\n\n'''buffle'''<sup>1</sup> (buf′l), ''n.''   [< F. ''buffle'', a buffalo.]   '''1.''' A buffalo.—'''2.''' A duck, ''Bucephala albeola'', abundant in North America. {{smaller|It has a short blue bill and}} a head the apparent size of which is greatly increased by\n{{smaller|the fullness of its feathers. The male is chiefly black above and white below, the head being iridescent-black with a large white occipital space. Also called ''buffle-head'', ''buffle-duck'', ''buffle-headed duck'', ''spirit-duck'', ''dipper'', and ''butterball''. Also spelled ''buffel''.}}\n\n[[File:century v01 p0736 c2f1.png|center|293px]]\n{{c|{{smaller|Buffle (''Bucephala albeola'').}}}}\n\n'''buffle'''<sup>2</sup> (buf′l), ''v.''   [Freq. of ''buff''<sup>2</sup>, stammer: see ''buff''<sup>2</sup>.]   '''I.''' ''intrans.'' '''1.''' To speak thickly or inarticulately. [Prov. Eng.]—'''2†.''' To be puzzled; be at a loss.   ''Swift.''\n\n'''II.''' ''trans.'' To handle clumsily.\n\n'''buff-leather''' (buf′le″ᴛ̵ʜėr), ''n.'' Same as ''buff''<sup>1</sup>, 2.\n\n'''buffle-duck''' (buf′l-duk), ''n.'' Same as ''buffle''<sup>1</sup>, 2.\n\n'''buffle-head''' (buf′l-hed), ''n.'' '''1†.''' One who has a large or stupid head, like a buffalo’s. {{smaller block|What makes you stare so, ''buffle-head?''\n{{right|''Plautus'' (trans.), 1694.}}}}\n'''2.''' Same as ''buffle''<sup>1</sup>, 2.\n\n'''buffle-headed†''' (buf′l-hed″ed), ''a.'' Having a large head, like a buffalo’s; dull; stupid; foolish.   ''Gayton'', Notes on Don Quixote, III. 3.\n\n'''buffle-horn''' (buf′l-hôrn), ''n.'' The common name in South Africa of the ''Burchellia Capensis'', on account of the hardness and toughness of the wood. {{smaller|It is a rubiaceous shrub, with handsome flowers, sometimes cultivated in hothouses.}}\n\n'''buffle-wood''' (buf′l-wu̇d), ''n.'' Same as ''buffle-horn.''\n\n'''buffo''' (buf′ō), ''n.''   [It., a comic actor, also a puff, whiff, < ''buffare'', puff, rally, mock: see ''buff''<sup>2</sup>, ''buffoon.'']   The comic actor in an opera; a comic singer.\n\n'''buffon,''' ''n.'' Same as ''buffont.''\n\n'''buffont†,''' ''n.''   [< F. ''bouffant'' (cf. “''bouffancs'' [sic], puffs in a garment”—Cotgrave), ppr. of ''bouffer,'' puff out: see ''buff''<sup>2</sup>, ''buffet''<sup>1</sup>.]   A projecting or puffed-out covering of gauze or linen for the breast, much worn by women about the middle of the eighteenth century.\n\n'''buffoon''' (bu-fön′), ''n.'' and ''a.''   [< F. ''bouffon,'' < It. ''buffone'' (= Sp. ''bufon'' = Pg. ''bufão''), a jester, < ''buffa'' (= Sp. ''bufa''), a jest, mocking, connected with ''buffare'' (= Pr. Sp. Pg. ''bufar'' = F. ''bouffer''), puff, blow: see ''buff''<sup>2</sup>, ''buffet''<sup>1</sup>.]   '''I.''' ''n.'' One who makes a practice of amusing others by tricks, odd gestures and postures, jokes, and other vulgar pleasantries; a droll; a merry-andrew; a clown; a jester.\n{{smaller block|The scurril talk of ''buffoons,'' pleasants, and jesters.\n{{right|''Holland,'' tr. of Plutarch, p. 487.}}}}\n{{smaller block|''Buffoons'' that have a talent of mimicking the speech and behaviour of other persons. {{right|''Tatler,'' No. 268.}}}}\n{{smaller|='''Syn.''' See ''zany.''}}\n\n'''II.''' ''a.'' Characteristic of a buffoon; buffoonish.\n{{smaller block|Neither ''buffoon'' nor contemptible. {{right|''Lamb,'' Old Actors.}}}}\n{{smaller block|''Buffoon'' stories. {{right|''Macaulay,'' Hist. Eng., xiv.}}}}\n\n'''buffoon''' (bu-fön′), ''v.''   [< ''buffoon,'' ''n.'']   '''I.''' ''intrans.'' To act the part of a buffoon.   ''Dryden.'' [Rare.]\n\n'''II.''' ''trans.'' To make ridiculous. [Rare.]\n{{smaller block|Religion . . . despised, ''buffooned,'' exposed as ridiculous.\n{{right|''Glanville,'' Sermons, ix. 343.}}}}\n{{smaller block|Went to see the Duke of Buckingham’s ridiculous farce and rhapsody, called “The Recital,” ''buffooning'' all plays, yet prophane enough. {{right|''Evelyn,'' Diary, Dec. 14, 1671.}}}}\n\n'''buffoonery''' (bu-fön′ėr-i), ''n.''; pl. ''buffooneries'' (-iz).   [< ''buffoon'' + ''-ery'', after F. ''bouffonnerie.'']   The art and practices of a buffoon; low jests; ridiculous pranks; vulgar tricks and postures.\n{{smaller block|<poem>No merit was secure, no person free\nFrom its licentious ''buffoonery.''</poem>\n{{right|''Oldham'', Horace’s Art of Poetry.}}}}\n\n'''buffoonish''' (bu-fön′ish), ''a.''   [< ''buffoon'' + ''-ish''<sup>1</sup>.]   Like a buffoon; consisting in buffoonery.   ''Blair.''\n\n'''buffoonism''' (bu-fön′izm), ''n.''   [< ''buffoon'' + ''-ism.'']   The practices of a buffoon; buffoonery.\n\n'''buffoonize†''' (bu-fön′īz), ''v. t.''   [< ''buffoon'' + ''-ize.'']   To jest.   ''Minsheu'', 1617.\n\n'''buffoonly''' (bu-fön′li), ''a.''   [< ''buffoon'' + ''-ly''<sup>1</sup>.]   Buffoonish. [Rare.]\n{{smaller block|Apish tricks and ''buffoonly'' discourse.\n{{right|''J. Goodman'', Winter Eve. Conference, 1.}}}}\n\n'''buffo-singer''' (bü′ō-sing″ėr), ''n.'' A singer of comic songs in opera bouffe; a buffo.\n\n'''buff-stick''' (buf′stik), ''n.'' A piece of stick covered with leather, velvet, velveteen, or other material, and charged with emery or other powder, used in polishing.\n\n'''buff-tip''' (buf′tip), ''n.'' '''1.''' A name of a Japanese shrike, ''Lanius bucephalus'', so called because of a buff patch on the wing.—'''2.''' A name of a moth similarly marked.\n\n'''buffum''' (buf′um), ''n.''   [Origin obscure.]   A mixture of several inferior kinds of oil, used as an adulterant of linseed-oil.   ''Encyc. Brit.'' [Eng.]\n\n'''buff-ware''' (buf′wãr), ''n.'' In ''ceram.'', a stoneware made in Staffordshire, England, from the clay and other ingredients found there, and not decorated. {{smaller|The name is derived from the natural color of the clay when fired.}}\n\n'''buff-wheel''' (buf′hwēl), ''n.'' A wheel of wood, glue, leather, light fabrics, or other material, used with emery, rouge, or other powders in polishing glass and metals. Also called ''buffer'' and ''buffing-wheel.''\n\n'''buffy''' (buf′i), ''a.''   [< ''buff''<sup>1</sup> + ''-y''<sup>1</sup>.]   Buff-colored; pertaining to buff on the blood.—{{smaller|'''Buffy coat''', the coat of fibrin free from red blood-corpuscles on the upper surface of a blood-clot, which is formed when the coagulation is delayed until after the corpuscles have sunk so as to leave the upper layers of the blood.}}\n\n'''Bufo''' (bū′fō), ''n.''   [L., a toad.]   A genus of tailless amphibians, typical of the family ''Bufonidæ'', and embracing the common toads of Europe and North America. See cut under ''agua-toad.''\n\n'''bufonid''' (bū′fọ̄-nid), ''n.'' An amphibian of the family ''Bufonidæ.''\n\n'''Bufonidæ''' (bụ̄-fon′i-dē), ''n. pl.''   [NL., < ''Bufo(n-)'' + ''-idæ.'']   A family of arciferous salient amphibians, typified by the genus ''Bufo'', without maxillary teeth and with dilated sacral vertebræ and a broad flat tongue, free behind; the toads. {{smaller|The body and limbs are thick, heavy, and clumsy, and the skin is warty or rugose. The species are less aquatic than frogs, not arboreal like tree-toads, and much less agile. About 100 species are known. See cut under ''agua-toad.''}}\n\n'''bufoniform''' (bụ̄-fon′i-fôrm), ''a.''   [< L. ''bufo(n-)'', a toad, + ''forma'', shape.]   Having the form of a toad; resembling a toad; bufonoid; specifically, of or pertaining to the ''Bufoniformia'': contrasted with ''raniform.''<noinclude><references/></noinclude>"
+}

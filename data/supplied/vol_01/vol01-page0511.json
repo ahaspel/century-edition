@@ -1,0 +1,300 @@
+{
+ "volume": 1,
+ "page_number": 511,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n510.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n510.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 803,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     27,
+     149,
+     2310,
+     187
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     27,
+     187,
+     838,
+     784
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     27,
+     784,
+     838,
+     1864
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     27,
+     1864,
+     838,
+     2942
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     97,
+     2172,
+     837,
+     2523
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     27,
+     2942,
+     838,
+     3298
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     838,
+     187,
+     1580,
+     1208
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     838,
+     1208,
+     1580,
+     2292
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     838,
+     2292,
+     1580,
+     3298
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1580,
+     187,
+     2310,
+     1066
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1838,
+     260,
+     2310,
+     904
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1580,
+     1066,
+     2310,
+     2100
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1588,
+     1111,
+     2066,
+     1473
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1580,
+     2100,
+     2310,
+     3182
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1580,
+     3182,
+     2310,
+     3298
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|beach-clam|485|bead-furnace}}",
+   "c1s1": "¶\n'''beach-clam''' (bēch′klam), ''n.'' A popular name of the ''Mactra solidissima.'' [Local, U. S.]\n\n'''beach-comber''' (bēch′kō″mėr), ''n.'' '''1.''' A long wave rolling in from the ocean. ''Bartlett.'' [U. S.]—'''2.''' A seafaring man, generally of vagrant and drunken habits, who idles about the wharves of seaports: used most frequently in countries bordering on the Pacific ocean.\n{{smaller block|This is a specimen of the life of half of the Americans and English who are adrift along the coasts of the Pacific and its islands, commonly called ''beach-combers.''\n{{right|''R. H. Dana, Jr.'', Before the Mast, p. 291.}}}}\n\n'''beached''' (bēcht), ''p. a.'' '''1.''' Having a beach; bordered by a beach; formed by or consisting of a beach. [Rare.]\n{{smaller block|<poem>Timon hath made his everlasting mansion\nUpon the ''beached'' verge of the salt flood.</poem>\n{{right|''Shak.'', T. of A., v. 2.}}}}\n'''2.''' Run on a beach; stranded.",
+   "c1s2": "¶\n'''beach-flea''' (bēch′flē), ''n.'' A name of sundry small amphipod crustaceans. Also called ''sand-hopper'', ''shore-jumper'', and ''sand-flea.''\n\n'''beach-grass''' (bēch′grȧs), ''n.'' The sand-reed, ''Ammophila arundinacea'', a coarse grass with stout running root-stocks, growing on sandy beaches and protecting them from the winds.\n\n'''beachman''' (bēch′man), ''n.''; pl. ''beachmen'' (-men). A person on the coast of Africa who acts as interpreter to ship-masters, and assists in conducting the trade. ''Imp. Dict.''\n\n'''beach-master''' (bēch′mȧs″tėr), ''n.'' '''1.''' ''Naut.'', a naval officer appointed to superintend the disembarkation of an attacking force.—'''2.''' A name used in some places for a male seal.\n\n'''beach-wagon''' (bēch′wag″on), ''n.'' A light open wagon with two or more seats, used on beaches.\n\n'''beachy†''' (bē′chi), ''a.'' [< ''beach'' + ''-y''<sup>1</sup>.] Covered with beach or shingle; pebbly; shingly.\n{{smaller block|The ''beachy'' girdle of the ocean.\n{{right|''Shak.'', 2 Hen. IV., iii. 1.}}}}\n\n'''beacon''' (bē′kon or -kn), ''n.'' [< ME. ''beken'', ''bekene'', < AS. ''beácen'', ''bēcen'', ''bēcn'', a sign, signal-standard, = OS. ''bōkan'' = OFries. ''bēken'', ''bāken'' = D. ''baak'' = LG. ''bāke'' (> G. ''bake'') = OHG. ''bouhhan'', MHG. ''bouchen'' = Icel. ''bākn'' (after AS.), a sign. Hence ''beckon'' and ''beck''<sup>2</sup>.] '''1.''' A guiding or warning signal; anything fixed or set up as a token; especially, a signal-fire, either in a cresset and placed on a pole, or lighted on a tower or an eminence. {{smaller|Such beacons were formerly much used to signal the approach of an enemy or to spread a call or warning for any purpose, a chain of them often conveying intelligence to great distances.}}\n{{smaller block|Modest doubt is call’d}}",
+   "c1s3": "{{smaller block|The ''beacon'' of the wise. {{right|''Shak.'', T. and C., ii. 2.}}}}\n{{smaller block|Uncertain, troubled, earnest wonderers beheld his intellectual fire as a ''beacon'' burning on a hill-top.\n{{right|''Hawthorne'', Old Manse, I.}}}}\n'''2.''' A tower or hill formerly used for such purposes. {{smaller|Various hills in England and the older parts of the United States have the name of ''Beacon'', from the fact that signal-fires were formerly lighted on them.}}\n'''3.''' A lighthouse or other object placed conspicuously on a coast, or over a rock or shoal at\n[[FIGURE]]\n{{c|{{smaller|Beacons.}}}}\nsea, to give notice of danger, or for the guidance of vessels.—'''4.''' A painted staff about 9 feet long, carrying a small square flag at the top, used in camps to indicate an angle of the quarters assigned to a regiment or company. —'''5†.''' In England, formerly, a division of a wapentake; probably a district throughout which a beacon could be seen, or which was bound to furnish one. ''N. E. D.''\n\n'''beacon''' (bē′kon or -kn), ''v.'' [< ''beacon'', ''n.'' Cf. ''beckon.''] '''I.''' ''trans.'' '''1.''' To illumine or light up as a beacon.",
+   "c1s4": "{{smaller block|<poem>That ''beacons'' the darkness of heaven.</poem>\n{{right|''Campbell'', Lochiel’s Warning.}}}}\n'''2.''' To afford light or aid to; lead; guide as a beacon.—'''3.''' To furnish or mark with beacons: as, to ''beacon'' a coast or a boundary: sometimes with ''off''.—'''4†.''' To use as a beacon; make a beacon of.\n{{smaller block|No, if other things as great in the Church and in the rule of life both economicall and politicall be not lookt into and reform’d, we have lookt so long upon the blaze that Zwinglius and Calvin hath ''beacon’d'' up to us, that we are stark blind.\n{{right|''Milton'', Areopagitica, p. 44.}}}}",
+   "c2s1": "¶\n'''II.''' ''intrans.'' To serve or shine as a beacon.\n{{smaller block|The soul of Adonais, like a star,<br>''Beacons'' from the abode where the Eternal are.\n{{right|''Shelley'', Adonais, lv.}}\nWhere the lighthouse ''beacons'' bright<br>Far in the bay. ''M. Arnold'', A Southern Night.}}\n\n'''beaconage''' (bē′ko̤n-āj), ''n.'' [< ''beacon'' + ''-age.''] Money paid for the maintenance of beacons.\n\n'''beacon-blaze''' (bē′ko̤n-blāz), ''n.'' A signal-light or -fire. ''Tennyson.''\n\n'''beaconed''' (bē′kond), ''a.'' Having a beacon.\n{{smaller block|The foss that skirts the ''beaconed'' hill.\n{{right|''T. Warton'', Odes, x.}}}}\n\n'''beacon-fire''' (bē′ko̤n-fīr), ''n'' A fire lighted up as a beacon or signal; a signal-fire.\n\n'''beacon-tower''' (bē′ko̤n-tou″ėr), ''n.'' A tower on which a beacon is raised.\n{{smaller block|A ''beacon-tower'' above the waves. ''Tennyson'', Princess, iv.}}\n\n'''bead''' (bēd), ''n.'' [< ME. ''bede'', a prayer, also (in ''peire of bedes'', a pair of beads) a bead used in counting prayers, < AS. ''bedu'' (rare, and the nom. is not found), in comp. ''bed-'' (= OS. ''beda'' = OFries. ''bede'' = D. ''bede'' = OHG. ''beta'', MHG. ''bete'', G. ''bitte'' = Goth. ''bida''), fem. (also ''gebed'' = OS. ''gibed'' = OHG. ''gabet'', MHG. G. ''gebet'', neut.), a prayer, < ''biddan'', etc., pray: see ''bid''. Beads are used by Roman Catholics to keep them right as to the number of their prayers, one bead of the rosary being dropped every time a prayer is said; hence the transference of the name from that which is counted (the prayers) to that which is used to count with.",
+   "c2s2": "Cf. Sp. ''cuentas'', Pg. ''contas'', the beads of a rosary, < Sp. Pg. ''contar'', count.] '''1†.''' Prayer; a prayer; specifically, a prayer of the list or bead-roll, read at public church-services by the preacher before his sermon, or by the curate (see ''bead-roll''): usually in the plural. {{smaller|Hence, in this sense, ''to bid'' (''one’s'') ''beads'', to say (one’s) prayers. See phrases below.}}\n{{smaller block|<poem>When holy and devout religious men\nAre at their ''beads'', ’tis much to draw them thence;\nSo sweet is zealous contemplation.</poem>\n{{right|''Shak.'', Rich. III., iii. 7.}}}}\n'''2.''' One of the little balls, of wood, cocoanut-shell, pearl, glass, jewels, or other material, strung in a prescribed order, which form the chaplet or rosary in use in the devotions of Roman Catholics, Buddhists, etc., to keep count of the number of prayers said. See ''pair of beads'', below.\n{{smaller block|The commonest, though not the only, appliance for reckoning these prayers was, and still is, a string of ''beads'' so put together that every set of ten smaller ones for the “Hail Marys” is parted by a larger ''bead'', to tell when the “Our Father” must be recited.\n{{right|''Rock'', Church of our Fathers, III. i. 320.}}}}\n'''3.''' Anything resembling a rosary-bead, strung with others for ornament, as in necklaces or beadwork: as, glass, amber, metal, coral, or other ''beads''.\n{{smaller block|<poem>With scarfs, and fans, and double change of bravery,\nWith amber bracelets, ''beads'', and all this knavery.</poem>\n{{right|''Shak.'', T. of the S., iv. 3.}}}}\n'''4.''' Any small globular, cylindrical, or annular body, as the small projecting piece of metal at the end of a gun-barrel used as a sight, a drop of liquid, etc.",
+   "c2s3": "{{smaller block|<poem>''Beads'' of sweat have stood upon thy brow.</poem>\n{{right|''Shak.'', 1 Hen. IV., ii. 3.}}\nHe raised his piece gradually, until the ''bead'' . . . of the barrel was brought to a line with the spot which he intended to hit. {{right|''J. J. Audubon'', Ornith. Biog., I. 293.}}}}\n'''5.''' One of the circular markings of certain diatoms.—'''6.''' The bubble or mass of bubbles rising to the top or resting on the surface of a liquid when shaken or decanted: as, the ''bead'' of wines or spirits.\n{{smaller block|<poem>Give me the wine of thought whose ''bead''\nSparkles along the page I read.</poem>\n{{right|''Whittier'', Lines on a Fly-Leaf.}}\nPleasure, that immortal essence, the beauteous ''bead'' sparkling in the cup, effervesces soon and subsides.\n{{right|''Alcott'', Table-Talk, p. 75.}}}}\n'''7.''' A glass globule for trying the strength of alcoholic spirits. {{smaller|Beads are numbered according to their specific gravities, and the strength of the spirit is denominated by the number of that one which remains suspended in it, and neither sinks to the bottom nor floats on the surface. Beads, in determining the strength of spirits, are now for the most part superseded by the hydrometer.}}\n'''8.''' In ''mineral.'', in the blowpipe examination of minerals, a globule of borax or other flux which is supported on a platinum wire, and in which the substance under examination is dissolved in the blowpipe flame.—'''9.''' In ''arch.'' and ''joinery'', a small convex molding, in section a semicircle or greater than a semicircle; properly, a plain molding, but often synonymous with ''astragal'', which is better reserved for a small convex molding cut into the form of a string of",
+   "c3s1": "'''beads.''' The bead is a very frequent ornament, used to mark a junction or a separation, as between the shaft and\n[[FIGURE]]\n{{c|{{smaller|Bead as used beneath a capital.—Abbey-church of Vézelay, Yonne, France; 11th century. (From Viollet-le-Duc’s “Dict. de l’Architecture.”)}}}}\nthe capital of a column, to dress an angle, etc. It is much used in woodwork of all kinds, from carpenters’ work to the finest kinds of joinery and cabinet-work. Among joiners the bead is variously introduced; as: (''a'') ''bead and butt'' (fig. 1), framed work in which the panel is flush with the framing and has a bead run on two edges in the direction of the grain only, while the ends are left plain; (''b'') ''bead and flush'' (fig. 2), framed work in which a bead is run on the edge of the framing; (''c'') ''bead and quirk'' (fig. 3), the edge of a piece of stuff on which a bead is formed, or stuck, as it is called, flush with the surface;",
+   "c3s2": "{{smaller block|(''d'') ''bead and double quirk'', or ''return bead'' (fig. 4), the\n[[FIGURE]]\nangle of a piece of stuff on which a bead is stuck and quirked or relieved on both surfaces; (''e'') ''bead, butt, and square work'', a panel which has beads on two of its edges on one side only, while the other side is plain. (''f'') ''bead, flush, and square'', framing which is beaded on one side only.}}\n'''10.''' In ''bookbinding, shoemaking'', etc., any cordlike prominence, as the roll on the head-band of a book, the seam of a shoe, etc.—{{smaller|'''Baily’s beads''', appearances resembling a row of bright beads, seen at the moon’s limb in a total solar eclipse about the instant of internal contact. The phenomenon is due to diffraction and irradiation, and is much exaggerated in case the telescope is imperfect or out of focus. So called from the English astronomer Francis Baily, who observed these objects in the annular eclipse of May 15, 1836.—'''Druidical bead.''' Same as ''adder-stone''.—'''Pair of beads''' [ME. ''peire of bedes''], that is, “set of beads” (''Shak.'', Rich. II., iii. 3), a rosary; now, specifically, a chaplet of five decades, that is, a third part of the rosary. A chaplet or pair of beads, as thus restricted, is the form in common use under the name of ''the beads''. The large beads between the decades were formerly called ''gaudies'' (see ''gaud, gaudy''); each separate bead, or ''grain'', as it is now termed, Tyndale calls a ''stone''.}}\n{{smaller block|<poem>Of smal coral aboute hir arm she bar\nA ''peire of bedes'' gauded al with grene.</poem>\n{{right|''Chaucer'', Gen. Prol. to C. T., l. 159.}}}}\n\n{{smaller block|The beads for saying the rosary went by several names,}}",
+   "c3s3": "{{smaller block|—“a ''pair of beads''”; “a pair of Pater nosters”; “ave beads”; but never were they called a rosary.\n{{right|Quoted in ''Rock’s'' Church of our Fathers, III. i. 327, note.}}}}\n\n{{smaller|'''St. Cuthbert’s beads, or fairy beads,''' the small perforated joints of the stems of fossil encrinites, formerly much used in rosaries.—'''To bid (one’s) beads''' (formerly also in singular, ''to bid a bead'') [ME. ''bidden'' or ''beden a bede'' or ''bedes''], literally, to offer (one’s) prayers; hence the later equivalent phrases ''to say'' or ''recite (one’s) beads'', now with reference, as literally in the phrase ''to tell (one’s) beads'', to counting off prayers by means of the beads on the rosary. The phrases ''to count'' and ''to number (one’s) beads'' are merely literary.}}\n{{smaller block|<poem>A peire of bedis eke she bere\nUpon a lace, alle of white threde,\nOn which that she hir ''bedes bede.''</poem>\n{{right|''Rom. of the Rose'', l. 7372.}}}}\n{{smaller|'''To draw a bead on,''' to take deliberate aim at, with a musket or other firearm. (See def. 4.)}}\n\n'''bead''' (bēd), ''v. t.'' [< ''bead'', ''n.''] To ornament with beads; raise beads upon.\n\n'''beaded''' (bē′ded), ''p. a.'' [< ''bead'' + ''-ed''<sup>2</sup>.] '''1.''' In the form of a bead or of a collection of beads.\n{{smaller block|With ''beaded'' bubbles winking at the brim.\n{{right|''Keats'', Ode to a Nightingale.}}\nWith woolly breasts and ''beaded'' eyes.\n{{right|''Tennyson'', In Memoriam, xcv.}}}}\n'''2.''' Provided with or formed of beads, or of small bodies having the appearance of beads: as, a ''beaded'' necklace or bracelet.—'''3.''' In ''bot.'', moniliform: said of vessels that are deeply constricted so as to resemble strings of beads. —'''4.''' Having a bead: as, ''beaded'' ale.—{{smaller|'''Beaded lace,''' lace through which beads are woven in the pattern.—'''Beaded wire,''' wire ornamented with bead-like swellings.}}\n\n'''beader''' (bē′dėr), ''n.'' A tool for raising ornamental beadwork on metal boxes.\n\n'''bead-furnace''' (bēd′fėr″nās), ''n.'' A furnace in",
+   "c3s4": "which the small glass cylinders from which beads are made are rounded. {{smaller|The cylinders are placed in a drum over a fire sufficiently hot to soften the glass, and the rounding is effected by revolving the drum.}}"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0511 c1f1.png",
+   "c3f1": "century v01 p0511 c3f1.png",
+   "c3f2": "century v01 p0511 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     109,
+     2184,
+     825,
+     2511
+    ],
+    "caption": [
+     420,
+     2518,
+     513,
+     2538
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     110,
+     2191,
+     721,
+     2510
+    ]
+   },
+   {
+    "box": [
+     1850,
+     272,
+     2312,
+     892
+    ],
+    "caption": [
+     1838,
+     908,
+     2312,
+     994
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1844,
+     219,
+     2273,
+     901
+    ]
+   },
+   {
+    "box": [
+     1600,
+     1123,
+     2054,
+     1461
+    ],
+    "caption": null,
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1602,
+     1171,
+     2131,
+     1406
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "3": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 4,
+    "input_tokens": 6857,
+    "output_tokens": 530,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9821,
+    "output_tokens": 10513,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|beach-clam|485|bead-furnace}}</noinclude>{{nop}}'''beach-clam''' (bēch′klam), ''n.'' A popular name of the ''Mactra solidissima.'' [Local, U. S.]\n\n'''beach-comber''' (bēch′kō″mėr), ''n.'' '''1.''' A long wave rolling in from the ocean.   ''Bartlett.'' [U. S.]—'''2.''' A seafaring man, generally of vagrant and drunken habits, who idles about the wharves of seaports: used most frequently in countries bordering on the Pacific ocean.\n{{smaller block|This is a specimen of the life of half of the Americans and English who are adrift along the coasts of the Pacific and its islands, commonly called ''beach-combers.''\n{{right|''R. H. Dana, Jr.'', Before the Mast, p. 291.}}}}\n\n'''beached''' (bēcht), ''p. a.'' '''1.''' Having a beach; bordered by a beach; formed by or consisting of a beach. [Rare.]\n{{smaller block|<poem>Timon hath made his everlasting mansion\nUpon the ''beached'' verge of the salt flood.</poem>\n{{right|''Shak.'', T. of A., v. 2.}}}}\n'''2.''' Run on a beach; stranded.\n\n'''beach-flea''' (bēch′flē), ''n.'' A name of sundry small amphipod crustaceans. Also called ''sand-hopper'', ''shore-jumper'', and ''sand-flea.''\n\n'''beach-grass''' (bēch′grȧs), ''n.'' The sand-reed, ''Ammophila arundinacea'', a coarse grass with stout running root-stocks, growing on sandy beaches and protecting them from the winds.\n\n'''beachman''' (bēch′man), ''n.''; pl. ''beachmen'' (-men). A person on the coast of Africa who acts as interpreter to ship-masters, and assists in conducting the trade.   ''Imp. Dict.''\n\n'''beach-master''' (bēch′mȧs″tėr), ''n.'' '''1.''' ''Naut.'', a naval officer appointed to superintend the disembarkation of an attacking force.—'''2.''' A name used in some places for a male seal.\n\n'''beach-wagon''' (bēch′wag″on), ''n.'' A light open wagon with two or more seats, used on beaches.\n\n'''beachy†''' (bē′chi), ''a.''   [< ''beach'' + ''-y''<sup>1</sup>.]   Covered with beach or shingle; pebbly; shingly.\n{{smaller block|The ''beachy'' girdle of the ocean.\n{{right|''Shak.'', 2 Hen. IV., iii. 1.}}}}\n\n'''beacon''' (bē′kon or -kn), ''n.''   [< ME. ''beken'', ''bekene'', < AS. ''beácen'', ''bēcen'', ''bēcn'', a sign, signal-standard, = OS. ''bōkan'' = OFries. ''bēken'', ''bāken'' = D. ''baak'' = LG. ''bāke'' (> G. ''bake'') = OHG. ''bouhhan'', MHG. ''bouchen'' = Icel. ''bākn'' (after AS.), a sign. Hence ''beckon'' and ''beck''<sup>2</sup>.]   '''1.''' A guiding or warning signal; anything fixed or set up as a token; especially, a signal-fire, either in a cresset and placed on a pole, or lighted on a tower or an eminence. {{smaller|Such beacons were formerly much used to signal the approach of an enemy or to spread a call or warning for any purpose, a chain of them often conveying intelligence to great distances.}}\n{{smaller block|Modest doubt is call’d The ''beacon'' of the wise. {{right|''Shak.'', T. and C., ii. 2.}}}}\n{{smaller block|Uncertain, troubled, earnest wonderers beheld his intellectual fire as a ''beacon'' burning on a hill-top.\n{{right|''Hawthorne'', Old Manse, I.}}}}\n'''2.''' A tower or hill formerly used for such purposes. {{smaller|Various hills in England and the older parts of the United States have the name of ''Beacon'', from the fact that signal-fires were formerly lighted on them.}}\n'''3.''' A lighthouse or other object placed conspicuously on a coast, or over a rock or shoal at\nsea, to give notice of danger, or for the guidance of vessels.—'''4.''' A painted staff about 9 feet long, carrying a small square flag at the top, used in camps to indicate an angle of the quarters assigned to a regiment or company. —'''5†.''' In England, formerly, a division of a wapentake; probably a district throughout which a beacon could be seen, or which was bound to furnish one.   ''N. E. D.''\n\n[[File:century v01 p0511 c1f1.png|center|332px]]\n{{c|{{smaller|Beacons.}}}}\n\n'''beacon''' (bē′kon or -kn), ''v.''   [< ''beacon'', ''n.'' Cf. ''beckon.'']   '''I.''' ''trans.'' '''1.''' To illumine or light up as a beacon. {{smaller block|<poem>That ''beacons'' the darkness of heaven.</poem>\n{{right|''Campbell'', Lochiel’s Warning.}}}}\n'''2.''' To afford light or aid to; lead; guide as a beacon.—'''3.''' To furnish or mark with beacons: as, to ''beacon'' a coast or a boundary: sometimes with ''off''.—'''4†.''' To use as a beacon; make a beacon of.\n{{smaller block|No, if other things as great in the Church and in the rule of life both economicall and politicall be not lookt into and reform’d, we have lookt so long upon the blaze that Zwinglius and Calvin hath ''beacon’d'' up to us, that we are stark blind.\n{{right|''Milton'', Areopagitica, p. 44.}}}}\n\n'''II.''' ''intrans.'' To serve or shine as a beacon.\n{{smaller block|<poem>The soul of Adonais, like a star,\n''Beacons'' from the abode where the Eternal are.</poem>\n{{right|''Shelley'', Adonais, lv.}}}}\n{{smaller block|<poem>Where the lighthouse ''beacons'' bright\nFar in the bay.</poem>\n{{right|''M. Arnold'', A Southern Night.}}}}\n\n'''beaconage''' (bē′ko̤n-āj), ''n.''   [< ''beacon'' + ''-age.'']   Money paid for the maintenance of beacons.\n\n'''beacon-blaze''' (bē′ko̤n-blāz), ''n.'' A signal-light or -fire.   ''Tennyson.''\n\n'''beaconed''' (bē′kond), ''a.'' Having a beacon.\n{{smaller block|The foss that skirts the ''beaconed'' hill.\n{{right|''T. Warton'', Odes, x.}}}}\n\n'''beacon-fire''' (bē′ko̤n-fīr), ''n'' A fire lighted up as a beacon or signal; a signal-fire.\n\n'''beacon-tower''' (bē′ko̤n-tou″ėr), ''n.'' A tower on which a beacon is raised.\n{{smaller block|A ''beacon-tower'' above the waves.\n{{right|''Tennyson'', Princess, iv.}}}}\n\n'''bead''' (bēd), ''n.''   [< ME. ''bede'', a prayer, also (in ''peire of bedes'', a pair of beads) a bead used in counting prayers, < AS. ''bedu'' (rare, and the nom. is not found), in comp. ''bed-'' (= OS. ''beda'' = OFries. ''bede'' = D. ''bede'' = OHG. ''beta'', MHG. ''bete'', G. ''bitte'' = Goth. ''bida''), fem. (also ''gebed'' = OS. ''gibed'' = OHG. ''gabet'', MHG. G. ''gebet'', neut.), a prayer, < ''biddan'', etc., pray: see ''bid''. Beads are used by Roman Catholics to keep them right as to the number of their prayers, one bead of the rosary being dropped every time a prayer is said; hence the transference of the name from that which is counted (the prayers) to that which is used to count with. Cf. Sp. ''cuentas'', Pg. ''contas'', the beads of a rosary, < Sp. Pg. ''contar'', count.]   '''1†.''' Prayer; a prayer; specifically, a prayer of the list or bead-roll, read at public church-services by the preacher before his sermon, or by the curate (see ''bead-roll''): usually in the plural. {{smaller|Hence, in this sense, ''to bid'' (''one’s'') ''beads'', to say (one’s) prayers. See phrases below.}}\n{{smaller block|<poem>When holy and devout religious men\nAre at their ''beads'', ’tis much to draw them thence;\nSo sweet is zealous contemplation.</poem>\n{{right|''Shak.'', Rich. III., iii. 7.}}}}\n'''2.''' One of the little balls, of wood, cocoanut-shell, pearl, glass, jewels, or other material, strung in a prescribed order, which form the chaplet or rosary in use in the devotions of Roman Catholics, Buddhists, etc., to keep count of the number of prayers said. See ''pair of beads'', below.\n{{smaller block|The commonest, though not the only, appliance for reckoning these prayers was, and still is, a string of ''beads'' so put together that every set of ten smaller ones for the “Hail Marys” is parted by a larger ''bead'', to tell when the “Our Father” must be recited.\n{{right|''Rock'', Church of our Fathers, III. i. 320.}}}}\n'''3.''' Anything resembling a rosary-bead, strung with others for ornament, as in necklaces or beadwork: as, glass, amber, metal, coral, or other ''beads''.\n{{smaller block|<poem>With scarfs, and fans, and double change of bravery,\nWith amber bracelets, ''beads'', and all this knavery.</poem>\n{{right|''Shak.'', T. of the S., iv. 3.}}}}\n'''4.''' Any small globular, cylindrical, or annular body, as the small projecting piece of metal at the end of a gun-barrel used as a sight, a drop of liquid, etc. {{smaller block|<poem>''Beads'' of sweat have stood upon thy brow.</poem>\n{{right|''Shak.'', 1 Hen. IV., ii. 3.}}}}\n{{smaller block|He raised his piece gradually, until the ''bead'' . . . of the barrel was brought to a line with the spot which he intended to hit. {{right|''J. J. Audubon'', Ornith. Biog., I. 293.}}}}\n'''5.''' One of the circular markings of certain diatoms.—'''6.''' The bubble or mass of bubbles rising to the top or resting on the surface of a liquid when shaken or decanted: as, the ''bead'' of wines or spirits.\n{{smaller block|<poem>Give me the wine of thought whose ''bead''\nSparkles along the page I read.</poem>\n{{right|''Whittier'', Lines on a Fly-Leaf.}}}}\n{{smaller block|Pleasure, that immortal essence, the beauteous ''bead'' sparkling in the cup, effervesces soon and subsides.\n{{right|''Alcott'', Table-Talk, p. 75.}}}}\n'''7.''' A glass globule for trying the strength of alcoholic spirits. {{smaller|Beads are numbered according to their specific gravities, and the strength of the spirit is denominated by the number of that one which remains suspended in it, and neither sinks to the bottom nor floats on the surface. Beads, in determining the strength of spirits, are now for the most part superseded by the hydrometer.}}\n'''8.''' In ''mineral.'', in the blowpipe examination of minerals, a globule of borax or other flux which is supported on a platinum wire, and in which the substance under examination is dissolved in the blowpipe flame.—'''9.''' In ''arch.'' and ''joinery'', a small convex molding, in section a semicircle or greater than a semicircle; properly, a plain molding, but often synonymous with ''astragal'', which is better reserved for a small convex molding cut into the form of a string of '''beads.''' The bead is a very frequent ornament, used to mark a junction or a separation, as between the shaft and {{img float|file=century v01 p0511 c3f1.png|width=212px|align=right|cap={{smaller|Bead as used beneath a capital.—Abbey-church of Vézelay, Yonne, France; 11th century. (From Viollet-le-Duc’s “Dict. de l’Architecture.”)}}}} the capital of a column, to dress an angle, etc. It is much used in woodwork of all kinds, from carpenters’ work to the finest kinds of joinery and cabinet-work. Among joiners the bead is variously introduced; as: (''a'') ''bead and butt'' (fig. 1), framed work in which the panel is flush with the framing and has a bead run on two edges in the direction of the grain only, while the ends are left plain; (''b'') ''bead and flush'' (fig. 2), framed work in which a bead is run on the edge of the framing; (''c'') ''bead and quirk'' (fig. 3), the edge of a piece of stuff on which a bead is formed, or stuck, as it is called, flush with the surface; {{smaller block|(''d'') ''bead and double quirk'', or ''return bead'' (fig. 4), the\nangle of a piece of stuff on which a bead is stuck and quirked or relieved on both surfaces; (''e'') ''bead, butt, and square work'', a panel which has beads on two of its edges on one side only, while the other side is plain. (''f'') ''bead, flush, and square'', framing which is beaded on one side only.}}\n'''10.''' In ''bookbinding, shoemaking'', etc., any cordlike prominence, as the roll on the head-band of a book, the seam of a shoe, etc.—{{smaller|'''Baily’s beads''', appearances resembling a row of bright beads, seen at the moon’s limb in a total solar eclipse about the instant of internal contact. The phenomenon is due to diffraction and irradiation, and is much exaggerated in case the telescope is imperfect or out of focus. So called from the English astronomer Francis Baily, who observed these objects in the annular eclipse of May 15, 1836.—'''Druidical bead.''' Same as ''adder-stone''.—'''Pair of beads''' [ME. ''peire of bedes''], that is, “set of beads” (''Shak.'', Rich. II., iii. 3), a rosary; now, specifically, a chaplet of five decades, that is, a third part of the rosary. A chaplet or pair of beads, as thus restricted, is the form in common use under the name of ''the beads''. The large beads between the decades were formerly called ''gaudies'' (see ''gaud, gaudy''); each separate bead, or ''grain'', as it is now termed, Tyndale calls a ''stone''.}}\n{{smaller block|<poem>Of smal coral aboute hir arm she bar\nA ''peire of bedes'' gauded al with grene.</poem>\n{{right|''Chaucer'', Gen. Prol. to C. T., l. 159.}}}}\n\n[[File:century v01 p0511 c3f2.png|center|214px]]\n\n{{smaller block|The beads for saying the rosary went by several names, —“a ''pair of beads''”; “a pair of Pater nosters”; “ave beads”; but never were they called a rosary.\n{{right|Quoted in ''Rock’s'' Church of our Fathers, III. i. 327, note.}}}}\n\n{{smaller|'''St. Cuthbert’s beads, or fairy beads,''' the small perforated joints of the stems of fossil encrinites, formerly much used in rosaries.—'''To bid (one’s) beads''' (formerly also in singular, ''to bid a bead'') [ME. ''bidden'' or ''beden a bede'' or ''bedes''], literally, to offer (one’s) prayers; hence the later equivalent phrases ''to say'' or ''recite (one’s) beads'', now with reference, as literally in the phrase ''to tell (one’s) beads'', to counting off prayers by means of the beads on the rosary. The phrases ''to count'' and ''to number (one’s) beads'' are merely literary.}}\n{{smaller block|<poem>A peire of bedis eke she bere\nUpon a lace, alle of white threde,\nOn which that she hir ''bedes bede.''</poem>\n{{right|''Rom. of the Rose'', l. 7372.}}}}\n{{smaller|'''To draw a bead on,''' to take deliberate aim at, with a musket or other firearm. (See def. 4.)}}\n\n'''bead''' (bēd), ''v. t.''   [< ''bead'', ''n.'']   To ornament with beads; raise beads upon.\n\n'''beaded''' (bē′ded), ''p. a.''   [< ''bead'' + ''-ed''<sup>2</sup>.]   '''1.''' In the form of a bead or of a collection of beads.\n{{smaller block|With ''beaded'' bubbles winking at the brim.\n{{right|''Keats'', Ode to a Nightingale.}}}}\n{{smaller block|With woolly breasts and ''beaded'' eyes.\n{{right|''Tennyson'', In Memoriam, xcv.}}}}\n'''2.''' Provided with or formed of beads, or of small bodies having the appearance of beads: as, a ''beaded'' necklace or bracelet.—'''3.''' In ''bot.'', moniliform: said of vessels that are deeply constricted so as to resemble strings of beads. —'''4.''' Having a bead: as, ''beaded'' ale.—{{smaller|'''Beaded lace,''' lace through which beads are woven in the pattern.—'''Beaded wire,''' wire ornamented with bead-like swellings.}}\n\n'''beader''' (bē′dėr), ''n.'' A tool for raising ornamental beadwork on metal boxes.\n\n'''bead-furnace''' (bēd′fėr″nās), ''n.'' A furnace in which the small glass cylinders from which beads are made are rounded. {{smaller|The cylinders are placed in a drum over a fire sufficiently hot to soften the glass, and the rounding is effected by revolving the drum.}}<noinclude><references/></noinclude>"
+}

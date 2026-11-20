@@ -1,0 +1,414 @@
+{
+ "volume": 1,
+ "page_number": 680,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n679.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n679.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 784,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     111,
+     109,
+     2371,
+     148
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     111,
+     148,
+     837,
+     1226
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     111,
+     1226,
+     837,
+     2256
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     111,
+     2256,
+     837,
+     3270
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     119,
+     2719,
+     455,
+     3129
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     837,
+     148,
+     1588,
+     1026
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     837,
+     1026,
+     1588,
+     2058
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     858,
+     1416,
+     1213,
+     1878
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     837,
+     2058,
+     1588,
+     2566
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     837,
+     2566,
+     1588,
+     3270
+    ]
+   },
+   {
+    "name": "c2f2",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     942,
+     2564,
+     1486,
+     3251
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1588,
+     148,
+     2371,
+     1075
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     2157,
+     236,
+     2328,
+     769
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1588,
+     1075,
+     2371,
+     2136
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1603,
+     1086,
+     2071,
+     1562
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1588,
+     2136,
+     2371,
+     3040
+    ]
+   },
+   {
+    "name": "c3f3",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     2041,
+     2152,
+     2333,
+     2435
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1588,
+     3040,
+     2371,
+     3270
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|bracing|654|brad}}",
+   "c1s1": "¶\n'''bracing''' (brā′sing), ''n.'' [Verbal n. of ''brace''<sup>1</sup>, ''v.''] '''1.''' The act of one that braces, or the state of being braced.\n{{smaller block|The moral sinew of the English, indeed, must have been strong when it admitted of such stringent ''bracing.''\n{{right|''Froude'', Hist. Eng., i.}}}}\n'''2.''' In ''engin.'', a system of braces: as, the ''bracing'' of a truss.\n\n'''bracing''' (brā′sing), ''p. a.'' [Ppr. of ''brace''<sup>1</sup>, ''v.''] Having the quality of giving strength or tone; invigorating: as, a ''bracing'' air.\n{{smaller block|To read him [Dryden] is as ''bracing'' as a northwest wind.\n{{right|''Lowell'', Among my Books, 1st ser., p. 79.}}}}\n\n'''brack'''<sup>1</sup>† (brak), ''n.'' [Not found in corresponding form and sense in ME. or AS. (though agreeing in form with the closely related early ME. ''brac'', < AS. ''gebræc'', ''gebrec'' = OS. ''gibrak'' = MLG. ''brak'' = OHG. ''gabreh'', MHG. ''gebrech'' = Icel. ''brak'' = Sw. ''brak'' = Dan. ''brag'', a loud noise); cf. MLG. ''brak'', neut., rarely masc., equiv. to ''brake'', fem., a break, breach, defect, trespass, = MD. ''braecke'', D. ''braak'', fem., breach, breaking, burglary, = OHG. ''brâcha'', MHG. ''brâche'', fem., breaking (of ground after harvest: see ''brake''<sup>4</sup>). The word, in E., is practically another form of ''breck'' (q. v.), which, with the equiv. ''brake''<sup>1</sup>, ''breck''<sup>2</sup>, and ''break'', ''n.'', is practically a var. of ''breach'' (q. v.), ''break'' and ''breach'' being the usual representatives, in noun form, of the orig. verb, AS. ''brecan'', E. ''break'', etc.: see ''break'', ''breck'', ''breach''.] '''1.''' A break or opening in anything; a breach; a rent. [Still in dialectal use.]\n{{smaller block|<poem>The last hour of his promise now run out,\nAnd he break? Some ''brack’s'' in the frame of nature</poem>}}",
+   "c1s2": "{{smaller block|That forceth his breach.\n{{right|''Chapman'', Revenge of Bussy D’Ambois, iv. 1.}}}}\n\n{{smaller block|There warn’t a ''brack'' in his silk stockin’s.\n{{right|''Mrs. Stowe'', Oldtown, p. 59.}}}}\n'''2.''' A flaw; a defect; an imperfection.\n{{smaller block|<poem>You may find time out in eternity, . . .\nEre stain or ''brack'' in her sweet reputation.</poem>\n{{right|''Fletcher'', Wife for a Month, i. 1.}}}}\n'''3.''' A broken part; a piece.\n\n'''brack<sup>1</sup>†''' (brak), ''v. t.'' [A var. of ''break''; cf. ''brack''<sup>1</sup>, ''n.''] To break.\n\n'''brack<sup>2</sup>†''' (brak), ''n.'' [Prop. adj., < D. ''brak'', MD. ''brack'' (= MLG. ''brack'', LG. ''brak'', brackish, briny), in comp. ''brak-water'', brackish water, ''brak-goed'', goods spoiled by salt water (> Dan. ''brak'', G. ''brack'', brackish (in comp. ''brackwasser'', ''brackgut'', etc.); G. ''brack'', refuse, trash); prob. same as MD. ''brack'', fit to be thrown away, and ult., like ''brack''<sup>1</sup>, from the root of ''break'', q. v. Cf. ''brackish'', ''bracky''.] Brackish water; salt water.\n{{smaller block|Scorn’d that the ''brack'' should kiss her following keel.\n{{right|''Drayton'', Wm. de la Poole to Queen Margaret, i. 316.}}}}\n\n'''brack<sup>3</sup>''' (brak), ''n.'' [A var. of ''brake''<sup>3</sup>, ''n.''] A kind of harrow. ''Halliwell.'' [Prov. Eng.]\n\n'''bracken''' (brak′en), ''n.'' [< ME. ''braken'', ''brakan'', etc., a northern form, Sc. ''bracken'', ''brechan'', ''breckan'', ''brecken'', ''braikin''; of Scand. origin: < Sw. ''bräken'' = Dan. ''bregne'', fern, bracken; cf. Icel. ''burkni'', fern; AS. ''bracce'', fern: see ''brake''<sup>5</sup>.] A fern, especially the ''Pteris aquilina'' and other large ferns. See ''brake''<sup>5</sup>.\n{{smaller block|The ''bracken'' rusted on their crags.\n{{right|''Tennyson'', Edwin Morris.}}}}",
+   "c1s3": "¶\n'''bracken-clock''' (brak′en-klok), ''n.'' A lamellicorn beetle, ''Anisoplia'' (''Phyllopertha'') ''horticola'', the larva of which is very destructive to grasses and trees. ''Curtis.''\n\n'''bracket'''<sup>1</sup> (brak′et), ''n.'' [Early mod. E. ''bragget''; prob. connected with Sp. ''bragueta'', a kind of quarter or projecting molding, a particular use of ''bragueta'' (=OF. ''braguette''), the opening of the fore part of a pair of breeches, < Sp. Pg. ''bragas'', breeches: see ''breech''. The word is usually associated with ''brace''<sup>1</sup>.] '''1.''' A supporting piece or combination of pieces of moderate projection, generally springing from a vertical surface. {{smaller|(''a'') In ''arch.'', an ornamental projection from the face of a wall, intended to support a statue, pier, etc.; a}}\n[[FIGURE]]\n{{c|{{smaller|Bracket for Statue.—Cathedral of Reims, France; 13th century.}}}}\n{{smaller|corbel. (''b'') In ''carp.'': (1) A wooden support of triangular outline placed under a shelf or the like. (2) An ornamental piece supporting a hammer-beam. (3) A tie for strengthening angles. (''c'') One of the stays that hold a locomotive-boiler to the frame; also, of those used to hold the slide-bars. (''d'') Any projecting wooden or metal piece fastened to a wall or other surface as a support for some object. Brackets for machinery are of very many different forms, according to the situations in which they are placed and the uses for which they serve, as ''wall-brackets'', ''hanging-brackets'' or ''hangers'', etc. See ''hanger''.}}",
+   "c2s1": "¶\n'''2.''' A gas-pipe with a burner, and often a support for a shade or globe, projecting from a wall or pillar. {{smaller|Such brackets are commonly provided with one or more joints, in order that the position of the light may be changed, and that the bracket may be folded in a small space when not in use.}}\n\n'''3.''' In ''gun.'', the cheek of a mortar-carriage, made of strong planking.—'''4.''' One of two marks [ ], formerly called ''crotchets'', used to inclose a note, reference, explanation, or the like, and thus separate it from the context; sometimes, also, one of a pair of braces { } similarly used, or a single brace { used to couple two or more lines or names. Hence—'''5.''' The position of being classed or bracketed with another or others. {{smaller|Specifically, in the University of Cambridge, from 1779 to 1834, one of a number of classes into which candidates for the degree of B. A. were divided according to their excellence at the first three days’ examinations. The class-list was called ''the brackets'', and the last day’s examination the ''examination of the brackets''.}}\n{{smaller block|A candidate who was dissatisfied with his ''bracket'' might challenge any other candidate he pleased to a fresh examination.\n{{right|''J. W. L. Glaisher'', Proc. Lond. Math. Soc., xviii. 12.}}}}\n\n'''6†.''' A name given to a head-dress of the fourteenth century.—'''7.''' In ''mining'', the platform over the mouth of a shaft.",
+   "c2s2": "¶\n'''bracket'''<sup>1</sup> (brak′et), ''v. t.'' [< ''bracket''<sup>1</sup>, ''n.''] '''1.''' To furnish with or support by a bracket or brackets; in ''writing'' and ''printing'', to place within brackets.—'''2.''' To place on or within the same bracket or brackets; join or mention together as coequal or correlative; connect by or as if by a printers’ brace: as, the names of Smith and Jones are ''bracketed'', or ''bracketed'' together, as candidates. [For a corresponding use of the noun, see ''bracket''<sup>1</sup>, ''n.'', 5.]\n\n'''bracket'''<sup>2</sup>, ''n.'' Same as ''bragget''<sup>2</sup>.\n\n'''bracket-crab''' (brak′et-krab), ''n.'' A hoisting apparatus fastened to a wall.\n[[FIGURE]]\n{{c|{{smaller|Bracket-crab.<br>''a, a,'' frame; ''b,'' post; ''c,'' handle; ''d,'' sheave-block.}}}}\n\n'''bracketing''' (brak′et-ing), ''n.'' [< ''bracket''<sup>1</sup> + ''-ing''<sup>1</sup>.] The series of wooden ribs nailed to the ceiling, joists, and battening to support cornices, especially large plaster cornices. {{smaller|—'''Cove bracketing.''' See ''cove-bracketing.''}}\n\n'''bracket-trail''' (brak′et-trāl), ''n.'' ''Milit.'', a kind of built-up trail formerly used, consisting of two girders or brackets connected by transoms.\n{{smaller block|Those designed for siege-guns were longer and had two sets of trunnion-beds. For transportation the trunnions were shifted to the traveling trunnion-beds or those near-}}",
+   "c2s3": "est the trunnion-plate. See ''trail.''\n\n'''brackish''' (brak′ish), ''a.'' [Early mod. E. ''brakish''; < ''brack''<sup>2</sup> + ''-ish''<sup>1</sup>.] Possessing a salt or somewhat salt taste; salt in a moderate degree: applied to water.\n{{smaller block|Choakt with the labouring ocean’s ''brackish'' fome.\n{{right|''Marston'', Antonio and Mellida, I. i.}}}}\n\n'''brackishness''' (brak′ish-nes), ''n.'' The quality of being brackish; saltness in a slight degree.\n\n'''brackly''' (brak′li), ''a.'' [E. dial., as if < ''brack''<sup>1</sup> + ''-ly''<sup>1</sup>, but rather a var. of ''brockle'' = ''brickle'': see ''brickle.''] Brittle. [Prov. Eng.]\n\n'''Brackman†''', ''n.'' Same as ''Brahman.''\n\n'''bracky†''' (brak′i), ''a.'' [< ''brack''<sup>2</sup> + ''-y''<sup>1</sup>.] Same as ''brackish'': as, “''bracky'' fountains,” ''Drayton.''",
+   "c2s4": "[[FIGURE]]\n{{c|{{smaller|''Bracon charus.'' (Cross shows natural size.)}}}}",
+   "c3s1": "¶\n'''Bracon''' (brak′ọn), ''n.'' [NL.] A genus of ichneumon-flies, giving name to the family ''Braconidæ.'' ''B. impostor'' and ''B. charus''\n[[FIGURE]]\n{{c|{{smaller|Braconnière (''a''). (From Viollet-le-Duc’s “Dict. du Mobilier français.”)}}}}\n(Riley) are examples.\n\n'''Braconidæ''' (bra-kon′i-dē), ''n. pl.'' [NL., < ''Bracon'' + ''-idæ.''] A family of pupivorous hymenopterous insects, otherwise known as ''Ichneumones adsciti,'' distinguished from the true ichneumon-flies by having only one recurrent nerve in the fore wing instead of two. {{smaller|The larvæ mostly infest caterpillars and the larvæ of beetles living in wood. The genera are numerous. Also ''Braconides, Braconites.''}}\n\n'''braconnière''' (bra-kon-iãr′), ''n.'' [F., < L. ''bracæ,'' breeches: see ''bracæ, breech.''] In the later times of complete armor, a defense for the thighs and hips, composed of ring-shaped plates of steel worn horizontally one below another, forming a kind of skirt, and secured to one another either by vertical straps to which each plate was riveted, or by being sewed to a skirt of stuff, or by rivets sliding in grooves. See ''Almain-rivet.''\n\n'''bract''' (brakt), ''n.'' [= F. ''bractée,'' < L. ''bractea,'' also ''brattea,'' a thin plate of metal, gold-leaf,",
+   "c3s2": "[[FIGURE]]\n{{c|{{smaller|Bracts.}}}}\n{{c|{{smaller|1, Campanula: ''a'', ''a'', bracts; ''b'', ''b'', bracteoles. 2, Marigold: ''a'', ''a'', bracts of the peduncle; ''b'', bracts of the involucre. (From Le Maout and Decaisne’s “Traité général de Botanique.”)}}}}\nveneer.] '''1.''' In ''bot.'', a leaf in a flower-cluster or subtending a flower, usually differing somewhat from an ordinary leaf in size, form, or texture, often much reduced, and sometimes petaloid, highly colored, and very conspicuous. —'''2.''' In ''zoöl.'', a part of a hydrozoan likened to a bract of a plant; a hydrophyllium. See cuts under ''Athorybia'' and ''hydrophyllium''.—'''3.''' A thin plate of metal used as an ornament, as, for example, one of the gold disk-like ornaments made in Scandinavian countries in the Viking age.\n\n'''bracteal''' (brak′tē-ạl), ''a.'' [= F. ''bractéal'', < LL. ''bractealis'', of metallic plates, < L. ''bractea'': see ''bract''.] Relating to or of the nature of a bract.\n\n'''bracteate''' (brak′tē-āt), ''a.'' and ''n.'' [= F. ''bractéate'', < L. ''bracteatus'', covered with gold-leaf, < ''bractea'': see ''bract''.] '''I.''' ''a.'' Furnished with bracts, in any sense of that word.\n\n'''II.''' ''n.'' In ''numis.'', one of certain silver coins",
+   "c3s3": "[[FIGURE]]\n{{c|{{smaller|German Bracteate, British Museum. (Size of the original.)}}}}\ncurrent in the middle ages, chiefly in Germany. {{smaller|Bracteates were first issued about the middle of the twelfth century, were of very thin material, and stamped with a design in repoussé.}}\n\n'''bracted''' (brak′ted), ''a.'' [< ''bract'' + ''-ed''<sup>2</sup>.] Furnished with bracts.\n\n'''bracteiform''' (brak′tē-i-fôrm), ''a.'' [= F. ''bractéiforme;'' < L. ''bractea'', a thin plate (mod. E. ''bract''), + ''forma'', shape.] In ''bot.'', resembling a bract.\n\n'''bracteolate''' (brak′tẹ̄-ọ̄-lāt), ''a.'' [< L. ''bracteola'' (see ''bracteole'') + ''-ate''<sup>1</sup>.] Furnished with bracteoles.\n\n'''bracteole''' (brak′tẹ̄-ōl), ''n.'' [= F. ''bractéole;'' < L. ''bracteola'', a thin leaf of gold, in NL. a little bract, dim. of ''bractea:'' see ''bract''.] In ''bot.'', a little bract situated on a partial flower-stalk or pedicel, between the bract and the calyx, and usually smaller than the true bract. Also called ''bractlet''. See cut under ''bract''.\n\n'''bractless''' (brakt′les), ''a.'' [< ''bract'' + ''-less''.] In ''bot.'', destitute of bracts.\n\n'''bractlet''' (brakt′let), ''n.'' [< ''bract'' + dim. ''-let''.] Same as ''bracteole''.",
+   "c3s4": "¶\n'''brad''' (brad), ''n.'' [< ME. ''brad'', usually ''brod'', Sc. ''brod'' (also ''prod'': see ''prod''), < Icel. ''broddr'', a spike, = Sw. ''brodd'' = Dan. ''brodde'', a frost-nail, = AS. ''brord'', > ME. ''brurd'', a point, blade, or spire of grass; cf. Corn. ''bros'', a sting; perhaps ult. connected with ''bristle'', q. v. See ''braird'', ''breer''<sup>2</sup>.] A slender flat nail having, instead"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0680 c1f1.png",
+   "c2f1": "century v01 p0680 c2f1.png",
+   "c2f2": "century v01 p0680 c2f2.png",
+   "c3f1": "century v01 p0680 c3f1.png",
+   "c3f2": "century v01 p0680 c3f2.png",
+   "c3f3": "century v01 p0680 c3f3.png"
+  },
+  "figures": [
+   {
+    "box": [
+     2169,
+     248,
+     2316,
+     757
+    ],
+    "caption": [
+     2151,
+     785,
+     2331,
+     885
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     2159,
+     265,
+     2332,
+     787
+    ]
+   },
+   {
+    "box": [
+     870,
+     1428,
+     1201,
+     1866
+    ],
+    "caption": [
+     866,
+     1881,
+     1204,
+     1953
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     908,
+     1426,
+     1214,
+     1844
+    ]
+   },
+   {
+    "box": [
+     1615,
+     1098,
+     2059,
+     1550
+    ],
+    "caption": [
+     1642,
+     1563,
+     2059,
+     1690
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1611,
+     1132,
+     2072,
+     1556
+    ]
+   },
+   {
+    "box": [
+     2053,
+     2164,
+     2321,
+     2423
+    ],
+    "caption": [
+     2048,
+     2434,
+     2325,
+     2496
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     2067,
+     2252,
+     2332,
+     2464
+    ]
+   },
+   {
+    "box": [
+     131,
+     2731,
+     443,
+     3117
+    ],
+    "caption": [
+     124,
+     3119,
+     441,
+     3180
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     123,
+     2729,
+     376,
+     3103
+    ]
+   },
+   {
+    "box": [
+     954,
+     2576,
+     1474,
+     3239
+    ],
+    "caption": [
+     976,
+     3242,
+     1439,
+     3269
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     904,
+     2537,
+     1584,
+     3236
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "2": [
+    2,
+    0
+   ],
+   "3": [
+    3,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 7,
+    "input_tokens": 11460,
+    "output_tokens": 511,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9675,
+    "output_tokens": 9116,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c2f1": "left",
+   "c3f1": "right",
+   "c3f2": "left",
+   "c3f3": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|bracing|654|brad}}</noinclude>{{nop}}'''bracing''' (brā′sing), ''n.''   [Verbal n. of ''brace''<sup>1</sup>, ''v.'']   '''1.''' The act of one that braces, or the state of being braced.\n{{smaller block|The moral sinew of the English, indeed, must have been strong when it admitted of such stringent ''bracing.''\n{{right|''Froude'', Hist. Eng., i.}}}}\n'''2.''' In ''engin.'', a system of braces: as, the ''bracing'' of a truss.\n\n'''bracing''' (brā′sing), ''p. a.''   [Ppr. of ''brace''<sup>1</sup>, ''v.'']   Having the quality of giving strength or tone; invigorating: as, a ''bracing'' air.\n{{smaller block|To read him [Dryden] is as ''bracing'' as a northwest wind.\n{{right|''Lowell'', Among my Books, 1st ser., p. 79.}}}}\n\n'''brack'''<sup>1</sup>† (brak), ''n.''   [Not found in corresponding form and sense in ME. or AS. (though agreeing in form with the closely related early ME. ''brac'', < AS. ''gebræc'', ''gebrec'' = OS. ''gibrak'' = MLG. ''brak'' = OHG. ''gabreh'', MHG. ''gebrech'' = Icel. ''brak'' = Sw. ''brak'' = Dan. ''brag'', a loud noise); cf. MLG. ''brak'', neut., rarely masc., equiv. to ''brake'', fem., a break, breach, defect, trespass, = MD. ''braecke'', D. ''braak'', fem., breach, breaking, burglary, = OHG. ''brâcha'', MHG. ''brâche'', fem., breaking (of ground after harvest: see ''brake''<sup>4</sup>). The word, in E., is practically another form of ''breck'' (q. v.), which, with the equiv. ''brake''<sup>1</sup>, ''breck''<sup>2</sup>, and ''break'', ''n.'', is practically a var. of ''breach'' (q. v.), ''break'' and ''breach'' being the usual representatives, in noun form, of the orig. verb, AS. ''brecan'', E. ''break'', etc.: see ''break'', ''breck'', ''breach''.]   '''1.''' A break or opening in anything; a breach; a rent. [Still in dialectal use.]\n{{smaller block|<poem>The last hour of his promise now run out,\nAnd he break? Some ''brack’s'' in the frame of nature</poem> That forceth his breach.\n{{right|''Chapman'', Revenge of Bussy D’Ambois, iv. 1.}}}}\n\n{{smaller block|There warn’t a ''brack'' in his silk stockin’s.\n{{right|''Mrs. Stowe'', Oldtown, p. 59.}}}}\n'''2.''' A flaw; a defect; an imperfection.\n{{smaller block|<poem>You may find time out in eternity, . . .\nEre stain or ''brack'' in her sweet reputation.</poem>\n{{right|''Fletcher'', Wife for a Month, i. 1.}}}}\n'''3.''' A broken part; a piece.\n\n'''brack<sup>1</sup>†''' (brak), ''v. t.''   [A var. of ''break''; cf. ''brack''<sup>1</sup>, ''n.'']   To break.\n\n'''brack<sup>2</sup>†''' (brak), ''n.''   [Prop. adj., < D. ''brak'', MD. ''brack'' (= MLG. ''brack'', LG. ''brak'', brackish, briny), in comp. ''brak-water'', brackish water, ''brak-goed'', goods spoiled by salt water (> Dan. ''brak'', G. ''brack'', brackish (in comp. ''brackwasser'', ''brackgut'', etc.); G. ''brack'', refuse, trash); prob. same as MD. ''brack'', fit to be thrown away, and ult., like ''brack''<sup>1</sup>, from the root of ''break'', q. v. Cf. ''brackish'', ''bracky''.]   Brackish water; salt water.\n{{smaller block|Scorn’d that the ''brack'' should kiss her following keel.\n{{right|''Drayton'', Wm. de la Poole to Queen Margaret, i. 316.}}}}\n\n'''brack<sup>3</sup>''' (brak), ''n.''   [A var. of ''brake''<sup>3</sup>, ''n.'']   A kind of harrow.   ''Halliwell.'' [Prov. Eng.]\n\n'''bracken''' (brak′en), ''n.''   [< ME. ''braken'', ''brakan'', etc., a northern form, Sc. ''bracken'', ''brechan'', ''breckan'', ''brecken'', ''braikin''; of Scand. origin: < Sw. ''bräken'' = Dan. ''bregne'', fern, bracken; cf. Icel. ''burkni'', fern; AS. ''bracce'', fern: see ''brake''<sup>5</sup>.]   A fern, especially the ''Pteris aquilina'' and other large ferns. See ''brake''<sup>5</sup>.\n{{smaller block|The ''bracken'' rusted on their crags.\n{{right|''Tennyson'', Edwin Morris.}}}}\n\n'''bracken-clock''' (brak′en-klok), ''n.'' A lamellicorn beetle, ''Anisoplia'' (''Phyllopertha'') ''horticola'', the larva of which is very destructive to grasses and trees.   ''Curtis.''\n\n'''bracket'''<sup>1</sup> (brak′et), ''n.''   [Early mod. E. ''bragget''; prob. connected with Sp. ''bragueta'', a kind of quarter or projecting molding, a particular use of ''bragueta'' (=OF. ''braguette''), the opening of the fore part of a pair of breeches, < Sp. Pg. ''bragas'', breeches: see ''breech''. The word is usually associated with ''brace''<sup>1</sup>.]   '''1.''' A supporting piece or combination of pieces of moderate projection, generally springing from a vertical surface. {{smaller|(''a'') In ''arch.'', an ornamental projection from the face of a wall, intended to support a statue, pier, etc.; a}}\n{{smaller|corbel. (''b'') In ''carp.'': (1) A wooden support of triangular outline placed under a shelf or the like. (2) An ornamental piece supporting a hammer-beam. (3) A tie for strengthening angles. (''c'') One of the stays that hold a locomotive-boiler to the frame; also, of those used to hold the slide-bars. (''d'') Any projecting wooden or metal piece fastened to a wall or other surface as a support for some object. Brackets for machinery are of very many different forms, according to the situations in which they are placed and the uses for which they serve, as ''wall-brackets'', ''hanging-brackets'' or ''hangers'', etc. See ''hanger''.}}\n\n[[File:century v01 p0680 c1f1.png|center|154px]]\n{{c|{{smaller|Bracket for Statue.—Cathedral of Reims, France; 13th century.}}}}\n\n'''2.''' A gas-pipe with a burner, and often a support for a shade or globe, projecting from a wall or pillar. {{smaller|Such brackets are commonly provided with one or more joints, in order that the position of the light may be changed, and that the bracket may be folded in a small space when not in use.}}\n\n'''3.''' In ''gun.'', the cheek of a mortar-carriage, made of strong planking.—'''4.''' One of two marks [ ], formerly called ''crotchets'', used to inclose a note, reference, explanation, or the like, and thus separate it from the context; sometimes, also, one of a pair of braces { } similarly used, or a single brace { used to couple two or more lines or names. Hence—'''5.''' The position of being classed or bracketed with another or others. {{smaller|Specifically, in the University of Cambridge, from 1779 to 1834, one of a number of classes into which candidates for the degree of B. A. were divided according to their excellence at the first three days’ examinations. The class-list was called ''the brackets'', and the last day’s examination the ''examination of the brackets''.}}\n{{smaller block|A candidate who was dissatisfied with his ''bracket'' might challenge any other candidate he pleased to a fresh examination.\n{{right|''J. W. L. Glaisher'', Proc. Lond. Math. Soc., xviii. 12.}}}}\n\n'''6†.''' A name given to a head-dress of the fourteenth century.—'''7.''' In ''mining'', the platform over the mouth of a shaft.\n\n'''bracket'''<sup>1</sup> (brak′et), ''v. t.''   [< ''bracket''<sup>1</sup>, ''n.'']   '''1.''' To furnish with or support by a bracket or brackets; in ''writing'' and ''printing'', to place within brackets.—'''2.''' To place on or within the same bracket or brackets; join or mention together as coequal or correlative; connect by or as if by a printers’ brace: as, the names of Smith and Jones are ''bracketed'', or ''bracketed'' together, as candidates. [For a corresponding use of the noun, see ''bracket''<sup>1</sup>, ''n.'', 5.]\n\n'''bracket'''<sup>2</sup>, ''n.'' Same as ''bragget''<sup>2</sup>.\n\n'''bracket-crab''' (brak′et-krab), ''n.'' A hoisting apparatus fastened to a wall. {{img float|file=century v01 p0680 c2f1.png|width=163px|align=left|cap={{smaller|Bracket-crab. ''a, a,'' frame; ''b,'' post; ''c,'' handle; ''d,'' sheave-block.}}}}\n\n'''bracketing''' (brak′et-ing), ''n.''   [< ''bracket''<sup>1</sup> + ''-ing''<sup>1</sup>.]   The series of wooden ribs nailed to the ceiling, joists, and battening to support cornices, especially large plaster cornices. {{smaller|—'''Cove bracketing.''' See ''cove-bracketing.''}}\n\n'''bracket-trail''' (brak′et-trāl), ''n.'' ''Milit.'', a kind of built-up trail formerly used, consisting of two girders or brackets connected by transoms.\n{{smaller block|Those designed for siege-guns were longer and had two sets of trunnion-beds. For transportation the trunnions were shifted to the traveling trunnion-beds or those nearest}} the trunnion-plate. See ''trail.''\n\n'''brackish''' (brak′ish), ''a.''   [Early mod. E. ''brakish''; < ''brack''<sup>2</sup> + ''-ish''<sup>1</sup>.]   Possessing a salt or somewhat salt taste; salt in a moderate degree: applied to water.\n{{smaller block|Choakt with the labouring ocean’s ''brackish'' fome.\n{{right|''Marston'', Antonio and Mellida, I. i.}}}}\n\n'''brackishness''' (brak′ish-nes), ''n.'' The quality of being brackish; saltness in a slight degree.\n\n'''brackly''' (brak′li), ''a.''   [E. dial., as if < ''brack''<sup>1</sup> + ''-ly''<sup>1</sup>, but rather a var. of ''brockle'' = ''brickle'': see ''brickle.'']   Brittle. [Prov. Eng.]\n\n'''Brackman†''', ''n.'' Same as ''Brahman.''\n\n'''bracky†''' (brak′i), ''a.''   [< ''brack''<sup>2</sup> + ''-y''<sup>1</sup>.]   Same as ''brackish'': as, “''bracky'' fountains,” ''Drayton.''\n\n[[File:century v01 p0680 c2f2.png|center|250px]]\n{{c|{{smaller|''Bracon charus.'' (Cross shows natural size.)}}}}\n\n'''Bracon''' (brak′ọn), ''n.''   [NL.]   A genus of ichneumon-flies, giving name to the family ''Braconidæ.'' ''B. impostor'' and ''B. charus'' {{img float|file=century v01 p0680 c3f1.png|width=79px|align=right|cap={{smaller|Braconnière (''a''). (From Viollet-le-Duc’s “Dict. du Mobilier français.”)}}}} (Riley) are examples.\n\n'''Braconidæ''' (bra-kon′i-dē), ''n. pl.''   [NL., < ''Bracon'' + ''-idæ.'']   A family of pupivorous hymenopterous insects, otherwise known as ''Ichneumones adsciti,'' distinguished from the true ichneumon-flies by having only one recurrent nerve in the fore wing instead of two. {{smaller|The larvæ mostly infest caterpillars and the larvæ of beetles living in wood. The genera are numerous. Also ''Braconides, Braconites.''}}\n\n'''braconnière''' (bra-kon-iãr′), ''n.''   [F., < L. ''bracæ,'' breeches: see ''bracæ, breech.'']   In the later times of complete armor, a defense for the thighs and hips, composed of ring-shaped plates of steel worn horizontally one below another, forming a kind of skirt, and secured to one another either by vertical straps to which each plate was riveted, or by being sewed to a skirt of stuff, or by rivets sliding in grooves. See ''Almain-rivet.''\n\n'''bract''' (brakt), ''n.''   [= F. ''bractée,'' < L. ''bractea,'' also ''brattea,'' a thin plate of metal, gold-leaf, {{img float|file=century v01 p0680 c3f2.png|width=215px|align=left|cap={{smaller|Bracts.}} {{smaller|1, Campanula: ''a'', ''a'', bracts; ''b'', ''b'', bracteoles. 2, Marigold: ''a'', ''a'', bracts of the peduncle; ''b'', bracts of the involucre. (From Le Maout and Decaisne’s “Traité général de Botanique.”)}}}} veneer.]   '''1.''' In ''bot.'', a leaf in a flower-cluster or subtending a flower, usually differing somewhat from an ordinary leaf in size, form, or texture, often much reduced, and sometimes petaloid, highly colored, and very conspicuous. —'''2.''' In ''zoöl.'', a part of a hydrozoan likened to a bract of a plant; a hydrophyllium. See cuts under ''Athorybia'' and ''hydrophyllium''.—'''3.''' A thin plate of metal used as an ornament, as, for example, one of the gold disk-like ornaments made in Scandinavian countries in the Viking age.\n\n'''bracteal''' (brak′tē-ạl), ''a.''   [= F. ''bractéal'', < LL. ''bractealis'', of metallic plates, < L. ''bractea'': see ''bract''.]   Relating to or of the nature of a bract.\n\n'''bracteate''' (brak′tē-āt), ''a.'' and ''n.''   [= F. ''bractéate'', < L. ''bracteatus'', covered with gold-leaf, < ''bractea'': see ''bract''.]   '''I.''' ''a.'' Furnished with bracts, in any sense of that word.\n\n'''II.''' ''n.'' In ''numis.'', one of certain silver coins {{img float|file=century v01 p0680 c3f3.png|width=134px|align=right|cap={{smaller|German Bracteate, British Museum. (Size of the original.)}}}} current in the middle ages, chiefly in Germany. {{smaller|Bracteates were first issued about the middle of the twelfth century, were of very thin material, and stamped with a design in repoussé.}}\n\n'''bracted''' (brak′ted), ''a.''   [< ''bract'' + ''-ed''<sup>2</sup>.]   Furnished with bracts.\n\n'''bracteiform''' (brak′tē-i-fôrm), ''a.''   [= F. ''bractéiforme;'' < L. ''bractea'', a thin plate (mod. E. ''bract''), + ''forma'', shape.]   In ''bot.'', resembling a bract.\n\n'''bracteolate''' (brak′tẹ̄-ọ̄-lāt), ''a.''   [< L. ''bracteola'' (see ''bracteole'') + ''-ate''<sup>1</sup>.]   Furnished with bracteoles.\n\n'''bracteole''' (brak′tẹ̄-ōl), ''n.''   [= F. ''bractéole;'' < L. ''bracteola'', a thin leaf of gold, in NL. a little bract, dim. of ''bractea:'' see ''bract''.]   In ''bot.'', a little bract situated on a partial flower-stalk or pedicel, between the bract and the calyx, and usually smaller than the true bract. Also called ''bractlet''. See cut under ''bract''.\n\n'''bractless''' (brakt′les), ''a.''   [< ''bract'' + ''-less''.]   In ''bot.'', destitute of bracts.\n\n'''bractlet''' (brakt′let), ''n.''   [< ''bract'' + dim. ''-let''.]   Same as ''bracteole''.\n\n'''brad''' (brad), ''n.''   [< ME. ''brad'', usually ''brod'', Sc. ''brod'' (also ''prod'': see ''prod''), < Icel. ''broddr'', a spike, = Sw. ''brodd'' = Dan. ''brodde'', a frost-nail, = AS. ''brord'', > ME. ''brurd'', a point, blade, or spire of grass; cf. Corn. ''bros'', a sting; perhaps ult. connected with ''bristle'', q. v. See ''braird'', ''breer''<sup>2</sup>.]   A slender flat nail having, instead<noinclude><references/></noinclude>"
+}

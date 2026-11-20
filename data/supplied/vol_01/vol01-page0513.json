@@ -1,0 +1,383 @@
+{
+ "volume": 1,
+ "page_number": 513,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n512.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n512.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 747,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     76,
+     140,
+     2303,
+     182
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     76,
+     182,
+     827,
+     1275
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     76,
+     1275,
+     827,
+     1936
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     141,
+     1511,
+     766,
+     1797
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     76,
+     1936,
+     827,
+     3035
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     357,
+     2079,
+     827,
+     2367
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     76,
+     3035,
+     827,
+     3292
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     827,
+     182,
+     1571,
+     979
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     827,
+     979,
+     1571,
+     2216
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1135,
+     1340,
+     1567,
+     1713
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     827,
+     2216,
+     1571,
+     3292
+    ]
+   },
+   {
+    "name": "c2f2",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     1054,
+     2486,
+     1571,
+     2933
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1571,
+     182,
+     2303,
+     1233
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1571,
+     1233,
+     2303,
+     2171
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1571,
+     2171,
+     2303,
+     3229
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1586,
+     2727,
+     2303,
+     2988
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1571,
+     3229,
+     2303,
+     3292
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|beak|487|beamed}}",
+   "c1s1": "¶\n'''beak<sup>2</sup>''' (bēk), ''n.'' [Same as ''beck''<sup>6</sup>; of obscure origin.] A magistrate; a judge; a policeman. [Slang.]\n\n'''beaked''' (bēkt), ''a.'' [< ''beak''<sup>1</sup> + ''-ed''<sup>2</sup>.] Having a beak, or something resembling a beak; beak-shaped. {{smaller|(''a'') Having a long beak-like mouth, as some insects. (''b'') In ''bot.'', rostrate; ending in a beak-like point. (''c'') In ''her.'', applied to birds, and used only when the beak is of a different tincture from the rest of the bird; thus, an eagle sable, ''beaked'' or, means a black eagle having a gold beak. When beaks and claws are of the same tincture, the term ''armed'' (which see) is used. (''d'') Ending in a point, like a beak.}}\n{{smaller block|Each ''beaked'' promontory.\n{{right|''Milton'', Lycidas, l. 94.}}}}\n\n{{smaller block|'''Beaked helmet,''' a helmet of which the vizor was worked to a sharp projecting point in front, in use about 1340–70. The breathing-holes were in the beaked part, or only on the right side of it. The extremely pointed form gave to the lance of the assailant no hold and no opportunity of entering the openings.}}\n\n'''beaker''' (bē′kėr), ''n.'' [= Sc. ''bicker'', < ME. ''biker'', ''byker'', < Icel. ''bikarr'', a cup, = Sw. ''bägare'' = Dan. ''bæger'' = OS. ''bikeri'' = D. ''beker'' = OHG. ''behhar'', ''behhāri'', MHG. G. ''becher'', < ML. ''bicārium'' (also prob. *''biccārium'', > It. ''bicchiere'', ''pecchero'' = OF. ''picher'', ''pichier'', > ME. ''picher'', E. ''pitcher'', which is thus a doublet of ''beaker''), a wine-cup, < Gr. as if *βικάριον, dim. of βίκος, an earthen wine-vessel; of Eastern origin.]\n\n'''1.''' A large drinking-vessel with a wide mouth.\n{{smaller block|<poem>O for a ''beaker'' full of the warm south,\nFull of the true, the blushful Hippocrene!</poem>\n{{right|''Keats'', Ode to a Nightingale.}}}}\n'''2.''' A glass vessel used by chemists, usually for making solutions. {{smaller|It is made of thin glass to withstand heating, and has a flat bottom and perpendicular sides, with a lip for pouring, and varies in capacity from}}",
+   "c1s2": "{{smaller|1 to 30 fluidounces.}}\n{{smaller block|He used a modification of Thomson’s electrometer, and connected it, with suitable precautions, with twelve large ''beakers'' which were covered with tinfoil and were filled with ice.\n{{right|''Science'', III. 260.}}}}\n\n'''beak-head''' (bēk′hed), ''n.'' '''1.''' An ornament resembling the head and beak of a bird, or, often, a grotesque human head terminating in a beak,\n[[FIGURE]]\n{{c|{{smaller|Beak-heads.—From St. Ebbe’s, Oxford, England.}}}}\nused as an enrichment of moldings in Romanesque architecture.—'''2.''' That part of a ship before the forecastle which is fastened to the",
+   "c1s3": "stem and supported by the main knee.\n\n'''beaking-joint''' (bē′king-joint), ''n.'' [< ''beaking'', verbal n. of ''beak''<sup>1</sup>, + ''joint''.] A joint formed by the junction of several heading-joints in a continuous line, as sometimes in folding doors, floors, etc.\n\n'''beak-iron''' (bēk′-ī″ėrn), ''n.'' [A further corruption, simulating ''beak''<sup>1</sup> + ''iron'', of ''bickiron'', a corruption of ''bickern'', q. v.] An anvil with a long beak or horn adapted to\n[[FIGURE]]\n{{c|{{smaller|Beak-irons.}}}}\n{{c|{{smaller|''a'', tool with long beak used for rounding sections of stove-pipe, etc.; ''b'', tool with shorter and cylindrical beak; ''c'', tool with two beaks which act as stakes or anvils in the interior of ware; ''d'', a conical beak intended to be grasped in a vise.}}}}\nreach the interior surfaces of sheet-metal ware; a bickern. {{smaller|Used in various forms by blacksmiths, coppersmiths, and workers in sheet metal. Also called ''beak'' and ''bickiron''.}}\n\n'''beakment†''', ''n.'' [E. dial. also erroneously ''beatment''; appar. < F. ''becquer'', peck, + ''-ment'': see ''peck'', a measure.] A measure of about a quarter of a peck. ''Halliwell.''\n\n'''beak-rush''' (bēk′rush), ''n.'' A common name for species of ''Rhynchospora'', a genus of cyperaceous plants with conspicuously beaked achenes or seed-vessels. Also called ''beak-sedge''.\n\n'''beak-sheath''' (bēk′shēth), ''n.'' In ''entom.'', the rostral sheath or jointed extension of the labium, inclosing the mouth-organs of a hemipterous insect.",
+   "c1s4": "¶\n'''beaky''' (bē′ki), ''a.'' [< ''beak'' + ''-y''<sup>1</sup>.] Furnished with or distinguished by a beak.\n\n'''beal'''<sup>1</sup> (bēl), ''n.'' [< ME. ''beel'', ''bele'', a variant of ''bile'', ''bule'', > E. ''bile''<sup>1</sup>, now corrupted into ''boil''<sup>1</sup>: see ''bile''<sup>1</sup> and ''boil''<sup>1</sup>.] A small inflammatory tumor; a pustule. [Obsolete or dialectal.]\n\n'''beal'''<sup>1</sup> (bēl), ''v. i.'' [< ''beal''<sup>1</sup>, ''n.''] To gather matter; swell and come to a head, as a pimple;",
+   "c2s1": "fester; suppurate. [Obsolete except in Scotland.]\n\n¶\n'''beal<sup>2</sup>''' (bēl), ''n.'' [Sc., also spelled ''biel'', < Gael. and Ir. ''beul'', earlier ''beal'', mouth, > Gael. and Ir. ''bealach'', a defile, a mountain-pass.] A mouth; an opening, as between hills; a narrow pass. [Scotch.]\n{{smaller block|Angus M‘Aulay mumbled over a number of hard Gaelic names descriptive of the different passes, precipices, corries, and ''beals'', through which he said the road lay to Inverary.\n{{right|''Scott'', Legend of Montrose, viii.}}}}\n\n'''Beale light.''' See ''light''<sup>1</sup>.\n\n'''Beale’s ganglion-cells.''' See ''cell''.\n\n'''bealing†''' (bē′ling), ''n.'' [Verbal n. of ''beal''<sup>1</sup>.] A boil or gathering; a suppuration or suppurating part.\n\n'''be-all''' (bē′âl), ''n.'' All that is to be; the whole being.\n{{smaller block|<poem>That but this blow\nMight be the ''be-all'' and the end-all here.</poem>\n{{right|''Shak.'', Macbeth, i. 7.}}}}\n\n'''beam''' (bēm), ''n.'' [< ME. ''beem'', ''beme'', etc., < AS. ''beám'', a tree, a piece of timber, a ray of light, = OS. ''bōm'' = OFries. ''bām'' = D. ''boom'' (> E. ''boom''<sup>2</sup>) = MLG. ''bōm'', LG. ''boom'' = OHG. MHG. ''boum'',",
+   "c2s2": "G. ''baum'', and prob. = Icel. ''badhmr'' = Goth. ''bagms'' (the Icel. and Goth. presenting unexplained variations of form), a tree; perhaps akin to Gr. φῦμα, a growth, and Skt. ''bhūman'', earth, < √ ''bhū'', grow, become: see ''be''<sup>1</sup>, ''bower''<sup>1</sup>, ''boor'', ''big''<sup>3</sup> = ''bigg''<sup>3</sup>, etc., and cf. the doublet ''boom''<sup>2</sup>. The sense of ‘ray of light’ is peculiar to AS. and E., appar. tr. L. ''columna'' (''lucis''), a column or pillar of light: cf. L. ''radius'', a spoke of a wheel, a rod, a ray; G. ''strahl'', an arrow, a spoke, a ray or beam.] '''1.''' In ''arch.'', a long\n[[FIGURE]]\n{{c|{{smaller|Medieval Floor-beams.<br>(From Viollet-le-Duc’s “Dict. de l’Architecture.”)}}}}\npiece of stone, wood, or metal, or a construction of wood or metal, or combining wood and metal, used in a horizontal position, usually in combination with others like it, all being generally laid parallel to one another, and at regular intervals, to support weight, or, as a tie-beam or a collar-beam, to resist two opposite forces either pulling or compressing it in the direction of its length.—'''2.''' A long piece fixed or movable in a structure, machine, or tool: often equivalent to ''girder''.\n{{smaller block|The word ''beam'' is used in a number of more or less specific senses; as: (''a'') Any large piece of timber long in proportion to its thickness, prepared for use. (''b'') One of the principal horizontal timbers in a building, especially one connecting two opposite rafters; a timber serving to strengthen any piece of wooden frame-work. (''c'') The part of a balance from the ends of which the scales are suspended.}}\n{{smaller block|The doubtful ''beam'' long nods from side to side.\n{{right|''Pope'', R. of the L., v. 73.}}}}",
+   "c2s3": "(''d''†) The pole of a carriage which runs between the horses. (''e'') A cylindrical piece of wood, making part of a loom, on which weavers wind the warp before weaving; also, the cylinder on which the cloth is rolled as it is woven.\n{{smaller block|The staff of his spear was like a weaver’s ''beam.''\n{{right|1 Sam. xvii. 7.}}}}\n(''f'') The straight part or shank of an anchor. (''g'') One of the strong transverse pieces of timber or iron stretching across a ship from one side to the other, to support the\n[[FIGURE]]\n{{c|{{smaller|Ship’s Beam and Fastenings.}}}}\n{{c|{{smaller|''F'', frame; ''OP'', outside planking; ''IP'', inside planking; ''B'', deck-beam; ''DP'', deck-planking; ''S'', shelf to which the beam-end is coaked; ''W'', thick waterway; ''w'', thin waterway; ''BS'', binding strake or letting-down strake; ''K'', forked iron knee. Dotted lines show the bolts.}}}}\ndecks and retain the sides at their proper distance. (''h'') The main piece of a plow, in which the plow-tails are fixed, and by which it is drawn. (''i'') The oscillating lever of a steam-engine reciprocating upon a center, and forming the medium of communication between the piston-rod and the crank-shaft. Also called ''working-beam'' or ''walking-beam.'' See cut under ''atmospheric.''\n\n'''3.''' The widest part of a ship’s hull; the extreme breadth of a ship: from the beams extending quite across the vessel where it is broadest: as, a steamer of fifty feet ''beam.''\n{{smaller block|<poem>Broad in the ''beam'', but sloping aft,\nWith graceful curve and slow degrees.</poem>\n{{right|''Longfellow'', Building of Ship.}}}}\n\n'''4.''' The main stem of a deer’s horns bearing the snags or antlers. One of the snags themselves is sometimes called the ''beam-''",
+   "c3s1": "antler. See ''antler.''—'''5.''' A ray of light, or more strictly a collection of parallel rays of light, emitted from the sun or other luminous body.\n{{smaller block|The middle ray is the axis. In heraldry, beams of the sun are commonly represented as radiating from some other charge, which is then said to be radiant or rayonnant.}}\n{{smaller block|The existence of an isolated ray of light is inconceivable. . . . However small a portion of the wave surface may be represented, it contains innumerable rays, which collectively form a ''beam'' or fasciculus of rays.\n{{right|''Lommel'', Light, p. 232.}}}}\n{{smaller block|<poem>Yon silver ''beams'',\nSleep they less sweetly on the cottage thatch\nThan on the dome of kings? ''Shelley.''</poem>}}\nHence—'''6.''' Figuratively, a ray or emanation of splendor: as, “''beams'' of majesty,” ''Tillotson'', Works, I. iii.—'''7.''' Same as ''rood-beam.''—{{smaller|'''Abaft the beam.''' See ''abaft.''—'''Arched beam.''' See ''arched.''—'''Axis of a beam of light.''' See ''axis''<sup>1</sup>.—'''Beam and scales,''' a balance.—'''Beam-center,''' the fulcrum or pin on which a working-beam vibrates. Also called ''beam-gudgeon.''—'''Beam of a car-truck,''' a cross-beam carrying the weight of the supported car.—'''Before the beam.''' See ''before.''—'''Built beam,''' a beam formed of smaller beams notched, scarfed, and bolted together.—'''Cellular beam,''' a beam formed of wrought-iron plates riveted with angle-irons in the form of longitudinal cells, with occasional cross-struts.—'''Composite beam,''' a beam composed of wood and metal, or of two different metals.—'''Curriers’ beam,''' an inclined post over which a hide is stretched to be shaved.—'''Fished beam.''' See ''fish, v.''—'''Kerfed beam,''' a beam with slits sawed in one side to facilitate bending in that direction.—'''On the beam,''' ''naut.'', on a line with the beams, or at right angles with the keel.—'''On the beam-ends,''' in the position of a ship which inclines so much to one side that her beams approach a vertical position; hence, figuratively, ''to be on one’s beam-ends'', to be thrown or lying on the ground; be in bad circumstances; be at one’s last shift.—'''On the weather-'''}}",
+   "c3s2": "{{smaller|'''beam,''' on the weather side of the ship.—'''To kick''' or '''strike the beam,''' to rise, as the lighter scale of a balance, so as to strike against the beam; hence, to be of comparatively light weight or little consequence.}}\n{{smaller block|<poem>In these he put two weights,\nThe sequel each of parting and of fight:\nThe latter quick upflew and ''kick’d the beam.''</poem>\n{{right|''Milton'', P. L., iv. 1004.}}}}\n\n¶\n'''beam''' (bēm), ''v.'' [< ME. ''beemen'', ''bemen'', < AS. *''beámian'' (Somner), radiate; from the noun.] '''I.''' ''trans.'' '''1†.''' To shed rays of light upon; irradiate.—'''2.''' To shoot forth or emit, as or like beams or rays: as, to ''beam'' love upon a person.\n{{smaller block|God ''beams'' this light into men’s understandings.\n{{right|''South'', Sermons, I. 8.}}}}\n'''3.''' To furnish or supply with beams; give the appearance of beams to.\n{{smaller block|The bell-towers, again, are ribbed and ''beamed'' with black lava. {{right|''J. A. Symonds'', Italy and Greece, p. 197.}}}}\n'''4.''' In ''currying'', to stretch on the beam, as a hide.—'''5.''' In ''weaving'', to put on the beam, as a chain or web.\n\n'''II.''' ''intrans.'' To emit beams or rays of light; shed or give out radiance, literally or figuratively; shine.\n{{smaller block|A mighty light flew ''beaming'' every way.\n{{right|''Chapman'', Iliad, xv.}}\n<poem>More bounteous aspects on me ''beam'',\nMe mightier transports move and thrill.</poem>\n{{right|''Tennyson'', Sir Galahad.}}}}\n\n'''beam-bird''' (bēm′bėrd), ''n.'' '''1.''' A name some-",
+   "c3s3": "times given to the spotted flycatcher, ''Muscicapa grisola'', because it often builds its nest on the projecting end of a beam or rafter in a building.—'''2.''' A provincial name for the pettychaps or garden-warbler, ''Sylvia hortensis.''\n\n'''beam-board''' (bēm′bōrd), ''n.'' The platform of a steelyard or balance. Also called ''beam-platform. E. H. Knight.''\n\n'''beam-caliper''' (bēm′kal″i-pėr), ''n.'' An instrument similar in construction to a beam-compass, but with the points turned in so as to be used as calipers.\n\n'''beam-center''' (bēm′sen″tėr), ''n.'' The pin upon which the working-beam of a marine engine reciprocates.\n\n'''beam-compass''' (bēm′kum″pas), ''n.'' An instrument consisting of a wooden or brass beam,\n[[FIGURE]]\n{{c|{{smaller|Beam-compass.}}}}\nhaving sliding sockets that carry steel or pencil points, used for describing large circles and for laying off distances.\n\n'''beamed''' (bēmd), ''a.'' Having beams or horns; having all its antlers put forth, as the head of a stag.",
+   "c3s4": "¶\n{{smaller block|There were many great ''beamed'' deer in it.\n{{right|''J. F. Campbell'', Pop. Tales of West Highlands.}}}}"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0513 c1f1.png",
+   "c1f2": "century v01 p0513 c1f2.png",
+   "c2f1": "century v01 p0513 c2f1.png",
+   "c2f2": "century v01 p0513 c2f2.png",
+   "c3f1": "century v01 p0513 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     153,
+     1523,
+     754,
+     1785
+    ],
+    "caption": [
+     199,
+     1795,
+     717,
+     1820
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     201,
+     1483,
+     787,
+     1784
+    ]
+   },
+   {
+    "box": [
+     369,
+     2091,
+     816,
+     2355
+    ],
+    "caption": [
+     367,
+     2359,
+     818,
+     2509
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     493,
+     2086,
+     767,
+     2332
+    ]
+   },
+   {
+    "box": [
+     1147,
+     1352,
+     1555,
+     1701
+    ],
+    "caption": [
+     1183,
+     1709,
+     1523,
+     1780
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1145,
+     1353,
+     1556,
+     1693
+    ]
+   },
+   {
+    "box": [
+     1066,
+     2498,
+     1563,
+     2921
+    ],
+    "caption": [
+     1367,
+     2936,
+     1563,
+     3288
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     1127,
+     2496,
+     1561,
+     2989
+    ]
+   },
+   {
+    "box": [
+     1598,
+     2739,
+     2300,
+     2976
+    ],
+    "caption": [
+     1862,
+     2983,
+     2021,
+     3004
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1595,
+     2729,
+     2314,
+     2971
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "1": [
+    2,
+    0
+   ],
+   "2": [
+    2,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 6,
+    "input_tokens": 9418,
+    "output_tokens": 426,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9645,
+    "output_tokens": 9165,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c1f2": "right",
+   "c2f1": "right",
+   "c2f2": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|beak|487|beamed}}</noinclude>{{nop}}'''beak<sup>2</sup>''' (bēk), ''n.''   [Same as ''beck''<sup>6</sup>; of obscure origin.]   A magistrate; a judge; a policeman. [Slang.]\n\n'''beaked''' (bēkt), ''a.''   [< ''beak''<sup>1</sup> + ''-ed''<sup>2</sup>.]   Having a beak, or something resembling a beak; beak-shaped. {{smaller|(''a'') Having a long beak-like mouth, as some insects. (''b'') In ''bot.'', rostrate; ending in a beak-like point. (''c'') In ''her.'', applied to birds, and used only when the beak is of a different tincture from the rest of the bird; thus, an eagle sable, ''beaked'' or, means a black eagle having a gold beak. When beaks and claws are of the same tincture, the term ''armed'' (which see) is used. (''d'') Ending in a point, like a beak.}}\n{{smaller block|Each ''beaked'' promontory.\n{{right|''Milton'', Lycidas, l. 94.}}}}\n\n{{smaller block|'''Beaked helmet,''' a helmet of which the vizor was worked to a sharp projecting point in front, in use about 1340–70. The breathing-holes were in the beaked part, or only on the right side of it. The extremely pointed form gave to the lance of the assailant no hold and no opportunity of entering the openings.}}\n\n'''beaker''' (bē′kėr), ''n.''   [= Sc. ''bicker'', < ME. ''biker'', ''byker'', < Icel. ''bikarr'', a cup, = Sw. ''bägare'' = Dan. ''bæger'' = OS. ''bikeri'' = D. ''beker'' = OHG. ''behhar'', ''behhāri'', MHG. G. ''becher'', < ML. ''bicārium'' (also prob. *''biccārium'', > It. ''bicchiere'', ''pecchero'' = OF. ''picher'', ''pichier'', > ME. ''picher'', E. ''pitcher'', which is thus a doublet of ''beaker''), a wine-cup, < Gr. as if *βικάριον, dim. of βίκος, an earthen wine-vessel; of Eastern origin.]\n\n'''1.''' A large drinking-vessel with a wide mouth.\n{{smaller block|<poem>O for a ''beaker'' full of the warm south,\nFull of the true, the blushful Hippocrene!</poem>\n{{right|''Keats'', Ode to a Nightingale.}}}}\n'''2.''' A glass vessel used by chemists, usually for making solutions. {{smaller|It is made of thin glass to withstand heating, and has a flat bottom and perpendicular sides, with a lip for pouring, and varies in capacity from 1 to 30 fluidounces.}}\n{{smaller block|He used a modification of Thomson’s electrometer, and connected it, with suitable precautions, with twelve large ''beakers'' which were covered with tinfoil and were filled with ice.\n{{right|''Science'', III. 260.}}}}\n\n'''beak-head''' (bēk′hed), ''n.'' '''1.''' An ornament resembling the head and beak of a bird, or, often, a grotesque human head terminating in a beak,\nused as an enrichment of moldings in Romanesque architecture.—'''2.''' That part of a ship before the forecastle which is fastened to the stem and supported by the main knee.\n\n[[File:century v01 p0513 c1f1.png|center|301px]]\n{{c|{{smaller|Beak-heads.—From St. Ebbe’s, Oxford, England.}}}}\n\n'''beaking-joint''' (bē′king-joint), ''n.''   [< ''beaking'', verbal n. of ''beak''<sup>1</sup>, + ''joint''.]   A joint formed by the junction of several heading-joints in a continuous line, as sometimes in folding doors, floors, etc.\n\n'''beak-iron''' (bēk′-ī″ėrn), ''n.''   [A further corruption, simulating ''beak''<sup>1</sup> + ''iron'', of ''bickiron'', a corruption of ''bickern'', q. v.]   An anvil with a long beak or horn adapted to {{img float|file=century v01 p0513 c1f2.png|width=227px|align=right|cap={{smaller|Beak-irons.}} {{smaller|''a'', tool with long beak used for rounding sections of stove-pipe, etc.; ''b'', tool with shorter and cylindrical beak; ''c'', tool with two beaks which act as stakes or anvils in the interior of ware; ''d'', a conical beak intended to be grasped in a vise.}}}} reach the interior surfaces of sheet-metal ware; a bickern. {{smaller|Used in various forms by blacksmiths, coppersmiths, and workers in sheet metal. Also called ''beak'' and ''bickiron''.}}\n\n'''beakment†''', ''n.''   [E. dial. also erroneously ''beatment''; appar. < F. ''becquer'', peck, + ''-ment'': see ''peck'', a measure.]   A measure of about a quarter of a peck.   ''Halliwell.''\n\n'''beak-rush''' (bēk′rush), ''n.'' A common name for species of ''Rhynchospora'', a genus of cyperaceous plants with conspicuously beaked achenes or seed-vessels. Also called ''beak-sedge''.\n\n'''beak-sheath''' (bēk′shēth), ''n.'' In ''entom.'', the rostral sheath or jointed extension of the labium, inclosing the mouth-organs of a hemipterous insect.\n\n'''beaky''' (bē′ki), ''a.''   [< ''beak'' + ''-y''<sup>1</sup>.]   Furnished with or distinguished by a beak.\n\n'''beal'''<sup>1</sup> (bēl), ''n.''   [< ME. ''beel'', ''bele'', a variant of ''bile'', ''bule'', > E. ''bile''<sup>1</sup>, now corrupted into ''boil''<sup>1</sup>: see ''bile''<sup>1</sup> and ''boil''<sup>1</sup>.]   A small inflammatory tumor; a pustule. [Obsolete or dialectal.]\n\n'''beal'''<sup>1</sup> (bēl), ''v. i.''   [< ''beal''<sup>1</sup>, ''n.'']   To gather matter; swell and come to a head, as a pimple; fester; suppurate. [Obsolete except in Scotland.]\n\n'''beal<sup>2</sup>''' (bēl), ''n.''   [Sc., also spelled ''biel'', < Gael. and Ir. ''beul'', earlier ''beal'', mouth, > Gael. and Ir. ''bealach'', a defile, a mountain-pass.]   A mouth; an opening, as between hills; a narrow pass. [Scotch.]\n{{smaller block|Angus M‘Aulay mumbled over a number of hard Gaelic names descriptive of the different passes, precipices, corries, and ''beals'', through which he said the road lay to Inverary.\n{{right|''Scott'', Legend of Montrose, viii.}}}}\n\n'''Beale light.''' See ''light''<sup>1</sup>.\n\n'''Beale’s ganglion-cells.''' See ''cell''.\n\n'''bealing†''' (bē′ling), ''n.''   [Verbal n. of ''beal''<sup>1</sup>.]   A boil or gathering; a suppuration or suppurating part.\n\n'''be-all''' (bē′âl), ''n.'' All that is to be; the whole being.\n{{smaller block|<poem>That but this blow\nMight be the ''be-all'' and the end-all here.</poem>\n{{right|''Shak.'', Macbeth, i. 7.}}}}\n\n'''beam''' (bēm), ''n.''   [< ME. ''beem'', ''beme'', etc., < AS. ''beám'', a tree, a piece of timber, a ray of light, = OS. ''bōm'' = OFries. ''bām'' = D. ''boom'' (> E. ''boom''<sup>2</sup>) = MLG. ''bōm'', LG. ''boom'' = OHG. MHG. ''boum'', G. ''baum'', and prob. = Icel. ''badhmr'' = Goth. ''bagms'' (the Icel. and Goth. presenting unexplained variations of form), a tree; perhaps akin to Gr. φῦμα, a growth, and Skt. ''bhūman'', earth, < √ ''bhū'', grow, become: see ''be''<sup>1</sup>, ''bower''<sup>1</sup>, ''boor'', ''big''<sup>3</sup> = ''bigg''<sup>3</sup>, etc., and cf. the doublet ''boom''<sup>2</sup>. The sense of ‘ray of light’ is peculiar to AS. and E., appar. tr. L. ''columna'' (''lucis''), a column or pillar of light: cf. L. ''radius'', a spoke of a wheel, a rod, a ray; G. ''strahl'', an arrow, a spoke, a ray or beam.]   '''1.''' In ''arch.'', a long {{img float|file=century v01 p0513 c2f1.png|width=208px|align=right|cap={{smaller|Medieval Floor-beams. (From Viollet-le-Duc’s “Dict. de l’Architecture.”)}}}} piece of stone, wood, or metal, or a construction of wood or metal, or combining wood and metal, used in a horizontal position, usually in combination with others like it, all being generally laid parallel to one another, and at regular intervals, to support weight, or, as a tie-beam or a collar-beam, to resist two opposite forces either pulling or compressing it in the direction of its length.—'''2.''' A long piece fixed or movable in a structure, machine, or tool: often equivalent to ''girder''.\n{{smaller block|The word ''beam'' is used in a number of more or less specific senses; as: (''a'') Any large piece of timber long in proportion to its thickness, prepared for use. (''b'') One of the principal horizontal timbers in a building, especially one connecting two opposite rafters; a timber serving to strengthen any piece of wooden frame-work. (''c'') The part of a balance from the ends of which the scales are suspended.}}\n{{smaller block|The doubtful ''beam'' long nods from side to side.\n{{right|''Pope'', R. of the L., v. 73.}}}} (''d''†) The pole of a carriage which runs between the horses. (''e'') A cylindrical piece of wood, making part of a loom, on which weavers wind the warp before weaving; also, the cylinder on which the cloth is rolled as it is woven.\n{{smaller block|The staff of his spear was like a weaver’s ''beam.''\n{{right|1 Sam. xvii. 7.}}}}\n(''f'') The straight part or shank of an anchor. (''g'') One of the strong transverse pieces of timber or iron stretching across a ship from one side to the other, to support the {{img float|file=century v01 p0513 c2f2.png|width=249px|align=right|cap={{smaller|Ship’s Beam and Fastenings.}} {{smaller|''F'', frame; ''OP'', outside planking; ''IP'', inside planking; ''B'', deck-beam; ''DP'', deck-planking; ''S'', shelf to which the beam-end is coaked; ''W'', thick waterway; ''w'', thin waterway; ''BS'', binding strake or letting-down strake; ''K'', forked iron knee. Dotted lines show the bolts.}}}} decks and retain the sides at their proper distance. (''h'') The main piece of a plow, in which the plow-tails are fixed, and by which it is drawn. (''i'') The oscillating lever of a steam-engine reciprocating upon a center, and forming the medium of communication between the piston-rod and the crank-shaft. Also called ''working-beam'' or ''walking-beam.'' See cut under ''atmospheric.''\n\n'''3.''' The widest part of a ship’s hull; the extreme breadth of a ship: from the beams extending quite across the vessel where it is broadest: as, a steamer of fifty feet ''beam.''\n{{smaller block|<poem>Broad in the ''beam'', but sloping aft,\nWith graceful curve and slow degrees.</poem>\n{{right|''Longfellow'', Building of Ship.}}}}\n\n'''4.''' The main stem of a deer’s horns bearing the snags or antlers. One of the snags themselves is sometimes called the ''beamantler''. See ''antler.''—'''5.''' A ray of light, or more strictly a collection of parallel rays of light, emitted from the sun or other luminous body.\n{{smaller block|The middle ray is the axis. In heraldry, beams of the sun are commonly represented as radiating from some other charge, which is then said to be radiant or rayonnant.}}\n{{smaller block|The existence of an isolated ray of light is inconceivable. . . . However small a portion of the wave surface may be represented, it contains innumerable rays, which collectively form a ''beam'' or fasciculus of rays.\n{{right|''Lommel'', Light, p. 232.}}}}\n{{smaller block|<poem>Yon silver ''beams'',\nSleep they less sweetly on the cottage thatch\nThan on the dome of kings? ''Shelley.''</poem>}}\nHence—'''6.''' Figuratively, a ray or emanation of splendor: as, “''beams'' of majesty,” ''Tillotson'', Works, I. iii.—'''7.''' Same as ''rood-beam.''—{{smaller|'''Abaft the beam.''' See ''abaft.''—'''Arched beam.''' See ''arched.''—'''Axis of a beam of light.''' See ''axis''<sup>1</sup>.—'''Beam and scales,''' a balance.—'''Beam-center,''' the fulcrum or pin on which a working-beam vibrates. Also called ''beam-gudgeon.''—'''Beam of a car-truck,''' a cross-beam carrying the weight of the supported car.—'''Before the beam.''' See ''before.''—'''Built beam,''' a beam formed of smaller beams notched, scarfed, and bolted together.—'''Cellular beam,''' a beam formed of wrought-iron plates riveted with angle-irons in the form of longitudinal cells, with occasional cross-struts.—'''Composite beam,''' a beam composed of wood and metal, or of two different metals.—'''Curriers’ beam,''' an inclined post over which a hide is stretched to be shaved.—'''Fished beam.''' See ''fish, v.''—'''Kerfed beam,''' a beam with slits sawed in one side to facilitate bending in that direction.—'''On the beam,''' ''naut.'', on a line with the beams, or at right angles with the keel.—'''On the beam-ends,''' in the position of a ship which inclines so much to one side that her beams approach a vertical position; hence, figuratively, ''to be on one’s beam-ends'', to be thrown or lying on the ground; be in bad circumstances; be at one’s last shift.—'''On the weatherbeam,''' on the weather side of the ship.—'''To kick''' or '''strike the beam,''' to rise, as the lighter scale of a balance, so as to strike against the beam; hence, to be of comparatively light weight or little consequence.}}\n{{smaller block|<poem>In these he put two weights,\nThe sequel each of parting and of fight:\nThe latter quick upflew and ''kick’d the beam.''</poem>\n{{right|''Milton'', P. L., iv. 1004.}}}}\n\n'''beam''' (bēm), ''v.''   [< ME. ''beemen'', ''bemen'', < AS. *''beámian'' (Somner), radiate; from the noun.]   '''I.''' ''trans.'' '''1†.''' To shed rays of light upon; irradiate.—'''2.''' To shoot forth or emit, as or like beams or rays: as, to ''beam'' love upon a person.\n{{smaller block|God ''beams'' this light into men’s understandings.\n{{right|''South'', Sermons, I. 8.}}}}\n'''3.''' To furnish or supply with beams; give the appearance of beams to.\n{{smaller block|The bell-towers, again, are ribbed and ''beamed'' with black lava. {{right|''J. A. Symonds'', Italy and Greece, p. 197.}}}}\n'''4.''' In ''currying'', to stretch on the beam, as a hide.—'''5.''' In ''weaving'', to put on the beam, as a chain or web.\n\n'''II.''' ''intrans.'' To emit beams or rays of light; shed or give out radiance, literally or figuratively; shine.\n{{smaller block|A mighty light flew ''beaming'' every way.\n{{right|''Chapman'', Iliad, xv.}}}}\n{{smaller block|<poem>More bounteous aspects on me ''beam'',\nMe mightier transports move and thrill.</poem>\n{{right|''Tennyson'', Sir Galahad.}}}}\n\n'''beam-bird''' (bēm′bėrd), ''n.'' '''1.''' A name sometimes given to the spotted flycatcher, ''Muscicapa grisola'', because it often builds its nest on the projecting end of a beam or rafter in a building.—'''2.''' A provincial name for the pettychaps or garden-warbler, ''Sylvia hortensis.''\n\n'''beam-board''' (bēm′bōrd), ''n.'' The platform of a steelyard or balance. Also called ''beam-platform. E. H. Knight.''\n\n'''beam-caliper''' (bēm′kal″i-pėr), ''n.'' An instrument similar in construction to a beam-compass, but with the points turned in so as to be used as calipers.\n\n'''beam-center''' (bēm′sen″tėr), ''n.'' The pin upon which the working-beam of a marine engine reciprocates.\n\n'''beam-compass''' (bēm′kum″pas), ''n.'' An instrument consisting of a wooden or brass beam,\nhaving sliding sockets that carry steel or pencil points, used for describing large circles and for laying off distances.\n\n[[File:century v01 p0513 c3f1.png|center|346px]]\n{{c|{{smaller|Beam-compass.}}}}\n\n'''beamed''' (bēmd), ''a.'' Having beams or horns; having all its antlers put forth, as the head of a stag.\n\n{{smaller block|There were many great ''beamed'' deer in it.\n{{right|''J. F. Campbell'', Pop. Tales of West Highlands.}}}}<noinclude><references/></noinclude>"
+}

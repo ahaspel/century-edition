@@ -1,0 +1,235 @@
+{
+ "volume": 1,
+ "page_number": 590,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n589.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n589.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 744,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     120,
+     123,
+     2324,
+     201
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     120,
+     201,
+     846,
+     1271
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     120,
+     1271,
+     846,
+     2235
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     120,
+     2235,
+     846,
+     3270
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     846,
+     201,
+     1593,
+     549
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     846,
+     549,
+     1593,
+     1437
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     914,
+     737,
+     1488,
+     1233
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     846,
+     1437,
+     1593,
+     2476
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     846,
+     2476,
+     1593,
+     3270
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1593,
+     201,
+     2324,
+     1287
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1593,
+     1287,
+     2324,
+     2035
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1593,
+     2035,
+     2324,
+     3094
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1593,
+     3094,
+     2324,
+     3270
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|bishop|564|bishop’s-weed}}",
+   "c1s1": "= Ir. ''easbog'' = W. ''esgob'' = Bret. ''eskop'' = (prob. < Teut.) OBulg. ''biskupŭ'' = Serv. Bohem. Pol. ''biskup'' = Sloven. ''shkof'' = Lith. ''viskupas'' = Lett. ''biskaps'' = Alb. ''upeshk'' = Finn. ''piispa'', < LL. ''episcopus'', corruptly *''biscopus'', = Goth. ''aipiskaupus'' = Russ. ''episkopŭ'', < Gr. ἐπίσκοπος, a bishop, an overseer, < ἐπί, upon (see ''epi-''), + σκοπεῖν, look at, view (> σκοπός, a watcher), < √ *σκεπ = L. ''specere'', look at: see ''scope'', ''species'', ''spectacle'', ''spy'', etc.] '''1.''' An overseer: once applied to Christ in the New Testament.\n{{smaller block|For ye were as sheep going astray; but are now returned unto the Shepherd and ''Bishop'' of your souls.\n{{right|1 Pet. ii. 25.}}}}\n\n'''2.''' In the earliest usage of the Christian church, a spiritual overseer, whether of a local church or of a number of churches; a ruler or director in the church. See ''elder'' and ''presbyter''.\n{{smaller block|Paul and Timotheus . . . to all the saints in Christ Jesus which are at Philippi, with the ''bishops'' and deacons.\n{{right|Philip. i. 1.}}}}\n{{smaller block|The English version has hardly dealt fairly in this case with the sacred text, in rendering ἐπισκόπους, verse 28 (Acts xx.), “overseers”; whereas it ought there, as in all other places, to have been “''bishops''”; that the fact of elders and ''bishops'' having been originally and apostolically synonymous might be apparent to the ordinary English reader, which now it is not.\n{{right|''Dean Alford'', Greek Test., Acts xx. 17.}}}}\n{{smaller block|''Bishops'' and Presbyters, literally overseers and elders, are universally admitted to be terms equivalent to a considerable extent, and often, at least, applied to the same officers.\n{{right|''Smith'', Student’s Eccles. Hist., p. 176.}}}}\n\n'''3.''' From an early time, an overseer over a number of local churches; particularly, in the Greek, Oriental, Roman Catholic, and Anglican churches, the title of the highest order in",
+   "c1s2": "the ministry. See ''episcopacy''. {{smaller|The origin of the office of bishop in the Christian church is a matter of dispute. The terms ''bishop'' and ''presbyter'' appear to be used interchangeably in the New Testament; but those who support the episcopal form of government maintain that while these terms were not yet limited to their later meanings a difference of rank was indicated by them, that the office of the apostles, as overseers over the local churches and their pastors, was episcopal in its nature, and that the term ''bishop'' is appropriately used to designate those whom they ordained as their successors in an office which was intended to be permanent; while those who reject the episcopal form of government hold that the apostolic office was purely personal, and that the apostles had not and could not have successors. The Roman Catholic Church, the Greek and other Oriental churches, and the Anglican Church claim an unbroken succession of bishops from apostolic times. Moravian bishops also claim an unbroken episcopal succession, but exercise jurisdiction not as diocesans, but jointly. The first Methodist superintendent, the title afterward superseded by ''bishop'', was ordained by Wesley in 1784. (See ''itinerant bishop.'') In the Greek, Oriental, and Roman Catholic churches, the different grades of the office, besides ''simple'' or ''ordinary bishop'', are ''archbishop'', ''metropolitan'', ''primate'', ''exarch'', and ''patriarch;'' these were ecclesiastically instituted for convenience of government. (See ''pope''.) The Anglican Church also has archbishops and metropolitans. By virtue of concordats, the nomination of Roman Catholic bishops is sometimes made by the temporal power; the former election by the clergy remains in some cathedral chapters, but more commonly names are proposed by the fellow-suffragans and metropolitan, and by the clergy of the diocese to be provided for, to the Pope, who directly appoints and in any case confirms the new bishop. In England bishops are nominated by the sovereign, who, upon request of the dean and chapter for leave to elect a bishop, sends a ''congé d’élire'', or license to elect, with a letter}}",
+   "c1s3": "{{smaller block|missive, nominating the person whom he would have chosen. The election, by the chapter, must be made within twelve days, or the sovereign has a right to appoint whom he pleases. In the Protestant Episcopal Church in the United States the bishops are elected by the clergy and laity. Bishops are said to be ''consecrated'' rather than ''ordained. Enthronization'' is the solemn installation following the consecration. A bishop changed from one see to another is said to be ''translated;'' the church containing his cathedra or episcopal throne is called ''cathedral,'' and the local jurisdiction indicated by this throne, and the city or locality in which this stands, together with the diocese or territory attached to it, his ''see,'' to which he is said to be ''wedded,'' and which is ''widowed'' when deprived of him. This relation is symbolized by the bishop’s ring, which in the Western Church is a part of the insignia of his office, together with the miter, staff, and cross. To this office also are applied the term ''pontiff'' and its derivatives. Twenty-four of the English bishops and the two archbishops are peers of the realm, with seats in the House of Lords, and certain political and judicial or quasi-judicial functions. In the Mormon Church the bishop is an officer of the Aaronic or lesser priesthood, presides over it, ministers in outward ordinances, conducts the temporal business of the church, and acts as judge on transgressors. Often abbreviated ''Bp.'' See ''chorepiscopus'' and ''vicar apostolic.''}}\n'''4†.''' A name formerly given to a chief priest of any religion.—'''5.''' A name given in the United States about 1850 to a woman’s bustle.—'''6.''' A hot drink made with bitter oranges, cloves, and port wine.\n{{smaller block|He and the landlord were drinking a bowl of ''bishop'' together.\n{{right|''Dickens.''}}}}\n'''7.''' In ''entom.'': (''a'') A name of various heteropterous hemipterous insects, also called ''bishop’s-miters.'' They injure fruit by piercing it, and emit an intolerable odor. (''b'') A name of the",
+   "c2s1": "''cinellidæ.''—'''8.''' One of the pieces or men in chess, having its upper part carved into the shape of a miter. Formerly called ''archer.'' See ''chess.''—{{smaller|'''Assistant bishop,''' a bishop who assists a diocesan bishop.—'''Bench of bishops.''' See ''bench.''—'''Bishop’s court,''' a name sometimes given in England to an ecclesiastical court held in the cathedral of each diocese, the judge whereof is the bishop’s chancellor, who judges by the civil canon law. The proper name is the ''consistory court.''—'''Bishop’s cross.''' Same as ''pastoral staff'' (which see, under ''staff'').—'''Bishop’s cross-staff,''' a staff bearing a simple cross. See ''episcopal staff,'' under ''staff.''—'''Bishop’s lawn,''' a variety of fine lawn, used for the sleeves of the vestments of Anglican}}",
+   "c2s2": "bishops (whence the name), and also by women for many purposes.—'''Bishop’s ring''', a part of the pontificals or insignia of office of a bishop of the Roman Catholic Church. It is a massive ring of gold, set with a sapphire, emerald, or ruby, worn on the third finger of the right hand.—'''Bishop’s staff.''' See ''crozier''.—'''Bishop’s throne''', the official or ceremonial seat of the bishop in the chancel or choir\n[[FIGURE]]\n{{c|{{smaller|Bishop’s Throne and Synthronus.—Basilica of Torcello, near Venice.}}}}\nof the principal or cathedral church of his diocese. In the early church, as still in the Greek Church and in some Roman Catholic churches, it stood behind the altar in the apse, and formed the central and highest seat of the synthronus (which see). According to a later arrangement, which continues to be the general rule in Roman Catholic",
+   "c2s3": "{{smaller block|and Anglican cathedrals, it is placed at the extreme east end of the stalls on either (preferably the northern or gospel) side, and is generally separate, but sometimes forms part of the stalls. It is usually of wood, but often of marble or bronze. Also called ''cathedra''.—'''Boy-bishop.''' See ''boy''<sup>1</sup>.—'''Cardinal bishop.''' See ''cardinal''.—'''Case of the seven bishops,''' a famous English trial, in 1688, of the primate and six bishops on a charge of libel in protesting, in a petition to James II., against his order that his “declarations for liberty of conscience” be read in the churches.—'''Chancellor of a bishop.''' See ''chancellor''.—'''Coadjutor bishop,''' a bishop who assists the bishop of the diocese in discharging the duties of his bishopric.—'''Diocesan bishop,''' a bishop having jurisdiction over the churches and clergy in a regularly organized diocese, and having his canonical place of residence and his cathedral church in a city (called his ''see-city'' or ''cathedral city''), from which he usually takes his title, and from which he governs and visits his diocese: opposed to an ''assistant, coadjutor, missionary,'' or ''itinerant bishop''.—'''Ecumenical bishop.''' See ''ecumenical''.—'''Itinerant bishop,''' a bishop not having a separate territorial jurisdiction, but possessing joint authority with others over all the churches of the same organization. The bishops of the Methodist and Moravian churches are itinerant bishops.—'''Suffragan bishop.''' (''a'') A bishop consecrated to assist another bishop who is disabled by age, illness, or other cause; an auxiliary bishop. He differs from a coadjutor bishop in having no power to exercise jurisdiction. (''b'') A bishop in relation to his comprovincial bishops and their archbishop or metropolitan. This title is used of the other bishops of the Church of England in relation to the archbishops.}}\n\n'''bishop''' (bish′up), ''v. t.''; pret. and pp. ''bishoped'' or ''bishopped'', ppr. ''bishoping'' or ''bishopping''. [< ME. ''bischopen'', < AS. ''biscopian'', < ''biscop''; from the noun. In the last two senses, from the proper name ''Bishop''.] '''1.''' To administer the rite of confirmation to; admit solemnly into the church; confirm. [Archaic.]",
+   "c2s4": "{{smaller block|<poem>They are prophane, imperfect, oh! too bad . . .\nExcept confirm’d and ''bishopped'' by thee.</poem>\n{{right|''Donne'', Poems, p. 172.}}}}\n'''2.''' To confirm (anything) formally. [Jocular.]\n{{smaller block|<poem>And chose to bear\nThe name of fool confirmed and ''bishoped'' by the fair.</poem>\n{{right|''Dryden'', Cym. and Iphig., l. 243.}}}}\n'''3†.''' To appoint to the office of bishop.\n{{smaller block|This tradition of ''Bishoping'' Timothy over Ephesus was but taken for granted out of that place in St. Paul, which was only an intreating him to tarry at Ephesus, to do something left him in charge.\n{{right|''Milton'', Prelatical Episcopacy.}}}}\n'''4.''' To let (milk, etc.) burn while cooking: in allusion to the proverb, “The bishop has put his foot in it.” ''Brockett.'' [North. Eng. dial.] —'''5.''' [Supposed to be from ''Bishop'', the name of a horse-dealer.] In ''farriery'', to make (an old horse) look like a young one, or to give a good appearance to (a bad horse) in order to deceive purchasers.—'''6.''' [From a man named ''Bishop'', who in 1831 drowned a boy in order to sell his body for dissection. Cf. ''burke''.] To murder by drowning.\n\n'''bishop-bird''' (bish′up-bėrd), ''n.'' A name of sundry African weaver-birds of the family ''Plocei-''",
+   "c3s1": "tes (Swainson) or ''Pyromelana'' (Bonaparte).\n\n¶\n'''bishopdom''' (bish′up-dum), ''n.'' [< ''bishop'' + ''-dom''; not found in ME.; cf. AS. ''bisceopdōm'' = OHG. ''biscoftuom'', ''biscetuom'', MHG. ''bischtuom'', G. ''bistum'' = D. ''bisdom'' = Icel. ''biskups-dōmr'' = Dan. ''bispedömme'' = Sw. ''biskopdöme''.] '''1.''' The jurisdiction of a bishop; episcopate; episcopacy. Also ''bishopship''.\n{{smaller block|He would persuade us that the succession and divine right of ''bishopdom'' hath been unquestionable through all ages.\n{{right|''Milton'', Def. of Humb. Remonst.}}}}\n'''2.''' Bishops collectively.\n\n'''bishopess''' (bish′up-es), ''n.'' [< ''bishop'' + ''-ess''.] The wife of a bishop. ''Thackeray.'' [Rare.]\n\n'''bishophood''' (bish′up-hu̇d), ''n.'' [< ME. ''bischophood'', < AS. ''bisceophād'', < ''bisceop'', bishop, + ''hād'', condition: see ''bishop'' and ''-hood''.] The office, dignity, or rank of bishop.\n\n'''bishoply†''' (bish′up-li), ''a.'' [< ME. ''bisshoply'', etc., < AS. ''bisceoplīc'': see ''bishop'' and ''-ly''<sup>1</sup>.] Bishoplike; episcopal.\n{{smaller block|If he preach . . . before a bishop, then let him treat of ''bishoply'' duties and orders.\n{{right|''Latimer'', 1st Sermon bef. Edw. VI. (1549).}}\nEpiscopal, which has supplanted ''bishoply'', is only a Latin word in an English dress.\n{{right|''Trench'', Study of Words, p. 164.}}}}\n\n'''bishoply†''' (bish′up-li), ''adv.'' [< ''bishop'' + ''-ly''<sup>2</sup>.] In the manner of a bishop.\n\n'''bishop-ray''' (bish′up-rā), ''n.'' '''1.''' A raioid selachian of the family ''Myliobatidæ'', ''Ætobatis'' (or ''Stoasodon'') ''narinari'', of tropical and subtropical seas, sometimes wandering in summer northward along the coast of the United States to Virginia. {{smaller|Its disk is twice as wide as long, and is brownish diversified with small round pale spots.}}",
+   "c3s2": "'''2.''' Any fish of the genus ''Ætobatis.''\n\n'''bishopric''' (bish′up-rik), ''n.'' [Early mod. E. also ''bishopriche, bishoprick;'' < ME. ''bisshoprike, bisschopriche,'' also contracted ''bispriche,'' < AS. ''bisceoprīce'' (= Icel. ''biskupsrīki''), < ''bisceop,'' bishop, + ''rīce,'' jurisdiction, kingdom, = Icel. ''rīki'' = G. ''reich,'' kingdom; connected with AS. ''rīce,'' powerful, rich: see ''-ric, rich.''] '''1.''' The office or dignity of a bishop.\n{{smaller block|A virtuous woman should reject marriage as a good man does a ''bishoprick;'' but I would advise neither to persist in refusing.\n{{right|''Addison,'' Spectator, No. 89.}}}}\n'''2.''' The district over which the jurisdiction of a bishop extends; a diocese.\n{{smaller block|On the 17th of April, 1429, a question was raised in council which involved his right to retain the ''bishopric'' of Winchester.\n{{right|''Stubbs,'' Const. Hist., § 657.}}}}\n'''3†.''' The charge of instructing and governing in spiritual concerns; overseership.\n{{smaller block|His ''bishopric'' let another take.\n{{right|Acts i. 20.}}}}\n\n'''bishop’s-cap''' (bish′ups-kap), ''n.'' A name of two species of ''Mitella'' (''M. diphylla'' and ''M. nuda''), natural order ''Saxifragaceæ,'' which are natives of the United States: so called from the form",
+   "c3s3": "of the pod. Also called ''miterwort.''\n{{smaller block|And ''bishop’s-caps'' have golden rings.\n{{right|''Longfellow'', Prel. to Voices of the Night.}}}}\n\n¶\n'''bishop’s-elder''' (bish′ups-el″dėr), ''n.'' Same as ''bishop’s-weed'', 1.\n\n'''bishop’s-hat''' (bish′ups-hat), ''n.'' Another name of the barrenwort, ''Epimedium alpinum.''\n\n'''bishopship''' (bish′up-ship), ''n.'' [< ''bishop'' + ''-ship.''] Same as ''bishopdom'', 1. ''Milton.''\n\n'''bishop’s-leaves''' (bish′ups-lēvz), ''n.'' A species of figwort, ''Scrophularia aquatica.''\n\n'''bishop-sleeve''' (bish′up-slēv), ''n.'' A peculiar wide form of sleeve formerly worn by women: so named from its resemblance to the full sleeve, drawn in at the wrist, worn by Anglican bishops.\n\n'''bishop’s-length''' (bish′ups-length), ''n.'' In ''painting'', canvas measuring 58 inches by 94. The half-bishop measures 45 inches by 56.\n\n'''bishop’s-miter''' (bish′ups-mī″tėr), ''n.'' '''1.''' Same as ''bishop'', 7 (''a'').—'''2.''' A name of the miter-shell, ''Mitra episcopalis'', of the family ''Mitridæ.''\n\n'''bishop-stool†''' (bish′up-stöl), ''n.'' [< ME. ''bisscopstol'', < AS. ''bisceopstōl'' (= Icel. ''biskupsstōll'' = Sw. ''biskopstol'' = Dan. ''bispestol''), < ''bisceop'', bishop, + ''stōl'', seat, stool.] A bishop’s see or seat.\n{{smaller block|According to a custom in which we differed from continental churches and strangely agreed with our Celtic neighbours, . . . the temporal capital was not in early times the seat of the ''bishop-stool.''\n{{right|''E. A. Freeman.''}}}}\n\n'''bishop’s-weed, bishop-weed''' (bish′ups-, bish′up-wēd), ''n.'' '''1.''' ''Ægopodium podagraria.'' See ''goutwort.'' {{smaller|In Scotland it is popularly believed to have received this name from the great difficulty of extirpat-}}",
+   "c3s4": "ing it. Also called ''bishop’s-elder''. '''2.''' A name given to the plants of the genus ''Ammi'', and in the United States to a somewhat similar umbelliferous plant, ''Discopleura capillacea''.—{{smaller|'''True bishop’s-weed''', the ajowan, ''Carum Copticum''.}}"
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0590 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     926,
+     749,
+     1476,
+     1221
+    ],
+    "caption": [
+     863,
+     1239,
+     1576,
+     1262
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     910,
+     737,
+     1581,
+     1228
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4142,
+    "output_tokens": 93,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9449,
+    "output_tokens": 9056,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|bishop|564|bishop’s-weed}}</noinclude>= Ir. ''easbog'' = W. ''esgob'' = Bret. ''eskop'' = (prob. < Teut.) OBulg. ''biskupŭ'' = Serv. Bohem. Pol. ''biskup'' = Sloven. ''shkof'' = Lith. ''viskupas'' = Lett. ''biskaps'' = Alb. ''upeshk'' = Finn. ''piispa'', < LL. ''episcopus'', corruptly *''biscopus'', = Goth. ''aipiskaupus'' = Russ. ''episkopŭ'', < Gr. ἐπίσκοπος, a bishop, an overseer, < ἐπί, upon (see ''epi-''), + σκοπεῖν, look at, view (> σκοπός, a watcher), < √ *σκεπ = L. ''specere'', look at: see ''scope'', ''species'', ''spectacle'', ''spy'', etc.] '''1.''' An overseer: once applied to Christ in the New Testament.\n{{smaller block|For ye were as sheep going astray; but are now returned unto the Shepherd and ''Bishop'' of your souls.\n{{right|1 Pet. ii. 25.}}}}\n\n'''2.''' In the earliest usage of the Christian church, a spiritual overseer, whether of a local church or of a number of churches; a ruler or director in the church. See ''elder'' and ''presbyter''.\n{{smaller block|Paul and Timotheus . . . to all the saints in Christ Jesus which are at Philippi, with the ''bishops'' and deacons.\n{{right|Philip. i. 1.}}}}\n{{smaller block|The English version has hardly dealt fairly in this case with the sacred text, in rendering ἐπισκόπους, verse 28 (Acts xx.), “overseers”; whereas it ought there, as in all other places, to have been “''bishops''”; that the fact of elders and ''bishops'' having been originally and apostolically synonymous might be apparent to the ordinary English reader, which now it is not.\n{{right|''Dean Alford'', Greek Test., Acts xx. 17.}}}}\n{{smaller block|''Bishops'' and Presbyters, literally overseers and elders, are universally admitted to be terms equivalent to a considerable extent, and often, at least, applied to the same officers.\n{{right|''Smith'', Student’s Eccles. Hist., p. 176.}}}}\n\n'''3.''' From an early time, an overseer over a number of local churches; particularly, in the Greek, Oriental, Roman Catholic, and Anglican churches, the title of the highest order in the ministry. See ''episcopacy''. {{smaller|The origin of the office of bishop in the Christian church is a matter of dispute. The terms ''bishop'' and ''presbyter'' appear to be used interchangeably in the New Testament; but those who support the episcopal form of government maintain that while these terms were not yet limited to their later meanings a difference of rank was indicated by them, that the office of the apostles, as overseers over the local churches and their pastors, was episcopal in its nature, and that the term ''bishop'' is appropriately used to designate those whom they ordained as their successors in an office which was intended to be permanent; while those who reject the episcopal form of government hold that the apostolic office was purely personal, and that the apostles had not and could not have successors. The Roman Catholic Church, the Greek and other Oriental churches, and the Anglican Church claim an unbroken succession of bishops from apostolic times. Moravian bishops also claim an unbroken episcopal succession, but exercise jurisdiction not as diocesans, but jointly. The first Methodist superintendent, the title afterward superseded by ''bishop'', was ordained by Wesley in 1784. (See ''itinerant bishop.'') In the Greek, Oriental, and Roman Catholic churches, the different grades of the office, besides ''simple'' or ''ordinary bishop'', are ''archbishop'', ''metropolitan'', ''primate'', ''exarch'', and ''patriarch;'' these were ecclesiastically instituted for convenience of government. (See ''pope''.) The Anglican Church also has archbishops and metropolitans. By virtue of concordats, the nomination of Roman Catholic bishops is sometimes made by the temporal power; the former election by the clergy remains in some cathedral chapters, but more commonly names are proposed by the fellow-suffragans and metropolitan, and by the clergy of the diocese to be provided for, to the Pope, who directly appoints and in any case confirms the new bishop. In England bishops are nominated by the sovereign, who, upon request of the dean and chapter for leave to elect a bishop, sends a ''congé d’élire'', or license to elect, with a letter missive, nominating the person whom he would have chosen. The election, by the chapter, must be made within twelve days, or the sovereign has a right to appoint whom he pleases. In the Protestant Episcopal Church in the United States the bishops are elected by the clergy and laity. Bishops are said to be ''consecrated'' rather than ''ordained. Enthronization'' is the solemn installation following the consecration. A bishop changed from one see to another is said to be ''translated;'' the church containing his cathedra or episcopal throne is called ''cathedral,'' and the local jurisdiction indicated by this throne, and the city or locality in which this stands, together with the diocese or territory attached to it, his ''see,'' to which he is said to be ''wedded,'' and which is ''widowed'' when deprived of him. This relation is symbolized by the bishop’s ring, which in the Western Church is a part of the insignia of his office, together with the miter, staff, and cross. To this office also are applied the term ''pontiff'' and its derivatives. Twenty-four of the English bishops and the two archbishops are peers of the realm, with seats in the House of Lords, and certain political and judicial or quasi-judicial functions. In the Mormon Church the bishop is an officer of the Aaronic or lesser priesthood, presides over it, ministers in outward ordinances, conducts the temporal business of the church, and acts as judge on transgressors. Often abbreviated ''Bp.'' See ''chorepiscopus'' and ''vicar apostolic.''}}\n'''4†.''' A name formerly given to a chief priest of any religion.—'''5.''' A name given in the United States about 1850 to a woman’s bustle.—'''6.''' A hot drink made with bitter oranges, cloves, and port wine.\n{{smaller block|He and the landlord were drinking a bowl of ''bishop'' together.\n{{right|''Dickens.''}}}}\n'''7.''' In ''entom.'': (''a'') A name of various heteropterous hemipterous insects, also called ''bishop’s-miters.'' They injure fruit by piercing it, and emit an intolerable odor. (''b'') A name of the ''cinellidæ.''—'''8.''' One of the pieces or men in chess, having its upper part carved into the shape of a miter. Formerly called ''archer.'' See ''chess.''—{{smaller|'''Assistant bishop,''' a bishop who assists a diocesan bishop.—'''Bench of bishops.''' See ''bench.''—'''Bishop’s court,''' a name sometimes given in England to an ecclesiastical court held in the cathedral of each diocese, the judge whereof is the bishop’s chancellor, who judges by the civil canon law. The proper name is the ''consistory court.''—'''Bishop’s cross.''' Same as ''pastoral staff'' (which see, under ''staff'').—'''Bishop’s cross-staff,''' a staff bearing a simple cross. See ''episcopal staff,'' under ''staff.''—'''Bishop’s lawn,''' a variety of fine lawn, used for the sleeves of the vestments of Anglican}} bishops (whence the name), and also by women for many purposes.—'''Bishop’s ring''', a part of the pontificals or insignia of office of a bishop of the Roman Catholic Church. It is a massive ring of gold, set with a sapphire, emerald, or ruby, worn on the third finger of the right hand.—'''Bishop’s staff.''' See ''crozier''.—'''Bishop’s throne''', the official or ceremonial seat of the bishop in the chancel or choir\nof the principal or cathedral church of his diocese. In the early church, as still in the Greek Church and in some Roman Catholic churches, it stood behind the altar in the apse, and formed the central and highest seat of the synthronus (which see). According to a later arrangement, which continues to be the general rule in Roman Catholic {{smaller block|and Anglican cathedrals, it is placed at the extreme east end of the stalls on either (preferably the northern or gospel) side, and is generally separate, but sometimes forms part of the stalls. It is usually of wood, but often of marble or bronze. Also called ''cathedra''.—'''Boy-bishop.''' See ''boy''<sup>1</sup>.—'''Cardinal bishop.''' See ''cardinal''.—'''Case of the seven bishops,''' a famous English trial, in 1688, of the primate and six bishops on a charge of libel in protesting, in a petition to James II., against his order that his “declarations for liberty of conscience” be read in the churches.—'''Chancellor of a bishop.''' See ''chancellor''.—'''Coadjutor bishop,''' a bishop who assists the bishop of the diocese in discharging the duties of his bishopric.—'''Diocesan bishop,''' a bishop having jurisdiction over the churches and clergy in a regularly organized diocese, and having his canonical place of residence and his cathedral church in a city (called his ''see-city'' or ''cathedral city''), from which he usually takes his title, and from which he governs and visits his diocese: opposed to an ''assistant, coadjutor, missionary,'' or ''itinerant bishop''.—'''Ecumenical bishop.''' See ''ecumenical''.—'''Itinerant bishop,''' a bishop not having a separate territorial jurisdiction, but possessing joint authority with others over all the churches of the same organization. The bishops of the Methodist and Moravian churches are itinerant bishops.—'''Suffragan bishop.''' (''a'') A bishop consecrated to assist another bishop who is disabled by age, illness, or other cause; an auxiliary bishop. He differs from a coadjutor bishop in having no power to exercise jurisdiction. (''b'') A bishop in relation to his comprovincial bishops and their archbishop or metropolitan. This title is used of the other bishops of the Church of England in relation to the archbishops.}}\n\n[[File:century v01 p0590 c2f1.png|center|278px]]\n{{c|{{smaller|Bishop’s Throne and Synthronus.—Basilica of Torcello, near Venice.}}}}\n\n'''bishop''' (bish′up), ''v. t.''; pret. and pp. ''bishoped'' or ''bishopped'', ppr. ''bishoping'' or ''bishopping''.   [< ME. ''bischopen'', < AS. ''biscopian'', < ''biscop''; from the noun. In the last two senses, from the proper name ''Bishop''.]   '''1.''' To administer the rite of confirmation to; admit solemnly into the church; confirm. [Archaic.] {{smaller block|<poem>They are prophane, imperfect, oh! too bad . . .\nExcept confirm’d and ''bishopped'' by thee.</poem>\n{{right|''Donne'', Poems, p. 172.}}}}\n'''2.''' To confirm (anything) formally. [Jocular.]\n{{smaller block|<poem>And chose to bear\nThe name of fool confirmed and ''bishoped'' by the fair.</poem>\n{{right|''Dryden'', Cym. and Iphig., l. 243.}}}}\n'''3†.''' To appoint to the office of bishop.\n{{smaller block|This tradition of ''Bishoping'' Timothy over Ephesus was but taken for granted out of that place in St. Paul, which was only an intreating him to tarry at Ephesus, to do something left him in charge.\n{{right|''Milton'', Prelatical Episcopacy.}}}}\n'''4.''' To let (milk, etc.) burn while cooking: in allusion to the proverb, “The bishop has put his foot in it.” ''Brockett.'' [North. Eng. dial.] —'''5.''' [Supposed to be from ''Bishop'', the name of a horse-dealer.] In ''farriery'', to make (an old horse) look like a young one, or to give a good appearance to (a bad horse) in order to deceive purchasers.—'''6.''' [From a man named ''Bishop'', who in 1831 drowned a boy in order to sell his body for dissection. Cf. ''burke''.] To murder by drowning.\n\n'''bishop-bird''' (bish′up-bėrd), ''n.'' A name of sundry African weaver-birds of the family ''Ploceites'' (Swainson) or ''Pyromelana'' (Bonaparte).\n\n'''bishopdom''' (bish′up-dum), ''n.''   [< ''bishop'' + ''-dom''; not found in ME.; cf. AS. ''bisceopdōm'' = OHG. ''biscoftuom'', ''biscetuom'', MHG. ''bischtuom'', G. ''bistum'' = D. ''bisdom'' = Icel. ''biskups-dōmr'' = Dan. ''bispedömme'' = Sw. ''biskopdöme''.]   '''1.''' The jurisdiction of a bishop; episcopate; episcopacy. Also ''bishopship''.\n{{smaller block|He would persuade us that the succession and divine right of ''bishopdom'' hath been unquestionable through all ages.\n{{right|''Milton'', Def. of Humb. Remonst.}}}}\n'''2.''' Bishops collectively.\n\n'''bishopess''' (bish′up-es), ''n.''   [< ''bishop'' + ''-ess''.]   The wife of a bishop.   ''Thackeray.'' [Rare.]\n\n'''bishophood''' (bish′up-hu̇d), ''n.''   [< ME. ''bischophood'', < AS. ''bisceophād'', < ''bisceop'', bishop, + ''hād'', condition: see ''bishop'' and ''-hood''.]   The office, dignity, or rank of bishop.\n\n'''bishoply†''' (bish′up-li), ''a.''   [< ME. ''bisshoply'', etc., < AS. ''bisceoplīc'': see ''bishop'' and ''-ly''<sup>1</sup>.]   Bishoplike; episcopal.\n{{smaller block|If he preach . . . before a bishop, then let him treat of ''bishoply'' duties and orders.\n{{right|''Latimer'', 1st Sermon bef. Edw. VI. (1549).}}}}\n{{smaller block|Episcopal, which has supplanted ''bishoply'', is only a Latin word in an English dress.\n{{right|''Trench'', Study of Words, p. 164.}}}}\n\n'''bishoply†''' (bish′up-li), ''adv.''   [< ''bishop'' + ''-ly''<sup>2</sup>.]   In the manner of a bishop.\n\n'''bishop-ray''' (bish′up-rā), ''n.'' '''1.''' A raioid selachian of the family ''Myliobatidæ'', ''Ætobatis'' (or ''Stoasodon'') ''narinari'', of tropical and subtropical seas, sometimes wandering in summer northward along the coast of the United States to Virginia. {{smaller|Its disk is twice as wide as long, and is brownish diversified with small round pale spots.}} '''2.''' Any fish of the genus ''Ætobatis.''\n\n'''bishopric''' (bish′up-rik), ''n.''   [Early mod. E. also ''bishopriche, bishoprick;'' < ME. ''bisshoprike, bisschopriche,'' also contracted ''bispriche,'' < AS. ''bisceoprīce'' (= Icel. ''biskupsrīki''), < ''bisceop,'' bishop, + ''rīce,'' jurisdiction, kingdom, = Icel. ''rīki'' = G. ''reich,'' kingdom; connected with AS. ''rīce,'' powerful, rich: see ''-ric, rich.'']   '''1.''' The office or dignity of a bishop.\n{{smaller block|A virtuous woman should reject marriage as a good man does a ''bishoprick;'' but I would advise neither to persist in refusing.\n{{right|''Addison,'' Spectator, No. 89.}}}}\n'''2.''' The district over which the jurisdiction of a bishop extends; a diocese.\n{{smaller block|On the 17th of April, 1429, a question was raised in council which involved his right to retain the ''bishopric'' of Winchester.\n{{right|''Stubbs,'' Const. Hist., § 657.}}}}\n'''3†.''' The charge of instructing and governing in spiritual concerns; overseership.\n{{smaller block|His ''bishopric'' let another take.\n{{right|Acts i. 20.}}}}\n\n'''bishop’s-cap''' (bish′ups-kap), ''n.'' A name of two species of ''Mitella'' (''M. diphylla'' and ''M. nuda''), natural order ''Saxifragaceæ,'' which are natives of the United States: so called from the form of the pod. Also called ''miterwort.''\n{{smaller block|And ''bishop’s-caps'' have golden rings.\n{{right|''Longfellow'', Prel. to Voices of the Night.}}}}\n\n'''bishop’s-elder''' (bish′ups-el″dėr), ''n.'' Same as ''bishop’s-weed'', 1.\n\n'''bishop’s-hat''' (bish′ups-hat), ''n.'' Another name of the barrenwort, ''Epimedium alpinum.''\n\n'''bishopship''' (bish′up-ship), ''n.''   [< ''bishop'' + ''-ship.'']   Same as ''bishopdom'', 1.   ''Milton.''\n\n'''bishop’s-leaves''' (bish′ups-lēvz), ''n.'' A species of figwort, ''Scrophularia aquatica.''\n\n'''bishop-sleeve''' (bish′up-slēv), ''n.'' A peculiar wide form of sleeve formerly worn by women: so named from its resemblance to the full sleeve, drawn in at the wrist, worn by Anglican bishops.\n\n'''bishop’s-length''' (bish′ups-length), ''n.'' In ''painting'', canvas measuring 58 inches by 94. The half-bishop measures 45 inches by 56.\n\n'''bishop’s-miter''' (bish′ups-mī″tėr), ''n.'' '''1.''' Same as ''bishop'', 7 (''a'').—'''2.''' A name of the miter-shell, ''Mitra episcopalis'', of the family ''Mitridæ.''\n\n'''bishop-stool†''' (bish′up-stöl), ''n.''   [< ME. ''bisscopstol'', < AS. ''bisceopstōl'' (= Icel. ''biskupsstōll'' = Sw. ''biskopstol'' = Dan. ''bispestol''), < ''bisceop'', bishop, + ''stōl'', seat, stool.]   A bishop’s see or seat.\n{{smaller block|According to a custom in which we differed from continental churches and strangely agreed with our Celtic neighbours, . . . the temporal capital was not in early times the seat of the ''bishop-stool.''\n{{right|''E. A. Freeman.''}}}}\n\n'''bishop’s-weed, bishop-weed''' (bish′ups-, bish′up-wēd), ''n.'' '''1.''' ''Ægopodium podagraria.'' See ''goutwort.'' {{smaller|In Scotland it is popularly believed to have received this name from the great difficulty of extirpating}} it. Also called ''bishop’s-elder''. '''2.''' A name given to the plants of the genus ''Ammi'', and in the United States to a somewhat similar umbelliferous plant, ''Discopleura capillacea''.—{{smaller|'''True bishop’s-weed''', the ajowan, ''Carum Copticum''.}}<noinclude><references/></noinclude>"
+}

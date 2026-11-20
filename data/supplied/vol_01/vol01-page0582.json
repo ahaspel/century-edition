@@ -1,0 +1,221 @@
+{
+ "volume": 1,
+ "page_number": 582,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n581.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n581.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 743,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     85,
+     131,
+     2298,
+     172
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     85,
+     172,
+     824,
+     1265
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     85,
+     1265,
+     824,
+     2168
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     85,
+     2168,
+     824,
+     3255
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     606,
+     2205,
+     808,
+     2434
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     85,
+     3255,
+     824,
+     3289
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     824,
+     172,
+     1567,
+     1272
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     824,
+     1272,
+     1567,
+     2309
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     824,
+     2309,
+     1567,
+     3289
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1567,
+     172,
+     2298,
+     1272
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1567,
+     1272,
+     2298,
+     2241
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1567,
+     2241,
+     2298,
+     3289
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|bina|556|binding}}",
+   "c1s1": "¶\n'''bina''' (bē′nä̤), ''n.'' [< Hind. ''bīn.'' Cf. ''been''<sup>4</sup>.] An East Indian guitar with seven strings. Also called ''vina.''\n\n¶\n'''binacle''', ''n.'' See ''binnacle.''\n\n¶\n'''binal''' (bī′nal), ''a.'' [< ML. ''binalis'', double, < L. ''bini'', two by two: see ''binary.''] Twofold; double; binary: as, “''binal'' revenge,” ''Ford'', Witch of Edmonton, iii. 2.\n{{smaller block|The attempt of the French to compel the use of the decimal system shows the difficulty of such an undertaking. Popular necessities compelled the introduction of ''binal'' divisions.\n{{right|''Pop. Sci. Mo.'', XIII. 423.}}}}\n\n¶\n'''binariant''' (bī-nā′ri-ant), ''n.'' A solution of the differential equation, ''bDa'' + ''cDb'' +, etc., = 0.\n\n¶\n'''binary''' (bī′nạ̄-ri), ''a.'' and ''n.'' [< L. ''binarius'', consisting of two things, < ''bini'', pl. (rarely sing. ''binus''), two by two, two, < ''bis'', double: see ''bi-''<sup>2</sup>. Cf. ''between.''] '''I.''' ''a.'' '''1.''' Twofold; dual; double; twain; twin; paired: said of anything which is composed of two things or considered as divided into two things.—'''2.''' In ''bot.'', having the organs in twos: applied to flowers: equivalent to ''dimerous.''—{{smaller|'''Binary arithmetic''', that system, invented by Leibnitz, in which two figures only, 0 and 1, are used in lieu of ten, the cipher being placed as in common arithmetic, but denoting multiplication by 2 instead of by 10. Thus, 1 is one; 10 is two; 11 is three; 100 is four; 101 is five; 110 is six; 111 is seven; 1000 is eight; 1001 is nine; 1010 is ten.—'''Binary classification, binary system''', in ''zoöl.'', one which divides a group of objects into two series, as the class of birds into two subclasses, ''Altrices'' and ''Præcoces;'' a dichotomous arrangement: opposed to ''quinary'', etc.—'''Binary compound''', in ''chem.'', a compound of two elements, or of an element and a compound performing the function of an element, or of two compounds performing the functions of elements, according to the laws of combination. Fara-}}",
+   "c1s2": "day assigns as the distinctive character of a binary compound that it admits of electrolysis.—'''Binary cubic.''' See ''cubic.''—'''Binary engine,''' an engine having the piston of one cylinder impelled by steam which, being exhausted into another part of the apparatus, communicates its unutilized heat to some volatile liquid at a lower temperature; the vapor of this second liquid, by its expansion in a second cylinder, yields additional force.—'''Binary enunciation,''' in ''logic,'' a categorical proposition whose verb is not ''to be'': as, Socrates dies. Usually called a ''proposition of second adjacent.''—'''Binary form,''' or '''binary quantic,''' in ''alg.'', a homogeneous function of two variables; as:\n{{block center|<math>ax + by,</math><br><math>ax^2 + bxy + cy^2,</math><br><math>ax^3 + bx^2y + cxy^2 + dy^3,</math> etc.}}\nSo ''binary cubic, quartic,'' etc.—'''Binary form,''' in ''music,'' a movement based upon two subjects or divided into two distinct or contrasted sections.—'''Binary logarithms,''' a system of logarithms contrived and calculated by Euler for facilitating musical calculations. In this system 1 is the logarithm of 2, 2 of 4, etc., and the modulus is 1.442-695; whereas in the kind commonly used 1 is the logarithm of 10, 2 of 100, etc., and the modulus is .43429448.—'''Binary measure,''' in ''music,'' the measure used in common time, in which the time of rising in beating is equal to the time of falling.—'''Binary nomenclature, binary name,''' in ''zoöl.'' and ''bot.'', a binomial nomenclature or binomial name. See ''binomial.''—'''Binary number,''' a number which is composed of two units.—'''Binary scale,''' the scale of notation used in binary arithmetic.—'''Binary star,''' a double star whose members have a revolution around their common center of gravity.—'''Binary theory of salts,''' the theory which regards salts as consisting of two elements, a basic or electropositive, which may be a metal or a radical, and an acid or electronegative element or rad-",
+   "c1s3": "K-NO<sub>3</sub>; potassium acetate, K-C<sub>2</sub>H<sub>3</sub>O<sub>0</sub>.\n\n[[FIGURE]]\n{{c|{{smaller|Binate Leaves.}}}}\n\n'''II.''' ''n.''; pl. ''binaries'' (-riz). A whole composed of two; a dyad.\n{{smaller block|To make two, or a ''binary'', . . . add but one unto one.\n{{right|''Fotherby'', Atheomastix, p. 307.}}}}\n\n¶\n'''binate''' (bī′nāt), ''a.'' [< NL. ''binatus'', < L. ''bini'', two and two: see ''binary''.] In ''bot.'', being double or in couples; having only two leaflets to a petiole; growing in pairs.\n\n'''binaural''' (bin-â′ra̤l), ''a.'' [< L. ''bini'', two and two, + ''auris'' = E. ''ear''<sup>1</sup>.] '''1.''' Having two ears. —'''2.''' Pertaining to or involving the use of both ears; fitted for being simultaneously used by two ears: as, a ''binaural'' stethoscope, which has two connected tubes capped by small earpieces.\n{{smaller block|There is even a kind of ''binaural'' audition, by means of which we judge imperfectly of direction of sound.\n{{right|''Le Conte'', Sight, p. 265.}}}}\n\n'''binching''' (bin′ching), ''n.'' [Appar. a dial. form of ''benching''. Cf. dial. ''bink'', ''benk'' = ''bench''.] In ''coal-mining'', the bed or rock on which a layer of coal rests. [Somersetshire, Eng.]\n\n'''bind''' (bīnd), ''v.''; pret. ''bound'', pp. ''bound'' (formerly ''bounden'', now only attrib.), ppr. ''binding''. [< ME. ''binden'' (pret. ''band'', ''bond'', later ''bounde'', pl. ''bounden'', ''bounde'', pp. ''bounden''), < AS. ''bindan'' (pret. ''band'', pl. ''bundon'', pp. ''bunden'') = OS. ''bindan'' = OFries. ''binda'' = D. ''binden'' = OHG. ''bintan'', MHG. G. ''binden'' = Icel. ''binda'' = Sw. ''binda'' = Dan. ''binde'' = Goth. ''bindan'', bind, tie, = Skt. √''bandh'', orig. *''bhandh'', bind, tie. The same root",
+   "c1s4": "prob. appears in L. ''of-fend-ix'', ''of-fend-imentum'',",
+   "c2s1": "the knot of a band, Gr. πεῖσμα (for *πενθμα, *φενθμα), a rope. See ''band''<sup>1</sup>, ''band''<sup>2</sup>, ''bend''<sup>1</sup>, ''bend''<sup>2</sup>, etc., ''bond''<sup>1</sup>, ''bundle'', etc.] '''I.''' ''trans.'' '''1.''' To make fast (to, on, or upon) with a band or bond of any kind.\n{{smaller block|Thou shalt ''bind'' them for a sign ''upon'' thine hand.\n{{right|Deut. vi. 8.}}\n''Bind'' the chariot ''to'' the swift beast. Micah i. 13.}}\n'''2.''' To unite by any legal or moral tie; attach by considerations of love, duty, interest, obligation, etc.: as, ''bound'' in the bonds of matrimony; ''bound'' by gratitude, duty, debt, etc.\n{{smaller block|<poem>Distrust and grief\nWill ''bind'' to us each Western chief.</poem>\n{{right|''Scott'', L. of the L., ii. 30.}}}}\n'''3.''' To put in bonds or fetters; deprive of liberty or of the use of the limbs by making fast physically.\n{{smaller block|''Bind'' him hand and foot, and take him away.\n{{right|Mat. xxii. 13.}}\nHe took Paul’s girdle, and ''bound'' his own hands and feet, and said, . . . So shall the Jews at Jerusalem ''bind'' the man that owneth this girdle. Acts xxi. 11.}}\n'''4.''' To restrain; hold to a particular state, place, employment, etc.\n{{smaller block|He ''bindeth'' the floods from overflowing. Job xxviii. 11.\nI have no official business to ''bind'' me.\n{{right|''Macaulay'', in Trevelyan, II. vii.}}}}\n'''5.''' To hinder or restrain (the bowels) from their natural operations; make costive; constipate.—'''6.''' To fasten around anything; fix in place by girding or tying: as, to ''bind'' a cord round the arm.\n{{smaller block|I, maiden, round thee, maiden, ''bind'' my belt.}}",
+   "c2s2": "{{smaller block|{{right|''Tennyson'', Holy Grail.}}}}\n\n¶\n'''7.''' To encircle with a band or ligature; gird; confine or restrain by girding: as, “''bind'' up those tresses,” ''Shak.'', K. John, iii. 4.\n{{smaller block|A fillet ''binds'' her hair. {{right|''Pope'', Windsor Forest, l. 178.}}}}\n\n¶\n'''8.''' To swathe or bandage; cover and swathe with dressings: with ''up''.\n{{smaller block|He healeth the broken in heart, and ''bindeth up'' their wounds. {{right|Ps. cxlvii. 3.}}\n\nGive me another horse, ''bind up'' my wounds.\n{{right|''Shak.'', Rich III., v. 3.}}}}\n\n¶\n'''9.''' To form a border or edge on, for the purpose of strengthening or ornamenting; edge: as, to ''bind'' a wheel with a tire; to ''bind'' a garment or a carpet.\n{{smaller block|<poem>Her mantle rich, whose borders round\nA deep and fretted broidery ''bound''.</poem>\n{{right|''Scott'', Marmion, vi. 3.}}\n<poem>Black cliffs and high,\nWith green grass growing on the tops of them,\n''Binding'' them round as gold a garment’s hem.</poem>\n{{right|''William Morris'', Earthly Paradise, I. 172.}}}}\n\n¶\n'''10.''' To tie or fasten (loose things) together with a band, cord, or tie; tie up into one bundle or mass: as, to ''bind'' sheaves of grain.—'''11.''' To fasten or secure within a cover, as a book or pamphlet. See ''bookbinding''.—'''12.''' In ''fencing'', to secure (the sword of an adversary). See ''binding'', ''n.'', 3.—'''13.''' To cause to cohere; cement; knit; unite firmly: as, to ''bind'' the loose sand.\n{{smaller block|<poem>The sooner to effect,\nAnd surer ''bind'', this knot of amity,—</poem>}}",
+   "c2s3": "{{smaller block|<poem>The Earl of Armagnac . . .\nProffers his only daughter to your grace\nIn marriage. {{right|''Shak.'', 1 Hen. VI., v. 1.}}</poem>}}\n{{smaller block|God has so ''bound'' society together that if one member suffer, all suffer. {{right|''J. F. Clarke'', Self-Culture, p. 60.}}}}\n{{smaller block|Have enough oil in the colours to ''bind'' them.\n{{right|''Workshop Receipts'', 1st ser., p. 423.}}}}\n{{smaller block|''Binding'' the ink to prevent its smearing.\n{{right|''Workshop Receipts'', 2d ser., p. 343.}}}}\n'''14.''' To place under obligation or compulsion: as, all are ''bound'' to obey the laws.\n{{smaller block|<poem>This ring I gave him, when he parted from me,\nTo ''bind'' him to remember my good-will.\n{{right|''Shak.'', T. G. of V., iv. 4.}}</poem>}}\n{{smaller block|’Tis true, by my father’s will, I am for a short period ''bound'' to regard you as his substitute.\n{{right|''Sheridan'', School for Scandal, iii. 1.}}}}\n'''15.''' To put under legal obligation: often with ''over'': as, to ''bind'' a man ''over'' to keep the peace. Specifically—'''16.''' To indenture as an apprentice: often with ''out''.\n{{smaller block|My mother she wanted to ''bind'' me ''out'' to a blacksmith.\n{{right|''Mrs. Stowe'', Oldtown, p. 83.}}}}\n\n{{smaller|'''To bind hand and foot.''' See ''hand''.—'''To bind in,''' to inclose; surround.}}\n{{smaller block|<poem>''Bound in'' with the triumphant sea.\n{{right|''Shak.'', Rich. II., ii. 1.}}\nA costly jewel . . . ''bound in'' with diamonds.\n{{right|''Shak.'', 2 Hen. VI., iii. 2.}}</poem>}}\n\n{{smaller|'''To bind up in,''' to cause to be wholly engrossed with; absorb in; connect intimately with: chiefly in the passive.}}\n{{smaller block|Seeing that his life is ''bound up in'' the lad’s life.\n{{right|Gen. xliv. 30.}}}}",
+   "c3s1": "¶\n'''II.''' ''intrans.'' '''1.''' To cohere; stick together.—'''2.''' To become indurated, hard, or stiff: as, clay ''binds'' by heat.—'''3.''' To be obligatory or of force.\n{{smaller block|Those canons or imperial constitutions which have not been received here do not ''bind''. {{right|''Sir M. Hale.''}}}}\n'''4.''' To tie up anything; specifically, to tie up sheaves.\n{{smaller block|They that reap must sheaf and ''bind''.\n{{right|''Shak.'', As you Like it, iii. 2.}}}}\n'''5.''' In ''falconry'', to seize a bird in the air and cling to it: said of a hawk.\n\n'''bind''' (bīnd), ''n.'' [< ''bind'', ''v.'' In third sense, cf. ''bundle'', and see ''tie'', ''n.'' In the botanical sense, < ME. ''bynde'', a climbing stem, esp. woodbine, ivy; chiefly in comp. as ''wudebinde'', woodbind. The word, by its use in comp., has suffered corruption to ''bine'', Sc. ''bin-'', ''ben-'': see ''bine''<sup>1</sup>, ''woodbine'', ''bearbine'', etc., and the compounds of ''bind'' below.] '''1.''' A tie or band; anything that binds. Specifically—(''a'') A connecting timber in a ship. (''b'') In ''music'', a tie, slur, or brace.—'''2.''' In ''coal-mining'', indurated, argillaceous shale or clay, such as frequently forms the roof of a coal-seam: same as ''bend''<sup>1</sup>, 12, and ''bat''<sup>1</sup>, 10. [Eng.]—'''3.''' A unit of tale. A bind of eels is 250. A bind of skins is 32, or of some kinds 40. [Eng.]—'''4.''' Bounds; limit; stint: as, I am at my ''bind''. [Scotch.]\n{{smaller block|Their ''bind'' was just a Scots pint overhead, and a tappit-hen to the bill, and no man ever saw them the waur o’t.\n{{right|''Scott'', St. Ronan’s Well, I. i.}}}}\n'''5.''' A climbing stem; a bine; specifically, a stalk of hops. See ''bine''<sup>1</sup>.",
+   "c3s2": "{{smaller block|The whyle God of his grace ded growe of that soyle\nThe fayrest ''bynde'' hym [Jonah] abof that ever burne wyste.\n{{right|''Alliterative Poems'' (ed. Morris), iii. 444.}}}}\n\n¶\n'''binder''' (bīn′dėr), ''n.'' [< ME. ''bynderc'', < AS. ''bindere'', < ''bindan'', bind: see ''bind'', ''v.'', and ''-er''<sup>1</sup>.] '''1.''' A person who binds. Specifically—(''a'') One who binds books; a bookbinder. (''b'') One who binds sheaves.—'''2.''' Anything that binds, in any sense of that verb.—'''3.''' In ''bricklaying'', a header which extends partly through a wall; a bonder. —'''4.''' In ''carp.'', a tie-beam; a binding-joist serving as a transverse support for the bridging-joists above and the ceiling-joists below.—'''5.''' An attachment to a sewing-machine for folding an edge or a binding.—'''6.''' In ''agri.'': (''a'') An attachment to a reaper for tying the bundles of grain. (''b'') A separate horse-power machine for gathering up and binding grain already cut.—'''7.''' An arrester or stop for the shuttle of a loom. —'''8.''' A temporary cover for loose sheets of music, papers, etc.—'''9.''' ''pl.'' Same as ''binding'', 4. {{smaller|—'''Binders’ board''', thick, smooth, calendered pasteboard used for the covers of books.}}\n\n'''binder-frame''' (bīn′dėr-frām), ''n.'' In ''mach.'', a hanger supporting shafting, and having adjustable bearings by which the position of the pulleys can be regulated to suit the direction of the motion of the belts.\n\n'''bindery''' (bīn′dėr-i), ''n.''; pl. ''binderies'' (-iz). [< ''bind'', ''v.'', + ''-ery''.] A place where books are bound.",
+   "c3s3": "¶\n'''bindheimite''' (bind′hī-mīt), ''n.'' [< ''Bindheim'' (a German chemist) + ''-ite''<sup>2</sup>.] An amorphous antimoniate of lead produced by the decomposition of antimonial minerals, especially jamesonite.\n\n'''binding''' (bīn′ding), ''p. a.'' [Ppr. of ''bind'', ''v.''] '''1.''' Serving to bind, fasten, or connect; making fast.—'''2.''' Having power to bind or oblige; obligatory: as, a ''binding'' engagement.\n{{smaller block|Civil contracts may be held ''binding'' although made by lunatics.\n{{right|''E. C. Mann'', Psychol. Med., p. 87.}}}}\n'''3.''' Astringent.—'''4.''' Causing constipation; constipating. [Colloq.]\n\n'''binding''' (bīn′ding), ''n.'' [Verbal n. of ''bind'', ''v.''] '''1.''' The act or action of making fast, securing, uniting, etc., in any sense of the verb ''bind:'' as, the ''binding'' of prisoners; wire that serves for ''binding''.—'''2.''' Anything that binds; a bandage; the cover of a book, with the sewing and accompanying work; something that secures the edges of cloth or of a garment.—'''3.''' In ''fencing'', a method of securing the adversary’s sword, consisting in crossing it with a pressure, accompanied with a spring of the wrist.—'''4.''' ''pl.'' In ''ship-building'', the beams, transoms, knees, wales, keelson, and other chief timbers used for connecting and strengthening the various parts of a vessel. Also called ''binders''.—'''5.''' The condition assumed by adhesive soils in hot dry seasons; a similar condition in the soil of flower-pots in which plants have been kept too long or too dry; closeness, dryness, or hardness of texture.—'''6.''' In ''mach.'', the prevention of free mo-"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0582 c1f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     618,
+     2217,
+     796,
+     2422
+    ],
+    "caption": [
+     634,
+     2429,
+     789,
+     2449
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     616,
+     2227,
+     799,
+     2410
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 3833,
+    "output_tokens": 96,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9620,
+    "output_tokens": 9831,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c1f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|bina|556|binding}}</noinclude>{{nop}}'''bina''' (bē′nä̤), ''n.''   [< Hind. ''bīn.'' Cf. ''been''<sup>4</sup>.]   An East Indian guitar with seven strings. Also called ''vina.''\n\n'''binacle''', ''n.'' See ''binnacle.''\n\n'''binal''' (bī′nal), ''a.''   [< ML. ''binalis'', double, < L. ''bini'', two by two: see ''binary.'']   Twofold; double; binary: as, “''binal'' revenge,” ''Ford'', Witch of Edmonton, iii. 2.\n{{smaller block|The attempt of the French to compel the use of the decimal system shows the difficulty of such an undertaking. Popular necessities compelled the introduction of ''binal'' divisions.\n{{right|''Pop. Sci. Mo.'', XIII. 423.}}}}\n\n'''binariant''' (bī-nā′ri-ant), ''n.'' A solution of the differential equation, ''bDa'' + ''cDb'' +, etc., = 0.\n\n'''binary''' (bī′nạ̄-ri), ''a.'' and ''n.''   [< L. ''binarius'', consisting of two things, < ''bini'', pl. (rarely sing. ''binus''), two by two, two, < ''bis'', double: see ''bi-''<sup>2</sup>. Cf. ''between.'']   '''I.''' ''a.'' '''1.''' Twofold; dual; double; twain; twin; paired: said of anything which is composed of two things or considered as divided into two things.—'''2.''' In ''bot.'', having the organs in twos: applied to flowers: equivalent to ''dimerous.''—{{smaller|'''Binary arithmetic''', that system, invented by Leibnitz, in which two figures only, 0 and 1, are used in lieu of ten, the cipher being placed as in common arithmetic, but denoting multiplication by 2 instead of by 10. Thus, 1 is one; 10 is two; 11 is three; 100 is four; 101 is five; 110 is six; 111 is seven; 1000 is eight; 1001 is nine; 1010 is ten.—'''Binary classification, binary system''', in ''zoöl.'', one which divides a group of objects into two series, as the class of birds into two subclasses, ''Altrices'' and ''Præcoces;'' a dichotomous arrangement: opposed to ''quinary'', etc.—'''Binary compound''', in ''chem.'', a compound of two elements, or of an element and a compound performing the function of an element, or of two compounds performing the functions of elements, according to the laws of combination. Faraday}} assigns as the distinctive character of a binary compound that it admits of electrolysis.—'''Binary cubic.''' See ''cubic.''—'''Binary engine,''' an engine having the piston of one cylinder impelled by steam which, being exhausted into another part of the apparatus, communicates its unutilized heat to some volatile liquid at a lower temperature; the vapor of this second liquid, by its expansion in a second cylinder, yields additional force.—'''Binary enunciation,''' in ''logic,'' a categorical proposition whose verb is not ''to be'': as, Socrates dies. Usually called a ''proposition of second adjacent.''—'''Binary form,''' or '''binary quantic,''' in ''alg.'', a homogeneous function of two variables; as:\n{{block center|<math>ax + by,</math><br><math>ax^2 + bxy + cy^2,</math><br><math>ax^3 + bx^2y + cxy^2 + dy^3,</math> etc.}}\nSo ''binary cubic, quartic,'' etc.—'''Binary form,''' in ''music,'' a movement based upon two subjects or divided into two distinct or contrasted sections.—'''Binary logarithms,''' a system of logarithms contrived and calculated by Euler for facilitating musical calculations. In this system 1 is the logarithm of 2, 2 of 4, etc., and the modulus is 1.442-695; whereas in the kind commonly used 1 is the logarithm of 10, 2 of 100, etc., and the modulus is .43429448.—'''Binary measure,''' in ''music,'' the measure used in common time, in which the time of rising in beating is equal to the time of falling.—'''Binary nomenclature, binary name,''' in ''zoöl.'' and ''bot.'', a binomial nomenclature or binomial name. See ''binomial.''—'''Binary number,''' a number which is composed of two units.—'''Binary scale,''' the scale of notation used in binary arithmetic.—'''Binary star,''' a double star whose members have a revolution around their common center of gravity.—'''Binary theory of salts,''' the theory which regards salts as consisting of two elements, a basic or electropositive, which may be a metal or a radical, and an acid or electronegative element or radK-NO<sub>3</sub>; potassium acetate, K-C<sub>2</sub>H<sub>3</sub>O<sub>0</sub>.\n\n{{img float|file=century v01 p0582 c1f1.png|width=98px|align=right|cap={{smaller|Binate Leaves.}}}}\n\n'''II.''' ''n.''; pl. ''binaries'' (-riz). A whole composed of two; a dyad.\n{{smaller block|To make two, or a ''binary'', . . . add but one unto one.\n{{right|''Fotherby'', Atheomastix, p. 307.}}}}\n\n'''binate''' (bī′nāt), ''a.''   [< NL. ''binatus'', < L. ''bini'', two and two: see ''binary''.]   In ''bot.'', being double or in couples; having only two leaflets to a petiole; growing in pairs.\n\n'''binaural''' (bin-â′ra̤l), ''a.''   [< L. ''bini'', two and two, + ''auris'' = E. ''ear''<sup>1</sup>.]   '''1.''' Having two ears. —'''2.''' Pertaining to or involving the use of both ears; fitted for being simultaneously used by two ears: as, a ''binaural'' stethoscope, which has two connected tubes capped by small earpieces.\n{{smaller block|There is even a kind of ''binaural'' audition, by means of which we judge imperfectly of direction of sound.\n{{right|''Le Conte'', Sight, p. 265.}}}}\n\n'''binching''' (bin′ching), ''n.''   [Appar. a dial. form of ''benching''. Cf. dial. ''bink'', ''benk'' = ''bench''.]   In ''coal-mining'', the bed or rock on which a layer of coal rests. [Somersetshire, Eng.]\n\n'''bind''' (bīnd), ''v.''; pret. ''bound'', pp. ''bound'' (formerly ''bounden'', now only attrib.), ppr. ''binding''.   [< ME. ''binden'' (pret. ''band'', ''bond'', later ''bounde'', pl. ''bounden'', ''bounde'', pp. ''bounden''), < AS. ''bindan'' (pret. ''band'', pl. ''bundon'', pp. ''bunden'') = OS. ''bindan'' = OFries. ''binda'' = D. ''binden'' = OHG. ''bintan'', MHG. G. ''binden'' = Icel. ''binda'' = Sw. ''binda'' = Dan. ''binde'' = Goth. ''bindan'', bind, tie, = Skt. √''bandh'', orig. *''bhandh'', bind, tie. The same root prob. appears in L. ''of-fend-ix'', ''of-fend-imentum'', the knot of a band, Gr. πεῖσμα (for *πενθμα, *φενθμα), a rope. See ''band''<sup>1</sup>, ''band''<sup>2</sup>, ''bend''<sup>1</sup>, ''bend''<sup>2</sup>, etc., ''bond''<sup>1</sup>, ''bundle'', etc.]   '''I.''' ''trans.'' '''1.''' To make fast (to, on, or upon) with a band or bond of any kind.\n{{smaller block|Thou shalt ''bind'' them for a sign ''upon'' thine hand.\n{{right|Deut. vi. 8.}}}}\n{{smaller block|''Bind'' the chariot ''to'' the swift beast. Micah i. 13.}}\n'''2.''' To unite by any legal or moral tie; attach by considerations of love, duty, interest, obligation, etc.: as, ''bound'' in the bonds of matrimony; ''bound'' by gratitude, duty, debt, etc.\n{{smaller block|<poem>Distrust and grief\nWill ''bind'' to us each Western chief.</poem>\n{{right|''Scott'', L. of the L., ii. 30.}}}}\n'''3.''' To put in bonds or fetters; deprive of liberty or of the use of the limbs by making fast physically.\n{{smaller block|''Bind'' him hand and foot, and take him away.\n{{right|Mat. xxii. 13.}}}}\n{{smaller block|He took Paul’s girdle, and ''bound'' his own hands and feet, and said, . . . So shall the Jews at Jerusalem ''bind'' the man that owneth this girdle. Acts xxi. 11.}}\n'''4.''' To restrain; hold to a particular state, place, employment, etc.\n{{smaller block|He ''bindeth'' the floods from overflowing. Job xxviii. 11.\nI have no official business to ''bind'' me.\n{{right|''Macaulay'', in Trevelyan, II. vii.}}}}\n'''5.''' To hinder or restrain (the bowels) from their natural operations; make costive; constipate.—'''6.''' To fasten around anything; fix in place by girding or tying: as, to ''bind'' a cord round the arm.\n{{smaller block|I, maiden, round thee, maiden, ''bind'' my belt. {{right|''Tennyson'', Holy Grail.}}}}\n\n'''7.''' To encircle with a band or ligature; gird; confine or restrain by girding: as, “''bind'' up those tresses,” ''Shak.'', K. John, iii. 4.\n{{smaller block|A fillet ''binds'' her hair. {{right|''Pope'', Windsor Forest, l. 178.}}}}\n\n'''8.''' To swathe or bandage; cover and swathe with dressings: with ''up''.\n{{smaller block|He healeth the broken in heart, and ''bindeth up'' their wounds. {{right|Ps. cxlvii. 3.}}}}\n{{smaller block|Give me another horse, ''bind up'' my wounds.\n{{right|''Shak.'', Rich III., v. 3.}}}}\n\n'''9.''' To form a border or edge on, for the purpose of strengthening or ornamenting; edge: as, to ''bind'' a wheel with a tire; to ''bind'' a garment or a carpet.\n{{smaller block|<poem>Her mantle rich, whose borders round\nA deep and fretted broidery ''bound''.</poem>\n{{right|''Scott'', Marmion, vi. 3.}}}}\n{{smaller block|<poem>Black cliffs and high,\nWith green grass growing on the tops of them,\n''Binding'' them round as gold a garment’s hem.</poem>\n{{right|''William Morris'', Earthly Paradise, I. 172.}}}}\n\n'''10.''' To tie or fasten (loose things) together with a band, cord, or tie; tie up into one bundle or mass: as, to ''bind'' sheaves of grain.—'''11.''' To fasten or secure within a cover, as a book or pamphlet. See ''bookbinding''.—'''12.''' In ''fencing'', to secure (the sword of an adversary). See ''binding'', ''n.'', 3.—'''13.''' To cause to cohere; cement; knit; unite firmly: as, to ''bind'' the loose sand.\n{{smaller block|<poem>The sooner to effect,\nAnd surer ''bind'', this knot of amity,— The Earl of Armagnac . . .\nProffers his only daughter to your grace\nIn marriage. {{right|''Shak.'', 1 Hen. VI., v. 1.}}</poem>}}\n{{smaller block|God has so ''bound'' society together that if one member suffer, all suffer. {{right|''J. F. Clarke'', Self-Culture, p. 60.}}}}\n{{smaller block|Have enough oil in the colours to ''bind'' them.\n{{right|''Workshop Receipts'', 1st ser., p. 423.}}}}\n{{smaller block|''Binding'' the ink to prevent its smearing.\n{{right|''Workshop Receipts'', 2d ser., p. 343.}}}}\n'''14.''' To place under obligation or compulsion: as, all are ''bound'' to obey the laws.\n{{smaller block|<poem>This ring I gave him, when he parted from me,\nTo ''bind'' him to remember my good-will.\n{{right|''Shak.'', T. G. of V., iv. 4.}}</poem>}}\n{{smaller block|’Tis true, by my father’s will, I am for a short period ''bound'' to regard you as his substitute.\n{{right|''Sheridan'', School for Scandal, iii. 1.}}}}\n'''15.''' To put under legal obligation: often with ''over'': as, to ''bind'' a man ''over'' to keep the peace. Specifically—'''16.''' To indenture as an apprentice: often with ''out''.\n{{smaller block|My mother she wanted to ''bind'' me ''out'' to a blacksmith.\n{{right|''Mrs. Stowe'', Oldtown, p. 83.}}}}\n\n{{smaller|'''To bind hand and foot.''' See ''hand''.—'''To bind in,''' to inclose; surround.}}\n{{smaller block|<poem>''Bound in'' with the triumphant sea.\n{{right|''Shak.'', Rich. II., ii. 1.}}\nA costly jewel . . . ''bound in'' with diamonds.\n{{right|''Shak.'', 2 Hen. VI., iii. 2.}}</poem>}}\n\n{{smaller|'''To bind up in,''' to cause to be wholly engrossed with; absorb in; connect intimately with: chiefly in the passive.}}\n{{smaller block|Seeing that his life is ''bound up in'' the lad’s life.\n{{right|Gen. xliv. 30.}}}}\n\n'''II.''' ''intrans.'' '''1.''' To cohere; stick together.—'''2.''' To become indurated, hard, or stiff: as, clay ''binds'' by heat.—'''3.''' To be obligatory or of force.\n{{smaller block|Those canons or imperial constitutions which have not been received here do not ''bind''. {{right|''Sir M. Hale.''}}}}\n'''4.''' To tie up anything; specifically, to tie up sheaves.\n{{smaller block|They that reap must sheaf and ''bind''.\n{{right|''Shak.'', As you Like it, iii. 2.}}}}\n'''5.''' In ''falconry'', to seize a bird in the air and cling to it: said of a hawk.\n\n'''bind''' (bīnd), ''n.''   [< ''bind'', ''v.'' In third sense, cf. ''bundle'', and see ''tie'', ''n.'' In the botanical sense, < ME. ''bynde'', a climbing stem, esp. woodbine, ivy; chiefly in comp. as ''wudebinde'', woodbind. The word, by its use in comp., has suffered corruption to ''bine'', Sc. ''bin-'', ''ben-'': see ''bine''<sup>1</sup>, ''woodbine'', ''bearbine'', etc., and the compounds of ''bind'' below.]   '''1.''' A tie or band; anything that binds. Specifically—(''a'') A connecting timber in a ship. (''b'') In ''music'', a tie, slur, or brace.—'''2.''' In ''coal-mining'', indurated, argillaceous shale or clay, such as frequently forms the roof of a coal-seam: same as ''bend''<sup>1</sup>, 12, and ''bat''<sup>1</sup>, 10. [Eng.]—'''3.''' A unit of tale. A bind of eels is 250. A bind of skins is 32, or of some kinds 40. [Eng.]—'''4.''' Bounds; limit; stint: as, I am at my ''bind''. [Scotch.]\n{{smaller block|Their ''bind'' was just a Scots pint overhead, and a tappit-hen to the bill, and no man ever saw them the waur o’t.\n{{right|''Scott'', St. Ronan’s Well, I. i.}}}}\n'''5.''' A climbing stem; a bine; specifically, a stalk of hops. See ''bine''<sup>1</sup>. {{smaller block|The whyle God of his grace ded growe of that soyle\nThe fayrest ''bynde'' hym [Jonah] abof that ever burne wyste.\n{{right|''Alliterative Poems'' (ed. Morris), iii. 444.}}}}\n\n'''binder''' (bīn′dėr), ''n.''   [< ME. ''bynderc'', < AS. ''bindere'', < ''bindan'', bind: see ''bind'', ''v.'', and ''-er''<sup>1</sup>.]   '''1.''' A person who binds. Specifically—(''a'') One who binds books; a bookbinder. (''b'') One who binds sheaves.—'''2.''' Anything that binds, in any sense of that verb.—'''3.''' In ''bricklaying'', a header which extends partly through a wall; a bonder. —'''4.''' In ''carp.'', a tie-beam; a binding-joist serving as a transverse support for the bridging-joists above and the ceiling-joists below.—'''5.''' An attachment to a sewing-machine for folding an edge or a binding.—'''6.''' In ''agri.'': (''a'') An attachment to a reaper for tying the bundles of grain. (''b'') A separate horse-power machine for gathering up and binding grain already cut.—'''7.''' An arrester or stop for the shuttle of a loom. —'''8.''' A temporary cover for loose sheets of music, papers, etc.—'''9.''' ''pl.'' Same as ''binding'', 4. {{smaller|—'''Binders’ board''', thick, smooth, calendered pasteboard used for the covers of books.}}\n\n'''binder-frame''' (bīn′dėr-frām), ''n.'' In ''mach.'', a hanger supporting shafting, and having adjustable bearings by which the position of the pulleys can be regulated to suit the direction of the motion of the belts.\n\n'''bindery''' (bīn′dėr-i), ''n.''; pl. ''binderies'' (-iz).   [< ''bind'', ''v.'', + ''-ery''.]   A place where books are bound.\n\n'''bindheimite''' (bind′hī-mīt), ''n.''   [< ''Bindheim'' (a German chemist) + ''-ite''<sup>2</sup>.]   An amorphous antimoniate of lead produced by the decomposition of antimonial minerals, especially jamesonite.\n\n'''binding''' (bīn′ding), ''p. a.''   [Ppr. of ''bind'', ''v.'']   '''1.''' Serving to bind, fasten, or connect; making fast.—'''2.''' Having power to bind or oblige; obligatory: as, a ''binding'' engagement.\n{{smaller block|Civil contracts may be held ''binding'' although made by lunatics.\n{{right|''E. C. Mann'', Psychol. Med., p. 87.}}}}\n'''3.''' Astringent.—'''4.''' Causing constipation; constipating. [Colloq.]\n\n'''binding''' (bīn′ding), ''n.''   [Verbal n. of ''bind'', ''v.'']   '''1.''' The act or action of making fast, securing, uniting, etc., in any sense of the verb ''bind:'' as, the ''binding'' of prisoners; wire that serves for ''binding''.—'''2.''' Anything that binds; a bandage; the cover of a book, with the sewing and accompanying work; something that secures the edges of cloth or of a garment.—'''3.''' In ''fencing'', a method of securing the adversary’s sword, consisting in crossing it with a pressure, accompanied with a spring of the wrist.—'''4.''' ''pl.'' In ''ship-building'', the beams, transoms, knees, wales, keelson, and other chief timbers used for connecting and strengthening the various parts of a vessel. Also called ''binders''.—'''5.''' The condition assumed by adhesive soils in hot dry seasons; a similar condition in the soil of flower-pots in which plants have been kept too long or too dry; closeness, dryness, or hardness of texture.—'''6.''' In ''mach.'', the prevention of free mo-<noinclude><references/></noinclude>"
+}

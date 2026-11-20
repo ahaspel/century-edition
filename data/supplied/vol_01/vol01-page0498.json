@@ -1,0 +1,226 @@
+{
+ "volume": 1,
+ "page_number": 498,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n497.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n497.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 747,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     78,
+     110,
+     2300,
+     148
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     78,
+     148,
+     822,
+     1183
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     78,
+     1183,
+     822,
+     1961
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     78,
+     1961,
+     822,
+     2851
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     78,
+     2851,
+     822,
+     3279
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     822,
+     148,
+     1569,
+     815
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     843,
+     356,
+     1541,
+     734
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     822,
+     815,
+     1569,
+     1901
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     822,
+     1901,
+     1569,
+     2905
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     822,
+     2905,
+     1569,
+     3279
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     148,
+     2300,
+     1248
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     1248,
+     2300,
+     2226
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     2226,
+     2300,
+     3279
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|bat|472|bate}}",
+   "c1s1": "¶\n'''bat'''<sup>1</sup> (bat), ''n.'' [< ME. ''bat, batte, botte,'' the earliest recorded forms being dat. sing. ''botte,'' nom. pl. ''botten'' (nom. sing. *''bat,'' *''bot?''), pointing to an AS. *''bat'' (gen. dat. *''batte''), given by Somner, but not authenticated, appar. < Ir. Gael. ''bat, bata,'' a staff, cudgel. But in part at least the word rests on OF. ''batte,'' F. ''batte,'' a rammer, a wand, appar. < ''battre,'' beat: see ''batter''<sup>1</sup>. Some of the noun senses are from the verb (see ''bat''<sup>1</sup>, ''v.''), while others are perhaps from orig. diff. sources.] '''1.''' A heavy stick or club; formerly, a walking-stick.\n{{smaller block|<poem>A handsome ''bat'' he held,\nOn which he leaned, as one farre in elde.</poem>\n{{right|''Spenser'', Mother Hub. Tale, l. 217.}}}}\n'''2.''' The wooden club with which the players in base-ball, cricket, and similar games bat or drive the ball. {{smaller|That used in base-ball is a round tapering stick of varying size and weight to suit the strength of the player; that used in cricket is shaped somewhat like the broad end of an oar, and is provided with a round handle.}}\n'''3.''' A batsman or batter.\n{{smaller block|W. is the best ''bat'' left.\n{{right|''T. Hughes'', Tom Brown’s School-Days, ii. 8.}}}}\n'''4.''' A blow as with a bat or baton: as, he received a ''bat'' in the face. [Colloq.]—'''5.''' A tool made of beech, used by plumbers in dressing and flatting sheet-lead.—'''6.''' A rammer used by founders.—'''7.''' A blade used for beating or scutching hemp or flax.—'''8.''' A piece of brick having one end entire; hence, any portion of a brick; a brickbat.—'''9.''' A kind of sun-dried",
+   "c1s2": "brick. ''Southey.''—'''10.''' Shale; hardened clay, but not fire-clay: same as ''bind'', 2. ''Penn. Surv. Glossary.'' Also spelled ''batt.''—'''11.''' In ''hat-making'', a felted mass of fur, or of hair and wool. Two such masses are required to form the body of a hat. Also spelled ''batt.''\n{{smaller block|One half of the intended hat, called a ''bat'', is bowed at a time.\n{{right|''J. Thomson'', Hats and Felting, p. 39.}}}}\n'''12.''' A continuous wad of cotton from the batting-machine, ready for carding; also, a sheet of cotton wadding or batting. See ''batting.''—'''13.''' In ''ceram.'': (''a'') A flexible sheet of gelatin used in transferring impressions to the biscuit.\n{{smaller block|''Batt'' or ''bat'' is . . . a plate of gelatine, used in printing on to pottery or porcelain, over the glaze. In bat-printing, the impression is transferred from an engraved copper plate to a bat of gelatine or glue, whence it is printed on the glaze, in oil or tar. Enamel powder being then dusted over the print, adheres to the oiled surface, and the porcelain is then fired at a low temperature.\n{{right|''Ure'', Dict., I. 298.}}}}\n(''b'') A shelf or slab of baked clay used to support pieces of biscuit which have been painted, and are being fired again. See ''enamel-kiln.''—",
+   "c1s3": "'''14.''' Rate; speed; style. [Scotch and prov. Eng.]—{{smaller|'''At the bat,''' in the position of the batter or striker in base-ball and similar games; having the right to wield the bat.—'''To carry one’s bat.''' See ''carry.''—'''To go on a bat,''' to go off for a drunken carousal or spree. [Slang.]}}\n\n'''bat'''<sup>1</sup> (bat), ''v.''; pret. and pp. ''batted'', ppr. ''batting.'' [< late ME. ''batten'', beat with a stick, < ''batte'', a bat, stick: see ''bat''<sup>1</sup>, ''n.'', and cf. ''batter''<sup>1</sup>. In part perhaps regarded as imitative of a heavy, dull blow; cf. ''pat.''] '''I.''' ''trans.'' To beat; hit; strike. {{smaller|Especially—(''a'') In ''base-ball'' and similar games, to knock or drive, as the ball. (''b'') In ''ceram.'', to flatten out to the required thickness, as unbaked clay, preparatory to molding on the block or throwing on the wheel.}}\n\n'''II.''' ''intrans.'' In ''base-ball'' and similar games, to strike the ball: as, he ''bats'' well.—{{smaller|'''To bat at,''' to attempt unsuccessfully to knock, as a ball; strike at but miss.}}\n\n'''bat'''<sup>2</sup> (bat), ''n.'' [A corruption of earlier ''back'', ''bak'', Sc. ''back'', ''bak'' (also ''bakie-bird'', ''bawkie-bird''), a bat, < ME. ''bakke'', ''backe'', < Dan. ''bakke'', in comp. ''aftenbakke'', evening-bat, = OSw. ''bakka'', in comp. ''natt-bakka'', night-jar, Sw. dial. ''nattabatta'', ''natt-blacka'', = Icel. ''blaka'', in comp. ''ledhr-blaka'', bat, lit. leather-flapper, < ''blaka'', flutter, flap. The orig. form is uncertain. Cf. ML. ''blatta'', ''blacta'', ''batta'', a bat, another application of L. ''blatta'', an insect that shuns the light, a cockroach: see ''Blatta''<sup>1</sup>. For the change of ''k'' to ''t'', cf. E. ''make''<sup>2</sup> =",
+   "c1s4": "''mate''<sup>1</sup>, and E. ''crane'' = Dan. ''trane'', Sw. ''trana'', Icel. ''trani''. The AS. name of the bat is ''hrēremūs'', > E. ''reremouse''. The G. name is ''fledermaus''; cf. E. ''flittermouse''.] A wing-handed, wing-footed flying mammal, of the order ''Chiroptera'' (which see). {{smaller|The species are upward of 450 in number, nearly cosmopolitan, but largest, most varied in character, and most abundant in individuals in tropical and subtropical countries. The species of temperate countries, as of the United States and Europe, are comparatively few, small, and of such uniform characters that they give little idea of the extent and diversity of the order in warmer regions. Bats are the most aërial or volitant of all animals, even more so than birds or insects, for they have scarcely any other means of locomotion than flying. They are}}",
+   "c2s1": "{{smaller block|nocturnal and crepuscular, passing most of the daytime in dusky retreats, where they gather sometimes in almost incredible multitudes, and generally repose hanging head downward by their hind feet. In size they range from less than the size of a mouse to large forms with some five feet spread of wing. The body is usually softly furry; the wings are membranous and naked. The great majority\n[[FIGURE]]\n{{c|{{smaller|Hoary Bat (''Lasiurus pruinosus'').}}}}\nare insectivorous and carnivorous, and constitute the sub-}}",
+   "c2s2": "{{smaller|order ''Animalivora'' or ''Insectivora''; of these, a few prey upon other bats, and some, of the genera ''Desmodus'' and ''Diphylla'', suck the blood of large animals; but the great bats of South America called ''vampires'' are chiefly frugivorous. See ''Desmodontes'', ''Vampyri''. The old-world fruit-bats, flying-foxes, or roussettes are mostly large species, constituting the family ''Pteropodidæ'' and suborder ''Frugivora''. See cut under ''flying-fox''. The physiognomy of many of the bats is grotesque, owing to the extraordinary appendages of the snout, especially in the families ''Rhinolophidæ'' and ''Phyllostomatidæ'', or horseshoe bats and leaf-nosed bats. The ears, too, are often of great size and much complexity of detail, and, like the various appendages of the face, and the wing-membranes themselves, serve as tactile organs of extreme delicacy, even to the extent of sensing objects without actual contact. The wings of bats are commonly given to representations of evil genii and demons, as those of birds are attached to good angels. The large bat represented on Egyptian monuments is one of the fruit-bats, the ''Cynonycteris ægyptiaca''. The Hebrew name of the bat of the Old Testament, ''atalleph'', is now used in the form ''Atalapha'' for a genus of American bats. The commonest species of the United States are the small brown bat, ''Vespertilio subulatus'', and the red bat, ''Lasiurus noveboracensis''. Among European species may be noted the serotine (''Vespertilio serotinus''), the pipistrelle (''V. pipistrellus''), the barbastel (''Barbastellus communis''), the oreillard (''Plecotus auritus''), and the horseshoe bats (''Rhinolophus hipposideros'' and ''R. ferroequinum''). In heraldry the bat is always represented displayed, that is, with the wings opened, and is often called by its older name ''reremouse''.—'''Bat’s wing,''' in ''anat.'' See ''ala vespertilionis'', under ''ala''.—'''Bat’s-wing burner.''' See ''burner''.—'''Bulldog bats,''' the molossoid chiropterans. See ''Molossus''.—'''Harlequin bat.''' See ''harlequin''.}}\n\n'''bat<sup>3</sup>''' (bat), ''v. t.'' [Variant of ''bate''<sup>1</sup>, prob. now taken in allusion to the eyes of a bat.] To bate or flutter, as in the phrase ''to bat the eyes'', that is, wink. [Prov. Eng. and U. S.]\n{{smaller block|You hol’ your head high; don’t you ''bat your eyes'' to please none of ’em.\n{{right|''The Century'', XXVII. 146.}}}}",
+   "c2s3": "¶\n'''bat<sup>4</sup>''' (bat or bâ), ''n.'' [< F. ''bât'', < OF. ''bast'', a pack-saddle: see ''bast''<sup>3</sup>.] A pack-saddle: only in composition, as ''bat''horse, ''bat''man, etc.\n\n'''bat<sup>5</sup>†''' (bat), ''n.'' See ''batz.''\n\n'''bat<sup>6</sup>''' (bat), ''n.'' [Hind. ''bāt'', a weight, a measure of weight.] Same as ''tical.''\n\n'''bat<sup>7</sup>''', ''n.'' A measure of land formerly used in South Wales; a perch of 11 feet square.\n\n'''bat<sup>8</sup>†''', ''n.'' Same as ''bath''<sup>2</sup>.\n\n'''batable†''' (bā′tạ-bl), ''a.'' [Also ''bateable;'' short for ''debatable'', as ''bate''<sup>3</sup> for ''debate.'' See ''debatable.''] A shortened form of ''debatable'', as in ''batable'' ground, ''batable'' land. See ''debatable.''\n{{smaller block|As we crossed the ''Batable'' land.\n{{right|''Border ballad.''}}}}\n\n'''bataile†''', '''batailler†''', etc. Obsolete forms of ''battle''<sup>1</sup>, ''battler''<sup>1</sup>, etc.\n\n'''batara''' (bȧ-tä′rä̤), ''n.'' [S. Amer.] A name of sundry bush-shrikes or formicaroid passerine birds of South America, of the subfamily ''Thamnophilinæ'' and family ''Formicariidæ;'' specifically, the ''Thamnophilus cinereus'' (Vieillot). {{smaller|It was used as a generic name by Lesson in 1831, and by Sclater in 1858, to distinguish the last-named species generically from other ''Thamnophilinæ'', under the name ''Batara cinerea;'' also by Temminck, 1820, as a generic name of species of ''Thamnophilus'' proper.}}\n\n'''batardeau''' (ba-tär-dō′), ''n.''; pl. ''batardeaux'' (-dōz′). [F., dike, dam, coffer-dam, formerly ''bastardeau'', dim. of OF. ''bastard'', dike, perhaps connected with ''bastir'', build.] '''1.''' A coffer-dam; a casing of piles made water-tight, fixed in the bed of a river to exclude the water from the",
+   "c2s4": "site of the pier or other work while it is being constructed.—'''2.''' In ''fort.'', a wall, generally furnished with a sluice-gate, built across a moat or ditch, to retain the water in those parts of the ditch which require to be inundated.\n\n'''batata''' (bȧ-tä′tä), ''n.'' [Sp. Pg. ''batata'', < Haytian ''batata'', the native name of the sweet potato; > ult. E. ''potato'', applied to a different plant: see ''potato''.] The sweet potato.\n{{smaller block|The products of both China and Japan are here [Loochoo] cultivated, especially ''batatas'' and the sugar-cane.\n{{right|''J. J. Rein'', Japan (trans.), p. 532.}}}}",
+   "c3s1": "¶\n'''Batavian''' (ba̤-tā′vi-a̤n), ''a.'' and ''n.'' [< L. ''Batavia'', the country of the Batavi, a people anciently inhabiting an island (''Batavorum Insula'' or ''Batavia'') formed by the rivers Rhine, Waal, and Maas, and the ocean.] '''I.''' ''a.'' '''1.''' Pertaining to the ancient Batavia, or by extension to the Netherlands or their inhabitants, the Dutch.—'''2.''' Pertaining to Batavia, the chief city of the island of Java, and the capital of the Dutch possessions in the East.\n\n'''II.''' ''n.'' '''1.''' A native of the Netherlands; a Dutchman.—'''2.''' A native of Batavia in Java.\n\n'''bat-bolt''' (bat′bōlt), ''n.'' [< ''bat''<sup>1</sup> + ''bolt''<sup>1</sup>.] A bolt barbed or jagged at its butt or tang to give it a firmer hold.\n\n'''batch'''<sup>1</sup> (bach), ''n.'' [< ME. ''bacche'', ''batche'', < AS. as if *''bæcce'', < ''bacan'', bake; cf. Dan. ''bægt'', G. ''gebäck'', a batch: see ''bake''.] '''1.''' A quantity produced at one operation; specifically, the quantity of bread made at one baking.—'''2.''' The quantity of material prepared or required for one operation. {{smaller|Specifically—(''a'') In ''glass-making'', the frit ready for the glass-pot. See ''frit''. (''b'') The quantity of flour or dough to be used at one baking. (''c'') The quantity of grain sent at one time to the mill to be ground; a grist.}} '''3.''' An aggregation of individuals or articles similar to each other; especially, a number or aggregation received, despatched, etc., at one time: as, a ''batch'' of letters; a ''batch'' of prisoners.\n{{smaller block|The Turkish troops are being hurried to the front in ''batches'' of 40,000 at a time.\n{{right|''Times'' (London).}}\nWhen he had her all to himself, . . . he would pull out his last ''batch'' of sonnets, and read them in a voice tremulous with emotion.\n{{right|''Charlotte Brontë'', Shirley, xxvii.}}}}",
+   "c3s2": "'''4†.''' Kind, sort, or lot.\n{{smaller block|One is a rimer, sir, of your own ''batch'', your own leaven.\n{{right|''B. Jonson'', Every Man in his Humour, i. 1.}}}}\n\n'''batch'''<sup>1</sup> (bach), ''v. t.'' [< ''batch''<sup>1</sup>, ''n.''] To mass; bring together in a batch or the quantity required.\n{{smaller block|The white calico is ''batched''.\n{{right|''Encyc. Brit.'', IV. 685.}}}}\n\n'''batch'''<sup>2</sup> (bach), ''n.'' [E. dial., formerly also ''baiche''; < ME. ''bache, bæcche'', perhaps for *''becche'', < AS. ''bece, bæce'', a brook: see ''beck''<sup>1</sup>. For the transfer of sense from ‘stream’ to ‘bank, mound, vale,’ cf. ''dike'' and ''ditch''.] '''1.''' A bank; a sandbank.—'''2.''' A field or patch of ground lying near a stream; the valley in which a stream flows: especially in local English names. [Local, Eng.]\n\n'''batch'''<sup>2</sup> (bach), ''v. t.'' [E. dial., < ''batch''<sup>2</sup>, ''n.''] To protect (the bank of a river) by facing it with stones, so as to prevent the water from eating into it. [Local, Eng.]\n\n'''batch'''<sup>3</sup>'''†''', ''n.'' [Appar. an assibilated form of ''back''<sup>3</sup>.] A vessel used in brewing. ''N. E. D.''\n\n'''batchelor''', ''n.'' See ''bachelor''.\n\n'''bate'''<sup>1</sup> (bāt), ''v.''; pret. and pp. ''bated'', ppr. ''bating''. [Also ''bait''; < ME. ''baten'' (only intrans.), < OF. ''batre'', mod. F. ''battre'', beat, flap (''battre les ailes'', beat the wings, flutter; reflex., ''se battre'', flutter), = Pr. ''batre'' = Sp. ''batir'' = Pg. ''bater'' = It. ''battere'', beat, etc., < ML. (LL.) ''batere, battere'', for L. ''batuere, battuere'', beat, strike, whence also",
+   "c3s3": "ult. E. ''batter''<sup>1</sup>, ''battle''<sup>1</sup>, etc., and prob. in part the simple ''bat''<sup>1</sup>, ''v.'': see these words. The orig. sense ‘beat’ is covered by ''bate''<sup>2</sup>, for ''abate'', and ''batter''<sup>1</sup>.] '''I.'''† ''trans.'' To beat: in the phrase ''to bate the wings'', to flutter, fly. [In the passage quoted, there is an allusion to ''bate''<sup>2</sup> for ''abate''.]\n{{smaller block|Till the Soule by this meanes of overbodying herselfe . . . ''bated her wing'' apace downeward.\n{{right|''Milton'', Church Discipline. (''N. E. D.'')}}}}\n\n'''II.''' ''intrans.'' '''1.''' In ''falconry'', to beat the wings impatiently; flutter as preparing for flight, particularly at the sight of prey; flutter away.\n{{smaller block|I am like a hawk that ''bates'' but cannot fly, because I am ty’d to another’s fist.\n{{right|''Bacon.''}}\n<poem>These kites\nThat ''bate'' and beat and will not be obedient.</poem>\n{{right|''Shak.'', T. of the S., iv. 1.}}}}\n'''2†.''' To flutter; be eager or restless.—'''3†.''' To flutter or fly down. [With allusion to ''bate''<sup>2</sup> for ''abate''.]\n\n'''bate'''<sup>2</sup> (bāt), ''v.''; pret. and pp. ''bated'', ppr. ''bating''. [Early mod. E. also ''bait''; < ME. ''baten'', by apheresis for ''abaten'', abate, which thus becomes in form and in some senses identical with the orig. simple form represented by ''bate''<sup>1</sup>: see ''abate'' and ''bate''<sup>1</sup>.] '''I.''' ''trans.'' '''1†.''' To beat down or away; remove by beating.\n{{smaller block|About autumn ''bate'' the earth from about the roots of olives, and lay them bare. ''Holland'', tr. of Pliny, II. 521.}}\n'''2†.''' To beat back, or blunt.\n{{smaller block|<poem>Spite of cormorant devouring Time,\nTh’ endeavour of this present breath may buy\nThat honour which shall ''bate'' his scythe’s keen edge.</poem>\n{{right|''Shak.'', L. L. L., i. 1.}}}}"
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0498 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     855,
+     368,
+     1529,
+     722
+    ],
+    "caption": [
+     1008,
+     740,
+     1374,
+     765
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     913,
+     349,
+     1442,
+     726
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4030,
+    "output_tokens": 87,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9618,
+    "output_tokens": 9908,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|bat|472|bate}}</noinclude>{{nop}}'''bat'''<sup>1</sup> (bat), ''n.''   [< ME. ''bat, batte, botte,'' the earliest recorded forms being dat. sing. ''botte,'' nom. pl. ''botten'' (nom. sing. *''bat,'' *''bot?''), pointing to an AS. *''bat'' (gen. dat. *''batte''), given by Somner, but not authenticated, appar. < Ir. Gael. ''bat, bata,'' a staff, cudgel. But in part at least the word rests on OF. ''batte,'' F. ''batte,'' a rammer, a wand, appar. < ''battre,'' beat: see ''batter''<sup>1</sup>. Some of the noun senses are from the verb (see ''bat''<sup>1</sup>, ''v.''), while others are perhaps from orig. diff. sources.]   '''1.''' A heavy stick or club; formerly, a walking-stick.\n{{smaller block|<poem>A handsome ''bat'' he held,\nOn which he leaned, as one farre in elde.</poem>\n{{right|''Spenser'', Mother Hub. Tale, l. 217.}}}}\n'''2.''' The wooden club with which the players in base-ball, cricket, and similar games bat or drive the ball. {{smaller|That used in base-ball is a round tapering stick of varying size and weight to suit the strength of the player; that used in cricket is shaped somewhat like the broad end of an oar, and is provided with a round handle.}}\n'''3.''' A batsman or batter.\n{{smaller block|W. is the best ''bat'' left.\n{{right|''T. Hughes'', Tom Brown’s School-Days, ii. 8.}}}}\n'''4.''' A blow as with a bat or baton: as, he received a ''bat'' in the face. [Colloq.]—'''5.''' A tool made of beech, used by plumbers in dressing and flatting sheet-lead.—'''6.''' A rammer used by founders.—'''7.''' A blade used for beating or scutching hemp or flax.—'''8.''' A piece of brick having one end entire; hence, any portion of a brick; a brickbat.—'''9.''' A kind of sun-dried brick.   ''Southey.''—'''10.''' Shale; hardened clay, but not fire-clay: same as ''bind'', 2.   ''Penn. Surv. Glossary.'' Also spelled ''batt.''—'''11.''' In ''hat-making'', a felted mass of fur, or of hair and wool. Two such masses are required to form the body of a hat. Also spelled ''batt.''\n{{smaller block|One half of the intended hat, called a ''bat'', is bowed at a time.\n{{right|''J. Thomson'', Hats and Felting, p. 39.}}}}\n'''12.''' A continuous wad of cotton from the batting-machine, ready for carding; also, a sheet of cotton wadding or batting. See ''batting.''—'''13.''' In ''ceram.'': (''a'') A flexible sheet of gelatin used in transferring impressions to the biscuit.\n{{smaller block|''Batt'' or ''bat'' is . . . a plate of gelatine, used in printing on to pottery or porcelain, over the glaze. In bat-printing, the impression is transferred from an engraved copper plate to a bat of gelatine or glue, whence it is printed on the glaze, in oil or tar. Enamel powder being then dusted over the print, adheres to the oiled surface, and the porcelain is then fired at a low temperature.\n{{right|''Ure'', Dict., I. 298.}}}}\n(''b'') A shelf or slab of baked clay used to support pieces of biscuit which have been painted, and are being fired again. See ''enamel-kiln.''— '''14.''' Rate; speed; style. [Scotch and prov. Eng.]—{{smaller|'''At the bat,''' in the position of the batter or striker in base-ball and similar games; having the right to wield the bat.—'''To carry one’s bat.''' See ''carry.''—'''To go on a bat,''' to go off for a drunken carousal or spree. [Slang.]}}\n\n'''bat'''<sup>1</sup> (bat), ''v.''; pret. and pp. ''batted'', ppr. ''batting.''   [< late ME. ''batten'', beat with a stick, < ''batte'', a bat, stick: see ''bat''<sup>1</sup>, ''n.'', and cf. ''batter''<sup>1</sup>. In part perhaps regarded as imitative of a heavy, dull blow; cf. ''pat.'']   '''I.''' ''trans.'' To beat; hit; strike. {{smaller|Especially—(''a'') In ''base-ball'' and similar games, to knock or drive, as the ball. (''b'') In ''ceram.'', to flatten out to the required thickness, as unbaked clay, preparatory to molding on the block or throwing on the wheel.}}\n\n'''II.''' ''intrans.'' In ''base-ball'' and similar games, to strike the ball: as, he ''bats'' well.—{{smaller|'''To bat at,''' to attempt unsuccessfully to knock, as a ball; strike at but miss.}}\n\n'''bat'''<sup>2</sup> (bat), ''n.''   [A corruption of earlier ''back'', ''bak'', Sc. ''back'', ''bak'' (also ''bakie-bird'', ''bawkie-bird''), a bat, < ME. ''bakke'', ''backe'', < Dan. ''bakke'', in comp. ''aftenbakke'', evening-bat, = OSw. ''bakka'', in comp. ''natt-bakka'', night-jar, Sw. dial. ''nattabatta'', ''natt-blacka'', = Icel. ''blaka'', in comp. ''ledhr-blaka'', bat, lit. leather-flapper, < ''blaka'', flutter, flap. The orig. form is uncertain. Cf. ML. ''blatta'', ''blacta'', ''batta'', a bat, another application of L. ''blatta'', an insect that shuns the light, a cockroach: see ''Blatta''<sup>1</sup>. For the change of ''k'' to ''t'', cf. E. ''make''<sup>2</sup> = ''mate''<sup>1</sup>, and E. ''crane'' = Dan. ''trane'', Sw. ''trana'', Icel. ''trani''. The AS. name of the bat is ''hrēremūs'', > E. ''reremouse''. The G. name is ''fledermaus''; cf. E. ''flittermouse''.]   A wing-handed, wing-footed flying mammal, of the order ''Chiroptera'' (which see). {{smaller|The species are upward of 450 in number, nearly cosmopolitan, but largest, most varied in character, and most abundant in individuals in tropical and subtropical countries. The species of temperate countries, as of the United States and Europe, are comparatively few, small, and of such uniform characters that they give little idea of the extent and diversity of the order in warmer regions. Bats are the most aërial or volitant of all animals, even more so than birds or insects, for they have scarcely any other means of locomotion than flying. They are nocturnal and crepuscular, passing most of the daytime in dusky retreats, where they gather sometimes in almost incredible multitudes, and generally repose hanging head downward by their hind feet. In size they range from less than the size of a mouse to large forms with some five feet spread of wing. The body is usually softly furry; the wings are membranous and naked. The great majority\nare insectivorous and carnivorous, and constitute the suborder ''Animalivora'' or ''Insectivora''; of these, a few prey upon other bats, and some, of the genera ''Desmodus'' and ''Diphylla'', suck the blood of large animals; but the great bats of South America called ''vampires'' are chiefly frugivorous. See ''Desmodontes'', ''Vampyri''. The old-world fruit-bats, flying-foxes, or roussettes are mostly large species, constituting the family ''Pteropodidæ'' and suborder ''Frugivora''. See cut under ''flying-fox''. The physiognomy of many of the bats is grotesque, owing to the extraordinary appendages of the snout, especially in the families ''Rhinolophidæ'' and ''Phyllostomatidæ'', or horseshoe bats and leaf-nosed bats. The ears, too, are often of great size and much complexity of detail, and, like the various appendages of the face, and the wing-membranes themselves, serve as tactile organs of extreme delicacy, even to the extent of sensing objects without actual contact. The wings of bats are commonly given to representations of evil genii and demons, as those of birds are attached to good angels. The large bat represented on Egyptian monuments is one of the fruit-bats, the ''Cynonycteris ægyptiaca''. The Hebrew name of the bat of the Old Testament, ''atalleph'', is now used in the form ''Atalapha'' for a genus of American bats. The commonest species of the United States are the small brown bat, ''Vespertilio subulatus'', and the red bat, ''Lasiurus noveboracensis''. Among European species may be noted the serotine (''Vespertilio serotinus''), the pipistrelle (''V. pipistrellus''), the barbastel (''Barbastellus communis''), the oreillard (''Plecotus auritus''), and the horseshoe bats (''Rhinolophus hipposideros'' and ''R. ferroequinum''). In heraldry the bat is always represented displayed, that is, with the wings opened, and is often called by its older name ''reremouse''.—'''Bat’s wing,''' in ''anat.'' See ''ala vespertilionis'', under ''ala''.—'''Bat’s-wing burner.''' See ''burner''.—'''Bulldog bats,''' the molossoid chiropterans. See ''Molossus''.—'''Harlequin bat.''' See ''harlequin''.}}\n\n[[File:century v01 p0498 c2f1.png|center|336px]]\n{{c|{{smaller|Hoary Bat (''Lasiurus pruinosus'').}}}}\n\n'''bat<sup>3</sup>''' (bat), ''v. t.''   [Variant of ''bate''<sup>1</sup>, prob. now taken in allusion to the eyes of a bat.]   To bate or flutter, as in the phrase ''to bat the eyes'', that is, wink. [Prov. Eng. and U. S.]\n{{smaller block|You hol’ your head high; don’t you ''bat your eyes'' to please none of ’em.\n{{right|''The Century'', XXVII. 146.}}}}\n\n'''bat<sup>4</sup>''' (bat or bâ), ''n.''   [< F. ''bât'', < OF. ''bast'', a pack-saddle: see ''bast''<sup>3</sup>.]   A pack-saddle: only in composition, as ''bat''horse, ''bat''man, etc.\n\n'''bat<sup>5</sup>†''' (bat), ''n.'' See ''batz.''\n\n'''bat<sup>6</sup>''' (bat), ''n.''   [Hind. ''bāt'', a weight, a measure of weight.]   Same as ''tical.''\n\n'''bat<sup>7</sup>''', ''n.'' A measure of land formerly used in South Wales; a perch of 11 feet square.\n\n'''bat<sup>8</sup>†''', ''n.'' Same as ''bath''<sup>2</sup>.\n\n'''batable†''' (bā′tạ-bl), ''a.''   [Also ''bateable;'' short for ''debatable'', as ''bate''<sup>3</sup> for ''debate.'' See ''debatable.'']   A shortened form of ''debatable'', as in ''batable'' ground, ''batable'' land. See ''debatable.''\n{{smaller block|As we crossed the ''Batable'' land.\n{{right|''Border ballad.''}}}}\n\n'''bataile†''', '''batailler†''', etc. Obsolete forms of ''battle''<sup>1</sup>, ''battler''<sup>1</sup>, etc.\n\n'''batara''' (bȧ-tä′rä̤), ''n.''   [S. Amer.]   A name of sundry bush-shrikes or formicaroid passerine birds of South America, of the subfamily ''Thamnophilinæ'' and family ''Formicariidæ;'' specifically, the ''Thamnophilus cinereus'' (Vieillot). {{smaller|It was used as a generic name by Lesson in 1831, and by Sclater in 1858, to distinguish the last-named species generically from other ''Thamnophilinæ'', under the name ''Batara cinerea;'' also by Temminck, 1820, as a generic name of species of ''Thamnophilus'' proper.}}\n\n'''batardeau''' (ba-tär-dō′), ''n.''; pl. ''batardeaux'' (-dōz′).   [F., dike, dam, coffer-dam, formerly ''bastardeau'', dim. of OF. ''bastard'', dike, perhaps connected with ''bastir'', build.]   '''1.''' A coffer-dam; a casing of piles made water-tight, fixed in the bed of a river to exclude the water from the site of the pier or other work while it is being constructed.—'''2.''' In ''fort.'', a wall, generally furnished with a sluice-gate, built across a moat or ditch, to retain the water in those parts of the ditch which require to be inundated.\n\n'''batata''' (bȧ-tä′tä), ''n.''   [Sp. Pg. ''batata'', < Haytian ''batata'', the native name of the sweet potato; > ult. E. ''potato'', applied to a different plant: see ''potato''.]   The sweet potato.\n{{smaller block|The products of both China and Japan are here [Loochoo] cultivated, especially ''batatas'' and the sugar-cane.\n{{right|''J. J. Rein'', Japan (trans.), p. 532.}}}}\n\n'''Batavian''' (ba̤-tā′vi-a̤n), ''a.'' and ''n.''   [< L. ''Batavia'', the country of the Batavi, a people anciently inhabiting an island (''Batavorum Insula'' or ''Batavia'') formed by the rivers Rhine, Waal, and Maas, and the ocean.]   '''I.''' ''a.'' '''1.''' Pertaining to the ancient Batavia, or by extension to the Netherlands or their inhabitants, the Dutch.—'''2.''' Pertaining to Batavia, the chief city of the island of Java, and the capital of the Dutch possessions in the East.\n\n'''II.''' ''n.'' '''1.''' A native of the Netherlands; a Dutchman.—'''2.''' A native of Batavia in Java.\n\n'''bat-bolt''' (bat′bōlt), ''n.''   [< ''bat''<sup>1</sup> + ''bolt''<sup>1</sup>.]   A bolt barbed or jagged at its butt or tang to give it a firmer hold.\n\n'''batch'''<sup>1</sup> (bach), ''n.''   [< ME. ''bacche'', ''batche'', < AS. as if *''bæcce'', < ''bacan'', bake; cf. Dan. ''bægt'', G. ''gebäck'', a batch: see ''bake''.]   '''1.''' A quantity produced at one operation; specifically, the quantity of bread made at one baking.—'''2.''' The quantity of material prepared or required for one operation. {{smaller|Specifically—(''a'') In ''glass-making'', the frit ready for the glass-pot. See ''frit''. (''b'') The quantity of flour or dough to be used at one baking. (''c'') The quantity of grain sent at one time to the mill to be ground; a grist.}} '''3.''' An aggregation of individuals or articles similar to each other; especially, a number or aggregation received, despatched, etc., at one time: as, a ''batch'' of letters; a ''batch'' of prisoners.\n{{smaller block|The Turkish troops are being hurried to the front in ''batches'' of 40,000 at a time.\n{{right|''Times'' (London).}}}}\n{{smaller block|When he had her all to himself, . . . he would pull out his last ''batch'' of sonnets, and read them in a voice tremulous with emotion.\n{{right|''Charlotte Brontë'', Shirley, xxvii.}}}} '''4†.''' Kind, sort, or lot.\n{{smaller block|One is a rimer, sir, of your own ''batch'', your own leaven.\n{{right|''B. Jonson'', Every Man in his Humour, i. 1.}}}}\n\n'''batch'''<sup>1</sup> (bach), ''v. t.''   [< ''batch''<sup>1</sup>, ''n.'']   To mass; bring together in a batch or the quantity required.\n{{smaller block|The white calico is ''batched''.\n{{right|''Encyc. Brit.'', IV. 685.}}}}\n\n'''batch'''<sup>2</sup> (bach), ''n.''   [E. dial., formerly also ''baiche''; < ME. ''bache, bæcche'', perhaps for *''becche'', < AS. ''bece, bæce'', a brook: see ''beck''<sup>1</sup>. For the transfer of sense from ‘stream’ to ‘bank, mound, vale,’ cf. ''dike'' and ''ditch''.]   '''1.''' A bank; a sandbank.—'''2.''' A field or patch of ground lying near a stream; the valley in which a stream flows: especially in local English names. [Local, Eng.]\n\n'''batch'''<sup>2</sup> (bach), ''v. t.''   [E. dial., < ''batch''<sup>2</sup>, ''n.'']   To protect (the bank of a river) by facing it with stones, so as to prevent the water from eating into it. [Local, Eng.]\n\n'''batch'''<sup>3</sup>'''†''', ''n.''   [Appar. an assibilated form of ''back''<sup>3</sup>.]   A vessel used in brewing.   ''N. E. D.''\n\n'''batchelor''', ''n.'' See ''bachelor''.\n\n'''bate'''<sup>1</sup> (bāt), ''v.''; pret. and pp. ''bated'', ppr. ''bating''.   [Also ''bait''; < ME. ''baten'' (only intrans.), < OF. ''batre'', mod. F. ''battre'', beat, flap (''battre les ailes'', beat the wings, flutter; reflex., ''se battre'', flutter), = Pr. ''batre'' = Sp. ''batir'' = Pg. ''bater'' = It. ''battere'', beat, etc., < ML. (LL.) ''batere, battere'', for L. ''batuere, battuere'', beat, strike, whence also ult. E. ''batter''<sup>1</sup>, ''battle''<sup>1</sup>, etc., and prob. in part the simple ''bat''<sup>1</sup>, ''v.'': see these words. The orig. sense ‘beat’ is covered by ''bate''<sup>2</sup>, for ''abate'', and ''batter''<sup>1</sup>.]   '''I.'''† ''trans.'' To beat: in the phrase ''to bate the wings'', to flutter, fly. [In the passage quoted, there is an allusion to ''bate''<sup>2</sup> for ''abate''.]\n{{smaller block|Till the Soule by this meanes of overbodying herselfe . . . ''bated her wing'' apace downeward.\n{{right|''Milton'', Church Discipline. (''N. E. D.'')}}}}\n\n'''II.''' ''intrans.'' '''1.''' In ''falconry'', to beat the wings impatiently; flutter as preparing for flight, particularly at the sight of prey; flutter away.\n{{smaller block|I am like a hawk that ''bates'' but cannot fly, because I am ty’d to another’s fist.\n{{right|''Bacon.''}}}}\n{{smaller block|<poem>These kites\nThat ''bate'' and beat and will not be obedient.</poem>\n{{right|''Shak.'', T. of the S., iv. 1.}}}}\n'''2†.''' To flutter; be eager or restless.—'''3†.''' To flutter or fly down. [With allusion to ''bate''<sup>2</sup> for ''abate''.]\n\n'''bate'''<sup>2</sup> (bāt), ''v.''; pret. and pp. ''bated'', ppr. ''bating''.   [Early mod. E. also ''bait''; < ME. ''baten'', by apheresis for ''abaten'', abate, which thus becomes in form and in some senses identical with the orig. simple form represented by ''bate''<sup>1</sup>: see ''abate'' and ''bate''<sup>1</sup>.]   '''I.''' ''trans.'' '''1†.''' To beat down or away; remove by beating.\n{{smaller block|About autumn ''bate'' the earth from about the roots of olives, and lay them bare.\n{{right|''Holland'', tr. of Pliny, II. 521.}}}}\n'''2†.''' To beat back, or blunt.\n{{smaller block|<poem>Spite of cormorant devouring Time,\nTh’ endeavour of this present breath may buy\nThat honour which shall ''bate'' his scythe’s keen edge.</poem>\n{{right|''Shak.'', L. L. L., i. 1.}}}}<noinclude><references/></noinclude>"
+}

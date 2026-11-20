@@ -1,0 +1,219 @@
+{
+ "volume": 1,
+ "page_number": 616,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n615.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n615.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 743,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     107,
+     135,
+     2322,
+     225
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     107,
+     225,
+     848,
+     1215
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     107,
+     1215,
+     848,
+     2289
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     107,
+     2289,
+     848,
+     3285
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     225,
+     1592,
+     1242
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     1242,
+     1592,
+     2321
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     848,
+     2321,
+     1592,
+     3285
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1592,
+     225,
+     2322,
+     1213
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1592,
+     1213,
+     2322,
+     1501
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1592,
+     1501,
+     2322,
+     2500
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1628,
+     1540,
+     2296,
+     2182
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1592,
+     2500,
+     2322,
+     3285
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|blithesomeness|590|block}}",
+   "c1s1": "[< ''blithesome'' + ''-ness''.] The quality of being blithesome; gaiety.\n\n{{smaller block|A glad ''blithesomeness'' belonged to her, potent to conquer even ill health and suffering.\n{{right|''New Princeton Rev.'', II. 78.}}}}\n\n'''Blitum''' (blī′tum), ''n.'' [L., < Gr. βλίτον, a certain plant used as a salad.] A genus of plants, natural order ''Chenopodiaceæ'', now included in ''Chenopodium''. See ''blite''<sup>2</sup>.\n\n'''blive†''', ''adv.'' A Middle English contraction of ''belive''<sup>2</sup>. ''Chaucer.''\n\n'''blizzard''' (bliz′ärd), ''n.'' [An expressive word, originating in the United States, appar. at first locally on the Atlantic coast (see first quot.), and carried thence to the West, where, in a new application, it came into general notice and use in the winter of 1880–81. The word is evidently a popular formation, and is prob. based, with the usual imitative variation observable in such formations, on what to the popular consciousness is the common root of ''blaze'', ''blast'', ''blow'' (the latter notions at least being appar. present in the familiar third sense). In the orig. sense a blizzard is essentially a “''blazer'',” of which word, indeed, it may be considered a manipulated form: see ''blaze''<sup>1</sup>, and cf. ''blaze''<sup>2</sup>, ''blast'', ''bluster''.] '''1.''' [Appar. the earliest sense, but not recorded, except in the figurative use, until recently.] A general discharge of guns; a rattling volley; a general “blazing away.” See extract.\n\n{{smaller block|Along the Atlantic coast, among the gunners who often}}",
+   "c1s2": "{{smaller block|hunt in parties stationed near together behind blinds, waiting for the flocks of migratory birds, the word ''blizzard'' means a general discharge of all the guns, nearly but not quite together—a rattling volley, differing from a broadside in not being quite simultaneous. This use of the word is familiar to every ’longshore man from Sandy Hook to Currituck, and goes back at least forty years, as my own memory attests. . . . The ’longshore men of forty years ago were all sailors, and many of them had served in the navy. That they may have learned the word there is rendered probable by the rather notable accuracy with which they always distinguished between a ''blizzard'' and a broadside. This points to a nautical origin of the word, though it made no progress in general use till it struck the Western imagination as a term for that convulsion of the elements for which “snow-storm,” with whatever descriptive epithet, was no adequate name, and the keen ear of the newspaper reporter caught it and gave it currency as “reportorial” English.\n{{right|''N. Y. Evening Post'', March 24, 1887.}}}}\nHence—'''2.''' Figuratively, a volley; a sudden (oratorical) attack; an overwhelming retort. {{smaller|[This seems to be the sense in the following passage, where Bartlett explains the word (“not known in the Eastern States,” he says) as “a poser.”]}}\n{{smaller block|A gentleman at dinner asked me for a toast; and supposing he meant to have some fun at my expense, I concluded to go ahead, and give him and his likes a ''blizzard''.\n{{right|''David Crockett'', Tour Down East, p. 16.}}}}\n'''3.''' A gale or hurricane accompanied by intense cold and dry, driving snow, common in winter on the great plains of the States and Territories of the northwestern United States east of the Rocky Mountains, especially Dakota, and in Manitoba in British America. {{smaller|It is described in the “American Meteorological Journal” as “a mad rushing combination of wind and snow which neither man nor beast could face.”}}\n{{smaller block|Whew! how the wind howls; there must be a terrible}}",
+   "c1s3": "{{smaller block|''blizzard'' west of us, and how ill-prepared are most frontier homes for such severe cold. {{right|''Chicago Advance'', Jan. 8, 1880.}}}}\n\n'''blizzardly''' (bliz′ärd-li), ''a.'' Blizzard-like; resembling a blizzard. [Rare.]\n\n'''bloak,''' ''n.'' See ''bloke.''\n\n'''bloat'''<sup>1</sup> (blōt), ''a.'' [Formerly also ''blote'', < ME. ''blote'' (uncertain), possibly < AS. ''blāt'', pale, livid (see ''blate''<sup>1</sup>), but prob. a var. or parallel form of ''bloute'' (see ''bloat''<sup>2</sup>) = Icel. ''blautr'', soaked, = Sw. ''blöt'' = Dan. ''blöd'', soft, = Norw. ''blaut'', soft, wet; cf. Icel. ''blautr fiskr'', fresh (soft) fish, opposed to ''hardhr fiskr'', dried (hard) fish, = Sw. ''blötfisk'', soaked fish, = Norw. ''blotfisk;'' Icel. ''blotna'' = Sw. ''blötna'' = Norw. ''blotna'', to soften. See ''blate''<sup>1</sup> and ''bloater'', and cf. ''bloat''<sup>2</sup>.] Cured by smoking: as, a ''bloat'' herring. See ''bloater.''\n{{smaller block|Lay you an old courtier on the coals like a sausage, or a ''bloat'' herring. {{right|''B. Jonson'', Mercury Vindicated.}}}}\n\n'''bloat'''<sup>1</sup> (blōt), ''v. t.'' [Appar. < ''bloat''<sup>1</sup>, ''a.''] To cure by smoking, as herrings. Formerly spelled ''blote.''\n{{smaller block|<poem>I have more smoke in my mouth than would ''blote''\nA hundred herrings.</poem>{{right|''Fletcher'', Island Princess, ii. 6.}}}}\n\n'''bloat'''<sup>2</sup> (blōt), ''a.'' [Earlier ''blowt'' (as orig. in the passage cited from Shakspere, where ''bloat'' is an 18th century emendation, though it occurs elsewhere in 17th century), ''blowte'', ''bloute'', prob. < Icel. ''blautr'' = Sw. ''blöt'', soft, etc.: see ''bloat''<sup>1</sup>, and cf. ''blate''<sup>1</sup>. The word is now regarded as pp. of ''bloat''<sup>2</sup>, ''v.''] Puffed; swollen; turgid: as, “the ''bloat'' king,” ''Shak.'', Hamlet, iii. 4. [Now only in rare literary use.]",
+   "c2s1": "make turgid or swollen, as with air, water, etc.; cause to swell, as with a dropsical humor; inflate; puff up; hence, make vain, conceited, etc.\n\n{{smaller block|<poem>His rude essays\nEncourage him, and ''bloat'' him up with praise.</poem>\n{{right|''Dryden'', Prol. to Circe.}}\n<poem>And then began to ''bloat'' himself, and ooze\nAll over with the fat affectionate smile\nThat makes the widow lean. ''Tennyson'', Sea Dreams.</poem>}}\n\n'''II.''' ''intrans.'' To become swollen; be puffed out or dilated; dilate.\n\n{{smaller block|If a person of firm constitution begins to ''bloat.''\n{{right|''Arbuthnot.''}}}}\n\n'''bloated''' (blō′ted), ''p. a.'' [Pp. of ''bloat''<sup>2</sup>, ''v.''] '''1.''' Swollen; puffed up; inflated; overgrown, so as to be unwieldy, especially from over-indulgence in eating and drinking; pampered: as, “a ''bloated'' mass,” ''Goldsmith.''\n\n{{smaller block|Grotesque monsters, half bestial, half human, dropping with wine, ''bloated'' with gluttony, and reeling in obscene dances.\n{{right|''Macaulay'', Milton.}}}}\n\n'''2.''' Connected with or arising from self-indulgence: as, “''bloated'' slumber,” ''Mickle'', A Sonnet. —'''3.''' Inordinately swollen in amount, possessions, self-esteem, etc.; puffed up with pride or wealth: as, a ''bloated'' estate; ''bloated'' capitalists; a ''bloated'' pretender.\n\n'''bloatedness''' (blō′ted-nes), ''n.'' [< ''bloated'' + ''-ness.''] The state of being bloated; turgidity; an inflated state of the tissues of the body; dilatation from any morbid cause. ''Arbuthnot.''\n\n'''bloater''' (blō′tėr), ''n.'' [< ''bloat''<sup>1</sup> + ''-er''<sup>1</sup>.] An English name for a herring which has been",
+   "c2s2": "steeped for a short time, slightly salted, and partially smoke-dried, but not split open.\n\n¶\n'''blob''' (blob), ''n.'' [Also ''bleb'', Sc. ''bleb'', ''bleib'', ''blab'', ''blob''; cf. ''blobber'', ''blubber''.] '''1.''' A small globe of liquid; a dewdrop; a blister; a bubble; a small lump, splotch, or daub.\n{{smaller block|Flawed rubies and emeralds, which have no value as precious stones, but only as barbaric ''blobs'' of colour.\n{{right|''Birdwood'', Indian Arts, II. 9.}}}}\n'''2.''' The bag of a honey-bee. [Prov. Eng.]—'''3†.''' The under lip. ''Halliwell.'' [Rare.]—'''4.''' A cottoid fish, ''Uranidea richardsoni'', a kind of miller’s-thumb.—{{smaller|'''On the blob''', by word of mouth. [Slang.]}}\n\n'''blobber''' (blob′ėr), ''n.'' Same as ''blubber''.\n\n'''blobber-lip''' (blob′ėr-lip), ''n.'' Same as ''blubber-lip''.\n{{smaller block|His ''blobber-lips'' and beetle-brows commend.\n{{right|''Dryden'', tr. of Juvenal’s Satires, iii.}}}}\n\n'''blobber-lipped''' (blob′ėr-lipt), ''a.'' Same as ''blubber-lipped''.\n\n'''blobby''' (blob′i), ''a.'' [< ''blob'' + ''-y''<sup>1</sup>.] Like a blob; abounding in blobs.\n\n'''blob-kite''' (blob′kīt), ''n.'' A local English name of the burbot.\n\n'''blob-lipped''' (blob′lipt), ''a.'' [See ''blob''.] Same as ''blubber-lipped''.\n\n'''blob-tale†''' (blob′tāl), ''n.'' A telltale; a blabber.\n{{smaller block|These ''blob-tales'' could find no other news to keep their tongues in motion. {{right|''Bp. Hacket'', Abp. Williams, ii. 67.}}}}\n\n'''block'''<sup>1</sup> (blok), ''n.'' [< ME. ''blok'', a block (of wood); not in AS., but borrowed from LG. or OF.: MD. ''bloc'', ''block'', D. ''blok'' = MLG. ''block'', LG. ''blok'' = OHG. ''bloh'', MHG. ''bloch'', G. ''block'' = Sw. ''block'' = Norw. ''blokk'' = Dan. ''blok'' (= Icel. ''blokk'', Haldorsen), > ML. ''blocus'', OF. and F. ''bloc''; all in the",
+   "c2s3": "general sense of ‘block, log, lump, mass,’ but confused more or less with the forms cited under ''block''<sup>2</sup>. There are similar Celtic forms: W. ''ploc'', a block, = Gael. ''ploc'', a round mass, bludgeon, block, stump of a tree, = Ir. ''ploc'', a plug, bung, ''blocan'', a little block, perhaps akin to Ir. ''blogh'', OIr. ''blog'', a fragment, from same root as E. ''break'' and ''fragment'' (see ''plug''); but the relation of these to the Teut. forms is uncertain. The senses of ''block''<sup>1</sup> and ''block''<sup>2</sup> run into each other, and some identify the words.] '''1.''' Any solid mass of matter, usually with one or more plane or approximately plane faces: as, a ''block'' of wood, stone, or ice; sometimes, specifically, a log of wood.\n{{smaller block|<poem>Now all our neighbours’ chimneys smoke,\nAnd Christmas ''blocks'' are burning.</poem>\n{{right|''Wither.''}}\nWhat sculpture is to a ''block'' of marble, education is to an human soul.\n{{right|''Spectator'', No. 215.}}}}\n'''2.''' A solid mass of wood the upper surface of which is used for some specific purpose. {{smaller|In particular — (''a'') The large piece of wood on which a butcher chops meat, or on which fire-wood is split.}}\n{{smaller block|Hard by, a flesher on a ''block'' had laid his whittle down.\n{{right|''Macaulay'', Virginia.}}}}\n{{smaller|(''b'') The piece of wood on which is placed the neck of a person condemned to be decapitated.}}\n{{smaller block|The noble heads which have been brought to the ''block''.\n{{right|''Everett.''}}\n<poem>Slave! to the ''block!'' — or I, or they,\nShall face the judgment-seat this day!</poem>\n{{right|''Scott'', Rokeby, vi. 31.}}}}",
+   "c3s1": "{{smaller|being sold by auction. (''e'') In ''falconry'', the perch whereon a bird of prey is kept.}}\n'''3.''' A mass of wood or stone used in mounting and dismounting; a horse-block.—'''4.''' A mold or piece on which something is shaped, or placed to make it keep in shape. {{smaller|In particular—(''a'') The wooden mold on which a hat is formed; hence, sometimes, the shape or style of a hat, or the hat itself.}}\n{{smaller block|He wears his faith but as the fashion of his hat; it ever changes with the next ''block''.\n{{right|''Shak.'', Much Ado, i. 1.}}\nThe ''blocke'' for his heade alters faster than the Feltmaker can fitte him, and thereupon we are called in scorne Blockheades.\n{{right|''Dekker'', Seven Deadly Sins, p. 37.}}}}\n{{smaller|(''b'') A wooden head for a wig; a barber’s block; hence, sometimes, the wig itself.}}\n{{smaller block|A beautiful golden wig (the Duchess never liked me to play with her hair) was on a ''block'' close by.\n{{right|''Bulwer'', Pelham, xxiii.}}}}\n'''5.''' A person with no more sense or life than a block; a blockhead; a stupid fellow.\n{{smaller block|What tongueless ''blocks'' were they!\n{{right|''Shak.'', Rich. III., iii. 7.}}}}\n'''6.''' In ''ship-building'', one of the pieces of timber, or supports constructed from such pieces, upon which the keel is laid.\n{{smaller block|<poem>“Thus,” said he, “will we build this ship!\nLay square the ''blocks'' upon the slip.”</poem>\n{{right|''Longfellow'', Building of the Ship.}}}}\n'''7.''' The solid metal stamp used by bookbinders for impressing a design on a book-cover.—'''8.''' A piece of wood fitted into the angle formed by the meeting edges of two other pieces.—'''9.''' A wooden rubber covered with thick felt, used",
+   "c3s2": "in polishing marble.—'''10.''' A piece of wood or metal serving as a support. {{smaller|(''a'') In a sawmill, one of the frames supporting and feeding the log to the saw. (''b'') In vehicles, a piece, generally carved or ornamented, placed over or under the springs of a carriage. (''c'') In ''printing'', the piece on which a stereotype plate is fastened to make it type-high.}}\n\n'''11.''' A mechanical contrivance consisting of one or more grooved pulleys mounted in a casing or shell, which is furnished with a hook,",
+   "c3s3": "eye, or strap by which it may be attached: it is\n[[FIGURE]]\n{{c|{{smaller|1, 2, single and double blocks with rope strap; 3, 4, double and single blocks with iron strap; 5, metallic block; 6, snatch-block; 7, secret block; 8, clump-block; 9, tail-block; 10, fiddle-block.}}}}\nused to transmit power, or change the direction of motion, by means of a rope or chain passing round the movable pulleys. {{smaller|Blocks are single, double, treble, or fourfold, according as the number of sheaves or pulleys is one, two, three, or four. A ''running block'' is attached to the object to be raised or moved; a ''standing block'' is fixed to some permanent support. Blocks also receive different names from their shape, purpose,}}",
+   "c3s4": "{{smaller block|or mode of application. Those to which the name ''dead-eyes'' has been given are not pulleys, being unprovided with sheaves. Many of the blocks used in ships are named after the ropes or chains which are rove through them: as, ''bowline blocks, clue-line'' and ''clue-garnet blocks.'' They are made of either wood or metal. See ''clue-garnet'', and cut under ''cat-block''.}}\n'''12.''' A connected mass of buildings: as, a ''block'' of houses.—'''13.''' A portion of a city inclosed by streets, whether occupied by buildings or consisting of vacant lots.\n{{smaller block|The new city was laid out in rectangular ''blocks'', each ''block'' containing thirty building lots. Such an average ''block'', comprising 282 houses and covering 9 acres of ground, exists in Oxford Street. It forms a compact square mass.\n{{right|''Quarterly Rev.''}}}}\n'''14.''' On the ''stock-exchange'', a large number of shares massed together and bought or sold in a lump.{{smaller|—'''Antifriction block.''' See ''antifriction''.—'''Between the beetle and the block.''' See ''beetle''<sup>1</sup>.—'''Block and block,''' the position of two blocks of a tackle when drawn close to each other. Also called ''two blocks''. The act of drawing the blocks apart is called ''fleeting the purchase''.—'''Block-and-cross bond.''' See ''bond''<sup>1</sup>.—'''Block and tackle,''' the pulley-blocks and ropes used for hoisting.—'''Block brake.''' See ''brake''<sup>3</sup>.—'''Block cornices and entablatures,''' ornamental features, corresponding in position to classical cornices and entablatures, in architectural elevations not composed of the regular orders.—}}"
+  },
+  "figure_files": {
+   "c3f1": "century v01 p0616 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1640,
+     1552,
+     2284,
+     2170
+    ],
+    "caption": [
+     1608,
+     2192,
+     2322,
+     2252
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1606,
+     1542,
+     2323,
+     2191
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4366,
+    "output_tokens": 97,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9618,
+    "output_tokens": 9209,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|blithesomeness|590|block}}</noinclude>[< ''blithesome'' + ''-ness''.] The quality of being blithesome; gaiety.\n\n{{smaller block|A glad ''blithesomeness'' belonged to her, potent to conquer even ill health and suffering.\n{{right|''New Princeton Rev.'', II. 78.}}}}\n\n'''Blitum''' (blī′tum), ''n.''   [L., < Gr. βλίτον, a certain plant used as a salad.]   A genus of plants, natural order ''Chenopodiaceæ'', now included in ''Chenopodium''. See ''blite''<sup>2</sup>.\n\n'''blive†''', ''adv.'' A Middle English contraction of ''belive''<sup>2</sup>.   ''Chaucer.''\n\n'''blizzard''' (bliz′ärd), ''n.''   [An expressive word, originating in the United States, appar. at first locally on the Atlantic coast (see first quot.), and carried thence to the West, where, in a new application, it came into general notice and use in the winter of 1880–81. The word is evidently a popular formation, and is prob. based, with the usual imitative variation observable in such formations, on what to the popular consciousness is the common root of ''blaze'', ''blast'', ''blow'' (the latter notions at least being appar. present in the familiar third sense). In the orig. sense a blizzard is essentially a “''blazer'',” of which word, indeed, it may be considered a manipulated form: see ''blaze''<sup>1</sup>, and cf. ''blaze''<sup>2</sup>, ''blast'', ''bluster''.]   '''1.''' [Appar. the earliest sense, but not recorded, except in the figurative use, until recently.] A general discharge of guns; a rattling volley; a general “blazing away.” See extract.\n\n{{smaller block|Along the Atlantic coast, among the gunners who often hunt in parties stationed near together behind blinds, waiting for the flocks of migratory birds, the word ''blizzard'' means a general discharge of all the guns, nearly but not quite together—a rattling volley, differing from a broadside in not being quite simultaneous. This use of the word is familiar to every ’longshore man from Sandy Hook to Currituck, and goes back at least forty years, as my own memory attests. . . . The ’longshore men of forty years ago were all sailors, and many of them had served in the navy. That they may have learned the word there is rendered probable by the rather notable accuracy with which they always distinguished between a ''blizzard'' and a broadside. This points to a nautical origin of the word, though it made no progress in general use till it struck the Western imagination as a term for that convulsion of the elements for which “snow-storm,” with whatever descriptive epithet, was no adequate name, and the keen ear of the newspaper reporter caught it and gave it currency as “reportorial” English.\n{{right|''N. Y. Evening Post'', March 24, 1887.}}}}\nHence—'''2.''' Figuratively, a volley; a sudden (oratorical) attack; an overwhelming retort. {{smaller|[This seems to be the sense in the following passage, where Bartlett explains the word (“not known in the Eastern States,” he says) as “a poser.”]}}\n{{smaller block|A gentleman at dinner asked me for a toast; and supposing he meant to have some fun at my expense, I concluded to go ahead, and give him and his likes a ''blizzard''.\n{{right|''David Crockett'', Tour Down East, p. 16.}}}}\n'''3.''' A gale or hurricane accompanied by intense cold and dry, driving snow, common in winter on the great plains of the States and Territories of the northwestern United States east of the Rocky Mountains, especially Dakota, and in Manitoba in British America. {{smaller|It is described in the “American Meteorological Journal” as “a mad rushing combination of wind and snow which neither man nor beast could face.”}}\n{{smaller block|Whew! how the wind howls; there must be a terrible ''blizzard'' west of us, and how ill-prepared are most frontier homes for such severe cold. {{right|''Chicago Advance'', Jan. 8, 1880.}}}}\n\n'''blizzardly''' (bliz′ärd-li), ''a.'' Blizzard-like; resembling a blizzard. [Rare.]\n\n'''bloak,''' ''n.'' See ''bloke.''\n\n'''bloat'''<sup>1</sup> (blōt), ''a.''   [Formerly also ''blote'', < ME. ''blote'' (uncertain), possibly < AS. ''blāt'', pale, livid (see ''blate''<sup>1</sup>), but prob. a var. or parallel form of ''bloute'' (see ''bloat''<sup>2</sup>) = Icel. ''blautr'', soaked, = Sw. ''blöt'' = Dan. ''blöd'', soft, = Norw. ''blaut'', soft, wet; cf. Icel. ''blautr fiskr'', fresh (soft) fish, opposed to ''hardhr fiskr'', dried (hard) fish, = Sw. ''blötfisk'', soaked fish, = Norw. ''blotfisk;'' Icel. ''blotna'' = Sw. ''blötna'' = Norw. ''blotna'', to soften. See ''blate''<sup>1</sup> and ''bloater'', and cf. ''bloat''<sup>2</sup>.]   Cured by smoking: as, a ''bloat'' herring. See ''bloater.''\n{{smaller block|Lay you an old courtier on the coals like a sausage, or a ''bloat'' herring. {{right|''B. Jonson'', Mercury Vindicated.}}}}\n\n'''bloat'''<sup>1</sup> (blōt), ''v. t.''   [Appar. < ''bloat''<sup>1</sup>, ''a.'']   To cure by smoking, as herrings. Formerly spelled ''blote.''\n{{smaller block|<poem>I have more smoke in my mouth than would ''blote''\nA hundred herrings.</poem>{{right|''Fletcher'', Island Princess, ii. 6.}}}}\n\n'''bloat'''<sup>2</sup> (blōt), ''a.''   [Earlier ''blowt'' (as orig. in the passage cited from Shakspere, where ''bloat'' is an 18th century emendation, though it occurs elsewhere in 17th century), ''blowte'', ''bloute'', prob. < Icel. ''blautr'' = Sw. ''blöt'', soft, etc.: see ''bloat''<sup>1</sup>, and cf. ''blate''<sup>1</sup>. The word is now regarded as pp. of ''bloat''<sup>2</sup>, ''v.'']   Puffed; swollen; turgid: as, “the ''bloat'' king,” ''Shak.'', Hamlet, iii. 4. [Now only in rare literary use.] make turgid or swollen, as with air, water, etc.; cause to swell, as with a dropsical humor; inflate; puff up; hence, make vain, conceited, etc.\n\n<poem>His rude essays\nEncourage him, and ''bloat'' him up with praise.</poem>\n{{smaller block|{{right|''Dryden'', Prol. to Circe.}}}}\n<poem>And then began to ''bloat'' himself, and ooze\nAll over with the fat affectionate smile\nThat makes the widow lean.   ''Tennyson'', Sea Dreams.</poem>\n\n'''II.''' ''intrans.'' To become swollen; be puffed out or dilated; dilate.\n\n{{smaller block|If a person of firm constitution begins to ''bloat.''\n{{right|''Arbuthnot.''}}}}\n\n'''bloated''' (blō′ted), ''p. a.''   [Pp. of ''bloat''<sup>2</sup>, ''v.'']   '''1.''' Swollen; puffed up; inflated; overgrown, so as to be unwieldy, especially from over-indulgence in eating and drinking; pampered: as, “a ''bloated'' mass,” ''Goldsmith.''\n\n{{smaller block|Grotesque monsters, half bestial, half human, dropping with wine, ''bloated'' with gluttony, and reeling in obscene dances.\n{{right|''Macaulay'', Milton.}}}}\n\n'''2.''' Connected with or arising from self-indulgence: as, “''bloated'' slumber,” ''Mickle'', A Sonnet. —'''3.''' Inordinately swollen in amount, possessions, self-esteem, etc.; puffed up with pride or wealth: as, a ''bloated'' estate; ''bloated'' capitalists; a ''bloated'' pretender.\n\n'''bloatedness''' (blō′ted-nes), ''n.''   [< ''bloated'' + ''-ness.'']   The state of being bloated; turgidity; an inflated state of the tissues of the body; dilatation from any morbid cause.   ''Arbuthnot.''\n\n'''bloater''' (blō′tėr), ''n.''   [< ''bloat''<sup>1</sup> + ''-er''<sup>1</sup>.]   An English name for a herring which has been steeped for a short time, slightly salted, and partially smoke-dried, but not split open.\n\n'''blob''' (blob), ''n.''   [Also ''bleb'', Sc. ''bleb'', ''bleib'', ''blab'', ''blob''; cf. ''blobber'', ''blubber''.]   '''1.''' A small globe of liquid; a dewdrop; a blister; a bubble; a small lump, splotch, or daub.\n{{smaller block|Flawed rubies and emeralds, which have no value as precious stones, but only as barbaric ''blobs'' of colour.\n{{right|''Birdwood'', Indian Arts, II. 9.}}}}\n'''2.''' The bag of a honey-bee. [Prov. Eng.]—'''3†.''' The under lip.   ''Halliwell.'' [Rare.]—'''4.''' A cottoid fish, ''Uranidea richardsoni'', a kind of miller’s-thumb.—{{smaller|'''On the blob''', by word of mouth. [Slang.]}}\n\n'''blobber''' (blob′ėr), ''n.'' Same as ''blubber''.\n\n'''blobber-lip''' (blob′ėr-lip), ''n.'' Same as ''blubber-lip''.\n{{smaller block|His ''blobber-lips'' and beetle-brows commend.\n{{right|''Dryden'', tr. of Juvenal’s Satires, iii.}}}}\n\n'''blobber-lipped''' (blob′ėr-lipt), ''a.'' Same as ''blubber-lipped''.\n\n'''blobby''' (blob′i), ''a.''   [< ''blob'' + ''-y''<sup>1</sup>.]   Like a blob; abounding in blobs.\n\n'''blob-kite''' (blob′kīt), ''n.'' A local English name of the burbot.\n\n'''blob-lipped''' (blob′lipt), ''a.''   [See ''blob''.]   Same as ''blubber-lipped''.\n\n'''blob-tale†''' (blob′tāl), ''n.'' A telltale; a blabber.\n{{smaller block|These ''blob-tales'' could find no other news to keep their tongues in motion. {{right|''Bp. Hacket'', Abp. Williams, ii. 67.}}}}\n\n'''block'''<sup>1</sup> (blok), ''n.''   [< ME. ''blok'', a block (of wood); not in AS., but borrowed from LG. or OF.: MD. ''bloc'', ''block'', D. ''blok'' = MLG. ''block'', LG. ''blok'' = OHG. ''bloh'', MHG. ''bloch'', G. ''block'' = Sw. ''block'' = Norw. ''blokk'' = Dan. ''blok'' (= Icel. ''blokk'', Haldorsen), > ML. ''blocus'', OF. and F. ''bloc''; all in the general sense of ‘block, log, lump, mass,’ but confused more or less with the forms cited under ''block''<sup>2</sup>. There are similar Celtic forms: W. ''ploc'', a block, = Gael. ''ploc'', a round mass, bludgeon, block, stump of a tree, = Ir. ''ploc'', a plug, bung, ''blocan'', a little block, perhaps akin to Ir. ''blogh'', OIr. ''blog'', a fragment, from same root as E. ''break'' and ''fragment'' (see ''plug''); but the relation of these to the Teut. forms is uncertain. The senses of ''block''<sup>1</sup> and ''block''<sup>2</sup> run into each other, and some identify the words.]   '''1.''' Any solid mass of matter, usually with one or more plane or approximately plane faces: as, a ''block'' of wood, stone, or ice; sometimes, specifically, a log of wood.\n{{smaller block|<poem>Now all our neighbours’ chimneys smoke,\nAnd Christmas ''blocks'' are burning.</poem>\n{{right|''Wither.''}}}}\n{{smaller block|What sculpture is to a ''block'' of marble, education is to an human soul.\n{{right|''Spectator'', No. 215.}}}}\n'''2.''' A solid mass of wood the upper surface of which is used for some specific purpose. {{smaller|In particular — (''a'') The large piece of wood on which a butcher chops meat, or on which fire-wood is split.}}\n{{smaller block|Hard by, a flesher on a ''block'' had laid his whittle down.\n{{right|''Macaulay'', Virginia.}}}}\n{{smaller|(''b'') The piece of wood on which is placed the neck of a person condemned to be decapitated.}}\n{{smaller block|The noble heads which have been brought to the ''block''.\n{{right|''Everett.''}}}}\n{{smaller block|<poem>Slave! to the ''block!'' — or I, or they,\nShall face the judgment-seat this day!</poem>\n{{right|''Scott'', Rokeby, vi. 31.}}}}\n{{smaller block|being sold by auction. (''e'') In ''falconry'', the perch whereon a bird of prey is kept.}}\n'''3.''' A mass of wood or stone used in mounting and dismounting; a horse-block.—'''4.''' A mold or piece on which something is shaped, or placed to make it keep in shape. {{smaller|In particular—(''a'') The wooden mold on which a hat is formed; hence, sometimes, the shape or style of a hat, or the hat itself.}}\n{{smaller block|He wears his faith but as the fashion of his hat; it ever changes with the next ''block''.\n{{right|''Shak.'', Much Ado, i. 1.}}}}\n{{smaller block|The ''blocke'' for his heade alters faster than the Feltmaker can fitte him, and thereupon we are called in scorne Blockheades.\n{{right|''Dekker'', Seven Deadly Sins, p. 37.}}}}\n{{smaller|(''b'') A wooden head for a wig; a barber’s block; hence, sometimes, the wig itself.}}\n{{smaller block|A beautiful golden wig (the Duchess never liked me to play with her hair) was on a ''block'' close by.\n{{right|''Bulwer'', Pelham, xxiii.}}}}\n'''5.''' A person with no more sense or life than a block; a blockhead; a stupid fellow.\n{{smaller block|What tongueless ''blocks'' were they!\n{{right|''Shak.'', Rich. III., iii. 7.}}}}\n'''6.''' In ''ship-building'', one of the pieces of timber, or supports constructed from such pieces, upon which the keel is laid.\n{{smaller block|<poem>“Thus,” said he, “will we build this ship!\nLay square the ''blocks'' upon the slip.”</poem>\n{{right|''Longfellow'', Building of the Ship.}}}}\n'''7.''' The solid metal stamp used by bookbinders for impressing a design on a book-cover.—'''8.''' A piece of wood fitted into the angle formed by the meeting edges of two other pieces.—'''9.''' A wooden rubber covered with thick felt, used in polishing marble.—'''10.''' A piece of wood or metal serving as a support. {{smaller|(''a'') In a sawmill, one of the frames supporting and feeding the log to the saw. (''b'') In vehicles, a piece, generally carved or ornamented, placed over or under the springs of a carriage. (''c'') In ''printing'', the piece on which a stereotype plate is fastened to make it type-high.}}\n\n'''11.''' A mechanical contrivance consisting of one or more grooved pulleys mounted in a casing or shell, which is furnished with a hook, eye, or strap by which it may be attached: it is\nused to transmit power, or change the direction of motion, by means of a rope or chain passing round the movable pulleys. {{smaller|Blocks are single, double, treble, or fourfold, according as the number of sheaves or pulleys is one, two, three, or four. A ''running block'' is attached to the object to be raised or moved; a ''standing block'' is fixed to some permanent support. Blocks also receive different names from their shape, purpose, or mode of application. Those to which the name ''dead-eyes'' has been given are not pulleys, being unprovided with sheaves. Many of the blocks used in ships are named after the ropes or chains which are rove through them: as, ''bowline blocks, clue-line'' and ''clue-garnet blocks.'' They are made of either wood or metal. See ''clue-garnet'', and cut under ''cat-block''.}}\n'''12.''' A connected mass of buildings: as, a ''block'' of houses.—'''13.''' A portion of a city inclosed by streets, whether occupied by buildings or consisting of vacant lots.\n{{smaller block|The new city was laid out in rectangular ''blocks'', each ''block'' containing thirty building lots. Such an average ''block'', comprising 282 houses and covering 9 acres of ground, exists in Oxford Street. It forms a compact square mass.\n{{right|''Quarterly Rev.''}}}}\n'''14.''' On the ''stock-exchange'', a large number of shares massed together and bought or sold in a lump.{{smaller|—'''Antifriction block.''' See ''antifriction''.—'''Between the beetle and the block.''' See ''beetle''<sup>1</sup>.—'''Block and block,''' the position of two blocks of a tackle when drawn close to each other. Also called ''two blocks''. The act of drawing the blocks apart is called ''fleeting the purchase''.—'''Block-and-cross bond.''' See ''bond''<sup>1</sup>.—'''Block and tackle,''' the pulley-blocks and ropes used for hoisting.—'''Block brake.''' See ''brake''<sup>3</sup>.—'''Block cornices and entablatures,''' ornamental features, corresponding in position to classical cornices and entablatures, in architectural elevations not composed of the regular orders.—}}\n\n[[File:century v01 p0616 c3f1.png|center|324px]]\n{{c|{{smaller|1, 2, single and double blocks with rope strap; 3, 4, double and single blocks with iron strap; 5, metallic block; 6, snatch-block; 7, secret block; 8, clump-block; 9, tail-block; 10, fiddle-block.}}}}<noinclude><references/></noinclude>"
+}
