@@ -48,7 +48,10 @@ CAPTIONS (user, 2026-11-17: joined — "That's a CSS issue, not a markup
 issue"): a caption's printed lines (the figure's name, then its key: "Hoary
 Pea (Tephrosia Virginiana). / a, the fruits.") are one text; where they
 break is the page's width, set by the book's CSS.  A <br> read in a caption
-({{c|…}}) is a word space.
+is a word space: a centred one ({{c|…}}), and an inset's (cap=), whose
+small-type runs follow one another to the float's end (user, 2026-11-20:
+"The captions always go with the images in the century, so no manual line
+breaks should be necessary for them").
 """
 from __future__ import annotations
 
@@ -303,12 +306,14 @@ def verse_as_poem(text: str) -> str:
 
 #: a caption: below its figure ({{c|…}}), or an inset's (cap={{smaller|…}})
 _CAPTION = re.compile(r"\{\{c\||(?<=cap=)\{\{smaller\|")
+#: the next small-type run of an inset's caption, after a break or a space
+_NEXT_SMALL = re.compile(r"(?:[ \t]*<br\s*/?>)?[ \t]*\{\{smaller\|")
 
 
 def caption_joined(text: str) -> str:
-    """A caption's lines as one text (module doc).  Only within the caption's
-    own template: a <br> after it, before another small run, may be the text
-    the inset stands in, read into its caption — the proofreader's."""
+    """A caption's lines as one text (module doc): a centred caption's
+    template; an inset's cap= run on through the small-type runs that follow
+    it (`cap={{smaller|Reverse.}}<br>{{smaller|Broad of James I.…}}`)."""
     out, last, at = [], 0, 0
     while m := _CAPTION.search(text, at):
         i = m.start()
@@ -316,6 +321,10 @@ def caption_joined(text: str) -> str:
         if end is None:
             at = m.end()
             continue
+        if text.startswith("{{smaller|", i):     # an inset's cap=
+            while (nxt := _NEXT_SMALL.match(text, end)) and \
+                    (e := _template_end(text, nxt.end() - len("{{smaller|"))):
+                end = e
         if "<br" in text[i:end]:
             out.append(text[last:i] + _BR.sub(" ", text[i:end]))
             last = end

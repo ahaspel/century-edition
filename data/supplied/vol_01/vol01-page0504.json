@@ -1,0 +1,269 @@
+{
+ "volume": 1,
+ "page_number": 504,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n503.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n503.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 746,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     103,
+     119,
+     2319,
+     159
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     103,
+     159,
+     840,
+     1182
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     107,
+     159,
+     809,
+     574
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     103,
+     1182,
+     840,
+     1284
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     103,
+     1284,
+     840,
+     2615
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     115,
+     1348,
+     583,
+     2377
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     103,
+     2615,
+     840,
+     3286
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     840,
+     159,
+     1586,
+     1187
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     840,
+     1187,
+     1586,
+     2194
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     840,
+     2194,
+     1586,
+     3286
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1586,
+     159,
+     2319,
+     1098
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1586,
+     1098,
+     2319,
+     1964
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1586,
+     1964,
+     2319,
+     3062
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1586,
+     3062,
+     2319,
+     3286
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|battery|478|battle}}",
+   "c1s1": "[[FIGURE]]\n{{c|{{smaller|Plan and Section of Mortar-battery for four mortars.}}}}\n{{c|{{smaller|''P'', parapet; ''E'', ''E'', epaulments; ''T T'', terreplein; ''F'', ''F'', ditches to provide earth for epaulments; ''M'', ''M'', mortar-platforms; ''C′ D′'', section on ''C D''.}}}}\nperpendicular to the interior crest of the enemy’s works: so called in contradistinction to a ''direct'' battery.—'''Open battery,''' a battery entirely exposed, that is, unprotected by a parapet.—'''Plunge-battery,''' an electric battery so arranged that the metals can be removed from the liquid when not in use.—'''Raised battery,''' a battery whose terreplein is elevated considerably above the ground. ''Tidball.''—'''Redan battery,''' a battery giving a cross or flanking fire from a salient or reëntrant angle of a fortification.—'''Reverse battery,''' a battery which fires directly or obliquely upon the rear of a work or line of troops.—'''Ricochet battery,''' a battery which fires horizontally or at a low angle of elevation, so that the projectiles graze and bound along the surface of the ground or water. Smooth-bore guns firing spherical projectiles are most effective for ricochet fire.—'''Siege-battery,''' a battery for siege operations. Such batteries are either ''fixed'', comprising siege-guns and mortars of the heaviest caliber and largest size, or ''movable'', consisting of field-guns and small mortars.—",
+   "c1s2": "¶\n'''Storage battery''', or '''secondary battery''', in ''elect.'', a combination of secondary cells or accumulators which when once charged may be used for a considerable time after as a source of an electrical current. The Planté cell con-",
+   "c1s3": "sists essentially of two plates of metallic lead (''C'', ''C''′) rolled into a spiral form, and in the improved Faure form covered\n[[FIGURE]]\n{{c|{{smaller|Storage or Secondary Cell, or Accumulator, Planté form.}}}}\n{{c|{{smaller|''C'', ''C''′, lead plates rolled in a spiral and separated by pieces of rubber; ''G'', ''H'', wires from the primary or charging battery; ''A'', ''A''′, poles of secondary cell.}}}}\nwith red oxid of lead; the primary current with which the cell is charged (by the wires ''G'' and ''H'') serves to peroxidize and reduce this coating, respectively, on the sheets",
+   "c1s4": "{{smaller|connected with the two poles; the chemical energy thus stored up is given back in the form of a continuous and regular electric current when the poles of the charged cell (''A'', ''A′'') are connected and the chemical action is reversed.—'''Sunken battery,''' a battery in which the sole of the embrasure is on a level with the ground, and the platform is consequently sunk below it. (''Tidball.'') The parapet is formed from the earth excavated from the site constituting the platform.—'''Half-sunken battery,''' a battery of which the parapet is formed partly from earth taken from the inside or terreplein, and partly from a ditch outside.—'''Urticating batteries,''' in ''zoöl.'', the nematocysts or thread-cells of hydroid polyps.—'''Water-battery,''' an electric battery in which the liquid employed is water. It is useless as a source of a current, because of the high resistance of the water, but, by having a large number of zinc-copper couples, a high and constant difference of potentials is obtained at the two poles; it is thus valuable in many electrostatic experiments.}}\n\n'''battery-box''' (bat′ėr-i-boks), ''n.'' A square chest or box, filled with earth, used for making parapets for batteries where gabions or sand-bags are not to be had. ''Farrow'', Mil. Encyc.\n\n'''battery-gun''' (bat′ėr-i-gun), ''n.'' A machine-gun (which see).",
+   "c2s1": "¶\n'''battery-head''' (bat′ėr-i-hed), ''n.'' The extreme end of a railroad embankment over which earth is tipped during the process of construction.\n\n'''battery-shooting''' (bat′ėr-i-shö″ting), ''n.'' The shooting of wild fowl from a battery. See ''battery'', 14.\n{{smaller block|It would be far better, however, to decide upon some plan of action by which ''battery-shooting'' could be wholly done away with. {{right|''Forest and Stream'', XXIII. 441.}}}}\n\n'''battery-wagon''' (bat′ėr-i-wag″ọn), ''n.'' ''Milit.'', a vehicle accompanying each field-battery to carry tools, paints, oils, veterinary supplies, etc., to be used for repairs and the service of the battery.\n\n'''Battey’s operation.''' See ''operation.''\n\n'''bat-tick''' (bat′tik), ''n.'' A small wingless tick-like insect, of the order ''Diptera'' and family ''Nycteribiidæ'' (which see): so called because it infests bats. The name is given to all the species of the family.\n\n'''battil†''', '''battill†''', ''a.'' Variant spellings of ''battle''<sup>3</sup>.\n\n'''batting''' (bat′ing), ''n.'' [Verbal n. of ''bat''<sup>1</sup>, ''v.''] '''1.''' The act or process of washing or smoothing linen with a bat.—'''2.''' The process of beating raw cotton with hazel- or holly-twigs, on a frame made of cords, for the purpose of opening the matted locks, or of beating out impurities.—'''3.''' Cotton or wool prepared in thick but light matted sheets for quilts or bed-covers, the quilting of garments, etc. Also called ''bat'', ''batts.''—'''4.''' The act or manner of using a bat in a game of",
+   "c2s2": "ball: as, their ''batting'' was good.\n\n'''batting-block''' (bat′ing-blok), ''n.'' In ''ceram.'', a block of wet plaster upon which clay is flattened out by a batter before it is shaped on the potter’s wheel or by a mold and templet. See ''batter''<sup>1</sup>, 3.\n\n'''batting-machine''' (bat′ing-mạ-shēn″), ''n.'' A machine in which cotton taken from the willowing-machine is scutched, blown, and lapped to prepare it for the carding-machine.\n\n'''batting-staff''' (bat′ing-stȧf), ''n.'' [Cf. ''battler''<sup>2</sup> and ''batlet''.] A small mallet sometimes used in laundries for beating linen; a beetle.\n\n'''battish''' (bat′ish), ''a.'' [< ''bat''<sup>2</sup> + ''-ish''<sup>1</sup>.] Of, pertaining to, or resembling a bat. [Rare.]\n{{smaller block|<poem>She clasp’d his limbs, by impious labour tired,\nWith ''battish'' wings.</poem>\n{{right|''Vernon'', tr. of Ovid’s Metamorph., viii.}}}}\n\n'''battle'''<sup>1</sup> (bat′l), ''n.'' [Early mod. E. also ''battel'' (a spelling still often used archaically, as in ''wager of battel''), < ME. ''batel'', ''batelle'', ''batayle'', ''bataile'', ''bataille'', < OF. ''bataille'' = Pr. Pg. ''batalha'' = Sp. ''batalla'' = It. ''battaglia'', < LL. ''battalia'', ''battualia'', the fighting and fencing exercises of soldiers and gladiators, < ''battere'', L. ''battuere'', ''batuere'', beat, fight, fence: see ''batter''<sup>1</sup> and ''bate''<sup>1</sup>.] '''1.''' A fight, hostile encounter, or engagement between opposing forces on land or sea; an important and systematic engagement between independent armies or fleets. {{smaller|''Actions'' and ''affairs'' are engagements of less magnitude than ''battles'', and are often unpremeditated, the result of surprises, or the meeting of armed re-}}",
+   "c2s3": "{{smaller block|connoitering parties, though the latter is usually termed a ''skirmish.'' Battles are classed as ''parallel'' or ''oblique'', according to the relative positions of the contending armies in order of battle; ''strategic'', when fought upon an objective point selected in planning a campaign, as were the battles of Marengo and Nashville; ''general'', when the whole or the greater part of both armies are engaged; ''partial'', when only brigades, divisions, or army corps are brought into action; ''offensive'', when an army seeks the enemy and attacks him wherever he is encountered; ''defensive'', when a position is selected with the design of awaiting and repelling the enemy; ''mixed'' or ''defensive-offensive'', when an army selects and occupies a position in advance, awaits the approach of the enemy, and at the proper moment moves out to engage him.}}\n'''2.''' An encounter between two persons; a duel or single combat.—'''3.''' A fight or encounter between animals, especially when pitted against each other for the amusement of spectators.\n{{smaller block|<poem>If we draw lots, he [Cæsar] speeds:\nHis cocks do win the ''battle'' still of mine,\nWhen it is all to nought; and his quails ever\nBeat mine, inhoop’d, at odds.</poem>\n{{right|''Shak.'', A. and C., ii. 3.}}}}\n'''4.''' Warfare; hostile action; actual conflict with enemies: as, wounds received or honors gained in ''battle.''\n{{smaller block|Who is this King of glory? The Lord strong and mighty, the Lord mighty in ''battle.'' {{right|Ps. xxiv. 8.}}}}\n'''5.''' Any contest or conflict; struggle for mastery or victory: as, the ''battle'' of life.\n{{smaller block|Of the six genera, Drosera has been incomparably the most successful in the ''battle'' for life; and a large part of its success may be attributed to its manner of catching insects. {{right|''Darwin'', Insectiv. Plants, p. 357.}}}}\n'''6†.''' An army prepared for or engaged in fight.\n{{smaller block|<poem>Fire answers fire, and through their paly flames\nEach ''battle'' sees the other’s umber’d face.</poem>\n{{right|''Shak.'', Hen. V., iv. (cho.).}}}}",
+   "c3s1": "¶\n'''7†.''' A body of forces, or division of an army; a battalion.\n{{smaller block|The king divided his army into three ''battles'', whereof the vanguard only with wings came to fight.\n{{right|''Bacon.''}}\nThen the ''Battels'' were staied, and set in such order as they should fight.\n{{right|''J. Brende'', tr. of Quintus Curtius, iii. 32.}}}}\n\n'''8†.''' More specifically—(''a'') The main or middle body of an army or fleet, as distinguished from the van and rear.\n{{smaller block|Angus led the avant-guard, himself followed with the ''battle'' a good distance behind, and after came the arrier.\n{{right|''Sir J. Hayward.''}}\nThe centre, or ''battle'' as it was called, consisting of sixty-three galleys, was led by John of Austria.\n{{right|''Prescott.''}}\n<poem>The van outsailed before, by him had run\nE’en as he stayed for us, and now indeed\nOf his main ''battle'' must he take good heed.</poem>\n{{right|''William Morris'', Earthly Paradise, I. 17.}}}}\n(''b'') That portion of the army, wherever placed and of whatever consisting, which is regarded as of main importance.\n{{smaller block|The cavalry, by way of distinction, was called the ''battle'', and on it alone depended the fate of every action.\n{{right|''Robertson.''}}}}\n\n'''9†.''' A formidable array similar to an army in battle order.\n{{smaller block|<poem>On his bow-back he [the boar] hath a ''battle'' set\nOf bristly pikes, that ever threat his foes.</poem>\n{{right|''Shak.'', Venus and Adonis, l. 619.}}}}",
+   "c3s2": "{{smaller block|'''Battle-range,''' the range best suited to firing on an enemy’s line of battle. Upon the rear sights of the latest military rifles the elevation corresponding to that range is designated by stamping the letter “B” opposite the battle-range elevation. This range is 262 yards, corresponding to a continuous dangerous space of 337 yards, for the Springfield rifle, caliber .45, used against foot-troops.—'''Battle royal.''' (''a'') A battle with fists or cudgels, in which more than two combatants are engaged; a free fight. (''b'') A fight of game-cocks, in which more than two are engaged.—'''Drawn battle,''' a battle in which neither party gains the victory.—'''Order of battle.''' See ''order''.—'''Pitched battle,''' a battle in which the armies are previously drawn up in form, with a regular disposition of the forces.—'''To give battle,''' to attack an enemy.—'''To join battle,''' properly, to meet the attack; commonly, to begin a battle.—'''Trial by battle.''' Same as ''wager of battle''.—'''Wager of battle''' or '''battel,''' in ''law'', a species of trial for the decision of controversies used among the rude military peoples of Europe. It was introduced into England by William the Conqueror, and practised in three cases only: in the court martial, or court of chivalry or honor; in appeals of felony; and in issues joined upon a writ of right. The contest was held before the judges on a piece of ground inclosed, and the combatants were bound to fight till the stars appeared, unless the death or defeat of one party sooner decided the contest. The weapons used were batons or staves an ell long. Women, priests, men above sixty, and lame and blind persons might appear by champions. Though long fallen into desuetude, it was a valid and legal mode of trial in England down to 1818, and was then formally abolished in consequence of the demand by the defendant in a suit for this mode of arbitrament, and of the fact that this demand could not}}",
+   "c3s3": "legally be denied him. ='''Syn. 1.''' ''Battle, Engagement, Conflict, Fight, Combat, Contest, Action.'' ''Battle'' is a general term, and the most common. It is the appropriate word for great engagements: as, the ''battle'' of Waterloo. A ''battle'' may last merely a few hours or for days: as, the ''battle'' of Gettysburg lasted three days. ''Engagement'' is in technical military usage practically equivalent to ''battle'', but it is a less forcible word. ''Conflict'', literally, a clashing together, is a strong word, implying fierce physical encounter. ''Fight'' has the energy of a monosyllable; it denotes actual conflict. A man may take part in a battle without actually fighting. A ''battle'' may include many ''fights'': as, the ''fight'' at the flag-staff in the ''battle'' of the Alma; or it may itself be described as a ''fight''. ''Combat'', like ''conflict'', is a word of more dignity than ''fight''; it is by its history suggestive of a struggle between two, as persons, animals, squadrons, armies. ''Contest'' is a very general word, of uncertain strength, but often joined with a strong adjective: as, a stubborn ''contest''. An ''action'' is a minor or incidental act of war, a single act of fighting: as, the whole ''action'' lasted but an hour. All these words apply equally to operations by land or by sea. See ''encounter'' and ''strife''.\n\n{{smaller block|<poem>The distant ''battle'' flash’d and rung.</poem>\n{{right|''Tennyson'', Two Voices.}}}}\n\n{{smaller block|Two thousand of the enemy were slain and taken in the ''engagement'', which lasted only a short time.\n{{right|''Prescott'', Ferd. and Isa., i. 15.}}}}\n\n{{smaller block|About 100,000 men were engaged, and the ''conflict'' raged with great fury from daylight till dark.\n{{right|''World’s Progress'', Antietam.}}}}\n\n{{smaller block|<poem>My lord is weary with the ''fight'' before,\nAnd they will fall upon him unawares.</poem>\n{{right|''Tennyson'', Geraint.}}}}\n\n{{smaller block|Numerous were the ''combats'' which took place between the high-mettled cavaliers on both sides, who met on the level arena, as on a tilting ground.\n{{right|''Prescott'', Ferd. and Isa., i. 15.}}}}\n\n{{smaller block|The whole plan of the Italian campaign had been based upon the assumption that the ''contest'' between the two great Teutonic States would prove a not unequal one.\n{{right|''E. Dicey'', Victor Emmanuel, p. 284.}}}}",
+   "c3s4": "¶\n{{smaller block|How many gentlemen have you lost in this ''action?''\n{{right|''Shak.'', Much Ado, i. 1.}}}}\n\n'''battle<sup>1</sup>''' (bat′l), ''v.''; pret. and pp. ''battled'', ppr. ''battling''. [< ME. ''batailen'', ''bataillen'', < OF. ''batailler'', < ''bataille'', a battle: see ''battle''<sup>1</sup>, ''n.''] '''I.''' ''intrans.'' '''1.''' To join or engage in battle; contend in fight; fight: as, to ''battle'' with wolves."
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0504 c1f1.png",
+   "c1f2": "century v01 p0504 c1f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     119,
+     168,
+     797,
+     562
+    ],
+    "caption": [
+     110,
+     581,
+     826,
+     680
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     141,
+     194,
+     821,
+     582
+    ]
+   },
+   {
+    "box": [
+     127,
+     1360,
+     571,
+     2365
+    ],
+    "caption": [
+     132,
+     2419,
+     571,
+     2508
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     164,
+     1358,
+     803,
+     2380
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "1": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 3,
+    "input_tokens": 5307,
+    "output_tokens": 179,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9591,
+    "output_tokens": 8123,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|battery|478|battle}}</noinclude>[[File:century v01 p0504 c1f1.png|center|339px]]\n{{c|{{smaller|Plan and Section of Mortar-battery for four mortars.}}}}\n{{c|{{smaller|''P'', parapet; ''E'', ''E'', epaulments; ''T T'', terreplein; ''F'', ''F'', ditches to provide earth for epaulments; ''M'', ''M'', mortar-platforms; ''C′ D′'', section on ''C D''.}}}}\nperpendicular to the interior crest of the enemy’s works: so called in contradistinction to a ''direct'' battery.—'''Open battery,''' a battery entirely exposed, that is, unprotected by a parapet.—'''Plunge-battery,''' an electric battery so arranged that the metals can be removed from the liquid when not in use.—'''Raised battery,''' a battery whose terreplein is elevated considerably above the ground.   ''Tidball.''—'''Redan battery,''' a battery giving a cross or flanking fire from a salient or reëntrant angle of a fortification.—'''Reverse battery,''' a battery which fires directly or obliquely upon the rear of a work or line of troops.—'''Ricochet battery,''' a battery which fires horizontally or at a low angle of elevation, so that the projectiles graze and bound along the surface of the ground or water. Smooth-bore guns firing spherical projectiles are most effective for ricochet fire.—'''Siege-battery,''' a battery for siege operations. Such batteries are either ''fixed'', comprising siege-guns and mortars of the heaviest caliber and largest size, or ''movable'', consisting of field-guns and small mortars.—\n\n'''Storage battery''', or '''secondary battery''', in ''elect.'', a combination of secondary cells or accumulators which when once charged may be used for a considerable time after as a source of an electrical current. The Planté cell consists essentially of two plates of metallic lead (''C'', ''C''′) rolled into a spiral form, and in the improved Faure form covered\nwith red oxid of lead; the primary current with which the cell is charged (by the wires ''G'' and ''H'') serves to peroxidize and reduce this coating, respectively, on the sheets {{smaller|connected with the two poles; the chemical energy thus stored up is given back in the form of a continuous and regular electric current when the poles of the charged cell (''A'', ''A′'') are connected and the chemical action is reversed.—'''Sunken battery,''' a battery in which the sole of the embrasure is on a level with the ground, and the platform is consequently sunk below it. (''Tidball.'') The parapet is formed from the earth excavated from the site constituting the platform.—'''Half-sunken battery,''' a battery of which the parapet is formed partly from earth taken from the inside or terreplein, and partly from a ditch outside.—'''Urticating batteries,''' in ''zoöl.'', the nematocysts or thread-cells of hydroid polyps.—'''Water-battery,''' an electric battery in which the liquid employed is water. It is useless as a source of a current, because of the high resistance of the water, but, by having a large number of zinc-copper couples, a high and constant difference of potentials is obtained at the two poles; it is thus valuable in many electrostatic experiments.}}\n\n[[File:century v01 p0504 c1f2.png|center|226px]]\n{{c|{{smaller|Storage or Secondary Cell, or Accumulator, Planté form.}}}}\n{{c|{{smaller|''C'', ''C''′, lead plates rolled in a spiral and separated by pieces of rubber; ''G'', ''H'', wires from the primary or charging battery; ''A'', ''A''′, poles of secondary cell.}}}}\n\n'''battery-box''' (bat′ėr-i-boks), ''n.'' A square chest or box, filled with earth, used for making parapets for batteries where gabions or sand-bags are not to be had.   ''Farrow'', Mil. Encyc.\n\n'''battery-gun''' (bat′ėr-i-gun), ''n.'' A machine-gun (which see).\n\n'''battery-head''' (bat′ėr-i-hed), ''n.'' The extreme end of a railroad embankment over which earth is tipped during the process of construction.\n\n'''battery-shooting''' (bat′ėr-i-shö″ting), ''n.'' The shooting of wild fowl from a battery. See ''battery'', 14.\n{{smaller block|It would be far better, however, to decide upon some plan of action by which ''battery-shooting'' could be wholly done away with. {{right|''Forest and Stream'', XXIII. 441.}}}}\n\n'''battery-wagon''' (bat′ėr-i-wag″ọn), ''n.'' ''Milit.'', a vehicle accompanying each field-battery to carry tools, paints, oils, veterinary supplies, etc., to be used for repairs and the service of the battery.\n\n'''Battey’s operation.''' See ''operation.''\n\n'''bat-tick''' (bat′tik), ''n.'' A small wingless tick-like insect, of the order ''Diptera'' and family ''Nycteribiidæ'' (which see): so called because it infests bats. The name is given to all the species of the family.\n\n'''battil†''', '''battill†''', ''a.'' Variant spellings of ''battle''<sup>3</sup>.\n\n'''batting''' (bat′ing), ''n.''   [Verbal n. of ''bat''<sup>1</sup>, ''v.'']   '''1.''' The act or process of washing or smoothing linen with a bat.—'''2.''' The process of beating raw cotton with hazel- or holly-twigs, on a frame made of cords, for the purpose of opening the matted locks, or of beating out impurities.—'''3.''' Cotton or wool prepared in thick but light matted sheets for quilts or bed-covers, the quilting of garments, etc. Also called ''bat'', ''batts.''—'''4.''' The act or manner of using a bat in a game of ball: as, their ''batting'' was good.\n\n'''batting-block''' (bat′ing-blok), ''n.'' In ''ceram.'', a block of wet plaster upon which clay is flattened out by a batter before it is shaped on the potter’s wheel or by a mold and templet. See ''batter''<sup>1</sup>, 3.\n\n'''batting-machine''' (bat′ing-mạ-shēn″), ''n.'' A machine in which cotton taken from the willowing-machine is scutched, blown, and lapped to prepare it for the carding-machine.\n\n'''batting-staff''' (bat′ing-stȧf), ''n.''   [Cf. ''battler''<sup>2</sup> and ''batlet''.]   A small mallet sometimes used in laundries for beating linen; a beetle.\n\n'''battish''' (bat′ish), ''a.''   [< ''bat''<sup>2</sup> + ''-ish''<sup>1</sup>.]   Of, pertaining to, or resembling a bat. [Rare.]\n{{smaller block|<poem>She clasp’d his limbs, by impious labour tired,\nWith ''battish'' wings.</poem>\n{{right|''Vernon'', tr. of Ovid’s Metamorph., viii.}}}}\n\n'''battle'''<sup>1</sup> (bat′l), ''n.''   [Early mod. E. also ''battel'' (a spelling still often used archaically, as in ''wager of battel''), < ME. ''batel'', ''batelle'', ''batayle'', ''bataile'', ''bataille'', < OF. ''bataille'' = Pr. Pg. ''batalha'' = Sp. ''batalla'' = It. ''battaglia'', < LL. ''battalia'', ''battualia'', the fighting and fencing exercises of soldiers and gladiators, < ''battere'', L. ''battuere'', ''batuere'', beat, fight, fence: see ''batter''<sup>1</sup> and ''bate''<sup>1</sup>.]   '''1.''' A fight, hostile encounter, or engagement between opposing forces on land or sea; an important and systematic engagement between independent armies or fleets. {{smaller|''Actions'' and ''affairs'' are engagements of less magnitude than ''battles'', and are often unpremeditated, the result of surprises, or the meeting of armed reconnoitering parties, though the latter is usually termed a ''skirmish.'' Battles are classed as ''parallel'' or ''oblique'', according to the relative positions of the contending armies in order of battle; ''strategic'', when fought upon an objective point selected in planning a campaign, as were the battles of Marengo and Nashville; ''general'', when the whole or the greater part of both armies are engaged; ''partial'', when only brigades, divisions, or army corps are brought into action; ''offensive'', when an army seeks the enemy and attacks him wherever he is encountered; ''defensive'', when a position is selected with the design of awaiting and repelling the enemy; ''mixed'' or ''defensive-offensive'', when an army selects and occupies a position in advance, awaits the approach of the enemy, and at the proper moment moves out to engage him.}}\n'''2.''' An encounter between two persons; a duel or single combat.—'''3.''' A fight or encounter between animals, especially when pitted against each other for the amusement of spectators.\n{{smaller block|<poem>If we draw lots, he [Cæsar] speeds:\nHis cocks do win the ''battle'' still of mine,\nWhen it is all to nought; and his quails ever\nBeat mine, inhoop’d, at odds.</poem>\n{{right|''Shak.'', A. and C., ii. 3.}}}}\n'''4.''' Warfare; hostile action; actual conflict with enemies: as, wounds received or honors gained in ''battle.''\n{{smaller block|Who is this King of glory? The Lord strong and mighty, the Lord mighty in ''battle.'' {{right|Ps. xxiv. 8.}}}}\n'''5.''' Any contest or conflict; struggle for mastery or victory: as, the ''battle'' of life.\n{{smaller block|Of the six genera, Drosera has been incomparably the most successful in the ''battle'' for life; and a large part of its success may be attributed to its manner of catching insects. {{right|''Darwin'', Insectiv. Plants, p. 357.}}}}\n'''6†.''' An army prepared for or engaged in fight.\n{{smaller block|<poem>Fire answers fire, and through their paly flames\nEach ''battle'' sees the other’s umber’d face.</poem>\n{{right|''Shak.'', Hen. V., iv. (cho.).}}}}\n\n'''7†.''' A body of forces, or division of an army; a battalion.\n{{smaller block|The king divided his army into three ''battles'', whereof the vanguard only with wings came to fight.\n{{right|''Bacon.''}}}}\n{{smaller block|Then the ''Battels'' were staied, and set in such order as they should fight.\n{{right|''J. Brende'', tr. of Quintus Curtius, iii. 32.}}}}\n\n'''8†.''' More specifically—(''a'') The main or middle body of an army or fleet, as distinguished from the van and rear.\n{{smaller block|Angus led the avant-guard, himself followed with the ''battle'' a good distance behind, and after came the arrier.\n{{right|''Sir J. Hayward.''}}}}\n{{smaller block|The centre, or ''battle'' as it was called, consisting of sixty-three galleys, was led by John of Austria.\n{{right|''Prescott.''}}}}\n{{smaller block|<poem>The van outsailed before, by him had run\nE’en as he stayed for us, and now indeed\nOf his main ''battle'' must he take good heed.</poem>\n{{right|''William Morris'', Earthly Paradise, I. 17.}}}}\n(''b'') That portion of the army, wherever placed and of whatever consisting, which is regarded as of main importance.\n{{smaller block|The cavalry, by way of distinction, was called the ''battle'', and on it alone depended the fate of every action.\n{{right|''Robertson.''}}}}\n\n'''9†.''' A formidable array similar to an army in battle order.\n{{smaller block|<poem>On his bow-back he [the boar] hath a ''battle'' set\nOf bristly pikes, that ever threat his foes.</poem>\n{{right|''Shak.'', Venus and Adonis, l. 619.}}}}\n{{smaller block|'''Battle-range,''' the range best suited to firing on an enemy’s line of battle. Upon the rear sights of the latest military rifles the elevation corresponding to that range is designated by stamping the letter “B” opposite the battle-range elevation. This range is 262 yards, corresponding to a continuous dangerous space of 337 yards, for the Springfield rifle, caliber .45, used against foot-troops.—'''Battle royal.''' (''a'') A battle with fists or cudgels, in which more than two combatants are engaged; a free fight. (''b'') A fight of game-cocks, in which more than two are engaged.—'''Drawn battle,''' a battle in which neither party gains the victory.—'''Order of battle.''' See ''order''.—'''Pitched battle,''' a battle in which the armies are previously drawn up in form, with a regular disposition of the forces.—'''To give battle,''' to attack an enemy.—'''To join battle,''' properly, to meet the attack; commonly, to begin a battle.—'''Trial by battle.''' Same as ''wager of battle''.—'''Wager of battle''' or '''battel,''' in ''law'', a species of trial for the decision of controversies used among the rude military peoples of Europe. It was introduced into England by William the Conqueror, and practised in three cases only: in the court martial, or court of chivalry or honor; in appeals of felony; and in issues joined upon a writ of right. The contest was held before the judges on a piece of ground inclosed, and the combatants were bound to fight till the stars appeared, unless the death or defeat of one party sooner decided the contest. The weapons used were batons or staves an ell long. Women, priests, men above sixty, and lame and blind persons might appear by champions. Though long fallen into desuetude, it was a valid and legal mode of trial in England down to 1818, and was then formally abolished in consequence of the demand by the defendant in a suit for this mode of arbitrament, and of the fact that this demand could not}} legally be denied him. ='''Syn. 1.''' ''Battle, Engagement, Conflict, Fight, Combat, Contest, Action.'' ''Battle'' is a general term, and the most common. It is the appropriate word for great engagements: as, the ''battle'' of Waterloo. A ''battle'' may last merely a few hours or for days: as, the ''battle'' of Gettysburg lasted three days. ''Engagement'' is in technical military usage practically equivalent to ''battle'', but it is a less forcible word. ''Conflict'', literally, a clashing together, is a strong word, implying fierce physical encounter. ''Fight'' has the energy of a monosyllable; it denotes actual conflict. A man may take part in a battle without actually fighting. A ''battle'' may include many ''fights'': as, the ''fight'' at the flag-staff in the ''battle'' of the Alma; or it may itself be described as a ''fight''. ''Combat'', like ''conflict'', is a word of more dignity than ''fight''; it is by its history suggestive of a struggle between two, as persons, animals, squadrons, armies. ''Contest'' is a very general word, of uncertain strength, but often joined with a strong adjective: as, a stubborn ''contest''. An ''action'' is a minor or incidental act of war, a single act of fighting: as, the whole ''action'' lasted but an hour. All these words apply equally to operations by land or by sea. See ''encounter'' and ''strife''.\n\n<poem>The distant ''battle'' flash’d and rung.</poem>\n{{smaller block|{{right|''Tennyson'', Two Voices.}}}}\n\n{{smaller block|Two thousand of the enemy were slain and taken in the ''engagement'', which lasted only a short time.\n{{right|''Prescott'', Ferd. and Isa., i. 15.}}}}\n\n{{smaller block|About 100,000 men were engaged, and the ''conflict'' raged with great fury from daylight till dark.\n{{right|''World’s Progress'', Antietam.}}}}\n\n<poem>My lord is weary with the ''fight'' before,\nAnd they will fall upon him unawares.</poem>\n{{smaller block|{{right|''Tennyson'', Geraint.}}}}\n\n{{smaller block|Numerous were the ''combats'' which took place between the high-mettled cavaliers on both sides, who met on the level arena, as on a tilting ground.\n{{right|''Prescott'', Ferd. and Isa., i. 15.}}}}\n\n{{smaller block|The whole plan of the Italian campaign had been based upon the assumption that the ''contest'' between the two great Teutonic States would prove a not unequal one.\n{{right|''E. Dicey'', Victor Emmanuel, p. 284.}}}}\n\n{{smaller block|How many gentlemen have you lost in this ''action?''\n{{right|''Shak.'', Much Ado, i. 1.}}}}\n\n'''battle<sup>1</sup>''' (bat′l), ''v.''; pret. and pp. ''battled'', ppr. ''battling''.   [< ME. ''batailen'', ''bataillen'', < OF. ''batailler'', < ''bataille'', a battle: see ''battle''<sup>1</sup>, ''n.'']   '''I.''' ''intrans.'' '''1.''' To join or engage in battle; contend in fight; fight: as, to ''battle'' with wolves.<noinclude><references/></noinclude>"
+}

@@ -1,0 +1,166 @@
+{
+ "volume": 1,
+ "page_number": 603,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n602.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n602.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 739,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     68,
+     145,
+     2279,
+     235
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     68,
+     235,
+     813,
+     1317
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     68,
+     1317,
+     813,
+     2232
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     68,
+     2232,
+     813,
+     3317
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     235,
+     1551,
+     1306
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     1306,
+     1551,
+     2398
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     813,
+     2398,
+     1551,
+     3317
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1551,
+     235,
+     2279,
+     1335
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1551,
+     1335,
+     2279,
+     2357
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1551,
+     2357,
+     2279,
+     3317
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|blandiloquence|577|blanketing}}",
+   "c1s1": "ppr. of ''loqui'', speak.] Fair, mild, or flattering speech; courteous language; compliment. [Rare.]\n\n'''blandiment†''' (blan′di-ment), ''n.'' [= Sp. ''blandimiento'' = It. ''blandimento'', < L. ''blandimentum'', < ''blandiri'', flatter: see ''blandish''.] Blandishment; allurement; enticement.\n{{smaller block|Allure no man with suasions and ''blandiments.''\n{{right|''Bp. Burnet'', Injunctions to the Monasteries,<br>[temp. Hen. VIII., I., App.}}}}\n\n'''blandise†''', ''v.'' A Middle English form of ''blandish''.\n\n'''blandish''' (blan′dish), ''v.'' [< ME. ''blaundishen'', ''blandisen'', < OF. ''blandiss-'', stem of certain parts of ''blandir'' = Pr. Sp. ''blandir'' = It. ''blandire'', < L. ''blandiri'', flatter, caress, < ''blandus'', caressing, gentle, bland: see ''bland''<sup>2</sup>, ''a.''] '''I.''' ''trans.'' '''1.''' To flatter; caress; coax or cajole with complaisant speech or caressing act.—'''2.''' To render pleasing, alluring, or enticing.\n{{smaller block|<poem>In former days a country-life,\nFor so time-honoured poets sing,\nFree from anxiety and strife,\nWas ''blandish’d'' by perpetual spring.</poem>\n{{right|''J. G. Cooper'', Retreat of Aristippus, Ep. i.}}}}\n'''3.''' To offer or bestow blandly or caressingly: as, to ''blandish'' words or favors. [Rare and archaic in all uses.]\n\n'''II.'''† ''intrans.'' To assume a caressing or blandishing manner.\n{{smaller block|<poem>How she ''blandishing''\nBy Dunsmore drives along.</poem>\n{{right|''Drayton'', Polyolbion, xiii. 318.}}}}\n\n'''blandished''' (blan′disht), ''p. a.'' Invested with flattery, cajolery, or blandishment.\n{{smaller block|<poem>Mustering all her wiles,</poem>}}",
+   "c1s2": "{{smaller block|With ''blandish’d'' parlies, feminine assaults.\n{{right|''Milton'', S. A., l. 403.}}}}\n\n¶\n'''blandisher''' (blan′dish-ėr), ''n.'' One who blandishes; a flatterer.\n\n'''blandishing''' (blan′dish-ing), ''n.'' [< ME. ''blandisinge''; verbal n. of ''blandish.''] Blandishment.\n{{smaller block|<poem>Double-hearted friends, whose ''blandishings''\nTickle our ears, but sting our bosoms.</poem>\n{{right|''J. Beaumont'', Psyche, vi. 3.}}}}\n\n'''blandishing''' (blan′dish-ing), ''a.'' [< ME. ''blaundyshing''; ppr. of ''blandish.''] Mild; soothing.\n{{smaller block|The see hath eke his ryght to be somtime calm and ''blaundyshing'' with smothe water.\n{{right|''Chaucer'', Boëthius, ii., prose 2.}}}}\n\n'''blandishment''' (blan′dish-ment), ''n.'' [< OF. ''blandissement'', < ''blandir'': see ''blandish'' and ''-ment.''] '''1.''' Speech or action expressive of affection or kindness, and tending to win the heart; an artful caress; flattering attention; cajolery; endearment.\n{{smaller block|<poem>As thus he spake, each bird and beast behold\nApproaching two and two; these cowering low\nWith ''blandishment'': each bird stoop’d on his wing.</poem>\n{{right|''Milton'', P. L., viii. 351.}}\n''Blandishments'' will not fascinate us.\n{{right|''D. Webster'', Speech, Bunker Hill.}}}}\n'''2.''' Something bland or pleasing; that which pleases or allures.\n{{smaller block|The rose yields her sweete ''blandishment.''\n{{right|''Habington'', Castara, ii.}}}}",
+   "c1s3": "¶\n{{smaller block|The ''blandishments'' of early friendships.\n{{right|''Longfellow'', Hyperion, iv. 5.}}}}\n\n'''blandly''' (bland′li), ''adv.'' In a bland manner; with suavity; mildly; gently.\n\n'''blandness''' (bland′nes), ''n.'' [< ''bland'' + ''-ness.''] The state or quality of being bland; mildness; gentleness; soothingness.\n{{smaller block|Envy was disarmed by the ''blandness'' of Albemarle’s temper.\n{{right|''Macaulay'', Hist. Eng., xxiii.}}}}\n\n'''blandurilla''' (blan-dū-ril′ä̤), ''n.'' [Sp., dim. of ''blandura'', softness, a white paint used by women, < ''blando'', soft, bland, < L. ''blandus'': see ''bland''<sup>2</sup>, ''a.''] A fine soft pomatum made in Spain.\n\n'''blank''' (blangk), ''a.'' and ''n.'' [Early mod. E. also ''blanc'', ''blanck''; < ME. ''blank'', fem. ''blanche'' (see ''blanch''<sup>1</sup>, ''a.''), < OF. ''blanc'', fem. ''blanche'', white (= Pr. ''blanc'' = Sp. ''blanco'' = Pg. ''branco'' = It. ''bianco''; ML. ''blancus''), < OHG. ''blanch'', MHG. ''blanc'', G. ''blank'', shining, bright (= MLG. ''blank'' = D. ''blank'' = Sw. Dan. ''blank'', shining, = AS. *''blanc'', only in poet. deriv. ''blanca'', a white or gray horse, ME. ''blanke'', ''blonke'', Sc. ''blonk''; cf. Icel. ''blakkr'', poet., a horse, steed); usually referred to a Teut. verb *''blinkan'' (pret. *''blank''), shine, which, however, is not found in the older tongues: see ''blink''. In the sense of a coin (II., 7, 8), OF. ''blanc'', MLG. ''blank'', MD. ''blancke'' (ML. ''blanca''), orig. with ref. to the color of silver.] '''I.''' ''a.'' '''1.''' White or pale: as, “the ''blanc'' moon,” ''Milton'', P. L., x. 656.\n{{smaller block|''Blank'' as death in marble.{{right|''Tennyson'', Princess, i.}}}}\n'''2.''' Pale from fear or terror; hence, dispirited; dejected; confounded; confused.\n\n37",
+   "c2s1": "{{smaller block|<poem>The fatal trespass done by Eve, amazed,\nAstonied stood and ''blank.''</poem>\n{{right|''Milton'', P. L., ix. 890.}}\nTh’ old woman wox half ''blanck'' those wordes to heare.\n{{right|''Spenser'', F. Q., III. iii. 17.}}}}\n'''3.''' Empty or unoccupied; void; bare.\n{{smaller block|<poem>So blacken’d all her world in secret, ''blank''\nAnd waste it seem’d and vain.</poem>\n{{right|''Tennyson'', Princess, vii.}}\n<poem>Now slowly falls the dull ''blank'' night.</poem>\n{{right|''Bryant'', Rain-Dream.}}\nSpecifically — (''a'') Free from written or printed characters; not written upon: as, a ''blank'' book; ''blank'' paper; ''blank'' spaces. (''b'') Not filled up: applied to legal, banking, commercial, or other forms: as, a ''blank'' check or order; a ''blank'' ballot; a ''blank'' bond. (''c'') Of uniform surface; unrelieved or unbroken by ornament or opening: as, a ''blank'' wall. (''d'') Empty of results, of interest, etc.: as, a ''blank'' outlook for the future.}}\n'''4.''' Without contents; especially, wanting some part necessary to completeness: as, ''blank'' cartridges, that is, cartridges containing powder but no ball.—'''5.''' Vacant in expression; exhibiting perplexity, real or feigned; nonplussed; disconcerted.\n{{smaller block|<poem>Never be ''blank'', Alonzo,\nBecause this fellow has outstript thy fortune.</poem>\n{{right|''Fletcher'', Rule a Wife, ii. 2.}}\nThe Damsell of Burgundie, at sight of her own letter, was soon ''blank'', and more ingenuous then to stand outfacing.\n{{right|''Milton'', Eikonoklastes, xxi.}}}}\n'''6.''' Complete; utter; unmitigated: as, “''blank'' stupidity,” ''Percival.''\n{{smaller block|<poem>All but the suffering heart was dead\nFor him abandoned to ''blank'' awe,\nTo vacancy, and horror strong.</poem>\n{{right|''Wordsworth'', White Doe of Rylstone, vi.}}}}\n'''7.''' Unrimed: applied to verse, particularly to the heroic verse of five feet without rime, such",
+   "c2s2": "as that commonly adopted in English dramatic and epic poetry.—'''Blank bar, bond, cartridge, charter, door, flange, indorsement, wheel,''' {{smaller|etc. See the nouns.}}\n\n'''II.''' ''n.'' '''1.''' Any void space or vacant surface; a space from which something is absent or omitted; a void; a vacancy: as, a ''blank'' in one’s memory; to leave ''blanks'' in writing.\n{{smaller block|I cannot write a paper full as I used to do, and yet I will not forgive a ''blank'' of half an inch from you. ''Swift.''\n<poem>From the cheerful ways of men\nCut off, and for the book of knowledge fair\nPresented with a universal ''blank''\nOf nature’s works, to me expunged and rased.</poem>\n{{right|''Milton'', P. L., iii. 48.}}}}\n'''2.''' A piece of paper prepared for some special use, but without writing or printed matter on it.\n{{smaller block|The freemen signified their approbation by an inscribed vote, and their dissent by a ''blank.'' ''Palfrey.''}}\n'''3.''' A form or document containing blank spaces; a document remaining incomplete till something essential is filled in.\n{{smaller block|<poem>And daily new exactions are devis’d—\nAs ''blanks'', benevolences, and I wot not what.</poem>\n{{right|''Shak.'', Rich. II., ii. 1.}}}}\n'''4.''' In parliamentary usage, provisional words printed in italics in a bill, the final form of which is to be settled in committee.—'''5.''' A ticket in a lottery on which no prize is indicated; a lot by which nothing is gained.\n{{smaller block|In a lottery where there are (at the lowest computation) ten thousand ''blanks'' to a prize, it is the most prudent choice not to venture.\n{{right|''Lady M. W. Montagu'', Letters, Jan. 28, 1753.}}}}\n'''6.''' In ''archery'', the white mark in the center of",
+   "c2s3": "a butt or target at which an arrow is aimed; hence (archaically), the object toward which anything is directed; aim; target.\n{{smaller block|As level as the cannon to his ''blank.''\n{{right|''Shak.'', Hamlet, iv. 1.}}}}\n{{smaller block|<poem>Let me still remain\nThe true ''blank'' of thine eye.</poem>\n{{right|''Shak.'', Lear, i. 1.}}}}\n{{smaller block|<poem>Quite beyond my arm, out of the ''blank''\nAnd level of my brain.</poem>\n{{right|''Shak.'', W. T., ii. 3.}}}}\n'''7.''' Same as ''blanc'', 1.—'''8.''' A small copper coin formerly current in France.\n{{smaller block|Refuse not a marvedi, a ''blank.''\n{{right|''Middleton and Rowley'', Spanish Gypsy, ii. 1.}}}}\n'''9.''' A piece of metal prepared to be formed into some finished object by a further operation: as, a ''blank'' for a file or a screw; specifically, in coining, a plate or piece of gold or silver, cut and shaped, but not stamped.—'''10.''' A blank verse.\n{{smaller block|<poem>Five lines of that number,\nSuch pretty, begging ''blanks.''</poem>\n{{right|''Beau. and Fl.'', Philaster, ii. 2.}}}}\n'''11†.''' A weight, equal to <math>\\tfrac{1}{230400}</math> of a grain.\n\n¶\n'''blank''' (blangk), ''v. t.'' [< ''blank'', ''a.''] '''1†.''' To make blank; make white or pale; blanch.\n{{smaller block|Blount arose and left the hall, while Raleigh looked after him with an expression that ''blanked'' for a moment his bold and animated countenance.\n{{right|''Scott'', Kenilworth, I. xvii.}}}}",
+   "c3s1": "concert; nonplus.\n{{smaller block|Despoil him, . . .<br>And with confusion ''blank'' his worshippers.\n{{right|''Milton'', S. A., l. 471.}}}}\n'''3†.''' To frustrate; make void; bring to naught.\n{{smaller block|All former purposes were ''blancked.''\n{{right|''Spenser'', State of Ireland.}}}}\n'''4.''' A common euphemistic substitute for ''damn'', referring to the blank or dash which is commonly substituted in printing for that word when it is used as a profane expression. [Slang.]\n\n¶'''blank-book''' (blangk′bu̇k), ''n.'' A book of ruled or unruled writing-paper for accounts, memoranda, etc.\n\n¶'''blanket''' (blang′ket), ''n.'' [< ME. ''blanket, blonket'', < OF. ''blanket'' (F. ''blanchet'', ML. ''blanketus, blanchetus''), also fem. ''blankete, blanquette'', dim. of ''blanc'', white: see ''blank'', ''a.''] '''1†.''' A coarse woolen fabric, white or undyed, used for clothing.—'''2.''' A large oblong piece of soft, loosely woven woolen cloth, used for the sake of its warmth as a bed-covering, or (usually made of coarser material and closer texture) as a covering for a horse when standing or exposed to cold, and sometimes worn as a garment, especially among rude or uncivilized people.—'''3.''' In ''printing'', a sheet of woolen cloth, white baize, or rubber, laid between the outer and inner tympans of a hand-press, or on a machine-cylinder, to moderate and equalize the pressure on the type.—'''4.''' In ''cloth-printing'', the cover of the printing-table.—'''5.''' Same as ''blanquette'', 4.—'''6.''' In ''paper-making'', an endless felt upon which the pulp is laid.—{{smaller|'''A wet blanket,''' one who or that which damps, depresses, or disappoints any}}",
+   "c3s2": "{{smaller|hope, expectation, or enjoyment.}}\n{{smaller block|“But,” said the chairman, and that “but” was the usual ''wet blanket.''{{right|''Dickens.''}}}}\n\n{{smaller|'''Born on the wrong side of the blanket,''' of illegitimate birth.}}\n\n'''blanket''' (blang′ket), ''v. t.'' [< ''blanket'', ''n.''] '''1.''' To cover with a blanket or as with a blanket: as, to ''blanket'' a horse.\n{{smaller block|I’ll . . . ''blanket'' my loins.{{right|''Shak.'', Lear, ii. 3.}}\n<poem>''Blanketted'' like a dog,\nAnd like a cut-purse whipt.</poem>{{right|''Massinger'', Parliament of Love, iv. 5.}}\nThe importance of the ''blanketing'' action of our atmospheric constituents has been in no way over-stated.{{right|''Science'', V. 450.}}}}\n'''2.''' To toss in a blanket by way of punishment or practical joke.\n{{smaller block|We’ll have our men ''blanket'' ’em i’ the hall.{{right|''B. Jonson'', Epicœne, v. 4.}}}}\n'''3.''' To take the wind out of the sails of, as the sails of one vessel when it is passing close to windward of another.\n{{smaller block|B’s helmsman will be apt to sail his boat as close to the wind as possible, and try to “claw to windward,” and prevent A from ''blanketing'' him.{{right|''Qualtrough'', Boat Sailer’s Manual, p. 135.}}}}\n\n'''blanket-bar''' (blang′ket-bär), ''n.'' An iron bar used to keep the blanket of a printing-press in place.\n\n'''blanket-clause''' (blang′ket-klâz), ''n.'' A general or indefinite clause framed so as to provide for a number of contingencies.\n{{smaller block|Suitable annual appropriations . . . require no ''blan-''}}",
+   "c3s3": "{{smaller block|''ket-clause'' to justify or cover them.\n{{right|''Report of Sec. U. S. Treasury'', 1886, I. xli.}}}}\n\n¶\n'''blanket-deposit''' (blang′ket-dē-poz″it), ''n.'' The name given in some parts of the Cordilleran mining region, especially in Colorado and Utah, to deposits of ore occurring in a form having some of the characters of those elsewhere designated as ''flat sheets'', ''bedded veins'', ''beds'', or ''flat masses''. {{smaller|They are frequently intercalated between rocks of different lithological character and origin, in which case they partake of the nature of contact-deposits. The occurrences of ore at Leadville are of this nature.}}\n\n'''blanketeer''' (blang-ket-ēr′), ''n.'' [< ''blanket'' + ''-eer''.] '''1†.''' One who tosses in a blanket.—'''2.''' One of the radical reformers of Lancashire who, on March 10th, 1817, at a meeting in St. Peter’s Fields, Manchester, decided to march to London with a petition for parliamentary reform, each man having a rug or blanket strapped on his shoulder, so that he might bivouac on the road if necessary.\n\n'''blanketeer''' (blang-ket-ēr′), ''v. i.'' [< ''blanketeer'', ''n.''] To act as a blanketeer.\n{{smaller block|This epistle awaited her at Beamish’s inn on returning from her ''blanketeering'' adventure.\n{{right|''The Husband Hunter'' (1830), iii. 230. (''N. and Q.'', 7th ser., II. 8.)}}}}\n\n'''blanketing''' (blang′ket-ing), ''n.'' '''1.''' Coarse woolen cloth of which blankets are made.—'''2.''' A supply or quantity of blankets.—'''3.''' The"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 1,
+    "input_tokens": 2673,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 10,
+    "input_tokens": 9477,
+    "output_tokens": 8961,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|blandiloquence|577|blanketing}}</noinclude>ppr. of ''loqui'', speak.] Fair, mild, or flattering speech; courteous language; compliment. [Rare.]\n\n'''blandiment†''' (blan′di-ment), ''n.''   [= Sp. ''blandimiento'' = It. ''blandimento'', < L. ''blandimentum'', < ''blandiri'', flatter: see ''blandish''.]   Blandishment; allurement; enticement.\n{{smaller block|<poem>Allure no man with suasions and ''blandiments.''</poem>\n{{right|''Bp. Burnet'', Injunctions to the Monasteries,<br>[temp. Hen. VIII., I., App.}}}}\n\n'''blandise†''', ''v.'' A Middle English form of ''blandish''.\n\n'''blandish''' (blan′dish), ''v.''   [< ME. ''blaundishen'', ''blandisen'', < OF. ''blandiss-'', stem of certain parts of ''blandir'' = Pr. Sp. ''blandir'' = It. ''blandire'', < L. ''blandiri'', flatter, caress, < ''blandus'', caressing, gentle, bland: see ''bland''<sup>2</sup>, ''a.'']   '''I.''' ''trans.'' '''1.''' To flatter; caress; coax or cajole with complaisant speech or caressing act.—'''2.''' To render pleasing, alluring, or enticing.\n{{smaller block|<poem>In former days a country-life,\nFor so time-honoured poets sing,\nFree from anxiety and strife,\nWas ''blandish’d'' by perpetual spring.</poem>\n{{right|''J. G. Cooper'', Retreat of Aristippus, Ep. i.}}}}\n'''3.''' To offer or bestow blandly or caressingly: as, to ''blandish'' words or favors. [Rare and archaic in all uses.]\n\n'''II.'''† ''intrans.'' To assume a caressing or blandishing manner.\n{{smaller block|<poem>How she ''blandishing''\nBy Dunsmore drives along.</poem>\n{{right|''Drayton'', Polyolbion, xiii. 318.}}}}\n\n'''blandished''' (blan′disht), ''p. a.'' Invested with flattery, cajolery, or blandishment.\n{{smaller block|<poem>Mustering all her wiles,</poem> With ''blandish’d'' parlies, feminine assaults.\n{{right|''Milton'', S. A., l. 403.}}}}\n\n'''blandisher''' (blan′dish-ėr), ''n.'' One who blandishes; a flatterer.\n\n'''blandishing''' (blan′dish-ing), ''n.''   [< ME. ''blandisinge''; verbal n. of ''blandish.'']   Blandishment.\n{{smaller block|<poem>Double-hearted friends, whose ''blandishings''\nTickle our ears, but sting our bosoms.</poem>\n{{right|''J. Beaumont'', Psyche, vi. 3.}}}}\n\n'''blandishing''' (blan′dish-ing), ''a.''   [< ME. ''blaundyshing''; ppr. of ''blandish.'']   Mild; soothing.\n{{smaller block|The see hath eke his ryght to be somtime calm and ''blaundyshing'' with smothe water.\n{{right|''Chaucer'', Boëthius, ii., prose 2.}}}}\n\n'''blandishment''' (blan′dish-ment), ''n.''   [< OF. ''blandissement'', < ''blandir'': see ''blandish'' and ''-ment.'']   '''1.''' Speech or action expressive of affection or kindness, and tending to win the heart; an artful caress; flattering attention; cajolery; endearment.\n{{smaller block|<poem>As thus he spake, each bird and beast behold\nApproaching two and two; these cowering low\nWith ''blandishment'': each bird stoop’d on his wing.</poem>\n{{right|''Milton'', P. L., viii. 351.}}}}\n{{smaller block|''Blandishments'' will not fascinate us.\n{{right|''D. Webster'', Speech, Bunker Hill.}}}}\n'''2.''' Something bland or pleasing; that which pleases or allures.\n{{smaller block|The rose yields her sweete ''blandishment.''\n{{right|''Habington'', Castara, ii.}}}}\n\n{{smaller block|The ''blandishments'' of early friendships.\n{{right|''Longfellow'', Hyperion, iv. 5.}}}}\n\n'''blandly''' (bland′li), ''adv.'' In a bland manner; with suavity; mildly; gently.\n\n'''blandness''' (bland′nes), ''n.''   [< ''bland'' + ''-ness.'']   The state or quality of being bland; mildness; gentleness; soothingness.\n{{smaller block|Envy was disarmed by the ''blandness'' of Albemarle’s temper.\n{{right|''Macaulay'', Hist. Eng., xxiii.}}}}\n\n'''blandurilla''' (blan-dū-ril′ä̤), ''n.''   [Sp., dim. of ''blandura'', softness, a white paint used by women, < ''blando'', soft, bland, < L. ''blandus'': see ''bland''<sup>2</sup>, ''a.'']   A fine soft pomatum made in Spain.\n\n'''blank''' (blangk), ''a.'' and ''n.''   [Early mod. E. also ''blanc'', ''blanck''; < ME. ''blank'', fem. ''blanche'' (see ''blanch''<sup>1</sup>, ''a.''), < OF. ''blanc'', fem. ''blanche'', white (= Pr. ''blanc'' = Sp. ''blanco'' = Pg. ''branco'' = It. ''bianco''; ML. ''blancus''), < OHG. ''blanch'', MHG. ''blanc'', G. ''blank'', shining, bright (= MLG. ''blank'' = D. ''blank'' = Sw. Dan. ''blank'', shining, = AS. *''blanc'', only in poet. deriv. ''blanca'', a white or gray horse, ME. ''blanke'', ''blonke'', Sc. ''blonk''; cf. Icel. ''blakkr'', poet., a horse, steed); usually referred to a Teut. verb *''blinkan'' (pret. *''blank''), shine, which, however, is not found in the older tongues: see ''blink''. In the sense of a coin (II., 7, 8), OF. ''blanc'', MLG. ''blank'', MD. ''blancke'' (ML. ''blanca''), orig. with ref. to the color of silver.]   '''I.''' ''a.'' '''1.''' White or pale: as, “the ''blanc'' moon,” ''Milton'', P. L., x. 656.\n{{smaller block|''Blank'' as death in marble.{{right|''Tennyson'', Princess, i.}}}}\n'''2.''' Pale from fear or terror; hence, dispirited; dejected; confounded; confused.\n\n37 {{smaller block|<poem>The fatal trespass done by Eve, amazed,\nAstonied stood and ''blank.''</poem>\n{{right|''Milton'', P. L., ix. 890.}}}}\n{{smaller block|Th’ old woman wox half ''blanck'' those wordes to heare.\n{{right|''Spenser'', F. Q., III. iii. 17.}}}}\n'''3.''' Empty or unoccupied; void; bare.\n{{smaller block|<poem>So blacken’d all her world in secret, ''blank''\nAnd waste it seem’d and vain.</poem>\n{{right|''Tennyson'', Princess, vii.}}}}\n{{smaller block|<poem>Now slowly falls the dull ''blank'' night.</poem>\n{{right|''Bryant'', Rain-Dream.}}}}\n{{smaller block|Specifically — (''a'') Free from written or printed characters; not written upon: as, a ''blank'' book; ''blank'' paper; ''blank'' spaces. (''b'') Not filled up: applied to legal, banking, commercial, or other forms: as, a ''blank'' check or order; a ''blank'' ballot; a ''blank'' bond. (''c'') Of uniform surface; unrelieved or unbroken by ornament or opening: as, a ''blank'' wall. (''d'') Empty of results, of interest, etc.: as, a ''blank'' outlook for the future.}}\n'''4.''' Without contents; especially, wanting some part necessary to completeness: as, ''blank'' cartridges, that is, cartridges containing powder but no ball.—'''5.''' Vacant in expression; exhibiting perplexity, real or feigned; nonplussed; disconcerted.\n{{smaller block|<poem>Never be ''blank'', Alonzo,\nBecause this fellow has outstript thy fortune.</poem>\n{{right|''Fletcher'', Rule a Wife, ii. 2.}}}}\n{{smaller block|The Damsell of Burgundie, at sight of her own letter, was soon ''blank'', and more ingenuous then to stand outfacing.\n{{right|''Milton'', Eikonoklastes, xxi.}}}}\n'''6.''' Complete; utter; unmitigated: as, “''blank'' stupidity,” ''Percival.''\n{{smaller block|<poem>All but the suffering heart was dead\nFor him abandoned to ''blank'' awe,\nTo vacancy, and horror strong.</poem>\n{{right|''Wordsworth'', White Doe of Rylstone, vi.}}}}\n'''7.''' Unrimed: applied to verse, particularly to the heroic verse of five feet without rime, such as that commonly adopted in English dramatic and epic poetry.—'''Blank bar, bond, cartridge, charter, door, flange, indorsement, wheel,''' {{smaller|etc. See the nouns.}}\n\n'''II.''' ''n.'' '''1.''' Any void space or vacant surface; a space from which something is absent or omitted; a void; a vacancy: as, a ''blank'' in one’s memory; to leave ''blanks'' in writing.\n{{smaller block|I cannot write a paper full as I used to do, and yet I will not forgive a ''blank'' of half an inch from you. ''Swift.''\n<poem>From the cheerful ways of men\nCut off, and for the book of knowledge fair\nPresented with a universal ''blank''\nOf nature’s works, to me expunged and rased.</poem>\n{{right|''Milton'', P. L., iii. 48.}}}}\n'''2.''' A piece of paper prepared for some special use, but without writing or printed matter on it.\n{{smaller block|The freemen signified their approbation by an inscribed vote, and their dissent by a ''blank.''\n{{right|''Palfrey.''}}}}\n'''3.''' A form or document containing blank spaces; a document remaining incomplete till something essential is filled in.\n{{smaller block|<poem>And daily new exactions are devis’d—\nAs ''blanks'', benevolences, and I wot not what.</poem>\n{{right|''Shak.'', Rich. II., ii. 1.}}}}\n'''4.''' In parliamentary usage, provisional words printed in italics in a bill, the final form of which is to be settled in committee.—'''5.''' A ticket in a lottery on which no prize is indicated; a lot by which nothing is gained.\n{{smaller block|In a lottery where there are (at the lowest computation) ten thousand ''blanks'' to a prize, it is the most prudent choice not to venture.\n{{right|''Lady M. W. Montagu'', Letters, Jan. 28, 1753.}}}}\n'''6.''' In ''archery'', the white mark in the center of a butt or target at which an arrow is aimed; hence (archaically), the object toward which anything is directed; aim; target.\n{{smaller block|As level as the cannon to his ''blank.''\n{{right|''Shak.'', Hamlet, iv. 1.}}}}\n{{smaller block|<poem>Let me still remain\nThe true ''blank'' of thine eye.</poem>\n{{right|''Shak.'', Lear, i. 1.}}}}\n{{smaller block|<poem>Quite beyond my arm, out of the ''blank''\nAnd level of my brain.</poem>\n{{right|''Shak.'', W. T., ii. 3.}}}}\n'''7.''' Same as ''blanc'', 1.—'''8.''' A small copper coin formerly current in France.\n{{smaller block|Refuse not a marvedi, a ''blank.''\n{{right|''Middleton and Rowley'', Spanish Gypsy, ii. 1.}}}}\n'''9.''' A piece of metal prepared to be formed into some finished object by a further operation: as, a ''blank'' for a file or a screw; specifically, in coining, a plate or piece of gold or silver, cut and shaped, but not stamped.—'''10.''' A blank verse.\n{{smaller block|<poem>Five lines of that number,\nSuch pretty, begging ''blanks.''</poem>\n{{right|''Beau. and Fl.'', Philaster, ii. 2.}}}}\n'''11†.''' A weight, equal to <math>\\tfrac{1}{230400}</math> of a grain.\n\n'''blank''' (blangk), ''v. t.''   [< ''blank'', ''a.'']   '''1†.''' To make blank; make white or pale; blanch.\n{{smaller block|Blount arose and left the hall, while Raleigh looked after him with an expression that ''blanked'' for a moment his bold and animated countenance.\n{{right|''Scott'', Kenilworth, I. xvii.}}}} concert; nonplus.\n{{smaller block|<poem>Despoil him, . . .\nAnd with confusion ''blank'' his worshippers.</poem>\n{{right|''Milton'', S. A., l. 471.}}}}\n'''3†.''' To frustrate; make void; bring to naught.\n{{smaller block|All former purposes were ''blancked.''\n{{right|''Spenser'', State of Ireland.}}}}\n'''4.''' A common euphemistic substitute for ''damn'', referring to the blank or dash which is commonly substituted in printing for that word when it is used as a profane expression. [Slang.]\n\n¶'''blank-book''' (blangk′bu̇k), ''n.'' A book of ruled or unruled writing-paper for accounts, memoranda, etc.\n\n¶'''blanket''' (blang′ket), ''n.''   [< ME. ''blanket, blonket'', < OF. ''blanket'' (F. ''blanchet'', ML. ''blanketus, blanchetus''), also fem. ''blankete, blanquette'', dim. of ''blanc'', white: see ''blank'', ''a.'']   '''1†.''' A coarse woolen fabric, white or undyed, used for clothing.—'''2.''' A large oblong piece of soft, loosely woven woolen cloth, used for the sake of its warmth as a bed-covering, or (usually made of coarser material and closer texture) as a covering for a horse when standing or exposed to cold, and sometimes worn as a garment, especially among rude or uncivilized people.—'''3.''' In ''printing'', a sheet of woolen cloth, white baize, or rubber, laid between the outer and inner tympans of a hand-press, or on a machine-cylinder, to moderate and equalize the pressure on the type.—'''4.''' In ''cloth-printing'', the cover of the printing-table.—'''5.''' Same as ''blanquette'', 4.—'''6.''' In ''paper-making'', an endless felt upon which the pulp is laid.—{{smaller|'''A wet blanket,''' one who or that which damps, depresses, or disappoints any hope, expectation, or enjoyment.}}\n{{smaller block|“But,” said the chairman, and that “but” was the usual ''wet blanket.''{{right|''Dickens.''}}}}\n\n{{smaller|'''Born on the wrong side of the blanket,''' of illegitimate birth.}}\n\n'''blanket''' (blang′ket), ''v. t.''   [< ''blanket'', ''n.'']   '''1.''' To cover with a blanket or as with a blanket: as, to ''blanket'' a horse.\n{{smaller block|I’ll . . . ''blanket'' my loins.{{right|''Shak.'', Lear, ii. 3.}}}}\n{{smaller block|<poem>''Blanketted'' like a dog,\nAnd like a cut-purse whipt.</poem>{{right|''Massinger'', Parliament of Love, iv. 5.}}}}\n{{smaller block|The importance of the ''blanketing'' action of our atmospheric constituents has been in no way over-stated.{{right|''Science'', V. 450.}}}}\n'''2.''' To toss in a blanket by way of punishment or practical joke.\n{{smaller block|We’ll have our men ''blanket'' ’em i’ the hall.{{right|''B. Jonson'', Epicœne, v. 4.}}}}\n'''3.''' To take the wind out of the sails of, as the sails of one vessel when it is passing close to windward of another.\n{{smaller block|B’s helmsman will be apt to sail his boat as close to the wind as possible, and try to “claw to windward,” and prevent A from ''blanketing'' him.{{right|''Qualtrough'', Boat Sailer’s Manual, p. 135.}}}}\n\n'''blanket-bar''' (blang′ket-bär), ''n.'' An iron bar used to keep the blanket of a printing-press in place.\n\n'''blanket-clause''' (blang′ket-klâz), ''n.'' A general or indefinite clause framed so as to provide for a number of contingencies.\n{{smaller block|Suitable annual appropriations . . . require no ''blanket-clause'' to justify or cover them.\n{{right|''Report of Sec. U. S. Treasury'', 1886, I. xli.}}}}\n\n'''blanket-deposit''' (blang′ket-dē-poz″it), ''n.'' The name given in some parts of the Cordilleran mining region, especially in Colorado and Utah, to deposits of ore occurring in a form having some of the characters of those elsewhere designated as ''flat sheets'', ''bedded veins'', ''beds'', or ''flat masses''. {{smaller|They are frequently intercalated between rocks of different lithological character and origin, in which case they partake of the nature of contact-deposits. The occurrences of ore at Leadville are of this nature.}}\n\n'''blanketeer''' (blang-ket-ēr′), ''n.''   [< ''blanket'' + ''-eer''.]   '''1†.''' One who tosses in a blanket.—'''2.''' One of the radical reformers of Lancashire who, on March 10th, 1817, at a meeting in St. Peter’s Fields, Manchester, decided to march to London with a petition for parliamentary reform, each man having a rug or blanket strapped on his shoulder, so that he might bivouac on the road if necessary.\n\n'''blanketeer''' (blang-ket-ēr′), ''v. i.''   [< ''blanketeer'', ''n.'']   To act as a blanketeer.\n{{smaller block|This epistle awaited her at Beamish’s inn on returning from her ''blanketeering'' adventure.\n{{right|''The Husband Hunter'' (1830), iii. 230. (''N. and Q.'', 7th ser., II. 8.)}}}}\n\n'''blanketing''' (blang′ket-ing), ''n.'' '''1.''' Coarse woolen cloth of which blankets are made.—'''2.''' A supply or quantity of blankets.—'''3.''' The<noinclude><references/></noinclude>"
+}

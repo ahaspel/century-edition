@@ -1,0 +1,225 @@
+{
+ "volume": 1,
+ "page_number": 708,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n707.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n707.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 746,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     118,
+     125,
+     2339,
+     163
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     118,
+     163,
+     854,
+     1235
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     118,
+     1235,
+     854,
+     2278
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     118,
+     2278,
+     854,
+     3279
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     854,
+     163,
+     1608,
+     797
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     854,
+     797,
+     1608,
+     1866
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     854,
+     1866,
+     1608,
+     2820
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     854,
+     2820,
+     1608,
+     3279
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1608,
+     163,
+     2339,
+     1242
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1608,
+     1242,
+     2339,
+     2315
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1608,
+     2315,
+     2339,
+     3279
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1936,
+     2705,
+     2330,
+     3227
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|brief|682|brigandine}}",
+   "c1s1": "{{smaller block|<poem>This mon that Matheu ȝef\nA peny that wes so ''bref.''</poem>\n{{right|''Specimens of Lyric Poetry'' (ed. Wright), p. 43.}}\nIt is very difficult to notice this great language suitably in the ''brief'' space available.\n{{right|''R. N. Cust,'' Mod. Langs. E. Ind., p. 45.}}}}\n'''2.''' Abbreviated; cut or made short: as, the ''brief'' skirts of a ballet-dancer. [Humorous.]—'''3.''' Short in duration; lasting a short time.\n{{smaller block|How ''brief'' the life of man. ''Shak.'', As you Like it, iii. 2.\nA fainter bloom, a more delicate and ''briefer'' beauty.\n{{right|''Hawthorne'', Scarlet Letter, ii.}}}}\n'''4.''' Short in expression; using few words; concise; succinct.\n{{smaller block|<poem>''Duch.'' I will be mild and gentle in my words.\n''K. Rich.'' And ''brief'', good mother, for I am in haste.</poem>\n{{right|''Shak.'', Rich. III., iv. 4.}}\nThe ''brief'' style is that which expresseth much in little.\n{{right|''B. Jonson'', Discoveries.}}}}\n'''5.''' Clever; good: as, a ''brief'' discourse; “he gae us a very ''brief'' sermon,” ''Jamieson''. [Scotch.]—'''6.''' Keen. [Scotch.]—'''7†.''' Quick; ready; eager.\n{{smaller block|Doe you not perceive the noose you have brought your selfe into whilst you were so ''briefe'' to taunt other men with weaknesse? ''Milton'', Def. of Humb. Remonst.}}\n'''8.''' [Appar. a particular use of ''brief'', short (hence quick, active, rife?); but some suppose a confusion with ''rife''.] Common; rife; prevalent: as, I hear smallpox is very ''brief'' there. [Prov. Eng.]—'''In brief.''' {{smaller|(''a'') In few words; briefly.}}\n{{smaller block|Open the matter ''in brief''. ''Shak.'', T. G. of V., i. 1.}}\n{{smaller|(''b'') In short.}}\n{{smaller block|''In brief'', sir, study what you most affect.}}",
+   "c1s2": "{{smaller block|{{right|''Shak.'', T. of the S., i. 1.}}}}\n{{smaller|='''Syn. 3.''' Short-lived, ephemeral, transitory, fleeting.—'''4.''' Compact, compendious.}}\n\n'''II.''' ''n.'' '''1.''' A short or concise writing; a short statement or account; an epitome.\n{{smaller block|I shall make it plain as far as a sum or ''brief'' can make a cause plain.\n{{right|''Bacon.''}}}}\n{{smaller block|<poem>And she told me,\nIn a sweet verbal ''brief.''</poem>\n{{right|''Shak.'', All’s Well, v. 3.}}}}\n{{smaller block|<poem>Out of your gentleness, please you to consider\nThe ''brief'' of this petition, which contains\nAll hope of my last fortunes.</poem>\n{{right|''Ford'', Fancies, ii. 1.}}}}\nSpecifically—'''2.''' In ''law'': (''a'') A formal memorandum in systematic order, but concisely expressed, of the points of law or of fact to be developed or expanded in argument, or to be pursued in the examination of a witness; in English law, more usually an abridged relation of the facts of a litigated case drawn up by the attorney for the instruction of a barrister in conducting proceedings in a court of justice.\n{{smaller block|The young fellow had a very good air, and seemed to hold his ''brief'' in his hand rather to help his action than that he wanted notes for his further information.\n{{right|''Steele'', Tatler, No. 186.}}}}\n{{smaller block|His matter was so completely at his command that he scarcely looked at his ''brief.''\n{{right|''R. Choate'', Addresses, p. 272.}}}}\n(''b'') A writ summoning one to answer to any action; or any precept of the sovereign in writing issuing from any court and ordering something to be done. (''c'') In ''Scots law'', same as ''brieve'' (which see). (''d'') In England, a letter patent from proper authority authorizing a public collection or charitable contribution of",
+   "c1s3": "money for any public or private purpose; a license to make collections for repairing churches, making up for losses by fire, etc.: sometimes called a ''church brief'' or ''king’s letter.''\n{{smaller block|This day was read in our church the ''Briefe'' for a collection for reliefe of y<sup>e</sup> Protestant French, so cruelly, barbarously, and inhumanly oppress’d.\n{{right|''Evelyn'', Diary, April 25, 1686.}}}}\n'''3†.''' A writing in general; a letter.\n{{smaller block|<poem>Bear this sealed ''brief'',\nWith winged haste, to the lord marshal.</poem>\n{{right|''Shak.'', 1 Hen. IV., iv. 4.}}}}\n'''4†.''' In ''music'', same as ''breve'', 1.\n{{smaller block|Upon the word best there, you see how I do enter with an odd minum, and drive it through the ''brief''; which no intelligent musician, I know, but will affirm to be very rare. {{right|''B. Jonson'', Cynthia’s Revels, iv. 1.}}}}\n'''5.''' The name given to certain official documents emanating from the pope, having a less solemn character than a bull.\n{{smaller block|The Bull being the highest Authority the Pope can give, the ''Brief'' is of less. {{right|''Selden'', Table-Talk, p. 86.}}}}\n'''6.''' [Also spelled ''breif'', ''breef'', < OF. ''bref'', ''brief'', a spell, talisman, < ML. ''breve'', in pl. ''brevia'', a writing containing magical characters carried as an amulet or talisman: a particular use of L. ''breve'', a writing, as above.] A spell. ''Burns.'' [Scotch.] ='''Syn. 1.''' {{smaller|''Abridgment'', ''Compendium'', ''Compend'', etc. See ''abridgment''.}}\n\n¶\n'''brief''' (brēf), ''v. t.'' [< ''brief'', ''n.'' In earlier form ''breve'', q. v.] '''1.''' To abridge; shorten; make a brief of: as, to ''brief'' pleadings.",
+   "c2s1": "¶\n{{smaller block|Thy power is confined, thy time is limited; both thy latitude and extension are ''briefed'' up.\n{{right|''Rev. T. Adams'', Works, II. 135.}}}}\n{{smaller block|Descriptive lists of 15,107 soldiers ''briefed'' and filed away.\n{{right|''Rep. of Sec. U. S. Treasury'', 1886, p. 596.}}}}\n'''2.''' To furnish with a brief; instruct by a brief. [Rare.]\n{{smaller block|I never could look a counsel in the face again if I’d neglected to ''brief'' him with such facts as these. {{right|''Trollope.''}}}}\n\n'''brief†''' (brēf), ''adv.'' [< ''brief'', ''a.''] '''1.''' In brief; in short; briefly.\n{{smaller block|''Brief'', I recover’d him; bound up his wound.\n{{right|''Shak.'', As you Like it, iv. 3.}}}}\n'''2.''' In or after a short time; soon; quickly.\n{{smaller block|<poem>But that a joy past joy calls out on me,\nIt were a grief so ''brief'' to part with thee:\nFarewell.</poem>\n{{right|''Shak.'', R. and J., iii. 3.}}}}\n\n'''briefless''' (brēf′les), ''a.'' [< ''brief'', ''n.'', + ''-less''.] Having no brief: as, a ''briefless'' barrister.\n\n'''brieflessness''' (brēf′les-nes), ''n.'' The state of",
+   "c2s2": "being without a brief or a client.\n\n'''briefly''' (brēf′li), ''adv.'' [< ME. ''brefly, brevely''; < ''brief'' + ''-ly''<sup>2</sup>.] '''1.''' In a brief manner; concisely; in few words.—'''2.''' With little length; shortly: as, in ''entom.'', ''briefly'' pilose, hairy, or spinous. [Rare.]\n\n'''briefman''' (brēf′man), ''n.''; pl. ''briefmen'' (-men). One who makes a brief; a copier of a manuscript. ''Quarterly Rev.''\n\n'''briefness''' (brēf′nes), ''n.'' [< ME. ''breffnes''; < ''brief'' + ''-ness''.] The state or quality of being brief; shortness; brevity; conciseness in discourse or writing.\n{{smaller block|We passe over that, ''breffnes'' of tyme consyderynge.\n{{right|''Coventry Mysteries'', p. 79.}}\nThere is a ''briefness'' of the parts sometimes that makes the whole long.\n{{right|''B. Jonson'', Discoveries.}}}}\n\n'''brier''' (brī′ėr), ''n.'' [E. dial. and Sc. ''breer''; < ME. ''brere'', < AS. ''brēr'', also ''brǣr'', a brier, bramble; cf. Icel. ''brörr'', a brier (rare and uncertain). Cf. Ir. Gael. ''preas'', a bush, brier (Ir. ''briar'', a brier, also a thorn, pin, bodkin, is prob. borrowed from E.). The F. ''bruyère'', dial. ''brière'' (earlier ''bruyere, briere'' = Cat. ''bruguera'' = It. dial. ''brughiera'' (ML. ''bruarium, bruera''), heath, heather, prob. < Pr. ''bru'' = It. dial. ''brug'' = Swiss ''bruch'', heath; of Celtic origin: < Bret. ''brug'', heath, = W. ''brwg'', a brake, growth), is not related. The reg. mod. E. form would be ''breer'', which exists dialectally; cf. ''friar'', earlier ''frier'', < ME. ''frere''.] A prickly plant or shrub in general; specifically, the sweetbrier or the greenbrier (which see). Also spelled ''briar''.",
+   "c2s3": "{{smaller block|<poem>The gentle shepheard satte beside a springe,\nAll in the shadowe of a bushye ''brere.''</poem>\n{{right|''Spenser'', Shep. Cal., December.}}\nI will tear your flesh with the thorns of the wilderness and with ''briers.''{{right|Judges viii. 7.}}}}\n\n'''brier-bird''' (brī′ėr-bėrd), ''n.'' A popular name of the American goldfinch, ''Chrysomitris'' (or ''Astragalinus) tristis.'' See cut under ''goldfinch.''\n\n'''briered''' (brī′ėrd), ''a.'' [< ''brier'' + ''-ed''<sup>2</sup>.] Set with briers. ''Chatterton.''\n\n'''brier-root''' (brī′ėr-röt), ''n.'' [< ''brier'', an adapted E. form of F. ''bruyère'', dial. ''brière'', heath (see ''brier''), + ''root''<sup>2</sup>.] The root of the white heath, ''Erica arborea'', a shrub often growing to a large size. {{smaller|The roots are gathered extensively in the south of France and in Corsica for the purpose of being made into tobacco-pipes, commonly called ''brier-wood pipes.'' The roots, having been cleared of earth, and the decayed parts cut away, are shaped into blocks of various dimensions with a circular saw. The blocks are then placed in a vat and subjected to a gentle simmering for a space of twelve hours, during which they acquire the rich yellowish-brown hue for which the best pipes are noted, and are then in a condition for turning.}}\n\n'''brier-wood''' (brī′ėr-wu̇d), ''n.'' The wood of the brier-root, used for making tobacco-pipes.\n\n'''briery'''<sup>1</sup> (brī′ėr-i), ''a.'' [< ''brier'' + ''-y''<sup>1</sup>.] Full of briers; rough; thorny. Also ''briary.''\n\n{{smaller block|<poem>The thorny brake and ''briery'' wood.</poem>\n{{right|''Fawkes'', Death of Adonis.}}\nA nightingale sang in the ''briery'' thickets by the brookside.{{right|''B. Taylor'', Lands of the Saracen, p. 55.}}}}",
+   "c2s4": "¶\n'''briery<sup>2</sup>†''' (brī′ėr-i), ''n.'' [For *''brierery'', < ''brier'' + ''-ery''. Cf. ''fernery'', ''pinery'', etc.] A place where briers grow. ''Huloet.''\n\n'''brieve''' (brēv), ''n.'' [A Sc. form of ''brief'', ''n.'', q. v.] In ''Scots law'', a writ issuing from Chancery, directed to any judge ordinary, ordering trial to be made by a jury of certain points stated in the brieve. {{smaller|Now used chiefly in the election of tutors to minors, the cognoscing of lunatics or idiots, and the ascertaining of widows’ tierce.}}\n\n'''brig<sup>1</sup>''' (brig), ''n.'' [= ''bridge''<sup>1</sup>, q. v.] '''1.''' A bridge. [Scotch.]\n{{smaller block|<poem>Now, do thy speedy utmost, Meg,\nAnd win the key-stane o’ the ''brig''.</poem>\n{{right|''Burns'', Tam o’ Shanter.}}}}",
+   "c3s1": "¶\n'''2.''' A utensil used in breweries and in dairies to set the strainer on. [North. Eng.]—'''3.''' A kind of iron set over a fire. ''Halliwell.'' [North. Eng.]—'''4.''' A ledge of rocks running out into the sea. ''E. D.''\n\n'''brig'''<sup>2</sup> (brig), ''n.'' [Short for ''brigantine''<sup>1</sup>, q. v. Hence D. ''brik'', G. ''brigg'', Dan. ''brig'', Sw. ''brigg'', F. ''brick'', Ar. ''brik'', a brig.] '''1.''' A vessel with two masts square-rigged, nearly like a ship’s mainmast and foremast.—'''2.''' The place on board a man-of-war where prisoners are confined.—{{smaller|'''Hermaphrodite brig''', a brig that is square-rigged forward and schooner-rigged aft. Also called ''brig-schooner.''}}\n{{smaller block|She passed out of hail, but we made her out to be an ''hermaphrodite brig'', with Brazilian colors in her main rigging.\n{{right|''R. H. Dana, Jr.'', Before the Mast, p. 18.}}}}\n\n'''brigade''' (bri-gād′), ''n.'' [= D. G. Dan. Sw. ''brigade'', < F. ''brigade'', < It. ''brigata'' (ML. ''brigata'', ''brigada''), a troop, company, < ''brigare'', contend: see ''brigand.''] '''1.''' A party or division of troops or soldiers, whether cavalry or infantry, regulars or militia, consisting of several regiments, squadrons, or battalions, under the command of a brigadier, or brigadier-general. {{smaller|A brigade of horse is a body of eight or ten squadrons; of infantry, four, five, or six battalions or regiments.}}\n\n'''2.''' A body of individuals organized, generally wearing a uniform, and acting under authority: as, a fire ''brigade.''—{{smaller|'''Household brigade.''' See ''household.''}}\n\n'''brigade''' (bri-gād′), ''v. t.''; pret. and pp. ''brigaded'', ppr. ''brigading''. [< ''brigade'', ''n.''] '''1.''' To form into a brigade or into brigades: as, regiments of militia are ''brigaded'' with regiments of the line.",
+   "c3s2": "¶\n{{smaller block|In the organization of the army my regiment was ''brigaded'' with the Sixth, Seventh, and Eighth Regiments of Louisiana Infantry.\n{{right|''Gen. Rich. Taylor'', N. A. Rev., CXXVI. 85.}}}}\nHence—'''2.''' To arrange or embody in a single collection or group; group together, as in zoölogy, under a single name. [Rare.]\n{{smaller block|The two Classes [Birds and Reptiles] which he [Huxley] had previously ''brigaded'' under the name of Sauropsida.\n{{right|''A. Newton'', Encyc. Brit., XVIII. 34.}}}}\n\n'''brigade-major''' (bri-gād′mā″jọr), ''n.'' An officer appointed by a brigadier to assist him in the management and ordering of his brigade.\n\n'''brigadier''' (brig-a̤-dēr′), ''n.'' [= It. ''brigadiere'', < F. ''brigadier'', < ''brigade'', brigade.] A general officer who commands a brigade, whether of horse or foot, and ranks next below a major-general.\n\n'''brigadier-general''' (brig-a̤-dēr′gen′e̤-ra̤l), ''n.'' Same as ''brigadier''.\n\n'''brigand''' (brig′a̤nd), ''n.'' [Formerly also ''brigant'' (after It.); < F. ''brigand'', a brigand, OF. ''brigand'', ''brigant'', an armed foot-soldier (ML. ''brigantes'', ''brigandi'', pl., foot-soldiers), < It. ''brigante'', a brigand, pirate, also an intriguer, < ''brigante'', ppr. of ''brigare'', strive after, contend for, solicit, < ''briga'', strife, quarrel, trouble: see ''brigue''.] '''1†.''' A sort of irregular foot-soldier.—'''2.''' A robber; a freebooter; a highwayman; especially, one of a gang of robbers living in secret retreats in mountains or forests.\n{{smaller block|These solitudes gave refuge to smugglers and ''brigands''.\n{{right|''Buckle'', Civilization, II. 65.}}\n\nFrançois, with his belt, sabre, and pistols, had much the aspect of a Greek ''brigand''.}}",
+   "c3s3": "{{smaller block|{{right|''B. Taylor'', Lands of the Saracen, p. 33.}}}}\n='''Syn. 2.''' ''Bandit'', etc. See ''robber''.\n\n'''brigandage''' (brig′an-dāj), ''n.'' [< F. ''brigandage'', < ''brigand'' + ''-age''.] The life and practices of a brigand; highway robbery by organized gangs; figuratively, organized spoliation: as, ''brigandage'' in the legislature or on the bench.\n{{smaller block|The rule of the Turk has never become a government; it has never discharged the duties of government; it was foreign ''brigandage'' five hundred years back, and it remains foreign ''brigandage'' still.\n{{right|''E. A. Freeman'', Amer. Lects., p. 419.}}}}\n{{smaller block|Many of the peasants in their distress had taken to poaching or ''brigandage'' in the forests.\n{{right|''C. H. Pearson'', Early and Mid. Ages of Eng., xxvi.}}}}\n\n'''brigander''', ''n.'' Same as ''brigandine''<sup>1</sup>.\n\n'''brigandine'''<sup>1</sup> (brig′an-din), ''n.'' and ''a.'' [Also ''brigantine'', ''brigander'', ''brigandier'' (obs.) (ME. ''brigantayle''—Gower); < OF. ''brigandine'' (ML. ''brigandina'', ''brigantina''), < ''brigand'', a foot-soldier: see ''brigand''.] '''I.''' ''n.'' '''1.''' A medieval\n[[FIGURE]]\n{{c|{{smaller|Brigandine from Musée d’Artillerie, Paris. (From Viollet-le-Duc’s “Dict. du Mobilier francais.”)}}}}"
+  },
+  "figure_files": {
+   "c3f1": "century v01 p0708 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1948,
+     2717,
+     2318,
+     3215
+    ],
+    "caption": [
+     1942,
+     3219,
+     2326,
+     3283
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1935,
+     2663,
+     2282,
+     3210
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4030,
+    "output_tokens": 99,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9620,
+    "output_tokens": 9753,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|brief|682|brigandine}}</noinclude>{{smaller block|<poem>This mon that Matheu ȝef\nA peny that wes so ''bref.''</poem>\n{{right|''Specimens of Lyric Poetry'' (ed. Wright), p. 43.}}}}\n{{smaller block|It is very difficult to notice this great language suitably in the ''brief'' space available.\n{{right|''R. N. Cust,'' Mod. Langs. E. Ind., p. 45.}}}}\n'''2.''' Abbreviated; cut or made short: as, the ''brief'' skirts of a ballet-dancer. [Humorous.]—'''3.''' Short in duration; lasting a short time.\n{{smaller block|How ''brief'' the life of man. ''Shak.'', As you Like it, iii. 2.\nA fainter bloom, a more delicate and ''briefer'' beauty.\n{{right|''Hawthorne'', Scarlet Letter, ii.}}}}\n'''4.''' Short in expression; using few words; concise; succinct.\n{{smaller block|<poem>''Duch.'' I will be mild and gentle in my words.\n''K. Rich.'' And ''brief'', good mother, for I am in haste.</poem>\n{{right|''Shak.'', Rich. III., iv. 4.}}}}\n{{smaller block|The ''brief'' style is that which expresseth much in little.\n{{right|''B. Jonson'', Discoveries.}}}}\n'''5.''' Clever; good: as, a ''brief'' discourse; “he gae us a very ''brief'' sermon,” ''Jamieson''. [Scotch.]—'''6.''' Keen. [Scotch.]—'''7†.''' Quick; ready; eager.\n{{smaller block|Doe you not perceive the noose you have brought your selfe into whilst you were so ''briefe'' to taunt other men with weaknesse?\n{{right|''Milton'', Def. of Humb. Remonst.}}}}\n'''8.''' [Appar. a particular use of ''brief'', short (hence quick, active, rife?); but some suppose a confusion with ''rife''.] Common; rife; prevalent: as, I hear smallpox is very ''brief'' there. [Prov. Eng.]—'''In brief.''' {{smaller|(''a'') In few words; briefly.}}\n{{smaller block|Open the matter ''in brief''.\n{{right|''Shak.'', T. G. of V., i. 1.}}}}\n{{smaller|(''b'') In short.}}\n{{smaller block|''In brief'', sir, study what you most affect. {{right|''Shak.'', T. of the S., i. 1.}}}}\n{{smaller|='''Syn. 3.''' Short-lived, ephemeral, transitory, fleeting.—'''4.''' Compact, compendious.}}\n\n'''II.''' ''n.'' '''1.''' A short or concise writing; a short statement or account; an epitome.\n{{smaller block|I shall make it plain as far as a sum or ''brief'' can make a cause plain.\n{{right|''Bacon.''}}}}\n{{smaller block|<poem>And she told me,\nIn a sweet verbal ''brief.''</poem>\n{{right|''Shak.'', All’s Well, v. 3.}}}}\n{{smaller block|<poem>Out of your gentleness, please you to consider\nThe ''brief'' of this petition, which contains\nAll hope of my last fortunes.</poem>\n{{right|''Ford'', Fancies, ii. 1.}}}}\nSpecifically—'''2.''' In ''law'': (''a'') A formal memorandum in systematic order, but concisely expressed, of the points of law or of fact to be developed or expanded in argument, or to be pursued in the examination of a witness; in English law, more usually an abridged relation of the facts of a litigated case drawn up by the attorney for the instruction of a barrister in conducting proceedings in a court of justice.\n{{smaller block|The young fellow had a very good air, and seemed to hold his ''brief'' in his hand rather to help his action than that he wanted notes for his further information.\n{{right|''Steele'', Tatler, No. 186.}}}}\n{{smaller block|His matter was so completely at his command that he scarcely looked at his ''brief.''\n{{right|''R. Choate'', Addresses, p. 272.}}}}\n(''b'') A writ summoning one to answer to any action; or any precept of the sovereign in writing issuing from any court and ordering something to be done. (''c'') In ''Scots law'', same as ''brieve'' (which see). (''d'') In England, a letter patent from proper authority authorizing a public collection or charitable contribution of money for any public or private purpose; a license to make collections for repairing churches, making up for losses by fire, etc.: sometimes called a ''church brief'' or ''king’s letter.''\n{{smaller block|This day was read in our church the ''Briefe'' for a collection for reliefe of y<sup>e</sup> Protestant French, so cruelly, barbarously, and inhumanly oppress’d.\n{{right|''Evelyn'', Diary, April 25, 1686.}}}}\n'''3†.''' A writing in general; a letter.\n{{smaller block|<poem>Bear this sealed ''brief'',\nWith winged haste, to the lord marshal.</poem>\n{{right|''Shak.'', 1 Hen. IV., iv. 4.}}}}\n'''4†.''' In ''music'', same as ''breve'', 1.\n{{smaller block|Upon the word best there, you see how I do enter with an odd minum, and drive it through the ''brief''; which no intelligent musician, I know, but will affirm to be very rare. {{right|''B. Jonson'', Cynthia’s Revels, iv. 1.}}}}\n'''5.''' The name given to certain official documents emanating from the pope, having a less solemn character than a bull.\n{{smaller block|The Bull being the highest Authority the Pope can give, the ''Brief'' is of less. {{right|''Selden'', Table-Talk, p. 86.}}}}\n'''6.''' [Also spelled ''breif'', ''breef'', < OF. ''bref'', ''brief'', a spell, talisman, < ML. ''breve'', in pl. ''brevia'', a writing containing magical characters carried as an amulet or talisman: a particular use of L. ''breve'', a writing, as above.] A spell.   ''Burns.'' [Scotch.] ='''Syn. 1.''' {{smaller|''Abridgment'', ''Compendium'', ''Compend'', etc. See ''abridgment''.}}\n\n'''brief''' (brēf), ''v. t.''   [< ''brief'', ''n.'' In earlier form ''breve'', q. v.]   '''1.''' To abridge; shorten; make a brief of: as, to ''brief'' pleadings.\n\n{{smaller block|Thy power is confined, thy time is limited; both thy latitude and extension are ''briefed'' up.\n{{right|''Rev. T. Adams'', Works, II. 135.}}}}\n{{smaller block|Descriptive lists of 15,107 soldiers ''briefed'' and filed away.\n{{right|''Rep. of Sec. U. S. Treasury'', 1886, p. 596.}}}}\n'''2.''' To furnish with a brief; instruct by a brief. [Rare.]\n{{smaller block|I never could look a counsel in the face again if I’d neglected to ''brief'' him with such facts as these. {{right|''Trollope.''}}}}\n\n'''brief†''' (brēf), ''adv.''   [< ''brief'', ''a.'']   '''1.''' In brief; in short; briefly.\n{{smaller block|''Brief'', I recover’d him; bound up his wound.\n{{right|''Shak.'', As you Like it, iv. 3.}}}}\n'''2.''' In or after a short time; soon; quickly.\n{{smaller block|<poem>But that a joy past joy calls out on me,\nIt were a grief so ''brief'' to part with thee:\nFarewell.</poem>\n{{right|''Shak.'', R. and J., iii. 3.}}}}\n\n'''briefless''' (brēf′les), ''a.''   [< ''brief'', ''n.'', + ''-less''.]   Having no brief: as, a ''briefless'' barrister.\n\n'''brieflessness''' (brēf′les-nes), ''n.'' The state of being without a brief or a client.\n\n'''briefly''' (brēf′li), ''adv.''   [< ME. ''brefly, brevely''; < ''brief'' + ''-ly''<sup>2</sup>.]   '''1.''' In a brief manner; concisely; in few words.—'''2.''' With little length; shortly: as, in ''entom.'', ''briefly'' pilose, hairy, or spinous. [Rare.]\n\n'''briefman''' (brēf′man), ''n.''; pl. ''briefmen'' (-men). One who makes a brief; a copier of a manuscript.   ''Quarterly Rev.''\n\n'''briefness''' (brēf′nes), ''n.''   [< ME. ''breffnes''; < ''brief'' + ''-ness''.]   The state or quality of being brief; shortness; brevity; conciseness in discourse or writing.\n{{smaller block|We passe over that, ''breffnes'' of tyme consyderynge.\n{{right|''Coventry Mysteries'', p. 79.}}}}\n{{smaller block|There is a ''briefness'' of the parts sometimes that makes the whole long.\n{{right|''B. Jonson'', Discoveries.}}}}\n\n'''brier''' (brī′ėr), ''n.''   [E. dial. and Sc. ''breer''; < ME. ''brere'', < AS. ''brēr'', also ''brǣr'', a brier, bramble; cf. Icel. ''brörr'', a brier (rare and uncertain). Cf. Ir. Gael. ''preas'', a bush, brier (Ir. ''briar'', a brier, also a thorn, pin, bodkin, is prob. borrowed from E.). The F. ''bruyère'', dial. ''brière'' (earlier ''bruyere, briere'' = Cat. ''bruguera'' = It. dial. ''brughiera'' (ML. ''bruarium, bruera''), heath, heather, prob. < Pr. ''bru'' = It. dial. ''brug'' = Swiss ''bruch'', heath; of Celtic origin: < Bret. ''brug'', heath, = W. ''brwg'', a brake, growth), is not related. The reg. mod. E. form would be ''breer'', which exists dialectally; cf. ''friar'', earlier ''frier'', < ME. ''frere''.]   A prickly plant or shrub in general; specifically, the sweetbrier or the greenbrier (which see). Also spelled ''briar''.\n<poem>The gentle shepheard satte beside a springe,\nAll in the shadowe of a bushye ''brere.''</poem>\n{{smaller block|{{right|''Spenser'', Shep. Cal., December.}}}}\n{{smaller block|I will tear your flesh with the thorns of the wilderness and with ''briers.''{{right|Judges viii. 7.}}}}\n\n'''brier-bird''' (brī′ėr-bėrd), ''n.'' A popular name of the American goldfinch, ''Chrysomitris'' (or ''Astragalinus) tristis.'' See cut under ''goldfinch.''\n\n'''briered''' (brī′ėrd), ''a.''   [< ''brier'' + ''-ed''<sup>2</sup>.]   Set with briers.   ''Chatterton.''\n\n'''brier-root''' (brī′ėr-röt), ''n.''   [< ''brier'', an adapted E. form of F. ''bruyère'', dial. ''brière'', heath (see ''brier''), + ''root''<sup>2</sup>.]   The root of the white heath, ''Erica arborea'', a shrub often growing to a large size. {{smaller|The roots are gathered extensively in the south of France and in Corsica for the purpose of being made into tobacco-pipes, commonly called ''brier-wood pipes.'' The roots, having been cleared of earth, and the decayed parts cut away, are shaped into blocks of various dimensions with a circular saw. The blocks are then placed in a vat and subjected to a gentle simmering for a space of twelve hours, during which they acquire the rich yellowish-brown hue for which the best pipes are noted, and are then in a condition for turning.}}\n\n'''brier-wood''' (brī′ėr-wu̇d), ''n.'' The wood of the brier-root, used for making tobacco-pipes.\n\n'''briery'''<sup>1</sup> (brī′ėr-i), ''a.''   [< ''brier'' + ''-y''<sup>1</sup>.]   Full of briers; rough; thorny. Also ''briary.''\n\n<poem>The thorny brake and ''briery'' wood.</poem>\n{{smaller block|{{right|''Fawkes'', Death of Adonis.}}}}\n{{smaller block|A nightingale sang in the ''briery'' thickets by the brookside.{{right|''B. Taylor'', Lands of the Saracen, p. 55.}}}}\n\n'''briery<sup>2</sup>†''' (brī′ėr-i), ''n.''   [For *''brierery'', < ''brier'' + ''-ery''. Cf. ''fernery'', ''pinery'', etc.]   A place where briers grow.   ''Huloet.''\n\n'''brieve''' (brēv), ''n.''   [A Sc. form of ''brief'', ''n.'', q. v.]   In ''Scots law'', a writ issuing from Chancery, directed to any judge ordinary, ordering trial to be made by a jury of certain points stated in the brieve. {{smaller|Now used chiefly in the election of tutors to minors, the cognoscing of lunatics or idiots, and the ascertaining of widows’ tierce.}}\n\n'''brig<sup>1</sup>''' (brig), ''n.''   [= ''bridge''<sup>1</sup>, q. v.]   '''1.''' A bridge. [Scotch.]\n{{smaller block|<poem>Now, do thy speedy utmost, Meg,\nAnd win the key-stane o’ the ''brig''.</poem>\n{{right|''Burns'', Tam o’ Shanter.}}}}\n\n'''2.''' A utensil used in breweries and in dairies to set the strainer on. [North. Eng.]—'''3.''' A kind of iron set over a fire.   ''Halliwell.'' [North. Eng.]—'''4.''' A ledge of rocks running out into the sea.   ''E. D.''\n\n'''brig'''<sup>2</sup> (brig), ''n.''   [Short for ''brigantine''<sup>1</sup>, q. v. Hence D. ''brik'', G. ''brigg'', Dan. ''brig'', Sw. ''brigg'', F. ''brick'', Ar. ''brik'', a brig.]   '''1.''' A vessel with two masts square-rigged, nearly like a ship’s mainmast and foremast.—'''2.''' The place on board a man-of-war where prisoners are confined.—{{smaller|'''Hermaphrodite brig''', a brig that is square-rigged forward and schooner-rigged aft. Also called ''brig-schooner.''}}\n{{smaller block|She passed out of hail, but we made her out to be an ''hermaphrodite brig'', with Brazilian colors in her main rigging.\n{{right|''R. H. Dana, Jr.'', Before the Mast, p. 18.}}}}\n\n'''brigade''' (bri-gād′), ''n.''   [= D. G. Dan. Sw. ''brigade'', < F. ''brigade'', < It. ''brigata'' (ML. ''brigata'', ''brigada''), a troop, company, < ''brigare'', contend: see ''brigand.'']   '''1.''' A party or division of troops or soldiers, whether cavalry or infantry, regulars or militia, consisting of several regiments, squadrons, or battalions, under the command of a brigadier, or brigadier-general. {{smaller|A brigade of horse is a body of eight or ten squadrons; of infantry, four, five, or six battalions or regiments.}}\n\n'''2.''' A body of individuals organized, generally wearing a uniform, and acting under authority: as, a fire ''brigade.''—{{smaller|'''Household brigade.''' See ''household.''}}\n\n'''brigade''' (bri-gād′), ''v. t.''; pret. and pp. ''brigaded'', ppr. ''brigading''.   [< ''brigade'', ''n.'']   '''1.''' To form into a brigade or into brigades: as, regiments of militia are ''brigaded'' with regiments of the line.\n\n{{smaller block|In the organization of the army my regiment was ''brigaded'' with the Sixth, Seventh, and Eighth Regiments of Louisiana Infantry.\n{{right|''Gen. Rich. Taylor'', N. A. Rev., CXXVI. 85.}}}}\nHence—'''2.''' To arrange or embody in a single collection or group; group together, as in zoölogy, under a single name. [Rare.]\n{{smaller block|The two Classes [Birds and Reptiles] which he [Huxley] had previously ''brigaded'' under the name of Sauropsida.\n{{right|''A. Newton'', Encyc. Brit., XVIII. 34.}}}}\n\n'''brigade-major''' (bri-gād′mā″jọr), ''n.'' An officer appointed by a brigadier to assist him in the management and ordering of his brigade.\n\n'''brigadier''' (brig-a̤-dēr′), ''n.''   [= It. ''brigadiere'', < F. ''brigadier'', < ''brigade'', brigade.]   A general officer who commands a brigade, whether of horse or foot, and ranks next below a major-general.\n\n'''brigadier-general''' (brig-a̤-dēr′gen′e̤-ra̤l), ''n.'' Same as ''brigadier''.\n\n'''brigand''' (brig′a̤nd), ''n.''   [Formerly also ''brigant'' (after It.); < F. ''brigand'', a brigand, OF. ''brigand'', ''brigant'', an armed foot-soldier (ML. ''brigantes'', ''brigandi'', pl., foot-soldiers), < It. ''brigante'', a brigand, pirate, also an intriguer, < ''brigante'', ppr. of ''brigare'', strive after, contend for, solicit, < ''briga'', strife, quarrel, trouble: see ''brigue''.]   '''1†.''' A sort of irregular foot-soldier.—'''2.''' A robber; a freebooter; a highwayman; especially, one of a gang of robbers living in secret retreats in mountains or forests.\n{{smaller block|These solitudes gave refuge to smugglers and ''brigands''.\n{{right|''Buckle'', Civilization, II. 65.}}}}\n{{smaller block|François, with his belt, sabre, and pistols, had much the aspect of a Greek ''brigand''. {{right|''B. Taylor'', Lands of the Saracen, p. 33.}}}}\n='''Syn. 2.''' ''Bandit'', etc. See ''robber''.\n\n'''brigandage''' (brig′an-dāj), ''n.''   [< F. ''brigandage'', < ''brigand'' + ''-age''.]   The life and practices of a brigand; highway robbery by organized gangs; figuratively, organized spoliation: as, ''brigandage'' in the legislature or on the bench.\n{{smaller block|The rule of the Turk has never become a government; it has never discharged the duties of government; it was foreign ''brigandage'' five hundred years back, and it remains foreign ''brigandage'' still.\n{{right|''E. A. Freeman'', Amer. Lects., p. 419.}}}}\n{{smaller block|Many of the peasants in their distress had taken to poaching or ''brigandage'' in the forests.\n{{right|''C. H. Pearson'', Early and Mid. Ages of Eng., xxvi.}}}}\n\n'''brigander''', ''n.'' Same as ''brigandine''<sup>1</sup>.\n\n'''brigandine'''<sup>1</sup> (brig′an-din), ''n.'' and ''a.''   [Also ''brigantine'', ''brigander'', ''brigandier'' (obs.) (ME. ''brigantayle''—Gower); < OF. ''brigandine'' (ML. ''brigandina'', ''brigantina''), < ''brigand'', a foot-soldier: see ''brigand''.]   '''I.''' ''n.'' '''1.''' A medieval {{img float|file=century v01 p0708 c3f1.png|width=190px|align=right|cap={{smaller|Brigandine from Musée d’Artillerie, Paris. (From Viollet-le-Duc’s “Dict. du Mobilier francais.”)}}}}<noinclude><references/></noinclude>"
+}

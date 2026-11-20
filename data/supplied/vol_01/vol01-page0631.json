@@ -1,0 +1,331 @@
+{
+ "volume": 1,
+ "page_number": 631,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n630.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n630.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 743,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     72,
+     130,
+     2289,
+     169
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     72,
+     169,
+     814,
+     1258
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     228,
+     346,
+     674,
+     708
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     72,
+     1258,
+     814,
+     2271
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     72,
+     2271,
+     814,
+     3264
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     814,
+     169,
+     1562,
+     1155
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     814,
+     1155,
+     1562,
+     2244
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     823,
+     1482,
+     1040,
+     1664
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     814,
+     2244,
+     1562,
+     3264
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1562,
+     169,
+     2289,
+     768
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1562,
+     768,
+     2289,
+     1859
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1640,
+     822,
+     2232,
+     1364
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1562,
+     1859,
+     2289,
+     2841
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1562,
+     2841,
+     2289,
+     3264
+    ]
+   },
+   {
+    "name": "c3f2",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1610,
+     2918,
+     2229,
+     3162
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|boar-fish|605|boat’s-gripes}}",
+   "c1s1": "¶\n'''boar-fish''' (bōr′fish), ''n.'' A name applied to various dissimilar fishes which have a projecting snout. {{smaller|(''a'') In England, the ''Capros aper'', a fish of the family ''Caproidæ.'' It has the power of extending and contracting its mouth at will. When extended the mouth takes the form of a hog’s snout, whence the name. It is}}\n[[FIGURE]]\n{{c|{{smaller|Boar-fish (''Capros aper'').}}}}\n{{smaller|6 inches long, and inhabits the Mediterranean and Atlantic northward to the British coasts. (''b'') In New Zealand, the ''Cyttus australis'', a species of the family ''Zenidæ.'' It is related to the john-dory, but has a rough skin and is destitute of large plates and the black lateral spots. (''c'') In southern Australia (Melbourne, etc.), the ''Pentaceropsis recurvirostris'', a species of the family ''Pentacerotidæ.'' It is esteemed as a food-fish.}}\n\n'''boarish''' (bōr′ish), ''a.'' [< ''boar'' + ''-ish''<sup>1</sup>.] Of or pertaining to a boar; resembling a boar; swinish; sensual; cruel.\n{{smaller block|In his anointed flesh stick ''boarish'' fangs.\n{{right|''Shak.'', Lear, iii. 7.}}}}\n\n'''boar-spear''' (bōr′spēr), ''n.'' [< ME. ''boresper'', < AS. ''bārspere'', < ''bār'', boar, + ''spere'', spear.] A spear used in hunting boars.\n\n'''boar-stag''' (bōr′stag), ''n.'' A gelded boar.\n\n'''boar’s-tusk''' (bōrz′tusk), ''n.'' A common name",
+   "c1s2": "given to shells of the genus ''Dentalium''. ''J. B. Sowerby, Jr.''\n\n'''boart''' (bōrt), ''n.'' Same as ''bort.''\n\n'''boast<sup>1</sup>''' (bōst), ''v.'' [< ME. ''bosten'', ''boosten'', < ''bost'', boast: origin unknown. The W. ''bostio'', ''bostian'' = Corn. ''bostye'' = Gael. ''bosd'', boast, are from the E.] '''I.''' ''intrans.'' '''1†.''' To threaten; utter a threat.—'''2.''' To brag; vaunt; speak vaingloriously or exaggeratedly, as of one’s own worth, property, deeds, etc.\n{{smaller block|<poem>''Booste'' not myche, it is but waast;\nBi boostynge, men mowe foolis knowe.</poem>\n{{right|''Babees Book'' (E. E. T. S.), p. 52.}}\nBy grace are ye saved through faith; . . . not of works, lest any man should ''boast.'' {{right|Eph. ii. 8, 9.}}}}\n'''3.''' To glory or exult on account (of); speak with laudable pride.\n{{smaller block|I ''boast'' of you to them of Macedonia. {{right|2 Cor. ix. 2.}}}}\n'''4.''' To be possessed, as of something remarkable or admirable: often used jocosely.\n{{smaller block|It [the cathedral] does not appear so rich as the smallest church, but ''boasts'' of a little organ, which sent forth singularly inharmonious cries.\n{{right|''Darwin'', Voyage of Beagle, I. 4.}}}}\n='''Syn.''' {{smaller|To bluster (about), vapor, crow (about a thing, or over a person), swell, talk big, put on airs.}}\n\n'''II.''' ''trans.'' '''1.''' To brag of; speak of with pride, vanity, or exultation: as, to ''boast'' what arms can do.\n{{smaller block|<poem>But let him ''boast''\nHis knowledge of good lost, and evil got.</poem>\n{{right|''Milton'', P. L., xi. 86.}}\n<poem>He ''boasts'' his life as purer than thine own.</poem>\n{{right|''Tennyson'', Balin and Balan.}}}}",
+   "c1s3": "'''2.''' To glory or exult in possessing; have as a source of pride: often in a jocose sense: as, the village ''boasts'' a public pump.\n{{smaller block|<poem>God be thanked, the meanest of His creatures\n''Boasts'' two soul-sides, one to face the world with,\nOne to show a woman when he loves her.</poem>\n{{right|''Browning'', One Word More.}}}}\n'''3.''' To magnify or exalt; make over-confident; vaunt: with a reflexive pronoun.\n{{smaller block|They that trust in their wealth, and ''boast themselves'' in the multitude of their riches.\n{{right|Ps. xlix. 6.}}\n''Boast'' not ''thyself'' of to-morrow.\n{{right|Prov. xxvii. 1.}}\nMany there be that ''boast themselves'' that they have faith.\n{{right|''Latimer'', 4th Serm. bef. Edw. VI. (1549).}}}}\n\n'''boast<sup>1</sup>''' (bōst), ''n.'' [< ME. ''boost'', ''bost'': see the verb. The W. ''bost'' (= Corn. ''bost'' = Ir. and Gael. ''bosd''), a boast, is from the E.] '''1†.''' Clamor; outcry.\n{{smaller block|He crakkede ''bost'' and swor it was nat so.\n{{right|''Chaucer'', Reeve’s Tale, l. 81.}}}}\n'''2†.''' Threatening; menace.—'''3.''' Brag; vaunting; language expressive of ostentation, pride, or vanity.\n{{smaller block|<poem>Reason and morals? and where live they most,\nIn Christian comfort or in Stoic ''boast?''</poem>\n{{right|''Byrom'', Enthusiasm.}}}}\n'''4.''' A cause of boasting; occasion of pride, vanity, or laudable exultation: as, Shakspere, the ''boast'' of English literature.\n{{smaller block|His Candle is alwayes a longer sitter vp then himselfe, and the ''boast'' of his Window at Midnight.\n{{right|''Bp. Earle'', Micro-cosmographie, A Pretender to Learning.}}}}\n='''Syn.''' Vaunt, brag. See ''boasting''<sup>1</sup>.",
+   "c2s1": "¶\n'''boast<sup>2</sup>''' (bōst), ''v. t.'' [Origin unknown; perhaps a corruption of ''bosh''<sup>1</sup>, q. v.] '''1.''' In ''masonry'', to dress off the surface of a stone with a broad chisel and mallet.—'''2.''' In ''sculp.'', to reduce ornaments or other work to their general contour or form, preparatory to working out the details.\n\n'''boast<sup>2</sup>''' (bōst), ''n.'' [Appar. in allusion to the ball’s rubbing or scraping the wall; < ''boast''<sup>2</sup>, ''v.''] In ''tennis'', a stroke by which the ball is driven against the wall of a court at an acute angle. The rubbing against the wall makes the ball spin.\n\n'''boastance†''', ''n.'' [< ''boast''<sup>1</sup> + ''-ance.''] Boasting. ''Chaucer.''\n\n'''boaster<sup>1</sup>''' (bōs′tėr), ''n.'' [< ME. ''boster'', ''bostour'', < ''bosten'', boast.] One who boasts, glories, or vaunts with exaggeration, or ostentatiously; a bragger.\n\n'''boaster<sup>2</sup>''' (bōs′tėr), ''n.'' [< ''boast''<sup>2</sup> + ''-er''<sup>1</sup>.] A broad chisel used in rough-hewing and dressing off the surface of a stone; a boasting-chisel.\n\n'''boastful''' (bōst′fu̇l), ''a.'' [< ME. ''bostful'', < ''bost'', boast, + ''-ful.''] Given to boasting; vaunting; bragging.\n{{smaller block|''Boastful'' and rough, your first son is a squire.\n{{right|''Pope'', Moral Essays, I. 151.}}\n<poem>Let ''boastful'' eloquence declaim\nOf honor, liberty, and fame.</poem>\n{{right|''Whittier'', Prisoner for Debt.}}}}\n\n'''boastfully''' (bōst′fu̇l-i), ''adv.'' In a boastful manner.",
+   "c2s2": "¶\n'''boastfulness''' (bōst′fu̇l-nes), ''n.'' [< ''boastful'' + ''-ness.''] The state or quality of being boastful.\n\n'''boasting<sup>1</sup>''' (bōs′ting), ''n.'' [< ME. ''bosting''; verbal n. of ''boast''<sup>1</sup>, ''v.''] A glorying or vaunting; boastful or ostentatious words; bragging language.\n{{smaller block|When ''boasting'' ends, then dignity begins. {{right|''Young.''}}}}\n{{smaller block|='''Syn.''' Brag, bravado, bluster, swagger, swaggering, vainglory, rodomontade, parade, vaporing, rant.}}\n\n'''boasting<sup>2</sup>''' (bōs′ting), ''n.'' [Verbal n. of ''boast''<sup>2</sup>, ''v.''] '''1.''' In ''masonry'', the process of dressing the\n[[FIGURE]]\n{{c|{{smaller|Boasting-chisels.}}}}\nsurface of a stone with a broad chisel and mallet.—'''2.''' In ''sculp.'' and ''carving'', the act of cutting a stone roughly with a boasting-chisel, so as to give it the general contour of a statue or an ornament. Also called ''scabbling.''\n\n'''boastingly''' (bōs′ting-li), ''adv.'' In an ostentatious manner; with boasting.\n\n'''boastive''' (bōs′tiv), ''a.'' [< ''boast''<sup>1</sup> + ''-ive.''] Presumptuous; boastful. ''Shenstone.'' [Rare.]\n\n'''boastless''' (bōst′les), ''a.'' [< ''boast''<sup>1</sup> + ''-less.''] Without boasting or ostentation. [Rare.]\n{{smaller block|<poem>Diffusing kind beneficence around,\n''Boastless'', as now descends the silent dew.</poem>\n{{right|''Thomson'', Summer, l. 1644.}}}}\n\n'''boat''' (bōt), ''n.'' [< ME. ''boot'', ''bote'', ''bot'', < AS. ''bāt'' = Icel. ''beit'' (rare), a boat; appar. not found as an orig. word elsewhere, being in the later languages appar. borrowed from ME. or AS.; namely (from ME.), MD. and D. ''boot'' = MLG. ''bōt'', LG. ''boot'' (> G. ''boot''), and (from AS.) Icel. ''bātr'' = Sw. ''båt'' = Dan. ''baad'', also W. ''bad'' = Ir. ''bad'' = Gael. ''bata'', and ML. ''batus'', ''battus'', It.",
+   "c2s3": "batto = OF. ''bat;'' with dim. It. ''battello'' = Sp. ''batel'' = Pr. ''batelh'' = OF. ''batel'', F. ''bateau'': see ''bateau''.] '''1.''' A small vessel or water-craft; especially, a small open vessel moved by oars. {{smaller|The forms, dimensions, and uses of boats are very various. The boats in use in the United States naval service are steam-launches, launches, steam-cutters, cutters, barges, gigs, whale-boats, and dinghies.}} '''2.''' Any vessel for navigation: usually described by another word or by a prefix denoting its use or mode of propulsion: as, a packet-''boat'', passage-''boat'', steam''boat'', etc. The term is frequently applied colloquially to vessels even of the largest size.—'''3.''' Any open dish or vessel resembling a boat: as, a gravy-''boat;'' a butter-''boat''.\n{{smaller block|The crude red [in the decomposition of aniline] has left a violet deposit in the bottom of the ''boats'' in which it was cooled.\n{{right|''Pop. Sci. Mo.'', XXV. 207.}}}}\n'''4.''' In the ''Rom. Cath. Ch.'', the vessel containing the incense to be placed in the thurible when needed.—{{smaller|'''All in the same boat''', all engaged in the same enterprise; all in the same condition, especially unfortunate condition; all to have the same fate or fortune.—'''Boat-compass.''' See ''compass''.—'''High boat.''' See ''high''.—'''Paper boat''', a light boat, used especially for racing and sporting purposes, made of sheets of manila paper, or of paper made from superior unbleached linen stock. The first sheet is fastened to a model which corresponds to the interior of the boat, and coated with adhesive varnish; another sheet is then put over the first; and so on until a sufficient thickness is obtained.}}\n\n'''boat''' (bōt), ''v.'' [< ''boat'', ''n.''] '''I.''' ''trans.'' '''1.''' To transport in a boat: as, to ''boat'' goods across a lake. —'''2.''' To provide with boats. [Rare.]",
+   "c3s1": "{{smaller block|Our little Arno is not ''boated'' like the Thames.\n{{right|''Walpole'', Letters, i. 39.}}}}\n\n{{smaller|'''To boat the oars''', to take them out of the rowlocks and place them fore and aft on the thwarts.}}\n\n'''II.''' ''intrans.'' To go in a boat; row.\n{{smaller block|<poem>I ''boated'' over, ran\nMy craft aground.</poem>\n{{right|''Tennyson'', Edwin Morris.}}}}\n\n'''boatable''' (bō′ta̤-bl), ''a.'' [< ''boat'' + ''-able.''] Navigable by boats or small river-craft.\n\n'''boatage''' (bō′tạ̄j), ''n.'' [< ''boat'' + ''-age.''] '''1.''' Carriage by boat, or the charge for carrying by boat.—'''2†.''' Boats collectively.—'''3.''' The aggregate carrying capacity of the boats belonging to a ship.\n{{smaller block|It is generally assumed that sufficient ''boatage'' is invariably provided.\n{{right|''Edinburgh Rev.'', CXV. 166.}}}}\n\n'''boatbill''' (bōt′bil), ''n.'' A South American bird, ''Cochlearia'' (or ''Cancroma'') ''cochlearia'', related to",
+   "c3s2": "the true herons: so named from the shape and\n[[FIGURE]]\n{{c|{{smaller|Boatbill (''Cancroma cochlearia'').}}}}\nsize of the bill, which is very broad and much vaulted. {{smaller|The boatbill is about the size of and somewhat resembles a night-heron (apart from the bill), but is the type of a distinct subfamily, ''Cancrominæ'' (which see). Also called ''boat-billed heron'' and ''savacou''.}}\n\n¶\n'''boat-builder''' (bōt′bil″dėr), ''n.'' One who makes boats; a boatwright.\n\n'''boat-fly''' (bōt′flī), ''n.'' An aquatic heteropterous hemipterous insect of the family ''Notonectidæ'', which swims upon its back. See ''Notonecta''. Also called ''back-swimmer'' and ''boat-insect''.\n\n'''boat-hook''' (bōt′hu̇k), ''n.'' A brass or iron hook and spike fixed to a staff or pole, used for pulling or pushing a boat. Also called ''gaff-setter''.",
+   "c3s3": "''setting-pole'', ''pole-hook'', and ''hitcher''.\n\n'''boat-house''' (bōt′hous), ''n.'' A house or shed for storing boats and protecting them from the weather.\n\n'''boating''' (bō′ting), ''n.'' [Verbal n. of ''boat'', ''v.''] '''1.''' The act or practice of rowing or sailing a boat, especially as a means of exercise or amusement.—'''2.''' Transportation by boats.—'''3.''' A punishment in ancient Persia, consisting in fastening an offender on his back in a boat and leaving him to perish or be eaten by vermin.\n\n'''boat-insect''' (bōt′in″sekt), ''n.'' Same as ''boat-fly''.\n\n'''boation†''' (bō-ā′shọn), ''n.'' [< L. as if *''boatio''(''n''-), equiv. to ''boatus'', a crying out, < ''boare'', earlier ''bovare'', = Gr. βοᾶν, cry out, roar, bellow.] A reverberation; a roar; loud noise. [Rare.]\n{{smaller block|The guns were heard . . . about a hundred Italian miles, in loud ''boations''.\n{{right|''Derham'', Physico-Theology.}}}}\n\n'''boat-keeper''' (bōt′kē″pėr), ''n.'' '''1.''' One of the crew of a ship’s boat left in charge of it during the absence of the others.—'''2.''' One who keeps boats for hire.\n\n'''boatman''' (bōt′man), ''n.''; pl. ''boatmen'' (-men). '''1.''' A man who manages or is employed on a boat; a rower of a boat.\n{{smaller block|<poem>The ''boatman'' plied the oar, the boat\nWent light along the stream.</poem>\n{{right|''Southey''.}}}}\n'''2.''' A hemipterous insect of the family ''Corisidæ'' and genus ''Notonecta''.\n\n'''boat-racing''' (bōt′rā″sing), ''n.'' A trial of speed between boats; racing with boats.",
+   "c3s4": "¶\n'''boat-rope''' (bōt′rōp), ''n.'' A rope to fasten a boat, usually called a ''painter''.\n[[FIGURE]]\n{{c|{{smaller|Boat’s-gripes.}}}}\n\n'''boat’s-gripes''' (bōts′grīps), ''n. pl.'' Lashings used to secure boats hoisted at the davits."
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0631 c1f1.png",
+   "c2f1": "century v01 p0631 c2f1.png",
+   "c3f1": "century v01 p0631 c3f1.png",
+   "c3f2": "century v01 p0631 c3f2.png"
+  },
+  "figures": [
+   {
+    "box": [
+     240,
+     358,
+     662,
+     696
+    ],
+    "caption": [
+     315,
+     703,
+     567,
+     726
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     235,
+     358,
+     675,
+     685
+    ]
+   },
+   {
+    "box": [
+     835,
+     1494,
+     1028,
+     1652
+    ],
+    "caption": [
+     845,
+     1658,
+     1019,
+     1681
+    ],
+    "column": 2,
+    "inset": true,
+    "page_box": [
+     833,
+     1488,
+     1015,
+     1647
+    ]
+   },
+   {
+    "box": [
+     1652,
+     834,
+     2220,
+     1352
+    ],
+    "caption": [
+     1749,
+     1387,
+     2101,
+     1413
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1629,
+     899,
+     2289,
+     1376
+    ]
+   },
+   {
+    "box": [
+     1622,
+     2930,
+     2217,
+     3150
+    ],
+    "caption": [
+     1850,
+     3155,
+     1990,
+     3177
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1586,
+     2900,
+     2289,
+     3144
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "2": [
+    1,
+    0
+   ],
+   "3": [
+    2,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 5,
+    "input_tokens": 7767,
+    "output_tokens": 339,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9426,
+    "output_tokens": 9085,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c2f1": "left"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|boar-fish|605|boat’s-gripes}}</noinclude>{{nop}}'''boar-fish''' (bōr′fish), ''n.'' A name applied to various dissimilar fishes which have a projecting snout. {{smaller|(''a'') In England, the ''Capros aper'', a fish of the family ''Caproidæ.'' It has the power of extending and contracting its mouth at will. When extended the mouth takes the form of a hog’s snout, whence the name. It is}}\n\n[[File:century v01 p0631 c1f1.png|center|216px]]\n{{c|{{smaller|Boar-fish (''Capros aper'').}}}}\n{{smaller|6 inches long, and inhabits the Mediterranean and Atlantic northward to the British coasts. (''b'') In New Zealand, the ''Cyttus australis'', a species of the family ''Zenidæ.'' It is related to the john-dory, but has a rough skin and is destitute of large plates and the black lateral spots. (''c'') In southern Australia (Melbourne, etc.), the ''Pentaceropsis recurvirostris'', a species of the family ''Pentacerotidæ.'' It is esteemed as a food-fish.}}\n\n'''boarish''' (bōr′ish), ''a.''   [< ''boar'' + ''-ish''<sup>1</sup>.]   Of or pertaining to a boar; resembling a boar; swinish; sensual; cruel.\n{{smaller block|In his anointed flesh stick ''boarish'' fangs.\n{{right|''Shak.'', Lear, iii. 7.}}}}\n\n'''boar-spear''' (bōr′spēr), ''n.''   [< ME. ''boresper'', < AS. ''bārspere'', < ''bār'', boar, + ''spere'', spear.]   A spear used in hunting boars.\n\n'''boar-stag''' (bōr′stag), ''n.'' A gelded boar.\n\n'''boar’s-tusk''' (bōrz′tusk), ''n.'' A common name given to shells of the genus ''Dentalium''.   ''J. B. Sowerby, Jr.''\n\n'''boart''' (bōrt), ''n.'' Same as ''bort.''\n\n'''boast<sup>1</sup>''' (bōst), ''v.''   [< ME. ''bosten'', ''boosten'', < ''bost'', boast: origin unknown. The W. ''bostio'', ''bostian'' = Corn. ''bostye'' = Gael. ''bosd'', boast, are from the E.]   '''I.''' ''intrans.'' '''1†.''' To threaten; utter a threat.—'''2.''' To brag; vaunt; speak vaingloriously or exaggeratedly, as of one’s own worth, property, deeds, etc.\n{{smaller block|<poem>''Booste'' not myche, it is but waast;\nBi boostynge, men mowe foolis knowe.</poem>\n{{right|''Babees Book'' (E. E. T. S.), p. 52.}}}}\n{{smaller block|By grace are ye saved through faith; . . . not of works, lest any man should ''boast.'' {{right|Eph. ii. 8, 9.}}}}\n'''3.''' To glory or exult on account (of); speak with laudable pride.\n{{smaller block|I ''boast'' of you to them of Macedonia. {{right|2 Cor. ix. 2.}}}}\n'''4.''' To be possessed, as of something remarkable or admirable: often used jocosely.\n{{smaller block|It [the cathedral] does not appear so rich as the smallest church, but ''boasts'' of a little organ, which sent forth singularly inharmonious cries.\n{{right|''Darwin'', Voyage of Beagle, I. 4.}}}}\n='''Syn.''' {{smaller|To bluster (about), vapor, crow (about a thing, or over a person), swell, talk big, put on airs.}}\n\n'''II.''' ''trans.'' '''1.''' To brag of; speak of with pride, vanity, or exultation: as, to ''boast'' what arms can do.\n{{smaller block|<poem>But let him ''boast''\nHis knowledge of good lost, and evil got.</poem>\n{{right|''Milton'', P. L., xi. 86.}}}}\n{{smaller block|<poem>He ''boasts'' his life as purer than thine own.</poem>\n{{right|''Tennyson'', Balin and Balan.}}}} '''2.''' To glory or exult in possessing; have as a source of pride: often in a jocose sense: as, the village ''boasts'' a public pump.\n{{smaller block|<poem>God be thanked, the meanest of His creatures\n''Boasts'' two soul-sides, one to face the world with,\nOne to show a woman when he loves her.</poem>\n{{right|''Browning'', One Word More.}}}}\n'''3.''' To magnify or exalt; make over-confident; vaunt: with a reflexive pronoun.\n{{smaller block|They that trust in their wealth, and ''boast themselves'' in the multitude of their riches.\n{{right|Ps. xlix. 6.}}}}\n{{smaller block|''Boast'' not ''thyself'' of to-morrow.\n{{right|Prov. xxvii. 1.}}}}\n{{smaller block|Many there be that ''boast themselves'' that they have faith.\n{{right|''Latimer'', 4th Serm. bef. Edw. VI. (1549).}}}}\n\n'''boast<sup>1</sup>''' (bōst), ''n.''   [< ME. ''boost'', ''bost'': see the verb. The W. ''bost'' (= Corn. ''bost'' = Ir. and Gael. ''bosd''), a boast, is from the E.]   '''1†.''' Clamor; outcry.\n{{smaller block|He crakkede ''bost'' and swor it was nat so.\n{{right|''Chaucer'', Reeve’s Tale, l. 81.}}}}\n'''2†.''' Threatening; menace.—'''3.''' Brag; vaunting; language expressive of ostentation, pride, or vanity.\n{{smaller block|<poem>Reason and morals? and where live they most,\nIn Christian comfort or in Stoic ''boast?''</poem>\n{{right|''Byrom'', Enthusiasm.}}}}\n'''4.''' A cause of boasting; occasion of pride, vanity, or laudable exultation: as, Shakspere, the ''boast'' of English literature.\n{{smaller block|His Candle is alwayes a longer sitter vp then himselfe, and the ''boast'' of his Window at Midnight.\n{{right|''Bp. Earle'', Micro-cosmographie, A Pretender to Learning.}}}}\n='''Syn.''' Vaunt, brag. See ''boasting''<sup>1</sup>.\n\n'''boast<sup>2</sup>''' (bōst), ''v. t.''   [Origin unknown; perhaps a corruption of ''bosh''<sup>1</sup>, q. v.]   '''1.''' In ''masonry'', to dress off the surface of a stone with a broad chisel and mallet.—'''2.''' In ''sculp.'', to reduce ornaments or other work to their general contour or form, preparatory to working out the details.\n\n'''boast<sup>2</sup>''' (bōst), ''n.''   [Appar. in allusion to the ball’s rubbing or scraping the wall; < ''boast''<sup>2</sup>, ''v.'']   In ''tennis'', a stroke by which the ball is driven against the wall of a court at an acute angle. The rubbing against the wall makes the ball spin.\n\n'''boastance†''', ''n.''   [< ''boast''<sup>1</sup> + ''-ance.'']   Boasting.   ''Chaucer.''\n\n'''boaster<sup>1</sup>''' (bōs′tėr), ''n.''   [< ME. ''boster'', ''bostour'', < ''bosten'', boast.]   One who boasts, glories, or vaunts with exaggeration, or ostentatiously; a bragger.\n\n'''boaster<sup>2</sup>''' (bōs′tėr), ''n.''   [< ''boast''<sup>2</sup> + ''-er''<sup>1</sup>.]   A broad chisel used in rough-hewing and dressing off the surface of a stone; a boasting-chisel.\n\n'''boastful''' (bōst′fu̇l), ''a.''   [< ME. ''bostful'', < ''bost'', boast, + ''-ful.'']   Given to boasting; vaunting; bragging.\n{{smaller block|''Boastful'' and rough, your first son is a squire.\n{{right|''Pope'', Moral Essays, I. 151.}}}}\n{{smaller block|<poem>Let ''boastful'' eloquence declaim\nOf honor, liberty, and fame.</poem>\n{{right|''Whittier'', Prisoner for Debt.}}}}\n\n'''boastfully''' (bōst′fu̇l-i), ''adv.'' In a boastful manner.\n\n'''boastfulness''' (bōst′fu̇l-nes), ''n.''   [< ''boastful'' + ''-ness.'']   The state or quality of being boastful.\n\n'''boasting<sup>1</sup>''' (bōs′ting), ''n.''   [< ME. ''bosting''; verbal n. of ''boast''<sup>1</sup>, ''v.'']   A glorying or vaunting; boastful or ostentatious words; bragging language.\n{{smaller block|When ''boasting'' ends, then dignity begins. {{right|''Young.''}}}}\n{{smaller block|='''Syn.''' Brag, bravado, bluster, swagger, swaggering, vainglory, rodomontade, parade, vaporing, rant.}}\n\n'''boasting<sup>2</sup>''' (bōs′ting), ''n.''   [Verbal n. of ''boast''<sup>2</sup>, ''v.'']   '''1.''' In ''masonry'', the process of dressing the {{img float|file=century v01 p0631 c2f1.png|width=105px|align=left|cap={{smaller|Boasting-chisels.}}}} surface of a stone with a broad chisel and mallet.—'''2.''' In ''sculp.'' and ''carving'', the act of cutting a stone roughly with a boasting-chisel, so as to give it the general contour of a statue or an ornament. Also called ''scabbling.''\n\n'''boastingly''' (bōs′ting-li), ''adv.'' In an ostentatious manner; with boasting.\n\n'''boastive''' (bōs′tiv), ''a.''   [< ''boast''<sup>1</sup> + ''-ive.'']   Presumptuous; boastful.   ''Shenstone.'' [Rare.]\n\n'''boastless''' (bōst′les), ''a.''   [< ''boast''<sup>1</sup> + ''-less.'']   Without boasting or ostentation. [Rare.]\n{{smaller block|<poem>Diffusing kind beneficence around,\n''Boastless'', as now descends the silent dew.</poem>\n{{right|''Thomson'', Summer, l. 1644.}}}}\n\n'''boat''' (bōt), ''n.''   [< ME. ''boot'', ''bote'', ''bot'', < AS. ''bāt'' = Icel. ''beit'' (rare), a boat; appar. not found as an orig. word elsewhere, being in the later languages appar. borrowed from ME. or AS.; namely (from ME.), MD. and D. ''boot'' = MLG. ''bōt'', LG. ''boot'' (> G. ''boot''), and (from AS.) Icel. ''bātr'' = Sw. ''båt'' = Dan. ''baad'', also W. ''bad'' = Ir. ''bad'' = Gael. ''bata'', and ML. ''batus'', ''battus'', It. batto = OF. ''bat;'' with dim. It. ''battello'' = Sp. ''batel'' = Pr. ''batelh'' = OF. ''batel'', F. ''bateau'': see ''bateau''.]   '''1.''' A small vessel or water-craft; especially, a small open vessel moved by oars. {{smaller|The forms, dimensions, and uses of boats are very various. The boats in use in the United States naval service are steam-launches, launches, steam-cutters, cutters, barges, gigs, whale-boats, and dinghies.}} '''2.''' Any vessel for navigation: usually described by another word or by a prefix denoting its use or mode of propulsion: as, a packet-''boat'', passage-''boat'', steam''boat'', etc. The term is frequently applied colloquially to vessels even of the largest size.—'''3.''' Any open dish or vessel resembling a boat: as, a gravy-''boat;'' a butter-''boat''.\n{{smaller block|The crude red [in the decomposition of aniline] has left a violet deposit in the bottom of the ''boats'' in which it was cooled.\n{{right|''Pop. Sci. Mo.'', XXV. 207.}}}}\n'''4.''' In the ''Rom. Cath. Ch.'', the vessel containing the incense to be placed in the thurible when needed.—{{smaller|'''All in the same boat''', all engaged in the same enterprise; all in the same condition, especially unfortunate condition; all to have the same fate or fortune.—'''Boat-compass.''' See ''compass''.—'''High boat.''' See ''high''.—'''Paper boat''', a light boat, used especially for racing and sporting purposes, made of sheets of manila paper, or of paper made from superior unbleached linen stock. The first sheet is fastened to a model which corresponds to the interior of the boat, and coated with adhesive varnish; another sheet is then put over the first; and so on until a sufficient thickness is obtained.}}\n\n'''boat''' (bōt), ''v.''   [< ''boat'', ''n.'']   '''I.''' ''trans.'' '''1.''' To transport in a boat: as, to ''boat'' goods across a lake. —'''2.''' To provide with boats. [Rare.] {{smaller block|Our little Arno is not ''boated'' like the Thames.\n{{right|''Walpole'', Letters, i. 39.}}}}\n\n{{smaller|'''To boat the oars''', to take them out of the rowlocks and place them fore and aft on the thwarts.}}\n\n'''II.''' ''intrans.'' To go in a boat; row.\n{{smaller block|<poem>I ''boated'' over, ran\nMy craft aground.</poem>\n{{right|''Tennyson'', Edwin Morris.}}}}\n\n'''boatable''' (bō′ta̤-bl), ''a.''   [< ''boat'' + ''-able.'']   Navigable by boats or small river-craft.\n\n'''boatage''' (bō′tạ̄j), ''n.''   [< ''boat'' + ''-age.'']   '''1.''' Carriage by boat, or the charge for carrying by boat.—'''2†.''' Boats collectively.—'''3.''' The aggregate carrying capacity of the boats belonging to a ship.\n{{smaller block|It is generally assumed that sufficient ''boatage'' is invariably provided.\n{{right|''Edinburgh Rev.'', CXV. 166.}}}}\n\n'''boatbill''' (bōt′bil), ''n.'' A South American bird, ''Cochlearia'' (or ''Cancroma'') ''cochlearia'', related to the true herons: so named from the shape and\nsize of the bill, which is very broad and much vaulted. {{smaller|The boatbill is about the size of and somewhat resembles a night-heron (apart from the bill), but is the type of a distinct subfamily, ''Cancrominæ'' (which see). Also called ''boat-billed heron'' and ''savacou''.}}\n\n[[File:century v01 p0631 c3f1.png|center|287px]]\n{{c|{{smaller|Boatbill (''Cancroma cochlearia'').}}}}\n\n'''boat-builder''' (bōt′bil″dėr), ''n.'' One who makes boats; a boatwright.\n\n'''boat-fly''' (bōt′flī), ''n.'' An aquatic heteropterous hemipterous insect of the family ''Notonectidæ'', which swims upon its back. See ''Notonecta''. Also called ''back-swimmer'' and ''boat-insect''.\n\n'''boat-hook''' (bōt′hu̇k), ''n.'' A brass or iron hook and spike fixed to a staff or pole, used for pulling or pushing a boat. Also called ''gaff-setter''. ''setting-pole'', ''pole-hook'', and ''hitcher''.\n\n'''boat-house''' (bōt′hous), ''n.'' A house or shed for storing boats and protecting them from the weather.\n\n'''boating''' (bō′ting), ''n.''   [Verbal n. of ''boat'', ''v.'']   '''1.''' The act or practice of rowing or sailing a boat, especially as a means of exercise or amusement.—'''2.''' Transportation by boats.—'''3.''' A punishment in ancient Persia, consisting in fastening an offender on his back in a boat and leaving him to perish or be eaten by vermin.\n\n'''boat-insect''' (bōt′in″sekt), ''n.'' Same as ''boat-fly''.\n\n'''boation†''' (bō-ā′shọn), ''n.''   [< L. as if *''boatio''(''n''-), equiv. to ''boatus'', a crying out, < ''boare'', earlier ''bovare'', = Gr. βοᾶν, cry out, roar, bellow.]   A reverberation; a roar; loud noise. [Rare.]\n{{smaller block|The guns were heard . . . about a hundred Italian miles, in loud ''boations''.\n{{right|''Derham'', Physico-Theology.}}}}\n\n'''boat-keeper''' (bōt′kē″pėr), ''n.'' '''1.''' One of the crew of a ship’s boat left in charge of it during the absence of the others.—'''2.''' One who keeps boats for hire.\n\n'''boatman''' (bōt′man), ''n.''; pl. ''boatmen'' (-men). '''1.''' A man who manages or is employed on a boat; a rower of a boat.\n{{smaller block|<poem>The ''boatman'' plied the oar, the boat\nWent light along the stream.</poem>\n{{right|''Southey''.}}}}\n'''2.''' A hemipterous insect of the family ''Corisidæ'' and genus ''Notonecta''.\n\n'''boat-racing''' (bōt′rā″sing), ''n.'' A trial of speed between boats; racing with boats.\n\n'''boat-rope''' (bōt′rōp), ''n.'' A rope to fasten a boat, usually called a ''painter''.\n\n[[File:century v01 p0631 c3f2.png|center|300px]]\n{{c|{{smaller|Boat’s-gripes.}}}}\n\n'''boat’s-gripes''' (bōts′grīps), ''n. pl.'' Lashings used to secure boats hoisted at the davits.<noinclude><references/></noinclude>"
+}

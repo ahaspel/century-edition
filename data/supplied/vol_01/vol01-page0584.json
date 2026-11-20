@@ -1,0 +1,249 @@
+{
+ "volume": 1,
+ "page_number": 584,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n583.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n583.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 804,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     102,
+     123,
+     2386,
+     166
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     102,
+     166,
+     838,
+     821
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     102,
+     821,
+     838,
+     1838
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     528,
+     823,
+     836,
+     1181
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     102,
+     1838,
+     838,
+     2890
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     102,
+     2890,
+     838,
+     3274
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     838,
+     166,
+     1585,
+     1060
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     838,
+     1060,
+     1585,
+     2134
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     838,
+     2134,
+     1585,
+     3223
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     838,
+     3223,
+     1585,
+     3274
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1585,
+     166,
+     2386,
+     1105
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1585,
+     1105,
+     2386,
+     2147
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1585,
+     2147,
+     2386,
+     3242
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1585,
+     3242,
+     2386,
+     3274
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|binomialist|558|biomagnetic}}",
+   "c1s1": "¶\n'''binomialist''' (bī-nō′mi-ạl-ist), ''n.'' [< ''binomial'', ''n.'', + ''-ist.''] One who uses the binomial system of nomenclature in zoölogy and botany. See ''binomial'', ''a.'', 2.\n\n'''binomiality''' (bī-nō-mi-al′i̤-ti), ''n.'' [< ''binomial'' + ''-ity.''] Same as ''binomialism.''\n\n'''binomially''' (bī-nō′mi-al-i), ''adv.'' In a binomial manner; after the binomial method of nomenclature in zoölogy and botany.\n\n'''binominal''' (bī-nom′i-nal), ''a.'' [< L. ''binominis'', having two names (< ''bi-'', two-, + ''nomen'', name), + ''-al.''] Same as ''binomial'', 2.\n\n'''binominated''' (bī-nom′i-nā-ted), ''a.'' [< L. ''bi-'', two-, + ''nominatus'', named (see ''nominate''), + ''-ed''<sup>2</sup>.] Having two personal names.\n\n'''binominous†''' (bī-nom′i-nus), ''a.'' [< L. ''binominis'': see ''binominal.''] Having or bearing two names.\n\n'''binormal''' (bī-nôr′mal), ''n.'' [< ''bi-''<sup>2</sup> + ''normal.''] In ''math.'', a normal to two consecutive elements",
+   "c1s2": "[[FIGURE]]\n{{c|{{smaller|Binormal.—The full lines show a cylinder with a helix drawn upon it and two binormals. The dotted lines show the tangents and principal normals at the same two points of the helix and the axis of the cylinder.}}}}\nof a curve in space; a normal perpendicular to the osculating plane.\n\n'''binotate, binotated''' (bī-nō′tāt, -tā-ted), ''a.'' [< L. ''bi-'', two, + ''nota'', mark, + ''-ate''<sup>1</sup>, ''-ated''.] In ''zoöl.'', marked with two dots.\n\n'''binotonous''' (bī-not′ọ̄-nus), ''a.'' [< L. ''bini'', two by two (see ''binary''), + ''tonus'', note, tone (see ''tone''); after ''monotonous''.] Consisting of two tones or notes: as, a ''binotonous'' sound.\n\n'''binous''' (bī′nus), ''a.'' [< L. ''binus'', usually in pl. ''bini'', two and two, double: see ''binary'' and ''between''.] Double; in a pair; binate.\n\n'''binoxalate''' (bī-nok′sa-lāt), ''n.'' [< L. ''bini'', two and two (see ''binary''), + ''oxalate''.] In ''chem.'', an oxalate in which only one of the hydrogen atoms of the acid is replaced by a metal.\n\n'''binoxid, binoxide''' (bī-nok′sid, -sid or -sīd), ''n.'' [< L. ''bini'', two and two (see ''binary''), + ''oxid''.] In ''chem.'', same as ''dioxid''.\n\n'''binoxyde''', ''n.'' See ''binoxid''.\n\n'''bint†'''. A Middle English and Anglo-Saxon contracted form of ''bindeth'', the third person singular of ''bind''.\n\n'''binturong''' (bin′tụ̄-rong), ''n.'' The native name, and now the usual book-name, of ''Arctictis bin-''",
+   "c1s3": "''turong'', an Indian prehensile-tailed carnivorous mammal of the family ''Viverridæ'' and subfamily ''Arctictidinæ''. Also called ''Ictides ater'' or ''I. albifrons'', and formerly ''Viverra binturong''. See ''Arctictis''.\n\n'''binuclear''' (bī-nū′klẹ̄-ạ̈r), ''a.'' [< ''bi-''<sup>2</sup> + ''nuclear''.] Having two nuclei or central points.\n\n'''binucleate''' (bī-nū′klẹ̄-āt), ''a.'' [< ''bi-''<sup>2</sup> + ''nucleate''.] Having two nuclei, as a cell.\n\n'''binucleolate''' (bī-nū′klẹ̄-ọ̄-lāt), ''a.'' [< ''bi-''<sup>2</sup> + ''nucleolate''.] In ''biol.'', having two nucleoli: applied to cells.\n\n'''bio-'''. [NL. etc. ''bio-'', < Gr. βίος, life, akin to L. ''vivus'', living (> ''vīta'', life: see ''vivid'', ''vital''), = Goth. ''kwius'' = AS. ''cwicu'', E. ''quick'', living: see ''quick''.] An element in many compound words, chiefly scientific, meaning life.\n\n'''bio-bibliographical''' (bī″ō-bib″li-ọ̄-graf′i-kạl), ''a.'' [< Gr. βίος, life, + ''bibliographical''.] Treating of or dealing with both the life and the writings of an author.\n\n'''bioblast''' (bī′ọ̄-blast), ''n.'' [< Gr. βίος, life, + βλαστός, a germ, < βλαστάνειν, bud, sprout, grow.] In ''biol.'', a formative cell of any kind; a minute mass of bioplasm or protoplasm about to become a definite cell of any kind. {{smaller|Thus, osteoblasts, white blood-corpuscles or leucocytes, lymph-corpuscles, etc., are all bioblasts.}}\n\n'''bioblastic''' (bī-ọ̄-blas′tik), ''a.'' [< ''bioblast'' + ''-ic''.] Of, pertaining to, or of the nature of bioblasts.\n\n'''biocellate''' (bī-ọ̄-sel′āt), ''a.'' [< ''bi-''<sup>2</sup> + ''ocellate''.] Marked with two eye-like spots, as the wings of some insects.",
+   "c1s4": "¶\n'''biocentric''' (bī-ọ̄-sen′trik), ''a.'' [< Gr. βίος, life, + κέντρον, center.] Treating life as a central fact.\n\n'''biochemic''' (bī-ọ̄-kem′ik), ''a.'' [< Gr. βίος, life, + ''chemic.''] Of or pertaining to the chemistry of life.\n\n'''biod''' (bī′od), ''n.'' [< Gr. βίος, life, + ''od'', q. v.] The od of animal life; biogen; animal magnetism, so called. ''Von Reichenbach.''\n\n'''biodynamic''' (bī″ọ̄-dī-nam′ik), ''a.'' [< Gr. βίος, life, + ''dynamic.''] Of or pertaining to the doctrine of vital force or energy; biophysiological.",
+   "c2s1": "¶\n'''biodynamical''' (bī″ọ̄-dī-nam′i-kạl), ''a.'' Same as ''biodynamic.''\n{{smaller block|The biostatical and the ''biodynamical''—i. e., the consideration of the structure ready to act, and the consideration of the structure acting.\n{{right|''G. H. Lewes'', Probs. of Life and Mind, I. 119.}}}}\n\n'''biodynamics''' (bī″ō-dī-nam′iks), ''n.'' [< Gr. βίος, life, + ''dynamics.''] The doctrine of vital force or energy, or the action of living organisms: opposed to ''biostatics.''\n\n'''biogen''' (bī′ō-jen), ''n.'' [< Gr. βίος, life, + -γενής, producing: see ''-gen.''] A hypothetical soul-stuff; the substance of a supposed spiritual body; the od of organic life. ''Coues.''\n\n'''biogenation''' (bī″ọ̄-je-nā′shọn), ''n.'' [< ''biogen'' + ''-ation.''] The state or quality of being affected by biogen; animation; vitalization.\n{{smaller block|All animals are probably also susceptible of ''biogenation'', which is the affection resulting from the influence of biogen.\n{{right|''Coues'', Key to N. A. Birds, p. 192.}}}}\n\n'''biogenesis''' (bī-ō-jen′e-sis), ''n.'' [< Gr. βίος, life, + γένεσις, generation: see ''genesis.''] '''1.''' The genesis or production of living beings from living beings; generation in an ordinary sense: the converse of spontaneous generation, or ''abiogenesis.'' {{smaller|Various methods in which biogenesis is known to occur give rise to special terms, as ''gamogenesis'', ''parthenogenesis'', etc.}} '''2.''' The doctrine which holds that the genesis",
+   "c2s2": "of living beings from living beings is the only one of which we have any knowledge, and which investigates or speculates upon the facts in the case upon such premises: the opposite of ''abiogenesis.''—'''3.''' Same as ''biogeny'', 1.\n\n'''biogenesist''' (bī-ọ-jen′e-sist), ''n.'' [< ''biogenesis'' + ''-ist.''] One who favors the theory of biogenesis. Also called ''biogenist.''\n\n'''biogenetic''' (bī″ọ̄-jē-net′ik), ''a.'' [< ''biogenesis'' (in sense 2, < ''biogen''), after ''genetic.''] '''1.''' Of or pertaining to biogenesis or biogeny in any way: as, a ''biogenetic'' process; a ''biogenetic'' law or principle.\n{{smaller block|This fundamental ''biogenetic'' law. {{right|''Haeckel'' (trans.).}}}}\n'''2.''' Consisting of biogen; done by means of biogen; relating to the theory of biogen. ''Coues.''\n\n'''biogenetically''' (bī″ọ̄-jē-net′i-kạl-i), ''adv.'' In a biogenetic manner; by means of or according to the principles of biogenesis or biogeny.\n\n'''biogenist''' (bī-oj′e-nist), ''n.'' [< ''biogeny'' + ''-ist.''] Same as ''biogenesist.''\n\n'''biogeny''' (bī-oj′e-ni), ''n.'' [< Gr. βίος, life, + -γένεια, generation: see ''-geny.'' Cf. ''biogenesis.''] '''1.''' The genesis or evolution of the forms of matter which manifest the phenomena of life.\n{{smaller block|It is divided into two main branches: ''ontogeny'', or the genesis of the individual organism, and ''phylogeny'', or the genesis of the species, race, stock, or tribe to which the individual belongs. Also ''biogenesis.''}}\n'''2.''' The science or doctrine of biogenesis; the history of organic evolution. {{smaller|As in the preceding sense, it is divided into ''ontogeny'', or germ-history, or the history of the embryological development of the individual organism, and ''phylogeny'', or tribal history, or the history of the paleontological evolution of organic species.}}",
+   "c2s3": "¶\n{{smaller block|The first of these studies [biology] gives rise to the sciences of anatomy and physiology, as well as to the subsidiary science of pathology. On the other hand, ''Biogeny'' comprises embryology, morphology, and questions relating to the origin of species. ''J. Fiske'', Cosmic Philos., I. 221.}}\n\n'''biographer''' (bī-og′ra̤-fėr), ''n.'' [< ML. ''biographus'' (see ''biography'') + ''-er''<sup>1</sup>. Cf. ''philosopher.''] One who writes a biography, or an account of the life and actions of a particular person; a writer of lives.\n\n'''biographic''' (bī-ọ̄-graf′ik), ''a.'' [< ''biography'' + ''-ic.''] Pertaining to or of the nature of biography.\n{{smaller block|To all which questions, not unessential in a ''biographic'' work, mere conjecture must for most part return answer.\n{{right|''Carlyle'', Sartor Resartus, p. 95.}}}}\n\n'''biographical''' (bī-ọ̄-graf′i-ka̤l), ''a.'' Relating or pertaining to the life of an individual; dealing with or containing biographies: as, ''biographical'' details; a ''biographical'' dictionary.\n{{smaller block|The historian should rarely digress into ''biographical'' particulars except in as far as they contribute to the clearness of his narrative of political occurrences.\n{{right|''Sir J. Mackintosh'', Sir Thos. More.}}}}\n\n'''biographically''' (bī-ọ̄-graf′i-ka̤l-i), ''adv.'' In a biographical sense or manner; with reference to biography.\n\n'''biographist''' (bī-og′ra̤-fist), ''n.'' [< ''biography'' + ''-ist.''] A biographer. [Rare.]\n{{smaller block|Want of honest heart in the ''Biographists'' of these Saints . . . betrayed their pens to such abominable untruths.\n{{right|''Fuller'', Worthies, iii.}}}}\n\n'''biographize''' (bī-og′ra̤-fīz), ''v. t.''; pret. and pp. ''biographized'', ppr. ''biographizing''. [< ''biography'' + ''-ize.''] To write the biography or a history of the life of. [Rare.]\n{{smaller block|<poem>Now do I bless the man who undertook</poem>}}",
+   "c2s4": "{{smaller block|These monks and martyrs to ''biographize.''\n{{right|''Southey'', St. Gualberto, st. 25.}}}}",
+   "c3s1": "¶\n'''biography''' (bī-og′ra-fi), ''n.''; pl. ''biographies'' (-fiz). [= F. ''biographie'', < LGr. βιογραφία, biography, < *βιογράφος (> ML. ''biographus'', > F. ''biographe'', a biographer), < Gr. βίος, life, + γράφειν, write.] '''1.''' The history of the life of a particular person.\n{{smaller block|There is no heroic poem in the world but is at bottom a ''biography'', the life of a man.\n{{right|''Carlyle'', Essays.}}}}\n'''2.''' Biographical writing in general, or as a department of literature.\n{{smaller block|This, then, was the first great merit of Montesquieu, that he effected a complete separation between ''biography'' and history, and taught historians to study, not the peculiarities of individual character, but the general aspect of the society in which the peculiarities appeared.\n{{right|''Buckle'', Civilization, I. xiii.}}}}\n'''3.''' In ''nat. hist.'', the life-history of an animal or a plant. ='''Syn. 1.''' {{smaller|''Biography'', ''Memoir.'' When there is a difference between these words, it may be that ''memoir'' indicates a less complete or minute account of a person’s life, or it may be that the person himself records his own recollections of the past, especially as connected with his own life; in the latter case ''memoir'' should be in the plural.}}\n\n'''biokinetics''' (bī″ō-ki-net′iks), ''n.'' [< Gr. βίος, life, + ''kinetics''.] That part of biological science which treats of the successive changes through which organisms pass during the different stages of their development.\n\n'''biologian''' (bī-ọ-lō′jia̤n), ''n.'' [< ''biology'' + ''-ian''.] A biologist.\n{{smaller block|Those great classes into which systematists and ''biologians'' have divided existing vertebrate forms.}}",
+   "c3s2": "{{smaller block|{{right|''The Century'', XXXI. 352.}}}}\n\n¶\n'''biologic''' (bī-ọ̄-loj′ik), ''a.'' [< ''biology'' + ''-ic.''] Same as ''biological.''\n{{smaller block|The interpretation of structure . . . is aided by two subsidiary divisions of ''biologic'' inquiry, named Comparative Anatomy (properly Comparative Morphology) and Comparative Embryology.\n{{right|''H. Spencer.''}}}}\n\n'''biological''' (bī-ọ̄-loj′i-kal), ''a.'' '''1.''' Pertaining to biology or the science of life.\n{{smaller block|They [the discoveries of Cuvier] contain a far larger portion of important anatomical and ''biological'' truth than it ever before fell to the lot of one man to contribute.\n{{right|''Whewell'', Hist. Induct. Sciences, I. 629.}}\nThe prick of a needle will yield, in a drop of one’s blood, material for microscopic observation of phenomena which lie at the foundation of all ''biological'' conceptions.\n{{right|''Huxley'', Pop. Sci. Mo., XI. 670.}}}}\n'''2.''' In ''zoöl.'', illustrating the whole life-history of a group or species of animals: as, a ''biological'' collection of insects.\n\n'''biologically''' (bī-ọ̄-loj′i-kal-i), ''adv.'' In a biological manner; according to the doctrines or principles of biology.\n{{smaller block|That which was physically defined as a moving equilibrium we define ''biologically'' as a balance of functions.\n{{right|''H. Spencer'', Data of Ethics, § 39.}}\nEthics, if positive, must rest on some empirical data. These data are furnished partly by history, partly by human nature, either ''biologically'' or psychologically considered.\n{{right|''N. A. Rev.'', CXX. 255.}}}}\n\n'''biologist''' (bī-ol′ọ̄-jist), ''n.'' [< ''biology'' + ''-ist.''] One skilled in, or a student of, biology.\n\n'''biologize†''' (bī-ol′ọ̄-jīz), ''v. t.'' [< ''biology'' + ''-ize.''] To mesmerize.",
+   "c3s3": "¶\n'''biologizer†''' (bī-ol′ọ̄-jī-zėr), ''n.'' One who practises mesmerism.\n\n'''biology''' (bī-ol′ọ̄-ji), ''n.'' [=F. ''biologie'', < Gr. βίος, life, + -λογία, < λέγειν, speak (see ''-ology''); cf. Gr. βιολόγος, a player, one who represents to the life.] '''1.''' The science of life and living things in the widest sense; the body of doctrine respecting living beings; the knowledge of vital phenomena.\n{{smaller block|It is remarkable that each of these writers [Treviranus and Lamarck] seems to have been led, independently and contemporaneously, to invent the same name of ''Biology'' for the science of the phenomena of life. . . . And it is hard to say whether Lamarck or Treviranus has the priority. . . . Though the first volume of Treviranus’ “Biologie” appeared only in 1802, he says . . . that he wrote the first volume . . . about 1796. The “Recherches,” etc., in which the outlines of Lamarck’s doctrines are given, was published in 1802.\n{{right|''Huxley'', Science and Culture (Am. ed., 1882), p. 302.}}}}\n'''2.''' In a more special sense, physiology; biophysiology; biotics.—'''3.''' In a technical sense, the life-history of an animal: especially used in entomology.—'''4†.''' Animal magnetism.\n\n'''biolysis''' (bī-ol′i-sis), ''n.'' [NL., < Gr. βίος, life, + λύσις, loosening, solution, < λύειν, loose, dissolve.] Dissolution of a living being; death, as the resolution of an organism into its constituent parts, and consequently the destruction of the phenomena of life.\n\n'''biolytic''' (bī-ọ̄-lit′ik), ''a.'' [< Gr. βίος, life, + λυτικός, able to loose, < λυτός, verbal adj. of λύειν, loose.] In ''med.'', tending to the destruction of life: as, a ''biolytic'' agent.\n\n'''biomagnetic''' (bī″ọ̄-mag-net′ik), ''a.'' [< Gr. βίος, life, + ''magnetic''.] Pertaining or relating to",
+   "c3s4": "biomagnetism."
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0584 c1f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     540,
+     835,
+     824,
+     1169
+    ],
+    "caption": [
+     544,
+     1175,
+     830,
+     1339
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     561,
+     767,
+     835,
+     1168
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4198,
+    "output_tokens": 93,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 13,
+    "input_tokens": 9875,
+    "output_tokens": 10288,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 51558
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c1f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|binomialist|558|biomagnetic}}</noinclude>{{nop}}'''binomialist''' (bī-nō′mi-ạl-ist), ''n.''   [< ''binomial'', ''n.'', + ''-ist.'']   One who uses the binomial system of nomenclature in zoölogy and botany. See ''binomial'', ''a.'', 2.\n\n'''binomiality''' (bī-nō-mi-al′i̤-ti), ''n.''   [< ''binomial'' + ''-ity.'']   Same as ''binomialism.''\n\n'''binomially''' (bī-nō′mi-al-i), ''adv.'' In a binomial manner; after the binomial method of nomenclature in zoölogy and botany.\n\n'''binominal''' (bī-nom′i-nal), ''a.''   [< L. ''binominis'', having two names (< ''bi-'', two-, + ''nomen'', name), + ''-al.'']   Same as ''binomial'', 2.\n\n'''binominated''' (bī-nom′i-nā-ted), ''a.''   [< L. ''bi-'', two-, + ''nominatus'', named (see ''nominate''), + ''-ed''<sup>2</sup>.]   Having two personal names.\n\n'''binominous†''' (bī-nom′i-nus), ''a.''   [< L. ''binominis'': see ''binominal.'']   Having or bearing two names.\n\n'''binormal''' (bī-nôr′mal), ''n.''   [< ''bi-''<sup>2</sup> + ''normal.'']   In ''math.'', a normal to two consecutive elements {{img float|file=century v01 p0584 c1f1.png|width=138px|align=right|cap={{smaller|Binormal.—The full lines show a cylinder with a helix drawn upon it and two binormals. The dotted lines show the tangents and principal normals at the same two points of the helix and the axis of the cylinder.}}}} of a curve in space; a normal perpendicular to the osculating plane.\n\n'''binotate, binotated''' (bī-nō′tāt, -tā-ted), ''a.''   [< L. ''bi-'', two, + ''nota'', mark, + ''-ate''<sup>1</sup>, ''-ated''.]   In ''zoöl.'', marked with two dots.\n\n'''binotonous''' (bī-not′ọ̄-nus), ''a.''   [< L. ''bini'', two by two (see ''binary''), + ''tonus'', note, tone (see ''tone''); after ''monotonous''.]   Consisting of two tones or notes: as, a ''binotonous'' sound.\n\n'''binous''' (bī′nus), ''a.''   [< L. ''binus'', usually in pl. ''bini'', two and two, double: see ''binary'' and ''between''.]   Double; in a pair; binate.\n\n'''binoxalate''' (bī-nok′sa-lāt), ''n.''   [< L. ''bini'', two and two (see ''binary''), + ''oxalate''.]   In ''chem.'', an oxalate in which only one of the hydrogen atoms of the acid is replaced by a metal.\n\n'''binoxid, binoxide''' (bī-nok′sid, -sid or -sīd), ''n.''   [< L. ''bini'', two and two (see ''binary''), + ''oxid''.]   In ''chem.'', same as ''dioxid''.\n\n'''binoxyde''', ''n.'' See ''binoxid''.\n\n'''bint†'''. A Middle English and Anglo-Saxon contracted form of ''bindeth'', the third person singular of ''bind''.\n\n'''binturong''' (bin′tụ̄-rong), ''n.'' The native name, and now the usual book-name, of ''Arctictis binturong'', an Indian prehensile-tailed carnivorous mammal of the family ''Viverridæ'' and subfamily ''Arctictidinæ''. Also called ''Ictides ater'' or ''I. albifrons'', and formerly ''Viverra binturong''. See ''Arctictis''.\n\n'''binuclear''' (bī-nū′klẹ̄-ạ̈r), ''a.''   [< ''bi-''<sup>2</sup> + ''nuclear''.]   Having two nuclei or central points.\n\n'''binucleate''' (bī-nū′klẹ̄-āt), ''a.''   [< ''bi-''<sup>2</sup> + ''nucleate''.]   Having two nuclei, as a cell.\n\n'''binucleolate''' (bī-nū′klẹ̄-ọ̄-lāt), ''a.''   [< ''bi-''<sup>2</sup> + ''nucleolate''.]   In ''biol.'', having two nucleoli: applied to cells.\n\n'''bio-'''.   [NL. etc. ''bio-'', < Gr. βίος, life, akin to L. ''vivus'', living (> ''vīta'', life: see ''vivid'', ''vital''), = Goth. ''kwius'' = AS. ''cwicu'', E. ''quick'', living: see ''quick''.]   An element in many compound words, chiefly scientific, meaning life.\n\n'''bio-bibliographical''' (bī″ō-bib″li-ọ̄-graf′i-kạl), ''a.''   [< Gr. βίος, life, + ''bibliographical''.]   Treating of or dealing with both the life and the writings of an author.\n\n'''bioblast''' (bī′ọ̄-blast), ''n.''   [< Gr. βίος, life, + βλαστός, a germ, < βλαστάνειν, bud, sprout, grow.]   In ''biol.'', a formative cell of any kind; a minute mass of bioplasm or protoplasm about to become a definite cell of any kind. {{smaller|Thus, osteoblasts, white blood-corpuscles or leucocytes, lymph-corpuscles, etc., are all bioblasts.}}\n\n'''bioblastic''' (bī-ọ̄-blas′tik), ''a.''   [< ''bioblast'' + ''-ic''.]   Of, pertaining to, or of the nature of bioblasts.\n\n'''biocellate''' (bī-ọ̄-sel′āt), ''a.''   [< ''bi-''<sup>2</sup> + ''ocellate''.]   Marked with two eye-like spots, as the wings of some insects.\n\n'''biocentric''' (bī-ọ̄-sen′trik), ''a.''   [< Gr. βίος, life, + κέντρον, center.]   Treating life as a central fact.\n\n'''biochemic''' (bī-ọ̄-kem′ik), ''a.''   [< Gr. βίος, life, + ''chemic.'']   Of or pertaining to the chemistry of life.\n\n'''biod''' (bī′od), ''n.''   [< Gr. βίος, life, + ''od'', q. v.]   The od of animal life; biogen; animal magnetism, so called.   ''Von Reichenbach.''\n\n'''biodynamic''' (bī″ọ̄-dī-nam′ik), ''a.''   [< Gr. βίος, life, + ''dynamic.'']   Of or pertaining to the doctrine of vital force or energy; biophysiological.\n\n'''biodynamical''' (bī″ọ̄-dī-nam′i-kạl), ''a.'' Same as ''biodynamic.''\n{{smaller block|The biostatical and the ''biodynamical''—i. e., the consideration of the structure ready to act, and the consideration of the structure acting.\n{{right|''G. H. Lewes'', Probs. of Life and Mind, I. 119.}}}}\n\n'''biodynamics''' (bī″ō-dī-nam′iks), ''n.''   [< Gr. βίος, life, + ''dynamics.'']   The doctrine of vital force or energy, or the action of living organisms: opposed to ''biostatics.''\n\n'''biogen''' (bī′ō-jen), ''n.''   [< Gr. βίος, life, + -γενής, producing: see ''-gen.'']   A hypothetical soul-stuff; the substance of a supposed spiritual body; the od of organic life.   ''Coues.''\n\n'''biogenation''' (bī″ọ̄-je-nā′shọn), ''n.''   [< ''biogen'' + ''-ation.'']   The state or quality of being affected by biogen; animation; vitalization.\n{{smaller block|All animals are probably also susceptible of ''biogenation'', which is the affection resulting from the influence of biogen.\n{{right|''Coues'', Key to N. A. Birds, p. 192.}}}}\n\n'''biogenesis''' (bī-ō-jen′e-sis), ''n.''   [< Gr. βίος, life, + γένεσις, generation: see ''genesis.'']   '''1.''' The genesis or production of living beings from living beings; generation in an ordinary sense: the converse of spontaneous generation, or ''abiogenesis.'' {{smaller|Various methods in which biogenesis is known to occur give rise to special terms, as ''gamogenesis'', ''parthenogenesis'', etc.}} '''2.''' The doctrine which holds that the genesis of living beings from living beings is the only one of which we have any knowledge, and which investigates or speculates upon the facts in the case upon such premises: the opposite of ''abiogenesis.''—'''3.''' Same as ''biogeny'', 1.\n\n'''biogenesist''' (bī-ọ-jen′e-sist), ''n.''   [< ''biogenesis'' + ''-ist.'']   One who favors the theory of biogenesis. Also called ''biogenist.''\n\n'''biogenetic''' (bī″ọ̄-jē-net′ik), ''a.''   [< ''biogenesis'' (in sense 2, < ''biogen''), after ''genetic.'']   '''1.''' Of or pertaining to biogenesis or biogeny in any way: as, a ''biogenetic'' process; a ''biogenetic'' law or principle.\n{{smaller block|This fundamental ''biogenetic'' law. {{right|''Haeckel'' (trans.).}}}}\n'''2.''' Consisting of biogen; done by means of biogen; relating to the theory of biogen.   ''Coues.''\n\n'''biogenetically''' (bī″ọ̄-jē-net′i-kạl-i), ''adv.'' In a biogenetic manner; by means of or according to the principles of biogenesis or biogeny.\n\n'''biogenist''' (bī-oj′e-nist), ''n.''   [< ''biogeny'' + ''-ist.'']   Same as ''biogenesist.''\n\n'''biogeny''' (bī-oj′e-ni), ''n.''   [< Gr. βίος, life, + -γένεια, generation: see ''-geny.'' Cf. ''biogenesis.'']   '''1.''' The genesis or evolution of the forms of matter which manifest the phenomena of life.\n{{smaller block|It is divided into two main branches: ''ontogeny'', or the genesis of the individual organism, and ''phylogeny'', or the genesis of the species, race, stock, or tribe to which the individual belongs. Also ''biogenesis.''}}\n'''2.''' The science or doctrine of biogenesis; the history of organic evolution. {{smaller|As in the preceding sense, it is divided into ''ontogeny'', or germ-history, or the history of the embryological development of the individual organism, and ''phylogeny'', or tribal history, or the history of the paleontological evolution of organic species.}}\n\n{{smaller block|The first of these studies [biology] gives rise to the sciences of anatomy and physiology, as well as to the subsidiary science of pathology. On the other hand, ''Biogeny'' comprises embryology, morphology, and questions relating to the origin of species.\n{{right|''J. Fiske'', Cosmic Philos., I. 221.}}}}\n\n'''biographer''' (bī-og′ra̤-fėr), ''n.''   [< ML. ''biographus'' (see ''biography'') + ''-er''<sup>1</sup>. Cf. ''philosopher.'']   One who writes a biography, or an account of the life and actions of a particular person; a writer of lives.\n\n'''biographic''' (bī-ọ̄-graf′ik), ''a.''   [< ''biography'' + ''-ic.'']   Pertaining to or of the nature of biography.\n{{smaller block|To all which questions, not unessential in a ''biographic'' work, mere conjecture must for most part return answer.\n{{right|''Carlyle'', Sartor Resartus, p. 95.}}}}\n\n'''biographical''' (bī-ọ̄-graf′i-ka̤l), ''a.'' Relating or pertaining to the life of an individual; dealing with or containing biographies: as, ''biographical'' details; a ''biographical'' dictionary.\n{{smaller block|The historian should rarely digress into ''biographical'' particulars except in as far as they contribute to the clearness of his narrative of political occurrences.\n{{right|''Sir J. Mackintosh'', Sir Thos. More.}}}}\n\n'''biographically''' (bī-ọ̄-graf′i-ka̤l-i), ''adv.'' In a biographical sense or manner; with reference to biography.\n\n'''biographist''' (bī-og′ra̤-fist), ''n.''   [< ''biography'' + ''-ist.'']   A biographer. [Rare.]\n{{smaller block|Want of honest heart in the ''Biographists'' of these Saints . . . betrayed their pens to such abominable untruths.\n{{right|''Fuller'', Worthies, iii.}}}}\n\n'''biographize''' (bī-og′ra̤-fīz), ''v. t.''; pret. and pp. ''biographized'', ppr. ''biographizing''.   [< ''biography'' + ''-ize.'']   To write the biography or a history of the life of. [Rare.]\n{{smaller block|<poem>Now do I bless the man who undertook</poem> These monks and martyrs to ''biographize.''\n{{right|''Southey'', St. Gualberto, st. 25.}}}}\n\n'''biography''' (bī-og′ra-fi), ''n.''; pl. ''biographies'' (-fiz).   [= F. ''biographie'', < LGr. βιογραφία, biography, < *βιογράφος (> ML. ''biographus'', > F. ''biographe'', a biographer), < Gr. βίος, life, + γράφειν, write.]   '''1.''' The history of the life of a particular person.\n{{smaller block|There is no heroic poem in the world but is at bottom a ''biography'', the life of a man.\n{{right|''Carlyle'', Essays.}}}}\n'''2.''' Biographical writing in general, or as a department of literature.\n{{smaller block|This, then, was the first great merit of Montesquieu, that he effected a complete separation between ''biography'' and history, and taught historians to study, not the peculiarities of individual character, but the general aspect of the society in which the peculiarities appeared.\n{{right|''Buckle'', Civilization, I. xiii.}}}}\n'''3.''' In ''nat. hist.'', the life-history of an animal or a plant. ='''Syn. 1.''' {{smaller|''Biography'', ''Memoir.'' When there is a difference between these words, it may be that ''memoir'' indicates a less complete or minute account of a person’s life, or it may be that the person himself records his own recollections of the past, especially as connected with his own life; in the latter case ''memoir'' should be in the plural.}}\n\n'''biokinetics''' (bī″ō-ki-net′iks), ''n.''   [< Gr. βίος, life, + ''kinetics''.]   That part of biological science which treats of the successive changes through which organisms pass during the different stages of their development.\n\n'''biologian''' (bī-ọ-lō′jia̤n), ''n.''   [< ''biology'' + ''-ian''.]   A biologist.\n{{smaller block|Those great classes into which systematists and ''biologians'' have divided existing vertebrate forms. {{right|''The Century'', XXXI. 352.}}}}\n\n'''biologic''' (bī-ọ̄-loj′ik), ''a.''   [< ''biology'' + ''-ic.'']   Same as ''biological.''\n{{smaller block|The interpretation of structure . . . is aided by two subsidiary divisions of ''biologic'' inquiry, named Comparative Anatomy (properly Comparative Morphology) and Comparative Embryology.\n{{right|''H. Spencer.''}}}}\n\n'''biological''' (bī-ọ̄-loj′i-kal), ''a.'' '''1.''' Pertaining to biology or the science of life.\n{{smaller block|They [the discoveries of Cuvier] contain a far larger portion of important anatomical and ''biological'' truth than it ever before fell to the lot of one man to contribute.\n{{right|''Whewell'', Hist. Induct. Sciences, I. 629.}}}}\n{{smaller block|The prick of a needle will yield, in a drop of one’s blood, material for microscopic observation of phenomena which lie at the foundation of all ''biological'' conceptions.\n{{right|''Huxley'', Pop. Sci. Mo., XI. 670.}}}}\n'''2.''' In ''zoöl.'', illustrating the whole life-history of a group or species of animals: as, a ''biological'' collection of insects.\n\n'''biologically''' (bī-ọ̄-loj′i-kal-i), ''adv.'' In a biological manner; according to the doctrines or principles of biology.\n{{smaller block|That which was physically defined as a moving equilibrium we define ''biologically'' as a balance of functions.\n{{right|''H. Spencer'', Data of Ethics, § 39.}}}}\n{{smaller block|Ethics, if positive, must rest on some empirical data. These data are furnished partly by history, partly by human nature, either ''biologically'' or psychologically considered.\n{{right|''N. A. Rev.'', CXX. 255.}}}}\n\n'''biologist''' (bī-ol′ọ̄-jist), ''n.''   [< ''biology'' + ''-ist.'']   One skilled in, or a student of, biology.\n\n'''biologize†''' (bī-ol′ọ̄-jīz), ''v. t.''   [< ''biology'' + ''-ize.'']   To mesmerize.\n\n'''biologizer†''' (bī-ol′ọ̄-jī-zėr), ''n.'' One who practises mesmerism.\n\n'''biology''' (bī-ol′ọ̄-ji), ''n.''   [=F. ''biologie'', < Gr. βίος, life, + -λογία, < λέγειν, speak (see ''-ology''); cf. Gr. βιολόγος, a player, one who represents to the life.]   '''1.''' The science of life and living things in the widest sense; the body of doctrine respecting living beings; the knowledge of vital phenomena.\n{{smaller block|It is remarkable that each of these writers [Treviranus and Lamarck] seems to have been led, independently and contemporaneously, to invent the same name of ''Biology'' for the science of the phenomena of life. . . . And it is hard to say whether Lamarck or Treviranus has the priority. . . . Though the first volume of Treviranus’ “Biologie” appeared only in 1802, he says . . . that he wrote the first volume . . . about 1796. The “Recherches,” etc., in which the outlines of Lamarck’s doctrines are given, was published in 1802.\n{{right|''Huxley'', Science and Culture (Am. ed., 1882), p. 302.}}}}\n'''2.''' In a more special sense, physiology; biophysiology; biotics.—'''3.''' In a technical sense, the life-history of an animal: especially used in entomology.—'''4†.''' Animal magnetism.\n\n'''biolysis''' (bī-ol′i-sis), ''n.''   [NL., < Gr. βίος, life, + λύσις, loosening, solution, < λύειν, loose, dissolve.]   Dissolution of a living being; death, as the resolution of an organism into its constituent parts, and consequently the destruction of the phenomena of life.\n\n'''biolytic''' (bī-ọ̄-lit′ik), ''a.''   [< Gr. βίος, life, + λυτικός, able to loose, < λυτός, verbal adj. of λύειν, loose.]   In ''med.'', tending to the destruction of life: as, a ''biolytic'' agent.\n\n'''biomagnetic''' (bī″ọ̄-mag-net′ik), ''a.''   [< Gr. βίος, life, + ''magnetic''.]   Pertaining or relating to biomagnetism.<noinclude><references/></noinclude>"
+}

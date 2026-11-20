@@ -1,0 +1,209 @@
+{
+ "volume": 1,
+ "page_number": 579,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n578.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n578.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 742,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     96,
+     133,
+     2289,
+     172
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     96,
+     172,
+     822,
+     1241
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     96,
+     1241,
+     822,
+     2276
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     96,
+     2276,
+     822,
+     3284
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     822,
+     172,
+     1563,
+     1242
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     822,
+     1242,
+     1563,
+     2327
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     822,
+     2327,
+     1563,
+     3284
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1563,
+     172,
+     2289,
+     1268
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1563,
+     1268,
+     2289,
+     2330
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1909,
+     1546,
+     2273,
+     1906
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1563,
+     2330,
+     2289,
+     3284
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|bill|553|billet}}",
+   "c1s1": "¶\n'''3.''' In ''law'', a name given to several papers in lawsuits; particularly, when used alone, to the ''bill in equity'' or ''bill of indictment'' (see below). {{smaller|It is a statement of complaint, and contains the fact complained of, the damage sustained, and a petition or process against the defendant for redress. It is used both in equity and in criminal cases. In ''Scots law'', every summary application in writing, by way of petition to the Court of Session, is called a ''bill.''}}\n\n'''4.''' In ''com.'', a written statement of the names, quantities, and prices of articles sold by one person to another, with the date of sale, or a statement of work done, with the amount charged; an account of money claimed for goods supplied or services rendered.\n{{smaller block|Why, please, ma’am, it is only thy little ''bill'', a very small account, I wanted thee to settle.\n{{right|Quoted in ''Lady Holland’s'' Sydney Smith, vii.}}}}\n\n'''5.''' An acknowledgment of debt; a promissory note: now obsolete except as sometimes used, especially in the United States, for ''bank-note.'' See 10.—'''6.''' A bill of exchange (which see, below).—'''7.''' Any written paper containing a statement of particulars: as, a ''bill'' of charges or expenditures; a ''bill'' of fare or provisions, etc.—'''8.''' A form or draft of a proposed statute presented to a legislature, but not yet enacted or passed and made law. {{smaller|In some cases statutes are called ''bills'', but usually they are qualified by some description: as, a ''bill'' of attainder.}}\n\n'''9.''' A paper written or printed, and intended to give public notice of something, especially by being exhibited in some public place; an advertisement posted; a placard.—'''10.''' A bank-note: usually with its amount: as, a five-dollar",
+   "c1s2": "''bill.'' [U. S.]—'''Accommodation bill.''' See ''accommodation.''—'''Appropriation bill.''' See ''appropriation.''—'''Approved bill''' or '''note.''' See ''approve''<sup>1</sup>.—'''Bank post-bill,''' a bill for a sum not less than £10 issued by the Bank of England without charge, payable at seven days’ sight and accepted at time of drawing, for convenience in remitting by post. Bills of this kind originated in 1738, when mail-robberies were frequent in England, and are not now in use.—'''Bill in equity,''' in an equity suit, the pleading in which the plaintiff sets forth the circumstances on which he bases his claim for relief. It corresponds to the ''complaint'' or ''declaration'' at common law.—'''Bill of adventure,''' a writing signed by a merchant, ship-owner, or master to show that goods shipped on board a certain vessel are at the venture of another person, he himself being answerable only for their delivery.—'''Bill of credit.''' (''a'') A letter sent by an agent or other person to a merchant requesting him to give credit to the bearer for goods or money. (''b'') Paper issued by the authority and on the faith of a State to be circulated as money. The Constitution of the United States (Art. I. § 10) provides that no State shall emit bills of credit, or make anything but gold and silver coin a tender in payment of debts.\n{{smaller block|Mr. Bancroft shows by a careful upturning of the colonial records that ''bills of credit'' were nothing else than Government legal-tender notes. {{right|''The Century'', XXXII. 160.}}}}\n'''Bill of debt,''' an old term including promissory notes and bonds for the payment of money.—'''Bill of entry,''' a written account of goods entered at the custom-house, whether imported or intended for export.—'''Bill of exceptions.''' See ''exception.''—'''Bill of exchange,''' an order in writing, addressed by one person to another, to pay on demand or at a fixed or determinable future time a certain sum in money to a specified person or to his order. Every completed bill of exchange should bear on its face the following: (''a'') three names, namely, those of the drawer, the drawee, and the payee; (''b'') the sum to be paid; (''c'') two dates, namely, the date of drawing and a time for payment or the means of determining the time, as where the bill is payable at sight or a certain time after sight, that",
+   "c1s3": "{{smaller|is, presentment; (''d'') the place where it is drawn. If the drawer and drawee are the same person, even in legal effect of name, as where a corporation by one officer draws on itself by naming another officer, as such, as the payee, the paper is not a bill of exchange, but a mere draft or promissory note. The drawer and the payee, however, may be the same, as where one draws to his own order and indorses to a third person. If the paper is not payable absolutely, as where it is expressed to be payable only out of a particular fund, it is not a bill of exchange; but a payment absolutely ordered may be directed to be charged to a particular account of the drawer. The words “value received” are usually inserted, but are not essential to validity. The drawee of a bill becomes liable by accepting it, usually done by writing his name across its face, and he is thereafter called the ''accepter;'' but a bill is negotiable before acceptance. In a foreign bill of exchange, the drawer and drawee are residents of different countries. In this respect, in the United States, the residents of the different States are foreign to one another.—'''Bills of exchange acts,''' a short name by which are known several British statutes (1871, 1878, and 1882), the last of which codifies the whole body of British law relating to negotiable paper.—'''Bill of fare,''' in a hotel or restaurant, a list of dishes to be served in due course at a regular meal, or which may be ordered.—'''Bill of health,''' a certificate signed by a consul or other authority as to the health of a ship’s company at the time of her clearing any port or place. A ''clean'' bill imports that the ship sailed at a time when no infectious disorder was supposed to exist; a ''suspected'' or ''touched'' bill imports that there were rumors of such a disorder, but that it had not appeared; a ''foul'' bill, or the absence of a clean bill, imports that the place of departure was infected when the vessel left.—'''Bill of indictment.''' See ''indictment.''—'''Bill of lading,''' a receipt for goods delivered to a carrier for transportation. It is usually of goods shipped on board of a vessel and signed by the master of the vessel, acknowledging the receipt of the goods, and usually promising to deliver them in good condition at the place di-}}",
+   "c2s1": "rected, dangers of the sea, the act of God, perils of war, etc., excepted. In foreign trade they are usually drawn up in triplicates, one of which goes to the shipper, one to the consignee, and one is retained by the master. Often abbreviated ''B. L.''—'''Bills of Lading Act''', a British statute of 1855, vesting rights under bills of lading in the consignee or indorsee, but reserving right of stoppage in transitu and claims for freight. Similar statutes in other jurisdictions are variously known.—'''Bill of mortality.''' See ''mortality''.—'''Bill of parcels''', an account given by the seller to the buyer, containing particulars of the goods bought and of their prices; an invoice.—'''Bill of particulars''', a writing setting forth in detail the particulars of a matter stated in a more general form in a pleading.—'''Bill of Rights.''' (''a'') An English statute of 1689 (1 Wm. and Mary, Sess. 2, c. 2) declaring the rights and liberties of the subject, and settling the succession of the crown in William of Orange and Mary, and to the rightful heirs of the latter, but excluding any being Roman Catholics; it also provided that Protestants might have in their possession arms for defense suitable to their conditions. (''b'') A similar statement or declaration of personal rights in the constitution of a State of the American Union, and incorporated in the amendments to the Constitution of the United States.—'''Bill of sale''', a formal instrument for the conveyance or transfer of personal chattels, as household furniture, stock in a shop, shares of a ship, or the like. It is often given to a creditor in security for money borrowed, or an obligation otherwise incurred. When it expressly empowers the receiver to sell the goods if the money is not repaid with interest at the appointed time, or the obligation not otherwise discharged, the contract is commonly called in the United States a ''chattel mortgage'', not a bill of sale.—'''Bills of sale acts''', a name given to several English statutes (1878, 1879, 1882, and 1883), regulating bills of sale, especially when given without transferring possession of the property, and requiring a schedule and registration, for the prevention of fraud on creditors.—'''Bill of sight''', a form of entry at a custom-house by which goods respecting which the importer has not the full particulars may be provisionally landed for examination.—'''Bill of stores''', a license granted at a custom-house",
+   "c2s2": "{{smaller|to merchant-ships to carry stores and provisions for their voyage duty-free.—'''Bill of sufferance''', a coasting license to trade from port to port without paying customs duty, the dutiable goods being loaded and landed at sufferance wharfs.—'''Bill payable, bill receivable''', a bill of exchange, promissory note, or other commercial paper. It is called a ''bill payable'' by the person who is to pay it, and a ''bill receivable'' by the person who holds it. Separate accounts under these names are usually kept in mercantile books.—'''Blackstone’s Hard-labor Bill''', an English statute of 1779 (19 Geo. III., c. 74) relating to the transportation, imprisonment, and punishment of convicts. It established “penitentiary houses,” required that prisoners should be put to severe work according to their ability and be separately confined when at rest, and prescribed minute regulations for their care and control.—'''Bland Silver Bill''', a United States statute of 1878 (20 Stat., 25): so called from its author, Richard P. Bland, a member of the House from Missouri. It reëstablished the silver dollar containing 412½ grains troy of standard silver as a legal tender; but its special feature was a clause requiring the Treasury to purchase every month not less than two million nor more than four million dollars’ worth of silver bullion and to coin it into dollars.—'''Boston Port Bill''', an English statute of 1774 (14 Geo. III., c. 19) incited by the destruction of tea in Boston harbor. It closed the port of Boston to trade, allowing the admission only of food and fuel brought from other parts of America.—'''Creditor’s bill.''' See ''creditor''.—'''Deceased Wife’s Sister Bill''', a bill repeatedly introduced into the British Parliament to abrogate the rule of English law which forbids a widower to marry the sister of his deceased wife. In the summer of 1896 it passed its third reading in the House of Lords.—'''Deficiency bill.''' (''a'') A short loan or advance made to the British government by the Bank of England whenever the taxes received are insufficient to pay the dividends due on government stocks. (''b'') A legislative bill appropriating an amount of money required to make up a deficiency.—'''Exchequer bill.''' See ''exchequer''.—'''General Deficiency Bill''', the name of that one of the appropriation bills passed by Congress which covers the deficiencies of previous appropriation bills.—'''Home-Rule Bill.''' (''a'') A bill introduced into the British Parliament by Mr. Gladstone, in}}",
+   "c2s3": "1886, to provide a separate parliament for Ireland. It was defeated in its second reading, June 7, 1886. (''b'') A similar bill introduced by Mr. Gladstone on Feb. 13, 1893, and defeated in the House of Lords on Sept. 8.—'''Jew Bill''', an English statute of 1753 (repealed in 1754) enabling Jews who were foreigners to be naturalized without first partaking of the sacrament.—'''Kansas-Nebraska Bill''', an act of the United States Congress of 1854 for the organization of the Territories of Kansas and Nebraska. It abrogated that provision of the Missouri compromise of 1820 which forbade slavery north of latitude 36° 30′ (the southern boundary of Missouri), left the decision of all questions as to slavery in the Territories or States formed from them to the representatives of the people residing there, extended the fugitive-slave law to these Territories, and allowed appeal in cases affecting the title to slaves from the local courts to the United States Supreme Court. The political consequences of the bill were most important, causing the destruction of the Whig party and the struggle between the proslavery and antislavery parties for the control of the Territories, which culminated in the war of secession and the total abolition of slavery.—'''Original bill in equity''', in ''law'', a bill of complaint originating a litigation; one not connected with a previous bill, as distinguished from one growing out of a matter before litigated in the court by the same person standing in the same interests.—'''Pendleton Bill''', a United States statute of 1883 (22 Stat., 403) regulating and improving the civil service: so called after its promoter, Senator George H. Pendleton of Ohio. It provides for the competitive examination of applicants for office, and their appointment to vacancies according to their grade as established by the examining commission.—'''Poland Bill''', a United States statute of 1874 (18 Stat., 253), so called after its author, Luke P. Poland, a member of the House of Representatives from Vermont, the design of which was to render effective the authority of the officers and courts of the United States in the Territory of Utah, by prescribing the duties of the United States marshal",
+   "c3s1": "{{smaller|and attorney, the jurisdiction of the courts, the impaneling of juries, appeals, etc.—'''Private bill,''' an act of a legislature which deals with the rights of a single individual or association, or of a group of individuals, as distinguished from one affecting the community generally, or all persons of a specified class or locality. It is regarded rather as in the nature of a judicial award or decree than as a statute or law.—'''To enter a bill short.''' See ''enter.''—'''To note a bill of exchange.''' See ''note, v. t.'' [For other noted bills on particular subjects, such as ''Reform Bill'', see the word characterizing the bill. For others better known by the term ''act'', ''statute'', etc., see those words.]}}\n\n'''bill<sup>3</sup>''' (bil), ''v. t.'' [< ''bill<sup>3</sup>'', ''n.''] '''1.''' To enter in a bill; make a bill or list of; charge or enter in an account for future payment: as, to ''bill'' goods or freight to a consignee; to ''bill'' passengers in a stage-coach; to ''bill'' a customer’s purchases. See ''book'', ''v. t.''\n{{smaller block|Parties in the United States having goods to ship to Corea may, as heretofore, have them ''billed'' to Yokohama by American or other lines and then rebilled to Corea.\n{{right|''U. S. Cons. Rep.'', No. 73, p. cxii.}}}}\n'''2.''' To advertise by bill or public notice; announce on a play-bill: as, he was ''billed'' to appear as Othello.\n\n'''bill<sup>4</sup>''' (bil), ''n.'' [Var. of E. dial. ''beel'', ''beal'', < ''beal'', v., var. of ''bell<sup>2</sup>''.] A bellow or roar: applied to the boom of the bittern.\n{{smaller block|The bittern’s hollow ''bill'' was heard.\n{{right|''Wordsworth'', Evening Walk.}}}}\n\n'''billage<sup>1</sup>''' (bil′āj), ''n.'' [E. dial., prob. < ML. ''birlegia'': see ''by-law''.] A method of settling disputes about boundaries by arbitration. [Local, Eng. (Kent).]\n\n'''billage<sup>2</sup>†''', ''n.'' and ''v.'' A corruption of ''bilge''.\n\n'''billard''' (bil′ärd), ''n.'' [See ''bil''.] A local English name of the coalfish.",
+   "c3s2": "¶\n'''Billbergia''' (bil-bėr′ji-ä), ''n.'' [NL., named after J. G. ''Billberg'', a Swedish botanist.] A genus of epiphytic plants, natural order ''Bromeliaceæ.'' {{smaller|There are 20 species, with crowded spinosely serrate leaves and panicled or racemose flowers. They grow on trees in tropical America, and have been introduced into hothouses for the sake of their beautiful and fragrant flowers.}}\n\n'''bill-board<sup>1</sup>''' (bil′bōrd), ''n.'' [< ''bill<sup>2</sup>'' + ''board.''] ''Naut.'', a projection sheathed with iron placed\n[[FIGURE]]\n{{c|{{smaller|1, Bill-board; 2, Bill-port.}}}}\nabaft the cathead, for the bill of the anchor to rest on. See ''anchor-lining.''\n\n'''bill-board<sup>2</sup>''' (bil′bōrd), ''n.'' [< ''bill<sup>3</sup>'' + ''board.''] A board or tablet on which advertising bills or placards may be posted.\n\n'''bill-book''' (bil′bu̇k), ''n.'' A book in which a merchant keeps a record of the details of his bills of exchange, promissory notes, etc., payable and receivable.\n\n'''bill-broker''' (bil′brō″kėr), ''n.'' One whose business it is to negotiate the discount of bills of exchange, either simply as agent or by buying and selling again, with or without a guaranty. [British.]\n\n'''bill-chamber''' (bil′chām″bėr), ''n.'' [< ''bill<sup>3</sup>'' + ''chamber.''] A department of the Court of Session in Scotland in which one of the judges officiates at all times during session and vacation. {{smaller|All proceedings for summary remedies or for pro-}}",
+   "c3s3": "{{smaller block|tection against some threatened action, as, for example, interdicts, begin in the bill-chamber. The process of sequestration or bankruptcy issues from this department of the court.}}\n\n'''billed''' (bild), ''a.'' [ME. ''billid''; < ''bill''<sup>1</sup> + ''-ed''<sup>2</sup>.] Furnished with or having a bill or beak: used chiefly in composition: as, a short-''billed'' bird.\n\n'''billement†''', ''n.'' See ''biliment.''\n\n'''billet<sup>1</sup>''' (bil′et), ''n.'' [< ME. ''billette'', < AF. ''billette'' (ML. ''billeta'', F. ''billet'', ''billette''), dim. of ''bille'', a writing: see ''bill''<sup>3</sup>.] '''1.''' A small paper or note in writing; a short letter or document.\n{{smaller block|I got your melancholy ''billet'' before we sat down to dinner.\n{{right|''Sterne'', Letters, lxxxiv.}}}}\n'''2.''' A ticket given by a billet-master or other officer directing the person to whom it is addressed to provide board and lodging for the soldier bearing it.\n{{smaller block|The soldiers distributed themselves among the houses of the most opulent citizens, no one escaping a ''billet'' who was rich enough to receive such company.\n{{right|''Motley'', Dutch Republic, II. 547.}}}}\nHence—'''3.''' The place where a soldier is lodged; lodging; accommodation.—'''4.''' The place (marked by a numbered hammock-hook) assigned to each of the crew of a man-of-war for slinging his hammock. Hence—'''5.''' A place, situation, position, or appointment: as, he is looking for a ''billet.'' [Vulgar.]—'''6†.''' A ballot or voting-paper.—{{smaller|'''Act of Billets''' (Scotch Parliament, 1662), a measure by which the twelve persons exempted from}}"
+  },
+  "figure_files": {
+   "c3f1": "century v01 p0579 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1921,
+     1558,
+     2261,
+     1894
+    ],
+    "caption": [
+     1982,
+     1900,
+     2240,
+     1919
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1958,
+     1570,
+     2286,
+     1876
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 3974,
+    "output_tokens": 89,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 10,
+    "input_tokens": 9314,
+    "output_tokens": 9072,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|bill|553|billet}}</noinclude>{{nop}}'''3.''' In ''law'', a name given to several papers in lawsuits; particularly, when used alone, to the ''bill in equity'' or ''bill of indictment'' (see below). {{smaller|It is a statement of complaint, and contains the fact complained of, the damage sustained, and a petition or process against the defendant for redress. It is used both in equity and in criminal cases. In ''Scots law'', every summary application in writing, by way of petition to the Court of Session, is called a ''bill.''}}\n\n'''4.''' In ''com.'', a written statement of the names, quantities, and prices of articles sold by one person to another, with the date of sale, or a statement of work done, with the amount charged; an account of money claimed for goods supplied or services rendered.\n{{smaller block|Why, please, ma’am, it is only thy little ''bill'', a very small account, I wanted thee to settle.\n{{right|Quoted in ''Lady Holland’s'' Sydney Smith, vii.}}}}\n\n'''5.''' An acknowledgment of debt; a promissory note: now obsolete except as sometimes used, especially in the United States, for ''bank-note.'' See 10.—'''6.''' A bill of exchange (which see, below).—'''7.''' Any written paper containing a statement of particulars: as, a ''bill'' of charges or expenditures; a ''bill'' of fare or provisions, etc.—'''8.''' A form or draft of a proposed statute presented to a legislature, but not yet enacted or passed and made law. {{smaller|In some cases statutes are called ''bills'', but usually they are qualified by some description: as, a ''bill'' of attainder.}}\n\n'''9.''' A paper written or printed, and intended to give public notice of something, especially by being exhibited in some public place; an advertisement posted; a placard.—'''10.''' A bank-note: usually with its amount: as, a five-dollar ''bill.'' [U. S.]—'''Accommodation bill.''' See ''accommodation.''—'''Appropriation bill.''' See ''appropriation.''—'''Approved bill''' or '''note.''' See ''approve''<sup>1</sup>.—'''Bank post-bill,''' a bill for a sum not less than £10 issued by the Bank of England without charge, payable at seven days’ sight and accepted at time of drawing, for convenience in remitting by post. Bills of this kind originated in 1738, when mail-robberies were frequent in England, and are not now in use.—'''Bill in equity,''' in an equity suit, the pleading in which the plaintiff sets forth the circumstances on which he bases his claim for relief. It corresponds to the ''complaint'' or ''declaration'' at common law.—'''Bill of adventure,''' a writing signed by a merchant, ship-owner, or master to show that goods shipped on board a certain vessel are at the venture of another person, he himself being answerable only for their delivery.—'''Bill of credit.''' (''a'') A letter sent by an agent or other person to a merchant requesting him to give credit to the bearer for goods or money. (''b'') Paper issued by the authority and on the faith of a State to be circulated as money. The Constitution of the United States (Art. I. § 10) provides that no State shall emit bills of credit, or make anything but gold and silver coin a tender in payment of debts.\n{{smaller block|Mr. Bancroft shows by a careful upturning of the colonial records that ''bills of credit'' were nothing else than Government legal-tender notes. {{right|''The Century'', XXXII. 160.}}}}\n'''Bill of debt,''' an old term including promissory notes and bonds for the payment of money.—'''Bill of entry,''' a written account of goods entered at the custom-house, whether imported or intended for export.—'''Bill of exceptions.''' See ''exception.''—'''Bill of exchange,''' an order in writing, addressed by one person to another, to pay on demand or at a fixed or determinable future time a certain sum in money to a specified person or to his order. Every completed bill of exchange should bear on its face the following: (''a'') three names, namely, those of the drawer, the drawee, and the payee; (''b'') the sum to be paid; (''c'') two dates, namely, the date of drawing and a time for payment or the means of determining the time, as where the bill is payable at sight or a certain time after sight, that {{smaller|is, presentment; (''d'') the place where it is drawn. If the drawer and drawee are the same person, even in legal effect of name, as where a corporation by one officer draws on itself by naming another officer, as such, as the payee, the paper is not a bill of exchange, but a mere draft or promissory note. The drawer and the payee, however, may be the same, as where one draws to his own order and indorses to a third person. If the paper is not payable absolutely, as where it is expressed to be payable only out of a particular fund, it is not a bill of exchange; but a payment absolutely ordered may be directed to be charged to a particular account of the drawer. The words “value received” are usually inserted, but are not essential to validity. The drawee of a bill becomes liable by accepting it, usually done by writing his name across its face, and he is thereafter called the ''accepter;'' but a bill is negotiable before acceptance. In a foreign bill of exchange, the drawer and drawee are residents of different countries. In this respect, in the United States, the residents of the different States are foreign to one another.—'''Bills of exchange acts,''' a short name by which are known several British statutes (1871, 1878, and 1882), the last of which codifies the whole body of British law relating to negotiable paper.—'''Bill of fare,''' in a hotel or restaurant, a list of dishes to be served in due course at a regular meal, or which may be ordered.—'''Bill of health,''' a certificate signed by a consul or other authority as to the health of a ship’s company at the time of her clearing any port or place. A ''clean'' bill imports that the ship sailed at a time when no infectious disorder was supposed to exist; a ''suspected'' or ''touched'' bill imports that there were rumors of such a disorder, but that it had not appeared; a ''foul'' bill, or the absence of a clean bill, imports that the place of departure was infected when the vessel left.—'''Bill of indictment.''' See ''indictment.''—'''Bill of lading,''' a receipt for goods delivered to a carrier for transportation. It is usually of goods shipped on board of a vessel and signed by the master of the vessel, acknowledging the receipt of the goods, and usually promising to deliver them in good condition at the place directed}}, dangers of the sea, the act of God, perils of war, etc., excepted. In foreign trade they are usually drawn up in triplicates, one of which goes to the shipper, one to the consignee, and one is retained by the master. Often abbreviated ''B. L.''—'''Bills of Lading Act''', a British statute of 1855, vesting rights under bills of lading in the consignee or indorsee, but reserving right of stoppage in transitu and claims for freight. Similar statutes in other jurisdictions are variously known.—'''Bill of mortality.''' See ''mortality''.—'''Bill of parcels''', an account given by the seller to the buyer, containing particulars of the goods bought and of their prices; an invoice.—'''Bill of particulars''', a writing setting forth in detail the particulars of a matter stated in a more general form in a pleading.—'''Bill of Rights.''' (''a'') An English statute of 1689 (1 Wm. and Mary, Sess. 2, c. 2) declaring the rights and liberties of the subject, and settling the succession of the crown in William of Orange and Mary, and to the rightful heirs of the latter, but excluding any being Roman Catholics; it also provided that Protestants might have in their possession arms for defense suitable to their conditions. (''b'') A similar statement or declaration of personal rights in the constitution of a State of the American Union, and incorporated in the amendments to the Constitution of the United States.—'''Bill of sale''', a formal instrument for the conveyance or transfer of personal chattels, as household furniture, stock in a shop, shares of a ship, or the like. It is often given to a creditor in security for money borrowed, or an obligation otherwise incurred. When it expressly empowers the receiver to sell the goods if the money is not repaid with interest at the appointed time, or the obligation not otherwise discharged, the contract is commonly called in the United States a ''chattel mortgage'', not a bill of sale.—'''Bills of sale acts''', a name given to several English statutes (1878, 1879, 1882, and 1883), regulating bills of sale, especially when given without transferring possession of the property, and requiring a schedule and registration, for the prevention of fraud on creditors.—'''Bill of sight''', a form of entry at a custom-house by which goods respecting which the importer has not the full particulars may be provisionally landed for examination.—'''Bill of stores''', a license granted at a custom-house {{smaller|to merchant-ships to carry stores and provisions for their voyage duty-free.—'''Bill of sufferance''', a coasting license to trade from port to port without paying customs duty, the dutiable goods being loaded and landed at sufferance wharfs.—'''Bill payable, bill receivable''', a bill of exchange, promissory note, or other commercial paper. It is called a ''bill payable'' by the person who is to pay it, and a ''bill receivable'' by the person who holds it. Separate accounts under these names are usually kept in mercantile books.—'''Blackstone’s Hard-labor Bill''', an English statute of 1779 (19 Geo. III., c. 74) relating to the transportation, imprisonment, and punishment of convicts. It established “penitentiary houses,” required that prisoners should be put to severe work according to their ability and be separately confined when at rest, and prescribed minute regulations for their care and control.—'''Bland Silver Bill''', a United States statute of 1878 (20 Stat., 25): so called from its author, Richard P. Bland, a member of the House from Missouri. It reëstablished the silver dollar containing 412½ grains troy of standard silver as a legal tender; but its special feature was a clause requiring the Treasury to purchase every month not less than two million nor more than four million dollars’ worth of silver bullion and to coin it into dollars.—'''Boston Port Bill''', an English statute of 1774 (14 Geo. III., c. 19) incited by the destruction of tea in Boston harbor. It closed the port of Boston to trade, allowing the admission only of food and fuel brought from other parts of America.—'''Creditor’s bill.''' See ''creditor''.—'''Deceased Wife’s Sister Bill''', a bill repeatedly introduced into the British Parliament to abrogate the rule of English law which forbids a widower to marry the sister of his deceased wife. In the summer of 1896 it passed its third reading in the House of Lords.—'''Deficiency bill.''' (''a'') A short loan or advance made to the British government by the Bank of England whenever the taxes received are insufficient to pay the dividends due on government stocks. (''b'') A legislative bill appropriating an amount of money required to make up a deficiency.—'''Exchequer bill.''' See ''exchequer''.—'''General Deficiency Bill''', the name of that one of the appropriation bills passed by Congress which covers the deficiencies of previous appropriation bills.—'''Home-Rule Bill.''' (''a'') A bill introduced into the British Parliament by Mr. Gladstone, in}} 1886, to provide a separate parliament for Ireland. It was defeated in its second reading, June 7, 1886. (''b'') A similar bill introduced by Mr. Gladstone on Feb. 13, 1893, and defeated in the House of Lords on Sept. 8.—'''Jew Bill''', an English statute of 1753 (repealed in 1754) enabling Jews who were foreigners to be naturalized without first partaking of the sacrament.—'''Kansas-Nebraska Bill''', an act of the United States Congress of 1854 for the organization of the Territories of Kansas and Nebraska. It abrogated that provision of the Missouri compromise of 1820 which forbade slavery north of latitude 36° 30′ (the southern boundary of Missouri), left the decision of all questions as to slavery in the Territories or States formed from them to the representatives of the people residing there, extended the fugitive-slave law to these Territories, and allowed appeal in cases affecting the title to slaves from the local courts to the United States Supreme Court. The political consequences of the bill were most important, causing the destruction of the Whig party and the struggle between the proslavery and antislavery parties for the control of the Territories, which culminated in the war of secession and the total abolition of slavery.—'''Original bill in equity''', in ''law'', a bill of complaint originating a litigation; one not connected with a previous bill, as distinguished from one growing out of a matter before litigated in the court by the same person standing in the same interests.—'''Pendleton Bill''', a United States statute of 1883 (22 Stat., 403) regulating and improving the civil service: so called after its promoter, Senator George H. Pendleton of Ohio. It provides for the competitive examination of applicants for office, and their appointment to vacancies according to their grade as established by the examining commission.—'''Poland Bill''', a United States statute of 1874 (18 Stat., 253), so called after its author, Luke P. Poland, a member of the House of Representatives from Vermont, the design of which was to render effective the authority of the officers and courts of the United States in the Territory of Utah, by prescribing the duties of the United States marshal {{smaller|and attorney, the jurisdiction of the courts, the impaneling of juries, appeals, etc.—'''Private bill,''' an act of a legislature which deals with the rights of a single individual or association, or of a group of individuals, as distinguished from one affecting the community generally, or all persons of a specified class or locality. It is regarded rather as in the nature of a judicial award or decree than as a statute or law.—'''To enter a bill short.''' See ''enter.''—'''To note a bill of exchange.''' See ''note, v. t.'' [For other noted bills on particular subjects, such as ''Reform Bill'', see the word characterizing the bill. For others better known by the term ''act'', ''statute'', etc., see those words.]}}\n\n'''bill<sup>3</sup>''' (bil), ''v. t.''   [< ''bill<sup>3</sup>'', ''n.'']   '''1.''' To enter in a bill; make a bill or list of; charge or enter in an account for future payment: as, to ''bill'' goods or freight to a consignee; to ''bill'' passengers in a stage-coach; to ''bill'' a customer’s purchases. See ''book'', ''v. t.''\n{{smaller block|Parties in the United States having goods to ship to Corea may, as heretofore, have them ''billed'' to Yokohama by American or other lines and then rebilled to Corea.\n{{right|''U. S. Cons. Rep.'', No. 73, p. cxii.}}}}\n'''2.''' To advertise by bill or public notice; announce on a play-bill: as, he was ''billed'' to appear as Othello.\n\n'''bill<sup>4</sup>''' (bil), ''n.''   [Var. of E. dial. ''beel'', ''beal'', < ''beal'', v., var. of ''bell<sup>2</sup>''.]   A bellow or roar: applied to the boom of the bittern.\n{{smaller block|The bittern’s hollow ''bill'' was heard.\n{{right|''Wordsworth'', Evening Walk.}}}}\n\n'''billage<sup>1</sup>''' (bil′āj), ''n.''   [E. dial., prob. < ML. ''birlegia'': see ''by-law''.]   A method of settling disputes about boundaries by arbitration. [Local, Eng. (Kent).]\n\n'''billage<sup>2</sup>†''', ''n.'' and ''v.'' A corruption of ''bilge''.\n\n'''billard''' (bil′ärd), ''n.''   [See ''bil''.]   A local English name of the coalfish.\n\n'''Billbergia''' (bil-bėr′ji-ä), ''n.''   [NL., named after J. G. ''Billberg'', a Swedish botanist.]   A genus of epiphytic plants, natural order ''Bromeliaceæ.'' {{smaller|There are 20 species, with crowded spinosely serrate leaves and panicled or racemose flowers. They grow on trees in tropical America, and have been introduced into hothouses for the sake of their beautiful and fragrant flowers.}}\n\n'''bill-board<sup>1</sup>''' (bil′bōrd), ''n.''   [< ''bill<sup>2</sup>'' + ''board.'']   ''Naut.'', a projection sheathed with iron placed {{img float|file=century v01 p0579 c3f1.png|width=177px|align=right|cap={{smaller|1, Bill-board; 2, Bill-port.}}}} abaft the cathead, for the bill of the anchor to rest on. See ''anchor-lining.''\n\n'''bill-board<sup>2</sup>''' (bil′bōrd), ''n.''   [< ''bill<sup>3</sup>'' + ''board.'']   A board or tablet on which advertising bills or placards may be posted.\n\n'''bill-book''' (bil′bu̇k), ''n.'' A book in which a merchant keeps a record of the details of his bills of exchange, promissory notes, etc., payable and receivable.\n\n'''bill-broker''' (bil′brō″kėr), ''n.'' One whose business it is to negotiate the discount of bills of exchange, either simply as agent or by buying and selling again, with or without a guaranty. [British.]\n\n'''bill-chamber''' (bil′chām″bėr), ''n.''   [< ''bill<sup>3</sup>'' + ''chamber.'']   A department of the Court of Session in Scotland in which one of the judges officiates at all times during session and vacation. {{smaller|All proceedings for summary remedies or for protection against some threatened action, as, for example, interdicts, begin in the bill-chamber. The process of sequestration or bankruptcy issues from this department of the court.}}\n\n'''billed''' (bild), ''a.''   [ME. ''billid''; < ''bill''<sup>1</sup> + ''-ed''<sup>2</sup>.]   Furnished with or having a bill or beak: used chiefly in composition: as, a short-''billed'' bird.\n\n'''billement†''', ''n.'' See ''biliment.''\n\n'''billet<sup>1</sup>''' (bil′et), ''n.''   [< ME. ''billette'', < AF. ''billette'' (ML. ''billeta'', F. ''billet'', ''billette''), dim. of ''bille'', a writing: see ''bill''<sup>3</sup>.]   '''1.''' A small paper or note in writing; a short letter or document.\n{{smaller block|I got your melancholy ''billet'' before we sat down to dinner.\n{{right|''Sterne'', Letters, lxxxiv.}}}}\n'''2.''' A ticket given by a billet-master or other officer directing the person to whom it is addressed to provide board and lodging for the soldier bearing it.\n{{smaller block|The soldiers distributed themselves among the houses of the most opulent citizens, no one escaping a ''billet'' who was rich enough to receive such company.\n{{right|''Motley'', Dutch Republic, II. 547.}}}}\nHence—'''3.''' The place where a soldier is lodged; lodging; accommodation.—'''4.''' The place (marked by a numbered hammock-hook) assigned to each of the crew of a man-of-war for slinging his hammock. Hence—'''5.''' A place, situation, position, or appointment: as, he is looking for a ''billet.'' [Vulgar.]—'''6†.''' A ballot or voting-paper.—{{smaller|'''Act of Billets''' (Scotch Parliament, 1662), a measure by which the twelve persons exempted from}}<noinclude><references/></noinclude>"
+}

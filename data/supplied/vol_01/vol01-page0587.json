@@ -1,0 +1,279 @@
+{
+ "volume": 1,
+ "page_number": 587,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n586.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n586.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 744,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     62,
+     151,
+     2286,
+     206
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     62,
+     206,
+     808,
+     1222
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     75,
+     206,
+     808,
+     846
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     62,
+     1222,
+     808,
+     2293
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     127,
+     1329,
+     730,
+     1943
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     62,
+     2293,
+     808,
+     3307
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     808,
+     206,
+     1551,
+     1258
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     808,
+     1258,
+     1551,
+     2244
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     808,
+     2244,
+     1551,
+     3307
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1551,
+     206,
+     2286,
+     1226
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1551,
+     1226,
+     2286,
+     2250
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1551,
+     2250,
+     2286,
+     3307
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1558,
+     2560,
+     1982,
+     3263
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|bird|561|bird’s-nest}}",
+   "c1s1": "[[FIGURE]]\n{{c|{{smaller|Topography of a Bird. (From Coues’s “Key to North American}}}}\n{{smaller block|1, forehead (''frons''); 2, lore; 3, circumocular region; 4, crown (''ve'' 6, hind head (''occiput''); 7, nape (''nucha''); 8, hind neck (''cervix''); 9, 10, interscapular region; 11, ''dorsum'', or back proper, including 10; 1 upper part of body proper, including 10, 11, and 13; 13, rump (''uropyg'' per tail-coverts; 15, tail; 16, under tail-coverts (''crissum''); 17, tars men; 19, hind toe (''hallux''); 20, ''gastræum'', including 18 and 24; 21, c toe; 22, middle or third toe; 23, side of body; 24, breast (''pectus''); 2 26, secondaries; 27, tertiaries (Nos. 25, 26, and 27 are all ''remiges''); 28 erts; 29, ''alula'', or bastard wing; 30, greater coverts; 31, median cove coverts; 33, the throat, including 34, 37, and 38; 34, ''jugulum'', or 35, auriculars; 36, malar region; 37, ''gula'', or middle throat; 38, ''ment'' 39, angle of commissure, or corner of mouth; 40, ramus of under mand of under mandible; 42, ''gonys''; 43, ''apex'', or tip of bill; 44, ''tomia'', or of the bill; 45, ''culmen'', or ridge of upper mandible, corresponding to g of upper mandible; 47, nostril; 48 passes across the bill a little in front}}\nopment of some of the feathers in most species. There",
+   "c1s2": "are about forty species of birds of paradise, one of the most beautiful of which, ''Paradisea apoda'', is also the best known; it was called ''apode'' from the fable that it was always on the wing and had no feet, a notion which was\n[[FIGURE]]\n{{c|{{smaller|Bird of Paradise (''Paradisea apoda'').}}}}\nstrengthened by the fact that the specimens which used to reach naturalists were without feet, these having been removed in preparing the skins. The packets of beautiful orange and yellow plumes worn as ornaments are from this species and a near relative, ''P. minor''. ''P. sanguinea'' is a still more gorgeous bird. The king bird of paradise, ''Cincinnurus regius'', is one of the most magnificent. ''Schlegelia wilsoni'', ''Diphyllodes speciosa'', ''Parotia sexpennis'', and ''Lophorhina atra'' are other leading species. The name is also given to a few species which are excluded from the technical definition of ''Paradiseidæ'' (which see). (''b'') In ''astron.'', a southern constellation. See ''Apus'', 1.—'''Bird of'''",
+   "c1s3": "{{smaller|'''passage,''' a migratory bird; a migrant; a bird which regularly passes in the spring from a warmer to a colder climate, and back in the fall. See ''migration'' and ''isepiptesis.''—'''Bird of peace,''' the dove, with reference to the story of Noah.—'''Bird of prey,''' any member of the order ''Raptores'' or ''Accipitres,'' as the hawk, eagle, owl, etc.—'''Bird of the year,''' a bird less than a year old.—'''Bird of wonder,''' the phenix.—'''Birds of a feather,''' persons of similar tastes and habits: chiefly in the saying, “Birds of a feather flock together,” indicating the usual association with one another of persons of like proclivities.—'''Early bird,''' an early riser; one who gets up betimes in the morning: in allusion to the proverb, “The early bird catches the worm.”—'''Man-of-war bird.''' Same as ''frigate-bird.''—'''Sea-cow bird,''' the treble-collared plover of Africa, ''Ægialites tricollaris:'' so called by Chapman, a traveler in southern Africa.—'''To hear a bird sing,''' to receive private communication; be informed privately or secretly.}}\n{{smaller block|I ''heard a bird'' so ''sing.'' {{right|''Shak.'', 2 Hen. IV., v. 5.}}\nI ''heard a bird sing,'' they mean him no good office.\n{{right|''Fletcher'', Loyal Subject, iv. 2.}}}}\n\n'''bird<sup>1</sup>''' (bėrd), ''v. i.'' [< ''bird''<sup>1</sup>, ''n.''] '''1.''' To catch birds; go bird-shooting or fowling.\n{{smaller block|I do invite you to-morrow morning to my house to breakfast: after, we’ll a-''birding'' together.\n{{right|''Shak.'', M. W. of W., iii. 3.}}}}\nHence —'''2†.''' To look for plunder; thieve.\n{{smaller block|<poem>''Mam.'' These day owls ——\n''Sur.'' That are ''birding'' in men’s purses.</poem>\n{{right|''B. Jonson'', Alchemist, v. 3.}}}}\n\n'''bird<sup>2</sup>†''' (bėrd), ''n.'' [Sc. ''bird'', ''burd'', etc.; < ME. ''bird'', ''berd'', ''burd'', ''byrd'', etc., a transposition of the somewhat less common ''brid'', ''bride'', etc., prop. a bride, but much used in poetry in the general sense of ‘maiden,’ ‘girl,’ with the epi-",
+   "c2s1": "thets ''bright'', ''comely'', etc.: see ''bride''<sup>1</sup>.] A maiden; a girl; a young woman.\n{{smaller block|<poem>Ther nis no ''buyrde'' so briht in boure . . .\nThat heo [she] ne schal fade as a flour.</poem>\n{{right|''Early Eng. Poems'' (ed. Furnivall), p. 134.}}\nHire cheere was simple, as ''birde'' in boure.\n{{right|''Rom. of the Rose'', l. 1014.}}\n<poem>And by my word the bonnie ''bird''\nIn danger shall not tarry.</poem>\n{{right|''Campbell'', Lord Ullin’s Daughter.}}\n[In this, as in other modern instances, the word is archaic, and is probably associated with ''bird''<sup>1</sup> as a term of endearment.]}}\n\n'''bird-baiting''' (bėrd′bā″ting), ''n.'' The catching of birds with clap-nets. ''Fielding.''\n\n'''bird-bolt'''<sup>1</sup> (bėrd′bōlt), ''n.'' [< ''bird''<sup>1</sup> + ''bolt''<sup>1</sup>.] A blunt-headed arrow for the longbow or crossbow, formerly used for shooting birds. It was intended to stun without piercing.\n\n'''bird-bolt'''<sup>2</sup> (bėrd′bōlt), ''n.'' [A corruption of ''burbot''.] A local English name of the burbot, ''Molva lota.''\n\n'''bird-cage''' (bėrd′kāj), ''n.'' A portable inclosure for birds.\n\n'''bird-call''' (bėrd′kâl), ''n.'' An instrument for imitating the cry of birds in order to attract or decoy them. {{smaller|It is generally a short metal pipe, having a circular plate at each end pierced with a small hole.}}\n\n'''bird-catcher''' (bėrd′kach″ėr), ''n.'' One who or that which catches birds, as a person, a bird, or an insect.",
+   "c2s2": "¶\n'''bird-catching''' (bėrd′kach″ing), ''n.'' The act of catching birds or wild fowls, either for food or pleasure, or for their destruction when pernicious to the husbandman.\n\n'''bird-dog''' (bėrd′dog), ''n.'' A dog used by sportsmen in the field in hunting game-birds.\n\n'''bird-duffer''' (bėrd′duf″ėr), ''n.'' A dishonest dealer in birds, who “makes up” his wares, either by painting the plumage of live birds, or by fabricating bird-skins, affixing false labels, etc.\n\n'''birdet†''', ''n.'' A Middle English form of ''bird.''\n\n'''birder''' (bėr′dėr), ''n.'' [< late ME. ''byrder''; < ''bird''<sup>1</sup>, ''v. i.'', + ''-er''<sup>1</sup>.] '''1†.''' A bird-catcher; a fowler.\n{{smaller block|As the ''byrder'' beguyleth the byrdes. {{right|''Vives.''}}}}\n'''2.''' One who breeds birds.—'''3.''' A local English name of the wild cat. ''N. E. D.''\n\n'''bird-eye''' (bėrd′ī), ''a.'' See ''bird’s-eye.''\n\n'''bird-eyed''' (bėrd′īd), ''a.'' Having eyes like those of a bird; quick-sighted; catching a glimpse as one goes.\n{{smaller block|<poem>Where was your dear sight,\nWhen it did so, forsooth! what now! ''bird-eyed?''</poem>{{right|''B. Jonson'', Volpone, iii. 2.}}}}\n\n'''bird-fancier''' (bėrd′fan″si-ėr), ''n.'' '''1.''' One who takes pleasure in rearing or collecting birds, especially such as are rare or curious.—'''2.''' A dealer in the various kinds of birds which are kept in cages.\n\n'''bird-fauna''' (bėrd′fâ″nä̤), ''n.'' Same as ''avifauna.''\n\n'''bird-foot''' (bėrd′fu̇t), ''a.'' Divided like a bird’s",
+   "c2s3": "foot; pedate, as the leaves of the bird-foot violet, ''Viola pedata.''\n\n'''birdgazer''' (bėrd′gā″zėr), ''n.'' [< ''bird''<sup>1</sup> + ''gazer''; a tr. of L. ''auspex'': see ''auspex.''] An augur or haruspex.\n{{smaller block|Accius Navius, the great ''birdgazer'' of Rome.\n{{right|''Trewnesse of the Christian Religion'', p. 401.}}}}\n\n'''bird-house''' (bėrd′hous), ''n.'' A box, pen, or small house for birds; a place in which birds are housed.\n\n'''birdie'''<sup>1</sup> (bėr′di), ''n.'' [< ''bird''<sup>1</sup> + dim. ''-ie.''] '''1.''' A childish diminutive of ''bird''<sup>1</sup>.—'''2.''' A term of endearment for a child or a young woman.\n\n'''birdie'''<sup>2</sup> (bėr′di), ''n.'' A name about Aberdeen, Scotland, of the young halibut.\n\n'''birding-piece†''' (bėr′ding-pēs), ''n.'' A fowling-piece. ''Shak.'', M. W. of W., iv. 2.\n{{smaller block|My Lord Hinchingbroke, I am told, hath had a mischance to kill his boy by his ''birding-piece'' going off as he was a-fowling.\n{{right|''Pepys'', Diary, I. 420.}}}}\n\n'''bird-lime''' (bėrd′līm), ''n.'' A viscous substance prepared from the inner bark of the holly, ''Ilex Aquifolium'', used for entangling small birds in order to capture them, twigs being smeared with it at places where birds resort or are likely to alight.\n{{smaller block|Holly is of so viscous a juice, as they make ''birdlime'' of the bark of it.\n{{right|''Bacon'', Nat. Hist., § 592.}}\n<poem>Not ''bird-lime'' or Idean pitch produce\nA more tenacious mass of clammy juice.</poem>\n{{right|''Dryden'', tr. of Virgil’s Georgics, iv. 57.}}}}\n\n'''birdlime''' (bėrd′līm), ''v. t.'' To smear with birdlime.",
+   "c3s1": "{{smaller block|When the heart is thus ''bird-limed'', then it cleaves to everything it meets with.\n{{right|''Goodwin'', A Christian’s Growth, ii. 3.}}}}\n\n¶\n'''bird-louse''' (bėrd′lous), ''n.'' One of a kind of lice which infest the plumage of birds. {{smaller|The genera and species are numerous. They are mostly degraded parasitic insects of the order ''Mallophaga'', and constitute most of that order.}}\n\n'''birdman''' (bėrd′man), ''n.''; pl. ''birdmen'' (-men). [< ''bird''<sup>1</sup> + ''man''.] '''1.''' A bird-catcher; a fowler.—'''2.''' An ornithologist.—'''3.''' One who stuffs birds.\n\n'''birdnest''' (bėrd′nest), ''v. i.'' To hunt or search for the nests of birds.\n\n'''bird-net''' (bėrd′net), ''n.'' A net used for catching birds.\n\n'''bird-organ''' (bėrd′ôr″gan), ''n.'' A small barrel-organ used in teaching birds to whistle tunes.\n\n'''bird-plant''' (bėrd′plant), ''n.'' A lobeliaceous plant, ''Heterotoma lobelioides'', from Mexico, with yellow irregular flowers somewhat resembling a bird. Also called ''canary-bird flower''.\n\n'''bird’s-bread''' (bėrdz′bred), ''n.'' A name of the common stonecrop, ''Sedum acre''.\n\n'''bird-seed''' (bėrd′sēd), ''n.'' Small seeds used for feeding birds, as those of hemp or millet; more specifically, the seed of ''Phalaris Canariensis'', or canary-grass.\n\n'''bird’s-eye''' (bėrdz′ī), ''n.'' and ''a.'' '''I.''' ''n.'' '''1.''' In ''bot.'': (''a'') The pheasant’s-eye, ''Adonis autumnalis''. (''b'') The speedwell, ''Veronica Chamædrys'': so named from its bright-blue flower. (''c'') A species of primrose, ''Primula farinosa''.—'''2.''' A fine kind",
+   "c3s2": "of tobacco, partly manufactured from the leaf-stalks of the plant, and forming, when ready for use, a loose fibrous mass with thin slices of stalk interspersed, the latter marked somewhat like a bird’s eye.—{{smaller|'''Red bird’s-eye,''' the herb-robert, ''Geranium Robertianum.''}}\n\n'''II.''' ''a.'' '''1.''' Seen from above, as if by a flying bird; embraced at a glance; hence, general; not minute or entering into details: as, a ''bird’s-eye'' landscape; a ''bird’s-eye'' view of a subject.\n{{smaller block|<poem>Thereupon she took\nA ''bird’s-eye'' view of all the ungracious past.</poem>\n{{right|''Tennyson,'' Princess, ii.}}}}\n'''2.''' Resembling a bird’s eye; having spots or markings somewhat resembling birds’ eyes.\n{{smaller block|He wore a blue ''bird’s-eye'' handkerchief round his neck.\n{{right|''Hughes,'' Tom Brown at Oxford, xviii.}}}}\n{{smaller|'''Bird’s-eye crape, diaper, limestone, maple,''' etc. See the nouns.—'''Bird’s-eye view,''' a mode of perspective representation in which portions of country, towns, etc., appear as they would if viewed from a considerable elevation.}}\n\n'''bird’s-foot''' (bėrdz′fu̇t), ''n.'' '''1.''' A common name for several plants, especially papilionaceous plants of the genus ''Ornithopus,'' their legumes being articulated, cylindrical, and bent in like claws.—'''2.''' The name of a spurge, ''Euphorbia Ornithopus,'' of the Cape of Good Hope.—{{smaller|'''Bird’s-foot trefoil,''' the popular name of ''Lotus corniculatus:'' so called because its legumes spread like a crow’s foot. See ''Lotus.''}}\n\n'''bird’s-mouth''' (bėrdz′mouth), ''n.'' In ''carp.,'' an interior angle or notch cut across the grain at",
+   "c3s3": "the extremity of a piece of timber, for its reception on the edge of another piece.\n\n'''bird’s-nest''' (bėrdz′nest), ''n.'' '''1.''' A name popularly given to several plants, from some suggestion of a bird’s nest in their form or manner of growth. {{smaller|(''a'') ''Neottia Nidusavis'', a British orchid found in beech woods: so called because of the mass of stout interlaced fibers which form its roots. (''b'') ''Monotropa Hypopitys'', a parasitic ericaceous plant growing on the roots of trees in fir woods, the leafless stalks of which resemble a}}\n[[FIGURE]]\n{{c|{{smaller|Bird-spider (''Avicularia avicularia'').}}}}\n{{smaller|nest of sticks. (''c'') ''Asplenium Nidus'', from the manner in which the fronds grow, leaving a nest-like hollow in the center. (''d'') The wild carrot, ''Daucus Carota'', from the form of the umbel in fruit.}} '''2.''' Same as ''crow’s-nest''.—'''3.''' ''pl.'' An article of commerce between Java and China, consisting of the gelatinous brackets which the swifts of the family ''Cypselidæ'' and genus ''Collocalia'' attach to cliffs, and on which they build their nests. {{smaller|These so-called bird’s-nests consist principally of the inspissated}}"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0587 c1f1.png",
+   "c1f2": "century v01 p0587 c1f2.png",
+   "c3f1": "century v01 p0587 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     87,
+     198,
+     813,
+     834
+    ],
+    "caption": [
+     131,
+     838,
+     813,
+     1174
+    ],
+    "column": 1,
+    "inset": false,
+    "page_box": [
+     68,
+     194,
+     970,
+     833
+    ]
+   },
+   {
+    "box": [
+     139,
+     1341,
+     718,
+     1931
+    ],
+    "caption": [
+     238,
+     1943,
+     630,
+     1966
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     125,
+     1346,
+     844,
+     1928
+    ]
+   },
+   {
+    "box": [
+     1570,
+     2572,
+     1970,
+     3251
+    ],
+    "caption": [
+     1568,
+     3263,
+     1972,
+     3289
+    ],
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1574,
+     2567,
+     1985,
+     3258
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    2,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 4,
+    "input_tokens": 7472,
+    "output_tokens": 261,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 10,
+    "input_tokens": 9514,
+    "output_tokens": 9658,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|bird|561|bird’s-nest}}</noinclude>[[File:century v01 p0587 c1f1.png|center|355px]]\n{{c|{{smaller|Topography of a Bird. (From Coues’s “Key to North American}}}}\n{{smaller block|1, forehead (''frons''); 2, lore; 3, circumocular region; 4, crown (''ve'' 6, hind head (''occiput''); 7, nape (''nucha''); 8, hind neck (''cervix''); 9, 10, interscapular region; 11, ''dorsum'', or back proper, including 10; 1 upper part of body proper, including 10, 11, and 13; 13, rump (''uropyg'' per tail-coverts; 15, tail; 16, under tail-coverts (''crissum''); 17, tars men; 19, hind toe (''hallux''); 20, ''gastræum'', including 18 and 24; 21, c toe; 22, middle or third toe; 23, side of body; 24, breast (''pectus''); 2 26, secondaries; 27, tertiaries (Nos. 25, 26, and 27 are all ''remiges''); 28 erts; 29, ''alula'', or bastard wing; 30, greater coverts; 31, median cove coverts; 33, the throat, including 34, 37, and 38; 34, ''jugulum'', or 35, auriculars; 36, malar region; 37, ''gula'', or middle throat; 38, ''ment'' 39, angle of commissure, or corner of mouth; 40, ramus of under mand of under mandible; 42, ''gonys''; 43, ''apex'', or tip of bill; 44, ''tomia'', or of the bill; 45, ''culmen'', or ridge of upper mandible, corresponding to g of upper mandible; 47, nostril; 48 passes across the bill a little in front}}\nopment of some of the feathers in most species. There are about forty species of birds of paradise, one of the most beautiful of which, ''Paradisea apoda'', is also the best known; it was called ''apode'' from the fable that it was always on the wing and had no feet, a notion which was\nstrengthened by the fact that the specimens which used to reach naturalists were without feet, these having been removed in preparing the skins. The packets of beautiful orange and yellow plumes worn as ornaments are from this species and a near relative, ''P. minor''. ''P. sanguinea'' is a still more gorgeous bird. The king bird of paradise, ''Cincinnurus regius'', is one of the most magnificent. ''Schlegelia wilsoni'', ''Diphyllodes speciosa'', ''Parotia sexpennis'', and ''Lophorhina atra'' are other leading species. The name is also given to a few species which are excluded from the technical definition of ''Paradiseidæ'' (which see). (''b'') In ''astron.'', a southern constellation. See ''Apus'', 1.—'''Bird of''' {{smaller|'''passage,''' a migratory bird; a migrant; a bird which regularly passes in the spring from a warmer to a colder climate, and back in the fall. See ''migration'' and ''isepiptesis.''—'''Bird of peace,''' the dove, with reference to the story of Noah.—'''Bird of prey,''' any member of the order ''Raptores'' or ''Accipitres,'' as the hawk, eagle, owl, etc.—'''Bird of the year,''' a bird less than a year old.—'''Bird of wonder,''' the phenix.—'''Birds of a feather,''' persons of similar tastes and habits: chiefly in the saying, “Birds of a feather flock together,” indicating the usual association with one another of persons of like proclivities.—'''Early bird,''' an early riser; one who gets up betimes in the morning: in allusion to the proverb, “The early bird catches the worm.”—'''Man-of-war bird.''' Same as ''frigate-bird.''—'''Sea-cow bird,''' the treble-collared plover of Africa, ''Ægialites tricollaris:'' so called by Chapman, a traveler in southern Africa.—'''To hear a bird sing,''' to receive private communication; be informed privately or secretly.}}\n{{smaller block|I ''heard a bird'' so ''sing.'' {{right|''Shak.'', 2 Hen. IV., v. 5.}}}}\n{{smaller block|I ''heard a bird sing,'' they mean him no good office.\n{{right|''Fletcher'', Loyal Subject, iv. 2.}}}}\n\n[[File:century v01 p0587 c1f2.png|center|292px]]\n{{c|{{smaller|Bird of Paradise (''Paradisea apoda'').}}}}\n\n'''bird<sup>1</sup>''' (bėrd), ''v. i.''   [< ''bird''<sup>1</sup>, ''n.'']   '''1.''' To catch birds; go bird-shooting or fowling.\n{{smaller block|I do invite you to-morrow morning to my house to breakfast: after, we’ll a-''birding'' together.\n{{right|''Shak.'', M. W. of W., iii. 3.}}}}\nHence —'''2†.''' To look for plunder; thieve.\n{{smaller block|<poem>''Mam.'' These day owls ——\n''Sur.'' That are ''birding'' in men’s purses.</poem>\n{{right|''B. Jonson'', Alchemist, v. 3.}}}}\n\n'''bird<sup>2</sup>†''' (bėrd), ''n.''   [Sc. ''bird'', ''burd'', etc.; < ME. ''bird'', ''berd'', ''burd'', ''byrd'', etc., a transposition of the somewhat less common ''brid'', ''bride'', etc., prop. a bride, but much used in poetry in the general sense of ‘maiden,’ ‘girl,’ with the epithets ''bright'', ''comely'', etc.: see ''bride''<sup>1</sup>.]   A maiden; a girl; a young woman.\n{{smaller block|<poem>Ther nis no ''buyrde'' so briht in boure . . .\nThat heo [she] ne schal fade as a flour.</poem>\n{{right|''Early Eng. Poems'' (ed. Furnivall), p. 134.}}}}\n{{smaller block|Hire cheere was simple, as ''birde'' in boure.\n{{right|''Rom. of the Rose'', l. 1014.}}}}\n{{smaller block|<poem>And by my word the bonnie ''bird''\nIn danger shall not tarry.</poem>\n{{right|''Campbell'', Lord Ullin’s Daughter.}}}}\n{{smaller block|[In this, as in other modern instances, the word is archaic, and is probably associated with ''bird''<sup>1</sup> as a term of endearment.]}}\n\n'''bird-baiting''' (bėrd′bā″ting), ''n.'' The catching of birds with clap-nets.   ''Fielding.''\n\n'''bird-bolt'''<sup>1</sup> (bėrd′bōlt), ''n.''   [< ''bird''<sup>1</sup> + ''bolt''<sup>1</sup>.]   A blunt-headed arrow for the longbow or crossbow, formerly used for shooting birds. It was intended to stun without piercing.\n\n'''bird-bolt'''<sup>2</sup> (bėrd′bōlt), ''n.''   [A corruption of ''burbot''.]   A local English name of the burbot, ''Molva lota.''\n\n'''bird-cage''' (bėrd′kāj), ''n.'' A portable inclosure for birds.\n\n'''bird-call''' (bėrd′kâl), ''n.'' An instrument for imitating the cry of birds in order to attract or decoy them. {{smaller|It is generally a short metal pipe, having a circular plate at each end pierced with a small hole.}}\n\n'''bird-catcher''' (bėrd′kach″ėr), ''n.'' One who or that which catches birds, as a person, a bird, or an insect.\n\n'''bird-catching''' (bėrd′kach″ing), ''n.'' The act of catching birds or wild fowls, either for food or pleasure, or for their destruction when pernicious to the husbandman.\n\n'''bird-dog''' (bėrd′dog), ''n.'' A dog used by sportsmen in the field in hunting game-birds.\n\n'''bird-duffer''' (bėrd′duf″ėr), ''n.'' A dishonest dealer in birds, who “makes up” his wares, either by painting the plumage of live birds, or by fabricating bird-skins, affixing false labels, etc.\n\n'''birdet†''', ''n.'' A Middle English form of ''bird.''\n\n'''birder''' (bėr′dėr), ''n.''   [< late ME. ''byrder''; < ''bird''<sup>1</sup>, ''v. i.'', + ''-er''<sup>1</sup>.]   '''1†.''' A bird-catcher; a fowler.\n{{smaller block|As the ''byrder'' beguyleth the byrdes. {{right|''Vives.''}}}}\n'''2.''' One who breeds birds.—'''3.''' A local English name of the wild cat.   ''N. E. D.''\n\n'''bird-eye''' (bėrd′ī), ''a.'' See ''bird’s-eye.''\n\n'''bird-eyed''' (bėrd′īd), ''a.'' Having eyes like those of a bird; quick-sighted; catching a glimpse as one goes.\n{{smaller block|<poem>Where was your dear sight,\nWhen it did so, forsooth! what now! ''bird-eyed?''</poem>{{right|''B. Jonson'', Volpone, iii. 2.}}}}\n\n'''bird-fancier''' (bėrd′fan″si-ėr), ''n.'' '''1.''' One who takes pleasure in rearing or collecting birds, especially such as are rare or curious.—'''2.''' A dealer in the various kinds of birds which are kept in cages.\n\n'''bird-fauna''' (bėrd′fâ″nä̤), ''n.'' Same as ''avifauna.''\n\n'''bird-foot''' (bėrd′fu̇t), ''a.'' Divided like a bird’s foot; pedate, as the leaves of the bird-foot violet, ''Viola pedata.''\n\n'''birdgazer''' (bėrd′gā″zėr), ''n.''   [< ''bird''<sup>1</sup> + ''gazer''; a tr. of L. ''auspex'': see ''auspex.'']   An augur or haruspex.\n{{smaller block|Accius Navius, the great ''birdgazer'' of Rome.\n{{right|''Trewnesse of the Christian Religion'', p. 401.}}}}\n\n'''bird-house''' (bėrd′hous), ''n.'' A box, pen, or small house for birds; a place in which birds are housed.\n\n'''birdie'''<sup>1</sup> (bėr′di), ''n.''   [< ''bird''<sup>1</sup> + dim. ''-ie.'']   '''1.''' A childish diminutive of ''bird''<sup>1</sup>.—'''2.''' A term of endearment for a child or a young woman.\n\n'''birdie'''<sup>2</sup> (bėr′di), ''n.'' A name about Aberdeen, Scotland, of the young halibut.\n\n'''birding-piece†''' (bėr′ding-pēs), ''n.'' A fowling-piece.   ''Shak.'', M. W. of W., iv. 2.\n{{smaller block|My Lord Hinchingbroke, I am told, hath had a mischance to kill his boy by his ''birding-piece'' going off as he was a-fowling.\n{{right|''Pepys'', Diary, I. 420.}}}}\n\n'''bird-lime''' (bėrd′līm), ''n.'' A viscous substance prepared from the inner bark of the holly, ''Ilex Aquifolium'', used for entangling small birds in order to capture them, twigs being smeared with it at places where birds resort or are likely to alight.\n{{smaller block|Holly is of so viscous a juice, as they make ''birdlime'' of the bark of it.\n{{right|''Bacon'', Nat. Hist., § 592.}}}}\n{{smaller block|<poem>Not ''bird-lime'' or Idean pitch produce\nA more tenacious mass of clammy juice.</poem>\n{{right|''Dryden'', tr. of Virgil’s Georgics, iv. 57.}}}}\n\n'''birdlime''' (bėrd′līm), ''v. t.'' To smear with birdlime. {{smaller block|When the heart is thus ''bird-limed'', then it cleaves to everything it meets with.\n{{right|''Goodwin'', A Christian’s Growth, ii. 3.}}}}\n\n'''bird-louse''' (bėrd′lous), ''n.'' One of a kind of lice which infest the plumage of birds. {{smaller|The genera and species are numerous. They are mostly degraded parasitic insects of the order ''Mallophaga'', and constitute most of that order.}}\n\n'''birdman''' (bėrd′man), ''n.''; pl. ''birdmen'' (-men).   [< ''bird''<sup>1</sup> + ''man''.]   '''1.''' A bird-catcher; a fowler.—'''2.''' An ornithologist.—'''3.''' One who stuffs birds.\n\n'''birdnest''' (bėrd′nest), ''v. i.'' To hunt or search for the nests of birds.\n\n'''bird-net''' (bėrd′net), ''n.'' A net used for catching birds.\n\n'''bird-organ''' (bėrd′ôr″gan), ''n.'' A small barrel-organ used in teaching birds to whistle tunes.\n\n'''bird-plant''' (bėrd′plant), ''n.'' A lobeliaceous plant, ''Heterotoma lobelioides'', from Mexico, with yellow irregular flowers somewhat resembling a bird. Also called ''canary-bird flower''.\n\n'''bird’s-bread''' (bėrdz′bred), ''n.'' A name of the common stonecrop, ''Sedum acre''.\n\n'''bird-seed''' (bėrd′sēd), ''n.'' Small seeds used for feeding birds, as those of hemp or millet; more specifically, the seed of ''Phalaris Canariensis'', or canary-grass.\n\n'''bird’s-eye''' (bėrdz′ī), ''n.'' and ''a.'' '''I.''' ''n.'' '''1.''' In ''bot.'': (''a'') The pheasant’s-eye, ''Adonis autumnalis''. (''b'') The speedwell, ''Veronica Chamædrys'': so named from its bright-blue flower. (''c'') A species of primrose, ''Primula farinosa''.—'''2.''' A fine kind of tobacco, partly manufactured from the leaf-stalks of the plant, and forming, when ready for use, a loose fibrous mass with thin slices of stalk interspersed, the latter marked somewhat like a bird’s eye.—{{smaller|'''Red bird’s-eye,''' the herb-robert, ''Geranium Robertianum.''}}\n\n'''II.''' ''a.'' '''1.''' Seen from above, as if by a flying bird; embraced at a glance; hence, general; not minute or entering into details: as, a ''bird’s-eye'' landscape; a ''bird’s-eye'' view of a subject.\n{{smaller block|<poem>Thereupon she took\nA ''bird’s-eye'' view of all the ungracious past.</poem>\n{{right|''Tennyson,'' Princess, ii.}}}}\n'''2.''' Resembling a bird’s eye; having spots or markings somewhat resembling birds’ eyes.\n{{smaller block|He wore a blue ''bird’s-eye'' handkerchief round his neck.\n{{right|''Hughes,'' Tom Brown at Oxford, xviii.}}}}\n{{smaller|'''Bird’s-eye crape, diaper, limestone, maple,''' etc. See the nouns.—'''Bird’s-eye view,''' a mode of perspective representation in which portions of country, towns, etc., appear as they would if viewed from a considerable elevation.}}\n\n'''bird’s-foot''' (bėrdz′fu̇t), ''n.'' '''1.''' A common name for several plants, especially papilionaceous plants of the genus ''Ornithopus,'' their legumes being articulated, cylindrical, and bent in like claws.—'''2.''' The name of a spurge, ''Euphorbia Ornithopus,'' of the Cape of Good Hope.—{{smaller|'''Bird’s-foot trefoil,''' the popular name of ''Lotus corniculatus:'' so called because its legumes spread like a crow’s foot. See ''Lotus.''}}\n\n'''bird’s-mouth''' (bėrdz′mouth), ''n.'' In ''carp.,'' an interior angle or notch cut across the grain at the extremity of a piece of timber, for its reception on the edge of another piece.\n\n'''bird’s-nest''' (bėrdz′nest), ''n.'' '''1.''' A name popularly given to several plants, from some suggestion of a bird’s nest in their form or manner of growth. {{smaller|(''a'') ''Neottia Nidusavis'', a British orchid found in beech woods: so called because of the mass of stout interlaced fibers which form its roots. (''b'') ''Monotropa Hypopitys'', a parasitic ericaceous plant growing on the roots of trees in fir woods, the leafless stalks of which resemble a}}\n{{smaller|nest of sticks. (''c'') ''Asplenium Nidus'', from the manner in which the fronds grow, leaving a nest-like hollow in the center. (''d'') The wild carrot, ''Daucus Carota'', from the form of the umbel in fruit.}} '''2.''' Same as ''crow’s-nest''.—'''3.''' ''pl.'' An article of commerce between Java and China, consisting of the gelatinous brackets which the swifts of the family ''Cypselidæ'' and genus ''Collocalia'' attach to cliffs, and on which they build their nests. {{smaller|These so-called bird’s-nests consist principally of the inspissated}}\n\n[[File:century v01 p0587 c3f1.png|center|205px]]\n{{c|{{smaller|Bird-spider (''Avicularia avicularia'').}}}}<noinclude><references/></noinclude>"
+}

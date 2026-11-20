@@ -1,0 +1,242 @@
+{
+ "volume": 1,
+ "page_number": 489,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n488.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n488.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 740,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     78,
+     136,
+     2282,
+     172
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     78,
+     172,
+     817,
+     1181
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     78,
+     1181,
+     817,
+     2244
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     96,
+     1177,
+     738,
+     1851
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     78,
+     2244,
+     817,
+     3277
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     817,
+     172,
+     1556,
+     1266
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     817,
+     1266,
+     1556,
+     2357
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     817,
+     2357,
+     1556,
+     3277
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1556,
+     172,
+     2282,
+     1245
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1889,
+     272,
+     2282,
+     876
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1556,
+     1245,
+     2282,
+     2326
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1556,
+     2326,
+     2282,
+     3277
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|base|463|base-line}}",
+   "c1s1": "'''2.''' To lower in character, condition, or rank; degrade; debase.—'''3.''' To reduce the value of by the admixture of meaner elements; debase. [Rare.]\n{{smaller block|Metals which we cannot ''base''. {{right|''Bacon.''}}}}\n\n¶\n'''base<sup>2</sup>''' (bās), ''n.'' [< ME. ''base'', ''bas'', ''baas'', < OF. ''base'', F. ''base'', < L. ''basis'', < Gr. βάσις, a going, a stepping, a step, pedestal, foot, base, < √ *βα, in βαίνειν, go, = L. ''venire'', come, = E. ''come''.] '''1.''' The bottom of anything, considered as its support, or the part of the thing itself, or a separate feature, on which the thing stands or rests: as, the ''base'' of a column; the ''base'' of a mountain.\n{{smaller block|<poem>For want like thine — a bog without a ''base'' —\nIngulfs all gains I gather for the place. ''Crabbe.''</poem>\n<poem>Against the ''bases'' of the southern hills.</poem>\n{{right|''Lowell'', Under the Willows.}}}}\nHence — '''2.''' A fundamental principle or groundwork; foundation; basis.\n{{smaller block|<poem>Antonio never yet was thief, or pirate,\nThough, I confess, on ''base'' and ground enough,\nOrsino’s enemy. ''Shak.'', T. N., v. 1.</poem>\nHereby he undermineth the ''base'' of religion.\n{{right|''Sir T. Browne'', Vulg. Err.}}}}\n'''3.''' In ''arch.'', specifically — (''a'') The lowest member of a wall, either projecting beyond the face of the portion of the wall above it, or differing otherwise from it in construction, and often resting on a plinth, with or without intervening moldings. (''b'') The member on which",
+   "c1s2": "[[FIGURE]]\n{{c|{{smaller|Bases.}}}}\n{{c|{{smaller|1, from nave of Lyons cathedral, 13th century; 2, from eastern porch of Erechtheum, Athens, 5th century {{sc|b. c.}}; 3, from nave of Orvieto cathedral, 13th century. 4, Attic base: ''A'', ''C'', ''E'', fillets; ''B'', upper torus; ''D'', scotia; ''F'', lower torus; ''G'', plinth, or stylobate.}}}}\nthe shaft rests in columns of nearly all styles. {{smaller|It appears in most Egyptian forms, but is not present in the Greek Doric column, of which the shaft rests directly on the stylobate. In purely Hellenic examples of the Ionic and Corinthian the base consists of various combinations of moldings on a circular plan, without the awkward square plinth which was universally adopted by the Romans, and was generally retained in the elaborately molded bases of Byzantine and medieval architecture. See cut under ''column''.}}",
+   "c1s3": "'''4.''' (''a'') In ''zoöl.'' and ''bot.'', the extremity opposite to the apex; the point of attachment, or the part of an organ which is nearest its point of attachment: as, the ''base'' of a leaf; the ''base'' of a shell. The point of attachment of an anther, however, is sometimes at the apex. (''b'') In ''zoöl.'', also, that part or extremity of anything by which it is attached to another of higher value or significance.—'''5.''' In ''chem.'', a compound substance which unites with an acid to form a salt.\n{{smaller block|The term is applied to the hydroxids of the metals, to certain metallic oxids, and to groups of atoms containing one or more hydroxyl groups (OH) in which hydrogen is replaceable by an acid radical.}}\n'''6.''' In ''phar.'', the principal ingredient of any compound preparation.—'''7.''' In ''crystal.'', same as ''basal plane'' (which see, under ''basal'').—'''8.''' In ''petrog.'', the amorphous or isotropic portion of the ground-mass of a rock. {{smaller|This may possess a certain amount of structure, rendering it distinct from glass, while not crystalline, when it is known as a ''microfelsitic base''. If a true glass, it may be, according to the amount of devitrification products present, ''microlitic'', ''globulitic'', or ''glassy''. In some recent andesitic lavas it possesses a peculiar appearance, so similar to felt that it is known as a ''felt-like base''. The term ''magma'' (which see) has also been used by some writers as equivalent to ''base''.}}\n'''9.''' In ''dentistry'', the setting for artificial teeth.—'''10.''' In ''dyeing'', a substance that has an affinity for both the cloth and the coloring matter; a mordant.—'''11.''' In ''fort.'', the exterior side of the polygon, or that imaginary line which is drawn from the point or salient angle of one bastion to the point of the next.—'''12.''' In ''geom.'', the line or surface forming that part of a figure",
+   "c2s1": "on which it is supposed to stand; the side opposite to the apex. {{smaller|The base of a hyperbola or a parabola is a line formed by the common intersection of the secant plane and the base of the cone.}}\n\n'''13.''' In ''arith.'' and ''algebra'', a number from the different powers of which all numbers are conceived as produced. {{smaller|The base of a system of arithmetical notation is a number the multiples of whose powers are added together to express any number; thus, 10 is the base of the decimal system of arithmetic. In the theory of numbers, the base of an index is a number which, being raised to the power represented by the index, gives a number congruent to the number whose index is spoken of. The base of a system of logarithms is the number which, raised to the power indicated by the logarithm, gives the number to which the logarithm belongs. The ''Napierian base'', or base of the Napierian system of logarithms, is the number represented by the infinite series,}}\n{{block center|<math>1 + 1 + \\tfrac{1}{2} + \\frac{1}{2.3} + \\frac{1}{2.3.4} + \\frac{1}{2.3.4.5} + \\text{etc.}</math>}}\n{{smaller|It is 2.718281828459 +}}\n\n'''14.''' In ''her.'', the lower part of the field, the charges in which are said to be ''in base.'' {{smaller|It is sometimes considered as divided into dexter, sinister, and middle base, and the charges are blazoned accordingly. See ''dexter'' and ''sinister''.}}\n\n'''15.''' ''Milit.'': (''a'') A tract of country protected by fortifications, strong by natural advantages, or for any other reason comparatively secure, from which the operations of an army proceed, or from which supplies are obtained: called distinctively the ''base of operations'' or the ''base of supply''.\n{{smaller block|''Base'', in military operations, is simply a secure starting-point, or rather tract of country behind, in which an army is in comparative safety, and in which the stores and reserves of men for the force are situated.\n{{right|''Saturday Rev.''}}}}",
+   "c2s2": "(''b'') The rounded hinder portion of a gun, generally called the ''base of the breech.'' (''c'') A small light cannon used in the sixteenth and seventeenth centuries.—'''16.''' In ''surv.'', same as ''base-line.''—'''17.''' The place from which racers or tilters start; a starting-post.\n{{smaller block|To their appointed ''base'' they went.\n{{right|''Dryden'', Æneid, v.}}}}\n'''18.''' An old game, played in various ways, in some of which it is still practised, and in all of which there are certain spaces marked out, beyond or off which any player is liable to be touched with the hand or struck with a ball by a player on the enemy’s side. {{smaller|Forms of this game are known under the names of ''prisoners’ base'', ''rounders'', and ''base-ball'', under which last name it has become the national game of the United States.}}\n{{smaller block|After a course at Barley-break or ''Base.''\n{{right|''B. Jonson'', Sad Shepherd, i. 2.}}}}\n'''19.''' One of the spaces marked off in the game of base or prisoners’ base. See 18.—'''20.''' In ''base-ball'', one of the four corners of the diamond. See ''base-ball.''—'''21.''' That part of an electromagnetic apparatus which contains the helix, switch, and first and secondary binding-posts. {{smaller|—'''Altern base, Attic base,''' etc. See the adjectives.—'''Organic bases.''' See ''organic.''—'''Prisoners’ base.''' See ''prisoner.''—'''To bid the''' or '''a base†''', to challenge to a game of base, and hence, from the popularity of the game, to challenge to a trial of dexterity, skill, or strength, or to a trial of any kind; challenge generally.}}\n{{smaller block|''To bid'' the wind ''a base'' he now prepares.\n{{right|''Shak.'', Venus and Adonis, l. 303.}}}}\n{{smaller block|<poem>We will find comfort, money, men, and friends,\nEre long ''to bid'' the English king ''a base.''</poem>\n{{right|''Marlowe'', Edw. II., ii.}}}}",
+   "c2s3": "¶\n'''base<sup>2</sup>''' (bās), ''v. t.''; pret. and pp. ''based'', ppr. ''basing''. [< ''base''<sup>2</sup>, ''n.''] '''1.''' To form a foundation for. [Rare.] —'''2.''' To use as a groundwork or foundation for; ground; found; establish: with ''on'' or ''upon'': as, all sound paper currency must be ''based on'' coin or bullion; he ''bases'' his arguments ''upon'' false premises.\n{{smaller block|It is ''on'' the understanding, and not ''on'' the sentiment, of a nation that all safe legislation must be ''based''.\n{{right|''Lowell'', Study Windows, p. 165.}}}}\n\n'''base<sup>3</sup>''' (bās), ''n.'' Another form of ''bass''<sup>1</sup> and ''barse''. [Local Eng. (Cumberland).]\n\n'''base-bag''' (bās′bag), ''n.'' In ''base-ball'', one of the bags often used to mark first, second, and third base.\n\n'''base-ball''' (bās′bâl′), ''n.'' '''1.''' A game of ball played by eighteen persons, nine on a side. {{smaller|A square plot of ground called the diamond, with sides 90 feet long, is marked off, at the corners of which are the bases, known as ''home'' or ''home base'' (B), ''first base'' (D), ''second base'' (E), and ''third base'' (F). The players on one side take their positions in the field, the ''catcher'' (A) just behind the home base, the ''pitcher'' (C) at a distance of 60 feet from the home base on the line from home to second base, the three ''basemen'' near first, second, and third base, the ''shortstop'' (G) between second and third, and three ''fielders'', known as ''right'' (H), ''center'' (I), and ''left'' (J), at some distance behind and on each side of the second base. The pitcher pitches the ball over the home plate to the catcher. One of the other side, which is said to be ''in'', or ''at the bat'', takes a position by the home base, and tries to strike the ball as it passes him. If he knocks it into the air, and one}}",
+   "c3s1": "{{smaller block|of the other side catches it before it reaches the ground, the striker is ''out'' or ''caught out'', that is, retires from the bat, and another takes his place. Should the ball pass\n[[FIGURE]]\noutside the line from home to first or from home to third base continued indefinitely, it is a ''foul'', and does not count at all, unless it is caught before it touches the ground, in which case the striker is out. Should it strike inside these lines, the batter runs to first base, and then or later to second, third, and home base. If he reaches home base he scores a ''run''. Should the ball be thrown to and caught by a player standing on first base before the batter succeeds in reaching it, or should the batter be touched with the ball in the hands of any of his adversaries while running from one base to another, he is out. One player after another of the side which is “in” goes to the bat until three men have been put out. This constitutes an ''inning''. Nine innings for each side make a game, and that side which succeeds in making the greater number of runs wins the game.}}\n'''2.''' The ball with which this game is played.\n\n'''base-board''' (bās′bōrd), ''n.'' A line of boarding around the interior walls of a room, next to the floor.\n\n'''base-born''' (bās′bôrn), ''a.'' Of base or low birth; born out of wedlock; of low or mean parentage or origin; spurious.",
+   "c3s2": "¶\n{{smaller block|Thy ''base-born'' child, thy babe of shame. {{right|''Gay.''}}}}\n{{smaller block|It is justly expected that they should bring forth a ''base-born'' issue of divinity. {{right|''Milton'', Def. of Humb. Remonst.}}}}\n\n'''base-bred''' (bās′bred), ''a.'' Of low or base breeding; mean; of discreditable origin.\n{{smaller block|As little souls their ''base-bred'' fancies feed. {{right|''J. Baillie.''}}}}\n\n'''base-broom''' (bās′bröm), ''n.'' A name given to ''Genista tinctoria'', with reference to its low stature.\n\n'''base-burner''' (bās′bėr″nėr), ''n.'' A stove or furnace constructed on the base-burning principle.\n\n'''base-burning''' (bās′bėr″ning), ''a.'' Burning at the base.—{{smaller|'''Base-burning furnace''' or '''stove''', a furnace or stove in which the fuel burns at the bottom, and is renewed from a self-acting hopper or chamber above.}}\n\n'''base-court''' (bās′kōrt), ''n.'' '''1.''' A secondary or inferior court or yard, generally at the back of a house, opposed to the chief court or main quadrangle; a farm-yard.—'''2.''' In ''Eng. law'', an inferior court of justice, but a court of record, as a court-baron, court-leet, etc.\n\n'''based†''' (bāst), ''a.'' [< ''base''<sup>1</sup>, ''n.'', + ''-ed''<sup>2</sup>.] Wearing or clothed in a base or skirt.\n{{smaller block|''Based'' in lawny velvet. {{right|''Hall'', Hen. VIII., an. 6.}}}}\n\n'''base-dance''' (bās′dȧns), ''n.'' A slow dance in ¾ time, resembling the minuet.\n{{smaller block|When the said Morris is doone, then the gentillmen to com unto the women and make their obeisaunce, and every of them to taike oon by thand, and daunce suche ''base daunces'' as is apointed theym.\n{{right|Quoted in ''J. P. Collier’s'' Eng. Dram. Poetry, I., notes.}}}}\n\n'''Basedow’s disease.''' See ''disease.''\n\n'''base-hearted''' (bās′här″ted), ''a.'' Having a base,",
+   "c3s3": "treacherous heart; deceitful.\n\n'''baselard†''', ''n.'' Same as ''baslard.''\n\n'''baseless''' (bās′les), ''a.'' [< ''base''<sup>2</sup> + ''-less.''] Without a base; having no foundation or support.\n{{smaller block|<poem>Like the ''baseless'' fabric of this vision,\nThe cloud-capp’d towers, the gorgeous palaces,\nThe solemn temples, the great globe itself,\nYea, all which it inherit, shall dissolve;\nAnd, like this insubstantial pageant faded,\nLeave not a rack behind.</poem>\n{{right|''Shak.'', Tempest, iv. 1.}}}}\n\n'''baselessness''' (bās′les-nes), ''n.'' The quality of being baseless, or without foundation; groundlessness.\n\n'''base-level''' (bās′lev-e̤l), ''n.'' In ''geol.'', the level at which the erosive action of a stream, in a given area, ceases.\n\n'''base-line''' (bās′līn), ''n.'' '''1.''' A line adopted as a base or foundation from which future operations are carried on, or on which they depend or rest. {{smaller|(''a'') In ''perspect.'', the bottom line of a picture, in which the foremost vertical plane of delineation cuts the ground-plane, on which the objects represented in the picture stand. (''b'') In ''surv.'', any measured line forming a side of a triangle, the adjacent angles of which being measured, the relative position of the third vertex is determined; especially, in ''geodesy'', a line measured with the utmost precision to serve as the origin of a system of triangles, and as the foundation for the computation of the length of their sides. In the process of triangulation, the angles of these triangles and the length of a single side (the base or base-line) being known, the lengths of all can be computed. In every great survey a number of base-lines are measured, each being from 3 to 10 miles in length.}}"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0489 c1f1.png",
+   "c3f1": "century v01 p0489 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     108,
+     1189,
+     726,
+     1839
+    ],
+    "caption": [
+     88,
+     1851,
+     803,
+     1957
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     91,
+     1171,
+     675,
+     1853
+    ]
+   },
+   {
+    "box": [
+     1901,
+     284,
+     2283,
+     864
+    ],
+    "caption": null,
+    "column": 3,
+    "inset": true,
+    "page_box": [
+     1844,
+     269,
+     2282,
+     878
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 3,
+    "input_tokens": 5891,
+    "output_tokens": 145,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 10,
+    "input_tokens": 9373,
+    "output_tokens": 8316,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c3f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|base|463|base-line}}</noinclude>'''2.''' To lower in character, condition, or rank; degrade; debase.—'''3.''' To reduce the value of by the admixture of meaner elements; debase. [Rare.]\n{{smaller block|Metals which we cannot ''base''. {{right|''Bacon.''}}}}\n\n'''base<sup>2</sup>''' (bās), ''n.''   [< ME. ''base'', ''bas'', ''baas'', < OF. ''base'', F. ''base'', < L. ''basis'', < Gr. βάσις, a going, a stepping, a step, pedestal, foot, base, < √ *βα, in βαίνειν, go, = L. ''venire'', come, = E. ''come''.]   '''1.''' The bottom of anything, considered as its support, or the part of the thing itself, or a separate feature, on which the thing stands or rests: as, the ''base'' of a column; the ''base'' of a mountain.\n{{smaller block|<poem>For want like thine — a bog without a ''base'' —\nIngulfs all gains I gather for the place. ''Crabbe.''</poem>\n<poem>Against the ''bases'' of the southern hills.</poem>\n{{right|''Lowell'', Under the Willows.}}}}\nHence — '''2.''' A fundamental principle or groundwork; foundation; basis.\n{{smaller block|<poem>Antonio never yet was thief, or pirate,\nThough, I confess, on ''base'' and ground enough,\nOrsino’s enemy. ''Shak.'', T. N., v. 1.</poem>\nHereby he undermineth the ''base'' of religion.\n{{right|''Sir T. Browne'', Vulg. Err.}}}}\n'''3.''' In ''arch.'', specifically — (''a'') The lowest member of a wall, either projecting beyond the face of the portion of the wall above it, or differing otherwise from it in construction, and often resting on a plinth, with or without intervening moldings. (''b'') The member on which the shaft rests in columns of nearly all styles. {{smaller|It appears in most Egyptian forms, but is not present in the Greek Doric column, of which the shaft rests directly on the stylobate. In purely Hellenic examples of the Ionic and Corinthian the base consists of various combinations of moldings on a circular plan, without the awkward square plinth which was universally adopted by the Romans, and was generally retained in the elaborately molded bases of Byzantine and medieval architecture. See cut under ''column''.}} '''4.''' (''a'') In ''zoöl.'' and ''bot.'', the extremity opposite to the apex; the point of attachment, or the part of an organ which is nearest its point of attachment: as, the ''base'' of a leaf; the ''base'' of a shell. The point of attachment of an anther, however, is sometimes at the apex. (''b'') In ''zoöl.'', also, that part or extremity of anything by which it is attached to another of higher value or significance.—'''5.''' In ''chem.'', a compound substance which unites with an acid to form a salt.\n{{smaller block|The term is applied to the hydroxids of the metals, to certain metallic oxids, and to groups of atoms containing one or more hydroxyl groups (OH) in which hydrogen is replaceable by an acid radical.}}\n'''6.''' In ''phar.'', the principal ingredient of any compound preparation.—'''7.''' In ''crystal.'', same as ''basal plane'' (which see, under ''basal'').—'''8.''' In ''petrog.'', the amorphous or isotropic portion of the ground-mass of a rock. {{smaller|This may possess a certain amount of structure, rendering it distinct from glass, while not crystalline, when it is known as a ''microfelsitic base''. If a true glass, it may be, according to the amount of devitrification products present, ''microlitic'', ''globulitic'', or ''glassy''. In some recent andesitic lavas it possesses a peculiar appearance, so similar to felt that it is known as a ''felt-like base''. The term ''magma'' (which see) has also been used by some writers as equivalent to ''base''.}}\n'''9.''' In ''dentistry'', the setting for artificial teeth.—'''10.''' In ''dyeing'', a substance that has an affinity for both the cloth and the coloring matter; a mordant.—'''11.''' In ''fort.'', the exterior side of the polygon, or that imaginary line which is drawn from the point or salient angle of one bastion to the point of the next.—'''12.''' In ''geom.'', the line or surface forming that part of a figure on which it is supposed to stand; the side opposite to the apex. {{smaller|The base of a hyperbola or a parabola is a line formed by the common intersection of the secant plane and the base of the cone.}}\n\n[[File:century v01 p0489 c1f1.png|center|312px]]\n{{c|{{smaller|Bases.}}}}\n{{c|{{smaller|1, from nave of Lyons cathedral, 13th century; 2, from eastern porch of Erechtheum, Athens, 5th century {{sc|b. c.}}; 3, from nave of Orvieto cathedral, 13th century. 4, Attic base: ''A'', ''C'', ''E'', fillets; ''B'', upper torus; ''D'', scotia; ''F'', lower torus; ''G'', plinth, or stylobate.}}}}\n\n'''13.''' In ''arith.'' and ''algebra'', a number from the different powers of which all numbers are conceived as produced. {{smaller|The base of a system of arithmetical notation is a number the multiples of whose powers are added together to express any number; thus, 10 is the base of the decimal system of arithmetic. In the theory of numbers, the base of an index is a number which, being raised to the power represented by the index, gives a number congruent to the number whose index is spoken of. The base of a system of logarithms is the number which, raised to the power indicated by the logarithm, gives the number to which the logarithm belongs. The ''Napierian base'', or base of the Napierian system of logarithms, is the number represented by the infinite series,}}\n{{block center|<math>1 + 1 + \\tfrac{1}{2} + \\frac{1}{2.3} + \\frac{1}{2.3.4} + \\frac{1}{2.3.4.5} + \\text{etc.}</math>}}\n{{smaller|It is 2.718281828459 +}}\n\n'''14.''' In ''her.'', the lower part of the field, the charges in which are said to be ''in base.'' {{smaller|It is sometimes considered as divided into dexter, sinister, and middle base, and the charges are blazoned accordingly. See ''dexter'' and ''sinister''.}}\n\n'''15.''' ''Milit.'': (''a'') A tract of country protected by fortifications, strong by natural advantages, or for any other reason comparatively secure, from which the operations of an army proceed, or from which supplies are obtained: called distinctively the ''base of operations'' or the ''base of supply''.\n{{smaller block|''Base'', in military operations, is simply a secure starting-point, or rather tract of country behind, in which an army is in comparative safety, and in which the stores and reserves of men for the force are situated.\n{{right|''Saturday Rev.''}}}} (''b'') The rounded hinder portion of a gun, generally called the ''base of the breech.'' (''c'') A small light cannon used in the sixteenth and seventeenth centuries.—'''16.''' In ''surv.'', same as ''base-line.''—'''17.''' The place from which racers or tilters start; a starting-post.\n{{smaller block|To their appointed ''base'' they went.\n{{right|''Dryden'', Æneid, v.}}}}\n'''18.''' An old game, played in various ways, in some of which it is still practised, and in all of which there are certain spaces marked out, beyond or off which any player is liable to be touched with the hand or struck with a ball by a player on the enemy’s side. {{smaller|Forms of this game are known under the names of ''prisoners’ base'', ''rounders'', and ''base-ball'', under which last name it has become the national game of the United States.}}\n{{smaller block|After a course at Barley-break or ''Base.''\n{{right|''B. Jonson'', Sad Shepherd, i. 2.}}}}\n'''19.''' One of the spaces marked off in the game of base or prisoners’ base. See 18.—'''20.''' In ''base-ball'', one of the four corners of the diamond. See ''base-ball.''—'''21.''' That part of an electromagnetic apparatus which contains the helix, switch, and first and secondary binding-posts. {{smaller|—'''Altern base, Attic base,''' etc. See the adjectives.—'''Organic bases.''' See ''organic.''—'''Prisoners’ base.''' See ''prisoner.''—'''To bid the''' or '''a base†''', to challenge to a game of base, and hence, from the popularity of the game, to challenge to a trial of dexterity, skill, or strength, or to a trial of any kind; challenge generally.}}\n{{smaller block|''To bid'' the wind ''a base'' he now prepares.\n{{right|''Shak.'', Venus and Adonis, l. 303.}}}}\n{{smaller block|<poem>We will find comfort, money, men, and friends,\nEre long ''to bid'' the English king ''a base.''</poem>\n{{right|''Marlowe'', Edw. II., ii.}}}}\n\n'''base<sup>2</sup>''' (bās), ''v. t.''; pret. and pp. ''based'', ppr. ''basing''.   [< ''base''<sup>2</sup>, ''n.'']   '''1.''' To form a foundation for. [Rare.] —'''2.''' To use as a groundwork or foundation for; ground; found; establish: with ''on'' or ''upon'': as, all sound paper currency must be ''based on'' coin or bullion; he ''bases'' his arguments ''upon'' false premises.\n{{smaller block|It is ''on'' the understanding, and not ''on'' the sentiment, of a nation that all safe legislation must be ''based''.\n{{right|''Lowell'', Study Windows, p. 165.}}}}\n\n'''base<sup>3</sup>''' (bās), ''n.'' Another form of ''bass''<sup>1</sup> and ''barse''. [Local Eng. (Cumberland).]\n\n'''base-bag''' (bās′bag), ''n.'' In ''base-ball'', one of the bags often used to mark first, second, and third base.\n\n'''base-ball''' (bās′bâl′), ''n.'' '''1.''' A game of ball played by eighteen persons, nine on a side. {{smaller|A square plot of ground called the diamond, with sides 90 feet long, is marked off, at the corners of which are the bases, known as ''home'' or ''home base'' (B), ''first base'' (D), ''second base'' (E), and ''third base'' (F). The players on one side take their positions in the field, the ''catcher'' (A) just behind the home base, the ''pitcher'' (C) at a distance of 60 feet from the home base on the line from home to second base, the three ''basemen'' near first, second, and third base, the ''shortstop'' (G) between second and third, and three ''fielders'', known as ''right'' (H), ''center'' (I), and ''left'' (J), at some distance behind and on each side of the second base. The pitcher pitches the ball over the home plate to the catcher. One of the other side, which is said to be ''in'', or ''at the bat'', takes a position by the home base, and tries to strike the ball as it passes him. If he knocks it into the air, and one of the other side catches it before it reaches the ground, the striker is ''out'' or ''caught out'', that is, retires from the bat, and another takes his place. Should the ball pass {{img float|file=century v01 p0489 c3f1.png|width=191px|align=right|cap=}} outside the line from home to first or from home to third base continued indefinitely, it is a ''foul'', and does not count at all, unless it is caught before it touches the ground, in which case the striker is out. Should it strike inside these lines, the batter runs to first base, and then or later to second, third, and home base. If he reaches home base he scores a ''run''. Should the ball be thrown to and caught by a player standing on first base before the batter succeeds in reaching it, or should the batter be touched with the ball in the hands of any of his adversaries while running from one base to another, he is out. One player after another of the side which is “in” goes to the bat until three men have been put out. This constitutes an ''inning''. Nine innings for each side make a game, and that side which succeeds in making the greater number of runs wins the game.}}\n'''2.''' The ball with which this game is played.\n\n'''base-board''' (bās′bōrd), ''n.'' A line of boarding around the interior walls of a room, next to the floor.\n\n'''base-born''' (bās′bôrn), ''a.'' Of base or low birth; born out of wedlock; of low or mean parentage or origin; spurious.\n\n{{smaller block|Thy ''base-born'' child, thy babe of shame. {{right|''Gay.''}}}}\n{{smaller block|It is justly expected that they should bring forth a ''base-born'' issue of divinity. {{right|''Milton'', Def. of Humb. Remonst.}}}}\n\n'''base-bred''' (bās′bred), ''a.'' Of low or base breeding; mean; of discreditable origin.\n{{smaller block|As little souls their ''base-bred'' fancies feed. {{right|''J. Baillie.''}}}}\n\n'''base-broom''' (bās′bröm), ''n.'' A name given to ''Genista tinctoria'', with reference to its low stature.\n\n'''base-burner''' (bās′bėr″nėr), ''n.'' A stove or furnace constructed on the base-burning principle.\n\n'''base-burning''' (bās′bėr″ning), ''a.'' Burning at the base.—{{smaller|'''Base-burning furnace''' or '''stove''', a furnace or stove in which the fuel burns at the bottom, and is renewed from a self-acting hopper or chamber above.}}\n\n'''base-court''' (bās′kōrt), ''n.'' '''1.''' A secondary or inferior court or yard, generally at the back of a house, opposed to the chief court or main quadrangle; a farm-yard.—'''2.''' In ''Eng. law'', an inferior court of justice, but a court of record, as a court-baron, court-leet, etc.\n\n'''based†''' (bāst), ''a.''   [< ''base''<sup>1</sup>, ''n.'', + ''-ed''<sup>2</sup>.]   Wearing or clothed in a base or skirt.\n{{smaller block|''Based'' in lawny velvet. {{right|''Hall'', Hen. VIII., an. 6.}}}}\n\n'''base-dance''' (bās′dȧns), ''n.'' A slow dance in ¾ time, resembling the minuet.\n{{smaller block|When the said Morris is doone, then the gentillmen to com unto the women and make their obeisaunce, and every of them to taike oon by thand, and daunce suche ''base daunces'' as is apointed theym.\n{{right|Quoted in ''J. P. Collier’s'' Eng. Dram. Poetry, I., notes.}}}}\n\n'''Basedow’s disease.''' See ''disease.''\n\n'''base-hearted''' (bās′här″ted), ''a.'' Having a base, treacherous heart; deceitful.\n\n'''baselard†''', ''n.'' Same as ''baslard.''\n\n'''baseless''' (bās′les), ''a.''   [< ''base''<sup>2</sup> + ''-less.'']   Without a base; having no foundation or support.\n{{smaller block|<poem>Like the ''baseless'' fabric of this vision,\nThe cloud-capp’d towers, the gorgeous palaces,\nThe solemn temples, the great globe itself,\nYea, all which it inherit, shall dissolve;\nAnd, like this insubstantial pageant faded,\nLeave not a rack behind.</poem>\n{{right|''Shak.'', Tempest, iv. 1.}}}}\n\n'''baselessness''' (bās′les-nes), ''n.'' The quality of being baseless, or without foundation; groundlessness.\n\n'''base-level''' (bās′lev-e̤l), ''n.'' In ''geol.'', the level at which the erosive action of a stream, in a given area, ceases.\n\n'''base-line''' (bās′līn), ''n.'' '''1.''' A line adopted as a base or foundation from which future operations are carried on, or on which they depend or rest. {{smaller|(''a'') In ''perspect.'', the bottom line of a picture, in which the foremost vertical plane of delineation cuts the ground-plane, on which the objects represented in the picture stand. (''b'') In ''surv.'', any measured line forming a side of a triangle, the adjacent angles of which being measured, the relative position of the third vertex is determined; especially, in ''geodesy'', a line measured with the utmost precision to serve as the origin of a system of triangles, and as the foundation for the computation of the length of their sides. In the process of triangulation, the angles of these triangles and the length of a single side (the base or base-line) being known, the lengths of all can be computed. In every great survey a number of base-lines are measured, each being from 3 to 10 miles in length.}}<noinclude><references/></noinclude>"
+}

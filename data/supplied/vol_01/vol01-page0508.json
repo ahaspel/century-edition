@@ -1,0 +1,233 @@
+{
+ "volume": 1,
+ "page_number": 508,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n507.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n507.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 744,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     102,
+     118,
+     2320,
+     154
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     102,
+     154,
+     847,
+     1200
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     102,
+     1200,
+     847,
+     2271
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     102,
+     2271,
+     847,
+     3267
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     589,
+     2313,
+     822,
+     3079
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     847,
+     154,
+     1592,
+     1243
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     847,
+     1243,
+     1592,
+     1770
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     847,
+     1770,
+     1592,
+     2862
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     847,
+     2862,
+     1592,
+     3267
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1592,
+     154,
+     2320,
+     1010
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1592,
+     1010,
+     2320,
+     2030
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1592,
+     2030,
+     2320,
+     3042
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1592,
+     3042,
+     2320,
+     3267
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|bay|482|bayard}}",
+   "c1s1": "plural, with reference to the leaves or branches of laurel. Also called ''bay-leaf''.\n{{smaller block|<poem>Yet as you hope hereafter to see plays,\nEncourage us, and give our poet ''bays''.</poem>\n{{right|''Beau. and Fl.'', Thierry and Theodoret, Epil.}}}}\n{{smaller block|<poem>I play’d to please myself, on rustick reed,\nNor sought for ''bay'', the learned shepherd’s meed.</poem>\n{{right|''W. Browne'', Britannia’s Pastorals, i. 1.}}}}\n{{smaller block|[In the following quotation, the office of poet laureate: formerly a not uncommon use.}}\n{{smaller block|<poem>If you needs must write, write Cæsar’s praise.\nYou’ll gain at least a knighthood, or the ''bays''.</poem>\n{{right|''Pope'', Imit. of Horace, Satire i. 22.}}}}\n{{smaller block|''Bays'' was sometimes used as a singular (compare ''bays'', ''baize'', as singular).}}\n{{smaller block|<poem>Do plant a sprig of cypress, not of ''bays''.</poem>\n{{right|''Robert Randolph''.}}}}\n{{smaller block|<poem>A greener ''bays'' shall crown Ben Jonson’s name.</poem>\n{{right|''Feltham'', Jonsonus Virbius.]}}}}\n'''4.''' [Cf. ''bay''<sup>2</sup>.] A piece of low, marshy ground producing large numbers of bay-trees. [N. Carolina and Florida.] ''Bartlett''.{{smaller|—'''Bull-bay''', the ''Magnolia grandiflora''.—'''Cherry-bay''', ''Prunus Laurocerasus''.—'''Dwarf bay''', of Europe, the ''Daphne Laureola''.—'''Indian''' or '''royal bay''', ''Laurus Indica''.—'''Loblolly-bay''', or '''tan-bay''', the ''Gordonia Lasianthus''.—'''Red bay''', the ''Persea Carolinensis''.—'''Rose-bay''', a name given (''a'') to the willow-herb, ''Epilobium angustifolium''; (''b'') in the United States, to the great laurel, ''Rhododendron maximum''.—'''Sweet-bay.''' See above, 2.—'''Sweet-bay''', or '''white bay''', of the United States, the ''Magnolia glauca''.}}\n\n¶\n'''bay'''<sup>2</sup> (bā), ''n.'' [Early mod. E. also ''baye'', < ME. ''baye'', < OF. ''baie'', ''baye'', mod. F. ''baie'' = Pr. ''baia'' = Sp. ''bahia'', formerly also ''baia'', ''baya'' (> Basque ''baia'', ''baiya''), = Pg. ''bahia'' = It. ''baja'' (cf. G. ''bai'', < D. ''baai'', MD. ''baeye'' = Dan. ''bai'', < E. ''bay''<sup>2</sup>), < LL.",
+   "c1s2": "''baia'', a bay, first mentioned by Isidore, and said to have its gen. in ''-as'', implying its existence at a much earlier period; perhaps connected with L. ''Baiæ'', pl., a noted watering-place on the coast of Campania, hence applied also to any watering-place. ''Bay'' in this sense has been confused in E. and Rom. with ''bay''<sup>3</sup>.] '''1.''' A recess in the shore of a sea or lake, differing from a ''creek'' in being less long and narrow; the expanse of water between two capes or headlands.\n{{smaller block|The sea winding, and breaking in ''bays'' into the land.\n{{right|''Gray'', Letters, I. 265.}}}}\n'''2†.''' An anchorage or roadstead for ships; a port; a harbor.\n{{smaller block|A ''bay'' or rode for ships. {{right|''Cotgrave.''}}\n<poem>I prithee, good Iago,\nGo to the ''bay'', and disembark my coffers.</poem>\n{{right|''Shak.'', Othello, ii. 1.}}}}\n'''3.''' A recess of land, as in a range of hills; a level space partly surrounded by heights. [Rare.]—'''4.''' An arm of a prairie extending into woods and partly surrounded by them. [U. S.] ''Bartlett.''—'''5.''' A kind of mahogany obtained from Campeachy Bay (whence the name).\n\n'''bay'''<sup>3</sup> (bā), ''n.'' [Early mod. E. also ''baye'', ''baie'', < ME. ''bay'', ''baye'', < OF. ''baee'', an opening, gap, mod. F. ''baie'', a bay (< ML. as if *''badata''), on type of fem. pp., < ''baer'', ''beer'', ''bayer'', mod. F. ''bayer'', < LL. ''badare'', gape (cf. E. ''gap'', ''n.'', ''gape'', ''v.''): see ''bay''<sup>4</sup>. This word has been confused with ''bay''<sup>2</sup>.] '''1.''' A principal compartment or division in the architectural arrangement of a",
+   "c1s3": "building, marked by buttresses or pilasters on\n[[FIGURE]]\n{{c|{{smaller|Architectural Bays.—Nave of Notre Dame, Dijon. ''F, C, A'', bays; ''F, F'', window-bays; ''C'', triforium; ''A'', arch of aisle. (From Viollet-le-Duc’s “Dict. de l’Architecture.”)}}}}\nthe walls, by the disposition of the main ribs (arcs doubleaux) of the interior vaulting, by the placing of the main arches and pillars or of the principals of the roof, or by any other leading features that separate the design into corresponding parts. ''Oxford Glossary.''—'''2.''' The part of a window included between two mullions; a light. Also called ''window-bay.''—'''3.''' A bay-window.\n{{smaller block|Some ladies walking with me, seeing my father sitting at his singular writing establishment in the ''bay'', went in through his glorified windows, and established themselves round his table.\n{{right|''Lady Holland'', Sydney Smith, vii.}}}}\n'''4.''' A compartment in a barn for the storage of hay or grain.—'''5.''' In ''carp.'', a portion of a compound or framed floor included between two girders, or between a girder and the wall.—'''6.''' In ''plastering'', the space between two screeds. See ''screed''.—'''7.''' ''Naut.'', that part of a ship between decks which lies forward of the bitts,",
+   "c2s1": "on either side; in a ship of war, the foremost messing-place between decks. See ''sick-bay''.—'''8.''' In ''bridge-building'', the portion between two piers.—'''9.''' In ''coal-mining'': (''a'') An open space for the gob or waste in a long-wall working. (''b'') The space between two frames or sets in a level: synonymous with ''board''. [Leicestershire, Eng.]—'''Bay of joists''', {{smaller|the joists between two binding-joists, or between two girders, in a framed floor.}}—'''Bay of roofing''', {{smaller|the small rafters and their supporting purlins between two principal rafters.}}\n\n'''bay<sup>4</sup>†''' (bā), ''v. i.'' [< OF. ''bayer'', ''beer'', ''baer'', gape, < LL. ''badare'', mod. F. ''bayer'', dial. ''bader'' = Pr. ''badar'' = Cat. ''badar'' = It. ''badare'', < LL. ''badare'', gape, be open. Cf. ''bay''<sup>3</sup> and ''bay''<sup>5</sup>.] To open the mouth, as for food; seek with open mouth.\n{{smaller block|''Bayer à la mamelle'', to seeke or ''baye'' for the dugge.\n{{right|''Hollyband'', Treasurie of the French Tongue.}}}}\n\n'''bay<sup>5</sup>''' (bā), ''v.'' [Early mod. E. also ''baye'', < ME. ''bayen'', < OF. ''bayer'' = It. ''bajare'' (also in comp., ME. ''abayen'', < OF. ''abayer'', ''abaier'', ''abbayer'', mod. F. ''aboyer'' = It. ''abbajare''), bark; of uncertain origin, perhaps imitative (cf. E. ''bawl''<sup>1</sup>, bark, L. ''baubari'', ML. ''baulare'', G. ''bailen'', bark, and E. ''baw''<sup>2</sup>, ''bow-wow''), but prob. associated in earlier use with OF. ''baer'', ''beer'', ''bayer'' = It. ''badare'', < LL. ''badare'', gape: see ''bay''<sup>4</sup>, and cf. ''bay''<sup>5</sup>, ''n.'', in which the two notions unite. In some senses the verb is from the noun.] '''I.''' ''intrans.'' To bark, as a dog; especially, to bark with a deep prolonged sound, as hounds in the chase.\n{{smaller block|The hounds at nearer distance hoarsely ''bayed''.\n{{right|''Dryden'', Theodore and Honoria, l. 279.}}}}",
+   "c2s2": "¶\n'''II.''' ''trans.'' '''1.''' To bark at; beset with deep prolonged barking.\n{{smaller block|<poem>I had rather be a dog, and ''bay'' the moon,\nThan such a Roman.</poem>\n{{right|''Shak.'', J. C., iv. 3.}}}}\n'''2.''' To express by barking.\n{{smaller block|<poem>’Tis sweet to hear the watch-dog’s honest bark\n''Bay'' deep-mouthed welcome as we draw near home.</poem>\n{{right|''Byron'', Don Juan, i. 123.}}}}\n'''3.''' To drive or pursue so as to compel to stand at bay; chase or hunt.\n{{smaller block|<poem>They ''bay’d'' the bear\nWith hounds of Sparta.</poem>\n{{right|''Shak.'', M. N. D., iv. 1.}}}}\n'''4.''' To hold at bay.\n{{smaller block|<poem>For we are at the stake,\nAnd ''bay’d'' about with many enemies.</poem>\n{{right|''Shak.'', J. C., iv. 1.}}}}",
+   "c2s3": "¶\n'''bay<sup>5</sup>''' (bā), ''n.'' [Early mod. E. also ''baye, beye'', < ME. ''bay, baie'', of different origin, according as it stands (''a'') for ''bay'', a barking, < ''bay'', ME. ''bayen'', bark; (''b'') by apheresis for ''abay'', < OF. ''abai, abay, abbay, aboy'', mod. F. ''aboi'', a barking, < ''abayer'', bark (see ''bay''<sup>5</sup>, ''v.''), esp. in the phrase ''to be'' or ''stand at bay'' (or ''at a bay'', which is perhaps always to be read ''at abay''), ''to bring to bay''; (''c'') in the phrase ''to hold at bay'', repr. OF. ''tenir a bay'', It. ''tenere a bada'', hold in suspense or expectation, lit. on the gape: OF. ''bay'' (= It. ''bada''), suspense, lit. gaping, < ''baer'' = It. ''badare'', gape, a verb prob. in part connected with ''bay''<sup>5</sup>, bark: see above.] '''1.''' The deep-toned barking of a dog in pursuit of game; especially, the barking of a pack of hounds.—'''2.''' The state of being so hard pressed, as a hunted animal by dogs and hunters, as to be compelled, from impossibility of escape, to turn and face the danger: with ''at'' or ''to'': as, to be ''at bay'', stand ''at bay'', hold ''at bay'' (formerly also ''at a bay''), bring ''to bay'', etc.: often used figuratively, in these and other constructions, with reference to persons beset by enemies or held at a disadvantage: strait; distress.\n{{smaller block|<poem>Unhappy Squire! what hard mishap thee brought\nInto this ''bay'' of perill and disgrace?</poem>\n{{right|''Spenser'', F. Q., VI. i. 12.}}\n<poem>Nor flight was left, nor hopes to force his way:\nEmboldened by despair, he stood ''at bay''.</poem>\n{{right|''Dryden.''}}}}\n'''3.''' The state of being kept off by the bold attitude of an opponent; the state of being prevented by an enemy, or by any kind of resistance, from making further advance: with ''at''.",
+   "c2s4": "¶\n{{smaller block|We have now, for ten years together, turned the whole force and expense of the war where the enemy was best able to hold us ''at bay.'' {{right|''Swift.''}}\n<poem>The barriers which they builded from the soil\nTo keep the foe ''at bay.''</poem>\n{{right|''Bryant'', The Prairies.}}}}\n\n'''bay'''<sup>6</sup> (bā), ''a.'' and ''n.'' [I. ''a.'' Early mod. E. also ''baye, baie,'' < ME. ''bay, baye,'' < OF. ''bai,'' mod. F. ''bai'' = Pr. ''bai'' = Sp. ''bayo'' = Pg. ''baio'' = It. ''bajo,'' < L. ''badius'' (> E. ''badious''), bay, in ref. to a color of horses. II. ''n.'' 1. Rarely in sing. ''bay'' (= D. ''baai'' = MLG. ''baie,'' LG. ''baje'' (> G. ''boi'') = Dan. ''bai'' = Sw. ''boi''), usually in pl. ''bays,'' early mod. E. ''bayes, baies, baize'' (whence the mod. sing.",
+   "c3s1": "baize'', q. v.), < OF. ''baies'', pl. of ''baie'', fem. of ''bai'', adj.] '''I.''' ''a.'' Reddish or brownish-red, inclining to chestnut; rufous; badious; castaneous: applied most frequently to horses, but also to other animals displaying the same color.\n\n'''II.''' ''n.'' '''1†.''' A light woolen fabric (originally of a bay color), the manufacture of which was introduced into England in 1561 by refugees from France and the Netherlands: usually in plural ''bays'', now, as singular, ''baize'' (which see). —'''2.''' A bay horse.\n{{smaller block|<poem>The ploughman stopped to gaze\nWhene’er his chariot swept in view\nBehind the shining ''bays''.</poem>\n{{right|''O. W. Holmes'', Agnes.}}}}\n\n¶\n'''bay'''<sup>7</sup> (bā), ''n.'' [Origin uncertain; the ME. “''bay'', or withstondynge, ''obstaculum'',” may possibly be a use of ''bay''<sup>5</sup> in ''to stand at bay'', etc.: see ''bay''<sup>7</sup>, ''v.''] A dam; a pond-head; an embankment. [Eng.]\n\n'''bay'''<sup>7</sup> (bā), ''v. t.'' [Perhaps from the related noun (''bay''<sup>7</sup>), or, as the source of that, < Icel. ''bægja'', push back, hinder, < ''bāgr'', opposition, collision; cf. ''fara i bāg'', come athwart.] To dam: as, to ''bay'' back the water.\n\n'''bay'''<sup>8</sup> (bā), ''n.'' [Short for ''bay-antler''.] The bay-antler or bez-antler of a stag.",
+   "c3s2": "¶\n'''bay'''<sup>9</sup> (bā), ''v. t.'' [E. dial., < ME. ''beien'', ''beighen'', ''beiȝen'', ''bien'', ''buyen'', ''buȝen'', < AS. ''bēgan'', ''biégan'', ''bīgan'', ''bȳgan'' (= OFries. ''bēja'' = MD. ''boghen'' = MLG. ''bogen'' = OHG. ''bougen'', MHG. ''böugen'', G. ''beugen'' = Icel. ''beygja'' = Sw. ''böja'' = Dan. ''böje'' = Goth. ''baugjan''), trans. bend, causative of ''būgan'' (= Goth. ''biugan'', etc.), E. ''bow''<sup>1</sup>, intrans. bend: see ''bow''<sup>1</sup>, and cf. ''bail''<sup>1</sup>.] To bend. [Prov. Eng.]\n\n'''bay'''<sup>10</sup>'''†''', ''v.'' [Only in Spenser, who also uses ''embay'' for ''embathe'', in most instances for the sake of rime.] A poetical perversion of ''bathe''.\n{{smaller block|Hee feedes upon the cooling shade, and ''bayes''<br>His sweatie forehead in the breathing wynd.\n{{right|''Spenser'', F. Q., I. vii. 3.}}}}\n\n'''baya''' (bā′yä), ''n.'' [Hind.] The weaver-bird, ''Ploceus philippinus'', an East Indian passerine bird, somewhat like the bulfinch, remarkable for its extremely curious nest. See ''weaver-bird''.\n\n'''baya-bird''', ''n.'' Same as ''baya''.\n\n'''bayadere''', '''bayadeer''' (ba-ya-dēr′), ''n.'' [Also spelled ''bajadere'' (< F. ''bayadère''); formerly ''balliadere'', ''balliadera'', < Pg. ''bailadeira'' (fem. of ''bailador'' = Sp. ''bailador''), a dancer, < ''bailar'' = Sp. ''bailar'', dance: see ''ball''<sup>2</sup>.] An East Indian dancing girl.\n\n'''bayal''' (bā′a̤l), ''n.'' A fine kind of cotton. ''Simmonds''.\n\n'''bayamo''' (bä-yä′mō), ''n.'' [Cuban.] A violent blast of wind, accompanied by vivid lightning, blowing from the land on the south coast of",
+   "c3s3": "Cuba, and especially from the Bight of Bayamo.\n\n'''bay-antler''', ''n.'' See ''bez-antler.''\n\n'''bayard'''<sup>1</sup> (bā′ärd), ''a.'' and ''n.'' [Early mod. E. also ''bayerd, baiard, bayart,'' < ME. ''bayard, bayart,'' < OF. ''bayard, baiard, baiart'' (= Pr. ''baiart''), bay, a bay horse, < ''bai,'' bay: see ''bay''<sup>6</sup> and ''-ard.'' The adj. came to be a general appellative of a bay horse, esp. of Renaud’s (Rinaldo’s) magic steed in the Charlemagne romances; later of any horse, esp. in alliterative proverbial use, ''bold bayard, blind bayard,'' often with reference to reckless or stupid persons, perhaps associated in the latter sense with OF. ''bayard,'' gaping, staring, one who gapes or gazes, < ''bayer, baer,'' gape, gaze: see ''bay''<sup>4</sup>.] '''I.†''' ''a.'' Bay; of a bay color: applied to a horse.\n\n'''II.''' ''n.'' '''1.''' A bay horse; generally, any horse: formerly frequent in proverbial use, especially with the epithet ''blind'' or ''bold.''\n{{smaller block|Blind ''bayard'' moves the mill.\n{{right|''Philips.''}}\nWho so bold as blind ''bayard?''\n{{right|''Proverbial saying.''}}}}\n'''2.''' A person who is self-confident and ignorant: usually with the epithet ''blind'' or ''bold.''\n{{smaller block|<poem>The more we know, the more we know we want:\nWhat ''Bayard'' boulder then the ignorant?</poem>\n{{right|''Marston,'' What you Will, Ind.}}\nPhillip the second, late king of Spain, perceiving that many Blind ''Bayards'' were overbold to undertake the working of his mines of silver in the West Indies, etc.\n{{right|''Gerard Malynes,'' Lex Mercatoria (1622), p. 189.}}\nWhat are most of our papists, but stupid, ignorant and blind ''bayards?''\n{{right|''Burton,'' Anat. of Mel., p. 609.}}}}",
+   "c3s4": "¶\n[Obsolete or archaic in all uses.]\n\n'''bayard'''<sup>2</sup>†, ''n.'' [< OF. ''baiard'', ''bayart'', a basket used for the carrying of earth and fastened about the neck; perhaps a fanciful application of ''bayard'', a horse: see ''bayard''<sup>1</sup>.] A kind of hand-barrow used for carrying heavy loads, especially of stones."
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0508 c1f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     601,
+     2325,
+     810,
+     3067
+    ],
+    "caption": [
+     607,
+     3075,
+     832,
+     3261
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     602,
+     2289,
+     835,
+     3069
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "1": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4447,
+    "output_tokens": 94,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9504,
+    "output_tokens": 9952,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c1f1": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|bay|482|bayard}}</noinclude>plural, with reference to the leaves or branches of laurel. Also called ''bay-leaf''.\n{{smaller block|<poem>Yet as you hope hereafter to see plays,\nEncourage us, and give our poet ''bays''.</poem>\n{{right|''Beau. and Fl.'', Thierry and Theodoret, Epil.}}}}\n{{smaller block|<poem>I play’d to please myself, on rustick reed,\nNor sought for ''bay'', the learned shepherd’s meed.</poem>\n{{right|''W. Browne'', Britannia’s Pastorals, i. 1.}}}}\n{{smaller block|[In the following quotation, the office of poet laureate: formerly a not uncommon use.}}\n{{smaller block|<poem>If you needs must write, write Cæsar’s praise.\nYou’ll gain at least a knighthood, or the ''bays''.</poem>\n{{right|''Pope'', Imit. of Horace, Satire i. 22.}}}}\n{{smaller block|''Bays'' was sometimes used as a singular (compare ''bays'', ''baize'', as singular).}}\n{{smaller block|<poem>Do plant a sprig of cypress, not of ''bays''.</poem>\n{{right|''Robert Randolph''.}}}}\n{{smaller block|<poem>A greener ''bays'' shall crown Ben Jonson’s name.</poem>\n{{right|''Feltham'', Jonsonus Virbius.]}}}}\n'''4.''' [Cf. ''bay''<sup>2</sup>.] A piece of low, marshy ground producing large numbers of bay-trees. [N. Carolina and Florida.] ''Bartlett''.{{smaller|—'''Bull-bay''', the ''Magnolia grandiflora''.—'''Cherry-bay''', ''Prunus Laurocerasus''.—'''Dwarf bay''', of Europe, the ''Daphne Laureola''.—'''Indian''' or '''royal bay''', ''Laurus Indica''.—'''Loblolly-bay''', or '''tan-bay''', the ''Gordonia Lasianthus''.—'''Red bay''', the ''Persea Carolinensis''.—'''Rose-bay''', a name given (''a'') to the willow-herb, ''Epilobium angustifolium''; (''b'') in the United States, to the great laurel, ''Rhododendron maximum''.—'''Sweet-bay.''' See above, 2.—'''Sweet-bay''', or '''white bay''', of the United States, the ''Magnolia glauca''.}}\n\n'''bay'''<sup>2</sup> (bā), ''n.''   [Early mod. E. also ''baye'', < ME. ''baye'', < OF. ''baie'', ''baye'', mod. F. ''baie'' = Pr. ''baia'' = Sp. ''bahia'', formerly also ''baia'', ''baya'' (> Basque ''baia'', ''baiya''), = Pg. ''bahia'' = It. ''baja'' (cf. G. ''bai'', < D. ''baai'', MD. ''baeye'' = Dan. ''bai'', < E. ''bay''<sup>2</sup>), < LL. ''baia'', a bay, first mentioned by Isidore, and said to have its gen. in ''-as'', implying its existence at a much earlier period; perhaps connected with L. ''Baiæ'', pl., a noted watering-place on the coast of Campania, hence applied also to any watering-place. ''Bay'' in this sense has been confused in E. and Rom. with ''bay''<sup>3</sup>.]   '''1.''' A recess in the shore of a sea or lake, differing from a ''creek'' in being less long and narrow; the expanse of water between two capes or headlands.\n{{smaller block|The sea winding, and breaking in ''bays'' into the land.\n{{right|''Gray'', Letters, I. 265.}}}}\n'''2†.''' An anchorage or roadstead for ships; a port; a harbor.\n{{smaller block|A ''bay'' or rode for ships. {{right|''Cotgrave.''}}}}\n{{smaller block|<poem>I prithee, good Iago,\nGo to the ''bay'', and disembark my coffers.</poem>\n{{right|''Shak.'', Othello, ii. 1.}}}}\n'''3.''' A recess of land, as in a range of hills; a level space partly surrounded by heights. [Rare.]—'''4.''' An arm of a prairie extending into woods and partly surrounded by them. [U. S.] ''Bartlett.''—'''5.''' A kind of mahogany obtained from Campeachy Bay (whence the name).\n\n'''bay'''<sup>3</sup> (bā), ''n.''   [Early mod. E. also ''baye'', ''baie'', < ME. ''bay'', ''baye'', < OF. ''baee'', an opening, gap, mod. F. ''baie'', a bay (< ML. as if *''badata''), on type of fem. pp., < ''baer'', ''beer'', ''bayer'', mod. F. ''bayer'', < LL. ''badare'', gape (cf. E. ''gap'', ''n.'', ''gape'', ''v.''): see ''bay''<sup>4</sup>. This word has been confused with ''bay''<sup>2</sup>.]   '''1.''' A principal compartment or division in the architectural arrangement of a building, marked by buttresses or pilasters on {{img float|file=century v01 p0508 c1f1.png|width=113px|align=right|cap={{smaller|Architectural Bays.—Nave of Notre Dame, Dijon. ''F, C, A'', bays; ''F, F'', window-bays; ''C'', triforium; ''A'', arch of aisle. (From Viollet-le-Duc’s “Dict. de l’Architecture.”)}}}} the walls, by the disposition of the main ribs (arcs doubleaux) of the interior vaulting, by the placing of the main arches and pillars or of the principals of the roof, or by any other leading features that separate the design into corresponding parts.   ''Oxford Glossary.''—'''2.''' The part of a window included between two mullions; a light. Also called ''window-bay.''—'''3.''' A bay-window.\n{{smaller block|Some ladies walking with me, seeing my father sitting at his singular writing establishment in the ''bay'', went in through his glorified windows, and established themselves round his table.\n{{right|''Lady Holland'', Sydney Smith, vii.}}}}\n'''4.''' A compartment in a barn for the storage of hay or grain.—'''5.''' In ''carp.'', a portion of a compound or framed floor included between two girders, or between a girder and the wall.—'''6.''' In ''plastering'', the space between two screeds. See ''screed''.—'''7.''' ''Naut.'', that part of a ship between decks which lies forward of the bitts, on either side; in a ship of war, the foremost messing-place between decks. See ''sick-bay''.—'''8.''' In ''bridge-building'', the portion between two piers.—'''9.''' In ''coal-mining'': (''a'') An open space for the gob or waste in a long-wall working. (''b'') The space between two frames or sets in a level: synonymous with ''board''. [Leicestershire, Eng.]—'''Bay of joists''', {{smaller|the joists between two binding-joists, or between two girders, in a framed floor.}}—'''Bay of roofing''', {{smaller|the small rafters and their supporting purlins between two principal rafters.}}\n\n'''bay<sup>4</sup>†''' (bā), ''v. i.''   [< OF. ''bayer'', ''beer'', ''baer'', gape, < LL. ''badare'', mod. F. ''bayer'', dial. ''bader'' = Pr. ''badar'' = Cat. ''badar'' = It. ''badare'', < LL. ''badare'', gape, be open. Cf. ''bay''<sup>3</sup> and ''bay''<sup>5</sup>.]   To open the mouth, as for food; seek with open mouth.\n{{smaller block|''Bayer à la mamelle'', to seeke or ''baye'' for the dugge.\n{{right|''Hollyband'', Treasurie of the French Tongue.}}}}\n\n'''bay<sup>5</sup>''' (bā), ''v.''   [Early mod. E. also ''baye'', < ME. ''bayen'', < OF. ''bayer'' = It. ''bajare'' (also in comp., ME. ''abayen'', < OF. ''abayer'', ''abaier'', ''abbayer'', mod. F. ''aboyer'' = It. ''abbajare''), bark; of uncertain origin, perhaps imitative (cf. E. ''bawl''<sup>1</sup>, bark, L. ''baubari'', ML. ''baulare'', G. ''bailen'', bark, and E. ''baw''<sup>2</sup>, ''bow-wow''), but prob. associated in earlier use with OF. ''baer'', ''beer'', ''bayer'' = It. ''badare'', < LL. ''badare'', gape: see ''bay''<sup>4</sup>, and cf. ''bay''<sup>5</sup>, ''n.'', in which the two notions unite. In some senses the verb is from the noun.]   '''I.''' ''intrans.'' To bark, as a dog; especially, to bark with a deep prolonged sound, as hounds in the chase.\n{{smaller block|The hounds at nearer distance hoarsely ''bayed''.\n{{right|''Dryden'', Theodore and Honoria, l. 279.}}}}\n\n'''II.''' ''trans.'' '''1.''' To bark at; beset with deep prolonged barking.\n{{smaller block|<poem>I had rather be a dog, and ''bay'' the moon,\nThan such a Roman.</poem>\n{{right|''Shak.'', J. C., iv. 3.}}}}\n'''2.''' To express by barking.\n{{smaller block|<poem>’Tis sweet to hear the watch-dog’s honest bark\n''Bay'' deep-mouthed welcome as we draw near home.</poem>\n{{right|''Byron'', Don Juan, i. 123.}}}}\n'''3.''' To drive or pursue so as to compel to stand at bay; chase or hunt.\n{{smaller block|<poem>They ''bay’d'' the bear\nWith hounds of Sparta.</poem>\n{{right|''Shak.'', M. N. D., iv. 1.}}}}\n'''4.''' To hold at bay.\n{{smaller block|<poem>For we are at the stake,\nAnd ''bay’d'' about with many enemies.</poem>\n{{right|''Shak.'', J. C., iv. 1.}}}}\n\n'''bay<sup>5</sup>''' (bā), ''n.''   [Early mod. E. also ''baye, beye'', < ME. ''bay, baie'', of different origin, according as it stands (''a'') for ''bay'', a barking, < ''bay'', ME. ''bayen'', bark; (''b'') by apheresis for ''abay'', < OF. ''abai, abay, abbay, aboy'', mod. F. ''aboi'', a barking, < ''abayer'', bark (see ''bay''<sup>5</sup>, ''v.''), esp. in the phrase ''to be'' or ''stand at bay'' (or ''at a bay'', which is perhaps always to be read ''at abay''), ''to bring to bay''; (''c'') in the phrase ''to hold at bay'', repr. OF. ''tenir a bay'', It. ''tenere a bada'', hold in suspense or expectation, lit. on the gape: OF. ''bay'' (= It. ''bada''), suspense, lit. gaping, < ''baer'' = It. ''badare'', gape, a verb prob. in part connected with ''bay''<sup>5</sup>, bark: see above.]   '''1.''' The deep-toned barking of a dog in pursuit of game; especially, the barking of a pack of hounds.—'''2.''' The state of being so hard pressed, as a hunted animal by dogs and hunters, as to be compelled, from impossibility of escape, to turn and face the danger: with ''at'' or ''to'': as, to be ''at bay'', stand ''at bay'', hold ''at bay'' (formerly also ''at a bay''), bring ''to bay'', etc.: often used figuratively, in these and other constructions, with reference to persons beset by enemies or held at a disadvantage: strait; distress.\n{{smaller block|<poem>Unhappy Squire! what hard mishap thee brought\nInto this ''bay'' of perill and disgrace?</poem>\n{{right|''Spenser'', F. Q., VI. i. 12.}}}}\n{{smaller block|<poem>Nor flight was left, nor hopes to force his way:\nEmboldened by despair, he stood ''at bay''.</poem>\n{{right|''Dryden.''}}}}\n'''3.''' The state of being kept off by the bold attitude of an opponent; the state of being prevented by an enemy, or by any kind of resistance, from making further advance: with ''at''.\n\n{{smaller block|We have now, for ten years together, turned the whole force and expense of the war where the enemy was best able to hold us ''at bay.'' {{right|''Swift.''}}}}\n<poem>The barriers which they builded from the soil\nTo keep the foe ''at bay.''</poem>\n{{smaller block|{{right|''Bryant'', The Prairies.}}}}\n\n'''bay'''<sup>6</sup> (bā), ''a.'' and ''n.''   [I. ''a.'' Early mod. E. also ''baye, baie,'' < ME. ''bay, baye,'' < OF. ''bai,'' mod. F. ''bai'' = Pr. ''bai'' = Sp. ''bayo'' = Pg. ''baio'' = It. ''bajo,'' < L. ''badius'' (> E. ''badious''), bay, in ref. to a color of horses. II. ''n.'' 1. Rarely in sing. ''bay'' (= D. ''baai'' = MLG. ''baie,'' LG. ''baje'' (> G. ''boi'') = Dan. ''bai'' = Sw. ''boi''), usually in pl. ''bays,'' early mod. E. ''bayes, baies, baize'' (whence the mod. sing. baize'', q. v.), < OF. ''baies'', pl. of ''baie'', fem. of ''bai'', adj.]   '''I.''' ''a.'' Reddish or brownish-red, inclining to chestnut; rufous; badious; castaneous: applied most frequently to horses, but also to other animals displaying the same color.\n\n'''II.''' ''n.'' '''1†.''' A light woolen fabric (originally of a bay color), the manufacture of which was introduced into England in 1561 by refugees from France and the Netherlands: usually in plural ''bays'', now, as singular, ''baize'' (which see). —'''2.''' A bay horse.\n{{smaller block|<poem>The ploughman stopped to gaze\nWhene’er his chariot swept in view\nBehind the shining ''bays''.</poem>\n{{right|''O. W. Holmes'', Agnes.}}}}\n\n'''bay'''<sup>7</sup> (bā), ''n.''   [Origin uncertain; the ME. “''bay'', or withstondynge, ''obstaculum'',” may possibly be a use of ''bay''<sup>5</sup> in ''to stand at bay'', etc.: see ''bay''<sup>7</sup>, ''v.'']   A dam; a pond-head; an embankment. [Eng.]\n\n'''bay'''<sup>7</sup> (bā), ''v. t.''   [Perhaps from the related noun (''bay''<sup>7</sup>), or, as the source of that, < Icel. ''bægja'', push back, hinder, < ''bāgr'', opposition, collision; cf. ''fara i bāg'', come athwart.]   To dam: as, to ''bay'' back the water.\n\n'''bay'''<sup>8</sup> (bā), ''n.''   [Short for ''bay-antler''.]   The bay-antler or bez-antler of a stag.\n\n'''bay'''<sup>9</sup> (bā), ''v. t.''   [E. dial., < ME. ''beien'', ''beighen'', ''beiȝen'', ''bien'', ''buyen'', ''buȝen'', < AS. ''bēgan'', ''biégan'', ''bīgan'', ''bȳgan'' (= OFries. ''bēja'' = MD. ''boghen'' = MLG. ''bogen'' = OHG. ''bougen'', MHG. ''böugen'', G. ''beugen'' = Icel. ''beygja'' = Sw. ''böja'' = Dan. ''böje'' = Goth. ''baugjan''), trans. bend, causative of ''būgan'' (= Goth. ''biugan'', etc.), E. ''bow''<sup>1</sup>, intrans. bend: see ''bow''<sup>1</sup>, and cf. ''bail''<sup>1</sup>.]   To bend. [Prov. Eng.]\n\n'''bay'''<sup>10</sup>'''†''', ''v.''   [Only in Spenser, who also uses ''embay'' for ''embathe'', in most instances for the sake of rime.]   A poetical perversion of ''bathe''.\n{{smaller block|<poem>Hee feedes upon the cooling shade, and ''bayes''\nHis sweatie forehead in the breathing wynd.</poem>\n{{right|''Spenser'', F. Q., I. vii. 3.}}}}\n\n'''baya''' (bā′yä), ''n.''   [Hind.]   The weaver-bird, ''Ploceus philippinus'', an East Indian passerine bird, somewhat like the bulfinch, remarkable for its extremely curious nest. See ''weaver-bird''.\n\n'''baya-bird''', ''n.'' Same as ''baya''.\n\n'''bayadere''', '''bayadeer''' (ba-ya-dēr′), ''n.''   [Also spelled ''bajadere'' (< F. ''bayadère''); formerly ''balliadere'', ''balliadera'', < Pg. ''bailadeira'' (fem. of ''bailador'' = Sp. ''bailador''), a dancer, < ''bailar'' = Sp. ''bailar'', dance: see ''ball''<sup>2</sup>.]   An East Indian dancing girl.\n\n'''bayal''' (bā′a̤l), ''n.'' A fine kind of cotton.   ''Simmonds''.\n\n'''bayamo''' (bä-yä′mō), ''n.''   [Cuban.]   A violent blast of wind, accompanied by vivid lightning, blowing from the land on the south coast of Cuba, and especially from the Bight of Bayamo.\n\n'''bay-antler''', ''n.'' See ''bez-antler.''\n\n'''bayard'''<sup>1</sup> (bā′ärd), ''a.'' and ''n.''   [Early mod. E. also ''bayerd, baiard, bayart,'' < ME. ''bayard, bayart,'' < OF. ''bayard, baiard, baiart'' (= Pr. ''baiart''), bay, a bay horse, < ''bai,'' bay: see ''bay''<sup>6</sup> and ''-ard.'' The adj. came to be a general appellative of a bay horse, esp. of Renaud’s (Rinaldo’s) magic steed in the Charlemagne romances; later of any horse, esp. in alliterative proverbial use, ''bold bayard, blind bayard,'' often with reference to reckless or stupid persons, perhaps associated in the latter sense with OF. ''bayard,'' gaping, staring, one who gapes or gazes, < ''bayer, baer,'' gape, gaze: see ''bay''<sup>4</sup>.]   '''I.†''' ''a.'' Bay; of a bay color: applied to a horse.\n\n'''II.''' ''n.'' '''1.''' A bay horse; generally, any horse: formerly frequent in proverbial use, especially with the epithet ''blind'' or ''bold.''\n{{smaller block|Blind ''bayard'' moves the mill.\n{{right|''Philips.''}}}}\n{{smaller block|Who so bold as blind ''bayard?''\n{{right|''Proverbial saying.''}}}}\n'''2.''' A person who is self-confident and ignorant: usually with the epithet ''blind'' or ''bold.''\n{{smaller block|<poem>The more we know, the more we know we want:\nWhat ''Bayard'' boulder then the ignorant?</poem>\n{{right|''Marston,'' What you Will, Ind.}}}}\n{{smaller block|Phillip the second, late king of Spain, perceiving that many Blind ''Bayards'' were overbold to undertake the working of his mines of silver in the West Indies, etc.\n{{right|''Gerard Malynes,'' Lex Mercatoria (1622), p. 189.}}}}\n{{smaller block|What are most of our papists, but stupid, ignorant and blind ''bayards?''\n{{right|''Burton,'' Anat. of Mel., p. 609.}}}}\n\n[Obsolete or archaic in all uses.]\n\n'''bayard'''<sup>2</sup>†, ''n.''   [< OF. ''baiard'', ''bayart'', a basket used for the carrying of earth and fastened about the neck; perhaps a fanciful application of ''bayard'', a horse: see ''bayard''<sup>1</sup>.]   A kind of hand-barrow used for carrying heavy loads, especially of stones.<noinclude><references/></noinclude>"
+}

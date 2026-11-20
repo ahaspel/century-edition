@@ -1,0 +1,207 @@
+{
+ "volume": 1,
+ "page_number": 555,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n554.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n554.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 744,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     74,
+     131,
+     2294,
+     169
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     74,
+     169,
+     822,
+     1208
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     74,
+     1208,
+     822,
+     2281
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     74,
+     2281,
+     822,
+     3296
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     822,
+     169,
+     1564,
+     1261
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     822,
+     1261,
+     1564,
+     2303
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     822,
+     2303,
+     1564,
+     3296
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1564,
+     169,
+     2294,
+     1222
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1564,
+     1222,
+     2294,
+     2279
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1564,
+     2279,
+     2294,
+     3296
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1609,
+     2765,
+     2294,
+     3243
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|bergall|529|Bernicla}}",
+   "c1s1": "¶\n'''bergall''' (bėr′gâl), ''n.'' [Also written ''burgall'', var. of ''bergell'', ''bergle'', q. v.] The cunner or blueperch, a very common New England fish, ''Ctenolabrus adspersus.'' See ''burgall'', and cut under ''cunner.''\n\n'''Bergamask''' (bėr′ga-mȧsk), ''a.'' and ''n.'' [< It. ''Bergamasco'', adj., < ''Bergamo'', a town in Italy. Cf. ''bergamot''<sup>1</sup>.] '''I.''' ''a.'' Of or pertaining to the city or province of Bergamo in northern Italy, or the district of Bergamasca: as, ''Bergamask'' traditions; the ''Bergamask'' Alps; “a ''Bergomask'' dance,” ''Shak.'', M. N. D., v. 1.\n\n'''II.''' ''n.'' '''1.''' An inhabitant of Bergamo or Bergamasca.\n{{smaller block|A gibe at the poverty of the ''Bergamasks'', among whom, moreover, the extremes of stupidity and cunning are most usually found, according to the popular notion in Italy.\n{{right|''Howells'', Venetian Life, v.}}}}\n'''2.''' [= F. ''bergamasque.''] A rustic dance in imitation of the people of Bergamasca, who were ridiculed as clownish in manners and speech.\n\n'''bergamot'''<sup>1</sup> (bėr′gạ-mot), ''n.'' [Formerly also ''burgamot'', ''burgemott'', ''bourgamot'', appar. < ''Bergamo'', a town in Italy. Cf. ''bergamot''<sup>2</sup>.] '''1.''' A variety of the lime or lemon, ''Citrus medica'', with a very aromatic rind, from which, either by mechanical means or by distillation, the volatile oil of bergamot (known in trade as ''essence of bergamot'') is obtained. The essence is a product chiefly of southern Italy, and is much employed in perfumery.—'''2.''' The popular name of several labiate plants, as in England of ''Mentha citrata'', and in the United States of",
+   "c1s2": "Monarda fistulosa'' and ''M. didyma''.—'''3.''' A kind of snuff perfumed with bergamot.\n{{smaller block|Gives the nose its ''bergamot''.{{right|''Cowper'', Task, ii.}}}}\n'''4.''' A coarse tapestry manufactured from flocks of wool, silk, cotton, hemp, and from the hair of oxen and goats, said to have been made originally at Bergamo.\n\n'''bergamot'''<sup>2</sup> (bėr′ga̤-mot), ''n.'' [< F. ''bergamote'', < It. ''bergamotto'', appar. a perversion, simulating a connection with ''Bergamo'', a town in Italy (cf. ''bergamot''<sup>1</sup>), of Turk. ''begarmūdi'', lit. (like the G. name ''fürstenbirne'') prince’s pear, < ''beg'', a prince (see ''bey''<sup>2</sup>), + ''armūd'', a pear.] A variety of pear.\n\n'''bergander''' (bėr′gan-dėr), ''n.'' [Early mod. E. also ''birgander'', ''burgander'', appar. < ME. ''berge'', a burrow (see ''berry''<sup>3</sup>, ''burrow''<sup>2</sup>), + ''gander'' (i. e., ''burrow-gander;'' cf. its other name, ''burrow-duck''). Cf. D. ''bergeend'' = NFries. ''bargaand'' = MLG. ''berchant'' = G. ''bergente'', lit. ‘hill-duck,’ G. ''erdgans'', lit. ‘earth-goose.’] A name of the sheldrake or burrow-duck, ''Tadorna vulpanser''. See ''sheldrake''.\n\n'''bergell''', ''n.'' See ''bergle''.\n\n'''berger†''', ''n.'' [Appar. < F. ''bergère'', a négligé style of dressing the hair.] A lock of hair worn long, and with the end curled, by ladies in the time of Charles II.\n\n'''Bergerac''' (bėr′je-rak; F. pron. berzh-rak′), ''n.'' '''1.''' A red wine of good quality, made in the department of Dordogne in southwestern France, in the vicinity of the town of Bergerac.\n{{smaller block|It is seldom in the market under its own name, but is exported from Bordeaux, and confounded with claret. It is very popular throughout central France.}}\n'''2.''' A white wine from the same district, gen-",
+   "c1s3": "erally very sweet and of a high flavor.—'''3.''' A dry wine not unlike Barsac.\n\n¶\n'''bergeret†''', ''n.'' [OF., < ''berger'', a shepherd, < ML. ''berbicarius'', a shepherd, < ''berbex'', L. ''vervex'', a wether.] A pastoral or rustic song or dance. Also ''bargeret'', ''bargaret''.\n{{smaller block|<poem>There began anon\nA lady for to singe right womanly\nA ''bargaret'' in praising the daisie.</poem>\n{{right|''Flower and Leaf'', l. 348.}}}}\n\n'''bergh†''', ''n.'' [Cf. ''bargh''; obsolete form (after Scand.) of ''barrow''<sup>1</sup>, a hill.] A hill.\n\n'''berglax''' (bėrg′laks), ''n.'' [Norw. ''berglax'', ''berglaks'', lit. rock-salmon (= Dan. ''bjerglax'', the common hake), < ''berg'' = Sw. ''berg'', Dan. ''bjerg'', a hill, rock, + Norw. Sw. Dan. ''lax'' = AS. ''leax'' = G. ''lachs'', salmon.] The Norwegian name of a gadoid fish, ''Coryphænoides norvegicus'', of the family ''Macruridæ''.\n\n'''bergle''' (bėr′gl), ''n.'' [Also written ''bergell'', ''bergill'' (and ''bergall'', ''burgall'', q. v.), appar. a var. of ''bergylt'', q. v.] A name in the Shetland islands of the ballan-wrasse, ''Labrus maculatus''.\n\n'''bergmanite''' (bėrg′man-īt), ''n.'' [< T. O. ''Bergman'', a Swedish mineralogist (1735–84), + ''-ite''<sup>2</sup>.] A variety of the zeolite natrolite. {{smaller|It occurs massive and fibrous in the zirconsyenite of Brevig in Norway. Its colors are greenish, grayish-white, and red.}}\n\n'''bergmaster''' (bėrg′mȧs″tėr), ''n.'' [After G. ''bergmeister'': see ''barmaster''.] Same as ''barmaster''.\n\n'''bergmehl''' (bėrg′māl), ''n.'' [G., < ''berg'' = E. ''barrow''<sup>1</sup>, a mountain, + ''mehl'' = E. ''meal''<sup>2</sup>.] Moun-",
+   "c2s1": "tain-meal or fossil farina, a geological deposit in the form of an extremely fine powder, consisting almost entirely of the silicious frustules or cell-walls of diatoms. {{smaller|It has been eaten in Lapland in seasons of great scarcity, mixed with ground corn and bark.}}\n\n'''bergmote''' (bėrg′mōt), ''n.'' Same as ''barmote.''\n\n'''bergy''' (bėr′gi), ''a.'' [< ''berg''<sup>2</sup> + ''-y''<sup>1</sup>.] '''1.''' Full of bergs or icebergs.—'''2.''' Resembling or of the nature of a berg.\n{{smaller block|A considerable ''bergy'' mass of ice.\n{{right|''C. F. Hall'', Polar Expedition, p. 266.}}}}\n\n'''bergylt''' (bėr′gilt), ''n.'' [Also written ''berguylt'' (see also ''bergle, bergall, burgall''); < Norw. ''berggylta'', dial. ''berggalt'', appar. < ''berg'', cliff, precipice, hill, + ''gylta'' = Icel. ''gylta'' and ''gyltr'', a sow.] A name in Shetland of the rose-fish, ''Sebastes marinus'', a fish of the family ''Scorpænidæ''. Also called ''Norwegian haddock''. See cut under ''Sebastes''.\n\n'''berhyme,''' ''v. t.'' See ''berime''.\n\n'''beriberi''' (ber′i-ber-i), ''n.'' [Singhalese; an intensive redupl. of ''beri'', weakness.] A disease characterized by anemia, muscular and sensory paralysis, more or less pain, general dropsical symptoms, effusion into the serous cavities, and dyspnœa on exertion. {{smaller|Hydropic and dry forms are distinguished by the presence or absence of dropsy. It may be acute, or subacute, or chronic. It does not appear to be contagious, though it infects localities. Beriberi occurs in India and adjacent countries, is frequent in Japan under the name of ''kakke'', and seems to be identical with the “sleeping sickness” of the west coast of Africa. It is said to occur in South America also.}}\n\n'''Beridæ''' (ber′i-dē), ''n. pl.'' [NL., < ''Beri''(''d''-)''s'' +",
+   "c2s2": "''-idæ.''] A family of tetrachætous or tanystomatous brachycerous ''Diptera'', represented by such genera as ''Beris'', ''Xylophagus'', etc. Also called ''Xylophagidæ''.\n\n'''beridel†''', ''n.'' [Origin obscure.] A garment of linen, worn in Ireland in the reign of Henry VIII. ''Planché.''\n\n'''berigora''' (ber-i-gō′rạ̈), ''n.'' A name of an Australian falcon, the berigora hawk, ''Hieracidea'' (or ''Ieracidea'') ''berigora''.\n\n'''berime''' (bẹ̄-rīm′), ''v. t.'' [< ''be-''<sup>1</sup> + ''rime''<sup>1</sup>.] To celebrate in rime or verse. Also ''berhyme''.\n{{smaller block|She had a better love to ''berime'' [as in old editions] her.\n{{right|''Shak.'', R. and J., ii. 4.}}}}\n\n'''beringed''' (bẹ̄-ringd′), ''a.'' [< ''be-''<sup>1</sup> + ''ringed''.] Supplied or surrounded with rings.\n{{smaller block|A curiously ''beringed'' disc [Saturn].\n{{right|''E. F. Burr'', Ecce Cœlum, p. 99.}}}}\n\n'''Beris''' (ber′is), ''n.'' [NL.] The typical genus of the family ''Beridæ'', or ''Xylophagidæ''. ''B. clavipes'' is an example.\n\n'''Berkeleian''' (bėrk′lẹ̄-an), ''a.'' and ''n.'' '''I.''' ''a.'' Pertaining or relating to George Berkeley, bishop of Cloyne, Ireland (born 1684, died 1753), or to Berkeleianism.\n{{smaller block|The ''Berkeleian'' idealism is little more than the easy demonstration that this view [that the world of reality exists quite independently of being known by any knowing beings in it], from a philosophical standing point, is untenable. ''J. C. Shairp'', Culture and Religion, p. 185.}}\n\n'''II.''' ''n.'' One who holds Bishop Berkeley’s system of idealism; one who denies the existence of a material world.",
+   "c2s3": "¶\n'''Berkeleianism''' (bėrk′lē-an-izm), ''n.'' The philosophy of Bishop Berkeley. See ''Berkeleian.''\n{{smaller block|He holds that material things exist only in so far as they are perceived; their ''esse'' is ''percipi.'' It is by thinking them, and making us think them, that the Divine Being creates the material universe. But Berkeley gives to souls a substantive existence, so they must be created otherwise. The Berkeleian idealism is intimately interwoven with an extreme nominalism, which denies the existence of general conceptions. Berkeley’s theory of vision, which in a modified form is now generally adopted by scientific men, is that while we see two dimensions of space, the third is recognized by touch (that is, by the muscular sense), until the eyes become educated to associating certain appearances with certain feelings of touch.}}\n\n'''Berkeley’s Act.''' See ''act.''\n\n'''berkovets''' (bėr′kō-vets), ''n.'' [Russ. ''berkovetsŭ.''] A Russian weight, legally equal to 400 Russian pounds, or 361 pounds 2 ounces avoirdupois. In other parts of Russia, where older pounds have not gone out of use, the value of this unit is somewhat greater. Also ''bercowetz.''\n\n'''berkowitz''' (bėr′kō-vitz), ''n.'' [G. ''berkowitz'', repr. Russ. ''berkovetsŭ.''] Same as ''berkovets.''\n\n'''berlin<sup>1</sup>''' (bėr′lin or bėr-lin′), ''n.'' [In first sense, = Sp. Pg. It. ''berlina'' = G. ''berline'', < F. ''berline;'' < ''Berlin'', the capital of Prussia.] '''1.''' A large four-wheeled carriage with a suspended body, two interior seats, and a top or hood that can be raised or lowered: so called because first made in Berlin, in the seventeenth century, from the designs of an architect of the elector of Brandenburg.—'''2.''' A knitted glove.",
+   "c3s1": "¶\n{{smaller block|A fat man in black tights and cloudy ''Berlins.''\n{{right|''Dickens'', Tuggses at Ramsgate.}}}}\n\n'''berlin<sup>2</sup>, berling''', ''n.'' See ''birlin.''\n\n'''Berlin blue, iron''', etc. See the nouns.\n\n'''berloque''' (ber-lok′), ''n.'' [F.] ''Milit.'', the tattoo upon a drum announcing a meal-time.\n\n'''berm''' (bėrm), ''n.'' [Also written ''berme'', rarely ''birm'', ''barm''; cf. F. ''berme'', = Russ. ''berma'', etc., < MD. ''berme'', D. ''berm'', ''berme'', = MLG. ''berme'', barm, = G. ''berme'', a berm, prob. = Icel. ''barmr'', edge, border, brim, as of a river or the sea, etc.: see ''brim''<sup>1</sup>.] '''1.''' A narrow ledge; specifically, in ''fort.'', a space of ground or a terrace from 3 to 5 feet in width, left between the rampart and the moat or foss, designed to receive the ruins of the rampart in the event of a bombardment, and to prevent the earth from filling the foss. {{smaller|Sometimes it is palisaded, and in the Netherlands it is generally planted with a quickset hedge.}}\n{{smaller block|If we accept the Hindu Kush as our mountain fortress, then, to use a technical phrase, Afghan Turkistan is our ''berm'' and the Oxus our ditch.\n{{right|''J. T. Wheeler'', Short Hist. India, p. 668.}}}}\n'''2.''' The bank or side of a canal which is opposite to the towing-path. Also called ''berm-bank.''\n\n'''berme<sup>1</sup>†''', ''n.'' A Middle English form of ''barm''<sup>2</sup>.\n\n'''berme<sup>2</sup>''', ''n.'' See ''berm.''\n\n'''bermillians''' (bėr-mil′ya̤nz), ''n. pl.'' [Origin unknown.] Pieces of linen or fustian.\n\n'''Bermuda grass, fan-palm''', etc. See the nouns.\n\n'''Bermudian''' (bėr-mū′di-a̤n), ''a.'' and ''n.'' '''I.''' ''a.'' Pertaining or relating to the Bermudas or to their inhabitants.\n\n'''II.''' ''n.'' A native or an inhabitant of Bermuda",
+   "c3s2": "or the Bermudas, a group of islands in the Atlantic, about 600 miles east of Cape Hatteras in North Carolina, belonging to Great Britain.\n\n'''bern<sup>1</sup>†''', ''n.'' A Middle English form of ''barn''<sup>1</sup>.\n\n'''bern<sup>2</sup>†''', '''berne†''', ''n.'' [Early mod. E. (Sc.), < ME. ''berne'', ''bern'', ''burne'', ''burn'', etc., < AS. ''beorn'', ''biorn'', a warrior, hero, a word used only in poetry, and prob. = Icel. ''björn'', a bear, appar. a deriv. of *''beri'', m. (''bera'', f.), = AS. ''bera'', a bear, E. ''bear''<sup>2</sup>. It was a common poetical practice to give the names of fierce animals to warriors; cf. AS. ''eofor'', a boar, = Icel. ''jöfurr'', a warrior, hero.] A warrior; a hero; a man of valor; in later use, a poetic term for man.\n\n'''bernacle<sup>1</sup>''' (bėr′na-kl), ''n.'' Same as ''barnacle''<sup>1</sup>.\n\n'''bernacle<sup>2</sup>†''', ''n.'' Same as ''barnacle''<sup>2</sup>.\n\n'''Bernardine''' (bėr′när-din), ''n.'' and ''a.'' [F. ''Bernardin'', < ML. ''Bernardinus'', < ''Bernardus'', Bernard.] '''I.''' ''n.'' The name given in France to the members of the Cistercian order of monks. {{smaller|It is derived from St. Bernard (1091–1153), who was the most distinguished member of the order and was regarded as its second founder. See ''Cistercian''.}}\n\n'''II.''' ''a.'' Pertaining to St. Bernard or the Bernardines.\n\n'''Bernard’s canal.''' See ''canal.''\n\n'''berne†''', ''n.'' See ''bern''<sup>2</sup>.\n\n'''berner†''', ''n.'' [< ME. ''berner'', < OF. ''berner'', ''bernier'', ''brenier'' (ML. ''bernarius''), a feeder of hounds, < ''bren'', ''bran'', bran: see ''bran''.] An attendant in charge of a pack of hounds. ''N. E. D.''\n\n'''Bernese''' (bėr-nēs′ or -nēz′), ''a.'' and ''n.'' [< G. ''Bern'', F. ''Berne'', in Switzerland, + ''-ese''.] '''I.''' ''a.'' Pertaining to Bern or its inhabitants.",
+   "c3s3": "¶\n'''II.''' ''n. sing.'' and ''pl.'' A citizen or citizens of Bern, the capital of Switzerland, or of the canton of the same name.\n\n'''bernesque''' (bėr-nesk′), ''a.'' [< It. ''Bernesco'', < ''Berni'': see ''-esque''.] In the humorous and burlesque style of the writings of Francesco Berni, an Italian poet, who died in 1536.\n{{smaller block|''Bernesque'' poetry is the clearest reflexion of that religious and moral scepticism which was one of the characteristics of Italian social life in the 16th century, and which showed itself more or less in all the works of that period, that scepticism which stopped the religious Reformation in Italy, and which in its turn was an effect of historical conditions.\n{{right|''Encyc. Brit.'', XIII. 510.}}}}\n\n'''Bernicla''' (bėr′ni-klä̤), ''n.'' [NL. (adopted as a genus name by Stephens, 1824), < ML. ''bernicla'',\n[[FIGURE]]\n{{c|{{smaller|Canada Goose (''Bernicla canadensis'').}}}}"
+  },
+  "figure_files": {
+   "c3f1": "century v01 p0555 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1621,
+     2777,
+     2283,
+     3231
+    ],
+    "caption": [
+     1725,
+     3245,
+     2132,
+     3269
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1597,
+     2829,
+     2291,
+     3236
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 3861,
+    "output_tokens": 98,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 10,
+    "input_tokens": 9595,
+    "output_tokens": 8961,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 39660
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|bergall|529|Bernicla}}</noinclude>{{nop}}'''bergall''' (bėr′gâl), ''n.''   [Also written ''burgall'', var. of ''bergell'', ''bergle'', q. v.]   The cunner or blueperch, a very common New England fish, ''Ctenolabrus adspersus.'' See ''burgall'', and cut under ''cunner.''\n\n'''Bergamask''' (bėr′ga-mȧsk), ''a.'' and ''n.''   [< It. ''Bergamasco'', adj., < ''Bergamo'', a town in Italy. Cf. ''bergamot''<sup>1</sup>.]   '''I.''' ''a.'' Of or pertaining to the city or province of Bergamo in northern Italy, or the district of Bergamasca: as, ''Bergamask'' traditions; the ''Bergamask'' Alps; “a ''Bergomask'' dance,” ''Shak.'', M. N. D., v. 1.\n\n'''II.''' ''n.'' '''1.''' An inhabitant of Bergamo or Bergamasca.\n{{smaller block|A gibe at the poverty of the ''Bergamasks'', among whom, moreover, the extremes of stupidity and cunning are most usually found, according to the popular notion in Italy.\n{{right|''Howells'', Venetian Life, v.}}}}\n'''2.''' [= F. ''bergamasque.''] A rustic dance in imitation of the people of Bergamasca, who were ridiculed as clownish in manners and speech.\n\n'''bergamot'''<sup>1</sup> (bėr′gạ-mot), ''n.''   [Formerly also ''burgamot'', ''burgemott'', ''bourgamot'', appar. < ''Bergamo'', a town in Italy. Cf. ''bergamot''<sup>2</sup>.]   '''1.''' A variety of the lime or lemon, ''Citrus medica'', with a very aromatic rind, from which, either by mechanical means or by distillation, the volatile oil of bergamot (known in trade as ''essence of bergamot'') is obtained. The essence is a product chiefly of southern Italy, and is much employed in perfumery.—'''2.''' The popular name of several labiate plants, as in England of ''Mentha citrata'', and in the United States of Monarda fistulosa'' and ''M. didyma''.—'''3.''' A kind of snuff perfumed with bergamot.\n{{smaller block|Gives the nose its ''bergamot''.{{right|''Cowper'', Task, ii.}}}}\n'''4.''' A coarse tapestry manufactured from flocks of wool, silk, cotton, hemp, and from the hair of oxen and goats, said to have been made originally at Bergamo.\n\n'''bergamot'''<sup>2</sup> (bėr′ga̤-mot), ''n.''   [< F. ''bergamote'', < It. ''bergamotto'', appar. a perversion, simulating a connection with ''Bergamo'', a town in Italy (cf. ''bergamot''<sup>1</sup>), of Turk. ''begarmūdi'', lit. (like the G. name ''fürstenbirne'') prince’s pear, < ''beg'', a prince (see ''bey''<sup>2</sup>), + ''armūd'', a pear.]   A variety of pear.\n\n'''bergander''' (bėr′gan-dėr), ''n.''   [Early mod. E. also ''birgander'', ''burgander'', appar. < ME. ''berge'', a burrow (see ''berry''<sup>3</sup>, ''burrow''<sup>2</sup>), + ''gander'' (i. e., ''burrow-gander;'' cf. its other name, ''burrow-duck''). Cf. D. ''bergeend'' = NFries. ''bargaand'' = MLG. ''berchant'' = G. ''bergente'', lit. ‘hill-duck,’ G. ''erdgans'', lit. ‘earth-goose.’]   A name of the sheldrake or burrow-duck, ''Tadorna vulpanser''. See ''sheldrake''.\n\n'''bergell''', ''n.'' See ''bergle''.\n\n'''berger†''', ''n.''   [Appar. < F. ''bergère'', a négligé style of dressing the hair.]   A lock of hair worn long, and with the end curled, by ladies in the time of Charles II.\n\n'''Bergerac''' (bėr′je-rak; F. pron. berzh-rak′), ''n.'' '''1.''' A red wine of good quality, made in the department of Dordogne in southwestern France, in the vicinity of the town of Bergerac.\n{{smaller block|It is seldom in the market under its own name, but is exported from Bordeaux, and confounded with claret. It is very popular throughout central France.}}\n'''2.''' A white wine from the same district, generally very sweet and of a high flavor.—'''3.''' A dry wine not unlike Barsac.\n\n'''bergeret†''', ''n.''   [OF., < ''berger'', a shepherd, < ML. ''berbicarius'', a shepherd, < ''berbex'', L. ''vervex'', a wether.]   A pastoral or rustic song or dance. Also ''bargeret'', ''bargaret''.\n{{smaller block|<poem>There began anon\nA lady for to singe right womanly\nA ''bargaret'' in praising the daisie.</poem>\n{{right|''Flower and Leaf'', l. 348.}}}}\n\n'''bergh†''', ''n.''   [Cf. ''bargh''; obsolete form (after Scand.) of ''barrow''<sup>1</sup>, a hill.]   A hill.\n\n'''berglax''' (bėrg′laks), ''n.''   [Norw. ''berglax'', ''berglaks'', lit. rock-salmon (= Dan. ''bjerglax'', the common hake), < ''berg'' = Sw. ''berg'', Dan. ''bjerg'', a hill, rock, + Norw. Sw. Dan. ''lax'' = AS. ''leax'' = G. ''lachs'', salmon.]   The Norwegian name of a gadoid fish, ''Coryphænoides norvegicus'', of the family ''Macruridæ''.\n\n'''bergle''' (bėr′gl), ''n.''   [Also written ''bergell'', ''bergill'' (and ''bergall'', ''burgall'', q. v.), appar. a var. of ''bergylt'', q. v.]   A name in the Shetland islands of the ballan-wrasse, ''Labrus maculatus''.\n\n'''bergmanite''' (bėrg′man-īt), ''n.''   [< T. O. ''Bergman'', a Swedish mineralogist (1735–84), + ''-ite''<sup>2</sup>.]   A variety of the zeolite natrolite. {{smaller|It occurs massive and fibrous in the zirconsyenite of Brevig in Norway. Its colors are greenish, grayish-white, and red.}}\n\n'''bergmaster''' (bėrg′mȧs″tėr), ''n.''   [After G. ''bergmeister'': see ''barmaster''.]   Same as ''barmaster''.\n\n'''bergmehl''' (bėrg′māl), ''n.''   [G., < ''berg'' = E. ''barrow''<sup>1</sup>, a mountain, + ''mehl'' = E. ''meal''<sup>2</sup>.]   Mountain-meal or fossil farina, a geological deposit in the form of an extremely fine powder, consisting almost entirely of the silicious frustules or cell-walls of diatoms. {{smaller|It has been eaten in Lapland in seasons of great scarcity, mixed with ground corn and bark.}}\n\n'''bergmote''' (bėrg′mōt), ''n.'' Same as ''barmote.''\n\n'''bergy''' (bėr′gi), ''a.''   [< ''berg''<sup>2</sup> + ''-y''<sup>1</sup>.]   '''1.''' Full of bergs or icebergs.—'''2.''' Resembling or of the nature of a berg.\n{{smaller block|A considerable ''bergy'' mass of ice.\n{{right|''C. F. Hall'', Polar Expedition, p. 266.}}}}\n\n'''bergylt''' (bėr′gilt), ''n.''   [Also written ''berguylt'' (see also ''bergle, bergall, burgall''); < Norw. ''berggylta'', dial. ''berggalt'', appar. < ''berg'', cliff, precipice, hill, + ''gylta'' = Icel. ''gylta'' and ''gyltr'', a sow.]   A name in Shetland of the rose-fish, ''Sebastes marinus'', a fish of the family ''Scorpænidæ''. Also called ''Norwegian haddock''. See cut under ''Sebastes''.\n\n'''berhyme,''' ''v. t.'' See ''berime''.\n\n'''beriberi''' (ber′i-ber-i), ''n.''   [Singhalese; an intensive redupl. of ''beri'', weakness.]   A disease characterized by anemia, muscular and sensory paralysis, more or less pain, general dropsical symptoms, effusion into the serous cavities, and dyspnœa on exertion. {{smaller|Hydropic and dry forms are distinguished by the presence or absence of dropsy. It may be acute, or subacute, or chronic. It does not appear to be contagious, though it infects localities. Beriberi occurs in India and adjacent countries, is frequent in Japan under the name of ''kakke'', and seems to be identical with the “sleeping sickness” of the west coast of Africa. It is said to occur in South America also.}}\n\n'''Beridæ''' (ber′i-dē), ''n. pl.''   [NL., < ''Beri''(''d''-)''s'' + ''-idæ.'']   A family of tetrachætous or tanystomatous brachycerous ''Diptera'', represented by such genera as ''Beris'', ''Xylophagus'', etc. Also called ''Xylophagidæ''.\n\n'''beridel†''', ''n.''   [Origin obscure.]   A garment of linen, worn in Ireland in the reign of Henry VIII.   ''Planché.''\n\n'''berigora''' (ber-i-gō′rạ̈), ''n.'' A name of an Australian falcon, the berigora hawk, ''Hieracidea'' (or ''Ieracidea'') ''berigora''.\n\n'''berime''' (bẹ̄-rīm′), ''v. t.''   [< ''be-''<sup>1</sup> + ''rime''<sup>1</sup>.]   To celebrate in rime or verse. Also ''berhyme''.\n{{smaller block|She had a better love to ''berime'' [as in old editions] her.\n{{right|''Shak.'', R. and J., ii. 4.}}}}\n\n'''beringed''' (bẹ̄-ringd′), ''a.''   [< ''be-''<sup>1</sup> + ''ringed''.]   Supplied or surrounded with rings.\n{{smaller block|A curiously ''beringed'' disc [Saturn].\n{{right|''E. F. Burr'', Ecce Cœlum, p. 99.}}}}\n\n'''Beris''' (ber′is), ''n.''   [NL.]   The typical genus of the family ''Beridæ'', or ''Xylophagidæ''. ''B. clavipes'' is an example.\n\n'''Berkeleian''' (bėrk′lẹ̄-an), ''a.'' and ''n.'' '''I.''' ''a.'' Pertaining or relating to George Berkeley, bishop of Cloyne, Ireland (born 1684, died 1753), or to Berkeleianism.\n{{smaller block|The ''Berkeleian'' idealism is little more than the easy demonstration that this view [that the world of reality exists quite independently of being known by any knowing beings in it], from a philosophical standing point, is untenable.\n{{right|''J. C. Shairp'', Culture and Religion, p. 185.}}}}\n\n'''II.''' ''n.'' One who holds Bishop Berkeley’s system of idealism; one who denies the existence of a material world.\n\n'''Berkeleianism''' (bėrk′lē-an-izm), ''n.'' The philosophy of Bishop Berkeley. See ''Berkeleian.''\n{{smaller block|He holds that material things exist only in so far as they are perceived; their ''esse'' is ''percipi.'' It is by thinking them, and making us think them, that the Divine Being creates the material universe. But Berkeley gives to souls a substantive existence, so they must be created otherwise. The Berkeleian idealism is intimately interwoven with an extreme nominalism, which denies the existence of general conceptions. Berkeley’s theory of vision, which in a modified form is now generally adopted by scientific men, is that while we see two dimensions of space, the third is recognized by touch (that is, by the muscular sense), until the eyes become educated to associating certain appearances with certain feelings of touch.}}\n\n'''Berkeley’s Act.''' See ''act.''\n\n'''berkovets''' (bėr′kō-vets), ''n.''   [Russ. ''berkovetsŭ.'']   A Russian weight, legally equal to 400 Russian pounds, or 361 pounds 2 ounces avoirdupois. In other parts of Russia, where older pounds have not gone out of use, the value of this unit is somewhat greater. Also ''bercowetz.''\n\n'''berkowitz''' (bėr′kō-vitz), ''n.''   [G. ''berkowitz'', repr. Russ. ''berkovetsŭ.'']   Same as ''berkovets.''\n\n'''berlin<sup>1</sup>''' (bėr′lin or bėr-lin′), ''n.''   [In first sense, = Sp. Pg. It. ''berlina'' = G. ''berline'', < F. ''berline;'' < ''Berlin'', the capital of Prussia.]   '''1.''' A large four-wheeled carriage with a suspended body, two interior seats, and a top or hood that can be raised or lowered: so called because first made in Berlin, in the seventeenth century, from the designs of an architect of the elector of Brandenburg.—'''2.''' A knitted glove.\n\n{{smaller block|A fat man in black tights and cloudy ''Berlins.''\n{{right|''Dickens'', Tuggses at Ramsgate.}}}}\n\n'''berlin<sup>2</sup>, berling''', ''n.'' See ''birlin.''\n\n'''Berlin blue, iron''', etc. See the nouns.\n\n'''berloque''' (ber-lok′), ''n.''   [F.]   ''Milit.'', the tattoo upon a drum announcing a meal-time.\n\n'''berm''' (bėrm), ''n.''   [Also written ''berme'', rarely ''birm'', ''barm''; cf. F. ''berme'', = Russ. ''berma'', etc., < MD. ''berme'', D. ''berm'', ''berme'', = MLG. ''berme'', barm, = G. ''berme'', a berm, prob. = Icel. ''barmr'', edge, border, brim, as of a river or the sea, etc.: see ''brim''<sup>1</sup>.]   '''1.''' A narrow ledge; specifically, in ''fort.'', a space of ground or a terrace from 3 to 5 feet in width, left between the rampart and the moat or foss, designed to receive the ruins of the rampart in the event of a bombardment, and to prevent the earth from filling the foss. {{smaller|Sometimes it is palisaded, and in the Netherlands it is generally planted with a quickset hedge.}}\n{{smaller block|If we accept the Hindu Kush as our mountain fortress, then, to use a technical phrase, Afghan Turkistan is our ''berm'' and the Oxus our ditch.\n{{right|''J. T. Wheeler'', Short Hist. India, p. 668.}}}}\n'''2.''' The bank or side of a canal which is opposite to the towing-path. Also called ''berm-bank.''\n\n'''berme<sup>1</sup>†''', ''n.'' A Middle English form of ''barm''<sup>2</sup>.\n\n'''berme<sup>2</sup>''', ''n.'' See ''berm.''\n\n'''bermillians''' (bėr-mil′ya̤nz), ''n. pl.''   [Origin unknown.]   Pieces of linen or fustian.\n\n'''Bermuda grass, fan-palm''', etc. See the nouns.\n\n'''Bermudian''' (bėr-mū′di-a̤n), ''a.'' and ''n.'' '''I.''' ''a.'' Pertaining or relating to the Bermudas or to their inhabitants.\n\n'''II.''' ''n.'' A native or an inhabitant of Bermuda or the Bermudas, a group of islands in the Atlantic, about 600 miles east of Cape Hatteras in North Carolina, belonging to Great Britain.\n\n'''bern<sup>1</sup>†''', ''n.'' A Middle English form of ''barn''<sup>1</sup>.\n\n'''bern<sup>2</sup>†''', '''berne†''', ''n.''   [Early mod. E. (Sc.), < ME. ''berne'', ''bern'', ''burne'', ''burn'', etc., < AS. ''beorn'', ''biorn'', a warrior, hero, a word used only in poetry, and prob. = Icel. ''björn'', a bear, appar. a deriv. of *''beri'', m. (''bera'', f.), = AS. ''bera'', a bear, E. ''bear''<sup>2</sup>. It was a common poetical practice to give the names of fierce animals to warriors; cf. AS. ''eofor'', a boar, = Icel. ''jöfurr'', a warrior, hero.]   A warrior; a hero; a man of valor; in later use, a poetic term for man.\n\n'''bernacle<sup>1</sup>''' (bėr′na-kl), ''n.'' Same as ''barnacle''<sup>1</sup>.\n\n'''bernacle<sup>2</sup>†''', ''n.'' Same as ''barnacle''<sup>2</sup>.\n\n'''Bernardine''' (bėr′när-din), ''n.'' and ''a.''   [F. ''Bernardin'', < ML. ''Bernardinus'', < ''Bernardus'', Bernard.]   '''I.''' ''n.'' The name given in France to the members of the Cistercian order of monks. {{smaller|It is derived from St. Bernard (1091–1153), who was the most distinguished member of the order and was regarded as its second founder. See ''Cistercian''.}}\n\n'''II.''' ''a.'' Pertaining to St. Bernard or the Bernardines.\n\n'''Bernard’s canal.''' See ''canal.''\n\n'''berne†''', ''n.'' See ''bern''<sup>2</sup>.\n\n'''berner†''', ''n.''   [< ME. ''berner'', < OF. ''berner'', ''bernier'', ''brenier'' (ML. ''bernarius''), a feeder of hounds, < ''bren'', ''bran'', bran: see ''bran''.]   An attendant in charge of a pack of hounds.   ''N. E. D.''\n\n'''Bernese''' (bėr-nēs′ or -nēz′), ''a.'' and ''n.''   [< G. ''Bern'', F. ''Berne'', in Switzerland, + ''-ese''.]   '''I.''' ''a.'' Pertaining to Bern or its inhabitants.\n\n'''II.''' ''n. sing.'' and ''pl.'' A citizen or citizens of Bern, the capital of Switzerland, or of the canton of the same name.\n\n'''bernesque''' (bėr-nesk′), ''a.''   [< It. ''Bernesco'', < ''Berni'': see ''-esque''.]   In the humorous and burlesque style of the writings of Francesco Berni, an Italian poet, who died in 1536.\n{{smaller block|''Bernesque'' poetry is the clearest reflexion of that religious and moral scepticism which was one of the characteristics of Italian social life in the 16th century, and which showed itself more or less in all the works of that period, that scepticism which stopped the religious Reformation in Italy, and which in its turn was an effect of historical conditions.\n{{right|''Encyc. Brit.'', XIII. 510.}}}}\n\n'''Bernicla''' (bėr′ni-klä̤), ''n.''   [NL. (adopted as a genus name by Stephens, 1824), < ML. ''bernicla'',\n\n[[File:century v01 p0555 c3f1.png|center|331px]]\n{{c|{{smaller|Canada Goose (''Bernicla canadensis'').}}}}<noinclude><references/></noinclude>"
+}

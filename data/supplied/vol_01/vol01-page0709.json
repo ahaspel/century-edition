@@ -1,0 +1,178 @@
+{
+ "volume": 1,
+ "page_number": 709,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n708.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n708.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 739,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     54,
+     137,
+     2269,
+     177
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     54,
+     177,
+     795,
+     1245
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     54,
+     1245,
+     795,
+     2337
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     54,
+     2337,
+     795,
+     3282
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     795,
+     177,
+     1539,
+     1269
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     795,
+     1269,
+     1539,
+     2338
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     795,
+     2338,
+     1539,
+     3282
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1539,
+     177,
+     2269,
+     1076
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1539,
+     1076,
+     2269,
+     2069
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1539,
+     2069,
+     2269,
+     3165
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1539,
+     3165,
+     2269,
+     3282
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|brigandine|683|brilliance}}",
+   "c1s1": "coat of fence made of linen or leather upon which overlapping scales of steel were sewed. {{smaller|The plates of steel were generally quilted between two thicknesses of stuff. The brigandine was especially the armor of the infantry soldier, but was sometimes combined with plate-armor even in costly suits.}}\n{{smaller block|Furbish the spears and put on the ''brigandines.''\n{{right|Jer. xlvi. 4.}}}}\n'''2†.''' A foot-soldier wearing a brigandine; a brigand.\n\n'''II.''' ''a.'' Made like a brigandine; of the nature of a brigandine: as, a ''brigandine'' garment.\n\n'''brigandine<sup>2</sup>†''' (brig′a̤n-din), ''n.'' An old form of ''brigantine''<sup>1</sup>.\n\n'''brigandish''' (brig′an-dish), ''a.'' [< ''brigand'' + ''-ish''<sup>1</sup>.] Like a brigand.\n{{smaller block|We fancied that they [peasants near Naples] had a ''brigandish'' look. ''C. D. Warner'', Winter on the Nile, p. 20.}}\n\n'''brigant†''' (brig′ant), ''n.'' Same as ''brigand.''\n\n'''brigantine<sup>1</sup>''' (brig′a̤n-tin or -tīn), ''n.'' [= D. ''brigantijn'' = G. ''brigantine'' = Sw. ''brigantin,'' < F. ''brigantin,'' < It. ''brigantino'' (ML. ''brigantinus''), a brigantine, orig. a roving or pirate vessel, < ''brigante,'' a pirate, brigand: see ''brigand,'' and cf. ''brig''<sup>2</sup> and ''brigandine''<sup>2</sup>.] '''1.''' A small two-masted vessel, square-rigged on both masts, but with a fore-and-aft mainsail and the mainmast considerably longer than the foremast. {{smaller|It differs from a hermaphrodite brig in having a square topsail and topgallantsail on the mainmast. This term is variously applied by mariners of different nations, but the above is its most generally accepted definition.}}\n{{smaller block|<poem>Like as a warlike ''Brigandine'', applyde\nTo fight, layes forth her threatfull pikes afore.</poem>\n{{right|''Spenser'', Muiopotmos.}}}}",
+   "c1s2": "'''2†.''' A robber.—'''3†.''' Robbery.\n\n'''brigantine<sup>2</sup>''' (brig′ạn-tin), ''n.'' Same as ''brigandine''<sup>1</sup>.\n\n'''brigbote†''', ''n.'' [A term in old law-books, repr. AS. ''bricgbōt'', prop. ''brycgbōt'', a contribution for bridge-repairing, < ''brycg'', bridge, + ''bōt'', boot: see ''boot''<sup>1</sup>.] A contribution for the repair of bridges, walls, and castles.\n\n'''brige†''', ''n.'' [ME.: see ''brigue''.] Contention. ''Chaucer.''\n\n'''bright<sup>1</sup>''' (brīt), ''a.'' [< ME. ''bright'', ''briht'', etc., < AS. ''bryht'', ''briht'', transposed forms of the usual ''beorht'' = OS. ''berht'', ''beraht'' = OHG. ''beraht'', ''bereht'', MHG. ''berht'' (in G. remaining only in proper names, ''Albrecht'', ''Ruprecht'', etc.; frequently so used in AS. and LG.) = Icel. ''bjartr'' = Goth. ''bairhts'', bright; prob., with old pp. suffix ''-t'', < Teut. √ *''berh'' = Skt. √ ''bhrāj'', shine, perhaps = L. ''flag-'' in ''flagrare'', flame, blaze, burn, ''flamma'' (*''flagma''), flame, = Gr. φλέγειν, blaze, burn. Cf. ''black'', ''bleak''<sup>1</sup>.] '''1.''' Radiating or reflecting light; filled with light; brilliant; shining; luminous; sparkling: as, a ''bright'' sun.\n{{smaller block|<poem>It were all one\nThat I should love a ''bright'' particular star,\nAnd think to wed it, he is so above me.</poem>\n{{right|''Shak.'', All’s Well, i. 1.}}}}\n{{smaller block|Candles were blazing at all the windows. The public places were as ''bright'' as at noonday.\n{{right|''Macaulay'', Hist. Eng., x.}}}}\n\n'''2.''' Transmitting light; clear; transparent, as liquors.\n{{smaller block|<poem>From the ''brightest'' wines\nHe turn’d abhorrent. {{right|''Thomson.''}}</poem>}}\n\n'''3.''' Manifest to the mind, as light is to the",
+   "c1s3": "eye; evident; clear.\n{{smaller block|He must not proceed too swiftly, that he may with more ease and ''brighter'' evidence . . . draw the learner on.\n{{right|''Watts'', Improvement of the Mind.}}}}\n'''4.''' Resplendent, as with beauty; splendid.\n{{smaller block|<poem>Thy beauty appears,\nIn its graces and airs,\nAll ''bright'' as an angel new dropt from the sky.</poem>\n{{right|''Parnell'', Song.}}}}\n'''5.''' Illustrious; glorious: as, the ''brightest'' period of a kingdom.\n{{smaller block|<poem>The ''brightest'' annals of a female reign.</poem>\n{{right|''Cotton'', Wonders of the Peake.}}}}\n'''6.''' Having or marked by brilliant mental qualities; quick in wit; witty; clever; not dull: as, he is by no means ''bright;'' a ''bright'' remark; a ''bright'' book.\n{{smaller block|<poem>If parts allure thee, think how Bacon shined,\nThe wisest, ''brightest'', meanest of mankind.</poem>\n{{right|''Pope'', Essay on Man, iv. 282.}}}}\n'''7.''' Sparkling in action or manner; animated or animating; vivacious; lively; cheerful.\n{{smaller block|<poem>Be ''bright'' and jovial among your guests to-night.</poem>\n{{right|''Shak.'', Macbeth, iii. 2.}}}}\n{{smaller block|The golden-crowned thrush, . . . with the dullest of gold upon his crown, but the ''brightest'' of songs in his heart.\n{{right|''The Century'', XXXII. 276.}}}}\n'''8.''' Favorable; pleasing; auspicious: as, a ''bright'' prospect.\n{{smaller block|<poem>Give up the promise of ''bright'' days that cast\nA glory on your nation from afar.</poem>\n{{right|''Bryant'', Spain.}}}}",
+   "c2s1": "¶\n'''9.''' In ''painting'', luminous; glittering; full of light. {{smaller|A picture is said to be ''bright'' when the lights so much prevail as to overcome the shadows, and are kept so clear and distinct as to produce an effect of brilliancy.}}\n\n'''10.''' ''Naut.'', alert; vigilant.\n{{smaller block|Keep a ''bright'' lookout there forwards! {{right|''Cooper.''}}}}\n{{smaller|='''Syn. 1.''' Glowing, lustrous, gleaming, radiant, effulgent.—'''6.''' Acute, intelligent, discerning.—'''8.''' Promising, encouraging.}}\n\n'''bright<sup>1</sup>†''', ''adv.'' [< ME. ''brighte, brizte, brihte'', < ''briht, bright'': see ''bright''<sup>1</sup>, ''a.''] Brightly. ''Chaucer.''\n\n'''bright<sup>1</sup>''' (brīt), ''n.'' [< ME. ''bright, brigt'', < AS. ''byrhtu, birhtu'' (= OHG. ''berahti''), f., ''beorht'', neut., brightness, < ''beorht'', bright: see ''bright''<sup>1</sup>, ''a.''] Brightness.\n{{smaller block|<poem>Darkness we calle the nyght,\nAnd lith [light] also the ''bright.''</poem>\n{{right|''Towneley Mysteries'', p. 1.}}}}\n\n'''bright<sup>1</sup>†''' (brīt), ''v. t.'' [< ME. ''brighten, brihten'' (with reg. inf. suffix ''-en''), < AS. ''byrhtan'', be bright, ''geberhtan'', make bright (= OHG. ''giberehtōn'' = Goth. ''gabairhtjan'', make bright), < ''beorht'', bright.] To make bright; brighten.\n\n'''bright<sup>2</sup>†''', ''v. i.'' See ''brite.''\n\n'''bright-cut''' (brīt′kut), ''a.'' Engraved or chased so as to show the brightness of the material as left by the tool; not polished or colored.\n\n'''brighten''' (brī′tn), ''v.'' [< ''bright''<sup>1</sup> + ''-en''<sup>1</sup>. Cf. ''bright''<sup>1</sup>, ''v.''] '''I.''' ''intrans.'' To grow bright or more bright; become less dark or gloomy: literally or figuratively.\n{{smaller block|<poem>Like the sun emerging from a cloud,\nHer countenance ''brightens'', and her eye expands.</poem>\n{{right|''Wordsworth'', Laodamia.}}}}\n{{smaller block|The great sweep of the Coliseum, with the blue sky}}",
+   "c2s2": "{{smaller block|''brightening'' through its upper tier of arches.\n{{right|''Hawthorne'', Marble Faun, i.}}}}\n\n'''II.''' ''trans.'' '''1.''' To make bright or brighter in any manner; shed light on; make to shine; increase the luster of.\n\n{{smaller block|<poem>Her celestial eyes\nAdorn the world and ''brighten'' up the skies. ''Dryden.''</poem>}}\n'''2.''' To dispel gloom from; cheer; make gay or cheerful: as, to ''brighten'' prospects.\n{{smaller block|This makes Jack ''brighten'' up the room wherever he enters, and changes the severity of the company into . . . gaiety and good humour.\n{{right|''Steele'', Tatler, No. 206.}}}}\n'''3.''' To make illustrious or more distinguished; heighten the splendor of; add luster to.\n{{smaller block|The present queen would ''brighten'' her character if she would exert her authority to instil virtues into her people.\n{{right|''Swift.''}}}}\n'''4.''' To make acute or witty; sharpen the faculties of.—'''5.''' To add brilliancy to the colors of (prints, etc.), by boiling them in a solution of soda.\n\n'''brightening''' (brīt′ning), ''n.'' [Verbal n. of ''brighten'', ''v.''] '''1.''' The flash of light which passes over the surface of the melted metal when lead containing silver is assayed on a cupel in a muffle. {{smaller|At the moment of the brightening, the assay, which had before been in rapid motion, becomes perfectly quiet. This occurs as soon as the last trace of lead has been absorbed by the cupel.}}\n'''2.''' In ''dyeing'', same as ''blooming''<sup>1</sup>, 2.\n\n'''bright-harnessed''' (brīt′här″nest), ''a.'' Having bright armor. ''Milton.''\n\n'''brighthood†''' (brīt′hu̇d), ''n.'' [ME. ''brighthod''; < ''bright''<sup>1</sup> + ''-hood''.] Brightness.",
+   "c2s3": "{{smaller block|The bemes of my ''brighthode'' ar byrnande so bryghte.\n{{right|''York Plays'', p. 3.}}}}\n\n¶\n'''brightish''' (brī′tish), ''a.'' [< ''bright''<sup>1</sup> + ''-ish''<sup>1</sup>.] Somewhat bright.\n\n'''brightly''' (brīt′li), ''adv.'' [< ME. ''brihtly'', ''brihtliche'', < AS. ''brihtlīce'', ''beorhtlīce'', < ''beorht'', bright.] In a bright manner; splendidly; with luster; cheerfully.\n{{smaller block|<poem>A substitute shines ''brightly'' as a king,\nUntil a king be by. {{right|''Shak.'', M. of V., v. i.}}</poem>\n<poem>And Enoch faced this morning of farewell\n''Brightly'' and boldly. {{right|''Tennyson'', Enoch Arden.}}</poem>}}\n\n'''brightness''' (brīt′nes), ''n.'' [< ME. ''brightnes'', ''brihtnesse'', etc., < AS. ''beorhtnes'' (= OHG. ''berahtnissī''), < ''beorht'' + ''-nes'': see ''bright''<sup>1</sup> and ''-ness''.] '''1.''' The state or quality of being bright; splendor: luster; glitter: as, “the ''brightness'' of the sun,” Acts xxvi. 13.—'''2.''' Acuteness of intellect or faculty; sharpness of wit.\n{{smaller block|The ''brightness'' of his parts . . . distinguished him.\n{{right|''Prior.''}}}}\n'''3.''' Cheer; cheerfulness.\n{{smaller block|<poem>Vex’d with the present moment’s heavy gloom,\nWhy seek ye ''brightness'' from the years to come?</poem>\n{{right|''Prior'', Solomon, iii.}}}}\n{{smaller|='''Syn. 1.''' Brilliancy, effulgence.—'''2.''' Acumen, mother-wit, ingenuity.}}\n\n'''Bright’s clause, disease.''' See ''clause'', ''disease''.\n\n'''brightsome''' (brīt′sum), ''a.'' [< ''bright''<sup>1</sup> + ''-some''.] Very bright; brilliant.",
+   "c3s1": "{{smaller block|<poem>Out of my jewelry, choose thy choice of diamonds,\nTill thou find some as ''brightsome'' as thine eyes.</poem>\n{{right|''Chapman'', Blind Beggar.}}}}\n\n'''brightsomeness''' (brīt′sum-nes), ''n.'' Great brightness; brilliancy.\n{{smaller block|The ''brightsomeness'' of the Gospel was dimmed in becoming shorn of many of its grace-working ordinances.\n{{right|''Rock'', Church of our Fathers, ii. 283.}}}}\n\n'''bright-work''' (brīt′wėrk), ''n.'' ''Naut.'', those metal objects about the decks of a vessel which are kept bright by polishing.\n\n'''Brigittine''' (brij′i-tin), ''n.'' and ''a.'' [Also ''Bridgettine'', ''Bridgittine'', ''Brigettine'', etc., < ''Brigitta'', Latinized form of Ir. ''Brighid'', E. ''Bridget'', + ''-ine''<sup>1</sup>.] '''I.''' ''n.'' '''1.''' A member of an order of nuns and monks established by St. Brigitta (Bridget), a Swedish princess, about 1344, under the Augustinian rule. {{smaller|The nuns (who were much the more numerous) and monks dwelt in contiguous houses, under the temporal government of a prioress. Before the Reformation the order had spread into many countries of Europe; and there are still a few houses of Brigittine nuns, including one in England founded at a recent period by an English community that was transferred to Portugal in Queen Elizabeth’s time.}}\n\n'''2.''' A member of a conventual order of virgins founded by St. Bridget of Ireland in the sixth century, which existed for several centuries in various parts of Europe.\n\n'''II.''' ''a.'' Pertaining to St. Brigitta or to the or-",
+   "c3s2": "der founded by her: as, ''Brigittine'' indulgence.\n\n'''brignole''' (brē-nyōl′), ''n.'' [F., < ''Brignoles'', a town in the department of Var, France, celebrated for its prunes.] A variety of the common plum furnishing the dried fruits known as Provence prunes or French plums.\n\n'''brigose†''' (bri-gōs′), ''a.'' [Early mod. E. also ''brigous''; < ML. ''brigosus'' (It. ''brigoso''), < ''briga'', contention: see ''brigue''.] Contentious.\n{{smaller block|Very ''brigose'' and severe.\n{{right|''T. Fuller'', Moderation of the Church of Eng., p. 324.}}}}\n\n'''brigous†''', ''a.'' See ''brigose''.\n\n'''brig-schooner''' (brig′skö″nėr), ''n.'' Same as ''hermaphrodite brig'' (which see, under ''brig''<sup>2</sup>).\n\n'''brigue†''' (brēg), ''n.'' [F., a cabal, intrigue, etc., OF. ''brigue'' (> ME. ''brige'') = It. ''briga'' = Pg. ''briga'' = Sp. Pr. ''brega'' (ML. ''briga''), quarrel, contention, strife, etc. Cf. ''brigand''.] A cabal; an intrigue; a faction; contention.\n{{smaller block|The politicks of the court, the ''brigues'' of the cardinals, the tricks of the conclave.\n{{right|''Chesterfield.''}}}}\n\n'''brigue†''' (brēg), ''v. i.'' [< F. ''briguer''; from the noun: see ''brigue'', ''n.''] To canvass; intrigue.\n{{smaller block|Our adversaries, by ''briguing'' and caballing, have caused so universal a defection from us. ''Swift'', Tale of a Tub, i.\n\nI am too proud to ''brigue'' for admission. ''Bp. Hurd.''}}\n\n'''brike<sup>1</sup>†''', ''n.'' A Middle English variant of ''brick''<sup>1</sup> and ''breach''.\n{{smaller block|<poem>Genylon Oliver . . .\nBroughte this worthy king in swich a ''brike''.</poem>\n{{right|''Chaucer'', Monk’s Tale, l. 400.}}}}",
+   "c3s3": "¶\n'''brike<sup>2</sup>†''', ''n.'' A Middle English form of ''brick''<sup>2</sup>.\n\n'''brill''' (bril), ''n.'' [Also written ''prill'', E. dial. ''pearl''; prob. < Corn. ''brilli'', mackerel, contracted from ''brithelli'', pl. of ''brithel'', a mackerel, lit. spotted, < ''brith'', spotted, speckled, = W. ''brych'', ''brech'' = Ir. Gael. ''breac'', speckled. Cf. Ir. Gael. ''breac'', a trout, Manx ''brack'', a trout, a mackerel. Fish-names are unstable.] A flatfish, ''Bothus'' or ''Rhombus lævis'', of the family ''Pleuronectidæ''. {{smaller|In its general form it resembles the turbot, but is inferior to it in both size and quality. It has scales, but very small ones, and the dorsal and anal fins have more numerous rays than those of the turbot. It is taken on many of the coasts of Europe, the principal part of the supply for the London market being from the southern coast of England, where it is abundant.}}\n\n'''brillante''' (brel-län′te), ''a.'' [It., = F. ''brillant'': see ''brilliant''.] In ''music'', brilliant: noting a passage to be executed in a brilliant, dashing, showy, or spirited manner.\n\n'''brilliance, brilliancy''' (bril′yans, -yan-si), ''n.'' [< ''brilliant'': see ''-ance'', ''-ancy''.] '''1.''' The quality of being brilliant; great brightness; splendor; luster: as, the ''brilliance'' of the diamond.\n{{smaller block|<poem>Star\nThe black earth with ''brilliance'' rare.</poem>\n{{right|''Tennyson'', Ode to Memory, ii.}}}}\n'''2.''' Figuratively, remarkable excellence or distinction; admirable or splendid quality or qualities; absolutely, conspicuous mental ability or an exhibition of it. [In this sense ''brilliancy'' is more commonly used.]\n{{smaller block|The author does not attempt to polish and brighten his composition to the Ciceronian gloss and ''brilliancy''.\n{{right|''Macaulay''.}}\n\nWhen the circulation has been artificially exalted by}}",
+   "c3s4": "{{smaller block|stimulants, there is an easy and rapid current of thoughts, showing itself in what we describe as unusual ''brilliancy''.\n{{right|''H. Spencer'', Prin. of Psychol., § 102.}}}}\n='''Syn.''' ''Effulgence'', ''Luster'', etc. See ''radiance''."
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {},
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 1,
+    "input_tokens": 2673,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9566,
+    "output_tokens": 10353,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|brigandine|683|brilliance}}</noinclude>coat of fence made of linen or leather upon which overlapping scales of steel were sewed. {{smaller|The plates of steel were generally quilted between two thicknesses of stuff. The brigandine was especially the armor of the infantry soldier, but was sometimes combined with plate-armor even in costly suits.}}\n{{smaller block|Furbish the spears and put on the ''brigandines.''\n{{right|Jer. xlvi. 4.}}}}\n'''2†.''' A foot-soldier wearing a brigandine; a brigand.\n\n'''II.''' ''a.'' Made like a brigandine; of the nature of a brigandine: as, a ''brigandine'' garment.\n\n'''brigandine<sup>2</sup>†''' (brig′a̤n-din), ''n.'' An old form of ''brigantine''<sup>1</sup>.\n\n'''brigandish''' (brig′an-dish), ''a.''   [< ''brigand'' + ''-ish''<sup>1</sup>.]   Like a brigand.\n{{smaller block|We fancied that they [peasants near Naples] had a ''brigandish'' look.\n{{right|''C. D. Warner'', Winter on the Nile, p. 20.}}}}\n\n'''brigant†''' (brig′ant), ''n.'' Same as ''brigand.''\n\n'''brigantine<sup>1</sup>''' (brig′a̤n-tin or -tīn), ''n.''   [= D. ''brigantijn'' = G. ''brigantine'' = Sw. ''brigantin,'' < F. ''brigantin,'' < It. ''brigantino'' (ML. ''brigantinus''), a brigantine, orig. a roving or pirate vessel, < ''brigante,'' a pirate, brigand: see ''brigand,'' and cf. ''brig''<sup>2</sup> and ''brigandine''<sup>2</sup>.]   '''1.''' A small two-masted vessel, square-rigged on both masts, but with a fore-and-aft mainsail and the mainmast considerably longer than the foremast. {{smaller|It differs from a hermaphrodite brig in having a square topsail and topgallantsail on the mainmast. This term is variously applied by mariners of different nations, but the above is its most generally accepted definition.}}\n{{smaller block|<poem>Like as a warlike ''Brigandine'', applyde\nTo fight, layes forth her threatfull pikes afore.</poem>\n{{right|''Spenser'', Muiopotmos.}}}} '''2†.''' A robber.—'''3†.''' Robbery.\n\n'''brigantine<sup>2</sup>''' (brig′ạn-tin), ''n.'' Same as ''brigandine''<sup>1</sup>.\n\n'''brigbote†''', ''n.''   [A term in old law-books, repr. AS. ''bricgbōt'', prop. ''brycgbōt'', a contribution for bridge-repairing, < ''brycg'', bridge, + ''bōt'', boot: see ''boot''<sup>1</sup>.]   A contribution for the repair of bridges, walls, and castles.\n\n'''brige†''', ''n.''   [ME.: see ''brigue''.]   Contention.   ''Chaucer.''\n\n'''bright<sup>1</sup>''' (brīt), ''a.''   [< ME. ''bright'', ''briht'', etc., < AS. ''bryht'', ''briht'', transposed forms of the usual ''beorht'' = OS. ''berht'', ''beraht'' = OHG. ''beraht'', ''bereht'', MHG. ''berht'' (in G. remaining only in proper names, ''Albrecht'', ''Ruprecht'', etc.; frequently so used in AS. and LG.) = Icel. ''bjartr'' = Goth. ''bairhts'', bright; prob., with old pp. suffix ''-t'', < Teut. √ *''berh'' = Skt. √ ''bhrāj'', shine, perhaps = L. ''flag-'' in ''flagrare'', flame, blaze, burn, ''flamma'' (*''flagma''), flame, = Gr. φλέγειν, blaze, burn. Cf. ''black'', ''bleak''<sup>1</sup>.]   '''1.''' Radiating or reflecting light; filled with light; brilliant; shining; luminous; sparkling: as, a ''bright'' sun.\n{{smaller block|<poem>It were all one\nThat I should love a ''bright'' particular star,\nAnd think to wed it, he is so above me.</poem>\n{{right|''Shak.'', All’s Well, i. 1.}}}}\n{{smaller block|Candles were blazing at all the windows. The public places were as ''bright'' as at noonday.\n{{right|''Macaulay'', Hist. Eng., x.}}}}\n\n'''2.''' Transmitting light; clear; transparent, as liquors.\n{{smaller block|<poem>From the ''brightest'' wines\nHe turn’d abhorrent. {{right|''Thomson.''}}</poem>}}\n\n'''3.''' Manifest to the mind, as light is to the eye; evident; clear.\n{{smaller block|He must not proceed too swiftly, that he may with more ease and ''brighter'' evidence . . . draw the learner on.\n{{right|''Watts'', Improvement of the Mind.}}}}\n'''4.''' Resplendent, as with beauty; splendid.\n{{smaller block|<poem>Thy beauty appears,\nIn its graces and airs,\nAll ''bright'' as an angel new dropt from the sky.</poem>\n{{right|''Parnell'', Song.}}}}\n'''5.''' Illustrious; glorious: as, the ''brightest'' period of a kingdom.\n{{smaller block|<poem>The ''brightest'' annals of a female reign.</poem>\n{{right|''Cotton'', Wonders of the Peake.}}}}\n'''6.''' Having or marked by brilliant mental qualities; quick in wit; witty; clever; not dull: as, he is by no means ''bright;'' a ''bright'' remark; a ''bright'' book.\n{{smaller block|<poem>If parts allure thee, think how Bacon shined,\nThe wisest, ''brightest'', meanest of mankind.</poem>\n{{right|''Pope'', Essay on Man, iv. 282.}}}}\n'''7.''' Sparkling in action or manner; animated or animating; vivacious; lively; cheerful.\n{{smaller block|<poem>Be ''bright'' and jovial among your guests to-night.</poem>\n{{right|''Shak.'', Macbeth, iii. 2.}}}}\n{{smaller block|The golden-crowned thrush, . . . with the dullest of gold upon his crown, but the ''brightest'' of songs in his heart.\n{{right|''The Century'', XXXII. 276.}}}}\n'''8.''' Favorable; pleasing; auspicious: as, a ''bright'' prospect.\n{{smaller block|<poem>Give up the promise of ''bright'' days that cast\nA glory on your nation from afar.</poem>\n{{right|''Bryant'', Spain.}}}}\n\n'''9.''' In ''painting'', luminous; glittering; full of light. {{smaller|A picture is said to be ''bright'' when the lights so much prevail as to overcome the shadows, and are kept so clear and distinct as to produce an effect of brilliancy.}}\n\n'''10.''' ''Naut.'', alert; vigilant.\n{{smaller block|Keep a ''bright'' lookout there forwards! {{right|''Cooper.''}}}}\n{{smaller|='''Syn. 1.''' Glowing, lustrous, gleaming, radiant, effulgent.—'''6.''' Acute, intelligent, discerning.—'''8.''' Promising, encouraging.}}\n\n'''bright<sup>1</sup>†''', ''adv.''   [< ME. ''brighte, brizte, brihte'', < ''briht, bright'': see ''bright''<sup>1</sup>, ''a.'']   Brightly.   ''Chaucer.''\n\n'''bright<sup>1</sup>''' (brīt), ''n.''   [< ME. ''bright, brigt'', < AS. ''byrhtu, birhtu'' (= OHG. ''berahti''), f., ''beorht'', neut., brightness, < ''beorht'', bright: see ''bright''<sup>1</sup>, ''a.'']   Brightness.\n{{smaller block|<poem>Darkness we calle the nyght,\nAnd lith [light] also the ''bright.''</poem>\n{{right|''Towneley Mysteries'', p. 1.}}}}\n\n'''bright<sup>1</sup>†''' (brīt), ''v. t.''   [< ME. ''brighten, brihten'' (with reg. inf. suffix ''-en''), < AS. ''byrhtan'', be bright, ''geberhtan'', make bright (= OHG. ''giberehtōn'' = Goth. ''gabairhtjan'', make bright), < ''beorht'', bright.]   To make bright; brighten.\n\n'''bright<sup>2</sup>†''', ''v. i.'' See ''brite.''\n\n'''bright-cut''' (brīt′kut), ''a.'' Engraved or chased so as to show the brightness of the material as left by the tool; not polished or colored.\n\n'''brighten''' (brī′tn), ''v.''   [< ''bright''<sup>1</sup> + ''-en''<sup>1</sup>. Cf. ''bright''<sup>1</sup>, ''v.'']   '''I.''' ''intrans.'' To grow bright or more bright; become less dark or gloomy: literally or figuratively.\n{{smaller block|<poem>Like the sun emerging from a cloud,\nHer countenance ''brightens'', and her eye expands.</poem>\n{{right|''Wordsworth'', Laodamia.}}}}\n{{smaller block|The great sweep of the Coliseum, with the blue sky ''brightening'' through its upper tier of arches.\n{{right|''Hawthorne'', Marble Faun, i.}}}}\n\n'''II.''' ''trans.'' '''1.''' To make bright or brighter in any manner; shed light on; make to shine; increase the luster of.\n\n{{smaller block|<poem>Her celestial eyes\nAdorn the world and ''brighten'' up the skies. ''Dryden.''</poem>}}\n'''2.''' To dispel gloom from; cheer; make gay or cheerful: as, to ''brighten'' prospects.\n{{smaller block|This makes Jack ''brighten'' up the room wherever he enters, and changes the severity of the company into . . . gaiety and good humour.\n{{right|''Steele'', Tatler, No. 206.}}}}\n'''3.''' To make illustrious or more distinguished; heighten the splendor of; add luster to.\n{{smaller block|The present queen would ''brighten'' her character if she would exert her authority to instil virtues into her people.\n{{right|''Swift.''}}}}\n'''4.''' To make acute or witty; sharpen the faculties of.—'''5.''' To add brilliancy to the colors of (prints, etc.), by boiling them in a solution of soda.\n\n'''brightening''' (brīt′ning), ''n.''   [Verbal n. of ''brighten'', ''v.'']   '''1.''' The flash of light which passes over the surface of the melted metal when lead containing silver is assayed on a cupel in a muffle. {{smaller|At the moment of the brightening, the assay, which had before been in rapid motion, becomes perfectly quiet. This occurs as soon as the last trace of lead has been absorbed by the cupel.}}\n'''2.''' In ''dyeing'', same as ''blooming''<sup>1</sup>, 2.\n\n'''bright-harnessed''' (brīt′här″nest), ''a.'' Having bright armor.   ''Milton.''\n\n'''brighthood†''' (brīt′hu̇d), ''n.''   [ME. ''brighthod''; < ''bright''<sup>1</sup> + ''-hood''.]   Brightness. {{smaller block|The bemes of my ''brighthode'' ar byrnande so bryghte.\n{{right|''York Plays'', p. 3.}}}}\n\n'''brightish''' (brī′tish), ''a.''   [< ''bright''<sup>1</sup> + ''-ish''<sup>1</sup>.]   Somewhat bright.\n\n'''brightly''' (brīt′li), ''adv.''   [< ME. ''brihtly'', ''brihtliche'', < AS. ''brihtlīce'', ''beorhtlīce'', < ''beorht'', bright.]   In a bright manner; splendidly; with luster; cheerfully.\n{{smaller block|<poem>A substitute shines ''brightly'' as a king,\nUntil a king be by. {{right|''Shak.'', M. of V., v. i.}}</poem>\n<poem>And Enoch faced this morning of farewell\n''Brightly'' and boldly. {{right|''Tennyson'', Enoch Arden.}}</poem>}}\n\n'''brightness''' (brīt′nes), ''n.''   [< ME. ''brightnes'', ''brihtnesse'', etc., < AS. ''beorhtnes'' (= OHG. ''berahtnissī''), < ''beorht'' + ''-nes'': see ''bright''<sup>1</sup> and ''-ness''.]   '''1.''' The state or quality of being bright; splendor: luster; glitter: as, “the ''brightness'' of the sun,” Acts xxvi. 13.—'''2.''' Acuteness of intellect or faculty; sharpness of wit.\n{{smaller block|The ''brightness'' of his parts . . . distinguished him.\n{{right|''Prior.''}}}}\n'''3.''' Cheer; cheerfulness.\n{{smaller block|<poem>Vex’d with the present moment’s heavy gloom,\nWhy seek ye ''brightness'' from the years to come?</poem>\n{{right|''Prior'', Solomon, iii.}}}}\n{{smaller|='''Syn. 1.''' Brilliancy, effulgence.—'''2.''' Acumen, mother-wit, ingenuity.}}\n\n'''Bright’s clause, disease.''' See ''clause'', ''disease''.\n\n'''brightsome''' (brīt′sum), ''a.''   [< ''bright''<sup>1</sup> + ''-some''.]   Very bright; brilliant.\n<poem>Out of my jewelry, choose thy choice of diamonds,\nTill thou find some as ''brightsome'' as thine eyes.</poem>\n{{smaller block|{{right|''Chapman'', Blind Beggar.}}}}\n\n'''brightsomeness''' (brīt′sum-nes), ''n.'' Great brightness; brilliancy.\n{{smaller block|The ''brightsomeness'' of the Gospel was dimmed in becoming shorn of many of its grace-working ordinances.\n{{right|''Rock'', Church of our Fathers, ii. 283.}}}}\n\n'''bright-work''' (brīt′wėrk), ''n.''   ''Naut.'', those metal objects about the decks of a vessel which are kept bright by polishing.\n\n'''Brigittine''' (brij′i-tin), ''n.'' and ''a.''   [Also ''Bridgettine'', ''Bridgittine'', ''Brigettine'', etc., < ''Brigitta'', Latinized form of Ir. ''Brighid'', E. ''Bridget'', + ''-ine''<sup>1</sup>.]   '''I.''' ''n.'' '''1.''' A member of an order of nuns and monks established by St. Brigitta (Bridget), a Swedish princess, about 1344, under the Augustinian rule. {{smaller|The nuns (who were much the more numerous) and monks dwelt in contiguous houses, under the temporal government of a prioress. Before the Reformation the order had spread into many countries of Europe; and there are still a few houses of Brigittine nuns, including one in England founded at a recent period by an English community that was transferred to Portugal in Queen Elizabeth’s time.}}\n\n'''2.''' A member of a conventual order of virgins founded by St. Bridget of Ireland in the sixth century, which existed for several centuries in various parts of Europe.\n\n'''II.''' ''a.'' Pertaining to St. Brigitta or to the order founded by her: as, ''Brigittine'' indulgence.\n\n'''brignole''' (brē-nyōl′), ''n.''   [F., < ''Brignoles'', a town in the department of Var, France, celebrated for its prunes.]   A variety of the common plum furnishing the dried fruits known as Provence prunes or French plums.\n\n'''brigose†''' (bri-gōs′), ''a.''   [Early mod. E. also ''brigous''; < ML. ''brigosus'' (It. ''brigoso''), < ''briga'', contention: see ''brigue''.]   Contentious.\n{{smaller block|Very ''brigose'' and severe.\n{{right|''T. Fuller'', Moderation of the Church of Eng., p. 324.}}}}\n\n'''brigous†''', ''a.'' See ''brigose''.\n\n'''brig-schooner''' (brig′skö″nėr), ''n.'' Same as ''hermaphrodite brig'' (which see, under ''brig''<sup>2</sup>).\n\n'''brigue†''' (brēg), ''n.''   [F., a cabal, intrigue, etc., OF. ''brigue'' (> ME. ''brige'') = It. ''briga'' = Pg. ''briga'' = Sp. Pr. ''brega'' (ML. ''briga''), quarrel, contention, strife, etc. Cf. ''brigand''.]   A cabal; an intrigue; a faction; contention.\n{{smaller block|The politicks of the court, the ''brigues'' of the cardinals, the tricks of the conclave.\n{{right|''Chesterfield.''}}}}\n\n'''brigue†''' (brēg), ''v. i.''   [< F. ''briguer''; from the noun: see ''brigue'', ''n.'']   To canvass; intrigue.\n{{smaller block|Our adversaries, by ''briguing'' and caballing, have caused so universal a defection from us. ''Swift'', Tale of a Tub, i.\n\nI am too proud to ''brigue'' for admission.\n{{right|''Bp. Hurd.''}}}}\n\n'''brike<sup>1</sup>†''', ''n.'' A Middle English variant of ''brick''<sup>1</sup> and ''breach''.\n{{smaller block|<poem>Genylon Oliver . . .\nBroughte this worthy king in swich a ''brike''.</poem>\n{{right|''Chaucer'', Monk’s Tale, l. 400.}}}}\n\n'''brike<sup>2</sup>†''', ''n.'' A Middle English form of ''brick''<sup>2</sup>.\n\n'''brill''' (bril), ''n.''   [Also written ''prill'', E. dial. ''pearl''; prob. < Corn. ''brilli'', mackerel, contracted from ''brithelli'', pl. of ''brithel'', a mackerel, lit. spotted, < ''brith'', spotted, speckled, = W. ''brych'', ''brech'' = Ir. Gael. ''breac'', speckled. Cf. Ir. Gael. ''breac'', a trout, Manx ''brack'', a trout, a mackerel. Fish-names are unstable.]   A flatfish, ''Bothus'' or ''Rhombus lævis'', of the family ''Pleuronectidæ''. {{smaller|In its general form it resembles the turbot, but is inferior to it in both size and quality. It has scales, but very small ones, and the dorsal and anal fins have more numerous rays than those of the turbot. It is taken on many of the coasts of Europe, the principal part of the supply for the London market being from the southern coast of England, where it is abundant.}}\n\n'''brillante''' (brel-län′te), ''a.''   [It., = F. ''brillant'': see ''brilliant''.]   In ''music'', brilliant: noting a passage to be executed in a brilliant, dashing, showy, or spirited manner.\n\n'''brilliance, brilliancy''' (bril′yans, -yan-si), ''n.''   [< ''brilliant'': see ''-ance'', ''-ancy''.]   '''1.''' The quality of being brilliant; great brightness; splendor; luster: as, the ''brilliance'' of the diamond.\n{{smaller block|<poem>Star\nThe black earth with ''brilliance'' rare.</poem>\n{{right|''Tennyson'', Ode to Memory, ii.}}}}\n'''2.''' Figuratively, remarkable excellence or distinction; admirable or splendid quality or qualities; absolutely, conspicuous mental ability or an exhibition of it. [In this sense ''brilliancy'' is more commonly used.]\n{{smaller block|The author does not attempt to polish and brighten his composition to the Ciceronian gloss and ''brilliancy''.\n{{right|''Macaulay''.}}}}\n{{smaller block|When the circulation has been artificially exalted by stimulants, there is an easy and rapid current of thoughts, showing itself in what we describe as unusual ''brilliancy''.\n{{right|''H. Spencer'', Prin. of Psychol., § 102.}}}}\n='''Syn.''' ''Effulgence'', ''Luster'', etc. See ''radiance''.<noinclude><references/></noinclude>"
+}

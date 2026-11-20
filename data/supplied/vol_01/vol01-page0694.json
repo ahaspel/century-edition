@@ -1,0 +1,219 @@
+{
+ "volume": 1,
+ "page_number": 694,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n693.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n693.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 744,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     132,
+     105,
+     2343,
+     175
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     132,
+     175,
+     863,
+     1249
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     132,
+     1249,
+     863,
+     2347
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     132,
+     2347,
+     863,
+     3261
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     863,
+     175,
+     1608,
+     1162
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     863,
+     1162,
+     1608,
+     1853
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     863,
+     1853,
+     1608,
+     2911
+    ]
+   },
+   {
+    "name": "c2f1",
+    "kind": "figure",
+    "column": 2,
+    "box": [
+     918,
+     1853,
+     1555,
+     2472
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     863,
+     2911,
+     1608,
+     3261
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1608,
+     175,
+     2343,
+     1268
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1608,
+     1268,
+     2343,
+     2351
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1608,
+     2351,
+     2343,
+     3261
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|breach|668|break}}",
+   "c1s1": "{{smaller|peace, as by a riot, affray, or any tumult which is contrary to law and injurious to the public welfare.—'''Breach of trust''', a violation of duty by a trustee, an executor, or other person in a fiduciary position.—'''To batter in breach.''' See ''batter''<sup>1</sup>.='''Syn. 1-4.''' ''Rupture'', etc. See ''fracture.''—'''2.''' Opening, cleft, chasm, rift, rent, fissure.—'''4.''' Misunderstanding, alienation, disaffection, falling out.}}\n\n'''breach''' (brēch), ''v.'' [< ''breach'', ''n.''] '''I.''' ''trans.'' To make a breach or opening in.\n{{smaller block|The first bombardment had in no place succeeded in ''breaching'' the walls.\n{{right|''C. D. Yonge'', Naval Hist. of Gt. Britain.}}\n<poem>Roaring torrents have ''breach’d''\nThe track. ''M. Arnold'', Rugby Chapel.</poem>}}\n\n'''II.''' ''intrans.'' To spring from the water, as a whale.\n{{smaller block|When the watch at the masthead sees the whale spring from the water, he cries, “There she ''breaches!''”\n{{right|''Stand. Nat. Hist.'', V. 207.}}}}\n\n'''breaching-battery''' (brē′ching-bat″ėr-i), ''n.'' See ''battery''.\n\n'''breachy''' (brē′chi), ''a.'' [< ''breach'' + ''-y''<sup>1</sup>.] Apt to break fences; unruly: applied to cattle. [Colloq.]\n\n'''bread'''<sup>1</sup> (bred), ''n.'' [Early mod. E. also ''bred'', < ME. ''breed'', ''bred'', < AS. ''breád'' (= OFries. ''brād'' = OS. ''brōd'' = D. ''brood'' = MLG. ''brōt'', LG. ''brood'' = OHG. MHG. ''brōt'', G. ''brot'' = Icel. ''braudh'' = Sw. Dan. ''bröd''), bread, prob., like ''broth''<sup>1</sup>, q. v., from the root of ''breówan'', etc., brew: see ''brew''<sup>1</sup>. The AS. ''breád'' first appears in the comp. ''beóbreád'', bee-bread (see ''bee-bread''); it is seldom found alone; the usual word for ‘bread’ was ''hlāf'', E. ''loaf''<sup>1</sup>, q. v.] '''1.''' A kind of food made of the flour or meal of some species of grain, by kneading it (with the addition of a little",
+   "c1s2": "salt, and sometimes sugar) into a dough, yeast being commonly added to cause fermentation or “lightness,” and then baking it. {{smaller|The yeast causes alcoholic fermentation and the production of alcohol and carbonic acid; the latter, an expanding gas, pushes the particles of dough asunder, causing the bread to rise, and, with the alcohol, is soon expelled by the heat of the oven. See ''yeast.'' In ''salt-rising bread'' the fermentation is said to be carried on by bacteria. Bread is sometimes made partly or wholly from the products of other than cereal plants, as beans, lentils, chestnuts, some kinds of bark, etc.}} '''2.''' Figuratively, food or sustenance in general.\n{{smaller block|Man shall not live by ''bread'' alone. Mat. iv. 4.\n<poem>But sometimes virtue starves while vice is fed.\nWhat then? is the reward of virtue ''bread?''</poem>\n{{right|''Pope'', Essay on Man, iv. 150.}}\nMany officers of the army were arbitrarily deprived of their commissions and of their ''bread.''\n{{right|''Macaulay'', Hist. Eng., vi.}}}}\n{{smaller|'''Aërated bread.''' See ''aërate.''—'''Bloody bread.''' See ''bloody.''—'''Bread Acts,''' English statutes of 1822 (3 Geo. IV., c. 106) and 1836 (6 and 7 Wm. IV., c. 37) regulating the making and sale of bread, and prohibiting the adulteration of bread, meal, and flour.—'''Bread and butter,''' one’s means of living. [Colloq.]}}\n{{smaller block|Your quarrelling with each other upon the subject of ''bread and butter'' is the most usual thing in the world.\n{{right|''Swift'', To Duchess of Queensberry, Aug. 12, 1732.}}}}\n{{smaller|'''Brown bread.''' (''a'') Wheaten bread made from unbolted flour, which thus includes the bran as well as the finer parts of the flour: in the United States commonly called ''Graham bread.'' (''b'') In New England, wheaten or rye bread containing an admixture of Indian meal: a variety of it is called specifically ''Boston brown bread.''—'''Hottentot’s bread.''' See ''Hottentot.''—'''St. John’s bread,''' a children’s name for ergot. ''Berkeley.''—'''Statute of bread and ale,''' an English statute of 1266, better known as the ''assisa panis et cervisiæ'', regulating the sale of those commodities.—'''Tatar bread,''' the root of a cruciferous plant,}}",
+   "c1s3": "{{smaller|''Crambe Tatarica'', cultivated for food in Hungary.}}—'''To break bread.''' {{smaller|See ''break''.}}—'''To know on which side one’s bread is buttered.''' {{smaller|See ''butter''<sup>1</sup>, ''v.''}}\n\n¶\n'''bread'''<sup>1</sup> (bred), ''v. t.'' [< ''bread''<sup>1</sup>, ''n.''] In ''cookery'', to prepare with grated bread; cover with white of eggs and bread-crumbs.\n\n'''bread'''<sup>2</sup> (brēd), ''v. t.'' [< ME. ''breden'', < AS. ''brǣdan'' (= OS. ''brēdian'' = OHG. ''breitēn'', MHG. G. ''breiten'' = Icel. ''breidhja'' = Sw. ''breda'' = Dan. ''brede'' = Goth. *''braidjan'', in comp. ''us-braidjan''), make broad, < ''brād'', broad: see ''broad'', ''a.'', and cf. ''broad'', ''v.'', and ''broaden''.] To make broad; spread. ''Ray''; ''Grose''. [Prov. Eng.]\n\n'''bread'''<sup>2</sup>†, ''n.'' [< ME. ''brede'', < AS. ''brǣdu'' (= D. ''breedte'' = OHG. ''breitī'', MHG. G. ''breite'' = Icel. ''breidd'' = Sw. ''bredd'' = Dan. ''bredde'' = Goth. ''braidei''), breadth, < ''brād'', broad: see ''broad''.] Breadth. Also ''brede''. [The older word, now displaced by ''breadth''.]\n{{smaller block|Thoughe it be clept the Tour of Babiloyne, ȝit natheles there were ordeyned with inne many Mansiouns and many gret duellynge Places, in length and ''brede''.\n{{right|''Mandeville'', Travels, p. 41.}}}}\n'''On brede'''†, {{smaller|abroad.}}\n{{smaller block|Sorwe yblowe ''on brede''. ''Chaucer'', Troilus, i. 530.}}\n\n'''bread'''<sup>3</sup> (brēd), ''v. t.'' [Var. of ''braid''<sup>1</sup>; < ME. ''breden'', < AS. ''bredan'', ''bregdan'': see ''braid''<sup>1</sup>.] In ''net-making'', to form in meshes; net. Also ''breathe'', ''brede''.\n{{smaller block|To ''bread'' or ''breathe'' a net is to make a net.\n{{right|''Encyc. Brit.'', XVII. 359.}}}}",
+   "c2s1": "¶\n'''bread'''<sup>2</sup>, '''brede''' (bred), ''n.'' [Var. of ''braid''<sup>1</sup>, ''n.''] A piece of embroidery; a braid. [Obsolete or poetical.]\n{{smaller block|A curious ''brede'' of needlework. {{right|''Dryden.''}}\nShe every day came to him in a different dress, of the most beautiful shells, bugles, and ''bredes.''\n{{right|''Steele'', Spectator, No. 11.}}\n<poem>O Attic shape! Fair attitude! with ''brede''\nOf marble men and maidens overwrought.</poem>\n{{right|''Keats'', Ode on a Grecian Urn.}}\n<poem>The . . . wave that rims the Carib shore\nWith momentary ''brede'' of pearl and gold.</poem>\n{{right|''Lowell'', Sea-weed.}}}}\n\n'''bread-and-butter''' (bred′a̤nd-but′ėr), ''a.'' '''1.''' Seeking bread and butter, or the means of living; controlled by material wants and desires; mercenary: as, the ''bread-and-butter'' brigade (applied to office-seekers in the United States). —'''2.''' Eating much bread and butter, as young boys or girls; hence, belonging to adolescence; in the stage of growth: as, she’s but a ''bread-and-butter'' miss. [Colloq.]\n{{smaller block|The wishy-washy ''bread-and-butter'' period of life.\n{{right|''Trollope'', Barchester Towers, xli.}}}}\n\n'''bread-barge''' (bred′bärj), ''n.'' The wooden box or tub in which the crew of a merchant vessel keep their daily allowance of biscuit.\n\n'''bread-basket''' (bred′bȧs″ket), ''n.'' '''1.''' A basket for holding or carrying bread; specifically, a tray, generally oval in shape, used for holding bread at table.—'''2.''' The stomach. [Slang.]\n{{smaller block|I . . . made the soup-maigre rumble in his ''bread-basket'', and laid him sprawling. {{right|''Foote'', Englishman in Paris, i.}}}}",
+   "c2s2": "¶\n'''breadberry''' (bred′ber″i), ''n.'' An article of diet for convalescents and persons in delicate health, made by pouring boiling water on toasted bread and seasoning it with sugar, etc.; pap.\n\n'''bread-chipper†''' (bred′chip″ėr), ''n.'' One who chips or slices bread.\n{{smaller block|Not to dispraise me; and call me pantler, and ''bread-chipper'', and I know not what?\n{{right|''Shak.'', 2 Hen. IV., ii. 4.}}}}\n\n'''bread-corn''' (bred′kôrn), ''n.'' Corn or grain of which bread is made, as wheat, rye, maize, etc.\n\n'''breaden†''' (bred′n), ''a.'' [< ''bread''<sup>1</sup> + ''-en''<sup>2</sup>.] Made of bread. [Rare.]\n\n'''breadfruit''' (bred′fröt), ''n.'' The fruit of the tree ''Artocarpus incisa.'' See below.—'''Breadfruit-tree.''' {{smaller|(''a'') The ''Artocarpus incisa'', a native of Java and the neighboring islands, but long in cultivation in all the tropical islands of the Pacific, and more recently introduced in the West Indies and other parts of tropical America. The leaves are large, rough, and lobed. The fruit is composed of the numerous small female flowers united into one large fleshy mass about the size of a child’s head, and is covered with hexagonal marks externally, which are the limits of the individual flowers. It is roasted before being eaten,}}",
+   "c2s3": "[[FIGURE]]\n{{c|{{smaller|Branch of the Breadfruit-tree (''Artocarpus incisa''), with staminate and pistillate inflorescence.}}}}\n{{smaller|and though insipid it forms the principal article of food in the South Sea islands. Another species of ''Artocarpus'' (''A. integrifolia'') yields a coarser sort of breadfruit, called ''jack-fruit.'' See ''Artocarpus.'' Also called ''bread-tree.'' (''b'') A rubiaceous shrub of northern Australia, ''Gardenia edulis'', bearing a small edible fruit.—'''Hottentot breadfruit,''' of South Africa, the stem of ''Encephalartos Caffer'', which is stripped of its leaves, buried in the ground for some months, and then pounded, when it furnishes a quantity of farinaceous matter resembling sago. Also called ''Kafir-bread.''}}\n\n¶\n'''breading†''', ''n.'' [< ''bread''<sup>2</sup> + ''-ing''<sup>1</sup>.] A windrow or swath. [Prov. Eng.] See extract.\n{{smaller block|''Breadings'' of corn or grass, the swathes or lows wherein the mower leaves them.\n{{right|''Kennett'' (Halliwell).}}}}",
+   "c2s4": "¶\n'''bread-knife''' (bred′nīf), ''n.'' A knife for cutting bread.\n\n'''breadless''' (bred′les), ''a.'' [ME. ''bredlees''; < ''bread''<sup>1</sup> + ''-less.''] Without bread; destitute of food.\n{{smaller block|Plump peers and ''breadless'' bards alike are dull.\n{{right|''P. Whitehead'', State Dunces.}}}}\n\n'''breadmeal''' (bred′mēl), ''n.'' The mountain-meal or bergmehl of Sweden and Finland. See ''bergmehl.''\n\n'''bread-nut''' (bred′nut), ''n.'' The fruit of the tree ''Brosimum Alicastrum'', natural order ''Urticaceæ.''",
+   "c3s1": "{{smaller|fruit of a similar species, ''Pseudolmedia spuria.''}}\n\n'''bread-room''' (bred′röm), ''n.'' An apartment where bread is kept, especially such an apartment in a ship, made water-tight, and sometimes lined with tin to keep out rats.\n\n'''bread-root''' (bred′röt), ''n.'' A plant of the genus ''Psoralea'', the ''P. esculenta.'' See ''Psoralea.''\n\n'''bread-sauce''' (bred′sâs), ''n.'' A sauce usually made of grated bread, milk, onions, pepper, etc.\n\n'''breadstuff''' (bred′stuf), ''n.'' [< ''bread''<sup>1</sup> + ''stuff'', ''n.''] Any kind of grain from which bread is made; meal; flour: generally used in the plural as a commercial term to signify all the different varieties of grain and flour collectively from which bread is made.\n\n'''breadth''' (bredth), ''n.'' [< late ME. ''bredthe'', ''bredethe'' (with suffix ''-th'' as in ''length'', ''width'', ''strength'', etc.), older form ''brede'', < AS. ''brǣdu'', breadth: see ''bread''<sup>2</sup>, ''n.''] '''1.''' The measure of the second principal diameter of a surface or solid, the first being ''length'', and the third (in the case of a solid) ''thickness.'' {{smaller|Thus, if a rectangular parallelopiped measures 3 feet by 2 feet by 1 foot, its breadth is 2 feet. The ''breadth'' of a surface is, in the common use of the word, the distance between the margins, which are regarded as the ''sides'', as distinguished from ''length'', or the distance from ''end'' to ''end''.}}\n\nHence —'''2.''' Figuratively, largeness; freedom from narrowness or restraint; liberality: as, ''breadth'' of culture, ''breadth'' of view, etc.—'''3.''' That quality in a work of art, whether pictorial or plastic, which is obtained by the simple, clear rendering of essential forms, and the strict subordination of details to general effect. {{smaller|Breadth of design, of color, of light and shade, or of sur-}}",
+   "c3s2": "{{smaller block|face treatment, gives an impression of mastery, ease, and freedom in the use of material on the part of the artist, which conveys a sense of repose and dignity to the mind.}}\n'''4.''' In ''logic'', extension; the aggregate of subjects of which a logical term can be predicated. —'''5.''' Something that has breadth; specifically, a piece of a fabric of the regular width; a width. {{smaller|—'''Essential breadth,''' the aggregate of real things of which, according to its very meaning, a term is predicable. The term ''being'', for example, is from its meaning predicable of everything.—'''Informed breadth,''' the aggregate of real things of which a term is predicable with logical truth, on the whole, in a supposed state of information.}}\n\n'''breadthen''' (bred′then), ''v. t.'' [< ''breadth'' + ''-en''<sup>1</sup>. Cf. ''lengthen.''] To make broader; extend or stretch transversely. [Rare.]\n{{smaller block|To extend the pieces to their utmost width a machine called a ''breadthening'' machine is employed.\n{{right|''Ure'', Dict., I. 667.}}}}\n\n'''breadthless''' (bredth′les), ''a.'' [< ''breadth'' + ''-less.''] Without breadth. ''Dr. H. More.''\n\n'''breadthwise, breadthways''' (bredth′wīz, -wāz), ''adv.'' [< ''breadth'' + ''-wise, -ways.''] In the direction of the breadth.\n\n'''bread-tray''' (bred′trā), ''n.'' A tray for holding bread.\n\n'''bread-tree''' (bred′trē), ''n.'' Same as ''breadfruit-tree,'' (''a'') (which see, under ''breadfruit'').\n\n'''bread-weight,''' ''n.'' Same as ''troy weight.''\n\n'''breadwinner''' (bred′win″ėr), ''n.'' '''1.''' One who earns a livelihood for himself and those dependent upon him: usually restricted to one who is directly dependent upon his earnings from day to day or from week to week.\n{{smaller block|The ''breadwinner'' being gone, his goods were seized for an old debt, and his wife was driven into the streets to}}",
+   "c3s3": "{{smaller block|beg.\n{{right|''Lecky'', Eng. in 18th Cent., xiii.}}}}\n\n'''2.''' That by means of which one earns one’s bread. [Rare.]\n{{smaller block|The book-making specialist of our generation probably yields to none of his predecessors in the literary roll in respect of industry, skill, and accuracy; but his subject, as a rule, is his business, his ''breadwinner''.\n{{right|''Quarterly Rev.'', CLXII. 515.}}}}\n\n¶\n'''bready†''' (bred′i), ''a.'' [< ''bread''<sup>1</sup> + ''-y''<sup>1</sup>.] Resembling bread.\n\n'''break''' (brāk), ''v.''; pret. ''broke'' (''brake'' is obsolete or archaic), pp. ''broken'' or ''broke'' (obsolescent or poetical), ppr. ''breaking''. [Early mod. E. and dial. also ''breck''; < ME. ''breken'' (pret. ''brak'', ''brek'', ''brake'', pl. ''braken'', ''breken'', pp. ''broken'', ''broke''), < AS. ''brecan'' (pret. ''bræc'', pl. ''brǣcon'', pp. ''brocen'') = OS. ''brekan'' = OFries. ''breka'' = D. ''breken'' = MLG. ''breken'', LG. ''breken'', ''bræken'' = OHG. ''brehhan'', MHG. ''brechen'', G. ''brechen'' = Goth. ''brikan'', break (cf. Icel. ''brāka'', bruise, ''braka'', creak, Sw. ''braka'', crack, = Dan. ''brække'', break — weak verbs), = L. ''frangere'' (perf. ''frēgi''); perhaps = Gr. ῥηγνύναι, break; cf. Skt. √ ''bhanj'' (for *''bhranj''?), break. Hence (from AS. etc.) ''breach'', ''break'', ''n.'', ''breck'', ''breek''<sup>2</sup>, ''brick''<sup>1</sup>, ''brake''<sup>1</sup>, ''brake''<sup>2</sup>, ''brake''<sup>3</sup>, ''brock''<sup>2</sup>, perhaps ''brook''<sup>1</sup>, etc.; (through Rom.) ''bray''<sup>1</sup>, ''breccia'', ''bricole'', etc.; and (from L.) ''fraction'', ''fracture'', ''fragile'', ''frail''<sup>1</sup>, ''fragment'', etc.] '''I.''' ''trans.'' '''1.''' To divide into parts or fragments vio-"
+  },
+  "figure_files": {
+   "c2f1": "century v01 p0694 c2f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     930,
+     1865,
+     1543,
+     2460
+    ],
+    "caption": [
+     884,
+     2468,
+     1600,
+     2512
+    ],
+    "column": 2,
+    "inset": false,
+    "page_box": [
+     947,
+     1853,
+     1597,
+     2396
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "2": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4226,
+    "output_tokens": 97,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9589,
+    "output_tokens": 9779,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|breach|668|break}}</noinclude>{{smaller|peace, as by a riot, affray, or any tumult which is contrary to law and injurious to the public welfare.—'''Breach of trust''', a violation of duty by a trustee, an executor, or other person in a fiduciary position.—'''To batter in breach.''' See ''batter''<sup>1</sup>.='''Syn. 1-4.''' ''Rupture'', etc. See ''fracture.''—'''2.''' Opening, cleft, chasm, rift, rent, fissure.—'''4.''' Misunderstanding, alienation, disaffection, falling out.}}\n\n'''breach''' (brēch), ''v.''   [< ''breach'', ''n.'']   '''I.''' ''trans.'' To make a breach or opening in.\n{{smaller block|The first bombardment had in no place succeeded in ''breaching'' the walls.\n{{right|''C. D. Yonge'', Naval Hist. of Gt. Britain.}}}}\n{{smaller block|<poem>Roaring torrents have ''breach’d''\nThe track. ''M. Arnold'', Rugby Chapel.</poem>}}\n\n'''II.''' ''intrans.'' To spring from the water, as a whale.\n{{smaller block|When the watch at the masthead sees the whale spring from the water, he cries, “There she ''breaches!''”\n{{right|''Stand. Nat. Hist.'', V. 207.}}}}\n\n'''breaching-battery''' (brē′ching-bat″ėr-i), ''n.'' See ''battery''.\n\n'''breachy''' (brē′chi), ''a.''   [< ''breach'' + ''-y''<sup>1</sup>.]   Apt to break fences; unruly: applied to cattle. [Colloq.]\n\n'''bread'''<sup>1</sup> (bred), ''n.''   [Early mod. E. also ''bred'', < ME. ''breed'', ''bred'', < AS. ''breád'' (= OFries. ''brād'' = OS. ''brōd'' = D. ''brood'' = MLG. ''brōt'', LG. ''brood'' = OHG. MHG. ''brōt'', G. ''brot'' = Icel. ''braudh'' = Sw. Dan. ''bröd''), bread, prob., like ''broth''<sup>1</sup>, q. v., from the root of ''breówan'', etc., brew: see ''brew''<sup>1</sup>. The AS. ''breád'' first appears in the comp. ''beóbreád'', bee-bread (see ''bee-bread''); it is seldom found alone; the usual word for ‘bread’ was ''hlāf'', E. ''loaf''<sup>1</sup>, q. v.]   '''1.''' A kind of food made of the flour or meal of some species of grain, by kneading it (with the addition of a little salt, and sometimes sugar) into a dough, yeast being commonly added to cause fermentation or “lightness,” and then baking it. {{smaller|The yeast causes alcoholic fermentation and the production of alcohol and carbonic acid; the latter, an expanding gas, pushes the particles of dough asunder, causing the bread to rise, and, with the alcohol, is soon expelled by the heat of the oven. See ''yeast.'' In ''salt-rising bread'' the fermentation is said to be carried on by bacteria. Bread is sometimes made partly or wholly from the products of other than cereal plants, as beans, lentils, chestnuts, some kinds of bark, etc.}} '''2.''' Figuratively, food or sustenance in general.\n{{smaller block|Man shall not live by ''bread'' alone. Mat. iv. 4.\n<poem>But sometimes virtue starves while vice is fed.\nWhat then? is the reward of virtue ''bread?''</poem>\n{{right|''Pope'', Essay on Man, iv. 150.}}}}\n{{smaller block|Many officers of the army were arbitrarily deprived of their commissions and of their ''bread.''\n{{right|''Macaulay'', Hist. Eng., vi.}}}}\n{{smaller|'''Aërated bread.''' See ''aërate.''—'''Bloody bread.''' See ''bloody.''—'''Bread Acts,''' English statutes of 1822 (3 Geo. IV., c. 106) and 1836 (6 and 7 Wm. IV., c. 37) regulating the making and sale of bread, and prohibiting the adulteration of bread, meal, and flour.—'''Bread and butter,''' one’s means of living. [Colloq.]}}\n{{smaller block|Your quarrelling with each other upon the subject of ''bread and butter'' is the most usual thing in the world.\n{{right|''Swift'', To Duchess of Queensberry, Aug. 12, 1732.}}}}\n{{smaller|'''Brown bread.''' (''a'') Wheaten bread made from unbolted flour, which thus includes the bran as well as the finer parts of the flour: in the United States commonly called ''Graham bread.'' (''b'') In New England, wheaten or rye bread containing an admixture of Indian meal: a variety of it is called specifically ''Boston brown bread.''—'''Hottentot’s bread.''' See ''Hottentot.''—'''St. John’s bread,''' a children’s name for ergot.   ''Berkeley.''—'''Statute of bread and ale,''' an English statute of 1266, better known as the ''assisa panis et cervisiæ'', regulating the sale of those commodities.—'''Tatar bread,''' the root of a cruciferous plant, ''Crambe Tatarica'', cultivated for food in Hungary.}}—'''To break bread.''' {{smaller|See ''break''.}}—'''To know on which side one’s bread is buttered.''' {{smaller|See ''butter''<sup>1</sup>, ''v.''}}\n\n'''bread'''<sup>1</sup> (bred), ''v. t.''   [< ''bread''<sup>1</sup>, ''n.'']   In ''cookery'', to prepare with grated bread; cover with white of eggs and bread-crumbs.\n\n'''bread'''<sup>2</sup> (brēd), ''v. t.''   [< ME. ''breden'', < AS. ''brǣdan'' (= OS. ''brēdian'' = OHG. ''breitēn'', MHG. G. ''breiten'' = Icel. ''breidhja'' = Sw. ''breda'' = Dan. ''brede'' = Goth. *''braidjan'', in comp. ''us-braidjan''), make broad, < ''brād'', broad: see ''broad'', ''a.'', and cf. ''broad'', ''v.'', and ''broaden''.]   To make broad; spread. ''Ray'';   ''Grose''. [Prov. Eng.]\n\n'''bread'''<sup>2</sup>†, ''n.''   [< ME. ''brede'', < AS. ''brǣdu'' (= D. ''breedte'' = OHG. ''breitī'', MHG. G. ''breite'' = Icel. ''breidd'' = Sw. ''bredd'' = Dan. ''bredde'' = Goth. ''braidei''), breadth, < ''brād'', broad: see ''broad''.]   Breadth. Also ''brede''. [The older word, now displaced by ''breadth''.]\n{{smaller block|Thoughe it be clept the Tour of Babiloyne, ȝit natheles there were ordeyned with inne many Mansiouns and many gret duellynge Places, in length and ''brede''.\n{{right|''Mandeville'', Travels, p. 41.}}}}\n'''On brede'''†, {{smaller|abroad.}}\n{{smaller block|Sorwe yblowe ''on brede''.\n{{right|''Chaucer'', Troilus, i. 530.}}}}\n\n'''bread'''<sup>3</sup> (brēd), ''v. t.''   [Var. of ''braid''<sup>1</sup>; < ME. ''breden'', < AS. ''bredan'', ''bregdan'': see ''braid''<sup>1</sup>.]   In ''net-making'', to form in meshes; net. Also ''breathe'', ''brede''.\n{{smaller block|To ''bread'' or ''breathe'' a net is to make a net.\n{{right|''Encyc. Brit.'', XVII. 359.}}}}\n\n'''bread'''<sup>2</sup>, '''brede''' (bred), ''n.''   [Var. of ''braid''<sup>1</sup>, ''n.'']   A piece of embroidery; a braid. [Obsolete or poetical.]\n{{smaller block|A curious ''brede'' of needlework. {{right|''Dryden.''}}}}\n{{smaller block|She every day came to him in a different dress, of the most beautiful shells, bugles, and ''bredes.''\n{{right|''Steele'', Spectator, No. 11.}}}}\n{{smaller block|<poem>O Attic shape! Fair attitude! with ''brede''\nOf marble men and maidens overwrought.</poem>\n{{right|''Keats'', Ode on a Grecian Urn.}}}}\n{{smaller block|<poem>The . . . wave that rims the Carib shore\nWith momentary ''brede'' of pearl and gold.</poem>\n{{right|''Lowell'', Sea-weed.}}}}\n\n'''bread-and-butter''' (bred′a̤nd-but′ėr), ''a.'' '''1.''' Seeking bread and butter, or the means of living; controlled by material wants and desires; mercenary: as, the ''bread-and-butter'' brigade (applied to office-seekers in the United States). —'''2.''' Eating much bread and butter, as young boys or girls; hence, belonging to adolescence; in the stage of growth: as, she’s but a ''bread-and-butter'' miss. [Colloq.]\n{{smaller block|The wishy-washy ''bread-and-butter'' period of life.\n{{right|''Trollope'', Barchester Towers, xli.}}}}\n\n'''bread-barge''' (bred′bärj), ''n.'' The wooden box or tub in which the crew of a merchant vessel keep their daily allowance of biscuit.\n\n'''bread-basket''' (bred′bȧs″ket), ''n.'' '''1.''' A basket for holding or carrying bread; specifically, a tray, generally oval in shape, used for holding bread at table.—'''2.''' The stomach. [Slang.]\n{{smaller block|I . . . made the soup-maigre rumble in his ''bread-basket'', and laid him sprawling. {{right|''Foote'', Englishman in Paris, i.}}}}\n\n'''breadberry''' (bred′ber″i), ''n.'' An article of diet for convalescents and persons in delicate health, made by pouring boiling water on toasted bread and seasoning it with sugar, etc.; pap.\n\n'''bread-chipper†''' (bred′chip″ėr), ''n.'' One who chips or slices bread.\n{{smaller block|Not to dispraise me; and call me pantler, and ''bread-chipper'', and I know not what?\n{{right|''Shak.'', 2 Hen. IV., ii. 4.}}}}\n\n'''bread-corn''' (bred′kôrn), ''n.'' Corn or grain of which bread is made, as wheat, rye, maize, etc.\n\n'''breaden†''' (bred′n), ''a.''   [< ''bread''<sup>1</sup> + ''-en''<sup>2</sup>.]   Made of bread. [Rare.]\n\n'''breadfruit''' (bred′fröt), ''n.'' The fruit of the tree ''Artocarpus incisa.'' See below.—'''Breadfruit-tree.''' {{smaller|(''a'') The ''Artocarpus incisa'', a native of Java and the neighboring islands, but long in cultivation in all the tropical islands of the Pacific, and more recently introduced in the West Indies and other parts of tropical America. The leaves are large, rough, and lobed. The fruit is composed of the numerous small female flowers united into one large fleshy mass about the size of a child’s head, and is covered with hexagonal marks externally, which are the limits of the individual flowers. It is roasted before being eaten, and though insipid it forms the principal article of food in the South Sea islands. Another species of ''Artocarpus'' (''A. integrifolia'') yields a coarser sort of breadfruit, called ''jack-fruit.'' See ''Artocarpus.'' Also called ''bread-tree.'' (''b'') A rubiaceous shrub of northern Australia, ''Gardenia edulis'', bearing a small edible fruit.—'''Hottentot breadfruit,''' of South Africa, the stem of ''Encephalartos Caffer'', which is stripped of its leaves, buried in the ground for some months, and then pounded, when it furnishes a quantity of farinaceous matter resembling sago. Also called ''Kafir-bread.''}}\n\n[[File:century v01 p0694 c2f1.png|center|308px]]\n{{c|{{smaller|Branch of the Breadfruit-tree (''Artocarpus incisa''), with staminate and pistillate inflorescence.}}}}\n\n'''breading†''', ''n.''   [< ''bread''<sup>2</sup> + ''-ing''<sup>1</sup>.]   A windrow or swath. [Prov. Eng.] See extract.\n{{smaller block|''Breadings'' of corn or grass, the swathes or lows wherein the mower leaves them.\n{{right|''Kennett'' (Halliwell).}}}}\n\n'''bread-knife''' (bred′nīf), ''n.'' A knife for cutting bread.\n\n'''breadless''' (bred′les), ''a.''   [ME. ''bredlees''; < ''bread''<sup>1</sup> + ''-less.'']   Without bread; destitute of food.\n{{smaller block|Plump peers and ''breadless'' bards alike are dull.\n{{right|''P. Whitehead'', State Dunces.}}}}\n\n'''breadmeal''' (bred′mēl), ''n.'' The mountain-meal or bergmehl of Sweden and Finland. See ''bergmehl.''\n\n'''bread-nut''' (bred′nut), ''n.'' The fruit of the tree ''Brosimum Alicastrum'', natural order ''Urticaceæ.'' {{smaller|fruit of a similar species, ''Pseudolmedia spuria.''}}\n\n'''bread-room''' (bred′röm), ''n.'' An apartment where bread is kept, especially such an apartment in a ship, made water-tight, and sometimes lined with tin to keep out rats.\n\n'''bread-root''' (bred′röt), ''n.'' A plant of the genus ''Psoralea'', the ''P. esculenta.'' See ''Psoralea.''\n\n'''bread-sauce''' (bred′sâs), ''n.'' A sauce usually made of grated bread, milk, onions, pepper, etc.\n\n'''breadstuff''' (bred′stuf), ''n.''   [< ''bread''<sup>1</sup> + ''stuff'', ''n.'']   Any kind of grain from which bread is made; meal; flour: generally used in the plural as a commercial term to signify all the different varieties of grain and flour collectively from which bread is made.\n\n'''breadth''' (bredth), ''n.''   [< late ME. ''bredthe'', ''bredethe'' (with suffix ''-th'' as in ''length'', ''width'', ''strength'', etc.), older form ''brede'', < AS. ''brǣdu'', breadth: see ''bread''<sup>2</sup>, ''n.'']   '''1.''' The measure of the second principal diameter of a surface or solid, the first being ''length'', and the third (in the case of a solid) ''thickness.'' {{smaller|Thus, if a rectangular parallelopiped measures 3 feet by 2 feet by 1 foot, its breadth is 2 feet. The ''breadth'' of a surface is, in the common use of the word, the distance between the margins, which are regarded as the ''sides'', as distinguished from ''length'', or the distance from ''end'' to ''end''.}}\n\nHence —'''2.''' Figuratively, largeness; freedom from narrowness or restraint; liberality: as, ''breadth'' of culture, ''breadth'' of view, etc.—'''3.''' That quality in a work of art, whether pictorial or plastic, which is obtained by the simple, clear rendering of essential forms, and the strict subordination of details to general effect. {{smaller|Breadth of design, of color, of light and shade, or of surface treatment, gives an impression of mastery, ease, and freedom in the use of material on the part of the artist, which conveys a sense of repose and dignity to the mind.}}\n'''4.''' In ''logic'', extension; the aggregate of subjects of which a logical term can be predicated. —'''5.''' Something that has breadth; specifically, a piece of a fabric of the regular width; a width. {{smaller|—'''Essential breadth,''' the aggregate of real things of which, according to its very meaning, a term is predicable. The term ''being'', for example, is from its meaning predicable of everything.—'''Informed breadth,''' the aggregate of real things of which a term is predicable with logical truth, on the whole, in a supposed state of information.}}\n\n'''breadthen''' (bred′then), ''v. t.''   [< ''breadth'' + ''-en''<sup>1</sup>. Cf. ''lengthen.'']   To make broader; extend or stretch transversely. [Rare.]\n{{smaller block|To extend the pieces to their utmost width a machine called a ''breadthening'' machine is employed.\n{{right|''Ure'', Dict., I. 667.}}}}\n\n'''breadthless''' (bredth′les), ''a.''   [< ''breadth'' + ''-less.'']   Without breadth.   ''Dr. H. More.''\n\n'''breadthwise, breadthways''' (bredth′wīz, -wāz), ''adv.''   [< ''breadth'' + ''-wise, -ways.'']   In the direction of the breadth.\n\n'''bread-tray''' (bred′trā), ''n.'' A tray for holding bread.\n\n'''bread-tree''' (bred′trē), ''n.'' Same as ''breadfruit-tree,'' (''a'') (which see, under ''breadfruit'').\n\n'''bread-weight,''' ''n.'' Same as ''troy weight.''\n\n'''breadwinner''' (bred′win″ėr), ''n.'' '''1.''' One who earns a livelihood for himself and those dependent upon him: usually restricted to one who is directly dependent upon his earnings from day to day or from week to week.\n{{smaller block|The ''breadwinner'' being gone, his goods were seized for an old debt, and his wife was driven into the streets to beg.\n{{right|''Lecky'', Eng. in 18th Cent., xiii.}}}}\n\n'''2.''' That by means of which one earns one’s bread. [Rare.]\n{{smaller block|The book-making specialist of our generation probably yields to none of his predecessors in the literary roll in respect of industry, skill, and accuracy; but his subject, as a rule, is his business, his ''breadwinner''.\n{{right|''Quarterly Rev.'', CLXII. 515.}}}}\n\n'''bready†''' (bred′i), ''a.''   [< ''bread''<sup>1</sup> + ''-y''<sup>1</sup>.]   Resembling bread.\n\n'''break''' (brāk), ''v.''; pret. ''broke'' (''brake'' is obsolete or archaic), pp. ''broken'' or ''broke'' (obsolescent or poetical), ppr. ''breaking''.   [Early mod. E. and dial. also ''breck''; < ME. ''breken'' (pret. ''brak'', ''brek'', ''brake'', pl. ''braken'', ''breken'', pp. ''broken'', ''broke''), < AS. ''brecan'' (pret. ''bræc'', pl. ''brǣcon'', pp. ''brocen'') = OS. ''brekan'' = OFries. ''breka'' = D. ''breken'' = MLG. ''breken'', LG. ''breken'', ''bræken'' = OHG. ''brehhan'', MHG. ''brechen'', G. ''brechen'' = Goth. ''brikan'', break (cf. Icel. ''brāka'', bruise, ''braka'', creak, Sw. ''braka'', crack, = Dan. ''brække'', break — weak verbs), = L. ''frangere'' (perf. ''frēgi''); perhaps = Gr. ῥηγνύναι, break; cf. Skt. √ ''bhanj'' (for *''bhranj''?), break. Hence (from AS. etc.) ''breach'', ''break'', ''n.'', ''breck'', ''breek''<sup>2</sup>, ''brick''<sup>1</sup>, ''brake''<sup>1</sup>, ''brake''<sup>2</sup>, ''brake''<sup>3</sup>, ''brock''<sup>2</sup>, perhaps ''brook''<sup>1</sup>, etc.; (through Rom.) ''bray''<sup>1</sup>, ''breccia'', ''bricole'', etc.; and (from L.) ''fraction'', ''fracture'', ''fragile'', ''frail''<sup>1</sup>, ''fragment'', etc.]   '''I.''' ''trans.'' '''1.''' To divide into parts or fragments vio-<noinclude><references/></noinclude>"
+}

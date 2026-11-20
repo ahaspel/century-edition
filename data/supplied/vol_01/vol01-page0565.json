@@ -1,0 +1,295 @@
+{
+ "volume": 1,
+ "page_number": 565,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n564.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n564.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 743,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     98,
+     140,
+     2321,
+     178
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     98,
+     178,
+     847,
+     1018
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     98,
+     1018,
+     847,
+     2074
+    ]
+   },
+   {
+    "name": "c1f1",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     404,
+     1037,
+     842,
+     1502
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     98,
+     2074,
+     847,
+     3164
+    ]
+   },
+   {
+    "name": "c1f2",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     578,
+     2532,
+     844,
+     2774
+    ]
+   },
+   {
+    "name": "c1f3",
+    "kind": "figure",
+    "column": 1,
+    "box": [
+     558,
+     2924,
+     846,
+     3067
+    ]
+   },
+   {
+    "name": "c1s4",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     98,
+     3164,
+     847,
+     3278
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     847,
+     178,
+     1592,
+     1231
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     847,
+     1231,
+     1592,
+     2309
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     847,
+     2309,
+     1592,
+     3278
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1592,
+     178,
+     2321,
+     1165
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1592,
+     1165,
+     2321,
+     2218
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1592,
+     2218,
+     2321,
+     3278
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|bevel|539|bewest}}",
+   "c1s1": "''trans.'' To cut to a bevel-angle: as, to ''bevel'' a piece of wood.\n\n'''II.''' ''intrans.'' To incline toward a point or from a direct line; slant or incline off to a bevel-angle.\n\n¶\n'''bevel-angle''' (bev′el-ang″gl), ''n.'' Any angle except a right angle, whether it be acute or obtuse. Also called ''bevel.''\n\n'''beveled, bevelled''' (bev′eld), ''p. a.'' '''1.''' Having a bevel; formed with a bevel-angle.—'''2.''' In ''mineral.'', replaced by two planes inclining equally upon the adjacent planes, as an edge; having its edges replaced as above, as a cube or other solid.—'''3.''' In ''her.'', broken by an acute angle: thus, in the cut under ''bevel'', the blazon would be a chief vert, ''beveled.''—'''Beveled bushing,''' {{smaller|a bushing in which the sides are inclined to the ends.—}}'''Beveled double,''' {{smaller|in ''her.'', beveled on either side.—}}'''Beveled furniture,''' {{smaller|in ''printing'': (''a'') The tapering side-sticks and foot-sticks used in imposing forms or locking up galleys. (''b'') Beveled pieces of wood less than type-high.—}}'''Beveled gearing.''' {{smaller|See ''gearing.''—}}'''Beveled washer,''' {{smaller|a washer having its two faces not parallel to each other, used to give a proper bearing to a head or nut when the rod or bolt is not perpendicular to the surface against which the washer presses.}}\n\n'''bevel-gear''' (bev′el-gēr), ''n.'' In ''mach.'', a species of wheelwork in which the axis or shaft of the",
+   "c1s2": "leader or driver forms an angle with the axis or shaft of the follower or the wheel driven.\n[[FIGURE]]\n{{c|{{smaller|Bevel-gear.}}}}\n\n¶\n'''bevel-hub''' (bev′el-hub), ''n.'' A hub or short connecting-pipe having a bend.\n\n'''beveling, bevelling''' (bev′el-ing), ''n.'' Same as ''bevel'', 1.\n{{smaller block|It is evident from the preceding, that by applying the bevel in the workman’s usual manner, viz., with the stock against the left-hand side of the board and directed towards his body, all the ''bevelings'' will be under, that is, less than a right angle. . . . We thus find that when the first futtock frames are on the amidship side of the joint, their ''bevelings'' are always standing, or greater than a right angle.\n{{right|''Thearle'', Naval Architecture, p. 53.}}}}\n\n'''beveling-board''' (bev′el-ing-bōrd), ''n.'' '''1.''' A board cut to any required bevel. It is used in adjusting frames or the parts of an angular construction, as in a ship.—'''2.''' A flat board upon which the bevelings of the various portions of a construction, as the framework of a ship, are marked.\n\n'''beveling-frame''' (bev′el-ing-frām), ''n.'' A wooden frame in which a beveling-board is placed to be marked. {{smaller|It consists of a wide board, on one edge of}}",
+   "c1s3": "{{smaller block|which is placed a fixed, and on the opposite a movable, batten. Across both battens parallel lines are marked.}}\n\n'''bevelingmachine''' (bev′el-ing-ma-shēn″), ''n.'' A machine for beveling or angling the outer edges of a book-cover, or of an electrotyped plate for printing.\n\n'''bevel-jack''' (bev′el-jak), ''n.'' A device used in transmitting motion from a motor to a machine.\n{{smaller block|It consists of a pair of bevel-gears, one of which is connected with a tumbling-shaft turned by the motor, while the other has a pulley which by a belt drives the machine.}}\n\n'''bevel-joint''' (bev′el-joint), ''n.'' A miter or sloping joint having its faces dressed to an angle, generally of 45°.\n\n'''bevelled, bevelling.''' See ''beveled, beveling.''\n\n'''bevelment''' (bev′el-ment), ''n.'' [< ''bevel'' + ''-ment.''] In ''mineral.'', the replacement of an edge by two similar planes, equally inclined to the including faces or adjacent planes.\n[[FIGURE]]\n{{c|{{smaller|Bevelment of the edges of a cube by planes of a tetrahexahedron.}}}}\n\n'''bevel-plater''' (bev′el-plā″tėr), ''n.'' A machine for rolling the bevel-edged plates of shingling and veneering saws.\n\n'''bevel-protractor''' (bev′el-prọ̄-trak″tor), ''n.'' A drafting instrument with a pivoted arm sliding upon a graduated sector, used in laying off angles.\n[[FIGURE]]\n{{c|{{smaller|Bevel-protractor.}}}}\n\n'''bevel-rest''' (bev′el-rest), ''n.'' A clamp for holding wood to a saw in making a beveled cut.\n\n'''bevel-square''' (bev′el-skwãr), ''n.'' A try-square the blade of which can be adjusted to any",
+   "c1s4": "angle with the stock, and held at such an angle by a set-screw. {{smaller|It is an artisan’s instrument for trying his work to see if it has been made with the proper angle. Also called ''angle-bevel.''}}",
+   "c2s1": "¶\n'''bevel-ways''' (bev′el-wāz), ''adv.'' Same as ''bevelwise.''\n\n'''bevel-wheel''' (bev′el-hwēl), ''n.'' In ''mach.'', a cog-wheel of which the working-face is oblique to the axis. {{smaller|Such a wheel is commonly used in connection with another revolving with a shaft at right angles to that of the first. These wheels are often called conical wheels, as their general form is that of frusta of cones. See ''bevel-gear.''}}\n\n'''bevel-wise''' (bev′el-wīz), ''adv.'' In ''her.'', in the form or direction of a bevel: said of a ribbon or pennon charged thus upon the field. Also ''bevel-ways.''\n\n'''bever'''<sup>1</sup>†, ''n.'' An obsolete form of ''beaver''<sup>1</sup>.\n\n'''bever'''<sup>2</sup>†, ''n.'' An obsolete form of ''beaver''<sup>2</sup>.\n\n'''bever'''<sup>3</sup>† (bē′vėr), ''n.'' [Now chiefly E. dial.; also written ''beaver'', < ME. ''bever'', later also ''bevoir'', ''boever'', < OF. ''bevre'', ''boivre'', mod. F. ''boire'' = It. ''bevere'', ''bere'' (ML. ''biber''), a drink, prop. inf., drink, < L. ''bibere'', drink: see ''bib''<sup>1</sup>, ''bibber''. Hence ''beverage''.] '''1.''' A collation or slight repast between meals.\n{{smaller block|<poem>''Are.'' What, at your ''bever'', gallants?\n''Mor.'' Will ’t please your ladyship to drink?</poem>\n{{right|''B. Jonson'', Cynthia’s Revels, iv. 1.}}\n<poem>Some twenty mark a-year! will that maintain\nScarlet and gold lace, play at th’ ordinary,\nAnd ''bevers'' at the tavern?</poem>\n{{right|''Middleton'', Anything for a Quiet Life, i. 1.}}}}\n'''2.''' Formerly, at some colleges and schools, a slight meal which the students received at the buttery-hatch and took to their rooms.\n{{smaller block|No scholar shall be absent above an hour at morning ''bever'' and half an hour at evening ''bever''.\n{{right|''Quincy'', Hist. Harv. Univ., I. 517.}}}}",
+   "c2s2": "¶\n{{smaller block|When I was at Eton—now more than thirty years ago—the boys on the foundation were supplied in the dining-hall with an intermediate meal (if meal it could be called), which went under the name of ''beaver''. According to my recollection it consisted of beer only, and the hour was 4 P. M. {{right|''N. and Q.'', 7th ser., II. 454.}}}}\n\n'''bever<sup>3</sup>†''' (bē′vėr), ''v. i.'' [< ''bever''<sup>3</sup>, ''n.''] To take a bever or slight repast between meals.\n{{smaller block|Your gallants never sup, breakfast, nor ''bever'' without me. {{right|''A. Brewer'' (?), Lingua, ii. 1.}}}}\n\n'''beverage''' (bev′ẹ-rāj), ''n.'' [Early mod. E. also ''beveridge'', ''beuvrage'', etc., < ME. ''beverage'', ''beveregе'', ''beverache'', ''beurage'', etc. (cf. ML. ''beveragium''), < OF. ''bevrage'', ''beuvrage'', ''breuvraige'', mod. F. ''breuvage'' (= Pr. ''beurage'' = Sp. ''bebrage'' = Pg. ''beberagem'' = It. ''beveraggio''; ML. as if *''biberaticum''), < ''bevre'', ''boivre'' = It. ''bevere'', < L. ''bibere'', drink: see ''bever''<sup>3</sup>, ''n.'', and ''-age''.] '''1.''' Drink of any kind; liquor for drinking: as, water is the common ''beverage''; intoxicating ''beverages''.\n{{smaller block|<poem>A pleasant ''beverage'' he prepared before\nOf wine and honey mixed.</poem>{{right|''Dryden'', Pal. and Arc., ii.}}}}\n\n'''2.''' A name given specifically to various kinds of refreshing drinks. {{smaller|(''a'') In Devonshire, England, water-cider; a drink made by passing water through the crushed apples from which cider has been made. (''b'') A liquor made by passing water through the pressed grapes after the wine has been expressed.}}\n{{smaller block|Touching price and quality of a liquor or drink called in England “''bevaradge''” and in France “pimpeene.” {{right|''Record Soc. Lancashire and Cheshire'', xi. 117.}}}}\n{{smaller|(''c'') In the West Indies, a drink made of sugar-cane juice and water.}}\n\n'''3.''' In Great Britain, drink-money, or a treat provided with drink-money, as on wearing a new suit of clothes, or on receiving a suit from",
+   "c2s3": "the tailor; a treat on first coming into prison; a garnish. [Obsolete or dialectal.]\n\n'''bevew†''', ''n.'' See ''bevue.''\n\n'''bevil, bevile''', ''n.'' In ''her.'', same as ''bevel'', 5.\n\n'''bevor†''', ''n.'' See ''beaver''<sup>2</sup>.\n\n'''bevue''' (be-vü′), ''n.'' [Formerly also ''bevew'', < F. ''bévue'', OF. ''besvue'', < ''bé-'', ''bes-'' (< L. ''bis-'', double), + ''vue'', view: see ''view''.] An error of inadvertence; a slip. [Rare.]\n\n'''bevy''' (bev′i), ''n.''; pl. ''bevies'' (-iz). [Early mod. E. also ''beavy'', ''beavie'', < ME. ''bevy'', ''bevey'', ''beve'', < OF. ''beveye'' (“''beueye'' [printed ''deueye''] des heronez,” in a poem cited by Leo, Rect. Sing. Personarum, p. 40); cf. It. “''beva'', a beavie,” Florio: applied esp. to a flock of birds and thence to a company of ladies; orig., perhaps, a drinking company, or a number of animals at a watering-place, being thus a particular use of OF. ''bevee'', ''buvee'', drink, drinking (cf. It. ''beva'', a drink), < ''bevre'' = It. ''bevere'', drink: see ''bever''<sup>3</sup>, ''n.'', and ''beverage''.] '''1.''' A flock of birds, especially of larks or quails.—'''2.''' A small company or troop, as of roebucks, heifers, etc.—'''3.''' A group or small company of persons, especially of girls or women, but also used of the male sex: as, “a ''bevy'' of powdered coxcombs,” ''Goldsmith;'' “a ''bevy'' of renegades,” ''Macaulay'', Hist. Eng.\n{{smaller block|<poem>A lovely ''bevy'' of faire Ladies sate,\nCourted of many a jolly Paramoure.</poem>\n{{right|''Spenser'', F. Q., II. ix. 34.}}}}",
+   "c3s1": "'''4.''' A small collection of objects; an assemblage of things. [Rare or obsolete.]='''Syn. 1.''' {{smaller|''Covey'', etc. See ''flock''.}}\n\n'''bewail''' (bē-wāl′), ''v.'' [< ME. ''bewailen'', ''beweilen'', ''biwailen'', etc., < ''be-'' + ''wailen'', wail: see ''be-''<sup>1</sup> and ''wail''.] '''I.''' ''trans.'' To mourn aloud for; bemoan; lament; express deep sorrow for: as, to ''bewail'' the loss of a child.\n{{smaller block|Go, give your tears to those that lose their worths.<br>''Bewail'' their miseries.\n{{right|''Fletcher'', Valentinian, iv. 4.}}\n<poem>The nightingale\nHer ancient, hapless sorrow must ''bewail''.</poem>\n{{right|''William Morris'', Earthly Paradise, I. 394.}}}}\n'''II.''' ''intrans.'' To express grief.\n{{smaller block|Mourning and ''bewailing'' exceedingly.\n{{right|''Holland'', tr. of Livy, p. 70.}}}}\n\n'''bewailable''' (bē-wā′la-bl), ''a.'' [< ''bewail'' + ''-able''.] Capable or worthy of being bewailed.\n\n'''bewailer''' (bẹ̄-wā′lėr), ''n.'' One who bewails or laments.\n\n'''bewailing''' (bē-wā′ling), ''n.'' Lamentation.\n\n'''bewailingly''' (bē-wā′ling-li), ''adv.'' In a bewailing manner.\n\n'''bewailment''' (bē-wāl′ment), ''n.'' [< ''bewail'' + ''-ment''.] The act of bewailing; a lamentation.\n\n'''bewake†''' (bē-wāk′), ''v. t.'' [< ME. ''bewaken'', watch, “wake” a dead body, watch through (= D. ''bewaken'' = G. ''bewachen'' = Sw. ''bevaka''), < ''be-'' + ''waken'', wake: see ''be-''<sup>1</sup> and ''wake''<sup>1</sup>, and cf. ''bivouac''.] To watch, especially a dead body; observe funeral rites for. ''Gower''.",
+   "c3s2": "¶\n'''beware''' (bē-wãr′), ''v.'', prop. ''phr.'' [Formerly and prop. written separately, ''be ware'', a phrase composed of the impv. or inf. of the verb ''be'' and the adj. ''ware''; as in AS. ''beó wær'' (''beó'', 2d pers. sing. impv. of ''beón''), ''beó thē wær'' (''thē'', thee, reflexive dative), be ware, just like E. ''be careful.'' So ME. “''be war'' therfor” (Chaucer); “A ha! felawes! ''beth war'' of such a Iape!” (Chaucer), where ''beth'' is 2d pers. pl. impv., < AS. ''beóth.'' (See other ME. examples below.) Like ''be gone'', now ''begone'', ''be ware'' came to be written as one word, ''beware'', and then was classed by some authors with the numerous verbs in ''be-''<sup>1</sup>, and inflected accordingly; hence the erroneous forms ''bewares'' in Ben Jonson, and ''bewared'' in Dryden. This confusion may have been promoted by the existence of a ME. verb ''bewaren'', show, exhibit, descended, with some change of sense, from AS. ''bewarian'', guard, keep, preserve (= OFries. ''biwaria'' = D. ''bewaren'' = OHG. ''biwarōn'', MHG. ''bewaren'', G. ''bewahren'' = Sw. ''bevara'' = Dan. ''bevare'', keep, guard), < ''be-'' + ''warian'', guard, < ''wær'', cautious, observant, E. ''ware''<sup>1</sup>, as in ''be ware'' above. In the quotation from Chaucer, below, both forms appear. See ''ware''<sup>1</sup>.] To be wary or cautious; be on one’s guard; exercise care or vigilance: properly two words, ''be ware'', consisting of the infinitive or imperative of ''be'' with the adjective ''ware'': followed by ''of'', expressed or understood, with the force of ‘against,’ ‘in regard to’: as, ''beware of'' evil associations; ''beware'' how you step; “''beware'' the bear,” ''Scott.''\n{{smaller block|Thus oughte wise men ''ben ware of'' folis;}}",
+   "c3s3": "{{smaller block|If thou do so thi witte is wele bywared [shown].\n{{right|''Chaucer'', Troilus, l. 635.}}}}\n{{smaller block|''Be'' ye ''war of'' false prophets.\n{{right|''Wyclif'', Mat. vii. 15.}}}}\n{{smaller block|That no man no scholde . . . ''war of'' him ''beo.''\n{{right|''Life of Thomas Beket'' (ed. Black), 1150.}}}}\n{{smaller block|''Beware of'' all, but most ''beware of'' man.\n{{right|''Pope'', R. of the L., i. 114.}}}}\n{{smaller block|Every one ought to be very careful to ''beware'' what he admits for a principle.\n{{right|''Locke.''}}}}\n{{smaller block|<poem>''Beware'' the pine-tree’s withered branch,\n''Beware'' the awful avalanche.</poem>\n{{right|''Longfellow'', Excelsior.}}}}\n\n'''bewash''' (bē-wosh′), ''v. t.'' [< ''be-''<sup>1</sup> + ''wash.''] To drench with water. [Rare.]\n{{smaller block|Let the maids ''bewash'' the men.\n{{right|''Herrick'', St. Distaff’s Day.}}}}\n\n'''beweep''' (bē-wēp′), ''v.''; pret. and pp. ''bewept'', ppr. ''beweeping.'' [< ME. ''bewepen'', ''biwepen'', < AS. ''bewēpan'' (= OFries. ''biwēpa'' = OS. ''biwōpian''), < ''be-'' + ''wēpan'', weep: see ''be-''<sup>1</sup> and ''weep.''] '''I.''' ''trans.'' '''1.''' To weep over; deplore.\n{{smaller block|<poem>Old fond eyes,\n''Beweep'' this cause again, I’ll pluck ye out.</poem>\n{{right|''Shak.'', Lear, i. 4.}}}}\n'''2.''' To bedew or wet with tears; disfigure or mark with the signs of weeping.\n{{smaller block|<poem>Fast by her syde doth wery labour stand,\nPale fere also, and sorrow all ''bewept.''</poem>\n{{right|''Sir T. More'', To Them that Trust in Fortune.}}}}\n\n'''II.†''' ''intrans.'' To weep; make lamentation.\n\n'''bewest''' (bē-west′), ''prep.'' [< ME. ''be west'', ''biwesten'', < AS. ''be westan'': ''be'', prep., by; ''westan'', adv., west, from the west. Cf. ''be-east'', ''benorth'', ''besouth.''] To the west of. [Scotch.]"
+  },
+  "figure_files": {
+   "c1f1": "century v01 p0565 c1f1.png",
+   "c1f2": "century v01 p0565 c1f2.png",
+   "c1f3": "century v01 p0565 c1f3.png"
+  },
+  "figures": [
+   {
+    "box": [
+     416,
+     1049,
+     830,
+     1490
+    ],
+    "caption": [
+     564,
+     1489,
+     682,
+     1510
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     361,
+     952,
+     673,
+     1460
+    ]
+   },
+   {
+    "box": [
+     590,
+     2544,
+     832,
+     2762
+    ],
+    "caption": [
+     588,
+     2771,
+     838,
+     2832
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     586,
+     2521,
+     837,
+     2770
+    ]
+   },
+   {
+    "box": [
+     570,
+     2936,
+     834,
+     3055
+    ],
+    "caption": [
+     615,
+     3063,
+     791,
+     3085
+    ],
+    "column": 1,
+    "inset": true,
+    "page_box": [
+     596,
+     2902,
+     835,
+     3042
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "1": [
+    3,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 4,
+    "input_tokens": 6689,
+    "output_tokens": 349,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9512,
+    "output_tokens": 10116,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {
+   "c1f1": "right",
+   "c1f2": "right",
+   "c1f3": "right"
+  }
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|bevel|539|bewest}}</noinclude>''trans.'' To cut to a bevel-angle: as, to ''bevel'' a piece of wood.\n\n'''II.''' ''intrans.'' To incline toward a point or from a direct line; slant or incline off to a bevel-angle.\n\n'''bevel-angle''' (bev′el-ang″gl), ''n.'' Any angle except a right angle, whether it be acute or obtuse. Also called ''bevel.''\n\n'''beveled, bevelled''' (bev′eld), ''p. a.'' '''1.''' Having a bevel; formed with a bevel-angle.—'''2.''' In ''mineral.'', replaced by two planes inclining equally upon the adjacent planes, as an edge; having its edges replaced as above, as a cube or other solid.—'''3.''' In ''her.'', broken by an acute angle: thus, in the cut under ''bevel'', the blazon would be a chief vert, ''beveled.''—'''Beveled bushing,''' {{smaller|a bushing in which the sides are inclined to the ends.—}}'''Beveled double,''' {{smaller|in ''her.'', beveled on either side.—}}'''Beveled furniture,''' {{smaller|in ''printing'': (''a'') The tapering side-sticks and foot-sticks used in imposing forms or locking up galleys. (''b'') Beveled pieces of wood less than type-high.—}}'''Beveled gearing.''' {{smaller|See ''gearing.''—}}'''Beveled washer,''' {{smaller|a washer having its two faces not parallel to each other, used to give a proper bearing to a head or nut when the rod or bolt is not perpendicular to the surface against which the washer presses.}}\n\n'''bevel-gear''' (bev′el-gēr), ''n.'' In ''mach.'', a species of wheelwork in which the axis or shaft of the leader or driver forms an angle with the axis or shaft of the follower or the wheel driven. {{img float|file=century v01 p0565 c1f1.png|width=212px|align=right|cap={{smaller|Bevel-gear.}}}}\n\n'''bevel-hub''' (bev′el-hub), ''n.'' A hub or short connecting-pipe having a bend.\n\n'''beveling, bevelling''' (bev′el-ing), ''n.'' Same as ''bevel'', 1.\n{{smaller block|It is evident from the preceding, that by applying the bevel in the workman’s usual manner, viz., with the stock against the left-hand side of the board and directed towards his body, all the ''bevelings'' will be under, that is, less than a right angle. . . . We thus find that when the first futtock frames are on the amidship side of the joint, their ''bevelings'' are always standing, or greater than a right angle.\n{{right|''Thearle'', Naval Architecture, p. 53.}}}}\n\n'''beveling-board''' (bev′el-ing-bōrd), ''n.'' '''1.''' A board cut to any required bevel. It is used in adjusting frames or the parts of an angular construction, as in a ship.—'''2.''' A flat board upon which the bevelings of the various portions of a construction, as the framework of a ship, are marked.\n\n'''beveling-frame''' (bev′el-ing-frām), ''n.'' A wooden frame in which a beveling-board is placed to be marked. {{smaller|It consists of a wide board, on one edge of which is placed a fixed, and on the opposite a movable, batten. Across both battens parallel lines are marked.}}\n\n'''bevelingmachine''' (bev′el-ing-ma-shēn″), ''n.'' A machine for beveling or angling the outer edges of a book-cover, or of an electrotyped plate for printing.\n\n'''bevel-jack''' (bev′el-jak), ''n.'' A device used in transmitting motion from a motor to a machine.\n{{smaller block|It consists of a pair of bevel-gears, one of which is connected with a tumbling-shaft turned by the motor, while the other has a pulley which by a belt drives the machine.}}\n\n'''bevel-joint''' (bev′el-joint), ''n.'' A miter or sloping joint having its faces dressed to an angle, generally of 45°.\n\n'''bevelled, bevelling.''' See ''beveled, beveling.''\n\n'''bevelment''' (bev′el-ment), ''n.''   [< ''bevel'' + ''-ment.'']   In ''mineral.'', the replacement of an edge by two similar planes, equally inclined to the including faces or adjacent planes. {{img float|file=century v01 p0565 c1f2.png|width=129px|align=right|cap={{smaller|Bevelment of the edges of a cube by planes of a tetrahexahedron.}}}}\n\n'''bevel-plater''' (bev′el-plā″tėr), ''n.'' A machine for rolling the bevel-edged plates of shingling and veneering saws.\n\n'''bevel-protractor''' (bev′el-prọ̄-trak″tor), ''n.'' A drafting instrument with a pivoted arm sliding upon a graduated sector, used in laying off angles. {{img float|file=century v01 p0565 c1f3.png|width=140px|align=right|cap={{smaller|Bevel-protractor.}}}}\n\n'''bevel-rest''' (bev′el-rest), ''n.'' A clamp for holding wood to a saw in making a beveled cut.\n\n'''bevel-square''' (bev′el-skwãr), ''n.'' A try-square the blade of which can be adjusted to any angle with the stock, and held at such an angle by a set-screw. {{smaller|It is an artisan’s instrument for trying his work to see if it has been made with the proper angle. Also called ''angle-bevel.''}}\n\n'''bevel-ways''' (bev′el-wāz), ''adv.'' Same as ''bevelwise.''\n\n'''bevel-wheel''' (bev′el-hwēl), ''n.'' In ''mach.'', a cog-wheel of which the working-face is oblique to the axis. {{smaller|Such a wheel is commonly used in connection with another revolving with a shaft at right angles to that of the first. These wheels are often called conical wheels, as their general form is that of frusta of cones. See ''bevel-gear.''}}\n\n'''bevel-wise''' (bev′el-wīz), ''adv.'' In ''her.'', in the form or direction of a bevel: said of a ribbon or pennon charged thus upon the field. Also ''bevel-ways.''\n\n'''bever'''<sup>1</sup>†, ''n.'' An obsolete form of ''beaver''<sup>1</sup>.\n\n'''bever'''<sup>2</sup>†, ''n.'' An obsolete form of ''beaver''<sup>2</sup>.\n\n'''bever'''<sup>3</sup>† (bē′vėr), ''n.''   [Now chiefly E. dial.; also written ''beaver'', < ME. ''bever'', later also ''bevoir'', ''boever'', < OF. ''bevre'', ''boivre'', mod. F. ''boire'' = It. ''bevere'', ''bere'' (ML. ''biber''), a drink, prop. inf., drink, < L. ''bibere'', drink: see ''bib''<sup>1</sup>, ''bibber''. Hence ''beverage''.]   '''1.''' A collation or slight repast between meals.\n{{smaller block|<poem>''Are.'' What, at your ''bever'', gallants?\n''Mor.'' Will ’t please your ladyship to drink?</poem>\n{{right|''B. Jonson'', Cynthia’s Revels, iv. 1.}}}}\n{{smaller block|<poem>Some twenty mark a-year! will that maintain\nScarlet and gold lace, play at th’ ordinary,\nAnd ''bevers'' at the tavern?</poem>\n{{right|''Middleton'', Anything for a Quiet Life, i. 1.}}}}\n'''2.''' Formerly, at some colleges and schools, a slight meal which the students received at the buttery-hatch and took to their rooms.\n{{smaller block|No scholar shall be absent above an hour at morning ''bever'' and half an hour at evening ''bever''.\n{{right|''Quincy'', Hist. Harv. Univ., I. 517.}}}}\n\n{{smaller block|When I was at Eton—now more than thirty years ago—the boys on the foundation were supplied in the dining-hall with an intermediate meal (if meal it could be called), which went under the name of ''beaver''. According to my recollection it consisted of beer only, and the hour was 4 P. M. {{right|''N. and Q.'', 7th ser., II. 454.}}}}\n\n'''bever<sup>3</sup>†''' (bē′vėr), ''v. i.''   [< ''bever''<sup>3</sup>, ''n.'']   To take a bever or slight repast between meals.\n{{smaller block|Your gallants never sup, breakfast, nor ''bever'' without me. {{right|''A. Brewer'' (?), Lingua, ii. 1.}}}}\n\n'''beverage''' (bev′ẹ-rāj), ''n.''   [Early mod. E. also ''beveridge'', ''beuvrage'', etc., < ME. ''beverage'', ''beveregе'', ''beverache'', ''beurage'', etc. (cf. ML. ''beveragium''), < OF. ''bevrage'', ''beuvrage'', ''breuvraige'', mod. F. ''breuvage'' (= Pr. ''beurage'' = Sp. ''bebrage'' = Pg. ''beberagem'' = It. ''beveraggio''; ML. as if *''biberaticum''), < ''bevre'', ''boivre'' = It. ''bevere'', < L. ''bibere'', drink: see ''bever''<sup>3</sup>, ''n.'', and ''-age''.]   '''1.''' Drink of any kind; liquor for drinking: as, water is the common ''beverage''; intoxicating ''beverages''.\n{{smaller block|<poem>A pleasant ''beverage'' he prepared before\nOf wine and honey mixed.</poem>{{right|''Dryden'', Pal. and Arc., ii.}}}}\n\n'''2.''' A name given specifically to various kinds of refreshing drinks. {{smaller|(''a'') In Devonshire, England, water-cider; a drink made by passing water through the crushed apples from which cider has been made. (''b'') A liquor made by passing water through the pressed grapes after the wine has been expressed.}}\n{{smaller block|Touching price and quality of a liquor or drink called in England “''bevaradge''” and in France “pimpeene.” {{right|''Record Soc. Lancashire and Cheshire'', xi. 117.}}}}\n{{smaller|(''c'') In the West Indies, a drink made of sugar-cane juice and water.}}\n\n'''3.''' In Great Britain, drink-money, or a treat provided with drink-money, as on wearing a new suit of clothes, or on receiving a suit from the tailor; a treat on first coming into prison; a garnish. [Obsolete or dialectal.]\n\n'''bevew†''', ''n.'' See ''bevue.''\n\n'''bevil, bevile''', ''n.'' In ''her.'', same as ''bevel'', 5.\n\n'''bevor†''', ''n.'' See ''beaver''<sup>2</sup>.\n\n'''bevue''' (be-vü′), ''n.''   [Formerly also ''bevew'', < F. ''bévue'', OF. ''besvue'', < ''bé-'', ''bes-'' (< L. ''bis-'', double), + ''vue'', view: see ''view''.]   An error of inadvertence; a slip. [Rare.]\n\n'''bevy''' (bev′i), ''n.''; pl. ''bevies'' (-iz).   [Early mod. E. also ''beavy'', ''beavie'', < ME. ''bevy'', ''bevey'', ''beve'', < OF. ''beveye'' (“''beueye'' [printed ''deueye''] des heronez,” in a poem cited by Leo, Rect. Sing. Personarum, p. 40); cf. It. “''beva'', a beavie,” Florio: applied esp. to a flock of birds and thence to a company of ladies; orig., perhaps, a drinking company, or a number of animals at a watering-place, being thus a particular use of OF. ''bevee'', ''buvee'', drink, drinking (cf. It. ''beva'', a drink), < ''bevre'' = It. ''bevere'', drink: see ''bever''<sup>3</sup>, ''n.'', and ''beverage''.]   '''1.''' A flock of birds, especially of larks or quails.—'''2.''' A small company or troop, as of roebucks, heifers, etc.—'''3.''' A group or small company of persons, especially of girls or women, but also used of the male sex: as, “a ''bevy'' of powdered coxcombs,” ''Goldsmith;'' “a ''bevy'' of renegades,” ''Macaulay'', Hist. Eng.\n{{smaller block|<poem>A lovely ''bevy'' of faire Ladies sate,\nCourted of many a jolly Paramoure.</poem>\n{{right|''Spenser'', F. Q., II. ix. 34.}}}} '''4.''' A small collection of objects; an assemblage of things. [Rare or obsolete.]='''Syn. 1.''' {{smaller|''Covey'', etc. See ''flock''.}}\n\n'''bewail''' (bē-wāl′), ''v.''   [< ME. ''bewailen'', ''beweilen'', ''biwailen'', etc., < ''be-'' + ''wailen'', wail: see ''be-''<sup>1</sup> and ''wail''.]   '''I.''' ''trans.'' To mourn aloud for; bemoan; lament; express deep sorrow for: as, to ''bewail'' the loss of a child.\n{{smaller block|<poem>Go, give your tears to those that lose their worths.\n''Bewail'' their miseries.</poem>\n{{right|''Fletcher'', Valentinian, iv. 4.}}}}\n{{smaller block|<poem>The nightingale\nHer ancient, hapless sorrow must ''bewail''.</poem>\n{{right|''William Morris'', Earthly Paradise, I. 394.}}}}\n'''II.''' ''intrans.'' To express grief.\n{{smaller block|Mourning and ''bewailing'' exceedingly.\n{{right|''Holland'', tr. of Livy, p. 70.}}}}\n\n'''bewailable''' (bē-wā′la-bl), ''a.''   [< ''bewail'' + ''-able''.]   Capable or worthy of being bewailed.\n\n'''bewailer''' (bẹ̄-wā′lėr), ''n.'' One who bewails or laments.\n\n'''bewailing''' (bē-wā′ling), ''n.'' Lamentation.\n\n'''bewailingly''' (bē-wā′ling-li), ''adv.'' In a bewailing manner.\n\n'''bewailment''' (bē-wāl′ment), ''n.''   [< ''bewail'' + ''-ment''.]   The act of bewailing; a lamentation.\n\n'''bewake†''' (bē-wāk′), ''v. t.''   [< ME. ''bewaken'', watch, “wake” a dead body, watch through (= D. ''bewaken'' = G. ''bewachen'' = Sw. ''bevaka''), < ''be-'' + ''waken'', wake: see ''be-''<sup>1</sup> and ''wake''<sup>1</sup>, and cf. ''bivouac''.]   To watch, especially a dead body; observe funeral rites for.   ''Gower''.\n\n'''beware''' (bē-wãr′), ''v.'', prop. ''phr.''   [Formerly and prop. written separately, ''be ware'', a phrase composed of the impv. or inf. of the verb ''be'' and the adj. ''ware''; as in AS. ''beó wær'' (''beó'', 2d pers. sing. impv. of ''beón''), ''beó thē wær'' (''thē'', thee, reflexive dative), be ware, just like E. ''be careful.'' So ME. “''be war'' therfor” (Chaucer); “A ha! felawes! ''beth war'' of such a Iape!” (Chaucer), where ''beth'' is 2d pers. pl. impv., < AS. ''beóth.'' (See other ME. examples below.) Like ''be gone'', now ''begone'', ''be ware'' came to be written as one word, ''beware'', and then was classed by some authors with the numerous verbs in ''be-''<sup>1</sup>, and inflected accordingly; hence the erroneous forms ''bewares'' in Ben Jonson, and ''bewared'' in Dryden. This confusion may have been promoted by the existence of a ME. verb ''bewaren'', show, exhibit, descended, with some change of sense, from AS. ''bewarian'', guard, keep, preserve (= OFries. ''biwaria'' = D. ''bewaren'' = OHG. ''biwarōn'', MHG. ''bewaren'', G. ''bewahren'' = Sw. ''bevara'' = Dan. ''bevare'', keep, guard), < ''be-'' + ''warian'', guard, < ''wær'', cautious, observant, E. ''ware''<sup>1</sup>, as in ''be ware'' above. In the quotation from Chaucer, below, both forms appear. See ''ware''<sup>1</sup>.]   To be wary or cautious; be on one’s guard; exercise care or vigilance: properly two words, ''be ware'', consisting of the infinitive or imperative of ''be'' with the adjective ''ware'': followed by ''of'', expressed or understood, with the force of ‘against,’ ‘in regard to’: as, ''beware of'' evil associations; ''beware'' how you step; “''beware'' the bear,” ''Scott.''\n{{smaller block|Thus oughte wise men ''ben ware of'' folis; If thou do so thi witte is wele bywared [shown].\n{{right|''Chaucer'', Troilus, l. 635.}}}}\n{{smaller block|''Be'' ye ''war of'' false prophets.\n{{right|''Wyclif'', Mat. vii. 15.}}}}\n{{smaller block|That no man no scholde . . . ''war of'' him ''beo.''\n{{right|''Life of Thomas Beket'' (ed. Black), 1150.}}}}\n{{smaller block|''Beware of'' all, but most ''beware of'' man.\n{{right|''Pope'', R. of the L., i. 114.}}}}\n{{smaller block|Every one ought to be very careful to ''beware'' what he admits for a principle.\n{{right|''Locke.''}}}}\n{{smaller block|<poem>''Beware'' the pine-tree’s withered branch,\n''Beware'' the awful avalanche.</poem>\n{{right|''Longfellow'', Excelsior.}}}}\n\n'''bewash''' (bē-wosh′), ''v. t.''   [< ''be-''<sup>1</sup> + ''wash.'']   To drench with water. [Rare.]\n{{smaller block|Let the maids ''bewash'' the men.\n{{right|''Herrick'', St. Distaff’s Day.}}}}\n\n'''beweep''' (bē-wēp′), ''v.''; pret. and pp. ''bewept'', ppr. ''beweeping.''   [< ME. ''bewepen'', ''biwepen'', < AS. ''bewēpan'' (= OFries. ''biwēpa'' = OS. ''biwōpian''), < ''be-'' + ''wēpan'', weep: see ''be-''<sup>1</sup> and ''weep.'']   '''I.''' ''trans.'' '''1.''' To weep over; deplore.\n{{smaller block|<poem>Old fond eyes,\n''Beweep'' this cause again, I’ll pluck ye out.</poem>\n{{right|''Shak.'', Lear, i. 4.}}}}\n'''2.''' To bedew or wet with tears; disfigure or mark with the signs of weeping.\n{{smaller block|<poem>Fast by her syde doth wery labour stand,\nPale fere also, and sorrow all ''bewept.''</poem>\n{{right|''Sir T. More'', To Them that Trust in Fortune.}}}}\n\n'''II.†''' ''intrans.'' To weep; make lamentation.\n\n'''bewest''' (bē-west′), ''prep.''   [< ME. ''be west'', ''biwesten'', < AS. ''be westan'': ''be'', prep., by; ''westan'', adv., west, from the west. Cf. ''be-east'', ''benorth'', ''besouth.'']   To the west of. [Scotch.]<noinclude><references/></noinclude>"
+}

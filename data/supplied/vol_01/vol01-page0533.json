@@ -1,0 +1,223 @@
+{
+ "volume": 1,
+ "page_number": 533,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n532.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n532.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 745,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     85,
+     136,
+     2298,
+     173
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     85,
+     173,
+     828,
+     1264
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     85,
+     1264,
+     828,
+     2354
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     85,
+     2354,
+     828,
+     3272
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     828,
+     173,
+     1569,
+     1262
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     828,
+     1262,
+     1569,
+     2128
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     828,
+     2128,
+     1569,
+     3206
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     828,
+     3206,
+     1569,
+     3272
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     173,
+     2298,
+     1231
+    ]
+   },
+   {
+    "name": "c3f1",
+    "kind": "figure",
+    "column": 3,
+    "box": [
+     1602,
+     379,
+     2278,
+     948
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     1231,
+     2298,
+     2244
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1569,
+     2244,
+     2298,
+     3272
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|begger|507|Beguard}}",
+   "c1s1": "¶\n'''beggar†''', '''beggery†.''' Former and more regular spellings of ''beggar'', ''beggary''.\n\n'''begging''' (beg′ing), ''n.'' [< ME. ''beggynge''; verbal n. of ''beg''<sup>1</sup>.] The act of asking or soliciting; the occupation of a beggar.\n\n'''beggy†''' (beg′i), ''n.'' Same as ''bey''<sup>1</sup>.\n{{smaller block|There used to be a still more powerful personage at the head of the Ourf, called the Divan ''Beggy''. {{right|''Brougham.''}}}}\n\n'''Beghard''' (beg′ärd), ''n.'' [< ML. ''Beghardus'', ''begardus'', ''beggardus'', ''begehardus'', ''begihardus'' (cf. It. Sp. Pg. ''begardo'', MHG. ''beghart'', ''begehard'', G. ''beghart'', Flem. ''beggaert'', OF. ''begard'', ''begart'', ''begar'', with a later equiv. ML. ''beghinus'', ''beginus'', etc., OF. ''beguin'', etc., E. ''Beguin''), formed, with the suffix ''-ardus'', ''-ard'' (and later ''-inus'', ''-in'', after the fem. ML. ''beghina'', ''begina'', etc., OF. ''beguine'', etc., E. ''Beguin'', ''Beguine''), from the name of the founder of the sisterhood of Beguins, namely, Lambert ''Begue'' or ''le Begue'': see ''Beguin'', ''Beguine''.] One of a body of religious enthusiasts which arose in Flanders in the thirteenth century; a Beguin (which see). Also written ''Beguard''. [Often without a capital.]\n\n'''begild''' (bē-gild′), ''v. t.''; pret. and pp. ''begilded'', ''begilt'', ppr. ''begilding''. [< ''be-''<sup>1</sup> + ''gild''<sup>1</sup>.] To gild: as, “bride-laces ''begilt'',” ''B. Jonson'', King’s Entertainment.\n{{smaller block|<poem>The lightning-flash from swords, casks, courtilaces,\nWith quiv’ring beams ''begilds'' the neighbour grasses.</poem>{{right|''Sylvester'', Battaile of Yvry (trans.), p. 102.}}}}\n\n'''begin''' (bē-gin′), ''v.''; pret. ''began'', sometimes ''begun'', pp. ''begun'', ppr. ''beginning''. [< ME. ''beginnen'', ''biginnen'' (pret. ''began'', ''begon'', pl. ''begunne'', ''begunnen'', ''begonne'', etc., pp. ''begunnen'', ''begonnen'',",
+   "c1s2": "begunne'', etc.), < AS. ''beginnan'', ''biginnan'' (pret. ''began'', pl. ''begunnon'', pp. ''begunnen'') = OS. ''biginnan'' = OFries. ''beginna'', ''bejenna'' = D. ''beginnen'' = OHG. ''biginnañ'', MHG. G. ''beginnen'', begin; AS. more commonly ''onginnan'', rarely ''āginnan'', ME. ''aginnen'', and by apheresis ''ginnen'', mod. E. obs. or poet. ''gin''; also with still different prefixes, OHG. ''inginnan'', ''enginnen'', and Goth. ''duginnan'', begin; < ''be-'' (E. ''be-''<sup>1</sup>) or ''on-'', ''ā-'' (E. ''a-''<sup>2</sup>), + *''ginnan'', not found in the simple form, prob. orig. ‘open, open up’ (a sense retained also by the OHG. ''inginnan'', MHG. ''enginnen''), being prob. connected with (''a'') AS. ''ginian'' = OHG. ''ginēn'', MHG. ''ginen'', ''genen'', G. ''gähnen'', gape, yawn, (''b'') AS. ''gīnan'' = Icel. ''gīna'', gape, yawn, (''c'') AS. ''gānian'', E. ''yawn'' = OHG. ''geinōn'', MHG. ''geinen'', gape, yawn (cf. Gr. χαίνειν, gape, yawn); all variously with ''n-'' formative from the root *''gi'', seen also in OHG. ''giēn'' and ''giwēn'', ''gewōn'', MHG. ''giwen'', ''gewen'' = L. ''hiare'' = OBulg. ''zijati'' = Russ. ''zijatĭ'' = Bohem. ''zivati'' = Lith. ''zhioti'', etc., gape, yawn (cf. Gr. χάσκειν, yawn, χάος, chaos, χάσμα, chasm, etc.: see ''chaos'', ''chasm''): see ''yawn'' and ''hiatus''. Cf. ''open'' as equiv. to ''begin'', and ''close'' as equiv. to ''end''.] '''I.''' ''trans.'' '''1.''' To take the first step in; set about the performance or accomplishment of; enter upon; commence.\n{{smaller block|Ye nymphs of Solyma, ''begin'' the song.\n{{right|''Pope'', Messiah, l. 1.}}}}\n'''2.''' To originate; be the originator of: as, to ''begin'' a dynasty.\n{{smaller block|Proud Nimrod first the savage chase ''began''.\n{{right|''Pope'', Windsor Forest, l. 61.}}}}\n'''3.''' To trace from anything as the first ground;",
+   "c1s3": "date the beginning of.\n{{smaller block|The apostle ''begins'' our knowledge in the creatures which leads us to the knowledge of God. {{right|''Locke.''}}}}\n={{smaller|'''Syn. 1.''' To set about, institute, undertake, originate, initiate.}}\n\n'''II.''' ''intrans.'' '''1.''' To come into existence; arise; originate: as, the present German empire ''began'' with William I.\n{{smaller block|<poem>Made a selfish war ''begin.''</poem>\n{{right|''Tennyson'', To F. D. Maurice.}}}}\n'''2.''' To take a first step; commence in any course or operation; make a start or commencement.\n{{smaller block|No change of disposition ''begins'' yet to show itself in England. {{right|''Jefferson'', in Bancroft’s Hist. Const., I. 436.}}}}\n{{smaller block|The contest raged from morning until night, when the Moors ''began'' to yield. {{right|''Irving'', Granada, p. 35.}}}}\n{{smaller|'''To begin the board.''' See ''board.''—'''To begin with.''' (''a'') To enter upon first; use or employ first: as, ''to begin with'' the Latin grammar; ''to begin with'' prayer. (''b'') At the outset; as the first thing to be considered; first of all: as, ''to begin with'', I do not like its color.}}\n{{smaller block|Animals can be trained to behave in a way in which, ''to begin with'', they are incapable of behaving.\n{{right|''T. H. Green'', Prolegomena to Ethics, § 113.}}}}\n\n¶\n'''begin†''' (bẹ̄-gin′), ''n.'' [< ''begin'', ''v.''] A beginning.\n{{smaller block|<poem>Let no whit thee dismay\nThe hard ''beginne'' that meetes thee in the dore.</poem>\n{{right|''Spenser'', F. Q., III. iii. 21.}}}}\n\n'''beginner''' (bẹ̄-gin′ėr), ''n.'' [ME. ''begynner''; < ''begin'' + ''-er''<sup>1</sup>.] '''1.''' One who begins or originates;",
+   "c2s1": "one who starts or first leads off; an author or originator.\n{{smaller block|Where are the vile ''beginners'' of this fray?\n{{right|''Shak.'', R. and J., iii. 1.}}}}\n'''2.''' One beginning to learn or practise; a novice; a tyro: as, “a sermon of a new ''beginner,''” ''Swift.''\n{{smaller block|There are noble passages in it, but they are for the adept and not for the ''beginner.''\n{{right|''O. W. Holmes'', R. W. Emerson, xiv.}}}}\n\n¶\n'''beginning''' (bē-gin′ing), ''n.'' [< ME. ''beginninge'', ''beginnunge'' (= MHG. ''beginnunge''); verbal n. of ''begin.''] '''1.''' The origin; source; first cause.\n{{smaller block|I am . . . the ''beginning'' and the ending. {{right|Rev. i. 8.}}}}\n'''2.''' The point of time or epoch at which anything begins; specifically, the time when the universe began to be.\n{{smaller block|In the ''beginning'' God created the heaven and the earth.\n{{right|Gen. i. 1.}}\nIt was reserved for Hutton to declare for the first time that the rocks around us reveal no trace of the ''beginning'' of things. {{right|''Geikie'', Geol. Sketches, ii.}}}}\n'''3.''' The initial stage or first part of any process or proceeding; the starting-point: as, a small ''beginning.''\n{{smaller block|He was come to that height of honour out of base ''beginnings.'' {{right|''Burton'', Anat. of Mel., p. 564.}}}}\n{{smaller block|The ''beginning'' of writing is the hieroglyphic or symbolical picture, the ''beginning'' of worship is fetishism or idolatry, the ''beginning'' of eloquence is pictorial, sensuous, and metaphorical, the ''beginning'' of philosophy is the myth. {{right|''Lecky'', Europ. Morals, I. 142.}}}}\n\n'''beginningless''' (bē-gin′ing-les), ''a.'' [< ''beginning'' + ''-less.''] Having no beginning: correlative to ''endless.'' [Rare.]",
+   "c2s2": "¶\n'''begird''' (bẹ̄-gėrd′), ''v. t.''; pret. and pp. ''begirt'', ''begirded'', ppr. ''begirding''. [< ME. ''begirden'', only in pret. or pp. ''begurt'', < AS. ''begyrdan'' (= OHG. ''bigurtjan''; cf. Goth. ''bigairdan'', strong verb), < ''be-'' + ''gyrdan'', gird: see ''be-''<sup>1</sup> and ''gird''<sup>1</sup>.] '''1.''' To bind with a band or girdle.—'''2.''' To surround; inclose; encompass.\n{{smaller block|<poem>Uther’s son\n''Begirt'' with British and Armoric knights.</poem>\n{{right|''Milton'', P. L., i. 581.}}}}\n\n'''begirdle''' (bẹ̄-gėr′dl), ''v. t.'' [< ''be-''<sup>1</sup> + ''girdle''.] To surround or encircle as with a girdle.\n{{smaller block|Like a ring of lightning they . . . ''begirdle'' her from shore to shore. {{right|''Carlyle'', French Rev., III. vii. 3.}}}}\n\n'''begirt†''' (bẹ̄-gėrt′), ''v. t.'' [A form of ''begird'', inf., due to the frequent pp. ''begirt'', pret. and pp. being the same as those of ''begird''.] To begird; encompass.\n{{smaller block|<poem>''Begirt'' the wood, and fire it.</poem>\n{{right|''Massinger'', Bashful Lover, iii. 5.}}\n<poem>To ''begirt'' the almighty throne,\nBeseeching or besieging.</poem>\n{{right|''Milton'', P. L., v. 868.}}}}\n\n'''beglare''' (bẹ̄-glãr′), ''v. t.'' [< ''be-''<sup>1</sup> + ''glare''.] To glare at or on. [A humorous coinage.]\n{{smaller block|So that a bystander, without beholding Mrs. Wilfer at all, must have known at whom she was glaring by seeing her refracted from the countenance of the ''beglared'' one.\n{{right|''Dickens'', Our Mutual Friend, I. xvi.}}}}",
+   "c2s3": "¶\n'''beglerbeg''' (beg′lėr-beg′), ''n.'' Same as ''beylerbey.''\n\n'''beglerbeglic''' (beg′lėr-beg′lik), ''n.'' Same as ''beylerbeylik.''\n\n'''begloom''' (bẹ̄-glöm′), ''v. t.'' [< ''be-''<sup>1</sup> + ''gloom.''] To make gloomy; darken. [Rare.]\n\n'''begnaw''' (bẹ̄-nâ′), ''v. t.'' [ME. not found; < AS. ''begnagan,'' gnaw, < ''be-'' + ''gnagan,'' gnaw: see ''be-''<sup>1</sup> and ''gnaw.''] To bite or gnaw; eat away; corrode; nibble at. [Rare.]\n{{smaller block|The worm of conscience still ''be-gnaw'' thy soul.\n{{right|''Shak.'', Rich. III., i. 3.}}}}\n\n'''bego†''' (bẹ̄-gō′), ''v. t.''; pret. ''bewent,'' pp. ''begone.'' [< ME. ''begon, bigon,'' < AS. ''begān'' (= D. ''begaan'' = OHG. ''bigān,'' MHG. ''begān, begēn,'' G. ''begehen''), < ''be-,'' by, about, + ''gān,'' go: see ''be-''<sup>1</sup> and ''go.''] '''1.''' To go about; encompass; surround.—'''2.''' To clothe; attire.—'''3.''' To surround or beset; affect as a circumstance or influence: now only in the perfect participle ''begone,'' in ''woebegone,'' beset with woe (originally in the construction ''him was wo begon,'' in which ''wo'' is the subject and ''him'' the dative object, subsequently made the subject).\n{{smaller block|So was I glad and wel ''begon.''\n{{right|''Chaucer'', Parliament of Fowls, l. 171.}}}}\n\n'''begod†''' (bẹ̄-god′), ''v. t.'' [< ''be-''<sup>1</sup> + ''god.''] To deify: as, “''begodded'' saints,” ''South,'' Sermons, V. xcvii.\n\n'''begone'''<sup>1</sup> (bẹ̄-gôn′). [Prop. two words, ''be gone'' (''be,'' inf. or impv.; ''gone,'' pp.), irreg. united, as also in ''beware.''] Be gone; go away; depart.\n{{smaller block|''Begone!'' you are my brother; that’s your safety.\n{{right|''Beau. and Fl.'', Maid’s Tragedy, iv. 1.}}\n“You must ''begone,''” said Death; “these walks are mine.”}}",
+   "c2s4": "{{smaller block|{{right|''Tennyson'', Love and Death.}}}}\n\n'''begone'''<sup>2</sup>† (bē-gôn′). Past participle of ''bego''.",
+   "c3s1": "¶\n'''Begonia''' (bẹ̄-gō′ni-ä̤), ''n.'' [NL., named after Michel ''Bégon'' (1638–1710), a French promoter of science.] A very large genus of polypetalous exogenous plants, the type of the natural order ''Begoniaceæ.'' {{smaller|They are mostly herbaceous, natives of the warmer regions of the globe, and are fre-}}\n[[FIGURE]]\n{{c|{{smaller|''Begonia pannosa.'' ''a,'' branch with male flowers; ''b, c,'' two forms of styles and stigmas; ''d,'' fruit. (From Le Maout and Decaisne’s “Traité général de Botanique.”)}}}}\n{{smaller|quent in cultivation as foliage-plants and for their showy or singular flowers. A very great diversity in the often brilliant coloring of the leaves has been reached by skilful crossing. From the shape of their large, oblique, fleshy leaves some species are known by the name of ''elephant’s-ear.'' The succulent acid stalks of several species are used as pot-herbs.}}",
+   "c3s2": "¶\n'''Begoniaceæ''' (bẹ̄-gō-ni-ā′sẹ̄-ē), ''n. pl.'' [NL., < ''Begonia'' + ''-aceæ''.] A natural order of plants, allied to the ''Cucurbitaceæ'' and ''Cactaceæ'', of which ''Begonia'' is the typical genus. {{smaller|The only other genera are ''Hillebrandia'' of the Sandwich Islands, monotypic, and ''Begoniella'' of the United States of Colombia, of only two species.}}\n\n'''begoniaceous''' (bẹ̄-gō-ni-ā′shius), ''a.'' Belonging to or resembling the ''Begoniaceæ''.\n\n'''begore''' (bẹ̄-gōr′), ''v. t.'' [< ''be-''<sup>1</sup> + ''gore''<sup>1</sup>.] To besmear with gore. ''Spenser.''\n\n'''begot''' (bẹ̄-got′). Preterit and past participle of ''beget''.\n\n'''begotten''' (bẹ̄-got′n). Past participle of ''beget''.\n\n'''begrace''' (bẹ̄-grās′), ''v. t.'' [< ''be-''<sup>1</sup> + ''grace''.] To say “your grace” to; address by the title of a duke or bishop. ''Holinshed.'' [Rare.]\n\n'''begrave†''' (bẹ̄-grāv′), ''v. t.'' [< ME. ''begraven'', < AS. ''begrafan'', bury (= OS. ''bigrabhan'' = D. ''begraven'' = OHG. ''bigraban'' = Sw. ''begrafva'' = Dan. ''begrave'', bury, = Goth. ''bigraban'', dig around), < ''be-'' + ''grafan'', grave, dig: see ''be-''<sup>1</sup> and ''grave''<sup>1</sup>, ''v.''] '''1.''' To bury. ''Gower.''—'''2.''' To engrave.\n{{smaller block|<poem>With great sleight\nOf workmanship it was ''begrave''.</poem>\n{{right|''Gower'', Conf. Amant., i.}}}}\n\n'''begrease''' (bẹ̄-grēs′), ''v. t.'' [< ''be-''<sup>1</sup> + ''grease''.] To soil or daub with grease or other oily matter.\n\n'''begrime''' (bẹ̄-grīm′), ''v. t.'' [< ''be-''<sup>1</sup> + ''grime''.] To make grimy; cover or impress as with dirt or grime.\n{{smaller block|The justice-room ''begrimed'' with ashes.\n{{right|''Macaulay'', Hist. Eng., x.}}}}",
+   "c3s3": "='''Syn.''' ''Tarnish'', etc. See ''soil.''\n\n¶\n'''begrudge''' (bẹ̄-gruj′), ''v. t.'' [Early mod. E. also ''begrutch'', < ME. ''begrucchen'': see ''be-''<sup>1</sup> and ''grudge''.] To grudge; envy the possession of.\n{{smaller block|There wants no teacher to make a poor man ''begrudge'' his powerful and wealthy neighbour both his actual share in the government, and his disproportionate share of the good things of this life.\n{{right|''Brougham.''}}}}\n\n'''begruntle†''' (bẹ̄-grun′tl), ''v. t.'' [< ''be-''<sup>1</sup> + ''gruntle''. Cf. ''disgruntle''.] To render uneasy; disconcert.\n{{smaller block|The Spaniards were ''begruntled'' with these scruples.\n{{right|''Bp. Hacket'', Life of Abp. Williams, i. 131.}}}}\n\n'''begrutch†''', ''v. t.'' Obsolete form of ''begrudge''.\n\n'''begrutten''' (bẹ̄-grut′n), ''a.'' [< ''be-''<sup>1</sup> + ''grutten'', pp. of ''greit'', ''greet'', cry: see ''greet''<sup>2</sup>.] Showing the effects of much weeping; marred or swollen in face through sore or continued weeping. [Scotch.]\n{{smaller block|Poor things, . . . they are sae ''begrutten''.\n{{right|''Scott'', Monastery, viii.}}}}\n\n'''begster†''', ''n.'' A Middle English form of ''beggar''. ''Chaucer''.\n\n'''Begtashi''' (beg-tä′shē), ''n.'' [Turk.] A secret religious order in Turkey resembling the order of Freemasons, employing passwords and signs of recognition very similar to, and in some cases identical with, those of the latter order, and including many thousands of influential members. ''Imp. Dict.''\n\n'''beguan''' (beg′wän), ''n.'' [Prob. a native name.] A bezoar or concretion found in the intestines of the iguana.\n\n'''Beguard''', ''n.'' See ''Beghard''."
+  },
+  "figure_files": {
+   "c3f1": "century v01 p0533 c3f1.png"
+  },
+  "figures": [
+   {
+    "box": [
+     1614,
+     391,
+     2266,
+     936
+    ],
+    "caption": [
+     1590,
+     948,
+     2302,
+     1032
+    ],
+    "column": 3,
+    "inset": false,
+    "page_box": [
+     1616,
+     450,
+     2295,
+     936
+    ]
+   }
+  ],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ],
+   "3": [
+    1,
+    0
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 2,
+    "input_tokens": 4198,
+    "output_tokens": 89,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 11,
+    "input_tokens": 9485,
+    "output_tokens": 11056,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 43626
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|begger|507|Beguard}}</noinclude>{{nop}}'''beggar†''', '''beggery†.''' Former and more regular spellings of ''beggar'', ''beggary''.\n\n'''begging''' (beg′ing), ''n.''   [< ME. ''beggynge''; verbal n. of ''beg''<sup>1</sup>.]   The act of asking or soliciting; the occupation of a beggar.\n\n'''beggy†''' (beg′i), ''n.'' Same as ''bey''<sup>1</sup>.\n{{smaller block|There used to be a still more powerful personage at the head of the Ourf, called the Divan ''Beggy''. {{right|''Brougham.''}}}}\n\n'''Beghard''' (beg′ärd), ''n.''   [< ML. ''Beghardus'', ''begardus'', ''beggardus'', ''begehardus'', ''begihardus'' (cf. It. Sp. Pg. ''begardo'', MHG. ''beghart'', ''begehard'', G. ''beghart'', Flem. ''beggaert'', OF. ''begard'', ''begart'', ''begar'', with a later equiv. ML. ''beghinus'', ''beginus'', etc., OF. ''beguin'', etc., E. ''Beguin''), formed, with the suffix ''-ardus'', ''-ard'' (and later ''-inus'', ''-in'', after the fem. ML. ''beghina'', ''begina'', etc., OF. ''beguine'', etc., E. ''Beguin'', ''Beguine''), from the name of the founder of the sisterhood of Beguins, namely, Lambert ''Begue'' or ''le Begue'': see ''Beguin'', ''Beguine''.]   One of a body of religious enthusiasts which arose in Flanders in the thirteenth century; a Beguin (which see). Also written ''Beguard''. [Often without a capital.]\n\n'''begild''' (bē-gild′), ''v. t.''; pret. and pp. ''begilded'', ''begilt'', ppr. ''begilding''.   [< ''be-''<sup>1</sup> + ''gild''<sup>1</sup>.]   To gild: as, “bride-laces ''begilt'',” ''B. Jonson'', King’s Entertainment.\n{{smaller block|<poem>The lightning-flash from swords, casks, courtilaces,\nWith quiv’ring beams ''begilds'' the neighbour grasses.</poem>{{right|''Sylvester'', Battaile of Yvry (trans.), p. 102.}}}}\n\n'''begin''' (bē-gin′), ''v.''; pret. ''began'', sometimes ''begun'', pp. ''begun'', ppr. ''beginning''. [< ME. ''beginnen'', ''biginnen'' (pret. ''began'', ''begon'', pl. ''begunne'', ''begunnen'', ''begonne'', etc., pp. ''begunnen'', ''begonnen'', begunne'', etc.), < AS. ''beginnan'', ''biginnan'' (pret. ''began'', pl. ''begunnon'', pp. ''begunnen'') = OS. ''biginnan'' = OFries. ''beginna'', ''bejenna'' = D. ''beginnen'' = OHG. ''biginnañ'', MHG. G. ''beginnen'', begin; AS. more commonly ''onginnan'', rarely ''āginnan'', ME. ''aginnen'', and by apheresis ''ginnen'', mod. E. obs. or poet. ''gin''; also with still different prefixes, OHG. ''inginnan'', ''enginnen'', and Goth. ''duginnan'', begin; < ''be-'' (E. ''be-''<sup>1</sup>) or ''on-'', ''ā-'' (E. ''a-''<sup>2</sup>), + *''ginnan'', not found in the simple form, prob. orig. ‘open, open up’ (a sense retained also by the OHG. ''inginnan'', MHG. ''enginnen''), being prob. connected with (''a'') AS. ''ginian'' = OHG. ''ginēn'', MHG. ''ginen'', ''genen'', G. ''gähnen'', gape, yawn, (''b'') AS. ''gīnan'' = Icel. ''gīna'', gape, yawn, (''c'') AS. ''gānian'', E. ''yawn'' = OHG. ''geinōn'', MHG. ''geinen'', gape, yawn (cf. Gr. χαίνειν, gape, yawn); all variously with ''n-'' formative from the root *''gi'', seen also in OHG. ''giēn'' and ''giwēn'', ''gewōn'', MHG. ''giwen'', ''gewen'' = L. ''hiare'' = OBulg. ''zijati'' = Russ. ''zijatĭ'' = Bohem. ''zivati'' = Lith. ''zhioti'', etc., gape, yawn (cf. Gr. χάσκειν, yawn, χάος, chaos, χάσμα, chasm, etc.: see ''chaos'', ''chasm''): see ''yawn'' and ''hiatus''. Cf. ''open'' as equiv. to ''begin'', and ''close'' as equiv. to ''end''.] '''I.''' ''trans.'' '''1.''' To take the first step in; set about the performance or accomplishment of; enter upon; commence.\n{{smaller block|Ye nymphs of Solyma, ''begin'' the song.\n{{right|''Pope'', Messiah, l. 1.}}}}\n'''2.''' To originate; be the originator of: as, to ''begin'' a dynasty.\n{{smaller block|Proud Nimrod first the savage chase ''began''.\n{{right|''Pope'', Windsor Forest, l. 61.}}}}\n'''3.''' To trace from anything as the first ground; date the beginning of.\n{{smaller block|The apostle ''begins'' our knowledge in the creatures which leads us to the knowledge of God. {{right|''Locke.''}}}}\n={{smaller|'''Syn. 1.''' To set about, institute, undertake, originate, initiate.}}\n\n'''II.''' ''intrans.'' '''1.''' To come into existence; arise; originate: as, the present German empire ''began'' with William I.\n{{smaller block|<poem>Made a selfish war ''begin.''</poem>\n{{right|''Tennyson'', To F. D. Maurice.}}}}\n'''2.''' To take a first step; commence in any course or operation; make a start or commencement.\n{{smaller block|No change of disposition ''begins'' yet to show itself in England. {{right|''Jefferson'', in Bancroft’s Hist. Const., I. 436.}}}}\n{{smaller block|The contest raged from morning until night, when the Moors ''began'' to yield. {{right|''Irving'', Granada, p. 35.}}}}\n{{smaller|'''To begin the board.''' See ''board.''—'''To begin with.''' (''a'') To enter upon first; use or employ first: as, ''to begin with'' the Latin grammar; ''to begin with'' prayer. (''b'') At the outset; as the first thing to be considered; first of all: as, ''to begin with'', I do not like its color.}}\n{{smaller block|Animals can be trained to behave in a way in which, ''to begin with'', they are incapable of behaving.\n{{right|''T. H. Green'', Prolegomena to Ethics, § 113.}}}}\n\n'''begin†''' (bẹ̄-gin′), ''n.''   [< ''begin'', ''v.'']   A beginning.\n{{smaller block|<poem>Let no whit thee dismay\nThe hard ''beginne'' that meetes thee in the dore.</poem>\n{{right|''Spenser'', F. Q., III. iii. 21.}}}}\n\n'''beginner''' (bẹ̄-gin′ėr), ''n.''   [ME. ''begynner''; < ''begin'' + ''-er''<sup>1</sup>.]   '''1.''' One who begins or originates; one who starts or first leads off; an author or originator.\n{{smaller block|Where are the vile ''beginners'' of this fray?\n{{right|''Shak.'', R. and J., iii. 1.}}}}\n'''2.''' One beginning to learn or practise; a novice; a tyro: as, “a sermon of a new ''beginner,''” ''Swift.''\n{{smaller block|There are noble passages in it, but they are for the adept and not for the ''beginner.''\n{{right|''O. W. Holmes'', R. W. Emerson, xiv.}}}}\n\n'''beginning''' (bē-gin′ing), ''n.''   [< ME. ''beginninge'', ''beginnunge'' (= MHG. ''beginnunge''); verbal n. of ''begin.'']   '''1.''' The origin; source; first cause.\n{{smaller block|I am . . . the ''beginning'' and the ending. {{right|Rev. i. 8.}}}}\n'''2.''' The point of time or epoch at which anything begins; specifically, the time when the universe began to be.\n{{smaller block|In the ''beginning'' God created the heaven and the earth.\n{{right|Gen. i. 1.}}}}\n{{smaller block|It was reserved for Hutton to declare for the first time that the rocks around us reveal no trace of the ''beginning'' of things. {{right|''Geikie'', Geol. Sketches, ii.}}}}\n'''3.''' The initial stage or first part of any process or proceeding; the starting-point: as, a small ''beginning.''\n{{smaller block|He was come to that height of honour out of base ''beginnings.'' {{right|''Burton'', Anat. of Mel., p. 564.}}}}\n{{smaller block|The ''beginning'' of writing is the hieroglyphic or symbolical picture, the ''beginning'' of worship is fetishism or idolatry, the ''beginning'' of eloquence is pictorial, sensuous, and metaphorical, the ''beginning'' of philosophy is the myth. {{right|''Lecky'', Europ. Morals, I. 142.}}}}\n\n'''beginningless''' (bē-gin′ing-les), ''a.''   [< ''beginning'' + ''-less.'']   Having no beginning: correlative to ''endless.'' [Rare.]\n\n'''begird''' (bẹ̄-gėrd′), ''v. t.''; pret. and pp. ''begirt'', ''begirded'', ppr. ''begirding''.   [< ME. ''begirden'', only in pret. or pp. ''begurt'', < AS. ''begyrdan'' (= OHG. ''bigurtjan''; cf. Goth. ''bigairdan'', strong verb), < ''be-'' + ''gyrdan'', gird: see ''be-''<sup>1</sup> and ''gird''<sup>1</sup>.]   '''1.''' To bind with a band or girdle.—'''2.''' To surround; inclose; encompass.\n{{smaller block|<poem>Uther’s son\n''Begirt'' with British and Armoric knights.</poem>\n{{right|''Milton'', P. L., i. 581.}}}}\n\n'''begirdle''' (bẹ̄-gėr′dl), ''v. t.''   [< ''be-''<sup>1</sup> + ''girdle''.]   To surround or encircle as with a girdle.\n{{smaller block|Like a ring of lightning they . . . ''begirdle'' her from shore to shore. {{right|''Carlyle'', French Rev., III. vii. 3.}}}}\n\n'''begirt†''' (bẹ̄-gėrt′), ''v. t.''   [A form of ''begird'', inf., due to the frequent pp. ''begirt'', pret. and pp. being the same as those of ''begird''.]   To begird; encompass.\n{{smaller block|<poem>''Begirt'' the wood, and fire it.</poem>\n{{right|''Massinger'', Bashful Lover, iii. 5.}}}}\n{{smaller block|<poem>To ''begirt'' the almighty throne,\nBeseeching or besieging.</poem>\n{{right|''Milton'', P. L., v. 868.}}}}\n\n'''beglare''' (bẹ̄-glãr′), ''v. t.''   [< ''be-''<sup>1</sup> + ''glare''.]   To glare at or on. [A humorous coinage.]\n{{smaller block|So that a bystander, without beholding Mrs. Wilfer at all, must have known at whom she was glaring by seeing her refracted from the countenance of the ''beglared'' one.\n{{right|''Dickens'', Our Mutual Friend, I. xvi.}}}}\n\n'''beglerbeg''' (beg′lėr-beg′), ''n.'' Same as ''beylerbey.''\n\n'''beglerbeglic''' (beg′lėr-beg′lik), ''n.'' Same as ''beylerbeylik.''\n\n'''begloom''' (bẹ̄-glöm′), ''v. t.''   [< ''be-''<sup>1</sup> + ''gloom.'']   To make gloomy; darken. [Rare.]\n\n'''begnaw''' (bẹ̄-nâ′), ''v. t.''   [ME. not found; < AS. ''begnagan,'' gnaw, < ''be-'' + ''gnagan,'' gnaw: see ''be-''<sup>1</sup> and ''gnaw.'']   To bite or gnaw; eat away; corrode; nibble at. [Rare.]\n{{smaller block|The worm of conscience still ''be-gnaw'' thy soul.\n{{right|''Shak.'', Rich. III., i. 3.}}}}\n\n'''bego†''' (bẹ̄-gō′), ''v. t.''; pret. ''bewent,'' pp. ''begone.''   [< ME. ''begon, bigon,'' < AS. ''begān'' (= D. ''begaan'' = OHG. ''bigān,'' MHG. ''begān, begēn,'' G. ''begehen''), < ''be-,'' by, about, + ''gān,'' go: see ''be-''<sup>1</sup> and ''go.'']   '''1.''' To go about; encompass; surround.—'''2.''' To clothe; attire.—'''3.''' To surround or beset; affect as a circumstance or influence: now only in the perfect participle ''begone,'' in ''woebegone,'' beset with woe (originally in the construction ''him was wo begon,'' in which ''wo'' is the subject and ''him'' the dative object, subsequently made the subject).\n{{smaller block|So was I glad and wel ''begon.''\n{{right|''Chaucer'', Parliament of Fowls, l. 171.}}}}\n\n'''begod†''' (bẹ̄-god′), ''v. t.''   [< ''be-''<sup>1</sup> + ''god.'']   To deify: as, “''begodded'' saints,” ''South,'' Sermons, V. xcvii.\n\n'''begone'''<sup>1</sup> (bẹ̄-gôn′).   [Prop. two words, ''be gone'' (''be,'' inf. or impv.; ''gone,'' pp.), irreg. united, as also in ''beware.'']   Be gone; go away; depart.\n{{smaller block|''Begone!'' you are my brother; that’s your safety.\n{{right|''Beau. and Fl.'', Maid’s Tragedy, iv. 1.}}}}\n{{smaller block|“You must ''begone,''” said Death; “these walks are mine.” {{right|''Tennyson'', Love and Death.}}}}\n\n'''begone'''<sup>2</sup>† (bē-gôn′). Past participle of ''bego''.\n\n'''Begonia''' (bẹ̄-gō′ni-ä̤), ''n.''   [NL., named after Michel ''Bégon'' (1638–1710), a French promoter of science.]   A very large genus of polypetalous exogenous plants, the type of the natural order ''Begoniaceæ.'' {{smaller|They are mostly herbaceous, natives of the warmer regions of the globe, and are fre-}}\n{{smaller|quent in cultivation as foliage-plants and for their showy or singular flowers. A very great diversity in the often brilliant coloring of the leaves has been reached by skilful crossing. From the shape of their large, oblique, fleshy leaves some species are known by the name of ''elephant’s-ear.'' The succulent acid stalks of several species are used as pot-herbs.}}\n\n[[File:century v01 p0533 c3f1.png|center|327px]]\n{{c|{{smaller|''Begonia pannosa.'' ''a,'' branch with male flowers; ''b, c,'' two forms of styles and stigmas; ''d,'' fruit. (From Le Maout and Decaisne’s “Traité général de Botanique.”)}}}}\n\n'''Begoniaceæ''' (bẹ̄-gō-ni-ā′sẹ̄-ē), ''n. pl.''   [NL., < ''Begonia'' + ''-aceæ''.]   A natural order of plants, allied to the ''Cucurbitaceæ'' and ''Cactaceæ'', of which ''Begonia'' is the typical genus. {{smaller|The only other genera are ''Hillebrandia'' of the Sandwich Islands, monotypic, and ''Begoniella'' of the United States of Colombia, of only two species.}}\n\n'''begoniaceous''' (bẹ̄-gō-ni-ā′shius), ''a.'' Belonging to or resembling the ''Begoniaceæ''.\n\n'''begore''' (bẹ̄-gōr′), ''v. t.''   [< ''be-''<sup>1</sup> + ''gore''<sup>1</sup>.]   To besmear with gore.   ''Spenser.''\n\n'''begot''' (bẹ̄-got′). Preterit and past participle of ''beget''.\n\n'''begotten''' (bẹ̄-got′n). Past participle of ''beget''.\n\n'''begrace''' (bẹ̄-grās′), ''v. t.''   [< ''be-''<sup>1</sup> + ''grace''.]   To say “your grace” to; address by the title of a duke or bishop.   ''Holinshed.'' [Rare.]\n\n'''begrave†''' (bẹ̄-grāv′), ''v. t.''   [< ME. ''begraven'', < AS. ''begrafan'', bury (= OS. ''bigrabhan'' = D. ''begraven'' = OHG. ''bigraban'' = Sw. ''begrafva'' = Dan. ''begrave'', bury, = Goth. ''bigraban'', dig around), < ''be-'' + ''grafan'', grave, dig: see ''be-''<sup>1</sup> and ''grave''<sup>1</sup>, ''v.'']   '''1.''' To bury.   ''Gower.''—'''2.''' To engrave.\n{{smaller block|<poem>With great sleight\nOf workmanship it was ''begrave''.</poem>\n{{right|''Gower'', Conf. Amant., i.}}}}\n\n'''begrease''' (bẹ̄-grēs′), ''v. t.''   [< ''be-''<sup>1</sup> + ''grease''.]   To soil or daub with grease or other oily matter.\n\n'''begrime''' (bẹ̄-grīm′), ''v. t.''   [< ''be-''<sup>1</sup> + ''grime''.]   To make grimy; cover or impress as with dirt or grime.\n{{smaller block|The justice-room ''begrimed'' with ashes.\n{{right|''Macaulay'', Hist. Eng., x.}}}} ='''Syn.''' ''Tarnish'', etc. See ''soil.''\n\n'''begrudge''' (bẹ̄-gruj′), ''v. t.''   [Early mod. E. also ''begrutch'', < ME. ''begrucchen'': see ''be-''<sup>1</sup> and ''grudge''.]   To grudge; envy the possession of.\n{{smaller block|There wants no teacher to make a poor man ''begrudge'' his powerful and wealthy neighbour both his actual share in the government, and his disproportionate share of the good things of this life.\n{{right|''Brougham.''}}}}\n\n'''begruntle†''' (bẹ̄-grun′tl), ''v. t.''   [< ''be-''<sup>1</sup> + ''gruntle''. Cf. ''disgruntle''.]   To render uneasy; disconcert.\n{{smaller block|The Spaniards were ''begruntled'' with these scruples.\n{{right|''Bp. Hacket'', Life of Abp. Williams, i. 131.}}}}\n\n'''begrutch†''', ''v. t.'' Obsolete form of ''begrudge''.\n\n'''begrutten''' (bẹ̄-grut′n), ''a.''   [< ''be-''<sup>1</sup> + ''grutten'', pp. of ''greit'', ''greet'', cry: see ''greet''<sup>2</sup>.]   Showing the effects of much weeping; marred or swollen in face through sore or continued weeping. [Scotch.]\n{{smaller block|Poor things, . . . they are sae ''begrutten''.\n{{right|''Scott'', Monastery, viii.}}}}\n\n'''begster†''', ''n.'' A Middle English form of ''beggar''.   ''Chaucer''.\n\n'''Begtashi''' (beg-tä′shē), ''n.''   [Turk.]   A secret religious order in Turkey resembling the order of Freemasons, employing passwords and signs of recognition very similar to, and in some cases identical with, those of the latter order, and including many thousands of influential members.   ''Imp. Dict.''\n\n'''beguan''' (beg′wän), ''n.''   [Prob. a native name.]   A bezoar or concretion found in the intestines of the iguana.\n\n'''Beguard''', ''n.'' See ''Beghard''.<noinclude><references/></noinclude>"
+}

@@ -1,0 +1,195 @@
+{
+ "volume": 1,
+ "page_number": 560,
+ "source": "scan",
+ "title": "https://archive.org/download/centurydictionary01whit/page/n559.jpg",
+ "provenance": {
+  "scan": "https://archive.org/download/centurydictionary01whit/page/n559.jpg",
+  "model": "claude-opus-5-5",
+  "transcribed": "2026-11-20",
+  "fetched_by": "ahaspel",
+  "angle": 0.0,
+  "column_width": 751,
+  "items": [
+   {
+    "name": "head",
+    "kind": "head",
+    "column": 0,
+    "box": [
+     91,
+     118,
+     2338,
+     143
+    ]
+   },
+   {
+    "name": "c1s1",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     91,
+     143,
+     839,
+     1188
+    ]
+   },
+   {
+    "name": "c1s2",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     91,
+     1188,
+     839,
+     2269
+    ]
+   },
+   {
+    "name": "c1s3",
+    "kind": "text",
+    "column": 1,
+    "box": [
+     91,
+     2269,
+     839,
+     3272
+    ]
+   },
+   {
+    "name": "c2s1",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     839,
+     143,
+     1588,
+     1238
+    ]
+   },
+   {
+    "name": "c2s2",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     839,
+     1238,
+     1588,
+     2034
+    ]
+   },
+   {
+    "name": "c2s3",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     839,
+     2034,
+     1588,
+     2918
+    ]
+   },
+   {
+    "name": "c2s4",
+    "kind": "text",
+    "column": 2,
+    "box": [
+     839,
+     2918,
+     1588,
+     3272
+    ]
+   },
+   {
+    "name": "c3s1",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1588,
+     143,
+     2338,
+     1082
+    ]
+   },
+   {
+    "name": "c3s2",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1588,
+     1082,
+     2338,
+     2162
+    ]
+   },
+   {
+    "name": "c3s3",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1588,
+     2162,
+     2338,
+     3106
+    ]
+   },
+   {
+    "name": "c3s4",
+    "kind": "text",
+    "column": 3,
+    "box": [
+     1588,
+     3106,
+     2338,
+     3272
+    ]
+   }
+  ],
+  "readings": {
+   "head": "{{RunningHeader|Bessemer converter|534|bestorm}}",
+   "c1s1": "{{RunningHeader|Bessemer converter||}}\n¶\n'''Bessemer converter, iron, process, steel,''' etc. See the nouns.\n\n'''Bessera''' (bes′e-rä), ''n.'' [NL., named after the Russian naturalist ''Besser''.] A genus of Mexican bulbous liliaceous plants, consisting of a single species, ''B. elegans'', frequently cultivated. Its showy crimson flowers are borne in a terminal umbel.\n\n'''bessis''' (bes′is), ''n.'' Same as ''bes''.\n\n'''bessogne†''', ''n.'' See ''bisogno''.\n\n'''best''' (best), ''a.'' and ''n.'' (superlative of ''good''). [See ''better'', ''a.'', and ''good''.] '''I.''' ''a.'' '''1.''' Of the highest quality, excellence, or standing: said of both persons and things in regard to mental, moral, or physical qualities, whether inherent or acquired: as, the ''best'' writers and speakers; the ''best'' families; the ''best'' judgment; the ''best'' years of one’s life; a house built of the ''best'' materials.\n{{smaller block|When he is ''best'', he is a little worse than a man; and when he is worst, he is little better than a beast.\n{{right|''Shak.'', M. of V., i. 2.}}\n<poem>What she wills to do or say\nSeems wisest, virtuousest, discreetest, ''best''.</poem>\n{{right|''Milton'', P. L., viii. 550.}}}}\n\n'''2.''' Of greatest advantage, usefulness, or suitability for the purpose intended; most advantageous, suitable, appropriate, or desirable: as, the ''best'' man for the place; the ''best'' way to do anything.\n{{smaller block|<poem>His ''best'' companions, innocence and health,\nAnd his ''best'' riches, ignorance of wealth.</poem>\n{{right|''Goldsmith'', Des. Vil., l. 61.}}}}",
+   "c1s2": "'''3.''' Most kind, beneficent, or good: applied to persons: as, the ''best'' husband imaginable; which of your brothers is ''best'' to you?—'''4.''' Largest; greatest; most: as, we spent the ''best'' part of three days in getting there.—{{smaller|'''Best man,''' the groomsman or chief attendant on the bridegroom at a wedding.}}\n\n{{smaller block|I acted in the capacity of backer or ''best man'' to the bridegroom.\n{{right|''Dickens.''}}}}\n\n{{smaller block|In our own marriages the ''best man'' seems originally to have been the chief abettor of the bridegroom in the act of capture.\n{{right|''Darwin'', Des. of Man, II. xx.}}}}\n\n{{smaller|'''Best work,''' in ''mining'', the richest class of ore.—'''To put one’s best foot foremost.''' See ''foot.''}}\n\n'''II.''' ''n.'' '''1.''' The highest possible state of excellence; the best quality or property of a person or thing.\n\n{{smaller block|<poem>Yf thou wylte leve in peas & Reste,\nHere, & see, & sey the ''beste.''</poem>\n{{right|''Prov. of Good Counsel'', 52.}}}}\n\n{{smaller block|<poem>But you, O you,\nSo perfect, and so peerless, are created\nOf every creature’s ''best.''</poem>\n{{right|''Shak.'', Tempest, iii. 1.}}}}\n\n'''2.''' All that one can do, or show in one’s self: often used in this sense with the possessive pronouns ''my'', ''thy'', ''his'', ''their'', etc.: as, I will do ''my best'' to advance your interests; she is bent on looking ''her best;'' he did all he could to appear at ''his best'' in that performance.\n\n{{smaller block|<poem>Then gan I him to comfort all ''my best.''</poem>\n{{right|''Spenser'', Daphnaïda, l. 190.}}}}\n\n{{smaller block|<poem>Win shall I not, but do ''my best'' to win.</poem>\n{{right|''Tennyson'', Lancelot and Elaine.}}}}\n\n{{smaller|'''At best,''' in the utmost degree or extent applicable to the case: as, life is ''at best'' very short.}}",
+   "c1s3": "¶\n{{smaller block|The Law of England is ''at best'' but the reason of Parliament.{{right|''Milton'', Eikonoklastes, x.}}}}\n\n{{smaller|'''For best†''', finally; for good and all.}}\n{{smaller block|Those constitutions . . . are now established ''for best'', and not to be mended.{{right|''Milton.''}}}}\n\n{{smaller|'''For the best''', so as to secure the most advantageous result; with the best intentions.—'''The best.''' (''a'') The best people collectively; those of the highest standing in any respect, but especially socially or intellectually.}}\n{{smaller block|<poem>Throng, their rags and they,\nThe basest, far into that council-hall\nWhere sit ''the best'' and stateliest of the land.</poem>{{right|''Tennyson'', Lucretius.}}}}\n{{smaller|(''b'') The best things, or a thing of the best quality: as, he always buys ''the best''; dressed in one’s ''best''.}}\n{{smaller block|<poem>The lads and lassies in their ''best''\nWere dressed from top to toe.</poem>{{right|''E. Ransford'', Gypsying.}}}}\n{{smaller|'''The best of''', the advantage in (a contest or proceeding or over (a person): as, from the start A. B. had ''the best of'' it.}}\n{{smaller block|As far as dignity is concerned, Steele has certainly ''the best of'' the quarrel. ''A. Dobson'', Introd. to Steele, p. xxxix.}}\n{{smaller|'''To make the best of''', to use to the best advantage; get all that one can out of.}}\n{{smaller block|Let there be freedom to carry their commodities where they may ''make the best of'' them.{{right|''Bacon.''}}}}\n{{smaller|Often used in speaking of things or events that are not so good or favorable as was expected or was to be wished: as, ''to make the best of'' ill fortune or a bad bargain.—'''To make the best of one’s way''', to travel or proceed with all possible speed.}}\n\n'''best''' (best), ''adv.'' (superlative of ''well''). [See ''better'', ''adv.''] '''1.''' In the most excellent or most suitable manner; with most advantage or success: as, he who runs ''best'' gets the prize; the",
+   "c2s1": "best-behaved boy in the school; the ''best''-cultivated fields.\n{{smaller block|Speak ye, who ''best'' can tell.\n{{right|''Milton'', P. L., v. 160.}}\n<poem>Most solicitous how ''best''\nHe may compensate for a day of sloth.</poem>\n{{right|''Cowper'', Task, iv.}}\n<poem>He prayeth ''best'' who loveth ''best''\nAll things both great and small.</poem>\n{{right|''Coleridge'', Ancient Mariner, vii. 23.}}}}\n'''2.''' In or to the highest degree; to the fullest extent; most fully: as, those who know him ''best'' speak highly of him; those ''best'' informed say so; the ''best''-abused man in town.\n{{smaller block|Old fashions please me ''best''. ''Shak.'', T. of the S., iii. 1.\n\nTell whom thou lovest ''best''. ''Shak.'', T. of the S., ii. 1.\n\nI relish ''best'' the free gifts of Providence.\n{{right|''Hawthorne'', Old Manse, I.}}}}\n\n'''best''' (best), ''v. t.'' [< ''best'', ''a.'' or ''n.''] '''1.''' To get the better of; outdo; surpass.\n{{smaller block|I cannot stand quiet and see the dissenters ''best'' the establishment. ''Trafford'', World in Ch., ii. 77. (''N. E. D.'')}}\n'''2.''' To overreach or outwit: as, to ''best'' a client. —'''3.''' To defeat in a contest; do better than; beat; hence, in pugilism, to thrash soundly; drub; defeat at fisticuffs.\n\n'''bestad†.''' An obsolete preterit corresponding to the past participle ''bestead''<sup>3</sup>.\n\n'''bestain''' (bẹ̄-stān′), ''v. t.'' [< ''be-''<sup>1</sup> + ''stain''.] To mark with stains; discolor; spot.\n{{smaller block|All with blood ''bestain'' his cheeks.\n{{right|''Percy’s Reliques'', p. 134.}}}}\n\n'''bestand''' (bē-stand′), ''v. t.'' [< ''be-''<sup>1</sup> + ''stand''.] To serve; be of service to; be ready to serve or",
+   "c2s2": "aid. [Rare.]\n\n{{smaller block|To such practical lessons as would always ''bestand'' them well.\n{{right|''D. G. Mitchell'', Bound Together.}}}}\n\n¶\n'''best-best''' (best′best), ''a.'' The very best: sometimes used in trade to indicate the very best quality.\n\n'''bestead'''<sup>1</sup> (bē-sted′), ''v. t.''; pret. and pp. ''besteaded'', ''bested'', ppr. ''besteading''. [< ''be-''<sup>1</sup> + ''stead'', ''v.'', support, help.] '''1.''' To help; assist.—'''2.''' To profit; benefit; serve; avail.\n\n{{smaller block|Remember this, Gil Blas, . . . pay your court to Signior Rodriguez, . . . his friendship will ''bestead'' you much.\n{{right|''Smollett'', tr. of Gil Blas, iii. 3.}}\nIn this ship was great store of dry Newfoundland fish, . . . the same being so new and good as it did very greatly ''bestead'' us in the whole course of our voyage.\n{{right|''Sir F. Drake'', West India Voyage.}}\n<poem>Hence, vain deluding Joys,\nThe brood of Folly without father bred!\nHow little you ''bested''\nOr fill the fixed mind with all your toys!</poem>\n{{right|''Milton'', Il Penseroso, l. 3.}}}}\n\n'''bestead'''<sup>2</sup>† (bē-sted′), ''v. t.'' [< ''be-''<sup>1</sup> + ''stead'', place.] To take the place of.\n\n{{smaller block|Hys missing of the Vniuersitie Oratorship, wherein Doctor Perne ''besteaded'' him.\n{{right|''Nash'', Haue with you to Saffronwalden.}}}}",
+   "c2s3": "¶\n'''bestead<sup>3</sup>''', ''p. a.'' See ''bested.''\n\n'''bested, bestead''' (bẹ̄-sted′), ''p. a.'' [Prop. only as a pp. or p. a.; but Spenser uses a pret. ''bestad'' and pp. ''bestedded'', and other authors have adopted present forms; < ME. ''bested'', ''bisted'', commonly ''bestad'', ''bistad'', earliest forms ''bistathed'', ''bisteathet'', pp., without pres. or pret. (= Dan. ''bestedt''), < ''be-'' + ''stad'', ''stadd'', later ''sted'', etc., < Icel. ''staddr'' = Sw. ''stadd'', circumstanced, pp. of ''stedhja'', fix, appoint, = AS. ''stæththan'', set, set fast, plant, < ''stæth'', a place, related to ''stede'', a place, stead: see ''stead'' and ''steady''.] '''1.''' Placed; situated: of things.—'''2.''' Placed or circumstanced as to condition, convenience, benefit, and the like; situated: of persons.\n{{smaller block|<poem>She saith that she shall not be glad,\nTill that she se hym so ''bestad.''</poem>\n{{right|''Gower'', Conf. Amant., i.}}\nMany far worse ''bestead'' than ourselves. {{right|''Barrow.''}}\n<poem>In old Bassora’s schools I seemed\nHermit vowed to books and gloom,—\nIll ''bested'' for gay bridegroom.</poem>\n{{right|''Emerson'', Hermione.}}}}\n'''3†.''' Disposed mentally; affected: as, “sorrowfully ''bestad,''” ''Chaucer.''—'''4†.''' Provided; furnished.\n{{smaller block|The Ladie, ill of friends ''bestedded.''\n{{right|''Spenser'', F. Q., IV. i. 3.}}}}",
+   "c2s4": "[This word is scarcely if at all used now, except in such phrases as ''ill'' or ''sore bested''.]\n\n'''Bestiæ''' (bes′ti-ē), ''n. pl.'' [NL., pl. of L. ''bestia'', a beast: see ''beast''.] A suborder of the mammalian order ''Insectivora'', including the true insectivores as distinguished from the frugivorous ''Galeopithecidæ'', having the limbs fitted for walking, but not for flying (being devoid of a parachute), and the lower incisors not pectinate. The group contains the whole of the order, excepting the family just named.",
+   "c3s1": "¶\n'''bestial''' (bes′tịal), ''a.'' and ''n.'' [< L. ''bestialis'', < ''bestia'', beast: see ''beast.''] '''I.''' ''a.'' '''1.''' Belonging to a beast or to the class of beasts; animal.\n{{smaller block|Of shape part human, part ''bestial.''{{right|''Tatler'', No. 49.}}}}\n'''2.''' Having the qualities of a beast; brutal; below the dignity of reason or humanity; carnal: as, a ''bestial'' appetite.\n{{smaller block|I have lost the immortal part of myself, and what remains is ''bestial.''{{right|''Shak.'', Othello, ii. 3.}}}}\n{{smaller|'''Bestial automaton.''' See ''automaton.''—'''Bestial sign,''' in ''astrol.'', a zodiacal sign denoted by a quadruped, Aries, Taurus, Leo, Sagittarius, or Capricornus.='''Syn.''' ''Brutish'', ''Bestial'', etc. (see ''brute''); vile, depraved, sensual.}}\n\n'''II.''' ''n.'' [< LL. ''bestiale'', cattle, neut. of L. ''bestialis:'' see above.] '''1.''' In ''Scots law'', the cattle on a farm taken collectively.—'''2†.''' A work on zoölogy. ''Brewer.''\n\n'''bestiality''' (bes-tịal′i-ti), ''n.'' [< LL. ''bestialitas'', < ''bestialis:'' see ''bestial.''] '''1.''' The qualities or nature of a beast; conduct or mental condition unworthy of human nature; beastliness.\n{{smaller block|What can be a greater absurdity than to affirm ''bestiality'' to be the essence of humanity, and darkness the centre of light?{{right|''Martinus Scriblerus.''}}}}\n'''2.''' Unnatural connection with a beast.\n\n'''bestialize''' (bes′tial-īz), ''v. t.''; pret. and pp. ''bestialized'', ppr. ''bestializing''. [< ''bestial'', ''a.'', + ''-ize.''] To make like a beast; bring or reduce to the state or condition of a beast.",
+   "c3s2": "{{smaller block|The process of ''bestializing'' humanity. {{right|''Hare.''}}}}\n\n¶\n'''bestially''' (bes′tia̤l-i), ''adv.'' In a bestial manner; brutally; as a brute beast.\n\n'''bestian†''' (bes′tian), ''a.'' Of or belonging to the beast spoken of in the Apocalypse (Rev. xiii. xx.).\n\n'''bestianism†''' (bes′tian-izm), ''n.'' [< ''bestian'' + ''-ism.''] The power of the beast. See ''bestian.''\n\n'''bestiarian''' (bes-ti-ā′ri-a̤n), ''n.'' [< L. ''bestia'', a beast, + ''-arian''; suggested by ''humanitarian.''] One who is an advocate of the kind treatment of animals; specifically, in Great Britain, an antivivisectionist.\n\n'''bestiary''' (bes′ti-ā-ri), ''n.'' [< ML. ''bestiarium'', neut. of L. ''bestiarius'', pertaining to wild beasts (as a n., a beast-fighter), < ''bestia'', a wild beast.] '''1†.''' A fighter with wild beasts in the ancient Roman amphitheater.—'''2.''' A name formerly sometimes given to a book treating of animals.\n{{smaller block|Mr. Watkins has, however, gone further back, and commences with Homer and Hesiod. His opening chapter, “A Homeric ''Bestiary'',” is one of the most characteristic and satisfactory portions of his work.\n{{right|''N. and Q.'', 6th ser., XI. 260.}}}}\n\n'''bestiate''' (bes′ti-āt), ''v. t.''; pret. and pp. ''bestiated'', ppr. ''bestiating.'' [< L. ''bestia'', a beast, + ''-ate''<sup>2</sup>.] To make beastly; bestialize. [Rare.]\n{{smaller block|Drunkenness ''bestiates'' the heart.\n{{right|''R. Junius'', Sinne Stigmatized, p. 235.}}}}\n\n'''bestick''' (bē-stik′), ''v. t.''; pret. and pp. ''bestuck'', ppr. ''besticking.'' [< ''be-''<sup>1</sup> + ''stick''<sup>1</sup>.] '''1.''' To stick on the surface of; cover over.—'''2.''' To pierce in various places; pierce through and through.\n{{smaller block|<poem>Truth shall retire,</poem>}}",
+   "c3s3": "{{smaller block|''Bestuck'' with slanderous darts.\n{{right|''Milton'', P. L., xii. 536.}}}}\n\n{{smaller block|In these little visual interpretations [valentines] no emblem is so common as the heart, . . . the ''bestuck'' and bleeding heart. {{right|''Lamb'', Valentine’s Day.}}}}\n\n'''bestill''' (bē̤-stil′), ''v. t.'' [< ''be-''<sup>1</sup> + ''still''<sup>1</sup>.] To make quiet or still.\n\n{{smaller block|Commerce ''bestilled'' her many-nationed tongue.\n{{right|''J. Cunningham'', Elegiac Ode.}}}}\n\n{{smaller block|[In the following passage uncertain:\n<poem>They, ''bestill’d''\nAlmost to jelly with the act of fear,\nStand dumb, and speak not to him.</poem>\n{{right|''Shak.'', Hamlet, i. 2.}}\nThis is the reading of the folios; the quartos and modern editions read ''distilled''.]}}\n\n'''bestir''' (bē̤-stėr′), ''v. t.''; pret. and pp. ''bestirred'', ppr. ''bestirring''. [< ME. ''bestyrien'', ''bestirien'', ''besterien'', bestir, < AS. ''bestyrian'', heap up, pile up, < ''be-'' + ''styrian'', stir: see ''be-''<sup>1</sup> and ''stir''.] To put into brisk or vigorous action; reflexively, move with life and vigor: as, ''bestir yourself''.\n\n{{smaller block|You have . . . ''bestirred'' your valour.\n{{right|''Shak.'', Lear, ii. 2.}}}}\n\n{{smaller block|<poem>Come on, clowns, forsake your dumps,\nAnd ''bestir'' your hobnailed stumps.</poem>\n{{right|''B. Jonson'', The Satyr.}}}}\n\n{{smaller block|Rouse and ''bestir themselves'' ere well awake.\n{{right|''Milton'', P. L., i. 334.}}}}\n\n'''bestness''' (best′nes), ''n.'' [< ''best'' + ''-ness''.] The quality of being best. [Rare.]",
+   "c3s4": "{{smaller block|The ''bestness'' of a thing.\n{{right|''Bp. Morton'', Episcopacy Asserted, § 4.}}}}\n\n'''bestorm''' (bē-stôrm′), ''v. t.'' [< ''be-'' + ''storm''; not descended from AS. ''bestyrman'' = G. ''bestürmen'' = Sw. ''bestorma'' = Dan. ''bestorme'', attack with"
+  },
+  "figure_files": {},
+  "figures": [],
+  "across": [],
+  "refused": [],
+  "unread": {},
+  "rejected": {},
+  "disagreements": {
+   "0": [
+    0,
+    1
+   ]
+  },
+  "usage": {
+   "figures": {
+    "batch": true,
+    "calls": 1,
+    "input_tokens": 2673,
+    "output_tokens": 14,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+   },
+   "text": {
+    "batch": true,
+    "calls": 12,
+    "input_tokens": 9566,
+    "output_tokens": 11002,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 47592
+   }
+  },
+  "captions_marked": true,
+  "insets": {}
+ },
+ "raw_text": "<noinclude><pagequality level=\"1\" user=\"transcriber\" />{{RunningHeader|Bessemer converter|534|bestorm}}</noinclude>{{RunningHeader|Bessemer converter||}}\n'''Bessemer converter, iron, process, steel,''' etc. See the nouns.\n\n'''Bessera''' (bes′e-rä), ''n.''   [NL., named after the Russian naturalist ''Besser''.]   A genus of Mexican bulbous liliaceous plants, consisting of a single species, ''B. elegans'', frequently cultivated. Its showy crimson flowers are borne in a terminal umbel.\n\n'''bessis''' (bes′is), ''n.'' Same as ''bes''.\n\n'''bessogne†''', ''n.'' See ''bisogno''.\n\n'''best''' (best), ''a.'' and ''n.'' (superlative of ''good'').   [See ''better'', ''a.'', and ''good''.]   '''I.''' ''a.'' '''1.''' Of the highest quality, excellence, or standing: said of both persons and things in regard to mental, moral, or physical qualities, whether inherent or acquired: as, the ''best'' writers and speakers; the ''best'' families; the ''best'' judgment; the ''best'' years of one’s life; a house built of the ''best'' materials.\n{{smaller block|When he is ''best'', he is a little worse than a man; and when he is worst, he is little better than a beast.\n{{right|''Shak.'', M. of V., i. 2.}}}}\n{{smaller block|<poem>What she wills to do or say\nSeems wisest, virtuousest, discreetest, ''best''.</poem>\n{{right|''Milton'', P. L., viii. 550.}}}}\n\n'''2.''' Of greatest advantage, usefulness, or suitability for the purpose intended; most advantageous, suitable, appropriate, or desirable: as, the ''best'' man for the place; the ''best'' way to do anything.\n{{smaller block|<poem>His ''best'' companions, innocence and health,\nAnd his ''best'' riches, ignorance of wealth.</poem>\n{{right|''Goldsmith'', Des. Vil., l. 61.}}}} '''3.''' Most kind, beneficent, or good: applied to persons: as, the ''best'' husband imaginable; which of your brothers is ''best'' to you?—'''4.''' Largest; greatest; most: as, we spent the ''best'' part of three days in getting there.—{{smaller|'''Best man,''' the groomsman or chief attendant on the bridegroom at a wedding.}}\n\n{{smaller block|I acted in the capacity of backer or ''best man'' to the bridegroom.\n{{right|''Dickens.''}}}}\n\n{{smaller block|In our own marriages the ''best man'' seems originally to have been the chief abettor of the bridegroom in the act of capture.\n{{right|''Darwin'', Des. of Man, II. xx.}}}}\n\n{{smaller|'''Best work,''' in ''mining'', the richest class of ore.—'''To put one’s best foot foremost.''' See ''foot.''}}\n\n'''II.''' ''n.'' '''1.''' The highest possible state of excellence; the best quality or property of a person or thing.\n\n<poem>Yf thou wylte leve in peas & Reste,\nHere, & see, & sey the ''beste.''</poem>\n{{smaller block|{{right|''Prov. of Good Counsel'', 52.}}}}\n\n<poem>But you, O you,\nSo perfect, and so peerless, are created\nOf every creature’s ''best.''</poem>\n{{smaller block|{{right|''Shak.'', Tempest, iii. 1.}}}}\n\n'''2.''' All that one can do, or show in one’s self: often used in this sense with the possessive pronouns ''my'', ''thy'', ''his'', ''their'', etc.: as, I will do ''my best'' to advance your interests; she is bent on looking ''her best;'' he did all he could to appear at ''his best'' in that performance.\n\n<poem>Then gan I him to comfort all ''my best.''</poem>\n{{smaller block|{{right|''Spenser'', Daphnaïda, l. 190.}}}}\n\n<poem>Win shall I not, but do ''my best'' to win.</poem>\n{{smaller block|{{right|''Tennyson'', Lancelot and Elaine.}}}}\n\n{{smaller|'''At best,''' in the utmost degree or extent applicable to the case: as, life is ''at best'' very short.}}\n\n{{smaller block|The Law of England is ''at best'' but the reason of Parliament.{{right|''Milton'', Eikonoklastes, x.}}}}\n\n{{smaller|'''For best†''', finally; for good and all.}}\n{{smaller block|Those constitutions . . . are now established ''for best'', and not to be mended.{{right|''Milton.''}}}}\n\n{{smaller|'''For the best''', so as to secure the most advantageous result; with the best intentions.—'''The best.''' (''a'') The best people collectively; those of the highest standing in any respect, but especially socially or intellectually.}}\n{{smaller block|<poem>Throng, their rags and they,\nThe basest, far into that council-hall\nWhere sit ''the best'' and stateliest of the land.</poem>{{right|''Tennyson'', Lucretius.}}}}\n{{smaller|(''b'') The best things, or a thing of the best quality: as, he always buys ''the best''; dressed in one’s ''best''.}}\n{{smaller block|<poem>The lads and lassies in their ''best''\nWere dressed from top to toe.</poem>{{right|''E. Ransford'', Gypsying.}}}}\n{{smaller|'''The best of''', the advantage in (a contest or proceeding or over (a person): as, from the start A. B. had ''the best of'' it.}}\n{{smaller block|As far as dignity is concerned, Steele has certainly ''the best of'' the quarrel.\n{{right|''A. Dobson'', Introd. to Steele, p. xxxix.}}}}\n{{smaller|'''To make the best of''', to use to the best advantage; get all that one can out of.}}\n{{smaller block|Let there be freedom to carry their commodities where they may ''make the best of'' them.{{right|''Bacon.''}}}}\n{{smaller|Often used in speaking of things or events that are not so good or favorable as was expected or was to be wished: as, ''to make the best of'' ill fortune or a bad bargain.—'''To make the best of one’s way''', to travel or proceed with all possible speed.}}\n\n'''best''' (best), ''adv.'' (superlative of ''well'').   [See ''better'', ''adv.'']   '''1.''' In the most excellent or most suitable manner; with most advantage or success: as, he who runs ''best'' gets the prize; the best-behaved boy in the school; the ''best''-cultivated fields.\n{{smaller block|Speak ye, who ''best'' can tell.\n{{right|''Milton'', P. L., v. 160.}}}}\n{{smaller block|<poem>Most solicitous how ''best''\nHe may compensate for a day of sloth.</poem>\n{{right|''Cowper'', Task, iv.}}}}\n{{smaller block|<poem>He prayeth ''best'' who loveth ''best''\nAll things both great and small.</poem>\n{{right|''Coleridge'', Ancient Mariner, vii. 23.}}}}\n'''2.''' In or to the highest degree; to the fullest extent; most fully: as, those who know him ''best'' speak highly of him; those ''best'' informed say so; the ''best''-abused man in town.\n{{smaller block|Old fashions please me ''best''. ''Shak.'', T. of the S., iii. 1.\n\nTell whom thou lovest ''best''. ''Shak.'', T. of the S., ii. 1.\n\nI relish ''best'' the free gifts of Providence.\n{{right|''Hawthorne'', Old Manse, I.}}}}\n\n'''best''' (best), ''v. t.''   [< ''best'', ''a.'' or ''n.'']   '''1.''' To get the better of; outdo; surpass.\n{{smaller block|I cannot stand quiet and see the dissenters ''best'' the establishment.\n{{right|''Trafford'', World in Ch., ii. 77. (''N. E. D.'')}}}}\n'''2.''' To overreach or outwit: as, to ''best'' a client. —'''3.''' To defeat in a contest; do better than; beat; hence, in pugilism, to thrash soundly; drub; defeat at fisticuffs.\n\n'''bestad†.''' An obsolete preterit corresponding to the past participle ''bestead''<sup>3</sup>.\n\n'''bestain''' (bẹ̄-stān′), ''v. t.''   [< ''be-''<sup>1</sup> + ''stain''.]   To mark with stains; discolor; spot.\n{{smaller block|All with blood ''bestain'' his cheeks.\n{{right|''Percy’s Reliques'', p. 134.}}}}\n\n'''bestand''' (bē-stand′), ''v. t.''   [< ''be-''<sup>1</sup> + ''stand''.]   To serve; be of service to; be ready to serve or aid. [Rare.]\n\n{{smaller block|To such practical lessons as would always ''bestand'' them well.\n{{right|''D. G. Mitchell'', Bound Together.}}}}\n\n'''best-best''' (best′best), ''a.'' The very best: sometimes used in trade to indicate the very best quality.\n\n'''bestead'''<sup>1</sup> (bē-sted′), ''v. t.''; pret. and pp. ''besteaded'', ''bested'', ppr. ''besteading''.   [< ''be-''<sup>1</sup> + ''stead'', ''v.'', support, help.]   '''1.''' To help; assist.—'''2.''' To profit; benefit; serve; avail.\n\n{{smaller block|Remember this, Gil Blas, . . . pay your court to Signior Rodriguez, . . . his friendship will ''bestead'' you much.\n{{right|''Smollett'', tr. of Gil Blas, iii. 3.}}}}\n{{smaller block|In this ship was great store of dry Newfoundland fish, . . . the same being so new and good as it did very greatly ''bestead'' us in the whole course of our voyage.\n{{right|''Sir F. Drake'', West India Voyage.}}}}\n<poem>Hence, vain deluding Joys,\nThe brood of Folly without father bred!\nHow little you ''bested''\nOr fill the fixed mind with all your toys!</poem>\n{{smaller block|{{right|''Milton'', Il Penseroso, l. 3.}}}}\n\n'''bestead'''<sup>2</sup>† (bē-sted′), ''v. t.''   [< ''be-''<sup>1</sup> + ''stead'', place.]   To take the place of.\n\n{{smaller block|Hys missing of the Vniuersitie Oratorship, wherein Doctor Perne ''besteaded'' him.\n{{right|''Nash'', Haue with you to Saffronwalden.}}}}\n\n'''bestead<sup>3</sup>''', ''p. a.'' See ''bested.''\n\n'''bested, bestead''' (bẹ̄-sted′), ''p. a.''   [Prop. only as a pp. or p. a.; but Spenser uses a pret. ''bestad'' and pp. ''bestedded'', and other authors have adopted present forms; < ME. ''bested'', ''bisted'', commonly ''bestad'', ''bistad'', earliest forms ''bistathed'', ''bisteathet'', pp., without pres. or pret. (= Dan. ''bestedt''), < ''be-'' + ''stad'', ''stadd'', later ''sted'', etc., < Icel. ''staddr'' = Sw. ''stadd'', circumstanced, pp. of ''stedhja'', fix, appoint, = AS. ''stæththan'', set, set fast, plant, < ''stæth'', a place, related to ''stede'', a place, stead: see ''stead'' and ''steady''.]   '''1.''' Placed; situated: of things.—'''2.''' Placed or circumstanced as to condition, convenience, benefit, and the like; situated: of persons.\n{{smaller block|<poem>She saith that she shall not be glad,\nTill that she se hym so ''bestad.''</poem>\n{{right|''Gower'', Conf. Amant., i.}}}}\n{{smaller block|Many far worse ''bestead'' than ourselves. {{right|''Barrow.''}}}}\n{{smaller block|<poem>In old Bassora’s schools I seemed\nHermit vowed to books and gloom,—\nIll ''bested'' for gay bridegroom.</poem>\n{{right|''Emerson'', Hermione.}}}}\n'''3†.''' Disposed mentally; affected: as, “sorrowfully ''bestad,''” ''Chaucer.''—'''4†.''' Provided; furnished.\n{{smaller block|The Ladie, ill of friends ''bestedded.''\n{{right|''Spenser'', F. Q., IV. i. 3.}}}} [This word is scarcely if at all used now, except in such phrases as ''ill'' or ''sore bested''.]\n\n'''Bestiæ''' (bes′ti-ē), ''n. pl.''   [NL., pl. of L. ''bestia'', a beast: see ''beast''.]   A suborder of the mammalian order ''Insectivora'', including the true insectivores as distinguished from the frugivorous ''Galeopithecidæ'', having the limbs fitted for walking, but not for flying (being devoid of a parachute), and the lower incisors not pectinate. The group contains the whole of the order, excepting the family just named.\n\n'''bestial''' (bes′tịal), ''a.'' and ''n.''   [< L. ''bestialis'', < ''bestia'', beast: see ''beast.'']   '''I.''' ''a.'' '''1.''' Belonging to a beast or to the class of beasts; animal.\n{{smaller block|Of shape part human, part ''bestial.''{{right|''Tatler'', No. 49.}}}}\n'''2.''' Having the qualities of a beast; brutal; below the dignity of reason or humanity; carnal: as, a ''bestial'' appetite.\n{{smaller block|I have lost the immortal part of myself, and what remains is ''bestial.''{{right|''Shak.'', Othello, ii. 3.}}}}\n{{smaller|'''Bestial automaton.''' See ''automaton.''—'''Bestial sign,''' in ''astrol.'', a zodiacal sign denoted by a quadruped, Aries, Taurus, Leo, Sagittarius, or Capricornus.='''Syn.''' ''Brutish'', ''Bestial'', etc. (see ''brute''); vile, depraved, sensual.}}\n\n'''II.''' ''n.'' [< LL. ''bestiale'', cattle, neut. of L. ''bestialis:'' see above.] '''1.''' In ''Scots law'', the cattle on a farm taken collectively.—'''2†.''' A work on zoölogy.   ''Brewer.''\n\n'''bestiality''' (bes-tịal′i-ti), ''n.''   [< LL. ''bestialitas'', < ''bestialis:'' see ''bestial.'']   '''1.''' The qualities or nature of a beast; conduct or mental condition unworthy of human nature; beastliness.\n{{smaller block|What can be a greater absurdity than to affirm ''bestiality'' to be the essence of humanity, and darkness the centre of light?{{right|''Martinus Scriblerus.''}}}}\n'''2.''' Unnatural connection with a beast.\n\n'''bestialize''' (bes′tial-īz), ''v. t.''; pret. and pp. ''bestialized'', ppr. ''bestializing''.   [< ''bestial'', ''a.'', + ''-ize.'']   To make like a beast; bring or reduce to the state or condition of a beast. {{smaller block|The process of ''bestializing'' humanity. {{right|''Hare.''}}}}\n\n'''bestially''' (bes′tia̤l-i), ''adv.'' In a bestial manner; brutally; as a brute beast.\n\n'''bestian†''' (bes′tian), ''a.'' Of or belonging to the beast spoken of in the Apocalypse (Rev. xiii. xx.).\n\n'''bestianism†''' (bes′tian-izm), ''n.''   [< ''bestian'' + ''-ism.'']   The power of the beast. See ''bestian.''\n\n'''bestiarian''' (bes-ti-ā′ri-a̤n), ''n.''   [< L. ''bestia'', a beast, + ''-arian''; suggested by ''humanitarian.'']   One who is an advocate of the kind treatment of animals; specifically, in Great Britain, an antivivisectionist.\n\n'''bestiary''' (bes′ti-ā-ri), ''n.''   [< ML. ''bestiarium'', neut. of L. ''bestiarius'', pertaining to wild beasts (as a n., a beast-fighter), < ''bestia'', a wild beast.]   '''1†.''' A fighter with wild beasts in the ancient Roman amphitheater.—'''2.''' A name formerly sometimes given to a book treating of animals.\n{{smaller block|Mr. Watkins has, however, gone further back, and commences with Homer and Hesiod. His opening chapter, “A Homeric ''Bestiary'',” is one of the most characteristic and satisfactory portions of his work.\n{{right|''N. and Q.'', 6th ser., XI. 260.}}}}\n\n'''bestiate''' (bes′ti-āt), ''v. t.''; pret. and pp. ''bestiated'', ppr. ''bestiating.''   [< L. ''bestia'', a beast, + ''-ate''<sup>2</sup>.]   To make beastly; bestialize. [Rare.]\n{{smaller block|Drunkenness ''bestiates'' the heart.\n{{right|''R. Junius'', Sinne Stigmatized, p. 235.}}}}\n\n'''bestick''' (bē-stik′), ''v. t.''; pret. and pp. ''bestuck'', ppr. ''besticking.''   [< ''be-''<sup>1</sup> + ''stick''<sup>1</sup>.]   '''1.''' To stick on the surface of; cover over.—'''2.''' To pierce in various places; pierce through and through.\n{{smaller block|<poem>Truth shall retire,</poem> ''Bestuck'' with slanderous darts.\n{{right|''Milton'', P. L., xii. 536.}}}}\n\n{{smaller block|In these little visual interpretations [valentines] no emblem is so common as the heart, . . . the ''bestuck'' and bleeding heart. {{right|''Lamb'', Valentine’s Day.}}}}\n\n'''bestill''' (bē̤-stil′), ''v. t.''   [< ''be-''<sup>1</sup> + ''still''<sup>1</sup>.]   To make quiet or still.\n\n{{smaller block|Commerce ''bestilled'' her many-nationed tongue.\n{{right|''J. Cunningham'', Elegiac Ode.}}}}\n\n{{smaller block|[In the following passage uncertain:}}\n<poem>They, ''bestill’d''\nAlmost to jelly with the act of fear,\nStand dumb, and speak not to him.</poem>\n{{smaller block|{{right|''Shak.'', Hamlet, i. 2.}}}}\n{{smaller block|This is the reading of the folios; the quartos and modern editions read ''distilled''.]}}\n\n'''bestir''' (bē̤-stėr′), ''v. t.''; pret. and pp. ''bestirred'', ppr. ''bestirring''.   [< ME. ''bestyrien'', ''bestirien'', ''besterien'', bestir, < AS. ''bestyrian'', heap up, pile up, < ''be-'' + ''styrian'', stir: see ''be-''<sup>1</sup> and ''stir''.]   To put into brisk or vigorous action; reflexively, move with life and vigor: as, ''bestir yourself''.\n\n{{smaller block|You have . . . ''bestirred'' your valour.\n{{right|''Shak.'', Lear, ii. 2.}}}}\n\n<poem>Come on, clowns, forsake your dumps,\nAnd ''bestir'' your hobnailed stumps.</poem>\n{{smaller block|{{right|''B. Jonson'', The Satyr.}}}}\n\n{{smaller block|Rouse and ''bestir themselves'' ere well awake.\n{{right|''Milton'', P. L., i. 334.}}}}\n\n'''bestness''' (best′nes), ''n.''   [< ''best'' + ''-ness''.]   The quality of being best. [Rare.] {{smaller block|The ''bestness'' of a thing.\n{{right|''Bp. Morton'', Episcopacy Asserted, § 4.}}}}\n\n'''bestorm''' (bē-stôrm′), ''v. t.''   [< ''be-'' + ''storm''; not descended from AS. ''bestyrman'' = G. ''bestürmen'' = Sw. ''bestorma'' = Dan. ''bestorme'', attack with<noinclude><references/></noinclude>"
+}
